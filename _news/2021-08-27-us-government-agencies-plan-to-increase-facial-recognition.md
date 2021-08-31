@@ -128,15 +128,20 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "Federal Agencies Mostly Use Facial Recognition Tech for Digital Access"
-    excerpt: "The most popular uses for facial recognition technology (FRT) by federal agencies are cybersecurity and digital access, according to a new report by the United States Government Accountability Office. The GAO surveyed 24 agencies about their FRT activities ..."
-    publishedDateTime: 2021-08-26T20:35:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/how-feds-use-frt/"
+  - title: "Government agencies used Clearview facial recognition in 24 countries"
+    excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
+    publishedDateTime: 2021-08-31T11:03:00Z
+    webUrl: "https://www.computing.co.uk/news/4036424/government-agencies-clearview-facial-recognition-countries"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/957b3e5/1560dce2-db4e-469d-86cb-0b930d4c95fc/6/ClearviewAI-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "Up2ic6Fw48yrcc36lVGZodFkFtRxIJwmsSTW6NKstuQttZ0V1hrRhn7fjwyufKyVg6pHe/xOSuiZWnRcNRy1bOkQbnquVRAGqTRHZ/tZXuG/21cXvlZUWNsOY9GmG/D9vJ8MjyYCS7SMduiJNBEFk2gaPN3c0OG11bGW12tfo8qDV61QxTthNdkYsxpYItPNpr677Ne3vn+EcnKV7y/G+iOIJTDWNmDHt+48eDH87uirKbkFRahJX1W9r0zoFXznBQTMGBjwS8NWGc8pT6FsyiinPJVvLsYQmeW99AUMraXTDWCPSKqeXU+JNorxMKHuqwUhNLvr2rwdZnZmVFSUZWiB/ntzmZSv1cgWiaYbAFg55CFbqBhCS8lPOu770+Lp1j3yahXlwOyL+wazEYS992yCFzwPtcCVnk+o7UraNV8IkPGQTj1pALxnNS4+ayvGlcFkrdqIkWa3iOwfn4SvdE30XUxFwD6pVcgIZVKalgPiwhTX9ZMxHuu5Z+E6HX33APR/iJKOFgMmg6vl/ZDjRg==;Y0NncckyIk8QtOKcXSi8WQ=="
 ---

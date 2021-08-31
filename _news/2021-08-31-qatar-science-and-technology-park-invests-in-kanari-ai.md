@@ -3,11 +3,11 @@ category: news
 title: "Qatar Science and Technology Park invests in Kanari AI"
 excerpt: "Qatar Science and Technology Park (QSTP) has invested in US-based Kanari AI's $475,000 in pre-Seed funding round. Founded in"
 publishedDateTime: 2021-08-31T11:46:00Z
-originalUrl: "https://www.wamda.com/2021/08/qatar-science-technology-park-invests-kanari-ai"
-webUrl: "https://www.wamda.com/2021/08/qatar-science-technology-park-invests-kanari-ai"
+originalUrl: "https://www.wamda.com/en/2021/08/qatar-science-technology-park-invests-kanari-ai"
+webUrl: "https://www.wamda.com/en/2021/08/qatar-science-technology-park-invests-kanari-ai"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
 
 images:
   - url: "https://cdn.wamda.com/feature-images/27cad4178099b55.jpeg"
@@ -40,6 +39,6 @@ related:
         height: 491
         isCached: true
 
-secured: "ESMhyxvG4tJ5s074BUaldck/Wo4Vs46XfH6tcTSo4HDj97a1IgWTpETMDnLZFokO55MmV+Q5VsPXlBkrkujzGxaIkIcV7V0ikWo3REc9LRLdiM72YK47Dq7xxCdPtr7xMUb/cJG+9vCB/5VucP8iUGXeCyI8+E47DKFM+loAlWm/B4lR0f9/sm8euuiboH455slPzlWjGmOXHa5hXCc/Y3Muyd+kAhJW/+UX1qMu0ny3qymaLLaS0K3qWipb9rVzKhZ8xm4ZqhKC1ZEznlPQdYz7KZDEtji6oxR1J3bL3cmMdIF7cJb3nCK2e5T8IWrMh2mL34zi4gRVzFaIemZmKv7jDYo5DNUW3V+YbzCeeEc=;w5+Q9yeLu/H+IYcZc4Kktg=="
+secured: "r7Ve3BvcAgyI6zygmzVf1Cm8IcKsR3qB0bqy2tnWWW4e4ZtWxCW6CIYJ0SH38lbcEi4jVH3hSd4gWdC6Z2EV41oUah7uiyw+G7lSwusCGTQ/Keak6U7VU5GHICDsAVSMeR40cWqlG9I2dTcxRRWly3OJzryZH+d1A8E7kPAt5vL9fsG3B5yM26WihrVKE7/uQqqMU5zpRpr1jbix1Y96POkStNRFx9cjINh59ZjvFlolzSrJDj5CJfGG9OTD46NcF+aKmibqA3kB8jT2YLam34gzn8gwqjc7Eu8fhFvwilMWNbsDxnw5Rc9WISJzySimMVwb3gnwiohvRs0gsKXDioKhwEG9mv/dGwr2wzsVXp4=;vJE2c1taBYCKhNPWrIGqSA=="
 ---
 

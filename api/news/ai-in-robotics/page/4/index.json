@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-09-samsungs-new-robot-vacuum-uses-lidar-and-ai-to-avoid-obstacles-priced-at-rm4999.md",
+      "title": "Samsung’s new robot vacuum uses LiDAR and AI to avoid obstacles, priced at RM4,999",
+      "excerpt": "Samsung Malaysia just released its new robot vacuum, the Samsung Jet Bot AI+. It claims to be the first vacuum that uses AI and object recognition to navigate through your home. The Jet Bot AI+ uses a LiDAR sensor,",
+      "sourceUrl": null,
+      "webUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/",
+      "originalUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnen.soyacincau.com/2021/07/210729-Samsung-Jet-Bot-AI-vacuum-hero.jpg",
+          "width": 900,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/amp/",
+      "cdnAmpWebUrl": "https://soyacincau-com.cdn.ampproject.org/c/s/soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/amp/",
+      "publishedDateTime": "2021-08-08T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SoyaCincau",
+        "domain": "soyacincau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-is-robot-therapy-the-future.md",
       "title": "Is robot therapy the future?",
       "excerpt": "Seek help for a mental health issue today and you may find yourself referred to an online app or talking to a robot therapist. Is this welcome democratisation of an expensive resource – or the ‘Uberisation of therapy’?",
@@ -1270,49 +1314,6 @@
       "provider": {
         "name": "BGR",
         "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-underwater-crawling-soft-robot-stays-in-shape.md",
-      "title": "Underwater Crawling Soft Robot Stays In Shape",
-      "excerpt": "When you think of robots that were modeled after animals, a brittle star is probably not the first species that comes to mind. Still ... The robot’s control board is sending and receiving ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/04/23/underwater-crawling-soft-robot-stays-in-shape/",
-      "originalUrl": "https://hackaday.com/2020/04/23/underwater-crawling-soft-robot-stays-in-shape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/04/PATRICK.png",
-          "width": 792,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,429 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-31-researchers-offer-standards-for-studies-using-machine-learning.md",
+      "title": "Researchers offer standards for studies using machine learning",
+      "excerpt": "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce their results, according to a comment article published today in the journal Nature Methods.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-standards-machine.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-standards-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-standards-machine.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-standards-machine.amp",
+      "publishedDateTime": "2021-08-30T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-machine-learning-market-is-thriving-worldwide-ibm-microsoft-corporation-sap-se-intel.md",
+      "title": "Machine Learning Market is Thriving Worldwide : IBM, Microsoft Corporation, SAP SE, Intel",
+      "excerpt": "The global Machine Learning market is expected to grow at a CAGR of 36.6% during the forecast period. The global Machine Learning market is estimated to be about 2337.6 million US dollars in 2020. The global Machine Learning market is estimated to reach 8143.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft",
+      "originalUrl": "https://www.openpr.com/news/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U830621919_g.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft",
+      "publishedDateTime": "2021-08-30T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-ignore-the-ai-hype-focus-on-the-value.md",
+      "title": "Ignore the AI hype, focus on the value",
+      "excerpt": "Organizations need to focus on using AI to find solutions to real problems, not on acquiring the newest, shiniest tech.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/",
+      "originalUrl": "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/",
+      "publishedDateTime": "2021-08-30T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-zebra-technologies-plans-to-acquire-antuitai-quick-facts.md",
+      "title": "Zebra Technologies Plans To Acquire Antuit.ai - Quick Facts",
+      "excerpt": "Zebra Technologies (ZBRA) announced Monday that it intends to acquire antuit.ai, a provider of artificial intelligence (AI)-powered Software-as-a-Service (SaaS) solutions specific to forecasting and merchandising for the retail and CPG industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30",
+      "originalUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp",
+      "publishedDateTime": "2021-08-30T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-artificial-intelligence-answers-covid-questions.md",
+      "title": "Artificial intelligence answers COVID questions",
+      "excerpt": "A chatbot that is based on an artificial neural network that can carry out natural language processing (NLP) is being developed by researchers in India. The team describes how the chatbot can be programmed to answer questions related to the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg",
+          "width": 1920,
+          "height": 1497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp",
+      "publishedDateTime": "2021-08-30T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-10-things-in-tech-you-need-to-know-today.md",
+      "title": "10 things in tech you need to know today",
+      "excerpt": "Amazon entered the BNPL space, T-Mobile customers frustrated by security breach, and Google shuttered another app: 10 things in tech you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/612c0ecb12b9cc00196345f4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
+      "publishedDateTime": "2021-08-30T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-fintech-and-digital-banking-searches-have-been-on-the-rise.md",
+      "title": "Fintech and digital banking searches have been on the rise",
+      "excerpt": "Four popular fintech brands have seen a surge in Google searches as they’ve gained a foothold in the banking industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519",
+      "originalUrl": "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-392268/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-why-ai-is-relevant-to-conversational-marketing.md",
+      "title": "Why AI Is Relevant To Conversational Marketing",
+      "excerpt": "Marketers want to have one-on-one conversations with their customers to learn what they are looking for, and develop a stronger, long-term relationship with them",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/382318",
+      "originalUrl": "https://www.entrepreneur.com/article/382318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630303653-4530890.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/382318",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318",
+      "publishedDateTime": "2021-08-29T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity.md",
+      "title": "Can Artificial Intelligence Give Thoughtful Gifts? An Exploration Of The Possibilities And Limits Of AI’s Humanity",
+      "excerpt": "It is clear that with the massive amounts of behavioral data available to Google and other social media platforms, the impact on our shopping behavior begins with how we are marketed to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c521fc881ada8921adcb0%2F0x0.jpg",
+          "width": 825,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/",
+      "publishedDateTime": "2021-08-29T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet.md",
       "title": "The long-tail of AI problems requires hyper-customized solutions, not a silver-bullet",
       "excerpt": "Spending the last decade on AI research and implementation, my observation is that these challenges are inherently specific, differing drastically across companies — even when the AI application ...",
@@ -10,7 +433,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -676,7 +1099,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -768,465 +1191,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors.md",
-      "title": "15 Innovative AI Companies Driving Exponential Shifts In Their Respective Sectors",
-      "excerpt": "AI-built, AI-fueled, AI-powered, AI-informed: it is pervasive. In the hands of innovators, the disruption of AI of companies worldwide trends in a positive direction, and has the potential to change the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61294684ba5d5a47b5b0da5e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/amp/",
-      "publishedDateTime": "2021-08-27T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-meet-aria-the-first-new-zealand-english-accented-voice-for-amazon-polly-includes-limited-te-reo-maori-support.md",
-      "title": "Meet Aria, the first New Zealand English accented voice for Amazon Polly – includes limited te reo Māori support",
-      "excerpt": "We are excited to announce Aria, Amazon Polly’s first New Zealand English Neural text-to-speech (NTTS) voice. Similar to other Amazon Polly voices, Aria is developed as a voice that sounds bright, natural, and upbeat. This new voice for Aotearoa (New Zealand in Māori) is uniquely Kiwi. It includes a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/meet-aria-the-first-new-zealand-english-accented-voice-for-amazon-polly-includes-limited-te-reo-maori-support/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/meet-aria-the-first-new-zealand-english-accented-voice-for-amazon-polly-includes-limited-te-reo-maori-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-27T11:42:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-ai-weekly-algorithmic-discrimination-highlights-the-need-for-regulation.md",
-      "title": "AI Weekly: Algorithmic discrimination highlights the need for regulation",
-      "excerpt": "Companies are still misusing algorithms, leading to discrimination. It points to the need for more regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/27/ai-weekly-algorithmic-discrimination-highlights-the-need-for-regulation/",
-      "originalUrl": "https://venturebeat.com/2021/08/27/ai-weekly-algorithmic-discrimination-highlights-the-need-for-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/27/ai-weekly-algorithmic-discrimination-highlights-the-need-for-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/ai-weekly-algorithmic-discrimination-highlights-the-need-for-regulation/amp/",
-      "publishedDateTime": "2021-08-27T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-making-virtual-learning-real.md",
-      "title": "Making Virtual Learning Real",
-      "excerpt": "Universities have deployed virtual labs, educational digital twins and machine learning to innovate online education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/",
-      "originalUrl": "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128e5695e7579e33ef2390e%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/",
-      "publishedDateTime": "2021-08-27T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process.md",
-      "title": "Key Ways Artificial Intelligence Can Improve Recruiting In The Hiring Process",
-      "excerpt": "A number of companies have turned to AI to improve their recruiting—a task that once required hours of sorting through resumes, calling applicants and scheduling interviews to find the perfect candidate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128f2a81a40fb7e8b49f13e%2F0x0.jpg",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/",
-      "publishedDateTime": "2021-08-27T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-a-new-ai-technology-might-help-detect-gastric-cancer.md",
-      "title": "A New AI Technology Might Help Detect Gastric Cancer",
-      "excerpt": "Each year, one million patients around the globe are diagnosed with stomach cancer. Can a new cancer-detecting AI help save lives?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/",
-      "originalUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612914d1b76e70fd4b9d34e3%2F0x0.jpg",
-          "width": 1128,
-          "height": 752,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/",
-      "publishedDateTime": "2021-08-27T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-sensetime-artificial-intelligence-platform-founded-by-cuhk-professors-files-to-raise-at-least-us2-billion-in-hong-kong-ipo.md",
-      "title": "SenseTime, artificial intelligence platform founded by CUHK professors, files to raise at least US$2 billion in Hong Kong IPO",
-      "excerpt": "SenseTime Group , China’s largest artificial intelligence (AI) company, filed to go public in Hong Kong on Friday in one of the biggest technology offerings since Beijing cracked down on the country’s tech sector last month,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/28/df1bdd3e-04b5-11ec-a83e-ec0670db1017_image_hires_001515.jpg?itok=mC54EoqE&v=1630080929",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk",
-      "publishedDateTime": "2021-08-27T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open.md",
-      "title": "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open",
-      "excerpt": "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/27/b9ce487a-48ab-430b-9889-61dc0b4c6291/match-insights-example-2.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
-      "publishedDateTime": "2021-08-27T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-expanding-human-robot-collaboration-in-manufacturing-by-training-ai-to-detect-human-intention.md",
-      "title": "Expanding human-robot collaboration in manufacturing by training AI to detect human intention",
-      "excerpt": "Machines and robots undoubtedly make life easier. They carry out jobs with precision and speed, and, unlike humans, they do not require breaks as they are never tired.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/expanding-human-robot.jpg",
-          "width": 1249,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp",
-      "publishedDateTime": "2021-08-27T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

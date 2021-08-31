@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
 type: article
 quality: 61
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://qtxasset.com/fiercebiotech/1630336846/GettyImages-1293456793.jpg/GettyImages-1293456793.jpg?L0pfmlFZ8T.JmUAgoPx7LetGIDefZhUs"
         width: 3500
         height: 2333
+        isCached: true
+  - title: "Coronavirus Roundup: Questions on Vaccine and Testing Programs for Feds; COVID Oversight Committee Boosts Use of Analytics and AI"
+    excerpt: "Professional organizations that represent federal managers are worried that there are still some unresolved issues with the vaccination attestation and testing process for federal employees, Federal News Network reported on Wednesday."
+    publishedDateTime: 2021-08-27T15:30:00Z
+    webUrl: "https://www.govexec.com/management/2021/08/coronavirus-roundup-questions-feds-vaccine-and-testing-programs-covid-oversight-committee-boosts-use-analytics-and-ai/184907/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 8
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2021/08/27/082721vaccine/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "AuBnVp0ZXPEvwtoRIsXtM2wkgdOwLXlGZ7WGgl6JUjekXZgqmIFFmA4qF+rCL5hJT0HhCEqWLAMAkIlATI0vS90WWINaeUNPE2W0j6RvXdolJRE8U1UverdaPfp4ZdTARrzXiSQEN/8RCBLQSb/utIdrOPVZSG78oO/mdMeKZXd8kwgFI9jF63I74fO/tXeOnFjD0LRLW3jz/8n+F9lltyY5zOQq8OAS0Gatni9bKshAK0tXcRsDLLAd2D0CCKcXlGBVDPfoxHWrBK2eKk3QgsrV9ggoyJaStULxrOqE5OD7GhiUiTUlUij3oMGRD28YS6W6WlWiBH8K+M2QjSOeSumVRoKLR+RRDv2aK5ALYj8Bs2vEujaWJ/cd5r4gxDUuEuWIBu7+2/C8t0gdOi281yf8Pc9zrJpRJmpUiEbc3PoKkvItqZVI/wgPOTmQ0CXyOGuIX0hsZQBeNda81S0vRB0WbSKS6ib9kuAEpyNC8c0qIPHj7wws1XcgPNZszHn3+9u1D429Yfg+0MTaO9dPsA==;vUhCqa6CEr7Y0mMRRv76iw=="

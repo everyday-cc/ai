@@ -2,6 +2,685 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-08-07-facebooks-droidlet-ai-could-take-speech-recognition-to-a-whole-new-level.md",
+      "title": "Facebook’s ‘droidlet’ A.I. could take speech recognition to a whole new level",
+      "excerpt": "Today's natural language recognition systems -- like Siri and Alexa -- are still somewhat limited in what they can understand. Facebook thinks it can do better",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/",
+      "originalUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp",
+      "publishedDateTime": "2021-08-07T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-baidu-launches-its-apolong-ii-self-driving-minibus-in-china-for-its-apollo-go-ride-hailing-service.md",
+      "title": "Baidu Launches its Apolong II Self-Driving Minibus in China for its 'Apollo Go' Ride-Hailing Service",
+      "excerpt": "Baidu, which is often referred to as the \"Google of China\", has been working on self-driving technology since launching its open autonomous driving platform called \"Apollo\" in 2017. The tech giant aims to be the first company to scale and commercialize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-for-its-Apollo-Go-Ride-Hailing-Service",
+      "originalUrl": "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-for-its-Apollo-Go-Ride-Hailing-Service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202108/06/l_610d81ace139c.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-07T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-ai-wrote-better-phishing-emails-than-humans-in-a-recent-test.md",
+      "title": "AI Wrote Better Phishing Emails Than Humans in a Recent Test",
+      "excerpt": "This time, it's phishing emails. In a small study, researchers found that they could use the deep learning language model GPT-3, along with other AI-as-a-service platforms, to significantly lower the barrier to entry for crafting spearphishing campaigns at a massive scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "originalUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/610d82e6d901275be20b8455/master/pass/sec_email_GettyImages-1157081287.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-phishing-emails/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-phishing-emails/amp",
+      "publishedDateTime": "2021-08-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-global-ai-in-eye-scan-market-shows-enormous-growth-with-leading-players-deepmind-google-ibm.md",
+      "title": "Global AI in Eye Scan Market Shows Enormous Growth with Leading Players DeepMind, Google, IBM",
+      "excerpt": "A report was released recently that sheds lots of light on the AI in Eye Scan Industry. The report covers an overview of the Market along with a detailed explanation that provides a lot of insight. The report also analyzes the production as well as management technology in various end-user industries.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-ai-in-eye-scan-market-shows-enormous-growth-with-leading-players-deepmind-google-ibm/",
+      "originalUrl": "https://manometcurrent.com/global-ai-in-eye-scan-market-shows-enormous-growth-with-leading-players-deepmind-google-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-07T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-spatial-vision-in-humans-and-robots.md",
+      "title": "Spatial Vision in Humans and Robots",
+      "excerpt": "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/cz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "originalUrl": "https://www.cambridge.org/cz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-artificial-intelligence-in-retail-market.md",
+      "title": "Artificial Intelligence in Retail Market",
+      "excerpt": "Latest survey on Global Artificial Intelligence in Retail Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2349199/artificial-intelligence-in-retail-market-outlook-2021-big",
+      "originalUrl": "https://www.openpr.com/news/2349199/artificial-intelligence-in-retail-market-outlook-2021-big",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U807109915_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2349199/artificial-intelligence-in-retail-market-outlook-2021-big",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2349199/artificial-intelligence-in-retail-market-outlook-2021-big",
+      "publishedDateTime": "2021-08-06T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-azure-targets-innovation-over-domination.md",
+      "title": "Azure targets innovation over domination",
+      "excerpt": "Last December, the company launched Azure Machine Learning Services as well as an integration with Power BI, which brings ML to data analysts. According to Tzvi Keisar, senior program manager at ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/cloud/azure-targets-innovation-over-domination/",
+      "originalUrl": "https://sdtimes.com/cloud/azure-targets-innovation-over-domination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/08/Azure-1.jpg",
+          "width": 490,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-new-robotic-arm-promises-to-mind-newtons-third-law.md",
+      "title": "New robotic arm promises to mind Newton's third law",
+      "excerpt": "Don't you hate it how simply moving a robotic arm in a microgravity environment ... To do that, they've employed a device known as a control-moment gyroscope (or CMG) instead of a motor to control ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2008-08-07-new-robotic-arm-promises-to-mind-newtons-third-law.html",
+      "originalUrl": "https://www.engadget.com/2008-08-07-new-robotic-arm-promises-to-mind-newtons-third-law.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/guGy4Ecs4npzTVhZYQ0dog--~B/aD0zNDY7dz01MTg7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2008/08/space-robot-08-07-08.jpg",
+          "width": 518,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-a-new-profile-for-robot-systems.md",
+      "title": "A new profile for robot systems",
+      "excerpt": "he also wants to be able to control and program the complete robot systems of different manufacturers integrated in the production line in a uniform manner via the PLC programming system. With this in mind, PI now wants to define a uniform data interface ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.elektroniknet.de/international/a-new-profile-for-robot-systems.188750.html",
+      "originalUrl": "https://www.elektroniknet.de/international/a-new-profile-for-robot-systems.188750.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.weka-fachmedien.de/thumbs/media_uploads/images/1620123298-256-worucgouw.png.385x217.jpg",
+          "width": 385,
+          "height": 217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elektronik Net",
+        "domain": "elektroniknet.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou.md",
+      "title": "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou",
+      "excerpt": "The Apolong II minibus effectively mirrors the powerful autonomous driving capabilities of Baidu's Apollo Robotaxi by incorporating the latest self-developed autonomous driving computing unit and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-2021-08-06",
+      "originalUrl": "https://www.nasdaq.com/press-release/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-2021-08-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-pilot-on-the-ai-driven-financial-back-office.md",
+      "title": "Pilot on the AI-driven ‘financial back office’",
+      "excerpt": "Winner of the AI in Business Applications category, Pilot complements its financial expertise with supervised machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/startup-593344-e1628104244395.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
+      "publishedDateTime": "2021-08-06T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
+      "excerpt": "Artificial intelligence systems have become a critical ingredient in the tech sector's recipe for growth, with applications that help boost the capabilities of everything from search engines to autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/6c579929ba394e7a4b04230f9c838787.png",
+          "width": 720,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
+      "publishedDateTime": "2021-08-06T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-modelling-perception-with-artificial-neural-networks.md",
+      "title": "Modelling Perception with Artificial Neural Networks",
+      "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/do/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
+      "originalUrl": "https://www.cambridge.org/do/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-facial-recognition-market-business-intelligence-report-and-financial-insights.md",
+      "title": "Facial Recognition Market Business Intelligence Report and Financial Insights",
+      "excerpt": "The post-COVID 19 global Facial Recognition Market size is expected to grow from USD XX billion in 2020 to USD 8.5 billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-business-intelligence-report-and-financial-insights-2021-08-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-business-intelligence-report-and-financial-insights-2021-08-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-senpaigg-wants-to-be-your-ai-powered-video-game-coach.md",
+      "title": "SenpAI.GG wants to be your AI-powered video game coach",
+      "excerpt": "With most popular modern video games, there’s a huge gap between being a good player and a great one. A casual player might be able to hold their own against other casual players, only for a random pro to wander by and chew through everyone like they’re somehow playing with a different",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
+      "originalUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Valorant.jpg?w=1024",
+          "width": 1024,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
+      "publishedDateTime": "2021-08-06T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra.md",
       "title": "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra",
       "excerpt": "The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, and podcasts are increasingly produced in place of blog posts. The recent explosion",
@@ -473,703 +1152,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-bc-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software.md",
-      "title": "B.C. privacy watchdog investigating federal Liberals over facial recognition software",
-      "excerpt": "British Columbia’s privacy watchdog is launching an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation today following a complaint from the Canadian Civil Liberties Association.",
-      "sourceUrl": null,
-      "webUrl": "https://cfjctoday.com/2021/08/06/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/",
-      "originalUrl": "https://cfjctoday.com/2021/08/06/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/socast-superdesk/media/20210806160832/610d6427023d160899bbeca6jpeg.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CFJC Today Kamloops",
-        "domain": "cfjctoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-meet-the-ai-research-pioneer-who-wants-to-redefine-progress.md",
-      "title": "Meet the AI research pioneer who wants to redefine ‘progress’",
-      "excerpt": "Name any AI technology, and Dr. Nuria Oliver, of Telefonica and Vodafone, was likely working on it when it still felt like science fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/",
-      "originalUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/amp/",
-      "publishedDateTime": "2021-08-06T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars.md",
-      "title": "Famous Game Of Go Shines Spotlight On Novelty By Humans And By AI, Fortuitously For Self-Driving Cars",
-      "excerpt": "Using the famous game of Go, and a groundbreaking match entailing the novelty of AI, allows for great insights into self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821ed8ce958ffa98e965c4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D93%26cropY2%3D3543",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-06T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-artificial-intelligence-aids-in-discovery-of-new-prognostic-biomarkers-for-breast-cancer.md",
-      "title": "Artificial Intelligence aids in discovery of new prognostic biomarkers for breast cancer",
-      "excerpt": "Scientists at Case Western Reserve University have used Artificial Intelligence (AI) to identify new biomarkers for breast cancer that can predict whether the cancer will return after treatment—and which can be identified from routinely acquired tissue biopsy samples of early-stage breast cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-25.jpg",
-          "width": 371,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
-      "publishedDateTime": "2021-08-06T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area.md",
-      "title": "Nvidia has absolutely trounced AMD in this vital chip area",
-      "excerpt": "Despite the competition coming in droves, Nvidia has managed to maintain its leading position in the global market for Artificial Intelligence (AI) chips used in cloud and data centers. Nvidia has also managed to maintain a large gap between itself and the rest,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "originalUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/p8a2RidshtSAWMtQWPVTbe-1200-80.jpg",
-          "width": 970,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "publishedDateTime": "2021-08-06T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-wooask-3-in-1-offline-translation-bluetooth-earbuds.md",
-      "title": "Wooask: 3-in-1 Offline Translation & Bluetooth Earbuds",
-      "excerpt": "Language barriers exist because of who we are, what we do, and where we came from. With Wooask Translator Earbuds, you're always beyond the language barrier. Unlike E-dictionaries only translate ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-doubling-the-performance-of-visual-recognition-ai.md",
-      "title": "Doubling the performance of visual recognition AI",
-      "excerpt": "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg",
-          "width": 700,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp",
-      "publishedDateTime": "2021-08-06T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-remote-sales-startup-goodmeetingsai-raises-17-mn-funding.md",
-      "title": "Remote Sales Startup Goodmeetings.ai Raises $1.7 Mn Funding",
-      "excerpt": "The platform will use the proceeds over the next 12-18 months to build technology and scale up teams in the US",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379552",
-      "originalUrl": "https://www.entrepreneur.com/article/379552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628258630-visual-stories-micheile-lZ-4nPFKcV8-unsplash1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379552",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379552",
-      "publishedDateTime": "2021-08-06T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-schools-look-for-help-from-ai-teachers-assistants.md",
-      "title": "Schools Look for Help From AI Teacher’s Assistants",
-      "excerpt": "Researchers are developing artificial intelligence aimed at keeping students engaged and saving educators’ time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "originalUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-381086/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "publishedDateTime": "2021-08-06T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform.md",
-      "title": "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform",
-      "excerpt": "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content.md",
-      "title": "HelloWoofy unleashes an AI brain to help fill up your social channels with cool content",
-      "excerpt": "Sponsored Deals A service like HelloWoofy Social Media Management is a perfect balance in that equation, keeping a brand's social channels stocked with quality posts and real engagement without requiring hour after hour tending to those channels.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
-      "originalUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/sale_31494_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
-      "publishedDateTime": "2021-08-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-cango-auto-view-developing-auto-intelligence-amid-a-worldwide-industry-shift-toward-autonomous-driving.md",
-      "title": "CANGO Auto View: Developing Auto Intelligence Amid a Worldwide Industry Shift Toward Autonomous Driving",
-      "excerpt": "On May 8, 2012, the Nevada Department of Motor Vehicles issued the first ever self-driving car license to Google's self-driving car, which was a modified version of Toyota Prius hybrid.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210806cn67430/cango-auto-view-developing-auto-intelligence-amid-a-worldwide-industry-shift-toward-autonomous-driving",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210806cn67430/cango-auto-view-developing-auto-intelligence-amid-a-worldwide-industry-shift-toward-autonomous-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-all-symbols-in-tfx.md",
-      "title": "All symbols in TFX",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tfx/api_docs/python/tfx/v1/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/tfx/api_docs/python/tfx/v1/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-extended-tfx-logo-social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou.md",
-      "title": "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou",
-      "excerpt": "Guangzhou The Apolong II minibus effectively mirrors the powerful autonomous driving capabilities of Baidu's Apollo Robotaxi by incorporating the latest self-developed autonomous driving computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-301350119.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-301350119.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1589836/Baidu_showcases_Apolong_II_multi_purpose_autonomous_minibus.jpg?p=facebook",
-          "width": 1266,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-a-new-generation-of-ai-powered-robots-is-taking-over-warehouses.md",
-      "title": "A new generation of AI-powered robots is taking over warehouses",
-      "excerpt": "Within a few years, any task that previously required hands to perform could be partially or fully automated away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/",
-      "originalUrl": "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/01/robot-tile.gif?w=480",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/",
-      "publishedDateTime": "2021-08-06T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-01-core-spirit-research-review-how-robots-improve-cognitive-abilities-mental-health-of-the-elderly.md",
+      "title": "Core Spirit Research Review: How Robots Improve Cognitive Abilities & Mental Health of the Elderly",
+      "excerpt": "The main questions asked were whether the robot developed for brain training would be able to improve cognitive abilities ... their expertise through paid services, online and offline events ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/core-spirit-research-review-how-robots-improve-cognitive-abilities-mental-health-of-the-elderly",
+      "originalUrl": "https://www.digitaljournal.com/pr/core-spirit-research-review-how-robots-improve-cognitive-abilities-mental-health-of-the-elderly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/GGG-2-1-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale.md",
       "title": "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale",
       "excerpt": "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud.",
@@ -1336,59 +1379,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-simplify-machine-learning-with-azure-applied-ai-services.md",
-      "title": "Simplify machine learning with Azure Applied AI Services",
-      "excerpt": "We’ve seen some of this with the evolution from Project Adam to Azure Cognitive Services. Now Microsoft is taking the next step, using that foundation to deliver a set of machine learning models that provide assistance with common tasks: Azure Applied AI Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
-      "originalUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_binary_code_neural_network_thinkstock_636754212-100724428-large.jpg",
-          "width": 700,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
-      "publishedDateTime": "2021-06-23T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

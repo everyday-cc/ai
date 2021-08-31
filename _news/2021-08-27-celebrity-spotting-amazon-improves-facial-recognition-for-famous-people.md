@@ -47,20 +47,6 @@ related:
         width: 1645
         height: 785
         isCached: true
-  - title: "Enable scalable, highly accurate, and cost-effective video analytics with Axis Communications and Amazon Rekognition"
-    excerpt: "With the number of cameras and sensors deployed growing exponentially, companies across industries are consuming more video than ever before. Additionally, advancements in analytics have expanded potential use cases, and these devices are now used to improve business operations and intelligence. In turn,"
-    publishedDateTime: 2021-08-27T16:46:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-scalable-highly-accurate-and-cost-effective-video-analytics-with-axis-communications-and-amazon-rekognition/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/27/Axis-Diagram.png"
-        width: 1222
-        height: 531
-        isCached: true
   - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
     excerpt: "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ..."
     publishedDateTime: 2021-08-28T10:39:00Z
@@ -74,20 +60,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg"
         width: 770
         height: 578
-        isCached: true
-  - title: "Army Testing Facial Recognition in Child-Care Centers"
-    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
-    publishedDateTime: 2021-08-30T20:32:00Z
-    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 39
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "pMKlwyjMOD4P33kvMV9HlUVf9103f00qYIqaKdWMhBkC6KllhzNnMM5V65X3gaY+pGX209lc2Gj8a6MaRr+sP67MAewnY6GPTuQXP9TVDddcL8iZxfks4EyR1sBslW9/QlRt+OOBcleBY2VnRllalOvyoWSysUpzKf4yuY+UaeMCdRG4f0I+PBK6Aj0MtafKA5eUzW87nvL+MssiSgnuPsIxQoouziwTzRwBtWwA2AeoSXymFrb3lSRAaZGDU0B6JLiasnNOVgm+KByTATxb4TCgPurDQJS1cRCyNL2t8uHORcRdrq8ghZjonLbWUnLQ6OAgY4tdQX1+Ypu4pfBkLWug5ypwi2wI9Wm3RDt8g9U=;hOBOPkDnm3EDqQTpv+7V6w=="

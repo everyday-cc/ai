@@ -2,6 +2,702 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-08-05-plus-completes-driverless-level-4-semi-truck-highway-demonstration.md",
+      "title": "Plus Completes Driverless Level 4 Semi Truck Highway Demonstration",
+      "excerpt": "The driverless semi truck was operated using ... industry veterans who have extensive experience in high tech and artificial intelligence. Plus is developing low-cost, high-performance full ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210805005392/en/Plus-Completes-Driverless-Level-4-Semi-Truck-Highway-Demonstration",
+      "originalUrl": "https://www.businesswire.com/news/home/20210805005392/en/Plus-Completes-Driverless-Level-4-Semi-Truck-Highway-Demonstration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google.md",
+      "title": "Online Advertisement Market to Develop New Growth Story | Baidu, Facebook, Google",
+      "excerpt": "AMA Research recently released research coverage on Global Online Advertisement Market that evaluates and provides market size, trend, and estimation to 2026. The Online Advertisement market study provides ready-to-access and self-analyzed study with significant research data proves to be a useful document for managers,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/",
+      "originalUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/?amp=1",
+      "publishedDateTime": "2021-08-05T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-heyrenee-is-the-next-home-healthcare-startup-for-heal-founders.md",
+      "title": "HeyRenee is the next home healthcare startup for Heal founders",
+      "excerpt": "HeyRenee has raised $3.8 million for a personal healthcare concierge, which is the next home healthcare business from the founders of Heal.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/heyrenee-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
+      "publishedDateTime": "2021-08-05T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-google-pixel-6-to-sport-5nm-tensor-chips-made-by-samsung-report.md",
+      "title": "Google Pixel 6 to sport 5nm Tensor chips made by Samsung: Report",
+      "excerpt": "While Google is gearing up for the launch of its Pixel 6 series, a new report has revealed new information regarding the company’s new proprietary chipset. The upcoming Pixel 6 will sport the new Tensor chips that are based on a 5nm process produced by Samsung.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/",
+      "originalUrl": "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Google-Tensor.jpg",
+          "width": 453,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-indonesian-verification-platform-for-fintech-set-to-graduate-from-y-combinator.md",
+      "title": "Indonesian verification platform for fintech set to graduate from Y Combinator",
+      "excerpt": "Verihubs, which offers a similar service to US-based unicorn Plaid, counts Indonesia’s largest private bank among its clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782",
+      "originalUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-fintech-zeni-announces-34-mn-series-b-led-by-elevation-capital.md",
+      "title": "Fintech Zeni Announces $34 Mn Series B Led By Elevation Capital",
+      "excerpt": "The company will use the capital infusion to bring its intelligent bookkeeping and accounting platform and services to more customers by investing aggressively in its team in the US and India across product,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379426",
+      "originalUrl": "https://www.entrepreneur.com/article/379426",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628150390-jonas-leupe-0IVop5v4MMU-unsplash1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379426",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379426",
+      "publishedDateTime": "2021-08-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-dataiku-raises-400m-to-democratize-ai-in-the-enterprise.md",
+      "title": "Dataiku raises $400M to democratize AI in the enterprise",
+      "excerpt": "Founded in 2013, Dataiku is pitched as an end-to-end platform for designing, deploying, and managing AI and analytics applications, with data connectors for sources such as Amazon S3, Azure Blob ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/KITCHEN.00_02_05_30.Still009.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-08-05T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-spend-your-time-on-what-brings-value-to-your-company-and-leave-the-rest-to-the-ai.md",
+      "title": "Spend your time on what brings value to your company and leave the rest to the AI!",
+      "excerpt": "This is a maxim in the case of Microsoft, where for some time they not only enable it so that the organizations themselves make use of it in a simple way, as is the case of the Cognitive Services of Azure, but also incorporate it into their own solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://labs.sogeti.com/spend-your-time-on-what-brings-value-to-your-company-and-leave-the-rest-to-the-ai/",
+      "originalUrl": "https://labs.sogeti.com/spend-your-time-on-what-brings-value-to-your-company-and-leave-the-rest-to-the-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://labs.sogeti.com/wp-content/uploads/2021/07/AI.jpg",
+          "width": 646,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sogeti",
+        "domain": "sogeti.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-feds-arrest-george-washington-in-jan-6-case-using-phone-tracking-facial-recognition.md",
+      "title": "Feds Arrest ‘George Washington’ In Jan. 6 Case Using Phone Tracking, Facial Recognition",
+      "excerpt": "The FBI arrested Missouri's Isaac Yoder, who admitted to entering the U.S. Capitol during the deadly insurrection while wearing colonial attire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/feds-arrest-george-washington-jan-6-fbi-insurrection_n_610af372e4b0cc1278b71c02",
+      "originalUrl": "https://www.huffpost.com/entry/feds-arrest-george-washington-jan-6-fbi-insurrection_n_610af372e4b0cc1278b71c02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/610af9dd3b00007491ecdf6b.jpeg?ops=1778_1000",
+          "width": 1778,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-dataiku-gets-400m-at-a-46b-valuation-led-by-tiger-global.md",
+      "title": "Dataiku gets $400M at a $4.6B valuation, led by Tiger Global",
+      "excerpt": "Data science platform Dataiku announced today it has raised a $400 million Series E, bringing its valuation to $4.6 billion. The round was led by Tiger Global ... told TechCrunch at the time ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/05/dataiku-gets-400m-at-a-4-6b-valuation-led-by-tiger-global/",
+      "originalUrl": "https://techcrunch.com/2021/08/05/dataiku-gets-400m-at-a-4-6b-valuation-led-by-tiger-global/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1148114609.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/05/dataiku-gets-400m-at-a-4-6b-valuation-led-by-tiger-global/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/05/dataiku-gets-400m-at-a-4-6b-valuation-led-by-tiger-global/amp/",
+      "publishedDateTime": "2021-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-how-smart-are-ai-chips-really.md",
+      "title": "How Smart Are AI Chips, Really?",
+      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-key-metrics-for-monitoring-amazon-efs.md",
+      "title": "Key metrics for monitoring Amazon EFS",
+      "excerpt": "A file system must have an access point in order for Lambda functions to connect to it. Other clients—EC2 instances, ECS tasks, EKS pods, and SageMaker notebooks—can mount a file system without using an access point if the file system policy will allow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datadoghq.com/blog/amazon-efs-metrics/",
+      "originalUrl": "https://www.datadoghq.com/blog/amazon-efs-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.datadoghq.com/img/blog/amazon-efs-metrics/amazon_efs_longform_part-1.png?fit=crop&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datadog",
+        "domain": "datadoghq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-neural-network-detects-protein-peptide-binding-sites-to-kick-start-peptide-drug-discovery.md",
+      "title": "Neural network detects protein-peptide binding sites to kick-start peptide drug discovery",
+      "excerpt": "Two Skoltech researchers have presented a highly efficient neural network model that uses data on the structure of proteins to predict which of their parts interact with other biological molecules called peptides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/924544",
+      "originalUrl": "https://www.eurekalert.org/news-releases/924544",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a2ca0d1b-fda2-4b32-98d9-01fd8aa9a5b5/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-the-pentagon-is-using-ai-to-predict-events-days-into-the-future.md",
+      "title": "The Pentagon is using AI to predict events days into the future",
+      "excerpt": "Before we talk about the US military using big data and artificial intelligence to try to predict future events, we might as well address the elephant -- or rather the notoriously small-statured but undeniably charismatic actor -- in the room.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "originalUrl": "https://www.cnet.com/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/AS85k6X7nbbOhJOkXkV7N59q-aQ=/1200x630/2021/08/03/25f8c78a-6b58-49ba-a00d-5e92705e81ba/210713-f-zd999-001.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "publishedDateTime": "2021-08-04T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million.md",
+      "title": "Hootsuite Acquires Heyday, a Conversational AI Company, for $48 Million",
+      "excerpt": "The social-media marketing platform bought Heyday because companies have expanded their use of social media beyond marketing to include commerce and one-on-one messaging, Hootsuite’s CEO said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "originalUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-380494/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "publishedDateTime": "2021-08-04T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-ai-powered-finance-startup-zeni-notches-34m-series-b-funding.md",
       "title": "AI-Powered Finance Startup Zeni Notches $34M Series B Funding",
       "excerpt": "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth.",
@@ -477,723 +1173,6 @@
         "AI",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-ireland-joins-3m-european-ethical-ai-postgraduate-education-effort.md",
-      "title": "Ireland joins €3m European ethical AI postgraduate education effort",
-      "excerpt": "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techcentral.ie/jqa4h",
-      "originalUrl": "https://www.techcentral.ie/jqa4h",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-prevencio-announces-us-patent-issuance-for-novel-artificial-intelligence-driven-blood-test-for-cardiac-risk.md",
-      "title": "Prevencio Announces U.S. Patent Issuance for Novel, Artificial Intelligence-driven Blood Test for Cardiac Risk",
-      "excerpt": "Prevencio, Inc. today announces the United States Patent Office’s issuance of a patent for its highly accurate HART CVE blood test",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210804005430/en/Prevencio-Announces-U.S.-Patent-Issuance-for-Novel-Artificial-Intelligence-driven-Blood-Test-for-Cardiac-Risk",
-      "originalUrl": "https://www.businesswire.com/news/home/20210804005430/en/Prevencio-Announces-U.S.-Patent-Issuance-for-Novel-Artificial-Intelligence-driven-Blood-Test-for-Cardiac-Risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.md",
-      "title": "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day",
-      "excerpt": "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/25dojochips.jpeg",
-          "width": 872,
-          "height": 872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "publishedDateTime": "2021-08-04T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-developing-coherent-ai-infrastructure-for-smart-cities.md",
-      "title": "Developing Coherent AI Infrastructure For Smart Cities",
-      "excerpt": "Because of dense populations, and a concentration of equipment and machine based projects, AI’s ideal testing ground is a city.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610abd6c220ca29c9bd614e5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2796%26cropY1%3D149%26cropY2%3D1721",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/amp/",
-      "publishedDateTime": "2021-08-04T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-microsoft-details-ai-model-designed-to-improve-bing-search.md",
-      "title": "Microsoft details AI model designed to improve Bing search",
-      "excerpt": "Bing is now using an AI model designed to improve the the relevance of search results, according to Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/",
-      "publishedDateTime": "2021-08-04T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-an-in-progress-automl-survey-focusing-on-practical-systems.md",
-      "title": "An (in-progress) AutoML survey focusing on practical systems.",
-      "excerpt": "This project is a community effort in constructing and maintaining an up-to-date beginner-friendly introduction to AutoML, focusing on practical systems. AutoML is a big field, and continues to grow daily. Hence, we cannot hope to provide a comprehensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/autogoal/survey",
-      "originalUrl": "https://github.com/autogoal/survey",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/205910a7cce0d8f512ed3c9b412872a2d968288b6d7ec3c33ff9e405fcd94af4/autogoal/survey",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-idc-ai-spending-will-reach-342b-in-2021.md",
-      "title": "IDC: AI spending will reach $342B in 2021",
-      "excerpt": "In a new report, IDC reports that companies will spend $342 billion on AI software, hardware, and services in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/data-science-mitchell.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/",
-      "publishedDateTime": "2021-08-04T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-abacusai-brings-machine-learning-into-the-hands-of-every-company.md",
-      "title": "Abacus.AI Brings Machine Learning Into the Hands of Every Company",
-      "excerpt": "Abacus.AI was founded by Google, Amazon and Uber Alumnus with vast experience in building machine learning solutions at these companies, with a mission to put cutting edge machine learning into the hands of every company and help them extract meaningful insights from their data.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/tech/abacus-ai/",
-      "originalUrl": "https://techround.co.uk/tech/abacus-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2021/08/abacus-ai.png",
-          "width": 3200,
-          "height": 1673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/tech/abacus-ai/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/abacus-ai/amp/",
-      "publishedDateTime": "2021-08-04T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red.md",
-      "title": "Word To The Wise: Do Not Try Asking An AI Self-Driving Car To Park In The Red",
-      "excerpt": "If a passenger inside a self-driving car asks to be dropped off at a red curb, should the AI perform this potentially illegal act?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6108c783af8a8c472c810b03%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2166%26cropY1%3D562%26cropY2%3D2896",
-          "width": 1200,
-          "height": 1293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
-      "publishedDateTime": "2021-08-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-air-t-edge-series-rugged-software-define-radios-with-a-gpu.md",
-      "title": "AIR-T Edge Series-Rugged Software Define Radios with a GPU",
-      "excerpt": "The AIR8201 incorporates the proven technology of Artificial Intelligence Radio Transceiver (AIR-T) product line: an NVIDIA Jetson TX2i industrial-grade embedded GPU processor, an industrial grade Xilinx FPGA,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1587736/Deepwave_Digital_edge_series_announcement.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-sensorium-demos-ai-driven-avatars-as-latest-virtual-beings.md",
-      "title": "Sensorium demos AI-driven avatars as latest virtual beings",
-      "excerpt": "All the sessions from Transform 2021 are available on-demand now. Watch now. Sensorium Galaxy is an upcoming virtual world that will blend human and AI characters so that humans can have unscripted conversations with virtual beings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/sensorium.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
-      "publishedDateTime": "2021-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-intels-ai-degree-program-expands-to-18-additional-community-colleges-in-11-states.md",
-      "title": "Intel's AI degree program expands to 18 additional community colleges in 11 states",
-      "excerpt": "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html",
-      "originalUrl": "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/799696a0-f3be-11eb-8ffb-43a39e47ee85",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-can-an-ai-be-an-inventor-new-legal-judgments-say-yes.md",
-      "title": "Can An AI Be An Inventor? New Legal Judgments Say Yes.",
-      "excerpt": "Two landmark cases in the ongoing legal battle to establish an artificial intelligence system as an inventor came down in favor of the team trying to make this possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
-      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610aa3b553adde69aa700bd3%2F0x0.jpg",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
-      "publishedDateTime": "2021-08-04T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-load-external-tfrecord-with-tfds.md",
-      "title": "Load external tfrecord with TFDS",
-      "excerpt": "For TFDS to be able to decode the tf.train.Example proto, you need to provide the tfds.features sturcture matching your specs. For example: features = tfds.features.FeaturesDict({ 'image': tfds.features.Image(shape=(256, 256, 3)), 'label': tfds.features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=sk",
-      "originalUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=sk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sk",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-fintech-stampli-launches-new-partner-program-for-ap-automation.md",
-      "title": "Fintech Stampli Launches New Partner Program for AP Automation",
-      "excerpt": "Stampli, a leader in AI-driven Accounts Payable (AP) automation, is introducing a new partner program for accounting firms, bookkeeping services, resellers, consultants, and ERP providers to expand their offerings with Stampli’s award-winning AP automation and payments software.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-6ce6650633234769a031d84c4b32890c",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-6ce6650633234769a031d84c4b32890c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

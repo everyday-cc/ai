@@ -2,6 +2,588 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-25-speech-to-text-software-free-vs-paid-apps-whats-the-difference.md",
+      "title": "Speech to text software: free vs paid apps - what's the difference?",
+      "excerpt": "Looking for the best speech to text software? The best place to start your search is by deciding whether you’re willing to pay for an app or not. There are plenty of free options on the market for anyone looking for a one-off voice to text task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference/",
+      "originalUrl": "https://www.techradar.com/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/thNbgEHPbMCLXu5jDXUXJL-1200-80.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference",
+      "publishedDateTime": "2021-08-25T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-valued-to-be-93-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth-worldwide.md",
+      "title": "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide",
+      "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg",
+          "width": 400,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22659416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416",
+      "publishedDateTime": "2021-08-25T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-ai-training-growing-pains-at-facebook.md",
+      "title": "AI Training Growing Pains at Facebook",
+      "excerpt": "Facebook has to keep digging into ever-lower levels of its architecture to efficiently make use of endlessly growing training data. This has meant",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/",
+      "originalUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_datacenter-racks-woman.jpg",
+          "width": 544,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/",
+      "publishedDateTime": "2021-08-25T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution.md",
+      "title": "Aura Now Offering Digital Security Platform To Businesses As An Employee-First Solution",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead talks about Aura as a digital security offering as an employee-first solution for small and large businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/25/aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/25/aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61265fbe125c0b34f6ae514e%2F0x0.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/25/aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/25/aura-now-offering-digital-security-platform-to-businesses-as-an-employee-first-solution/amp/",
+      "publishedDateTime": "2021-08-25T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-clearview-ai-offered-free-facial-recognition-trials-to-police-all-around-the-world.md",
+      "title": "Clearview AI Offered Free Facial Recognition Trials To Police All Around The World",
+      "excerpt": "As of February 2020, 88 law enforcement and government-affiliated agencies in 24 countries outside the United States have tried to use controversial facial recognition technology Clearview AI, according to a BuzzFeed News investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-international-search-table",
+      "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/clearview-ai-international-search-table",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-07/30/15/enhanced/81bd535b1926/anigif_longform-original-4168-1627660303-22.gif?crop=799:548;0,0",
+          "width": 799,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/clearview-ai-international-search-table",
+      "publishedDateTime": "2021-08-25T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-involveai-boosts-ai-driven-customer-data-platform-with-16m.md",
+      "title": "Involve.ai boosts AI-driven customer data platform with $16M",
+      "excerpt": "Involve.ai, a startup using AI to bolster customer success, announced that it raised $16 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/",
+      "originalUrl": "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/involve-ai-boosts-ai-driven-customer-data-platform-with-16m/amp/",
+      "publishedDateTime": "2021-08-25T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-waymo-expands-self-driving-operations-what-it-means-for-tesla.md",
+      "title": "Waymo Expands Self-Driving Operations. What It Means for Tesla.",
+      "excerpt": "Truly self-driving cars are on American roads. And they don’t come from Tesla. Consumers—and investors—just need to know where to look. Waymo, Alphabet’s (ticker: GOOG) venture into self-driving cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722",
+      "originalUrl": "https://www.barrons.com/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-391008/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722",
+      "publishedDateTime": "2021-08-25T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market.md",
+      "title": "Xiaomi to acquire self-driving startup Deepmotion to enter EV market",
+      "excerpt": "Co-founder and Chief Executive Officer Lei Jun is now spearheading a drive to take Xiaomi beyond smartphones, personally leading a project to make electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/08/Xiaomi-logo.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/",
+      "publishedDateTime": "2021-08-25T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-hybrid-ai-is-the-future-of-industrial-analytics.md",
+      "title": "Hybrid AI Is The Future Of Industrial Analytics",
+      "excerpt": "Industrial DataOps is the starting point to solving one of the key challenges of industrial digitalization: enabling hybrid AI solutions at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612561eaa3ca9a4aee49f148%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/",
+      "publishedDateTime": "2021-08-25T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-ark-invests-cathie-wood-has-high-hopes-for-chinese-stocks-in-the-long-run-and-says-her-funds-analysts-were-blown-away-by-teslas-ai-day.md",
+      "title": "Ark Invest's Cathie Wood has high hopes for Chinese stocks in the long run - and says her fund's analysts were blown away by Tesla's AI day",
+      "excerpt": "I'm not pessimistic about China longer run because I think they're a very entrepreneurial society,' the star stock-picker said.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-ark-invest-china-stocks-tesla-ai-day-robot-2021-8",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-ark-invest-china-stocks-tesla-ai-day-robot-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610d6a2738aff70018904688?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cathie-wood-ark-invest-china-stocks-tesla-ai-day-robot-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cathie-wood-ark-invest-china-stocks-tesla-ai-day-robot-2021-8?amp",
+      "publishedDateTime": "2021-08-25T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-rightway-introduces-artificial-intelligence-to-improve-care-navigation-for-persons-with-chronic-conditions.md",
+      "title": "Rightway Introduces Artificial Intelligence to Improve Care Navigation for Persons with Chronic Conditions",
+      "excerpt": "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify “rising-risk” and “high-risk” members.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-health-artificial-intelligence-4c0e8ae31d87307aade6709bbdbe3a1f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-health-artificial-intelligence-4c0e8ae31d87307aade6709bbdbe3a1f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain.md",
+      "title": "The world’s largest chip is creating AI networks larger than the human brain",
+      "excerpt": "Cerebras Systems, maker of the world’s largest chip, has lifted the lid on new architecture capable of supporting AI models that outscale the human brain. The current largest AI models (such as Switch Transformer from Google) are built on circa 1 trillion parameters,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
+      "originalUrl": "https://www.techradar.com/in/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7GP79ZaR9WEwx5QnSBo5Eh-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
+      "publishedDateTime": "2021-08-25T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-bodoai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data.md",
       "title": "Bodo.ai secures $14M, aims to make Python better at handling large-scale data",
       "excerpt": "Bodo.ai, a parallel compute platform for data workloads, is developing a compiler to make Python portable and efficient across multiple hardware platforms.",
@@ -639,609 +1221,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse.md",
-      "title": "Alethea AI raises $16M in private token sale for intelligent NFTs for the metaverse",
-      "excerpt": "Alethea AI, creator of the \"intelligent NFTs,\" or iNFTs, has raised $16 million in a private token sale to a group of investors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
-      "originalUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/alice.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
-      "publishedDateTime": "2021-08-24T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data.md",
-      "title": "How small and mid-size ecommerce retailers can take advantage of AI — without tech giant-level data",
-      "excerpt": "\"90% of consumers say they expect online shopping to be equal to or better than in-store, but half are experiencing crushing disappointment.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/",
-      "originalUrl": "https://venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/colleagues-collaborating.GettyImages-1028772240.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/amp/",
-      "publishedDateTime": "2021-08-24T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-watch-san-franciscans-take-a-ride-in-waymos-self-driving-car.md",
-      "title": "Watch San Franciscans take a ride in Waymo’s self-driving car",
-      "excerpt": "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
-      "originalUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dsc_0570.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
-      "publishedDateTime": "2021-08-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-artificial-intelligence-ai-chips-market-may-set-new-growth-story-qualcomm-mythic-amd.md",
-      "title": "Artificial Intelligence (Ai) Chips Market May Set New Growth Story | Qualcomm, Mythic, AMD",
-      "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence Ai Chips Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development landscape",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "originalUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U825941161_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "publishedDateTime": "2021-08-24T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks.md",
-      "title": "Cerebras prepares for the era of 120 trillion-parameter neural networks",
-      "excerpt": "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/24/a9840569-346e-4256-83d9-a981a1f2c01d/hc2021-cerebras-embargoed-8-24-slide-10.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
-      "publishedDateTime": "2021-08-24T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-samsung-unveils-advanced-ai-memory-chips.md",
-      "title": "Samsung unveils advanced AI memory chips",
-      "excerpt": "as the chip titan has unveiled new memory chips featuring artificial intelligence (AI) technology, the company said Tuesday. The company unveiled and introduced how the new products are used at Hot Chips, an annual semiconductor industry conference for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?tw",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?tw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202108/1c42dfb5b5aa4a22942002c3dad99aa1.jpg",
-          "width": 980,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
-      "publishedDateTime": "2021-08-24T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-hot-chips-concludes-an-amazing-lineup-of-ai-chip-companies.md",
-      "title": "Hot Chips Concludes An Amazing Lineup of AI Chip Companies.",
-      "excerpt": "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg",
-          "width": 800,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
-      "publishedDateTime": "2021-08-24T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-ai-palette-raises-44m-to-help-companies-react-faster-to-consumer-trends.md",
-      "title": "Ai Palette raises $4.4M to help companies react faster to consumer trends",
-      "excerpt": "Developing new packaged foods and consumer goods can take a couple years as companies research, prototype and test products. In a society that runs on social media, however, people expect to see trends land on store shelves much more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/",
-      "originalUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/aipalette_foresightengine.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/amp/",
-      "publishedDateTime": "2021-08-24T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-digital-locker-app-movies-anywhere-adds-ai-powered-lists-to-organize-your-library.md",
-      "title": "Digital locker app Movies Anywhere adds AI-powered lists to organize your library",
-      "excerpt": "Movies Anywhere, an app that allows you to centralize your digital movie collection from across services, is rolling out a new feature that will help you make better sense of your growing library. The company today introduced an AI-powered feature called “My Lists,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/24/digital-locker-app-movies-anywhere-adds-a-i-powered-lists-to-organize-your-library/",
-      "originalUrl": "https://techcrunch.com/2021/08/24/digital-locker-app-movies-anywhere-adds-a-i-powered-lists-to-organize-your-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/movies-anywhere-my-lists.jpg?w=680",
-          "width": 680,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/24/digital-locker-app-movies-anywhere-adds-a-i-powered-lists-to-organize-your-library/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/digital-locker-app-movies-anywhere-adds-a-i-powered-lists-to-organize-your-library/amp/",
-      "publishedDateTime": "2021-08-24T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-can-robots-evolve-into-machines-of-loving-grace.md",
-      "title": "Can Robots Evolve Into Machines of Loving Grace?",
-      "excerpt": "Brautigan’s poem had been on my mind for some time before the robots arrived ... and enabled it to saccade from one place to another. Like the insect robots, Cog lacked central control and was instead programmed with a series of basic drives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
-      "originalUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6124188e1dbee11ab8eb98cb/master/pass/(Final)%20WIRED_Cybernetic%20Meadow.jpg",
-          "width": 4950,
-          "height": 3350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
-      "publishedDateTime": "2021-08-24T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-intel-arc-gpu-drivers-will-include-built-in-overclocking-tools.md",
-      "title": "Intel Arc GPU drivers will include built-in overclocking tools",
-      "excerpt": "Intel plans to release gaming-oriented Xe HPG \"Alchemist\" GPUs in Q1 2022. The Intel Arc brand was announced this month with upcoming GPUs that will span",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
-      "originalUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-24-image-26.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
-      "publishedDateTime": "2021-08-24T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-google-nest-doorbell-review-catching-up-to-the-competition.md",
-      "title": "Google Nest Doorbell review: Catching up to the competition",
-      "excerpt": "Our Google Nest Doorbell review will tell you why this fine smart doorbell is more about catching up to competitors than anything else.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-nest-doorbell-review-2738855/",
-      "originalUrl": "https://www.androidauthority.com/google-nest-doorbell-review-2738855/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/08/Google-Nest-Doorbell-Review-Hero-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/google-nest-doorbell-review-2738855/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-nest-doorbell-review-2738855/",
-      "publishedDateTime": "2021-08-24T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

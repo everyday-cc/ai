@@ -30,49 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Recognize celebrities in images and videos using Amazon Rekognition"
-    excerpt: "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it"
-    publishedDateTime: 2021-08-26T22:13:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/"
+  - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
+    excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
+    publishedDateTime: 2021-08-27T17:25:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
+      name: Nextgov
+      domain: nextgov.com
+    quality: 131
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg"
-        width: 1645
-        height: 785
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
-    excerpt: "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities."
-    publishedDateTime: 2021-08-27T03:51:00Z
-    webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+  - title: "Playing catch-up to the early adopters of analytics, AI and machine learning"
+    excerpt: "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
+    publishedDateTime: 2021-08-30T13:00:00Z
+    webUrl: "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 92
+      name: IOL News
+      domain: iol.co.za
+    quality: 71
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg"
-        width: 1054
-        height: 600
-        isCached: true
-  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
-    excerpt: "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ..."
-    publishedDateTime: 2021-08-28T10:39:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 72
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg"
-        width: 770
-        height: 578
+      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e"
+        width: 410
+        height: 230
         isCached: true
   - title: "Army Testing Facial Recognition in Child-Care Centers"
     excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
@@ -88,6 +74,52 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
+    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
+    publishedDateTime: 2021-08-30T08:22:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 24
+  - title: "MiaRec Announces Release of Integrated Voice Analytics"
+    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution."
+    publishedDateTime: 2021-08-30T19:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miarec-announces-release-of-integrated-voice-analytics/article_7f8a4658-e7f8-5346-bd9b-4e549dee94dc.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/91/29119288-540e-516e-84a0-432a491bb592/612d2b1381566.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Independent survey highlights need for advanced analytics and machine learning to accelerate investigations"
+    excerpt: "OpenText™ (NASDAQ: OTEX), (TSX: OTEX), today announced findings from a recent independent survey from Compliance Week, sponsored by OpenText. The results show the importance of both advanced technology and dedicated teams that can quickly deliver data insights to reduce time and cost and result in better outcomes."
+    publishedDateTime: 2021-08-31T13:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-independent-survey-highlights-need-advanced-analytics-machine-learning-/2021/08/31/9440063.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
+    excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
+    publishedDateTime: 2021-08-31T00:53:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210830005567/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "DG7WIU+P/TgpVimL1fXR3AaM28W/g704ORJhpBPH7oYWyy/Yy1YOLp83ZpVC4GHByj+dZU1Lye87hUy3h08E2+K3js0nDX7YS7sTDplzTRasjdSvD3NjLOm0KlwKtmiDvnhU6Z7YWGtNWH9zOscgP+U/qm0thBrLyvE0rHddnzxi5INR046MSIt28D64tz4VQRrZXLdacwEXrqpaBsxizvq3bHEQ0qJEuaLAyHrSB/hZDIjgke0v/aAPk52BbuKCMXphnd32OZMVPiFDG/taHrLlUTZZmBBWk9RRbBGs6Yq5nkYWdzWgXzVC8WV+86LExtFZZqHqsl81cDjnVRcKE9Cll7Jw+1JU+sfMIoEHSig=;QLnEw/dFQPaou2xV6NtJvg=="
 ---

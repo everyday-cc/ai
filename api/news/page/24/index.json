@@ -2,6 +2,625 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-08-12-you-told-us-you-arent-too-enthusiastic-about-your-phones-ai-camera-modes.md",
+      "title": "You told us: You aren't too enthusiastic about your phone's AI camera modes",
+      "excerpt": "Most Android Authority readers and followers are not very enthusiastic about AI modes on their phone's camera.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/",
+      "originalUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Honor-9X-AI-camera.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/",
+      "publishedDateTime": "2021-08-12T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-update-3-baidu-quarterly-results-top-estimates-on-ad-sales-ai-demand.md",
+      "title": "UPDATE 3-Baidu quarterly results top estimates on ad sales, AI demand",
+      "excerpt": "Baidu Inc's quarterly results topped Wall Street estimates on Thursday, as the Chinese search giant benefited from a rebound in advertising sales and higher demand for its artificial intelligence and cloud products.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.yahoo.com/news/1-baidu-revenue-tops-estimates-100443815.html",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/update-3-baidu-quarterly-results-top-estimates-on-ad-sales-ai-demand/ar-AANeGX4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://finance.yahoo.com/amphtml/news/1-baidu-revenue-tops-estimates-100443815.html",
+      "cdnAmpWebUrl": "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/1-baidu-revenue-tops-estimates-100443815.html",
+      "publishedDateTime": "2021-08-12T03:04:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/news/1-baidu-revenue-tops-estimates-100443815.html",
+        "domain": "com/news/1-baidu-revenue-tops-estimates-100443815.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-scaler-academy-launches-new-course-in-data-science-and-machine-learning.md",
+      "title": "Scaler Academy launches new course in data science and machine learning",
+      "excerpt": "The company said that the program had been designed based on a survey conducted by the company with around 100 data scientists working in leading tech and product firms worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1756969,msid-85267628/edtech.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms",
+      "publishedDateTime": "2021-08-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-robotics-automation-to-increase-global-economy-by-16trn.md",
+      "title": "Robotics, Automation To Increase Global Economy By $16trn",
+      "excerpt": "Experts have projected that artificial intelligence (AI) will contribute $16 trillion to global economy in 2030, adding that the current advancement in",
+      "sourceUrl": null,
+      "webUrl": "https://leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/",
+      "originalUrl": "https://leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://leadership.ng/wp-content/uploads/2019/04/artificial-intelligence.jpeg",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/amp/",
+      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/amp/",
+      "publishedDateTime": "2021-08-12T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LEADERSHIP Newspaper",
+        "domain": "leadership.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-autonomous-vehicle-safety-increased-by-use-of-multiple-sensors-in-an-aggregate-technology.md",
+      "title": "Autonomous vehicle safety increased by use of multiple sensors in an aggregate technology",
+      "excerpt": "Sensor fusion technology is one example of such an approach that combines multiple dedicated sensors to form a single, more precise image of a vehicle’s exterior environment. Think of it in human terms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorward.com/2021/08/autonomous-vehicle-safety-increased-by-use-of-multiple-sensors-in-an-aggregate-technology/",
+      "originalUrl": "https://www.motorward.com/2021/08/autonomous-vehicle-safety-increased-by-use-of-multiple-sensors-in-an-aggregate-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motorward.com/wp-content/images/2021/08/Sensor-Fusion-730x416.jpg",
+          "width": 730,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motorward",
+        "domain": "motorward.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-global-statistical-natural-language-processing-market-estimated-to-grow-with-cagr-of-181-eon-market-research.md",
+      "title": "Global Statistical Natural Language Processing Market Estimated to Grow with CAGR of 18.1% – Eon Market Research",
+      "excerpt": "Aug 12, 2021 (Market Insight Reports) -- The new research report providing an intensive analysis of the Global Statistical Natural Language Processing Market which peaks the market size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-statistical-natural-language-processing-market-estimated-to-grow-with-cagr-of-181-eon-market-research-2021-08-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-statistical-natural-language-processing-market-estimated-to-grow-with-cagr-of-181-eon-market-research-2021-08-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-spell-introduces-mlops-for-deep-learning.md",
+      "title": "Spell introduces MLOps for deep learning",
+      "excerpt": "Deep learning model development and management drives special requirements, especially around the provisioning of hardware. Spell introduced a machine learning operations (MLOps) platform last week that caters to these very needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
+      "originalUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
+      "publishedDateTime": "2021-08-11T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-edcast-announces-new-myguide-features-using-ibm-cloud-and-watson-technologies-to-power-its-intelligent-digital-adoption-solution.md",
+      "title": "EdCast Announces New MyGuide Features Using IBM Cloud and Watson Technologies to Power its Intelligent Digital Adoption Solution",
+      "excerpt": "EdCast announced today that its digital adoption platform, MyGuide by EdCast, has now launched new self-serve support features utilizing the advanced AI capabilities of IBM Watson to bring future-ready conversational capabilities to enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-47006ff626874312951cad137b0df094",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-47006ff626874312951cad137b0df094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-ai-pharma-startup-xtalpi-nets-usd-400-million-in-series-d-round-to-accelerate-drug-discovery.md",
+      "title": "AI pharma startup XtalPi nets USD 400 million in Series D round to accelerate drug discovery",
+      "excerpt": "AI pharma startup XtalPi nets USD 400 million in Series D round to accelerate drug discovery. It provides AI to pharma companies to enhance new drug R&D.",
+      "sourceUrl": null,
+      "webUrl": "https://kr-asia.com/ai-pharma-startup-xtalpi-nets-usd-400-million-in-series-d-round-to-accelerate-drug-discovery",
+      "originalUrl": "https://kr-asia.com/ai-pharma-startup-xtalpi-nets-usd-400-million-in-series-d-round-to-accelerate-drug-discovery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://console.kr-asia.com/wp-content/uploads/2020/08/freestocks-nss2eRzQwgw-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kr-asia",
+        "domain": "kr-asia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-chinas-tech-crackdown-thwarts-ponyais-us-listing-plans-insiders-say.md",
+      "title": "China’s tech crackdown thwarts Pony.ai’s US listing plans, insiders say",
+      "excerpt": "The autonomous driving start-up’s hold on going public follows Beijing’s move to ban ride-sharing giant Didi from signing up new users soon after its IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing",
+      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/12/8875ae8e-fadc-11eb-aa37-9736ba6f9b4b_image_hires_035937.jpg?itok=iEFkWb3Y&v=1628711988",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing",
+      "publishedDateTime": "2021-08-11T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-stashfin-is-improving-fraud-detection-in-india-with-machine-learning-and-ai.md",
+      "title": "StashFin is improving fraud detection in India with machine learning and AI",
+      "excerpt": "Fraud detection is something the financial services industry can't afford to take lightly. From retail to consumer banking, to fintech and insurance",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
+      "originalUrl": "https://techwireasia.com/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/08/Parikshit-Chitalkar-Co-founderStashfin-259x300.jpg",
+          "width": 259,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
+      "publishedDateTime": "2021-08-11T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-microsoft-cognitive-services-on-embarcadero-delphi.md",
+      "title": "Microsoft Cognitive Services on Embarcadero DELPHI",
+      "excerpt": "This is free and open source library (wrapper - interface/class/types) for communicate with Microsoft Cognitive services Face API 1.0. New! Available async functions ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/KohrAhr/MicrosoftCognitiveServices",
+      "originalUrl": "https://github.com/KohrAhr/MicrosoftCognitiveServices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/12d7fe01be631bdcc577b979b01e3f059826423326cb78fd1a107e2c49ce6d8a/KohrAhr/MicrosoftCognitiveServices",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-amazon-rekognition-custom-brand-detection.md",
+      "title": "Amazon Rekognition Custom Brand Detection",
+      "excerpt": "When the labelers complete the labeling job, the solution uses the annotations from the labelers to prepare and train a custom label model using Amazon Rekognition Custom Labels service and deploys the model once the training completes. When the model is ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
+      "originalUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/e28091c2f1b5d65ce18c3a75b7f39a2e547efdeac7635e00e02bf5afa8433e86/aws-samples/amazon-rekognition-custom-brand-detection",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-reliance-ties-up-with-microsoft-azure-to-bring-free-cloud-services-for-smes-startups.md",
+      "title": "Reliance Ties Up With Microsoft Azure To Bring Free Cloud Services For SMEs, Startups",
+      "excerpt": "These companies will also get easy and affordable access to advanced technologies such as data analytics, AI, cognitive services, blockchain, IoT and edge computing. For Microsoft, having the ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/",
+      "originalUrl": "https://inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/reliance-microsoft-azure-to-offer-free-cloud-services-for-smes-startups/amp/",
+      "publishedDateTime": "2021-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-self-driving-cars-market-2021-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2026-latest-research.md",
       "title": "Self-Driving Cars Market 2021 Global Industry Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2026 Latest Research Report",
       "excerpt": "Aug 12, 2021 (The Expresswire) -- In 2021, “Self-Driving Cars Market“ Size and Value (in USD), Share, Growth Rate (CAGR in %), Major Challenges | Forecast to 2026 | (Number of Pages ...",
@@ -503,616 +1122,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-new-technology-for-personalized-antibiotic-therapy.md",
-      "title": "New Technology for Personalized Antibiotic Therapy",
-      "excerpt": "Incorporating a new sensor to antibiotic susceptibility test can reduce inappropriate usage of antibiotics and enhance quality of care for the patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/potent-antibiotic-identified.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-technology-for-personalized-antibiotic-therapy-202714-1.htm",
-      "publishedDateTime": "2021-08-11T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-digital-human-rights-are-next-frontier-for-fund-groups-subscription-only.md",
-      "title": "Digital human rights are next frontier for fund groups [subscription only]",
-      "excerpt": "Digital human rights are fast becoming the latest front in the debate around fund managers’ ethical investments efforts... Attention on technology groups began with concerns around data privacy, but emerging focal points are targeted advertising and how companies deal with online",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-humanrights.org/zh-hans/最新消息/digital-human-rights-are-next-frontier-for-fund-groups-subscription-only/",
-      "originalUrl": "https://www.business-humanrights.org/zh-hans/最新消息/digital-human-rights-are-next-frontier-for-fund-groups-subscription-only/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "洗護用品和肥皂",
-        "domain": "business-humanrights.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-hackathon-in-mexico-helps-find-missing-people-through-artificial-intelligence.md",
-      "title": "Hackathon in Mexico helps find missing people through Artificial Intelligence",
-      "excerpt": "The collection of data and the correct analysis of the same is essential to be able to locate people. With Artificial Intelligence this task could become easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379978",
-      "originalUrl": "https://www.entrepreneur.com/article/379978",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628697987-personas1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379978",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379978",
-      "publishedDateTime": "2021-08-11T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-congestion-free-roads-might-be-a-self-driving-car-pipe-dream.md",
-      "title": "Congestion-Free Roads Might Be A Self-Driving Car Pipe Dream",
-      "excerpt": "Could self-driving cars make a difference and potentially ease or even eliminate such congestion? There are various pundits that keep touting the aspect that there will never be congested traffic after the advent of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1053993990%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/",
-      "publishedDateTime": "2021-08-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-natural-language-processing-nlp-market-2021-industry-analysis-size-share-growth-trends-and-forecast-to-2027.md",
-      "title": "Natural Language Processing (NLP) Market 2021, Industry Analysis, Size, Share, Growth, Trends and Forecast to 2027",
-      "excerpt": "This global study of the Natural Language Processing (NLP) market offers an overview of the existing market trends, drivers, restrictions, and metrics and also offers a viewpoint for important segments. The report also tracks product and services demand ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/08/11/natural-language-processing-nlp-market-2021-industry-analysis-size-share-growth-trends-and-forecast-to-2027/",
-      "originalUrl": "https://ipsnews.net/business/2021/08/11/natural-language-processing-nlp-market-2021-industry-analysis-size-share-growth-trends-and-forecast-to-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-arm-institute-virtual-summit-tackles-robotics-for-pandemics-and-beyond.md",
-      "title": "ARM Institute virtual summit tackles robotics for pandemics and beyond",
-      "excerpt": "The ARM Institute opened registration for the ARM Exchange Technical Summit: Robotic Solutions for Pandemics & Beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/arm-institute-virtual-summit-tackles-robotics-for-pandemics-beyond/",
-      "originalUrl": "https://www.therobotreport.com/arm-institute-virtual-summit-tackles-robotics-for-pandemics-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/arm-institute-summit-pandemic.jpg",
-          "width": 1000,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-how-etsy-crafts-aiml-cost-optimization-balance.md",
-      "title": "How Etsy Crafts AI/ML Cost, Optimization Balance",
-      "excerpt": "Much has changed at online retail giant, Etsy, since 2015 when we talked to the company’s senior VP of technical operations about their adherence to their",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/",
-      "originalUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/shutterstock_1456290809.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/amp/",
-      "publishedDateTime": "2021-08-11T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-how-computer-vision-works-and-why-its-plagued-by-bias.md",
-      "title": "How computer vision works — and why it’s plagued by bias",
-      "excerpt": "Computer vision explained. We break down how AI computer vision works, its rise, applications, bias, and challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/",
-      "originalUrl": "https://venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/amp/",
-      "publishedDateTime": "2021-08-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer.md",
-      "title": "Can Humor, Laughter & AI Reduce the Stress of Women Living with Cancer?",
-      "excerpt": "It sounds like the opening to a classic joke: “A cancer survivor, a scientist, and a doctor walk into a bar,” but instead it’s a groundbreaking 8-week Mindset and Metastatic Cancer Research Study utilizing artificial intelligence to investigate personalized stress reduction strategies for women with living with advanced cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-covid-spurs-financial-services-uptake-of-new-tech-for-aml.md",
-      "title": "COVID Spurs Financial Services Uptake Of New Tech For AML",
-      "excerpt": "A rise in financial crime sparked by the COVID-19 pandemic has prompted financial companies to accelerate the adoption of artificial intelligence and machine learning technology to boost anti-money laundering defenses,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/articles/1411765/covid-spurs-financial-services-uptake-of-new-tech-for-aml",
-      "originalUrl": "https://www.law360.com/articles/1411765/covid-spurs-financial-services-uptake-of-new-tech-for-aml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1411765",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1411765",
-      "publishedDateTime": "2021-08-11T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-deep-learning-model-classifies-brain-tumors-with-single-mri-scan.md",
-      "title": "Deep learning model classifies brain tumors with single MRI scan",
-      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg",
-          "width": 1721,
-          "height": 1881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp",
-      "publishedDateTime": "2021-08-11T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028",
-      "excerpt": "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-artificial-intelligence-classifies-brain-tumors-with-single-mri-scan.md",
-      "title": "Artificial Intelligence Classifies Brain Tumors With Single MRI Scan",
-      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
-      "originalUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Deep-Learning-Model-Classifies-Brain-Tumors-Single-MRI-Scan-777x849.jpg",
-          "width": 777,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
-      "publishedDateTime": "2021-08-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write.md",
-      "title": "Writesonic leans on AI to produce winning copy when you don’t have the time to write",
-      "excerpt": "Sponsored Deals Instead of sinking all that time and money into your business writing projects, Writesonic was created to handle those tasks intelligently.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/",
-      "originalUrl": "https://venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/sale_205218_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write/amp/",
-      "publishedDateTime": "2021-08-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

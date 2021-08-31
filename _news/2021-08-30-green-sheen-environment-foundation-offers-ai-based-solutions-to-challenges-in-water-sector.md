@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 695
         isCached: true
+  - title: "The Proliferation of Weaponized Artificial Intelligence"
+    excerpt: "Over the past decade, the growing sophistication of machine learning and AI have allowed these systems to be weaponized with concerning implications for cybersecurity. This has created an arms race between cybersecurity professionals and bad actors that will only get worse,"
+    publishedDateTime: 2021-08-31T12:12:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/the-proliferation-of-weaponized-artificial-intelligence"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 37
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/612d70110e28fae22d9adb7b_AdobeStock_233486521.jpeg"
+        width: 1280
+        height: 870
+        isCached: true
 
 secured: "1qS373WvxAc28AXLx00zw7eVT9Abr8FHjfLx8YV7VONuSbiLcISyBRtv8jCBdVhCpI9GZLpF7ts/V6xWtS0wxKqr4f9Dq3+DNUoOyvHBS8OHMZvBKUzXB2GUt6nHOXExqnprCXoICNBGaAiK/Dcyo3GhvNvnVJveiOnfLbT5saKboByaxFHUY/ZfhvIMGvtkhtJTjarwxrudpBCMm/E6lu4ajNKZRZ5W16AALW+fnRZS05wqPDhaa6B+lqkJDaMtTALUOC6p1AKWGDZgtXycXJxpK2zEAvx5DWQoKUPvuBlqdVjR67xy+lMgNevJNAJqN0vuf5Ha/k6JfQi8bMeQOpb2vyphSUpbIJ/yY8RNozo=;w0vsO9oKdKcy9q4XJP2L1w=="
 ---

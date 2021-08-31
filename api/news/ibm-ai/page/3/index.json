@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-28-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g.md",
+      "title": "IBM launches AI-powered new Cloud Pak for Network Automationn software to help adoption of 5G",
+      "excerpt": "IBM recently launched Watson Orchestrate to provide AI-powered automation to business professionals, and acquired Turbonomic, myInvenio, Instana and WDG Automation to build out a complete end-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "originalUrl": "https://seekingalpha.com/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "publishedDateTime": "2021-06-28T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g.md",
+      "title": "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G",
+      "excerpt": "Using IBM Cloud Pak for Network Automation, CSPs can use AI-powered automation to stand ... With the integration of IBM Cloud Pak for Watson AIOps and edge solutions including IBM Edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-301320703.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-301320703.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-27T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition.md",
+      "title": "A Company That Uses AI To Fight Malaria Just Won The IBM Watson AI XPrize Competition",
+      "excerpt": "Zzapp Malaria, a company that uses artificial intelligence (AI) to fight malaria just won the grand prize in one of the toughest technology competitions to date. The competition is a joint venture between XPrize,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d921bbc64aa2e4426c2abd%2F0x0.jpg",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
+      "publishedDateTime": "2021-06-27T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-one-way-to-deploy-ai-based-no-code-and-low-code-apps.md",
       "title": "One way to deploy AI-based no-code and low-code apps",
       "excerpt": "Palantir and IBM have come up with a solution for simplifying the development of AI-based applications in the enterprise.",

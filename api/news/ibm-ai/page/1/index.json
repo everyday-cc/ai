@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-31-these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success.md",
+      "title": "These Four Challenges In Adopting Machine Learning Can Lower Your ROI And Sabotage Success",
+      "excerpt": "Even with all machine learning wins across industries, some businesses still run aground on unseen barriers, preventing or limiting their ROI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600868f6f4ac5531fe3e6248%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/31/these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success/amp/",
+      "publishedDateTime": "2021-08-31T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-ibm-openpages-with-watson-wins-red-dot-design-award.md",
+      "title": "IBM OpenPages With Watson Wins Red Dot Design Award",
+      "excerpt": "We are pleased to announce that IBM OpenPages with Watson has won an Interface &#38; User Experience Design award at the 2021 Red Dot Awards. Each year, agencies, designers, and companies all over the world gather to celebrate the best in design, with the Red Dot Award: Brands &#38; Communication Design",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/08/ibm-openpages-with-watson-wins-red-dot-design-award/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/08/ibm-openpages-with-watson-wins-red-dot-design-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/08/Best_UI_Awards_2000x1006_V1.jpg",
+          "width": 2000,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-31T05:00:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open.md",
       "title": "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open",
       "excerpt": "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information ...",
@@ -171,6 +275,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-highest-paying-ai-certifications-available-in-2021.md",
+      "title": "Highest Paying AI Certifications Available in 2021",
+      "excerpt": "AI is one of the most popular subjects that people are interested to learn more about. Here is the list of some of the popular AI certificate programmes and they also include programmes on machine learning and deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/highest-paying-ai-certifications-available-in-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/highest-paying-ai-certifications-available-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Highest-Paying-AI-Certification-Available-in-2021.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-20T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1198,146 +1345,6 @@
       "provider": {
         "name": "techspective.net",
         "domain": "techspective.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-whats-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare.md",
-      "title": "What's Wrong with IBM Watson & Is Narrow AI Helpful in Healthcare?",
-      "excerpt": "IBM poured millions of dollars to revolutionise healthcare, but the experiment turned out to be far more difficult and time-consuming than expected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare",
-      "originalUrl": "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/IBM_Watson.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-25T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration.md",
-      "title": "With post-pandemic AI, we’ve now stepped into the Age of Acceleration",
-      "excerpt": "AI is entering take-off mode just as we exit an economic downturn caused by the pandemic. Get ready for a productivity boom.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/",
-      "originalUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/human_robot_collaboration.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/amp/",
-      "publishedDateTime": "2021-07-25T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-medical-imaging-powered-by-ibm.md",
-      "title": "Medical Imaging, Powered by IBM",
-      "excerpt": "IBM Watson Health and Merge Healthcare are bringing new insights, made possible through artificial intelligence and cognitive computing, to medical imaging. Radiologists are about to get some help with their imaging workload. IBM Watson Health and Merge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
-      "originalUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-13-global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft.md",
+      "title": "Global Machine Learning Accelerator For Healthcare Report Forecast to 2021-27- Google, IBM, and Microsoft.",
+      "excerpt": "The global Machine Learning Accelerator For Healthcare sector, it is forecasted to achieve a CAGR of xx% by the year end 2027. This growth rate will benefit the sector to achieve USD xx in 2027 , which is in 2020 valued at USD xx billion.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
+      "originalUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
+      "publishedDateTime": "2021-08-13T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-image-recognition-software-market-to-see-huge-growth-by-2026-microsoft-ibm-google-catchoom-technologies.md",
       "title": "Image Recognition Software Market to See Huge Growth by 2026 | Microsoft, IBM, Google, Catchoom Technologies",
       "excerpt": "An image recognition software is defined as the computer program that can easily identify places, writing, objects, people as well as actions in images. This software is used in many applications such as scanning & imaging, security & surveillance, image ...",
@@ -1259,58 +1295,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-supercomputers-are-becoming-another-cloud-service-heres-what-it-means.md",
-      "title": "Supercomputers are becoming another cloud service. Here's what it means",
-      "excerpt": "Designing for the usual cloud workloads isn't the same as designing for high performance computing: Azure is trying to achieve both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "originalUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/20/4578fe42-7a03-4ce3-b255-3ee294ece765/thumbnail/1200x675/ade3598837ab9ca69ae071f14060e02e/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "publishedDateTime": "2021-08-01T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

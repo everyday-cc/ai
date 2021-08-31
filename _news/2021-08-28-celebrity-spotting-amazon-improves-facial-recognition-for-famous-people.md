@@ -61,34 +61,6 @@ related:
         width: 1054
         height: 600
         isCached: true
-  - title: "Enable scalable, highly accurate, and cost-effective video analytics with Axis Communications and Amazon Rekognition"
-    excerpt: "With the number of cameras and sensors deployed growing exponentially, companies across industries are consuming more video than ever before. Additionally, advancements in analytics have expanded potential use cases, and these devices are now used to improve business operations and intelligence. In turn,"
-    publishedDateTime: 2021-08-27T16:46:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-scalable-highly-accurate-and-cost-effective-video-analytics-with-axis-communications-and-amazon-rekognition/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/27/Axis-Diagram.png"
-        width: 1222
-        height: 531
-        isCached: true
-  - title: "Army Testing Facial Recognition in Child-Care Centers"
-    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
-    publishedDateTime: 2021-08-30T20:32:00Z
-    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 39
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "FXH0Cq6s+hO4Cx+3kzPgIQAnNMGjLRZ8CcsGjupzEJ3VqBcyyzf9mpsFBi8duZrJWCZxg5xxBlKyJhgrHn2X7jhCzqaKyTAGr8O9U9jUKX7UEmaw6PHiYWM7O1A63uPTM3fKyGjb/rEEyWMWOic4P3tlCbfzQFC7SSunjKdjapmnqbyyRXlijwwIPu4x8/MgfcMyhkcfiSJGgrBpOblrOcESbrL4W18TdGkJJAuvqD4nUAL7sKK4tRnmBbtmfQzMu+0XaBs97Ibddba4TKU3+nCm2YHwFj2TNNEoQfO8I+BDI2QIbfiX/GKDb3DqXospPOnxr9jYEp88Q0VP5wudGyQ9toX8ZS5s7r16azkumwFIPhguXVn6Xe+TI1GmxkoZByiHyynjvAYVf1yGwHpaULEhxZo7FXUNLuyH8ZrLXJA5LC0ClSncOxxoyShe7/zZYfJkj5hrodkKhds/fRdb4MpXqMnHwMh40d5UcmTibHImMSdR74K75Dks4mY22pOnhqVuePCX+8/xxWvuLIFR9w==;4eahgdfHRa4oedywalch9Q=="
 ---

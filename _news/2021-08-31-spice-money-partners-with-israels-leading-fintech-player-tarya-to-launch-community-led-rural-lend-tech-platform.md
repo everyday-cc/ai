@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Spice Money partners with Israel’s leading fintech player, Tarya to launch community-led rural lend-tech platform"
-excerpt: "Spice Money has entered into a joint venture with Tarya group, Israel’s leading fintech player with 70% P2P market-share in Israel, to bring Bharat to the fore of the ongoing data-led digital revoluti"
-publishedDateTime: 2021-08-31T09:09:00Z
-originalUrl: "https://www.smechannels.com/spice-money-partners-with-israels-leading-fintech-player-tarya-to-launch-community-led-rural-lend-tech-platform/"
-webUrl: "https://www.smechannels.com/spice-money-partners-with-israels-leading-fintech-player-tarya-to-launch-community-led-rural-lend-tech-platform/"
+title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
+excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
+publishedDateTime: 2021-08-31T08:53:00Z
+originalUrl: "https://www.indianweb2.com/2021/08/spice-money-partners-with-israels.html"
+webUrl: "https://www.indianweb2.com/2021/08/spice-money-partners-with-israels.html"
 type: article
-quality: 3
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: NETGEAR
-  domain: smechannels.com
+  name: indianweb2.com
+  domain: indianweb2.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2021/08/spice.png?fit=610%2C380&ssl=1"
-    width: 610
-    height: 380
-    isCached: true
 
 related:
   - title: "Extra Crunch roundup: Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem"
@@ -56,6 +50,6 @@ related:
         height: 800
         isCached: true
 
-secured: "UsMwYCxGft2cTp6pvT+2d1AKU0+wLG9ZkD1/+DCPv1p/crwsF1z2Q2gr6Hr+YhH/g9b4H0xR1MbvivqHDaVSBs5WHLMglDL/YRGXpu3BufY6J5pQrstSGyEsjm/PZFdwpo+jsjyeqpZ7mLeGMwX1gBLlG01MpVolqo2Wz5wI/dJ0NcytH+GR1KKPaLlnSuLIqkjdjSvndz8l0oydu/7RP+W3k0fgEVtdK1AvpdMaXGVlP+CVYEemjeaj6vbvTmOgsrD0iZv1fQuFXnakpe7bLmC9myZ1vecOvmrZMhjpUYPjQBpn29QFoZxkblQCwmBC8iVYHaMjPcxb8IbQIrxg+ooWbOkdidjjD3TKNGPS1dU=;Jy6gvQAqs6wtySCg1qImPQ=="
+secured: "8+XJtSJg9orFKzwOHWLhTRvFJMt+9wMXHG2XgZLYgmgJCvHFqUA45u4ivw1Ve997EcnJ6jTx2McArGRyH4UIUhujd6QyP5/88etni3bGsL06UQnVzjn2WyhH36LJtaBAcfGR6bUVDaxAohb/WyYCnm88ItHiAluH76nW+xf5dQrA6XcAKPIbw2t7UZau1J1VM0TuQksZ7A/bPxe+3efF8IfpQeguafpmHHFEcNl5j8I5t+cEYIkCT+5fW25QsKjo0yCF83ao5JODC2v+TXBipiqfdsXRQE/9VCazn+RJ1zvSLVCVKV9KaSrCLn6V3fQyf1iSd43znazppXrZ2TjdaWPwI1wJVszDbTfv2dqDnGs=;pvikAh6ccgqsSSgWhFkwCA=="
 ---
 

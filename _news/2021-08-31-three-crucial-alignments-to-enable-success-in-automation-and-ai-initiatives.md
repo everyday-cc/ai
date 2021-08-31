@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/three-cruc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/31/three-crucial-alignments-to-enable-success-in-automation-and-ai-initiatives/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 795
     isCached: true
 
-secured: "VAa7hlNvdhdLMUHNAi2xypPKf661htwf1em3PC3ceoBespZ1HwB6EZbBGMijGTKByUBbFG+i5jllQCEvuFQRSD1w4xitmM6T7jDXnf4JGj0eo6tUqGtcPJOeT3+jgLQN/NHsBs8h81SCAlgtTba1tR1W68xl5vuv8unryvZfmGb3yUBFC5J9gKFtgcXgXTECg+7P9QEcnXj5lYcGADZ2JWA9MX5eBRYJnvYajOtq9duerJ8cUzKssiNDdjFyCgwmeepQ3aAGZ2Xv1TQQzSWcUmdwV0VJTI4BIsexllY21yMRjz5/zOKylLMV/2EkJri3l6qnxzbleaAjrT0HcIB6km2+PdpY3i8wQQn4HRVXsi0=;1Q5q/A5BrXRZ0y9NMXGR3w=="
+related:
+  - title: "Study finds manufacturers willing to implement data-driven and AI initiatives"
+    excerpt: "Control Engineering - A quarter of Indiana’s economic output is based in manufacturing, and the transition to becoming data-driven and using artificial intelligence (AI) holds"
+    publishedDateTime: 2021-08-31T12:35:00Z
+    webUrl: "https://www.controleng.com/articles/study-finds-manufacturers-willing-to-implement-data-driven-and-ai-initiatives/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 34
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/PLEx_WEB_IMG_Manufacturing_AssetMgmt-Slider.jpg"
+        width: 645
+        height: 350
+        isCached: true
+
+secured: "l7qMoza/+Cjs7UovHzxgrlQFno1MCZSfstdYtvtDMv5+9Je8gJV890ryPiAGp7mVl8VUhYZlNS1wNtkqJQUAE5B2qhm5CZEH7/GkuWHFeF/1IvfUObisudZRy3gaQuU+4cD30YbpQ1BF9k26OpRy/ixEQluoz9c3M5LhJVESeK0A9/CdaMYj0V0p23nDxXBOOZD59bfkNE4WhaWIdf2QcK30XqFkGpp3flVMingKenNb8a0azcxFPweALLsz1MA5KsIGiyRPTEHArSfU7bGIYS0qncjAFFNeC1+a/bxclXu/ZGopzRf0sV5sfJMv5SvjN0leo6W49lVts15MHG1xqMOHfx+w672yFAIiJmuWlx7hx0R6WdR2JMnxeMU+OP16h6rnATOaP+NstJvxKDrSKjD43AFk/r56ECDwabmLCalgyJ30i3KKJ2Oad+encliIDcNWFrac1l/sd6QKS5QdbbPWIp3MXcsx7nHqkjrQ9rCkArXg9fNox8mB1QvnwG1QpX1P8JfIoNI2qBHWrO+TUQ==;Mn6rwL/Wmpm8+/ylj6DCbQ=="
 ---
 

@@ -109,20 +109,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "SAP Acquires AI HR Platform"
-    excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
-    publishedDateTime: 2021-08-30T01:46:00Z
-    webUrl: "https://www.datamation.com/applications/sap-acquires-swooptalent-ai-hr-platform/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/SAP-logo.png"
-        width: 1920
-        height: 979
-        isCached: true
   - title: "Zebra Technologies to Acquire Antuit.ai"
     excerpt: "Zebra Technologies (NASDAQ: ZBRA), a Lincolnshire, IL-based provider of performance edge solutions, is to acquire antuit.ai, a Dallas, TX-based provider of artificial intelligence (AI)-powered Softwar"
     publishedDateTime: 2021-08-30T21:57:00Z

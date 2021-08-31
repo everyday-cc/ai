@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp"
 type: article
 quality: 67
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image-2.png"
         width: 768
         height: 432
-        isCached: true
-  - title: "SAP Acquires AI HR Platform"
-    excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
-    publishedDateTime: 2021-08-30T01:46:00Z
-    webUrl: "https://www.datamation.com/applications/sap-acquires-swooptalent-ai-hr-platform/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/SAP-logo.png"
-        width: 1920
-        height: 979
         isCached: true
   - title: "Zebra Technologies to acquire Antuit.ai"
     excerpt: "Deal for vendor whose AI-based software improves forecasts and optimizes inventory allocations grows Zebra's retail and consumer packaged goods (CPG) software portfolio{/exp:eehive_hacksaw"

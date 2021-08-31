@@ -6,9 +6,9 @@ publishedDateTime: 2021-08-27T17:25:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/"
 webUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/"
 type: article
-quality: 31
-heat: -1
-published: false
+quality: 131
+heat: 201
+published: true
 
 provider:
   name: Nextgov
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Enable scalable, highly accurate, and cost-effective video analytics with Axis Communications and Amazon Rekognition"
+    excerpt: "With the number of cameras and sensors deployed growing exponentially, companies across industries are consuming more video than ever before. Additionally, advancements in analytics have expanded potential use cases, and these devices are now used to improve business operations and intelligence. In turn,"
+    publishedDateTime: 2021-08-27T16:46:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-scalable-highly-accurate-and-cost-effective-video-analytics-with-axis-communications-and-amazon-rekognition/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/27/Axis-Diagram.png"
+        width: 1222
+        height: 531
+        isCached: true
   - title: "Playing catch-up to the early adopters of analytics, AI and machine learning"
     excerpt: "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
     publishedDateTime: 2021-08-30T13:00:00Z
@@ -41,49 +55,19 @@ related:
         width: 410
         height: 230
         isCached: true
-  - title: "How The United States Army Is Leveraging AI: Interview With Kristin Saling, Chief Analytics Officer & Acting Dir., Army People Analytics"
-    excerpt: "To remain competitive, the US Army has created the Army Talent Management Task Force to address the current and future needs of the war fighter. LTC Saling shares her insights into how analytics, automation,"
-    publishedDateTime: 2021-08-28T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
+  - title: "Army Testing Facial Recognition in Child-Care Centers"
+    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
+    publishedDateTime: 2021-08-30T20:32:00Z
+    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125197aa4e9c316e3801db8%2F0x0.jpg"
-        width: 1200
-        height: 1042
-        isCached: true
-  - title: "Playing catch-up to the early adopters of AI and machine learning"
-    excerpt: "Early adopters of data analytics, artificial intelligence and machine learning tools have found themselves in a position of favour in today's rapidly accelerating digital"
-    publishedDateTime: 2021-08-30T15:19:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 54
-    images:
-      - url: "https://biz-file.com/c/2108/625807.jpg"
-        width: 700
-        height: 364
-        isCached: true
-  - title: "PKS rebrands as Beamtree, buys AI start-up Ainsoff and data analytics firm Potential(x)"
-    excerpt: "The clinical data analytics company formed earlier this year through the merger of health software vendors Pacific Knowledge Systems (PKS) and Pavilion Health has rebranded as Beamtree Holdings, with the ASX-listed company recently buying two smaller companies to form what it says is one of the largest health analytics and decision support platforms in Australia."
-    publishedDateTime: 2021-08-31T05:22:00Z
-    webUrl: "https://www.pulseitmagazine.com.au/australian-ehealth/6229-pks-rebrands-as-beamtree-buys-ai-start-up-ainsoff-and-data-analytics-firm-potential-x"
-    type: article
-    provider:
-      name: PULSE IT
-      domain: pulseitmagazine.com.au
-    quality: 29
-    images:
-      - url: "https://www.pulseitmagazine.com.au/images/articles/ClinicalData.jpg"
-        width: 400
-        height: 225
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
     excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
@@ -108,21 +92,30 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Coronavirus Roundup: Questions on Vaccine and Testing Programs for Feds; COVID Oversight Committee Boosts Use of Analytics and AI"
-    excerpt: "Professional organizations that represent federal managers are worried that there are still some unresolved issues with the vaccination attestation and testing process for federal employees, Federal News Network reported on Wednesday."
-    publishedDateTime: 2021-08-27T15:30:00Z
-    webUrl: "https://www.govexec.com/management/2021/08/coronavirus-roundup-questions-feds-vaccine-and-testing-programs-covid-oversight-committee-boosts-use-analytics-and-ai/184907/"
+  - title: "Independent survey highlights need for advanced analytics and machine learning to accelerate investigations"
+    excerpt: "OpenText™ (NASDAQ: OTEX), (TSX: OTEX), today announced findings from a recent independent survey from Compliance Week, sponsored by OpenText. The results show the importance of both advanced technology and dedicated teams that can quickly deliver data insights to reduce time and cost and result in better outcomes."
+    publishedDateTime: 2021-08-31T13:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-independent-survey-highlights-need-advanced-analytics-machine-learning-/2021/08/31/9440063.htm"
     type: article
     provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 8
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
     images:
-      - url: "https://cdn.govexec.com/media/img/cd/2021/08/27/082721vaccine/open-graph.jpg"
+      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg"
         width: 400
         height: 400
         isCached: true
+  - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
+    excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
+    publishedDateTime: 2021-08-31T00:53:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210830005567/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "WM5gyvMPMirW0l4I2P+PDxXhThQx6uzjat8+GUwJhxDxP9tWus020ETK4omRCb5KkAeS2nFFdEVRLwzf1VxCSPBgfkxxN11bT7PDrj/MdRRkjIZV6emc6s2LocbEd48gHB4fCul7JKMXq+oAEEp+CeHExb6VTgA5hl//Cny6ZJBEnHX2nxy/FkhcZeIbR60cMY3TwNbQ2uhq5kulDfQa96hpIgSaHAaCO0TqIHKi1E2Fi4JlY3lYYxRr0Uc6u08BkJIV2/+6Vmi4LmX/R8TN7sSovwQpvLqT/7QGkVk67sAXiib32e9VkF/OtXX1z9z5fiyBuRupWj3WFfSlIe1Z4D9N3SlBWvxrLGj3YEA/IHTUHwk1jW3r7srf8uQUBWc8qGhcg6MDbvJav0WkNS4kYiPIuJSFq3vOyl+16hM8F279l88ySO3ccp55FWbALYfBuEnLR2bHE+Juax5ezDDXngICLSNZjjMGWlXlWDHnf9K+sYP3VUFkWnmAW+6rYwbEFHBGaro/XkaZjXhTWc5XNg==;GCE3HOn1uMlolWO9DvyWFQ=="
+secured: "ly/tR9mIQZ2W242U6jKId0bqL8ytULUmPhngNtFiCxK27Ej4TKGSIeNufE1b5E7lXrRSBnRxrs+B5VQFW5tr6umfF6HlWfEZjJrnj0nv1AyU3L3aOoknx+0U659XLOIdO2YgsY0sLnI/e4ZHrsbP/sENqIhSJga3YQqOtGqTimonjSk16Td2F1Cn3HvhVlO5iGeaAsC7WTAc6LrAmpNHwsSIfdoafJpAbWKnzA9CxXLWiR/OgGI2saNjPrEQ7UvHsN7FfAA4p9fqL1CjKsSXh9ptmfFq1fzkQe6kzo6RL5dW+m21ogd7OLCGiArAEaqaA1OV5eSjtMjL9pmb06iU+qqTkC+SfcErELdfn2O2RMotrwK2p3MiTplrUC811x5xUIe2/3tFxHfIQ6+gVnDOk1lMzsQZ4RU/W8X9N3s/CQbNrcTYDEhNzTtjWEeYOZuuRlL8XmGIjiI1Kbe9iQxepIGt3hXUWAk/uQad/JOAGLPSKccIUZyvhC4NUDCdHmd4kase+8Zpbxcz0Dsxrgv34Qwr5+7dExWDtIlfV1x2oMQ=;2jiSdQyBbHdQBFwMDzXZcg=="
 ---
 

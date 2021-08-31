@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Verizon and Microsoft team up to offer 5G edge cloud computing for businesses"
+    excerpt: "Leveraging Verizon 5G Edge with Microsoft Azure Stack Edge, the solution \"enables the ultra-low latency needed to deploy real-time enterprise applications,\" the companies said in a statement."
+    publishedDateTime: 2021-08-31T06:09:00Z
+    webUrl: "https://www.zdnet.com/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
   - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
     excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
     publishedDateTime: 2021-08-30T20:42:00Z

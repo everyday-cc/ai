@@ -97,7 +97,7 @@
       "originalUrl": "https://www.news-medical.net/news/20210831/AI-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -278,6 +278,49 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at-birmingham.md",
+      "title": "Caris' Precision Oncology Alliance Welcomes The O'Neal Comprehensive Cancer Center at University of Alabama at Birmingham",
+      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, announced today that",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at/article_30d6e9ba-573c-56ae-9be0-93644fa90a65.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at/article_30d6e9ba-573c-56ae-9be0-93644fa90a65.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/78/578224d2-d123-5cd6-acb5-b1856ce6f95e/606c38b2938f5.image.jpg?resize=703%2C630",
+          "width": 703,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1335,42 +1378,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft.md",
-      "title": "Global Machine Learning Accelerator For Healthcare Report Forecast to 2021-27- Google, IBM, and Microsoft.",
-      "excerpt": "The global Machine Learning Accelerator For Healthcare sector, it is forecasted to achieve a CAGR of xx% by the year end 2027. This growth rate will benefit the sector to achieve USD xx in 2027 , which is in 2020 valued at USD xx billion.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
-      "originalUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
-      "publishedDateTime": "2021-08-13T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

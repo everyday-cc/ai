@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210827/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210827/New-machine-learning-method-enhances-computational-prediction-of-RNA-structures.aspx"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "New deep learning approach greatly improves RNA structure prediction"
-    excerpt: "Researchers present ARES (Atomic Rotationally Equivariant Scorer) – a machine learning method that significantly improves the computational prediction of RNA structures over previous approaches. Like proteins,"
-    publishedDateTime: 2021-08-26T20:58:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/926146"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "weInVZyPaIL3AlSgJmRuIWhhWmKNopawc41W5B3wtiW6BflSW6azO6vxgQeufsLTtnmLeagRrLVXk3Smo9PjH2BwmaRCVm/NwPu14hmXm/3jJ+niqc8GeMU00ZuOmXjpGvmeb3mU1PtwD7yNp3AotiNbWrSuseBEKCk+ZyJjL3upR9B/m8qQdliou25XKFaInx++0ipFmnAeD35Ipn75bSjDNb3V/Z5GQtemF1Bk+7Lt1V+Mao8YVQbGQhFqp6WF2kVHGaFM2qC4yhkt+mCWcPMZ30WJB+n9MSersXmfuohFjtIg4DfWhzQzeqN82nHoCqmmaXznrs8W31yhswzXz9Krbk4vfOmYd4zRrmcbUzA=;bOxV7i+7s6SQY+OzILQSuQ=="
 ---

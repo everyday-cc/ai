@@ -48,6 +48,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-31-verizon-and-microsoft-team-up-to-offer-5g-edge-cloud-computing-for-businesses.md",
+      "title": "Verizon and Microsoft team up to offer 5G edge cloud computing for businesses",
+      "excerpt": "Leveraging Verizon 5G Edge with Microsoft Azure Stack Edge, the solution \"enables the ultra-low latency needed to deploy real-time enterprise applications,\" the companies said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/",
+      "originalUrl": "https://www.zdnet.com/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/",
+      "publishedDateTime": "2021-08-30T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-machine-learning-market-is-thriving-worldwide-ibm-microsoft-corporation-sap-se-intel.md",
       "title": "Machine Learning Market is Thriving Worldwide : IBM, Microsoft Corporation, SAP SE, Intel",
       "excerpt": "The global Machine Learning market is expected to grow at a CAGR of 36.6% during the forecast period. The global Machine Learning market is estimated to be about 2337.6 million US dollars in 2020. The global Machine Learning market is estimated to reach 8143.",
@@ -100,7 +143,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -152,7 +195,7 @@
       "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1350,42 +1393,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft.md",
-      "title": "Global Machine Learning Accelerator For Healthcare Report Forecast to 2021-27- Google, IBM, and Microsoft.",
-      "excerpt": "The global Machine Learning Accelerator For Healthcare sector, it is forecasted to achieve a CAGR of xx% by the year end 2027. This growth rate will benefit the sector to achieve USD xx in 2027 , which is in 2020 valued at USD xx billion.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
-      "originalUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
-      "publishedDateTime": "2021-08-13T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
         "Microsoft AI"
       ]
     }

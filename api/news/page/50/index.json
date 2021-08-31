@@ -2,6 +2,681 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-07-27-eus-ai-law-will-have-chilling-36b-impact-study-says.md",
+      "title": "EU’s AI Law Will Have ‘Chilling’ $36B Impact, Study Says",
+      "excerpt": "Legislation in Europe aimed at regulating artificial intelligence (AI) could cost the region’s economy $36 billion over the next five years, per a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/eus-ai-law-will-have-chilling-36b-impact-study-says/",
+      "originalUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/eus-ai-law-will-have-chilling-36b-impact-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/AI-regulation-European-Union-study-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/eus-ai-law-will-have-chilling-36b-impact-study-says/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/eus-ai-law-will-have-chilling-36b-impact-study-says/amp/",
+      "publishedDateTime": "2021-07-26T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-study-almost-half-of-dating-app-users-trust-ai-to-find-them-a-match.md",
+      "title": "Study: Almost half of dating app users trust AI to find them a match",
+      "excerpt": "Kaspersky researchers observed positive user perceptions of AI mathmaking, but also warned of privacy risks in dating apps.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/almost-half-dating-app-users-trust-ai-matchmaking-choices-kaspersky-research",
+      "originalUrl": "https://thenextweb.com/news/almost-half-dating-app-users-trust-ai-matchmaking-choices-kaspersky-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-5-3.jpg&signature=f0e8720bf54c33f33bce7f6190ecc647",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-role-of-artificial-intelligence-and-machine-learning-in-speech-recognition.md",
+      "title": "Role of Artificial Intelligence and Machine Learning in Speech Recognition",
+      "excerpt": "Initially, AI was only about memorizing data and producing results accordingly; however, now it is much more than that as machines perform various activities like Speech Recognition, Object ...",
+      "sourceUrl": null,
+      "webUrl": "https://signalscv.com/2021/07/role-of-artificial-intelligence-and-machine-learning-in-speech-recognition/",
+      "originalUrl": "https://signalscv.com/2021/07/role-of-artificial-intelligence-and-machine-learning-in-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://signalscv.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Clarita Signal",
+        "domain": "signalscv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-microsoft-takes-sharper-aim-at-on-prem-hpc.md",
+      "title": "Microsoft Takes Sharper Aim at On-Prem HPC",
+      "excerpt": "Microsoft is intent on bending the supercomputing set its direction. Instead of just focusing on competing with other public clouds, they’re aiming",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/",
+      "originalUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_arm-cloud-logo.jpg",
+          "width": 595,
+          "height": 307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/",
+      "publishedDateTime": "2021-07-26T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-deepminds-epistemic-neural-networks-open-new-avenues-for-uncertainty-modelling-in-large-and-complex-dl-systems.md",
+      "title": "DeepMind’s Epistemic Neural Networks Open New Avenues for Uncertainty Modelling in Large and Complex DL Systems",
+      "excerpt": "Although effective uncertainty estimation can be a key consideration in the development of safe and fair artificial intelligence systems, most of today’s large-scale deep learning applications are lacking in this regard.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
+      "originalUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
+      "publishedDateTime": "2021-07-26T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021.md",
+      "title": "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021",
+      "excerpt": "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-great-attains-aws-advanced-consulting-partner-accreditation.md",
+      "title": "GREAT Attains AWS Advanced Consulting Partner Accreditation",
+      "excerpt": "GREAT, a leading independent AWS-focused cloud services company, has been recognized by Amazon Web Services (AWS) for its depth of capability and client satisfaction by being promoted to Advanced Consulting Partner in the AWS Partner Network (APN).",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-alina-allen-on-the-natural-history-of-lean-nafld.md",
+      "title": "Alina Allen on the Natural History of 'Lean' NAFLD",
+      "excerpt": "With little known about how different BMI categories impact disease and survival, Alina M. Allen, MD, and colleagues at the Mayo Clinic in Rochester, Minnesota, conducted a population-based study to compare the natural history of lean,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/aga/lower-gi/93745",
+      "originalUrl": "https://www.medpagetoday.com/aga/lower-gi/93745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot.md",
+      "title": "Peak Fintech Begins Acquisition Process of Banking AI Software Provider Zhongke with Transfer of IP Following Successful Pilot",
+      "excerpt": "PRNewswire/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1581023/Peak_Fintech_Group_Inc__Peak_Fintech_Begins_Acquisition_Process.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-how-will-robots-impact-warehouse-design.md",
+      "title": "How Will Robots Impact Warehouse Design?",
+      "excerpt": "JLL, a leader in real estate services, recently put out a research paper called “The future of global logistics real estate.” New warehouse designs need to incorporate features that take advantage of robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
+      "originalUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60febb9b3be04e96ec8ea197%2F0x0.jpg",
+          "width": 958,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
+      "publishedDateTime": "2021-07-26T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-mac-face-id-prediction-suggests-patience-will-be-required.md",
+      "title": "Mac Face ID prediction suggests patience will be required",
+      "excerpt": "Apple’s Face ID may have been logging us into iPhone and iPad for several years now, but the facial recognition tech looks set to finally be coming to Mac too. While recent Mac models have",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "originalUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/iphone-face-id.jpg",
+          "width": 1440,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "publishedDateTime": "2021-07-26T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-unitypoint-health-des-moines-partners-with-qventus-to-deliver-improved-patient-experience.md",
+      "title": "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience",
+      "excerpt": "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020.md",
+      "title": "These 19 companies are racing to put driverless cars on the road by 2020",
+      "excerpt": "Ford and Chinese company Baidu recently invested $150 million in Velodyne, a manufacturer of a LiDAR system that allows self-driving cars to see the world around them. Ford showed its driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "originalUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-53758040,width-700,height-525/Tesla-is-aiming-to-have-its-driverless-technology-ready-by-2018-.jpg",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
+      "title": "Does Your Project Need Artificial Intelligence?",
+      "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facbc267f6107b328f0946%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-in-corporate-transformation-learning-is-a-leadership-imperative.md",
+      "title": "In Corporate Transformation, Learning Is A Leadership Imperative",
+      "excerpt": "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
+      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fe6f5725bfcd3f54d2cd70%2F0x0.jpg",
+          "width": 1187,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
+      "publishedDateTime": "2021-07-26T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-healthcare-natural-language-processing-nlp-market-including-top-key-players-nlp-technologies-nec-apple.md",
       "title": "Healthcare Natural Language Processing (NLP) Market including top key players NLP Technologies, NEC, Apple",
       "excerpt": "Los Angeles United States North America including Q1 2021 analysis The report named Global Healthcare Natural Language Processing NLP Market has been added to the archive of market research studies by JCMR The industry experts and researchers have offered reliable",
@@ -451,698 +1126,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth.md",
-      "title": "Cloud Focus: Mphasis doubles down on cloud, cognitive services to accelerate growth",
-      "excerpt": "Digital-first strategy The company applies advancements in cognitive and cloud to traditional application and infrastructure services to bring much needed agility, efficiency and cost effectiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/07/1-553.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/lite/",
-      "publishedDateTime": "2021-07-25T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-amazons-mugshot-ai-says-28-members-of-congress-are-known-criminals.md",
-      "title": "Amazon’s mugshot AI says 28 members of Congress are known criminals",
-      "excerpt": "In a new series of tests by the American Civil Liberties Union a whopping 28 members of Congress have been matched by Amazon’s Rekognition facial identification software with mugshots of known ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
-      "originalUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2018/07/featured_image.jpg?quality=70&strip=all",
-          "width": 1160,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/amazon-rekognition-congress-false-matches-aclu/amp/",
-      "publishedDateTime": "2021-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-us-pushes-light-regulations-for-ai-in-contrast-to-europe.md",
-      "title": "US pushes light regulations for AI, in contrast to Europe",
-      "excerpt": "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "originalUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1035331888-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "publishedDateTime": "2021-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
-      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
-      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-whats-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare.md",
-      "title": "What's Wrong with IBM Watson & Is Narrow AI Helpful in Healthcare?",
-      "excerpt": "IBM poured millions of dollars to revolutionise healthcare, but the experiment turned out to be far more difficult and time-consuming than expected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare",
-      "originalUrl": "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/IBM_Watson.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-25T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-the-woebot-will-see-you-now-how-ai-is-helping-in-the-fight-against-depression.md",
-      "title": "The Woebot will see you now: how AI is helping in the fight against depression",
-      "excerpt": "Bot therapy' engages a demographic that's traditionally reluctant to open up. Could the future of mental health care be algorithmic?",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/",
-      "originalUrl": "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/health-fitness/2021/07/22/TELEMMGLPICT000265024181_trans_NvBQzQNjv4Bqvf93cyop1gpr4w56dB_PHOHO6xmcg-ORQ3PwU054mI8.jpeg",
-          "width": 671,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/amp/",
-      "publishedDateTime": "2021-07-25T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration.md",
-      "title": "With post-pandemic AI, we’ve now stepped into the Age of Acceleration",
-      "excerpt": "AI is entering take-off mode just as we exit an economic downturn caused by the pandemic. Get ready for a productivity boom.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/",
-      "originalUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/human_robot_collaboration.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/amp/",
-      "publishedDateTime": "2021-07-25T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-data-centers-in-an-ai-and-ml-driven-future.md",
-      "title": "Data Centers in an AI and ML driven future",
-      "excerpt": "Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
-      "originalUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/zzKWX9b7Dxhz2F7QRMVTMC-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
-      "publishedDateTime": "2021-07-25T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-google-linked-waymo-lobbies-uk-on-driverless-car-rules.md",
-      "title": "Google-linked Waymo lobbies UK on driverless car rules",
-      "excerpt": "Waymo, Google’s driverless-car sister company, has warned against the UK imposing strict rules for self-driving vehicles in one of its first interventions in Britain. The company has submitted comments to a Law Commission consultation about how laws for driverless cars should be written,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/07/20/TELEMMGLPICT000263359199_trans_NvBQzQNjv4BqSqlWeRJCmOYHLNW5ZYKToBWt5YgiQRanv7pLYf59i4w.jpeg",
-          "width": 683,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/amp/",
-      "publishedDateTime": "2021-07-25T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-on-a-mission-to-hone-english-skills-of-tribal-students.md",
-      "title": "On a mission to hone English skills of tribal students",
-      "excerpt": "and they in turn help the students master the language,” says K. Srikanth Prabhakar, Secretary, APTWREI Society. The app, ‘EnglishBolo’, delivers online classes, including translation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "originalUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/em2ph2/article35517034.ece/ALTERNATES/LANDSCAPE_615/25vjpg4-tribal",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "publishedDateTime": "2021-07-24T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd.md",
-      "title": "Deep Learning Market Is Booming Worldwide | Advanced Micro Devices, ARM Ltd",
-      "excerpt": "In addition, the study helps venture capitalists in understanding the companies better and make informed better Deep Learning business decisions. Some of the key players in the Deep Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/DDD-5-2-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-24T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-auroras-spac-merger-comes-amid-self-driving-car-delays.md",
-      "title": "Aurora’s SPAC merger comes amid self-driving car delays",
-      "excerpt": "Self-driving car startup Aurora is ready to go public in a reverse merger with SPAC Reinvent Technology Partners Y.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/",
-      "originalUrl": "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/01/intel-cars-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/",
-      "publishedDateTime": "2021-07-24T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-robbery-on-10th-facial-recognition-tech-migrant-minors-moved.md",
-      "title": "Robbery on 10th + Facial Recognition Tech + Migrant Minors Moved",
-      "excerpt": "Also, the LB PD's use of facial recognition software is under fire. Finally, 1,538 migrant minors went through the Convention Center shelter before its closure. First, today's weather: Mostly cloudy throughout the day.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/california/longbeach-ca/robbery-10th-facial-recognition-tech-migrant-minors-moved",
-      "originalUrl": "https://patch.com/california/longbeach-ca/robbery-10th-facial-recognition-tech-migrant-minors-moved",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/article-assets/daily-digest/patch-2___27133906517.png?width=984",
-          "width": 726,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/california/longbeach-ca/amp/29713371/robbery-on-10th-facial-recognition-tech-migrant-minors-moved",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/longbeach-ca/amp/29713371/robbery-on-10th-facial-recognition-tech-migrant-minors-moved",
-      "publishedDateTime": "2021-07-24T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-deadline-2024-why-you-only-have-3-years-left-to-adopt-ai.md",
-      "title": "Deadline 2024: Why you only have 3 years left to adopt AI",
-      "excerpt": "If your company has yet to embrace AI, you’re in a race against the clock. And by my calculations, you have just three years left.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/2024.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/24/deadline-2024-why-you-only-have-3-years-left-to-adopt-ai/amp/",
-      "publishedDateTime": "2021-07-24T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-why-ai-is-pushing-marketing-professionals-to-reinvent-themselves.md",
-      "title": "Why AI Is Pushing Marketing Professionals To Reinvent Themselves",
-      "excerpt": "A Five-Stage Road Map to Implementing Artificial Intelligence in Marketing,\" shares insight on how marketers must upskill to address the changing marketing landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/",
-      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f38130a051e8692ab4358e%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2021/07/24/why-ai-is-pushing-marketing-professionals-to-reinvent-themselves/amp/",
-      "publishedDateTime": "2021-07-24T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

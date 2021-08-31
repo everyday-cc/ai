@@ -129,15 +129,20 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "Federal Agencies Mostly Use Facial Recognition Tech for Digital Access"
-    excerpt: "The most popular uses for facial recognition technology (FRT) by federal agencies are cybersecurity and digital access, according to a new report by the United States Government Accountability Office. The GAO surveyed 24 agencies about their FRT activities ..."
-    publishedDateTime: 2021-08-26T20:35:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/how-feds-use-frt/"
+  - title: "Government agencies used Clearview facial recognition in 24 countries"
+    excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
+    publishedDateTime: 2021-08-31T11:03:00Z
+    webUrl: "https://www.computing.co.uk/news/4036424/government-agencies-clearview-facial-recognition-countries"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/957b3e5/1560dce2-db4e-469d-86cb-0b930d4c95fc/6/ClearviewAI-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "tI8r3LnLpDrrJMXjRK0m8Bkk7fYI5NiIvYh1b/3JPNp700VnwscX0TP9MtZFyhzF6LXmHFm+R1dkkm/VOGd/5RrkVQbd1qftKZ3KG6ajrzXAudkXvEwGrOkrspiEpXABGmZ2nE0dsxfPZRe+4QxG9/+1n3+1a1f3Tydm9k8Ztypje5hmVGzFfsTwOi52jSuv0dLoLiXiV4zz9c6RIIwuiBGTpJCbNBA7Lwg+hGpeETHoTIxpvlgNr2q+4w0pOByRXkDHN5NVgThVzM8xufxlofLJezB7jaofSlx6Ya8O/9B5Y2swbD5Hl8k4ruXqi0RCcPtSvnnDluj4QJ0BlZxpgSmLwze8y+tQd48kg3FxzB1c2EE2HAw+m4QlV9+3ugnTVq/Nvwbr2zP0xENjaM52vYuAlToOvlqwy3dsNVkq/eyiR6xwy8bJxbruOMmsKcor7vBu9XERVaaFdPEiid/wwaBg4i2MynBaH7PmxzD7Js7ZTbgC3+XyI96J8CndKYg3jhgcNDJJnbz8JFopfeHuid+6WOKTEGvF7GrVo6gyp7o=;jU3fYaq7uonaWj9qh0ujMQ=="
 ---

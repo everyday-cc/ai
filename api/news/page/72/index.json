@@ -2,6 +2,669 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-07-10-micron-technology-puts-its-cash-to-work-using-artificial-intelligence.md",
+      "title": "Micron technology puts its cash to work using artificial intelligence",
+      "excerpt": "The Boise, Idaho-based memory-chip maker says it is earning millions of dollars in extra returns on its deposits thanks to an AI tool developed in house",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/07/09/600x338/2021-07-01T093323Z_1643310723_RC2LBO9R6YOJ_RTRMADP_3_MICRON-TECH-RESULTS_1625837012609_1625837026629.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html",
+      "publishedDateTime": "2021-07-09T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-machine-learning-in-identity-and-access-management.md",
+      "title": "Machine Learning in Identity and Access Management",
+      "excerpt": "Due to the challenges of identifying rapidly evolving threats, cybersecurity has come to rely on artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
+      "originalUrl": "https://cloudsecurityalliance.org/articles/machine-learning-in-identity-and-access-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f263b659c87472eac3e8132435d7b02d6033918/Machine-Learning-in-Identity-and-Access-Management.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Security Alliance",
+        "domain": "cloudsecurityalliance.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
+      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
+      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
+      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://courthousenewswebsite.kinsta.cloud/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
+      "publishedDateTime": "2021-07-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-the-man-who-invented-the-self-driving-car-in-1986.md",
+      "title": "The man who invented the self-driving car (in 1986)",
+      "excerpt": "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "originalUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2018/07/ericPetersen_selfDrivingCars_RGB-e1532325107404-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "publishedDateTime": "2021-07-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-ai-brings-promise-and-peril-to-customer-relations-management.md",
+      "title": "AI brings promise and peril to customer relations management",
+      "excerpt": "Keeping customers happy requires a lot of data, and CRM platforms are increasingly relying on AI to meet those expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/",
+      "originalUrl": "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/10/crm-stock-photo-e1625854062467.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/amp/",
+      "publishedDateTime": "2021-07-09T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-is-the-us-labor-shortage-the-big-break-ai-needs.md",
+      "title": "Is the US labor shortage the big break AI needs?",
+      "excerpt": "Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
+      "originalUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-748338005-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
+      "publishedDateTime": "2021-07-09T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance.md",
+      "title": "AI Weekly: TikTok’s algorithm licensing signals China’s play for AI dominance",
+      "excerpt": "Join AI & data leaders at Transform 2021 on July 12th for the AI/ML Automation Technology Summit. Register today. This week, TikTok parent company ByteDance began licensing parts of its AI technologies to third parties through a new division called BytePlus.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/",
+      "originalUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/TikTok.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/",
+      "publishedDateTime": "2021-07-09T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
+      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
+      "excerpt": "Meanwhile, Brain Ventures has developed an AI video content automatic translator and short answer ... and communicates with human languages.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "originalUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "publishedDateTime": "2021-07-09T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-voice-recognition-for-automotive-market-latest-scenario-on-innovation-revolutionary-opportunities-top-consumers-2027.md",
+      "title": "Voice Recognition for Automotive Market – Latest Scenario On Innovation, Revolutionary Opportunities & Top Consumers 2027",
+      "excerpt": "The new report on the Voice Recognition for Automotive Market provides estimations of the size of the global market and share and size of key regional markets during the historical period of 2014 – 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/07/09/voice-recognition-for-automotive-market-latest-scenario-on-innovation-revolutionary-opportunities-top-consumers-2027/",
+      "originalUrl": "https://ksusentinel.com/2021/07/09/voice-recognition-for-automotive-market-latest-scenario-on-innovation-revolutionary-opportunities-top-consumers-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/FJkJhCy/Researchmoz-24.jpg",
+          "width": 640,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
+      "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
+      "excerpt": "G is beginning to power everything from connected farms to connected cars! Recently, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile (NASDAQ: TMUS) 5G network in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/news-direct-corporation/business-technology-las-vegas-driverless-cars-6c9abdf2474149cda45f5a433d8f4e7f",
+      "originalUrl": "https://apnews.com/press-release/news-direct-corporation/business-technology-las-vegas-driverless-cars-6c9abdf2474149cda45f5a433d8f4e7f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-technion-study-finds-warmth-of-ai-systems-more-important-than-capability.md",
+      "title": "Technion Study Finds Warmth of AI Systems More Important Than Capability",
+      "excerpt": "Researchers found that potential users of artificial intelligence systems consider such systems’ “warmth” more important than capability and competence.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/253877-technion-study-finds-warmth-of-ai-systems-more-important-than-capability/fulltext",
+      "originalUrl": "https://cacm.acm.org/news/253877-technion-study-finds-warmth-of-ai-systems-more-important-than-capability/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-dynamic-ab-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects.md",
+      "title": "Dynamic A/B testing for machine learning models with Amazon SageMaker MLOps projects",
+      "excerpt": "In this post, you learn how to create a MLOps project to automate the deployment of an Amazon SageMaker endpoint with multiple production variants for A/B testing. You also deploy a general purpose API and testing infrastructure that includes a multi-armed bandit experiment framework. This testing infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/dynamic-a-b-testing-for-machine-learning-models-with-amazon-sagemaker-mlops-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/23/14-3239-Architecture.jpg",
+          "width": 800,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T11:07:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine.md",
+      "title": "How AI Is Transforming the Healthcare Landscape & Accelerating the Development of Medicine",
+      "excerpt": "The world of big data in the healthcare sector is vast and growing exponentially. Tools that leverage artificial intelligence (AI) and machine learning (ML) are critical to organizing, correlating, making sense of and generating useful discoveries from this avalanche of healthcare and medical data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine",
+      "originalUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-is-transforming-the-healthcare-landscape-accelerating-the-development-of-medicine?amp",
+      "publishedDateTime": "2021-07-09T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-us-sanctions-a-chinese-facial-recognition-company-with-silicon-valley-funding.md",
+      "title": "US sanctions a Chinese facial recognition company with Silicon Valley funding",
+      "excerpt": "DeepGlint, also known as Beijing Geling Shentong Information Technology Co., Ltd., is a facial recognition company with deep ties to Chinese police surveillance, and funding from US-based Sequoia Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/us-sanctions-a-chinese-facial-recognition-company-with-silicon-valley-funding/ar-AALYjHH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/eGtjTnlDLWadmcCPthwq1RA4u_o=/0x0:640x355/1400x933/filters:focal(269x127:371x229):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69562258/Hitachi_Kokusai_Electric_surveillance_system_640.0.jpg",
+          "width": 640,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
+      "publishedDateTime": "2021-07-09T10:42:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
+        "domain": "theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-quotable-quotes-from-waic-2021.md",
+      "title": "Quotable quotes from WAIC 2021",
+      "excerpt": "Artificial intelligence has made life increasingly ... Baidu has just rolled out the latest driverless robotaxi service Apollo, which will be cheaper than the current ride-hailing services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202107/08/WS60e6db24a310efa1bd660a5c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202107/08/60e6ddd1a310efa1e3ad381b.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments.md",
       "title": "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments",
       "excerpt": "agile reporting and/or embarking on innovation leveraging Azure Machine Learning and AI. Insight’s cadre of more than 2,000 Microsoft-focused services and technical professionals includes a ...",
@@ -493,667 +1156,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-sensetime-joins-hands-with-global-innovators-to-build-a-sustainable-ai-ecosystem.md",
-      "title": "SenseTime Joins Hands with Global Innovators to Build a Sustainable AI Ecosystem",
-      "excerpt": "SenseTime, the leading global artificial intelligence (AI) company, hosted an industry forum themed \"AI+: Ecosystem\" at the 2021 World Artificial Intelligence Conference (WAIC) today. The forum gathered influential entrepreneurs,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sensetime-joins-hands-with-global-innovators-to-build-a-sustainable-ai-ecosystem-1030592716",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sensetime-joins-hands-with-global-innovators-to-build-a-sustainable-ai-ecosystem-1030592716",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1560817/Xu_Li__Co_founder_and_CEO_of_SenseTime_introduced_SenseCore_AI_Infrastructure.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-halo-brings-driverless-car-rental-to-las-vegas.md",
-      "title": "Halo Brings Driverless Car Rental to Las Vegas",
-      "excerpt": "All-electric rental car startup Halo this week announced plans for an autonomous vehicle service in Las Vegas, powered by T-Mobile 5G. Halo, which has been test driving on Las Vegas public streets for months,",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/134405/halo-brings-driverless-car-rental-to-las-vegas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/h/halo-bring/halo-brings-driverless-car-rental-to-las-vegas_w7ty.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-is-stmicroelectronics-a-good-investment-choice.md",
-      "title": "Is STMicroelectronics a Good Investment Choice?",
-      "excerpt": "STMicroelectronics’ (STM) advanced semiconductor technologies that support the needs of smart vehicles and other industrial applications have",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/376857",
-      "originalUrl": "https://www.entrepreneur.com/article/376857",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-376857.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376857",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376857",
-      "publishedDateTime": "2021-07-09T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-facebook-teaches-ai-powered-robot-to-adapt-while-walking.md",
-      "title": "Facebook teaches AI-powered robot to adapt while walking",
-      "excerpt": "The four-legged robot resembles a dog walking over sand, rocks and other difficult surfaces. As it moves forward, the black robot adjusts its stride and adapts without falling.  Teaming up with Carnegie Mellon University's School of Computer Science and the University of California,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/facebook-teaches-ai-powered-robot-to-adapt-while-walking/ar-AALXY7A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/iAIGEalDuoiDn3gwEVgLxEHOMek=/1200x630/2021/07/08/7bb81b3f-e294-4989-bd8a-5c5d7b0fc7d5/gettyimages-1262875305.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-      "publishedDateTime": "2021-07-09T05:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-        "domain": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting.md",
-      "title": "How Manufacturers Can Get The Most Out Of AI-Based ERPs For Auditing And Forecasting",
-      "excerpt": "AI is advancing at a fast pace worldwide and will impact many areas of daily life including your current or future ERP system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064dbb8610333ea7f4c8408%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/amp/",
-      "publishedDateTime": "2021-07-09T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-ai-gadgets-solutions-on-show-at-world-ai-conference-in-shanghai.md",
-      "title": "AI gadgets, solutions on show at World AI Conference in Shanghai",
-      "excerpt": "The AI+AR Minibus by SenseTime at the 2021 ... It also can support photo translation in 32 languages, simultaneous translation of 16 languages without the need to be connected to the internet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202107/09/WS60e81e4ea310efa1bd660ec1.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202107/09/WS60e81e4ea310efa1bd660ec1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202107/09/60e823e0a310efa1e3ad81b4.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai.md",
-      "title": "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai",
-      "excerpt": "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (\"OneConnect\" or \"the Company\"), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the (WAIC 2021) held in Shanghai from July 8-10,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1560742/OneConnect_at_World_Artificial_Intelligence_Conference_2021.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change.md",
-      "title": "Cell Therapy Technologies Global Market Report 2021: COVID-19 Growth And Change",
-      "excerpt": "Reportlinker.com announces the release of the report \"Cell Therapy Technologies Global Market Report 2021: COVID-19 Growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/g21910556/cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/g21910556/cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot.md",
-      "title": "CBA turns focus on applying responsible AI following national ethics framework pilot",
-      "excerpt": "Commonwealth Bank of Australia (CBA) has revealed that testing the federal government's artificial intelligence (AI) ethics principles during the creation and design of its Commbank app feature Bill Sense gave insight into how the bank could apply ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "originalUrl": "https://www.zdnet.com/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
-      "publishedDateTime": "2021-07-08T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-intel-exec-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-in-ai.md",
-      "title": "Intel exec Huma Abidi on the urgent need for diversity and inclusion in AI",
-      "excerpt": "Intel's Huma Abidi talks about her DE&I initiatives both in her private life and as part of Intel's ongoing efforts across the company.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/HumaA-DSC04128-2021-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/amp/",
-      "publishedDateTime": "2021-07-08T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-using-video-feeds-from-public-traffic-cameras-and-computer-vision-to-analyze-social-distancing-and-travel-patterns-during-the-covid-19-pandemic.md",
-      "title": "Using Video Feeds from Public Traffic Cameras and Computer Vision to Analyze Social Distancing and Travel Patterns during the COVID-19 Pandemic",
-      "excerpt": "For USDOT specific COVID-19 resources, please visit our page. Researchers at the Connected Cities for Smart Mobility towards Accessible and Reliable Transportation (C2SMART) University Transportation Center (UTC),",
-      "sourceUrl": null,
-      "webUrl": "https://www.transportation.gov/utc/using-video-feeds-public-traffic-cameras-and-computer-vision-analyze-social-distancing-and",
-      "originalUrl": "https://www.transportation.gov/utc/using-video-feeds-public-traffic-cameras-and-computer-vision-analyze-social-distancing-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. Department of Transportation",
-        "domain": "transportation.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-aws-iot-core-for-lorawan-comes-to-sydney-cloud-region.md",
-      "title": "AWS IoT Core for LoRaWAN comes to Sydney cloud region",
-      "excerpt": "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post during its general availability ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/",
-      "originalUrl": "https://www.arnnet.com.au/article/689680/aws-iot-core-lorawan-comes-sydney-cloud-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
-      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
-      "excerpt": "The selection as the data voucher processing company is a feat accomplished by Brain Ventures, an AI-based natural language processing company, after 9 months of its establishment. It was evaluated highly for tangible research achievements such as the publication of research papers on AI natural language processing and the application of 5 patents and trademarks in a short period of time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-natural-language-processing-company-bra-ventures-selected-/2021/07/09/9406147.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-heres-why-amazon-doesnt-sell-these-14-things.md",
-      "title": "Here’s Why Amazon Doesn’t Sell These 14 Things",
-      "excerpt": "In June 2020, in response to the outpouring of protest against racial injustice and systemic racism, Amazon announced that it would stop selling “Rekognition,” its facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/list/amazon-doesnt-sell-these-things/",
-      "originalUrl": "https://www.rd.com/list/amazon-doesnt-sell-these-things/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure.md",
-      "title": "Pentagon Document Shows HPC Key to DoD’s Post-JEDI Cloud Strategy; Early Co-favorites: AWS and Azure",
-      "excerpt": "In its July 6 announcement, DoD said that JEDI’s single supplier approach would be replaced by multiple providers, most likely AWS and Azure – though ... Command and Control (JADC2) and the Artificial Intelligence and Data Acceleration (ADA) initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/07/pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure/",
-      "originalUrl": "https://insidehpc.com/2021/07/pentagon-document-shows-hpc-key-to-dods-post-jedi-cloud-strategy-early-co-favorites-aws-and-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/08/Department-of-Defense-DOD-seal.png",
-          "width": 600,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,712 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-07-20-with-auto-chip-shortage-easing-are-semiconductor-equipment-stocks-still-a-buy.md",
+      "title": "With Auto Chip Shortage Easing, Are Semiconductor Equipment Stocks Still A Buy?",
+      "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity. The stocks in the theme have had a relatively mixed couple of days,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/07/20/with-auto-chip-shortage-easing-are-semiconductor-equipment-stocks-still-a-buy/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/07/20/with-auto-chip-shortage-easing-are-semiconductor-equipment-stocks-still-a-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2ea7a3525e3f86a796cf5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-ai-adoption-and-analytics-are-rising-survey-finds.md",
+      "title": "AI adoption and analytics are rising, survey finds",
+      "excerpt": "Businesses are accelerating their adoption of analytics, according to a new survey from Zoho-owned ManageEngine.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/",
+      "originalUrl": "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/businesses-are-accelerating-their-adoption-of-analytics-survey-finds/amp/",
+      "publishedDateTime": "2021-07-20T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-untether-ai-nabs-125m-for-ai-acceleration-chips.md",
+      "title": "Untether AI nabs $125M for AI acceleration chips",
+      "excerpt": "Untether AI, a startup developing custom-built chips for AI inferencing workloads, today announced that it raised $125 million from Tracker Capital. The round, which was oversubscribed and had participation from Canada Pension Plan Investment Board and Radical Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/20/untether-ai-nabs-125m-for-ai-acceleration-chips/",
+      "originalUrl": "https://venturebeat.com/2021/07/20/untether-ai-nabs-125m-for-ai-acceleration-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/20/untether-ai-nabs-125m-for-ai-acceleration-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/untether-ai-nabs-125m-for-ai-acceleration-chips/amp/",
+      "publishedDateTime": "2021-07-20T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-google-unveils-self-driving-cloud-security-feature.md",
+      "title": "Google unveils ‘self-driving’ cloud security feature",
+      "excerpt": "At its Security Summit, Google Cloud announced Chronicle integrations, Cloud IDS, an autonomic security operations stack, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/",
+      "originalUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/04/cloud_security-shutterstock_238417594-e1626720984465.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/google-unveils-self-driving-cloud-security-feature/amp/",
+      "publishedDateTime": "2021-07-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-nvidia-releases-tensorrt-8-for-faster-ai-inference.md",
+      "title": "Nvidia releases TensorRT 8 for faster AI inference",
+      "excerpt": "The latest version of Nvidia's software development kit for AI inference speeds up inference performance with certain models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/",
+      "originalUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1588214925726.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/20/nvidia-releases-tensorrt-8-for-faster-ai-inference/amp/",
+      "publishedDateTime": "2021-07-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-introduction-to-the-symposium-on-limitations-of-the-behavioral-turn-in-international-law.md",
+      "title": "Introduction to the Symposium on Limitations of the Behavioral Turn in International Law",
+      "excerpt": "Behavioral Assumptions in Rationalist and Constructivist Approaches to International Law How Insights from Cognitive Research and Behavioral Economics Can Inform Rationalist and Constructivist Approaches to International Law Methodological and Normative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/introduction-to-the-symposium-on-limitations-of-the-behavioral-turn-in-international-law/E9A9C9BA81522AAE5EC90B2344FAB66D",
+      "originalUrl": "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/introduction-to-the-symposium-on-limitations-of-the-behavioral-turn-in-international-law/E9A9C9BA81522AAE5EC90B2344FAB66D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-infobirds-successful-launch-of-intelligent-saas-for-a-leading-fintech-company-paves-the-way-for-further-expansion-in-financial-industry.md",
+      "title": "Infobird’s Successful Launch of Intelligent SaaS for a Leading Fintech Company Paves the Way for Further Expansion in Financial Industry",
+      "excerpt": "Standardized AI Product Enables Optimization of Customer Service of Fintech Service Platform BEIJING, CHINA / ACCESSWIRE / July 20, 2021 / Infobird Co., Ltd (Nasdaq:IFBD) (“Infobird” or the “Company”),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-2fcaf5aa6c7c11c5451b9eb175c3f3ef",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-dotdata-announces-automated-feature-engineering-on-the-databricks-platform.md",
+      "title": "dotData Announces Automated Feature Engineering On The Databricks Platform",
+      "excerpt": "SAN MATEO, Calif., July 20, 2021 /PRNewswire/ -- dotData, a leader in full-cycle enterprise AI automation solutions, today announced that its award-winning Automated Feature Engineering (AutoFE) technology is now fully integrated with and available on the Databricks Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-2b8e81c84c9e9caba301f51646db817a",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-2b8e81c84c9e9caba301f51646db817a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-why-are-there-so-few-direct-to-consumer-ai-startups.md",
+      "title": "Why Are There So Few Direct-To-Consumer AI Startups?",
+      "excerpt": "Jensen Huang, CEO of Nvidia, famously said, “Software is eating the world, but AI is going to eat software.” Somehow, most of the events in the artificial intelligence world are still happening behind the scenes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/why-are-there-so-few-direct-to-consumer-ai-startups/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/why-are-there-so-few-direct-to-consumer-ai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c37723bcebb249a5d22c16%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-path-robotics-raises-another-100m.md",
+      "title": "Path Robotics raises another $100M",
+      "excerpt": "Path Robotics announced a $56 million Series B. It was a sizable raise, as far as robotics rounds go. But the Columbus, Ohio-based startup is already back for more, raising a “pre-emptive” Series C a mere two and a half months later.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/20/path-robotics-raises-another-100m/",
+      "originalUrl": "https://techcrunch.com/2021/07/20/path-robotics-raises-another-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/Factory_Scenario_Perspective.jpg?w=1024",
+          "width": 1024,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/20/path-robotics-raises-another-100m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/path-robotics-raises-another-100m/amp/",
+      "publishedDateTime": "2021-07-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-edtech-startup-careerninja-raises-pre-seed-from-unitus-ventures.md",
+      "title": "Edtech Startup CareerNinja Raises Pre-Seed From Unitus Ventures",
+      "excerpt": "CareerNinja has recently raised an undisclosed amount in pre-Seed funding from Unitus Ventures. The AI-powered edtech platform democratizes quality learning at affordable rates for anyone seeking to upskill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/377845",
+      "originalUrl": "https://www.entrepreneur.com/article/377845",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626782003-3.png?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377845",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377845",
+      "publishedDateTime": "2021-07-20T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-plyable-harness-the-latest-in-ai-and-computer-vision-to-deliver-innovation.md",
+      "title": "Plyable Harness The Latest In AI And Computer Vision To Deliver Innovation",
+      "excerpt": "Plyable harness the latest in AI and computer vision to deliver innovation in the manufacturing space - read at TechRound >>",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/tech/plyable/",
+      "originalUrl": "https://techround.co.uk/tech/plyable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2021/07/CAD-1.jpg",
+          "width": 508,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/tech/plyable/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/plyable/amp/",
+      "publishedDateTime": "2021-07-20T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-ai-in-fashion-market-size-2021-is-booming-worldwide-microsoft-ibm-google-aws-sap-facebook.md",
+      "title": "AI in Fashion Market Size 2021 is Booming Worldwide| Microsoft , Ibm , Google , Aws , Sap , Facebook",
+      "excerpt": "The Global AI in Fashion Market Report provides extensive insight into key strategic and market development studies, along with dominant market opportunities during the forecast period to 2023. AI in Fashion market growth and segment details market demand,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-fashion-market-size-2021-is-booming-worldwide-microsoft-ibm-google-aws-sap-facebook/",
+      "originalUrl": "https://manometcurrent.com/ai-in-fashion-market-size-2021-is-booming-worldwide-microsoft-ibm-google-aws-sap-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-edge-ai-software-market-generated-600-million-revenue-in-2020-ps-intelligence.md",
+      "title": "Edge AI Software Market Generated $600 Million Revenue in 2020: P&S Intelligence",
+      "excerpt": "The imposition of lockdowns in several countries to mitigate the spread of the COVID-19 infection negatively impacted the operations of many businesses, but positively impacted the growth of the edge AI software market.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102442643/Edge-AI-Software-Market-Generated-600-Million-Revenue-in-2020-PS-Intelligence",
+      "originalUrl": "https://menafn.com/1102442643/Edge-AI-Software-Market-Generated-600-Million-Revenue-in-2020-PS-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?91917",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager.md",
+      "title": "Insig AI Wins Contract to License Its Data Tool to Investment Manager",
+      "excerpt": "By Sabela Ojea Insig AI PLC said Tuesday that it has won a contract with a London-based alternative investment manager that has signed an annual license",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
+      "originalUrl": "https://www.marketwatch.com/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
+      "publishedDateTime": "2021-07-20T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026.md",
       "title": "Artificial Intelligence (AI) in Education Market Report 2021, Industry Size, Outlook, Production, Revenue, Gross Margin and Forecast to 2026",
       "excerpt": "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Artificial Intelligence (AI)",
@@ -455,693 +1161,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-watson-as-a-warning-current-limits-and-promise-of-ai.md",
-      "title": "Watson as a Warning: Current Limits and Promise of AI",
-      "excerpt": "Last week the New York Times ran a cautionary tale about how IBM tried and failed to use its heavily branded AI solution called Watson to transform the business world and solidify IBM’s future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai",
-      "originalUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
-      "publishedDateTime": "2021-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-what-driverless-cars-tell-us-about-industrial-policy.md",
-      "title": "What driverless cars tell us about industrial policy",
-      "excerpt": "Among the industries picked as critical to that endeavor: aerospace, artificial intelligence ... miles — since 2019 when it began operating a driverless service in Phoenix, Arizona.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aei.org/economics/what-driverless-cars-tells-us-about-industrial-policy/",
-      "originalUrl": "https://www.aei.org/economics/what-driverless-cars-tells-us-about-industrial-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Enterprise Institute",
-        "domain": "aei.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-ai-startup-lunit-secures-investment-from-guardant-health-in-a-strategic-funding-round.md",
-      "title": "AI Startup Lunit Secures Investment from Guardant Health in a Strategic Funding Round",
-      "excerpt": "Lunit, a leading AI startup in AI-powered cancer solutions, today announced a strategic investment of $26 million from Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company. The deal,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-ccab9c3ab8adb05489bd687255293d68",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-ccab9c3ab8adb05489bd687255293d68",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-supply-chain-threats-demand-industrywide-approach-to-ai.md",
-      "title": "Supply chain threats demand industrywide approach to AI",
-      "excerpt": "As supply chain threats get more complex, organizations need to adopt an industrywide approach to creating open standards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/amdgoldman.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/supply-chain-threats-demand-industrywide-approach-to-ai/amp/",
-      "publishedDateTime": "2021-07-19T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes.md",
-      "title": "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes",
-      "excerpt": "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time .",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-unit4-83-of-finance-pros-expect-to-upskill-on-ai-in-2-years.md",
-      "title": "Unit4: 83% of finance pros expect to upskill on AI in 2 years",
-      "excerpt": "Over the next two years, 75% of finance professionals believe their day jobs will significantly change, according to a Unit4 survey.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/unit4-83-of-finance-pros-expect-to-upskill-on-ai-in-2-years/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/unit4-83-of-finance-pros-expect-to-upskill-on-ai-in-2-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/12/data1-e1622283525240.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/unit4-83-of-finance-pros-expect-to-upskill-on-ai-in-2-years/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/unit4-83-of-finance-pros-expect-to-upskill-on-ai-in-2-years/amp/",
-      "publishedDateTime": "2021-07-19T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-video-of-robots-dancing-causes-internet-frenzy-creepy.md",
-      "title": "Video of Robots Dancing Causes Internet Frenzy: \"Creepy\"",
-      "excerpt": "A new video of a dancing robot went viral on Twitter this week for garnering myriad reactions about what new robotic capabilities could mean down the line. Imagine what AI powered machines will be able to do in the next 5-10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/377766",
-      "originalUrl": "https://www.entrepreneur.com/article/377766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626727321-robot-dancing.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377766",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377766",
-      "publishedDateTime": "2021-07-19T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-ultimas-ia-connect-enables-microsofts-power-automate-to-be-used-with-legacy-applications.md",
-      "title": "Ultima's IA-Connect enables Microsoft's Power Automate to be used with Legacy Applications",
-      "excerpt": "Cloud specialist and automation provider, Ultima, has today announced it has extended the capabilities of its IA-Connect tool to help… | Technology | Technology | National | Business Growth |",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2021/07/19/ultimas-ia-connect-enables-microsofts-power-automate-to-be-used-with-legacy-applications",
-      "originalUrl": "https://bdaily.co.uk/articles/2021/07/19/ultimas-ia-connect-enables-microsofts-power-automate-to-be-used-with-legacy-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/hZVUA1u8omtjKQKsQs6ptdMXaBoLWBvAg3u3WSYR.jpeg?w=940&h=430&fit=crop-49-50&s=7298f6803204db67fcacff60ecba7168",
-          "width": 940,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist.md",
-      "title": "Edge AI’s benefits bring ‘much higher’ security risks, says McAfee data scientist",
-      "excerpt": "Weighing the pros and cons of edge AI and the cloud can be difficult, McAfee's chief data scientist explained at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/mcafee.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/amp/",
-      "publishedDateTime": "2021-07-19T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-threat-modeling-can-protect-data-used-by-ai-assistants.md",
-      "title": "Threat modeling can protect data used by AI assistants",
-      "excerpt": "Gusto's Jamie Tomasello explains how threat modeling can help protect AI assistants' data in an interview at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/gusto.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/threat-modeling-can-protect-data-used-by-ai-assistants/amp/",
-      "publishedDateTime": "2021-07-19T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-top-stocks-to-buy-this-week-4-av-stocks-to-know.md",
-      "title": "Top Stocks To Buy This Week? 4 AV Stocks To Know",
-      "excerpt": "The company is essentially an artificial intelligence computing company ... This project has since turned into Waymo. Starting from June, Waymo One, the ride-hailing service that uses driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19",
-      "originalUrl": "https://www.nasdaq.com/articles/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-nvidia-dives-into-industrial-high-performance-computing-with-hgx-platform.md",
-      "title": "NVIDIA Dives Into Industrial High-performance Computing with HGX Platform",
-      "excerpt": "NVIDIA's A100 Tensor Core GPU. Screenshot used Courtesy of NVIDIA It boasts an efficiency twenty times higher than the existing NVIDIA Volta generation, a feature that can adequately meet data analytics, HPC, and AI needs. It is multi-instance GPU-enabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.allaboutcircuits.com/news/nvidia-dives-into-industrial-hpc-with-hgx-platform/",
-      "originalUrl": "https://www.allaboutcircuits.com/news/nvidia-dives-into-industrial-hpc-with-hgx-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/NVIDIA_HGX_HPC_Platform_thumbnail.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-awesome-did-you-know-khaya-is-ghanas-first-translator-app.md",
-      "title": "Awesome! Did you know Khaya is Ghana’s first Translator App?",
-      "excerpt": "It also allows one to translate the same from the four mentioned African languages to English. An interesting feature of this AI beauty is that it goes beyond the knowledge base of the creators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
-      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ghanaweb.com/imagelib/pics/689/68968036.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ghanaweb.com",
-        "domain": "ghanaweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-new-toolkit-aims-to-help-teams-create-responsible-human-ai-experiences.md",
-      "title": "New toolkit aims to help teams create responsible human-AI experiences",
-      "excerpt": "The post New toolkit aims to help teams create responsible human-AI experiences appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai-for-business/hax-toolkit/",
-      "originalUrl": "https://blogs.microsoft.com/ai-for-business/hax-toolkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2021/07/HAX_MSC21_PICHA_remoteWorkplace_82783-1-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T09:11:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live.md",
-      "title": "Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live",
-      "excerpt": "We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
-      "originalUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/ECL-2021-july-21-startup-alley-1.jpg?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
-      "publishedDateTime": "2021-07-19T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

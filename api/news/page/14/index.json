@@ -2,6 +2,640 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-19-baidus-kunlun-ii-ai-chips-enter-mass-production.md",
+      "title": "Baidu's Kunlun II AI chips enter mass production",
+      "excerpt": "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg",
+          "width": 400,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-meet-the-designer-who-makes-high-tech-nail-art-and-fights-facial-recognition-with-flowers.md",
+      "title": "Meet the designer who makes high-tech nail art and fights facial recognition with flowers",
+      "excerpt": "She also strategically applies makeup to combat facial recognition software. Based in North Carolina, McDonald is the co-founder of Blink Blink Creative Circuit Kits, which makes gender inclusive ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
+      "originalUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/05DJAH5r01nPj2qk8Bpg729/hero-image.fill.size_1200x675.v1628106617.png",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-call-center-automation-startup-balto-secures-37m.md",
+      "title": "Call center automation startup Balto secures $37M",
+      "excerpt": "Balto, a call center automation startup based in St. Louis, has raised $37 million in series B funding for its agent coaching AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/",
+      "originalUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_344231354-e1628723101457.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/",
+      "publishedDateTime": "2021-08-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-pinterest-introduces-a-computer-vision-powered-hair-pattern-search.md",
+      "title": "Pinterest Introduces a Computer Vision-Powered Hair Pattern Search",
+      "excerpt": "Pinterest this week rolled out hair pattern search, a \"first-of-its-kind\" technology created with pinners of color in mind. Using computer vision-powered object detection, the feature enables users to refine hair searches by six different patterns: protective,",
+      "sourceUrl": null,
+      "webUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "originalUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_aj3c.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-tesla-ai-day-might-rely-on-one-more-thing-moment-to-be-impactful.md",
+      "title": "Tesla AI Day might rely on ‘one more thing’ moment to be impactful",
+      "excerpt": "Tesla is holding its ‘AI Day’ today and the automaker might have to rely on a ‘one more thing’ moment for the presentation to be impactful and move the needle. Over the last few years, Tesla started holding events,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/",
+      "originalUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-snake-charger.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/",
+      "publishedDateTime": "2021-08-19T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-dow-selloff-nvidia-tesla-ai-day-robinhood-5-things-you-must-know-thursday.md",
+      "title": "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday",
+      "excerpt": "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ...",
+      "sourceUrl": null,
+      "webUrl": "https://thestreet.com/markets/5-things-you-must-know-before-market-opens-thursday-081921",
+      "originalUrl": "https://thestreet.com/markets/5-things-you-must-know-before-market-opens-thursday-081921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMzQxNzA2MTY1OTIxNzMy/13-wells-fargo-roman-tiraspolsky--shutterstock.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921",
+      "publishedDateTime": "2021-08-19T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-machine-learning-transforming-the-lending-industry.md",
+      "title": "Machine learning: Transforming the lending industry",
+      "excerpt": "Machine learning algorithms are capable of delving into petabytes of data to comprehend the specific needs of individual customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/",
+      "originalUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/machine-learning-5290464_640.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/machine-learning-transforming-lending-industry/amp/",
+      "publishedDateTime": "2021-08-19T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-seeking-global-recognition-taliban-take-a-new-approach-making-nice.md",
+      "title": "Seeking Global Recognition, Taliban Take a New Approach: Making Nice",
+      "excerpt": "The group’s head-spinning claims of moderation follow a common playbook for rebel-held governments, with mixed lessons for Afghanistan’s future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/18/world/18int-afghan2/18int-afghan2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html",
+      "publishedDateTime": "2021-08-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-waymo-begins-work-on-dedicated-texas-hub-for-self-driving-trucks.md",
+      "title": "Waymo begins work on dedicated Texas hub for self-driving trucks",
+      "excerpt": "Alphabet-owned Waymo is looking to gain a strong foothold in the nascent autonomous freight industry, today announcing plans to build a dedicated hub for its self-driving trucks in the state of Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
+      "originalUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/6981b2a/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fb3%2Faf7f948749be8c11427aabf027e8%2Fryder-waymo.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
+      "publishedDateTime": "2021-08-18T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security.md",
+      "title": "Smart robots taming our lands for cultivation is a better stake at food security",
+      "excerpt": "As we look through the shimmering research agricultural fields under several agricultural engineering Universities, we may be able find robots navigating its field by sending out numerous laser pulses to scan the environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theindianwire.com/environment/smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security-319240/",
+      "originalUrl": "https://www.theindianwire.com/environment/smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security-319240/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theindianwire.com/wp-content/uploads/2021/08/agricultural-mapping-system-DJI.jpg",
+          "width": 1000,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theindianwire.com/environment/smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security-319240/amp/",
+      "cdnAmpWebUrl": "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/environment/smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security-319240/amp/",
+      "publishedDateTime": "2021-08-18T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Wire",
+        "domain": "theindianwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
+      "title": "Baidu says 2nd-gen Kunlun AI chips enter mass production",
+      "excerpt": "BEIJING, Aug 18 (Reuters) - Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
+      "originalUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210818&t=2&i=1572224486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7H07S",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
+      "publishedDateTime": "2021-08-18T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan.md",
+      "title": "Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan",
+      "excerpt": "Amazon has rolled out India’s first celebrity voice feature on Alexa with the nation’s biggest movie star Amitabh Bachchan as the company makes a push to lure more users in the world’s second-most populated nation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
+      "originalUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-102146713.jpg?w=1024",
+          "width": 1024,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
+      "publishedDateTime": "2021-08-18T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-how-ai-powered-tech-landed-a-man-in-jail-with-scant-evidence.md",
+      "title": "How AI-Powered Tech Landed a Man in Jail With Scant Evidence",
+      "excerpt": "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-19/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-19/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHqdz8muF3jc/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-nvidia-forecast-beats-expectations-but-talks-on-40-bln-arm-deal-take-longer-than-expected.md",
       "title": "Nvidia forecast beats expectations, but talks on $40 bln Arm deal take longer than expected",
       "excerpt": "The disclosure came as Nvidia, the world's biggest maker of graphics chips for gamers and artificial intelligence chips ... Alphabet Inc's Waymo has started taking a few San Franciscans on rides ...",
@@ -561,609 +1195,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-chinas-baidu-unveils-a-level-5-robocar-with-no-steering-wheel-gull-wing-doors-that-moves-communicates-learns.md",
-      "title": "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'",
-      "excerpt": "China’s tech giant Baidu Inc held its annual \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public.",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/4813/China%25E2%2580%2599s-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-%26-Gull-Wing-Doors-That-%25E2%2580%2598Moves-Communicates-%26-Learns%25E2%2580%2599",
-      "originalUrl": "https://www.futurecar.com/4813/China%25E2%2580%2599s-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-%26-Gull-Wing-Doors-That-%25E2%2580%2598Moves-Communicates-%26-Learns%25E2%2580%2599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202108/18/l_611d70362ab4d.jpeg",
-          "width": 800,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-national-ai-research-resource-task-force-seeks-more-diverse-public-responses.md",
-      "title": "National AI Research Resource Task Force seeks more ‘diverse’ public responses",
-      "excerpt": "The task force designing a blueprint for a National Artificial Intelligence Research Resource extended the deadline to publicly comment on its work by a month to elicit more diverse responses. A few expected respondents asked for more time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
-      "originalUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation.md",
-      "title": "MDBootstrap: 70% of web developers support social benefits to ease AI transformation",
-      "excerpt": "Most developers recognize the danger that AI poses for web development jobs. Most of them agreed that AI transformation is likely to be a cause of widespread unemployment in the i",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/",
-      "originalUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/robot-2301646-e1628227212251.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/amp/",
-      "publishedDateTime": "2021-08-18T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-african-languages-to-get-more-bespoke-scientific-terms.md",
-      "title": "African languages to get more bespoke scientific terms",
-      "excerpt": "Many words common to science have never been written in African languages. Now, researchers from across Africa are changing that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02218-x?error=cookies_not_supported&code=b494e1b2-a6e5-4d59-b72a-66880a8578f9",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02218-x?error=cookies_not_supported&code=b494e1b2-a6e5-4d59-b72a-66880a8578f9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02218-x/d41586-021-02218-x_19578984.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics.md",
-      "title": "Artificial Intelligence (AI) Robots Market to Set Phenomenal Growth from 2021 to 2026 | ABB, Alphabet, Amazon, Asustek Computer, Blue Frog Robotics",
-      "excerpt": "Robots Market was valued USD xxxx unit in 2020 and is expected to reach USD xxxx Unit by the year 2025, growing at a CAGR of xx% globally. Global  (AI) Robots Market Overview: Global  (AI) Robots Market Report 2020 comes with the extensive industry analysis of development components,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/PR-01-Automotive-and-Transport-27.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
-      "publishedDateTime": "2021-08-18T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-the-taliban-may-have-seized-biometric-data-that-can-id-us-allies-in-afghanistan.md",
-      "title": "The Taliban may have seized biometric data that can ID US allies in Afghanistan",
-      "excerpt": "The US military created a vast database of biometric data — one report suggests it had a goal of 25 million entries — as part of its effort to track terrorists in Afghanistan. Now that the US has withdrawn from the country,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians",
-      "originalUrl": "https://www.theverge.com/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/gBab05-1PoA5uFaL0zyynVCRaYw=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69743102/122259189.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians",
-      "publishedDateTime": "2021-08-18T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-startup-that-develops-ai-pumped-robotic-arms-raises-37-million.md",
-      "title": "Startup That Develops AI-Pumped Robotic Arms Raises $37 Million",
-      "excerpt": "Rapid Robotics’ Series B was led by Kleiner Perkins and Tiger Global, and comes as labor and parts shortages are hitting the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957",
-      "originalUrl": "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-387697/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-mg-motor-unveils-astor-with-personal-ai-tool.md",
-      "title": "MG Motor unveils Astor with personal AI tool",
-      "excerpt": "MG Motor India on Wednesday unveiled its upcoming mid-size SUV ‘Astor’ that will come with a personal artificial intelligence (AI) assistant and level 2 autonomous driving technology. Astor, which the company plans to launch near the festive season,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/business/mg-motor-unveils-astor-with-personal-ai-tool/article35986763.ece",
-      "originalUrl": "https://www.thehindu.com/business/mg-motor-unveils-astor-with-personal-ai-tool/article35986763.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/business/5cac35/article35986762.ece/ALTERNATES/LANDSCAPE_615/MG-Astor",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/business/mg-motor-unveils-astor-with-personal-ai-tool/article35986763.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/mg-motor-unveils-astor-with-personal-ai-tool/article35986763.ece/amp/",
-      "publishedDateTime": "2021-08-18T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-startup-flawless-sets-new-ai-driven-neural-net-film-dubbing-lab-in-la-led-by-former-lionsgate-executive-ryan-black.md",
-      "title": "Startup Flawless Sets New AI-Driven “Neural Net” Film Dubbing Lab In LA Led By Former Lionsgate Executive Ryan Black",
-      "excerpt": "Flawless, a UK-based AI-entertainment venture that’s developed a new way of dubbing, is expanding Stateside and announced a raft of key industry hires for its new “neural net film lab” in Los Angeles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.imdb.com/news/ni63394689/",
-      "originalUrl": "https://www.imdb.com/news/ni63394689/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IMDb",
-        "domain": "imdb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-computer-scientist-explains-machine-learning-in-5-levels-of-difficulty.md",
-      "title": "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty",
-      "excerpt": "WIRED has challenged computer scientist and Hidden Door cofounder and CEO Hilary Mason to explain machine learning to 5 different people; a child, teen, a college student, a grad student and an expert.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/video/watch/5-levels-machine-learning",
-      "originalUrl": "https://www.wired.com/video/watch/5-levels-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1629229797/wired_5-levels-machine-learning.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features.md",
-      "title": "Senators call for investigation into Tesla’s marketing of self-driving vehicle features",
-      "excerpt": "Two Democratic senators have sent a letter to the Federal Trade Commission (FTC) asking for an investigation into Tesla’s marketing of its Autopilot and Fu",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumeraffairs.com/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html",
-      "originalUrl": "https://www.consumeraffairs.com/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.consumeraffairs.com/files/news/Tesla_company_concept_bankkgraphy_Getty_Images.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.consumeraffairs.com/amp/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html",
-      "cdnAmpWebUrl": "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/senators-call-for-investigation-into-teslas-marketing-of-self-driving-vehicle-features-081821.html",
-      "publishedDateTime": "2021-08-18T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ConsumerAffairs",
-        "domain": "consumeraffairs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-logic-explained-deep-neural-networks-a-general-approach-to-explainable-ai.md",
-      "title": "Logic Explained Deep Neural Networks: A General Approach to Explainable AI",
-      "excerpt": "Although deep learning models are playing increasingly important roles across a wide range of decision-making scenarios, a critical drawback is their inability to provide human-understandable motivations for their opaque or complex decision-making processes.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/",
-      "originalUrl": "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/amp/",
-      "publishedDateTime": "2021-08-18T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-a-crossword-puzzle-with-a-big-purpose.md",
-      "title": "A crossword puzzle with a big purpose",
-      "excerpt": "Before the pandemic, Alicia Chang was working on a new project. “I was experimenting with non-traditional ways to help teach Googlers the AI Principles,” she says. Alicia is a technical writer on the Engineering Education team focused on designing learning experiences to help Googlers learn about our",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/crossword-puzzle-big-purpose/",
-      "originalUrl": "https://blog.google/technology/ai/crossword-puzzle-big-purpose/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Crossword_V2_JNgkVl7.gif",
-          "width": 2096,
-          "height": 1182,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/crossword-puzzle-big-purpose/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/crossword-puzzle-big-purpose/amp/",
-      "publishedDateTime": "2021-08-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

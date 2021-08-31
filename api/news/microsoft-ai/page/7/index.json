@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-23-simplify-machine-learning-with-azure-applied-ai-services.md",
+      "title": "Simplify machine learning with Azure Applied AI Services",
+      "excerpt": "We’ve seen some of this with the evolution from Project Adam to Azure Cognitive Services. Now Microsoft is taking the next step, using that foundation to deliver a set of machine learning models that provide assistance with common tasks: Azure Applied AI Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
+      "originalUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_binary_code_neural_network_thinkstock_636754212-100724428-large.jpg",
+          "width": 700,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
+      "publishedDateTime": "2021-06-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-hpe-builds-lighthouse-platform-on-greenlake-services.md",
       "title": "HPE Builds Lighthouse Platform On GreenLake Services",
       "excerpt": "The hybrid cloud is convincing established players that they need to play on both sides of the net, in the cloud (as well as the edge) and on premises.",
@@ -1228,50 +1281,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-vehicle-speech-recognition-system-market-to-see-thriving-worldwide-apple-mercedes-benz-microsoft.md",
-      "title": "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft",
-      "excerpt": "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
-      "originalUrl": "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U611505535_g.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
-      "publishedDateTime": "2021-06-11T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

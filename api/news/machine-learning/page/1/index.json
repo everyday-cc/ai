@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-31-these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success.md",
+      "title": "These Four Challenges In Adopting Machine Learning Can Lower Your ROI And Sabotage Success",
+      "excerpt": "Even with all machine learning wins across industries, some businesses still run aground on unseen barriers, preventing or limiting their ROI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600868f6f4ac5531fe3e6248%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/31/these-four-challenges-in-adopting-machine-learning-can-lower-your-roi-and-sabotage-success/amp/",
+      "publishedDateTime": "2021-08-31T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-deserialization-bug-in-tensorflow-machine-learning-framework-allowed-arbitrary-code-execution.md",
       "title": "Deserialization bug in TensorFlow machine learning framework allowed arbitrary code execution",
       "excerpt": "The team behind TensorFlow, Google’s popular open source Python machine learning library, has revoked support for YAML due to an arbitrary code execution vulnerability. YAML is a general-purpose format used to store data and pass objects between processes and applications.",
@@ -135,49 +188,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-30-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning.md",
-      "title": "Playing catch-up to the early adopters of analytics, AI and machine learning",
-      "excerpt": "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff",
-      "originalUrl": "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e",
-          "width": 410,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff",
-      "publishedDateTime": "2021-08-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-30-artificial-intelligence-answers-covid-questions.md",
       "title": "Artificial intelligence answers COVID questions",
       "excerpt": "A chatbot that is based on an artificial neural network that can carry out natural language processing (NLP) is being developed by researchers in India. The team describes how the chatbot can be programmed to answer questions related to the COVID-19 pandemic.",
@@ -186,7 +196,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {

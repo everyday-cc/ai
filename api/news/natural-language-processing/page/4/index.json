@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-28-inkr-draws-in-31m-to-make-more-comics-accessible-to-worldwide-audiences.md",
+      "title": "INKR draws in $3.1M to make more comics accessible to worldwide audiences",
+      "excerpt": "Luong says INKR’s proprietary AI engine ... with plans to add more languages. Some publishers, like Kuaikan Manhua and Mr. Blue, have used INKR to translate thousands of comic chapters from ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/",
+      "originalUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/IMG_2585.jpg",
+          "width": 9736,
+          "height": 3904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/amp/",
+      "publishedDateTime": "2021-07-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box.md",
       "title": "Qualcomm Stakes Beachhead In Artificial Intelligence With Foxconn Gloria AI Edge Box",
       "excerpt": "Powered by Qualcomm’s Cloud AI 100 solution, the system is design to support up to 24 high-definition cameras for video analytics applications like traffic analysis, security monitoring and smart retail spaces.",
@@ -1376,58 +1428,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen.md",
-      "title": "Speech neuroprosthesis turns brain signals into words on a screen",
-      "excerpt": "Those findings are translated into speech recognition of words, and methods for real-time decoding of those patterns and statistical language models to improve accuracy were developed. The first patient in the trial was a man in his late 30s who suffered a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/",
-      "originalUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/neuroprosthesis.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/amp/",
-      "publishedDateTime": "2021-07-16T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

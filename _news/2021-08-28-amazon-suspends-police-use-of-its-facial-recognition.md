@@ -128,15 +128,20 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "Federal Agencies Mostly Use Facial Recognition Tech for Digital Access"
-    excerpt: "The most popular uses for facial recognition technology (FRT) by federal agencies are cybersecurity and digital access, according to a new report by the United States Government Accountability Office. The GAO surveyed 24 agencies about their FRT activities ..."
-    publishedDateTime: 2021-08-26T20:35:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/how-feds-use-frt/"
+  - title: "Government agencies used Clearview facial recognition in 24 countries"
+    excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
+    publishedDateTime: 2021-08-31T11:03:00Z
+    webUrl: "https://www.computing.co.uk/news/4036424/government-agencies-clearview-facial-recognition-countries"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/957b3e5/1560dce2-db4e-469d-86cb-0b930d4c95fc/6/ClearviewAI-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "70/gFutsr4eTT2JYdK/CKwOS5V4eAoN8w8VtTGJftl/NONCSKN9tVNmC71l+YcPuBsOiQxZfkFFp1V2qouUUaq2foDCeJ37VsvFhu8iJueUvSkIUztd1IYMFoE1sH3jF0bb7Ntkw4OBqtb4gLzPeRJcYW5AGjB/y2P2/Ya7sX1/fQWLOiVdgF1qW0+dLsS/2vHUqtBybZ02gbpPssFd7lGjMRdkDcBP2cxxIooRCp+LBzMrT58tUBRxopWCDGuB7Gk3aR1KZD2XHBvZfZrJzUCS5bhNGZtqq2MbCAL6IdQOaS1vW+7gMiW/d0NBocJYldfynW+CQUHRt2qP0ydlhOk8HdsjHeqkSynBJ8N8q96Q=;lG6rpj4InaaOHjcUFFD9Gg=="
 ---
