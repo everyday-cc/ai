@@ -70,6 +70,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Darktrace Becomes Member Of Microsoft Intelligent Security Association (MISA)"
+    excerpt: "Darktrace, a leading autonomous cyber security AI company, today announced that it has joined the Microsoft Intelligent Security Association (MISA)."
+    publishedDateTime: 2021-09-01T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/darktrace-becomes-member-of-microsoft-intelligent-security-association-misa/article_9f32a8b1-90c3-54d7-aeff-64383e6232e7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft adds literary Chinese to translation service"
     excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
     publishedDateTime: 2021-08-30T08:14:00Z

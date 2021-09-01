@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -43,7 +43,21 @@ related:
         width: 2172
         height: 1449
         isCached: true
+  - title: "Meme Stock Alfi Fans Privacy Fears With Facial Recognition Ads"
+    excerpt: "Alfi Inc., a small artificial intelligence software company, has ambitious plans to use facial recognition to target individualized ads to"
+    publishedDateTime: 2021-09-01T13:00:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/meme-stock-alfi-fans-privacy-fears-with-facial-recognition-ads"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://aboutblaw.com/Q2V"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "E0smF0VJTJvNtuiP+PSw7qmLU3ws22fMNqHNaETj7QSrIny3+fQqMjOGVxmGBdDua8ySqxlky1Q6Mi0Y1o9kycvTS2Zk2nq72Zc9YFujI6mzCKqZWsts00LMW72OEz1qmeCbIiDD+HT0w9/qqLMAdgIO0EBoce+qn1ppa5DXGdGSxzCES8t+twhJMB56SdDks3Cw1MJrjkarPo7a03B5OuP8I9ZD9lpRQt3WBa8/IPNszU8Y/p9IPP43th+N496lohkpAvjUp3tc5ImwqeWaEk+hQvIg4fpMrl3z+R34XTxWPCae653NzN7deQ/xzFJgY2dOFQH2nU6b3SnPG9WHPj9N1OTP+XD7JX9XrKCm+SU=;5OR9TREgR0JbfK/Ksyqy0g=="
+secured: "lm8RWRvxLr6ZBl9qOzmuU7AtpD30Joj5HgR4gCZPA2c3aAEHj5ya0KFzHi654FjyOOlEMflXMQWuQh7XiU8CAFTzvWskzwhB+jTX6wWR8RIRroAYw2g1gs9pfs+rgRYyogQ6b9DL1oRmUzguwn9UJz9BXz/Qe/UPYanWc0IYlOmcvhFWcU5s3L18/Ex1Vv3kAhKNp3UYqCYfSZ+eO6jDA1wfuSSPrIcgxJeDsDHEIWAxLfZv74iUVoRCG/eLTx+3lxmgLXzO5NVvEyzxfvjb3d95tP7PvuDfsNjSkioMah3fxofeV1TO3/OQC3qzMtSZC6qKLkrlxliMGoJcN+nUU94L/H45mxUsER7lOdQzF0GWhBtgx5gDIbYmV/+nnHsb6coogItIdVu/ic8Rr/xnpNbiRFVEm/l5OcvZ+cpVb54jyzRvSaMsMqTrWPLs4z92sQBj4EPXTCmSoTGHCODPgDLech/J6wIFBwzF+hsbrBRzNFY0MgTZ/nmkgpu3dCRais6M+Znit5M9Xgp6uiI+2g==;iXHQTPRwmrf0ETlipwVFyg=="
 ---
 

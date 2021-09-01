@@ -109,6 +109,15 @@ related:
         width: 400
         height: 252
         isCached: true
+  - title: "This Canadian FinTech Co. Jumped 77% in Revenue"
+    excerpt: "AI-driven financial technology company Marble Financial Inc. (CSE: MRBL) released its interim consolidated finances statements and management’s discussion and analysis for Q2 2021 on Wednesday. MRBL highlighted total revenue for the three- and six-months ending June 30th,"
+    publishedDateTime: 2021-09-01T16:56:00Z
+    webUrl: "https://stockhouse.com/news/newswire/2021/09/01/this-canadian-fintech-co-jumped-77-revenue"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
   - title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
     excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
     publishedDateTime: 2021-08-31T08:53:00Z

@@ -39,6 +39,20 @@ related:
         width: 800
         height: 441
         isCached: true
+  - title: "Meme Stock Alfi Fans Privacy Fears With Facial Recognition Ads"
+    excerpt: "Alfi Inc., a small artificial intelligence software company, has ambitious plans to use facial recognition to target individualized ads to"
+    publishedDateTime: 2021-09-01T13:00:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/meme-stock-alfi-fans-privacy-fears-with-facial-recognition-ads"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://aboutblaw.com/Q2V"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "uaBB9a6I0uAQvsRjLvIqi/RWJEnUgAH+UDT9ouNHHCSJj1O10y4SGUCjsEwcErwJL62B+nt2jc9pqdwUZtQgH8cUIwwh3I/drDUY1RKL3VKt6xuJk5L3jBnVMkbdZPOKF1H90Ypd+aqXaMJ91Dg2FO5nWSeHTwp97uCJgKYJfVMkrIBodmxtNAjk6l0uN8V5xC4NEUsW0vzJWvuIvX1fsVf+0lb88oPPNAi4HuxbJbcYNAavzyQstZA319yyl16imsbkLeb1EAh/K1/ugnYiWEbsHVSOD8v0zPZfT0y7dNy1cYtbZF+r5rfriMnAuoVJvRgTiJe51ZH5xrkM454FkJcT6B+pNKEYUcSmT7eE8HA=;3T7ArJDOTnlFJC9LgqxvZw=="
 ---

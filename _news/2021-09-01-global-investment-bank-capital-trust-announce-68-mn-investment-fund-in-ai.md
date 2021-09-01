@@ -38,7 +38,7 @@ related:
     provider:
       name: Business Standard
       domain: business-standard.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/01/full/20210901192035.jpg"
         width: 600

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 type: article
 quality: 104
-heat: 165
+heat: 174
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 37
+  - title: "How Businesses Use AI to Boost Revenue"
+    excerpt: "In the era of big data, digitization has enabled the conditions for AI applications to flourish and generate revenue.  Artificial Intelligence is perhaps the most hyped technology of the 21st century,"
+    publishedDateTime: 2021-09-01T17:06:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/How-Businesses-Use-AI-to-Boost-Revenue-16428273.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/54/66/21417401/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "nysj91w5pCd/nx6mbncLxZmfPoVfgEDJ7SmiqgEjNv0uKyxCWJoFib0ydSj4pIna7y1MRYKs+zHm4OlXwmjzorhxHlcw5PMnncDo44lXOWrYOo0hPjWzwhbud2ysFKyOjJhegtIJF2/U9sZH7jURVbwjb0ZpG4q6HlE43mQnSo0NTY674tx33MOqEhBYiQ/8DmLec6RZPdAqK88Pl2QG7Iw+TzWp2eabmLANf3uJ77+9b52ZRDZq+xf16i9img3D/3uHjwuRcuatCMzdMI7pjGtgcUDsqd7npk6T7cz5411OmY4ornJJkE8JdvYSzvd48+UfmEZabMy+C5BrQRJ6AH0SX/0rfvhpW9Z1GDJUZghPAdlYmzFOMuKixapoTEc0dA37j14cbPcAsSBoiDs0MojS/bBApB0NMzt7NAD8cdBbVhlmCcy53xd4sio8anNfU/IOTH+eF9hXy464J5q5psPiogs7d/eXCmWW33sJRsTspdMcxsY7si20qH7NCBgXiiQm0qlv3bdVD6+3nvIfWg==;VSXlHPoTMHZVLtrPIBZxnQ=="
 ---

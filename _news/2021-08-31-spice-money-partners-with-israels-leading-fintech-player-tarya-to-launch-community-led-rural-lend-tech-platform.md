@@ -118,6 +118,15 @@ related:
       name: bna.bh
       domain: www.bna.bh
     quality: 19
+  - title: "This Canadian FinTech Co. Jumped 77% in Revenue"
+    excerpt: "AI-driven financial technology company Marble Financial Inc. (CSE: MRBL) released its interim consolidated finances statements and management’s discussion and analysis for Q2 2021 on Wednesday. MRBL highlighted total revenue for the three- and six-months ending June 30th,"
+    publishedDateTime: 2021-09-01T16:56:00Z
+    webUrl: "https://stockhouse.com/news/newswire/2021/09/01/this-canadian-fintech-co-jumped-77-revenue"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
 
 secured: "8+XJtSJg9orFKzwOHWLhTRvFJMt+9wMXHG2XgZLYgmgJCvHFqUA45u4ivw1Ve997EcnJ6jTx2McArGRyH4UIUhujd6QyP5/88etni3bGsL06UQnVzjn2WyhH36LJtaBAcfGR6bUVDaxAohb/WyYCnm88ItHiAluH76nW+xf5dQrA6XcAKPIbw2t7UZau1J1VM0TuQksZ7A/bPxe+3efF8IfpQeguafpmHHFEcNl5j8I5t+cEYIkCT+5fW25QsKjo0yCF83ao5JODC2v+TXBipiqfdsXRQE/9VCazn+RJ1zvSLVCVKV9KaSrCLn6V3fQyf1iSd43znazppXrZ2TjdaWPwI1wJVszDbTfv2dqDnGs=;pvikAh6ccgqsSSgWhFkwCA=="
 ---

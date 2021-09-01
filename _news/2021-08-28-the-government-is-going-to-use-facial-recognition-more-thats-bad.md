@@ -54,17 +54,6 @@ related:
         width: 1200
         height: 914
         isCached: true
-  - title: "Amazon Suspends Police Use of Its Facial Recognition"
-    excerpt: "Amazon did not respond to questions about it. Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology, called Rekognition, to government agencies, saying it could be used to invade privacy and target people of ..."
-    publishedDateTime: 2021-08-28T00:01:00Z
-    webUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 41
 
 secured: "c2GqwEqhkMj1TTCir6KK6ZBK49oguLFRoVZVKX/d14ZGtr0DSEnW/Mcah2S2+3FRr+5TjqYG8HmEVrTZfxldkRHQEjt/FLsi0ltjRSBqrV7aWV9bGU1d64T3P4Zx2w7orLTER69Je8em3BJFTv8NjignMXVed3Jr7nHIor7yGAoDtP/07xCHfBkdpYmnniz0++lzibhvC02twVvJJEVGGGZ2kqPxWq8OC8gfc/lRSV28V8+yYFaYCVyIM/ICruizAPXyHv11uss8BErQfOYQ8vIy3wiDrI30QneArL+9d6ixEosPLKI7DPOnmYksWroxOs3ItgWEyVxYH6pVlh9yHo3+PeENozIcwqiPZhKIxtEi26J+aqP1TOGALmg0KC/4G5Ks2I+bJaZQFSSal8aw1+QJ4GqeY4CEfi8MN/UD/yAG1wywgSlvRM3FdRdMLG6gJPmjZdGcPmWUGJfJH+59+2yGzVPFXt3wxxLekCHF2zw0+pmjWFqXRqj8iMYjypHDCCtnncc4pzBmiCPT5P8LTQ==;SHuYUSmvqP+T29vMy93sFQ=="
 ---

@@ -51,7 +51,7 @@ related:
     provider:
       name: IFLScience
       domain: iflscience.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn.iflscience.com/images/d46d69f5-4a12-5e28-89e1-56d8348573fa/default-1630510701-cover-image.jpg"
         width: 720

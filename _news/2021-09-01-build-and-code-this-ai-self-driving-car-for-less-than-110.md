@@ -8,7 +8,7 @@ webUrl: "https://www.iflscience.com/editors-blog/build-and-code-this-ai-selfdriv
 ampWebUrl: "https://amp.iflscience.com/editors-blog/build-and-code-this-ai-selfdriving-car-for-less-than-110/"
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/build-and-code-this-ai-selfdriving-car-for-less-than-110/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.iflscience.com/images/d46d69f5-4a12-5e28-89e1-56d8348573fa/default-1630510701-cover-image.jpg"
@@ -57,6 +58,6 @@ related:
         height: 525
         isCached: true
 
-secured: "9Ec3UIA1b1bwZIdzu7tAwlWiqomBQg+MDB5F9aXMdH98VgP3VWqsrnFelhRnRfIcDtcdbTJjxPzXetiAnFEsTQfhCUpLa+uEGPbx2LbxS2qW6beIk0unnlSqFbVLHKo7LatY2AvbNNzOUQ0dlPbEiwK6dFb8EpqeN9cZgsxJ38f4nxkVRShiYjnlxXIUCjY9+fMYEQLqjY9KRjfEpOrbivlL0/izgEmwoyFQ+69VJDCrNMCw2IoC47q1xlNqtSMOdYpV7EdyQS5Xl+awuMaqn0pEv2tV2cFSZ/+ayFTPzwJhjWcRSV4/Ecb0eE7NNUTjGz90vp7Wh3yUQ0n5bGvBfdl/xfSH+ptP9eGTjiLsdWc=;ApJcG+aZc0xVCcINg8gHhQ=="
+secured: "/zAeM8h00ObpqxFdI+79rUXsVeYTKLhvvQcBEYvW200k4ojzw53r4RHUItxgONRgTabe1h8VGVvQDLMMgMRztYj+D+EQHlSFbiPkWFDYDCF4hOU9O0YvFi3/43vhiQD5+t5wj3/VsO/jXERNLwM60YmsYcq/+Pf5VsuzL8zCUArxEPDxaBaHVC2ZZ+0NdIjOIkJ1GdvLVyiZpqC5VR17lSVMR1WRPkTtTu7Jn1iz2CaDgQ7zQzH5XRMXoNY4Q0oWbSnbwkppCKaFoMi0KpXKm00RufiP+rSPrHuoS/b7GE7ma5abFDFyfWfmPgPt7Ec6YoATii86J98OFdlSRIdHoYKGdy60q3AJ0RuMB+ug5Bs6hjS/jiXoNepyYbLYxbD1/3Q3Rr6njAgyEhvYf9snap83a/QxPxISx0/VjuwqGncVIoC9mrNtE1tehKE2J96Xwc/uS5LWeiRJz8wIH21R9NN+WU2mbs+6j4tXf1QUDQEEdD6S8x8q0/3CtZZl7x/MXjevBiUKE43Ju8qnjRyVqQ==;46a9+9KfqEjy3G5AiitmZw=="
 ---
 

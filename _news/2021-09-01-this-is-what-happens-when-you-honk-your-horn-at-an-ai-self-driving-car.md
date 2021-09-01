@@ -41,7 +41,7 @@ related:
     provider:
       name: IFLScience
       domain: iflscience.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn.iflscience.com/images/d46d69f5-4a12-5e28-89e1-56d8348573fa/default-1630510701-cover-image.jpg"
         width: 720
@@ -62,6 +62,6 @@ related:
         height: 525
         isCached: true
 
-secured: "75MZwt/aRXlo7UEAV6/4TcZs88/DpzdoSGPTAq+N/LdVEja7xaomxwnqM/BfDkgZ9Po0+NOh1BIQtxJo5Ug/M6uDes8KPIa2qz7XK9y9IfpLcTNiwFKXEt+/U03dd5Jxjlkq59kFbHxNhV4MCJMGta+PFC3TISvriuWAv1EHQya9rxUpe3qcnr54XNliaUqE4AIt1qEI4U3v/geIosWxheaf59DXK3THPwaoyq4VGHgWR3QyDPbdxuB+0PBzDFazK/fhMtaweGi+id4tNP2/7HUovz6OV3fY/GXXM/ryBc1qjbUcpocO5gCExKBwgLkuDKPPxyIq6sVuGTZK08UvNKDEnW0TCdbhMHmIpYBZHRo=;app+9QDQweFCKTkr1q9PxA=="
+secured: "T6267JhR5XB9eUDwB0AHJZbpiiFbG3r5MBx1E58562EB8z1J8Fr0bKXulnzsamlexU8+xNyTrjBonnfHokPI9S7neazvSEXaJPgOxz3AnavWYVGWkSYjGib+fYyrjxZ6EogcVwmRML7VGkilwaNeEqYszmv3EneH1JcDlGMVbdbs7OlUTvOoTO+doe7fR/fFs4XRKdqflG80ETfGua4pQ50W3p7oQGuXYxs3MmuaTJHOgPNxRbCXYrXbZ3X2IK3vDgUBH6AdFkedvMArUUhBP8HvUxgis+mAH4wRBqo16OyeigCsx741EJjCXg38l1yo77oR9FDQdH+lJZiN/M+wvr6RfjQGZqcGWlFkffCzsfmnFFZRtbwQDwlJ7tU5GWY0YSzmfbhVJryh2iYan5XiUl+AVvgccidTRLdEOMgJEe0MXYo8Hd7xDmLeYsvKRqVfkfQHRkDpUUfoXL0jOI0swdySZ238mnh+/DR8n2c5AwgcHEI/5DOV+7zFLitOj5khCOaIoDvZtsqMs2RmeL6djQ==;2wQ6MDKylQsWUmrQmjEMZQ=="
 ---
 

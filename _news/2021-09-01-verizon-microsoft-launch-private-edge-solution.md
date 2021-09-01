@@ -59,6 +59,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Darktrace Becomes Member Of Microsoft Intelligent Security Association (MISA)"
+    excerpt: "Darktrace, a leading autonomous cyber security AI company, today announced that it has joined the Microsoft Intelligent Security Association (MISA)."
+    publishedDateTime: 2021-09-01T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/darktrace-becomes-member-of-microsoft-intelligent-security-association-misa/article_9f32a8b1-90c3-54d7-aeff-64383e6232e7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Recent Survey on Automatic Speech Recognition Market 2021-2030 Key Players : Nuance, Microsoft, Alphabet, IBM, Sensory, Cantab Research"
     excerpt: "In recent years and especially due to the Covid-19 impact, the Global Automatic Speech Recognition Market has been through many ups and downs which have greatly impacted the business and the market players be it large or small."
     publishedDateTime: 2021-08-31T09:46:00Z

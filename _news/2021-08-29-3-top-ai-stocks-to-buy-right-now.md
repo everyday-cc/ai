@@ -102,6 +102,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 37
+  - title: "How Businesses Use AI to Boost Revenue"
+    excerpt: "In the era of big data, digitization has enabled the conditions for AI applications to flourish and generate revenue.  Artificial Intelligence is perhaps the most hyped technology of the 21st century,"
+    publishedDateTime: 2021-09-01T17:06:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/How-Businesses-Use-AI-to-Boost-Revenue-16428273.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/54/66/21417401/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "cikxd7oUAjA+35m29TeGzugOeBKaIfnNaCEZLkVjJipSyre5jhkFfN4kN8xevg3Wt3HDsX0IrwXdvMeLKTfT41w0lhqB4i6FfptClHrTztWmZrgfJkirMtUpR4C8dEoeo9lv8ioLW8ji35LJT5IbdzeZzOrXPxuXEwh/XPPdhstfhgDdEb4CjZpWZ82VfG6DS2oHUV/S26B5ahE40N/moy3nlegVi+271qxSpMpE+xn64YJCaww6bvzrmAU3jCTABVRA7ebreygSICmvDSh8zjvaCvVHCGnFeR9Qwn5fv4YE5wGwTxL9Q1F7f2fTFCy0+lajQcIl+Uuhjynf5D9WpwtFcaVTF6NFkZMybdaPKQvr5mR7QKr2Djkly7MzWRapDxGhBKDBshZ3VLK3SF6fl3zDoMGvTIMRJZpng9H69zeKz9EYLB3FsVsiE4RCgf2xvKrSDfjSOLNM7LMtiOwOD/y89c+Oura7aSGHbWhyLeEMGX6dKPtFYmTVgdZ4wOjXgCQ9U9rCy8GZ6tIpzz+BOA==;/eVGlHzOjrFgr8ULHcOqmw=="
 ---

@@ -102,6 +102,20 @@ related:
       name: TheLadders.com
       domain: theladders.com
     quality: 37
+  - title: "How Businesses Use AI to Boost Revenue"
+    excerpt: "In the era of big data, digitization has enabled the conditions for AI applications to flourish and generate revenue.  Artificial Intelligence is perhaps the most hyped technology of the 21st century,"
+    publishedDateTime: 2021-09-01T17:06:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/How-Businesses-Use-AI-to-Boost-Revenue-16428273.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/54/66/21417401/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "6tV/cHPQjyAaYq3gDP7/Xj8GQj2xqzWcBKgpLEbcA7Zi1flZFKHdxFL2Bh2lo9IuQqFN/UhA3hyoHj+rAgDz4s3XJA7gxbThEGBRArt5Q6WFQEYFpyHY5Jiux8HPh5BUrgMFliCi7bMLsDxQKD7rFFi3EkH01EGfcAYxX1Eo2+MMPytmARb0oyoovV70lTYjpwyAYO1BzWbvIdu+AioHZ6XlIPpNG4V6Q8mPfSA/aalT7v1P3cOwe1BebCPtTFsR2ba+p89gqu3xCXP4nInHCBy3LVedD+zceCjaCksOe7EDSm4q554Id109N67qxVBeQIjQN+fP58FFdrgi6SWWGK81kA4nE8uZFOAFE8xo1lc=;sL7Ma22ygOYiX/xRCOhv3g=="
 ---

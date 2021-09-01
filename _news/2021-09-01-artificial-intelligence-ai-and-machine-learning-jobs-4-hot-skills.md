@@ -7,7 +7,7 @@ originalUrl: "https://enterprisersproject.com/article/2021/9/artificial-intellig
 webUrl: "https://enterprisersproject.com/article/2021/9/artificial-intelligence-ai-jobs-4-hot-skills"
 type: article
 quality: 71
-heat: 81
+heat: 84
 published: true
 
 provider:
