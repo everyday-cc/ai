@@ -2,7 +2,7 @@
 name: "Grammarly"
 overview: "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate."
 type: "profile"
-heat: 195
+heat: 292
 
 website: http://grammarly.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "grammarly"
   url: "https://twitter.com/grammarly"
-  followers: 202688
+  followers: 202709
 
 size: 201-500 employees
 yearFounded: 2009
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=N8_AvBRhIGE"
 
-secured: "y2b8ObHdwOqry4zNugHPvAYIXxxPawPBM4WmZEhle3OSTZGqAfBvQPUGJBTsrL3rEFR6gfAR01SWFAD10ZCQEPsW4dGAa/Ip9vB8wgTSyCynl/OOGDBvNkz6Ze5T3srjy1KxBXp/e24gZdngnYki7UY25Eq6EOQaI2x0rw56ZjjkhHUrlf1lm2NBu2c1dWtXAsMhCGNs36Mh1vLX+fIdyduOPUuxLdfaEyokjP8TBqsb/tfpxRprl7iqKmNiue5nmoOvWugMabp0WnRiowYlmq6C2RgaZRlPlfEXXQ7Yq5/hegZWIY2PAlx6r4tLtyLoG0CXSPESUY+X5Ztd9lPpeqs2HaN3psaD8jg/QXZRSZMrYsn8f9XPu+MDuKwgHK8QUMZ4XnFrZODqJ6vOwvAMBaXIc1dphWfaMFspGS9+i8o=;wzktyLkhs7shqrMDWnYEfA=="
+secured: "BmpbFBnYQJpriAOF/sDf5eVviNw8fGrX0MCE1ijkbw87APbd5MlcGVQ4+C7x/qd/pLS+sFV7Pqbar15iVj19aApbe5wQpUPgVi9vntQhBZtj8W7Zrk7O2TbR8u9FUKcJCXb13AKw3MP4qZGIs5fWaPUeUw/Q7kXrED3TBwOKaM3UKCAIcZUFc/Un6h3/fBzDhhHxfrlaCb/HvF6IoQTC1bIKOZUebTVMQ7LtkPihQZYfWFqj047zXu8BULgh+V5e8EDsVbpBUXNANtk9IXI3iU1hMzv0OxsH5FCLkRgLnRISq8n3kC0LikW1mEEV7pHgzoUpU3C4wysrp/M2m6Uh8QwQ89DsAIJlbCmDx85gJl+raAZRj+WWcmdoco2yGn6/SdLNGiANFTgBOL0Yyb4sAhHAVY6oMAQhuQeqlAVoU8U=;XT/OfFfqAdGJFBS7ffQVOQ=="
 ---
 

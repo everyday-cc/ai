@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "OpenAI"
   url: "https://twitter.com/OpenAI"
-  followers: 597669
+  followers: 597701
 
 size: 51-200 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "OpenAI"
 
-secured: "THF59vigjO7tGEZ+6AsW3dGqhJwerRewM/Wia5ot2O6oSoT6dQq/ltYXtsFzKX9Q0vPMV5VzgjFl1NJwF5yImSnbl4XRGNGOIGrWk6AtBJly55lqDqHjM+Ub9x1M0Nz02XJYfCULyGuF4omp/W936ISTj0rmYFQ2qFHelXtnHXhgkWIgzvPIOe9OWd6B0XvXgK1tdBbPmuXEa9SkThn77zWzRKXNEEcZU8dh1BYyV4SnvQo7WX1B7aLNo5iAmgxY4oyy7pOrtsKegcyd8KcM1zdaROHLB3wacg1MGTmPEUwQF8i75Z5QWRLBmF3LfOjnBMC9UJLqD5I0TQIVkQUCVi3AKxbG3iDY1Ovjvj5QHUaVYlb2Y9uxvntASmYZLghwnXQVpvhNiS1xZAGeFQOZR4SBLzVqlmQJ5w9AebfEyz8=;JXqgVjVshn563M+kHKEuTQ=="
+secured: "vMWX290GYlLbLjLnZq0HC9JS1eyF5NERzn3keaAgAGAejErS/y25lXIGDU5iSR1LjAphyDTYWegc1FYZy3zJ7WcWqyaxv5sVhmRBkR5DogTd3GufMGrhu9TuTJbuwU0Ca/CyB7edH47TvgoL6yQbQ/BT8UVsl/34zKGx2K0EoL59OgarNtbDEbDHhdMZfx/P83gYfP4t8rhbdT/2pqDMDDi/d3WYKVPVHPPYjpzACEdWAKZCoC37OyuWaNCCsRueNHBdqmmaXx8wCBo8RpmxDVBhbJ29tOr6PazXCQacqBSTQteg5NVw8k4u4ISMc6SOIM5v1WmHi2zU+se7aVi/Mc7xGs53PaS0ZTVXgAVdy0hVTg1jcXaL3oEL/q3ot9dZInf3o6zloz8Bij8khc5SUt5Kq7GC8vEYetlZslA4FvQ=;bB0eX5kRdlYfwYLedQn2Iw=="
 ---
 
