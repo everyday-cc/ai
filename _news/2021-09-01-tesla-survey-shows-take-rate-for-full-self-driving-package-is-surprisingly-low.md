@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 108
 published: true
 
 provider:

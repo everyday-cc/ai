@@ -18,100 +18,93 @@ topics:
   - AI
 
 related:
-  - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
-    excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
-    publishedDateTime: 2021-08-27T17:25:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/"
+  - title: "Why AI Is Relevant To Conversational Marketing"
+    excerpt: "Marketers want to have one-on-one conversations with their customers to learn what they are looking for, and develop a stronger, long-term relationship with them"
+    publishedDateTime: 2021-08-30T06:08:00Z
+    webUrl: "https://www.entrepreneur.com/article/382318"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/382318"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 131
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 104
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1630303653-4530890.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Playing catch-up to the early adopters of analytics, AI and machine learning"
-    excerpt: "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
-    publishedDateTime: 2021-08-30T13:00:00Z
-    webUrl: "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+  - title: "Marketer, meet machine! - helping marketers get a handle on AI"
+    excerpt: "As a marketer, I am fascinated with how machine learning and Artificial Intelligence are helping companies improve their marketing and sales strategies. But also understand we have a long way to go, and there are many questions around how to use AI right."
+    publishedDateTime: 2021-08-31T09:30:00Z
+    webUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai"
+    ampWebUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 71
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
     images:
-      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e"
-        width: 410
-        height: 230
+      - url: "https://diginomica.com/sites/default/files/images/2021-03/shutterstock_1005701926.png"
+        width: 740
+        height: 450
         isCached: true
-  - title: "Army Testing Facial Recognition in Child-Care Centers"
-    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
-    publishedDateTime: 2021-08-30T20:32:00Z
-    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
+  - title: "Can real time accent translations perfect conversational AI?"
+    excerpt: "One of the biggest problem with conversational AI is understand and detecting the various accents of a language."
+    publishedDateTime: 2021-08-31T21:15:00Z
+    webUrl: "https://techhq.com/2021/08/can-real-time-accent-translations-perfect-conversational-ai/"
     type: article
     provider:
-      name: Threat Post
-      domain: threatpost.com
+      name: TechHQ
+      domain: techhq.com
     quality: 39
     images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
-        width: 800
-        height: 533
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/000_1Q247L-scaled.jpg"
+        width: 2560
+        height: 1731
         isCached: true
-  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
-    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
-    publishedDateTime: 2021-08-30T08:22:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
+  - title: "Conversational AI market to grow to $15.7 billion by 2024"
+    excerpt: "The market for conversational artificial intelligence AI is expected to grow from 42 billion dollars in 2019 to 157 billion dollars by 2024 customer suppor"
+    publishedDateTime: 2021-08-28T09:46:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270909816/conversational-ai-market-to-grow-to-157-billion-by-2024"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 24
-  - title: "MiaRec Announces Release of Integrated Voice Analytics"
-    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution."
-    publishedDateTime: 2021-08-30T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miarec-announces-release-of-integrated-voice-analytics/article_7f8a4658-e7f8-5346-bd9b-4e549dee94dc.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/91/29119288-540e-516e-84a0-432a491bb592/612d2b1381566.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/ani1630142424.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Independent survey highlights need for advanced analytics and machine learning to accelerate investigations"
-    excerpt: "OpenText™ (NASDAQ: OTEX), (TSX: OTEX), today announced findings from a recent independent survey from Compliance Week, sponsored by OpenText. The results show the importance of both advanced technology and dedicated teams that can quickly deliver data insights to reduce time and cost and result in better outcomes."
-    publishedDateTime: 2021-08-31T13:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-independent-survey-highlights-need-advanced-analytics-machine-learning-/2021/08/31/9440063.htm"
+  - title: "Continuing the Conversation on the Future of Artificial Intelligence"
+    excerpt: "If we believe the hype, artificial intelligence (AI) and data analytics are quite possibly the answer to all our problems. Not just in business, but for"
+    publishedDateTime: 2021-09-01T04:27:00Z
+    webUrl: "https://www.datanami.com/anniversary_channel/continuing-the-conversation-on-the-future-of-artificial-intelligence/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Speaker-Spotlight-Future-Says-Season-2_3.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
-    excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
-    publishedDateTime: 2021-08-31T15:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+  - title: "Yellow.ai Debuts as a Major Contender in Everest Group's PEAK Matrix for Conversational AI"
+    excerpt: "Yellow.ai, the world's leading customer experience (CX) automation platform, trusted by 700+ enterprises globally, today announced it"
+    publishedDateTime: 2021-09-01T11:46:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/yellow-ai-debuts-as-a-major-contender-in-everest-group-s-peak-matrix-for-conversational-ai-810124262.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 27
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1606571/Yellow_ai_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
 secured: "dTRIyG3/LaBYcSZrRHlRjq/H4gGV+z72005EEtsxbyXZWy0PBJXlxw8uPSptzOADHuOV1AvpVgvxv88Wyq3HVizGQvZ86O1il8xVxxbIEUImNj675spUvEgkrFrnjIxuPksHT2xFKEzB5E+/W/HWpNgR/6hAxevhoRBdDeu9qMlOACsuVkEVj5/+gvAw5dcoHF2KbfXraciz1kpPS2EFUMIgh3MLSl15P25ipUXtEfxb/qYb0PlM6Adx0EC75iRmyue8flaSyR+Dpnf3tfakFFqYhGiLvJ4Js/cDBVqJSL1GHivZf+6ISsrQuT6Tsa9nLts/eUaBKBc7qYHEbVAOhjoVu0K9dNsRST0hIo8GXYc=;xzN1IwzIQAtTxa3yaS/jwA=="

@@ -25,96 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
-    excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
-    publishedDateTime: 2021-08-27T17:25:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/"
+  - title: "Databricks expands its data lake analytics with $1.5B funding"
+    excerpt: "Databricks, a provider of big data analytics and AI solutions, has raised $1.5 billion at a $38 billion post-money valuation."
+    publishedDateTime: 2021-08-31T21:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/"
+    ampWebUrl: "https://venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/amp/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 131
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Playing catch-up to the early adopters of analytics, AI and machine learning"
-    excerpt: "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
-    publishedDateTime: 2021-08-30T13:00:00Z
-    webUrl: "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+  - title: "Databricks Raises $1.6 Billion Series H at $38 Billion Valuation"
+    excerpt: "Databricks, a San Francisco, CA-based Data and AI company, raised $1.6 Billion in Series H funding. The round, which brought valuation to $38 billion post-money and total funding to almost $3.6 billion,"
+    publishedDateTime: 2021-08-31T14:47:00Z
+    webUrl: "https://www.finsmes.com/2021/08/databricks-raises-1-6-billion-series-h-at-38-billion-valuation.html"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 71
-    images:
-      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e"
-        width: 410
-        height: 230
-        isCached: true
-  - title: "Army Testing Facial Recognition in Child-Care Centers"
-    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
-    publishedDateTime: 2021-08-30T20:32:00Z
-    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
+      name: finsmes.com
+      domain: finsmes.com
     quality: 39
     images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
-    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
-    publishedDateTime: 2021-08-30T08:22:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 24
-  - title: "Independent survey highlights need for advanced analytics and machine learning to accelerate investigations"
-    excerpt: "OpenText™ (NASDAQ: OTEX), (TSX: OTEX), today announced findings from a recent independent survey from Compliance Week, sponsored by OpenText. The results show the importance of both advanced technology and dedicated teams that can quickly deliver data insights to reduce time and cost and result in better outcomes."
-    publishedDateTime: 2021-08-31T13:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-independent-survey-highlights-need-advanced-analytics-machine-learning-/2021/08/31/9440063.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg"
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/databricks.jpg"
         width: 400
         height: 400
         isCached: true
-  - title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
-    excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
-    publishedDateTime: 2021-08-31T15:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+  - title: "Morgan Stanley leads $1.6 billion round in Databricks"
+    excerpt: "Databricks, the Data and AI company, today announced a $1.6 Billion round of funding to accelerate innovation and adoption of the data lakehouse, as the data architecture’s popularity across data-driven organizations continues to grow at a rapid pace."
+    publishedDateTime: 2021-09-01T11:39:00Z
+    webUrl: "https://www.finextra.com/pressarticle/89107/morgan-stanley-leads-16-billion-round-in-databricks"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
+      name: Finextra
+      domain: finextra.com
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
-  - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
-    excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
-    publishedDateTime: 2021-08-31T00:53:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210830005567/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "yBkxsAbfX4TOKrGBxbKQuRY+UZfsWWSZW3xRYLbeyPx6ef07r7Ra6UDgj3qiegjwgnKjuDXf3lKLLnkT29nyfMJRKd5eirSJ0SvR9grDlM8qbXx+bGw35y19uSb/7NgJGo/w8XOCjyJsNuuQYg4RhhHugk2TTYWkQC5XjuNVk7YbFOo5wJljq45mI3G2qajvMQn/0s32zdwPSFHLbYH3+6VC69ZKoQr57gxgFlDyTADTdWMtl6M/mhsLb+TxTYtVpzYHu/VAWOZBTXXa3+U001vktD6aw8FEAkRjbRgXphhEK5aq58BbRqTe0lAR2dH4N/tMrXwEYSSBnz9JpaTNgNBV1XsYf+DhA+mFe5TMgjM4tDdbfniuIbetiGNuKXW/JwLuLwHGV4SSitrvgQYe7jF8IPJ27AiMR5Lbc7kgtIsIXIV7sNQnNVLeyZJkw/tHRQ+gd6ug3vD6OPAb8RlwDupVSq5T1e8iPTdUXAekrtAKOfsjGBkx0uEfdnCtgy8WutJidszyTVdRRjQTRMbc3w==;fyxwY7MxlfaXn7sWeHtRTg=="
 ---

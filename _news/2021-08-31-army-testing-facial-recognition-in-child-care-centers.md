@@ -25,96 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
-    excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
-    publishedDateTime: 2021-08-27T17:25:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/"
+  - title: "Indian Railways installs a facial recognition system to track commuters"
+    excerpt: "Indian Railways has installed a network of nearly 500 facial recognition cameras to track millions of daily commuters, a report in the Financial Times suggested."
+    publishedDateTime: 2021-08-28T11:15:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 131
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://assets.thehansindia.com/h-upload/2021/08/28/1104608-indian-railways.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Playing catch-up to the early adopters of analytics, AI and machine learning"
-    excerpt: "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
-    publishedDateTime: 2021-08-30T13:00:00Z
-    webUrl: "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+  - title: "Explained: India's plan to establish National Facial Recognition Network"
+    excerpt: "Indian Government has installed facial recognition technology cameras at more than 30 railway stations and busy airports of the country. The move is a"
+    publishedDateTime: 2021-08-31T07:52:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
+    ampWebUrl: "https://m.jagranjosh.com/general-knowledge/amp/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 71
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 73
     images:
-      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e"
-        width: 410
-        height: 230
+      - url: "https://img.jagranjosh.com/images/2021/July/2972021/ludo_express.png?new_images_en"
+        width: 450
+        height: 232
         isCached: true
-  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
-    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
-    publishedDateTime: 2021-08-30T08:22:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
+  - title: "NtechLab supplies facial recognition for Indian Railways, but privacy legislation still pending"
+    excerpt: "NtechLab is implementing a facial recognition surveillance project in India intended to monitor the movement of train commuters."
+    publishedDateTime: 2021-08-30T18:39:00Z
+    webUrl: "https://www.biometricupdate.com/202108/ntechlab-supplies-facial-recognition-for-indian-railways-but-privacy-legislation-still-pending"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 24
-  - title: "MiaRec Announces Release of Integrated Voice Analytics"
-    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution."
-    publishedDateTime: 2021-08-30T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miarec-announces-release-of-integrated-voice-analytics/article_7f8a4658-e7f8-5346-bd9b-4e549dee94dc.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 42
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/91/29119288-540e-516e-84a0-432a491bb592/612d2b1381566.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
         isCached: true
-  - title: "Independent survey highlights need for advanced analytics and machine learning to accelerate investigations"
-    excerpt: "OpenText™ (NASDAQ: OTEX), (TSX: OTEX), today announced findings from a recent independent survey from Compliance Week, sponsored by OpenText. The results show the importance of both advanced technology and dedicated teams that can quickly deliver data insights to reduce time and cost and result in better outcomes."
-    publishedDateTime: 2021-08-31T13:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-independent-survey-highlights-need-advanced-analytics-machine-learning-/2021/08/31/9440063.htm"
+  - title: "Fast adoption of facial recognition technology in India likely to trigger privacy issues"
+    excerpt: "Businesses, big corporates and even government departments have adopted facial recognition technology (FRT) in India for authentication and security reasons. The COVID-19 pandemic has also led to facial recognition systems,"
+    publishedDateTime: 2021-08-28T05:16:00Z
+    webUrl: "https://mybigplunge.com/tech-plunge/technology/fast-adoption-of-facial-recognition-technology-in-india-likely-to-trigger-privacy-issues/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 30
     images:
-      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/proxyclick-visitor-management-system-5XPUpAdcdw-unsplash-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
-    excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
-    publishedDateTime: 2021-08-31T15:38:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
-    excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
-    publishedDateTime: 2021-08-31T00:53:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210830005567/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "36V6BXgMdGh1uFnY0gCogre/+63np7CEdyeZI04ozXyVRP7+adT4qFzHrBSOdtqh+FKJ0VdGH6gpoGNKCDNiTxdLiqVQ4WOi/MGEMAQAwsphD3p1CIssWk2vVBXlQb9cpnRXaC4+QuXVO0iWIxkULapOatkZfHmY5ZkLhxFPjI0bnp4S+/0nJPVqPts6X1j5hRt/ZnVfwM5X1tnZVYy9mCCwns/xwOj8Sd7sn8nWkbR01ccrSW2s0qBYkgl+BvUrfVYf+4X/GG8pWfEu75DCit/0VnhG6mnlEuljx36E1VcdHBeu6TSoY/sbZH6A5DAL0tXkS8yz6vZNv7VFXg8A2Fj3RrP/Yqu4A0MO0NRH03Q=;mkaFF56xurt5tf59WwbB2A=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon MemoryDB for Redis"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon MemoryDB for Redis, a fully managed, Redis-compatible, in-memory database. Amazon MemoryDB for Redis enables customers to achieve ultra-fast performance with high availability and durability for their most business-critical applications that require sub-millisecond response times."
+excerpt: "New Redis-compatible, in-memory database delivers ultra-fast performance with sub-millisecond latency and high durabilityNetflix, Twilio, and Cimpress among customers using Amazon MemoryDB for RedisSEATTLE--(BUSINESS WIRE)--Today,"
 publishedDateTime: 2021-08-19T17:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c"
+originalUrl: "https://us.acrofan.com/detail.php?number=518978"
+webUrl: "https://us.acrofan.com/detail.php?number=518978"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
-secured: "MdrhESxBPnaqwKT/28VC6XfFME2ZJd0uj2b8wrtPMwabXOb5VTfdJKACBnjCh/lxsTd9pP6BBHhbsfpZrjSpzPILIMpS7PC847IhVZvnNA2bBfZIyHs1VWm3EJleLAUIWT5yYgKLwKRiKvGfUmWQnGVf6nJkVwCm9E9ObLOlJZacdhgOX4fTLIdLaavBgPF6Y+WpKXIQSPgS6/swssb5t+r1p/5IWPIMGg2ydNL3/4C3G0l1X327uPfYUEdtlEHOR2yxlYFsU33llFzWKU+9M3UYPvCIYwR4DRjRikiJcBdGnGOmIdx/LKl09pQu4mu9RMF7h8B5Zgwm2MDk+admmSgbBtKMN4QFhQJKtc5r9SA=;T21QbgJe6fuyJtj52njjOw=="
+secured: "1i2rtxhpC1P5XdAIO6t62lCmYzgOPchbfD0efRFQpFs2gckf4HVWMid+8UlOGdg0T5PNXPvY+LzZJQ718scY0UfEI5tSKDxxQwko8/M76/mMHEdzyNjHis32/DkBHw4qm2xmfE5Ng4p1FlCl8gj+LnaqEG3ImqftpwpIbJe+FI5IsCW7OqGC45QOq67w32PEqqs0KTBujhA0Iy+FHafkLt0LbEkSTB4hJXM4lxL7F5aee9NBsGUPY8M2p+Gs4Q1cnJaeOm4bYFw+TgS1VzWkkBmkMmIiHKYj84R6kAZViauOW6er0kCgEmHBcenkGiR4GNsV1Ela3ag/IPRaqamEWiP+qnX+ZyaQt4qIs/Y1Os4=;Rktg9VKFcZz+E9EfqCGqKQ=="
 ---
 

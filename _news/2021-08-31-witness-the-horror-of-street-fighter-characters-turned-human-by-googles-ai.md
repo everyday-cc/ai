@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91039-witness-horror-street-fighte
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91039-witness-horror-street-fighter-characters-turned-human-google.html"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

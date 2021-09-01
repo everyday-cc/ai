@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
 type: article
 quality: 57
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How enabling data and AI at scale will transform your organization"
-    excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
-    publishedDateTime: 2021-08-29T08:32:00Z
-    webUrl: "https://www.computerworld.com/resources/223228/how-enabling-data-and-ai-at-scale-will-transform-your-organization"
+  - title: "New AI technology for heart imaging could improve care for patients"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
+    publishedDateTime: 2021-09-01T11:13:00Z
+    webUrl: "https://www.news-medical.net/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
     images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/9/Chris_Kramer.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "New artificial intelligence tech set to transform heart imaging"
     excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"

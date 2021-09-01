@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-ai-personalized.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-personalized.amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1920
     height: 1354
     isCached: true
+
+related:
+  - title: "Potential risk of stroke recurrence predicted with Artificial Intelligence"
+    excerpt: "Patients’ risk of suffering stroke recurrence can be precisely forecasted with the implementation of AI, a new study has suggested."
+    publishedDateTime: 2021-09-01T10:40:00Z
+    webUrl: "https://www.healtheuropa.eu/potential-risk-of-stroke-recurrence-predicted-with-artificial-intelligence/110697/"
+    type: article
+    provider:
+      name: healtheuropa
+      domain: healtheuropa.eu
+    quality: 35
+    images:
+      - url: "https://www.healtheuropa.eu/wp-content/uploads/2021/09/©-iStock-designer491.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "xQDh+BeuG4m5R0pjchvZhFZMR2VgfZrDiU5EV0mGcybqT+5TmMdIbJmP796geCieOdBMrbtZjHFS6iKxlu7NYNkimKU6JMH4+iEJo+o8s2LqCc+qEiLZ9jQHA4aCtvb9l6X029cV/AVV2M7L3bWphD0kG/+UYXzDVD8rntK66eCOaLwNuA251q4aKth5PVXi/B5TNSmaiuo4SGccYHAQyrG+TOzLAwy8t5A/9wvQb3g+Ng0WA1Y7NXTAI5nhqdWkWI71d3CCxzqnoxAu9nZ88ASEigUkbh8GCEGYAArbuI7SJQwsH8rTwl9qST59iP8cKL49pqxtP1B5A2z+/AiBptqQ961OJ2vnAR3pSGp3E0GFUhr0zwb4N/O3y0Ersf2ugXkwvfKWFHQOMNUwRRkY2LWUb4m1+7Q5GdpXr74nDRllzYYNJis0WfWFA1SLC3ahs47q7p/PlQ1Zem0N/Ebn6JokMeAIL3pZ2mdfpFd5kO/RCElkaqoacuWmIXOAkKiOHE40h5bfmCxVV22q4ROetw==;38rKxJAZ9JQUrSoq1fJ9AA=="
 ---

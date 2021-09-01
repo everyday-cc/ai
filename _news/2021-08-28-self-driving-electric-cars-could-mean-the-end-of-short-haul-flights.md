@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-ele
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Challenges that self-driving cars are facing"
-    excerpt: "The road to the future is a long and winding one as self-driving car companies try to get their driverless cars to go mainstream. While self-driving cars are the way of the future officials say it's just taking a little longer for the future to be fully realized."
-    publishedDateTime: 2021-08-27T18:42:00Z
-    webUrl: "https://www.wral.com/challenges-that-self-driving-cars-are-facing/19845953/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 24
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/national_world/national/2021/08/27/19845954/132237-self-driving-DMID1-5s0j0zz7n-640x480.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Self-driving electric shuttle heading to Whitby GO as part of Metrolinx’s AV pilot project"
     excerpt: "Durham Region residents will soon see a self-driving electric vehicle rolling into Whitby GO as Metrolinx partners with several agencies to help create the smart infrastructure."
     publishedDateTime: 2021-08-30T15:52:00Z

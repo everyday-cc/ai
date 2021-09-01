@@ -24,77 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "Key Ways Artificial Intelligence Can Improve Recruiting In The Hiring Process"
-    excerpt: "A number of companies have turned to AI to improve their recruiting—a task that once required hours of sorting through resumes, calling applicants and scheduling interviews to find the perfect candidate."
-    publishedDateTime: 2021-08-27T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/"
+  - title: "This Augmented Writing Tool Can Help People Who Stutter By Using AI"
+    excerpt: "Advertisement With the passage of time, technology is making our lives easier and more convenient. Besides providing us facilities for advancement in different sectors, it also creates solutions for people with disabilities or conditions that serve as an obstruction in the smooth execution of their daily activities."
+    publishedDateTime: 2021-08-31T06:03:00Z
+    webUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/"
+    ampWebUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128f2a81a40fb7e8b49f13e%2F0x0.jpg"
-        width: 1200
-        height: 721
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/texttospeech.jpg"
+        width: 1920
+        height: 1459
         isCached: true
-  - title: "Flying Robots Picking Fruits: Leveraging AI for Automatic Fruit Harvesting"
-    excerpt: "This article features the mechanism behind flying robots that leverage AI for transforming manual harvesting into automatic fruit harvesting. Click here to know how robots in fruit harvesting can act as fruit-picking robots efficiently."
-    publishedDateTime: 2021-08-27T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/flying-robots-picking-fruits-leveraging-ai-for-automatic-fruit-harvesting/"
+  - title: "This Company Wants To Put Your Face In Advertisements By Making Deepfake Clones With AI"
+    excerpt: "Advertisement With every passing day, scientists and researchers are coming up with ways to incorporate technology in ways that were not known before. This brings innovation, convenience, and improved living standards in our lives."
+    publishedDateTime: 2021-08-30T17:36:00Z
+    webUrl: "https://wonderfulengineering.com/this-company-wants-to-put-your-face-in-advertisements-by-making-deepfake-clones-with-ai/"
+    ampWebUrl: "https://wonderfulengineering.com/this-company-wants-to-put-your-face-in-advertisements-by-making-deepfake-clones-with-ai/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-wants-to-put-your-face-in-advertisements-by-making-deepfake-clones-with-ai/amp/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 52
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 49
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-for-Automatic-Fruit-Harvesting.jpg"
-        width: 900
-        height: 500
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/109129822_19845043-8e5a-4bb4-a8af-b7269659a838.jpg"
+        width: 976
+        height: 549
         isCached: true
-  - title: "Flying robots with AI mechanisms can identify the right fruits for plucking"
-    excerpt: "In the past decade, the introduction of cutting-edge technologies like AI, machine learning and deep learning has transformed the overall process of fruit harvesting. Now, fruit farmers"
-    publishedDateTime: 2021-08-30T12:41:00Z
-    webUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-mechanisms-can-identify-the-right-fruits-for-plucking/"
+  - title: "How AI Upscaling Can Help Remaster Game Art"
+    excerpt: "Mass Effect Legendary Edition is one of the first high-profile titles to use AI texture upscaling, but how does it work?"
+    publishedDateTime: 2021-08-31T17:07:00Z
+    webUrl: "https://www.gamasutra.com/blogs/TommyThompson/20210831/387627/How_AI_Upscaling_Can_Help_Remaster_Game_Art.php"
     type: article
     provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 52
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "‘The Future of Recycling’: Rumpke is Using AI-Based Sorting Robots at its St. Bernard, OH Facility"
-    excerpt: "Rumpke Waste & Recycling has invested more than $2 million in the latest recycling technology: artificial intelligence robots that can recover"
-    publishedDateTime: 2021-09-01T03:09:00Z
-    webUrl: "https://wasteadvantagemag.com/the-future-of-recycling-rumpke-is-using-ai-based-sorting-robots-at-its-st-bernard-oh-facility/"
-    type: article
-    provider:
-      name: Waste Advantage Magazine
-      domain: wasteadvantagemag.com
-    quality: 40
-    images:
-      - url: "https://wasteadvantagemag.com/wp-content/uploads/2021/09/grab32.jpg"
-        width: 1302
-        height: 860
-        isCached: true
-  - title: "Beyond HBM: Samsung Breaks Processing-in-memory Into AI Applications"
-    excerpt: "AI applications bring with them many challenges, including data processing and memory. Samsung hopes to take on these issues by combining processing-in-memory with high bandwidth memory."
-    publishedDateTime: 2021-08-30T17:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/beyond-high-bandwidth-memory-samsung-breaks-processing-in-memory-into-AI-applications/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
+      name: Gamasutra
+      domain: gamasutra.com
     quality: 39
     images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/hotchips33_samsung_HBM_PIM_thumbnail.jpg"
-        width: 700
-        height: 300
+      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1038824.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "ZNu6BWxih3Ft77eP/fo65lXNNECDvJk6kmF4iooIEwWnnht5olCfGyrdy1+zxYNK/Qvxx5qpls7/HQOIBgXdaIb699jAd1+2GwqyTp9mTGikyvVBrc5s0Jchss7d3XEk9VJSJ5N+p7s67WuCqpsRJP6wsigwgxXoKe+EBT8tfQ9UhbOepW03FecPrqnZhK7vdDviq8zH4QoVeQbS72XuQNgOSqnvNUuyspevEG4cT45RyVZ8fskj9uDQbVLQLpZc0Hkf9vOJWzjKvLXc7aFabr15V8FCcOQEaSMNkD4eE1IyDYu5oPcXfAhUrCJFGGGdny6n6QDwSfx0JynHleIOtuewmctM3t/M5LlaBeFFVi5tz0N5Nesfc8H5x3Anr01j1bj+f9p38YTwfAsc5Jg9pj6y1tX9om3+TsztMpkDms1I2uj24+R39uUk5Iq6n6WDW/QRUhJko3c39HOrP8lqcU8EjBvdKeJ72CXmuy/MjrpkTYFN+0+GWTfxnHFkxID91uBPbAyHhJ/5WedYQ2AG1Q==;xnuoC148+vdfY7L/CuMOnQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/20823/how-machine-learning-is
 webUrl: "https://www.finextra.com/blogposting/20823/how-machine-learning-is-changing-credit-decisioning-forever"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -20,31 +20,15 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Making Virtual Learning Real"
-    excerpt: "Universities have deployed virtual labs, educational digital twins and machine learning to innovate online education."
-    publishedDateTime: 2021-08-27T18:07:00Z
-    webUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/"
-    ampWebUrl: "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/"
+  - title: "Gesa Credit Union Goes Live with Scienaptic’s AI-Powered Credit Decisioning Platform"
+    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI today announced that Gesa Credit Union has completed implementation and is"
+    publishedDateTime: 2021-08-31T15:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210831005082/en/Gesa-Credit-Union-Goes-Live-with-Scienaptic’s-AI-Powered-Credit-Decisioning-Platform"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128e5695e7579e33ef2390e%2F0x0.jpg"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Hybrid Deep-Learning and Machine-Learning Models for Predicting COVID-19."
-    excerpt: "Currently, PCR is the most prevalent diagnosis tool for COVID-19. However, chest X-ray images may play an essential role in detecting this disease, as they are successful for many other viral pneumonia diseases."
-    publishedDateTime: 2021-08-29T01:10:00Z
-    webUrl: "https://europepmc.org/article/MED/34394338"
-    type: article
-    provider:
-      name: Europe PMC
-      domain: europepmc.org
-    quality: 3
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "nx7Kro6TnbVi29tSHReICE73gNjlGGBR6w/9MQaBu5b0n0XLltN79Zm/muqQouUu/aWaqIG4UxD7rrjNx4koGOXihyPDaZ6YTe0icMWMhhwTRFSBVxMKBsxH8Cm4aX52LkkydGti+8peuxe+3/2nfZOLJRJPOiMCzcccnMUw77pNogMWr501R5rmt5fV4/z9XhRZTFD+XSf7Ql1tdiS2ewsz9SU54yY6hz6S0yIEiFRTkljP1/zJX1LC2xgaKiZLRvrpmQYc2xfZISdAUz7Vu/rG2CpzrCEYKcgNGB4i5qJOEfLSPt3+KFg+8/WJG96RHOUTbu0iH19T87duv/oMdG4XzzPTNskgfJ3s3YV4fCE=;9yUqdmwo/zybMiLPlGavlg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/ai-can-enhance-real-virtual-lives-synd
 webUrl: "https://thenextweb.com/news/ai-can-enhance-real-virtual-lives-syndication"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Web
@@ -27,22 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "How AI Can Run Internal Audits"
-    excerpt: "I watched the movie “The Accountant” recently, and it brought back memories of running a special tiger team internal audit effort at a tech enterprise:"
-    publishedDateTime: 2021-08-27T18:10:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-internal-audit/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/Quantitative-Data-Image-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "V9M/AqTy+sA0Pf/xgR/HCnU4gBohfSz45SnHDQrZuVwPX1vfWNI6Im3kIl3Id6J6Q8hfi6kOw7hPQoVfF2AkR8VeaS6c/b5X9xqAo8qdXoR/5L/CkXqMrinYLtHC6DJ7jFzbDEXl7BVs7QNEwn2in3fO0qsUkPomr1irCk6M9Rd4u1gedfo1zyEBeoK4qnCnG8TZa3YNip7JD45HFFEtvGDRkWl2tB3OreDJcUhnLxdAI6cwuXNvadyC5Zf7In4bsPQviOIFovs0HN/rRQf2pdXF9xhCfcfZHi0D5XoMM6SqLSxF/jniMLNi33WXDLx66ScfD8CuGQsPanjxPMaGat70k9+LaDC+KhAcO9NeXbQ=;CJSJn6JbgRD561pWzyRDjA=="
 ---

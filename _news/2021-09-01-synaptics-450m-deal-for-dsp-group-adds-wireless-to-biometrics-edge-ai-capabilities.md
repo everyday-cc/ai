@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DHS finds masks cause jump in face biometrics errors for some races"
+    excerpt: "Among maskless white volunteers, slightly over half of the 60 systems tested by the DHS Science and Technology Directorate reached the 95 percent threshold."
+    publishedDateTime: 2021-08-30T20:50:00Z
+    webUrl: "https://www.biometricupdate.com/202108/dhs-finds-masks-cause-jump-in-face-biometrics-errors-for-some-races"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Synaptics Boosts Voice Business With DSP Acquisition"
     excerpt: "Synaptics is acquiring the DSP Group, best known as a maker of wireless chipsets, in an effort to round out its biometric portfolio"
     publishedDateTime: 2021-08-31T19:59:00Z

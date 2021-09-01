@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers"
-    excerpt: "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future."
-    publishedDateTime: 2021-08-27T17:25:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 131
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Playing catch-up to the early adopters of analytics, AI and machine learning"
     excerpt: "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
     publishedDateTime: 2021-08-30T13:00:00Z
@@ -55,19 +41,63 @@ related:
         width: 410
         height: 230
         isCached: true
-  - title: "Army Testing Facial Recognition in Child-Care Centers"
-    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
-    publishedDateTime: 2021-08-30T20:32:00Z
-    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
+  - title: "How The United States Army Is Leveraging AI: Interview With Kristin Saling, Chief Analytics Officer & Acting Dir., Army People Analytics"
+    excerpt: "To remain competitive, the US Army has created the Army Talent Management Task Force to address the current and future needs of the war fighter. LTC Saling shares her insights into how analytics, automation,"
+    publishedDateTime: 2021-08-28T05:00:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
     type: article
     provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 58
     images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
-        width: 800
-        height: 533
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125197aa4e9c316e3801db8%2F0x0.jpg"
+        width: 1200
+        height: 1042
+        isCached: true
+  - title: "Playing catch-up to the early adopters of AI and machine learning"
+    excerpt: "Early adopters of data analytics, artificial intelligence and machine learning tools have found themselves in a position of favour in today's rapidly accelerating digital"
+    publishedDateTime: 2021-08-30T15:19:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 54
+    images:
+      - url: "https://biz-file.com/c/2108/625807.jpg"
+        width: 700
+        height: 364
+        isCached: true
+  - title: "PKS rebrands as Beamtree, buys AI start-up Ainsoff and data analytics firm Potential(x)"
+    excerpt: "The clinical data analytics company formed earlier this year through the merger of health software vendors Pacific Knowledge Systems (PKS) and Pavilion Health has rebranded as Beamtree Holdings, with the ASX-listed company recently buying two smaller companies to form what it says is one of the largest health analytics and decision support platforms in Australia."
+    publishedDateTime: 2021-08-31T05:22:00Z
+    webUrl: "https://www.pulseitmagazine.com.au/australian-ehealth/6229-pks-rebrands-as-beamtree-buys-ai-start-up-ainsoff-and-data-analytics-firm-potential-x"
+    type: article
+    provider:
+      name: PULSE IT
+      domain: pulseitmagazine.com.au
+    quality: 29
+    images:
+      - url: "https://www.pulseitmagazine.com.au/images/articles/ClinicalData.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Analytics and AI Not Being Fully Utilized for Audits and Compliance Investigations: Report"
+    excerpt: "While there is an increase in the number of investigations companies are conducting in the areas of employee conduct, regulatory compliance, security, and"
+    publishedDateTime: 2021-08-31T17:56:00Z
+    webUrl: "https://www.datanami.com/2021/08/31/analytics-and-ai-not-being-fully-utilized-for-audits-and-compliance-investigations-report/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 27
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/compliance_shutterstock_EtiAmmos.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
     excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
@@ -78,20 +108,6 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 24
-  - title: "MiaRec Announces Release of Integrated Voice Analytics"
-    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution."
-    publishedDateTime: 2021-08-30T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miarec-announces-release-of-integrated-voice-analytics/article_7f8a4658-e7f8-5346-bd9b-4e549dee94dc.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/91/29119288-540e-516e-84a0-432a491bb592/612d2b1381566.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
     excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
     publishedDateTime: 2021-08-31T15:38:00Z
@@ -106,15 +122,20 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
-    excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
-    publishedDateTime: 2021-08-31T00:53:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210830005567/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
+  - title: "Cornerstone Advisors Acquires Coastline Analytics, Adding Advanced Analytics Expertise to Its Financial Services Consulting Offerings"
+    excerpt: "Cornerstone Advisors announced today its acquisition of Coastline Analytics, a Florida-based firm specializing in advanced data analytics applications for community-based banks and credit"
+    publishedDateTime: 2021-08-31T12:31:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cornerstone-advisors-acquires-coastline-analytics-adding-advanced-analytics-expertise-to-its-financial-services-consulting-offerings/article_06d546a7-9199-5b7e-9fd4-362736dfb2ef.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/2f/e2f6071d-9d4a-5338-a4af-458d3a66456d/612e223769960.image.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "BjkKqrBFqbU6ytWsIOtNZNlHtnJ7jBCZZRh/lSRRgm9gcg677UYq3sIuYWh3MCoeBTiy6pZHgp5Y8YO4WPYiCpQN3c58zIfo4jG+bJDXXEa6OPshzrms7FyaKkMksjBeiYQYtiWwql1JNexyaOroKhRLO0QS+Zfp18IaN3QpIh3R9lzrdZuZ/46FbGpb/iTYRx6v8IrcMLDXGXnjYZr1DBVLqbFBZRo0n2xOwqh/QYiXlNpo/2/He8sFNFHizOuj9c3jqSyfcdzXMdvje2oPNapQw3ditCno3DdWB0yWE8WOOugCcWPOF0nUZbgq/a7Abz0tsTzn/ZK0uZRhOGU5ttLBt2Psm5vAcHY4YA3tjIuahH5eWniDA0QDzoLzfnReAPgGJS94AdQebvh/8mEkcEM002e4LZBYvTa8JjYZxIM3Depsqn6TIQFlCUvp5BgwNlKssLYJC+GEbJcEsRA437XqS4cUdYPpqBr4MvRxBL9n15JUazM/n0odA2FkdNUGsLNX1yVreE51mw8zi8GFew==;s4BBXXOI6/BIFTqtb+mAIQ=="
 ---

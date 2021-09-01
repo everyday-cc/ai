@@ -1,23 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Managed Grafana"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Grafana, a fully managed data visualization service that enables customers to instantly query,"
+excerpt: "Fully managed data visualization service gives customers a scalable, secure, and highly available way to visualize operational metrics, logs, and traces across multiple AWS"
 publishedDateTime: 2021-09-01T03:30:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-managed-grafana/"
-webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-managed-grafana/"
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/b22751964/aws-announces-general-availability-of-amazon-managed-grafana"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/b22751964/aws-announces-general-availability-of-amazon-managed-grafana"
+ampWebUrl: "https://www.benzinga.com/amp/content/22751964"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22751964"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "g+nvXi2Z9hKnWsAxVoFgbLZIUqJ0ar7nfmzFwrrihHVOhCNletbntBpDOXvkb+YjkBxkWotSQnv3Ib3tI7DXXfnZQHSVfTd7KLAM0xN5oft8y56Wj5NemIdaTs5091u/hfqggrZhLHNaKvsg2m+eal5BOEDJ+bpiTUxsGM5M7HoNN29v1aS4QBO0bSRtEiKNsT9oQi6yfBrxQ5uuyqh9bYF2/5SdD2VEsXDJyRWKUlXMYabjEFb5mjUL1bqMpMSTFyTR/l3M4vu0h2Pv/2mEHY+K/3Nkl7fVYCS8QYz0TQdkCGsA2MWXVt2MI/mDZk2EaeJxam+CPRDYg5O5YCZGNBh+p3yXT19Kqh8RG+0fKWg=;awZ4preEIbJ9MrDmDgUE3w=="
+secured: "t1e9SP3TXqfF4BUC+PgA1R6wER8Uroa11as6RSSzGmt2LPKt/O3IDoj9ECpXj4jQ0mr1pyXXuQhItA/zZobCzqmwyvVSUUVFUNmAPEbUDBjrIbMM+yUPuXkuCIskhZQ4lWOMXKWPmg29ocvJo9iIPBM8+C/tH7901lQN5xxt/y6p/eIGipzTHWG+5chdaN494ZTUULYSVh0d0L9hdwVgvWFKAQKJOggsjiutflUeMu6pXVnoBzfEoJQcrGFL/YGZnuoBNlXlNRKX4Q2+ju/p0p+yZisctvgtUx0WcYWgREA1N8xGu/qBKZwk09SxnHW6cG8hpmSK1En6ZJAJdjUVI6t2q967qd27Q7fT9p8qNpY=;kydKSgdOJPSlJxgfNf+k6Q=="
 ---
 

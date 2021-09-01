@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Toyota suspends all self-driving vehicles at Paralympic Games after collision with athlete"
-    excerpt: "Toyota Motor Corporation announced the immediate halt to all e-Palette self-driving pods at the Tokyo Paralympic Games following a collision."
-    publishedDateTime: 2021-08-27T17:58:00Z
-    webUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/"
-    ampWebUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2021/08/Toyota-E-Palette.png?w=1000"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Toyota suspends use of its self-driving buses after one accidentally hit a visually-impaired athlete in Tokyo's Paralympic Games village"
     excerpt: "The autonomous vehicles were shown off at the 2020 Tokyo Games, helping athletes travel to their events and around the Olympic village."
     publishedDateTime: 2021-08-27T20:24:00Z

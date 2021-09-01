@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-hel
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1038824.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
+    excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."
+    publishedDateTime: 2021-08-31T15:17:00Z
+    webUrl: "https://techreport.com/software/3474594/artificial-intelligence-enterprise-recruiting/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://cdn.techreport.com/wp-content/uploads/2021/08/artificial-intelligence-enterprise-recruiting.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "0pDv6DkeL7JMCxZ0GJBrq0FFtzNQsR6NwIaayI4ce0jcQrAEP/Tm7ICOfBkVwFHms6GlisB37OjjqcNzmmW0TkeGKqrqRzRjyH9Mt6s3bEQkChYPA6jTKinvOmxwEC+/oAfVawWrBKaB+ibnDBOU0Taf0UV5GxQnptG23zM5WlYkea5HlU2fjeLsTdzGRM8vBat1D0FvN7fI8SL/seHrJcOzPiRoZvp0/fyLTN89XNDeTDkzC4i1eydzlzCgxmRWjLuvITO1uucy6OKcluV3K6frHztywYKzbbpFIION12lfiRBIu1jSGLyQqXi4fIiLqQYN6XuH5trhbtNNuGDxJi9fhRcWl1ybkiCiTb0rO38=;0OJgJK76ieAEPsEWZhLGmQ=="
