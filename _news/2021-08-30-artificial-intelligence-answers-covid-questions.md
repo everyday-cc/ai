@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
 type: article
 quality: 61
-heat: 124
+heat: 121
 published: true
 
 provider:

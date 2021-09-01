@@ -38,20 +38,6 @@ related:
         width: 1347
         height: 600
         isCached: true
-  - title: "The Impact of AI on Unified Communications"
-    excerpt: "AI can make UC more efficient and effective. Here’s how they can ease work for employees and improve the customer experience."
-    publishedDateTime: 2021-08-27T12:30:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/unified-communications/the-impact-of-ai-on-unified-communications/"
-    type: article
-    provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 37
-    images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/08/The-Impact-of-AI-on-Unified-Communications.jpeg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "How artificial intelligence is ushering in the age of the science of negotiation"
     excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
     publishedDateTime: 2021-08-31T14:04:00Z

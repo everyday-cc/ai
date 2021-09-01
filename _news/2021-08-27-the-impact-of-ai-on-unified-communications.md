@@ -24,47 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI and Computer Vision to Reduce Misinformation on the Web"
-    excerpt: "The spread of misinformation via deepfakes, document manipulation and false narratives is fairly common on the internet today."
-    publishedDateTime: 2021-08-30T22:37:00Z
-    webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
+  - title: "The Propelling Impact of Artificial Intelligence on Businesses"
+    excerpt: "Artificial Intelligence (AI) is generally defined as any machine that can do ‘’what a human brain can do’’. Nevertheless, Artificial Intelligence is indubitably still subject to significant limitations in comparison to humans."
+    publishedDateTime: 2021-09-01T00:27:00Z
+    webUrl: "https://www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243"
+    ampWebUrl: "https://www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_and_Computer_Vision_to_Reduce_Misinformation_on_the_Web.jpeg"
-        width: 1347
-        height: 600
-        isCached: true
-  - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
-    excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
-    publishedDateTime: 2021-08-30T05:50:00Z
-    webUrl: "https://3quarksdaily.com/3quarksdaily/2021/08/irrationality-artificial-intelligence-and-the-climate-crisis.html"
-    type: article
-    provider:
-      name: 3 Quarks Daily
-      domain: 3quarksdaily.com
-    quality: 37
-    images:
-      - url: "https://3quarksdaily.com/wp-content/uploads/2021/08/RC152B10B550-768x511-1-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "How artificial intelligence is ushering in the age of the science of negotiation"
-    excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
-    publishedDateTime: 2021-08-31T14:04:00Z
-    webUrl: "https://www.bizcommunity.com/Article/224/706/219579.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 32
-    images:
-      - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
-        width: 546
-        height: 364
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/31/propelling-impact-artificial-intelligence-businesses.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "t5tATIaxQZRqb2/jr65Wh/Pw+s0IlzIuLVMyHR8xgChmnXWi4xo3vkeGIvnFItcGy3iAqTv6okbxbeKTT/ctSkr2qf+HZNQee2SmoQFHXD4EW5/vyoE/JfpG6Os7RUEOU3tzx5I5hpVucjN0+ff2tNPb2nkg4JEEwIsvXWwkAtbu1pNJpHBUmDXXA3zevQVD3gW4+NxzLJRdWqUDqroBeKRXLlOsJqa/pz8xUHEU/5UnGy3BA0dmuKt31Gq1CpDwplN+rfN0EtLO6Ozut6/04qsoX31HgOQ2tlyXWN9sjRoZcAHBmrm5sgj+i0pbQOGxXX/y9P4aHNPInu63Ki9j4D2DEbcIinYFSbUzuVKdgQU=;dgoE8SDP/5bc/WdKXjch5w=="

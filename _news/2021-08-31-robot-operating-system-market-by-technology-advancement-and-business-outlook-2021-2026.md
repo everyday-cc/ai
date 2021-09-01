@@ -32,6 +32,20 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 23
+  - title: "Global AI Translation Market 2021 Research on Import-Export Details, Business Standards and Forecast to 2026"
+    excerpt: "A new research market study report titled Global AI Translation Market 2021 by Company, Regions, Type and Application, Forecast to 2026 has been featured by MarketsandResearch.biz. The report delivers different segments on basis of product category,"
+    publishedDateTime: 2021-08-31T22:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-ai-translation-market-2021-research-on-import-export-details-business-standards-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/521899449c0c649b327d2721355b13037b7a6e6d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "dopEdaCwM866+4m7sb8T7WUCT7Tuh9w0Q37fR9AkNymfVtpoQPdo4TZZEtzfTaqt3TsIyUri1FR5W8wJ4Ah9uQ8lA2YoYG87bz9f8s9VomQduDlUt/uFIxXxPnmrSi/LCCDTvH+f4JPn7LWnHBPrDlhDF1C9gBlc09mvXnm73vrQ59T1+D6wvkjfHqA1UnVzj1rofaB3xUmhWdfKzK/lnVoPxme/5CBS7/Q6j0KvWQulN6VWe4CXHThZ2cuaOra+zByxOlekgupMTKjGzhEsOXELLDo5jg/ZFM7nhiS0qBM9rHBTYt0bSgJHGNowR4hgkIM2NAwkUQNvbkvBAcgaHxiCzFC/fUVllHmEuJUPIbc=;P+/FoUiIblYVmJfArdYMYw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voice
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA's RAD-TTS generates realistic AI voices that are more expressive"
+    excerpt: "As far as synthesized voices and text-to-speech has come, it's still not perfect. However, Nvidia's text-to-speech research department has developed some machine-learning tools for making voice"
+    publishedDateTime: 2021-09-01T00:11:00Z
+    webUrl: "https://www.techspot.com/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-31-image-44.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Nvidia AI Speech With Complex Rhythm and Tone"
     excerpt: "Human speech has musicality. Everyone may not talk like Martin Luther King Junior or rap like people in the play Hamilton, but there is rhythm and tone."
     publishedDateTime: 2021-08-31T20:47:00Z

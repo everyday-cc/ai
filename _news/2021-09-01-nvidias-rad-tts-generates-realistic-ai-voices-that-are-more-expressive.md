@@ -1,29 +1,33 @@
 ---
 category: news
-title: "NVIDIA shares expressive speech synthesis research at Interspeech"
-excerpt: "Developers and creators can access state-of-the-art conversational AI models for expressive speech synthesis to generate voices for characters, virtual assistants and personalized avatars."
-publishedDateTime: 2021-08-31T14:58:00Z
-originalUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/"
-webUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/"
-ampWebUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
-cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
+title: "NVIDIA's RAD-TTS generates realistic AI voices that are more expressive"
+excerpt: "As far as synthesized voices and text-to-speech has come, it's still not perfect. However, Nvidia's text-to-speech research department has developed some machine-learning tools for making voice"
+publishedDateTime: 2021-09-01T00:11:00Z
+originalUrl: "https://www.techspot.com/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
+webUrl: "https://www.techspot.com/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
+ampWebUrl: "https://www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
 type: article
-quality: 44
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Dataquest
-  domain: dqindia.com
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.dqindia.com/wp-content/uploads/2021/07/Data-for-AI.jpg"
-    width: 850
-    height: 400
+  - url: "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-31-image-44.jpg"
+    width: 2560
+    height: 1440
     isCached: true
 
 related:
@@ -43,22 +47,6 @@ related:
         width: 1024
         height: 544
         isCached: true
-  - title: "NVIDIA's RAD-TTS generates realistic AI voices that are more expressive"
-    excerpt: "As far as synthesized voices and text-to-speech has come, it's still not perfect. However, Nvidia's text-to-speech research department has developed some machine-learning tools for making voice"
-    publishedDateTime: 2021-09-01T00:11:00Z
-    webUrl: "https://www.techspot.com/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-31-image-44.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Nvidia AI Speech With Complex Rhythm and Tone"
     excerpt: "Human speech has musicality. Everyone may not talk like Martin Luther King Junior or rap like people in the play Hamilton, but there is rhythm and tone."
     publishedDateTime: 2021-08-31T20:47:00Z
@@ -74,6 +62,22 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-30-at-9.02.57-AM-1024x512.jpg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "NVIDIA shares expressive speech synthesis research at Interspeech"
+    excerpt: "Developers and creators can access state-of-the-art conversational AI models for expressive speech synthesis to generate voices for characters, virtual assistants and personalized avatars."
+    publishedDateTime: 2021-08-31T14:58:00Z
+    webUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/"
+    ampWebUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/Data-for-AI.jpg"
+        width: 850
+        height: 400
         isCached: true
   - title: "Nvidia Aims vSphere-Integrated AI Software Suite at Enterprise Market"
     excerpt: "The AI leader has designed the software together with VMware to make AI easier for both data scientists and enterprise IT pros."
@@ -143,6 +147,6 @@ related:
         height: 536
         isCached: true
 
-secured: "6k4kao99yzOrPqaOpPQSpZap9JKpSHt1HUmoThnnM+j8lKjjGFUFIvjQKzy0wDyPmxpdNVxL7/fvu2L++20/+bWGTtzLc8naSg/rIxSy91hNVtjZ3oi1bw8hDw0bwbH0px62MvH0byuItWUzt7oAaNtxiQnwe0kozX/t4XSMydIiJLnbDOfWZNecK9gGCv8XjtT2mBEtH4JUuHxDyMEeqA/vvjrz5NTOL6mxVXigBu4EtAtYCooXZVtgn4zbvMqPj0mQd3iXYL5X09GU15rr0wmrS8Ny4aHLNiTbKs8lkM9TFaEfZKUiQ035Iqcp8W4/11iFCNKGr9sZ/F+LBSiZYyb1u9zoSy9h6UAA14+sAvw=;hw8m1ayjHl8IYGXXxtE83A=="
+secured: "t+TGLGKSzFWUSfrMTpMoFHWfUbIb6COYm3Qic/NfeajIX6IVJv/DZXftFbfPK8XlEJ6jWJSbOmW2uiFpEhE8+o1ze073ZSiX3brKZHnC/kqT/AODI+SRHFOYorf4BJhNG5r0PzkRudm+Fwv3IuZs5kOd1iL849TfyOtOSiQw2VH4MzrUOh+Uz3xux697eZTOEI4ohCz/DNpMs0wuGNi5DbqKkanf6dWdMS/BiMh8eV1nqdy7r8Gp4zNuEwCxH3IPSVZQAVLnuJ/qEvnO588W7gvtMN6j6lbL5YE5xe32f24/h7jvntbnscTl9pw6YuD8339AGCEkSIJ3i1/OmMWwWdLtNHpw88+SvB5eoYH29fI=;tnfaVkBg/kmEwRdeCEiP9Q=="
 ---
 

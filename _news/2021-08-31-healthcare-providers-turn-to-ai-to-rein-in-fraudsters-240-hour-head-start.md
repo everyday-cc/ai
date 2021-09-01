@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/security-and-risk/2021/healthcare-provid
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/healthcare-providers-turn-to-ai-to-rein-in-fraudsters-240-hour-head-start/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 544
         isCached: true
+  - title: "NVIDIA's RAD-TTS generates realistic AI voices that are more expressive"
+    excerpt: "As far as synthesized voices and text-to-speech has come, it's still not perfect. However, Nvidia's text-to-speech research department has developed some machine-learning tools for making voice"
+    publishedDateTime: 2021-09-01T00:11:00Z
+    webUrl: "https://www.techspot.com/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-31-image-44.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "NVIDIA shares expressive speech synthesis research at Interspeech"
     excerpt: "Developers and creators can access state-of-the-art conversational AI models for expressive speech synthesis to generate voices for characters, virtual assistants and personalized avatars."
     publishedDateTime: 2021-08-31T14:58:00Z
@@ -127,6 +143,6 @@ related:
         height: 536
         isCached: true
 
-secured: "cKXrrCdqkmNY7C3zQeRaHRZn80A0bhvlA4yQFoY6uWUNOSd6XbHLcMu9oRb4ehHW7wP9ikJYoV7mNjL4Sbzs5stxoD9myfxurSRnBGGIluECYHwSy+61Ol+Gwc5WCCv9jBtTMM4sNsdZrBOo8liFZxWLgh551/1yaInCrRrnWJDLWdMel814ijuCJfmQRdudnAzhqDmRsixX3nyRJcy39wkZ4RSmTJBKnAPN4WmobAvEXiKpABiXtXV6g8/HijjLBD/nkqq/BT8KOTJY3NG86vnd8yCSL/AP1kMlaNhAkLTUdC+aWvqKfZYFVHdZUDgnv/f6DCoGTTL4zpRHDZyMwIy4sF+3XUc4Gwg9RhA3DBs=;ZDuZCBtw49Vo1XSFto586A=="
+secured: "ifdGblOOXXDwGEKX+0Vm08rl/dJ1B1bpZT5FiQOPZV7sGxHuD34iJUS2Tt5nMFHq22JNaySqVJsnzgSZe1K8yHuU//Dh9in/5JsIX2fvuiPbisCrvrZdy92pFyYBD0qCjVb+Xfc8IKluJmkYZ496dv2GeaxGUHGCTV6Bq2oxEb2TDuNyeIMUagLuKb5kAZuwJnF5Pfwmrhtt6z+vIb2MQb7dDl2DwqlvQKw6+2eUJx7u9nzbr5L5o1K/zift5D/0H36JuXWDHqbiPLHy0IZPa4N9wHgiHeObhHE2QDA1Kr+77Ce+BpxWffEKFnfdJqFR9CnKrNoJ8BqQ/SyKCeBPFs9+PTdgm1tDgMRV/AQBH+RfsC4DzwGLpp1LjpByKIHJLTVhO5o6o8l2LTZz/k9Y3eHFkeRAjTXkLOxf0hRQiyAnpZPrlHh5tKOK1hbJS+qU5qYCjvmh5ii3oq24ZOoodQ5r+uND7ZYr3jzAz9aEjJKIz8psstGnhhKg6ifQUneBQQV1O8xxrJa7a4bo5dcTyA==;qZyH5ziZ/lyYZ5xvMRe5mw=="
 ---
 
