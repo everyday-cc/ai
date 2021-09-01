@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effecti
 ampWebUrl: "https://venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 801
     isCached: true
 
-secured: "zYHMdsaxWFZ8gMzvg8fz1Z1YnEU5BlBEswqYCqhlx0cpMBulAUiIX6hQJ2qPzpMGhA1tZ1juwiytZl18vIVRgjZHFeJ7GVi/PyH1+++At9YtbVVIJtqimq6rvGk+WEe+jO3w/ngeLdM5tVUlwEboRPZrojdVI1U0rltrpF43/lginRxXwZqQYg7Har5ALXi2sT2muL84N5IIbmd5PX3Ok2924KWR9YVdJQm7X0ZuUyrbRhF8lQ1Jo2wSZxcts2KI6z2AeTQ1vIglVeAgQ7JK012oRSNucDC62C4NyrJSueR1mh117iHYIuve8LGG7quo5VkwimogL2xBYCfr5YVFsORPujsX7MC+6FWS8YK0fhCcfTbIkACP+Gcuujv9bEZYBO99iyjy6D9MiDWxDpdDekfbh9LPOIEehWzgCe/n6zNCL4jX+sfCyo4t8/KMv7ajx+jnofi/mmNAj/PRXR1ZKb6fMHN9jaidU7SbOKMbuHqOW2sp8WPkKSSXu3szzhpxucFUE7eZltmZDHP9B6M5Fw==;umbs5bAjDyQTaIOL99DZlw=="
+secured: "UTQPBUbhA4UGf71O/tk8v6c6DsKIQuX/7xhCnnvTr7dP5YReP4QdFpOUBO9Blod/FnCWQS12eqtx52hHJOQi5FLeknBx5vCGUksOc9AN9r0Y/S+kzioY71/43kA1ihIoDohqjV5v1Ltj72RXtxyLVWV2FXlM7DPPSZgF9rUrPJXAiM11FEC1BB3SMZ96vtH2QazChwN3iKILd49XY/F1Obzj1d8BXOgWJ9rJI+Ur0hQ5/CAy2ieVxIDRnngoqx3dh4uPmR+2+Qe+y57whpOY3kZQa5kCXAiUUx+io9pcAub3YODNi+B19tVW2RhmLn8lQ2YHMOcVq9mZlgWHjNeuc6KBt6uFf3DBT2QiELpUvl+LyiznEO/Ovy2ywQB5dWwlFu/OCYK/m4AKfAa3y99yWfr8CNuWD7IesAxUtuAdmGhnTsuvq6MKXiCzykl9TYTnbQ1lqYanApKr5wkIE36alzWJkQwbEcOYgyg/aVQ678XwY9X16X5IbMSeMOWqpXvdQPWpA5hbWPQiQQiG9+NtPV1abuQeKRDcgbDII9/F24U=;ZjOSYWhtbvXIi8tdGUIR7A=="
 ---
 

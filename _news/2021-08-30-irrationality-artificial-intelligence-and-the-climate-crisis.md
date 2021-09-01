@@ -24,49 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI and Computer Vision to Reduce Misinformation on the Web"
-    excerpt: "The spread of misinformation via deepfakes, document manipulation and false narratives is fairly common on the internet today."
-    publishedDateTime: 2021-08-30T22:37:00Z
-    webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
+  - title: "This is how AI will accelerate the energy transition"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Espen Mehlum, Head of Energy,Materials"
+    publishedDateTime: 2021-09-01T13:00:00Z
+    webUrl: "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/"
+    ampWebUrl: "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 59
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_and_Computer_Vision_to_Reduce_Misinformation_on_the_Web.jpeg"
-        width: 1347
-        height: 600
+      - url: "https://europeansting.files.wordpress.com/2021/09/robots.jpeg"
+        width: 716
+        height: 1002
         isCached: true
-  - title: "Spell Introduces Deep Learning Operations Platform To Reduce AI Training Costs"
-    excerpt: "Concept: NY’s MLOps platform provider Spell has announced the launch of an operations platform that includes the tools needed to train AI models using deep learning algorithms. ML algorithms are tuned for the platforms currently used to train AI models."
-    publishedDateTime: 2021-08-30T12:53:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
+  - title: "How enabling data and AI at scale will transform your organization"
+    excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
+    publishedDateTime: 2021-08-29T08:32:00Z
+    webUrl: "https://www.computerworld.com/resources/223228/how-enabling-data-and-ai-at-scale-will-transform-your-organization"
     type: article
     provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 50
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
     images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/08/shutterstock_1698736867.jpg"
-        width: 500
-        height: 282
-        isCached: true
-  - title: "Innovative AI and simulation tools used to reveal the inner workings of Sar-CoV-2 virus"
-    excerpt: "Argonne, industry and academia collaborate to bring innovative AI and simulation tools to the COVID-19 battlefront."
-    publishedDateTime: 2021-09-01T05:14:00Z
-    webUrl: "https://www.news-medical.net/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "How artificial intelligence is ushering in the age of the science of negotiation"
     excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
@@ -82,6 +68,15 @@ related:
         width: 546
         height: 364
         isCached: true
+  - title: "Investment in Artificial Intelligence Solutions Will Accelerate According to a New IDC Spending Guide"
+    excerpt: "Businesses and organizations across all industries are increasing their investment in artificial intelligence (AI) to"
+    publishedDateTime: 2021-08-30T16:05:00Z
+    webUrl: "https://www.enterpriseai.news/2021/08/30/investment-in-artificial-intelligence-solutions-will-accelerate-according-to-a-new-idc-spending-guide/"
+    type: article
+    provider:
+      name: enterpriseai
+      domain: enterpriseai.news
+    quality: 2
 
 secured: "ewzPS/yzpMQC4XxorCc8Po/6BVx0FLYW0d5YXld2irHVBlbxDm84N7noIlEoJs3CzrZgIZvT7Dsj+Tt+yGxLYF2mtEEw5xyAZ/KtFa9hMyqsaUkev+VkWxph/CTxBVVb0dLFzHxNHhfz5jfRN/5LFr2jEXbzwtqNtSLoAzLcJSd7Jfr0/3YVpC96yonHFzXB9DULv5T9CtIs33p+3xRPvZO46V+WOlAJ5OddnN2JLHzNP+8rPO5VfhvnBBLXI2mcvkF9UMJLRDjnUiXBs4rEYLEf/8M4PaQHaFULsuVsx/dKafs7B3/kVyerrLOtq3OfOMU8IccR3gblMaX88VEOPdyoHVx20BDsBG1xFT0zrcquJ2XQ48RkTre+VVCG3EVyqvNLDU6d5tWUCvdYFRyVjjoZ35caulmSWoSjpXdO6XPRECjJpWPIItVK3kxJktVwGRGZ0y0UneYLlKstOVdHhmrfXbM35Mt0kpoV+b9MhtYGAvJMpcXWtTZ504SmA/nb3wE6kAsWc2jNgEqJGnPvKw==;pgQX42/EkALcmCGtjheLlg=="
 ---

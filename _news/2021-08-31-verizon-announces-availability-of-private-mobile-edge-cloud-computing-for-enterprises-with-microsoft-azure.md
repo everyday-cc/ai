@@ -19,19 +19,30 @@ topics:
   - AI
 
 related:
-  - title: "“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure"
-    excerpt: "Cloud security vendor Wiz announced yesterday that it found a vulnerability in Microsoft Azure's, Cosmos DB, that granted read/write access for every data"
-    publishedDateTime: 2021-08-27T21:00:00Z
-    webUrl: "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/"
+  - title: "Verizon and Microsoft team up to offer 5G edge cloud computing for businesses"
+    excerpt: "Leveraging Verizon 5G Edge with Microsoft Azure Stack Edge, the solution \"enables the ultra-low latency needed to deploy real-time enterprise applications,\" the companies said in a statement."
+    publishedDateTime: 2021-08-31T06:09:00Z
+    webUrl: "https://www.zdnet.com/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+  - title: "Verizon turns up private 5G edge compute with Microsoft Azure"
+    excerpt: "Verizon's private 5G edge product with Microsoft Azure is now available for enterprise. It complements Verizon’s 5G private wireless offering that launched in June."
+    publishedDateTime: 2021-08-31T16:09:00Z
+    webUrl: "https://www.fiercewireless.com/private-wireless/verizon-turns-up-prem-private-5g-edge-compute-microsoft-azure"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 54
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cosmos-db-logo-760x344.png"
-        width: 760
-        height: 344
+      - url: "https://qtxasset.com/fiercewireless/1630426422/GettyImages-875013806.jpg?Rfp1YVeSs3.1Lp7Ke5VFBuRAz0A.OlwN"
+        width: 6567
+        height: 4378
         isCached: true
   - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise"
     excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
@@ -63,6 +74,78 @@ related:
         width: 1500
         height: 1126
         isCached: true
+  - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
+    excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."
+    publishedDateTime: 2021-08-31T22:36:00Z
+    webUrl: "https://www.channelfutures.com/mobility-wireless/verizon-microsoft-officially-make-private-edge-compute-solution-available"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 52
+    images:
+      - url: "https://www.channelfutures.com/files/2021/04/5G-security-challenges-1024x678.jpg"
+        width: 1024
+        height: 678
+        isCached: true
+  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise with 5G"
+    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
+    publishedDateTime: 2021-08-31T18:26:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 50
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
+    excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
+    publishedDateTime: 2021-08-30T20:42:00Z
+    webUrl: "https://www.commercialintegrator.com/communications/otter-ai-brings-transcription-assistant-to-microsoft-teams-google-meet-and-webex/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 49
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2021/08/Desktop-edit-e1630356121313.png"
+        width: 1000
+        height: 672
+        isCached: true
+  - title: "Verizon launches private edge compute platform with Microsoft, as promised"
+    excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
+    publishedDateTime: 2021-09-01T12:14:00Z
+    webUrl: "https://telecoms.com/511162/verizon-launches-private-edge-compute-platform-with-microsoft-as-promised/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/08/iStock-1181748268-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "CubicFarms collaborates with Microsoft on cloud services for indoor farming tech"
+    excerpt: "CubicFarm Systems Corp., an agtech company, announced that it has selected Microsoft’s technology to launch the next generation of indoor farming technologies for fresh food and"
+    publishedDateTime: 2021-09-01T12:43:00Z
+    webUrl: "https://www.freshplaza.com/article/9351394/cubicfarms-collaborates-with-microsoft-on-cloud-services-for-indoor-farming-tech/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 34
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/VFD_com/2021/09/01/cubic.png?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
     excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
     publishedDateTime: 2021-08-31T18:52:00Z
@@ -72,10 +155,19 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 34
-  - title: "Microsoft adds literary Chinese to translation service"
-    excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
-    publishedDateTime: 2021-08-30T08:14:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-adds-literary-chinese-to-translation-service--1395246"
+  - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
+    excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
+    publishedDateTime: 2021-08-30T01:30:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/ausnet-signs-5-year-deal-with-microsoft-as-it-ramps-up-cloud-and-ai-options/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 32
+  - title: "Verizon starts on-site 5G edge services for Azure private cloud"
+    excerpt: "Verizon announced the availability of an on-premises, private edge compute service with Microsoft Azure, building on their collaboration formed last year. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
+    publishedDateTime: 2021-08-31T14:55:00Z
+    webUrl: "https://www.telecompaper.com/news/verizon-starts-on-site-5g-edge-services-for-azure-private-cloud--1395486"
     type: article
     provider:
       name: Telecompaper

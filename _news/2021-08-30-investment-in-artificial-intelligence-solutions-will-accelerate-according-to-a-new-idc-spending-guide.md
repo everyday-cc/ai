@@ -18,35 +18,63 @@ topics:
   - AI
 
 related:
-  - title: "Global spending on AI systems to reach more than $204 billion in 2025: Report"
-    excerpt: "Investment in AI solutions will accelerate as businesses seek insights, efficiency, and innovation, according to a New IDC Spending Guide."
-    publishedDateTime: 2021-08-31T03:41:00Z
-    webUrl: "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/"
-    ampWebUrl: "https://www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/global-spending-ai-systems-reach-204-billion-2025-report/amp/"
+  - title: "This is how AI will accelerate the energy transition"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Espen Mehlum, Head of Energy,Materials"
+    publishedDateTime: 2021-09-01T13:00:00Z
+    webUrl: "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/"
+    ampWebUrl: "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 54
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 59
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/11/IT-Spending_opt.jpg"
-        width: 850
-        height: 531
+      - url: "https://europeansting.files.wordpress.com/2021/09/robots.jpeg"
+        width: 716
+        height: 1002
         isCached: true
-  - title: "Investment in Artificial Intelligence Solutions Will Accelerate as Businesses Seek Insights, Efficiency, and Innovation, According to a New IDC Spendi"
-    excerpt: "Businesses and organizations across all industries are increasing their investment in artificial intelligence (AI) to create competitive advantage through improved customer insight, greater employee efficiency,"
-    publishedDateTime: 2021-08-30T12:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=522875"
+  - title: "How enabling data and AI at scale will transform your organization"
+    excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
+    publishedDateTime: 2021-08-29T08:32:00Z
+    webUrl: "https://www.computerworld.com/resources/223228/how-enabling-data-and-ai-at-scale-will-transform-your-organization"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
     images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
+    excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
+    publishedDateTime: 2021-08-30T05:50:00Z
+    webUrl: "https://3quarksdaily.com/3quarksdaily/2021/08/irrationality-artificial-intelligence-and-the-climate-crisis.html"
+    type: article
+    provider:
+      name: 3 Quarks Daily
+      domain: 3quarksdaily.com
+    quality: 37
+    images:
+      - url: "https://3quarksdaily.com/wp-content/uploads/2021/08/RC152B10B550-768x511-1-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "How artificial intelligence is ushering in the age of the science of negotiation"
+    excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
+    publishedDateTime: 2021-08-31T14:04:00Z
+    webUrl: "https://www.bizcommunity.com/Article/224/706/219579.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 32
+    images:
+      - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
+        width: 546
+        height: 364
         isCached: true
 
 secured: "jpWqOOHWjEW5zzSv1+wr69dtEDiCrOezdiirmSHlE9HuhDG+ydFyPWQfpXggS88VVsItPxO5oPhvP1MZIQG/48CmrsXDb391zKqdayYFVpjwA7f+gq73qvvI2q/iQrwz1b6NT1pv2302rB9/CUhFcSUCHICQ9aqQIn95qfNgb9kT6r01Ul6Wc9M/zyAp0VPGJN+Q75JvTVMUTsVyE2z115IFffDwsx5qmIZ4uspuLgdKY5mNc1WpyC29fdzCVR4MlhhoyBqx8Vju4AsGYi/X0EvH0ONNtmFldh3vhGlrDZt6XgV/+LWkCziKAn3iAAzcR3gSAzHF1Oe+Jm6991EtjJ40M6woPQpJstX1yZyNNpM=;L+dVm3LltmYpcXORsyOCVw=="

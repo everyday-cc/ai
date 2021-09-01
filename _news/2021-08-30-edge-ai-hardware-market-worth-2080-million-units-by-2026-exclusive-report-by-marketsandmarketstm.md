@@ -40,6 +40,20 @@ related:
         width: 669
         height: 229
         isCached: true
+  - title: "Artificial Intelligence in Medical Diagnostics Market by Component, Application, End-user and Region - Global Forecast to 2025 - ResearchAndMarkets.co"
+    excerpt: "The \"Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, OBGY,MRI, CT, Ultrasound, IVD), End User (Hospital, Diagnostic Laboratory,"
+    publishedDateTime: 2021-09-01T13:24:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=524498"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "nZ6eCkgkobkOakUXxgzcGMbF7+qGsDLOuKyujmvzWzWtnNHJrXPSVIJ/Q2J+uxZpOp7EtDKB8JCiz1VXiBHpWe2moMPqzAy7YYK8FUG2OzkJxExvmYmI57/yYL28ZywA5Gp/h9Kvmval1qLEKN2tanS54KaPPP1sTIoEbM4ZagLgesDNkTldYSr9raljzPRwUPwK+xB+va431ihHKij42+hmjxQoyYeZ6veykRCj1kRoRAi5b8vgAkBX2Hi2zKnlndS1wcZkjDpe+x+my25zXCFdY+4HyP3lOocy/6eLaNGQ0PkFF5OQm2LffaU4v2xatf+fcvh2dUQ5WGZtVaO87Y1vtS16FPlqwq/JFgQJNsY=;1nuRNxNO6rhuc2/4hEbOHQ=="
 ---

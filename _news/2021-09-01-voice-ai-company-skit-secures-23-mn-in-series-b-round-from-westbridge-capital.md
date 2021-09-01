@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382879"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382879"
 type: article
 quality: 85
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Voice AI company Skit raises $23 million Series B from WestBridge Capital"
+    excerpt: "Skit, formerly known as Vernacular.ai, raised $23 million as part of its Series B funding led by WestBridge Capital. Other investors including Kalaari Capital, Exfinity Ventures, Angelist syndicate led by Aaryaman Vir Shah from Prophetic Ventures,"
+    publishedDateTime: 2021-09-01T12:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/voice-ai-company-skit-raises-23-million-series-b-from-westbridge-capital/article36225307.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/voice-ai-company-skit-raises-23-million-series-b-from-westbridge-capital/article36225307.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/voice-ai-company-skit-raises-23-million-series-b-from-westbridge-capital/article36225307.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 58
+    images:
+      - url: "https://www.thehindubusinessline.com/companies/2oxfkw/article36225306.ece/ALTERNATES/LANDSCAPE_615/blai"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Voice AI company Skit raises $23 mn in Series B led by WestBridge Capital"
     excerpt: "This follows a Series A round last May, led by Exfinity Ventures and Kalaari Capital, AngelList. The latest funding brings the startup's total raise to $30 million"
     publishedDateTime: 2021-09-01T09:04:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/01/full/1630485947-7193.png&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Voice AI startup Skit raises $23 million led by WestBridge Capital"
+    excerpt: "The capital will be used for sales and marketing, building delivery capabilities, as well as for research and development to speed up innovation and further enhance the company's products while expand"
+    publishedDateTime: 2021-09-01T12:00:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/voice-ai-startup-skit-raises-23-million-led-by-westbridge-capital-11630496922465.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/voice-ai-startup-skit-raises-23-million-led-by-westbridge-capital/amp-11630496922465.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/voice-ai-startup-skit-raises-23-million-led-by-westbridge-capital/amp-11630496922465.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/09/01/600x338/usdollars_1629216416731_1630497313242.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Voice AI startup Skit raises $23 million in funding from WestBridge Capital, others"
     excerpt: "The capital will be used for sales and marketing, building delivery capabilities and R&D to speed up innovation and further enhance products as well as global expansion."
@@ -64,6 +96,6 @@ related:
         height: 800
         isCached: true
 
-secured: "JF8E6K0ETECDxf7aPNtxGiOnMQRB5cED8G5KLOPGQk/wVX7qwSdiTAfo8+97MD9tpnypWfiDR9Q3QaWtwOuvc/PXs9zVXaZoJS9ae/r9CCymLF6upOHDxwz7+xZK1T+bfwMmPDu9AUalgooK2oIl3L5TolieM0Pgmm1oOA/b1XhFymRMaAPNDNumfwsWWhDyMel9gUzsT8aazGHI+0QT5Z9FJdoG9g5tDvQupySqLGMr1abM7ZifmowGihK8/PKJvf3PztxM8t0rYnAtvhav7p40AQD1UcuO34YNfi3eK/OjUIQD2SWsaVTnO/IQTF2s6uEEYcVOufdb2UDVyV+3zWtf0Ycalb9w0CR3YnppRT8=;p+j4JdTccUob1k/Jmu4BjQ=="
+secured: "2Y0j0TSwkg6ADwrDlxFS3mZn4FoWQ1fNyuu1mFNmjk9+kTbrhgl+ifbYkwp8hoKednaBD7sGwCNuvdSkuMIS6+KbqOWRnBPxhlu8e9Fy9XYRb2oj8B1FPboFfQpUcmqXdrOSiJeMQzDi1ia0hAqDHcq+jtzg3ZpavjujNft8n5luoz9jyIKeNVLAVe7ErjhTmanq61b5dJ+qwpWutmLJOrXl7dKIrov2LX0+V4pfhexb7RbWxcLRS+adDKn9Yhzs84z2ztaS8cLr5MPYaPQWag9WouR/gCIy26mlPfFrzLCa/xTo9tAff9AE6zLJrfAdmtJK147+CdCTo9SYY4RvuXaipFkoZz0zWmzSAAPFW1zTjoceXXTBjrnV49VZl3PABUrNGRCREy2UqHNdMlyCTQuw1zqEEj6cY8IArzvAgx2JsWj3dynxOxfhUHv5IWNxmwMESCNoyYXsvDoAxlgEKtcWU5OkndgAEnUtIykFGtpeerKlfQ1VqiCO3Fl6ZUEsciCgNcCtAvFOoOTcRmfT2g==;a/xSD+kssHJLvLE/Jdat9A=="
 ---
 

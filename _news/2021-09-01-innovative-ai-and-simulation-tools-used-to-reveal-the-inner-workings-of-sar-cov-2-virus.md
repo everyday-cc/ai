@@ -54,34 +54,6 @@ related:
         width: 500
         height: 282
         isCached: true
-  - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
-    excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
-    publishedDateTime: 2021-08-30T05:50:00Z
-    webUrl: "https://3quarksdaily.com/3quarksdaily/2021/08/irrationality-artificial-intelligence-and-the-climate-crisis.html"
-    type: article
-    provider:
-      name: 3 Quarks Daily
-      domain: 3quarksdaily.com
-    quality: 37
-    images:
-      - url: "https://3quarksdaily.com/wp-content/uploads/2021/08/RC152B10B550-768x511-1-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "How artificial intelligence is ushering in the age of the science of negotiation"
-    excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
-    publishedDateTime: 2021-08-31T14:04:00Z
-    webUrl: "https://www.bizcommunity.com/Article/224/706/219579.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 32
-    images:
-      - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
-        width: 546
-        height: 364
-        isCached: true
 
 secured: "4ZIS3FVDsCIj8sZvST3q8ldvbAE5n3ZuncvCF17JLbbc2b2z2kcUkmfgUovXpLZlZpzUi8LGn7qXdADPc0KMRnSvDxQ+oEjnrY3rhSTyexRz0KQbmkyimEsLYuv7NJkO2mBpk90HSilQVfmEv4lwlZlDAXFt1xD9N7nSX7Mz9WWtB1ntiSZaA7E2ClHLDTODENk5KWBJL+iodvskcYGoM92jcCbeHOV0M+cqfnFuBQq+UzUdXpnYPSDvmukYqzlWu9QMmIYQiBMEVqC2AO+K7l7dE0mlKc/Eiz7EhtQFOEpoxshFUNtU+uB3OsuP/cA+GuoGwLsIVRf7Xcc0xRl24V/WAMCkFw6N64sZ0yZR4Rg=;TIo4iZjFONRGdXNFf4+75g=="
 ---

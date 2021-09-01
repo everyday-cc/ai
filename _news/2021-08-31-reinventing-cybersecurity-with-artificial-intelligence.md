@@ -24,6 +24,24 @@ images:
     isCached: true
 
 related:
+  - title: "Arctic Wolf Selects AWS to Power Global Cybersecurity Offering at Scale"
+    excerpt: "Arctic Wolf achieves AWS Level 1 Managed Security Service Provider (MSSP) designation in AWS Partner Network Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Arctic Wolf Networks has selected AWS as its primary cloud provider to power the company’s innovative,"
+    publishedDateTime: 2021-09-01T13:04:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/09/01/arctic-wolf-selects-aws-to-power-global-cybersecurity-offering-at-scale"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 19
+  - title: "Sequitur Labs Joins AI Day to Address IoT Cybersecurity"
+    excerpt: "Sequitur Labs announced today its CEO Phil Attfield will present on Embedded AI Systems and Software at Embedded Computing Design's (News - Alert) online event AI Day,  9, 2021. AI Day features education and thought leadership on compelling AI-related products and technologies for the engineering and design community."
+    publishedDateTime: 2021-09-01T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sequitur-labs-joins-ai-day-address-iot-cybersecurity-/2021/09/01/9440938.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "The 'Hyperscale SOC' and the Minds Behind It: A Machine-learning Foundation for Effective Cybersecurity"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2021-08-29T21:00:00Z

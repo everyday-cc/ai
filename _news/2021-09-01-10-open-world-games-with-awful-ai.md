@@ -9,7 +9,7 @@ ampWebUrl: "https://gamingbolt.com/10-open-world-games-with-awful-ai/amp"
 cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/10-open-world-games-with-awful-ai/amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 388
     isCached: true
 
-related:
-  - title: "How we can create opportunities with AI assistant"
-    excerpt: "Newly launched products are overhyped because of their rising popularity all over the world. One of the premier discoveries we have today is the AI program. It is very intriguing since it can think, learn, and perform tasks that generally only humans can do."
-    publishedDateTime: 2021-08-31T22:41:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/31/how-we-can-create-opportunities-with-ai-assistant/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 19
-
-secured: "o+5uZfkS+CLmNmePDag3OEsPZxqeVptMbLkpkandUBMfPnaL5bsS3d5WKvzzGRBzpQmH7G6HHiXpkUVBD+nDtI2NBFh45rLY3HQ/wjf29O2jD7Ki5wllYcDMTUMks6Yo9x34Nrapd8Q/JF3v0WaZkfyBRAZ7Eik+V3ImYkOkxUtaDA/jvQmjipQRDJIr/H5F/JlnuedqOtObGDyCOTXNHmPppT4W/n1kUsDyvppQAPkdfbAPsi1s+lUk0t3qYIgNKgl/490uN83zNdQ0iAeVNOqy6ImIctOF/8yc/nn8knd5duNLPA9xqzLM3R5HdxOKR5N0Pe3JQsp7Nz/AmpYiMH5mVoZ0P7qdz9Jdrqer/8c=;RkKcFqtrtywQxvMfrUKj9A=="
+secured: "KWkmhm9L092iXdOnzILCxRImh9LVSEqFuWjflgoNhoMMUIHSS2M1uGuo6nTaYy6OLUhT7rGlhpcqQtUt6woN0V7SK3UyhWsh1NDHzvqgOrkyxFJNx5C624MYds7AcmTS8CGiA1XAcuhUnl6vdKlbTIW32KUFT9WxDAk6J6LBh9h9Fr5Oj7btX8p8ksixge/w29406yqjf3BqlcgasOLk7eS3urlpVfeawSG58HxPWvZtH3dikOButbKUTDPMf+gGh6/lNIE7FAbb0dmspyAWgT8u57AhjpcqFTc3MH5krUyMvCNOaQc4PcAA9I5SF/KdrxQezReM86KXpZdRPTPbpCCn0QqAZLeoyjtJF+hOXOmuAn8sAmeDkh5/Tg9gQfxAq08XT1s3MwRLSE04wzchExfeKXk0ToLdcIETCuzF/PP7QDVzczkjXU6lT/8tNPzWGNWChTb8Pz5DLHVLxXHJDdeWFzfPlUfRiwl8HL5oz7R7USzXKqU3QpmjBIKt0tESc61U1GX7/vO5+RZBUc0Ihw==;VKyChtMHLpIfGI07ZBVMxg=="
 ---
 

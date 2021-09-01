@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-tout
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Will self-driving cars cause driving to be illegal?"
+    excerpt: "In an opinion that may not be popular among the masses, IDTechEx’s new data forecasts that by 2040, self-driving cars will be capable of fulfilling mobility worldwide without accidents. By 2050, manual driving could be outlawed."
+    publishedDateTime: 2021-09-01T12:38:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17134/will-self-driving-cars-cause-driving-to-be-illegal"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "F/pVYD4CWuH1Kx+A8HgFtj6AFEE2zfVf9merlHE6h2MZ1JdfRkUS6x0nHGPY2oC0EmpqfDf974qWvztXd9tVMYd/jpQdVr9pGBjL0HK35l7gypFsPr4p0IDYE5Ao42LqfZwFVdRLLwGFrTeIwAWLdsEgl8BVaKUH9HybS5A9FB0HRmu6MVfhydrnPRXP1yMwN7jJtCiL8eoq5zH6rwvp8Y3fgSpw0pUr0+gz1dwsH9BEusumRfqWHArsQFSZJf6lWxRxFQXDOw77BvUTa4zxRhlDN8HHuDXdp6ARUOWl5uf8pshaAo461Dpt2vuoXqldXMGZzdelj+6dvD2+MPhJtrplLkikamLH5bt3KKeaOZL/cKMp3Y6+4YSBtYoWhjKLnEi8uUB7lsMDF5D7SiWRL+HvRtf1YXdxhjNgaB9AEgg1s7p18ZqJrMXs8udbJVzko7HHkg205ydflyCOJqHmFwo241wGGQvRDETFK0oGbesfaOqY0H595bHZ/8pcFKlZ7vA9Bl7M9Dxm5YkFr8kSOA==;4uC9jydf10OXir6GFQutEw=="
 ---

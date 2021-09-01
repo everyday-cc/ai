@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wpxi.com/news/top-stories/report-least-18-federal-agenci
 cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WPXI
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 federal agencies want to expand their use of facial recognition despite widespread concerns"
-    excerpt: "The federal government wants to expand the use of facial recognition technology in the future, despite widespread criticism of it."
-    publishedDateTime: 2021-08-27T20:08:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-federal-government-expand-gao-report/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 47
-    images:
-      - url: "https://uploads.dailydot.com/2021/08/Federal-Government-Plans-To-Grow-Its-Use-Of-Facial-Recognition-Technology.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Government agencies used Clearview facial recognition in 24 countries"
     excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
     publishedDateTime: 2021-08-31T11:03:00Z

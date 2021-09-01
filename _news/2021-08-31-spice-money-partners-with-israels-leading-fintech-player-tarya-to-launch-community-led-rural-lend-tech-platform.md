@@ -109,20 +109,6 @@ related:
         width: 400
         height: 252
         isCached: true
-  - title: "How the Indian Diaspora Helps Fuel Fintech Innovation in the UAE"
-    excerpt: "Recent news headlines have underscored the long-standing relationship between fintechs in India and the UAE. This week, we learned that Indian payment solution provider PayMate has teamed up with both Visa and Citi to automate business payments in the UAE."
-    publishedDateTime: 2021-08-27T20:54:00Z
-    webUrl: "https://finovate.com/how-the-indian-diaspora-helps-fuel-fintech-innovation-in-the-uae/"
-    type: article
-    provider:
-      name: finovate.com
-      domain: finovate.com
-    quality: 24
-    images:
-      - url: "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/pexels-sreenadh-tc-4038084.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "8+XJtSJg9orFKzwOHWLhTRvFJMt+9wMXHG2XgZLYgmgJCvHFqUA45u4ivw1Ve997EcnJ6jTx2McArGRyH4UIUhujd6QyP5/88etni3bGsL06UQnVzjn2WyhH36LJtaBAcfGR6bUVDaxAohb/WyYCnm88ItHiAluH76nW+xf5dQrA6XcAKPIbw2t7UZau1J1VM0TuQksZ7A/bPxe+3efF8IfpQeguafpmHHFEcNl5j8I5t+cEYIkCT+5fW25QsKjo0yCF83ao5JODC2v+TXBipiqfdsXRQE/9VCazn+RJ1zvSLVCVKV9KaSrCLn6V3fQyf1iSd43znazppXrZ2TjdaWPwI1wJVszDbTfv2dqDnGs=;pvikAh6ccgqsSSgWhFkwCA=="
 ---

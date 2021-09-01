@@ -1,25 +1,29 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Managed Grafana"
-excerpt: "Fully managed data visualization service gives customers a scalable, secure, and highly available way to visualize operational metrics, logs, and traces across multiple AWS"
-publishedDateTime: 2021-09-01T03:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/b22751964/aws-announces-general-availability-of-amazon-managed-grafana"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/b22751964/aws-announces-general-availability-of-amazon-managed-grafana"
-ampWebUrl: "https://www.benzinga.com/amp/content/22751964"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22751964"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Grafana, a fully managed data visualization service that enables customers to instantly query,"
+publishedDateTime: 2021-09-01T03:31:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "t1e9SP3TXqfF4BUC+PgA1R6wER8Uroa11as6RSSzGmt2LPKt/O3IDoj9ECpXj4jQ0mr1pyXXuQhItA/zZobCzqmwyvVSUUVFUNmAPEbUDBjrIbMM+yUPuXkuCIskhZQ4lWOMXKWPmg29ocvJo9iIPBM8+C/tH7901lQN5xxt/y6p/eIGipzTHWG+5chdaN494ZTUULYSVh0d0L9hdwVgvWFKAQKJOggsjiutflUeMu6pXVnoBzfEoJQcrGFL/YGZnuoBNlXlNRKX4Q2+ju/p0p+yZisctvgtUx0WcYWgREA1N8xGu/qBKZwk09SxnHW6cG8hpmSK1En6ZJAJdjUVI6t2q967qd27Q7fT9p8qNpY=;kydKSgdOJPSlJxgfNf+k6Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "HdJQNWZOkjhpGwv5dKXbNYXAK7ykoFXiZ3v9eP7aZVM/nXhp2ILdcP5P/gNeHF9lazcqq6MXhDnxvPx7D+ip83TGjXnBmVHYSilIKs5KuMef3shYmR1PXC9nx9QfMpAIyBPfttWlBqpHFGtj39LFQyBdrroXyFcFplngSpP9hSNBDwreR3+PNhVyk0ron0+5G8NCbfDgF00HU8sBrFL4Kq9VVhzWY+eZYbu20PCScDo73/RyD3s8TzHXkc2ZvuiMDj8l92UNGSHYYLc+s48c+CUrW0wAOBf17akK7f+Uldrjt5bKD5syEmbqQGLNs4RlCAgRDqymA/v1lctiJjXAMkMpQcs8G5BdRON39r0yODs=;Zm5wOZMt/fqa+DZlpi/pmw=="
 ---
 

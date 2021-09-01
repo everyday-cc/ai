@@ -2,18 +2,14 @@
 category: news
 title: "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\""
 excerpt: "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe \" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,"
-publishedDateTime: 2021-08-19T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745508"
-webUrl: "https://markets.businessinsider.com/news/stocks/sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe-1030745508"
+publishedDateTime: 2021-08-19T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -25,6 +21,6 @@ images:
     height: 230
     isCached: true
 
-secured: "ReTpmmiSSsI8brrq36SOqJuJWYuWAr1PwZ5WvjjZmAHNxQbMpxFzrDJjzuaZ2rekZVeYOx9xBOxuw2vrLJ8dV4/Q+cDpdUozBuBmy60Q0YL+IqhcBI8AwHwj+t5+h4jf8nIUa/YBGNuVk8h6j6F0X0z8poZqeHxr0GUcdgCHXNdzjqCPYKSKPLqAKe86bF+GWuHgYEPO45VA3pQx+YjPx19D4bS2QfbauE4TXDAb5ZYj3XqzXQIiUHo8TR+fwesKgi/JCMa0OsejP+iIljs8JhDA6R12KeIwi0wETGp7LK1LrwxWIalIU0O5EOYtac1AqW8YJfLUSEh1AOYk0FjJUUKoWsoR7HPMhvyRAIFXxIzJU4RbK1NblxIDm+RM5QOsg5ui3011FeGcZlC9iX2E8HcakCOmlhOduAwH+YC6VMyDu4Gx7YxF4L8AMx0TWsC9xYQALC5hJ/4K8bLR8OMcxq/hOMh07H1WPB60iu774wTygqAEt3QryrhZMPecNLwHpyxlJfpynJ7MoDTWpGWtAw==;yf5dGaS0FiHyKMxpNzJLsA=="
+secured: "ELb5hRTOeE5CSKvqyqXIxYAGtv2hThR8aqbweb4Upb17epuk7Ft3wv8IpXJB3dmb6jYqg2xeWRTsYhscPNGD4I4Zseofje0OuSJe0V/HZRxQEnnF1xBRErfPZF4k/IyN+Q0t2VHVal/harPRTfyCz4g/cAiVof3C4Nv4Blvc2hKv4Pcnqa9FlKehjLtxc7I5dYhCTvQw0dkL2WenWhqLZ9XO28lxSJMw1tytFmqGgoGIgBo5OQZhBY4TK41Jnhta6oHFeCvp8IMtsCDFjA3TLo2NJ+OA4uEihN6ppx/Q0XUYKqgrmOxp0V+Gep5nWJOCphkewX6Dg/d4bLl8UyKM00MZnyhTTaQbMIHLAmrf96M=;IeozSvGvQWSYrNhrQHnZYA=="
 ---
 

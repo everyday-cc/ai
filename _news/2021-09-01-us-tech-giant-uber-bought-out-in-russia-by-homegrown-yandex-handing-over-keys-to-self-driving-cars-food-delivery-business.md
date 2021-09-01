@@ -52,6 +52,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "Yandex shares surge to record high on news it bought out Uber’s share of food-delivery & self-driving venture"
+    excerpt: "Shares of Russian technology giant Yandex soared to new heights on Wednesday, extending the gains of around 5% recorded in the previous session after the firm said it would buy Uber out of several joint businesses."
+    publishedDateTime: 2021-09-01T12:38:00Z
+    webUrl: "https://www.rt.com/business/533627-yandex-shares-surge-uber-purchase/"
+    ampWebUrl: "https://www.rt.com/business/533627-yandex-shares-surge-uber-purchase/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/business/533627-yandex-shares-surge-uber-purchase/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 25
+    images:
+      - url: "https://cdni.rt.com/files/2021.09/xxl/612f730085f54034481a0627.jpg"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Yandex to buy Uber shares for $1bn in self-driving, mobility and foodtech"
     excerpt: "As well as Yandex acquiring full ownership of four companies, the deal opens the way for a further $2bn acquisition in the mobility sector."
     publishedDateTime: 2021-08-31T11:29:00Z

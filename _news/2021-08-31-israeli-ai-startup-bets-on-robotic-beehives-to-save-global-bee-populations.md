@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-bee
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Il Makiage Uses Israeli AI Tech To Select The Perfect Skin Regimen"
+    excerpt: "The beauty brand will combine Voyage81's physics-based algorithms with Il Makiage’s existing data science team to further boost our AI vision capabilities."
+    publishedDateTime: 2021-09-01T12:41:00Z
+    webUrl: "https://nocamels.com/2021/09/il-makiage-ai-skin-tech-voyage-81/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/09/il.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "8 ways the Start-Up Nation is trying to save the bees"
     excerpt: "From bee-free honey to completely autonomous beehives and artificial pollination, Israelis are buzzing with ideas."
     publishedDateTime: 2021-08-30T05:21:00Z

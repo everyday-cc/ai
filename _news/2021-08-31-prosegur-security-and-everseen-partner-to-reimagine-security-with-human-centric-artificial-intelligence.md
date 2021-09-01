@@ -18,6 +18,17 @@ topics:
   - AI
   - AI in Security
 
+related:
+  - title: "Prosegur Security and Everseen Partner to Reimagine Security with Human-Centric Artificial Intelligence"
+    excerpt: "Joint solution empowers security personnel with real-time alerts and actionable intel  DEERFIELD BEACH, FL and CORK, Ireland, Aug. 31, 2021 – Prosegur Security, a leader in security technology, and Everseen,"
+    publishedDateTime: 2021-09-01T12:50:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/prosegur-security-and-everseen-partner-to-reimagine-security-with-human-centric-artificial-intelligence/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 18
+
 secured: "Ipnqom/hujnbVox4X8fVnllhfLOlzIYAUQZJCFC1PYFj2kiitZw3h31cZv7CJ0MW8UiSNada9RLDw8wkadVc56J7J7vMI768neRTq0FGc0Y0asHRec9qiUmEnuI1OoAps+jMhqFYK08VPewTsOyBm8dMa6fsSS7rPYM6lTGn/uaKspMwqAd97pOdxaHSnDjzKw48I3HWqmrD9XpLzvm0aLiTkGgl3JORQUi90DpMQrANmE9X82W4ZXQOOHLR9T48jQcCSz5NH667iZroeQTxAb0B4PH5uJJp0BJlj/bIO9X7FoiE2s7DUe2pDjA4ct0RhCgwUeWYwoME1S/uZS3WNVA/JchEerCafDC5PAWgX/Q=;++7+mHh8SU2iZnEV3vLnBg=="
 ---
 

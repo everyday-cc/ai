@@ -55,34 +55,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
-    excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
-    publishedDateTime: 2021-08-30T05:50:00Z
-    webUrl: "https://3quarksdaily.com/3quarksdaily/2021/08/irrationality-artificial-intelligence-and-the-climate-crisis.html"
-    type: article
-    provider:
-      name: 3 Quarks Daily
-      domain: 3quarksdaily.com
-    quality: 37
-    images:
-      - url: "https://3quarksdaily.com/wp-content/uploads/2021/08/RC152B10B550-768x511-1-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "How artificial intelligence is ushering in the age of the science of negotiation"
-    excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
-    publishedDateTime: 2021-08-31T14:04:00Z
-    webUrl: "https://www.bizcommunity.com/Article/224/706/219579.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 32
-    images:
-      - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
-        width: 546
-        height: 364
-        isCached: true
 
 secured: "sSg0B7kUKhts+EUEcD/HTMq7xJXbX71zbZx/xS1phbgOjlEKmkJqboUFp6bYC46hqp3CmaD7e1ifoumVCWhOcfCXb2/19d5ROtSbac1Y3fgK5p4YduU5i7a0eE31i/cmHW9+SxRsMCmJatcjq8wwdoWO/xoLcuIcEfqInkiwIJo6BTnkjMSWNo65DuiroAaTd2VgTkPAR8HzIwoiQn8RKCyvOXkrwTvGZU0WExv1vJyldgl6GXNdPEl4q5bg3sNuRFhe+B4H9me18PCzuQh6dMDNmJITpE7jbTG67uUjCjtvOolg7yzT7gc9h/hnBs5bJMnB2G55wFsRqxtSLpZWNiz1V8ddcWkDblMiIUnJZ+lIf60/tvmCjIvwLwKXz8iMMWyHSzV1cqD5CDQZhFK4/UDjxF8JfVnkQrIMHtKiDDp6WsNRHLok44KRXcTog6B3G1COeurzLImbSgehcKDOdM7jjiYb+omECE8yIzNCCCNOTBpHXotzvi43qU8dN+2lf7WMFD3XWMrqfsc3yviGLg==;TdVMrHkgMu7QsTFKrIFGyA=="
 ---

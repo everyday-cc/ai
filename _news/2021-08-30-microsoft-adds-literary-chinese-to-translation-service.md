@@ -19,68 +19,65 @@ topics:
   - AI
 
 related:
-  - title: "“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure"
-    excerpt: "Cloud security vendor Wiz announced yesterday that it found a vulnerability in Microsoft Azure's, Cosmos DB, that granted read/write access for every data"
-    publishedDateTime: 2021-08-27T21:00:00Z
-    webUrl: "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/"
+  - title: "Machine Learning Market is Thriving Worldwide : IBM, Microsoft Corporation, SAP SE, Intel"
+    excerpt: "The global Machine Learning market is expected to grow at a CAGR of 36.6% during the forecast period. The global Machine Learning market is estimated to be about 2337.6 million US dollars in 2020. The global Machine Learning market is estimated to reach 8143."
+    publishedDateTime: 2021-08-30T19:18:00Z
+    webUrl: "https://www.openpr.com/news/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft"
+    ampWebUrl: "https://www.openpr.com/amp/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: openpr.com
+      domain: openpr.com
+    quality: 67
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cosmos-db-logo-760x344.png"
-        width: 760
-        height: 344
+      - url: "https://cdn.openpr.com/U/8/U830621919_g.jpg"
+        width: 640
+        height: 400
         isCached: true
-  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise"
-    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
-    publishedDateTime: 2021-08-31T18:26:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
+  - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
+    excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
+    publishedDateTime: 2021-08-31T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2373861/artificial-intelligence-in-construction-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+      - url: "https://cdn.openpr.com/U/8/U831667007_g.jpg"
         width: 800
-        height: 600
+        height: 533
         isCached: true
-  - title: "Verizon, Microsoft Azure Roll Out Private Mobile Edge Cloud For Enterprises"
-    excerpt: "Verizon Business and Microsoft debuted Verizon 5G Edge with Microsoft Azure Stack Edge, on-premises, private edge compute solution for enterprises that uses Verizon's private 5G network, On Site 5G."
-    publishedDateTime: 2021-08-31T15:39:00Z
-    webUrl: "https://www.crn.com/news/networking/verizon-microsoft-azure-roll-out-private-mobile-edge-cloud-for-enterprises"
+  - title: "Verizon, Microsoft launch private edge solution"
+    excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
+    publishedDateTime: 2021-09-01T08:28:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 52
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
     images:
-      - url: "https://www.crn.com/resources/026c-131fe7ed6511-86ecc8226b17-1000/cloud-blue.jpg"
-        width: 1500
-        height: 1126
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/verizon-5G-MEC-trial-footage.png"
+        width: 650
+        height: 400
         isCached: true
-  - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
-    excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
-    publishedDateTime: 2021-08-31T18:52:00Z
-    webUrl: "https://channelvisionmag.com/verizon-rolls-out-5g-edge-with-microsoft-azure-stack-edge-platform/"
+  - title: "Recent Survey on Automatic Speech Recognition Market 2021-2030 Key Players : Nuance, Microsoft, Alphabet, IBM, Sensory, Cantab Research"
+    excerpt: "In recent years and especially due to the Covid-19 impact, the Global Automatic Speech Recognition Market has been through many ups and downs which have greatly impacted the business and the market players be it large or small."
+    publishedDateTime: 2021-08-31T09:46:00Z
+    webUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/"
+    ampWebUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
     type: article
     provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 34
-  - title: "Verizon Announces Availability of Private Mobile Edge Cloud Computing for Enterprises with Microsoft Azure"
-    excerpt: "Through its relationship with Microsoft, Verizon is now offering businesses an on-premises, private edge compute solution that enables the ultra-low latency needed to deploy real-time enterprise applications."
-    publishedDateTime: 2021-08-31T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-verizon-announces-availability-private-mobile-edge-cloud-computing-/2021/08/31/9440007.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
 
 secured: "aC4bAfNozfeuuu8wtS2sjxHMrKppLWf6uIYpP7u/8ILmGFqdAPzMVzj84+ICBYqfcS7Zpmz4enTFmrChRNkMj/bZpnPIZsBN8oejnQqEx6WcwhbmOwx3mxFe4U1tGBVXPU3tGfFWsuwNizl3TWg03gReKM7jUq9Rg4EupgxNhNpB05CxSWSIm2NvpNOLBRx/qZlCJMh+KRooAUTUXdAq/6d+KRDwHRa7phv2TK9+jayJDx5q9i8p5M2wngffGp0HyslGh0e9BeUD8v4gHOAea45TxyTYqu+36vyIF+FoZtbASKaapv1m5l5B9ixLqDdgqjjitrwusoYv7kulauirjQO0wrgeocFjHpGdMpNpTJg=;oHO0mJ3Uknqg35i+e8oOvQ=="
 ---

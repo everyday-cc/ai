@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Toyota is suspending its self-driving buses in Paralympics Village after one accidentally hit a visually-impaired athlete"
-    excerpt: "The autonomous vehicles were shown off at the 2020 Tokyo Games, helping athletes travel to their events and around the Olympic village."
-    publishedDateTime: 2021-08-27T20:24:00Z
-    webUrl: "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://i.insider.com/6129413c9ef1e50018f87ebe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Collision With Paralympic Athlete Forces Toyota To Halt Self-Driving Bus Service In Olympic Village"
     excerpt: "The autonomous vehicles had been specially designed to cater to the needs of both olympians and paralympians, utilizing Level 4 self-driving technology."
     publishedDateTime: 2021-08-29T03:09:00Z
@@ -93,22 +77,6 @@ related:
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612af96eccedf1b532c3fdbf%2F0x0.jpg"
         width: 900
-        height: 600
-        isCached: true
-  - title: "Toyota suspends use of its self-driving buses after one accidentally hit a visually-impaired athlete in Tokyo's Paralympic Games village"
-    excerpt: "The autonomous vehicles were shown off at the 2020 Tokyo Games, helping athletes travel to their events and around the Olympic village."
-    publishedDateTime: 2021-08-27T20:24:00Z
-    webUrl: "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/toyota-suspends-self-driving-buses-after-paralympic-accident-2021-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://i.insider.com/6129413c9ef1e50018f87ebe?width=1200&format=jpeg"
-        width: 1200
         height: 600
         isCached: true
   - title: "Toyota halts self-driving vehicles after Paralympics collision"

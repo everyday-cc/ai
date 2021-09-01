@@ -70,6 +70,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 24
+  - title: "Microsoft adds literary Chinese to translation service"
+    excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
+    publishedDateTime: 2021-08-30T08:14:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-adds-literary-chinese-to-translation-service--1395246"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "6mLZAH6a36CpfrnlEiQ1tbhGW4+zWSg+sYRv/ySgjmAgdzt4uY3kVVubZXDbBScF2ZhDBBPhIXZDzXF1syq3KxtAb6BH1Ci6XBkenm9kgE4rtT33O2tmy6M4YCTO+VGefmdI3ekP8i5Bzb8Dp5mkTWLBBLjPVCASG/slYrfrIQzqktT0b1lzGPVeffNBtP2VSR8mWpa0614BexFVJ9ImWbAgBrTG8uM9saLYIb3ZCKG35h6EqSR+Q39vIoJ9expSD5Smd+fFUKj0BusEJj3UR1iS2BEd5J4riIKmE8CbHHZoQlj/HFWgrlyR8EqnQ0UcQssFwrmIqaFwTVVDWN7TfnAcCXOSE45yccocCnCHr5XgEprFlgpe2EtbnPXtlxvQIsxjKSkYM2mSOmJ5Y/mpdAKcGBLudaxz5td4qQAa+iWShgk/Nu2HRBrr64mCyQUjS7jOL9+mtYa2Arrk9P1UjGYovwlnJY57XCyjyYV5q3TXpg8oQP3bjsA0Z0NpgLfkSfXBDSC1p3sHxZlKWyfRag==;Kyjy61fX97sRPuE+AhVgTw=="
 ---

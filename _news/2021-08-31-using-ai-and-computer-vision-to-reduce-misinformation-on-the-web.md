@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-r
 webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
 type: article
 quality: 54
-heat: 96
+heat: 76
 published: true
 
 provider:
@@ -54,34 +54,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
-    excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
-    publishedDateTime: 2021-08-30T05:50:00Z
-    webUrl: "https://3quarksdaily.com/3quarksdaily/2021/08/irrationality-artificial-intelligence-and-the-climate-crisis.html"
-    type: article
-    provider:
-      name: 3 Quarks Daily
-      domain: 3quarksdaily.com
-    quality: 37
-    images:
-      - url: "https://3quarksdaily.com/wp-content/uploads/2021/08/RC152B10B550-768x511-1-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "How artificial intelligence is ushering in the age of the science of negotiation"
-    excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
-    publishedDateTime: 2021-08-31T14:04:00Z
-    webUrl: "https://www.bizcommunity.com/Article/224/706/219579.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 32
-    images:
-      - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
-        width: 546
-        height: 364
         isCached: true
 
 secured: "8jGex3P6rKoJrZ6Yk0n7l+A+Wrt0oOjkem8f3T11ERkV4jdxUk5LFwCLSTfALm83ugvd2KEx4ZQZ6Ubvr9/jMpvQZISsXETAC17LMTWDvEAmkvFWepbp02Hhl5+/qZ6Yd6b2tpgUVJoxmH3hhLyxJE04OuvqEuMchUPIVwYqEhhSGuQ+NfSSQdeYXmjIif0A4U4CU89u2JhhwMfT+I8Ox3ZEB1tdyilR7/QWB1Amctd4zFiX5HlUuloV3NFy4CW9ZInOkYHFnweAuUcwrnMody6bEWtRR4K82DHP1j9/Jgb0D3HnIHqrmutAj9Zij4ph4k5NHUrNqxnW477sTzzGuv+UNdlH6w2MFyGy7lXU8IBpzNFgvDXlORaxKZU6oCIH+xe/sETRs/EHvoxzkkcTFSmcy+YCVqmHc7h2KY2w9htQDNT4gbvoa0BcGbxMp8xLW9ymWEcbYFE7T6zKoBF3pgeTSZiTOCuo+410kbGecDqe5QSS1Z8LyVh6Hat9J1ZKphZznxK5cWqGAx6/6ZqmtA==;sfTfpjWjxAt1WJyh0JrA6w=="

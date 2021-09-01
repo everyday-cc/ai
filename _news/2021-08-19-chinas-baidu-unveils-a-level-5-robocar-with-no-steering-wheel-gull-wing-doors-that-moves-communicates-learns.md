@@ -3,8 +3,8 @@ category: news
 title: "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'"
 excerpt: "China’s tech giant Baidu Inc held its annual \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public."
 publishedDateTime: 2021-08-18T20:45:00Z
-originalUrl: "https://www.futurecar.com/4813/China%25E2%2580%2599s-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-%26-Gull-Wing-Doors-That-%25E2%2580%2598Moves-Communicates-%26-Learns%25E2%2580%2599"
-webUrl: "https://www.futurecar.com/4813/China%25E2%2580%2599s-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-%26-Gull-Wing-Doors-That-%25E2%2580%2598Moves-Communicates-%26-Learns%25E2%2580%2599"
+originalUrl: "https://www.futurecar.com/4813/Chinas-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-&-Gull-Wing-Doors-That-‘Moves-Communicates-&-Learns"
+webUrl: "https://www.futurecar.com/4813/Chinas-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-&-Gull-Wing-Doors-That-‘Moves-Communicates-&-Learns"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 507
     isCached: true
 
-secured: "VpQE4RFBnmZ6CN/9ulPPh1iUnZ/I1KYtTVJZB2nWP9gOsmW+DLphx1xfkpCR9GSOGYIGTIpaFvQDUzsiszYy8/8M3b/x9OfcJdlWa4UX7vHs85fTdt/8URVqwQySt4bz4/tPyFCph6kkzWsZoz80Az7tjm2mLwi1AVURIXHfB+Bs7bORMWFSevfcyV6YVO8heOVUZYmPYGAPT9vRDRHb8tWmlT3TPJBqTOiprXrgq7CcEU3anVulYexLUHWNwZQmAOBAbD4PXBfnSWLfqDoXboolXnXffaeMY58wesMI+80u6NM81BefakUHyJGMv1V0uqYwcjRAIQzg/4mByMdRc2eDxRYPpF84s/wOLauXDuQ=;E+TTadj2r0+/8Jz3aEv+2A=="
+secured: "TKoIIP3egsY5vfypOF4B2ZYZDzq1P5+dOJhvnkUriVwWEMc0Uyz2ATIjLvroUhaWTS/3QGBijXqnL1YHpmEKoOTiFPCarH4pAM02lbw8PFgXirwtlK8Mb4BnWKE1vKKQpOvZWRKx84zR+rLL6JD5gJl4ui6FgMvuAZKWc6D3by0SpePZZzWmp2C7LexzclBJUmiLL4ZppBxo6fhXan5Uj6binNOi4JAg4X7bBv+RCfBWsD31ugt6cMoYkNRejqFftJbJaxdXgxoJ48Bfg6R+oPqDsv/X9Ek9lPJAQanWS+eJtj0rFN64e60fmTxjJYXVCu+i6Cx7GLjs7SiHF07cQ1iRIeiR+TlJNjdVuhzc1Ko=;MLp5eLLy98ofX2v0n3PLsg=="
 ---
 
