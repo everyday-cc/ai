@@ -123,20 +123,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Global fintech market size to grow a CAGR of 8.5% to reach $191bn in 2028"
-    excerpt: "The global fintech market size was USD 100.09 billion in 2020 and is expected to register a revenue CAGR of 8.5% to reach USD 190.80 billion during 2021 - 2028, boosted by rising demand for digitization in organizations."
-    publishedDateTime: 2021-08-27T09:20:00Z
-    webUrl: "https://www.opalesque.com/687194/Global_fintech_market_size_to_grow_a_CAGR719.html"
-    type: article
-    provider:
-      name: Opalesque
-      domain: opalesque.com
-    quality: 23
-    images:
-      - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "8+XJtSJg9orFKzwOHWLhTRvFJMt+9wMXHG2XgZLYgmgJCvHFqUA45u4ivw1Ve997EcnJ6jTx2McArGRyH4UIUhujd6QyP5/88etni3bGsL06UQnVzjn2WyhH36LJtaBAcfGR6bUVDaxAohb/WyYCnm88ItHiAluH76nW+xf5dQrA6XcAKPIbw2t7UZau1J1VM0TuQksZ7A/bPxe+3efF8IfpQeguafpmHHFEcNl5j8I5t+cEYIkCT+5fW25QsKjo0yCF83ao5JODC2v+TXBipiqfdsXRQE/9VCazn+RJ1zvSLVCVKV9KaSrCLn6V3fQyf1iSd43znazppXrZ2TjdaWPwI1wJVszDbTfv2dqDnGs=;pvikAh6ccgqsSSgWhFkwCA=="
 ---

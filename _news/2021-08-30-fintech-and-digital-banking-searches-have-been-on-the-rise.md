@@ -119,20 +119,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Global fintech market size to grow a CAGR of 8.5% to reach $191bn in 2028"
-    excerpt: "The global fintech market size was USD 100.09 billion in 2020 and is expected to register a revenue CAGR of 8.5% to reach USD 190.80 billion during 2021 - 2028, boosted by rising demand for digitization in organizations."
-    publishedDateTime: 2021-08-27T09:20:00Z
-    webUrl: "https://www.opalesque.com/687194/Global_fintech_market_size_to_grow_a_CAGR719.html"
-    type: article
-    provider:
-      name: Opalesque
-      domain: opalesque.com
-    quality: 23
-    images:
-      - url: "https://www.opalesque.com/images/GTE-Cap-Intro-Florida-(300x250).png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
     excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
     publishedDateTime: 2021-08-31T08:53:00Z

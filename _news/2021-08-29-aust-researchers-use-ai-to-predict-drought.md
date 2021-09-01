@@ -9,8 +9,8 @@ ampWebUrl: "https://thewest.com.au/technology/telecommunications/aust-researcher
 cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/technology/telecommunications/aust-researchers-use-ai-to-predict-drought-c-3810380.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The West Australian
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence to predict Arctic sea ice loss"
-    excerpt: "A new artificial intelligence (AI) tool has been developed to enable more accurate prediction of Arctic sea ice conditions months into the future."
-    publishedDateTime: 2021-08-27T09:16:00Z
-    webUrl: "https://www.theengineer.co.uk/artificial-intelligence-to-predict-arctic-sea-ice-loss/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 37
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2021/08/arctic-139396_1920.jpg"
-        width: 940
-        height: 624
-        isCached: true
   - title: "Novel AI tool to help predict Arctic sea ice loss months earlier"
     excerpt: "Scientists have developed a new artificial intelligence (AI) tool that can more accurately forecast Arctic sea ice conditions months into the future. The improved predictions could underpin new early-warning systems that protect Arctic wildlife and coastal ..."
     publishedDateTime: 2021-08-29T23:19:00Z

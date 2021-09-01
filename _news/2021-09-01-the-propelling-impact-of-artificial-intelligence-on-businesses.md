@@ -8,8 +8,8 @@ webUrl: "https://www.ibtimes.com/propelling-impact-artificial-intelligence-busin
 ampWebUrl: "https://www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/31/propelling-impact-artificial-intelligence-businesses.jpg"
@@ -41,6 +42,6 @@ related:
         height: 667
         isCached: true
 
-secured: "t0vaIcfnIDRxnuR07YwDOdWzZLWkgf29j0Dj8cSfGWIj5I0qiNUUwzxQ0lLY9uRHuMQ6oFsX6Z6gftiDsV3C25I7kc4GS43+zjcmafvP+Y/+yKAmJSEaGPEMXe6OSyxAliEtaFg5bDy2/wKBWtqI2qnAFINtUO3cBxTHek408c5GU2y3mkOO9lJ2bhEr0s9Awy0pwwVWoxknSOHI7W/D6M4wvM1HJlt8SZqYdjK8+BCg5bnqGTBbl9bMPUfFdsi8w9yftToV3877x+JeqmnnoxtykbffgPHFYTF6eEPbIbht8GqGaJ7KguDvnJ0xT1WKOJCMdWp9HDVrc1j6PCu+yVkLlmOAMYqOcIyCtDWiUmo=;zTV3T3Y8frwLKmiNMfDpRw=="
+secured: "WK56FV2WthigC8KOmj9JRE05O2xW4cc7RHmXxgPf722QVg7FXZUW7a5AfZgfZShAfdgfc+yX4ooAv9QRWhcwwKz14VWHgDBPHtM4BHjvKsQ39n3rF4ouTdqNaZuI9IAbUADXHjWTdCuf1m3xNHyN9FEhxnXO5FQ6rax5vzkrFiye4DToWIzncztV8hk/2POD92H1FviW5MjsopkovDDPeccMTHwxST59F+CHPRiZFrzP1EVm93Riu4xJ+9gtq7MndP3cbccwElys5f8By0D6v2ABi5Qj+kV0UV8Bg6t4dA6RHZ+miixR9Fo78lLyrQDH412Hdt21lV8LUktLEze5QMtYeJ8SFI6284ElZ+nypinoNZVsoOhSib68hJCi911y4uaJEheUN9nC3os+DMtda0StgqwyMwHWtIjRk5yPeWscAqI/5bXbiDkzISoP2mnzMdOalPj2vqSLcDtG70G+Z2ToL0o5k7595mqfBTXjVjtypzMrtISWiUe6dSaLr6uN8LijQc8LWm4wPOVJ0xOE2Q==;mfzwR47Yd5g5UTLU4S7MTg=="
 ---
 

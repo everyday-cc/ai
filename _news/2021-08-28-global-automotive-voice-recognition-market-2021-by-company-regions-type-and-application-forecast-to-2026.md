@@ -97,17 +97,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Self-driving Industrial Vehicle Market Global Growth, SWOT Industry Analysis, CAGR Status, Key Companies, Applications, Upcoming Trends 2030"
-    excerpt: "Allied Market Research published a new report titled Self driving industrial Market Global Opportunity Analysis and Industry Forecast 2021 2027 The latest study on the Global Self driving industrial Market covers a wide range of organizations from different regions It"
-    publishedDateTime: 2021-08-27T09:35:00Z
-    webUrl: "https://www.openpr.com/news/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
-    ampWebUrl: "https://www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2370553/self-driving-industrial-vehicle-market-global-growth-swot"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "jhBoH265unm2VUEIkfPvayD/H2RXhrhJ93h5HP7bXqJLl/rQJNFJCclzXZqinE2VdJTleOZkk8ObShWJZCkzv/tcAG/5HOCk+/4YygVzyouH/DSFSp4DYh88uvVWhW2BGpg+ZV4aeS+g3HUuS2GHhwIESrwycpNS18NbWmhVvRCG1DwJDl8W+bp4MY9J71joqPGo57kBG27UDk0zub1P9dHqDprFBzpmtYSG+5QRGMnahY5GxcHFXqfzq1gS5tTvLSC4Rqk8d15fZqLfT/hIYboz3Cp6SqjUllbWy/cstPj2V1Oe1XvzQJapeH1lNZMN6VlgBPtYErIc7+w8sguVtDgOMWyO2I9HZTQcz+G8ewQ=;6P/Vf34eRkqX1tA+rcLEIQ=="
 ---

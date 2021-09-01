@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.indianexpress.com/2021/08/Xiaomi-logo.jpg"
@@ -112,6 +113,6 @@ related:
       domain: netindia123.com
     quality: 4
 
-secured: "/1EPAJvSj8G06qgFNueeLDB8E9HXgsvQHbzK4CeZ284XRD4J8wtIEnzIq75/FhDrbQfi2mdC1d1ZD6JyzpH5G2Ub7TWDOJPS76AkGK+3I7xKPB0oZQqwiQCREycrb8dlGr2yoSRcocXa2xC2a78ETqanwBfQs3926FDuzrDGkifNzw1xBgVUzE99gkS4u6kzB0+qpeOATWIwwHHi6ceRz04twk8yS4xUsygjuza/9bEfjLJ/X91KkQfTkXp7Q7C9FsnZ6bTtpqU0msdXfHqWbY+MR0qezDEuDEEgN8usg8qemWB2w6QlEgFesvVn0VfZi3laP+nKzA2B+J9fejEcDBfbeOLrz2RANOloAMMRTW4DuuZEg4qob/72Ff5+3LrDmjyQC4Qzwb41jJhzAR8WI+AeNFQEZJ3rFqEzKsq2y9rtUVg0nfHGjp0UNI36bixDcTaIPhq4a1LUQE+M0rS1P/2Votw0vm6l9mYoMW3g5Yj3eXXR+EwBRMPNyw/n7Cw1QWe5QFKmpRpZfRDGL/ufwGvbGSZUtpN1fqxPUx144NM=;6ZAKgORaZf6xjYm1M1i4lQ=="
+secured: "tUIVqBZw+rRwj9SFHze7WFr6YPozRHG4E8Dza2SS2a3KBmsAdryAvQfNcaFIhIpWEOU9HvScamhFsPxAaYA+tQ/oswxJY5vO/p5DRduRX1hziRsdHCOj6P6SMMy4LGDlxB1w55ghq8lZ6pFBpvFvPUzCU5uCYwe/YwHBcMP+LAA0j46EVVNdsuDLxo7PmoCvRrjAIkcPkWohRPJWnREtGASplKSWdagPIEVPF0pe18Ys+6vJ8Mb3heVFhLvJff2qSIp/s9SNRMYsnN6yrZG63ciOwuNt6hUVKOqDKlFB6D0bspaP6sPtEtVFkk5IRCxM2CYgELiLHXjWdbAJnwsgkQdctn/wF7rr93tmtx9SeLOfrkcHiwRMV2jJvAJsHbR12Mx18EEdDYa2keXNTjCtdpZCnYdctG3kydjkL4Jeiec55wQwqPhIxzRrEzlH2zrBsggyUIeNpwmLYFFhoayL3jKHarQXYdBz9V8Qk46bzagcG+lvsVGBs0XqZm+V2UBgtR3b1H+K8Qs/GWxu7QhekWgWYCxGF0bjLXkZ3gOQU1E=;zlJIyJIS1poJB0hRR4N2Gg=="
 ---
 

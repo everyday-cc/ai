@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence to predict Arctic sea ice loss"
-    excerpt: "A new artificial intelligence (AI) tool has been developed to enable more accurate prediction of Arctic sea ice conditions months into the future."
-    publishedDateTime: 2021-08-27T09:16:00Z
-    webUrl: "https://www.theengineer.co.uk/artificial-intelligence-to-predict-arctic-sea-ice-loss/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 37
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2021/08/arctic-139396_1920.jpg"
-        width: 940
-        height: 624
-        isCached: true
 
 secured: "ZSBOzjjnm6qRVWAvircgbw86zEbCdApVDei0OCndmQ6E9601ekCzodfRyUg9Phpy5A1nmqWYbC14Fh9zHH5DA0726mGTkUKx6e1LVu0TPTkw3bVt/e5EwmuqDp21K/+yyiqkG5PmcKQa7tFVj1N/ySrBZXusBUToNrOjX0jnboXj0+h2rSpzDsGiOnU7jqHsqgr6R46E6ZTCY/szYueJaTX1uxnFgMLU7Ti4qyAt6KmJXkqHRBT95SHmUXBhyyJSkZNOL9zMuoZdy41xUZtKJxrbm/TBpyGmaI7+4rEFOG6QVl4ovG25PGjs2TmHCxnzoE6c1P8Bp2euz87cC1uxp0922eo25HF8YGjL8CiMqv0=;tmEDNZqPg1ndAzsq+iCE3g=="
 ---

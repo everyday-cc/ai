@@ -26,90 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Free-Speech Case for Facial Recognition | Opinion"
-    excerpt: "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes."
-    publishedDateTime: 2021-08-27T10:00:00Z
-    webUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006"
-    ampWebUrl: "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1"
+  - title: "China’s new data laws are a risk factor in a facial-recognition giant’s IPO filing"
+    excerpt: "The firm's lengthy list of risk factors is a reminder that Chinese tech champions face rising scrutiny in both Beijing and Washington."
+    publishedDateTime: 2021-08-30T10:57:00Z
+    webUrl: "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/"
+    ampWebUrl: "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 91
+      name: Quartz
+      domain: qz.com
+    quality: 68
     images:
-      - url: "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Celebrity spotting: Amazon improves facial recognition for famous people"
-    excerpt: "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ..."
-    publishedDateTime: 2021-08-28T10:39:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 72
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "US government agencies plan to increase facial recognition"
-    excerpt: "The majority of US federal agencies are using some form of facial recognition technology, according to a study by the Government Accountability Office (GAO)."
-    publishedDateTime: 2021-08-27T10:45:00Z
-    webUrl: "https://www.research-live.com/article/news/us_government_agencies_plan_to_increase_facial_recognition/id/5088462"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5088462&name=us-government-agencies-plan-to-increase-facial-recognition"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "Amazon Suspends Police Use of Its Facial Recognition"
-    excerpt: "Amazon did not respond to questions about it. Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology, called Rekognition, to government agencies, saying it could be used to invade privacy and target people of ..."
-    publishedDateTime: 2021-08-28T00:01:00Z
-    webUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 41
-  - title: "The government is going to use facial recognition more. That’s bad."
-    excerpt: "A report from the GAO traces the use of facial-recognition tech among US government agencies. Here's what it found."
-    publishedDateTime: 2021-08-28T11:00:00Z
-    webUrl: "https://www.popsci.com/technology/gao-report-facial-recognition-federal-government/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 41
-    images:
-      - url: "https://www.popsci.com/uploads/2021/08/27/michael-daniels-yHh07IGJAJM-unsplash.jpeg"
-        width: 2000
-        height: 1500
-        isCached: true
-  - title: "Team to monitor babies in the NICU with facial recognition tech"
-    excerpt: "A team of researchers from the University of South Australia (UniSA) has created artificial intelligence (AI)-based facial recognition technology for monitoring premature babies in neonatal intensive care units (NICUs)."
-    publishedDateTime: 2021-08-29T17:07:00Z
-    webUrl: "https://insights.globalspec.com/article/17245/team-to-monitor-babies-in-the-nicu-with-facial-recognition-tech"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://insights.globalspec.com/images/assets/245/17245/UNISA.png"
-        width: 1159
-        height: 470
+      - url: "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 875
+        height: 492
         isCached: true
 
 secured: "SjWsl+nGJXPJHqvfIKgsekVJbln7L/Y4zq4W9PJWewvbe7vCWLU7dd3q+RHV6WMBAUrCptuizOQaFNa4RrSYn7ETf5YqM6MvO2GewM2FJIOqHW1Ep/O0G5yRLCeVDSDl0/oPqRaIKC5/Hph4x3gWku4nZw94VuXd1x/eFCcpyUnSWTuuedP7/QPJN5i8H1TI6L7v3Cfvbu7+ZJDjWDvuH//e46BAqiF/I84uW+szAa9mQ4UaegGMdH9TX5jPAszbrego+Br8eWgX4pCV6D0+l1kYy7KGe3kYXzVbj+T367vmI0lRxwK3IFzo3kHCLdZgt0Ljol/S7DJApM8H1JYpHJCMOGzS5uD8IYsmPGxwIEgV099ihoT1hmeSccJ+krh3DS65BXxKIXjJWcFSiXe38xaqWcCU5ImFJCPaLalkOZR9vdmE3CIR8RAmStpgFg4TyUaNDpOko+I3bNwk+MC+I32iC571qahiae1y8Lk8CRm6XFOh+IJghDv05H5KvVHDPdFWeSbThlJN8cssKt48DQ==;99Vhprt89rcjZAcehorrkQ=="

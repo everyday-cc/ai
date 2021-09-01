@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "People are hiring out their faces to become deepfake-style marketing clones"
-    excerpt: "Liri can juggle so many jobs, in multiple countries, because she has hired out her face to Hour One, a startup that uses people’s likenesses to create AI-voiced characters that then appear in marketing and educational videos for organizations around the world."
-    publishedDateTime: 2021-08-27T09:51:00Z
-    webUrl: "https://www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/"
-    ampWebUrl: "https://www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/amp/"
+  - title: "This Augmented Writing Tool Can Help People Who Stutter By Using AI"
+    excerpt: "Advertisement With the passage of time, technology is making our lives easier and more convenient. Besides providing us facilities for advancement in different sectors, it also creates solutions for people with disabilities or conditions that serve as an obstruction in the smooth execution of their daily activities."
+    publishedDateTime: 2021-08-31T06:03:00Z
+    webUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/"
+    ampWebUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 157
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/Characters-2-web.png?w=2870"
-        width: 2870
-        height: 1430
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/texttospeech.jpg"
+        width: 1920
+        height: 1459
+        isCached: true
+  - title: "How AI Upscaling Can Help Remaster Game Art"
+    excerpt: "Mass Effect Legendary Edition is one of the first high-profile titles to use AI texture upscaling, but how does it work?"
+    publishedDateTime: 2021-08-31T17:07:00Z
+    webUrl: "https://www.gamasutra.com/blogs/TommyThompson/20210831/387627/How_AI_Upscaling_Can_Help_Remaster_Game_Art.php"
+    type: article
+    provider:
+      name: Gamasutra
+      domain: gamasutra.com
+    quality: 39
+    images:
+      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1038824.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "sSahMKcHMbdHCF0WY+Qi6LQFOIOm5GLKFONG65M4iDn0GxlSocyzHwviXvlpdsd+OsdvEI7GlJ3GOiQ+9uWPjL4JrTUzPHw0RKm8MuUnkLE3QrnmcNadHyl9tJw48HjHDSyCvOhzXwkUU6lfDKUlyXEgiRoPRKtnqt7lCaF8fNjUUwRhR/0cf4GSt6uxvsIVbFzVA4+Hh25mBFl5HDOJaW7+97Y/0lMmB+77nb7SBkmoXdE7lndqKIS/xmXQknqeyCe6gGRsJ7jk8I1N9CSqJDPh5GXPELjA+ats+uWX3f3FbyhOZ/CafnM6sBhosN/uQIhrcLqgrA4KdCd9sk/UZXuOEyMEH1YPzUfp1RtSOWtd4vdjKol28oVzsACE1nrNkbwIlO3GVBmgXOlSgid6JjHW7qyw924KtYP37dwCzOqNgUpHowvotcb6F4IIOF5bKovIx3CY6OxMxLW/uYr+w5L4hbwjops3J/Q+Iq7HPA2obFyreAnpN5CSHTavjh1Q1V9CR9TUXwNtRUWcQ8To7g==;BX5b6AThab3VgRowfL/leQ=="

@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Waymo will stop selling lidar self-driving car sensors"
-    excerpt: "SAN FRANCISCO -- Alphabet's self-driving unit Waymo said that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies. This is a reversal from its ..."
-    publishedDateTime: 2021-08-27T09:20:00Z
-    webUrl: "https://europe.autonews.com/suppliers/waymo-will-stop-selling-lidar-self-driving-car-sensors"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Waymo%20jag%20SF%20web%281%29.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Aurora debuts next-generation self-driving hardware"
     excerpt: "Self-driving truck startup Aurora Friday announced the development of its next generation of hardware. The company is targeting a commercial debut of the hardware in pilots this year and with the launch of the company’s trucking and ride-hailing businesses to follow in 2023 and 2024,"
     publishedDateTime: 2021-08-27T17:20:00Z

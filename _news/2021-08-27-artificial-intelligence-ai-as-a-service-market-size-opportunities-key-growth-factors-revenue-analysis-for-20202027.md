@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mobile Speech Recognition Software Market Outlook with Detailed Industry Analysis 2021: Growth Opportunities, Top Companies and Global Forecast 2027"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Mobile Speech Recognition"
+    publishedDateTime: 2021-08-31T10:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-outlook-with-detailed-industry-analysis-2021-growth-opportunities-top-companies-and-global-forecast-2027-2021-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Driving Factors, Key Players, Strategies, Trends, Forecast Till 2027"
     excerpt: "The Global Artificial intelligence AI In Social Media Market size is estimated to reach USD 4 26 Billion from USD 797 Million in 2019 exhibiting a CAGR of 24 7 through 2027 The rapid evolution of social media platforms with"
     publishedDateTime: 2021-08-27T16:45:00Z

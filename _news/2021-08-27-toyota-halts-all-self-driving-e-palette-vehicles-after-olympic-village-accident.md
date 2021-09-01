@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-08-27/toyota
 webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
 type: article
 quality: 148
-heat: 568
+heat: 558
 published: true
 
 provider:
@@ -107,22 +107,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612af96eccedf1b532c3fdbf%2F0x0.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Visually impaired Paralympian hit by self-driving bus"
-    excerpt: "A visually impaired Paralympian was hit by a self-driving bus in the athletes' village in Tokyo, suffering head and leg injuries, Japanese media said Friday. Toyota, which developed the autonomous shuttle buses used in the compound,"
-    publishedDateTime: 2021-08-27T10:56:00Z
-    webUrl: "https://www.rfi.fr/en/visually-impaired-paralympian-hit-by-self-driving-bus"
-    ampWebUrl: "https://amp.rfi.fr/en/visually-impaired-paralympian-hit-by-self-driving-bus"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/visually-impaired-paralympian-hit-by-self-driving-bus"
-    type: article
-    provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 59
-    images:
-      - url: "https://s.rfi.fr/media/display/64976d54-0725-11ec-a5e3-005056bf30b7/w:1280/p:16x9/8ec1b9c2f0a98d242ed0f7c4765f0668971ddc18.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Visually Impaired Paralympian Hit by Self-driving Bus in Athletes' Village"
     excerpt: "A visually impaired Paralympian was hit by a self-driving bus in the athletes' village in Tokyo, suffering head and leg injuries, Japanese media said Friday."
