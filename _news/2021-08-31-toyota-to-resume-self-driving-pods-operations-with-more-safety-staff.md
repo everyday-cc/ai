@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Toyota's self-driving shuttles return to the Paralympics following crash"
+    excerpt: "Toyota is once again running its self-driving e-Palette vehicles at the Paralympics following a collision with a pedestrian.."
+    publishedDateTime: 2021-09-01T14:08:00Z
+    webUrl: "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
+    ampWebUrl: "https://www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 73
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/f20135a0-0b1f-11ec-bab7-b37093ad4a37"
+        width: 5908
+        height: 3939
+        isCached: true
   - title: "Toyota resumes self-driving operations at Paralympic Games; CEO remains skeptical of autonomous progress"
     excerpt: "Following a collision with an athlete last week, Toyota has resumed operations at the Paralympic Games with new safety measures in place."
     publishedDateTime: 2021-08-30T19:58:00Z
@@ -304,22 +320,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 29
-  - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
-    excerpt: "Toyota's CEO on Friday apologized in a video posted to YouTube after one of the company's self-driving vehicles hit the athlete while driving at 1 to 2 kilometers per hour around the Olympic Village in Tokyo."
-    publishedDateTime: 2021-08-27T21:40:00Z
-    webUrl: "https://www.kezi.com/content/national/575189232.html"
-    ampWebUrl: "http://www.kezi.com/templates/AMP?contentID=575189232"
-    cdnAmpWebUrl: "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=575189232"
-    type: article
-    provider:
-      name: KEZI
-      domain: kezi.com
-    quality: 28
-    images:
-      - url: "http://media.heartlandtv.com/designimages/kezidefault.png"
-        width: 640
-        height: 380
-        isCached: true
   - title: "Toyota self-driving bus throws a Paralympic judo expert"
     excerpt: "Company said it was a little overconfident – the bus not the competitor \"Toyota has apologised for the 'overconfidence' of a self-driving bus,\" after the slow-moving bus managed to hit a Paralympic judo expert."
     publishedDateTime: 2021-08-30T09:50:00Z
@@ -389,6 +389,20 @@ related:
       - url: "https://resources.stuff.co.nz/content/dam/images/4/y/u/h/v/5/image.related.StuffLandscapeSixteenByNine.1420x800.235m28.png/1630360720910.jpg"
         width: 1420
         height: 798
+        isCached: true
+  - title: "Self-Driving Olympic Vehicles Continue Services after Accident"
+    excerpt: "As if avoiding a virus in a city where athletes from across the world have converged wasn’t enough, Paralympians must also be wary of autonomous vehicles hitting them as they head to their events. An e-Palette pod from Toyota Motors injured a visually-impaired Japanese athlete when it struck him at a junction."
+    publishedDateTime: 2021-09-01T14:36:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21648035/selfdriving-olympic-vehicles-continue-services-after-accident"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/09/MM_260_Thumb_2.612f8ccf7a0b0.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "URGENT: Toyota self-driving buses in Paralympic village to restart Tues."
     excerpt: "Toyota Motor Corp. said its self-driving buses will start running again in the athletes' village in Tokyo on Tuesday with improved safety measures after they have been stopped since an accident last week involving a visually impaired Paralympian."

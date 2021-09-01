@@ -105,6 +105,15 @@ related:
         width: 400
         height: 252
         isCached: true
+  - title: "Forum addresses importance of FinTech, AI in future careers"
+    excerpt: "The minister stressed that the forum seeks to identify and discuss the reality of future professions in Bahrain in financial technology (FinTech), artificial intelligence (AI) and sustainable energy as well as labor market trends and expected jobs in the near future."
+    publishedDateTime: 2021-09-01T14:46:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDnEp5STLohoyCKX6RO74qZU%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 19
   - title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
     excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
     publishedDateTime: 2021-08-31T08:53:00Z

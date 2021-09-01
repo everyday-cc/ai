@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Echobox: Remember that Facebook is still driving significant traffic to publisher sites"
+    excerpt: "We’ve looked many times in recent months at the increasing friction between publishers and platforms. But for Echobox, a company that helps more than 1,000 publishers in over 100 countries to track and optimise their social media traffic,"
+    publishedDateTime: 2021-09-01T15:37:00Z
+    webUrl: "https://www.fipp.com/news/echobox-remember-that-facebook-is-still-driving-significant-traffic-to-publisher-sites/"
+    type: article
+    provider:
+      name: FIPP
+      domain: fipp.com
+    quality: 16
+    images:
+      - url: "https://www.fipp.com/wp-content/uploads/2021/09/Boxec.001.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "NFw7NxJ89OtC1mEbq+sb6uIF4e0KAr2UE95v0WtLVYtGFQ8EUeF3YTVSYWBqnvqy7T3cGsONL8xkBC3CVoGsT/LRR78X3RRIaklFIJULxFrrSpj592Dz8GpbQ/nEnJTt/CALzJQGvK1Zwp33BrNkClFuZbKA3Up6Nir+YTH6V0T/FkW2HmLpq001zEMr+2SqrlqnDdLzk+Fs2iI1IaFnBbtxADSkiJbdRgD7amCCCjX2l+TSuntjfIjynLrjjZewCj7hKj63y6VdLlmxy4FOjrGx85CfmJ498FhKXPXGnQFGa15f6Nrusf9bq8u7DzTYShLH5ZcWa1LiBLPFVaz/2mNoL3ZmXCCa8VV3id0ry3o=;V+DRonMA5ii7N4a4I20D5w=="
 ---
 

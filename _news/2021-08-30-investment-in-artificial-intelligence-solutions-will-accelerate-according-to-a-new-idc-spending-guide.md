@@ -62,20 +62,6 @@ related:
         width: 360
         height: 240
         isCached: true
-  - title: "How artificial intelligence is ushering in the age of the science of negotiation"
-    excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
-    publishedDateTime: 2021-08-31T14:04:00Z
-    webUrl: "https://www.bizcommunity.com/Article/224/706/219579.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 32
-    images:
-      - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
-        width: 546
-        height: 364
-        isCached: true
 
 secured: "jpWqOOHWjEW5zzSv1+wr69dtEDiCrOezdiirmSHlE9HuhDG+ydFyPWQfpXggS88VVsItPxO5oPhvP1MZIQG/48CmrsXDb391zKqdayYFVpjwA7f+gq73qvvI2q/iQrwz1b6NT1pv2302rB9/CUhFcSUCHICQ9aqQIn95qfNgb9kT6r01Ul6Wc9M/zyAp0VPGJN+Q75JvTVMUTsVyE2z115IFffDwsx5qmIZ4uspuLgdKY5mNc1WpyC29fdzCVR4MlhhoyBqx8Vju4AsGYi/X0EvH0ONNtmFldh3vhGlrDZt6XgV/+LWkCziKAn3iAAzcR3gSAzHF1Oe+Jm6991EtjJ40M6woPQpJstX1yZyNNpM=;L+dVm3LltmYpcXORsyOCVw=="
 ---

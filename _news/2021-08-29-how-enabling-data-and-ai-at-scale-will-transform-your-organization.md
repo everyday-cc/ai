@@ -54,20 +54,6 @@ related:
         width: 360
         height: 240
         isCached: true
-  - title: "How artificial intelligence is ushering in the age of the science of negotiation"
-    excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
-    publishedDateTime: 2021-08-31T14:04:00Z
-    webUrl: "https://www.bizcommunity.com/Article/224/706/219579.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 32
-    images:
-      - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
-        width: 546
-        height: 364
-        isCached: true
   - title: "Investment in Artificial Intelligence Solutions Will Accelerate According to a New IDC Spending Guide"
     excerpt: "Businesses and organizations across all industries are increasing their investment in artificial intelligence (AI) to"
     publishedDateTime: 2021-08-30T16:05:00Z

@@ -2,60 +2,60 @@
 category: news
 title: "Spell Introduces Deep Learning Operations Platform To Reduce AI Training Costs"
 excerpt: "Concept: NY’s MLOps platform provider Spell has announced the launch of an operations platform that includes the tools needed to train AI models using deep learning algorithms. ML algorithms are tuned for the platforms currently used to train AI models."
-publishedDateTime: 2021-08-30T12:53:00Z
-originalUrl: "https://www.pharmaceutical-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
-webUrl: "https://www.pharmaceutical-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
+publishedDateTime: 2021-08-30T12:28:00Z
+originalUrl: "https://www.power-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
+webUrl: "https://www.power-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Pharmaceutical Technology
-  domain: pharmaceutical-technology.com
+  name: Power Technology
+  domain: power-technology.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/08/shutterstock_1698736867.jpg"
+  - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/shutterstock_1698736867.jpg"
     width: 500
     height: 282
     isCached: true
 
 related:
-  - title: "Using AI and Computer Vision to Reduce Misinformation on the Web"
-    excerpt: "The spread of misinformation via deepfakes, document manipulation and false narratives is fairly common on the internet today."
-    publishedDateTime: 2021-08-30T22:37:00Z
-    webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
+  - title: "New scientific approach reduces bias in training data for improved machine learning"
+    excerpt: "As companies and decision-makers increasingly look to machine learning to make sense of large amounts of data, ensuring the quality of training data used in machine learning problems is becoming critical."
+    publishedDateTime: 2021-09-01T14:04:00Z
+    webUrl: "https://techxplore.com/news/2021-09-scientific-approach-bias-machine.html"
+    ampWebUrl: "https://techxplore.com/news/2021-09-scientific-approach-bias-machine.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-scientific-approach-bias-machine.amp"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 68
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_and_Computer_Vision_to_Reduce_Misinformation_on_the_Web.jpeg"
-        width: 1347
-        height: 600
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-scientific-approac.jpg"
+        width: 2880
+        height: 1920
         isCached: true
-  - title: "Innovative AI and simulation tools used to reveal the inner workings of Sar-CoV-2 virus"
-    excerpt: "Argonne, industry and academia collaborate to bring innovative AI and simulation tools to the COVID-19 battlefront."
-    publishedDateTime: 2021-09-01T05:14:00Z
-    webUrl: "https://www.news-medical.net/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
+  - title: "New scientific approach reduces bias in training data for improved machine learning"
+    excerpt: "Gautam Thakur leads a team of ORNL researchers who have developed a new scientific method for identifying bias in human data annotators to ensure high-quality data inputs for machine learning applications."
+    publishedDateTime: 2021-08-31T12:00:00Z
+    webUrl: "https://www.ornl.gov/news/new-scientific-approach-reduces-bias-training-data-improved-machine-learning"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
+      name: ornl.gov
+      domain: ornl.gov
+    quality: 48
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://www.ornl.gov/sites/default/files/styles/main_image_style/public/2021-08/2021-P05687.jpg?h=c6980913&itok=GRC4hQsI"
+        width: 800
+        height: 500
         isCached: true
 
-secured: "sSg0B7kUKhts+EUEcD/HTMq7xJXbX71zbZx/xS1phbgOjlEKmkJqboUFp6bYC46hqp3CmaD7e1ifoumVCWhOcfCXb2/19d5ROtSbac1Y3fgK5p4YduU5i7a0eE31i/cmHW9+SxRsMCmJatcjq8wwdoWO/xoLcuIcEfqInkiwIJo6BTnkjMSWNo65DuiroAaTd2VgTkPAR8HzIwoiQn8RKCyvOXkrwTvGZU0WExv1vJyldgl6GXNdPEl4q5bg3sNuRFhe+B4H9me18PCzuQh6dMDNmJITpE7jbTG67uUjCjtvOolg7yzT7gc9h/hnBs5bJMnB2G55wFsRqxtSLpZWNiz1V8ddcWkDblMiIUnJZ+lIf60/tvmCjIvwLwKXz8iMMWyHSzV1cqD5CDQZhFK4/UDjxF8JfVnkQrIMHtKiDDp6WsNRHLok44KRXcTog6B3G1COeurzLImbSgehcKDOdM7jjiYb+omECE8yIzNCCCNOTBpHXotzvi43qU8dN+2lf7WMFD3XWMrqfsc3yviGLg==;TdVMrHkgMu7QsTFKrIFGyA=="
+secured: "kdu0AVEkvZ2OB9lDRbR3jgKx6kR0Ss0Wvzk2s0i0ZWzo8EBZxPZkwDPzipG1m2ihrPBpeb0w4Hs4ctuJUXMXGld3+xJrBWyWYvPHG2ImCxb14hfsd1f06axz7Hix4Bqpt0HXVqi2bZafWqGdDLS84/lHJSAJ5St1bRMtXJ6xOKW8hdT9xNdMMIRFI++WfofG7cJ8F7gi8Wq/ZTGU2XKXwLyWHyYVQ/QxXNof7VeHjHuznt8wqn4HTkI7J4EmFC5Fxj2yr45iY4AFxRzsxgUsmaFMpzdWXDIyPTZ7FLDHJ4eqRQB01J2eKk99ChgPhC9cWYbRW9yHNe7Hx4xme36MN/bqk/eX13s2EAXcy5XtIPY=;XaoGX5N+sSEKmcnR0yF48Q=="
 ---
 

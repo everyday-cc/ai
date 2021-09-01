@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/30/get-your-pitch-off-on-with-our-dis
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/30/get-your-pitch-off-on-with-our-disrupt-startup-alley-companies-on-upcoming-episodes-of-extra-crunch-live/amp/"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fire up CrunchMatch today and start networking with TechCrunch Disrupt 2021 attendees"
+    excerpt: "You read that right, folks. CrunchMatch, our AI-powered platform that simplifies finding and connecting with the people on your must-meet list, is now open for business. TechCrunch Disrupt 2021 takes place on September 21-23,"
+    publishedDateTime: 2021-09-01T15:08:00Z
+    webUrl: "https://techcrunch.com/2021/09/01/fire-up-crunchmatch-today-and-start-networking-with-techcrunch-disrupt-2021-attendees/"
+    ampWebUrl: "https://techcrunch.com/2021/09/01/fire-up-crunchmatch-today-and-start-networking-with-techcrunch-disrupt-2021-attendees/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/01/fire-up-crunchmatch-today-and-start-networking-with-techcrunch-disrupt-2021-attendees/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 65
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/CrunchMatch.png?w=1024"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Get your pitch-off on with our Disrupt Startup Alley companies on upcoming episodes of Extra Crunch Live"
     excerpt: "Disrupt is right around the corner, and this year the show is packed to the brim with incredible panels and conversations, an absolutely stacked Startup Battlefield cohort of companies launching on our stage,"
     publishedDateTime: 2021-08-31T16:02:00Z

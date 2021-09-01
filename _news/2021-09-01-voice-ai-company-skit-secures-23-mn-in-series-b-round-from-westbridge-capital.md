@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382879"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382879"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
+    excerpt: "The fresh capital will help enhance Skit's voice technology, developing personalised solutions while making strategic headway in global markets,"
+    publishedDateTime: 2021-09-01T14:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/voice-ai-company-skit-secures-series-b-round-of-usd-23-million-from-westbridge-capital-1030773534"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://mma.prnewswire.com/media/1606722/Sourabh_Gupta_and_Akshay_Deshraj.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Voice AI company Skit raises $23 million Series B from WestBridge Capital"
     excerpt: "Skit, formerly known as Vernacular.ai, raised $23 million as part of its Series B funding led by WestBridge Capital. Other investors including Kalaari Capital, Exfinity Ventures, Angelist syndicate led by Aaryaman Vir Shah from Prophetic Ventures,"
     publishedDateTime: 2021-09-01T12:40:00Z

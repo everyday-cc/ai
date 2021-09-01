@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-ele
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Manitoba seeks the public's input for testing self-driving cars"
+    excerpt: "Having authorized testing of self-driving vehicles on its roads, Manitoba is now asking the public for its input as it lays the groundwork for the program. Manitoba introduced its Vehicle Technology Testing Act in 2020,"
+    publishedDateTime: 2021-09-01T15:15:00Z
+    webUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars"
+    ampWebUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Self-driving electric shuttle heading to Whitby GO as part of Metrolinx’s AV pilot project"
     excerpt: "Durham Region residents will soon see a self-driving electric vehicle rolling into Whitby GO as Metrolinx partners with several agencies to help create the smart infrastructure."
     publishedDateTime: 2021-08-30T15:52:00Z

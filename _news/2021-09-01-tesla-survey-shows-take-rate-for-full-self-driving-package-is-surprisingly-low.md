@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/amp/"
 type: article
 quality: 85
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.barrons.com/im-386041/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Tesla’s So-Called “Full Self Driving” Doesn’t Work"
+    excerpt: "Stanphyl Capital’s commentary for the month ended August 31, 2021, discussing their short position in Tesla Inc (NASDAQ:TSLA)."
+    publishedDateTime: 2021-09-01T14:32:00Z
+    webUrl: "https://www.valuewalk.com/teslas-so-called-full-self-driving-doesnt-work/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 54
+    images:
+      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/03/tesla_1615531404.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "What the feds’ investigation into Tesla’s Autopilot means for future of self-driving cars"
     excerpt: "In addition to its Autopilot capabilities, Tesla has been offering what it calls “full self-driving” features that include autopark and auto lane change. Since its first offering of the Autopilot system and other self-driving features, Tesla has ..."

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "VOXOX Expands Expert Teams for a Future in Artificial Intelligence"
-excerpt: "VOXOX, a 5G-enabled AI cloud communications company, today announced the expansion of its UI/UX and data analytics teams for strategic"
-publishedDateTime: 2021-09-01T12:43:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/voxox-expands-expert-teams-for-a-future-in-artificial-intelligence-301366435.html"
-webUrl: "https://www.prnewswire.com/news-releases/voxox-expands-expert-teams-for-a-future-in-artificial-intelligence-301366435.html"
+excerpt: "VOXOX, a 5G-enabled AI cloud communications company, today announced the expansion of its UI/UX and data analytics teams for strategic growth. This step forward makes room for additional research and development of solutions to help automation become an essential and integral option for small businesses."
+publishedDateTime: 2021-09-01T12:47:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-voxox-expands-expert-teams-a-future-artificial-intelligence-/2021/09/01/9441093.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-voxox-expands-expert-teams-a-future-artificial-intelligence-/2021/09/01/9441093.htm"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1605764/VOXOX_Logo.jpg?p=facebook"
-    width: 720
-    height: 379
-    isCached: true
 
 related:
   - title: "Intel expands AI education program to 11 states"
@@ -41,6 +35,6 @@ related:
         height: 1705
         isCached: true
 
-secured: "gw9PEALcVpfvDstAobjSM8q9pRI+14CdHOYJFcn0v0vSnHOhNf5Tl1Y4pyRSergnKJ0hgnuNlwxcekCexo1A+Jee1cssUHQzCHQ+HBrbYiEUGUlK8Jzd7XVUgpQXX3OIc1I6taz+ukfMSTg9t1rhXuZLfDMT9HpIvibx6Fx6JIAV3zJZz4tg2GpQjzTZjLd7I38qxvTBoHHtYDVZOI0O7u6Bbmgj2uWuPUp23rXSOxssHwEJBXd6bmPc3z6+Avm6Hl5iGH4xZ9OwN6XanoapbR9cL/cCoUhAsJGcsfvbS0mn2QXrDCrScjmONw4UcuC8DkUckzxvk1JluGG5AyfpY/d7lc2ExFEPRD+TCF0XqRc=;vdz4bY9F/5Lomf4fyuc0sw=="
+secured: "ftIxvdwHeJy417ItIhZ2KcxQxoNI0k7JBiuRgy3qAw6iryL6QmZb2r0k2xS573u327uIluq74DxbXgzG0wKwHGbhkPfaitkZyqdsbjP5U6+C09Wm8VXGZtf237fqqo3UoRRG3KGwJ58lYv1Jx0tQBjKK033fEzp/B+eIBnvZR5S+ycYXxQpdF9pUzrktrKmiiMhRXrQseG7TFdx2RGXHiPmFvSEpyezfveygeUIPjcA5+N/bmOj/vD3zXZK2oJm8ALM/89YlnPo2B25S63PhVjPSWiyBHTwcE8Q9Fsrl/YDTinyDwXP0P+dP/kdSuBdIx9jGlOt2/RbovjmmNfpc4pGSeOsNpUrR3CkMFMlfFG8=;TU3kyW9wXtHXbCxJZl/nmg=="
 ---
 

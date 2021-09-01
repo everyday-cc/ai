@@ -109,6 +109,15 @@ related:
         width: 400
         height: 252
         isCached: true
+  - title: "Forum addresses importance of FinTech, AI in future careers"
+    excerpt: "The minister stressed that the forum seeks to identify and discuss the reality of future professions in Bahrain in financial technology (FinTech), artificial intelligence (AI) and sustainable energy as well as labor market trends and expected jobs in the near future."
+    publishedDateTime: 2021-09-01T14:46:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDnEp5STLohoyCKX6RO74qZU%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 19
 
 secured: "8+XJtSJg9orFKzwOHWLhTRvFJMt+9wMXHG2XgZLYgmgJCvHFqUA45u4ivw1Ve997EcnJ6jTx2McArGRyH4UIUhujd6QyP5/88etni3bGsL06UQnVzjn2WyhH36LJtaBAcfGR6bUVDaxAohb/WyYCnm88ItHiAluH76nW+xf5dQrA6XcAKPIbw2t7UZau1J1VM0TuQksZ7A/bPxe+3efF8IfpQeguafpmHHFEcNl5j8I5t+cEYIkCT+5fW25QsKjo0yCF83ao5JODC2v+TXBipiqfdsXRQE/9VCazn+RJ1zvSLVCVKV9KaSrCLn6V3fQyf1iSd43znazppXrZ2TjdaWPwI1wJVszDbTfv2dqDnGs=;pvikAh6ccgqsSSgWhFkwCA=="
 ---
