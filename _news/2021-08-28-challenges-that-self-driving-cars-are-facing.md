@@ -25,65 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Chances Of Collisions Involving Urgently Underway Police Cars And AI Self-Driving Cars"
-    excerpt: "Regrettably there are going to be instances of urgently underway police cars that collide with self-driving cars, though there are means to try and reduce those chances."
-    publishedDateTime: 2021-08-27T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60722c4f3955ebfd3665bef7%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D4511%26cropY1%3D440%26cropY2%3D2845"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Qualms About Touting Those Neophyte Testimonials By First-Time Riders In AI Self-Driving Car Tryouts"
-    excerpt: "To clarify, for true self-driving cars there isn’t a human driver at the wheel and instead, an AI-based driving system is undertaking the entirety of the driving chore. These alleged off-the-cuff testimonials are usually by first-time riders in self ..."
-    publishedDateTime: 2021-08-29T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
+  - title: "Self-Driving Electric Cars Could Mean The End Of Short Haul Flights"
+    excerpt: "Self-driving battery-electric vehicles could drastically reduce the need for short haul flying, or even render it obsolete, and slash emissions in the process."
+    publishedDateTime: 2021-08-28T09:00:00Z
+    webUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/"
+    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032b1c370eb42256c4691a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D72%26cropY2%3D877"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61262ae06169576215801db8%2F0x0.jpg"
         width: 1200
-        height: 676
+        height: 772
         isCached: true
-  - title: "Toyota suspends all self-driving vehicles at Paralympic Games after collision with athlete"
-    excerpt: "Toyota Motor Corporation announced the immediate halt to all e-Palette self-driving pods at the Tokyo Paralympic Games following a collision."
-    publishedDateTime: 2021-08-27T17:58:00Z
-    webUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/"
-    ampWebUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
+  - title: "Self-driving electric shuttle heading to Whitby GO as part of Metrolinx’s AV pilot project"
+    excerpt: "Durham Region residents will soon see a self-driving electric vehicle rolling into Whitby GO as Metrolinx partners with several agencies to help create the smart infrastructure."
+    publishedDateTime: 2021-08-30T15:52:00Z
+    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21236282/metrolinx-selfdriving-electric-shuttle-heading-to-whitby-go-as-part-of-metrolinxs-av-pilot-project"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 14
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2021/08/Toyota-E-Palette.png?w=1000"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Aurora debuts next-generation self-driving hardware"
-    excerpt: "Self-driving truck startup Aurora Friday announced the development of its next generation of hardware. The company is targeting a commercial debut of the hardware in pilots this year and with the launch of the company’s trucking and ride-hailing businesses to follow in 2023 and 2024,"
-    publishedDateTime: 2021-08-27T17:20:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15114247/aurora-readies-debut-of-nextgeneration-selfdriving-hardware"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 24
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/08/Peterbilt___Sienna__1_.61291a46a170d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/08/16x9/metrolinx.612cfaf90d4d9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
         isCached: true

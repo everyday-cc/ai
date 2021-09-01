@@ -28,35 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "A New AI Technology Might Help Detect Gastric Cancer"
-    excerpt: "Each year, one million patients around the globe are diagnosed with stomach cancer. Can a new cancer-detecting AI help save lives?"
-    publishedDateTime: 2021-08-27T16:49:00Z
-    webUrl: "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/"
-    ampWebUrl: "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/"
+  - title: "Privacy in the Brain: The Ethics of Neurotechnology"
+    excerpt: "“I keep telling my students [that] ethics is not all about things that go wrong. It's also about how to maximize human wellbeing, and by connecting artificial intelligence to the human brain, we can develop better therapeutic, preventative and diagnostic ..."
+    publishedDateTime: 2021-08-31T11:00:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/articles/privacy-in-the-brain-the-ethics-of-neurotechnology-353075"
+    ampWebUrl: "https://www.technologynetworks.com/neuroscience/articles/amp/privacy-in-the-brain-the-ethics-of-neurotechnology-353075"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/articles/amp/privacy-in-the-brain-the-ethics-of-neurotechnology-353075"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612914d1b76e70fd4b9d34e3%2F0x0.jpg"
-        width: 1128
-        height: 752
-        isCached: true
-  - title: "New Artificial Intelligence Technology Poised to Transform Heart Imaging"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
-    publishedDateTime: 2021-08-31T19:36:00Z
-    webUrl: "https://www.miragenews.com/new-artificial-intelligence-technology-poised-623368/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://news.virginia.edu/sites/default/files/inline_1_chris_kramer_05hr_da.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/privacy-in-the-brain-the-ethics-of-neurotechnology-353075.jpg?v=11389555"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "1Hbq+deQRjl4eanP1h0y6AuJLVka8iEPC6YcxaXQI4XCSdCK1VJ7HSKikD1Hbqf9BZto83gB2EEQjCEfkTFsgXTwjQ5l2p77G/EDar3yrZSulxSLc0981XWwC+Fqwl2rjOTUv9arTTHzVsIA9NbEsLcirkb4ntihHNGfGkbK1fl1GcXYGDd8jCdZb3M8whz96gSs7kZDvz+GooQVBcUcW+MZutwT6NF+hPFq9Gy98EIG58TH6e+F09SaGBLSpOIJ2mGU07zE02kjOADxFijrUZ5VFS3h4mLGSjxoK6gvaNY7JhnMbfNXmusOiaAbK8G2/WTMM3k9c4XcT8h5qqV1a2Ht7XapzksvEOd/yRzZxbssRWfnUq7v1m0kV9v8l7J84GwwnW2gEyrR8iwsD9JHWEK+fWVvIqgGFxIziuEsQejjVmdbicYbLuFDPUgQTGYzpU1iQMcf5IxULytMizQDoW18SwBPXQ/zGcet615j3UaLmsrCCuuj+x9lpSt7sENKMCTEq9y4+Gfh3eS/LvB9Vg==;ZNbpbNuN8Z3oIUylrqpTtg=="

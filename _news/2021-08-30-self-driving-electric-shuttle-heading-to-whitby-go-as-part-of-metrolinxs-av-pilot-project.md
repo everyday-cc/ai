@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 772
         isCached: true
+  - title: "Challenges that self-driving cars are facing"
+    excerpt: "The road to the future is a long and winding one as self-driving car companies try to get their driverless cars to go mainstream. While self-driving cars are the way of the future officials say it's just taking a little longer for the future to be fully realized."
+    publishedDateTime: 2021-08-27T18:42:00Z
+    webUrl: "https://www.wral.com/challenges-that-self-driving-cars-are-facing/19845953/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 24
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/national_world/national/2021/08/27/19845954/132237-self-driving-DMID1-5s0j0zz7n-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "AKrE8g5FrCBGkjrwOpF8vJBba/Jt93PisfmE9s5887Wn3WzJ9KrGl47TkLcKA8PObT3vjRbICgUQooBadSajtzKlbus3KXqplezgRuBtch1o/XTlqM6TBkJgc1WA3hOGHMUuYitGKK0aiiiHu8yPu5G0ncZcSmf9EeRNgw5AAMo6QvsRVPhAYG59XEZNYqfApe39Y6X2QIhGyhdAboounTD/l8SvnDqZqVMtJ7liT0nhnieLSDTmWFanfasxI5SOXzx+k6rOgzPtMecuYNkYq6mmxzauhxtsFRWHcZC6D2YM97TmzkXHTEPydquJhGkRFrVbDMBSCpaF4z3JNrK1RL1jDM1+vYzhWs9fW/weqJM=;IC0HR64e053anL3ZlZGqGA=="
 ---

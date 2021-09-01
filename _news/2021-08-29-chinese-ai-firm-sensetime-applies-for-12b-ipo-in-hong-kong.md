@@ -40,22 +40,6 @@ related:
         width: 959
         height: 540
         isCached: true
-  - title: "SenseTime, artificial intelligence platform founded by CUHK professors, files to raise at least US$2 billion in Hong Kong IPO"
-    excerpt: "SenseTime Group , China’s largest artificial intelligence (AI) company, filed to go public in Hong Kong on Friday in one of the biggest technology offerings since Beijing cracked down on the country’s tech sector last month,"
-    publishedDateTime: 2021-08-27T16:15:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
-    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 77
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/28/df1bdd3e-04b5-11ec-a83e-ec0670db1017_image_hires_001515.jpg?itok=mC54EoqE&v=1630080929"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "FbtwjrEp0AzhCDZ3ofE6z5sLeBSf/Z7PzEnkZnEr2XX6NaiSptZIdWLEzDrDZu5jWKGRzwA+gCC6eerCW6RDnI7bR2rcOwYQhD2vcTqiSZT3p4lM7/QPJCp8nGm0IdNEeY6oKF3tsq8g65bempISffgUOwa6vhMopBwKUiT/ky53i7sncZ37B3BqtFqTuT+1OscR7xgAt3MiHWQ6J8xB2IrXDPnbVfa/SoifYhGaE1bvn/k70KOcbEv8TeUDiNaLUJ3o7tPVmRcch4yaa0ffDYprOqzxrUDq51SoK8xSc4HTNUVJwx/V+lTHOsvcTsex2ZjJ8a5vPYaOAPj0w+Y3fHPv/fvNDTLDj/QBs6R+aqM=;97k75YhzbxeIzXk6yhOOUg=="
 ---

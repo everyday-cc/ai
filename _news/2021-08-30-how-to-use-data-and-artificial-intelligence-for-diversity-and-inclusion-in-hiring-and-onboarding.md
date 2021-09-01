@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/use-data-artificial-intelligence-diversity-i
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/use-data-artificial-intelligence-diversity-inclusion-hiring-onboarding/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,77 +24,6 @@ images:
     width: 640
     height: 426
     isCached: true
-
-related:
-  - title: "Expanding human-robot collaboration in manufacturing by training AI to detect human intention"
-    excerpt: "Machines and robots undoubtedly make life easier. They carry out jobs with precision and speed, and, unlike humans, they do not require breaks as they are never tired."
-    publishedDateTime: 2021-08-27T15:52:00Z
-    webUrl: "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/expanding-human-robot.jpg"
-        width: 1249
-        height: 794
-        isCached: true
-  - title: "Patent Protection on AI Inventions"
-    excerpt: "In recent years, AI patent activity has exponentially increased. The figure below shows the volume of public AI patent applications categorized by AI component in the U.S. from 1990-2018. The eight AI"
-    publishedDateTime: 2021-08-30T23:06:00Z
-    webUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions"
-    ampWebUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/patent-protection-ai-inventions?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
-    images:
-      - url: "https://www.intellectualpropertylawblog.com/wp-content/uploads/sites/98/2021/08/111.gif"
-        width: 1906
-        height: 811
-        isCached: true
-  - title: "Spell Introduces Deep Learning Operations Platform To Reduce AI Training Costs"
-    excerpt: "Concept: NY’s MLOps platform provider Spell has announced the launch of an operations platform that includes the tools needed to train AI models using deep learning algorithms. ML algorithms are tuned for the platforms currently used to train AI models."
-    publishedDateTime: 2021-08-30T12:53:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 50
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/08/shutterstock_1698736867.jpg"
-        width: 500
-        height: 282
-        isCached: true
-  - title: "Investing in automation: Strategies manufacturing companies need to know"
-    excerpt: "Control Engineering - Learning Objectives Investing in automation and the Internet of Things (IoT) can help keep manufacturers ahead of the curve. Companies also need to"
-    publishedDateTime: 2021-08-29T05:02:00Z
-    webUrl: "https://www.controleng.com/articles/investing-in-automation-strategies-manufacturing-companies-need-to-know/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 23
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/PLEx_WEB_IMG_Cincinnati-Slider-1.jpeg"
-        width: 645
-        height: 350
-        isCached: true
-  - title: "Seeming Human: Artificial Intelligence and Victorian Realist Character"
-    excerpt: "Their definition of intelligence went beyond solving math problems to include what we might call subjectivity: creativity, tastes and preferences, self-awareness, and learned behaviors. We have come to call this artificial intelligence (AI), a term that ..."
-    publishedDateTime: 2021-08-28T09:34:00Z
-    webUrl: "https://www.jstor.org/stable/j.ctv1wbp6zx"
-    type: article
-    provider:
-      name: JSTOR
-      domain: jstor.org
-    quality: 17
 
 secured: "3VPljU89/EJQNJZX4XkrBe3H8FfTXo04BvjTEkvEtJM4Q3HkmMsHDNS/tq4NwG56h4nHxQsA+GlqAaoI39ocjl4akJZvzG6I8ayXR389ucchv/CjRfoKgDC3JvO+5b3D8pUd5bx3W7yXRnnCYCnjc5okMbiItuAPGYWNbNUvkB4Q7Cf9u7ZPvvw7wqZzQVptj0uwys+P9awytXWLyugl+xPT2FUCVyVYCETg2Ef+ymkQTvZyuStPzWouaCV6kUA9KElrYdZXEnJryp+JQYzCn4qgOpmcIc12GyYcKnVnaLbihiScf7yA24iZXlVyUpRW4qAkC+1OqpRVlxC7PdS/4UUu4AERhSJTRFQHc82JW2M=;8t9a82wAtFnnEOt5iWirTA=="
 ---

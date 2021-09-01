@@ -24,37 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "A New AI Technology Might Help Detect Gastric Cancer"
-    excerpt: "Each year, one million patients around the globe are diagnosed with stomach cancer. Can a new cancer-detecting AI help save lives?"
-    publishedDateTime: 2021-08-27T16:49:00Z
-    webUrl: "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/"
-    ampWebUrl: "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/"
+  - title: "New artificial intelligence tech set to transform heart imaging"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
+    publishedDateTime: 2021-08-31T17:02:00Z
+    webUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612914d1b76e70fd4b9d34e3%2F0x0.jpg"
-        width: 1128
-        height: 752
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-1.jpg"
+        width: 1920
+        height: 1920
         isCached: true
-  - title: "TECHNOLOGY: THE FUTURE OF ARTIFICIAL INTELLIGENCE"
-    excerpt: "Autonomous AI drone technology is bringing us closer and closer to a future that we so far saw depicted only in"
-    publishedDateTime: 2021-08-29T01:07:00Z
-    webUrl: "https://www.dawn.com/news/1643194"
-    ampWebUrl: "https://www.dawn.com/news/amp/1643194"
-    cdnAmpWebUrl: "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1643194"
+  - title: "How enabling data and AI at scale will transform your organization"
+    excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
+    publishedDateTime: 2021-08-29T08:32:00Z
+    webUrl: "https://www.computerworld.com/resources/223228/how-enabling-data-and-ai-at-scale-will-transform-your-organization"
     type: article
     provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 61
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
     images:
-      - url: "https://i.dawn.com/large/2021/08/612ab8270d40f.jpg"
-        width: 800
-        height: 480
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "New artificial intelligence tech set to transform heart imaging"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
+    publishedDateTime: 2021-08-31T13:46:00Z
+    webUrl: "https://www.miragenews.com/new-artificial-intelligence-tech-set-to-623195/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 37
+    images:
+      - url: "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1348&q=80"
+        width: 1348
+        height: 901
+        isCached: true
+  - title: "New AI Allows Physicians to Obtain Better Images of the Heart"
+    excerpt: "Researchers from University of Virginia Health System have developed an artificial intelligence technology for heart imaging – dubbed the Virtual Native Enhancement (VNE). The researchers said the AI technology could improve care for patients allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
+    publishedDateTime: 2021-08-31T18:36:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/new-ai-allows-physicians-obtain-better-images-heart"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug312021at22928PM.jpg"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "I3LGMeNCYvohrS7Mc0xx4pz6VzPW+zNqeEPozuCzkW5VnZjcaOVBsWoMVoQmtjAlZw2aD8Q7VXF3Zj5PZX9pX514kCFpTi3tGOQyLkHqb6bhb0hzCdAbcKOjbF/tBcbfs4EyFdxJrsFLfI2of2B0aqPLwSxT2IdTL7xxCHwBp1MzLahJHWq8nFZuNCZRNuZCFer1kZs/HonGV0U1MsPeqbeMR07X0lGPc3NiDHEstsW/PlNEkvaCei8Zw6e1wkxBEVujvEoonOsI/K0vz/yv8DqBEbQlmT/ZXOUixjSxvleRmafjWQxIHJ09n0pE7gsGCCuSLfPB7aFHWufxNCL3wo5ffgXDriRcKAoF2vuFrNs=;msnwp1LlRyDS9aY61JjKPw=="

@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-01T06:04:00Z
 originalUrl: "https://technofaq.org/posts/2021/09/how-does-tesla-use-artificial-intelligence/"
 webUrl: "https://technofaq.org/posts/2021/09/how-does-tesla-use-artificial-intelligence/"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://technofaq.org/wp-content/uploads/2021/09/charlie-deets-D1W5QenBzlU-unsplash-scaled.jpg"
@@ -41,6 +42,6 @@ related:
         height: 300
         isCached: true
 
-secured: "GGlusPKGC5jt3hsRLJweS7d/cx7LjyPNAbAJhEBUR2yTUjh8tut1wmrwzWNYzE71hDphtjmk269IXtQFrHlzXH+FFXUfAdkFCVT67Xw3DjkI8lICZf1uU6p06oHUa39I/CmI3zllDcv0BFYvSuJoc704MCTz7j4lNPKBbSnKEVbWuCqP0CdpiCouHZImFaMAefCLZUBcbIx8VlwgD99CQ0lDlPDJWp4/Eb3XIv6ZTIFk1efO9j1LUrgXuPofyMITh0yHU7F8Qmczek2OOhCHzWg3cYGMxbXcERZZGusuAZz8lD2enQB3X+0t4aYfkP0PJiggE7DZPkCoyfSka01Q9iKCXN7AGMoJ76J4aYpHPiI=;u5MorByjZyalBi3eJosHeA=="
+secured: "00s3nofT+FoPYvWv1dKqPQ36VSsoHxGbeG6sKN0mgdvYrenK/wbOMFAXWLGucMFK/K7/VUpXPDBLzhcQ7Rql2FynPWLv5ieq+0meUxryQgMDsnFz3eFUhdiCk83OedgDK5nYVfr2bE/ZvhD7oUuTFWUqtysYm/dKhidpmsuzSjDjeVn3W47yFowBxK7cAnXy98N/aYlcZqrSml3F+PpXnWLySCqCEUonN87Oj0ZcPmlQekmAuB/Na6k1PPO3yg8n5uAzg50s/vaa5+RSBjcleYVP1RJZkDSGcfHovc23PZsPiGiQDL7o6P22v108aiyWINKhFzh5fiuyjNAc9uwCDWiH5EI7aRipyvMb+2T0NfAa6mZaLa4wmCzg1UXFnWAdlZTYUE5jpHVSWKv0uI2V4qZxFqd2nexCzqzga/SwB/9gUy7SGxuwrSO3uzZ9fJ9Z9OqMbIgfWIG/w95w6cEqad05vwK1ioefbor52IDZnfIzPsEBY8sK678OgBVsNJsI/XXMJnj9GFHPewHDp9N27w==;5GpXHLqEYUWB0EqRq7MF4Q=="
 ---
 

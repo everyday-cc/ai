@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-23-robots-continue-to-drive-innovation-in-modern-transportation.md",
+      "title": "Robots Continue to Drive Innovation in Modern Transportation",
+      "excerpt": "Modern transportation wouldn’t be the same without robots, and the future will only serve to solidify this. Here’s how robots are pushing the transportation industry forward and where they could go from here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/story/2021/08/robots-continue-to-drive-innovation-in-modern-transportation/17335/",
+      "originalUrl": "https://www.roboticstomorrow.com/story/2021/08/robots-continue-to-drive-innovation-in-modern-transportation/17335/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.roboticstomorrow.com/images/upload/images/Depositphotos_171792660_original(2).jpg",
+          "width": 720,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-the-other-f-word-how-robot-developers-can-do-better-by-embracing-failure.md",
       "title": "The Other F Word: How Robot Developers Can Do Better By Embracing Failure",
       "excerpt": "With new applications for smart robots being created daily across every industry, and increasing interest in automation from executives at companies of every size, this is a great time to participate in the next wave of the digitization of labor.",
@@ -1379,50 +1422,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-young-chinese-turn-to-artificial-intelligence-for-online-romance.md",
-      "title": "Young Chinese Turn to Artificial Intelligence for Online Romance",
-      "excerpt": "Xiaoice is the most eligible bachelorette in China. Despite having millions of boyfriends, she is always open to new suitors.She also happens to be an artificial intelligence-driven chat bot.A conversation between Milly Zhang and her AI boyfriend,",
-      "sourceUrl": null,
-      "webUrl": "https://vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance.html",
-      "originalUrl": "https://vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vietreader.com/uploads/posts/2021-08/world_young-chinese-turn-to-artificial-intelligence-for-online-romance-2.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance/amp.html",
-      "cdnAmpWebUrl": "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/world/48514-young-chinese-turn-to-artificial-intelligence-for-online-romance/amp.html",
-      "publishedDateTime": "2021-08-15T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vietreader.com",
-        "domain": "vietreader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

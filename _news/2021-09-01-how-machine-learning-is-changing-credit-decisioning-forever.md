@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "The potential of deep learning in managing power networks"
-    excerpt: "Power networks worldwide are faced with increasing challenges. The fast rollout of distributed renewable generation (such as rooftop solar panels or community wind turbines) can lead to considerable unpredictability."
-    publishedDateTime: 2021-08-27T15:56:00Z
-    webUrl: "https://techxplore.com/news/2021-08-potential-deep-power-networks.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-potential-deep-power-networks.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-potential-deep-power-networks.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/powerlines.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Hybrid Deep-Learning and Machine-Learning Models for Predicting COVID-19."
     excerpt: "Currently, PCR is the most prevalent diagnosis tool for COVID-19. However, chest X-ray images may play an essential role in detecting this disease, as they are successful for many other viral pneumonia diseases."
     publishedDateTime: 2021-08-29T01:10:00Z

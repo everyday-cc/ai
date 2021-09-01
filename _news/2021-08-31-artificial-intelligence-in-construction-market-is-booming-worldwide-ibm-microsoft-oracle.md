@@ -43,6 +43,22 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Verizon, Microsoft launch private edge solution"
+    excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
+    publishedDateTime: 2021-09-01T08:28:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/verizon-5G-MEC-trial-footage.png"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Recent Survey on Automatic Speech Recognition Market 2021-2030 Key Players : Nuance, Microsoft, Alphabet, IBM, Sensory, Cantab Research"
     excerpt: "In recent years and especially due to the Covid-19 impact, the Global Automatic Speech Recognition Market has been through many ups and downs which have greatly impacted the business and the market players be it large or small."
     publishedDateTime: 2021-08-31T09:46:00Z
@@ -54,20 +70,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 24
-  - title: "Global $125+ Billion Database Management System (DBMS) Markets to 2026 with Oracle, Microsoft, IBM, SAP, Amazon AWS Dominating - ResearchAndMarkets.co"
-    excerpt: "The \"Global Database Management System (DBMS) Market Report and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global database management system (DBMS) market attained a value of approximately USD 63."
-    publishedDateTime: 2021-08-27T15:26:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=522548"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 16
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "rnrtCR1H23tklygSlaKOuW/05KoyQMn45X/1ND68sNyvoKftMPuN2l7jjkHf23bHk/hHnMXPE5gCdNBxsnH5ljK9zJZM6Df1D5mlORSDL59beJQdR5MMRq1MaFqw/zH2oaWjpDwHHMY5/7TiltlRLuq/YIjCYR+KbjH7iuvsMl/TJur8alh20Q7PtxAGtnxPr6cXkUcAN9c1wZjuMB4A5uSu6mtFGIeDQaH7nz3d69qTo49GnBJM2hv4+I46h9prJc/0kpRM7aQepAstqpqTm9SDv9n/XDXPGzsVm8NHI9XFKjDXpqwGLfWQSqN1/u5sA0bv3f7zz0niSG/uidr7DHjFJzJ4HYJoOl5rOWWbC55VRn6Ea8DoMft4TElCsXkKVA6Qutilo5q750vUkDyujPf624+s/Bv7s41BnqXj+cQ60KKDtlagfTRztT296swxKVctdp36rih1kAezW9q4I0DG6Gg/khuwEBOLy6Sy289EtSqH6O56z4nmNx/qsvujurzfbVa3/pThJV53WQrbaw==;FR5QDdWynVDmSQLdNhykEw=="
 ---

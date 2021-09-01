@@ -25,77 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "Expanding human-robot collaboration in manufacturing by training AI to detect human intention"
-    excerpt: "Machines and robots undoubtedly make life easier. They carry out jobs with precision and speed, and, unlike humans, they do not require breaks as they are never tired."
-    publishedDateTime: 2021-08-27T15:52:00Z
-    webUrl: "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp"
+  - title: "Using AI and Computer Vision to Reduce Misinformation on the Web"
+    excerpt: "The spread of misinformation via deepfakes, document manipulation and false narratives is fairly common on the internet today."
+    publishedDateTime: 2021-08-30T22:37:00Z
+    webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 63
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/expanding-human-robot.jpg"
-        width: 1249
-        height: 794
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_and_Computer_Vision_to_Reduce_Misinformation_on_the_Web.jpeg"
+        width: 1347
+        height: 600
         isCached: true
-  - title: "Patent Protection on AI Inventions"
-    excerpt: "In recent years, AI patent activity has exponentially increased. The figure below shows the volume of public AI patent applications categorized by AI component in the U.S. from 1990-2018. The eight AI"
-    publishedDateTime: 2021-08-30T23:06:00Z
-    webUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions"
-    ampWebUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/patent-protection-ai-inventions?amp"
+  - title: "Innovative AI and simulation tools used to reveal the inner workings of Sar-CoV-2 virus"
+    excerpt: "Argonne, industry and academia collaborate to bring innovative AI and simulation tools to the COVID-19 battlefront."
+    publishedDateTime: 2021-09-01T05:14:00Z
+    webUrl: "https://www.news-medical.net/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
     images:
-      - url: "https://www.intellectualpropertylawblog.com/wp-content/uploads/sites/98/2021/08/111.gif"
-        width: 1906
-        height: 811
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "How to use data and artificial intelligence for diversity and inclusion in hiring and onboarding"
-    excerpt: "Inexperienced leadership for a cohesive diversity and inclusion (D&I) strategy Insufficient data and tech infrastructure to measure impact of D&I strategies The popular adage you can’t manage what you don’t measure is best applied to D&I strategies."
-    publishedDateTime: 2021-08-30T07:19:00Z
-    webUrl: "https://www.dqindia.com/use-data-artificial-intelligence-diversity-inclusion-hiring-onboarding/"
-    ampWebUrl: "https://www.dqindia.com/use-data-artificial-intelligence-diversity-inclusion-hiring-onboarding/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/use-data-artificial-intelligence-diversity-inclusion-hiring-onboarding/amp/"
+  - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
+    excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
+    publishedDateTime: 2021-08-30T05:50:00Z
+    webUrl: "https://3quarksdaily.com/3quarksdaily/2021/08/irrationality-artificial-intelligence-and-the-climate-crisis.html"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
+      name: 3 Quarks Daily
+      domain: 3quarksdaily.com
+    quality: 37
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/12/artificial-intelligence-4417279_640.jpg"
-        width: 640
-        height: 426
+      - url: "https://3quarksdaily.com/wp-content/uploads/2021/08/RC152B10B550-768x511-1-360x240.jpg"
+        width: 360
+        height: 240
         isCached: true
-  - title: "Investing in automation: Strategies manufacturing companies need to know"
-    excerpt: "Control Engineering - Learning Objectives Investing in automation and the Internet of Things (IoT) can help keep manufacturers ahead of the curve. Companies also need to"
-    publishedDateTime: 2021-08-29T05:02:00Z
-    webUrl: "https://www.controleng.com/articles/investing-in-automation-strategies-manufacturing-companies-need-to-know/"
+  - title: "How artificial intelligence is ushering in the age of the science of negotiation"
+    excerpt: "But as artificial intelligence technologies mature, great benefits will be yielded in a business context. And nowhere is as ripe with opportunity as the field of commercial negotiation. In fact, artificial intelligence will accelerate the evolution of the ..."
+    publishedDateTime: 2021-08-31T14:04:00Z
+    webUrl: "https://www.bizcommunity.com/Article/224/706/219579.html"
     type: article
     provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 23
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 32
     images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/PLEx_WEB_IMG_Cincinnati-Slider-1.jpeg"
-        width: 645
-        height: 350
+      - url: "https://biz-file.com/c/2108/626014-546x364.jpg"
+        width: 546
+        height: 364
         isCached: true
-  - title: "Seeming Human: Artificial Intelligence and Victorian Realist Character"
-    excerpt: "Their definition of intelligence went beyond solving math problems to include what we might call subjectivity: creativity, tastes and preferences, self-awareness, and learned behaviors. We have come to call this artificial intelligence (AI), a term that ..."
-    publishedDateTime: 2021-08-28T09:34:00Z
-    webUrl: "https://www.jstor.org/stable/j.ctv1wbp6zx"
-    type: article
-    provider:
-      name: JSTOR
-      domain: jstor.org
-    quality: 17
 
 secured: "sSg0B7kUKhts+EUEcD/HTMq7xJXbX71zbZx/xS1phbgOjlEKmkJqboUFp6bYC46hqp3CmaD7e1ifoumVCWhOcfCXb2/19d5ROtSbac1Y3fgK5p4YduU5i7a0eE31i/cmHW9+SxRsMCmJatcjq8wwdoWO/xoLcuIcEfqInkiwIJo6BTnkjMSWNo65DuiroAaTd2VgTkPAR8HzIwoiQn8RKCyvOXkrwTvGZU0WExv1vJyldgl6GXNdPEl4q5bg3sNuRFhe+B4H9me18PCzuQh6dMDNmJITpE7jbTG67uUjCjtvOolg7yzT7gc9h/hnBs5bJMnB2G55wFsRqxtSLpZWNiz1V8ddcWkDblMiIUnJZ+lIf60/tvmCjIvwLwKXz8iMMWyHSzV1cqD5CDQZhFK4/UDjxF8JfVnkQrIMHtKiDDp6WsNRHLok44KRXcTog6B3G1COeurzLImbSgehcKDOdM7jjiYb+omECE8yIzNCCCNOTBpHXotzvi43qU8dN+2lf7WMFD3XWMrqfsc3yviGLg==;TdVMrHkgMu7QsTFKrIFGyA=="
 ---

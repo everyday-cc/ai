@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-ibm-announces-new-innovations-insi
 webUrl: "https://www.tmcnet.com/usubmit/-ibm-announces-new-innovations-insights-using-ai-cloud-/2021/08/27/9438653.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open"
-    excerpt: "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information ..."
-    publishedDateTime: 2021-08-27T16:01:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/"
+  - title: "Just announced: New Gigapixel AI v5.6 with Major usability improvements and faster performance (and save $32 using our code)"
+    excerpt: "Topaz announced the new Gigapixel update. And til September 14 you save $32 if you use our code “RUMOR” at checkout (Click here). Don’t forget you can also use the free trial if you want to test the results."
+    publishedDateTime: 2021-08-30T17:39:00Z
+    webUrl: "https://www.43rumors.com/just-announced-new-gigapixel-ai-v5-6-with-major-usability-improvements-and-faster-performance-and-save-32-using-our-code/"
+    ampWebUrl: "https://www.43rumors.com/just-announced-new-gigapixel-ai-v5-6-with-major-usability-improvements-and-faster-performance-and-save-32-using-our-code/amp/"
+    cdnAmpWebUrl: "https://www-43rumors-com.cdn.ampproject.org/c/s/www.43rumors.com/just-announced-new-gigapixel-ai-v5-6-with-major-usability-improvements-and-faster-performance-and-save-32-using-our-code/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/08/27/b9ce487a-48ab-430b-9889-61dc0b4c6291/match-insights-example-2.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "IBM Announces New Innovations and Insights using AI and Cloud technology for 2021 US Open"
-    excerpt: "IBM, the digital partner of the US Open, announced today new fan experiences leveraging artificial intelligence (AI) and"
-    publishedDateTime: 2021-08-27T16:40:00Z
-    webUrl: "https://www.enterpriseai.news/2021/08/27/ibm-announces-new-innovations-and-insights-using-ai-and-cloud-technology-for-2021-us-open/"
-    type: article
-    provider:
-      name: enterpriseai
-      domain: enterpriseai.news
+      name: 43 Rumors
+      domain: 43rumors.com
     quality: 30
     images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png"
-        width: 1598
-        height: 840
+      - url: "https://www.sonyalpharumors.com/wp-content/uploads/2021/08/Bildschirmfoto-2021-08-28-um-19.10.23.jpg"
+        width: 700
+        height: 329
         isCached: true
 
 secured: "D598QobEsjkz+N1pU0l7JWFa/rif0e+gahRuoYStQNDck1bGuGsGDvwDwJpv7iVVX+OO9nawTE88qGKUteREGc3mLoEr4SIFaqI4uGjvWcyLKnetNIqkitXq3NI+JnxulNYlUqnB7yGp3jxHBvbdOitcNiSqqokBEHmrhBTPC3bYSwAQlCym1hPhi6bPqjH8yKU7DibEcq5jXw5K1mc9wk2c7ZKbVZrNjHygRU+QAHRZ9FfaNg6M2hBCHLMFCFqHQFTyOyMqwjjaBgp7yCQQBdphDXyunAcqPAtcsio+nqL+TemuOtezI+/Y1rPABEEywN7z41CMKD1wR5Qozr4Ng8Y7rrVsZXLy61vdM0ucacw=;wHicetH49pWdMq9U+p7BFA=="

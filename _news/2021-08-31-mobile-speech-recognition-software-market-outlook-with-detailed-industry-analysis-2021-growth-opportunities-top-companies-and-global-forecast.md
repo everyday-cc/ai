@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognitio
 webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-outlook-with-detailed-industry-analysis-2021-growth-opportunities-top-companies-and-global-forecast-2027-2021-08-31"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -29,37 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) as a Service Market Size, Opportunities, Key Growth Factors, Revenue Analysis, For 2020–2027"
-    excerpt: "Global Artificial Intelligence AI as a Service Market is forecasted to grow at a rate of 45 6 from USD 1 73 Billion in 2019 to USD 34 1 Billion in 2027 according to a new report by"
-    publishedDateTime: 2021-08-27T16:24:00Z
-    webUrl: "https://www.openpr.com/news/2371713/artificial-intelligence-ai-as-a-service-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371713/artificial-intelligence-ai-as-a-service-market-size"
+  - title: "Global AI Translation Market 2021 Research on Import-Export Details, Business Standards and Forecast to 2026"
+    excerpt: "A new research market study report titled Global AI Translation Market 2021 by Company, Regions, Type and Application, Forecast to 2026 has been featured by MarketsandResearch.biz. The report delivers different segments on basis of product category,"
+    publishedDateTime: 2021-08-31T22:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-ai-translation-market-2021-research-on-import-export-details-business-standards-and-forecast-to-2026"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 47
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
     images:
-      - url: "https://cdn.openpr.com/U/8/U827435198_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/521899449c0c649b327d2721355b13037b7a6e6d-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Driving Factors, Key Players, Strategies, Trends, Forecast Till 2027"
-    excerpt: "The Global Artificial intelligence AI In Social Media Market size is estimated to reach USD 4 26 Billion from USD 797 Million in 2019 exhibiting a CAGR of 24 7 through 2027 The rapid evolution of social media platforms with"
-    publishedDateTime: 2021-08-27T16:45:00Z
-    webUrl: "https://www.openpr.com/news/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
-    ampWebUrl: "https://www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2371710/artificial-intelligence-ai-in-social-media-market-revenue"
+  - title: "Global Trade Surveillance Systems Market Forecast to 2028: Opportunities in the Integration of Technologies such as Artificial Intelligence and Machin"
+    excerpt: "The \"Trade Surveillance Systems Market Forecast to 2028 - COVID-19 Impact and Global Analysis by Component (Solutions and Services), Deployment (On Premise and Cloud), and Organization Size (SMEs and Large Enterprises)\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-30T09:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=522713"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://cdn.openpr.com/U/8/U827883715_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "Ju7wza/7y6x29oP0FmHtLRhXzHqsYKuipxnS42TPB7ftB/E/e075PU6PqdWjMUpCaqEHUgQajUYdsybKTftGr6wKuSgavyQC5XtiFQEWrhKWbpRxBwhvj3uKFBO8DsngMq8zUNRJLnZY/wlY1nUEM4SY2ZlI7E4gKTNFHjXsNg2Gf9cupuhfiv1aTLslEXZQJ59wBAcstAeWzWYaFdcs0ePbc29bWok6NSJ9RJWjI+a/Uc6onaF5IfgOnfY3QS4mMN8uWaYetl89f28PNj9G0JbTj4+e8v3L8Uo9IEB6AmxO13VmSDSaiWFZ61zp8Kl1I0a1h5rGhkmp1RFUAtfoWM866yltyXgwvqctX3huNJA=;q9ZCE29KmDBC0d9NEV6G7w=="

@@ -41,20 +41,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Enable scalable, highly accurate, and cost-effective video analytics with Axis Communications and Amazon Rekognition"
-    excerpt: "With the number of cameras and sensors deployed growing exponentially, companies across industries are consuming more video than ever before. Additionally, advancements in analytics have expanded potential use cases, and these devices are now used to improve business operations and intelligence. In turn,"
-    publishedDateTime: 2021-08-27T16:46:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-scalable-highly-accurate-and-cost-effective-video-analytics-with-axis-communications-and-amazon-rekognition/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/27/Axis-Diagram.png"
-        width: 1222
-        height: 531
-        isCached: true
   - title: "Army Testing Facial Recognition in Child-Care Centers"
     excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
     publishedDateTime: 2021-08-30T20:32:00Z

@@ -33,7 +33,7 @@ related:
     provider:
       name: technofaq.org
       domain: technofaq.org
-    quality: 56
+    quality: 58
     images:
       - url: "https://technofaq.org/wp-content/uploads/2021/09/charlie-deets-D1W5QenBzlU-unsplash-scaled.jpg"
         width: 2560

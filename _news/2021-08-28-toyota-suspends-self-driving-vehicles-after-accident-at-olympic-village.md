@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Toyota suspends all self-driving vehicles at Paralympic Games after collision with athlete"
+    excerpt: "Toyota Motor Corporation announced the immediate halt to all e-Palette self-driving pods at the Tokyo Paralympic Games following a collision."
+    publishedDateTime: 2021-08-27T17:58:00Z
+    webUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/"
+    ampWebUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 64
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2021/08/Toyota-E-Palette.png?w=1000"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Collision With Paralympic Athlete Forces Toyota To Halt Self-Driving Bus Service In Olympic Village"
     excerpt: "The autonomous vehicles had been specially designed to cater to the needs of both olympians and paralympians, utilizing Level 4 self-driving technology."
     publishedDateTime: 2021-08-29T03:09:00Z
@@ -120,22 +136,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/76210da7aefc01c2d73d58fe68f0a10b0c18c7b0/0_184_5710_3426/master/5710.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a2c025ff647f8cd2c7d09b4c6ffea270"
         width: 600
         height: 360
-        isCached: true
-  - title: "Self-Driving Bus Hits Pedestrian at Tokyo Olympic Village"
-    excerpt: "On Thursday afternoon, one of the self-driving shuttle buses operating at the Tokyo Olympic village crashed into a Paralympian while they were crossing the street. In this case, it’s not clear that the bus was at fault."
-    publishedDateTime: 2021-08-27T16:08:00Z
-    webUrl: "https://futurism.com/the-byte/self-driving-bus-pedestrial-olympic-village"
-    ampWebUrl: "https://futurism.com/self-driving-bus-pedestrial-olympic-village/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-bus-pedestrial-olympic-village/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2021/08/toyotabus-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "A Self-Driving Bus Has Hit A Paralympian At The Tokyo Olympic Village"
     excerpt: "There are always consequences of using autonomous vehicles…. Earlier this week, a visually impaired Paralympian was hit by one of the self-driving shuttle buses around Tokyo Olympic Village which resulted in leg and head injuries. The autonomous bus was ..."

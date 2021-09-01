@@ -33,20 +33,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Enable scalable, highly accurate, and cost-effective video analytics with Axis Communications and Amazon Rekognition"
-    excerpt: "With the number of cameras and sensors deployed growing exponentially, companies across industries are consuming more video than ever before. Additionally, advancements in analytics have expanded potential use cases, and these devices are now used to improve business operations and intelligence. In turn,"
-    publishedDateTime: 2021-08-27T16:46:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-scalable-highly-accurate-and-cost-effective-video-analytics-with-axis-communications-and-amazon-rekognition/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/27/Axis-Diagram.png"
-        width: 1222
-        height: 531
-        isCached: true
   - title: "Playing catch-up to the early adopters of analytics, AI and machine learning"
     excerpt: "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
     publishedDateTime: 2021-08-30T13:00:00Z

@@ -56,7 +56,7 @@
       "originalUrl": "https://www.technologynetworks.com/neuroscience/articles/privacy-in-the-brain-the-ethics-of-neurotechnology-353075",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -554,7 +554,7 @@
       "originalUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -700,7 +700,7 @@
       "originalUrl": "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -827,6 +827,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-amazon-ai-weighs-optimization-options-for-gnns.md",
+      "title": "Amazon AI Weighs Optimization Options for GNNs",
+      "excerpt": "Many of the largest retailers and social networks are seeing a narrowing path for scaling of AI training capabilities. Hardware and software optimizations",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/",
+      "originalUrl": "https://www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/ab_network-graph-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/amp/",
+      "publishedDateTime": "2021-08-30T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1009,7 +1053,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1093,58 +1137,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-10-things-in-tech-you-need-to-know-today.md",
-      "title": "10 things in tech you need to know today",
-      "excerpt": "Amazon entered the BNPL space, T-Mobile customers frustrated by security breach, and Google shuttered another app: 10 things in tech you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/612c0ecb12b9cc00196345f4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
-      "publishedDateTime": "2021-08-30T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

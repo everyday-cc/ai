@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-27-cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet.md",
+      "title": "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet",
+      "excerpt": "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
+      "originalUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/cruise-solar.png?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
+      "publishedDateTime": "2021-08-26T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-recognize-celebrities-in-images-and-videos-using-amazon-rekognition.md",
+      "title": "Recognize celebrities in images and videos using Amazon Rekognition",
+      "excerpt": "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg",
+          "width": 1645,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T15:13:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says.md",
       "title": "US federal agencies plan to increase facial recognition use, GAO report says",
       "excerpt": "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition.",
@@ -650,19 +755,19 @@
     {
       "path": "_news/2021-08-26-speech-and-voice-recognition-market-worth-220-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
       "title": "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method,",
+      "excerpt": "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deploymen",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-22-0-billion-by-2026---exclusive-report/article_67539741-fbee-5521-b738-da897b0680d0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-22-0-billion-by-2026---exclusive-report/article_67539741-fbee-5521-b738-da897b0680d0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
+          "width": 669,
+          "height": 229,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -675,8 +780,8 @@
       "publishedDateTime": "2021-08-26T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1076,101 +1181,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-five-ways-artificial-intelligence-will-change-the-b2b-marketing-industry-in-the-next-four-years.md",
-      "title": "Five Ways Artificial Intelligence Will Change The B2B Marketing Industry In The Next Four Years",
-      "excerpt": "CEO of Demand Science, a buyer intelligence platform that accelerates demand gen for the world's largest software, tech & B2B companies. The rhetoric surrounding artificial intelligence (AI) as the panacea for solving business problems has created some skepticism among marketers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/08/26/five-ways-artificial-intelligence-will-change-the-b2b-marketing-industry-in-the-next-four-years/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/08/26/five-ways-artificial-intelligence-will-change-the-b2b-marketing-industry-in-the-next-four-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/08/26/five-ways-artificial-intelligence-will-change-the-b2b-marketing-industry-in-the-next-four-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/08/26/five-ways-artificial-intelligence-will-change-the-b2b-marketing-industry-in-the-next-four-years/amp/",
-      "publishedDateTime": "2021-08-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-teslas-full-self-driving-system-not-great-admits-musk.md",
-      "title": "Tesla's Full Self Driving system 'not great,' admits Musk",
-      "excerpt": "Tesla CEO Elon Musk has admitted that the Full Self-Driving system is not that great, adding that the company is trying for a single tech platform for both highway and city streets to make",
-      "sourceUrl": null,
-      "webUrl": "https://www.sentinelassam.com/international/teslas-full-self-driving-system-not-great-admits-musk-551968",
-      "originalUrl": "https://www.sentinelassam.com/international/teslas-full-self-driving-system-not-great-admits-musk-551968",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.sentinelassam.com/h-upload/2021/08/26/250768-elon-musk.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sentinelassam.com/amp/international/teslas-full-self-driving-system-not-great-admits-musk-551968",
-      "cdnAmpWebUrl": "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/international/teslas-full-self-driving-system-not-great-admits-musk-551968",
-      "publishedDateTime": "2021-08-26T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "sentinelassam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

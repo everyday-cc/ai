@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-23-opensource-gui-tool-for-opencv-and-deeplearning.md",
+      "title": "OpenSource GUI Tool For OpenCV And DeepLearning",
+      "excerpt": "AI and Deep Learning for computer vision projects has come to the masses. This can be attributed partly to the community projects that help ease the pain for newbies. [Abhishek] contributes one ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
+      "originalUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/02/monkai_feat.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-the-us-army-is-using-a-controversial-facial-recognition-technology-that-uses-images-from-social-media-to-identify-people-documents-show.md",
+      "title": "The US Army is using a controversial facial-recognition technology that uses images from social media to identify people, documents show",
+      "excerpt": "Clearview claimed the test used the \"same basic methodology\" the ACLU used to test Amazon's Rekognition system in 2018. At one point, Clearview mentioned the results of the report on its public website, but it has since removed all references. \"There's a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/clearview-ai-facial-recognition-us-army-cid-criminal-command-tech-2021-8",
+      "originalUrl": "https://www.businessinsider.com/clearview-ai-facial-recognition-us-army-cid-criminal-command-tech-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/611fbb651c47770019e69273?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-arab-bank-to-back-egyptian-fintech-ai-and-cybersecurity-startups.md",
+      "title": "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups",
+      "excerpt": "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
+      "originalUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
+      "publishedDateTime": "2021-08-22T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.md",
       "title": "Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud",
       "excerpt": "Home » Artificial intelligence » Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud Lex Fridman has a very successful podcast but he has been an AI researcher for 6+ years.",
@@ -982,145 +1120,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-ai-weekly-ai-research-still-has-a-reproducibility-problem.md",
-      "title": "AI Weekly: AI research still has a reproducibility problem",
-      "excerpt": "QMIX is a popular algorithm that implements CTDE, and many research groups claim to have designed QMIX algorithms that perform well on difficult benchmarks. But a new paper claims that these algorithms’ improvements might only be the result of code optimizations or “tricks” rather than design innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
-      "originalUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
-      "publishedDateTime": "2021-08-20T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-elon-musk-says-tesla-will-produce-humanoid-robot-to-help-build-cars.md",
-      "title": "Elon Musk says Tesla will produce humanoid robot to help build cars",
-      "excerpt": "The \"Tesla Bot\" is a natural step because the company's vehicles are \"like semi-sentient robots on wheels,\" the CEO said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/elon-musk-says-tesla-will-produce-humanoid-robot-help-build-n1277348",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/elon-musk-says-tesla-will-produce-humanoid-robot-help-build-n1277348",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 276,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500579/210820-tesla-mb-1.jpg",
-          "width": 4000,
-          "height": 2666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277348",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277348",
-      "publishedDateTime": "2021-08-20T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-the-value-when-tesla-bot-shows-up-to-work.md",
-      "title": "The Value When Tesla Bot Shows Up to Work",
-      "excerpt": "Waymo, Huawei, Baidu, Boston Dynamics ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.50.41-PM-1024x495.jpg",
-          "width": 1024,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
-      "publishedDateTime": "2021-08-20T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

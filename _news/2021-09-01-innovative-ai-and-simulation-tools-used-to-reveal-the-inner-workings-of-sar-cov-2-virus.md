@@ -40,6 +40,20 @@ related:
         width: 1347
         height: 600
         isCached: true
+  - title: "Spell Introduces Deep Learning Operations Platform To Reduce AI Training Costs"
+    excerpt: "Concept: NY’s MLOps platform provider Spell has announced the launch of an operations platform that includes the tools needed to train AI models using deep learning algorithms. ML algorithms are tuned for the platforms currently used to train AI models."
+    publishedDateTime: 2021-08-30T12:53:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 50
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/08/shutterstock_1698736867.jpg"
+        width: 500
+        height: 282
+        isCached: true
   - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
     excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
     publishedDateTime: 2021-08-30T05:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ywang/2021/08/31/sensetime-chinese-prof
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/08/31/sensetime-chinese-professor-set-to-join-billion-ranks-as-his-ai-company-files-to-go-public/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "SenseTime, artificial intelligence platform founded by CUHK professors, files to raise at least US$2 billion in Hong Kong IPO"
-    excerpt: "SenseTime Group , China’s largest artificial intelligence (AI) company, filed to go public in Hong Kong on Friday in one of the biggest technology offerings since Beijing cracked down on the country’s tech sector last month,"
-    publishedDateTime: 2021-08-27T16:15:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
-    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3146708/sensetime-artificial-intelligence-platform-founded-cuhk"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 77
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/28/df1bdd3e-04b5-11ec-a83e-ec0670db1017_image_hires_001515.jpg?itok=mC54EoqE&v=1630080929"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
     excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
     publishedDateTime: 2021-08-29T13:43:00Z

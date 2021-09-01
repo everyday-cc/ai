@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-tout
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Forbes
@@ -31,65 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Chances Of Collisions Involving Urgently Underway Police Cars And AI Self-Driving Cars"
-    excerpt: "Regrettably there are going to be instances of urgently underway police cars that collide with self-driving cars, though there are means to try and reduce those chances."
-    publishedDateTime: 2021-08-27T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
+  - title: "A secret weapon for self-driving car start-ups — humans"
+    excerpt: "Self-driving start-ups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature — human operators. While there is no driver behind the wheel, the passenger seat is occupied ..."
+    publishedDateTime: 2021-08-29T19:35:00Z
+    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
+    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
+    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: The Daily Dispatch
+      domain: dispatchlive.co.za
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60722c4f3955ebfd3665bef7%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D4511%26cropY1%3D440%26cropY2%3D2845"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Toyota suspends all self-driving vehicles at Paralympic Games after collision with athlete"
-    excerpt: "Toyota Motor Corporation announced the immediate halt to all e-Palette self-driving pods at the Tokyo Paralympic Games following a collision."
-    publishedDateTime: 2021-08-27T17:58:00Z
-    webUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/"
-    ampWebUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2021/08/Toyota-E-Palette.png?w=1000"
+      - url: "https://lh3.googleusercontent.com/RBxm5pwg7FlRW0ZRr5l9jQtr_kX9vAf9DXWWl6-xC8bWd9LnWmrSVCuKJKIzghcfs-j6usLRb39XqP-pL0CuviFjiDTVdPLIDm8=s1000"
         width: 1000
-        height: 500
-        isCached: true
-  - title: "Aurora debuts next-generation self-driving hardware"
-    excerpt: "Self-driving truck startup Aurora Friday announced the development of its next generation of hardware. The company is targeting a commercial debut of the hardware in pilots this year and with the launch of the company’s trucking and ride-hailing businesses to follow in 2023 and 2024,"
-    publishedDateTime: 2021-08-27T17:20:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15114247/aurora-readies-debut-of-nextgeneration-selfdriving-hardware"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 24
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/08/Peterbilt___Sienna__1_.61291a46a170d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Challenges that self-driving cars are facing"
-    excerpt: "The road to the future is a long and winding one as self-driving car companies try to get their driverless cars to go mainstream. While self-driving cars are the way of the future officials say it's just taking a little longer for the future to be fully realized."
-    publishedDateTime: 2021-08-27T18:42:00Z
-    webUrl: "https://www.wral.com/challenges-that-self-driving-cars-are-facing/19845953/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 24
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/national_world/national/2021/08/27/19845954/132237-self-driving-DMID1-5s0j0zz7n-640x480.jpg"
-        width: 640
-        height: 480
+        height: 562
         isCached: true
 
 secured: "F/pVYD4CWuH1Kx+A8HgFtj6AFEE2zfVf9merlHE6h2MZ1JdfRkUS6x0nHGPY2oC0EmpqfDf974qWvztXd9tVMYd/jpQdVr9pGBjL0HK35l7gypFsPr4p0IDYE5Ao42LqfZwFVdRLLwGFrTeIwAWLdsEgl8BVaKUH9HybS5A9FB0HRmu6MVfhydrnPRXP1yMwN7jJtCiL8eoq5zH6rwvp8Y3fgSpw0pUr0+gz1dwsH9BEusumRfqWHArsQFSZJf6lWxRxFQXDOw77BvUTa4zxRhlDN8HHuDXdp6ARUOWl5uf8pshaAo461Dpt2vuoXqldXMGZzdelj+6dvD2+MPhJtrplLkikamLH5bt3KKeaOZL/cKMp3Y6+4YSBtYoWhjKLnEi8uUB7lsMDF5D7SiWRL+HvRtf1YXdxhjNgaB9AEgg1s7p18ZqJrMXs8udbJVzko7HHkg205ydflyCOJqHmFwo241wGGQvRDETFK0oGbesfaOqY0H595bHZ/8pcFKlZ7vA9Bl7M9Dxm5YkFr8kSOA==;4uC9jydf10OXir6GFQutEw=="

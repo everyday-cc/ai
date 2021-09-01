@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-24-tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark.md",
+      "title": "Tesla To Be The Most 'Deeply Integrated Automative Company' In The World With AI Day Plans Fully-Implemented, Says Ark",
+      "excerpt": "If Tesla Inc (NASDAQ: TSLA) manages to fully implement its AI Day agenda, it would become the most deeply integrated “automotive company” in the world, as per Ark Invest.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark-1030754545",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark-1030754545",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/milan-csizmadia-d0v_dqo_xum-unsplash_5_1.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-bln-valuation.md",
       "title": "Baidu's AI voice assistant Xiaodu closes funding at $5.1 bln valuation",
       "excerpt": "Chinese tech giant Baidu Inc (9888.HK) said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation.",
@@ -1396,58 +1449,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars.md",
-      "title": "City Leaders: Here’s Why Urban Tourism Could Skyrocket Due To AI Self-Driving Cars",
-      "excerpt": "Tourism is significant to the economic wellbeing of cities, and we might see a boon in urban tourism due to the advent of AI-based true self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c144d2530a533d7e1f280%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1534%26cropY1%3D29%26cropY2%3D892",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

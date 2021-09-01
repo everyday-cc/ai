@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 624
         isCached: true
-  - title: "Stitching Open Source Components Together to Build an End to End Computer Vision Platform for Your Enterprise"
-    excerpt: "The three authors are speaking at ODSC. Be sure to check out their talk, “Stitching Open Source Components Together to Build an End to End Computer Vision Platform for Your Enterprise,” there! Imagine a scenario where you just got into a meeting with your senior leadership team."
-    publishedDateTime: 2021-08-27T15:49:00Z
-    webUrl: "https://opendatascience.com/stitching-open-source-components-together-to-build-an-end-to-end-computer-vision-platform-for-your-enterprise/"
-    type: article
-    provider:
-      name: Open Data Science
-      domain: opendatascience.com
-    quality: 20
-    images:
-      - url: "https://opendatascience.com/wp-content/uploads/goliath/APAC_40%25RE_BLOG_300x250.png"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "5GwxvES5BnKlGdU6YRHbPfcekEnkI5r8/7Ry5uC69UEnV8Vqg78wrY/uZbKyc+J0pXbK3mtB3/KMys/IIRVM1S9gltCD1byRxkE3Hk3Q6QKwxFRiN3VnBz5Q4Ngz19ItXkY/YLBxQT1M2TGaWSnFeOPSAPA4Lu+t0PNaMK12ZMSfcAxnojQk2k85034A9PE3MBIEq5zazVqKP1j+XFkWI59BTluZLWPAauFCbVz+Lm6DpBBbeLHZMUlnLcVFgLsXml/Deb8t3p5L/nRBaEerENw4DnbXLw7tymgn9KHktcYaUJs4ZF3EWRYscnU0c5kM2Xk++dJVI6VXq9P87LLZNYK4uTQPBAPm98ywznxq7K0t7Vf16MC6IV5sOgzMVcZdTvyC312DCBo+TXnzIlAEt9LOfdCf5fdbawLHMnQKgMDAkquMwuFIrxEhZpfZoL2Up6o6yuM2llpk0kOtAYN+enbd8vED4jSs1FIZk0S/z6BxwLViM3BXi3m/fN2H8Ok3TALL0+pa6+F7Cl/0ujvl1Q==;e2nHBi5cVpnp+qkhb8IO/Q=="
 ---

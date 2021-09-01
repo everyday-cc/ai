@@ -24,28 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Operating System Market by Technology Advancement and Business Outlook 2021-2026"
-    excerpt: "MarketInsightsReports recently published a research report called Robot Operating System Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study of geographic regions"
-    publishedDateTime: 2021-08-31T11:55:00Z
-    webUrl: "https://www.openpr.com/news/2374811/robot-operating-system-market-by-technology-advancement"
-    ampWebUrl: "https://www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
+  - title: "Mobile Speech Recognition Software Market Outlook with Detailed Industry Analysis 2021: Growth Opportunities, Top Companies and Global Forecast 2027"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Mobile Speech Recognition"
+    publishedDateTime: 2021-08-31T10:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-outlook-with-detailed-industry-analysis-2021-growth-opportunities-top-companies-and-global-forecast-2027-2021-08-31"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
-  - title: "Global Artificial Intelligence in Radiotech Market 2021 Latest Advancements and Business Outlook-Siemens Healthineers, GE Healthcare"
-    excerpt: "The rise in demand has resulted in increased investment throughout the world, which is a major driver of the Artificial Intelligence in Radiotech Market growth. The market’s expansion is aided by the industry’s continued focus on R&D efforts in the ..."
-    publishedDateTime: 2021-08-27T22:14:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-in-radiotech-market-2021-latest-advancements-and-business-outlook-siemens-healthineers-ge-healthcare/"
-    ampWebUrl: "https://manometcurrent.com/global-artificial-intelligence-in-radiotech-market-2021-latest-advancements-and-business-outlook-siemens-healthineers-ge-healthcare/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-in-radiotech-market-2021-latest-advancements-and-business-outlook-siemens-healthineers-ge-healthcare/"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Trade Surveillance Systems Market Forecast to 2028: Opportunities in the Integration of Technologies such as Artificial Intelligence and Machin"
+    excerpt: "The \"Trade Surveillance Systems Market Forecast to 2028 - COVID-19 Impact and Global Analysis by Component (Solutions and Services), Deployment (On Premise and Cloud), and Organization Size (SMEs and Large Enterprises)\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-30T09:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=522713"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 23
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "CTSXhAJbJrYnNngb9dlR94GajOzHZGVBoQ5erZB25LsuDPI1H8BEklpT4EnloiigFaVBzj9BeF/+v7rK/ycTPwE9PfDtTvtZHnJFP487ZB3SUqgqZAF4htxQjrAlDhswWbBS+zLITrBvGunRqSR7i2Jn81WCBrOC69ycUxvV3EVs8L/ZYluxRfT3djaeRcip5K93u0mFzl+AhhvL63QGZ13uIgQjHtsdomN1SE2vNEZRvG2j0ZdjC0eqiMtvDDT1z3cbxCJnXERIMIh1Ch0WHC41tStoHlfAgZKR+Oy674arLlEAgPsjk2+j4138IzvfKxKJzEjCRtttA3fd7BlW6G4jjeRCwm1ZcAMcQ8pQogc=;B19dTSlTr0NojkL5dP5ezw=="
 ---

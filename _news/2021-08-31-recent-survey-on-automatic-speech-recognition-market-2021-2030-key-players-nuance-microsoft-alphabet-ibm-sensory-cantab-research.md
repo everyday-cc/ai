@@ -54,19 +54,21 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Global $125+ Billion Database Management System (DBMS) Markets to 2026 with Oracle, Microsoft, IBM, SAP, Amazon AWS Dominating - ResearchAndMarkets.co"
-    excerpt: "The \"Global Database Management System (DBMS) Market Report and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global database management system (DBMS) market attained a value of approximately USD 63."
-    publishedDateTime: 2021-08-27T15:26:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=522548"
+  - title: "Verizon, Microsoft launch private edge solution"
+    excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
+    publishedDateTime: 2021-09-01T08:28:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 16
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/verizon-5G-MEC-trial-footage.png"
+        width: 650
+        height: 400
         isCached: true
 
 secured: "YAyTtaN/fP6hXBpGXcxuBt09749I7Yy6sVHDRG4bYZyjp6JYvT27ZWnPP7uVGGr0eIKitIeczzNd/5pUOeYSQJJULU3P/IYPfQDhQ68NqcBVCa6wBPt42F93ADgxxUtyu01pV0TtToi8O2yrlN09eDkUhU3XJb4n3zghnRK3g4i16tuXygbV1Vht/+JTthgWgnLenFDrRSHnFd4LOWV4kKinmIDt5AnaDsKJVAwiPdU/rsM1KXQanGe5cM9OfgnluXUoo3rKsfs6sH1d7DfJmSNfleQ04YJPui79B2RLxEzRpYCRVewnpyy67lpXT1EM7GcquyStZ3LpuDKemUswpY0bFI+WuLrdntlquse+Wow=;oxE5hEig4aif2R1SuMRjFg=="

@@ -40,6 +40,20 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "How enabling data and AI at scale will transform your organization"
+    excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
+    publishedDateTime: 2021-08-29T08:32:00Z
+    webUrl: "https://www.computerworld.com/resources/223228/how-enabling-data-and-ai-at-scale-will-transform-your-organization"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "New artificial intelligence tech set to transform heart imaging"
     excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
     publishedDateTime: 2021-08-31T13:46:00Z
@@ -53,6 +67,20 @@ related:
       - url: "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1348&q=80"
         width: 1348
         height: 901
+        isCached: true
+  - title: "New Artificial Intelligence Technology Poised to Transform Heart Imaging"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
+    publishedDateTime: 2021-08-31T19:36:00Z
+    webUrl: "https://www.miragenews.com/new-artificial-intelligence-technology-poised-623368/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 36
+    images:
+      - url: "https://news.virginia.edu/sites/default/files/inline_1_chris_kramer_05hr_da.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "v4u67fQNbfXnOEd/6zbyDy7liwi91XuGrxaX1OSwxBVB2jQr5xqKarHqCU8wmsM2IKYys/zUIJzm1MFQkeFCNhEwiS21IiB32bi3FCxgbkB/q+O1FJlkkzKplBSzeiLNqekUoTO/X7YntNfl4bG5xHVqm+4A7+x1MhL5v67mWL1TYzLIjOdK2REq9F97Iyj3oXn74fkY6fhYvZuEXJLhKh7AyJPmHBou9W7yxbQCzOs2IDxD/EB4HDFgiemYdeC6IZZPzUDOFFeBFgUqFGPVrQAUyJess24k+DbnKi77NePaNSndz/RbUcRFHw8X8eIq8OE0N9t9VmusB9IDUdN3YAoSzyQnn4vUzlfW4NXGLanzidG0WHE9Y96a4KuH9OVpYTB0csPeXC2aOi83PH3Ji2deTgkCbwCNmCjA+BqHwlw9Sj5O6lOGwyHmL1duOfOpuVZFjdCHMqKGaRGk+6Su0zxwM45Sk/kIhUsPSaQiVNEVv3sHt0FG5WfRYErlHyyyIUnV9Gpu7YjXHSn9/FifIA==;gPQ38woWOajkMW8ZZl8waA=="

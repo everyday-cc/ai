@@ -2,6 +2,109 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-08-24-kapacityio-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate.md",
+      "title": "Kapacity.io is using AI to drive energy and emissions savings for real estate",
+      "excerpt": "Y Combinator-backed Kapacity.io is on a mission to accelerate the decarbonization of buildings by using AI-generated efficiency savings to encourage electrification of commercial real estate — wooing buildings away from reliance on fossil fuels to power their heating and cooling needs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/",
+      "originalUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Kapacity_founders.jpeg?w=1024",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/amp/",
+      "publishedDateTime": "2021-08-23T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-ai-roi-computer-vision.md",
+      "title": "AI ROI: Computer Vision",
+      "excerpt": "Computer vision is now a reality. Get immediate business value like improved quality and reduced losses from the practical AI deployment platform, Chooch AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
+      "originalUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-a-secret-weapon-for-self-driving-car-startups-humans.md",
       "title": "A secret weapon for self-driving car startups: Humans",
       "excerpt": "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators.",
@@ -257,6 +360,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-robots-continue-to-drive-innovation-in-modern-transportation.md",
+      "title": "Robots Continue to Drive Innovation in Modern Transportation",
+      "excerpt": "Modern transportation wouldn’t be the same without robots, and the future will only serve to solidify this. Here’s how robots are pushing the transportation industry forward and where they could go from here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/story/2021/08/robots-continue-to-drive-innovation-in-modern-transportation/17335/",
+      "originalUrl": "https://www.roboticstomorrow.com/story/2021/08/robots-continue-to-drive-innovation-in-modern-transportation/17335/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.roboticstomorrow.com/images/upload/images/Depositphotos_171792660_original(2).jpg",
+          "width": 720,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1080,144 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-opensource-gui-tool-for-opencv-and-deeplearning.md",
-      "title": "OpenSource GUI Tool For OpenCV And DeepLearning",
-      "excerpt": "AI and Deep Learning for computer vision projects has come to the masses. This can be attributed partly to the community projects that help ease the pain for newbies. [Abhishek] contributes one ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
-      "originalUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/02/monkai_feat.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-the-us-army-is-using-a-controversial-facial-recognition-technology-that-uses-images-from-social-media-to-identify-people-documents-show.md",
-      "title": "The US Army is using a controversial facial-recognition technology that uses images from social media to identify people, documents show",
-      "excerpt": "Clearview claimed the test used the \"same basic methodology\" the ACLU used to test Amazon's Rekognition system in 2018. At one point, Clearview mentioned the results of the report on its public website, but it has since removed all references. \"There's a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/clearview-ai-facial-recognition-us-army-cid-criminal-command-tech-2021-8",
-      "originalUrl": "https://www.businessinsider.com/clearview-ai-facial-recognition-us-army-cid-criminal-command-tech-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/611fbb651c47770019e69273?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-arab-bank-to-back-egyptian-fintech-ai-and-cybersecurity-startups.md",
-      "title": "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups",
-      "excerpt": "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
-      "originalUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
-      "publishedDateTime": "2021-08-22T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

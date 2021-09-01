@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
 type: article
 quality: 57
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How enabling data and AI at scale will transform your organization"
+    excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
+    publishedDateTime: 2021-08-29T08:32:00Z
+    webUrl: "https://www.computerworld.com/resources/223228/how-enabling-data-and-ai-at-scale-will-transform-your-organization"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "New artificial intelligence tech set to transform heart imaging"
     excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
     publishedDateTime: 2021-08-31T13:46:00Z
@@ -53,6 +67,20 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug312021at22928PM.jpg"
         width: 770
         height: 400
+        isCached: true
+  - title: "New Artificial Intelligence Technology Poised to Transform Heart Imaging"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
+    publishedDateTime: 2021-08-31T19:36:00Z
+    webUrl: "https://www.miragenews.com/new-artificial-intelligence-technology-poised-623368/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 36
+    images:
+      - url: "https://news.virginia.edu/sites/default/files/inline_1_chris_kramer_05hr_da.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "7VlfGeF8tBJH/YCdm9tycRPUmNUQao+eJNkdpXd04B0vrDQMYb83PlpyaKQFyfSJ2hIPbDEGsQpm/XRgEEeaENBWmKFoImW8vJRpt4RrOptKfB6pqqHxz36p4udXYYliHLbZmbP4E7g/w9mmxMUyGqTNpSrl6Jv95BGtRbzzgQAlxA0frnQ+xZ2KSwEF/0w+pugXylffNeMWgCOFRplJm8auxprf2FUS7ohExlsRk7R46550n7VA3Qtd0Ome/Sr89M5PwroSUyaM+/4YXzvQBv2X+AeM75cGgxMvdo87dTXi6WYWj2wU2m51pb07OSjjip2+DjUy/oxEbvbUbvo2FEbfHKeQ+kcILVyEl/XfTazwqzqMNY83clhg0SVzErIaD3EpwKsYMKmWW2KlIblGuno7ui0WkxKZaRej5tzWcS98W6XX8A2Mcw7G60XraVPMqxiEf1eoi/JBsR7q6L5VhrdQ3Kr5qvFZzqZMx83Viq8cJdNLevabL2U6NR6i5O5Vjk6gEITBsxMYhjp4acL81A==;sG6BeuZscsq4GCgL5eUmUQ=="
