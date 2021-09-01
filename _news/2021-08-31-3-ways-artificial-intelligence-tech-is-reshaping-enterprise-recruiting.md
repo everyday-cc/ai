@@ -70,6 +70,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "AI + Augmented: Pushing the Limits of What Machines Can Do"
+    excerpt: "Among these, the application of AI attracts perhaps the greatest attention due to its potential impact on the future of manufacturing automation. Less frequently mentioned, but equally important, is augmented intelligence."
+    publishedDateTime: 2021-09-01T18:42:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21174112/ai-augmented-pushes-the-limits-of-what-machines-can-do"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 39
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2021/09/augmented_intelligence.612fc8cb6813d.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
+        isCached: true
 
 secured: "ZNu6BWxih3Ft77eP/fo65lXNNECDvJk6kmF4iooIEwWnnht5olCfGyrdy1+zxYNK/Qvxx5qpls7/HQOIBgXdaIb699jAd1+2GwqyTp9mTGikyvVBrc5s0Jchss7d3XEk9VJSJ5N+p7s67WuCqpsRJP6wsigwgxXoKe+EBT8tfQ9UhbOepW03FecPrqnZhK7vdDviq8zH4QoVeQbS72XuQNgOSqnvNUuyspevEG4cT45RyVZ8fskj9uDQbVLQLpZc0Hkf9vOJWzjKvLXc7aFabr15V8FCcOQEaSMNkD4eE1IyDYu5oPcXfAhUrCJFGGGdny6n6QDwSfx0JynHleIOtuewmctM3t/M5LlaBeFFVi5tz0N5Nesfc8H5x3Anr01j1bj+f9p38YTwfAsc5Jg9pj6y1tX9om3+TsztMpkDms1I2uj24+R39uUk5Iq6n6WDW/QRUhJko3c39HOrP8lqcU8EjBvdKeJ72CXmuy/MjrpkTYFN+0+GWTfxnHFkxID91uBPbAyHhJ/5WedYQ2AG1Q==;xnuoC148+vdfY7L/CuMOnQ=="
 ---

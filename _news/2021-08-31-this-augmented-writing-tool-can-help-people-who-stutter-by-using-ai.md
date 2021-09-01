@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-hel
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1038824.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "AI + Augmented: Pushing the Limits of What Machines Can Do"
+    excerpt: "Among these, the application of AI attracts perhaps the greatest attention due to its potential impact on the future of manufacturing automation. Less frequently mentioned, but equally important, is augmented intelligence."
+    publishedDateTime: 2021-09-01T18:42:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21174112/ai-augmented-pushes-the-limits-of-what-machines-can-do"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 39
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2021/09/augmented_intelligence.612fc8cb6813d.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
         isCached: true
   - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
     excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."

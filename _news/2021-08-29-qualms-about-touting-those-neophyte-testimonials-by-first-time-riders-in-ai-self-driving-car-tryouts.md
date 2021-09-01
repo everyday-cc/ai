@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-tout
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://lh3.googleusercontent.com/RBxm5pwg7FlRW0ZRr5l9jQtr_kX9vAf9DXWWl6-xC8bWd9LnWmrSVCuKJKIzghcfs-j6usLRb39XqP-pL0CuviFjiDTVdPLIDm8=s1000"
         width: 1000
         height: 562
+        isCached: true
+  - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
+    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
+    publishedDateTime: 2021-09-01T19:37:00Z
+    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
+    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 38
+    images:
+      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
+        width: 1600
+        height: 1042
         isCached: true
   - title: "Will self-driving cars cause driving to be illegal?"
     excerpt: "In an opinion that may not be popular among the masses, IDTechEx’s new data forecasts that by 2040, self-driving cars will be capable of fulfilling mobility worldwide without accidents. By 2050, manual driving could be outlawed."

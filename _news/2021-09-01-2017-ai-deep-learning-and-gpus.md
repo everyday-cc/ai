@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning
 webUrl: "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

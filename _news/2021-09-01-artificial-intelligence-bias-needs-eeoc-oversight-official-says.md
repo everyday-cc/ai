@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Bias Needs EEOC Oversight, Official Says"
 excerpt: "Artificial intelligence tools in hiring have so far remained unregulated by U.S. civil rights agencies, despite growing use and potential discrimination risks. One EEOC official wants that to change."
 publishedDateTime: 2021-09-01T16:18:00Z
-originalUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-bias-needs-eeoc-oversight-official-says"
-webUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-bias-needs-eeoc-oversight-official-says"
+originalUrl: "https://news.bloomberglaw.com/privacy-and-data-security/artificial-intelligence-bias-needs-eeoc-oversight-official-says"
+webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/artificial-intelligence-bias-needs-eeoc-oversight-official-says"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 369
     isCached: true
 
-secured: "Y3T7hhw/FUYhodD3ftpc9BnMcbgg9aUOoeQOAjbwYCqPPAYWBHaMupY/AxSaLgIh2vh7TFE7m1gG1a8Ot8Wzeul1oLu6nsu1BcTAFkzqdwlx6k1qeYsDxOoA0/L85MBXaCK6oy3xSQwrGCqO+x3T7B3ZEvRuNdeSeKGWAWg+U+FwKUKhuQYcX7O7gZf9ibIHM31l2QYp/K7Q4yoAXEiivA1laIWL0GNPMFay0MLnGZSdZj2YF7WO9Gf3x9sWYTaeEOkFUpSSLn2XrEqE/LqkrAP/TZyTkTmr03ZxKaBV7j9NB0/QwU02CXe5CPByh7jO1tMY4mYnWSzaupVscXpw3JawXv0hqtoVSrMhxfjeCyU=;aKaSWZOR/ApOLwB6YjTXCw=="
+secured: "Yu6SknGKrv441jjQyye/7haqN0JyBaFtwemIsjmQnCsLoX8gcWT1ddj3w79i0ndpjWhejl2RAaq22BukdxhQCd7HffGBmO9J9/NyZlpsZ7WriIx0mpRK9RNQ7MJaZeQYrFcXYXwFEjgHJ4rxbGzfId1TY1pPoyyDb6Tb4mNQmr4sPznMpXh3lT4UXVvBdH6g0DY6jIB9pUVts7XYYy7ues5Ynvo0kjQnlE052i1uyapBystDAmDT6IEIj2jqS0Tacce9AX/tJGyh0i7RHxBETv0W/f2PAwMN5ZCVHDbtIwNTU7eLMIB6eL80hp+/zB9CXskTRiW6ns/VdjpJVjZIbDZ7twk+5Qv5PRfecmWD/Jc=;lomjAz58D5hgRIWY6zdi2g=="
 ---
 

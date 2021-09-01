@@ -40,6 +40,20 @@ related:
         width: 1402
         height: 578
         isCached: true
+  - title: "AnChain.AI raises $10M to monitor crypto and digital assets"
+    excerpt: "AnChain.AI, a blockchain security company that monitors crypto and digital assets, today announced it has raised $10 million in new funding led by SIG Asia Investments LLLP on the heels of being awarded a multiyear contract with the Securities and Exchange Commission."
+    publishedDateTime: 2021-09-01T17:22:00Z
+    webUrl: "https://siliconangle.com/2021/09/01/anchain-ai-raises-10m-monitor-crypto-digital-assets/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/web-4687387_1920-geralt-pixabay.jpeg"
+        width: 1920
+        height: 1077
+        isCached: true
 
 secured: "mdxXAioh0zqCVbIGt/+Ruyk8AXzuvo+aLsqAlHttBIAHwJpX6cOF5ZuYNLNsRg0j8Lmynzyr2fVoT3okOEEN0Vg4kYQrm6kJZvw66UamG5PjrRbccw+8k3zcV1qrWldx94gZjubS44LON4CSwzJ3jhn0b0WGRIeatcmvDrQgMlH2CdvtdPbj5/iPqeb6so85u+yxksUHTMQitt4e/ghjOAJCQFIv1jnV062EOgreSEZyY/aFiqwYDyFrAFi0KzQ7af3eDZJ7WKAbuQxdgXcgF2TXgPkU46TBMw/vcJRZ+9UhOR6dYXzQXShG9kcihF+Jrr4X7n3jY4yA/jaVRBK5A0bAI2OqxUAf5GAxh+N2oRM=;lV/5Pgz1VEThx3JpxinRqA=="
 ---

@@ -51,6 +51,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
+    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
+    publishedDateTime: 2021-09-01T19:37:00Z
+    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
+    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 38
+    images:
+      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
+        width: 1600
+        height: 1042
+        isCached: true
 
 secured: "NhwT5E6q0erOvJF0GZ8V3K7xNN0xUjiV0unHv0SgPvfI4lr1YibKbzZtvd3L6vI7nbEwwY56R1zVIDHWla6zg3YUHO4D37hZY9rsigm+IieMfpyNq5cDtC3ohdan3Exdx/2H8C//+4O9Kk0C8GfJb6EWM8ZW+QUoFDQdhq0DFB08Rv+mamlJbJXOGfuVLsqNSZLt/6Mg5u+vSiwBuHG0JVuefidoSgNU0rdIHKMtwePbQau+nzDp08Qhmx9sWnzE0WekNV3j/WTlmI7443Rip8GfkIxvYiwY60NJKm4Pp8HC7km4/UyD7Anz7pkJ3k/xwGTRTnv0aYJ6NCJxdBvp7jC9NWP/X4stGBMUB7pGfOg=;263gniLUelLd9lmInpbuaQ=="
 ---

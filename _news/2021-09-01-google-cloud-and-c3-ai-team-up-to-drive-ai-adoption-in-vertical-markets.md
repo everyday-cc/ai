@@ -35,6 +35,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Google Cloud and C3 AI Join Forces to Accelerate Enterprise AI"
+    excerpt: "C3 AI and Google Cloud have announced a partnership to help organizations across multiple industries accelerate their application of AI solutions. 'Combining the innovation, leadership, scale, and go-to-market expertise of Google Cloud with the substantial business value delivered from C3 AI applications,"
+    publishedDateTime: 2021-09-01T18:47:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Google-Cloud-and-C3-AI-Join-Forces-to-Accelerate-Enterprise-AI-148755.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Cloud and C3 AI Create Industry-First Alliance to Accelerate Enterprise AI"
     excerpt: "C3 AI and Google Cloud today announced a new, first-of-its-kind partnership to help organizations across multiple industries accelerate their application of artificial intelligence (AI) solutions. Under the agreement,"
     publishedDateTime: 2021-09-01T13:22:00Z

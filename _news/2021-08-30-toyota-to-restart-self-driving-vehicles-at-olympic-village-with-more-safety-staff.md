@@ -101,22 +101,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Toyota pauses Paralympics self-driving buses after one hits visually impaired athlete"
-    excerpt: "Japan’s Aramitsu Kitazono was left with cuts and bruises after being hit by the e-Palette vehicle at the athletes’ village"
-    publishedDateTime: 2021-08-28T02:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/aug/28/toyota-pauses-paralympics-self-driving-buses-after-one-hits-visually-impaired-athlete"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/aug/28/toyota-pauses-paralympics-self-driving-buses-after-one-hits-visually-impaired-athlete"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/aug/28/toyota-pauses-paralympics-self-driving-buses-after-one-hits-visually-impaired-athlete"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 52
-    images:
-      - url: "https://i.guim.co.uk/img/media/76210da7aefc01c2d73d58fe68f0a10b0c18c7b0/0_184_5710_3426/master/5710.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a2c025ff647f8cd2c7d09b4c6ffea270"
-        width: 600
-        height: 360
-        isCached: true
   - title: "A Self-Driving Bus Has Hit A Paralympian At The Tokyo Olympic Village"
     excerpt: "There are always consequences of using autonomous vehicles…. Earlier this week, a visually impaired Paralympian was hit by one of the self-driving shuttle buses around Tokyo Olympic Village which resulted in leg and head injuries. The autonomous bus was ..."
     publishedDateTime: 2021-08-29T17:45:00Z

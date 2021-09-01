@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Arctic Wolf Selects AWS to Power Global Cybersecurity Offering at Scale"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that Arctic Wolf Networks has selected AWS as its primary cloud provider to power the company's innovative, cloud-native security operations platform."
+    publishedDateTime: 2021-09-01T13:18:00Z
+    webUrl: "https://www.lelezard.com/en/news-19977858.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Reinventing cybersecurity with artificial intelligence"
     excerpt: "As traditional company barriers broke down, and remote working became the norm, the threat landscape rapidly changed, bringing cybersecurity to centre stage for every digital organisation. To be resilient in this hybrid working paradigm,"
     publishedDateTime: 2021-08-31T07:05:00Z
@@ -39,15 +53,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Arctic Wolf Selects AWS to Power Global Cybersecurity Offering at Scale"
-    excerpt: "Arctic Wolf achieves AWS Level 1 Managed Security Service Provider (MSSP) designation in AWS Partner Network Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Arctic Wolf Networks has selected AWS as its primary cloud provider to power the company’s innovative,"
-    publishedDateTime: 2021-09-01T13:04:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/09/01/arctic-wolf-selects-aws-to-power-global-cybersecurity-offering-at-scale"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 19
   - title: "Sequitur Labs Joins AI Day to Address IoT Cybersecurity"
     excerpt: "Sequitur Labs announced today its CEO Phil Attfield will present on Embedded AI Systems and Software at Embedded Computing Design's (News - Alert) online event AI Day,  9, 2021. AI Day features education and thought leadership on compelling AI-related products and technologies for the engineering and design community."
     publishedDateTime: 2021-09-01T12:06:00Z

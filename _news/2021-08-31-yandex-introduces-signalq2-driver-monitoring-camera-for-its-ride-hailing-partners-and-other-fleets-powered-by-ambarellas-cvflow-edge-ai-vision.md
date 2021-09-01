@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14343744-yandex-intr
 cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14343744-yandex-introduces-signalq2-driver-monitoring-camera-for-its-ride-hailing-partners-and-other-fleets-powered-by-ambarella-s-cvflow-edge-ai-vision-soc"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Ambarella Analysts Laud Accelerating Computer Vision Momentum Following Blowout Q2"
+    excerpt: "Morgan Stanley analyst Joseph Moore maintained an Overweight rating and $137 price target for Ambarella shares. Rosenblatt Securities analyst Kevin Cassidy maintained a Buy rating and increased the price target from $145 to $160."
+    publishedDateTime: 2021-09-01T19:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2-1030774303"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/camera-3376230_1920_0.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "lnIE+kqhT9zyg7tgmBJPJ90Z3lwA8XYbNfvSapfx9ggG8XXuwggJ4HJQeC38zyHoMkW+mCbGzVHb1j2GgJxR2Gal0syrZ5bSzd4uvE+WxqlcA5cPQROv+oqO7EWWn8m+2/KUJJPU404LkMIxMBQ30sgBP2pAXy2Rjfzl5jz2ni79BWD3UJkzjznrx0TdyTz96qy0R9osN+x6TycpSIatdwTfK4Qak47cHyN9gNj/7BmFNGd2aNbA5LwiJjSYYMlQHXADV2qMCQUFaS3O9l3DYsCiTdDgKPre5j+zW2nvH52LRLPmOIG3TQha4Wbw6OO68ceqOAWuIPaMzWjImkzM0zdc9AG6FY4Mvyo11IVctv4=;vtm1Q140DbUs9uG26SEPfA=="
 ---

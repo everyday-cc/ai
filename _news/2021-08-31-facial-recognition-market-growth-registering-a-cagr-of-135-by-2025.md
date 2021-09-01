@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2375485/facial-recognition-market-growth-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Automotive Voice Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "6.2 North America Automotive Voice Recognition Revenue by Application (2016-2026) 6.3 North America Automotive Voice Recognition Market Size by Country 6.3.1 North America Automotive Voice Recognition Revenue by Country (2016-2026) 6.3.2 United States ..."
-    publishedDateTime: 2021-08-28T02:30:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4818187-global-automotive-voice-recognition-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "tl1Ibz+UP2BanphW3I2O/nZER2hTL0UDxiIEtmxHyG/VhgJ4Dxq9EJQD7DfFhE9kOI6lfH8VkBD2dGWmtW15xCD/2u7LMPXvTK77BJECx+/QE15NRk3LrRUDIsvcDhBscm/a273rVdXV5a8Jsw7lD8vXIqJBbamr4nas+qBugSVQ18/7Vxpx+9rLhvvjEOdQhR6EDnRxImDM95NYqpyESFTwAEPNcsQc/etkuPWhXYywgmFuRxDWpbg7wllZUHnC8bWOe5MUwN9MKzuWZync7F0z2sgZdgtCuDbeZd6GgXc5CXLCk5ZjrA0CsQMz6kiscjIxfCPFKoSNH9tzgnrfRllvwDCMccioJVQxqC03b9aI/JcZs/GKSeoR/oAA/kREop0tswEmnygCIkb/9qCBwR+nR0DWZUFreD2EabZz67WLilI8+9JBvejFosACZa76s6UCGxZdGGLpePu8T5iCOVU1LuaWKm3pOrqEH8kP6UYs1Htu9xOGSeWgY5+THgkRbups8Ryx2Ak2nypprJ35/A==;/r9lULqZ6uyxJsb5phEE9Q=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Arctic Wolf Selects AWS to Power Global Cybersecurity Offering at Scale"
-excerpt: "Arctic Wolf achieves AWS Level 1 Managed Security Service Provider (MSSP) designation in AWS Partner Network Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Arctic Wolf Networks has selected AWS as its primary cloud provider to power the company’s innovative,"
-publishedDateTime: 2021-09-01T13:04:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/09/01/arctic-wolf-selects-aws-to-power-global-cybersecurity-offering-at-scale"
-webUrl: "https://stockhouse.com/news/press-releases/2021/09/01/arctic-wolf-selects-aws-to-power-global-cybersecurity-offering-at-scale"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that Arctic Wolf Networks has selected AWS as its primary cloud provider to power the company's innovative, cloud-native security operations platform."
+publishedDateTime: 2021-09-01T13:18:00Z
+originalUrl: "https://www.lelezard.com/en/news-19977858.html"
+webUrl: "https://www.lelezard.com/en/news-19977858.html"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Reinventing cybersecurity with artificial intelligence"
@@ -57,6 +63,6 @@ related:
         height: 300
         isCached: true
 
-secured: "voJSgYb9g/nCosaCYl+56dahJ8lXoKaCaYnqs9UpmyNHmWDpbauobKtFPSV9jtsiFUMiVMXL79iG9773KCNGkB9VVTT5oLua7KTzu+RrB9+vUr+WeuxEyf+aeAyWkIn+zgroiLciy9f6+rGLOjbee2HDDRhFOkd6Oqq3CHetiBWvfNqL5f60QAN9eSvk+N4IGZC6lCvkNxk8OoDnjrHDiaM87MtWSSjnQQDSYuFXNZqaVMhGodGRwJCTfCJd9AUugSH/CpyC4V2v7quNdfGFEF2c7NBCP0iyGk2oL0oqMhI5Jezwa6KqRhdF7Ey8gUoyFgcFpWJTQAleXgX0pJHVeMCkgWR2BvCa7TrKyOTdxnQ=;CwGMGeH6gUcZ9WulIDrbIw=="
+secured: "cD1DBR6VemJ2blRFXtwv5cvzJNNZGnRIpAAMK6cI1/76lyvfYwDEkqMAy0jVGhGtjtsk/2xQ2yE3TdrCf4AKmaVDEON6CHyAuN48gbNFmRC7JvFMJvJHJz0KZh0s9jLbykZWgMFKv0rhsNgqkj0y6KVPWuPMABj9Qx8/K6o9zwKjBpslwCi4Rp6GSRgj5dvlvH1TGv+lFZoMYCFjiz5heyDz7IIfQD0OxoeeoSL72mzZUPzs+LT41m5tgPlHD3jsZyPEE8mGe0gEG1lqvcL53ZnusLIr8lviNSdqNzprdXl3DaESaSvR/6DDazaZiVkIyGg4XDIO4xG2X9X+WzvB2fRBTB5IYqMU0bWSaznbOEc=;kE/JXB/vd96e+enukgf3zw=="
 ---
 
