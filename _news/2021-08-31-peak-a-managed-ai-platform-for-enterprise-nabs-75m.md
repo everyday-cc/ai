@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/31/peak-a-managed-ai-platform-for-en
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/31/peak-a-managed-ai-platform-for-enterprise-nabs-75m/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 138
 published: true
 
 provider:

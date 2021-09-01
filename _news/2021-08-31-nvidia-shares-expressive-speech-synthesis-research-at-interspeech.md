@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 544
         isCached: true
+  - title: "Nvidia AI Speech With Complex Rhythm and Tone"
+    excerpt: "Human speech has musicality. Everyone may not talk like Martin Luther King Junior or rap like people in the play Hamilton, but there is rhythm and tone."
+    publishedDateTime: 2021-08-31T20:47:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-30-at-9.02.57-AM-1024x512.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Nvidia Aims vSphere-Integrated AI Software Suite at Enterprise Market"
     excerpt: "The AI leader has designed the software together with VMware to make AI easier for both data scientists and enterprise IT pros."
     publishedDateTime: 2021-08-30T13:49:00Z

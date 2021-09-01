@@ -44,6 +44,20 @@ related:
         width: 6567
         height: 4378
         isCached: true
+  - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
+    excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."
+    publishedDateTime: 2021-08-31T22:36:00Z
+    webUrl: "https://www.channelfutures.com/mobility-wireless/verizon-microsoft-officially-make-private-edge-compute-solution-available"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 52
+    images:
+      - url: "https://www.channelfutures.com/files/2021/04/5G-security-challenges-1024x678.jpg"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
     excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
     publishedDateTime: 2021-08-30T20:42:00Z

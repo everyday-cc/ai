@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror"
 type: article
 quality: 87
-heat: 100
+heat: 97
 published: true
 
 provider:

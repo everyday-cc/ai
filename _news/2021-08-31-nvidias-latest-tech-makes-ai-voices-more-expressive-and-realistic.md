@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voice
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia AI Speech With Complex Rhythm and Tone"
+    excerpt: "Human speech has musicality. Everyone may not talk like Martin Luther King Junior or rap like people in the play Hamilton, but there is rhythm and tone."
+    publishedDateTime: 2021-08-31T20:47:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-30-at-9.02.57-AM-1024x512.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "NVIDIA shares expressive speech synthesis research at Interspeech"
     excerpt: "Developers and creators can access state-of-the-art conversational AI models for expressive speech synthesis to generate voices for characters, virtual assistants and personalized avatars."
     publishedDateTime: 2021-08-31T14:58:00Z

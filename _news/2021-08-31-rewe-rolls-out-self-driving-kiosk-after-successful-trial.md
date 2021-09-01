@@ -2,11 +2,11 @@
 category: news
 title: "REWE Rolls Out Self-Driving Kiosk After Successful Trial"
 excerpt: "German retailer REWE is rolling out its 'Snack Mobil' after more than 200 successful test kilometres.Europe's first self-driving kiosk will supply passers-by with"
-publishedDateTime: 2021-08-31T12:23:00Z
-originalUrl: "https://www.esmmagazine.com/retail/rewe-rolls-self-driving-kiosk-successful-trial-144886"
-webUrl: "https://www.esmmagazine.com/retail/rewe-rolls-self-driving-kiosk-successful-trial-144886"
-ampWebUrl: "https://www.esmmagazine.com/amp/retail/rewe-rolls-self-driving-kiosk-successful-trial-144886"
-cdnAmpWebUrl: "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/retail/rewe-rolls-self-driving-kiosk-successful-trial-144886"
+publishedDateTime: 2021-08-31T12:29:00Z
+originalUrl: "https://www.esmmagazine.com/technology/rewe-rolls-self-driving-kiosk-successful-trial-144886"
+webUrl: "https://www.esmmagazine.com/technology/rewe-rolls-self-driving-kiosk-successful-trial-144886"
+ampWebUrl: "https://www.esmmagazine.com/amp/technology/rewe-rolls-self-driving-kiosk-successful-trial-144886"
+cdnAmpWebUrl: "https://www-esmmagazine-com.cdn.ampproject.org/c/s/www.esmmagazine.com/amp/technology/rewe-rolls-self-driving-kiosk-successful-trial-144886"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,6 @@ images:
     height: 245
     isCached: true
 
-secured: "KjwE+jjyVCYLsIqZwA9ZFrxw9XA5tlQUxEYdcT7vGmKjHTScWiIx6YXJl45DFOUBelc73aph42FbG682XVk54N6bpUi81PYFW9oMrmnmxSMr5CQ04iHn8arPk7LUW+CVBT+XtbnO4PecJ8tpqlKMQRPlMyRWssWjenBhPkSXymxexhiNPbFVmvR3J1wZvzPvBfp7RdsZw6wVuexYB7XSA2DCzjjaLjw5sZGE4y/8Iu2eO2RZvOgfI7V1w9wQxCBK26agwCdW4zFrpIyQ3hEBVHUSickSiJ8ci2+hz200RMLFgFBbkdyExkp8bjRXf5Z7poHrzDlGupTFGUBCGx9p/OfNH94IP73lx4a4EWu1wPVN0CYJ1NLQtOXCw4dUTuhqnwMjfUDHGJxEtbNcn0YUUbtEVka2vFnpRgDZQcQQIMdqG1RztQ1Br2g5z/ZrnQFD1D2idsaAYoTeETQblJpIl4n0zL+c0Jk9R/NyNChbzGBswO7Heg6B4cG6tfOmStfGhl/fYYzPczhIFeZm1EZTaw==;5Lh82/2j7THPqztqThu1jg=="
+secured: "z33yhmTLvtXBweYNlxxmCwa6oKIZ3bXb85VWzLwoVwwHVqt5SV90bVCUTuPmbqg4QnPR+Tt6fHEHkTw+MOts6IBr+9HGCEpxDxhl1jxaqj1RsEzW8RgBIECGIDcDisyH66vZHUzvuGn9KapoZNmv291kO5qkmaLGTJYeoWtBU3dk9xXlXDWoHscdqCjtq3bTIPey5q1DYpLeWAT6oAyEbVSy4NeUoN6BmWWlW1Sr27WOcnTh4AwYbIX2TM5AUm+1HzNDhZ8lk3FcV+yvs694sf8MoSKKN007C8lamfuir2U2HE9S/ULMe7DjCki/wOgFdpWsHJEWP+ijRsM5a/w0E48cuLR8ZmQba57B6nZOXLQ=;M3pPVBiPjcOY8L/YtqaWFQ=="
 ---
 

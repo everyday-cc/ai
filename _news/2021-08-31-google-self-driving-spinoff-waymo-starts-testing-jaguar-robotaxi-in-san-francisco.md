@@ -9,7 +9,7 @@ ampWebUrl: "https://losangeles.cbslocal.com/video/5943687-google-self-driving-sp
 cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/5943687-google-self-driving-spinoff-waymo-starts-testing-jaguar-robotaxi-in-san-francisco/?amp"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo launches rider testing for self-driving cars in San Francisco"
-    excerpt: "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app."
-    publishedDateTime: 2021-08-27T05:24:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 59
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Alphabet’s Waymo to stop selling lidar self-driving car sensors"
     excerpt: "Waymo told Reuters that it is now focusing on deploying its Waymo Driver technology across its Waymo One ride-hailing and Waymo Via trucking operations."
     publishedDateTime: 2021-08-28T19:27:00Z
