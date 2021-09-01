@@ -52,20 +52,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Research reveals potential of deep learning in managing power networks"
-    excerpt: "Power networks worldwide are faced with increasing challenges. The fast rollout of distributed renewable generation (such as rooftop solar panels"
-    publishedDateTime: 2021-08-27T14:36:00Z
-    webUrl: "https://www.miragenews.com/research-reveals-potential-of-deep-learning-in-621496/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/13-08-2021-IOM-Guatemala-migrant-children-2.jpg/image770x420cropped.jpg"
-        width: 770
-        height: 420
-        isCached: true
   - title: "Hybrid Deep-Learning and Machine-Learning Models for Predicting COVID-19."
     excerpt: "Currently, PCR is the most prevalent diagnosis tool for COVID-19. However, chest X-ray images may play an essential role in detecting this disease, as they are successful for many other viral pneumonia diseases."
     publishedDateTime: 2021-08-29T01:10:00Z

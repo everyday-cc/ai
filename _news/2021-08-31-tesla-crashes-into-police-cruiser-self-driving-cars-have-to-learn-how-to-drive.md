@@ -59,20 +59,6 @@ related:
         width: 1280
         height: 827
         isCached: true
-  - title: "Tesla's Full Self-Driving Tech 'Not Great'"
-    excerpt: "And based on comments made last year, Musk gave the impression that full self-driving was coming up fast. That’s why it was even more surprising when Musk Tweeted on Monday that Tesla’s latest full self-driving beta version 9."
-    publishedDateTime: 2021-08-27T14:42:00Z
-    webUrl: "https://www.manufacturing.net/video/video/21627305/musk-teslas-full-selfdriving-tech-not-great"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/MM_259_Thumb.6126549164c0b.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Llm3h6aiWp6XY7WOr8V7lQhB1+pY0tP/fC7TZxzKTeHTsy4S+XZZdA/POLjGZ/xBqvJ0nh1OioopVFjHnJTDLMnUQXzrsrPGMbG3khCdm68fWB3ZfKFz4XLchfA9JwcFB6R2+A6Q+2dJZiMnokiMhJFpDmbETxZVHPjY7X5Bqv/wIpuX3UUUJvSTRUV+MB8rkFiy+WZD4+byOzlJ78AZik15cyPvtfGWyzaXCEp0gINriO6ERUHor10J1V759EIHcnL6TjQRGF78FGgtzktdCEb+N79lYdN79lEeZ3X9+FU2LazIvfj/BRNAarBpfJde03SfEZShTGd4m31w0Fx2z6aMZGYSED7AAS1jpMdbVDx0lTf/nWJFg1sZeGkU6BeCqVCgVhsiYWROgeDppOK9ajLBwxqCgs0WVK2aPhulxpy4daWMHIqdiMMn8f/wiF2sfjx7Fiyu357+IDtDnNn/F5MbJl0HIV5jYm6f9of56IE74KnVj8QVCMS6prRe7cvyx4FOsxzCEw+sjH/hROSaRQ==;Va9FU/OVCQQ6jgI24Ql5Zw=="
 ---

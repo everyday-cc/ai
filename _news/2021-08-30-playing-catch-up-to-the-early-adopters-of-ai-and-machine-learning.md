@@ -7,7 +7,7 @@ originalUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
 webUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 54
+    quality: 71
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_for_DoD.png"
         width: 800

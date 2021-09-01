@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Researchers bring innovative AI and simulation tools to the COVID-19 battlefront"
+    excerpt: "In its on-going campaign to reveal the inner workings of the Sar-CoV-2 virus, the U.S. Department of Energy's (DOE) Argonne National Laboratory is leading efforts to couple artificial intelligence (AI) and cutting-edge simulation workflows to better understand biological observations and accelerate drug discovery."
+    publishedDateTime: 2021-09-01T07:43:00Z
+    webUrl: "https://techxplore.com/news/2021-09-ai-simulation-tools-covid-battlefront.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 32
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/argonne-collaborations.jpg"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Mayo Clinic, nference AI studies find antibody treatment may reduce hospitalization in high-risk COVID cases"
     excerpt: "After kicking off the new year by expanding their year-old data analytics-based research collaboration, Mayo Clinic and nference’s union continues to bear fruit."
     publishedDateTime: 2021-08-30T15:49:00Z

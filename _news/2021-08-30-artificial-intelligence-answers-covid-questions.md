@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
 type: article
 quality: 61
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.uottawa.ca/gazette/sites/www.uottawa.ca.gazette/files/ghassan-jabbour-1200x628.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Researchers bring innovative AI and simulation tools to the COVID-19 battlefront"
+    excerpt: "In its on-going campaign to reveal the inner workings of the Sar-CoV-2 virus, the U.S. Department of Energy's (DOE) Argonne National Laboratory is leading efforts to couple artificial intelligence (AI) and cutting-edge simulation workflows to better understand biological observations and accelerate drug discovery."
+    publishedDateTime: 2021-09-01T07:43:00Z
+    webUrl: "https://techxplore.com/news/2021-09-ai-simulation-tools-covid-battlefront.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 32
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/argonne-collaborations.jpg"
+        width: 700
+        height: 394
         isCached: true
   - title: "Unsupervised artificial intelligence predicts COVID-19 progression, survival rates based on CT scans"
     excerpt: "Massachusetts General Hospital scientists have helped create an unsupervised artificial intelligence system they say can predict patients’ COVID-19 progression and risk of death based on chest CT images."

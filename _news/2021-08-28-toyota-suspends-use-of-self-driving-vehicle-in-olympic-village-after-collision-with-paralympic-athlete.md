@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident"
-    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
-    publishedDateTime: 2021-08-27T14:30:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 148
-    images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MTYMDEF6VFN53GRUIWFU3RHLR4.jpg"
-        width: 4384
-        height: 2958
-        isCached: true
   - title: "Toyota suspends self-driving vehicles after accident at Olympic village"
     excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
     publishedDateTime: 2021-08-28T14:58:00Z
@@ -89,22 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Toyota suspends all self-driving vehicles at Paralympic Games after collision with athlete"
-    excerpt: "Toyota Motor Corporation announced the immediate halt to all e-Palette self-driving pods at the Tokyo Paralympic Games following a collision."
-    publishedDateTime: 2021-08-27T17:58:00Z
-    webUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/"
-    ampWebUrl: "https://electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/27/toyota-suspends-all-self-driving-vehicles-at-paralympic-games-after-collision-with-athlete/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2021/08/Toyota-E-Palette.png?w=1000"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Collision With Paralympic Athlete Forces Toyota To Halt Self-Driving Bus Service In Olympic Village"
     excerpt: "The autonomous vehicles had been specially designed to cater to the needs of both olympians and paralympians, utilizing Level 4 self-driving technology."
     publishedDateTime: 2021-08-29T03:09:00Z
@@ -120,22 +90,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612af96eccedf1b532c3fdbf%2F0x0.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Visually Impaired Paralympian Hit by Self-driving Bus in Athletes' Village"
-    excerpt: "A visually impaired Paralympian was hit by a self-driving bus in the athletes' village in Tokyo, suffering head and leg injuries, Japanese media said Friday."
-    publishedDateTime: 2021-08-27T13:12:00Z
-    webUrl: "https://www.news18.com/news/sports/visually-impaired-paralympian-hit-by-self-driving-bus-in-athletes-village-4135052.html"
-    ampWebUrl: "https://www.news18.com/amp/news/sports/visually-impaired-paralympian-hit-by-self-driving-bus-in-athletes-village-4135052.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/sports/visually-impaired-paralympian-hit-by-self-driving-bus-in-athletes-village-4135052.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 57
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/08/sports-2021-08-22t124338.136-162973365516x9.png"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Toyota suspends use of its self-driving buses after one accidentally hit a visually-impaired athlete in Tokyo's Paralympic Games village"
     excerpt: "The autonomous vehicles were shown off at the 2020 Tokyo Games, helping athletes travel to their events and around the Olympic village."
@@ -311,33 +265,19 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Visually Impaired Man Hit By Self-driving Bus In Paralympic Village"
-    excerpt: "A visually impaired man was hit by a self-driving bus in the Paralympic village in Tokyo, organisers said Friday, adding the accident left no \"external injury.\" The accident took place on Thursday afternoon,"
-    publishedDateTime: 2021-08-27T13:03:00Z
-    webUrl: "https://www.ibtimes.com/visually-impaired-man-hit-self-driving-bus-paralympic-village-3282495"
+  - title: "Toyota to resume self driving pods operations with more safety staff"
+    excerpt: "Toyota says that the breaks were hit when the athlete was detected by both the operator and the autonomous system."
+    publishedDateTime: 2021-08-31T16:18:00Z
+    webUrl: "https://techstory.in/toyota-to-resume-self-driving-pods-operations-with-more-safety-staff/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: tech
+      domain: techstory.in
     quality: 39
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/27/self-driving-shuttle-buses-are-operating-24-7.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Visually impaired Paralympian hit by self-driving bus in Tokyo"
-    excerpt: "TOKYO: A visually impaired Paralympian was hit by a self-driving bus in the athletes' village in Tokyo, suffering head and leg injuries, Japanese media said on Friday (Aug 27). Toyota, which developed the autonomous shuttle buses used in the compound,"
-    publishedDateTime: 2021-08-27T13:12:00Z
-    webUrl: "https://www.channelnewsasia.com/asia/paralympian-hit-self-driving-car-tokyo-athletes-village-2140436"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--t4i1sTaH--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:afp_watermark%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/caf21689a607c9126f6e20187c8fd056e7548d5d.jpg?itok=ESZVmQC2"
-        width: 600
-        height: 338
+      - url: "https://techstory.in/wp-content/uploads/2021/08/120336697_20201222_01_04_s.jpg"
+        width: 976
+        height: 549
         isCached: true
   - title: "Toyota Suspends Self-Driving Bus Use After One Strikes Paralympian Aramitsu Kitazono"
     excerpt: "Toyota has suspended the use of its self-driving car fleet, otherwise known as e-Palette vehicles, after one of them struck visually-impaired"

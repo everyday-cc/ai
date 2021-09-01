@@ -64,6 +64,22 @@ related:
         width: 1024
         height: 678
         isCached: true
+  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise with 5G"
+    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
+    publishedDateTime: 2021-08-31T18:26:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 50
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
     excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
     publishedDateTime: 2021-08-30T01:30:00Z

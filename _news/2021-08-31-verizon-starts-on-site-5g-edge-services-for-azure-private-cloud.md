@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 678
         isCached: true
+  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise with 5G"
+    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
+    publishedDateTime: 2021-08-31T18:26:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 50
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
     excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
     publishedDateTime: 2021-08-30T20:42:00Z

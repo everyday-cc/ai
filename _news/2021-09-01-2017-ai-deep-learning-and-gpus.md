@@ -6,9 +6,9 @@ publishedDateTime: 2021-09-01T04:26:00Z
 originalUrl: "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/"
 webUrl: "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: datanami.com
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_for_DoD.png"
@@ -40,6 +41,6 @@ related:
         height: 364
         isCached: true
 
-secured: "qlHLi7HuNQYZkeRlYY1ScX0hr5waLaD2qb/6UdiII7kn/zTWVAAqySCnR4UDKA1hfNEaAoQoT0/6eoIqsMFmvcgyTn4F1veeeJ0F/oRH3Vl7uMvbZ253tJF77Y+SWhR+K0/QmURVFJdBgdvs/tHgj/t7eOXky3uHd4E9dKpuNoU9jCEC4/x3dcP6XIyXz6Ui1z3zBpW2kzm8TDl+834yz+Oxv9w9jPJzkxpgK5L9kmYpTM7zwroCkh44xtaEjF7W4+hwP+I8jIhjlPqNOpQx6JnI7HeuC7S1xH4tYpErkCJh9AhhobAFZQ4y1GZv+mCSlXbbVcpc66dB3/diQeXGeIyKSPRkNovzYDRbtml9BvE=;Viq6ZVLgHlIWSdUss0C7Jw=="
+secured: "Qjj5i1R4KgmgdMdKcYjOtxF4BsAr2wKx4AXCoTp9ZTiRWU4DorO83h79cpensDfFm0EguxojXjvblWdrYOugaVGAAA4sEVJAKUm0s3VIfX6kV5ZOKrApIXmj0yUGCnuCnG1Yl1nrqNU2NPT3iwylT/6Uo766GyYUN0K0PIKUil/gUlvooCJxm2ESHg6zHJUMJJBS9awHbODrqUvP+Va9Jv94M0PCkAlbky3h39KZQ6T0lW/VWpG9HCTk54bu4CPx5PWmaLIoxTVi/BIOSwdv3HPUCvhSXz7J72ZCgu5yxLd83u5lVMGjYrdFojuioZOjvkg1vtqkaxs16p3EHQREkW7tKzzXp2k+2mTWXgeVrAqQ0Pskl4dTvKDtaqPTwu5ZGt4OEUyt08zF/+gdBRQzz0T0oJNNctJX0zDVitaZfrEB41pP2BFwMGM5JlbO7YkSe+5keA7P5pqVYhLvMUW58ZZ62eJR/PfJMkmtECa281anQRr5UHz0rK8BfzrdCbuJM9Ke+B1of3vvAJRkQ3g/HQ==;3OGLMmnWcFsDZmVCbIRqfQ=="
 ---
 
