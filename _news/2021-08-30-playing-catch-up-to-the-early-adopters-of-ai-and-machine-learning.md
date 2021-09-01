@@ -41,22 +41,6 @@ related:
         width: 410
         height: 230
         isCached: true
-  - title: "How The United States Army Is Leveraging AI: Interview With Kristin Saling, Chief Analytics Officer & Acting Dir., Army People Analytics"
-    excerpt: "To remain competitive, the US Army has created the Army Talent Management Task Force to address the current and future needs of the war fighter. LTC Saling shares her insights into how analytics, automation,"
-    publishedDateTime: 2021-08-28T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/08/28/how-the-united-states-army-is-leveraging-ai-interview-with-kristin-saling-chief-analytics-officer--acting-dir-army-people-analytics/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125197aa4e9c316e3801db8%2F0x0.jpg"
-        width: 1200
-        height: 1042
-        isCached: true
   - title: "PKS rebrands as Beamtree, buys AI start-up Ainsoff and data analytics firm Potential(x)"
     excerpt: "The clinical data analytics company formed earlier this year through the merger of health software vendors Pacific Knowledge Systems (PKS) and Pavilion Health has rebranded as Beamtree Holdings, with the ASX-listed company recently buying two smaller companies to form what it says is one of the largest health analytics and decision support platforms in Australia."
     publishedDateTime: 2021-08-31T05:22:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-r
 webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
 type: article
 quality: 54
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: bbntimes
@@ -41,6 +41,17 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Data Science Against Disinformation: How Artificial Intelligence and Machine Learning Can Fact-Check Claims of Digital Election Campaigns"
+    excerpt: "By Professor Dr Mohammad Mahdavi, Programme Leader Data Science, AI, and Digital Business at GISMA Business School Becoming digital allows election campaigns to promote their candidates more effectively and economically."
+    publishedDateTime: 2021-09-01T20:41:00Z
+    webUrl: "https://www.globalbankingandfinance.com/data-science-against-disinformation-how-artificial-intelligence-and-machine-learning-can-fact-check-claims-of-digital-election-campaigns/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/data-science-against-disinformation-how-artificial-intelligence-and-machine-learning-can-fact-check-claims-of-digital-election-campaigns/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/data-science-against-disinformation-how-artificial-intelligence-and-machine-learning-can-fact-check-claims-of-digital-election-campaigns/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 38
 
 secured: "8jGex3P6rKoJrZ6Yk0n7l+A+Wrt0oOjkem8f3T11ERkV4jdxUk5LFwCLSTfALm83ugvd2KEx4ZQZ6Ubvr9/jMpvQZISsXETAC17LMTWDvEAmkvFWepbp02Hhl5+/qZ6Yd6b2tpgUVJoxmH3hhLyxJE04OuvqEuMchUPIVwYqEhhSGuQ+NfSSQdeYXmjIif0A4U4CU89u2JhhwMfT+I8Ox3ZEB1tdyilR7/QWB1Amctd4zFiX5HlUuloV3NFy4CW9ZInOkYHFnweAuUcwrnMody6bEWtRR4K82DHP1j9/Jgb0D3HnIHqrmutAj9Zij4ph4k5NHUrNqxnW477sTzzGuv+UNdlH6w2MFyGy7lXU8IBpzNFgvDXlORaxKZU6oCIH+xe/sETRs/EHvoxzkkcTFSmcy+YCVqmHc7h2KY2w9htQDNT4gbvoa0BcGbxMp8xLW9ymWEcbYFE7T6zKoBF3pgeTSZiTOCuo+410kbGecDqe5QSS1Z8LyVh6Hat9J1ZKphZznxK5cWqGAx6/6ZqmtA==;sfTfpjWjxAt1WJyh0JrA6w=="
 ---

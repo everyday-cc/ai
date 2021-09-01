@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-01T17:00:00Z
 originalUrl: "https://thenewstack.io/machine-learning-still-struggles-to-extract-meaning-from-language/"
 webUrl: "https://thenewstack.io/machine-learning-still-struggles-to-extract-meaning-from-language/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.thenewstack.io/media/2021/09/f50431b9-hands-423794_640.jpg"

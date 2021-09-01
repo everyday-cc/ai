@@ -2,29 +2,38 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-09-01-c3-ai-brings-its-full-enterprise-portfolio-to-google-cloud.md",
-      "title": "C3 AI brings its full enterprise portfolio to Google Cloud",
-      "excerpt": "As part of their new partnership, Google Cloud and C3 AI will also offer joint services for a range of industry-specific AI use cases.",
+      "path": "_news/2021-09-01-carbon-robotics-raises-27m-for-its-ai-powered-weed-destroying-machine-used-by-farmers.md",
+      "title": "Carbon Robotics raises $27M for its AI-powered weed destroying machine used by farmers",
+      "excerpt": "Investors are putting more cash behind the self-driving weed-zapping machines made by Carbon Robotics that are attracting attention from farmers across the world. The Seattle-based startup just",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/c3-ai-brings-its-full-enterprise-portfolio-to-google-cloud/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/c3-ai-brings-its-full-enterprise-portfolio-to-google-cloud/",
+      "webUrl": "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/",
+      "originalUrl": "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 141,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/08/Bud-in-CA-630x473.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/c3-ai-brings-its-full-enterprise-portfolio-to-google-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/c3-ai-brings-its-full-enterprise-portfolio-to-google-cloud/",
+      "ampWebUrl": "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/",
       "publishedDateTime": "2021-08-31T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "GeekWire",
+        "domain": "geekwire.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,6 +49,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -902,7 +912,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/31/peak-a-managed-ai-platform-for-enterprise-nabs-75m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {

@@ -7,7 +7,7 @@ originalUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-m
 webUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-mechanisms-can-identify-the-right-fruits-for-plucking/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The Coming Identity Crisis for AI"
+    excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
+    publishedDateTime: 2021-09-01T21:05:00Z
+    webUrl: "https://www.discovermagazine.com/technology/the-coming-identity-crisis-for-ai"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/65XSymbGJEL7F2ovzt3sy9/d77df1e9d0a8904ebba41da5e02d87fb/shutterstock_1178406460.jpg"
+        width: 1000
+        height: 625
+        isCached: true
 
 secured: "ThoDdbkBQiV0o3v70YS9Z8LNtfoWAgJcUZu+FyrY0zPbQBZfAheqaljGGqttD+ziePTg6UaKdxPGFzvQSYrT+CUL4DewMQE7V3ug3C3e7lF+dyHRrRNWs5+Oi+O+zoyEPoR4YkFOGJ7Pna7tidBLeP0J2PpWR5R32rFFEl059SMZbcbf1ZCii2w4DkXuxpXYTp54lKz1KJyYeIIqENJPrM2tjXDaDxAyQhfJsvsOSHMZhhtIdrmItREurA99DbDPaNxaGB8uHCDjU8Mm1Jsxb7VJa16iW2MfFLjQQuMdkZJLa6/NT2vPwPT0tac7mWcN3eEWPfnSOeuC8B8M1mz89wgHTPnF8AZcm5teimKiUvQ=;RyC7i851tf3zuk8gM9cgjQ=="
 ---

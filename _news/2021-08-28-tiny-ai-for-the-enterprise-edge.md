@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Vic.ai, an AI-powered accounting automation platform, raises $50M"
-    excerpt: "Vic.ai, a startup developing software to automate accounting and financial tasks, has raised $63 million in capital."
-    publishedDateTime: 2021-09-01T12:10:00Z
-    webUrl: "https://venturebeat.com/2021/09/01/vic-ai-an-ai-powered-accounting-automation-platform-raises-50m/"
-    ampWebUrl: "https://venturebeat.com/2021/09/01/vic-ai-an-ai-powered-accounting-automation-platform-raises-50m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/01/vic-ai-an-ai-powered-accounting-automation-platform-raises-50m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Peak raises $75M for a platform that helps non-tech companies build AI applications"
     excerpt: "As artificial intelligence continues to weave its way into more enterprise applications, a startup that has built a platform to help businesses, especially non-tech organizations, build more customized AI decision making tools for themselves has picked up some significant growth funding."
     publishedDateTime: 2021-08-31T12:04:00Z

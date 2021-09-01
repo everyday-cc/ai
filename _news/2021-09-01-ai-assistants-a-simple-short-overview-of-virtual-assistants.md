@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a-simple--short-overview-of-virtual-assistants/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 19
+  - title: "This ex-Googler has launched a new startup to employ AI assistants at small businesses"
+    excerpt: "Early-stage Cupertino startup Goodcall, creator of a cloud-based “conversational” AI assistant to man the phones for restaurants and retailers, opened for business Wednesday with $4 million in seed funding."
+    publishedDateTime: 2021-09-01T21:18:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/09/01/ai-service-goodcall-restaurants-retail-yelp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 9
 
 secured: "cShvoGGGfRhN2TAGhpwWW+Rm9YrkaGAC/9d/gPEPKtYYYpxbxKXIGc3g0qGwoJB498NrcDONXMzNZ6NS55hmIh9jXrbEAwHWtaqt/Hwlh07OQIQ2BDulvUPk5QKyAyD0bVfP6MMGD0c/LBvuZqcCwvnQttv747fiVynTJS52QQtBzAm+TM1Qqxq+BjQa0L9D03Rv6NEH1s8QiLnM3WFIwOaC+7y5sBlZE5FDJjd58AgjNXIeFpczQX1dzZbNQArZppPJvP23tFRfYAgyvLjHSI/W+FtgNQ73VH4BYeLGFfHb/PycTvplL7yQlUcsYPTJVv/hJxWgo2PRq6oiB+aONorQz7XzVjwyDY8YuzEGa2tSqzyS7zXzDyK4fkTiyAIMBstXWuOLmDhQLjUzyDBIrBa82Jlvf7yDmVi3q8SKrSvpidy2o9lIp3xHgOKD1JzNDySrI2WXPW2cyOY0NnBL/7jGS1BpOevhJ/yEv9SN/pZI2R/ewRPN3GRVZsaL2YAy2We5V++P07VOiweT8SNFkw==;h7lBEWXiImJFvIWJuZMjkQ=="
 ---

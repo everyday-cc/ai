@@ -39,20 +39,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Carbon Robotics Raises $27M In Series B Financing"
-    excerpt: "Carbon Robotics, a Seattle, WA-based agriculture robotics company, raised $27m in Series B financing. Backers included Anthos Capital, Ignition Partners, Fuse Venture Capital, Voyager Capital, Bolt and Liquid2 Ventures."
-    publishedDateTime: 2021-09-01T15:21:00Z
-    webUrl: "https://www.finsmes.com/2021/09/carbon-robotics-raises-27m-in-series-b-financing.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 69
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/laserweeding.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "pOAl3aBBc6RLBoe3sI4OYy9D8RjW/wvzMO4cYjPksZkEV5uQx66vu7j+5+Udz/6P/AkG8jkAL4Sic8N1PSldBWTVIeutNMtQ913FIDcWTpWESh4RcWGbtQSXIshgET9D73jA9PV/LuyUFR/mR418mgZ+qnAjF+o/BxBWdxRHY3/1XzwbLQL1tcZx5YAt2RSC2zLpBJ84H5JWvODO2mZFdFqh7aKoLMJfMG1tHWsVxld22eyBs8OncVbe77LdDAj21Q5mINAHnKrHL2No6/Hm1N7PoI/R7RsgaVlmEXmql3CBes7dHRkhXAkroxLR8T7b8zajQ6hM79JG7VPdA082IlI+R7AgYA+ye8CAF/vomug=;Y5JOVy+1xEFF/dfTXSTVWw=="
 ---

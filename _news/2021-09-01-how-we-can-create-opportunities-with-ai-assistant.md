@@ -35,6 +35,15 @@ related:
         width: 876
         height: 494
         isCached: true
+  - title: "This ex-Googler has launched a new startup to employ AI assistants at small businesses"
+    excerpt: "Early-stage Cupertino startup Goodcall, creator of a cloud-based “conversational” AI assistant to man the phones for restaurants and retailers, opened for business Wednesday with $4 million in seed funding."
+    publishedDateTime: 2021-09-01T21:18:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/09/01/ai-service-goodcall-restaurants-retail-yelp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 9
 
 secured: "IV/R8uDdOAKkk2xMBmRabDoaHiykYtNsrvNHVgJNTDS/TaFpiAgyiiw1XdK6yL6wPccWoCW1jbqViLKsOvpaoN0e4qGanKfCSO9fAUttdk25jgj7MLnV7xIzS1ryGyHSuZH1F1YbaPc5rRefNfKRthJ/fA7/hJRgtnMA/Rx9zVFq7I3hi3YdnR33ZNZVx6xccwl/cQ4MLfU/W4kXjaaPxphoLbLOLL6gXLqM7LO8OYAjN6ak/a4+LcB5Pc7ZvXCFpwq74pcgXpZI1JPcut38le3E28PVyiEeaRPuA6jFRu+vM7sEldURh5ZGmvluVe349UuULCM9ApjRuxdShdUfFJ9itiSd3fGTYB7tVtcegcs=;5ntEnhCt9EUGxn8IV+139Q=="
 ---

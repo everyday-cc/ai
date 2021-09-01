@@ -40,6 +40,17 @@ related:
         width: 1347
         height: 600
         isCached: true
+  - title: "Data Science Against Disinformation: How Artificial Intelligence and Machine Learning Can Fact-Check Claims of Digital Election Campaigns"
+    excerpt: "By Professor Dr Mohammad Mahdavi, Programme Leader Data Science, AI, and Digital Business at GISMA Business School Becoming digital allows election campaigns to promote their candidates more effectively and economically."
+    publishedDateTime: 2021-09-01T20:41:00Z
+    webUrl: "https://www.globalbankingandfinance.com/data-science-against-disinformation-how-artificial-intelligence-and-machine-learning-can-fact-check-claims-of-digital-election-campaigns/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/data-science-against-disinformation-how-artificial-intelligence-and-machine-learning-can-fact-check-claims-of-digital-election-campaigns/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/data-science-against-disinformation-how-artificial-intelligence-and-machine-learning-can-fact-check-claims-of-digital-election-campaigns/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 38
 
 secured: "4ZIS3FVDsCIj8sZvST3q8ldvbAE5n3ZuncvCF17JLbbc2b2z2kcUkmfgUovXpLZlZpzUi8LGn7qXdADPc0KMRnSvDxQ+oEjnrY3rhSTyexRz0KQbmkyimEsLYuv7NJkO2mBpk90HSilQVfmEv4lwlZlDAXFt1xD9N7nSX7Mz9WWtB1ntiSZaA7E2ClHLDTODENk5KWBJL+iodvskcYGoM92jcCbeHOV0M+cqfnFuBQq+UzUdXpnYPSDvmukYqzlWu9QMmIYQiBMEVqC2AO+K7l7dE0mlKc/Eiz7EhtQFOEpoxshFUNtU+uB3OsuP/cA+GuoGwLsIVRf7Xcc0xRl24V/WAMCkFw6N64sZ0yZR4Rg=;TIo4iZjFONRGdXNFf4+75g=="
 ---
