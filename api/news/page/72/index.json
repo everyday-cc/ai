@@ -2,6 +2,162 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-07-12-this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale.md",
+      "title": "This AI Asks Questions, Finds Answers And Suggests Actions, All At Scale",
+      "excerpt": "SparkBeyond has developed an AI-driven dynamic research and strategic action engine that can help you create a better future",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e9ea58078e5ea785ac75f1%2F0x0.jpg",
+          "width": 1200,
+          "height": 1354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
+      "publishedDateTime": "2021-07-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-the-self-driving-race-between-elon-musks-tesla-and-dominos-pizza-robots.md",
+      "title": "The self-driving race between Elon Musk's Tesla and Domino's pizza robots",
+      "excerpt": "Elon Musk has talked up full self-driving for years, but missed many deadlines. Some are betting the big progress in autonomous vehicles: delivering pizza.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106907169-1625602487443-rev1.jpg?v=1625667387",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/10/self-driving-looking-less-like-elon-musk-more-dominos-pizza-robots.html",
+      "publishedDateTime": "2021-07-12T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-5-ai-startups-out-to-change-the-world.md",
+      "title": "5 AI startups out to change the world",
+      "excerpt": "Deep learning is solving challenging problems in industries as diverse as retail, manufacturing, and agriculture. These companies are leading the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html",
+      "originalUrl": "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/04/abstract_network_connections_conceptually_layered_with_a_city_skyline_and_virtual_globe_by_cofotoisme_gettyimages-1155123985_2400x1600-100839690-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3624700/5-ai-startups-out-to-change-the-world.amp.html",
+      "publishedDateTime": "2021-07-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-the-real-successes-of-ai.md",
       "title": "The real successes of AI",
       "excerpt": "Despite the hype, especially around self-driving cars, AI is writing code, designing Google chip floor plans, and telling us how much to trust it.",
@@ -1003,151 +1159,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-exynos-flagship-chipsets-a-history-of-samsungs-homegrown-silicon.md",
-      "title": "Exynos flagship chipsets: A history of Samsung's homegrown silicon",
-      "excerpt": "Samsung has used Exynos flagship chips for a long, long time, so we thought it would be a good idea to chart its history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-exynos-flagship-chipset-history-1233699",
-      "originalUrl": "https://www.androidauthority.com/samsung-exynos-flagship-chipset-history-1233699",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/12/Samsung-Exynos-branding.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/samsung-exynos-flagship-chipset-history-1233699/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/samsung-exynos-flagship-chipset-history-1233699/",
-      "publishedDateTime": "2021-07-10T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai.md",
-      "title": "Spain’s Most Valuable Euro 2020 Star Was French-Born Laporte, Suggests AI",
-      "excerpt": "Now, after his chosen team exited at the semi-final stage of the competition, it seems he was Spain’s most valuable player. At least, that is according to Olocip, an artificial intelligence (AI) company founded by former Real Madrid playmaker Esteban Granero.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/",
-      "originalUrl": "https://www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8b794912627d521557395%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/henryflynn/2021/07/10/spains-most-valuable-euro-2020-star-was-french-born-laporte-suggests-ai/amp/",
-      "publishedDateTime": "2021-07-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-micron-technology-puts-its-cash-to-work-using-artificial-intelligence.md",
-      "title": "Micron technology puts its cash to work using artificial intelligence",
-      "excerpt": "The Boise, Idaho-based memory-chip maker says it is earning millions of dollars in extra returns on its deposits thanks to an AI tool developed in house",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence-11625836801977.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/07/09/600x338/2021-07-01T093323Z_1643310723_RC2LBO9R6YOJ_RTRMADP_3_MICRON-TECH-RESULTS_1625837012609_1625837026629.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/micron-technology-puts-its-cash-to-work-using-artificial-intelligence/amp-11625836801977.html",
-      "publishedDateTime": "2021-07-09T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

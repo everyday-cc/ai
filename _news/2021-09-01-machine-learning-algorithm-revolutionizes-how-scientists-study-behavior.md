@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Machine learning algorithm revolutionizes how scientists study behavior"
-excerpt: "But identifying and predicting animal behavior is extremely difficult. Now, a new unsupervised machine learning algorithm developed by Yttri and Alex Hsu, a biological sciences Ph.D. candidate in his lab,"
-publishedDateTime: 2021-08-31T20:40:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/08/210831155304.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/08/210831155304.htm"
+excerpt: "To Eric Yttri, assistant professor of biological sciences and Neuroscience Institute faculty at Carnegie Mellon University, the best way to understand the brain is to watch how organisms interact with the world."
+publishedDateTime: 2021-08-31T18:26:00Z
+originalUrl: "https://medicalxpress.com/news/2021-08-machine-algorithm-revolutionizes-scientists-behavior.html"
+webUrl: "https://medicalxpress.com/news/2021-08-machine-algorithm-revolutionizes-scientists-behavior.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-08-machine-algorithm-revolutionizes-scientists-behavior.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-machine-algorithm-revolutionizes-scientists-behavior.amp"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-exercise.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
 
 related:
   - title: "Machine Learning Algorithm Revolutionizes How Scientists Study Behavior"
@@ -38,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Vn+J8A/XBvL4z+cjqu5wItXUDs/s2bFeejTdnVXOtBhX+2eMHHCskyQup1BKP2zDrLnWcR46VFxFX1XHMBm1WdYpz442P5F1rwsxRfiAzLZdvbh6ko80DnCE8ppaZlXk+/GuYQ0duXMiMRiSbfTyXDlXeqAKPDQjJBaa+Jo4G/iAvIiFwbEmONaos3vmHOD/Ir3yflVWXKU4C9aCZ5bCBxsbjJJ1YfsYf8yjs+Tf7BSnqFwEzYtfo6SSNEvYbG+3UlpXGXvp6bMpfeQY6omOJCUHRzF3gVoCHLwSA03z2p0Znb4GkDw/JfZrsf1pdGx2DTZXR525qItkYsySk7+MzVVna7Up9DI6Mol9UNz7k9o=;NJOpzclns2sRPRmwP/2EAg=="
+secured: "xys6uJYyjYpF4bieY5r7Cqu42crnM/RJ04IStNUve9WKouKfzXT+XWgJ9sUhfqBqeq+erkQHTWDJSaa7L+fIivFJtjNHMbAP+A8sDrv2cCtqqeDTK2xCK9atQLs36j2KNGg0XQY965tXK0YIqND3wbBou8X1V4iWLosqJKGhiv1Dsamajhh0SiNuavFXvVkFYT0I7gaQmxMFkm91M8UPqemm533dDuceAT5hxiYYmDXvFgPBQcOgqrBjoupvFC0mQj83DSHjsMawHSYcVIATcFeXCmcqfHG1zrf15fkXXXaM08ZBioCpe0O2eu1DOuRYcF443oeV3Bqi5NYCcq2D3lplQJ8Lbf4yfq0jF9R0THQ=;1993CypbqCJG4VhuoDX+ow=="
 ---
 

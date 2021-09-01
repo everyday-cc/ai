@@ -2,6 +2,145 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-08-01-computer-vision-market-report-2021-industry-overview-growth-rate-and-forecast-2026.md",
+      "title": "Computer Vision Market Report 2021, Industry Overview, Growth Rate and Forecast 2026",
+      "excerpt": "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vision market exhibited strong growth during 2015-2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-report-2021-industry-overview-growth-rate-and-forecast-2026-2021-08-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-report-2021-industry-overview-growth-rate-and-forecast-2026-2021-08-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-31T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-01-azure-machine-learning-service.md",
+      "title": "AZURE MACHINE LEARNING SERVICE",
+      "excerpt": "Accenture will have all of its consultants in the next two years adopt the new model of data-focused storytelling that is built on data, machine learning models and visualisation for specific sectors and industries. This is a time of deep reflection for ...",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/topic/Azure-Machine-Learning-Service",
+      "originalUrl": "https://economictimes.indiatimes.com/topic/Azure-Machine-Learning-Service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/height-270,width-360,imgsize-,msid-85288177/.jpg",
+          "width": 360,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/topic/Azure-Machine-Learning-Service/amp",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/topic/Azure-Machine-Learning-Service/amp",
+      "publishedDateTime": "2021-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-01-underwater-crawling-soft-robot-stays-in-shape.md",
+      "title": "Underwater Crawling Soft Robot Stays In Shape",
+      "excerpt": "When you think of robots that were modeled after animals, a brittle star is probably not the first species that comes to mind. Still ... The robot’s control board is sending and receiving ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/04/23/underwater-crawling-soft-robot-stays-in-shape/",
+      "originalUrl": "https://hackaday.com/2020/04/23/underwater-crawling-soft-robot-stays-in-shape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/04/PATRICK.png",
+          "width": 792,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-new-scientific-database-could-revolutionise-the-way-diseases-are-treated.md",
       "title": "New scientific database ‘could revolutionise the way diseases are treated’",
       "excerpt": "Researchers from Google-owned artificial intelligence (AI) lab DeepMind, and European Bioinformatics Institute (EMBL), have launched a database featuring 20,000 structures for the complete set of ...",
@@ -1010,153 +1149,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-facebook-open-sources-droidlet-robotics-development-platform.md",
-      "title": "Facebook open-sources Droidlet robotics development platform",
-      "excerpt": "Facebook researchers wrote in a blog today that Droidlet ... but we believe that by sharing our research work with the AI community, all of us will get there faster.” You can read more about Droidlet here or check out the platform’s GitHub page.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
-      "originalUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/facebook-droidlet-platform.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist.md",
-      "title": "How to approach AI more responsibly, according to a top AI ethicist",
-      "excerpt": "A conversation with DataRobot's Haniyeh Mahmoudian, a winner of VentureBeat’s Women in AI responsibility and ethics award.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/",
-      "publishedDateTime": "2021-07-30T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-moengage-raises-325m-to-inject-customer-engagement-with-ai.md",
-      "title": "MoEngage raises $32.5M to inject customer engagement with AI",
-      "excerpt": "MoEngage, an AI customer engagement platform based in San Francisco, California, today announced that it raised $32.5 million led by Multiples Private Equity with participation from Eight RoadsVentures,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/06/pinpoint-big-data.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/moengage-raises-32-5m-to-inject-customer-engagement-with-ai/amp/",
-      "publishedDateTime": "2021-07-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

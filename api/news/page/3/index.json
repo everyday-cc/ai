@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-30-the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet.md",
+      "title": "The long-tail of AI problems requires hyper-customized solutions, not a silver-bullet",
+      "excerpt": "Spending the last decade on AI research and implementation, my observation is that these challenges are inherently specific, differing drastically across companies — even when the AI application ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/",
+      "originalUrl": "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/amp/",
+      "publishedDateTime": "2021-08-29T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-hul-leverages-ai-ml-data-for-a-smarter-supply-chain.md",
       "title": "HUL leverages AI, ML, data for a smarter supply chain",
       "excerpt": "The country’s largest FMCG company, Hindustan Unilever Ltd (HUL), is reconfiguring its entire supply chain to enable just-in-time delivery of products by using new digital technologies, including machine learning, artificial intelligence and data ...",
@@ -678,7 +730,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1177,49 +1229,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-expanding-human-robot-collaboration-in-manufacturing-by-training-ai-to-detect-human-intention.md",
-      "title": "Expanding human-robot collaboration in manufacturing by training AI to detect human intention",
-      "excerpt": "Machines and robots undoubtedly make life easier. They carry out jobs with precision and speed, and, unlike humans, they do not require breaks as they are never tired.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/expanding-human-robot.jpg",
-          "width": 1249,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp",
-      "publishedDateTime": "2021-08-27T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

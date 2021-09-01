@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Will self-driving cars dominate roads?"
-    excerpt: "Many companies are developing self-driving cars with the goal of making transportation a breeze for everyone, but the necessary technology still has a ways to go."
-    publishedDateTime: 2021-08-27T11:57:00Z
-    webUrl: "https://kdvr.com/video/will-self-driving-cars-dominate-roads/6930238/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 4
 
 secured: "FWzyI+M93oJvbza3mABnfceAlRvv+kyTGjTNnwsqz31dG5nEg1JZmViXLiSOTzgKooGUcRwUs9/V/MaWy1TiRCJ4okNypf0nTz7zCj1L9CqhLnA9g2AvrABEe65yeoZosoGUH6RZxJpmttRhcWWmW5IMjQOztJwaGU1HGT30ZpB0XSjixwtcgqZPVTAndolY3bAfiUD9FNDKcTKllnjanXfDl43L/CCjtkv9Fz+gAF309GQcwJJ4hYQPLvqn7B82mf1JEdVwijm3VAmYCVdbhQ3qe/2Sb7jGsmEWSCH2+uEV6xlJqzSHuTyJColf+rB2hE9GQTI6ZtzOrPHXL1RSUe4sKETUG84B41d68rrEeSAPUUW9lAtQumf0Ou0G4JHvpwwgnV9JDrPISwFKLLflzxj/JUYUvKSQx4Wel88RjfRlheoBegEWPDjrnBv/r/KDU8gIVaTx7IXzR+jOweAbulaSbJsDGNQUqLPbEuIORPjta33LzuTurgDuS8ZWZF/2pqHeDRJwfItkis4iBWolyw==;KbAzf11SONbWwSjmhE/tRg=="
 ---

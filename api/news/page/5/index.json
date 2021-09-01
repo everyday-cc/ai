@@ -2,26 +2,35 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-08-26-athreon-launches-front-end-speech-recognition-solution.md",
-      "title": "Athreon Launches Front-End Speech Recognition Solution",
-      "excerpt": "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,",
+      "path": "_news/2021-08-26-overjet-mints-27m-to-bring-x-ray-ai-to-more-dental-clinics.md",
+      "title": "Overjet mints $27M to bring X-ray AI to more dental clinics",
+      "excerpt": "After cutting its teeth automating the dental insurance claims process, Overjet is now ready to expand its artificial intelligence software into actual dental clinics across the U.S.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm",
+      "webUrl": "https://www.fiercebiotech.com/medtech/overjet-pockets-27m-to-bring-x-ray-reading-ai-to-more-dental-clinics",
+      "originalUrl": "https://www.fiercebiotech.com/medtech/overjet-pockets-27m-to-bring-x-ray-reading-ai-to-more-dental-clinics",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 147,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1629993234/overjet.jpg?qMKWWZZ89M8Co2OjWlIUBBO68Qw5SNS8",
+          "width": 619,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T09:39:00-07:00",
+      "publishedDateTime": "2021-08-26T09:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,7 +40,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -282,6 +290,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-athreon-launches-front-end-speech-recognition-solution.md",
+      "title": "Athreon Launches Front-End Speech Recognition Solution",
+      "excerpt": "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1114,58 +1165,6 @@
         "Natural Language Processing",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-neural-network-market-report-covers-detail-analysis-about-size-share-growth-past-present-data-and-forecast-to-2027.md",
-      "title": "Neural Network Market Report Covers Detail Analysis about Size, Share, Growth, Past, Present Data and Forecast To 2027",
-      "excerpt": "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Neural Network Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-market-report-covers-detail-analysis-about-size-share-growth-past-present-data-and-forecast-to-2027-2021-08-26-21975239",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-market-report-covers-detail-analysis-about-size-share-growth-past-present-data-and-forecast-to-2027-2021-08-26-21975239",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

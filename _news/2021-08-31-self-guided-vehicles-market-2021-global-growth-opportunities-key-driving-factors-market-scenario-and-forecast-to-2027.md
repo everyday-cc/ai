@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Recognition Software Market Share, Growth, Industry Size, Key Players, Segments, Latest Trends and Forecast 2021-2026"
+    excerpt: "Global “ Speech Recognition Software Market ” research report presents a detailed analysis of the industry by size, strategies for company to deal with the impact of covid-19, market segment by type,"
+    publishedDateTime: 2021-08-31T11:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-share-growth-industry-size-key-players-segments-latest-trends-and-forecast-2021-2026-2021-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Trends, Size, Market Share, Growth Factor, Opportunities, Segment, Top Manufacturers, Drivers and Forecast 2021-2026"
     excerpt: "Global “Computer Vision Market” research report presents a detailed analysis of the industry by size, strategies"
     publishedDateTime: 2021-08-31T11:44:00Z

@@ -449,40 +449,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-26-athreon-launches-front-end-speech-recognition-solution.md",
-      "title": "Athreon Launches Front-End Speech Recognition Solution",
-      "excerpt": "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-26-ask-the-expert-demystifying-ai-and-machine-learning-in-search.md",
       "title": "Ask the expert: Demystifying AI and Machine Learning in search",
       "excerpt": "Artificial intelligence encompasses multiple concepts, deep learning is a subset of machine learning, and natural language processing uses a wide range of AI algorithms to better understand language.",
@@ -524,6 +490,49 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-athreon-launches-front-end-speech-recognition-solution.md",
+      "title": "Athreon Launches Front-End Speech Recognition Solution",
+      "excerpt": "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon’s speech recognition empowers physicians to focus on patient care versus administrative,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-937261d53fe91f0a1613f00fc9d48934",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

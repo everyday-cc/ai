@@ -293,22 +293,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Toyota halts all self-driving e-Pallete vehicles after Olympic village accident"
-    excerpt: "Toyota Motor said on Friday it had suspended operations of its self-driving e-Palette transportation pods at the Paralympic Games village in Tokyo, a day after one of the vehicles collided with a visually impaired pedestrian."
-    publishedDateTime: 2021-08-27T12:53:00Z
-    webUrl: "https://www.metro.us/toyota-halts-all-self-driving/"
-    ampWebUrl: "https://www.metro.us/toyota-halts-all-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/toyota-halts-all-self-driving/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 40
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7Q0I5-BASEIMAGE.jpg"
-        width: 800
-        height: 540
-        isCached: true
   - title: "Toyota halts all self-driving e-Palette vehicles after Olympic Village accident"
     excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually"
     publishedDateTime: 2021-08-29T19:30:00Z
@@ -374,13 +358,13 @@ related:
   - title: "Toyota halts use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
     excerpt: "Toyota has been providing a specially-designed version of its battery-powered, automated \"e-Palette\" vehicles to transport athletes and staff during the Tokyo Olympics and Paralympic Games."
     publishedDateTime: 2021-08-28T18:53:00Z
-    webUrl: "https://www.wbaltv.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-    ampWebUrl: "https://www.wbaltv.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+    webUrl: "https://www.wxii12.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+    ampWebUrl: "https://www.wxii12.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
     type: article
     provider:
-      name: WBALTV11
-      domain: wbaltv.com
+      name: WXII12
+      domain: wxii12.com
     quality: 30
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a0e0e4099994406cfe0dcb161ec7565a-h-e209b227e66925b2d5393382665e3467-1630170227.jpg?crop=1.00xw:0.846xh;0,0.100xh&resize=1200:*"

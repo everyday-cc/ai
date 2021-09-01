@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-20-ut-southwestern-pioneers-pulsar-integrated-radiotherapy-with-immunotherapy-for-improved-tumor-control.md",
+      "title": "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control",
+      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/926055",
+      "originalUrl": "https://www.eurekalert.org/news-releases/926055",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-tesla-to-hold-ai-day-at-a-time-of-new-scrutiny-what-to-expect.md",
+      "title": "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect",
+      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-387828?width=700&height=466",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "publishedDateTime": "2021-08-19T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-top-gun-star-lost-his-voice-to-cancer-he-used-ai-to-bring-it-back.md",
       "title": "'Top Gun' star lost his voice to cancer. He used AI to bring it back.",
       "excerpt": "Actor Val Kilmer lost his voice in 2015 due to complications to throat cancer. For his new documentary \"Val,\" Kilmer sought out a company to create a synthetic version of his voice using audio deepfake technology to be used as a voiceover.",
@@ -280,6 +375,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-aws-announces-general-availability-of-amazon-memorydb-for-redis.md",
+      "title": "AWS Announces General Availability of Amazon MemoryDB for Redis",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon MemoryDB for Redis, a fully managed, Redis-compatible, in-memory database. Amazon MemoryDB for Redis enables customers to achieve ultra-fast performance with high availability and durability for their most business-critical applications that require sub-millisecond response times.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1061,136 +1199,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-how-this-technologist-is-using-beauty-as-a-tool-to-disrupt-facial-recognition.md",
-      "title": "How this technologist is using beauty as a tool to disrupt facial recognition",
-      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "originalUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidus-kunlun-ii-ai-chips-enter-mass-production.md",
-      "title": "Baidu's Kunlun II AI chips enter mass production",
-      "excerpt": "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg",
-          "width": 400,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-meet-the-designer-who-makes-high-tech-nail-art-and-fights-facial-recognition-with-flowers.md",
-      "title": "Meet the designer who makes high-tech nail art and fights facial recognition with flowers",
-      "excerpt": "She also strategically applies makeup to combat facial recognition software. Based in North Carolina, McDonald is the co-founder of Blink Blink Creative Circuit Kits, which makes gender inclusive ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
-      "originalUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/05DJAH5r01nPj2qk8Bpg729/hero-image.fill.size_1200x675.v1628106617.png",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

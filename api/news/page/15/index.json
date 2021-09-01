@@ -2,6 +2,136 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-19-how-this-technologist-is-using-beauty-as-a-tool-to-disrupt-facial-recognition.md",
+      "title": "How this technologist is using beauty as a tool to disrupt facial recognition",
+      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
+      "originalUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-baidus-kunlun-ii-ai-chips-enter-mass-production.md",
+      "title": "Baidu's Kunlun II AI chips enter mass production",
+      "excerpt": "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg",
+          "width": 400,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-meet-the-designer-who-makes-high-tech-nail-art-and-fights-facial-recognition-with-flowers.md",
+      "title": "Meet the designer who makes high-tech nail art and fights facial recognition with flowers",
+      "excerpt": "She also strategically applies makeup to combat facial recognition software. Based in North Carolina, McDonald is the co-founder of Blink Blink Creative Circuit Kits, which makes gender inclusive ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
+      "originalUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/05DJAH5r01nPj2qk8Bpg729/hero-image.fill.size_1200x675.v1628106617.png",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-call-center-automation-startup-balto-secures-37m.md",
       "title": "Call center automation startup Balto secures $37M",
       "excerpt": "Balto, a call center automation startup based in St. Louis, has raised $37 million in series B funding for its agent coaching AI.",
@@ -1064,135 +1194,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-is-ai-coming-for-your-dev-job-or-not-a-tale-of-two-surveys.md",
-      "title": "Is AI Coming for Your Dev Job or Not? A Tale of Two Surveys",
-      "excerpt": "The long-simmering issue was revisited following the recent unveiling of GitHub Copilot, an advanced AI system that acts like a \"pair programmer\" by suggesting whole-line code completions and much more.",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/Articles/2021/08/18/robot-jobs.aspx?p=1",
-      "originalUrl": "https://visualstudiomagazine.com/Articles/2021/08/18/robot-jobs.aspx?p=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_RedView.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-chinas-baidu-unveils-a-level-5-robocar-with-no-steering-wheel-gull-wing-doors-that-moves-communicates-learns.md",
-      "title": "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'",
-      "excerpt": "China’s tech giant Baidu Inc held its annual \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public.",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/4813/China%25E2%2580%2599s-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-%26-Gull-Wing-Doors-That-%25E2%2580%2598Moves-Communicates-%26-Learns%25E2%2580%2599",
-      "originalUrl": "https://www.futurecar.com/4813/China%25E2%2580%2599s-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-%26-Gull-Wing-Doors-That-%25E2%2580%2598Moves-Communicates-%26-Learns%25E2%2580%2599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202108/18/l_611d70362ab4d.jpeg",
-          "width": 800,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-national-ai-research-resource-task-force-seeks-more-diverse-public-responses.md",
-      "title": "National AI Research Resource Task Force seeks more ‘diverse’ public responses",
-      "excerpt": "The task force designing a blueprint for a National Artificial Intelligence Research Resource extended the deadline to publicly comment on its work by a month to elicit more diverse responses. A few expected respondents asked for more time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
-      "originalUrl": "https://www.fedscoop.com/nairr-public-comment-extension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

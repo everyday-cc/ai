@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-27-expanding-human-robot-collaboration-in-manufacturing-by-training-ai-to-detect-human-intention.md",
+      "title": "Expanding human-robot collaboration in manufacturing by training AI to detect human intention",
+      "excerpt": "Machines and robots undoubtedly make life easier. They carry out jobs with precision and speed, and, unlike humans, they do not require breaks as they are never tired.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/expanding-human-robot.jpg",
+          "width": 1249,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp",
+      "publishedDateTime": "2021-08-27T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars.md",
       "title": "Chances Of Collisions Involving Urgently Underway Police Cars And AI Self-Driving Cars",
       "excerpt": "Regrettably there are going to be instances of urgently underway police cars that collide with self-driving cars, though there are means to try and reduce those chances.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -115,7 +158,7 @@
       "originalUrl": "https://money.usnews.com/investing/news/articles/2021-08-27/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident",
       "featuredContent": null,
       "highlight": null,
-      "heat": 558,
+      "heat": 548,
       "tags": null,
       "images": [
         {
@@ -1134,48 +1177,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-overjet-mints-27m-to-bring-x-ray-ai-to-more-dental-clinics.md",
-      "title": "Overjet mints $27M to bring X-ray AI to more dental clinics",
-      "excerpt": "After cutting its teeth automating the dental insurance claims process, Overjet is now ready to expand its artificial intelligence software into actual dental clinics across the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/medtech/overjet-pockets-27m-to-bring-x-ray-reading-ai-to-more-dental-clinics",
-      "originalUrl": "https://www.fiercebiotech.com/medtech/overjet-pockets-27m-to-bring-x-ray-reading-ai-to-more-dental-clinics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1629993234/overjet.jpg?qMKWWZZ89M8Co2OjWlIUBBO68Qw5SNS8",
-          "width": 619,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

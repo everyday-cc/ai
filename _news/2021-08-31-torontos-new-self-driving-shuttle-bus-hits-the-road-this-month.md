@@ -7,7 +7,7 @@ originalUrl: "https://dailyhive.com/toronto/self-driving-shuttle-map-route"
 webUrl: "https://dailyhive.com/toronto/self-driving-shuttle-map-route"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 992
     height: 694
     isCached: true
-
-related:
-  - title: "Tartu self-driving bus trials next month"
-    excerpt: "A self-driving bus starts work in Tartu on a trial basis next week, ferrying passengers between the city center and the Estonian National Museum (ERM) on the outskirts, ETV news show 'Aktuaalne kaamera' (AK) reported."
-    publishedDateTime: 2021-08-27T11:08:00Z
-    webUrl: "https://news.err.ee/1608320036/tartu-self-driving-bus-trials-next-month"
-    type: article
-    provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 24
-    images:
-      - url: "https://s.err.ee/photo/crop/2021/08/26/1123775ha273t24.jpg"
-        width: 672
-        height: 420
-        isCached: true
 
 secured: "w9uA6J31dD6tCirMxm0rjBppm/3hMABQEN7GHJfJkjsaDgNAnFTz/gfMUH5a7z6UK3112mEQIibf/9vf6zPuTiot05qKivqkDy1aSSQHQqJ8KeQwqIFhiGv5OBD6lpP9dE4UUb8Pps6DJCyDMCRDQxxrIw761LCNb1oM0E2FkhVO30DN8iqeftw/49f1pYDKWTsY2p2yWXMRNJFosy7+nrmrUllYyNiSRkHdwMwnRqRUJOiyv/zjyv2k0f1zYTQDhIjwRaoBvRDW7o3Ye0cvjK+F0RmyueEGBh7Q7AIYahJ+vfr21i1fgrAXvw6gYHjqIemJZixTbL2LFTXhat/5RosXklnmYLK71lbFElkECDw=;WIBbD4ITBx/xTMcMu7Jstw=="
 ---

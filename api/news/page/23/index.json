@@ -2,6 +2,135 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-08-13-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency.md",
+      "title": "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: ‘Creates A Sense Of Urgency’",
+      "excerpt": "It's been no secret that students have fallen behind during the constraints of the pandemic, but state standardized test score data paints a clearer picture of just how severe that learning loss may have been.",
+      "sourceUrl": null,
+      "webUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
+      "originalUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2021/08/STATE-TESTING-DATA-5PKG.transfer_frame_1349.jpeg?w=420",
+          "width": 420,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
+      "cdnAmpWebUrl": "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
+      "publishedDateTime": "2021-08-13T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m.md",
+      "title": "Facial Recognition Market To Lift Up Industry Growth During The Forecast Period From 2020 – 2027, Key Players – Crossmatch , Keylemon, NEC, 3M.",
+      "excerpt": "To receive a sample copy, please click here: visit @  Market by Application Emotion Recognition Attendance Tracking and Monitoring Access Control Law Enforcement Others The deadly COVID-19 outbreak has significantly slowed the growth and development of the international market industry.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m/",
+      "originalUrl": "https://manometcurrent.com/facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/300-x-300-pixel.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m/",
+      "publishedDateTime": "2021-08-13T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-sigkdd-honors-groundbreaking-achievements-in-knowledge-discovery-and-data-mining.md",
+      "title": "SIGKDD Honors Groundbreaking Achievements in Knowledge Discovery and Data Mining",
+      "excerpt": "big data and artificial intelligence (AI). Ahead of the organization's annual conference on Aug. 14-18, the awards program recognizes those who have made a lasting impact in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19951145.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19951145.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform.md",
       "title": "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform",
       "excerpt": "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,",
@@ -963,154 +1092,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide.md",
-      "title": "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide",
-      "excerpt": "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-george-mason-university-aditya-johri-receives-fulbright-us-scholar-award-to-finland-for-research-on-ai-ethics-education.md",
-      "title": "George Mason University: Aditya Johri Receives Fulbright U.S. Scholar Award To Finland For Research On AI Ethics Education",
-      "excerpt": "George Mason University Professor Aditya Johri has received a Fulbright-Nokia Distinguished Chair in Information and Communication Technologies award to conduct research in Finland during the 2021-22 academic year.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/virginia/kingstowne/george-mason-university-aditya-johri-receives-fulbright-u-s-scholar-award",
-      "originalUrl": "https://patch.com/virginia/kingstowne/george-mason-university-aditya-johri-receives-fulbright-u-s-scholar-award",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-machine-learning-as-a-service-market-prominent-players-updates-business-analysis-revenue-expectation-till-2025.md",
-      "title": "Machine Learning as a Service Market Prominent Players Updates, Business Analysis, Revenue Expectation till 2025",
-      "excerpt": "Competitive Landscape and Machine Learning as a Service Market Share Analysis: Machine Learning as a Service Market to reach USD 16.13 billion by 2025. Machine Learning as a Service Market valued approximately USD 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-prominent-players-updates-business-analysis-revenue-expectation-till-2025-2021-08-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-prominent-players-updates-business-analysis-revenue-expectation-till-2025-2021-08-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

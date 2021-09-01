@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/self-driving-truck-technology-market-size
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Software Market Share, Growth, Industry Size, Key Players, Segments, Latest Trends and Forecast 2021-2026"
+    excerpt: "Global “ Speech Recognition Software Market ” research report presents a detailed analysis of the industry by size, strategies for company to deal with the impact of covid-19, market segment by type,"
+    publishedDateTime: 2021-08-31T11:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-share-growth-industry-size-key-players-segments-latest-trends-and-forecast-2021-2026-2021-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

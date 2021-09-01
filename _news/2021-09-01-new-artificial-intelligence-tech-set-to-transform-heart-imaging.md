@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:

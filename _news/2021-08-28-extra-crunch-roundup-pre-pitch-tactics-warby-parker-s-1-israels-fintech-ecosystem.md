@@ -33,15 +33,15 @@ images:
 related:
   - title: "Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-08-28T11:07:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem-2/"
+    publishedDateTime: 2021-08-27T23:38:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/"
     type: article
     provider:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 24
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1630148873_0e8ec3c68817b80c8edfe9ad578258ac.jpeg"
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/0e8ec3c68817b80c8edfe9ad578258ac.jpeg"
         width: 1200
         height: 800
         isCached: true

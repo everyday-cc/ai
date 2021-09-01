@@ -3,18 +3,18 @@ category: news
 title: "Toyota halts use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
 excerpt: "Toyota has been providing a specially-designed version of its battery-powered, automated \"e-Palette\" vehicles to transport athletes and staff during the Tokyo Olympics and Paralympic Games."
 publishedDateTime: 2021-08-28T18:53:00Z
-originalUrl: "https://www.wbaltv.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-webUrl: "https://www.wbaltv.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-ampWebUrl: "https://www.wbaltv.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+originalUrl: "https://www.wxii12.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+webUrl: "https://www.wxii12.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+ampWebUrl: "https://www.wxii12.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
+cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WXII12
+  domain: wxii12.com
 
 topics:
   - AI in Autos
@@ -294,22 +294,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/08/30/600x338/Screenshot_2021-07-20_at_2.07.14_PM_1626770282792_1630324372220.png"
         width: 600
         height: 338
-        isCached: true
-  - title: "Toyota halts all self-driving e-Pallete vehicles after Olympic village accident"
-    excerpt: "Toyota Motor said on Friday it had suspended operations of its self-driving e-Palette transportation pods at the Paralympic Games village in Tokyo, a day after one of the vehicles collided with a visually impaired pedestrian."
-    publishedDateTime: 2021-08-27T12:53:00Z
-    webUrl: "https://www.metro.us/toyota-halts-all-self-driving/"
-    ampWebUrl: "https://www.metro.us/toyota-halts-all-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/toyota-halts-all-self-driving/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 40
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH7Q0I5-BASEIMAGE.jpg"
-        width: 800
-        height: 540
         isCached: true
   - title: "Toyota halts all self-driving e-Palette vehicles after Olympic Village accident"
     excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually"
@@ -638,6 +622,6 @@ related:
         height: 259
         isCached: true
 
-secured: "W62hIF2l3eLpF+Ld7UwMKM/CQ/4A1sIrbUu+KPaxP0k/F6SHRO/Fkd/0sSIdXiVMQMetEOJwoVfF0mHYCxwasyB1844U9Zb5mnITtJXfC57XuMapHYqlp9UWkvMXw82T6/XLnZudvsjKkSUhAxE3n1e2c7i9J6wSuOvzjU4QQdXgTD2bDpivSuv/HAActOnQ6rmvq7oeKguyEOxJFO76d89HOP5SAGb5Q398iW6vL8mxieZSZ31K7qLAVfYOYWD3KPzLoqFgLKR8sM8wnoLb+VoVkhTd25WOsyq4nJc8KkeMOniYk68ggAD/+Xue0PH5yCVu+jtzzR9B9rW5YSli4kDT3xNkNlOoiNdX5QucGVw=;xlxx42kYVeFElfsMWwWa+g=="
+secured: "RoPgmT9EXZ1q4tsV7ZfYReXEiXz+wFdzuMrzlDfNzk1ZQXgA9SnNlTllim2YgjQS2gnkm7Dujc8yZZ3m+itbaLdhZdCTzyX3Zehw6BnaP3/+1xHG6SwiGYtHuznkktZSn9xHCB+nknf0AEUOSoKbFcUSgEmmfb1geFwheXczw2xEB+fX50HdCqK+KpG6h0VXXClee2k0C6DyRJ/BxluraNX1FmVS2jVxsCP6Ji5yRFVPEs6mpEEZq9UJdOaaj9Z657shob1HQe87lKIklzE/HiAeQS4g9I5QQ5eGSAwpaSXSNWpaTOIX4NxWRAGonS642q7/II96rAFSbzd6alAbxk2UfrnL+H9bNcxjgHlmYYY=;IXJjeOBrmT9FQ6MFkpAKdA=="
 ---
 

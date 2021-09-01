@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 721
         isCached: true
-  - title: "State test scores show deep learning impact during pandemic"
-    excerpt: "The number of Minnesota students meeting grade level standards in math, science and reading is down significantly compared to the last time students took tests, in 2019. This is an MPR News morning update for Friday,"
-    publishedDateTime: 2021-08-27T12:18:00Z
-    webUrl: "https://www.mprnews.org/episode/2021/08/27/state-test-scores-show-deep-learning-impact-during-pandemic"
-    ampWebUrl: "https://www.mprnews.org/amp/episode/2021/08/27/state-test-scores-show-deep-learning-impact-during-pandemic"
-    cdnAmpWebUrl: "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2021/08/27/state-test-scores-show-deep-learning-impact-during-pandemic"
-    type: article
-    provider:
-      name: MPR News
-      domain: mprnews.org
-    quality: 59
-    images:
-      - url: "https://www.mprnews.org/opengraph-fallback.png"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Flying Robots Picking Fruits: Leveraging AI for Automatic Fruit Harvesting"
     excerpt: "This article features the mechanism behind flying robots that leverage AI for transforming manual harvesting into automatic fruit harvesting. Click here to know how robots in fruit harvesting can act as fruit-picking robots efficiently."
     publishedDateTime: 2021-08-27T17:30:00Z
@@ -83,6 +67,20 @@ related:
       - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
         width: 1200
         height: 630
+        isCached: true
+  - title: "‘The Future of Recycling’: Rumpke is Using AI-Based Sorting Robots at its St. Bernard, OH Facility"
+    excerpt: "Rumpke Waste & Recycling has invested more than $2 million in the latest recycling technology: artificial intelligence robots that can recover"
+    publishedDateTime: 2021-09-01T03:09:00Z
+    webUrl: "https://wasteadvantagemag.com/the-future-of-recycling-rumpke-is-using-ai-based-sorting-robots-at-its-st-bernard-oh-facility/"
+    type: article
+    provider:
+      name: Waste Advantage Magazine
+      domain: wasteadvantagemag.com
+    quality: 40
+    images:
+      - url: "https://wasteadvantagemag.com/wp-content/uploads/2021/09/grab32.jpg"
+        width: 1302
+        height: 860
         isCached: true
   - title: "Beyond HBM: Samsung Breaks Processing-in-memory Into AI Applications"
     excerpt: "AI applications bring with them many challenges, including data processing and memory. Samsung hopes to take on these issues by combining processing-in-memory with high bandwidth memory."

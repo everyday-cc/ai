@@ -39,20 +39,6 @@ related:
         width: 760
         height: 344
         isCached: true
-  - title: "How To Crack Microsoft Azure Data Scientist Associate Certification"
-    excerpt: "How To Crack Microsoft Azure Data Scientist Associate Certification - Prepare with MachineHack mocks and test your level of preparation"
-    publishedDateTime: 2021-08-27T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-to-crack-microsoft-azure-data-scientist-associate-certification/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/AIM-Illustration-3.jpg"
-        width: 2200
-        height: 1238
-        isCached: true
   - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise"
     excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
     publishedDateTime: 2021-08-31T18:26:00Z

@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-20-artificial-intelligence-ai-in-drug-discovery-market.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market",
+      "excerpt": "Growth of Pharmaceutical Companies and Cloud Based Services Artificial intelligence (AI) in drug discovery market also provides you with detailed market analysis for every country growth in healthcare expenditure for capital equipment’s, installed base ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest",
+      "originalUrl": "https://www.openpr.com/news/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U820518554_g.jpg",
+          "width": 599,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2362368/artificial-intelligence-ai-in-drug-discovery-market-latest",
+      "publishedDateTime": "2021-08-20T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma.md",
+      "title": "How AI can tackle complex social problems, from loneliness to stigma",
+      "excerpt": "Arezou Soltani Panah is teaming up with social scientists and policy makers to solve complex problems like loneliness and family violence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/",
+      "originalUrl": "https://venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/amp/",
+      "publishedDateTime": "2021-08-20T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-cardiomatics-bags-32m-for-its-ecg-reading-ai.md",
       "title": "Cardiomatics bags $3.2M for its ECG-reading AI",
       "excerpt": "Poland-based healthtech AI startup Cardiomatics has announced a $3.2M seed raise to expand use of its electrocardiogram (ECG) reading automation technology. The round is led by Central and Eastern European VC Kaya,",
@@ -1078,101 +1173,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-ut-southwestern-pioneers-pulsar-integrated-radiotherapy-with-immunotherapy-for-improved-tumor-control.md",
-      "title": "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control",
-      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/926055",
-      "originalUrl": "https://www.eurekalert.org/news-releases/926055",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-tesla-to-hold-ai-day-at-a-time-of-new-scrutiny-what-to-expect.md",
-      "title": "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect",
-      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-387828?width=700&height=466",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "publishedDateTime": "2021-08-19T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

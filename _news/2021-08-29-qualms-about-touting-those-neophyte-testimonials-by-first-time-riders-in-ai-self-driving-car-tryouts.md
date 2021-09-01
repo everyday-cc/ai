@@ -89,15 +89,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Will self-driving cars dominate roads?"
-    excerpt: "Many companies are developing self-driving cars with the goal of making transportation a breeze for everyone, but the necessary technology still has a ways to go."
-    publishedDateTime: 2021-08-27T11:57:00Z
-    webUrl: "https://kdvr.com/video/will-self-driving-cars-dominate-roads/6930238/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 4
 
 secured: "F/pVYD4CWuH1Kx+A8HgFtj6AFEE2zfVf9merlHE6h2MZ1JdfRkUS6x0nHGPY2oC0EmpqfDf974qWvztXd9tVMYd/jpQdVr9pGBjL0HK35l7gypFsPr4p0IDYE5Ao42LqfZwFVdRLLwGFrTeIwAWLdsEgl8BVaKUH9HybS5A9FB0HRmu6MVfhydrnPRXP1yMwN7jJtCiL8eoq5zH6rwvp8Y3fgSpw0pUr0+gz1dwsH9BEusumRfqWHArsQFSZJf6lWxRxFQXDOw77BvUTa4zxRhlDN8HHuDXdp6ARUOWl5uf8pshaAo461Dpt2vuoXqldXMGZzdelj+6dvD2+MPhJtrplLkikamLH5bt3KKeaOZL/cKMp3Y6+4YSBtYoWhjKLnEi8uUB7lsMDF5D7SiWRL+HvRtf1YXdxhjNgaB9AEgg1s7p18ZqJrMXs8udbJVzko7HHkg205ydflyCOJqHmFwo241wGGQvRDETFK0oGbesfaOqY0H595bHZ/8pcFKlZ7vA9Bl7M9Dxm5YkFr8kSOA==;4uC9jydf10OXir6GFQutEw=="
 ---
