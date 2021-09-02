@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruis
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Special Report-How the Chinese Tycoon Driving Volvo Plans to Tackle Tesla"
+    excerpt: "REUTERS/Aly Song Reuters HANGZHOU, China (Reuters) - \"Do you know how big Volvo is?\" asked Don Leclair, finance chief at Ford Motor Co.. It was 2008, and Leclair was responding to an offer from a little-known Chinese businessman to purchase the Swedish carmaker,"
+    publishedDateTime: 2021-09-02T11:54:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-09-02/special-report-how-the-chinese-tycoon-driving-volvo-plans-to-tackle-tesla"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
     excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
     publishedDateTime: 2021-09-01T09:00:00Z

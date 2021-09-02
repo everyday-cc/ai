@@ -26,6 +26,36 @@ images:
     height: 638
     isCached: true
 
+related:
+  - title: "Audi self-driving concept car: lounge seats, drinks cooler, more"
+    excerpt: "The Audi Grandsphere is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
+    publishedDateTime: 2021-09-02T20:17:00Z
+    webUrl: "https://www.wishtv.com/news/business/audi-self-driving-concept-car-lounge-seats-drinks-cooler-more/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 24
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2021/09/BACKGROUND-audi-concept-self-driving-car.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Audi grandsphere Concept Is a Self-Driving Luxury Sedan With 466 Miles of Electric Range"
+    excerpt: "Only a few days away from its debut at the bi-annual 2021 Munich Auto Show (IAA Munich), Audi has revealed its second of three \"sphere\" concept cars: the grandsphere. Described as a \"private jet for the road,"
+    publishedDateTime: 2021-09-02T20:01:00Z
+    webUrl: "https://www.autoevolution.com/news/audi-grandsphere-concept-is-a-self-driving-luxury-sedan-with-466-miles-of-electric-range-168578.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 15
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/audi-grandsphere-concept-is-a-self-driving-luxury-sedan-with-466-miles-of-electric-range-168578-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+
 secured: "LWiEGWv0jx5A7jQ6Yxax4vX8KoQgTM0y7e/yTDSEceWopAp7oBBmcT4qHE2zJ54mTH+3Atp5zQTGrl+Ju6rmZsa6gttcZKGh3WxWrP/2QbxZ0sEb4eIxDxVl/Xh5aqAt9fQFu388XIS8JoSPTzjr9UFeyLWrla1SCCqXQobI0C/cmv9pq5X+uiUfPLVqbaOEf99061ErYPyKTtPRaWqYVpHATvnpOJXQToCXQ41jdE43Jg7Q3J675jLZXcY/vB+grZbXn0uHtHb9PD2PnqDzUx7tSb7DAhhWpdQ7ZDqO9rHD+aNlc2gmg9vCx3yUgDoH1FRE3fb9YgU7aM9WExfVMdLqPLQUYpBJni1T1qRVvA0=;n7OLbzcJNhDVSNA7X7LAhA=="
 ---
 

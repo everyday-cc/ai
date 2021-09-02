@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Special Report-How the Chinese Tycoon Driving Volvo Plans to Tackle Tesla"
+    excerpt: "REUTERS/Aly Song Reuters HANGZHOU, China (Reuters) - \"Do you know how big Volvo is?\" asked Don Leclair, finance chief at Ford Motor Co.. It was 2008, and Leclair was responding to an offer from a little-known Chinese businessman to purchase the Swedish carmaker,"
+    publishedDateTime: 2021-09-02T11:54:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-09-02/special-report-how-the-chinese-tycoon-driving-volvo-plans-to-tackle-tesla"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "The US to investigate increased self-driving Tesla-related incidents"
     excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
     publishedDateTime: 2021-09-02T16:43:00Z

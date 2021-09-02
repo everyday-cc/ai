@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "AWS Announces General Availability of Amazon FSx for NetApp ONTAP"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability ofAmazon FSx for NetApp ONTAP, a new storage service thatallows customers to launch and run complete,"
-    publishedDateTime: 2021-09-02T16:02:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/09/02/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon FSx for NetApp ONTAP, a new storage service that allows customers to launch and run complete,"
+    publishedDateTime: 2021-09-02T15:59:00Z
+    webUrl: "https://www.nrtoday.com/ap/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap/article_8813b654-0f4b-5d0a-a52f-ff3527547f19.html"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 34
+      name: News Review Today
+      domain: nrtoday.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HdJQNWZOkjhpGwv5dKXbNYXAK7ykoFXiZ3v9eP7aZVM/nXhp2ILdcP5P/gNeHF9lazcqq6MXhDnxvPx7D+ip83TGjXnBmVHYSilIKs5KuMef3shYmR1PXC9nx9QfMpAIyBPfttWlBqpHFGtj39LFQyBdrroXyFcFplngSpP9hSNBDwreR3+PNhVyk0ron0+5G8NCbfDgF00HU8sBrFL4Kq9VVhzWY+eZYbu20PCScDo73/RyD3s8TzHXkc2ZvuiMDj8l92UNGSHYYLc+s48c+CUrW0wAOBf17akK7f+Uldrjt5bKD5syEmbqQGLNs4RlCAgRDqymA/v1lctiJjXAMkMpQcs8G5BdRON39r0yODs=;Zm5wOZMt/fqa+DZlpi/pmw=="
 ---

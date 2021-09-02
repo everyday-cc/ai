@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "In China, AVs are getting help from the surrounding infrastructure"
+    excerpt: "With the help of 5G, autonomous vehicle developers in the world's largest car market have taken the lead in integrating roadway sensor data."
+    publishedDateTime: 2021-09-01T15:00:00Z
+    webUrl: "https://www.rubbernews.com/automotive/chinese-av-developers-getting-help-infrastructure"
+    type: article
+    provider:
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/16APOLLO-MAIN_i_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "/vfSS6vNoMraufsUQrSNc5EvoJOeXlhu8ICC2bfoDDfqco+feARfpwqtr1p3SDBVGLqA03kqTfDBM+bcqMPxftqwH+8PCwGOb6pnTohtdJxk5B1L/6pijdKWafKNGgEwyp78+GGUXRZvYffJEeqIu1Dz0TdQ9F5o4qddXtTOkcOkw4FpV6i5Lm9dVeMo6uBwzkbBV14UL5+j66YC1hMMWeIbE5wEEfC/QgJBJICZI0yINb4ncG0Vcou/v9Cej+sYncBfpt458YP+HKz0u1yj0+24jlFmh3aNV9EW5Dt1n/C7tpkr9crblk+BnXok5xEsMhTb5YOhgn8t8fGrMoNt0MS9VRqIqREsqxT2eUScKUg=;bkqhYM9qCRarchaD6TxJOg=="
 ---
 

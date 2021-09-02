@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-1030773901"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -24,6 +24,22 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”"
+    excerpt: "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war."
+    publishedDateTime: 2021-09-02T20:42:00Z
+    webUrl: "https://futurism.com/the-byte/elon-musk-robots-coming-anyway"
+    ampWebUrl: "https://futurism.com/elon-musk-robots-coming-anyway/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-robots-coming-anyway/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 76
+    images:
+      - url: "https://wp-assets.futurism.com/2021/09/elon-musk-robots-coming-anyway-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "4 Specialized AI Stocks to Buy for the Boom"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally, it appears that companies that have developed artificial"
     publishedDateTime: 2021-08-31T17:06:00Z

@@ -48,7 +48,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Human_robot_tugawar_shutterstock_Elnur.jpg"
         width: 1000

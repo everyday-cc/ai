@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Collision With Paralympic Athlete Forces Toyota To Halt Self-Driving Bus Service In Olympic Village"
-    excerpt: "The autonomous vehicles had been specially designed to cater to the needs of both olympians and paralympians, utilizing Level 4 self-driving technology."
-    publishedDateTime: 2021-08-29T03:09:00Z
-    webUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/"
-    ampWebUrl: "https://www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/08/28/collision-with-paralympic-athlete-forces-toyota-to-halt-self-driving-bus-service-in-olympic-village/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612af96eccedf1b532c3fdbf%2F0x0.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "A Self-Driving Bus Has Hit A Paralympian At The Tokyo Olympic Village"
     excerpt: "There are always consequences of using autonomous vehicles…. Earlier this week, a visually impaired Paralympian was hit by one of the self-driving shuttle buses around Tokyo Olympic Village which resulted in leg and head injuries. The autonomous bus was ..."
     publishedDateTime: 2021-08-29T17:45:00Z
@@ -168,22 +152,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/08/120336697_20201222_01_04_s.jpg"
         width: 976
         height: 549
-        isCached: true
-  - title: "Toyota Suspends Self-Driving Bus Use After One Strikes Paralympian Aramitsu Kitazono"
-    excerpt: "Toyota has suspended the use of its self-driving car fleet, otherwise known as e-Palette vehicles, after one of them struck visually-impaired"
-    publishedDateTime: 2021-08-29T04:14:00Z
-    webUrl: "https://bleacherreport.com/articles/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono"
-    ampWebUrl: "https://syndication.bleacherreport.com/amp/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono.amp.html"
-    cdnAmpWebUrl: "https://syndication-bleacherreport-com.cdn.ampproject.org/c/s/syndication.bleacherreport.com/amp/10011240-toyota-suspends-self-driving-bus-use-after-one-strikes-paralympian-aramitsu-kitazono.amp.html"
-    type: article
-    provider:
-      name: Bleacher Report
-      domain: bleacherreport.com
-    quality: 37
-    images:
-      - url: "https://media.bleacherreport.com/image/upload/v1630207231/muqhv4cmgkfsclstwuzo.jpg"
-        width: 4420
-        height: 2941
         isCached: true
   - title: "Toyota shuts down self-driving vehicles after car crashes into Paralympian at Tokyo Olympic Village"
     excerpt: "A day after a self-driving vehicle hit a visually impaired athlete at the Paralympics, Toyota has paused the program entirely. The Toyota e-Palette struck the athlete, identified by the Japan Times as 30-year-old judoka Aramitsu Kitazono, as he was ..."

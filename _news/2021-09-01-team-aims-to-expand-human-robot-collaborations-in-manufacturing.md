@@ -7,7 +7,7 @@ originalUrl: "https://insights.globalspec.com/article/17294/team-aims-to-expand-
 webUrl: "https://insights.globalspec.com/article/17294/team-aims-to-expand-human-robot-collaborations-in-manufacturing"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 883
     height: 546
     isCached: true
-
-related:
-  - title: "Investing in automation: Strategies manufacturing companies need to know"
-    excerpt: "Control Engineering - Learning Objectives Investing in automation and the Internet of Things (IoT) can help keep manufacturers ahead of the curve. Companies also need to"
-    publishedDateTime: 2021-08-29T05:02:00Z
-    webUrl: "https://www.controleng.com/articles/investing-in-automation-strategies-manufacturing-companies-need-to-know/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 23
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/PLEx_WEB_IMG_Cincinnati-Slider-1.jpeg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "paw8ln/HYRF9bj5X/Xbnq/e4h/JlkAB0KKhBgKqmgZpeXsBiO7XO8VuaHUaRcNIwRffOK08gtRy6aAIq8szn62ltmekPMMc8Jjm/zxRtqYRqfnNTrTSzjEXMYfuCtJsLucNB18v7dv593JObrSp66/Mw8f4QkEf95QxW6WLOBVOOdUYbLyyh9FClfsfEl/QFBNOa2ZmaCOtUHyChKVqHwaAJUYbMDN2zBfHdAXaux18EcZQMn1EA80NO4pqt+uuaFelOoVOKN8uTV6EIkYR6EpCbzNEDXAFnYMaeuXVvi9/zKP86vURId9NGjk+hu0myvEX4r3c56F2YMIa/Jks0DzKY7zPckoKahWAHD/Jrn8QFJgW1u0cVtwftaIK2tmednWR5L3wo1nFIRFPIL2de1Gq6uaeTg6Txg9lI7YL93oijAI0rJkCsSpUp9cZjcQHis3ytZSImXiDOb8D9c9yBY0LyfShyedxDqA1lFBGRxKq4i7jBf3WSW83mPoEI2cCqpHC605y2ypKcT6V1IC2EEQ==;WTUrE+HkOHQ4OE1GQiZbXA=="
 ---

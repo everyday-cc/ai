@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210901/New-AI-technology-for
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-1.jpg"
         width: 1920
         height: 1920
+        isCached: true
+  - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
+    excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
+    publishedDateTime: 2021-09-02T21:23:00Z
+    webUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness"
+    ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 56
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
   - title: "New artificial intelligence tech set to transform heart imaging"
     excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"

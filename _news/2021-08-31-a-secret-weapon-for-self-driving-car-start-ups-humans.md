@@ -71,20 +71,6 @@ related:
         width: 870
         height: 485
         isCached: true
-  - title: "China's auto industry calls for standardized self-driving claims"
-    excerpt: "Drivers, auto company executives and academics in China are calling for clearer industry standards in the marketing of vehicles with driver assist functions, after a fatal accident involving the technology sparked a new round of concern over whether motorists are being misled about its capabilities."
-    publishedDateTime: 2021-08-29T03:25:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/China-s-auto-industry-calls-for-standardized-self-driving-claims"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F4%252F6%252F0%252F36120649-2-eng-GB%252FSD2.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Apple self-driving cars involved in two recent accidents"
     excerpt: "Self-driving prototype cars from Apple were involved in road traffic accidents, but it wasn't the technology that was at fault"
     publishedDateTime: 2021-09-02T12:49:00Z
@@ -112,6 +98,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "Apple Inc. (NASDAQ:AAPL), NIO Inc. (NYSE:NIO) – 2 Apple Self-Driving Cars Said To Be Involved In Accidents Last Month"
+    excerpt: "Two of Apple Inc.’s (NASDAQ: AAPL) self-driving cars were involved in minor collisions in August, according to a report by MacRumors that cited data from the California Department of Motor Vehicles. What Happened: The first accident took place in San Diego on Aug."
+    publishedDateTime: 2021-09-02T11:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_apple-stock/apple-inc-nasdaqaapl-nio-inc-nysenio-2-apple-self-driving-cars-said-to-be-involved-in-accidents-last-month/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 16
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/alexandr-bormotin-ntmu8vcwqe0-unsplash_1_1.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4Kbcr5Rk3vIieFsenD+VqdmBAbHX0mtwrb4S5XkOgGAFG9DH7tKh5/J+/qDVOd8LwyXzmI4yBGCXB1Kluaof3d3QqiX6u9e50aQ5IjGf15kWnKnL9Az76vFHhD02/DC2MHIQIJFpdTpbkaO6tPuE//65Ab1aYhrBefEdWswpf5CtR+uxlr8AWxdDXpm4/0yBRW3VT2pYAqKGYSmgQbkVgxy0PdZQdmK7AGII0Gl30jefCALBS6GKu5LxOrEn3vF4aKuDAbmzdON/JgLGK0QF9BxO401us0L601byv3ODwWS4HpdtG3JO3moOocunUN2L6XKMC49cUxrNg30f+l51sy+aGWstI7psa4T/EzGfQK8=;AmFVbeA39CI5QhwSnpVFkQ=="

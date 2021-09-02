@@ -152,6 +152,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Military Market Size 2021 And Forecast to 2028 | Keyplayers – Lockheed Martin , Raytheon , Northrop Grumman , Ibm"
+    excerpt: "In the recently published financial credit Artificial Intelligence In Military Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim."
+    publishedDateTime: 2021-09-02T21:03:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-military-market-size-2021-and-forecast-to-2028-keyplayers-lockheed-martin-raytheon-northrop-grumman-ibm/?noamp=mobile"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-military-market-size-2021-and-forecast-to-2028-keyplayers-lockheed-martin-raytheon-northrop-grumman-ibm/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-military-market-size-2021-and-forecast-to-2028-keyplayers-lockheed-martin-raytheon-northrop-grumman-ibm/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 22
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg"
+        width: 300
+        height: 212
+        isCached: true
   - title: "Self-driving Cars Sensors Market 2021: Size, Huge Growth Opportunities, Business Scenario, New Technology Upcoming Trends and Forecast to 2026"
     excerpt: "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Self-driving Cars Sensors"
     publishedDateTime: 2021-09-02T08:05:00Z

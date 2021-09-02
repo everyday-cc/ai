@@ -31,6 +31,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”"
+    excerpt: "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war."
+    publishedDateTime: 2021-09-02T20:42:00Z
+    webUrl: "https://futurism.com/the-byte/elon-musk-robots-coming-anyway"
+    ampWebUrl: "https://futurism.com/elon-musk-robots-coming-anyway/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-robots-coming-anyway/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 76
+    images:
+      - url: "https://wp-assets.futurism.com/2021/09/elon-musk-robots-coming-anyway-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "kvoPGuaOBaYb1UdZWJ5uCSF6g+UoQcJgQp1SGIQFm/mwW0qruZUJ/hWMQs5mK5foR7KlZCsynclfw1RY5DS49uxHj9azCW/0n1dGex4DsHyZIT3dT2Bcm7uTYlJ660JjYH62R+Vnh5ZtNMi71yKdR4ge2DU6jMK05bde5UqepT2UWo49zzQQJuIW8y8z1wTPxZ7Jh7rF/4chd+s3NflcCNVrtWQMdgdocVjdbFx8joHKNl7pQ4hG8gzHV/UWHuq4JsQVzpbBymPa7/5mqgWnEMptQMe6zsZueUdv6zkRPs1mBA8J/NxOQbEUYhW7t8MT/8wjPFhKekiHgDs+5dxnprMeC80EawZYqZ5h9thyX9Jh4BeCasj/iDUnrb+sPhhfcfADvQSxKYmZJzy9sSkt0Vzd1YUtK5RBwcE11xFgqD8Ai6jHRGblUtTBAgIot8XFJ+ObaXMlpGrH/XEaeUeX1cT3dnn3c2dab2dlspkbH9VvrGP4TQ/2pFMovfBUehIku4zMA4D6sSMK0ujB6uWXGw==;NLGDOgBwaxvu83nhygakAQ=="
 ---
