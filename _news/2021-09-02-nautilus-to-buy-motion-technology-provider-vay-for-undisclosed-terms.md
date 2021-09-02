@@ -22,6 +22,22 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Nautilus To Acquire Motion Technology Start-Up"
+    excerpt: "Nautilus Inc. announced that it has entered into a definitive agreement to acquire VAY (pronounced \"way\"), which specializes in motion technology."
+    publishedDateTime: 2021-09-02T12:27:00Z
+    webUrl: "https://sgbonline.com/nautilus-to-acquire-motion-technology-start-up/"
+    type: article
+    provider:
+      name: Sgbonline.com
+      domain: sgbonline.com
+    quality: 22
+    images:
+      - url: "https://sgbonline.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-9.42.16-AM-copy.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
 secured: "CCE9yDSlsRiPhukq0j/hSGOtyrYbrIYEnmDEiiNAl+AolR5zur+6PjsKhaVq9R/8bjsYQfgXkRd/jMOfuP+OEFy1xgwC8fP1dspEyuFhkDOKSlHC6iZAlmd4tzba6BCb3u1HUbAiWZTlU1j84pk/ZegM55wtlNcyyJ9TBT2AW5mpRCi/LwdCZ78Rh5AbhjsqWEfQy8G46ncpPzyQf+lJyXr6Xub6Sru22P/W6Os8ygm4A7dHoqy2Xl+2JEwSth47ql0zt+PQSsKk8s692y/iCb/loLoRuqviUUKHTjXcjcGmtn3wbW4JwzcqfgGeNB8UY87TqLaHSqbzWFlwmb3jlNEpzrIH6F6i+t753C5+jSs=;AmBZBLZHFsjFHWFq/9O+/Q=="
 ---
 

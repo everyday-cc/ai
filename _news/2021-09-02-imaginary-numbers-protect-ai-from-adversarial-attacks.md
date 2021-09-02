@@ -9,7 +9,7 @@ ampWebUrl: "https://www.electronicsforu.com/tech-zone/security-and-id-tech/imagi
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/security-and-id-tech/imaginary-numbers-protect-ai-from-adversarial-attacks/amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/imaginary-numbers-prot-1.jpg"
         width: 2100

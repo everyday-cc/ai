@@ -9,7 +9,7 @@ ampWebUrl: "https://losangeles.cbslocal.com/video/5943687-google-self-driving-sp
 cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/video/5943687-google-self-driving-spinoff-waymo-starts-testing-jaguar-robotaxi-in-san-francisco/?amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Alphabet’s Waymo to stop selling lidar self-driving car sensors"
-    excerpt: "Waymo told Reuters that it is now focusing on deploying its Waymo Driver technology across its Waymo One ride-hailing and Waymo Via trucking operations."
-    publishedDateTime: 2021-08-28T19:27:00Z
-    webUrl: "https://techstory.in/alphabets-waymo-to-stop-selling-lidar-self-driving-car-sensors/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/download-2-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "SYP+XKTZPTpucO+LhfGmLd78li3jFSQImWUHVCxRumG7/k4/mOpuRG5q2IE3ANVNLbmHtePlW5whFPLq9qvcZ8G7eSdD6UJuk0TE1dorqeYtP+grsvdT2qWcdeXHo4l7ShohHNE7kJcoNt8qThfmmwBtpaaLq6beZwFaCHZe3IzsunVQel5JRY/76qMyJGzhOeDJNjbAg9+zVcO7B2NT6xk5nhedGnud26PNHWv1+1MuBPbyr49PG4uF+uewDJm/3OUxC+o1ZtwxxwYioq6W0EwKFxt9rYFurkYVEAgvwGJTizF2w/7N7zQlEHatAyVuHUNkaUz3aAR6pbe1MfibP8dkSCdmHMJuxSamlnzVL1kiJ1beR64cYhL0c7bSQ+8Hui1CdK5/AuVWvvTK/JP9g0Fs4gTaUZfaZqaHFlsZ/5pImA7cWjWHmNFEnuklcMrpMQNIURHRI0ucmNnQgGMaa7iesYfSjive3IOnW3H9P4svDnsKl0ROxY2OiIyeW5FUrdLfkukfgBqVWruE87n3pA==;8e5VBI9HG61C5rdvaLYJwQ=="
 ---

@@ -34,6 +34,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 20
+  - title: "Lantern Pharma Expands Management Team with Appointment of Two Leading Industry Executives to Support Clinical and Manufacturing Initiatives"
+    excerpt: "Lantern Pharma Expands Management Team with Appointment of Two Leading Industry Executives to Support Clinical and Manufacturing Initiatives"
+    publishedDateTime: 2021-09-02T13:02:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/09/02/lantern-pharma-expands-management-team-with-appointment-of-two-leading-industry"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1216507/Lantern_Pharma_Logo.jpg"
+        width: 400
+        height: 296
+        isCached: true
 
 secured: "4ABCEfpzpW5f4FuxxyP7j9+wV0Arr4teExwAGyszl9NYIayNXJsrNwsrF+2VcXZuOGsdbPtORuLsRaT8Q8cho0r/eK8YYaANRFr0mup1lb5MEvzvF/FJfkDf7aWxJAuNW8SdOEF2VBvxzH0O2He1GFgVSnvD/ih5euAlouDglJr8+nvEzfp4bq2ANar9PL2uqZ+KHj1HUfc+GMfCiLRcVCcjFgGgZQpuCaoaZkKSGDsXFGfOzZCgVwF21zjY7dgmBRGc4uUxo/rZ5SmlM6o6Rwin4atxnCOI7QqlBatyZn4FUCCMzrdovXvDAETt9HbIXyxJphQELLfwVJguRrM/hf4Mi2hPJiedY1ZyIzMSx9og5coQk15c20kfypc4Y8oCsaqRU+S/Dje5M1LK7CfEd9VbK2BZwaRyQzbBVp0sPtK/iTdrrn0PnAa4Gn2dJVtFh09Ig33xpm5iBHDlrlSyr4yQS3u9MhTwZewQtUBLXE7CnPz1Fr1Ymg6CFRu7FyDc0k+anKb3+AlCjODUTN2dmA==;LbJ+QAn5zj2IZv7/VSBq/g=="
 ---

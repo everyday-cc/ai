@@ -41,6 +41,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Sigfox and Coral join forces to spark IoT innovation with AI at the edge"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-09-02T12:27:00Z
+    webUrl: "https://iotbusinessnews.com/2021/09/02/78965-sigfox-and-coral-join-forces-to-spark-iot-innovation-with-ai-at-the-edge/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 36
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/partnership-iot.jpg"
+        width: 800
+        height: 360
+        isCached: true
   - title: "The past, present, and future of AI in financial services"
     excerpt: "As the use cases for AI in financial services continue to grow and deliver value for organizations and customers alike, I’d like to provide some insight on where I think the technology is delivering most value at the moment,"
     publishedDateTime: 2021-08-31T10:50:00Z

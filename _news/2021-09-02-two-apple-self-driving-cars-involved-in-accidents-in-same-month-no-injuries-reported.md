@@ -99,6 +99,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Apple self-driving cars involved in two recent accidents"
+    excerpt: "Self-driving prototype cars from Apple were involved in road traffic accidents, but it wasn't the technology that was at fault"
+    publishedDateTime: 2021-09-02T12:49:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/apple-self-driving-cars-involved-two-recent-accidents/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 24
+    images:
+      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2020/12/Apple.jpg"
+        width: 1440
+        height: 897
+        isCached: true
 
 secured: "/NnktdWbepFcY8mWU63jDe5Bs8r7v8VbD+71KD/6rJNT8SpkcDc4mr+jmbRXmARMtqcv9sPNXBnD/wUqANrcSX0R/c8ri8KhXyPUlG9ztIezY3VBoo19hk8p5J4D/4OvBmwrIAVUjD0FpxXyUWwprpoCtZ/ik0TIyBNVe2zpwylS9jCNlHkbuo9GMwS0rawQLWoK+bqE0Z0tiK03Zo9tzyQw2wguxGndgf87v0HWGjh3WVB/yARQM93sM5OeHHq/JuxypOGixXccSvo7t5xxO7Qk+zB8JO2hxLWnNN9MdedELpYxMU1DtYNZSc88nDB9r2AjbADweLPcbzm3flIv8sDOgevXsQx7GUPDBhTJwkMbCiDp0YXIWevlkcmgdCHzdoy18x9W6L7VnWzyyjMOOU5sqMp38v3TbytDItX1QyJdONoBXgkeEGUJCgYFRtV/SL/LinYC2mFiQOJ/XRDwDZDLU7KgeZqNdlJjVysP1FCymmxQJJaE0sq3Z8n7QpuYAPjCKihN8OOhlk2I/ZPJcw==;zTkrng076FA2iCzbtFpHYg=="
 ---

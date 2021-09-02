@@ -121,6 +121,20 @@ related:
         width: 400
         height: 252
         isCached: true
+  - title: "Common Challenges Faced by Developers while Developing Fintech Applications"
+    excerpt: "FinTech developers can help businesses build a connected ecosystem and reap the advantages of innovative business models like bancassurance and open banking by creating hybrid integration-ready FinTech applications."
+    publishedDateTime: 2021-09-02T13:52:00Z
+    webUrl: "https://www.cioapplications.com/news/common-challenges-faced-by-developers-while-developing-fintech-applications-nid-8477.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 22
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
+        width: 300
+        height: 400
+        isCached: true
   - title: "Forum addresses importance of FinTech, AI in future careers"
     excerpt: "The minister stressed that the forum seeks to identify and discuss the reality of future professions in Bahrain in financial technology (FinTech), artificial intelligence (AI) and sustainable energy as well as labor market trends and expected jobs in the near future."
     publishedDateTime: 2021-09-01T14:46:00Z

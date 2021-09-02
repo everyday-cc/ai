@@ -53,6 +53,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Worldwide Fintech Software Industry to 2025 - Need to Improve Business Efficiency is Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Global Fintech Software Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the fintech software market and it is poised to grow by $25."
+    publishedDateTime: 2021-09-02T11:42:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=525072"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "riyevBBp0E6O5/6ikAtKKHm3M0l1+pGBAm2uOhJEvWsqUXcLQFr5P8MWBfvDmnc8oi55v84qxFMJF5xwTT9wObFOS0rp1Rw0aVNzlgNLhYQPF19+95b1JVL2ZJSWn7oFxI8VJgXcqFCx+SMtVix+y4L/toeU0AHo0UAi20NugUGEzQbaCE5H6DRBf3AHuUlOx3HRB3uq1PYqt+UBrKFQRowLYLZUmFUZ3mIrGy8W+kRJpOdBq8PAqv1nUPzl9svVBZZTxYFYipoXW1U4D9EV9xWehspe5b75ppFflL80OAbm0y8i6uX2nJo7JtWaRX4eB8sUJe4itko0i+9QVT7NP4dTXwiJ6MW/sbIBPlajohzzr+xu6Y0rddvVwybAa/PevpxeD36eKnag8C2tqtSbAbSeE2yfgRCuekkIP6jl7U+M2tzPBuUAhPduF23QV0JmAL4OycZghveW9+b6bc0BzxDTRJpbV5iV7Qltc0M9DgaMj3m+1ersHtJFCr6k0f9pNYJuac5Ds1zGZqs514lzBA==;oI0bXbVuP6VFCFtUk0eLig=="
 ---

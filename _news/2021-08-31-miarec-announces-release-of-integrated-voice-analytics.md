@@ -55,6 +55,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "CAG urges for greater use of data analytics, Artificial Intelligence"
+    excerpt: "Comptroller and Auditor General of India G.C. Murmu on Thursday urged the auditors to make far greater use of data analytics, Artificial Intelligence and Machine Learning for optimizing efficient use of their own scarce resources."
+    publishedDateTime: 2021-09-02T12:28:00Z
+    webUrl: "https://www.freepressjournal.in/business/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 37
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-01/3b2dd1c1-ba9f-430b-98c0-bd68bdfa8c0c/etc_lead_jan_17.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Morgan Stanley leads $1.6 billion round in Databricks"
     excerpt: "Databricks, the Data and AI company, today announced a $1.6 Billion round of funding to accelerate innovation and adoption of the data lakehouse, as the data architecture’s popularity across data-driven organizations continues to grow at a rapid pace."
     publishedDateTime: 2021-09-01T11:39:00Z

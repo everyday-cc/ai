@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a-simple--short-overview-of-virtual-assistants/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

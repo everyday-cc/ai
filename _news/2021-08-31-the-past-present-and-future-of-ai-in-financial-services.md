@@ -49,6 +49,20 @@ related:
         width: 800
         height: 510
         isCached: true
+  - title: "Sigfox and Coral join forces to spark IoT innovation with AI at the edge"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-09-02T12:27:00Z
+    webUrl: "https://iotbusinessnews.com/2021/09/02/78965-sigfox-and-coral-join-forces-to-spark-iot-innovation-with-ai-at-the-edge/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 36
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/partnership-iot.jpg"
+        width: 800
+        height: 360
+        isCached: true
 
 secured: "hDGlIuBVpbaRqvSkx4H50IMS3ksD0pxLqSjvDv25ntwdR69YVWluOO2QKzQ5kCW4j+HUnCOTi44Ays9mbNZoVx8zVD2yDpVYcMUTx6BBzmhSQBvmP/9bxPruC1k2FjevcTz8PrF0mDjaoInw/0P4dLe55v5wSdT7S2pm/KwGGnAnWXo/P3zY94E61jE1QlYE77qfG1SMW7VXGBPzSyc+iozWrn7Lw+gWZhxiw/vAW6T6oh6wo87VsaAoDditOVSjlx4pzyZklHH3cOMkOLBL2bbG6j2qddGo8/xlKDZtR9g8Yf7SyNtcLSL6izTnpVn5lpkHyh4jMdvW1k/679sIOxbsrWEXYo0kc+rGaJPCgwv9QdNhY0IUs6Ku6TyZaU3RzhJjE6arWqP/BlyWV3rEkhxWdskggLmmIC3ZF15P6DUzDMj72l0cOD7W2mmStW+7RSQKloM7f8i/LoLW3Ai3KEDYd741veaEVjgAmGbzc6ICmhhVy6EVGPD5r/GNgsX3eZb6Ymz7lZGq+iYCFI3Tiw==;HzCNdTSPFbUFmd4Hf2o3Ow=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-09-imaginary-ai-real-threats.html"
 ampWebUrl: "https://techxplore.com/news/2021-09-imaginary-ai-real-threats.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-imaginary-ai-real-threats.amp"
 type: article
-quality: 57
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/imaginary-numbers-prot-1.jpg"

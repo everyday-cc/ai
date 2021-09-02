@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Case for Artificial Intelligence in Recruiting IT Talent"
+    excerpt: "More AI tools are becoming available to help recruit and hire new technology staff. They take some of the burden off management to find the right people and also reduce bias in the process."
+    publishedDateTime: 2021-09-01T17:36:00Z
+    webUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent"
+    ampWebUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/93d9cbb/2147483647/strip/true/crop/6000x3129+0+436/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2F9b%2F44fc45d24b5b9f92241cff803deb%2Fvirtual-ai-hiring.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Flying robots with AI mechanisms can identify the right fruits for plucking"
     excerpt: "In the past decade, the introduction of cutting-edge technologies like AI, machine learning and deep learning has transformed the overall process of fruit harvesting. Now, fruit farmers"
     publishedDateTime: 2021-08-30T12:41:00Z
@@ -38,6 +54,20 @@ related:
       - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI weather forecasting for smart farms"
+    excerpt: "AI weather forecasting for smart farms Researchers working on smart irrigation systems have developed a way to choose the most accurate weather forecast out of those offered in the week leading up to a given day."
+    publishedDateTime: 2021-09-01T07:58:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=725881"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 37
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0011/725888/IMG_2.JPG"
+        width: 5328
+        height: 4000
         isCached: true
 
 secured: "dVALSCJHquRZFFWrthIeLHf6EByH22oj1GhLRjJbnez8yhDJWvsaBWYS07VmSi8Ww1IXHafJKvo0JZCoCAbr8EZTCdGOH9b1+Ujp3+qp5A/MgJxzLQXDywU0EPXYbpK9pO/KO/Z1M8ybizaliDq+dIaSU046glGufuQhmbmo2Cx7Df21gMLL8ENLnp1Jrcy1gM6wqN+AexmIFdbFSTgQcLbY79g1GQbdnl+eTBsJcp5QqknEQtH4n8XQmLozpITPpgMB7Yv/0K1z1UpI0i8oizo+JJ4bFMKGR1tW9zLp81FhB5ZjDZcsXnhpIwsZz81gmNNVOAbdpVR0nA4gW7EWTtJQc/BuJTi1xBtfw9VtcElL/Ce90q0HnQjywF9sdztRASGPHp92bzRZTp5N3U5NXaiascDKTHYcBIpAO3eKsU8Iqb0BD6VLYPH3920/VDBknLgPgsrizHD4skTz4Qw+pp/fIegrgzY9Gy1AA1LoVlzCCjNpy8IcNInz2K1ZHWxfqnuAeaoUtZekadwl0Brlgw==;IFMlQUN9AftrDRVvEVndPA=="

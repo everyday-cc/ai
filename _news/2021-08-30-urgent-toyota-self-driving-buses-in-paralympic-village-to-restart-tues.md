@@ -322,6 +322,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How the city is preparing for the arrival of self-driving cars"
+    excerpt: "The footage, taken in July, is from a vehicle equipped with technology from Mobileye, an Intel subsidiary that is the first company to test a self-driving car on city streets. The arrival of the autonomous vehicle industry has prompted action from the city—with the de Blasio administration launching a new permit process for companies testing self-driving cars."
+    publishedDateTime: 2021-09-02T12:00:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/how-new-york-city-preparing-arrival-self-driving-cars"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/Mobileye-AV-NYC-Intel-14.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Self-driving buses back online in Tokyo after hitting Paralympic athlete"
     excerpt: "Toyota will resume the use of its self-driving buses, e-Palette Pods, at the Tokyo 2020 Paralympic Games today after one hit a visually impaired athlete. The Guardian reported that the Paralympian, Aramitsu Kitazono,"
     publishedDateTime: 2021-08-31T11:28:00Z

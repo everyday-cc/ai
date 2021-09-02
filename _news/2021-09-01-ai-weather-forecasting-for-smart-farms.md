@@ -24,19 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence weather forecasting for smart farms"
-    excerpt: "\"Every farmer would love to have a perfect weather forecast, but accurate forecasts are even more important to those who are embracing technology, and in particular the Internet of Things (IoT),\" Wang said."
-    publishedDateTime: 2021-09-01T21:45:00Z
-    webUrl: "https://www.nzherald.co.nz/the-country/news/artificial-intelligence-weather-forecasting-for-smart-farms/LFWJORG5XF6XL6PWKW2QC7AZTU/"
+  - title: "The Case for Artificial Intelligence in Recruiting IT Talent"
+    excerpt: "More AI tools are becoming available to help recruit and hire new technology staff. They take some of the burden off management to find the right people and also reduce bias in the process."
+    publishedDateTime: 2021-09-01T17:36:00Z
+    webUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent"
+    ampWebUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
     type: article
     provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/93d9cbb/2147483647/strip/true/crop/6000x3129+0+436/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2F9b%2F44fc45d24b5b9f92241cff803deb%2Fvirtual-ai-hiring.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Flying robots with AI mechanisms can identify the right fruits for plucking"
+    excerpt: "In the past decade, the introduction of cutting-edge technologies like AI, machine learning and deep learning has transformed the overall process of fruit harvesting. Now, fruit farmers"
+    publishedDateTime: 2021-08-30T12:41:00Z
+    webUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-mechanisms-can-identify-the-right-fruits-for-plucking/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 52
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Coming Identity Crisis for AI"
+    excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
+    publishedDateTime: 2021-09-01T21:05:00Z
+    webUrl: "https://www.discovermagazine.com/technology/the-coming-identity-crisis-for-ai"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
     quality: 39
     images:
-      - url: "https://www.nzherald.co.nz/resizer/UOhwEAxxOqxHP6R4Eo8dycns7hk=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/Z5EMLCNZLHGZLWVQL7BOBPRGKA.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/65XSymbGJEL7F2ovzt3sy9/d77df1e9d0a8904ebba41da5e02d87fb/shutterstock_1178406460.jpg"
+        width: 1000
+        height: 625
         isCached: true
 
 secured: "35dhFXpUYvQLs95ufh4atIzbMc/RNHfY/bcDmdwTMZjICSXQsvGqOamubqnJ/2oKsgLuXPB0vs2asOHyV3pZSY4oXhWVoX6ocOGWobWzsZ4PgwbRpaWfd79ZDowcFM6SYhaeCyErihB0HBhw+fBE8XaCEjwJ8xBPl0GS0xkG3ehugPVumFCMm9QWFEc+qeY10YFaXIBk3a7xRPVIxKt4pmB72SmqJY8/2jVeqpa297ICuvOTOUXAhIk279AKQ27z9H2UpkCr8DAM6MqpiNFlmEr3bQKdrcbNa8gyy8knCVVyasVFRo+bAS+hdhW0Cpzo2mxqzy+hn+06YhhlBMmECwiQlr39Oje6CQSi9UPuevQ=;vjcp6PtCCbmW84s4lHpM4g=="

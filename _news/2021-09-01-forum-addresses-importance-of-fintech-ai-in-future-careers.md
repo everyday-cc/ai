@@ -125,6 +125,20 @@ related:
         width: 400
         height: 252
         isCached: true
+  - title: "Common Challenges Faced by Developers while Developing Fintech Applications"
+    excerpt: "FinTech developers can help businesses build a connected ecosystem and reap the advantages of innovative business models like bancassurance and open banking by creating hybrid integration-ready FinTech applications."
+    publishedDateTime: 2021-09-02T13:52:00Z
+    webUrl: "https://www.cioapplications.com/news/common-challenges-faced-by-developers-while-developing-fintech-applications-nid-8477.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 22
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
+        width: 300
+        height: 400
+        isCached: true
   - title: "This Canadian FinTech Co. Jumped 77% in Revenue"
     excerpt: "AI-driven financial technology company Marble Financial Inc. (CSE: MRBL) released its interim consolidated finances statements and management’s discussion and analysis for Q2 2021 on Wednesday. MRBL highlighted total revenue for the three- and six-months ending June 30th,"
     publishedDateTime: 2021-09-01T16:56:00Z

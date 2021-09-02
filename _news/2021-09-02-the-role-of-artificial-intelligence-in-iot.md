@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hongkiat.com/blog/ai-in-iot/amp/"
 cdnAmpWebUrl: "https://www-hongkiat-com.cdn.ampproject.org/c/s/www.hongkiat.com/blog/ai-in-iot/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
         width: 800
         height: 510
         isCached: true
+  - title: "Sigfox and Coral join forces to spark IoT innovation with AI at the edge"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-09-02T12:27:00Z
+    webUrl: "https://iotbusinessnews.com/2021/09/02/78965-sigfox-and-coral-join-forces-to-spark-iot-innovation-with-ai-at-the-edge/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 36
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/partnership-iot.jpg"
+        width: 800
+        height: 360
+        isCached: true
   - title: "The past, present, and future of AI in financial services"
     excerpt: "As the use cases for AI in financial services continue to grow and deliver value for organizations and customers alike, I’d like to provide some insight on where I think the technology is delivering most value at the moment,"
     publishedDateTime: 2021-08-31T10:50:00Z
@@ -51,6 +65,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "jjfH5yhVgOaR9IaaaUgPtXAsrfewHrCZt2OmuQCaPT6IhtQu0mGatcD2u+Kb8oeHKcvOl9TPMWWjIrqZ5GrCyUDqslqO4yrzaAEYmFlwYs04YFdp8lmk2pPLwxcoU5QcdhYJoyho6F3Y0Dn2+62jhFgdg5k+HENIeE7kKM9fBAk67l841+fiABydTL7uUGaXLMRe+y0xojsW5dE+Y5neuPCB7bwC2HVwTeVPiPe29DpZR9rfbyt3vQ5rHYkH7pi2rbcT2/fNkGc5KCQrNUppu3Zw1OaCtb2w25WHGDoQ1BxQjWmE/CbBkzZX72AE7KUuv48oGUKHP3Vep8HymTPmJkCiDCnHqEoOZZqUGtdDaGc=;bfbyWgrbQ8MVw1m9wxpqXw=="
+secured: "8K0Drg7nv6TfXOz34FuiHV6Y6CspTANqRFWm83/GcZS2QPMk25b/AISqOq1LG8c03YfYe7XPkgCe7V3EgGu4EIqILTQ0ET2lV7O64jqq0lkOL6GBhWKxF+ufMLdFonWH0sCZNFa41UVlbz6qoJrJT7lNko1zdJuBc9alAShGUCh9NOBlztBHKzbaPxtDq3CAUcXkTibbijq0HE4M5DEGik6Tu3NX9QYYltKVwC5M7ArvoOEuWz1fnj17+yF4jVdu066F73MlTse7lttU//3O45USc+aRkV426XFM/j+Xyjqo3+Ly8SctuN9pvligAyd+XQmRFeS6NCtHUaqam6WZ+swANi6DZwSelY1rUSRLuv1sokzmI6MwCsMO0qcd/q8T3TrL5M+neBp7uOA1iq42ywgSnC73GPEgCbNUaXpbdyD8x6ls4Qg9o69Hd4lkoX6igobvjO9Jrrq5gpFh/zdMs9hCwusiqcK+xpmjrrRKomkbViM1AL0PvlVKDQ7CD4/BomTnhZ+7g6zefnn6qCbgjg==;m487ETrIujDpiXudK3OpOQ=="
 ---
 

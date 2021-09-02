@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382675"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382675"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/9827233ed5e7ed4158e2d369c66b538c.jpeg"
         width: 400
         height: 252
+        isCached: true
+  - title: "Common Challenges Faced by Developers while Developing Fintech Applications"
+    excerpt: "FinTech developers can help businesses build a connected ecosystem and reap the advantages of innovative business models like bancassurance and open banking by creating hybrid integration-ready FinTech applications."
+    publishedDateTime: 2021-09-02T13:52:00Z
+    webUrl: "https://www.cioapplications.com/news/common-challenges-faced-by-developers-while-developing-fintech-applications-nid-8477.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 22
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
+        width: 300
+        height: 400
         isCached: true
   - title: "Forum addresses importance of FinTech, AI in future careers"
     excerpt: "The minister stressed that the forum seeks to identify and discuss the reality of future professions in Bahrain in financial technology (FinTech), artificial intelligence (AI) and sustainable energy as well as labor market trends and expected jobs in the near future."

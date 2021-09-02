@@ -96,7 +96,7 @@
       "originalUrl": "https://www.hongkiat.com/blog/ai-in-iot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -127,49 +127,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-materna-ips-deploys-biometric-face-recognition-at-tokyo-haneda-airport.md",
-      "title": "Materna IPS deploys Biometric Face Recognition at Tokyo Haneda Airport",
-      "excerpt": "September 2021 - Tokyo International Airport (HANEDA), the 4th largest airport in the world, chose the German SBD provider to equip their self-service installation with the Materna IPS One ID journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/materna-ips-deploys-biometric-face-recognition-tokyo-haneda-airport",
-      "originalUrl": "https://www.asiaone.com/business/materna-ips-deploys-biometric-face-recognition-tokyo-haneda-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/Window.jpg?itok=ny7vE4ku",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/materna-ips-deploys-biometric-face-recognition-tokyo-haneda-airport?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/materna-ips-deploys-biometric-face-recognition-tokyo-haneda-airport?amp",
-      "publishedDateTime": "2021-09-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -286,7 +243,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -569,6 +526,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-the-case-for-artificial-intelligence-in-recruiting-it-talent.md",
+      "title": "The Case for Artificial Intelligence in Recruiting IT Talent",
+      "excerpt": "More AI tools are becoming available to help recruit and hire new technology staff. They take some of the burden off management to find the right people and also reduce bias in the process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent",
+      "originalUrl": "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/93d9cbb/2147483647/strip/true/crop/6000x3129+0+436/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2F9b%2F44fc45d24b5b9f92241cff803deb%2Fvirtual-ai-hiring.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true",
+      "publishedDateTime": "2021-09-01T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -911,7 +910,7 @@
       "originalUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1015,7 +1014,7 @@
       "originalUrl": "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 343,
+      "heat": 353,
       "tags": null,
       "images": [
         {
@@ -1110,7 +1109,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a-simple--short-overview-of-virtual-assistants/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
