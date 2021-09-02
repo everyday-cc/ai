@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
-excerpt: "The fresh capital will help enhance Skit’s voice technology, developing personalised solutions while making strategic headway in global markets, like the US; WestBridge Capital"
-publishedDateTime: 2021-09-01T15:21:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-30b110228741d7d8568b83b60015bdae"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-30b110228741d7d8568b83b60015bdae"
+excerpt: "Leading Voice AI company, Skit has secured USD 23 million as part of its Series B funding, to fuel the next level of growth and product evolution. The investment was led by WestBridge Capital with participation from Kalaari Capital and Exfinity Ventures,"
+publishedDateTime: 2021-09-01T16:30:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2021/09/01/9441341.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/01/9441341.htm"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1606722/Sourabh_Gupta_and_Akshay_Deshraj.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -105,6 +106,6 @@ related:
         height: 800
         isCached: true
 
-secured: "QKI0OVV9z8xt/P76JiHrXbzLg5c4HF++Xd03PopHRZoYqAIyXI2Xusxhy8BhVQAyvEy6TYRFUTwnjefwG0GTmXOyUABGqHHwIf0t741PnLeSHZ3AEM3LK2Xtr5a833CHSHYTaSHIdqFYryq9n+kItRNNSmHm3Vo7p3wB4kYUQlgVcUfb99rewgdmdCN69hX9iXsVAxjIHKvLjmuZD5EW0Yvc6Y0HvrrV4iMmY6NqCVlUYwlr828QXA6dESTrTTLaj++onT4EOKkql9Z07uyT8RRsue3hGjWVQNG/xCiKbU9TLpWxCG6glMsA5dRgwZXx3eC+KcRiZd/li3knBtXLcl/TnRs/QTMypTAeJf8rhpY=;i4jqLvz/kmhwe8DoReLtVw=="
+secured: "hssWfcc1qgUM/lLMLMh4LmYzA7dmefOnA0q4bSKrOcIc6KPgztfgo/IcSeW2DbRhd0dryzmuhxnV/HEuyJyuVRE8EbeUYHlc9TaO+EG4Fl193qycGGeYxLrSv6HwMsbmPLBsuy80dQGUpOn6K2Wa7kEY94Vg5bawKaFci/DqxdLhLGdGCSbhwZ6sMM0tHwqnHxO4fSYr2NEb6AabXeZCd+lhB5aBkeAOzVTlbC90oA/w5CpDZXb1mn+YmpagPzRWn9qukWRif6/lLNKA9PXSFS+mD9bf1XbaZlsczEHMw53Of+GMLBbQu2h3ZTcuGiqVUqUvpRlDqUu8SJ1uFwfT8XNMXerRRll5aAR4GRXUkd8=;oCba2KyWKVBR3/38Mp3mdg=="
 ---
 

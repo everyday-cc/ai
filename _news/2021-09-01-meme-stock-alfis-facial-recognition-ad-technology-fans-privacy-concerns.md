@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/2020-Candice-Wright-1.jpg"
         width: 2172
         height: 1449
+        isCached: true
+  - title: "Meme Stock Alfi’s Facial Recognition Ad Technology Fans Privacy Concerns"
+    excerpt: "Alfi Inc., a small artificial intelligence software company, has ambitious plans to use facial recognition to target individualized ads to people as they walk through an airport, a shopping mall or stare at a screen in the back of an Uber."
+    publishedDateTime: 2021-09-02T01:00:00Z
+    webUrl: "https://www.bloombergquint.com/technology/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 40
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRtwRLK9kZUE/v1/560x-1.jpg"
+        width: 560
+        height: 373
         isCached: true
   - title: "Meme Stock Alfi Fans Privacy Fears With Facial Recognition Ads"
     excerpt: "Alfi Inc., a small artificial intelligence software company, has ambitious plans to use facial recognition to target individualized ads to"

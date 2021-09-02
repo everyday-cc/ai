@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/17131/self-driving-t
 webUrl: "https://electronics360.globalspec.com/article/17131/self-driving-truck-shipments-to-boom-in-next-5-years"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 752
     height: 501
     isCached: true
-
-related:
-  - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
-    excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
-    publishedDateTime: 2021-09-01T20:35:00Z
-    webUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august"
-    ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 41
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
-  - title: "Two Apple Self-Driving Cars Involved in Accidents in Same Month, No Injuries Reported"
-    excerpt: "Testing a ground-breaking technology on a car involves many risks, which the Cupertino-based tech giant was willing to take, but this was unexpected."
-    publishedDateTime: 2021-09-01T19:57:00Z
-    webUrl: "https://www.autoevolution.com/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 17
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "hKi9l5yJpHVsup24pSA0qHe3IOcxm0c2fIfkIHIzpXDe/iTGVAyOVheuX+vKzZkxixaEqW0XEXk2+r07qJg+F/Zy1T6yeABL5v53nPXaDKFaMvUiLDW32Npjj9rkOaTdPku6azsW/8b54BxDx6U5aBe/yS8dx/WMYNIJ4uqUe3z/tOLYGDS28E1wdHv1/46mFcdOBpz7gUdgPVStgV4FQaipUFBOzRPVL0MgWSAk7f9bJVInAKeQHdcpOIEL5GingIBWgOsNyMAc02DzOQYQj/gjzoGQGDmDIQ06rQwmuUAPZ92KaiJREhbq+QUT1agr/FrCoRbRZCVLrpjqh5inm2cYLVx9ZEnjdOpa1w2Mdcf6Vx62pwL6G2iqnvzWZuo6ktBXqhYRHh7ub8nQ9TICl91weAbwt6FVkJiRipbT1nLWih1IEt6mDoPXrq/OQXnGfMl1SB2H8f89onzu5JlXoDW+NEYTquBOSDkJCD6r+8T7OZbzNiqlfApP/061CkNVb0gmJc+d7rPbaABC7pS8lA==;78omwOA5cW6WJu4iRAidwA=="
 ---

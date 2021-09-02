@@ -92,18 +92,18 @@ related:
         height: 800
         isCached: true
   - title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
-    excerpt: "The fresh capital will help enhance Skit’s voice technology, developing personalised solutions while making strategic headway in global markets, like the US; WestBridge Capital"
-    publishedDateTime: 2021-09-01T15:21:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-30b110228741d7d8568b83b60015bdae"
+    excerpt: "Leading Voice AI company, Skit has secured USD 23 million as part of its Series B funding, to fuel the next level of growth and product evolution. The investment was led by WestBridge Capital with participation from Kalaari Capital and Exfinity Ventures,"
+    publishedDateTime: 2021-09-01T16:30:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/01/9441341.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1606722/Sourabh_Gupta_and_Akshay_Deshraj.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "fa6CkXBSOnY+JbmvTsza2tPUi96f2oXYxhRS23ZnNK4q8/Qe9qePaCgPgcGzhzEfbFxN//zo/Qn8tK/h+O6eYP4FDtpNeGqWSRyPQ0CnVSTEceqx8EQcWJEPAQarmoHM33rG4jcFBDOQdsDY+aTkya1MHF2gj8mTd3u97AMuuCO6W5HHcQAdK4DHABUwSTE+kAxwAf0OkIgUbrzPMwzxSUcEvleZ/9yL0tLBAsAZtEw3ONSCQVGh+YucmNw1U5WGAVUSr+AJcOsvBhHVDz4yies5TgBSa9nWzeisiCNPqx2KBMTyY9cUHq90FRN5M6ws/rsK5kENB5Lv29uCBPEkpLuJucG14H1GSk+F4jRNoA0=;Uqk+M3Ba25pDPOcx/9OPeg=="

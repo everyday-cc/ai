@@ -27,17 +27,19 @@ images:
 related:
   - title: "Feds are increasing use of facial recognition systems – despite calls for a moratorium"
     excerpt: "Politicians of all stripes, computer professionals and even big-tech executives are calling on government to hit the brakes on using these algorithms. The feds are hitting the gas."
-    publishedDateTime: 2021-09-01T21:30:00Z
-    webUrl: "https://omaha.com/lifestyles/technology/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium/article_fcbc559f-8145-5b21-8c3a-dc6ddde67925.html"
+    publishedDateTime: 2021-09-01T18:49:00Z
+    webUrl: "https://theconversation.com/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
+    ampWebUrl: "https://theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 31
+      name: The Conversation
+      domain: theconversation.com
+    quality: 51
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/cb/fcbc559f-8145-5b21-8c3a-dc6ddde67925/612fddd567188.preview.jpg?crop=1665%2C937%2C0%2C154&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://images.theconversation.com/files/418725/original/file-20210831-17-1g1kwc7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=239&fit=crop"
+        width: 320
+        height: 239
         isCached: true
   - title: "S. China’s Shenzhen to increase penalty for illegal installation of cameras, face-recognition systems"
     excerpt: "Shenzhen in South China’s Guangdong Province will increase penalties for illegal installation of cameras and face recognition systems with the maximum fine of 50,000 yuan ($7,732.04) for individual and 200,"

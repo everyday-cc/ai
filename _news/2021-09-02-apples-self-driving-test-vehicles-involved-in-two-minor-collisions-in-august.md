@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck shipments to boom in next 5 years"
-    excerpt: "These vehicle shipments will rise at a whopping 186% from 2024 through 2026 as Level 4 autonomy moves to heavy-duty trucks and pilots across multiple regions. (Learn more about the levels of self-driving cars at Globalspec."
-    publishedDateTime: 2021-09-01T12:23:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17131/self-driving-truck-shipments-to-boom-in-next-5-years"
+  - title: "Apple self-driving cars were involved in two accidents last month in California"
+    excerpt: "Apple has been working on its self-driving car technology and the Cupertino-based tech giant was recently in the news related to efforts in forming partnerships with automakers for the Apple Car, but nothing has been materialized yet."
+    publishedDateTime: 2021-09-02T01:20:00Z
+    webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 50
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/131/17131/TuSimple_Self_Driving_Truck.jpg"
-        width: 752
-        height: 501
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/09/Apple-Self-Driving-Car-Testing.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "This Lidar Maker Could Win Big—and It Doesn’t Involve Self-Driving Cars"
+    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
+    publishedDateTime: 2021-09-01T15:33:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-maker-aeva-technologies-nikon-51630453396"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-393971/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
+    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
+    publishedDateTime: 2021-09-01T09:00:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 41
+    images:
+      - url: "https://images.barrons.com/im-393971/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Two Apple Self-Driving Cars Involved in Accidents in Same Month, No Injuries Reported"
     excerpt: "Testing a ground-breaking technology on a car involves many risks, which the Cupertino-based tech giant was willing to take, but this was unexpected."

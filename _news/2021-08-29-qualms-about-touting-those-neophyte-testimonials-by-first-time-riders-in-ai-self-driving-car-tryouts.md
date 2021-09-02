@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-tout
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://lh3.googleusercontent.com/RBxm5pwg7FlRW0ZRr5l9jQtr_kX9vAf9DXWWl6-xC8bWd9LnWmrSVCuKJKIzghcfs-j6usLRb39XqP-pL0CuviFjiDTVdPLIDm8=s1000"
         width: 1000
         height: 562
+        isCached: true
+  - title: "Manitoba seeks the public's input for testing self-driving cars"
+    excerpt: "Having authorized testing of self-driving vehicles on its roads, Manitoba is now asking the public for its input as it lays the groundwork for the program. Manitoba introduced its Vehicle Technology Testing Act in 2020,"
+    publishedDateTime: 2021-09-01T15:15:00Z
+    webUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars"
+    ampWebUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
     excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."

@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence answers COVID questions"
-    excerpt: "A chatbot that is based on an artificial neural network that can carry out natural language processing (NLP) is being developed by researchers in India. The team describes how the chatbot can be programmed to answer questions related to the COVID-19 pandemic."
-    publishedDateTime: 2021-08-30T11:49:00Z
-    webUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
+  - title: "Researchers Predict Arthritis Drug Will Save Thousands Of Hospitalized Covid-19 Patients"
+    excerpt: "A drug used to treat rheumatoid arthritis has been found to improve survival of. The discovery stems from a study of over 1,500 patients in 12 countries and is being hailed as a significant breakthrough for treatment options for people who are severely ill with Covid-19."
+    publishedDateTime: 2021-09-02T01:22:00Z
+    webUrl: "https://www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/"
+    ampWebUrl: "https://www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg"
-        width: 1920
-        height: 1497
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6130243a2183dfa954bf0df2%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Unsupervised AI predicts the progression of COVID-19 and survival of patients"
     excerpt: "Fast and accurate clinical assessment of the disease progression and mortality is vital for the management of COVID-19 patients. Although several predictors have been proposed, they have been limited to subjective assessment,"
@@ -56,34 +56,6 @@ related:
         width: 800
         height: 570
         isCached: true
-  - title: "How AI Helped Companies Survive COVID-19: 5 Tips for Resilience"
-    excerpt: "Tim Lawes, Sr. Manager for Solutions Consulting at Symphony SummitAI shares 5 lessons for post-COVID-19 pandemic resiliency leveraging AI"
-    publishedDateTime: 2021-08-31T04:00:00Z
-    webUrl: "https://hitconsultant.net/2021/08/31/ai-helped-companies-survive-covid-19/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 37
-    images:
-      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/TimLawes-headshot.jpg"
-        width: 683
-        height: 903
-        isCached: true
-  - title: "Using artificial intelligence and eco-friendly printing to kill COVID-19"
-    excerpt: "Imagine if our personal protective gear could not only block the virus that causes COVID-19, but also kill it. Imagine if hospitals had walls, floors, and even bedsheets that could disinfect themselves."
-    publishedDateTime: 2021-08-30T23:12:00Z
-    webUrl: "https://www.uottawa.ca/gazette/en/news/using-artificial-intelligence-and-eco-friendly-printing-kill-covid-19"
-    type: article
-    provider:
-      name: University of Ottawa
-      domain: uottawa.ca
-    quality: 36
-    images:
-      - url: "https://www.uottawa.ca/gazette/sites/www.uottawa.ca.gazette/files/ghassan-jabbour-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Unsupervised artificial intelligence predicts COVID-19 progression, survival rates based on CT scans"
     excerpt: "Massachusetts General Hospital scientists have helped create an unsupervised artificial intelligence system they say can predict patients’ COVID-19 progression and risk of death based on chest CT images."
     publishedDateTime: 2021-08-31T07:16:00Z
@@ -97,20 +69,6 @@ related:
       - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/covid.jpg?h=38c30757&itok=YrVp4qUR"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Mayo Clinic, nference AI studies find antibody treatment may reduce hospitalization in high-risk COVID cases"
-    excerpt: "After kicking off the new year by expanding their year-old data analytics-based research collaboration, Mayo Clinic and nference’s union continues to bear fruit."
-    publishedDateTime: 2021-08-30T15:49:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/mayo-clinic-nference-ai-studies-find-antibody-treatment-may-reduce-hospitalization-high"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 18
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1630336846/GettyImages-1293456793.jpg/GettyImages-1293456793.jpg?L0pfmlFZ8T.JmUAgoPx7LetGIDefZhUs"
-        width: 3500
-        height: 2333
         isCached: true
 
 secured: "5WHE1JR3B+II5liY7mRrhe0z+8UEk8iAFIzrAudVzfSFRw1LlBgWXvJ+GqCavsMQ6AW1O33i+rq15669uN749jJZb8nclbqGL6HkFLOrP66vjAjkr+h/OHbTzDEHRwbbF9yfI0HSU31J45ji4HE+xNCCN5Vj+nrI+ovbQmh9Z0BvsjcgmsWUWSJUPc5gUkOZnrbZO9Gu2YiLNhVRW89Y+0vbaUbK07elwyc28u2cvn1FwvkM+ehVIhFkj8fPwcvLp6h7nytSo4RzfOqMpvFYMK+E44xh8Ue5rUvvSIAtQqjB8ipGb/7M1em6XnBqGo0eBQaX99IcaN7W+YZBMZZiq/WGJwRtcvrVzQPT0MC5fhItaPjpDpgXNgGP0M5aLtUe3lqdmiQCTHNCHqBXcJmehA5TLyoY/HqTLeRtOSs91DA4x3a15g1wnOvptn+x48KlBtqVzrim/VAvGm9MMwAV0QEtWOXWwWm0hZLxQ4kJyb2ro4f21skHidBdlILWnVA+LYMGKY9IJZJcl2Ff0gTAPg==;bTwiZAgwqfji4Y6BnQr7Ow=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210831/AI-approach-helps-ide
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210831/AI-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.aspx"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-2.jpg"
         width: 2880
         height: 1620
+        isCached: true
+  - title: "Hutch scientists use AI to identify potential therapies"
+    excerpt: "Fred Hutch researchers used machine learning and other AI tools to screen, identify and validate a handful of FDA-approved compounds that inhibit COVID-19's deadly cytokine storms, at least in mice and cells."
+    publishedDateTime: 2021-09-01T18:47:00Z
+    webUrl: "https://www.fredhutch.org/en/news/center-news/2021/09/hutch-scientists-using-ai-identify-potential-covid-cancer-therapies.html"
+    type: article
+    provider:
+      name: Fred Hutch
+      domain: fredhutch.org
+    quality: 39
+    images:
+      - url: "https://www.fredhutch.org/content/dam/public/communications/Photo/2021/09-september/210901/social-patient.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "AI identifies heart failure patients best suited to beta-blocker treatment"
     excerpt: "A new AI-based approach could help to quickly and easily identify the best treatment options for heart failure patients."

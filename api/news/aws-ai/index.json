@@ -828,19 +828,19 @@
     {
       "path": "_news/2021-08-20-aws-announces-general-availability-of-amazon-memorydb-for-redis.md",
       "title": "AWS Announces General Availability of Amazon MemoryDB for Redis",
-      "excerpt": "New Redis-compatible, in-memory database delivers ultra-fast performance with sub-millisecond latency and high durabilityNetflix, Twilio, and Cimpress among customers using Amazon MemoryDB for RedisSEATTLE--(BUSINESS WIRE)--Today,",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon MemoryDB for Redis, a fully managed, Redis-compatible, in-memory database. Amazon MemoryDB for Redis enables customers to achieve ultra-fast performance with high availability and durability for their most business-critical applications that require sub-millisecond response times.",
       "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=518978",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=518978",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -853,8 +853,8 @@
       "publishedDateTime": "2021-08-19T10:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

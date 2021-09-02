@@ -7,7 +7,7 @@ originalUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/pr
 webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21236282/metrolinx-selfdriving-electric-shuttle-heading-to-whitby-go-as-part-of-metrolinxs-av-pilot-project"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Self-Driving Electric Cars Could Mean The End Of Short Haul Flights"
-    excerpt: "Self-driving battery-electric vehicles could drastically reduce the need for short haul flying, or even render it obsolete, and slash emissions in the process."
-    publishedDateTime: 2021-08-28T09:00:00Z
-    webUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61262ae06169576215801db8%2F0x0.jpg"
-        width: 1200
-        height: 772
-        isCached: true
-  - title: "Manitoba seeks the public's input for testing self-driving cars"
-    excerpt: "Having authorized testing of self-driving vehicles on its roads, Manitoba is now asking the public for its input as it lays the groundwork for the program. Manitoba introduced its Vehicle Technology Testing Act in 2020,"
-    publishedDateTime: 2021-09-01T15:15:00Z
-    webUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars"
-    ampWebUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
-    type: article
-    provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 44
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
 
 secured: "AKrE8g5FrCBGkjrwOpF8vJBba/Jt93PisfmE9s5887Wn3WzJ9KrGl47TkLcKA8PObT3vjRbICgUQooBadSajtzKlbus3KXqplezgRuBtch1o/XTlqM6TBkJgc1WA3hOGHMUuYitGKK0aiiiHu8yPu5G0ncZcSmf9EeRNgw5AAMo6QvsRVPhAYG59XEZNYqfApe39Y6X2QIhGyhdAboounTD/l8SvnDqZqVMtJ7liT0nhnieLSDTmWFanfasxI5SOXzx+k6rOgzPtMecuYNkYq6mmxzauhxtsFRWHcZC6D2YM97TmzkXHTEPydquJhGkRFrVbDMBSCpaF4z3JNrK1RL1jDM1+vYzhWs9fW/weqJM=;IC0HR64e053anL3ZlZGqGA=="
 ---

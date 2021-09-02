@@ -2,26 +2,28 @@
 category: news
 title: "Feds are increasing use of facial recognition systems – despite calls for a moratorium"
 excerpt: "Politicians of all stripes, computer professionals and even big-tech executives are calling on government to hit the brakes on using these algorithms. The feds are hitting the gas."
-publishedDateTime: 2021-09-01T21:30:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium/article_fcbc559f-8145-5b21-8c3a-dc6ddde67925.html"
-webUrl: "https://omaha.com/lifestyles/technology/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium/article_fcbc559f-8145-5b21-8c3a-dc6ddde67925.html"
+publishedDateTime: 2021-09-01T18:49:00Z
+originalUrl: "https://theconversation.com/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
+webUrl: "https://theconversation.com/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
+ampWebUrl: "https://theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
 type: article
-quality: 31
-heat: 31
-published: false
+quality: 51
+heat: 71
+published: true
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/cb/fcbc559f-8145-5b21-8c3a-dc6ddde67925/612fddd567188.preview.jpg?crop=1665%2C937%2C0%2C154&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://images.theconversation.com/files/418725/original/file-20210831-17-1g1kwc7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=239&fit=crop"
+    width: 320
+    height: 239
     isCached: true
 
 related:
@@ -54,6 +56,6 @@ related:
         height: 300
         isCached: true
 
-secured: "mpYpaTlkuQ9c0LUTW1xFoL7XEU/OnzqrIMI621SjHQ+DdPFaTizgsjkapvquY/kHe2tRJLv36QSl+w46SwQMy9xB383lL/rKecE1J6IRXPjTSLyaB4XSXbwlQ0V8GMUZ2Hlop+vXEWqF92w7Ag/y8XcJTdwPp8bgjeARxYlAujupnbf5qVoCxbmoOYKW+65VB02Ith1NdqpEx4I9BDvC957NEXGFtnG3lP6GvTKHNSFnv2ZknBi193/MO4EphbU698omHzzz3odPupXWbUxsTc3SgJXnRG34v3ux6zqg07FKQiBWS6ZIfiV0jwAdkMVBUA2rH+3/xwOxegFDmnZYhPMIJ6sgCmToy0kj7d+w2nU=;oCEgFM6j0JPa5edRRjv0Xg=="
+secured: "TdN+bNAdwlRueukUIfQ4tYvO+XgzUY6hqqj+Ujd3xy+XISbav4YbQIr4N1rNalrN2V5ifVp0pzqWahfbi/mu86GRzVbO2YuKgIZv+jt6zaapM+01+k4IaSz/mNin3N7ID4JE7j26dteZ7kj5Cats9sBr7AfBR2xGA/z/MfjN9XzR4EceL0nzxG9umMmavYvfvJbnPpIDSJaCvnjjYwLjCN7W1GRfnsqiqpwhF/XMYsOJdtKAqjLeQH6W1rFY9+kx0vsIkzaxo4arLqXHhR0NEMtb+bQBM0RAshJPj8D0ardxO5Q8Qo+hPmNyMjy/kT2rspoXJkzdaVyFkuPbmWNDdse/xaIFWcKmNqtsGBEPBhU=;vQnLb+hWSjAcfWOtEC0GyA=="
 ---
 

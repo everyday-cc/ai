@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-aeva-technologies-n
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple self-driving cars were involved in two accidents last month in California"
+    excerpt: "Apple has been working on its self-driving car technology and the Cupertino-based tech giant was recently in the news related to efforts in forming partnerships with automakers for the Apple Car, but nothing has been materialized yet."
+    publishedDateTime: 2021-09-02T01:20:00Z
+    webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 50
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/09/Apple-Self-Driving-Car-Testing.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
     excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
     publishedDateTime: 2021-09-01T09:00:00Z
@@ -42,6 +56,36 @@ related:
       - url: "https://images.barrons.com/im-393971/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
+    excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
+    publishedDateTime: 2021-09-01T20:35:00Z
+    webUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august"
+    ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 41
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
+        width: 870
+        height: 485
+        isCached: true
+  - title: "Two Apple Self-Driving Cars Involved in Accidents in Same Month, No Injuries Reported"
+    excerpt: "Testing a ground-breaking technology on a car involves many risks, which the Cupertino-based tech giant was willing to take, but this was unexpected."
+    publishedDateTime: 2021-09-01T19:57:00Z
+    webUrl: "https://www.autoevolution.com/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 17
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "MLZcxE6YX8s9y6t/ghUgUok2zJ5BHZx53n4Nsw28ZQZmB97dtMuML3qHb5bYKuLXQ2m+07ALu3bFjPuW4BXXlzTrOAwsmIUNi0/EVtzp8dFW9VEPzs6XZ8b+o/YVgo+K/6iVXwHQoMFnVoKY8K5r9Db2j2jVsqrm2r8evWmT0+7s3ij6ZL2Y2ou952/celjq6YBj6APvYnIV7wYihDOUPjtJKcYPYmW9P6ezlK3RVQQaN/IMb1hDM8ekCcH0Nk8D/K24rEPszppZMnhTz+5htktX+mwbzmo833YjNBpOnviFrPiCtmxl0PFyP9VnfI2udimnGjCQCPWKWyU7pT3a+ZKzgVm/35EXFgNzxWfPUVzV50XXNZQyraVHttpDrYegq69Z6qi3AziwLS1JCWmX4ow7VLyQ1zgNJEGeQwDzjDeMB9czaFdl1qoL3gijdAuaen6ZkbHJ1IS9jBDySLi/Ndx34Nb+OKY5nLAsZqqeq6tNvNiWWKIuFyOSbFrx7a3JXiHcb33uHsr/UW7EtqelPg==;SFms0AwgviPLEuCBX4b3jQ=="

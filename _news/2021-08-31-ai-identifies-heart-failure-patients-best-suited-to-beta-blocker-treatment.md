@@ -57,6 +57,20 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Hutch scientists use AI to identify potential therapies"
+    excerpt: "Fred Hutch researchers used machine learning and other AI tools to screen, identify and validate a handful of FDA-approved compounds that inhibit COVID-19's deadly cytokine storms, at least in mice and cells."
+    publishedDateTime: 2021-09-01T18:47:00Z
+    webUrl: "https://www.fredhutch.org/en/news/center-news/2021/09/hutch-scientists-using-ai-identify-potential-covid-cancer-therapies.html"
+    type: article
+    provider:
+      name: Fred Hutch
+      domain: fredhutch.org
+    quality: 39
+    images:
+      - url: "https://www.fredhutch.org/content/dam/public/communications/Photo/2021/09-september/210901/social-patient.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial Intelligence approach helps to identify patients with heart failure that respond to beta-blocker treatment"
     excerpt: "Researchers at the University of Birmingham have developed a new way to identify which patients with heart failure will benefit from treatment with beta-blockers."
     publishedDateTime: 2021-08-31T12:14:00Z
