@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-27-farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth.md",
+      "title": "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth",
+      "excerpt": "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-robotic-ai-firm-covariant-raises-another-80-million.md",
       "title": "Robotic AI firm Covariant raises another $80 million",
       "excerpt": "Covariant announced that it had raised a $40 million Series B. It was a health sum of money for the young company, bringing its total funding up to $67 million. Just a little over a year later, the Berkeley-based AI startup is adding another $80 million to its coffers,",
@@ -1369,58 +1422,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-video-of-robots-dancing-causes-internet-frenzy-creepy.md",
-      "title": "Video of Robots Dancing Causes Internet Frenzy: \"Creepy\"",
-      "excerpt": "A new video of a dancing robot went viral on Twitter this week for garnering myriad reactions about what new robotic capabilities could mean down the line. Imagine what AI powered machines will be able to do in the next 5-10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/377766",
-      "originalUrl": "https://www.entrepreneur.com/article/377766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626727321-robot-dancing.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377766",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377766",
-      "publishedDateTime": "2021-07-19T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

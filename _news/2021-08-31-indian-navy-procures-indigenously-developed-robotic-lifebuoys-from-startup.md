@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sentinelassam.com/amp/national-news/indian-navy-procures
 cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/national-news/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-552687"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Sentinel
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Top 5 Indian Artificial Intelligence Stocks in 2021"
+    excerpt: "Artificial intelligence stocks aren't as uncommon as you would assume. Many businesses are promoting artificial intelligence initiatives. Investing in AI stocks, you might reap significant rewards in the future."
+    publishedDateTime: 2021-09-01T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-5-indian-artificial-intelligence-stocks-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 41
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence-Stocks.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Indian Navy procures indigenously developed Robotic Lifebuoys from startup"
     excerpt: "In a big boost to the 'Self Reliant India' campaign, Indian Navy signed a Rs 13 crore contract to procure country's first indigenously developed Robotic Lifebuoys. The contract was bagged by a startup -- Saif Seas -- based in Visakhapatnam."
     publishedDateTime: 2021-08-30T16:27:00Z

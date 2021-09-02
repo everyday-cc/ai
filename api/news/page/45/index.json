@@ -2,6 +2,100 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-07-31-why-artificial-intelligence-isnt-intelligent.md",
+      "title": "Why Artificial Intelligence Isn’t Intelligent",
+      "excerpt": "Some AI experts think that the name itself is fueling the kind of hype and confusion that have led to “AI winters” in the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
+      "originalUrl": "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-376905/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
+      "publishedDateTime": "2021-07-30T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-global-artificial-intelligence-ai-in-oil-and-gas-market-to-witness-tremendous-growth-rate-during-forecast-period.md",
+      "title": "Global Artificial Intelligence (AI) in Oil and Gas Market to witness tremendous growth rate during forecast period",
+      "excerpt": "Global Artificial Intelligence (AI) in Oil and Gas Market Stepped Up to Surge Growth Rate Amid COVID-19 Analysis. The report on “Artificial Intelligence (AI) in Oil and Gas Mark",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-artificial-intelligence-ai-in-oil-and-gas-market-to-witness-tremendous-growth-rate-during-forecast-period/",
+      "originalUrl": "https://manometcurrent.com/global-artificial-intelligence-ai-in-oil-and-gas-market-to-witness-tremendous-growth-rate-during-forecast-period/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store5.jpg.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T18:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-load-external-tfrecord-with-tfds.md",
       "title": "Load external tfrecord with TFDS",
       "excerpt": "For TFDS to be able to decode the tf.train.Example proto, you need to provide the tfds.features sturcture matching your specs. For example: features = tfds.features.FeaturesDict({ 'image': tfds.features.Image(shape=(256, 256, 3)), 'label': tfds.features ...",
@@ -1096,100 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation.md",
-      "title": "Five Steps To Using AI Technology To Solve The DE&I Talent Equation",
-      "excerpt": "The significance of DE&I was discovered by corporations more than two decades ago. So, why aren’t we seeing major improvements in this space?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102bb03d2cbb31ebe0ee92b%2F0x0.jpg",
-          "width": 1200,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/amp/",
-      "publishedDateTime": "2021-07-30T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-ai-at-the-helm-of-indias-digital-inclusion-journey.md",
-      "title": "AI at the helm of India’s digital inclusion journey",
-      "excerpt": "The Covid 19 pandemic has propelled the transition towards digital technologies and heightened use of the internet. According to the latest IAMAI-Kantar Cube report, the number of active internet users in India is likely",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "publishedDateTime": "2021-07-30T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

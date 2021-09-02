@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-26-joondalup-supports-push-to-become-centre-for-artificial-intelligence-and-robotics.md",
+      "title": "Joondalup supports push to become centre for artificial intelligence and robotics",
+      "excerpt": "A major Perth council wants to become Australia’s first urban centre for artificial intelligence and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
+      "originalUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.perthnow.com.au/publication/C-3759113/76e2e6c6694853bac73137e934cad47d6de4a2db-16x9-x0y198w2756h1550.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
+      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
+      "publishedDateTime": "2021-08-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Perth Now",
+        "domain": "perthnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-agritech-robotics-startup-tartansense-raises-5-mn-in-series-a-funding.md",
       "title": "Agritech robotics startup TartanSense raises $5 mn in Series-A funding",
       "excerpt": "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms prune expenses and improve incomes",
@@ -1365,58 +1409,6 @@
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-startup-that-develops-ai-pumped-robotic-arms-raises-37-million.md",
-      "title": "Startup That Develops AI-Pumped Robotic Arms Raises $37 Million",
-      "excerpt": "Rapid Robotics’ Series B was led by Kleiner Perkins and Tiger Global, and comes as labor and parts shortages are hitting the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957",
-      "originalUrl": "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-387697/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

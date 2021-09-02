@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jagranjosh.com/general-knowledge/amp/explained-indias-plan
 cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Rojgar Samachar
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian Railways installs a facial recognition system to track commuters"
-    excerpt: "Indian Railways has installed a network of nearly 500 facial recognition cameras to track millions of daily commuters, a report in the Financial Times suggested."
-    publishedDateTime: 2021-08-28T11:15:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/08/28/1104608-indian-railways.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "NtechLab supplies facial recognition for Indian Railways, but privacy legislation still pending"
     excerpt: "NtechLab is implementing a facial recognition surveillance project in India intended to monitor the movement of train commuters."
     publishedDateTime: 2021-08-30T18:39:00Z
@@ -57,33 +41,19 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "Top 5 Indian Artificial Intelligence Stocks in 2021"
-    excerpt: "Artificial intelligence stocks aren't as uncommon as you would assume. Many businesses are promoting artificial intelligence initiatives. Investing in AI stocks, you might reap significant rewards in the future."
-    publishedDateTime: 2021-09-01T14:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-5-indian-artificial-intelligence-stocks-in-2021/"
+  - title: "Government agencies used Clearview facial recognition in 24 countries"
+    excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
+    publishedDateTime: 2021-08-31T11:03:00Z
+    webUrl: "https://www.computing.co.uk/news/4036424/government-agencies-clearview-facial-recognition-countries"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence-Stocks.png"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Army Testing Facial Recognition in Child-Care Centers"
-    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
-    publishedDateTime: 2021-08-30T20:32:00Z
-    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
+      name: Computing
+      domain: computing.co.uk
     quality: 39
     images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.computing.co.uk/api/v1/wps/957b3e5/1560dce2-db4e-469d-86cb-0b930d4c95fc/6/ClearviewAI-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "OrTbtPtgQc3cyfpXEs2SOAxPnALm5TfssLTLUuUGgNT19axwyvb6GJ5ZsMOfk5qg/UWLfNZgQ99RYeYLL+uh5bdKJH7my8P2GeN5/Iw6g44fBBuVEgNLki+EBZTBPIzpRQ5+arC7cZPbqGuzu07poqoAmHJd2VlyXVGctTsMTy3Qhqa0imqH02awWiwikRQ48rJ3zRFHM92EMYcQT40ecavuIn7d/FEJSGb61UvchLy4l21DKVhzgTxNfJzPnj4GOjlhDyVG3HUfJREYre5beVm4e+HIu+810nuDVVgmhHyEQl77ZmYdS2Q/Cb1QWUMygWOSrS1fnov7Gsq1u4PC9gTk+o0Njs7hMhfhmwNNEIalf7DbhoNrkrB+vORmo149JsEFsxP14d0NtnKtEaBi0hULuNYHZjzqXQ0IzRb6yhGZHt2b8EhdowNgl2M+4IFR75vW0xcWBxY8X3z97Jl3opziWDbKNFRHF4WWZOvTo3WFN2OsbKadFJS5ITdIUxtEnwau1DitmoYClgQtI1qYMw==;p9ZHO8itZhBuzWlIfVC7+Q=="

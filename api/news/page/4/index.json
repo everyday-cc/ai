@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-30-ignore-the-ai-hype-focus-on-the-value.md",
+      "title": "Ignore the AI hype, focus on the value",
+      "excerpt": "Organizations need to focus on using AI to find solutions to real problems, not on acquiring the newest, shiniest tech.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/",
+      "originalUrl": "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/",
+      "publishedDateTime": "2021-08-30T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning.md",
       "title": "Playing catch-up to the early adopters of analytics, AI and machine learning",
       "excerpt": "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world.",
@@ -122,6 +173,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-30-chinas-new-data-laws-are-a-risk-factor-in-a-facial-recognition-giants-ipo-filing.md",
+      "title": "China’s new data laws are a risk factor in a facial-recognition giant’s IPO filing",
+      "excerpt": "The firm's lengthy list of risk factors is a reminder that Chinese tech champions face rising scrutiny in both Beijing and Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
+      "originalUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 875,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
+      "publishedDateTime": "2021-08-30T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-10-things-in-tech-you-need-to-know-today.md",
       "title": "10 things in tech you need to know today",
       "excerpt": "Amazon entered the BNPL space, T-Mobile customers frustrated by security breach, and Google shuttered another app: 10 things in tech you need to know.",
@@ -182,7 +285,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/382318",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -664,7 +767,7 @@
       "originalUrl": "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849",
       "featuredContent": null,
       "highlight": null,
-      "heat": 384,
+      "heat": 364,
       "tags": null,
       "images": [
         {
@@ -1080,110 +1183,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure.md",
-      "title": "“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure",
-      "excerpt": "Cloud security vendor Wiz announced yesterday that it found a vulnerability in Microsoft Azure's, Cosmos DB, that granted read/write access for every data",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
-      "originalUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cosmos-db-logo-760x344.png",
-          "width": 760,
-          "height": 344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-27T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem.md",
-      "title": "Extra Crunch roundup: Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem",
-      "excerpt": "Tapping into someone else’s experience is a tried-and-true method, which is why two-time Y Combinator participant Chris Morton wrote a guest post for Extra Crunch with advice for founders hoping to be accepted by the famed accelerator.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/",
-      "originalUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1289393096.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/amp/",
-      "publishedDateTime": "2021-08-27T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

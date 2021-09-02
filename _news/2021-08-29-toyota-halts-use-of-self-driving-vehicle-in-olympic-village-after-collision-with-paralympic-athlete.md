@@ -169,22 +169,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Tokyo 2020 Paralympics: Japan judo star hit by self-driving bus in Village"
-    excerpt: "Japanese judoka Aramitsu Kitazono has been forced to withdraw from his event in the judo competition at the 2020 Tokyo Paralympics after being hit by a self-driving vehicle inside the Paralympics Village."
-    publishedDateTime: 2021-08-28T11:39:00Z
-    webUrl: "https://gulfnews.com/sport/olympics/tokyo-2020-paralympics-japan-judo-star-hit-by-self-driving-bus-in-village-1.81867171"
-    ampWebUrl: "https://gulfnews.com/amp/sport/olympics/tokyo-2020-paralympics-japan-judo-star-hit-by-self-driving-bus-in-village-1.81867171"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/sport/olympics/tokyo-2020-paralympics-japan-judo-star-hit-by-self-driving-bus-in-village-1.81867171"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 42
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/08/28/The-self-driving-buses-run-throughout-the-Paralympic-Village-in-Tokyo_17b8c8e3fbb_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Toyota to resume self-driving e-Palette vehicle operations at Olympic village"
     excerpt: "A Toyota self-driving e-Palette vehicle had last week collided with and injured a visually impaired pedestrian at the Olympic village..Toyota says it is cooperating with a local police investigation to determine the exact cause of the accident."
     publishedDateTime: 2021-08-30T12:24:00Z
@@ -246,22 +230,6 @@ related:
       - url: "https://media.bleacherreport.com/image/upload/v1630207231/muqhv4cmgkfsclstwuzo.jpg"
         width: 4420
         height: 2941
-        isCached: true
-  - title: "Toyota Halts e-Palette Self-Driving Vehicle Operations After One Hits Paralympic Athlete"
-    excerpt: "Toyota is grounding all e-Palette self-driving vehicles currently operating within the athlete’s village at the Tokyo Paralympic Games. The decision follows an accident in which one of the vehicles ran into a visually impaired pedestrian on August 26."
-    publishedDateTime: 2021-08-28T12:00:00Z
-    webUrl: "https://www.carscoops.com/2021/08/toyota-halts-e-palette-self-driving-vehicle-operations-after-one-hits-paralympic-athlete/"
-    ampWebUrl: "https://www.carscoops.com/2021/08/toyota-halts-e-palette-self-driving-vehicle-operations-after-one-hits-paralympic-athlete/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/toyota-halts-e-palette-self-driving-vehicle-operations-after-one-hits-paralympic-athlete/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 35
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/2021-Toyota-e-palette-1-1024x555.jpg"
-        width: 1024
-        height: 555
         isCached: true
   - title: "Toyota shuts down self-driving vehicles after car crashes into Paralympian at Tokyo Olympic Village"
     excerpt: "A day after a self-driving vehicle hit a visually impaired athlete at the Paralympics, Toyota has paused the program entirely. The Toyota e-Palette struck the athlete, identified by the Japan Times as 30-year-old judoka Aramitsu Kitazono, as he was ..."

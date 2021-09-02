@@ -25,37 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Report: At least 18 federal agencies use facial recognition technology"
-    excerpt: "At least 18 federal agencies reported using facial recognition technology (FRT) over the last year and most said they plan to expand their use of it over the next few years, according to a new report by the U."
-    publishedDateTime: 2021-08-30T17:10:00Z
-    webUrl: "https://www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/"
-    ampWebUrl: "https://www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp"
+  - title: "Explained: India's plan to establish National Facial Recognition Network"
+    excerpt: "Indian Government has installed facial recognition technology cameras at more than 30 railway stations and busy airports of the country. The move is a"
+    publishedDateTime: 2021-08-31T07:52:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
+    ampWebUrl: "https://m.jagranjosh.com/general-knowledge/amp/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 59
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 73
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/CTAAWBLNTVHLRIAUVMFEA6YRPQ.jpg"
-        width: 731
-        height: 411
+      - url: "https://img.jagranjosh.com/images/2021/July/2972021/ludo_express.png?new_images_en"
+        width: 450
+        height: 232
         isCached: true
-  - title: "Federal Agencies to Increase Facial Recognition Use, GAO Finds"
-    excerpt: "The Government Accountability Office recently released a report detailing the past and future uses of facial recognition technology within 24 federal agencies. The report found that nearly half plan to increase use."
-    publishedDateTime: 2021-09-01T22:38:00Z
-    webUrl: "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds"
-    ampWebUrl: "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true"
+  - title: "NtechLab supplies facial recognition for Indian Railways, but privacy legislation still pending"
+    excerpt: "NtechLab is implementing a facial recognition surveillance project in India intended to monitor the movement of train commuters."
+    publishedDateTime: 2021-08-30T18:39:00Z
+    webUrl: "https://www.biometricupdate.com/202108/ntechlab-supplies-facial-recognition-for-indian-railways-but-privacy-legislation-still-pending"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 42
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg"
-        width: 840
-        height: 438
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
         isCached: true
 
 secured: "FVmT5u1FFUXdsyBjLkF+RgmCiEHl/RCZblGJOENbVNad9uQchk3e8dB2fgWG0pglYROfqGz8zlTKh8VShqn12el5FNub/2CERtaa2bMIMkC49BaY9yZ+VPCGnllgAfi2ZyzfN+WY8izF1tvBpXcnR3a2UGRFcFzqVJnPKYAMyPB+XHkLQ3RBMStP5MX3yTkrhtoWaZKAdd0lpWq7nGXVOz0qkPOD4jixICCSlGsI7Qv+wcXafHlVG4tqX3VK/uG29xGgiAYU6ix/TbXVZeAm5k9hI0PjZxvt5bs/CQ60j4xIN/KFpBpHD78PX2eW5njsUsPlS7W76liuysqQJF6KNtNo9Jx//ljbBJeAw8Kj8bU89G+2RbmGm9SpDlIwMvAnEgBGeCYfvIUpXPwfqa19kI+iwIBjgp+mRUdi5ollXv7k1TeE3IAbRnXMYX4rc7z4lfO8nXktJz8Iu4gy+0Ij5xobWJZ7eusY5zIt06AMMczDODEQzr3YsPBqiWgJsTAlmoM4NoyhoGXcDLsMiYrKCA==;jyXYNWQiiEYaOk3eclTsvQ=="

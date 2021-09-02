@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-27-waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco.md",
+      "title": "Waymo launches rider testing for self-driving cars in San Francisco",
+      "excerpt": "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
+      "originalUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
+      "publishedDateTime": "2021-08-26T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRON4",
+        "domain": "kron4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-meet-the-voice-behind-mg-astors-ai-assistant.md",
+      "title": "Meet the voice behind MG Astor's AI assistant",
+      "excerpt": "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming",
+      "sourceUrl": null,
+      "webUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
+      "originalUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
+      "cdnAmpWebUrl": "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
+      "publishedDateTime": "2021-08-26T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Team-BHP.com",
+        "domain": "team-bhp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-heres-why-nvidia-will-surpass-apples-valuation-in-5-years.md",
       "title": "Here’s Why Nvidia Will Surpass Apple’s Valuation In 5 Years",
       "excerpt": "Nvidia can surpass Apple by capitalizing on the artificial intelligence economy, which will add an estimated $15 trillion to GDP. This is compared to the mobile economy that brought us gains in Apple,",
@@ -1089,99 +1175,6 @@
         "AI in Robotics",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-bringing-people-back-to-life-with-the-power-of-ai-chatbots.md",
-      "title": "Bringing People Back To Life With The Power Of AI Chatbots",
-      "excerpt": "Gary Fowler is a serial AI entrepreneur with 17 startups and an IPO. He is CEO and co-founder of GSDVS.com and Yva.ai. In the reality we live in, people live their lives and then leave — for good, never to cross the line and return to the world again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6126b209cfc56d1e7361035c%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/",
-      "publishedDateTime": "2021-08-26T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-get-entire-details-about-artificial-intelligence-system-market-by-2025.md",
-      "title": "Get Entire Details about Artificial Intelligence System Market By 2025",
-      "excerpt": "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market",
-      "originalUrl": "https://www.openpr.com/news/2369435/get-entire-details-about-artificial-intelligence-system-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U826384867_g.jpg",
-          "width": 628,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2369435/get-entire-details-about-artificial-intelligence-system-market",
-      "publishedDateTime": "2021-08-26T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

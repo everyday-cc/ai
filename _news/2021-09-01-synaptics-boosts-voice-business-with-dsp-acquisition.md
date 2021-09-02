@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 810
         isCached: true
-  - title: "DHS finds masks cause jump in face biometrics errors for some races"
-    excerpt: "Among maskless white volunteers, slightly over half of the 60 systems tested by the DHS Science and Technology Directorate reached the 95 percent threshold."
-    publishedDateTime: 2021-08-30T20:50:00Z
-    webUrl: "https://www.biometricupdate.com/202108/dhs-finds-masks-cause-jump-in-face-biometrics-errors-for-some-races"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "+s+0+Nb1ZvbpDBvPueQo/HYAwdqEzsWA7jJvz8DjR/cRMEOYrENP2i1HmmSjlK4OZfMCrywz3UHdri6uJXUS+rBJUjhEMGFt7PfkhCFVe3AxgnKLGLk078dw6O6+BdHf6eS9I4eY1xNdQGIloBI1CJtY/7Oa30k5cJr7NUzT4VaH0L7lbiFqA3BqeCtz3ykZYbS7XVzcEUjJ3AxQoI3w3W/ko22kii8YlAyjrCy1Gq+Y/JHMXd2ckB7A8pqIm2PqKhomdoGhZ7T2U0qR7ChwB4KVlTT/FRftxkU/Yt0rYK6HKXfWMxsoQW3Up3HMV2nLMZfOEH1LY23S1eFdZMVZ+m32In3O+BtlKoGKF0VcplQ=;XsPNS+qSWynTzy/AKxKK3w=="
 ---

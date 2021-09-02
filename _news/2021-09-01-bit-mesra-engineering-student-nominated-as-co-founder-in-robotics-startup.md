@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/bit-mesra-engineering-student-nominat
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bit-mesra-engineering-student-nominated-as-co-founder-in-robotics-startup/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

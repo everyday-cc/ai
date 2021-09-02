@@ -2,6 +2,101 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-07-29-google-cloud-joins-sap-rise-program.md",
+      "title": "Google Cloud joins SAP RISE program",
+      "excerpt": "SAP RISE customers will be able to leverage Google Cloud's services, including artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-cloud-joins-sap-rise-program/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-cloud-joins-sap-rise-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/29/328ebbca-0812-4d74-8a88-a3aa8b815b5f/shutterstock-1504791845.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-cloud-joins-sap-rise-program/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-cloud-joins-sap-rise-program/",
+      "publishedDateTime": "2021-07-28T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles.md",
+      "title": "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles",
+      "excerpt": "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
+      "originalUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/",
+      "publishedDateTime": "2021-07-28T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-zuckerberg-is-turning-trillion-dollar-facebook-into-a-metaverse-company-he-tells-investors.md",
       "title": "Zuckerberg is turning trillion-dollar Facebook into a ‘metaverse’ company, he tells investors",
       "excerpt": "Following the quarterly release of Facebook’s earnings numbers where the company’s CFO takes time to walk analysts through the nitty gritty of the company’s financials, CEO Mark Zuckerberg took a moment to zoom out and wax on the company’s future goals,",
@@ -1073,93 +1168,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml.md",
-      "title": "Mastering The Art Of Extracting Data From Invoices Using AI And ML",
-      "excerpt": "At some point, all invoices will become digital. Until then, the need to handle paper-based invoices and extract data from both paper and digital invoices without human involvement is critical for enterprises to truly transform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6066004147c9e239227de9bc%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/",
-      "publishedDateTime": "2021-07-28T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-cyberlinks-faceme-ranked-top-3-in-face-anti-spoofing-challenge-at-iccv-2021.md",
-      "title": "CyberLink's FaceMe® Ranked Top 3 in Face Anti-spoofing Challenge at ICCV 2021",
-      "excerpt": "(5203.TW), a pioneer in AI and facial recognition technologies, is excited to announce its FaceMe ® AI facial recognition has ranked in the Top 3 in the face anti-spoofing challenge held by the ICCV 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cyberlinks-facemereg-ranked-top-3-face-anti-spoofing-/2021/07/28/9418743.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cyberlinks-facemereg-ranked-top-3-face-anti-spoofing-/2021/07/28/9418743.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

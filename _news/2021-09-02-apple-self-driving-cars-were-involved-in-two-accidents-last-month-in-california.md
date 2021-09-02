@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accid
 webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
 type: article
 quality: 50
-heat: 80
+heat: 100
 published: true
 
 provider:
@@ -60,6 +60,34 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
         width: 870
         height: 485
+        isCached: true
+  - title: "China's auto industry calls for standardized self-driving claims"
+    excerpt: "Drivers, auto company executives and academics in China are calling for clearer industry standards in the marketing of vehicles with driver assist functions, after a fatal accident involving the technology sparked a new round of concern over whether motorists are being misled about its capabilities."
+    publishedDateTime: 2021-08-29T03:25:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/China-s-auto-industry-calls-for-standardized-self-driving-claims"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F4%252F6%252F0%252F36120649-2-eng-GB%252FSD2.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "A secret weapon for self-driving car start-ups - humans"
+    excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
+    publishedDateTime: 2021-08-30T21:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/a-secret-weapon-for-self-driving-car-start-ups-humans"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/30/mi_selfdrive_300821.jpg?itok=OUMWk11o"
+        width: 763
+        height: 509
         isCached: true
   - title: "Two Apple Self-Driving Cars Involved in Accidents in Same Month, No Injuries Reported"
     excerpt: "Testing a ground-breaking technology on a car involves many risks, which the Cupertino-based tech giant was willing to take, but this was unexpected."

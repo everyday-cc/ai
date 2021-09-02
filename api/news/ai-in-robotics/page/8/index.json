@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-13-humanoid-robot-keeps-getting-fired-from-his-jobs.md",
+      "title": "Humanoid Robot Keeps Getting Fired From His Jobs",
+      "excerpt": "Pepper was fired. The company ended its lease of the robot and ... botched its job at a nursing home and gave baseball fans a creepy feeling, some people are saying the humanoid itself will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "originalUrl": "https://www.wsj.com/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-367980/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "publishedDateTime": "2021-07-13T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-locomotive-system-makes-robots-multi-terrain.md",
       "title": "Locomotive System Makes Robots Multi-Terrain",
       "excerpt": "Called Rapid Motor Adaptation (RMA), the new locomotive system allows four-legged robots to traverse a variety of terrain types.",
@@ -1380,58 +1432,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-amazon-plans-to-build-delivery-robot-tech-in-finland.md",
-      "title": "Amazon plans to build delivery robot tech in Finland",
-      "excerpt": "Amazon announced Thursday that it plans to develop new technology for its autonomous delivery vehicles in Helsinki, Finland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105695322-1548263648288amazon-scout.jpg?v=1548263696",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "publishedDateTime": "2021-07-01T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

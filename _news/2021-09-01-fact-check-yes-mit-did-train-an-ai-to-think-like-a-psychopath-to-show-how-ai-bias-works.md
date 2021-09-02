@@ -8,8 +8,8 @@ webUrl: "https://www.usatoday.com/story/news/factcheck/2021/08/31/fact-check-mit
 ampWebUrl: "https://amp.usatoday.com/amp/5649341001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5649341001"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.gannett-cdn.com/-mm-/295a0a75b64ccfdd5938803ba48c4b152f8c44e1/c=124-0-2545-1368/local/-/media/2018/06/07/USATODAY/USATODAY/636639785764248482-norman.jpg?auto=webp&format=pjpg&width=1200"

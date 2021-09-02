@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Facebook shares AI advancements improving content moderation"
-excerpt: "... some of the advancements in AI that are contributing to the company's colossal task of enforcing community standards across its platforms. New techniques and systems that Facebook has quickly moved from research into production, such as its ..."
-publishedDateTime: 2021-08-19T09:33:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/facebook-shares-ai-advancements-improving-content-moderation/"
-webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/facebook-shares-ai-advancements-improving-content-moderation/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-shares-ai-advancements-improving-content-moderation/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/facebook-shares-ai-advancements-improving-content-moderation/"
+excerpt: "Facebook on Wednesday shared some ... \"Zero shot and few shot learning is one of the many cutting edge AI domains where we've been making major research investments, and we expect to see results ..."
+publishedDateTime: 2021-08-18T18:08:00Z
+originalUrl: "https://www.zdnet.com/article/facebook-shares-ai-advancements-improving-content-moderation/"
+webUrl: "https://www.zdnet.com/article/facebook-shares-ai-advancements-improving-content-moderation/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-shares-ai-advancements-improving-content-moderation/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-shares-ai-advancements-improving-content-moderation/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ topics:
   - Facebook AI
   - AI
 
-secured: "xw1WTd09xsL4YxMc3VliTlOVxlUOoQbQyshOKHaWq/unW332Ah8rnDzJ8ssqYCdtkXbUONJywbavlZlb3Gm2FKzM/IkKzj3rjfmQYoIyCZIVOLam7bbhM/+FHBvetjvo4IXN57mSfQtZ0ii4aL+Jhgyv9ndimHsDLf2CgMLZN26j1pf/GSk5i8ucvyUIQ3gpz7RrpgnYkgI8Yxio87DzYvz+NVG4PQxYceeoRKZ4AOCJMhYJk6y2IPD4ICcR87i2V98r7cjIxwBeMej3cf4Et5AxMuSSAXdvyXOj1DgX2PIIxUGri+aHPEoKqlX2VYwBAhwH2mEeaA2yXA10LPXQDRnUuYmyXLAfM+Xc1ZP2Fqi4/Ua5tz9uJ6pvSSsdK96jxTs2UVFnHVpMD5qEiUyk9zXaCb6ruk1GfwnufW1lLBYym+bpGstBU7wFzOTyRx8p81Hre3wmr1jAliPIpbMHv0vAvZfhqVIHncGSEt8PMtpejyIS8m5aqfKlCVdjh/6ub8d6cKE1rPJ4EKSDYXrSBQ==;vMdZozIpqd+/rZjMs7ok4g=="
+secured: "fVw/LKPVPMqwUaiWDoMAG/oDvkyseAVqozLn6UD3cbB9JpOsI3KCL8eg4D+0EppdpMx5fo1merSvD8EyRXZOGv+su20YZ2oi0tsOs5l6k7JKLRPWQ//kRbslRNB8nZtGy/oP9p74D4vSl0Y3A06zqOc5LR/T9KMx5swn0D7Vm03Tvny7YrRxYXmKGAoNpGS1zM+9vGEB6S81O0gZsuNv688EXUdX8GyaDAWw/TreOImSXQy1fsA18W4lEuod2fNjSJujd2eNov0Qmz9oqIEXh53WeUAJTGqOLerhuT8gsOHtJQUNrC8SIQBgGJj0GNTvG+BoVR7TYJA9B94h8CEwz3RjjSK1+rqzOhCjHQrqAkU=;zXRp8nm4BfY7k+AfFxCXqg=="
 ---
 

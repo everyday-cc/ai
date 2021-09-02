@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-28-worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure.md",
+      "title": "“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure",
+      "excerpt": "Cloud security vendor Wiz announced yesterday that it found a vulnerability in Microsoft Azure's, Cosmos DB, that granted read/write access for every data",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cosmos-db-logo-760x344.png",
+          "width": 760,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem.md",
+      "title": "Extra Crunch roundup: Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem",
+      "excerpt": "Tapping into someone else’s experience is a tried-and-true method, which is why two-time Y Combinator participant Chris Morton wrote a guest post for Extra Crunch with advice for founders hoping to be accepted by the famed accelerator.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/",
+      "originalUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1289393096.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/27/extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem/amp/",
+      "publishedDateTime": "2021-08-27T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors.md",
       "title": "15 Innovative AI Companies Driving Exponential Shifts In Their Respective Sectors",
       "excerpt": "AI-built, AI-fueled, AI-powered, AI-informed: it is pervasive. In the hands of innovators, the disruption of AI of companies worldwide trends in a positive direction, and has the potential to change the world.",
@@ -1108,92 +1212,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco.md",
-      "title": "Waymo launches rider testing for self-driving cars in San Francisco",
-      "excerpt": "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
-      "originalUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
-      "publishedDateTime": "2021-08-26T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRON4",
-        "domain": "kron4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-meet-the-voice-behind-mg-astors-ai-assistant.md",
-      "title": "Meet the voice behind MG Astor's AI assistant",
-      "excerpt": "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming",
-      "sourceUrl": null,
-      "webUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
-      "originalUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
-      "cdnAmpWebUrl": "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
-      "publishedDateTime": "2021-08-26T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Team-BHP.com",
-        "domain": "team-bhp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

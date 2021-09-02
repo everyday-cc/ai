@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "This legal writing startup is using AI to spot misrepresentations in litigation docs"
+    excerpt: "Clearbrief is attracting more investor interest for its AI-powered software that gives legal professionals a way to automatically spot misrepresentations in litigation documents."
+    publishedDateTime: 2021-08-29T15:05:00Z
+    webUrl: "https://www.geekwire.com/2021/legal-writing-startup-using-ai-spot-misrepresentations-litigation-docs/"
+    ampWebUrl: "https://www.geekwire.com/2021/legal-writing-startup-using-ai-spot-misrepresentations-litigation-docs/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/legal-writing-startup-using-ai-spot-misrepresentations-litigation-docs/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 80
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-26-at-7.47.44-AM-630x316.png"
+        width: 630
+        height: 316
+        isCached: true
   - title: "Can real time accent translations perfect conversational AI?"
     excerpt: "One of the biggest problem with conversational AI is understand and detecting the various accents of a language."
     publishedDateTime: 2021-08-31T21:15:00Z

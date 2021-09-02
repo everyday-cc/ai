@@ -71,6 +71,34 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "China's auto industry calls for standardized self-driving claims"
+    excerpt: "Drivers, auto company executives and academics in China are calling for clearer industry standards in the marketing of vehicles with driver assist functions, after a fatal accident involving the technology sparked a new round of concern over whether motorists are being misled about its capabilities."
+    publishedDateTime: 2021-08-29T03:25:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/China-s-auto-industry-calls-for-standardized-self-driving-claims"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F4%252F6%252F0%252F36120649-2-eng-GB%252FSD2.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "A secret weapon for self-driving car start-ups - humans"
+    excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
+    publishedDateTime: 2021-08-30T21:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/a-secret-weapon-for-self-driving-car-start-ups-humans"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/30/mi_selfdrive_300821.jpg?itok=OUMWk11o"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "/NnktdWbepFcY8mWU63jDe5Bs8r7v8VbD+71KD/6rJNT8SpkcDc4mr+jmbRXmARMtqcv9sPNXBnD/wUqANrcSX0R/c8ri8KhXyPUlG9ztIezY3VBoo19hk8p5J4D/4OvBmwrIAVUjD0FpxXyUWwprpoCtZ/ik0TIyBNVe2zpwylS9jCNlHkbuo9GMwS0rawQLWoK+bqE0Z0tiK03Zo9tzyQw2wguxGndgf87v0HWGjh3WVB/yARQM93sM5OeHHq/JuxypOGixXccSvo7t5xxO7Qk+zB8JO2hxLWnNN9MdedELpYxMU1DtYNZSc88nDB9r2AjbADweLPcbzm3flIv8sDOgevXsQx7GUPDBhTJwkMbCiDp0YXIWevlkcmgdCHzdoy18x9W6L7VnWzyyjMOOU5sqMp38v3TbytDItX1QyJdONoBXgkeEGUJCgYFRtV/SL/LinYC2mFiQOJ/XRDwDZDLU7KgeZqNdlJjVysP1FCymmxQJJaE0sq3Z8n7QpuYAPjCKihN8OOhlk2I/ZPJcw==;zTkrng076FA2iCzbtFpHYg=="
 ---

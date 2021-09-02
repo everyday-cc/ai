@@ -75,6 +75,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Global Facial Recognition Market Size Growing at 17.23 Percent CAGR, Says SpendEdge"
+    excerpt: "NEW YORK, Aug. 29, 2021 /PRNewswire/ -- The Facial Recognition market will register an incremental spend of about USD 8.23 Billion, growing at a CAGR of 17.23% during the five-year forecast period. A targeted strategic approach to Facial Recognition can ..."
+    publishedDateTime: 2021-08-29T19:46:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-facial-recognition-market-size-growing-at-17-23-percent-cagr-says-spendedge/article_fb998d77-1d52-573d-8ee2-1687e1e5a7dc.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e7/ce769305-794e-5a36-bbf7-87fec7b217a3/612be14aaad68.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Global Harvesting Robot Market is Forecasted to Grow at a CAGR of 19.9% During the Forecast Period 2017-2027 - ResearchAndMarkets.com"
     excerpt: "By Harvesting Type (Fruit, Vegetable, Grain, Others), By Application (Outdoor, Greenhouse), By Region, Estimation & Forecast, 2017 - 2027” report has been added to ResearchAndMarkets.com’s offering. The global harvesting robot market held a market value of USD 512."
     publishedDateTime: 2021-08-31T08:48:00Z

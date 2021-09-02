@@ -2,6 +2,100 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-08-17-sap-acquires-ai-powered-human-resources-platform-swooptalent.md",
+      "title": "SAP acquires AI-powered human resources platform SwoopTalent",
+      "excerpt": "SAP acquired the intellectual property of SwoopTalent, a platform that automatically connects companies' talent systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/",
+      "originalUrl": "https://venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-159129394.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/amp/",
+      "publishedDateTime": "2021-08-16T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-deep-learning-system-market-size-share-industry-trends-growth-development-strategies-future-plans-analysis-by-2027.md",
+      "title": "Deep Learning System Market Size, Share, Industry Trends, Growth, Development Strategies, Future Plans Analysis by 2027",
+      "excerpt": "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-system-market-size-share-industry-trends-growth-development-strategies-future-plans-analysis-by-2027/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-system-market-size-share-industry-trends-growth-development-strategies-future-plans-analysis-by-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Autonomous-Vehicles-Market-390x220.jpeg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/deep-learning-system-market-size-share-industry-trends-growth-development-strategies-future-plans-analysis-by-2027/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-market-size-share-industry-trends-growth-development-strategies-future-plans-analysis-by-2027/?amp=1",
+      "publishedDateTime": "2021-08-16T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth.md",
       "title": "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth",
       "excerpt": "Building the bench Silver was most recently a Tech Lead & Manager at Waymo, the self-driving ... with deep expertise in robotics and artificial intelligence, and a vision to solve global ...",
@@ -1013,101 +1107,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us.md",
-      "title": "Using AI Self-Driving Cars To Detect And Help Curtail Eyesore Graffiti Around Us",
-      "excerpt": "Graffiti can be controversial, which brings up the potential use of AI self-driving cars for ... [+] detecting and possibly curtailing graffiti, or not. Graffiti can invoke quite heated debates. Some assert that graffiti is a blight, a blemish, altogether ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8fd47f30f273c86ecb7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2081%26cropY1%3D198%26cropY2%3D1369",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/",
-      "publishedDateTime": "2021-08-15T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-openai-offers-api-for-github-copilot-ai-model.md",
-      "title": "OpenAI offers API for GitHub Copilot AI model",
-      "excerpt": "Available through the OpenAI API in a private beta, Codex can translate natural language into code in upwards of a dozen programming language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/690512/openai-offers-api-github-copilot-ai-model/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/690512/openai-offers-api-github-copilot-ai-model/?fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/software_development_lifecycle_developers_programmers_coding_code_by_roman_samborskyi_shutterstock_1536573386_royalty-free_digital-only_2400x1600-100890352-orig.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

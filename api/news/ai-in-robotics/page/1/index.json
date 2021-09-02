@@ -237,7 +237,7 @@
       "originalUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -289,7 +289,7 @@
       "originalUrl": "https://indiaeducationdiary.in/bit-mesra-engineering-student-nominated-as-co-founder-in-robotics-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -553,6 +553,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup.md",
+      "title": "Indian Navy procures indigenously developed Robotic Lifebuoys from startup",
+      "excerpt": "In a big boost to the ‘Self Reliant India’ campaign, Indian Navy signed a Rs 13 crore contract to procure country’s first indigenously developed Robotic Lifebuoys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sentinelassam.com/national-news/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-552687",
+      "originalUrl": "https://www.sentinelassam.com/national-news/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-552687",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.sentinelassam.com/h-upload/2021/08/31/251693-indian-navy.jpg",
+          "width": 938,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sentinelassam.com/amp/national-news/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-552687",
+      "cdnAmpWebUrl": "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/national-news/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-552687",
+      "publishedDateTime": "2021-08-30T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "sentinelassam.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1372,50 +1415,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-joondalup-supports-push-to-become-centre-for-artificial-intelligence-and-robotics.md",
-      "title": "Joondalup supports push to become centre for artificial intelligence and robotics",
-      "excerpt": "A major Perth council wants to become Australia’s first urban centre for artificial intelligence and robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
-      "originalUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.perthnow.com.au/publication/C-3759113/76e2e6c6694853bac73137e934cad47d6de4a2db-16x9-x0y198w2756h1550.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
-      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
-      "publishedDateTime": "2021-08-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Perth Now",
-        "domain": "perthnow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

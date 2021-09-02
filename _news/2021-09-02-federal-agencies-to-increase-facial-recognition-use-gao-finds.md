@@ -43,20 +43,6 @@ related:
         width: 731
         height: 411
         isCached: true
-  - title: "Government agencies used Clearview facial recognition in 24 countries"
-    excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
-    publishedDateTime: 2021-08-31T11:03:00Z
-    webUrl: "https://www.computing.co.uk/news/4036424/government-agencies-clearview-facial-recognition-countries"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/957b3e5/1560dce2-db4e-469d-86cb-0b930d4c95fc/6/ClearviewAI-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "KpCN4xQ4yzOp6w3GdJFMnMqAkSuI4GjyYdXzC4ikW5kbBjTvyGOG0BoWmIovAtiQd0xjE1RT9xXDMPf0peE0Kzr+XAlM40iNqkCwVOndj9x61yrKb/IAOV7egJtZIjgdJ5o35GnIfeRTsBNEhIDgo/1C9Gvhokm/DIexZGW8mrc/JtbKwEnNgtZOMK0aKTa+CoU+JrPqBnFJyLNFTOwxa1INP+YywZ8D+A4sb0xUz9ua2/Z9sKVxAK3U1fod707OXIyJYD2MibY2KMlebKJR2lNAzwkScNCxn7/6os+R1XuBE+NV4FO7Zy9YjOb3KBACTq3ysVGe2AOLtd1GJSe1BgzJhIrU29BKLJgpZVr11jh0ab1zcNUwXXuURAMUY+nXnzn7BFoS0XPAApMl5TbIkupqumCWBge21RjIXGdxo8tjWu8Ckv5Ta2uy718hipN/CnRV+WvcCXXV6LtoY0PUt+BDQxZ6Bs/iPDoEZbEEAIxS2VtQjrZ9F6LZWyLxOwulQHd8w7wdNSp9RAs9vAcnfQ==;57jHT9Y3sryl3UnwOx+e6g=="
 ---

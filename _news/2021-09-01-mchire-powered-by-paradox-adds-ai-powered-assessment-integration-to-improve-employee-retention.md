@@ -1,26 +1,29 @@
 ---
 category: news
 title: "McHire, Powered by Paradox, Adds AI-Powered Assessment Integration to Improve Employee Retention"
-excerpt: "McHire, powered by Paradox, the platform that McDonald's franchise operators trust to source, hire, and onboard new employees with fast, mobile-first experiences, now offers an integration with Sprockets to reveal who will perform like their best crew members and reduce bias in the workplace."
-publishedDateTime: 2021-09-01T14:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mchire-powered-by-paradox-adds-ai-powered-assessment-integration-to-improve-employee-retention-1030773476"
-webUrl: "https://markets.businessinsider.com/news/stocks/mchire-powered-by-paradox-adds-ai-powered-assessment-integration-to-improve-employee-retention-1030773476"
+excerpt: "McHire, powered by Paradox, the platform that McDonald's franchise operators trust to source, hire, and onboard new employees with fast, mobile-first experiences, now"
+publishedDateTime: 2021-09-01T14:07:00Z
+originalUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/mchire-powered-by-paradox-adds-ai-powered-assessment-integration-to-improve-employee-retention/article_7503741b-4753-5820-be91-64f1921b5328.html"
+webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/mchire-powered-by-paradox-adds-ai-powered-assessment-integration-to-improve-employee-retention/article_7503741b-4753-5820-be91-64f1921b5328.html"
 type: article
-quality: 34
-heat: 34
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Marietta Daily Journal
+  domain: mdjonline.com
 
 topics:
+  - Natural Language Processing
   - AI
 
-secured: "pEqFW6DOF6f74VVpUWukLqAFjjq7Sy7mlxXsjl6J8v3EMEQVoWuEZ1qQ9zasEkoh8b8lzRYw3UGrjYkEzedSa9vywrW4vA4V3KOR78CcQfjvvP/32Y/DuDzDTa0ZWyBggYOhJIKmasJW8jUPPvMJiZhJ51Q0p8kvyi3BKXjIlcBuVRCLxcDRI5hProN6UKCo4GTC2g+gERr2mD4MO/8hqrVvCtUQAdt5CDXWuyT9siqWNnkmjlrs2TMJyfj6d5G87oewQ6xx5cKrhB0CpxiruNu7epcZrh0CZzRe8UCCs56VUErhoq1JgGaAwMcCgp/5GZpebVmnU6wpV18awHAbyPAfoEz5kxF/fGKGsxfhepSpaUWpEJpQWTET2Y5uNg2Oxh2Vp+EqrcgP6LEckLp8kQ7W85NZ9IhUD1OlZ+aA6O3/l2OPrNR+gU29U9ajbIy1pZsr3ERhKpAbDcRNFX0HkPREy15KUUIxXQCtFGxBqN7R3hDp7rQBbCUc24P4MSg7zSDLmrEYdTxeFKeLjSPejw==;RROFkJv5S7BFcQesduAWzQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/8/c2/8c2d3580-dcf3-57d8-8a02-f74e2a6a9093/612f8ee19f2e6.image.jpg?resize=1000%2C421"
+    width: 1000
+    height: 421
+    isCached: true
+
+secured: "gYFRG6nWxD4kmzTZ16wGICJiv+hcUpKzpVX1JU+eHDSU6lGkzxqF5V7PqgdaeLCJaERB0b5NPpxPllMUW3V88KqD2VMfHIefjm3FlbyiVCn7RKGjrMV637OMPoz7xBcBO8u7fczZeote8PZ/3p8CWxDNMEZA0HKF7MtQlhEzXZUHBqPFGIh7SPfaAAkC183NCFuF9ezO49GNAak99H72bxBiMpcmcOYaN18vi0+reQuMswxL1imPmkEVyJTZLc/P58R6gyaD81oApNb7rDc47482Qh1y0EkSlxf7VAEMqRnaWBLFLP9q6pJA1jfSmZujqQ/1x0byBIr20B9dkEmTJh8SJnCHkUdtyDAnrb5+QeA=;DWtpCfVI7Pbr8wwrnMo/wg=="
 ---
 

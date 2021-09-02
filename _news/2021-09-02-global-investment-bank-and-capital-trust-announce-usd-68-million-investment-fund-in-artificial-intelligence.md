@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-02T02:15:00Z
 originalUrl: "https://news.webindia123.com/news/Articles/Business/20210901/3812461.html"
 webUrl: "https://news.webindia123.com/news/Articles/Business/20210901/3812461.html"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Finance
+  - AI in Autos
 
 related:
   - title: "Global Investment Bank, Capital Trust announce $68 mn investment fund in AI"

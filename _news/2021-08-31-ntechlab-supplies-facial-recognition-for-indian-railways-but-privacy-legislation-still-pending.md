@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian Railways installs a facial recognition system to track commuters"
-    excerpt: "Indian Railways has installed a network of nearly 500 facial recognition cameras to track millions of daily commuters, a report in the Financial Times suggested."
-    publishedDateTime: 2021-08-28T11:15:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/08/28/1104608-indian-railways.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Explained: India's plan to establish National Facial Recognition Network"
     excerpt: "Indian Government has installed facial recognition technology cameras at more than 30 railway stations and busy airports of the country. The move is a"
     publishedDateTime: 2021-08-31T07:52:00Z
@@ -57,33 +41,19 @@ related:
         width: 450
         height: 232
         isCached: true
-  - title: "Top 5 Indian Artificial Intelligence Stocks in 2021"
-    excerpt: "Artificial intelligence stocks aren't as uncommon as you would assume. Many businesses are promoting artificial intelligence initiatives. Investing in AI stocks, you might reap significant rewards in the future."
-    publishedDateTime: 2021-09-01T14:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-5-indian-artificial-intelligence-stocks-in-2021/"
+  - title: "Government agencies used Clearview facial recognition in 24 countries"
+    excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
+    publishedDateTime: 2021-08-31T11:03:00Z
+    webUrl: "https://www.computing.co.uk/news/4036424/government-agencies-clearview-facial-recognition-countries"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence-Stocks.png"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Army Testing Facial Recognition in Child-Care Centers"
-    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
-    publishedDateTime: 2021-08-30T20:32:00Z
-    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
+      name: Computing
+      domain: computing.co.uk
     quality: 39
     images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.computing.co.uk/api/v1/wps/957b3e5/1560dce2-db4e-469d-86cb-0b930d4c95fc/6/ClearviewAI-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "gU+UZ/DLnNmB5pHAiy1ceh2GzJhtqVyW0K6Hhp4wHZn5T9BkH5yIISnS9KJkHUKlxIIDaLqomBG4ku6caJn2MFaDGUpysMViXKIRR03HjxiLjaXLu7PF2yIOsYnDTvLIbRlEKgoJJa66ynCYxIVV3KoVweGwemtOtUOc7Crr2xUpvksNTaj71TqIGINVnckUA9mZZ6ZG7658P4UkxiqEKQqK220xlt5f3JiX585n5l1AfoJGkCd6kFSHXqpFVDj7Lte+rdm6z3IOQP67dS1Fnirwx1b6TV4Z//1/YcMctO8C/j03ERIsvB9DjFCjdc7+KDqOW7iWau3haLSlKNgdQIfQAOv9WhpQR3TBa8weGMhiOrHzRoldGmr0je7XhItcXPTzZLHVcwuEc/v+BYYyQVOGIv9Y6h3d8SOtark5xyBXe3q7nzcgrVoEOWa1V/HZEzSO/aoNeNVUPEygqdLTZzJEUfS7klKEgjniVncR4qrBYCfZsfg5mryTIiqMgdqX5KGry4PkBDr3WWmjwPP9Rg==;N8+UurcPeFvb0yeM/uDxJg=="

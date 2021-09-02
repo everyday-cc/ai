@@ -2,6 +2,91 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-07-13-sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.md",
+      "title": "SK ecoplant Develops Eco-friendly AI-powered Incinerator Solution Using AWS",
+      "excerpt": "SK ecoplant, the plant engineering and construction arm of SK Group, announced that it will build an artificial intelligence (AI) incinerator solution, using Am",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html",
+      "originalUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg",
+          "width": 277,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html/amp",
+      "cdnAmpWebUrl": "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/channel-news/sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.html/amp",
+      "publishedDateTime": "2021-07-12T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-warburg-pincus-leads-153-mln-fundraising-for-uk-fintech-quantexa.md",
+      "title": "Warburg Pincus leads $153 mln fundraising for UK fintech Quantexa",
+      "excerpt": "UK-based Quantexa has raised $153 million in a funding round led by Warburg Pincus, the financial technology start-up said on Tuesday, as it seeks to accelerate its regional expansion and develop new products in areas including banking and insurance.",
+      "sourceUrl": null,
+      "webUrl": "https://kfgo.com/2021/07/13/warburg-pincus-leads-153-million-fundraising-for-uk-fintech-quantexa/",
+      "originalUrl": "https://www.nasdaq.com/articles/warburg-pincus-leads-%24153-mln-fundraising-for-uk-fintech-quantexa-2021-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.socastsrm.com/uploads/station/2105/fbShare.png?r=57822",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-quantexa-raises-153m-to-build-out-ai-based-big-data-tools-to-track-risk-and-run-investigations.md",
       "title": "Quantexa raises $153M to build out AI-based big data tools to track risk and run investigations",
       "excerpt": "As financial crime has become significantly more sophisticated, so too have the tools that are used to combat it. Now, Quantexa — one of the more interesting startups that has been building AI-based solutions to help detect and stop money laundering,",
@@ -1067,100 +1152,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-how-verizon-delivers-a-phygital-customer-experience-with-data-ai.md",
-      "title": "How Verizon delivers a ‘phygital’ customer experience with data, AI",
-      "excerpt": "Verizon relied on AI to provide employees who worked in the store and those from home with customer analytics to improve customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/Verizon-sign-Mike-Mozart-Flickr-e1626076085458.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/12/how-verizon-delivers-a-phygital-customer-experience-with-data-ai/amp/",
-      "publishedDateTime": "2021-07-12T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.md",
-      "title": "Artificial intelligence could be new blueprint for precision drug discovery",
-      "excerpt": "Researchers have described a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/07/210712130142.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/07/210712130142.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

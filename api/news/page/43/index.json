@@ -2,6 +2,110 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-08-03-ai-driven-hr-seeks-to-balance-human-and-resources.md",
+      "title": "AI-driven HR seeks to balance ‘human’ and ‘resources’",
+      "excerpt": "Human resources is an area that is ripe for automation, and in particular, the kind of automation made possible by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/",
+      "originalUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1171132289.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/amp/",
+      "publishedDateTime": "2021-08-02T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design.md",
+      "title": "AI on the bench: Cadence offers machine learning to smooth chip design",
+      "excerpt": "Also: Google's deep learning finds a critical path in AI chips The impetus for the tool is the fact that chip complexity is being accelerated at the same time chip manufacturing is up against ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
+      "originalUrl": "https://www.zdnet.com/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/02/7b902741-4f4e-4956-a908-b36b1b7dacf0/slide-8-cerebrus-press-deck-071921-embargoed-until-jul-22.jpg",
+          "width": 792,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
+      "publishedDateTime": "2021-08-02T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-pixel-6-preview-heres-what-googles-first-smartphone-chip-can-do.md",
       "title": "Pixel 6 Preview: Here's What Google's First Smartphone Chip Can Do",
       "excerpt": "Now with five smartphones of its own in the books, Google is gearing up for some major changes that could propel the Pixel lineup to mainstream success. Ahead of the Pixel 6's official launch later this fall— yes,",
@@ -1053,83 +1157,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
-      "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
-      "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22272652",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22272652",
-      "publishedDateTime": "2021-08-02T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.md",
-      "title": "DesiCrew scales up AI and ML service offerings for its next phase of growth",
-      "excerpt": "The Chennai-based DesiCrew, a digital transformation services company in the league of India's Tier I tech service vendors",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
-      "originalUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/08/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
-      "publishedDateTime": "2021-08-02T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
