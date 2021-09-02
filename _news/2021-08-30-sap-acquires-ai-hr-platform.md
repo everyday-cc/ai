@@ -72,20 +72,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Tiny AI for the Enterprise Edge"
-    excerpt: "Even without an internet connection, Google Recorder algorithms can translate voice to text on a ... and reduced processing costs needed for tiny AI. OpenAI estimates that training costs for natural language models such as GPT-3 in the cloud are estimated ..."
-    publishedDateTime: 2021-08-28T16:33:00Z
-    webUrl: "https://www.infosys.com/iki/insights/tiny-ai-enterprise-edge.html"
-    type: article
-    provider:
-      name: Infosys
-      domain: infosys.com
-    quality: 39
-    images:
-      - url: "https://www.infosys.com/content/dam/infosys-web/en/about/knowledge-institute/Images/tiny-ai-enterprise-edge-mob.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Decision intelligence AI startup Peak raises $75M"
     excerpt: "Investors have decided to back the “Decision Intelligence” startup Peak AI Ltd. with a new $75 million round of funding. Announced this morning, the Series C round was led by SoftBank Vision Fund 2 and saw participation from all of the company’s existing investors too,"
     publishedDateTime: 2021-08-31T13:00:00Z

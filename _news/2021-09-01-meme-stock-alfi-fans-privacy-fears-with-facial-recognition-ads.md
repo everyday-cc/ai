@@ -53,19 +53,19 @@ related:
         width: 2172
         height: 1449
         isCached: true
-  - title: "Meme Stock Alfi’s Facial Recognition Ad Technology Fans Privacy Concerns"
-    excerpt: "Alfi Inc., a small artificial intelligence software company, has ambitious plans to use facial recognition to target individualized ads to people as they walk through an airport, a shopping mall or stare at a screen in the back of an Uber."
-    publishedDateTime: 2021-09-02T01:00:00Z
-    webUrl: "https://www.bloombergquint.com/technology/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns"
+  - title: "Meme stock Alfi’s facial recognition ad technology fans privacy concerns"
+    excerpt: "Alfi Inc, a small artificial intelligence software company, has ambitious plans to use facial recognition to target individualised ads to people as they walk through an airport, a shopping mall or stare at a screen in the back of an Uber."
+    publishedDateTime: 2021-09-02T09:32:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/02/meme-stock-alfis-facial-recognition-ad-technology-fans-privacy-concerns"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: The Star
+      domain: thestar.com.my
     quality: 40
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRtwRLK9kZUE/v1/560x-1.jpg"
-        width: 560
-        height: 373
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/02/1279024.jpg"
+        width: 1240
+        height: 762
         isCached: true
 
 secured: "R5jCYxIknWSCAWDsaZpsXBl+0cmXF6yF+oXYeavoNHlvRqB8BOaixFzz4KVPaC8KIrqpxujRamB/HCo9V+LV1q6bBGsyHUCINhHMKBdpRTZZXIgfVHA2Z3GAosX9bEDmmXb3jptRUvixKR4Y+IX//D5iv9LDOsimr5niRlenc+NSPW4E7Vtb52vGxJAj3zUDxzh+Kn5yOht2bcQpDih3AIrInHZVy4m498kNyOJmmjTA2Ii7jj8ilnPwMxqxW8MtsKYoVJAK843c1vqacTMtkkG7qK5MEM446m9uwBA6wUgtWqtP+s5QJpC0ymteQhFLVccOm572GplJtR9YUHED80aVb2vVtuhU9iqCg5QNNjI=;FZ5AfSenK2zVtsDjDTiS4w=="

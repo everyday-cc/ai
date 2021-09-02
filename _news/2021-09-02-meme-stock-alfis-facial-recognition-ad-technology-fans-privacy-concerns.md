@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Meme Stock Alfi’s Facial Recognition Ad Technology Fans Privacy Concerns"
-excerpt: "Alfi Inc., a small artificial intelligence software company, has ambitious plans to use facial recognition to target individualized ads to people as they walk through an airport, a shopping mall or stare at a screen in the back of an Uber."
-publishedDateTime: 2021-09-02T01:00:00Z
-originalUrl: "https://www.bloombergquint.com/technology/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns"
-webUrl: "https://www.bloombergquint.com/technology/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns"
+title: "Meme stock Alfi’s facial recognition ad technology fans privacy concerns"
+excerpt: "Alfi Inc, a small artificial intelligence software company, has ambitious plans to use facial recognition to target individualised ads to people as they walk through an airport, a shopping mall or stare at a screen in the back of an Uber."
+publishedDateTime: 2021-09-02T09:32:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/02/meme-stock-alfis-facial-recognition-ad-technology-fans-privacy-concerns"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/02/meme-stock-alfis-facial-recognition-ad-technology-fans-privacy-concerns"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - Natural Language Processing
@@ -20,9 +20,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRtwRLK9kZUE/v1/560x-1.jpg"
-    width: 560
-    height: 373
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/09/02/1279024.jpg"
+    width: 1240
+    height: 762
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
         height: 628
         isCached: true
 
-secured: "zhoKt8bBhUi/P2A7Tqvtcb9kC1nJJNfsoSP6PW8v/e0ZWi9w9neyri1k0E/OZBsskdKAo42u+ziqLplv70GjSniwh+CrlKu87RfqJPTLmwCgJ786DTGGb3oMAn5NahTC0+QSo+RSgiAzN2B7KsfhXtlkBhNAciRqJQbTFMJZzGBdhdgVo4k8ex8npV6PRBWLeB4Tz63nB/Vu1jmHfITY05LF+CtaHWfrFdGN/7TAoT6z6Bg3pjy3EvTDBwAj7Yuh61HY2sW+cjV/P2bd56tYll3aeVkle+YmRZfiB1yfFoU+48SCKZjm2Trr80N+ye72YSs4GdM9JM9bUMpelEMtFvKHs7EhPGjr/+dPO45GSSY=;BSyKH2GC31VW3o+oKveitA=="
+secured: "rpU/2Q8HWcTOUeLAOOyrGmhNCAiBe9fqM6ZJ6hPoE6gwmH1C3Z77Un9TUNfcwVpo7QDPdYgQVRImqhcRAd515xpgelf6qVlgZf0xaNitqVDqUaBIYb7cbzbXLcJKyjHnS1Z0ok2fId5tkllelQPl25mONnS0QvSGoLwmq7cC9ofUJvhiScy9J5oRdf/pW8k0iid8dm5uOIbFPYFtz4HEvmE4p9E8mHmX8dONBRBEnt8Vw6dxolWV/oQXtZDM9T7vUSdSE1NNbq0kBvlXaJRKlQScuszPIrCOuVDVZoArdVfhov9qKPPfrnWiQuDH56EWEGK3jA2hqh1UyYoqoZIrrLrNqxLP1jTr1lKds6wOuwM=;f9Rf3g+OJp9sNQeioSU2/w=="
 ---
 

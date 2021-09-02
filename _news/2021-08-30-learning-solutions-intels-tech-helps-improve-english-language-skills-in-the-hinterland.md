@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/education-2/learning-solutions-inte
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/learning-solutions-intels-tech-helps-improve-english-language-skills-in-the-hinterland/2319182/lite/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI Can Write in English. Now It’s Learning Other Languages"
+    excerpt: "The algorithms build on recent advances in machine learning which enable machines to handle language with what seems like an accurate understanding. The devices have now turned their attention to other languages."
+    publishedDateTime: 2021-09-02T09:51:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-can-write-in-english-now-its-learning-other-languages/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-1.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "0a8+OfGQJLX3nqrQ4pPPeEyI1WiEq328sgbFgXA6XKKC5M1DgDl4f6CMmW6CK3Ora07kZN1pOIeKg31rPipkQ9zTeVnYJS+Fh2bEgkZK0hZc6UFWjlVicawyIc9CuzN86+eI9xzyA39982MDRkqlqqPBly00coULVe1zuiiIW5NmB+tJ3DV8QdQKVK0DeyaF0elyBq7EJNXnfFDEm6HmlucUrKOUcrISQJEj6m8fL9QuB7sLKHVun8iBnWOWukaL48aw6jZ9lLpEu4UzOdMlPpMJdcprGmG93ZMg/5L0afG9LtTE3/Ul9VeepbNYG2LKMKQ6t4+DRY44SfVIkR0MxlaiAnLrwABORuOUNNwq+yUP+y+ALds+qcTuj/z7qgdsUHw/smizJ1xSUZL6FKPjqI+PNVTJ1e+zD5ejjtftYmuKVSS3jny5TT9VRR9em4v1JpqWl9fDacnKN4yysZz+/grIJWunTV8XZnbs6jdMgYBDZsHXF5sy0ZGsG9LTwLmIwITAhmaubDeX3wcViWXsLg==;7Mfvjzgw2WCEA9Rirux1jA=="
 ---

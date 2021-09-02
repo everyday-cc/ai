@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/31/peak-a-managed-ai-platform-for-en
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/31/peak-a-managed-ai-platform-for-enterprise-nabs-75m/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://i2-prod.business-live.co.uk/incoming/article21445111.ece/ALTERNATES/s615/0_peak-announcing-our-series-c-fundingjpeg.jpg"
         width: 615
         height: 409
-        isCached: true
-  - title: "Tiny AI for the Enterprise Edge"
-    excerpt: "Even without an internet connection, Google Recorder algorithms can translate voice to text on a ... and reduced processing costs needed for tiny AI. OpenAI estimates that training costs for natural language models such as GPT-3 in the cloud are estimated ..."
-    publishedDateTime: 2021-08-28T16:33:00Z
-    webUrl: "https://www.infosys.com/iki/insights/tiny-ai-enterprise-edge.html"
-    type: article
-    provider:
-      name: Infosys
-      domain: infosys.com
-    quality: 39
-    images:
-      - url: "https://www.infosys.com/content/dam/infosys-web/en/about/knowledge-institute/Images/tiny-ai-enterprise-edge-mob.jpg"
-        width: 800
-        height: 500
         isCached: true
   - title: "SAP Acquires AI HR Platform"
     excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"

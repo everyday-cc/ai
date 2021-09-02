@@ -58,20 +58,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tiny AI for the Enterprise Edge"
-    excerpt: "Even without an internet connection, Google Recorder algorithms can translate voice to text on a ... and reduced processing costs needed for tiny AI. OpenAI estimates that training costs for natural language models such as GPT-3 in the cloud are estimated ..."
-    publishedDateTime: 2021-08-28T16:33:00Z
-    webUrl: "https://www.infosys.com/iki/insights/tiny-ai-enterprise-edge.html"
-    type: article
-    provider:
-      name: Infosys
-      domain: infosys.com
-    quality: 39
-    images:
-      - url: "https://www.infosys.com/content/dam/infosys-web/en/about/knowledge-institute/Images/tiny-ai-enterprise-edge-mob.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "SAP Acquires AI HR Platform"
     excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
     publishedDateTime: 2021-08-30T01:46:00Z
