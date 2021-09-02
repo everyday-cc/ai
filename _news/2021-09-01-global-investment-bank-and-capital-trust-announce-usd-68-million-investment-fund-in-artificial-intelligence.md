@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Global Investment Bank and Capital Trust announce USD 68 Million Investment Fund in Artificial Intelligence"
+    excerpt: "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to USD 68 million in startups transforming artificial intelligence. The fund will prioritise startups that share the vision of on-device AI becoming more powerful and widespread,"
+    publishedDateTime: 2021-09-02T02:15:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210901/3812461.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 18
 
 secured: "enQJBwShGW4Zje9w5EmXBXDDb1+SHKsfDoSKKPYkMLX7ALy8OEiugwt3+507NxRZYNeTQuMkQdfjBY9XrjaLOHGyrW2pw4T0X8a12dDTfO97rCVuTc7PzLn0dzhtjLI5iHZ3v1/FgP+/EvVzuAE8Hx3PX/u19C12gqj34JU1GzdTZYhvfasucNqSGMExUdQdYiNwOZrqjWr4nLffeCJ0jeS3EkdfIcv8KvKIUxVhKAx5xLRIYyjicmWDp7j0IKwg4+IuNDmjRLgEkipIagQ7b98kR3n6atAJQIDpIMrm1bNhKHYzu+cXLkorYZOYyIvSMHZVA5no8D9mhOeTarvhV3SwIYKkmpDYscQkUaZHkhq3QZIvzLOn6S32fjGUlZM8g6XwdtuosuCE54CjWhRqqo8UVw85E2+CWedV+gCkTI0IDK1O1zq3EdC3nQ6UNXajBo9egxedxCNgS2ETSMvBqHvCiQnw5s+jBEgO0hbg/Py88Ebw0sy0HDpUlbCq132YlfjxdsMywTjGYtpNMvpofA==;ZPiXhJPaHzGhg8+5mpR7aQ=="
 ---

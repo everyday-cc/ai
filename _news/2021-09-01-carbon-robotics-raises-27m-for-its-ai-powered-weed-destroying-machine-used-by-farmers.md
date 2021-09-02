@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/"
 type: article
 quality: 111
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Carbon Robotics closes $27M in Series B financing round"
+    excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds"
+    publishedDateTime: 2021-09-01T17:17:00Z
+    webUrl: "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/Carbon-Robotics-robot2-web.jpg"
+        width: 770
+        height: 500
         isCached: true
   - title: "Carbon Robotics Raises $27M In Series B Financing"
     excerpt: "Carbon Robotics, a Seattle, WA-based agriculture robotics company, raised $27m in Series B financing. Backers included Anthos Capital, Ignition Partners, Fuse Venture Capital, Voyager Capital, Bolt and Liquid2 Ventures."

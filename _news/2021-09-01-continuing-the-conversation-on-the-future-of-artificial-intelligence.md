@@ -70,20 +70,6 @@ related:
         width: 2560
         height: 1731
         isCached: true
-  - title: "Conversational AI market to grow to $15.7 billion by 2024"
-    excerpt: "The market for conversational artificial intelligence AI is expected to grow from 42 billion dollars in 2019 to 157 billion dollars by 2024 customer suppor"
-    publishedDateTime: 2021-08-28T09:46:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270909816/conversational-ai-market-to-grow-to-157-billion-by-2024"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1630142424.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Yellow.ai Debuts as a Major Contender in Everest Group's PEAK Matrix for Conversational AI"
     excerpt: "Yellow.ai, the world's leading customer experience (CX) automation platform, trusted by 700+ enterprises globally, today announced it"
     publishedDateTime: 2021-09-01T11:46:00Z

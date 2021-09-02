@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Carbon Robotics closes $27M in Series B financing round"
+    excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds"
+    publishedDateTime: 2021-09-01T17:17:00Z
+    webUrl: "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/Carbon-Robotics-robot2-web.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Carbon Robotics Raises $27M In Series B Financing"
     excerpt: "Carbon Robotics, a Seattle, WA-based agriculture robotics company, raised $27m in Series B financing. Backers included Anthos Capital, Ignition Partners, Fuse Venture Capital, Voyager Capital, Bolt and Liquid2 Ventures."
     publishedDateTime: 2021-09-01T15:21:00Z

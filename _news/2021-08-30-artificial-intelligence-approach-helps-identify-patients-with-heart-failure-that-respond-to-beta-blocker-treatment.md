@@ -52,7 +52,7 @@ related:
     provider:
       name: Fred Hutch
       domain: fredhutch.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.fredhutch.org/content/dam/public/communications/Photo/2021/09-september/210901/social-patient.jpg"
         width: 1200

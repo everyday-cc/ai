@@ -1,21 +1,24 @@
 ---
 category: news
 title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
-excerpt: "Leading Voice AI company, Skit has secured USD 23 million as part of its Series B funding, to fuel the next level of growth and product evolution. The investment was led by WestBridge Capital with participation from Kalaari Capital and Exfinity Ventures,"
-publishedDateTime: 2021-09-01T16:30:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2021/09/01/9441341.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/01/9441341.htm"
+excerpt: "The fresh capital will help enhance Skit's voice technology, developing personalised solutions while making strategic headway in global markets,"
+publishedDateTime: 2021-09-01T14:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/voice-ai-company-skit-secures-series-b-round-of-usd-23-million-from-westbridge-capital-1030773534"
+webUrl: "https://markets.businessinsider.com/news/stocks/voice-ai-company-skit-secures-series-b-round-of-usd-23-million-from-westbridge-capital-1030773534"
 type: article
-quality: 31
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -106,6 +109,6 @@ related:
         height: 800
         isCached: true
 
-secured: "hssWfcc1qgUM/lLMLMh4LmYzA7dmefOnA0q4bSKrOcIc6KPgztfgo/IcSeW2DbRhd0dryzmuhxnV/HEuyJyuVRE8EbeUYHlc9TaO+EG4Fl193qycGGeYxLrSv6HwMsbmPLBsuy80dQGUpOn6K2Wa7kEY94Vg5bawKaFci/DqxdLhLGdGCSbhwZ6sMM0tHwqnHxO4fSYr2NEb6AabXeZCd+lhB5aBkeAOzVTlbC90oA/w5CpDZXb1mn+YmpagPzRWn9qukWRif6/lLNKA9PXSFS+mD9bf1XbaZlsczEHMw53Of+GMLBbQu2h3ZTcuGiqVUqUvpRlDqUu8SJ1uFwfT8XNMXerRRll5aAR4GRXUkd8=;oCba2KyWKVBR3/38Mp3mdg=="
+secured: "7C4Mjp4jVE8GpP4Y/XbdOWekk1VYcs+nHQdJ7nRVgHe1OmwlIcTa9R4jTxNI651ooXATDnpa0OUOslVFQjtRtT+16WcoE5HhJSKFm0K7drWzCX77Pom8oiJujp9AOKH1oVx4oK7yQlkpdPjMF5x26ufUYnQorbZRIP9DrrRxgOpcsdoBkU1kB5nF/5b49ROLorKqbgsQOU9P9wnm90Y5Cox7AMLgRrVzjyXAvFDVnrf8p7CtWhWx1Q8GaYLavuCT++lEKq3DSFgNsT9urc7FBgwqNB1oPSQkIRg9cNuDUdyUJrmpuyw2OzR17KwRuonYiiplv68iGS1dmkrgSlQIweH+bFIrj9h64YqHR4AAA5g=;mEiExHOqCWxhguWKIhVyVA=="
 ---
 

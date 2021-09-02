@@ -63,6 +63,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Enterprise AI software firm C3 AI delivers mixed earnings results and its stock falls"
+    excerpt: "Enterprise-focused artificial intelligence software firm C3 AI Inc. reported mixed fiscal first-quarter results today and was punished in after-hours trading as its stock lost more than 8% of its value."
+    publishedDateTime: 2021-09-02T01:13:00Z
+    webUrl: "https://siliconangle.com/2021/09/01/enterprise-ai-software-firm-c3-ai-delivers-mixed-q1-results-stock-falls/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/siebel-800x533.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "NBXMJ/ST9dH+morPgXvUsmf6HIlEodDarH2UtRnkY56sWDYRsH+J/ULHACQvjfhsoZyrwLray0DW4ZD4hX5tVzqVxbPbZ86TsFDLqYDlu8GMDhWF6swYiRe6mUl2xNHEInW1VotidUoMOrGbLvpvKyMLN/YiNzK530nV80EMcLOmOT/R4U2dFODQd1VcrWczTFpa0/60SLVe6vaYtOoklQQe/EQH0ufChuGTGnO91S/FTWHM7e2AHjrDvsnm2r/cWhey7NxIVthpokhSvDMqFKW0O2zD1iKpsKci6/mBdhjZNdTGuRN0uk2eC8r3m0p78CF1bfaBzeX4Og2iG3Uy3MUTlsoS+O6uMAqMzI1RT1A=;LD2PbQJxLsZAC7bMUMOGLw=="
 ---

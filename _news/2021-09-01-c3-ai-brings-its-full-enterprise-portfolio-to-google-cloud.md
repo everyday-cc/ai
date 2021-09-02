@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/c3-ai-brings-its-full-enterprise-portfolio-to-google-cloud/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Enterprise AI software firm C3 AI delivers mixed earnings results and its stock falls"
+    excerpt: "Enterprise-focused artificial intelligence software firm C3 AI Inc. reported mixed fiscal first-quarter results today and was punished in after-hours trading as its stock lost more than 8% of its value."
+    publishedDateTime: 2021-09-02T01:13:00Z
+    webUrl: "https://siliconangle.com/2021/09/01/enterprise-ai-software-firm-c3-ai-delivers-mixed-q1-results-stock-falls/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/siebel-800x533.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "KfT4OpNO0fWxvfPd331u5A/lrAxKEs39WuOqrwi/eFnOlvMfv8CET+L06WvUoR60KMCMdSyAiR57DeKUKeY8hCY1GzfpdORuLuWH/tH0HxADpA47Uyx5Y2yH9gg9AJ+K36tR98YDAklJRB/hNal8pcxg8Y4HJBhlLocS4ZnKLlJO58GG4jpiFGdalH+bB5Y674iLIL5w19PP71xyo4Li0CdzVZ63bKkue8A/BQkoNl9UOkZOmA/30onH5621W48JxQi5RZHp5FncfMnASyVsIrqEOZ+DM0FIx3NNx/RgvZ/CLxTKQvfJVYoqxUCA4o0AkKCrj3q14cmyS8hY2jS4bTU4krVWFL++MevMmpJ1ax8O/EoxQfuQWUhNUsuorM+IpfZwbjTmVVyBAKPMO8WScoYCqc0qCrxQwVTDnszaCYti52keaj6k887VntSV/l2II2cgF8vQx/8LEfACVPmbyIB47vZrGXfVbB57HUOvzP5q6zEDo8UadlG8xuXKDXR5RrV+WUs38HefUtchubOhKA==;R9pnhefp8B9tMCwaW5weQw=="

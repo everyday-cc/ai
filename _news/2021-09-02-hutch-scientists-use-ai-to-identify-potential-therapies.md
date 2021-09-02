@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-01T18:47:00Z
 originalUrl: "https://www.fredhutch.org/en/news/center-news/2021/09/hutch-scientists-using-ai-identify-potential-covid-cancer-therapies.html"
 webUrl: "https://www.fredhutch.org/en/news/center-news/2021/09/hutch-scientists-using-ai-identify-potential-covid-cancer-therapies.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.fredhutch.org/content/dam/public/communications/Photo/2021/09-september/210901/social-patient.jpg"
@@ -95,6 +96,6 @@ related:
       domain: eurekalert.org
     quality: 11
 
-secured: "vgwURnKMFI9wS8pUzZeRX3JRz8jIgmqnoEFXCx2HQ5YSwQdhIs8mfuurvCB8IDxePJoWDYqR0+HO2YHCnC42BUpMkD1KCMYM3IXjEOb0lcecnTMhV1YYpU2JPCBfEbYt6drOZtIg0YJ9kJLpVKyd/Z6Aq41/zmE4pJGBPEfYNtZGDlAfc2tfmRHMRO9ZPFTdg7QK5X3+SOjzwp0ogIW0aDPM6dZvFL/4tR6x+yf0qNHTxVC/ixekh4z4UVCEVfMXbeMma+Qe6s2BC1nrAgyAYKT8BPRZOxfds1bknZzNIdBvrwGZIQXTLIsd/cd4CbMYuckYoPpeQ9ZD9bnESxQXdxEe5W9mJHOtvOc0kpV0C7w=;gYgwkowOQwxksLfl+Lue2A=="
+secured: "1VllV4+oY18U8CAxlwxgz7ptsVMQkZKH0PonFasqlAIbyaQzffEfGNPx99riBpIAp3Uv5uCV3niYDRBhTWAO9Fb+UyxWlP5cAw4pt0iGok4Q5GwbU2MM0CphsM/ofbkBwdMIFV1t0Xx657HW/dnnqGZj7UBfSQpiWGg22rMmBoD2NHQVREvgGSAuodoSjXlBoczAw/mbLxL2DZHJmtvbEY/CGZAGtfmOiBPzd1e8sGYceVOiKWjV8/Hp+087r1fgUmMetOWcO3V7WM0PjJTRV4hrg/4Rd2dYwiAl2cSB0u28Thxj2sbLHJ3+WIP4H++3ymQmH9KePxQV4wGei/u80bsITv5HOaO2UoqXBvKF+6XoW3Ja9xAdAA8ZUzyIIXeVwLMcAAaDzDx75pWNW55BfT4PzZpYsjhFxAS524lYCs+yqLPB/LwnKpg/BrEy7vZmQgF8FLKiEin81J5RpxRokP3VwMVMEeUL1mkQfCOUYBJ+vGu4cvbL/MCdOPFfzrjx9gMPHX737TlFjF3L7wjWuA==;2Lmd2gU3SbKesdMj5sYfUg=="
 ---
 

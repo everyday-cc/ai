@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277849"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849"
 type: article
 quality: 74
-heat: 404
+heat: 384
 published: true
 
 provider:
@@ -279,22 +279,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tokyo Paralympics: Judoka Aramitsu Kitazono Withdraws After Being Hit by Self-Driving Bus in Village"
-    excerpt: "The incident took place on Thursday afternoon when the automated electric vehicle, called an e-Palette and developed by Toyota, struck Kitazono after turning right into a pedestrian crossing."
-    publishedDateTime: 2021-08-28T09:52:00Z
-    webUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/"
-    ampWebUrl: "https://www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/tokyo-paralympics-japanese-judoka-aramitsu-kitazono-withdraws-after-being-hit-by-self-driving-bus-in-village-4919874/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 29
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/08/pjimage-2021-08-28T165052.351.jpg"
-        width: 1200
-        height: 670
-        isCached: true
   - title: "Toyota to Restart Self-Driving Vehicles at Olympic Village With More Safety Staff"
     excerpt: "Toyota Motor said on Monday it would resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff to ensure they did not hit any more people."
     publishedDateTime: 2021-08-30T11:16:00Z
@@ -413,20 +397,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 23
-  - title: "Tokyo Paralympics: Visually impaired athlete forced to withdraw after accident with self-driving shuttle bus"
-    excerpt: "Toyota has temporarily suspended its autonomous buses in the Paralympics athletes' village after one vehicle hit a visually impaired Paralympian at a pedestrian crossing. Japanese athlete Aramitsu Kitazono was forced to withdraw from Saturday's 81kg Judo ..."
-    publishedDateTime: 2021-08-28T10:17:00Z
-    webUrl: "https://www.originalfm.com/news/headlines/tokyo-paralympics-visually-impaired-athlete-forced-to-withdraw-after-accident-with-self-driving-shuttle-bus/"
-    type: article
-    provider:
-      name: Original 106
-      domain: originalfm.com
-    quality: 20
-    images:
-      - url: "https://e3.365dm.com/21/08/640x380/skynews-toyota-e-palette-driverless-vehicle_5492793.jpg?20210828092234"
-        width: 640
-        height: 380
-        isCached: true
   - title: "Toyota halts all self-driving e-Palette vehicles after Olympic village accident"
     excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
     publishedDateTime: 2021-08-28T13:24:00Z

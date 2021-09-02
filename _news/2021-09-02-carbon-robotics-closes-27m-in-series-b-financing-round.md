@@ -1,0 +1,86 @@
+---
+category: news
+title: "Carbon Robotics closes $27M in Series B financing round"
+excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds"
+publishedDateTime: 2021-09-01T17:17:00Z
+originalUrl: "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/"
+webUrl: "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/"
+type: article
+quality: 84
+heat: -1
+published: false
+
+provider:
+  name: The Robot Report
+  domain: therobotreport.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/Carbon-Robotics-robot2-web.jpg"
+    width: 770
+    height: 500
+    isCached: true
+
+related:
+  - title: "Carbon Robotics raises $27M for its AI-powered weed destroying machine used by farmers"
+    excerpt: "Investors are putting more cash behind the self-driving weed-zapping machines made by Carbon Robotics that are attracting attention from farmers across the world. The Seattle-based startup just"
+    publishedDateTime: 2021-09-01T06:00:00Z
+    webUrl: "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/"
+    ampWebUrl: "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 111
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/08/Bud-in-CA-630x473.jpg"
+        width: 630
+        height: 473
+        isCached: true
+  - title: "Vic.ai, an AI-powered accounting automation platform, raises $50M"
+    excerpt: "Vic.ai, a startup developing software to automate accounting and financial tasks, has raised $63 million in capital."
+    publishedDateTime: 2021-09-01T12:10:00Z
+    webUrl: "https://venturebeat.com/2021/09/01/vic-ai-an-ai-powered-accounting-automation-platform-raises-50m/"
+    ampWebUrl: "https://venturebeat.com/2021/09/01/vic-ai-an-ai-powered-accounting-automation-platform-raises-50m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/01/vic-ai-an-ai-powered-accounting-automation-platform-raises-50m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Carbon Robotics Raises $27M In Series B Financing"
+    excerpt: "Carbon Robotics, a Seattle, WA-based agriculture robotics company, raised $27m in Series B financing. Backers included Anthos Capital, Ignition Partners, Fuse Venture Capital, Voyager Capital, Bolt and Liquid2 Ventures."
+    publishedDateTime: 2021-09-01T15:21:00Z
+    webUrl: "https://www.finsmes.com/2021/09/carbon-robotics-raises-27m-in-series-b-financing.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 69
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/laserweeding.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Seattle startup that makes weed-killing robots for farmers raises $27M"
+    excerpt: "Carbon Robotics' technology is meant to replace herbicides and other chemicals that farmers currently use to manage weeds."
+    publishedDateTime: 2021-09-01T18:18:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/09/01/carbon-robotics-series-b.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
+
+secured: "jgJefAOWLkAQ0+drQRP/zczpSbWPOwW3n+mWfaOAvee/aK1VtwLlAaIMMRNjwbGrwwDPCgEllLTzz3dcqguAbG8i+mhN41qL21O7qbpYZr60aVfXHVe8WnVeDAm/fwvLsRcTwbm4ytU8jLHhr5kzJCBTUarIXw5Ys5YhMczTyv/bkNN8OyZS9CLOyYGlQdlhB5NCsY6fUXTx85aOLxxM67fJmfpBXjnipkc1DgdrwicwXCRKOT2wHOL0dQVhC9Zm/taoqg7DMoU5gCp+0d1IhucmOj8dHg3/y9eqVwj4wm7h6rRqJP8alGcXEtAHwAAJ26AR9OHhq5XZpMpuxtLvMKKIkEDvu8dWpXctQPEEeNc=;Envr+oxiGMzmgynqE8ATPw=="
+---
+

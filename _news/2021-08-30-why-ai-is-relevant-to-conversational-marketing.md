@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382318"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/000_1Q247L-scaled.jpg"
         width: 2560
         height: 1731
-        isCached: true
-  - title: "Conversational AI market to grow to $15.7 billion by 2024"
-    excerpt: "The market for conversational artificial intelligence AI is expected to grow from 42 billion dollars in 2019 to 157 billion dollars by 2024 customer suppor"
-    publishedDateTime: 2021-08-28T09:46:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270909816/conversational-ai-market-to-grow-to-157-billion-by-2024"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1630142424.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Continuing the Conversation on the Future of Artificial Intelligence"
     excerpt: "If we believe the hype, artificial intelligence (AI) and data analytics are quite possibly the answer to all our problems. Not just in business, but for"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-tout
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "What the feds’ investigation into Tesla’s Autopilot means for future of self-driving cars"
+    excerpt: "In addition to its Autopilot capabilities, Tesla has been offering what it calls “full self-driving” features that include autopark and auto lane change. Since its first offering of the Autopilot system and other self-driving features, Tesla has ..."
+    publishedDateTime: 2021-08-29T19:56:00Z
+    webUrl: "https://www.krqe.com/news/business/what-the-feds-investigation-into-teslas-autopilot-means-for-future-of-self-driving-cars/"
+    ampWebUrl: "https://www.krqe.com/news/business/what-the-feds-investigation-into-teslas-autopilot-means-for-future-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/business/what-the-feds-investigation-into-teslas-autopilot-means-for-future-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 50
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/08/AP20079851214157.jpg?w=1280"
+        width: 1280
+        height: 827
+        isCached: true
   - title: "A secret weapon for self-driving car start-ups — humans"
     excerpt: "Self-driving start-ups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature — human operators. While there is no driver behind the wheel, the passenger seat is occupied ..."
     publishedDateTime: 2021-08-29T19:35:00Z

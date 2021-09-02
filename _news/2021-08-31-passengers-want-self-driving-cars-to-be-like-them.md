@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "From Self-driving Cars to Remote Surgeries, 5G Will Make More Possible"
-    excerpt: "G technology, short for fifth generation, is the newest mobile network being adopted by countries around the world, and it promises newer and faster ways to interact with and experience technology of all types."
-    publishedDateTime: 2021-08-31T13:12:00Z
-    webUrl: "https://www.voanews.com/episode/self-driving-cars-remote-surgeries-5g-will-make-more-possible-4790546"
+  - title: "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive."
+    excerpt: "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve."
+    publishedDateTime: 2021-08-30T22:00:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
     type: article
     provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
+      name: Barron's
+      domain: barrons.com
+    quality: 54
     images:
-      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/kaltura-video-thumbs/1_j/1_jwieafxu.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.barrons.com/im-386041/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
+    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
+    publishedDateTime: 2021-09-01T09:00:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 41
+    images:
+      - url: "https://images.barrons.com/im-393971/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "lhlXU/CuFtLkS42RbqrImLw+UCX7Plb0CmGSd1x3zGyespsjn6JgyBEm/46yblLToZlvdtiGsFuIf4ml95s8QfzVIt+vP1uEYC0JCxmbvyOQqpjJAK+0dKk/zWaIfiVamG086/LdjVGs/qeICDcJnfX4tFFFQCFWGgCtPx2DcRAcTtHF49DCsaw3j+midhkAn+ZJymBFiwwFtFZ+RITKVFawAugqzCT1DybFzNfBjBLm+wiSoiz+jLKRGZJ0oQtbAF6hyvN7X8P7zGiaY206ozJpmtsyTodM5SCMNtkhMhPa/4K7QfnJjRusD56eRAETZqvnLPO0iNPgfKAIknG676uGjtqDfZeRyFXw9FL0LRM=;rzKaqhlz3BN36FpHcoJiyw=="

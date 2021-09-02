@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accid
 webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
 type: article
 quality: 50
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
-    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
-    publishedDateTime: 2021-09-01T09:00:00Z
-    webUrl: "https://www.barrons.com/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 41
-    images:
-      - url: "https://images.barrons.com/im-393971/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
     excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
     publishedDateTime: 2021-09-01T20:35:00Z
@@ -92,6 +76,6 @@ related:
         height: 300
         isCached: true
 
-secured: "s5OFE2OHT49OEF9MQb2vf0v3PiXz9XMYrQaB3Q3kRdwqW6YqBaIkDSFIGhzOqaZEsppapt8+OSvweye/Rvave7D6Drm/Ycz3522jOYvA8JdMGXZaMWuEQ1fNvucrs+g2DLo3XOl0JGP1tZM8bGN1PJp1HMYUIJqlwEy8Oh/yHJnwku62wVRTP8F2vScKhEpN2RxkOdIuIWklSYhhc4qiwcl9okEp99OZd0+TzmqwnB0SYXSx7Vp4/WXUwcjH8Np0gU/ky7DNevEqq/QoTHfbRfjqWh1PhmRVaBxpXWhK3Jel4dicWisHFVkKkHVZM6agzVVypNhF0oHbb3SpQwwQNiprJy7q7CzyyDzGILMpaRc=;wJKkcimM9hAOMnmuhm8E6g=="
+secured: "uyLXtF+GoN2ZJkQk+TYHy4LgOWuMG1xN1V1nYdYGM5t/8GQ6nl1v/E2ZNZZZVnHTMCR57LnLDTbd/1wvr2cTcOfFfSFMSj694ckkae50yf2gNbQuLZ0BOBSDmpPevILW5eSCZw36JURZ/00LYaOVsiGd0G80XLrWzrFbIohmmy6p0QXYoxJe+iyTupi2Iuu6S6KrTsXBAK9Z4hnNVYSpTmrpZfZI08CWz4zOzNWlhQoXfnjBTozYBvLNQfkriWYkrlfc+2v638Vg/YibRmXD30pdWHeElMuLMKNCtA77oVtUuPJwXjcLoXba2G4HXY/m73V/0/T3cfp91KLUcsGMyh8RO3nVbHQ/zQ/C9J557TK+S5/y/TmB5T3mHdbKYYgdbozXu+xSrA3Jr8JmZ5x16h7EvCLDn2ekDECSrfwhBTg3g/AXn7BM3KTllBGh0X/gnTzJHJDiZ4602DO8ohWhyJWXUxuO2GSg/Kj8zelMmfZSJsmTK9QH+Tw7xx0YRcqZlJzo59CRsB8mlNzRNfSKVA==;KOi1ZFT24bHNdLdx30cm8A=="
 ---
 

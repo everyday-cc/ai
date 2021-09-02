@@ -43,6 +43,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
+    excerpt: "The fresh capital will help enhance Skit's voice technology, developing personalised solutions while making strategic headway in global markets,"
+    publishedDateTime: 2021-09-01T14:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/voice-ai-company-skit-secures-series-b-round-of-usd-23-million-from-westbridge-capital-1030773534"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://mma.prnewswire.com/media/1606722/Sourabh_Gupta_and_Akshay_Deshraj.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Voice AI company Skit raises $23 mn in Series B led by WestBridge Capital"
     excerpt: "This follows a Series A round last May, led by Exfinity Ventures and Kalaari Capital, AngelList. The latest funding brings the startup's total raise to $30 million"
     publishedDateTime: 2021-09-01T09:04:00Z
@@ -90,20 +104,6 @@ related:
       - url: "https://images.financialexpress.com/2021/09/Cash.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
-    excerpt: "Leading Voice AI company, Skit has secured USD 23 million as part of its Series B funding, to fuel the next level of growth and product evolution. The investment was led by WestBridge Capital with participation from Kalaari Capital and Exfinity Ventures,"
-    publishedDateTime: 2021-09-01T16:30:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/09/01/9441341.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1606722/Sourabh_Gupta_and_Akshay_Deshraj.jpg"
-        width: 400
-        height: 225
         isCached: true
 
 secured: "DQk2GSJXEZMwO5Z/QdnLElCNOB+8s9FisipKhgHce3fHZQzijvsebxLxLaCijnDJe00PO0UQA97eGEgRqJS6M8/gn3xT5uG8h/15KrHynmn3F2MON5szCQmy9WlYRuHNtcRNmevg0lwRmRCWgMSvA368UqtQdVoRP0VhxABMQxcfjFVUuYhP5BUozp/Q0SaibKsiEbx2E05bQqtinJtWRDSUt515hKQTN1wd+g54QczdGEEn3+A6axlHDin8vnbyOGLfFWNsLOtntIQqpUV9uA/tmi5aV9Io3P3/dwAaetZiYOOIx07XCu4V+2RnAlFgj1G4WF3VvWUVk+hlG+6kB3S6B8D+0sCBNWNwQpI4ZgA=;ugbB38s8KMLpVtVKnA7p7Q=="

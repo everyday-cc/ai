@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Carbon Robotics closes $27M in Series B financing round"
+    excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds"
+    publishedDateTime: 2021-09-01T17:17:00Z
+    webUrl: "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/Carbon-Robotics-robot2-web.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Seattle startup that makes weed-killing robots for farmers raises $27M"
     excerpt: "Carbon Robotics' technology is meant to replace herbicides and other chemicals that farmers currently use to manage weeds."
     publishedDateTime: 2021-09-01T18:18:00Z

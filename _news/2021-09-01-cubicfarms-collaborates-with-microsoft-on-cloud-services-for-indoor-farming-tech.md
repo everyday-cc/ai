@@ -124,6 +124,20 @@ related:
         width: 1000
         height: 672
         isCached: true
+  - title: "Verizon Debuts Private 5G Edge with Azure Stack Edge"
+    excerpt: "Verizon announced the availability of an on-premises, private edge compute solution that builds upon the collaboration"
+    publishedDateTime: 2021-09-02T02:01:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20671-verizon-debuts-private-5g-edge-with-azure-stack-edge"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/de9c0f86b49e88be695cd5c27c1aa1b4.jpg?t=20210902_015756"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Verizon launches private edge compute platform with Microsoft, as promised"
     excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
     publishedDateTime: 2021-09-01T12:14:00Z
