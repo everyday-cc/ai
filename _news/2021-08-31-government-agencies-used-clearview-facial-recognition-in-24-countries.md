@@ -41,6 +41,22 @@ related:
         width: 731
         height: 411
         isCached: true
+  - title: "Federal Agencies to Increase Facial Recognition Use, GAO Finds"
+    excerpt: "The Government Accountability Office recently released a report detailing the past and future uses of facial recognition technology within 24 federal agencies. The report found that nearly half plan to increase use."
+    publishedDateTime: 2021-09-01T22:38:00Z
+    webUrl: "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds"
+    ampWebUrl: "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "FVmT5u1FFUXdsyBjLkF+RgmCiEHl/RCZblGJOENbVNad9uQchk3e8dB2fgWG0pglYROfqGz8zlTKh8VShqn12el5FNub/2CERtaa2bMIMkC49BaY9yZ+VPCGnllgAfi2ZyzfN+WY8izF1tvBpXcnR3a2UGRFcFzqVJnPKYAMyPB+XHkLQ3RBMStP5MX3yTkrhtoWaZKAdd0lpWq7nGXVOz0qkPOD4jixICCSlGsI7Qv+wcXafHlVG4tqX3VK/uG29xGgiAYU6ix/TbXVZeAm5k9hI0PjZxvt5bs/CQ60j4xIN/KFpBpHD78PX2eW5njsUsPlS7W76liuysqQJF6KNtNo9Jx//ljbBJeAw8Kj8bU89G+2RbmGm9SpDlIwMvAnEgBGeCYfvIUpXPwfqa19kI+iwIBjgp+mRUdi5ollXv7k1TeE3IAbRnXMYX4rc7z4lfO8nXktJz8Iu4gy+0Ij5xobWJZ7eusY5zIt06AMMczDODEQzr3YsPBqiWgJsTAlmoM4NoyhoGXcDLsMiYrKCA==;jyXYNWQiiEYaOk3eclTsvQ=="
 ---

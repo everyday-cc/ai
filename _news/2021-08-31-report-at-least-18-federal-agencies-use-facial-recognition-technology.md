@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wpxi.com/news/top-stories/report-least-18-federal-agenci
 cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/top-stories/report-least-18-federal-agencies-use-facial-recognition-technology/DSNTSFGEOBAD5P3ONW3E2JYT2A/?outputType=amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WPXI
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Federal Agencies to Increase Facial Recognition Use, GAO Finds"
+    excerpt: "The Government Accountability Office recently released a report detailing the past and future uses of facial recognition technology within 24 federal agencies. The report found that nearly half plan to increase use."
+    publishedDateTime: 2021-09-01T22:38:00Z
+    webUrl: "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds"
+    ampWebUrl: "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Government agencies used Clearview facial recognition in 24 countries"
     excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
     publishedDateTime: 2021-08-31T11:03:00Z

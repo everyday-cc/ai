@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
-excerpt: "The fresh capital will help enhance Skit's voice technology, developing personalised solutions while making strategic headway in global markets,"
-publishedDateTime: 2021-09-01T14:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/voice-ai-company-skit-secures-series-b-round-of-usd-23-million-from-westbridge-capital-1030773534"
-webUrl: "https://markets.businessinsider.com/news/stocks/voice-ai-company-skit-secures-series-b-round-of-usd-23-million-from-westbridge-capital-1030773534"
+excerpt: "The fresh capital will help enhance Skit’s voice technology, developing personalised solutions while making strategic headway in global markets, like the US; WestBridge Capital"
+publishedDateTime: 2021-09-01T15:21:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-30b110228741d7d8568b83b60015bdae"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-30b110228741d7d8568b83b60015bdae"
 type: article
-quality: 59
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1606722/Sourabh_Gupta_and_Akshay_Deshraj.jpg"
-    width: 400
-    height: 225
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -109,6 +105,6 @@ related:
         height: 800
         isCached: true
 
-secured: "xBsyApKLqywMF7ILUMVjxS8VkXisC0OABRxfotYcd3Joj3LAE1FCrercG0542PdmY/QACvBEzTYaOId9Xfi1yEDUjk1+MEBlzMmRTZFiSXVZ9VEbYtCbYrlUk+oCpVGSs51VmGgIdK74O8Dl18KOTEAKGl8j0+giYFC7Znd9lkWJdHonhANLRPwzj9+cV8iMt9NtBNBKfps2NX1/W+Ld499Z7NdoXTp7eWsZr5/1kA5hrdi+UkypRG9mM9KTeBI8Bluju+iHqGDl70g1ql/141QYvg8G3Ja7SG1Zav7WgOKLwY1mwn5jl9yLr0Y4dSupGsiNYNWpsfNPi+5VIqoTKre3D1lcD188x8ZQhOJHhNg=;btnaj8rSd6yd88e+899ocw=="
+secured: "QKI0OVV9z8xt/P76JiHrXbzLg5c4HF++Xd03PopHRZoYqAIyXI2Xusxhy8BhVQAyvEy6TYRFUTwnjefwG0GTmXOyUABGqHHwIf0t741PnLeSHZ3AEM3LK2Xtr5a833CHSHYTaSHIdqFYryq9n+kItRNNSmHm3Vo7p3wB4kYUQlgVcUfb99rewgdmdCN69hX9iXsVAxjIHKvLjmuZD5EW0Yvc6Y0HvrrV4iMmY6NqCVlUYwlr828QXA6dESTrTTLaj++onT4EOKkql9Z07uyT8RRsue3hGjWVQNG/xCiKbU9TLpWxCG6glMsA5dRgwZXx3eC+KcRiZd/li3knBtXLcl/TnRs/QTMypTAeJf8rhpY=;i4jqLvz/kmhwe8DoReLtVw=="
 ---
 

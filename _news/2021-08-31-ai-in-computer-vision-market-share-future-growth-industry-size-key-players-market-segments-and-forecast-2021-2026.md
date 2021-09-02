@@ -62,6 +62,17 @@ related:
         width: 350
         height: 220
         isCached: true
+  - title: "Machine Learning in Education Market Size 2021 And Forecast to 2028 | Keyplayers – IBM, Microsoft, Google, Amazon"
+    excerpt: "In addition, the global Machine Learning in Education Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-08-31T19:46:00Z
+    webUrl: "https://manometcurrent.com/machine-learning-in-education-market-size-2021-and-forecast-to-2028-keyplayers-ibm-microsoft-google-amazon/"
+    ampWebUrl: "https://manometcurrent.com/machine-learning-in-education-market-size-2021-and-forecast-to-2028-keyplayers-ibm-microsoft-google-amazon/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-in-education-market-size-2021-and-forecast-to-2028-keyplayers-ibm-microsoft-google-amazon/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 52
   - title: "Cognitive Analytics Solutions Market Size 2021 And Forecast to 2028 | Keyplayers – IBM, Amazon Web Services, Google, Microsoft"
     excerpt: "In addition, the global Cognitive Analytics Solutions Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
     publishedDateTime: 2021-08-30T05:26:00Z

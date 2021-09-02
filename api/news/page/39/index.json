@@ -2,6 +2,92 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-08-04-fintech-stampli-launches-new-partner-program-for-ap-automation.md",
+      "title": "Fintech Stampli Launches New Partner Program for AP Automation",
+      "excerpt": "Stampli, a leader in AI-driven Accounts Payable (AP) automation, is introducing a new partner program for accounting firms, bookkeeping services, resellers, consultants, and ERP providers to expand their offerings with Stampli’s award-winning AP automation and payments software.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-6ce6650633234769a031d84c4b32890c",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-6ce6650633234769a031d84c4b32890c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-amazon-sagemaker-drift-detection-pipeline.md",
+      "title": "Amazon SageMaker Drift Detection Pipeline",
+      "excerpt": "Use this following AWS CloudFormation quick start to create a custom SageMaker MLOps project template in the AWS Service Catalog and configure the portfolio and products so you can launch the project from within your Studio domain. Follow are the list of ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-samples/amazon-sagemaker-drift-detection",
+      "originalUrl": "https://github.com/aws-samples/amazon-sagemaker-drift-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/7e7eedf715326076134aa3b33c72ca240dc5647204e8202d837b17aea51b57f4/aws-samples/amazon-sagemaker-drift-detection",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-hiring-the-right-personality-matters-and-ai-can-help.md",
       "title": "Hiring the Right Personality Matters, and AI Can Help",
       "excerpt": "It's important to find the right employees in order for your business to succeed. Here's how AI can help you find the perfect match.",
@@ -1047,92 +1133,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial-services.md",
-      "title": "Fujitsu AI Scoring Platform Powers New Galileo XAI Solution from LARUS for Financial Services",
-      "excerpt": "Italian solutions vendor LARUS Business Automation S.r.l. and Fujitsu Limited plan to leverage components of Fujitsu's Finplex AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/a22316200/fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial-services",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/a22316200/fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22316200",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22316200",
-      "publishedDateTime": "2021-08-03T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-differential-privacy-in-tff.md",
-      "title": "Differential Privacy in TFF",
-      "excerpt": "This tutorial will demonstrate the recommended best practice for training models with user-level Differential Privacy using Tensorflow Federated. We will use the DP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_with_differential_privacy?hl=sl",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_with_differential_privacy?hl=sl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sl",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

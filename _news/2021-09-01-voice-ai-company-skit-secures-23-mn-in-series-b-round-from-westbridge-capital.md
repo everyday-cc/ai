@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
-    excerpt: "The fresh capital will help enhance Skit's voice technology, developing personalised solutions while making strategic headway in global markets,"
-    publishedDateTime: 2021-09-01T14:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/voice-ai-company-skit-secures-series-b-round-of-usd-23-million-from-westbridge-capital-1030773534"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://mma.prnewswire.com/media/1606722/Sourabh_Gupta_and_Akshay_Deshraj.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Voice AI company Skit raises $23 million Series B from WestBridge Capital"
     excerpt: "Skit, formerly known as Vernacular.ai, raised $23 million as part of its Series B funding led by WestBridge Capital. Other investors including Kalaari Capital, Exfinity Ventures, Angelist syndicate led by Aaryaman Vir Shah from Prophetic Ventures,"
     publishedDateTime: 2021-09-01T12:40:00Z
@@ -108,6 +94,20 @@ related:
       - url: "https://images.financialexpress.com/2021/09/Cash.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
+    excerpt: "The fresh capital will help enhance Skit’s voice technology, developing personalised solutions while making strategic headway in global markets, like the US; WestBridge Capital"
+    publishedDateTime: 2021-09-01T15:21:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-30b110228741d7d8568b83b60015bdae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "2Y0j0TSwkg6ADwrDlxFS3mZn4FoWQ1fNyuu1mFNmjk9+kTbrhgl+ifbYkwp8hoKednaBD7sGwCNuvdSkuMIS6+KbqOWRnBPxhlu8e9Fy9XYRb2oj8B1FPboFfQpUcmqXdrOSiJeMQzDi1ia0hAqDHcq+jtzg3ZpavjujNft8n5luoz9jyIKeNVLAVe7ErjhTmanq61b5dJ+qwpWutmLJOrXl7dKIrov2LX0+V4pfhexb7RbWxcLRS+adDKn9Yhzs84z2ztaS8cLr5MPYaPQWag9WouR/gCIy26mlPfFrzLCa/xTo9tAff9AE6zLJrfAdmtJK147+CdCTo9SYY4RvuXaipFkoZz0zWmzSAAPFW1zTjoceXXTBjrnV49VZl3PABUrNGRCREy2UqHNdMlyCTQuw1zqEEj6cY8IArzvAgx2JsWj3dynxOxfhUHv5IWNxmwMESCNoyYXsvDoAxlgEKtcWU5OkndgAEnUtIykFGtpeerKlfQ1VqiCO3Fl6ZUEsciCgNcCtAvFOoOTcRmfT2g==;a/xSD+kssHJLvLE/Jdat9A=="

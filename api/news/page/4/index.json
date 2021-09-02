@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-30-why-ai-is-relevant-to-conversational-marketing.md",
+      "title": "Why AI Is Relevant To Conversational Marketing",
+      "excerpt": "Marketers want to have one-on-one conversations with their customers to learn what they are looking for, and develop a stronger, long-term relationship with them",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/382318",
+      "originalUrl": "https://www.entrepreneur.com/article/382318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630303653-4530890.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/382318",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318",
+      "publishedDateTime": "2021-08-29T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo.md",
       "title": "China’s AI unicorn SenseTime files for Hong Kong IPO",
       "excerpt": "China’s biggest AI firm SenseTime filed Friday to go public on the Hong Kong exchange as China tightens scrutiny on overseas listings. The firm is planning to raise at least $2 billion in its IPO, local media reported.",
@@ -199,7 +251,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -622,7 +674,7 @@
       "originalUrl": "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1169,49 +1221,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-army-wants-to-install-facial-recognition-video-analytics-at-child-development-centers.md",
-      "title": "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers",
-      "excerpt": "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-27T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

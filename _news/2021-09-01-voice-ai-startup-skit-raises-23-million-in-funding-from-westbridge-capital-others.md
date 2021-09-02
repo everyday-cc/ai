@@ -42,20 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
-    excerpt: "The fresh capital will help enhance Skit's voice technology, developing personalised solutions while making strategic headway in global markets,"
-    publishedDateTime: 2021-09-01T14:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/voice-ai-company-skit-secures-series-b-round-of-usd-23-million-from-westbridge-capital-1030773534"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://mma.prnewswire.com/media/1606722/Sourabh_Gupta_and_Akshay_Deshraj.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Voice AI company Skit raises $23 million Series B from WestBridge Capital"
     excerpt: "Skit, formerly known as Vernacular.ai, raised $23 million as part of its Series B funding led by WestBridge Capital. Other investors including Kalaari Capital, Exfinity Ventures, Angelist syndicate led by Aaryaman Vir Shah from Prophetic Ventures,"
     publishedDateTime: 2021-09-01T12:40:00Z
@@ -103,6 +89,20 @@ related:
       - url: "https://images.livemint.com/img/2021/09/01/600x338/usdollars_1629216416731_1630497313242.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Voice AI company Skit secures Series B round of USD 23 million from WestBridge Capital"
+    excerpt: "The fresh capital will help enhance Skit’s voice technology, developing personalised solutions while making strategic headway in global markets, like the US; WestBridge Capital"
+    publishedDateTime: 2021-09-01T15:21:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-30b110228741d7d8568b83b60015bdae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "P4ne5Nfr1rCMSvAJ5z9e8c8iTOZYDwElHbzaa/5Ey6ZH+hU/2D9z4/z7kqqncDhA21G3TlhAV+zRxjF4fduOQqOih8yK5895PyYemileT2zuuKVyOr3ABHSZ3+1hXY/YbE/rKJMJOPntKWAyCPuglMZJRDj9w9ksUWbtf4Y1hcxNMRY/zhyRazuYa0a/2JtxLDI0XyL9PR9EGaVdV9TsZybB54gJOe2yBc1kJopZnyB1BeTXk+g69lVfU9XJKR4ZB+XOnsZbO1f4Ss70HFm6Gl6c92dbP+FY7dIqBjylIrP3a9VNMxoq2SUiy2vwxZnsIn6OUoSAQRXp8qyZSY4crndV64kwBYlBqs1rlyD1o0UAXSlMVGeKeTcX5x99H5M1Vkl2YvD37ExHe9ytPXIlc50OS27d1NDk4RgPPbs9Vbj97pEtlIslQfXWnyKwG8deKkPrA4GQ/Ek3taTFZgSb2y6tu/8jzLJjn3+bgo5ELLs4DC3erouvmIgvroBUs71nzPe0u4EM8SqRXwPNEdmwGQ==;AhlCC5uugJ8wl0zqngPrdA=="

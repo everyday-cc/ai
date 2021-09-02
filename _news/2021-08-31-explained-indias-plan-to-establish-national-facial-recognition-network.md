@@ -85,20 +85,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Fast adoption of facial recognition technology in India likely to trigger privacy issues"
-    excerpt: "Businesses, big corporates and even government departments have adopted facial recognition technology (FRT) in India for authentication and security reasons. The COVID-19 pandemic has also led to facial recognition systems,"
-    publishedDateTime: 2021-08-28T05:16:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/fast-adoption-of-facial-recognition-technology-in-india-likely-to-trigger-privacy-issues/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 30
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/proxyclick-visitor-management-system-5XPUpAdcdw-unsplash-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "OrTbtPtgQc3cyfpXEs2SOAxPnALm5TfssLTLUuUGgNT19axwyvb6GJ5ZsMOfk5qg/UWLfNZgQ99RYeYLL+uh5bdKJH7my8P2GeN5/Iw6g44fBBuVEgNLki+EBZTBPIzpRQ5+arC7cZPbqGuzu07poqoAmHJd2VlyXVGctTsMTy3Qhqa0imqH02awWiwikRQ48rJ3zRFHM92EMYcQT40ecavuIn7d/FEJSGb61UvchLy4l21DKVhzgTxNfJzPnj4GOjlhDyVG3HUfJREYre5beVm4e+HIu+810nuDVVgmhHyEQl77ZmYdS2Q/Cb1QWUMygWOSrS1fnov7Gsq1u4PC9gTk+o0Njs7hMhfhmwNNEIalf7DbhoNrkrB+vORmo149JsEFsxP14d0NtnKtEaBi0hULuNYHZjzqXQ0IzRb6yhGZHt2b8EhdowNgl2M+4IFR75vW0xcWBxY8X3z97Jl3opziWDbKNFRHF4WWZOvTo3WFN2OsbKadFJS5ITdIUxtEnwau1DitmoYClgQtI1qYMw==;p9ZHO8itZhBuzWlIfVC7+Q=="
 ---

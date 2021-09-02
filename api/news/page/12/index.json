@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-24-ai-roi-computer-vision.md",
+      "title": "AI ROI: Computer Vision",
+      "excerpt": "Computer vision is now a reality. Get immediate business value like improved quality and reduced losses from the practical AI deployment platform, Chooch AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
+      "originalUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-a-secret-weapon-for-self-driving-car-startups-humans.md",
+      "title": "A secret weapon for self-driving car startups: Humans",
+      "excerpt": "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/jdx_SBKHpamXIFpgNPetMNtT-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YZTF4GYIYNIVJJBTUP3X3KH4B4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-an-artificial-intelligence-helped-write-this-play-it-may-contain-racism.md",
       "title": "An Artificial Intelligence Helped Write This Play. It May Contain Racism",
       "excerpt": "OpenAI believes that this kind of AI research will reshape the global economy. Earlier this month, they debuted a new version of GPT-3 that can translate ... you train large language models ...",
@@ -1114,101 +1218,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-the-us-army-is-using-a-controversial-facial-recognition-technology-that-uses-images-from-social-media-to-identify-people-documents-show.md",
-      "title": "The US Army is using a controversial facial-recognition technology that uses images from social media to identify people, documents show",
-      "excerpt": "Clearview claimed the test used the \"same basic methodology\" the ACLU used to test Amazon's Rekognition system in 2018. At one point, Clearview mentioned the results of the report on its public website, but it has since removed all references. \"There's a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/clearview-ai-facial-recognition-us-army-cid-criminal-command-tech-2021-8",
-      "originalUrl": "https://www.businessinsider.com/clearview-ai-facial-recognition-us-army-cid-criminal-command-tech-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/611fbb651c47770019e69273?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-arab-bank-to-back-egyptian-fintech-ai-and-cybersecurity-startups.md",
-      "title": "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups",
-      "excerpt": "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
-      "originalUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
-      "publishedDateTime": "2021-08-22T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

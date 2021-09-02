@@ -51,6 +51,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "Tesla Makes a Leap from Autonomous Vehicles to Robots with “Tesla Bot” Reveal"
+    excerpt: "Not a stranger to taking on a challenge, Elon Musk reveals \"Tesla Bot\" at 2021's Tesla AI Day. While it seems to be an ambitious plan to build a humanoid robot, how feasible is it for Tesla? Elon Musk isn't new to having big ideas and even bigger ambitions."
+    publishedDateTime: 2021-09-01T23:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/tesla-makes-a-leap-from-autonomous-vehicles-to-robots-with-tesla-bot-reveal/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 53
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/tesla_bot_ai_day_thumbnail.jpg"
+        width: 700
+        height: 300
+        isCached: true
 
 secured: "w/14TD8wx0jpDaTAMowL9j1+FaYO26/tESpJiaLeivUsCqIeIWaNSMhTs8cmxT7z9GPiBhJF17gjjAkX4sP5bzSYSO0VNrBQjwzSQO4V9BIsx0Ad6/Qvr5R6hE18bGTU6Jy8a0kihIMbqZTyij4O2sQEParpKhS7HX6UQnXcZseVOvNYrXaUNUtuNdih6HAm214QkiLwYDTtd76YlWXCR96nqzexmm2F4v0Xbkq4WiNNwSDmSa+eS96sU8I/UVPdEC8efkbzvWowyfjZN4UShVSIKIaMzkBpLqyGqe145PYX+c8zhM/Jl/2buX9Sk0LhH98K5FL2EPg17V7l+4+rczvaQ8OL1ODVX08NWgq+dgU=;pGOwvIgxjeW54WCiol3EQA=="
 ---

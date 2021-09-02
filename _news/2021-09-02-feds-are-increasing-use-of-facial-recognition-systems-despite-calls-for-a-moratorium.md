@@ -3,23 +3,23 @@ category: news
 title: "Feds are increasing use of facial recognition systems – despite calls for a moratorium"
 excerpt: "Politicians of all stripes, computer professionals and even big-tech executives are calling on government to hit the brakes on using these algorithms. The feds are hitting the gas."
 publishedDateTime: 2021-09-01T21:30:00Z
-originalUrl: "https://madison.com/lifestyles/technology/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium/article_0d90814d-5bf1-500e-a2ca-77c8f9fe409d.html"
-webUrl: "https://madison.com/lifestyles/technology/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium/article_0d90814d-5bf1-500e-a2ca-77c8f9fe409d.html"
+originalUrl: "https://omaha.com/lifestyles/technology/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium/article_fcbc559f-8145-5b21-8c3a-dc6ddde67925.html"
+webUrl: "https://omaha.com/lifestyles/technology/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium/article_fcbc559f-8145-5b21-8c3a-dc6ddde67925.html"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/d9/0d90814d-5bf1-500e-a2ca-77c8f9fe409d/612fddd411fd4.preview.jpg?crop=1665%2C937%2C0%2C154&resize=1120%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/cb/fcbc559f-8145-5b21-8c3a-dc6ddde67925/612fddd567188.preview.jpg?crop=1665%2C937%2C0%2C154&resize=1120%2C630&order=crop%2Cresize"
     width: 1120
     height: 630
     isCached: true
@@ -54,6 +54,6 @@ related:
         height: 300
         isCached: true
 
-secured: "zgcQ7GRp90TDW9KV/brIxeBQl7JRqPSegyQnTdFU21UTQtLLL2CEogcImpCLAOmEc/lmkKqfS3zLaBQ3bl4YIWVFL0yVu5CYDo2H/5ItHeXpXa+FOYU9s9Qw9U0ncH9epunpwvmkyDMZ4KyHv+yLi11ZnqgfrmNEVqw+pXHsITQ/TKo0loYnkhajcakzEdrOsULqUQGX1MM9s1MFFBWDMugRE6Utxoq82tcY1uzWRTWyC7SrBMgbz2u95SFYTxbIScYMDCjOlMgWTzDM8MS1V9VE8T9Ns+GbI29LuJKyFPZCZIA0FNv+6X6GIAL2p7P9g5oAxwD0a84jVqUo6BimS66QuZttHDWgeSylrP8yvwI=;ZwamrWa1ZOdd7+YhBOQ0gQ=="
+secured: "mpYpaTlkuQ9c0LUTW1xFoL7XEU/OnzqrIMI621SjHQ+DdPFaTizgsjkapvquY/kHe2tRJLv36QSl+w46SwQMy9xB383lL/rKecE1J6IRXPjTSLyaB4XSXbwlQ0V8GMUZ2Hlop+vXEWqF92w7Ag/y8XcJTdwPp8bgjeARxYlAujupnbf5qVoCxbmoOYKW+65VB02Ith1NdqpEx4I9BDvC957NEXGFtnG3lP6GvTKHNSFnv2ZknBi193/MO4EphbU698omHzzz3odPupXWbUxsTc3SgJXnRG34v3ux6zqg07FKQiBWS6ZIfiV0jwAdkMVBUA2rH+3/xwOxegFDmnZYhPMIJ6sgCmToy0kj7d+w2nU=;oCEgFM6j0JPa5edRRjv0Xg=="
 ---
 

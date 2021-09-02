@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/indian-railway
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Fast adoption of facial recognition technology in India likely to trigger privacy issues"
-    excerpt: "Businesses, big corporates and even government departments have adopted facial recognition technology (FRT) in India for authentication and security reasons. The COVID-19 pandemic has also led to facial recognition systems,"
-    publishedDateTime: 2021-08-28T05:16:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/fast-adoption-of-facial-recognition-technology-in-india-likely-to-trigger-privacy-issues/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 30
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/proxyclick-visitor-management-system-5XPUpAdcdw-unsplash-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "1HVE6qZj5XZagQK4V9D3JVw78Se+vuqaZqWl6VgGjnN3UcwxRaz5heu+Iip8gsOk2zK1JBygQ8NtydKCB9OMlc+3jh04KuKPZPnObVOpuSvP3Zk6qYO9oF5DzlbGMzMZyFB3WpFNeNAHyqjTFeaFMyvR2mCKlCaolm9IF+UWkI/JR/STS3ILDr87aQssQKwW0N59Y+E+X0p2p4MJSMS7I+7nM5hIVW7bfRy6DWKP0dmxcLu9ciieSD+cwS1ugJbYmgA9BzfygQDwuAWSpb8fBdQ5O+ubB3QTwhIIbLr37itJU/BsuXEK2XeZjsSCMhQfF3CCbAQLRYJpXjv3ldDJ/wduYqdMRos6pNcuC4RdiS/dhnOaKv+gKi6iRvPkBzFEgNpOcEyJIqGbrHMHxskH+LvgzgNxfo9WleV9uoRsfIOhVJsHVaBEd7576xDgE2cFnUWyGrsnCOAONSCkGRW3uQYHuLa6FCJWoUqXlJEdfvcWoys1lLah68XnMGiiWIe3SZflvnfvd7iz4EX3f+7AhA==;DQ3FKjCQJSegr/tbbxG9uA=="

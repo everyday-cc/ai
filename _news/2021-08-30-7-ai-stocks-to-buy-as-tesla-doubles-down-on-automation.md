@@ -54,6 +54,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tesla Makes a Leap from Autonomous Vehicles to Robots with “Tesla Bot” Reveal"
+    excerpt: "Not a stranger to taking on a challenge, Elon Musk reveals \"Tesla Bot\" at 2021's Tesla AI Day. While it seems to be an ambitious plan to build a humanoid robot, how feasible is it for Tesla? Elon Musk isn't new to having big ideas and even bigger ambitions."
+    publishedDateTime: 2021-09-01T23:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/tesla-makes-a-leap-from-autonomous-vehicles-to-robots-with-tesla-bot-reveal/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 53
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/tesla_bot_ai_day_thumbnail.jpg"
+        width: 700
+        height: 300
+        isCached: true
 
 secured: "rs1l1r+8nU/g/MsZtoX90nd8arSZN33+kAAzCw4rjPSzi7C5tKUwDe4ES18+8fp0lB30kfs1w49RSE21bd2tqI6j+2S74mKl1470IedTCXCMAPZnkORfhOY+9W4ldkVSci0WdPLOMfU7QVdWPqLceCZvrZTLNLOS3yrCRqNrUax/cMoipz0riQA1WeEMe0V0Cg9/yJaad/XTv2CzWaq2nVXRmdJfBaFtBKlX2xL5M6oA0v1k9fJQ5uzPl8qdK/24N37bYsus/xWQ+YoAy2U0wEBDu19cpe/4oMucwtQ0DVYMa6iKxVR6E7Ctem3Vi8MVux7D0SMGG+jaE2clwSuslXOeyWuk52wuCKd7jIKUKuMJdUY7ydZMCdVJHAXWjc0ouXVkLKoTe36UBxLSaGFXP7mmTgm0qgwv3zz7GnfTVw6eBzOcyJCdWvI+E0skJpxcsmNCNQfIc83lC+UMIhm++p08T8W65KQvq8wWecNrKn0uhx44H8CE8F7qsHJ0s16kDeNsCLgqWtG/70RshUs4VQ==;ZSda6evYkqD8MuYxUIQkUg=="
 ---

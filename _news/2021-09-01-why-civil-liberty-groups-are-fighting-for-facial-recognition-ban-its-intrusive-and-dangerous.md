@@ -28,14 +28,14 @@ related:
   - title: "Feds are increasing use of facial recognition systems – despite calls for a moratorium"
     excerpt: "Politicians of all stripes, computer professionals and even big-tech executives are calling on government to hit the brakes on using these algorithms. The feds are hitting the gas."
     publishedDateTime: 2021-09-01T21:30:00Z
-    webUrl: "https://madison.com/lifestyles/technology/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium/article_0d90814d-5bf1-500e-a2ca-77c8f9fe409d.html"
+    webUrl: "https://omaha.com/lifestyles/technology/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium/article_fcbc559f-8145-5b21-8c3a-dc6ddde67925.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 31
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/d9/0d90814d-5bf1-500e-a2ca-77c8f9fe409d/612fddd411fd4.preview.jpg?crop=1665%2C937%2C0%2C154&resize=1120%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/cb/fcbc559f-8145-5b21-8c3a-dc6ddde67925/612fddd567188.preview.jpg?crop=1665%2C937%2C0%2C154&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
         isCached: true

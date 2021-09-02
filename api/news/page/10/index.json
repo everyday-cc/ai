@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-24-esperanto-launches-ai-accelerator-with-over-1000-risc-v-cores.md",
+      "title": "Esperanto Launches AI Accelerator With Over 1000 RISC-V Cores",
+      "excerpt": "Accelerating ML Recommendation with over a thousand RISC-V Processors, the Esperanto ET-SoC-1 is the highest performance commercial RISC-V chip to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fd70be384d73d2f2ce2ad%2F0x0.jpg",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
+      "publishedDateTime": "2021-08-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-applying-artificial-intelligence-to-paint-shop-robots.md",
+      "title": "Applying Artificial Intelligence to Paint Shop Robots",
+      "excerpt": "Dürr expands it use of artificial intelligence to help automotive paint shops incorporate robots into existing operations for quality and plant availability applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
+      "originalUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/08/image004.6125130446ab6.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 646,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78c.md",
       "title": "Mynd Integrated Solutions acquires Artificial Intelligence Platform Move78(c)",
       "excerpt": "Mynd Integrated Solutions, one of the leading Finance & Accounting (F & A) and HR outsourcing partners for businesses, awarded by NASSCOM in the AI & ML category, has acquired Move78(c)[?] platform fr",
@@ -1110,102 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark.md",
-      "title": "Tesla To Be The Most 'Deeply Integrated Automative Company' In The World With AI Day Plans Fully-Implemented, Says Ark",
-      "excerpt": "If Tesla Inc (NASDAQ: TSLA) manages to fully implement its AI Day agenda, it would become the most deeply integrated “automotive company” in the world, as per Ark Invest.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark-1030754545",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark-1030754545",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/milan-csizmadia-d0v_dqo_xum-unsplash_5_1.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation.md",
-      "title": "Baidu's AI Voice Assistant Xiaodu Closes Funding at $5.1 Billion Valuation",
-      "excerpt": "Chinese tech giant Baidu Inc said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation. This comes in the midst of a regulatory crackdown on the tech industry by the Chinese authorities that has led to an upheaval in many sectors including as e-commerce,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp",
-      "publishedDateTime": "2021-08-24T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

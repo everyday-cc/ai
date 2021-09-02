@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon MemoryDB for Redis"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon MemoryDB for Redis, a fully managed, Redis-compatible, in-memory database. Amazon MemoryDB for Redis enables customers to achieve ultra-fast performance with high availability and durability for their most business-critical applications that require sub-millisecond response times."
+excerpt: "New Redis-compatible, in-memory database delivers ultra-fast performance with sub-millisecond latency and high durabilityNetflix, Twilio, and Cimpress among customers using Amazon MemoryDB for RedisSEATTLE--(BUSINESS WIRE)--Today,"
 publishedDateTime: 2021-08-19T17:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c"
+originalUrl: "https://us.acrofan.com/detail.php?number=518978"
+webUrl: "https://us.acrofan.com/detail.php?number=518978"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
-secured: "lShNKnfC7x0Djb42SoOmDNl9ueDvYVy7hTmRhbBIIhTz88kodi/EGfMUmWoWZvT3crfYiIZqnCj6wJr0XJiUlyyFtJ1oiz3VkXkd28IMEf4ffIyPPAJ9IAInz02TyjLo/jXUkpiS0afgRkxYt6zLYF+NRmgtcxd4P4+TZYDFhriTn/waoJnAsK6r0rqfPhD4Zm+OLbogJY13CJDKjKxJ0/PWaQZGaQNfJBdJ293bgUKBuwTVyAaNpMB8hq+PJ+Rwj7VcIwRO/hDqyMcABhBTbp8BXXH6C9aUbd6a5yAi3tMGzfyQbC7svQ/pAXkZjHC2CCSTnuFnFMfVmXxJk/nwdd1kvXBYswtPmXdVFOny47g=;rILTtfE6YsArw3fqta6ooQ=="
+secured: "wWz8qHgFFfusB3dFmE5ci0WKkbTAMD2JQg6UhCouZPtjPdJViLcWR7Grb5r7t0+B2mbu/+xhtCTYLTlfzzmjtLSTTDzC9bbklmJ6sFQVKLtdS4qkYlhqnmwOW+bJ5kFklaAT6ytt/JecJa6WbiCRE9i780VNCPGmS8ZVMPYvLCgUOAaVKzYaOGY4OY24ORiJvmGNwnCES6IzXQm6S7tZBmKpaZtaDlhukDKxm/OYfqownh522wY7zkFzq9SFO2Qhxk20bXv7qTb14LxeiQ7Jr1l5YFfwmWEfv1K6rtvwXHyQ32/MW371xcx5AmujaSUdDHyzypwKCC7JOCAboBSN5qCf5mV8of0+hjRu3USv/cE=;ag4K7BH1pysvor6kRHqgSQ=="
 ---
 

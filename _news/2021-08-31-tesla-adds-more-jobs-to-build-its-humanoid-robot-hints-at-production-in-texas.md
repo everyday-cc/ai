@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-h
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/amp/"
 type: article
 quality: 202
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/e2ffc489-4bca-4e4a-afba-df8fcdcb9840.jpg?crop=true&height=430&t=1629323382&width=640"
         width: 600
         height: 338
+        isCached: true
+  - title: "Tesla Makes a Leap from Autonomous Vehicles to Robots with “Tesla Bot” Reveal"
+    excerpt: "Not a stranger to taking on a challenge, Elon Musk reveals \"Tesla Bot\" at 2021's Tesla AI Day. While it seems to be an ambitious plan to build a humanoid robot, how feasible is it for Tesla? Elon Musk isn't new to having big ideas and even bigger ambitions."
+    publishedDateTime: 2021-09-01T23:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/tesla-makes-a-leap-from-autonomous-vehicles-to-robots-with-tesla-bot-reveal/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 53
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/tesla_bot_ai_day_thumbnail.jpg"
+        width: 700
+        height: 300
         isCached: true
 
 secured: "HcGzL3clGFYGW0YyaV5ZwZ91gUN0Y4gFLohE5/jP/QszA8ih9eFrvSZSYPsMMKQPOvZ4rGsYnXvK+WlX8H4n8Q08NKy7WCNd9rzUp6VR2y3DlD0USJ1jtC7q3wie+5NypPcyHXq0CMwd453gNTiU45DZc5c+jGv+gYTx+kIL/jWosbex0M7Y0rWI/8//34l0uOGROs4FbpowXNz1IRWxuruVAz+CKO8BQudOaxQJGrhk+DoFwoP2hP0P0qnbqpGH4/0Hz03IJYqBc0vGjdor9VF8BQqdpLWkoMfFUq15C1h0dG7U2a0EJ47MFbW4tZ6edy6am+3NJD0ZCOVAtkKKFiRu8KegC6juBFv71ThPP0whWwM9tskgAYzBTGiKRRcLVyba/bIrYB3dj83MsEq7x8+EOrAryfkzCRv2gQPkU6jqZTa86I4AdtVAiU0XLWdSDh34U0PItc7qgx1Wl0zBo+36Vt8ToUs1L6IoNI0Vzr9pM1H2ntybyGcF5DIZ16OI0kaCQSkXl3OQVdrW5WQRPDaUCZ/AXB+78TIkoG4IFlU=;CdX+T6ossF/1llkR1YDuVg=="

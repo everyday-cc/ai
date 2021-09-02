@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-tout
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       name: MacRumors
       domain: macrumors.com
     quality: 38
+    images:
+      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
+        width: 1600
+        height: 1042
+        isCached: true
+  - title: "Two Apple Self-Driving Cars Rear-Ended While in Manual Mode, Marking First Minor Collisions in Two Years"
+    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
+    publishedDateTime: 2021-09-01T19:37:00Z
+    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
+    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 27
     images:
       - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
         width: 1600
