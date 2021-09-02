@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/amp/"
 type: article
 quality: 76
-heat: 100
+heat: 101
 published: true
 
 provider:

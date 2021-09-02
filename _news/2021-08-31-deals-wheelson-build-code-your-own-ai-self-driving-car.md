@@ -57,6 +57,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Deals Reminder: Wheelson Build & Code Your Own AI Self-Driving Car"
+    excerpt: "Just a quick reminder for our readers on the great deal on the Wheelson Build & Code Your Own AI Self-Driving Car in the Geeky Gadgets Deals store"
+    publishedDateTime: 2021-09-02T07:18:00Z
+    webUrl: "https://www.geeky-gadgets.com/deals-reminder-wheelson-build-code-your-own-ai-self-driving-car-02-09-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/Wheelson.jpg"
+        width: 700
+        height: 525
+        isCached: true
 
 secured: "F33vhxLED1KNZvS0WJ4hlbswVrMnizdQlr8oy4708jyUXqocnh768IZ4az6eI8xnf/hho5OK9GYDsWgwwfQKnsWD8MHqaXw36YMgEJITEQqZSlNbo9A1DYyW6HBZOEuMcCtFUJ+KaJ5icIuJ9hlFL399VXHSOvYzOhZYb4NHjtR3QDXEena2vSGDZ26Q5EbOp3f4HQTJmlAFbT32U+9329/ueEDA9dL6sibfciQmmpXuWIFQ4QVgHJ9gmPE4k1MSdKOGErjnVVQYr72wsmmdPUnxwfgJK+zTyxV9/8CH9JxbBI3tUZkXQbUsd40wv4iLum/Rep7wV6Un6m+Xs6rPtn0d4cTBDTg68moPebwq/K2LxrvjxPzJTTL8+TgNDNWRhHLQc6eeiPJLqLAZ1AElsqUaaoc4jX16kvibtej5LICBjZmxo24HMDm3cCIAELNEA/Tab7yK4OCOt+LxgXz0J5FfYP2qXp6e94uLd7REu52adWpTEDkwJCon72VRAkbgeoqPUcAiZf7FRGW6uA4LjA==;DcR2yAtSDn/6F9Zzg7MPDg=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.telegraph.co.uk/business/2021/09/02/artificial-intelligence
 ampWebUrl: "https://www.telegraph.co.uk/business/2021/09/02/artificial-intelligence-risks-surge-false-breast-cancer-scares/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2021/09/02/artificial-intelligence-risks-surge-false-breast-cancer-scares/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.telegraph.co.uk/content/dam/news/2021/05/31/TELEMMGLPICT000231943466_trans_NvBQzQNjv4BqKutH9T4LB0mU7ExMWwW8NCqGxQH04cH4iJu8pVjTmPA.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 1560
     isCached: true
 
-secured: "ctHkRjzIeWEiZ+yj1oPFM6ZA7ItxXEOJ01Ysg7/yp/ql8zHNMyO598u3CbL2ZtbxFG5HiM6d8YaSTeRzO+G3IzMYRZPQ5ZOOnD1kxkUkAZ9u7cpxkj2DpIVynzejqGXSpaBO4Z5TsnJGSBUJUt5EmGYzpc/G8RguK7u5H+uQ7CA8sAzQJ6OVh3T6RNlJyQE3Rq0MkDhhFksEtPyVxaVLmsvNdtmsRI93ZW/9Ej9KItE9v3/Z/to+XDc/VAa1s3lRlvQQW1PJyuohMcIICzEvMjICPOLb8belHC7EBv3o2h/SmG4P+O1o3iej7CsuQ4ojsexVL+/f3BewuDub6eqUFngedbktrm441peHFgpSLhU=;0Vcp122WvoCj4oukgBwg5Q=="
+secured: "VYoN9zEU8XfUXpSp73UsUbkoWivLwi+MCqAhcsggvdfD11pqpybMTufxmKSSMI2W4Z51iISQrI3B9PG76PeBqaWJdW36n/9RCtNhHpuL68wXIfDGe/Gkq06x46fIsGu5DoFxfttC/jkIK6jSOA6MkH1vRfNR+fbarBZ6Xqn7F0CvgDkk5nSzjmtivDWB0sdmXHQnsk/Ny1fyhoBEbHm537it1lhjWzJCNP7GHbWK8M/EUPs+jsOPKCshW1E0kw+HIirE4yN1JcY0Ai6pIhNZCsob4n9XkV/VekH48V8wIewHO5Dv9DBFQlLmpLlC4kkX55TV5JPOZ1j/czlRAzM78Rm2k8VqcAcjmZzKXBfmKAMWOJ23TIGO+wobK02+wYLTv6bpz7HgSb3uJJV2LvKdgUguhlOdsJs15eBrBRYRB9Pe0ehxUpo8syyvMQgOt3Re2FqFBd64/oQW3K6RCHeB211qZBH3d2r9YOQlGyRkRt/yFN+KcYxpaOIu1v2sprRxH22RLvvTrglIv0a7V6Y1Sw==;xq2V71E56xBeyY7a5IAVLQ=="
 ---
 

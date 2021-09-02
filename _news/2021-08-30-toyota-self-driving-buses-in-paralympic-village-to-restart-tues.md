@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota suspends self-driving vehicles after accident at Olympic village"
-    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
-    publishedDateTime: 2021-08-28T14:58:00Z
-    webUrl: "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1277849"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 74
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502164/210828-toyota-epalette-mb-1553.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Toyota's self-driving shuttles return to the Paralympics following crash"
     excerpt: "Toyota is once again running its self-driving e-Palette vehicles at the Paralympics following a collision with a pedestrian.."
     publishedDateTime: 2021-09-01T14:08:00Z
@@ -88,20 +72,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612af96eccedf1b532c3fdbf%2F0x0.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Toyota halts self-driving vehicles after Paralympics collision"
-    excerpt: "World Toyota halts self-driving vehicles after Paralympics collision. Posted . Toyota's chief executive has apologized after a self-driving transportation vehicle collided with a"
-    publishedDateTime: 2021-08-28T13:08:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVES78QQZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210828&i=OVES78QQZ&r=OVES78QQZ&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "A Self-Driving Bus Has Hit A Paralympian At The Tokyo Olympic Village"
     excerpt: "There are always consequences of using autonomous vehicles…. Earlier this week, a visually impaired Paralympian was hit by one of the self-driving shuttle buses around Tokyo Olympic Village which resulted in leg and head injuries. The autonomous bus was ..."
@@ -312,6 +282,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Toronto's new self-driving shuttle bus hits the road this month"
+    excerpt: "The new self-driving shuttle serving the Rouge Valley area will begin learning its route in September before welcoming passengers."
+    publishedDateTime: 2021-08-31T16:20:00Z
+    webUrl: "https://dailyhive.com/toronto/self-driving-shuttle-map-route"
+    type: article
+    provider:
+      name: Daily Hive
+      domain: dailyhive.com
+    quality: 24
+    images:
+      - url: "https://images.dailyhive.com/20210831084911/Screen-Shot-2021-08-31-at-8.48.20-AM.png"
+        width: 992
+        height: 694
+        isCached: true
   - title: "Toyota Paralympic self-driving incident: operator and car at fault"
     excerpt: "Toyota has re-started its e-Palette autonomous shuttle service at the Paralympics after making a number of adjustments to how the self-driving shuttles work, including beefing up operator training."
     publishedDateTime: 2021-08-30T20:49:00Z
@@ -365,20 +349,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 23
-  - title: "Toyota halts all self-driving e-Palette vehicles after Olympic village accident"
-    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
-    publishedDateTime: 2021-08-28T13:24:00Z
-    webUrl: "https://www.channelnewsasia.com/business/toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident-2142116"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 20
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--zBI3c-oz--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/one-cms/core/2021-08-27t143048z_2_lynxmpeh7q0i5_rtroptp_3_autoshow-tokyo.jpg?itok=T5MhJ_u7"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Toyota grounds self-driving shuttle fleet following collision with Paralympian"
     excerpt: "Toyota President Akio Toyoda offered an apology to the Paralympian, and then issued a stinging rebuke of autonomous-driving technology."
     publishedDateTime: 2021-08-29T19:47:00Z
@@ -434,6 +404,20 @@ related:
       - url: "https://www.independent.ie/life/motoring/2ad74/40800147.ece/AUTOCROP/w1240h700/TOYOTA-OLYMPICSACCIDENT"
         width: 1240
         height: 700
+        isCached: true
+  - title: "Self-driving electric shuttle heading to Whitby GO as part of Metrolinx’s AV pilot project"
+    excerpt: "Durham Region residents will soon see a self-driving electric vehicle rolling into Whitby GO as Metrolinx partners with several agencies to help create the smart infrastructure."
+    publishedDateTime: 2021-08-30T15:52:00Z
+    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21236282/metrolinx-selfdriving-electric-shuttle-heading-to-whitby-go-as-part-of-metrolinxs-av-pilot-project"
+    type: article
+    provider:
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 14
+    images:
+      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/08/16x9/metrolinx.612cfaf90d4d9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with paralympic athlete"
     excerpt: "Toyota’s CEO on Friday apologized in a video posted to YouTube after one of the company’s self-driving vehicles hit the athlete while driving at 1 to 2 kilometers per hour around the Olympic Village in Tokyo."

@@ -39,15 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Perimeter Medical Imaging AI Reports Second Quarter 2021 Financial Results and Provides Corporate Update"
-    excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
-    publishedDateTime: 2021-08-31T01:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210830005588/en/Perimeter-Medical-Imaging-AI-Reports-Second-Quarter-2021-Financial-Results-and-Provides-Corporate-Update"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "m0aC1XfoLWmRLLktoM6eRJr4MzT0ggK7zJMgc3EWOSNdc4wjw+L1017ypm3v0SDvA2MmOY1H5I5hLCJbhwcgyv8ZOXQaAXiorotOLGQGJcHXoLPgMsdP8brOuTEOJ2xHPgExd4ePw5/L/i0CbmAYU8v92qRKu2B8E+DGgRQVkoC/uNVYUk3vk+YGW5CtPFfgChzmE8PjTuBEZ+5c3FKMKlufbZV56SUsGtclzGzP0e1X512cIMHuFnsSJ469y3Gu0SvPH7JiBLBHL3xfetrhyNP47l6sVezo6RitFG4dfdKDhBv2DR8UD351OSrHNAvYSWPrYV9LqUjsf5NEv5ZF8PMRa9i+wOr6wDAazgdvtb4=;592f+uydTtnnP7H+ifhqWg=="
 ---

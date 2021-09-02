@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "5% of Dubai Taxi's fleet to be self-driving cabs by 2023"
-    excerpt: "By 2023, five per cent of Dubai Taxi’s fleet will be converted into self-driving cabs, the Roads and Transport Authority (RTA) said on Saturday. The RTA recently signed a partnership agreement with General Motors-backed Cruise to run driverless taxis and shared transport service in Dubai,"
-    publishedDateTime: 2021-08-28T14:39:00Z
-    webUrl: "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023"
-    ampWebUrl: "https://amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
-    images:
-      - url: "https://amp.khaleejtimes.com/storyimage/KT/20210828/ARTICLE/210829143/AR/0/AR-210829143.jpg&NCS_modified=20210829010133&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Dubai aims 56% of its taxi fleet as environment friendly by 2023"
     excerpt: "(Also Read: Gatik joins the driverless self-driving car club) The publication also said that the director-general of the RTA has said that the organisation is committed to employing artificial intelligence ... like Cruise, Waymo are taking the lead in ..."
     publishedDateTime: 2021-08-29T08:57:00Z

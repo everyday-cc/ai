@@ -2,6 +2,111 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-25-cognitive-computing-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2028.md",
+      "title": "Cognitive Computing Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2028",
+      "excerpt": "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2028-2021-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2028-2021-08-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-agritech-robotics-startup-tartansense-raises-5-mn-in-series-a-round.md",
+      "title": "Agritech Robotics Startup TartanSense Raises $5 Mn In Series A Round",
+      "excerpt": "The company builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/381428",
+      "originalUrl": "https://www.entrepreneur.com/article/381428",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629886004-tartansenseteampic.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381428",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428",
+      "publishedDateTime": "2021-08-25T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-can-new-robotic-massage-chairs-really-replace-a-spa-visit.md",
       "title": "Can New, Robotic Massage Chairs Really Replace a Spa Visit?",
       "excerpt": "We take sides on whether high-tech luxury chairs—with artificial intelligence, ‘brain massage’ tech and undulating air bags—can soothe you as effectively as a licenced massage therapist.",
@@ -1127,109 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-killer-robots-get-real-itll-be-easier-for-ai-to-just-erase-our-minds-and-steal-our-bodies.md",
-      "title": "Killer robots? Get real. It’ll be easier for AI to just erase our minds and steal our bodies",
-      "excerpt": "But robots are just computers that move. The human brain contains a region called the basal ganglia. It’s typically associated with motor control ... deem the “mind-body connection.”",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/killer-robots-easier-for-ai-erase-minds-steal-bodies",
-      "originalUrl": "https://thenextweb.com/news/killer-robots-easier-for-ai-erase-minds-steal-bodies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fborg-tesla.jpg&signature=b9fcecb70eda8fac2f8bafc06310d27d",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m.md",
-      "title": "Urbint, which uses AI to predict threats to infrastructure, nabs $60M",
-      "excerpt": "Urbint, a startup developing AI-powered tech that can predict infrastructure failures, has raised $60 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/",
-      "originalUrl": "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/amp/",
-      "publishedDateTime": "2021-08-24T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
