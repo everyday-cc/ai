@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/seoul-robotics-launches-first-3d-pe
 webUrl: "https://www.therobotreport.com/seoul-robotics-launches-first-3d-perception-software-with-deep-learning/"
 type: article
 quality: 101
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Robot Report
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Seoul Robotics launches 3D perception software with deep learning"
+    excerpt: "Deep learning is at the heart of the new software, allowing Seoul Robotics to improve the perception accuracy of autonomous mobile robots."
+    publishedDateTime: 2021-09-01T18:58:00Z
+    webUrl: "https://www.therobotreport.com/seoul-robotics-launches-first-3d-perception-software-with-deep-learning/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 101
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/seoul-robotics-2-featured-web.jpg"
+        width: 771
+        height: 500
+        isCached: true
   - title: "Seoul Robotics Launches First 3D Perception Software with Deep Learning"
     excerpt: "Seoul Robotics, a 3D computer vision company using AI and deep learning to power the future of autonomy, today introduced the most advanced version of its patented 3D perception software. Building on the success of Seoul Robotics’ proprietary technology,"
     publishedDateTime: 2021-09-01T13:08:00Z

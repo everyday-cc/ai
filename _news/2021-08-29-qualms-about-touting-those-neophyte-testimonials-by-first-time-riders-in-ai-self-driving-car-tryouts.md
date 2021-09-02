@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-tout
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
         width: 1600
         height: 1042
+        isCached: true
+  - title: "Audi’s self-driving concept car makes the front seats first class"
+    excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
+    publishedDateTime: 2021-09-02T18:17:00Z
+    webUrl: "https://kvia.com/video/2021/09/02/audis-self-driving-concept-car-makes-the-front-seats-first-class/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 24
+    images:
+      - url: "https://kvia.b-cdn.net/2021/06/featured-biz-tech.jpeg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Will self-driving cars cause driving to be illegal?"
     excerpt: "In an opinion that may not be popular among the masses, IDTechEx’s new data forecasts that by 2040, self-driving cars will be capable of fulfilling mobility worldwide without accidents. By 2050, manual driving could be outlawed."

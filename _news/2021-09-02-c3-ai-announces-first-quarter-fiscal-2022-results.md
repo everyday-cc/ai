@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-3d3211a53f6b47158cc3295d309d7d12"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Perimeter Medical Imaging AI Reports Second Quarter 2021 Financial Results and Provides Corporate Update"
-    excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
-    publishedDateTime: 2021-08-31T01:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210830005588/en/Perimeter-Medical-Imaging-AI-Reports-Second-Quarter-2021-Financial-Results-and-Provides-Corporate-Update"
+  - title: "Why C3.ai Shares Are Falling"
+    excerpt: "C3Ai Inc (NYSE: AI) shares are trading lower after the company reported worse-than-expected first-quarter EPS results. The company also issued second-quarter and FY22 guidance."
+    publishedDateTime: 2021-09-02T18:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-falling-1030777749"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-2167835.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "e5rnyz5EEHbhMH/qAILP6PrYLDzcr/sQmW3pN55p0YGiTFcjsHwJtqv34ei0zd3ssOefRudavTMCLPojpD3NCG1byGr/pU/GJMvffEsZc/jNm6mS+ctmK/EWzB/G3ryFDCik40W9RRpu2jV1/ALeuqAr8Ov/9khNUMf7qiRdHC1P37goyTIXHP4HdQUEOSQ5TXrXfG9GFTuY8/iJCt9ryasJvZ9x4lO9UqH/BY94jK683i3wCqayVkMA2ecFaX28v91c9Xi/oKsnPYeFr6sray6+t5A4LZCtc4U+C/91ovsE1WF1tSpFM0L/wYq5VBE3xYNLYugLL7SNOA0aQ9uhXVjtqH8YIo1vIthvJrYACEo=;ILOITCXna1kBYWhxo1k44A=="
 ---

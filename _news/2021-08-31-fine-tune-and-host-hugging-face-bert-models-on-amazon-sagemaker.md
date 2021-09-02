@@ -43,6 +43,20 @@ related:
         width: 800
         height: 396
         isCached: true
+  - title: "Schedule an Amazon SageMaker Data Wrangler flow to process new data periodically using AWS Lambda functions"
+    excerpt: "Data scientists can spend up to 80% of their time preparing data for machine learning (ML) projects. This preparation process is largely undifferentiated and tedious work, and can involve multiple programming APIs and custom libraries. Announced at AWS re:Invent 2020, Amazon SageMaker Data Wrangler reduces"
+    publishedDateTime: 2021-09-02T19:17:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/schedule-an-amazon-sagemaker-data-wrangler-flow-to-process-new-data-periodically-using-aws-lambda-functions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
 
 secured: "G075iF6XUr81nnKMYEh2zkxXpRK4GseWtKqT6aCenH19GH+6I7NzaJMyVmvGTZ9Bav6ybikK7xdYc8rrGKMy5raW5ekibBFUd3MZ4gfTfJtQnOTjGaGWbaUBcBH2JdmnZd0R8m4FcAxGsHHnrs3dXUWKEnFKVt2lvHnr92RofFPZ2P2yWxggILsz2ILA0QEgxx+62WuGhNdOgH9bC3KrYf6l1wvWdaCHwe0JRedIUjvhY7aC2ji9hdSgXY689LNt9W3358uQzHsKTBtKqWeKmRibZrLyWUhSGTu1l+r+HDXna+/J9L8cqmDkr50tkByqdjz6f7c39Chb/gsOigLUVV4Wp1l9qQBBmtdXRRJ4vEM=;WZXIa79bc9rWIDHmaKrg5w=="
 ---

@@ -54,15 +54,15 @@
       ]
     },
     {
-      "path": "_news/2021-09-02-seoul-robotics-launches-first-3d-perception-software-with-deep-learning.md",
-      "title": "Seoul Robotics Launches First 3D Perception Software with Deep Learning",
-      "excerpt": "D computer vision company sets industry standard for accuracy and reliability with new version of its proprietary software, SENSR",
+      "path": "_news/2021-09-02-seoul-robotics-launches-3d-perception-software-with-deep-learning.md",
+      "title": "Seoul Robotics launches 3D perception software with deep learning",
+      "excerpt": "Deep learning is at the heart of the new software, allowing Seoul Robotics to improve the perception accuracy of autonomous mobile robots.",
       "sourceUrl": null,
       "webUrl": "https://www.therobotreport.com/seoul-robotics-launches-first-3d-perception-software-with-deep-learning/",
       "originalUrl": "https://www.therobotreport.com/seoul-robotics-launches-first-3d-perception-software-with-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -485,7 +485,7 @@
       "originalUrl": "https://www.openpr.com/news/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 97,
       "tags": null,
       "images": [
         {

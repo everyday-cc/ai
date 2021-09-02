@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market is Thriving Worldwide : IBM, Microsoft Corporation, SAP SE, Intel"
-    excerpt: "The global Machine Learning market is expected to grow at a CAGR of 36.6% during the forecast period. The global Machine Learning market is estimated to be about 2337.6 million US dollars in 2020. The global Machine Learning market is estimated to reach 8143."
-    publishedDateTime: 2021-08-30T19:18:00Z
-    webUrl: "https://www.openpr.com/news/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft"
-    ampWebUrl: "https://www.openpr.com/amp/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft"
+  - title: "Microsoft helps protect Amazon rainforest with AI project"
+    excerpt: "Microsoft has partnered with environmental groups to create an artificial intelligence (AI) -based tool that could help to stop deforestation in the Amazon rainforest. The tool, called PrevisIA, uses machine learning to spot possible trends in forest conversion from deforestation."
+    publishedDateTime: 2021-09-02T18:06:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 67
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://cdn.openpr.com/U/8/U830621919_g.jpg"
-        width: 640
-        height: 400
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630606098/itpro/shutterstock_amazon_rainforest.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
     excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
@@ -59,40 +59,80 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Darktrace Becomes Member Of Microsoft Intelligent Security Association (MISA)"
-    excerpt: "Darktrace, a leading autonomous cyber security AI company, today announced that it has joined the Microsoft Intelligent Security Association (MISA)."
-    publishedDateTime: 2021-09-01T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/darktrace-becomes-member-of-microsoft-intelligent-security-association-misa/article_9f32a8b1-90c3-54d7-aeff-64383e6232e7.html"
+  - title: "Verizon turns up private 5G edge compute with Microsoft Azure"
+    excerpt: "Verizon's private 5G edge product with Microsoft Azure is now available for enterprise. It complements Verizon’s 5G private wireless offering that launched in June."
+    publishedDateTime: 2021-08-31T16:09:00Z
+    webUrl: "https://www.fiercewireless.com/private-wireless/verizon-turns-up-prem-private-5g-edge-compute-microsoft-azure"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 53
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://qtxasset.com/fiercewireless/1630426422/GettyImages-875013806.jpg?Rfp1YVeSs3.1Lp7Ke5VFBuRAz0A.OlwN"
+        width: 6567
+        height: 4378
         isCached: true
-  - title: "Recent Survey on Automatic Speech Recognition Market 2021-2030 Key Players : Nuance, Microsoft, Alphabet, IBM, Sensory, Cantab Research"
-    excerpt: "In recent years and especially due to the Covid-19 impact, the Global Automatic Speech Recognition Market has been through many ups and downs which have greatly impacted the business and the market players be it large or small."
-    publishedDateTime: 2021-08-31T09:46:00Z
-    webUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/"
-    ampWebUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
+  - title: "Verizon, Microsoft Azure Roll Out Private Mobile Edge Cloud For Enterprises"
+    excerpt: "Verizon Business and Microsoft debuted Verizon 5G Edge with Microsoft Azure Stack Edge, on-premises, private edge compute solution for enterprises that uses Verizon's private 5G network, On Site 5G."
+    publishedDateTime: 2021-08-31T15:39:00Z
+    webUrl: "https://www.crn.com/news/networking/verizon-microsoft-azure-roll-out-private-mobile-edge-cloud-for-enterprises"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 24
-  - title: "Microsoft adds literary Chinese to translation service"
-    excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
-    publishedDateTime: 2021-08-30T08:14:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-adds-literary-chinese-to-translation-service--1395246"
+      name: CRN
+      domain: crn.com
+    quality: 52
+    images:
+      - url: "https://www.crn.com/resources/026c-131fe7ed6511-86ecc8226b17-1000/cloud-blue.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
+  - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
+    excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
+    publishedDateTime: 2021-08-30T20:42:00Z
+    webUrl: "https://www.commercialintegrator.com/communications/otter-ai-brings-transcription-assistant-to-microsoft-teams-google-meet-and-webex/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 49
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2021/08/Desktop-edit-e1630356121313.png"
+        width: 1000
+        height: 672
+        isCached: true
+  - title: "Verizon launches private edge compute platform with Microsoft, as promised"
+    excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
+    publishedDateTime: 2021-09-01T12:14:00Z
+    webUrl: "https://telecoms.com/511162/verizon-launches-private-edge-compute-platform-with-microsoft-as-promised/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/08/iStock-1181748268-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
+    excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
+    publishedDateTime: 2021-08-31T18:52:00Z
+    webUrl: "https://channelvisionmag.com/verizon-rolls-out-5g-edge-with-microsoft-azure-stack-edge-platform/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 34
+  - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
+    excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
+    publishedDateTime: 2021-08-30T01:30:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/ausnet-signs-5-year-deal-with-microsoft-as-it-ramps-up-cloud-and-ai-options/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 32
 
 secured: "6mLZAH6a36CpfrnlEiQ1tbhGW4+zWSg+sYRv/ySgjmAgdzt4uY3kVVubZXDbBScF2ZhDBBPhIXZDzXF1syq3KxtAb6BH1Ci6XBkenm9kgE4rtT33O2tmy6M4YCTO+VGefmdI3ekP8i5Bzb8Dp5mkTWLBBLjPVCASG/slYrfrIQzqktT0b1lzGPVeffNBtP2VSR8mWpa0614BexFVJ9ImWbAgBrTG8uM9saLYIb3ZCKG35h6EqSR+Q39vIoJ9expSD5Smd+fFUKj0BusEJj3UR1iS2BEd5J4riIKmE8CbHHZoQlj/HFWgrlyR8EqnQ0UcQssFwrmIqaFwTVVDWN7TfnAcCXOSE45yccocCnCHr5XgEprFlgpe2EtbnPXtlxvQIsxjKSkYM2mSOmJ5Y/mpdAKcGBLudaxz5td4qQAa+iWShgk/Nu2HRBrr64mCyQUjS7jOL9+mtYa2Arrk9P1UjGYovwlnJY57XCyjyYV5q3TXpg8oQP3bjsA0Z0NpgLfkSfXBDSC1p3sHxZlKWyfRag==;Kyjy61fX97sRPuE+AhVgTw=="
 ---

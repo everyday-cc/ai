@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/verizon-and-microsoft-team-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
 type: article
 quality: 66
-heat: 196
+heat: 136
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Verizon turns up private 5G edge compute with Microsoft Azure"
-    excerpt: "Verizon's private 5G edge product with Microsoft Azure is now available for enterprise. It complements Verizon’s 5G private wireless offering that launched in June."
-    publishedDateTime: 2021-08-31T16:09:00Z
-    webUrl: "https://www.fiercewireless.com/private-wireless/verizon-turns-up-prem-private-5g-edge-compute-microsoft-azure"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 54
-    images:
-      - url: "https://qtxasset.com/fiercewireless/1630426422/GettyImages-875013806.jpg?Rfp1YVeSs3.1Lp7Ke5VFBuRAz0A.OlwN"
-        width: 6567
-        height: 4378
-        isCached: true
   - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise"
     excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
     publishedDateTime: 2021-08-31T18:26:00Z
@@ -54,20 +40,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Verizon, Microsoft Azure Roll Out Private Mobile Edge Cloud For Enterprises"
-    excerpt: "Verizon Business and Microsoft debuted Verizon 5G Edge with Microsoft Azure Stack Edge, on-premises, private edge compute solution for enterprises that uses Verizon's private 5G network, On Site 5G."
-    publishedDateTime: 2021-08-31T15:39:00Z
-    webUrl: "https://www.crn.com/news/networking/verizon-microsoft-azure-roll-out-private-mobile-edge-cloud-for-enterprises"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 52
-    images:
-      - url: "https://www.crn.com/resources/026c-131fe7ed6511-86ecc8226b17-1000/cloud-blue.jpg"
-        width: 1500
-        height: 1126
         isCached: true
   - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
     excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."
@@ -99,20 +71,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
-    excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
-    publishedDateTime: 2021-08-30T20:42:00Z
-    webUrl: "https://www.commercialintegrator.com/communications/otter-ai-brings-transcription-assistant-to-microsoft-teams-google-meet-and-webex/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 49
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2021/08/Desktop-edit-e1630356121313.png"
-        width: 1000
-        height: 672
-        isCached: true
   - title: "Verizon Debuts Private 5G Edge with Azure Stack Edge"
     excerpt: "Verizon announced the availability of an on-premises, private edge compute solution that builds upon the collaboration"
     publishedDateTime: 2021-09-02T02:01:00Z
@@ -126,20 +84,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/de9c0f86b49e88be695cd5c27c1aa1b4.jpg?t=20210902_015756"
         width: 752
         height: 408
-        isCached: true
-  - title: "Verizon launches private edge compute platform with Microsoft, as promised"
-    excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
-    publishedDateTime: 2021-09-01T12:14:00Z
-    webUrl: "https://telecoms.com/511162/verizon-launches-private-edge-compute-platform-with-microsoft-as-promised/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 37
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/08/iStock-1181748268-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "CubicFarms collaborates with Microsoft on cloud services for indoor farming tech"
     excerpt: "CubicFarm Systems Corp., an agtech company, announced that it has selected Microsoft’s technology to launch the next generation of indoor farming technologies for fresh food and"
@@ -155,24 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
-    excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
-    publishedDateTime: 2021-08-31T18:52:00Z
-    webUrl: "https://channelvisionmag.com/verizon-rolls-out-5g-edge-with-microsoft-azure-stack-edge-platform/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 34
-  - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
-    excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
-    publishedDateTime: 2021-08-30T01:30:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/ausnet-signs-5-year-deal-with-microsoft-as-it-ramps-up-cloud-and-ai-options/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 32
   - title: "Verizon Announces Availability of Private Mobile Edge Cloud Computing for Enterprises with Microsoft Azure"
     excerpt: "Through its relationship with Microsoft, Verizon is now offering businesses an on-premises, private edge compute solution that enables the ultra-low latency needed to deploy real-time enterprise applications."
     publishedDateTime: 2021-08-31T13:12:00Z

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Unlocking the True Potential of ML: How Self-Supervised Learning in Language Can Beat Human Performance"
+    excerpt: "As more businesses implement AI systems, the technology’s limitations are also being realized–including the amount of data required to train machine learning (ML) algorithms and the flexibility of these algorithms in understanding human language."
+    publishedDateTime: 2021-09-02T17:56:00Z
+    webUrl: "https://www.datanami.com/2021/09/02/unlocking-the-true-potential-of-ml-how-self-supervised-learning-in-language-can-beat-human-performance/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 23
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Human_robot_tugawar_shutterstock_Elnur.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "LmxXEKJQXVmu/9fGValrwLsTBc5mcgOcnKqtTcIQtc4XSKFL3aApBLoqBbpnAOS0/xvVyBRMyDsMi7kJ27jLvl9RX0DUpz6e46+7OXHtwvhc1xIWZXTOFZeKJm8kmyDKurbqt1CErDT9Ovaycie3mqpLyMlE5Ocpd+Nc/fLJ23OZcMKFkDgev0cCeDryGmWYE0u5v5pcucg3QLnsytIRr3BDFaDvpL8niLuBXQNbYZZTN5W0i5UVw9JMCu3+iA/a671tlKWkldIpzkx3/IthAaF5dQvpiumyKKvdCL+Ee60Dj/HJpkejMn4JS4NcwaQ+Pn/Q2221+th7ab44lZfoa6WDsL7lHMQVr8t3il1NBf4=;y7bo2QbYvuwoRrzxG+5AAw=="
 ---

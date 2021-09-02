@@ -42,38 +42,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
-    excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
-    publishedDateTime: 2021-08-31T06:15:00Z
-    webUrl: "https://www.openpr.com/news/2373861/artificial-intelligence-in-construction-market-is-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/U/8/U831667007_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Verizon, Microsoft launch private edge solution"
-    excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
-    publishedDateTime: 2021-09-01T08:28:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/verizon-5G-MEC-trial-footage.png"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Recent Survey on Automatic Speech Recognition Market 2021-2030 Key Players : Nuance, Microsoft, Alphabet, IBM, Sensory, Cantab Research"
     excerpt: "In recent years and especially due to the Covid-19 impact, the Global Automatic Speech Recognition Market has been through many ups and downs which have greatly impacted the business and the market players be it large or small."
     publishedDateTime: 2021-08-31T09:46:00Z

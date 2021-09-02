@@ -115,6 +115,20 @@ related:
         width: 1600
         height: 1042
         isCached: true
+  - title: "Audi’s self-driving concept car makes the front seats first class"
+    excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
+    publishedDateTime: 2021-09-02T18:17:00Z
+    webUrl: "https://kvia.com/video/2021/09/02/audis-self-driving-concept-car-makes-the-front-seats-first-class/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 24
+    images:
+      - url: "https://kvia.b-cdn.net/2021/06/featured-biz-tech.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "NhwT5E6q0erOvJF0GZ8V3K7xNN0xUjiV0unHv0SgPvfI4lr1YibKbzZtvd3L6vI7nbEwwY56R1zVIDHWla6zg3YUHO4D37hZY9rsigm+IieMfpyNq5cDtC3ohdan3Exdx/2H8C//+4O9Kk0C8GfJb6EWM8ZW+QUoFDQdhq0DFB08Rv+mamlJbJXOGfuVLsqNSZLt/6Mg5u+vSiwBuHG0JVuefidoSgNU0rdIHKMtwePbQau+nzDp08Qhmx9sWnzE0WekNV3j/WTlmI7443Rip8GfkIxvYiwY60NJKm4Pp8HC7km4/UyD7Anz7pkJ3k/xwGTRTnv0aYJ6NCJxdBvp7jC9NWP/X4stGBMUB7pGfOg=;263gniLUelLd9lmInpbuaQ=="
 ---
