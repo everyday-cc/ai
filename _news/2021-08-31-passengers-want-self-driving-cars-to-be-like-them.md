@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The US to investigate increased self-driving Tesla-related incidents"
+    excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
+    publishedDateTime: 2021-09-02T16:43:00Z
+    webUrl: "https://www.electropages.com/blog/2021/09/us-investigate-increased-self-driving-tesla-related-incidents"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 39
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
+        width: 350
+        height: 240
+        isCached: true
 
 secured: "lhlXU/CuFtLkS42RbqrImLw+UCX7Plb0CmGSd1x3zGyespsjn6JgyBEm/46yblLToZlvdtiGsFuIf4ml95s8QfzVIt+vP1uEYC0JCxmbvyOQqpjJAK+0dKk/zWaIfiVamG086/LdjVGs/qeICDcJnfX4tFFFQCFWGgCtPx2DcRAcTtHF49DCsaw3j+midhkAn+ZJymBFiwwFtFZ+RITKVFawAugqzCT1DybFzNfBjBLm+wiSoiz+jLKRGZJ0oQtbAF6hyvN7X8P7zGiaY206ozJpmtsyTodM5SCMNtkhMhPa/4K7QfnJjRusD56eRAETZqvnLPO0iNPgfKAIknG676uGjtqDfZeRyFXw9FL0LRM=;rzKaqhlz3BN36FpHcoJiyw=="
 ---

@@ -37,6 +37,22 @@ related:
         width: 300
         height: 212
         isCached: true
+  - title: "Artificial Intelligence Solutions Market Size 2021 And Forecast to 2028 | Keyplayers – Google, Baidu, Ibm, Microsoft"
+    excerpt: "In the recently published financial credit Artificial Intelligence Solutions Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim."
+    publishedDateTime: 2021-09-02T17:11:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-solutions-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?noamp=mobile"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-solutions-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-solutions-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 66
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg"
+        width: 300
+        height: 212
+        isCached: true
   - title: "AI in Computer Vision Market Share, Future Growth, Industry Size, Key Players, Market Segments and Forecast 2021-2026"
     excerpt: "Global “AI in Computer Vision Market” research report presents a detailed analysis of the industry by size, strategies"
     publishedDateTime: 2021-08-31T11:38:00Z
@@ -131,6 +147,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars Sensors Market 2021: Size, Huge Growth Opportunities, Business Scenario, New Technology Upcoming Trends and Forecast to 2026"
+    excerpt: "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Self-driving Cars Sensors"
+    publishedDateTime: 2021-09-02T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-sensors-market-2021-size-huge-growth-opportunities-business-scenario-new-technology-upcoming-trends-and-forecast-to-2026-2021-09-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

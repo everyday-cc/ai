@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "AWS Announces General Availability of Amazon FSx for NetApp ONTAP"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability ofAmazon FSx for NetApp ONTAP, a new storage service thatallows customers to launch and run complete,"
+    publishedDateTime: 2021-09-02T16:02:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/09/02/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 34
 
 secured: "HdJQNWZOkjhpGwv5dKXbNYXAK7ykoFXiZ3v9eP7aZVM/nXhp2ILdcP5P/gNeHF9lazcqq6MXhDnxvPx7D+ip83TGjXnBmVHYSilIKs5KuMef3shYmR1PXC9nx9QfMpAIyBPfttWlBqpHFGtj39LFQyBdrroXyFcFplngSpP9hSNBDwreR3+PNhVyk0ron0+5G8NCbfDgF00HU8sBrFL4Kq9VVhzWY+eZYbu20PCScDo73/RyD3s8TzHXkc2ZvuiMDj8l92UNGSHYYLc+s48c+CUrW0wAOBf17akK7f+Uldrjt5bKD5syEmbqQGLNs4RlCAgRDqymA/v1lctiJjXAMkMpQcs8G5BdRON39r0yODs=;Zm5wOZMt/fqa+DZlpi/pmw=="
 ---

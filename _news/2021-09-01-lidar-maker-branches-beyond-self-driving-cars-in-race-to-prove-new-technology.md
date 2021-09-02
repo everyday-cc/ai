@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The US to investigate increased self-driving Tesla-related incidents"
+    excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
+    publishedDateTime: 2021-09-02T16:43:00Z
+    webUrl: "https://www.electropages.com/blog/2021/09/us-investigate-increased-self-driving-tesla-related-incidents"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 39
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
+        width: 350
+        height: 240
+        isCached: true
   - title: "Passengers want self-driving cars to be like them"
     excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
     publishedDateTime: 2021-08-31T07:12:00Z

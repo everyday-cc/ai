@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ywang/2021/08/31/sensetime-chinese-prof
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/08/31/sensetime-chinese-professor-set-to-join-billion-ranks-as-his-ai-company-files-to-go-public/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-08-23/41c23040-0432-4bd5-85a5-fe0f8060b40f.jpeg"
         width: 800
         height: 480
+        isCached: true
+  - title: "Fawad Chaudhry urges Chinese companies to invest in Pakistani youth for Artificial Intelligence"
+    excerpt: "ISLAMABAD: Minister for Information and Broadcasting Fawad Chaudhry has urged Chinese companies to invest in Pakistani youth for the development of skilled human resources, saying that Chinese compan"
+    publishedDateTime: 2021-09-02T16:14:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2021/09/02/fawad-chaudhry-urges-chinese-companies-to-invest-in-pakistani-youth-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 25
+    images:
+      - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2021/09/Huawei-Microfilm-Pic-1.jpeg"
+        width: 1280
+        height: 854
         isCached: true
 
 secured: "/1vgZcIAvCtJZDhKewixCZCis0fmsqvlnUNAwJEJZ5BTcyfv4HGLFWRj4+KsKQqK5X+xPdN2AtAe9DXf/wt1XySaUunxGxq3Qikbu17MDwjdRva3x8562rdra08GQKB0YBRqcHPe4ur/FPWGsBMnURBs/JwS1BLkoMGPjMuSNyiycobAw8a01lbkNHMODweeQsHbTGWwb8L7vrV4ONKqWqOP1jgMl4UPgAxE0bmxHHU47EX9ymYEynMKLSbtJ9VZWUY9D75rmIjua8tSUQAlo42bPuhNRScvge5tHtg5JK22r5l6WIfnJzMzPA8eEAsBA6RHSBqYseFzs7RbuYtGZUVWBMDZSkZpRR7wppmjCUPo4uQ4lR7C25uWoTyUHT4SdWqDtbMWYWgpyMNwpiHp0l4rn92GAnnBhISqNg8abWl+zCBuzI+Q+vNmA41D9jS4A8tHMgghQ4Gx/wMCwJQ2+YngE9cmWrM/QUM8o+C3HS4CEfpUVdg8r91aUHsCbMpphvSYWLHicYOxwzQEPJFg1A==;5A4EKX5RVMd0aBr7nGSQvA=="

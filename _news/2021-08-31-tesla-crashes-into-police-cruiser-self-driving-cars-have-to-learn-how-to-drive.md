@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruis
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.barrons.com/im-393971/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "The US to investigate increased self-driving Tesla-related incidents"
+    excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
+    publishedDateTime: 2021-09-02T16:43:00Z
+    webUrl: "https://www.electropages.com/blog/2021/09/us-investigate-increased-self-driving-tesla-related-incidents"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 39
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
+        width: 350
+        height: 240
         isCached: true
   - title: "Passengers want self-driving cars to be like them"
     excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."

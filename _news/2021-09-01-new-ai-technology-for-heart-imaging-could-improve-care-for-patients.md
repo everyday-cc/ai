@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210901/New-AI-technology-for
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug312021at22928PM.jpg"
         width: 770
         height: 400
+        isCached: true
+  - title: "Artificial Intelligence Technology Advances Heart Imaging"
+    excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
+    publishedDateTime: 2021-09-02T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-technology-advances-heart-imaging"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1094058356.jpg"
+        width: 700
+        height: 480
         isCached: true
   - title: "New Artificial Intelligence Technology Poised to Transform Heart Imaging"
     excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"

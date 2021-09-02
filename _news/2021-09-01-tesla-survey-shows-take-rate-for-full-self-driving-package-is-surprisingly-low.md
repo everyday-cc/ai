@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla Expects Full Self-Driving Beta Public Release On Or Around September 25"
+    excerpt: "Elon Musk, Tesla CEO, says that the company should be ready to make its Full Self-Driving Beta available to the public on or around5. This after months of delays relating to the software and issues elsewhere within the company."
+    publishedDateTime: 2021-09-02T17:35:00Z
+    webUrl: "https://www.redmondpie.com/tesla-expects-full-self-driving-beta-public-release-on-or-around-september-25/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 36
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Q/iI/cYVSd+6lHnwIx6BNrrIuEzUTTomUZX7tYFcJXA+nR4qmuQWRERyPajnpldqEHs4ek/ziso9c+G9LX6t0+H8Jdsi9i5Wz4e1bctAI7pCbFyJwsuBEWBW0b5LIDlgxChlM9LmTcDhqzE+DSBy1A/8LOkKlIV5ViT0sNeCyp2ew8pQrq5oSzE188DRkY6vVse+jyraRvOOO1oWPR1iJcviO/Ik1kygZ8hb934ihZ/fJ8BrM3rlPPHH2jTXJeoP/nt2fbcpl7pIR0+x8jPyvKCnaltNu/OGn8JGZSOmd/AopYLgNzA71K4vGLAEZMBHQ295aRze2sQarPI65FbQEVQFN7xYpfMKfcDZsmtv86v+ybhAlNFD0pCj0ikqk0M1qBdH2TX4KPUjojb/W5hG2VeAfPPUwQOowh5wgESLIKePPy0RewocDr8+jzsQgCe20o3+5gUgyhTjfFFfhH9sDaUJDtbKAsrwW5+Vj2d6VSE+STKXT7Oosx8pBFmWmbb+4ZyIYrja2RfPrA8r9ni75g==;j2dfQnjUa65UK6wm//pNug=="
 ---

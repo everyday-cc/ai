@@ -40,6 +40,20 @@ related:
         width: 959
         height: 540
         isCached: true
+  - title: "Fawad Chaudhry urges Chinese companies to invest in Pakistani youth for Artificial Intelligence"
+    excerpt: "ISLAMABAD: Minister for Information and Broadcasting Fawad Chaudhry has urged Chinese companies to invest in Pakistani youth for the development of skilled human resources, saying that Chinese compan"
+    publishedDateTime: 2021-09-02T16:14:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2021/09/02/fawad-chaudhry-urges-chinese-companies-to-invest-in-pakistani-youth-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 25
+    images:
+      - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2021/09/Huawei-Microfilm-Pic-1.jpeg"
+        width: 1280
+        height: 854
+        isCached: true
 
 secured: "FbtwjrEp0AzhCDZ3ofE6z5sLeBSf/Z7PzEnkZnEr2XX6NaiSptZIdWLEzDrDZu5jWKGRzwA+gCC6eerCW6RDnI7bR2rcOwYQhD2vcTqiSZT3p4lM7/QPJCp8nGm0IdNEeY6oKF3tsq8g65bempISffgUOwa6vhMopBwKUiT/ky53i7sncZ37B3BqtFqTuT+1OscR7xgAt3MiHWQ6J8xB2IrXDPnbVfa/SoifYhGaE1bvn/k70KOcbEv8TeUDiNaLUJ3o7tPVmRcch4yaa0ffDYprOqzxrUDq51SoK8xSc4HTNUVJwx/V+lTHOsvcTsex2ZjJ8a5vPYaOAPj0w+Y3fHPv/fvNDTLDj/QBs6R+aqM=;97k75YhzbxeIzXk6yhOOUg=="
 ---

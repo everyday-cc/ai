@@ -84,6 +84,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Technology Advances Heart Imaging"
+    excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
+    publishedDateTime: 2021-09-02T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-technology-advances-heart-imaging"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1094058356.jpg"
+        width: 700
+        height: 480
+        isCached: true
 
 secured: "I3LGMeNCYvohrS7Mc0xx4pz6VzPW+zNqeEPozuCzkW5VnZjcaOVBsWoMVoQmtjAlZw2aD8Q7VXF3Zj5PZX9pX514kCFpTi3tGOQyLkHqb6bhb0hzCdAbcKOjbF/tBcbfs4EyFdxJrsFLfI2of2B0aqPLwSxT2IdTL7xxCHwBp1MzLahJHWq8nFZuNCZRNuZCFer1kZs/HonGV0U1MsPeqbeMR07X0lGPc3NiDHEstsW/PlNEkvaCei8Zw6e1wkxBEVujvEoonOsI/K0vz/yv8DqBEbQlmT/ZXOUixjSxvleRmafjWQxIHJ09n0pE7gsGCCuSLfPB7aFHWufxNCL3wo5ffgXDriRcKAoF2vuFrNs=;msnwp1LlRyDS9aY61JjKPw=="
 ---
