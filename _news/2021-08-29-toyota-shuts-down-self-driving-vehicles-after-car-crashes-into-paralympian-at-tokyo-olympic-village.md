@@ -201,22 +201,6 @@ related:
         width: 4420
         height: 2941
         isCached: true
-  - title: "Toyota halts use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
-    excerpt: "Toyota has been providing a specially-designed version of its battery-powered, automated \"e-Palette\" vehicles to transport athletes and staff during the Tokyo Olympics and Paralympic Games."
-    publishedDateTime: 2021-08-28T18:53:00Z
-    webUrl: "https://www.wxii12.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-    ampWebUrl: "https://www.wxii12.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-    type: article
-    provider:
-      name: WXII12
-      domain: wxii12.com
-    quality: 30
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a0e0e4099994406cfe0dcb161ec7565a-h-e209b227e66925b2d5393382665e3467-1630170227.jpg?crop=1.00xw:0.846xh;0,0.100xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "Toyota to Restart Self-Driving Vehicles at Olympic Village With More Safety Staff"
     excerpt: "Toyota Motor said on Monday it would resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff to ensure they did not hit any more people."
     publishedDateTime: 2021-08-30T11:16:00Z

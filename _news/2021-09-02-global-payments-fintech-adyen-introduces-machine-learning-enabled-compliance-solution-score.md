@@ -144,6 +144,15 @@ related:
       name: indianweb2.com
       domain: indianweb2.com
     quality: 0
+  - title: "Tampa Bay Wave unveils startups to watch, new fintech focus at latest pitch night"
+    excerpt: "X accelerators, the latter of which proved to be so successful the Wave is launching new financial technology-focused programming in th"
+    publishedDateTime: 2021-09-02T11:01:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/roundups/2021/09/02/tampa-bay-waves-techdiversity-2021-pitch-night.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "Dh/Mj0IkvTmv+yPXIzwrTgCYfXMiJVgQPBKJwgX/9yqD13h+OXmNBfYof/u2ZJGI7xLtHokGNW51srL6uCHFmhqPb2I3NzqkcnBNKCusT2tIRq1RIJtWX+xLrUMikfgvkmmWE+vSZggtdEqNtvDHnPWuzj10jbr65M1hhfixWs77B1wAi0MgPGuJxKQfNzlOXYQYw9FaLbGbh5Gk6W3iX6GEokBhjgtZbnW19+KM/b1iBI6QUPA+rWTZfUilvZfkBWaV7FZy/QRevhzvQui1iyGwBQ+LueiQwrvYgwUJiQMMLBs/9hZ3FZOg1hqcyGwe7cin08KmhIyWLSqh8aGQCZpmZbDeHJESvFobQqqExOFkPnyQFamEb2LtYAsuHmHcDeUuSoCX92BOJaHh8HM3AGVS1/cLvW7XyWX4XnDRD/vA2S0tOwkkKBAsopJhSfhf/o/JEKT174O+bERTzEaHG8Pex89Ymk7JSITRoOsilUrVeqpZibr8K//WGo1KfhUOo8iG6IHDnuqtgJpixHGoAQ==;oTI+bZaC0O1XkV7/5dMCmw=="
 ---

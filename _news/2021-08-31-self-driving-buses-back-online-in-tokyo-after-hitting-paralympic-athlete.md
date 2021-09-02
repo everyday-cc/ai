@@ -195,22 +195,6 @@ related:
         width: 4420
         height: 2941
         isCached: true
-  - title: "Toyota halts use of self-driving vehicle in Olympic Village after collision with Paralympic athlete"
-    excerpt: "Toyota has been providing a specially-designed version of its battery-powered, automated \"e-Palette\" vehicles to transport athletes and staff during the Tokyo Olympics and Paralympic Games."
-    publishedDateTime: 2021-08-28T18:53:00Z
-    webUrl: "https://www.wxii12.com/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-    ampWebUrl: "https://www.wxii12.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/toyota-halts-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/37418517"
-    type: article
-    provider:
-      name: WXII12
-      domain: wxii12.com
-    quality: 30
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-a0e0e4099994406cfe0dcb161ec7565a-h-e209b227e66925b2d5393382665e3467-1630170227.jpg?crop=1.00xw:0.846xh;0,0.100xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "Toyota shuts down self-driving vehicles after car crashes into Paralympian at Tokyo Olympic Village"
     excerpt: "A day after a self-driving vehicle hit a visually impaired athlete at the Paralympics, Toyota has paused the program entirely. The Toyota e-Palette struck the athlete, identified by the Japan Times as 30-year-old judoka Aramitsu Kitazono, as he was ..."
     publishedDateTime: 2021-08-29T15:32:00Z

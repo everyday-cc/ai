@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382675"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382675"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
     provider:
       name: indianweb2.com
       domain: indianweb2.com
+    quality: 0
+  - title: "Tampa Bay Wave unveils startups to watch, new fintech focus at latest pitch night"
+    excerpt: "X accelerators, the latter of which proved to be so successful the Wave is launching new financial technology-focused programming in th"
+    publishedDateTime: 2021-09-02T11:01:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/roundups/2021/09/02/tampa-bay-waves-techdiversity-2021-pitch-night.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 0
 
 secured: "FdEylKyQf5Zi7RlUinl6mDaM6r9IfSETbm13Ob9IhP5mnU82IEol8LLNNH4Z/lud/xDfrTSpfNGVpB6BzGaTjxWMvEQdEAb8wzCBUaGyq61vw4rFV0RenOmajlXGdB0Y9ZTedY/m1aitBfXLKWqwtVVX1/7L99PpXlmmm1QXb0Ohn9td2IBlFAfn3ruBmsc2H6CLdS8AOW9gOvO/CbemaQOahXzmgR5tk6Zan4SXPG4/uCUoaBFJTF8WaJn+sArmaRmYAhjC3u3XNaKZHpEurTeB14CIFe486iaD41+Kh2SfaP4WuqyVwZWoTapM5UgGX7kO8/kpb/GV4ShK6Nld0x9DjgxFuWIKOkRzPoShHNVirDXDLxHAssGTul54Tj+9Cu5FgKxSeArv8t/VKLOVM+pGObn5tG2wlrLWV+GDSU7Acw0Qt8jkwxtyEBCYgbDEI0ctSU8v6xZzh/us1OdJUUIkydhTSuV2R+/JEwYdXIp8xWPxE8N/+yOs9knKZmHovSh6gzQPrPM1D3ogllp0uQ==;wm/bPkN5jHA1OD/7rB5rGA=="

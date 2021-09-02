@@ -2,6 +2,135 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-02-facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance.md",
+      "title": "Facial Recognition Tech: Metro Rail Users In Moscow Can Soon Pay Fare With A Glance",
+      "excerpt": "Metro train commuters in Moscow can soon pay fare with their faces. A report in Bloomberg says that “The Moscow metro system, which carries more riders than the New York subway, is about to roll out a facial recognition system that will let people pay with a glance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "originalUrl": "https://www.news18.com/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/09/untitled-design-8-163058141116x9.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "publishedDateTime": "2021-09-02T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-an-edtech-users-glossary-to-speech-recognition-and-ai-in-the-classroom.md",
+      "title": "An Edtech User’s Glossary to Speech Recognition and AI in the Classroom",
+      "excerpt": "In a recent white paper, former Scholastic president of education Margery Mayer dubbed 2021 the “year of speech recognition” in education. And she may be right: A spike in adoption by edtech developers in the first half of this year reflects the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2021-09-02-an-edtech-user-s-glossary-to-speech-recognition-and-ai-in-the-classroom",
+      "originalUrl": "https://www.edsurge.com/news/2021-09-02-an-edtech-user-s-glossary-to-speech-recognition-and-ai-in-the-classroom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/14353/speech-1630520167.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop",
+          "width": 640,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2021-09-02-an-edtech-user-s-glossary-to-speech-recognition-and-ai-in-the-classroom",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-09-02-an-edtech-user-s-glossary-to-speech-recognition-and-ai-in-the-classroom",
+      "publishedDateTime": "2021-09-02T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-the-role-of-artificial-intelligence-in-iot.md",
+      "title": "The Role of Artificial Intelligence in IoT",
+      "excerpt": "Currently, the business world has changed drastically with the adoption of IoT. It is helping the businesses to gather a lot",
+      "sourceUrl": null,
+      "webUrl": "https://www.hongkiat.com/blog/ai-in-iot/",
+      "originalUrl": "https://www.hongkiat.com/blog/ai-in-iot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.hongkiat.com/uploads/ai-in-iot/customer-experience.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hongkiat.com/blog/ai-in-iot/amp/",
+      "cdnAmpWebUrl": "https://www-hongkiat-com.cdn.ampproject.org/c/s/www.hongkiat.com/blog/ai-in-iot/amp/",
+      "publishedDateTime": "2021-09-02T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hongkiat",
+        "domain": "hongkiat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-materna-ips-deploys-biometric-face-recognition-at-tokyo-haneda-airport.md",
       "title": "Materna IPS deploys Biometric Face Recognition at Tokyo Haneda Airport",
       "excerpt": "September 2021 - Tokyo International Airport (HANEDA), the 4th largest airport in the world, chose the German SBD provider to equip their self-service installation with the Materna IPS One ID journey.",
@@ -886,7 +1015,7 @@
       "originalUrl": "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 353,
+      "heat": 343,
       "tags": null,
       "images": [
         {
@@ -1073,153 +1202,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-meme-stock-alfis-facial-recognition-ad-technology-fans-privacy-concerns.md",
-      "title": "Meme Stock Alfi’s Facial Recognition Ad Technology Fans Privacy Concerns",
-      "excerpt": "The artificial intelligence software company uses metrics like age and gender to target highly specific ads to people in public places",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imggzt7KessE/v1/-999x-999.gif",
-          "width": 800,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-this-is-how-ai-will-accelerate-the-energy-transition.md",
-      "title": "This is how AI will accelerate the energy transition",
-      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Espen Mehlum, Head of Energy,Materials",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/",
-      "originalUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/09/robots.jpeg",
-          "width": 716,
-          "height": 1002,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/",
-      "publishedDateTime": "2021-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-three-ways-artificial-intelligence-is-changing-healthcare-and-six-principles-to-ensure-its-success.md",
-      "title": "Three Ways Artificial Intelligence Is Changing Healthcare – And Six Principles To Ensure Its Success",
-      "excerpt": "All the signs suggest that AI is poised to completely take the medicinal world by storm over the next few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/01/three-ways-artificial-intelligence-is-changing-healthcare--and-six-principles-to-ensure-its-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/01/three-ways-artificial-intelligence-is-changing-healthcare--and-six-principles-to-ensure-its-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e47455e0c17f79712a595%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/01/three-ways-artificial-intelligence-is-changing-healthcare--and-six-principles-to-ensure-its-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/01/three-ways-artificial-intelligence-is-changing-healthcare--and-six-principles-to-ensure-its-success/amp/",
-      "publishedDateTime": "2021-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

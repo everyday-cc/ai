@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-02-facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance.md",
+      "title": "Facial Recognition Tech: Metro Rail Users In Moscow Can Soon Pay Fare With A Glance",
+      "excerpt": "Metro train commuters in Moscow can soon pay fare with their faces. A report in Bloomberg says that “The Moscow metro system, which carries more riders than the New York subway, is about to roll out a facial recognition system that will let people pay with a glance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "originalUrl": "https://www.news18.com/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/09/untitled-design-8-163058141116x9.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "publishedDateTime": "2021-09-02T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-materna-ips-deploys-biometric-face-recognition-at-tokyo-haneda-airport.md",
       "title": "Materna IPS deploys Biometric Face Recognition at Tokyo Haneda Airport",
       "excerpt": "September 2021 - Tokyo International Airport (HANEDA), the 4th largest airport in the world, chose the German SBD provider to equip their self-service installation with the Materna IPS One ID journey.",
@@ -1392,58 +1435,6 @@
         "name": "Privacy International",
         "domain": "privacyinternational.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-australia-eyes-ai-drones-facial-recognition-tech-to-protect-wild-koalas.md",
-      "title": "Australia eyes AI, drones, facial recognition tech to protect wild koalas",
-      "excerpt": "Researchers are seeking hi-tech solutions to protect koalas against the threats of vehicle collisions and bush fires.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
-      "originalUrl": "https://www.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/22/689d270a-0305-11ec-83d9-2f907cc4e7e5_image_hires_131045.jpg?itok=_PUW2we3&v=1629609056",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
-      "publishedDateTime": "2021-08-22T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

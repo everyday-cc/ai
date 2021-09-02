@@ -7,7 +7,7 @@ originalUrl: "https://recruitingdaily.com/the-rise-of-ai-in-talent-acquisition-a
 webUrl: "https://recruitingdaily.com/the-rise-of-ai-in-talent-acquisition-and-a-look-at-whats-next/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 800
     height: 510
     isCached: true
+
+related:
+  - title: "The Role of Artificial Intelligence in IoT"
+    excerpt: "Currently, the business world has changed drastically with the adoption of IoT. It is helping the businesses to gather a lot"
+    publishedDateTime: 2021-09-02T10:01:00Z
+    webUrl: "https://www.hongkiat.com/blog/ai-in-iot/"
+    ampWebUrl: "https://www.hongkiat.com/blog/ai-in-iot/amp/"
+    cdnAmpWebUrl: "https://www-hongkiat-com.cdn.ampproject.org/c/s/www.hongkiat.com/blog/ai-in-iot/amp/"
+    type: article
+    provider:
+      name: Hongkiat
+      domain: hongkiat.com
+    quality: 59
+    images:
+      - url: "https://assets.hongkiat.com/uploads/ai-in-iot/customer-experience.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "The past, present, and future of AI in financial services"
+    excerpt: "As the use cases for AI in financial services continue to grow and deliver value for organizations and customers alike, I’d like to provide some insight on where I think the technology is delivering most value at the moment,"
+    publishedDateTime: 2021-08-31T10:50:00Z
+    webUrl: "https://www.finextra.com/blogposting/20816/the-past-present-and-future-of-ai-in-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "Jg+eFGBZH3StdegjSJ/pweYX6NWuxW5pOrn+ZR7/w/2HDnq9XIudsOk/0aUtmbu88hTy74cr2zEE+dD821gdJwnRds577Us6cEyRlsQDq7GmjGN5mxDDUZ1H6AfgKHdFCYFgjWyHXjpBr1A3X0QCQC8MP6IFRQFScjjr2g4RvGFrMoEOv1stJqKQk895+xYbRpeIlmoaQsnUX1zqx6i59BCvqSBn44gfKeJH3yt35NxIZFINDghfnCiFdzlphCoHk1AJkyy3fAGIU2lMvPRn26fLk4lIAbeo7JchwEv4gY21QvWUeQbZQJgwC2WfDDJKdJeJhHU9mo0aYL6yOj+FKKjmUvZXz7Wv8HKMSL6y+MqfaYACPo2ECPsuStGPjVc7qjTIeIcax9G/zvNKoF6IIsa3UyTRIW0CWZ726aM6BN+z8BY9Diqd7VyA1JCkJUKAUrxZMxVcMC6uTu7spxyJZbKYuj27VL6yb4xgfcqnkCWG0KV/F4KgHNOM+adbv9Kc1vvDtTr/RC9sXNcql6TDsw==;lIXToMBr3r2lEQ2OUV9r2g=="
 ---

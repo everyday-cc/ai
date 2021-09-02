@@ -19,19 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "The Need of A Real-World Artificial Intelligence in The Pandemic Era"
-    excerpt: "The Covid-19 pandemic has accelerated the development of artificial intelligence across the globe. Organizations are using artificial intelligence to increase the productivity of remote workers, enhance the virtual shopping experience,"
-    publishedDateTime: 2021-08-30T19:56:00Z
-    webUrl: "https://www.bbntimes.com/science/the-need-of-a-real-world-artificial-intelligence-in-the-pandemic-era"
+  - title: "The Role of Artificial Intelligence in IoT"
+    excerpt: "Currently, the business world has changed drastically with the adoption of IoT. It is helping the businesses to gather a lot"
+    publishedDateTime: 2021-09-02T10:01:00Z
+    webUrl: "https://www.hongkiat.com/blog/ai-in-iot/"
+    ampWebUrl: "https://www.hongkiat.com/blog/ai-in-iot/amp/"
+    cdnAmpWebUrl: "https://www-hongkiat-com.cdn.ampproject.org/c/s/www.hongkiat.com/blog/ai-in-iot/amp/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 43
+      name: Hongkiat
+      domain: hongkiat.com
+    quality: 59
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Need_of_A_Real-World_Artificial_Intelligence_in_The_Pandemic_Era.jpeg"
-        width: 1620
-        height: 1080
+      - url: "https://assets.hongkiat.com/uploads/ai-in-iot/customer-experience.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "The Rise of AI in Talent Acquisition – and a Look at What’s Next"
+    excerpt: "We’re reaching artificial intelligence's day of reckoning. As organizations adopt and employ, they seek greater functional AI in talent acquisition."
+    publishedDateTime: 2021-08-31T14:00:00Z
+    webUrl: "https://recruitingdaily.com/the-rise-of-ai-in-talent-acquisition-and-a-look-at-whats-next/"
+    type: article
+    provider:
+      name: Recruiting News and Views @ RecruitingDaily
+      domain: recruitingdaily.com
+    quality: 39
+    images:
+      - url: "https://recruitingdaily.com/wp-content/uploads/sites/6/2021/08/8.30-RD-Article-Featured-Image-Template-1.jpg"
+        width: 800
+        height: 510
         isCached: true
 
 secured: "hDGlIuBVpbaRqvSkx4H50IMS3ksD0pxLqSjvDv25ntwdR69YVWluOO2QKzQ5kCW4j+HUnCOTi44Ays9mbNZoVx8zVD2yDpVYcMUTx6BBzmhSQBvmP/9bxPruC1k2FjevcTz8PrF0mDjaoInw/0P4dLe55v5wSdT7S2pm/KwGGnAnWXo/P3zY94E61jE1QlYE77qfG1SMW7VXGBPzSyc+iozWrn7Lw+gWZhxiw/vAW6T6oh6wo87VsaAoDditOVSjlx4pzyZklHH3cOMkOLBL2bbG6j2qddGo8/xlKDZtR9g8Yf7SyNtcLSL6izTnpVn5lpkHyh4jMdvW1k/679sIOxbsrWEXYo0kc+rGaJPCgwv9QdNhY0IUs6Ku6TyZaU3RzhJjE6arWqP/BlyWV3rEkhxWdskggLmmIC3ZF15P6DUzDMj72l0cOD7W2mmStW+7RSQKloM7f8i/LoLW3Ai3KEDYd741veaEVjgAmGbzc6ICmhhVy6EVGPD5r/GNgsX3eZb6Ymz7lZGq+iYCFI3Tiw==;HzCNdTSPFbUFmd4Hf2o3Ow=="

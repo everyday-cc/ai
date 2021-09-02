@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The future of American democracy hinges on ethical AI"
-    excerpt: "Not since the race to develop the atomic bomb has a technology had as much potential to effect the balance of power between democracy and authoritarianism."
-    publishedDateTime: 2021-08-28T17:20:00Z
-    webUrl: "https://venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/28/the-future-of-american-democracy-hinges-on-ethical-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1256373495.jpg?w=1200&strip=all"
-        width: 1200
-        height: 776
-        isCached: true
   - title: "Why The Ethics Of AI Are Complicated"
     excerpt: "The question isn't really whether AI will eventually become more intelligent than humans (it definitely will) or whether it will turn good or evil. It's what we can do right now to make sure it turns \"good\" (or,"
     publishedDateTime: 2021-08-30T14:15:00Z
