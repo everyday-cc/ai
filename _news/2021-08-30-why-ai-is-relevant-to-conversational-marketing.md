@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382318"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Speaker-Spotlight-Future-Says-Season-2_3.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Togal.AI Launches Construction Estimating Tool"
+    excerpt: "Togal automates the estimating process, which includes measuring the size of each room’s square footage to accurately price the cost of construction."
+    publishedDateTime: 2021-09-02T14:57:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21648221/togalai-launches-construction-estimating-tool"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 37
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/09/16x9/Togal.AI_product_screen.6130e3d4477fe.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Yellow.ai Debuts as a Major Contender in Everest Group's PEAK Matrix for Conversational AI"
     excerpt: "Yellow.ai, the world's leading customer experience (CX) automation platform, trusted by 700+ enterprises globally, today announced it"

@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Sitecore Acquires AI-Powered Digital Search Platform Reflektion"
+    excerpt: "Sitecore®, the global leader in digital experience management software, today announced the acquisition of San Mateo-based Reflektion, an AI-powered digital search platform that understands and predicts patterns,"
+    publishedDateTime: 2021-09-02T15:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-93de7c9f99ec0ff79067be64066a3818"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Korea, Singapore discuss mutual recognition of vaccine certificates"
     excerpt: "National Assembly Speaker Park Byeong-seug and his Singaporean counterpart Tan Chuan-Jin agreed on the need to mutually recognize COVID-19 vaccination certificates and to resume a reciprocal quarantine exemption arrangement at a virtual meeting held on Friday,"
     publishedDateTime: 2021-08-30T02:01:00Z

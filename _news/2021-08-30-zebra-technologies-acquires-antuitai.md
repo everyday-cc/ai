@@ -135,6 +135,20 @@ related:
         width: 1280
         height: 596
         isCached: true
+  - title: "Zebra Technologies to Acquire Antuit.ai"
+    excerpt: "Zebra Technologies Corporation, a global enterprise mobile computing company, announced its intention to acquire antuit.ai, a provider of artificial intelligence (AI)-powered Software-as-a-Service (SaaS) solutions specific to forecasting and merchandising for the retail and CPG industries."
+    publishedDateTime: 2021-09-02T14:44:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/33691-zebra-technologies-to-acquire-antuitai"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 37
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Aug-2021-SM.jpg?crop=1&height=348&t=1628176208&width=271"
+        width: 271
+        height: 348
+        isCached: true
 
 secured: "udQKnQoGqb+a1bH95FsMGvb4NKd74XFRCOPH/Njfk5gVBJX2nSq7hZutL1ABE5o4uknUgeyG6cUveM3NTYRBcswHT24lf+wQ1tIM0jDzbxF1nmOVisgAl0Ug0C66HcxGqxxb1AdU3ajXbRr2D4uB6JbNMoHqX31abYzjHppV9eKvC6ms6Q9jEbYdrfGyiUIc0+ByHBvJmDHsuSBp5ryeSFuJJ/LOB8W8RXqCTWWCLodDEDRPYQX1St3O5C/E8WkeMZEJToX0Vlsk9C4anqB8RjsRfCQZeNG5pUa8KnyHrtcpmbRuZi2U9yZYbgRxCxzPHwrPflL+nWf8CCFRSECid5xTeD+3mSLypMu7XEAtlHybHaNI0RKLvM30UgZkDXJxiA2DGhvf3fOs1Z8ijkn5e9iRbBxZji/GRKnDZonuO8cXgDcXkRzqO2N7Vxls1FPmrw9f5nRrkyy7tnmiC8cd6xSTHHzNqTkww+GTEhQOLz19AYwY75gwWILAhezgJQ1C4yt6VVZNH4VsJ9uNOEy3IA==;v6FoF0i3vNXySQOqD/ngLA=="
 ---

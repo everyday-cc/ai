@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Open Access Resources for AI in Schools"
+    excerpt: "Part of a Global Network of Internet & Society Centers (NoC) project on the Ethics of Digitalization, the Research Clinic convened a dozen early-career scholars to examine a real-world use case of AI in the public sector. The larger initiative is conducted ..."
+    publishedDateTime: 2021-09-02T14:50:00Z
+    webUrl: "https://cyber.harvard.edu/story/2021-09/open-access-resources-ai-schools"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 41
+    images:
+      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2021-09/joao-marcelo-martins-hFoPRRwjVgg-unsplash.jpg?h=6521bd5e&itok=WaKAxnJa"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "The Coming Identity Crisis for AI"
     excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
     publishedDateTime: 2021-09-01T21:05:00Z

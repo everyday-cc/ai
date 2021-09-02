@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-r
 webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 38
+  - title: "Government urged to embrace Artificial Intelligence for Disaster Risk Reduction"
+    excerpt: "The Kenya National Commission for UNESCO has urged the government to embrace Artificial Intelligence for Disaster Risk Reduction to strengthen disaster prevention approaches. The Commission argues that technology is the way to go in dealing with disasters such as floods and drought."
+    publishedDateTime: 2021-09-02T14:27:00Z
+    webUrl: "https://www.kbc.co.ke/government-urged-to-embrace-artificial-intelligence-for-disaster-risk-reduction/"
+    type: article
+    provider:
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 33
+    images:
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2021/09/maxresdefault-5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8jGex3P6rKoJrZ6Yk0n7l+A+Wrt0oOjkem8f3T11ERkV4jdxUk5LFwCLSTfALm83ugvd2KEx4ZQZ6Ubvr9/jMpvQZISsXETAC17LMTWDvEAmkvFWepbp02Hhl5+/qZ6Yd6b2tpgUVJoxmH3hhLyxJE04OuvqEuMchUPIVwYqEhhSGuQ+NfSSQdeYXmjIif0A4U4CU89u2JhhwMfT+I8Ox3ZEB1tdyilR7/QWB1Amctd4zFiX5HlUuloV3NFy4CW9ZInOkYHFnweAuUcwrnMody6bEWtRR4K82DHP1j9/Jgb0D3HnIHqrmutAj9Zij4ph4k5NHUrNqxnW477sTzzGuv+UNdlH6w2MFyGy7lXU8IBpzNFgvDXlORaxKZU6oCIH+xe/sETRs/EHvoxzkkcTFSmcy+YCVqmHc7h2KY2w9htQDNT4gbvoa0BcGbxMp8xLW9ymWEcbYFE7T6zKoBF3pgeTSZiTOCuo+410kbGecDqe5QSS1Z8LyVh6Hat9J1ZKphZznxK5cWqGAx6/6ZqmtA==;sfTfpjWjxAt1WJyh0JrA6w=="
 ---

@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Togal.AI Launches Construction Estimating Tool"
+    excerpt: "Togal automates the estimating process, which includes measuring the size of each room’s square footage to accurately price the cost of construction."
+    publishedDateTime: 2021-09-02T14:57:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21648221/togalai-launches-construction-estimating-tool"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 37
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/09/16x9/Togal.AI_product_screen.6130e3d4477fe.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
     excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
     publishedDateTime: 2021-08-31T00:53:00Z

@@ -34,6 +34,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 47
+  - title: "Sitecore Acquires AI-Powered Digital Search Platform Reflektion"
+    excerpt: "Sitecore®, the global leader in digital experience management software, today announced the acquisition of San Mateo-based Reflektion, an AI-powered digital search platform that understands and predicts patterns,"
+    publishedDateTime: 2021-09-02T15:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-93de7c9f99ec0ff79067be64066a3818"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Zw6N+MytoC2fnwUITzgnOxDbeWC2m9uoANzq14ZxR/yXKm42w5F8MZbAT7EMicU2EM5p1TAIEO8aVKhq5h7GxFLVWdBaM/d25OKsFoe+coasDBKwuiKYaDoqFIYNr7OB+4JcGZ9fBKR74rHYAijiKC9qTtd94LWciQILlIOZvlJYaemwNhWlGk4JKtW4aIQbWP0tnmavosq/Vbu2DCp0DiggeePo/0UIoTaNE3Y/uviRth9qUfxY/cY7Gi/7/N1FFrLCdQBkPq6kLTSuiHo3ZeGkUfGZhwVeVBaQNEwuW+SGmF9ym8YW3Of9iBmPVek6C/m44gRlpCHXQEIXgNTDrm5BU7jnm32+5acTVfDr4/I=;kNF1bVEGgsARAo3Gnljejw=="
 ---

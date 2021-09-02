@@ -2,24 +2,24 @@
 category: news
 title: "Spell Introduces Deep Learning Operations Platform To Reduce AI Training Costs"
 excerpt: "Concept: NY’s MLOps platform provider Spell has announced the launch of an operations platform that includes the tools needed to train AI models using deep learning algorithms. ML algorithms are tuned for the platforms currently used to train AI models."
-publishedDateTime: 2021-08-30T12:53:00Z
-originalUrl: "https://www.pharmaceutical-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
-webUrl: "https://www.pharmaceutical-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
+publishedDateTime: 2021-08-30T12:28:00Z
+originalUrl: "https://www.power-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
+webUrl: "https://www.power-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Pharmaceutical Technology
-  domain: pharmaceutical-technology.com
+  name: Power Technology
+  domain: power-technology.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/08/shutterstock_1698736867.jpg"
+  - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/shutterstock_1698736867.jpg"
     width: 500
     height: 282
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 500
         isCached: true
 
-secured: "MrywIB2gWptotfw/WuVYcxchWursLsGK+vvZrLtmu3+P0ZYCrl9eB0uh3rKjBdz1djz08rYLBnC/Q9ONwZVIwYMmk38cXeE12W+sTrPNlBv2vT/1DNr19e/qZw21YfDO0srU98L4xt8tVj3MhrP6bX2Bwst1r92rpG/Kx28MoCOBNdmUn9wWACkbKFWE6NfAFX9e7JnpBa5bXDA7tp915TObqZQg9UTvtk6LXo06J5S7vhnTQ4hQQWcm48CPi+ACno06FSgJo4l+lLBknMoST1EvPkpjr3FbHyRBRxw9mvFW7eHt/yzqTRZ3vvLiH1u0SibtwiilvBRFKq1UISw7S6Mm3ebH9YL8/LacyVZ3j3w=;B1H5Y/kpGQURZwuNvpx+mw=="
+secured: "+7ERBThL9Q91HbndVQnZIeZB/dwMffWvkHZBruHsHAT9GePxRESX/0wVu7tXA+jU4bTkKCI8eJCpxtSPA/SSNFcojjjBxL3sNdQK5ZEFgNvLM+r+PiotNw8OVnmVE8q9DpfOkjj8Q3D+d3GmxF9PZfA1VgSan35ttCSuw0gG9RC5ffdo9LDSBHJ+xLKsouHRHkOlz4nh2ORqV+vPVuSLtzt2/j+FLqTSYhJJq0SY93T1szJYQ3InTf06rrr/FHBEj1QPbamAQgjzkNIOd4SqIfQx7kWGXEotjfQzs9/JlcNsmvEWTU3u4fAxlizfIPNdrj/xuB93x5lh6tPyO0zZF2i0q+fIF4mXXN5FKyyDTfE=;yYNNRIEFHyXuXUPdRtNfQg=="
 ---
 

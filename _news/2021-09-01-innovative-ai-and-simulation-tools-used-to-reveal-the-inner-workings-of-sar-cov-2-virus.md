@@ -51,6 +51,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 38
+  - title: "Government urged to embrace Artificial Intelligence for Disaster Risk Reduction"
+    excerpt: "The Kenya National Commission for UNESCO has urged the government to embrace Artificial Intelligence for Disaster Risk Reduction to strengthen disaster prevention approaches. The Commission argues that technology is the way to go in dealing with disasters such as floods and drought."
+    publishedDateTime: 2021-09-02T14:27:00Z
+    webUrl: "https://www.kbc.co.ke/government-urged-to-embrace-artificial-intelligence-for-disaster-risk-reduction/"
+    type: article
+    provider:
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 33
+    images:
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2021/09/maxresdefault-5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "4ZIS3FVDsCIj8sZvST3q8ldvbAE5n3ZuncvCF17JLbbc2b2z2kcUkmfgUovXpLZlZpzUi8LGn7qXdADPc0KMRnSvDxQ+oEjnrY3rhSTyexRz0KQbmkyimEsLYuv7NJkO2mBpk90HSilQVfmEv4lwlZlDAXFt1xD9N7nSX7Mz9WWtB1ntiSZaA7E2ClHLDTODENk5KWBJL+iodvskcYGoM92jcCbeHOV0M+cqfnFuBQq+UzUdXpnYPSDvmukYqzlWu9QMmIYQiBMEVqC2AO+K7l7dE0mlKc/Eiz7EhtQFOEpoxshFUNtU+uB3OsuP/cA+GuoGwLsIVRf7Xcc0xRl24V/WAMCkFw6N64sZ0yZR4Rg=;TIo4iZjFONRGdXNFf4+75g=="
 ---

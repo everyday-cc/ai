@@ -52,6 +52,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Government urged to embrace Artificial Intelligence for Disaster Risk Reduction"
+    excerpt: "The Kenya National Commission for UNESCO has urged the government to embrace Artificial Intelligence for Disaster Risk Reduction to strengthen disaster prevention approaches. The Commission argues that technology is the way to go in dealing with disasters such as floods and drought."
+    publishedDateTime: 2021-09-02T14:27:00Z
+    webUrl: "https://www.kbc.co.ke/government-urged-to-embrace-artificial-intelligence-for-disaster-risk-reduction/"
+    type: article
+    provider:
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 33
+    images:
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2021/09/maxresdefault-5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Z0paalVVGyOZl1pqMzc8j1/MHqcCbdAQxsK+by1HRLwidZjuw7e90Dkw23NWroD/AOF68t3ry6J5fu3HaxqFTbiHUxenX0k0jemf08A1b8CzuYKbbDP1VzZzNchuEIMP4f0zxk1yHj60mDt6EMHwTOXoNor3PzdjIpq4S27lBXZhhNNgaOWELYI1G1RixDHPgrgEcN7mZ4pwgf5e4guI8jbYlIDzSaxot/ZC85vr3kxBeeg5y8N7PZov1KD+ToP3Q4srdNhYepn9Dd2N97TElUgoI2CNkgUg0w5Vf/N74t68KaE82MXlVJfeMqB/6QvxyZpxP+NUDHOZT5J4o6wMNWpbRoQxvcQyoVf6rYl1yYjunE3jQFnFFzbXp+098dn9d6Qttil6Tq+LJFMuNIZJU2QSnEvTGW7HP7NU63Ey5cfOwF35iWFLfHZO8u5+xVslH8nVw+pwClVkCzoydJHppt2YsC83tjR+QK8N6wS1hzO1uXoVWsGN40jhUe8SOliDsAHNApJFW6FDF6Dv97jzfA==;fD+IEphuJ2tnhfeB4gLLEw=="
 ---

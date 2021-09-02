@@ -144,6 +144,20 @@ related:
       name: bna.bh
       domain: www.bna.bh
     quality: 19
+  - title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
+    excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
+    publishedDateTime: 2021-09-02T11:50:00Z
+    webUrl: "https://productcoalition.com/top-fintech-companies-startups-revolutionizing-financial-services-in-2021-and-beyond-3c004886018d"
+    type: article
+    provider:
+      name: productcoalition.com
+      domain: productcoalition.com
+    quality: 16
+    images:
+      - url: "https://miro.medium.com/max/1200/1*mTtOeZV1V7PWbkEqKwxKjQ.jpeg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "This Canadian FinTech Co. Jumped 77% in Revenue"
     excerpt: "AI-driven financial technology company Marble Financial Inc. (CSE: MRBL) released its interim consolidated finances statements and management’s discussion and analysis for Q2 2021 on Wednesday. MRBL highlighted total revenue for the three- and six-months ending June 30th,"
     publishedDateTime: 2021-09-01T16:56:00Z

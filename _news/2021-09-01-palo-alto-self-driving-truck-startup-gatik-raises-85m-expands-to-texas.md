@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Koch VC Arm Leads $85 Million Round in Self-Driving Truck Startup"
+    excerpt: "The venture unit of the Koch Industries conglomerate is betting that automation in the transport of goods will be broadly taken up across the economy."
+    publishedDateTime: 2021-08-31T23:13:00Z
+    webUrl: "https://www.wsj.com/articles/koch-vc-arm-leads-85-million-round-in-self-driving-truck-startup-11630437211?tpl=vc"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-393919/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Self-driving startup Gatik adds location, follows blueprint for short-term success"
     excerpt: "Autonomous trucking startup Gatik unveiled its fourth North American location for AV trucks while landing an $85 million funding round."
     publishedDateTime: 2021-08-31T11:00:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://enterprisersproject.com/article/2021/9/artificial-intellig
 webUrl: "https://enterprisersproject.com/article/2021/9/artificial-intelligence-ai-jobs-4-hot-skills"
 type: article
 quality: 71
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: enterprisersproject.com
@@ -29,14 +29,19 @@ related:
   - title: "C3.ai (AI) to Report Q1 Earnings: What's in the Offing?"
     excerpt: "C3.ai AI is set to report first-quarter fiscal 2022 results on Sep 1. For the quarter, C3.ai expects revenues between $50 million and $52 million. The Zacks Consensus Estimate for revenues currently stands at $51 million."
     publishedDateTime: 2021-08-30T16:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q1-earnings%3A-whats-in-the-offing-2021-08-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q1-earnings%3A-whats-in-the-offing-2021-08-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q1-earnings%3A-whats-in-the-offing-2021-08-30?amp"
+    webUrl: "https://www.entrepreneur.com/article/382487"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/382487"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382487"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-382487.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "n42iVDwfjBZ13G1CnawYe8o9fFMQIj6oxoSJ2zixRabRR8I5L9I7zDGlmYTu5IrisOZPjFPCMFWaFWXOeX24048qs2VNkPqHzpVQHQKwruSDZkJgsustx4/buCxt6NdulAk/dBn3PAlZRZCI4ZSfI2Bs55mzJeDl/5B3or9mKLMJnfF1PTUdjT3qrNNHGZ9xzqh3Jt2k0snvTCrtPKqzuDeT0cZVb79LrIM2+1IBwEfek7J8Wfsc4ewLDCCmUQa2cn1AMC/N6tQ2Gmq4oYxrZQW1Jqfr9xFmhwuz94aVVKP5ajn9LN9rwsw8QP1ZZZ51j0EUku2MyZWqVOgm1ueqsjesYLoRYjlyfau2z1OJeigRQiinLCZHuQLEnZH4/mlIIFQ/yuBVuIQ6JtUS1+tQLSyYzp/N7u0DssNqRPexvKL0PTyHfZlwZfd1FAbaLpHKJKaY/dSXcOtHhrzMhsnqCurG3QBXYlnvbaLxvrK8ZoyY2nKAkEDEBq6XRc8DE2bw3U8A2pxU2WWf0PIeAM66qQ==;HBuRm2wi1bIByEN0gH8ypQ=="
 ---
