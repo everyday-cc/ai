@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sen
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "New non-contact facial recognition software monitors a baby’s vital signs"
+    excerpt: "Researchers have designed a computer vision system that can automatically detect a tiny baby's face in a hospital bed and remotely monitor its vital signs from a digital camera with the same accuracy as an electrocardiogram machine."
+    publishedDateTime: 2021-09-03T11:42:00Z
+    webUrl: "https://www.dpaonthenet.net/article/186871/New-non-contact-facial-recognition-software-monitors-a-baby-s-vital-signs.aspx"
+    type: article
+    provider:
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 38
+    images:
+      - url: "https://www.dpaonthenet.net/global/showimage/Article/197394/"
+        width: 375
+        height: 238
         isCached: true
 
 secured: "226v+ZquZ8cyHJh4sD32wkkRU+pw33Cmbj3eezHfb4LfJcJ1F4z4foiOLalXFpWCUScoS2WVDEO6tkYl5EZ5OR+F0CdY5eP6I/CEiJxU3/oD5xrqxzEx/YmkKcpv62ZLXMjh+X3dhmPKAPxOBGHu21D7Rqu2athpJUfWkTilni83XBrgLy61KyHIsm7OW8ow7obKOAqpNk653tQDz9YIQez3s0Qq+JHUrO1EJ3+bFOrLuyNVpvBz6q1Fz/7zl1eiFoL/jRy/bnsrkSGQ/E18scUEiwG+3pB3LondaMsTMvOYHvboWT3vcSoy2jIQAgHpEH6HAAHNdjuwmPQ/iMAeOQ8x6chltcd10VOJ6QuPZ6IfhxnSFq1Q/jhUr9gCbin3QVM9084AMVeZbROLxZB9TKewO2cikUqdwXjdllex9s5VwJaN7UfOe0GLUPoJuPdbsAnj7FEPe8A+EMu23QGqdJyrZW4nAk5GUYGpPKExvHOZjHwPA4VMnK5rile5rGdm8UOKWMIwv5Lkoo/3R6ObYA==;oqI8odnwi+BksAUN5JXWog=="

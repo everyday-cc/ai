@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "A Self-Driving Bus Has Hit A Paralympian At The Tokyo Olympic Village"
-    excerpt: "There are always consequences of using autonomous vehicles…. Earlier this week, a visually impaired Paralympian was hit by one of the self-driving shuttle buses around Tokyo Olympic Village which resulted in leg and head injuries. The autonomous bus was ..."
-    publishedDateTime: 2021-08-29T17:45:00Z
-    webUrl: "https://wonderfulengineering.com/a-self-driving-bus-has-hit-a-paralympian-at-the-tokyo-olympic-village/"
-    ampWebUrl: "https://wonderfulengineering.com/a-self-driving-bus-has-hit-a-paralympian-at-the-tokyo-olympic-village/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/a-self-driving-bus-has-hit-a-paralympian-at-the-tokyo-olympic-village/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 44
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/https3A2F2Fs3-ap-northeast-1.amazonaws.com2Fpsh-ex-ftnikkei-3937bb42Fimages2F02F52F92F82F36128950-4-eng-GB2FCropped-1630084514photo_SXM2021082700014279.jpg"
-        width: 1400
-        height: 788
-        isCached: true
   - title: "Toyota to resume self-driving vehicles at Paralympic Games village"
     excerpt: "CNBCTV18 is India's leading financial, economic and business information source. The leading platform for business & financial news, BSE/NSE stock market news updates, business news live, IPO Analysis,"
     publishedDateTime: 2021-08-30T12:25:00Z

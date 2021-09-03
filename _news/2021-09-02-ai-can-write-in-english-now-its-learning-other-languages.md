@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Learning solutions: Intel’s tech helps improve English language skills in the hinterland"
-    excerpt: "EH leveraged the AWS Elastic Compute Cloud (EC2) M5 instances powered by 2nd Generation Intel Xeon Scalable processors with Intel Deep Learning Boost (Intel DL Boost) to seamlessly deploy the AI-based RightToRead program across schools in urban and rural ..."
-    publishedDateTime: 2021-08-29T18:27:00Z
-    webUrl: "https://www.financialexpress.com/education-2/learning-solutions-intels-tech-helps-improve-english-language-skills-in-the-hinterland/2319182/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/learning-solutions-intels-tech-helps-improve-english-language-skills-in-the-hinterland/2319182/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/learning-solutions-intels-tech-helps-improve-english-language-skills-in-the-hinterland/2319182/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 35
-    images:
-      - url: "https://images.financialexpress.com/2021/08/1-617.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Unlocking the True Potential of ML: How Self-Supervised Learning in Language Can Beat Human Performance"
     excerpt: "As more businesses implement AI systems, the technology’s limitations are also being realized–including the amount of data required to train machine learning (ML) algorithms and the flexibility of these algorithms in understanding human language."
     publishedDateTime: 2021-09-02T17:56:00Z

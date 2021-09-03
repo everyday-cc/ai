@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "A Self-Driving Bus Has Hit A Paralympian At The Tokyo Olympic Village"
-    excerpt: "There are always consequences of using autonomous vehicles…. Earlier this week, a visually impaired Paralympian was hit by one of the self-driving shuttle buses around Tokyo Olympic Village which resulted in leg and head injuries. The autonomous bus was ..."
-    publishedDateTime: 2021-08-29T17:45:00Z
-    webUrl: "https://wonderfulengineering.com/a-self-driving-bus-has-hit-a-paralympian-at-the-tokyo-olympic-village/"
-    ampWebUrl: "https://wonderfulengineering.com/a-self-driving-bus-has-hit-a-paralympian-at-the-tokyo-olympic-village/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/a-self-driving-bus-has-hit-a-paralympian-at-the-tokyo-olympic-village/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 44
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/https3A2F2Fs3-ap-northeast-1.amazonaws.com2Fpsh-ex-ftnikkei-3937bb42Fimages2F02F52F92F82F36128950-4-eng-GB2FCropped-1630084514photo_SXM2021082700014279.jpg"
-        width: 1400
-        height: 788
-        isCached: true
   - title: "Toyota to restart self-driving pods at Paralympic village in Tokyo"
     excerpt: "Toyota has said it will resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff. The pods were earlier suspended after one of the them collided with and injured a visually impaired Japanese athlete."
     publishedDateTime: 2021-08-30T13:36:00Z

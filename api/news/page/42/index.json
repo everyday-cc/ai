@@ -2,49 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2021-08-04-google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip.md",
-      "title": "Google and Qualcomm to continue working together despite new Tensor chip",
-      "excerpt": "While neither Google nor Qualcomm, have said anything about what these partnerships will be, it's possible that Google will continue sourcing modems and other components from Qualcomm",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip-11627984911443.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip-11627984911443.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/08/03/600x338/Google_1572917561307_1627985235381.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html",
-      "publishedDateTime": "2021-08-03T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-04-is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai.md",
       "title": "Is DeepMind’s new reinforcement learning system a step toward general AI?",
       "excerpt": "The paper's findings show some impressive advances in applying reinforcement learning to complicated problems.",
@@ -1146,6 +1103,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-runai-achieves-red-hat-certification-for-openshift.md",
+      "title": "Run:AI Achieves Red Hat Certification for OpenShift",
+      "excerpt": "AI, creator of the first cloud-native compute orchestration platform for AI, announced today the completion of certification for their Red Hat OpenShift Operator. The certification enables companies using Graphics Processing Units (GPUs) on OpenShift-managed Kubernetes clusters to more quickly and simply install Run:AI's software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/03/9422622.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/03/9422622.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

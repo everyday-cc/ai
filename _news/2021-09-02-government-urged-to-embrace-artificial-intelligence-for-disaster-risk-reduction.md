@@ -65,6 +65,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 38
+  - title: "The Proliferation of Weaponized Artificial Intelligence"
+    excerpt: "Over the past decade, the growing sophistication of machine learning and AI have allowed these systems to be weaponized with concerning implications for cybersecurity. This has created an arms race between cybersecurity professionals and bad actors that will only get worse,"
+    publishedDateTime: 2021-08-31T12:12:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/the-proliferation-of-weaponized-artificial-intelligence"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 37
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/612d70110e28fae22d9adb7b_AdobeStock_233486521.jpeg"
+        width: 1280
+        height: 870
+        isCached: true
 
 secured: "eEQ44Yw5xDFxW4A1NW/YrrxBtM4j1X4zKTTbsW1aaGuyX1I51AXvsrv6BLpbR7N0pRFvHvUN45pT7n60KFh7Mo0LD1dx+88S3OeQBZIAW77XZ1ZFb/vLcCIIxm1dl8PO4gwInWQvIrFYXVKdZ16Ch3BdDnFbVKddRlsxintDe/Mv864i5D8pm5HT8GH8i7yYf2bPCYaxKWVzZIr/6gtuU8whuA0yjBfMQD+8vet86BF9riJRwYp1S9S8Vo7LOZmg8vEyFtX/DnbjcdrCoU8XVvdo9EsJqPz6Wxebr8byFxgUkVCSdBeZTIc3+07l9W50Q+UnzxAjocow6eelwdCfNXus0TrrgDYN8LpA1w0h3Dk=;RN3Ez7Uay7Mi1Y6d/4j7Cw=="
 ---

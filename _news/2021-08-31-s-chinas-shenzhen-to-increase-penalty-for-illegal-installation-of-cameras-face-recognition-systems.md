@@ -41,6 +41,20 @@ related:
         width: 320
         height: 239
         isCached: true
+  - title: "Largs Academy pupils to use facial recognition system"
+    excerpt: "Largs Academy pupils will be able to use facial recognition inside the school. The new technology will be used to buy contactless school meals and all in-school catering purchases. The technology will be launched later this year to replace Parent Pay."
+    publishedDateTime: 2021-09-03T10:12:00Z
+    webUrl: "https://www.largsandmillportnews.com/news/19556675.largs-academy-pupils-use-facial-recognition-system/"
+    type: article
+    provider:
+      name: Largs and Millport Weekly News
+      domain: largsandmillportnews.com
+    quality: 39
+    images:
+      - url: "https://www.largsandmillportnews.com/resources/images/12694389/"
+        width: 2400
+        height: 1596
+        isCached: true
   - title: "Why civil liberty groups are fighting for facial recognition ban: ‘It’s intrusive and dangerous’"
     excerpt: "And is the omnipresence of LFRT (live facial recognition technology) actually making our lives safer or creating more dangers and division? Those campaigning to ban it argue there is no safe way of using LFRT in public spaces due to the fact it could worsen police treatment of minority communities and totally change the relationship between the individual and the state."
     publishedDateTime: 2021-09-01T10:21:00Z

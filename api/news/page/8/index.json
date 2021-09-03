@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-08-26-guardian-alliance-technologies-completes-aws-partner-transformation-program.md",
-      "title": "Guardian Alliance Technologies Completes AWS Partner Transformation Program",
-      "excerpt": "Guardian Alliance Technologies is proud to announce it has completed the Amazon Web Services (AWS) Partner Transformation Program (PTP), furthering the reliability and",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-alliance-technologies-completes-aws-partner-transformation-program/article_5148e678-eca4-526a-9759-21311e144712.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-alliance-technologies-completes-aws-partner-transformation-program/article_5148e678-eca4-526a-9759-21311e144712.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-26-get-entire-details-about-artificial-intelligence-system-market-by-2025.md",
       "title": "Get Entire Details about Artificial Intelligence System Market By 2025",
       "excerpt": "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market",
@@ -1191,6 +1148,48 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-edge-ai-the-future-of-artificial-intelligence-and-edge-computing.md",
+      "title": "Edge AI: The Future of Artificial Intelligence and Edge Computing",
+      "excerpt": "Edge AI processes algorithms locally on devices on the edge of a local network. Here is how it is transforming computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusinessedge.com/data-center/developments-edge-ai/",
+      "originalUrl": "https://www.itbusinessedge.com/data-center/developments-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/08/Edge-AI_-The-Future-of-AI-and-Edge-Computing.jpeg",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business Edge",
+        "domain": "itbusinessedge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

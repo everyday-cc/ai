@@ -25,7 +25,7 @@ related:
   - title: "Fundamentals, not fiction: This fund wants to help startups scale with AI"
     excerpt: "As the scale of startup growth has soared over the last five years, founders have gotten locked into an endless search for funding. Investment rounds are getting larger, and startups need more cash to accelerate and justify their valuations."
     publishedDateTime: 2021-09-02T06:21:00Z
-    webUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-705576"
+    webUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-705042"
     type: article
     provider:
       name: Techinasia

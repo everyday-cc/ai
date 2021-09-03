@@ -51,6 +51,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 38
+  - title: "The Proliferation of Weaponized Artificial Intelligence"
+    excerpt: "Over the past decade, the growing sophistication of machine learning and AI have allowed these systems to be weaponized with concerning implications for cybersecurity. This has created an arms race between cybersecurity professionals and bad actors that will only get worse,"
+    publishedDateTime: 2021-08-31T12:12:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/the-proliferation-of-weaponized-artificial-intelligence"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 37
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/612d70110e28fae22d9adb7b_AdobeStock_233486521.jpeg"
+        width: 1280
+        height: 870
+        isCached: true
   - title: "Government urged to embrace Artificial Intelligence for Disaster Risk Reduction"
     excerpt: "The Kenya National Commission for UNESCO has urged the government to embrace Artificial Intelligence for Disaster Risk Reduction to strengthen disaster prevention approaches. The Commission argues that technology is the way to go in dealing with disasters such as floods and drought."
     publishedDateTime: 2021-09-02T14:27:00Z

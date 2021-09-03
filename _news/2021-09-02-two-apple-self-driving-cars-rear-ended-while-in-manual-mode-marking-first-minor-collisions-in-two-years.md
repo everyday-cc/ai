@@ -73,6 +73,22 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Black Lives Matter activist to face trial for driving through California crowd, judge rules"
+    excerpt: "Prosecutors allege that Tatiana Turner deliberately drove through a crowd of counter-protestors, while Turner’s fellow activists say she was surrounded by an angry mob and acted in"
+    publishedDateTime: 2021-09-03T10:31:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 34
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/16x9OCR-L-TURNER-0901-02.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "A secret weapon for self-driving car start-ups - humans"
     excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
     publishedDateTime: 2021-08-30T21:00:00Z

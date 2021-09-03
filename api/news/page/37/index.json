@@ -2,49 +2,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_news/2021-08-06-bc-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software.md",
-      "title": "B.C. privacy watchdog investigating federal Liberals over facial recognition software",
-      "excerpt": "British Columbia’s privacy watchdog is launching an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation today following a complaint from the Canadian Civil Liberties Association.",
-      "sourceUrl": null,
-      "webUrl": "https://cfjctoday.com/2021/08/06/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/",
-      "originalUrl": "https://cfjctoday.com/2021/08/06/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/socast-superdesk/media/20210806160832/610d6427023d160899bbeca6jpeg.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CFJC Today Kamloops",
-        "domain": "cfjctoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-06-meet-the-ai-research-pioneer-who-wants-to-redefine-progress.md",
       "title": "Meet the AI research pioneer who wants to redefine ‘progress’",
       "excerpt": "Name any AI technology, and Dr. Nuria Oliver, of Telefonica and Vodafone, was likely working on it when it still felt like science fiction.",
@@ -1136,6 +1093,39 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-nexperia-receives-bosch-global-supplier-award-for-the-second-time-in-a-row-for-purchasing-of-direct-materials.md",
+      "title": "Nexperia receives Bosch Global Supplier Award for the second time in a row for purchasing of direct materials",
+      "excerpt": "Every two years, Bosch honours its suppliers from around the world with the Bosch Global Supplier Award ... What are the misconceptions about AI in security? Artificial intelligence (AI) is simultaneously an emerging technology, a common term in popular ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
+      "originalUrl": "https://www.sourcesecurity.com/news/nexperia-receives-bosch-global-supplier-award-co-11239-ga-co-1628248062-ga.1628250020.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

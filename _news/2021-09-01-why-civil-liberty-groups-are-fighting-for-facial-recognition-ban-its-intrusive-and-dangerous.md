@@ -41,6 +41,20 @@ related:
         width: 320
         height: 239
         isCached: true
+  - title: "Largs Academy pupils to use facial recognition system"
+    excerpt: "Largs Academy pupils will be able to use facial recognition inside the school. The new technology will be used to buy contactless school meals and all in-school catering purchases. The technology will be launched later this year to replace Parent Pay."
+    publishedDateTime: 2021-09-03T10:12:00Z
+    webUrl: "https://www.largsandmillportnews.com/news/19556675.largs-academy-pupils-use-facial-recognition-system/"
+    type: article
+    provider:
+      name: Largs and Millport Weekly News
+      domain: largsandmillportnews.com
+    quality: 39
+    images:
+      - url: "https://www.largsandmillportnews.com/resources/images/12694389/"
+        width: 2400
+        height: 1596
+        isCached: true
   - title: "S. China’s Shenzhen to increase penalty for illegal installation of cameras, face-recognition systems"
     excerpt: "Shenzhen in South China’s Guangdong Province will increase penalties for illegal installation of cameras and face recognition systems with the maximum fine of 50,000 yuan ($7,732.04) for individual and 200,"
     publishedDateTime: 2021-08-31T02:35:00Z

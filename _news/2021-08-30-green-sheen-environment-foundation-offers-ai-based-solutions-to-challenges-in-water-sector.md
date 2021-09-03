@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/gre
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/green-sheen-environment-foundation-offers-ai-based-solutions-to-challenges-in-water-sector-121083000392_1.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,35 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "The long-tail of AI problems requires hyper-customized solutions, not a silver-bullet"
-    excerpt: "Spending the last decade on AI research and implementation, my observation is that these challenges are inherently specific, differing drastically across companies — even when the AI application ..."
-    publishedDateTime: 2021-08-29T17:52:00Z
-    webUrl: "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/"
-    ampWebUrl: "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/amp/"
+  - title: "Green Sheen Environment Foundation offers AI-based Solution"
+    excerpt: "Green Sheen Environment Foundation GSEF a non-profit organization that focuses on promising technologies like artificial intelligence AI and sensors for su"
+    publishedDateTime: 2021-08-30T06:46:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270935799/green-sheen-environment-foundation-offers-ai-based-solution"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all"
-        width: 1200
-        height: 695
-        isCached: true
-  - title: "The Proliferation of Weaponized Artificial Intelligence"
-    excerpt: "Over the past decade, the growing sophistication of machine learning and AI have allowed these systems to be weaponized with concerning implications for cybersecurity. This has created an arms race between cybersecurity professionals and bad actors that will only get worse,"
-    publishedDateTime: 2021-08-31T12:12:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/the-proliferation-of-weaponized-artificial-intelligence"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 37
     images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/612d70110e28fae22d9adb7b_AdobeStock_233486521.jpeg"
-        width: 1280
-        height: 870
+      - url: "https://cdn.bignewsnetwork.com/ani1630304409.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Popularity of research paper indicates thirst for AI solutions to fight climate change"
+    excerpt: "Artificial intelligence is already demonstrating its climate change chops, for example by analyzing satellite images to better detect and monitor methane leaks from fossil fuel infrastructure."
+    publishedDateTime: 2021-08-30T09:05:00Z
+    webUrl: "https://www.pv-magazine.com/2021/08/30/popularity-of-research-paper-indicates-thirst-for-ai-solutions-to-fight-climate-change/"
+    type: article
+    provider:
+      name: pv magazine International
+      domain: pv-magazine.com
+    quality: 29
+    images:
+      - url: "https://www.pv-magazine.com/wp-content/uploads/2021/08/Changing-IPCC.jpg"
+        width: 1002
+        height: 684
         isCached: true
 
 secured: "1qS373WvxAc28AXLx00zw7eVT9Abr8FHjfLx8YV7VONuSbiLcISyBRtv8jCBdVhCpI9GZLpF7ts/V6xWtS0wxKqr4f9Dq3+DNUoOyvHBS8OHMZvBKUzXB2GUt6nHOXExqnprCXoICNBGaAiK/Dcyo3GhvNvnVJveiOnfLbT5saKboByaxFHUY/ZfhvIMGvtkhtJTjarwxrudpBCMm/E6lu4ajNKZRZ5W16AALW+fnRZS05wqPDhaa6B+lqkJDaMtTALUOC6p1AKWGDZgtXycXJxpK2zEAvx5DWQoKUPvuBlqdVjR67xy+lMgNevJNAJqN0vuf5Ha/k6JfQi8bMeQOpb2vyphSUpbIJ/yY8RNozo=;w0vsO9oKdKcy9q4XJP2L1w=="

@@ -65,6 +65,22 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Black Lives Matter activist to face trial for driving through California crowd, judge rules"
+    excerpt: "Prosecutors allege that Tatiana Turner deliberately drove through a crowd of counter-protestors, while Turner’s fellow activists say she was surrounded by an angry mob and acted in"
+    publishedDateTime: 2021-09-03T10:31:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 34
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/16x9OCR-L-TURNER-0901-02.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Two Apple Self-Driving Cars Rear-Ended While in Manual Mode, Marking First Minor Collisions in Two Years"
     excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
     publishedDateTime: 2021-09-01T19:37:00Z

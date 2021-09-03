@@ -2,39 +2,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_news/2021-08-06-nexperia-receives-bosch-global-supplier-award-for-the-second-time-in-a-row-for-purchasing-of-direct-materials.md",
-      "title": "Nexperia receives Bosch Global Supplier Award for the second time in a row for purchasing of direct materials",
-      "excerpt": "Every two years, Bosch honours its suppliers from around the world with the Bosch Global Supplier Award ... What are the misconceptions about AI in security? Artificial intelligence (AI) is simultaneously an emerging technology, a common term in popular ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
-      "originalUrl": "https://www.sourcesecurity.com/news/nexperia-receives-bosch-global-supplier-award-co-11239-ga-co-1628248062-ga.1628250020.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-06-tag-amazon-web-services.md",
       "title": "Tag: Amazon Web Services",
       "excerpt": "Amazon Web Services just released the findings from the Carbon Reduction Opportunity of Moving to the Cloud for APAC report ... As part of Amazon Web Services (AWS)' Build On, ASEAN 2020 hackathon, the first ever AWS DeepRacer Women's League in ...",
@@ -1123,6 +1090,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-plus-completes-driverless-level-4-semi-truck-highway-demonstration.md",
+      "title": "Plus Completes Driverless Level 4 Semi Truck Highway Demonstration",
+      "excerpt": "The driverless semi truck was operated using ... industry veterans who have extensive experience in high tech and artificial intelligence. Plus is developing low-cost, high-performance full ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210805005392/en/Plus-Completes-Driverless-Level-4-Semi-Truck-Highway-Demonstration",
+      "originalUrl": "https://www.businesswire.com/news/home/20210805005392/en/Plus-Completes-Driverless-Level-4-Semi-Truck-Highway-Demonstration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }
