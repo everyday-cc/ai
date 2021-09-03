@@ -54,7 +54,7 @@ related:
   - title: "Fintech and digital banking searches have been on the rise"
     excerpt: "Four popular fintech brands have seen a surge in Google searches as they’ve gained a foothold in the banking industry."
     publishedDateTime: 2021-08-30T09:02:00Z
-    webUrl: "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519?mod=mw_latestnews"
+    webUrl: "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519"
     type: article
     provider:
       name: MarketWatch

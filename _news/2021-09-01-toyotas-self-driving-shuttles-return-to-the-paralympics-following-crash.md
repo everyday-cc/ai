@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/toyota-resumes-self-driving-e-palette-u
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
 type: article
 quality: 73
-heat: 333
+heat: 313
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/08/30/600x338/Screenshot_2021-07-20_at_2.07.14_PM_1626770282792_1630324372220.png"
         width: 600
         height: 338
-        isCached: true
-  - title: "Toyota halts all self-driving e-Palette vehicles after Olympic Village accident"
-    excerpt: "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually"
-    publishedDateTime: 2021-08-29T19:30:00Z
-    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2021-08-29-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident/"
-    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident/"
-    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident/"
-    type: article
-    provider:
-      name: The Daily Dispatch
-      domain: dispatchlive.co.za
-    quality: 40
-    images:
-      - url: "https://lh3.googleusercontent.com/VmfKs0fHGADYLMZSmfPFzdqKP6VtVWvaVQyNytiMSQtsl3v1Gw7bxLbnSE9ljxTHOQKpqUQLsn9TYFQ_vOXyaTV_3CA--zYJQVw=s1000"
-        width: 1000
-        height: 562
         isCached: true
   - title: "Toyota to resume self driving pods operations with more safety staff"
     excerpt: "Toyota says that the breaks were hit when the athlete was detected by both the operator and the autonomous system."
@@ -319,20 +303,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 23
-  - title: "Toyota grounds self-driving shuttle fleet following collision with Paralympian"
-    excerpt: "Toyota President Akio Toyoda offered an apology to the Paralympian, and then issued a stinging rebuke of autonomous-driving technology."
-    publishedDateTime: 2021-08-29T19:47:00Z
-    webUrl: "https://www.autonews.com/mobility-report/toyota-grounds-self-driving-shuttle-fleet-following-collision-paralympian"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 20
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ToyotaE-MAIN_i.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Toyota restarts self-driving shuttle fleet following collision with Paralympian"
     excerpt: "Toyota President Akio Toyoda offered an apology to the Paralympian, and then issued a stinging rebuke of autonomous-driving technology."
     publishedDateTime: 2021-08-30T11:47:00Z

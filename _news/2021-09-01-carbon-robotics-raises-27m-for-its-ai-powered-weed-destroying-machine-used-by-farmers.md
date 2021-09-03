@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/"
 type: article
 quality: 111
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vic.ai, an AI-powered accounting automation platform, raises $50M"
-    excerpt: "Vic.ai, a startup developing software to automate accounting and financial tasks, has raised $63 million in capital."
-    publishedDateTime: 2021-09-01T12:10:00Z
-    webUrl: "https://venturebeat.com/2021/09/01/vic-ai-an-ai-powered-accounting-automation-platform-raises-50m/"
-    ampWebUrl: "https://venturebeat.com/2021/09/01/vic-ai-an-ai-powered-accounting-automation-platform-raises-50m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/01/vic-ai-an-ai-powered-accounting-automation-platform-raises-50m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Carbon Robotics closes $27M in Series B financing round"
     excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds"
     publishedDateTime: 2021-09-01T17:17:00Z

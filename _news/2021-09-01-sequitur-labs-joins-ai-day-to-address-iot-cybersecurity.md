@@ -47,20 +47,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "The 'Hyperscale SOC' and the Minds Behind It: A Machine-learning Foundation for Effective Cybersecurity"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2021-08-29T21:00:00Z
-    webUrl: "https://www.computerworld.com/resources/223485/the-hyperscale-soc-and-the-minds-behind-it-a-machine-learning-foundation-for-effective-cybersecurity"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 8
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "7ub22iEs/j5Bw3QDBbrGXzgvAKhE6BU54rqQtoj0IL4HFQD9bWkl4j4ka0XGOC0GQB0yvOL71nb15+b+D2a/BfmCUtxQC0XgOoXerNwb82hRCFnn6Ug30C1jPTQoP56wQPdjtD8Z0IObuaXQ20gsfSeZVu6lARNBb7CsOtRxNYhawrHPMoouAGoWcfECibr7HMeAnCxPsvJ7+PtHwh41hJew0lTzvw9tXCuDTaw3g91b+79XteRKvIN/2xOMvZn/93TrTXlxHDtN0C3BfibtskOgmbAAG8L9V2gkzmQWkBOQ85cRy6r/vjQMKXnfP9CLvc10xB5yWOYkTe3GsuCYq9cy+KshlkUqQxB/5ZZroys=;L+JKkpkep8JbsxMjSSAFQg=="
 ---

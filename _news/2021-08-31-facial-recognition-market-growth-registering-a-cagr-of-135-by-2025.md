@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2375485/facial-recognition-market-growth-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Facial Recognition Market Size Growing at 17.23 Percent CAGR, Says SpendEdge"
-    excerpt: "NEW YORK, Aug. 29, 2021 /PRNewswire/ -- The Facial Recognition market will register an incremental spend of about USD 8.23 Billion, growing at a CAGR of 17.23% during the five-year forecast period. A targeted strategic approach to Facial Recognition can ..."
-    publishedDateTime: 2021-08-29T19:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22709845/global-facial-recognition-market-size-growing-at-17-23-percent-cagr-says-spendedge"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22709845"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22709845"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/1602873/SpendEdge_Facial_Recognition_Market_Procurement_Report.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Artificial Intelligence in Market Globally Expected to Drive Growth through 2025"
     excerpt: "A complete research offering of comprehensive analysis of the market share size recent developments and trends can be availed in this latest report by Big Market Research As per the report the Global Artificial Intelligence in Market is anticipated to"
     publishedDateTime: 2021-08-31T08:34:00Z

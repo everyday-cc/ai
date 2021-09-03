@@ -62,20 +62,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "SAP Acquires AI HR Platform"
-    excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
-    publishedDateTime: 2021-08-30T01:46:00Z
-    webUrl: "https://www.datamation.com/applications/sap-acquires-swooptalent-ai-hr-platform/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/SAP-logo.png"
-        width: 1920
-        height: 979
-        isCached: true
   - title: "Decision intelligence AI startup Peak raises $75M"
     excerpt: "Investors have decided to back the “Decision Intelligence” startup Peak AI Ltd. with a new $75 million round of funding. Announced this morning, the Series C round was led by SoftBank Vision Fund 2 and saw participation from all of the company’s existing investors too,"
     publishedDateTime: 2021-08-31T13:00:00Z

@@ -57,7 +57,23 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Researchers develop deep-learning based method to predict onset of Alzheimer’s disease"
+    excerpt: "According to World Health Organisation, Alzheimer's disease is the most frequent cause of dementia, contributing to up to 70 percent of dementia cases. Worldwide, approximately 24 million people are affected,"
+    publishedDateTime: 2021-09-03T12:30:00Z
+    webUrl: "https://www.news-medical.net/news/20210903/Researchers-develop-deep-learning-based-method-to-predict-onset-of-Alzheimere28099s-disease.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210903/Researchers-develop-deep-learning-based-method-to-predict-onset-of-Alzheimere28099s-disease.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210903/Researchers-develop-deep-learning-based-method-to-predict-onset-of-Alzheimere28099s-disease.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
-secured: "0yowC1mceSkhq+pCM4N0rnF2NYH3OUDHNeKCtADj/U2w875ycYJiGABJVrvuE8KJrySuwUixWLkSOY0oHkPobp3iMqcXdgLGJgYvVQZ1E+NOfQkRjcZ6Xbmug46hgfJ0dnyBGRpmc89SWrv0UlZkFaJkuR9D5wkDHP4iNMGS5mCVE/nBPwzhPMTG9qINeHCW7PmiNXvr+MFCfLUznwpRj6XeMKLnj4Ewlrhh5w4tqRyy1Oh7fQOhqdvs+Ogch/cQ8b2u/6rxJX1QdcUpFcsVbFB2kO0FR6qkb3Tv1TLTk66yWr+la0gOHM0nq10dAcD3NC/cX/40H+IE8dV5IvOcxC/3mll5sFeYdXIq3rmQ7as=;ACqbgpfmSh+48ZtjF9n9FA=="
+secured: "bDuI0MCThNd2DSVqDQL6mMJHZcjd7u3asOamzsHfrZrlE+tKeDut3m5hudu/kcmSgRGNs6SvCKoaFnUq7X2lmZgo73OF+AlmFJI8hqe+CqmIZE7MsFYq7W7h5AIppFd+JNKn7R5bCVDpLqH2OZJXNoS8SHSZIxpJzbRv4FWu6IArdoBZt43bBXD6tu/0keOiI/pgrFNB1WFKyPhHBni07w0ecCOEGmky1Y1pYC/6n1xorbN6Q48mRkMgGiT7wdRmKjrH5nle75xLmeu8QhnJyJGYaM1gM0YeER5FRqia9XLC4GpfKnRM1zVT/aNcb2ix1/JsI0ow6lvMh2m6uThJmQnut2Ab559lVD0+swb039OMJM6sDjs2PnIALNo+2wuZpgw9EfrUnedFw1ecekKGaCTBiNm8C2dk2CJ/qnygSuxCBuiP0+RfQt92uANN5fBSccoNhUIfjzjD5KHQ8pQ0m9JBip3rEhZa/+fktvZrQK+Ds0w1vQY6zINOOv8HnkebZz8wCtZ28VOol9YodbKZ9Q==;S4DFP5MaSjUcs4vGWwuZkg=="
 ---
 
