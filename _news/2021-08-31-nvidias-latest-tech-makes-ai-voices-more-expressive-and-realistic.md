@@ -71,7 +71,7 @@ related:
     provider:
       name: aitrends
       domain: aitrends.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3GPUchip-2.jpeg"
         width: 550

@@ -34,20 +34,6 @@ related:
         width: 716
         height: 1002
         isCached: true
-  - title: "How enabling data and AI at scale will transform your organization"
-    excerpt: "CIO’s, CDO’s and other data and technology leaders have realized that their legacy IT platforms are unable to scale and meet the increasing demands for better analytics and AI. As a result, they are looking to transform how their organizations use and ..."
-    publishedDateTime: 2021-08-29T08:32:00Z
-    webUrl: "https://www.computerworld.com/resources/223228/how-enabling-data-and-ai-at-scale-will-transform-your-organization"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
     excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
     publishedDateTime: 2021-08-30T05:50:00Z

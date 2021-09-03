@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-02T23:39:00Z
 originalUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-lead-in-ai-chips-and-is-working-to-stay-there/"
 webUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-lead-in-ai-chips-and-is-working-to-stay-there/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3GPUchip-2.jpeg"
@@ -146,6 +147,6 @@ related:
         height: 536
         isCached: true
 
-secured: "hdDwMP+B0MWxVzixN7Ua1bJIhPo+LN3LztnBnJEm9Tu7tdax85aZQyk+FtKYAjC4mTT3yG2TXEgeJIsjuF2G4+ZG8HUqQltcSnjv03B4k1YIo4sk17VTdoelRiUt6/JXetKi4vc4c9yLaiT1vPWZ6tjcXe23tkbCsUe22X8FIVnWoaWpD/Xk3X5TMUfmLGzeXDKTNceBUo9S/Q9vX0fIlnrlAam0887rICTpRTbvhttaipfrOIt9GRuCDGbZLOSH5gF4b/kCcuF4X8Ycyw/dP7lnsLSKr3DRB3dJQepZSLnoDPdrqaOspiV4DLwY1kXAGYa683D7LThaQn9ukknETtP3G6kwk7NrlUdgNXkznPE=;VAf1wZ9YynCHbifDaiC/Pw=="
+secured: "N/E0InvUs3t1fHv8gW3S6TFcH4U/7fhkCyF5OJ/lSgQTThhA8M3inGMy8uHDj7GwkWtclv/mh8IshI0j/Mqc7+b+HGWTE39SboZHgexF5KoP/hKHQnVoxwF/XylaEbjsGG0xHRaUQZIUUrwDqsYVzg+kfeYLDbDNkKZH81Dmmsn/ZkPA9d3/MyL7jqxHoIjSyks9oa8vRczV7deauGV/8TL4F+IBllITW/t4z6l4QeHnH6Rw3C+0+JAawmjqCq8xDFxfm4J57gx6Af/cwXYdSJ/8LFcrNkVPleM9DgqnZYeu/wz+WFi5OB3mm4q44AWZMCIFhpF3dYhfxzCoBXFhaT4NS1X0zRLkw5brHQsdvfyRxl47XdqeL8UplvF0IYHH4q6mWbXlyBM08tj1kIZHY+0OFsTPpY1lJ9vPkwwUgoLxQMcXqRtUBzT3ySUhbY/wLmJHd1X761gfBmRywZ43hmiW3eZxqDoAKEdif9cAflif3WHNSwnlmWYApehUdSi8578BtMa1EpEwd0x09wp0IA==;280ZNS4R0ugLp5+MDlzLKQ=="
 ---
 

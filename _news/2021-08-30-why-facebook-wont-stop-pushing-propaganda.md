@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Community Standards Enforcement Report, Second Quarter 2021"
+    excerpt: "We know from public health research that people are more likely ... Our investments in AI enable us to detect more kinds of hate speech violations on Facebook and Instagram. This technology helps us enforce our policies across billions of users and ..."
+    publishedDateTime: 2021-09-03T00:50:00Z
+    webUrl: "https://masscentral.com/facebook-community-standards-enforcement-report-second-quarter-2021/"
+    type: article
+    provider:
+      name: Attack
+      domain: masscentral.com
+    quality: 24
+    images:
+      - url: "https://i2.wp.com/masscentral.com/wp-content/uploads/2021/09/facebook-gen-hygbyu.jpg?fit=600%2C450&#038;ssl=1"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Echobox: Remember that Facebook is still driving significant traffic to publisher sites"
     excerpt: "We’ve looked many times in recent months at the increasing friction between publishers and platforms. But for Echobox, a company that helps more than 1,000 publishers in over 100 countries to track and optimise their social media traffic,"
     publishedDateTime: 2021-09-01T15:37:00Z

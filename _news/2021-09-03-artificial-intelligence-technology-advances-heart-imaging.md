@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-02T17:00:00Z
 originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-technology-advances-heart-imaging"
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-technology-advances-heart-imaging"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1094058356.jpg"
