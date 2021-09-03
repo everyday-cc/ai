@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence (AI)s Impact on Business Communication"
+    excerpt: "Even when managers are seeking to assign projects to the right candidates, AI can assist them in comparing the probabilities of best outcomes. That is not all. Employees can also benefit from speech recognition, real-time language translation, and other ..."
+    publishedDateTime: 2021-09-02T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/artificial-intelligence-ais-impact-on-business-communication-nid-8449.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
+        width: 300
+        height: 400
+        isCached: true
 
 secured: "zVG5gGhqT1nePiYkn6OKEomDUQ02pxmU91P7HFyqoLjizoGMoWC0MRnv5OnPsGN/ebBTePdZ9EYoc++wYkjdzF35HmqA4oChyPTHcBbJk8Biwg9euRKDk0JtZ7gmY++R9gqt4F2uXn+AoFsW4CB+BUPMY5Xna+h93fwr9JYtFloVufWTrinndwQxv8sLCzCYpRUhtccfoNLnP8HN52LvE8gkmFlST+oOkWWpxyEXnEWIdIc9pa1u0N+HKuXD1xiaAMCschTz/Fw/JOlfr26KPd+p8quSpyJod6BM//e42a+MHZLYLAu/X8sSuXEJvg9XOtrZXhUajKS/H4EA1XG8VLwwkCKzCGL1qckyOhg3gJc=;W5QS9XzhAfCR4nqqH8bBig=="
 ---

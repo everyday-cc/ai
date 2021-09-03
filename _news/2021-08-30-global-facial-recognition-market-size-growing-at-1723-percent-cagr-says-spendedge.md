@@ -57,22 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
-    excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
-    publishedDateTime: 2021-08-29T09:54:00Z
-    webUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/"
-    ampWebUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Cosmetic-Packaging-Market-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Gesture Recognition Market Size Is Likely To Reach USD 30.6 Billion By 2025. It Is Poised To Post A CAGR Of 22.2% From 2018 To 2025."
     excerpt: "A recent market research report added to repository of Credible Markets is an in depth analysis of Gesture Recognition Market On the basis of historic growth analysis and current scenario of Gesture Recognition Market place the report intends to offer"
     publishedDateTime: 2021-08-31T12:51:00Z
@@ -104,6 +88,6 @@ related:
         height: 450
         isCached: true
 
-secured: "xRNKAIc6ODmzs/RI6CUleKIVTwiXwroxFTZ2gkp6mOx6hFelf1M5kqUNtJwhk4cvqvwzusttjm2nJVXZius3GHOVQtvMO7+JhtRbhPs5LwNU/AJL0bHt/xpPmaQESHh/vp/v1gEyxBiweDFIxABKq6PQj1iShf8iD7DNKEeVVoKBwtPQ6T24yj5CQOL2D9VjJR3aKvDf4E85n9gCOQrpKTc8tzE32aweSlWoopZq6AWx6hvc7xm4EEUpEv85JWF+J96HZI/8nl1QEBxVVTVgQ6PgBciCPJyUoa1lXqDpuLupDa+D4Uza1xzwodlR9X/Yi7VkLXOxNsJl225wsP2z70ektM3aUTvt6MQ3uC6R+J0=;let57QiU1d2cbjpAYQ1lsA=="
+secured: "eZH/Buy6Ypc06hCI8j3W4uHOXtXCUIFjssQtWsehutepSv4lwC3dePY11Q+BCyhT6MzKO9o0/SI7ZlZ4bBhG5rtjkp64lAoNqpW0r2QhukahqokSKY1WiJcUYkWflTBS9lFojL3grArnK7x8B8Oyv6oDu7bjDnTAyGQc3TwDfayotBU6TajyviMpyNJ9Pkqxs6WBNsFONz7JGCMh8PJyYkfOHk9j/G7UO3wFE5RE7FMXvqFw0XqNOTa+a6czGCipqUg4v/aBU9yC/N6Kx9GS1V2aGR3SuLJq2wxeEqEz9mvzZfcbGrZqYuMTL7x7DyvuL+STC5XEvuTBZkB7YpPzlLIjqDLUxR+T5Lgp+fsKQt8+roEVH71ryhXA7GI8StFeHj3toqfkMOZZjleRR9yWPkVPoP67v+iTIO5hKitgawItSOW1qabmFb44TlhjrrqkRBnTAwoEs5JVEPJjAXIHkNmk5ijsBXfJVJcu5+PDaxPaH/+ntESctkJwB8/ifrDtT9XYkyhyWEX4Qh4rtKev/g==;dtoQ1TUoGvR0wJIZACTIIg=="
 ---
 

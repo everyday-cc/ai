@@ -75,17 +75,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "3 top AI stocks to buy right now"
-    excerpt: "While artificial intelligence (AI) has already transformed how many companies work, it is expected to make further advancements that rely on machine learning and deep learning, among other factors. So, we think it could be wise to bet on top AI stocks ..."
-    publishedDateTime: 2021-08-29T09:45:00Z
-    webUrl: "https://www.theladders.com/career-advice/3-top-ai-stocks-to-buy-right-now"
-    ampWebUrl: "https://www.theladders.com/career-advice/3-top-ai-stocks-to-buy-right-now/amp"
-    cdnAmpWebUrl: "https://www-theladders-com.cdn.ampproject.org/c/s/www.theladders.com/career-advice/3-top-ai-stocks-to-buy-right-now/amp"
-    type: article
-    provider:
-      name: TheLadders.com
-      domain: theladders.com
-    quality: 37
   - title: "How Businesses Use AI to Boost Revenue"
     excerpt: "In the era of big data, digitization has enabled the conditions for AI applications to flourish and generate revenue.  Artificial Intelligence is perhaps the most hyped technology of the 21st century,"
     publishedDateTime: 2021-09-01T17:06:00Z

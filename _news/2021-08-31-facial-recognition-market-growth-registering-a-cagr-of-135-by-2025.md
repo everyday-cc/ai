@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2375485/facial-recognition-market-growth-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U831119321_g.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Global Mobile Speech Recognition Software Market 2021 Recent Scope, Growing Popularity and Emerging Trends in the Market"
-    excerpt: "ReportsWeb analysts forecasts the latest report on “Global Mobile Speech Recognition Software Market (Covid-19) Impact and Analysis by 2026”, according to report; The Mobile Speech Recognition Software Market report covers the overall and all ..."
-    publishedDateTime: 2021-08-29T09:54:00Z
-    webUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/"
-    ampWebUrl: "https://manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-mobile-speech-recognition-software-market-2021-swot-analysis-future-growth-covid-19-impact-manufacturers-demands-and-revenue-report-investigated-in-the-latest-research/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Cosmetic-Packaging-Market-390x220.jpg"
-        width: 390
-        height: 220
         isCached: true
   - title: "Global Facial Recognition Market Size Growing at 17.23 Percent CAGR, Says SpendEdge"
     excerpt: "NEW YORK, Aug. 29, 2021 /PRNewswire/ -- The Facial Recognition market will register an incremental spend of about USD 8.23 Billion, growing at a CAGR of 17.23% during the five-year forecast period. A targeted strategic approach to Facial Recognition can ..."

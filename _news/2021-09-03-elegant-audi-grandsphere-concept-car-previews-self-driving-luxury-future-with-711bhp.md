@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Audi Grandsphere self-driving limousine concept says goodbye to display screens"
+    excerpt: "After introducing the Audi skysphere convertible GT concept last month, Audi has continued the range of “sphere” concept cars with the Audi grandsphere"
+    publishedDateTime: 2021-09-03T03:54:00Z
+    webUrl: "https://autobuzz.my/2021/09/03/the-audi-grandsphere-self-driving-limousine-concept-says-goodbye-to-rigid-2d-display-screens/"
+    type: article
+    provider:
+      name: autobuzz.my
+      domain: autobuzz.my
+    quality: 18
+    images:
+      - url: "https://assets.autobuzz.my/wp-content/uploads/2021/09/03100530/2021-Audi-Grandsphere-Concept-1.jpg"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "Audi grandsphere Concept Is a Self-Driving Luxury Sedan With 466 Miles of Electric Range"
     excerpt: "Only a few days away from its debut at the bi-annual 2021 Munich Auto Show (IAA Munich), Audi has revealed its second of three \"sphere\" concept cars: the grandsphere. Described as a \"private jet for the road,"
     publishedDateTime: 2021-09-02T20:01:00Z

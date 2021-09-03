@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/propelling-impact-artificial-intelligence-bu
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: International Business Times
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI)s Impact on Business Communication"
+    excerpt: "Even when managers are seeking to assign projects to the right candidates, AI can assist them in comparing the probabilities of best outcomes. That is not all. Employees can also benefit from speech recognition, real-time language translation, and other ..."
+    publishedDateTime: 2021-09-02T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/artificial-intelligence-ais-impact-on-business-communication-nid-8449.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
+        width: 300
+        height: 400
+        isCached: true
   - title: "How Mars measures the emotional impact of video ads using AI tech"
     excerpt: "A proprietary tool tracks eye and mouth movements so the company behind M&M's and Skittles can gauge whether a campaign is resonating or needs to be tweaked."
     publishedDateTime: 2021-09-01T13:58:00Z

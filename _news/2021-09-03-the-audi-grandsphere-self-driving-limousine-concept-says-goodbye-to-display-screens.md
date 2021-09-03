@@ -1,0 +1,75 @@
+---
+category: news
+title: "The Audi Grandsphere self-driving limousine concept says goodbye to display screens"
+excerpt: "After introducing the Audi skysphere convertible GT concept last month, Audi has continued the range of “sphere” concept cars with the Audi grandsphere"
+publishedDateTime: 2021-09-03T03:54:00Z
+originalUrl: "https://autobuzz.my/2021/09/03/the-audi-grandsphere-self-driving-limousine-concept-says-goodbye-to-rigid-2d-display-screens/"
+webUrl: "https://autobuzz.my/2021/09/03/the-audi-grandsphere-self-driving-limousine-concept-says-goodbye-to-rigid-2d-display-screens/"
+type: article
+quality: 18
+heat: -1
+published: false
+
+provider:
+  name: autobuzz.my
+  domain: autobuzz.my
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://assets.autobuzz.my/wp-content/uploads/2021/09/03100530/2021-Audi-Grandsphere-Concept-1.jpg"
+    width: 1400
+    height: 788
+    isCached: true
+
+related:
+  - title: "Elegant Audi Grandsphere concept car previews self-driving luxury future, with 711bhp"
+    excerpt: "AUDI has taken the wraps off its Grandsphere concept car, a second glimpse at how the future of autonomous driving could look, after the recent Skysphere, in a trio of sphere-themed design studies being shown this year."
+    publishedDateTime: 2021-09-02T17:27:00Z
+    webUrl: "https://www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/"
+    ampWebUrl: "https://www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 37
+    images:
+      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/Audiconcept-06-1024x638.jpg"
+        width: 1024
+        height: 638
+        isCached: true
+  - title: "Audi self-driving concept car: lounge seats, drinks cooler, more"
+    excerpt: "The Audi Grandsphere is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
+    publishedDateTime: 2021-09-02T20:17:00Z
+    webUrl: "https://www.wishtv.com/news/business/audi-self-driving-concept-car-lounge-seats-drinks-cooler-more/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 24
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2021/09/BACKGROUND-audi-concept-self-driving-car.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Audi grandsphere Concept Is a Self-Driving Luxury Sedan With 466 Miles of Electric Range"
+    excerpt: "Only a few days away from its debut at the bi-annual 2021 Munich Auto Show (IAA Munich), Audi has revealed its second of three \"sphere\" concept cars: the grandsphere. Described as a \"private jet for the road,"
+    publishedDateTime: 2021-09-02T20:01:00Z
+    webUrl: "https://www.autoevolution.com/news/audi-grandsphere-concept-is-a-self-driving-luxury-sedan-with-466-miles-of-electric-range-168578.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 15
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/audi-grandsphere-concept-is-a-self-driving-luxury-sedan-with-466-miles-of-electric-range-168578-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+
+secured: "msCdBy7bs/+1IYhkjXle5yY0NQHObxSlXGYVTH2jthmlYMnTIFiDu2JOJpFXyf/xgoWGBiIzlJppZH3k5tOR8Ew7YCzoG6DBai+0u8d4qmwvfHuY/j8ajkAHguB4I2GIVrG5jENN/aTRO65cW0A2iZhi0EHAGr25hXnpMVAM7/qi/oo0p8d1WNxjyHMFH6DtoUfL2GtQzSdpB6r2GMlQqqS/hu0SLuJqYzqQNlArgO3TAOXvck7HkRSOJOWx2TVm/u+/a4QGH2VdtmXdL6tiq/roHL3/6N16tTi1QsmujXKpI/yfmH+anSiXqQPi+u8xonfoqAHv4sauAezgMCqvAWFisfXma+aqlQvAo8Re6eg=;Z7HNcLQO7b/IfqmieBD2EQ=="
+---
+
