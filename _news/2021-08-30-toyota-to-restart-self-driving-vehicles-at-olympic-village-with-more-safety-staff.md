@@ -119,6 +119,22 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Manitoba seeks the public's input for testing self-driving cars"
+    excerpt: "Having authorized testing of self-driving vehicles on its roads, Manitoba is now asking the public for its input as it lays the groundwork for the program. Manitoba introduced its Vehicle Technology Testing Act in 2020,"
+    publishedDateTime: 2021-09-01T15:15:00Z
+    webUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars"
+    ampWebUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Toyota to resume self-driving e-Palette vehicle operations at Olympic village"
     excerpt: "A Toyota self-driving e-Palette vehicle had last week collided with and injured a visually impaired pedestrian at the Olympic village..Toyota says it is cooperating with a local police investigation to determine the exact cause of the accident."
     publishedDateTime: 2021-08-30T12:24:00Z
@@ -165,21 +181,21 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Toyota shuts down self-driving vehicles after car crashes into Paralympian at Tokyo Olympic Village"
-    excerpt: "A day after a self-driving vehicle hit a visually impaired athlete at the Paralympics, Toyota has paused the program entirely. The Toyota e-Palette struck the athlete, identified by the Japan Times as 30-year-old judoka Aramitsu Kitazono, as he was ..."
-    publishedDateTime: 2021-08-29T15:32:00Z
-    webUrl: "https://www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/world/ny-toyota-self-driving-car-tokyo-olympic-village-paralympics-20210829-r2zdaidxnvauhg5zxqklrpsgmu-story.html?outputType=amp"
+  - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
+    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
+    publishedDateTime: 2021-09-01T19:37:00Z
+    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
+    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 30
+      name: MacRumors
+      domain: macrumors.com
+    quality: 38
     images:
-      - url: "https://www.nydailynews.com/resizer/t3meB-pkdJa2aVSf8_QunQYnAsQ=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3QBF6J4NHVC25NG5U6WDULKUBY.jpg"
-        width: 1200
-        height: 800
+      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
+        width: 1600
+        height: 1042
         isCached: true
   - title: "Toyota self-driving bus throws a Paralympic judo expert"
     excerpt: "Company said it was a little overconfident – the bus not the competitor \"Toyota has apologised for the 'overconfidence' of a self-driving bus,\" after the slow-moving bus managed to hit a Paralympic judo expert."

@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Fundamentals, not fiction: This fund wants to help startups scale with AI"
+    excerpt: "By leveraging Liquidity’s proprietary AI-powered data integration tool, the debt fund offers an alternative funding solution that could rewrite how corporate credit works. To find out more about how Mars Growth Capital can help your startup access ..."
+    publishedDateTime: 2021-09-03T06:24:00Z
+    webUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-703566"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 46
+
 secured: "Ccciho3PUxI4mTGeoMj1IT3Hm0L0YFiwl902TtAz4fY33HUBAPjhuB+QJw575DoawDyprWu4DoZ9HQ7UXmggkJ+1A0VIr0iHEP8LScp1+u5o01yUk5ggQ3UP19iFq0gIEYakn1egUsQqx8Ag3o0sy3HDqGpk+QRJ6TglwLN/TS7RVhp1h38rfPZobCKW4W/YiOOYKlqH6pghr+fUPtYuukVb3/qZVhLs8HwrVBu/FSwqQvmEQQa4DsnKHlV+k7oPEZDGUwZ5v/dvnc4wog99h/vs4D93ZZ74Pf/aL+LtKt5jow7wq2f9ZEfIDYa9k0aPSDzCW46eZL5qcoUZoz26raOvI9v9VL8TcYJMoJoXa/1wXUPTpCpuOEvSeGc80f7LZq9uM/3IVYWadiZu4Qmmaz2d2Wh+9X7oB03ua30tCwdQwnPlMAjhZ1ItTRfi6CYR33yne9vDToG6oISu+qdVv3M22LU4XU5X63V1XW3KbfuxxyJO3fJAq8iMm1SS+Y/QOx+atz2XmYfgYsEJbywwYw==;9v9wd2VUETgr/bhZaB8zcg=="
 ---
 

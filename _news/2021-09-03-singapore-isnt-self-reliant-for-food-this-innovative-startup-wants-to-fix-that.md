@@ -3,8 +3,8 @@ category: news
 title: "Singapore isn’t self-reliant for food. This innovative startup wants to fix that"
 excerpt: "When David Tan started Netatech 13 years ago, he realized that Singapore was not self-reliant when it came to food production, with farms in the city-state supplying less than 10% of the population’s food requirements."
 publishedDateTime: 2021-09-03T06:15:00Z
-originalUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovative-startup-fix?ref=recommender-705576"
-webUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovative-startup-fix?ref=recommender-705576"
+originalUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovative-startup-fix?ref=recommender-704873"
+webUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovative-startup-fix?ref=recommender-704873"
 type: article
 quality: 27
 heat: -1
@@ -60,6 +60,6 @@ related:
         height: 828
         isCached: true
 
-secured: "XXJlHuScJ+MV+sa4I5mWEEm0VRILem95LVMWAsqxGz2IjHsTicmmZhcK5eoGHTJVwGVmOQSoTeSft4vr+xBfIv804OVdoIzPxVdZYSigtM3cAvyEQCrdLMDsxWdFdFcXaZN0H02YZDaBUNX3CIf/jAqrTjSAdUWfZSfZPUHuKnRWdns8hGHgM588gTR+nR0vp4WBgxlAGlgnDIFclykwjYgQ59arZeE19bZMAG87UIZdhzRUeWqABcF5IObjmGs5BqSUK3+FotDRYN6Suu1DHeLfdn9S5COakmaDvhTY8duAcKXVY24mRxUpjFBN2G2LW82eyORaZtxyc0YerKVUak/byyAfyvru2NGKc0SFR/l3OT0uTXhYD7Th7XY3FKumoznWMfSpk+tg2RT2rpDVHfTNgZtIBzGXLL0iUK7OjRnFf5RB6t0czt7hz4FFYIWLdDZ3eOyYTob0eildaZjbGHXD7Ng1c17tR9iK57MGfcGvJcND8qnsVYwFkHzpfv15VyKqxvO3e5fZUa09gzqqOw==;/zofca32zSBoSXm7VHTapQ=="
+secured: "wqm7k7sIjZQG2IIe3r0QF4FuRW1QTjaYmkSYTC51fHNcK+9m8VUKlqpxB2xNIGGPWr3eAcRlyOZKrWL4UdTlAbN3Os37gEswrfeTrMfruxGKMw5XSpX8zjjdYsGwLEaz0GgRhfyuHtqHzFH13Ql7mIIkIzq114ctwJ1J5SDOeqSK3WadBu5/qyvBgiXzGgTnuABU7XpqsgQCgo4oheLi7iuQzdiYrZ/NUe7KEICTZzzb/4tTAsB+xUk5CjyA9YfUAsabzIkpbWRewF4ZHqmAhI2Kc6+kQFWgdPBqNQZj/HBiTVtBvRIkiRQP7qXup1GjQocQ5cB2p93GaA7FDA/CDnSLZshoxMXl48XWvirzIplgvb/+PI70pLbTJ6ryGTKtPPbcC1qlZoCuZir1xTUOnnpkbCcHkF3ao+0CPTqJEh2L3Z/Lw8hj6kPAahVAISY3xoHZhD8kBoqrOwBz21KX7jP9y3K32gws7LWxR67Xf8K33ekC4T2zMTari5WKDS+3jdSMn+2hTQOPNJ2tRRnxgA==;L19vKPWd/puWU18lZcGlVA=="
 ---
 

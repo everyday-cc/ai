@@ -41,19 +41,19 @@ related:
         width: 1024
         height: 638
         isCached: true
-  - title: "Audi self-driving concept car: lounge seats, drinks cooler, more"
-    excerpt: "The Audi Grandsphere is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
-    publishedDateTime: 2021-09-02T20:17:00Z
-    webUrl: "https://www.wishtv.com/news/business/audi-self-driving-concept-car-lounge-seats-drinks-cooler-more/"
+  - title: "Audi's self-driving concept car makes the front seats first class"
+    excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker's idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
+    publishedDateTime: 2021-09-02T22:15:00Z
+    webUrl: "https://www.waaytv.com/content/news/575232202.html"
     type: article
     provider:
-      name: WISHTV8
-      domain: wishtv.com
+      name: WAAY-TV
+      domain: waaytv.com
     quality: 24
     images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2021/09/BACKGROUND-audi-concept-self-driving-car.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902101633-audi-grandsphere-concept-car-live-video.jpg"
+        width: 576
+        height: 324
         isCached: true
   - title: "Audi grandsphere Concept Is a Self-Driving Luxury Sedan With 466 Miles of Electric Range"
     excerpt: "Only a few days away from its debut at the bi-annual 2021 Munich Auto Show (IAA Munich), Audi has revealed its second of three \"sphere\" concept cars: the grandsphere. Described as a \"private jet for the road,"

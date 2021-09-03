@@ -25,50 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Elegant Audi Grandsphere concept car previews self-driving luxury future, with 711bhp"
-    excerpt: "AUDI has taken the wraps off its Grandsphere concept car, a second glimpse at how the future of autonomous driving could look, after the recent Skysphere, in a trio of sphere-themed design studies being shown this year."
-    publishedDateTime: 2021-09-02T17:27:00Z
-    webUrl: "https://www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/"
-    ampWebUrl: "https://www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/amp/"
+  - title: "A secret weapon for self-driving car start-ups — humans"
+    excerpt: "Self-driving start-ups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature — human operators. While there is no driver behind the wheel, the passenger seat is occupied ..."
+    publishedDateTime: 2021-08-29T19:35:00Z
+    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
+    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
+    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
     type: article
     provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 37
+      name: The Daily Dispatch
+      domain: dispatchlive.co.za
+    quality: 44
     images:
-      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/Audiconcept-06-1024x638.jpg"
-        width: 1024
-        height: 638
+      - url: "https://lh3.googleusercontent.com/RBxm5pwg7FlRW0ZRr5l9jQtr_kX9vAf9DXWWl6-xC8bWd9LnWmrSVCuKJKIzghcfs-j6usLRb39XqP-pL0CuviFjiDTVdPLIDm8=s1000"
+        width: 1000
+        height: 562
         isCached: true
-  - title: "The Audi Grandsphere self-driving limousine concept says goodbye to display screens"
-    excerpt: "After introducing the Audi skysphere convertible GT concept last month, Audi has continued the range of “sphere” concept cars with the Audi grandsphere"
-    publishedDateTime: 2021-09-03T03:54:00Z
-    webUrl: "https://autobuzz.my/2021/09/03/the-audi-grandsphere-self-driving-limousine-concept-says-goodbye-to-rigid-2d-display-screens/"
+  - title: "China’s auto industry urges standardised self-driving claims"
+    excerpt: "Drivers, auto company executives and academics in China are calling for clearer industry standards in the marketing of vehicles with driver assist functions after a fatal accident involving the technology sparked a new round of concern over whether motorists are being misled about its capabilities."
+    publishedDateTime: 2021-08-30T05:35:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/08/30/chinas-auto-industry-urges-standardised-self-driving-claims/"
     type: article
     provider:
-      name: autobuzz.my
-      domain: autobuzz.my
-    quality: 18
-    images:
-      - url: "https://assets.autobuzz.my/wp-content/uploads/2021/09/03100530/2021-Audi-Grandsphere-Concept-1.jpg"
-        width: 1400
-        height: 788
-        isCached: true
-  - title: "Audi grandsphere Concept Is a Self-Driving Luxury Sedan With 466 Miles of Electric Range"
-    excerpt: "Only a few days away from its debut at the bi-annual 2021 Munich Auto Show (IAA Munich), Audi has revealed its second of three \"sphere\" concept cars: the grandsphere. Described as a \"private jet for the road,"
-    publishedDateTime: 2021-09-02T20:01:00Z
-    webUrl: "https://www.autoevolution.com/news/audi-grandsphere-concept-is-a-self-driving-luxury-sedan-with-466-miles-of-electric-range-168578.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 15
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/audi-grandsphere-concept-is-a-self-driving-luxury-sedan-with-466-miles-of-electric-range-168578-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "EKQSATXzJuXuxusk86oc8rUBTHzYO6Wop6pfJd2vtMybscvkS0bFjfE4VUafN41w1ofZyShQ0P5yfbnL7rJrjyXaVqdvZPuU49FBrmQ75xIWBbjDnPgV8kzmI5XEfiD8GNv5cKl6a+TyfrPp9Dug6w8wnXs0cD+Oeb7XcpjQQJw18FCfHHPUQVyxqTWZzwOb3S/3yszI6mBTM+zkmLajj3xhe7L2fLfi88uobqH20+xY/vky7vVF3WHQ9pO+hSfl6vceaDJk6jKgR/WXdFIrwdffGJozkLNSE8w6q5TDQlmYEK1RV0+lV20Or2tdQ8aRta8bFTUGkLy7+dm18oeSYjOQn+IbDXUo/flXFwYpRpODwGoggBF29hg60OyQMtMKjUs+mShMdmeJgt5le81jqTriOqd0LHjD9LP9pcQehkXFLYcIVX6PFFYPMMs2PDAbNFe9sz+g+DvP8MRHcCckK7YmWAf5Gx9JtFItOWqEZj2cuG8bwzfcbrQVzhvxdZ2OOlW0AAhypeiGIOi6nyUNug==;MqNuzkgYosv/XWTGI8neJg=="
 ---

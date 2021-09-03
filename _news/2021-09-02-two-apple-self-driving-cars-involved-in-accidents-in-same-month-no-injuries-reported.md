@@ -71,6 +71,22 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Two Apple Self-Driving Cars Rear-Ended While in Manual Mode, Marking First Minor Collisions in Two Years"
+    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
+    publishedDateTime: 2021-09-01T19:37:00Z
+    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
+    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 27
+    images:
+      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
+        width: 1600
+        height: 1042
+        isCached: true
   - title: "A secret weapon for self-driving car start-ups - humans"
     excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
     publishedDateTime: 2021-08-30T21:00:00Z
@@ -113,6 +129,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Will self-driving cars cause driving to be illegal?"
+    excerpt: "In an opinion that may not be popular among the masses, IDTechEx’s new data forecasts that by 2040, self-driving cars will be capable of fulfilling mobility worldwide without accidents. By 2050, manual driving could be outlawed."
+    publishedDateTime: 2021-09-01T12:38:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17134/will-self-driving-cars-cause-driving-to-be-illegal"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "/NnktdWbepFcY8mWU63jDe5Bs8r7v8VbD+71KD/6rJNT8SpkcDc4mr+jmbRXmARMtqcv9sPNXBnD/wUqANrcSX0R/c8ri8KhXyPUlG9ztIezY3VBoo19hk8p5J4D/4OvBmwrIAVUjD0FpxXyUWwprpoCtZ/ik0TIyBNVe2zpwylS9jCNlHkbuo9GMwS0rawQLWoK+bqE0Z0tiK03Zo9tzyQw2wguxGndgf87v0HWGjh3WVB/yARQM93sM5OeHHq/JuxypOGixXccSvo7t5xxO7Qk+zB8JO2hxLWnNN9MdedELpYxMU1DtYNZSc88nDB9r2AjbADweLPcbzm3flIv8sDOgevXsQx7GUPDBhTJwkMbCiDp0YXIWevlkcmgdCHzdoy18x9W6L7VnWzyyjMOOU5sqMp38v3TbytDItX1QyJdONoBXgkeEGUJCgYFRtV/SL/LinYC2mFiQOJ/XRDwDZDLU7KgeZqNdlJjVysP1FCymmxQJJaE0sq3Z8n7QpuYAPjCKihN8OOhlk2I/ZPJcw==;zTkrng076FA2iCzbtFpHYg=="
 ---

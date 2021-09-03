@@ -19,85 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "Qualms About Touting Those Neophyte Testimonials By First-Time Riders In AI Self-Driving Car Tryouts"
-    excerpt: "To clarify, for true self-driving cars there isn’t a human driver at the wheel and instead, an AI-based driving system is undertaking the entirety of the driving chore. These alleged off-the-cuff testimonials are usually by first-time riders in self ..."
-    publishedDateTime: 2021-08-29T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
+  - title: "Apple self-driving cars were involved in two accidents last month in California"
+    excerpt: "Apple has been working on its self-driving car technology and the Cupertino-based tech giant was recently in the news related to efforts in forming partnerships with automakers for the Apple Car, but nothing has been materialized yet."
+    publishedDateTime: 2021-09-02T01:20:00Z
+    webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032b1c370eb42256c4691a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D72%26cropY2%3D877"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "What the feds’ investigation into Tesla’s Autopilot means for future of self-driving cars"
-    excerpt: "In addition to its Autopilot capabilities, Tesla has been offering what it calls “full self-driving” features that include autopark and auto lane change. Since its first offering of the Autopilot system and other self-driving features, Tesla has ..."
-    publishedDateTime: 2021-08-29T19:56:00Z
-    webUrl: "https://www.krqe.com/news/business/what-the-feds-investigation-into-teslas-autopilot-means-for-future-of-self-driving-cars/"
-    ampWebUrl: "https://www.krqe.com/news/business/what-the-feds-investigation-into-teslas-autopilot-means-for-future-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/business/what-the-feds-investigation-into-teslas-autopilot-means-for-future-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: KRQE
-      domain: krqe.com
+      name: Gizmochina
+      domain: gizmochina.com
     quality: 50
     images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/08/AP20079851214157.jpg?w=1280"
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/09/Apple-Self-Driving-Car-Testing.jpeg"
         width: 1280
-        height: 827
+        height: 720
         isCached: true
-  - title: "A secret weapon for self-driving car start-ups — humans"
-    excerpt: "Self-driving start-ups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature — human operators. While there is no driver behind the wheel, the passenger seat is occupied ..."
-    publishedDateTime: 2021-08-29T19:35:00Z
-    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
-    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
-    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
+  - title: "This Lidar Maker Could Win Big—and It Doesn’t Involve Self-Driving Cars"
+    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
+    publishedDateTime: 2021-09-01T15:33:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-maker-aeva-technologies-nikon-51630453396"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
     type: article
     provider:
-      name: The Daily Dispatch
-      domain: dispatchlive.co.za
+      name: Barron's
+      domain: barrons.com
     quality: 44
     images:
-      - url: "https://lh3.googleusercontent.com/RBxm5pwg7FlRW0ZRr5l9jQtr_kX9vAf9DXWWl6-xC8bWd9LnWmrSVCuKJKIzghcfs-j6usLRb39XqP-pL0CuviFjiDTVdPLIDm8=s1000"
-        width: 1000
-        height: 562
+      - url: "https://images.barrons.com/im-393971/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Manitoba seeks the public's input for testing self-driving cars"
-    excerpt: "Having authorized testing of self-driving vehicles on its roads, Manitoba is now asking the public for its input as it lays the groundwork for the program. Manitoba introduced its Vehicle Technology Testing Act in 2020,"
-    publishedDateTime: 2021-09-01T15:15:00Z
-    webUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars"
-    ampWebUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
+  - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
+    excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
+    publishedDateTime: 2021-09-01T20:35:00Z
+    webUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august"
+    ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
     type: article
     provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 44
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 41
     images:
-      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
-    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
-    publishedDateTime: 2021-09-01T19:37:00Z
-    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
-    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 38
-    images:
-      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
-        width: 1600
-        height: 1042
+      - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
+        width: 870
+        height: 485
         isCached: true
   - title: "Two Apple Self-Driving Cars Rear-Ended While in Manual Mode, Marking First Minor Collisions in Two Years"
     excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
@@ -115,19 +81,61 @@ related:
         width: 1600
         height: 1042
         isCached: true
-  - title: "Audi's self-driving concept car makes the front seats first class"
-    excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker's idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
-    publishedDateTime: 2021-09-02T22:15:00Z
-    webUrl: "https://www.waaytv.com/content/news/575232202.html"
+  - title: "A secret weapon for self-driving car start-ups - humans"
+    excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
+    publishedDateTime: 2021-08-30T21:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/a-secret-weapon-for-self-driving-car-start-ups-humans"
     type: article
     provider:
-      name: WAAY-TV
-      domain: waaytv.com
+      name: The Straits Times
+      domain: straitstimes.com
     quality: 24
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902101633-audi-grandsphere-concept-car-live-video.jpg"
-        width: 576
-        height: 324
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/30/mi_selfdrive_300821.jpg?itok=OUMWk11o"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Apple self-driving cars involved in two recent accidents"
+    excerpt: "Self-driving prototype cars from Apple were involved in road traffic accidents, but it wasn't the technology that was at fault"
+    publishedDateTime: 2021-09-02T12:49:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/apple-self-driving-cars-involved-two-recent-accidents/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 24
+    images:
+      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2020/12/Apple.jpg"
+        width: 1440
+        height: 897
+        isCached: true
+  - title: "Two Apple Self-Driving Cars Involved in Accidents in Same Month, No Injuries Reported"
+    excerpt: "Testing a ground-breaking technology on a car involves many risks, which the Cupertino-based tech giant was willing to take, but this was unexpected."
+    publishedDateTime: 2021-09-01T19:57:00Z
+    webUrl: "https://www.autoevolution.com/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 17
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Apple Inc. (NASDAQ:AAPL), NIO Inc. (NYSE:NIO) – 2 Apple Self-Driving Cars Said To Be Involved In Accidents Last Month"
+    excerpt: "Two of Apple Inc.’s (NASDAQ: AAPL) self-driving cars were involved in minor collisions in August, according to a report by MacRumors that cited data from the California Department of Motor Vehicles. What Happened: The first accident took place in San Diego on Aug."
+    publishedDateTime: 2021-09-02T11:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_apple-stock/apple-inc-nasdaqaapl-nio-inc-nysenio-2-apple-self-driving-cars-said-to-be-involved-in-accidents-last-month/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 16
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/alexandr-bormotin-ntmu8vcwqe0-unsplash_1_1.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NhwT5E6q0erOvJF0GZ8V3K7xNN0xUjiV0unHv0SgPvfI4lr1YibKbzZtvd3L6vI7nbEwwY56R1zVIDHWla6zg3YUHO4D37hZY9rsigm+IieMfpyNq5cDtC3ohdan3Exdx/2H8C//+4O9Kk0C8GfJb6EWM8ZW+QUoFDQdhq0DFB08Rv+mamlJbJXOGfuVLsqNSZLt/6Mg5u+vSiwBuHG0JVuefidoSgNU0rdIHKMtwePbQau+nzDp08Qhmx9sWnzE0WekNV3j/WTlmI7443Rip8GfkIxvYiwY60NJKm4Pp8HC7km4/UyD7Anz7pkJ3k/xwGTRTnv0aYJ6NCJxdBvp7jC9NWP/X4stGBMUB7pGfOg=;263gniLUelLd9lmInpbuaQ=="

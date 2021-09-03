@@ -41,22 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "This legal writing startup is using AI to spot misrepresentations in litigation docs"
-    excerpt: "Clearbrief is attracting more investor interest for its AI-powered software that gives legal professionals a way to automatically spot misrepresentations in litigation documents."
-    publishedDateTime: 2021-08-29T15:05:00Z
-    webUrl: "https://www.geekwire.com/2021/legal-writing-startup-using-ai-spot-misrepresentations-litigation-docs/"
-    ampWebUrl: "https://www.geekwire.com/2021/legal-writing-startup-using-ai-spot-misrepresentations-litigation-docs/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/legal-writing-startup-using-ai-spot-misrepresentations-litigation-docs/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 80
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-26-at-7.47.44-AM-630x316.png"
-        width: 630
-        height: 316
-        isCached: true
   - title: "AI in Online Advertising Market"
     excerpt: "The Global AI in Online Advertising Market Report is presented in a clear and concise way to help you understand market structure and dynamics. Recent trends, developments and opportunities ..."
     publishedDateTime: 2021-08-31T12:19:00Z

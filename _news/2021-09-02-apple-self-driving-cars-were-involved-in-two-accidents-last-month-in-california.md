@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accid
 webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
 type: article
 quality: 50
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
         width: 870
         height: 485
+        isCached: true
+  - title: "Two Apple Self-Driving Cars Rear-Ended While in Manual Mode, Marking First Minor Collisions in Two Years"
+    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
+    publishedDateTime: 2021-09-01T19:37:00Z
+    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
+    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 27
+    images:
+      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
+        width: 1600
+        height: 1042
         isCached: true
   - title: "A secret weapon for self-driving car start-ups - humans"
     excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
@@ -117,6 +133,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Will self-driving cars cause driving to be illegal?"
+    excerpt: "In an opinion that may not be popular among the masses, IDTechEx’s new data forecasts that by 2040, self-driving cars will be capable of fulfilling mobility worldwide without accidents. By 2050, manual driving could be outlawed."
+    publishedDateTime: 2021-09-01T12:38:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17134/will-self-driving-cars-cause-driving-to-be-illegal"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "uyLXtF+GoN2ZJkQk+TYHy4LgOWuMG1xN1V1nYdYGM5t/8GQ6nl1v/E2ZNZZZVnHTMCR57LnLDTbd/1wvr2cTcOfFfSFMSj694ckkae50yf2gNbQuLZ0BOBSDmpPevILW5eSCZw36JURZ/00LYaOVsiGd0G80XLrWzrFbIohmmy6p0QXYoxJe+iyTupi2Iuu6S6KrTsXBAK9Z4hnNVYSpTmrpZfZI08CWz4zOzNWlhQoXfnjBTozYBvLNQfkriWYkrlfc+2v638Vg/YibRmXD30pdWHeElMuLMKNCtA77oVtUuPJwXjcLoXba2G4HXY/m73V/0/T3cfp91KLUcsGMyh8RO3nVbHQ/zQ/C9J557TK+S5/y/TmB5T3mHdbKYYgdbozXu+xSrA3Jr8JmZ5x16h7EvCLDn2ekDECSrfwhBTg3g/AXn7BM3KTllBGh0X/gnTzJHJDiZ4602DO8ohWhyJWXUxuO2GSg/Kj8zelMmfZSJsmTK9QH+Tw7xx0YRcqZlJzo59CRsB8mlNzRNfSKVA==;KOi1ZFT24bHNdLdx30cm8A=="
 ---

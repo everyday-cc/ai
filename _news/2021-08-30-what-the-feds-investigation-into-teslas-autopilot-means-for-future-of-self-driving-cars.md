@@ -27,109 +27,75 @@ images:
     isCached: true
 
 related:
-  - title: "Qualms About Touting Those Neophyte Testimonials By First-Time Riders In AI Self-Driving Car Tryouts"
-    excerpt: "To clarify, for true self-driving cars there isn’t a human driver at the wheel and instead, an AI-based driving system is undertaking the entirety of the driving chore. These alleged off-the-cuff testimonials are usually by first-time riders in self ..."
-    publishedDateTime: 2021-08-29T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/"
+  - title: "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive."
+    excerpt: "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve."
+    publishedDateTime: 2021-08-30T22:00:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Barron's
+      domain: barrons.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032b1c370eb42256c4691a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D72%26cropY2%3D877"
-        width: 1200
-        height: 676
+      - url: "https://images.barrons.com/im-386041/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "A secret weapon for self-driving car start-ups — humans"
-    excerpt: "Self-driving start-ups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature — human operators. While there is no driver behind the wheel, the passenger seat is occupied ..."
-    publishedDateTime: 2021-08-29T19:35:00Z
-    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
-    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
-    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2021-08-29-a-secret-weapon-for-self-driving-car-start-ups-humans/"
+  - title: "Special Report-How the Chinese Tycoon Driving Volvo Plans to Tackle Tesla"
+    excerpt: "REUTERS/Aly Song Reuters HANGZHOU, China (Reuters) - \"Do you know how big Volvo is?\" asked Don Leclair, finance chief at Ford Motor Co.. It was 2008, and Leclair was responding to an offer from a little-known Chinese businessman to purchase the Swedish carmaker,"
+    publishedDateTime: 2021-09-02T11:54:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-09-02/special-report-how-the-chinese-tycoon-driving-volvo-plans-to-tackle-tesla"
     type: article
     provider:
-      name: The Daily Dispatch
-      domain: dispatchlive.co.za
-    quality: 44
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
+  - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
+    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
+    publishedDateTime: 2021-09-01T09:00:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 41
     images:
-      - url: "https://lh3.googleusercontent.com/RBxm5pwg7FlRW0ZRr5l9jQtr_kX9vAf9DXWWl6-xC8bWd9LnWmrSVCuKJKIzghcfs-j6usLRb39XqP-pL0CuviFjiDTVdPLIDm8=s1000"
-        width: 1000
-        height: 562
+      - url: "https://images.barrons.com/im-393971/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Manitoba seeks the public's input for testing self-driving cars"
-    excerpt: "Having authorized testing of self-driving vehicles on its roads, Manitoba is now asking the public for its input as it lays the groundwork for the program. Manitoba introduced its Vehicle Technology Testing Act in 2020,"
-    publishedDateTime: 2021-09-01T15:15:00Z
-    webUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars"
-    ampWebUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
+  - title: "The US to investigate increased self-driving Tesla-related incidents"
+    excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
+    publishedDateTime: 2021-09-02T16:43:00Z
+    webUrl: "https://www.electropages.com/blog/2021/09/us-investigate-increased-self-driving-tesla-related-incidents"
     type: article
     provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 44
+      name: Electropages
+      domain: electropages.com
+    quality: 39
     images:
-      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
+        width: 350
+        height: 240
         isCached: true
-  - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
-    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
-    publishedDateTime: 2021-09-01T19:37:00Z
-    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
-    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+  - title: "Passengers want self-driving cars to be like them"
+    excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
+    publishedDateTime: 2021-08-31T07:12:00Z
+    webUrl: "https://gadget.co.za/passengers-want-self-driving-cars-to-be-like-them/"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 38
-    images:
-      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
-        width: 1600
-        height: 1042
-        isCached: true
-  - title: "Two Apple Self-Driving Cars Rear-Ended While in Manual Mode, Marking First Minor Collisions in Two Years"
-    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
-    publishedDateTime: 2021-09-01T19:37:00Z
-    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
-    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 27
-    images:
-      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
-        width: 1600
-        height: 1042
-        isCached: true
-  - title: "Audi's self-driving concept car makes the front seats first class"
-    excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker's idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
-    publishedDateTime: 2021-09-02T22:15:00Z
-    webUrl: "https://www.waaytv.com/content/news/575232202.html"
-    type: article
-    provider:
-      name: WAAY-TV
-      domain: waaytv.com
+      name: gadget.co.za
+      domain: gadget.co.za
     quality: 24
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902101633-audi-grandsphere-concept-car-live-video.jpg"
-        width: 576
-        height: 324
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/08/self-driving-car.jpg?resize=600%2C332&#038;ssl=1"
+        width: 600
+        height: 332
         isCached: true
-  - title: "Will self-driving cars cause driving to be illegal?"
-    excerpt: "In an opinion that may not be popular among the masses, IDTechEx’s new data forecasts that by 2040, self-driving cars will be capable of fulfilling mobility worldwide without accidents. By 2050, manual driving could be outlawed."
-    publishedDateTime: 2021-09-01T12:38:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17134/will-self-driving-cars-cause-driving-to-be-illegal"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "lpS8rxCrkjb09PGhsbLuB4od6Wnl2iSeL2R9XrlDk+gAFLkZaq94UYtBe6DhXqURp52Ze9F53OQJpLXIbIyXKysrvrqlLkYAuHIsYhbx7Fq60LTLcTicmLLszgrRrP3TRiZRORxFRtcgrQNJFfD6GMyWujDRONkIDsYu3ZrU5QohUX338g1ClbXNVBoZ2kASOMPyuQHizA/NewlDs8pDupQOdGF4pXDvpCFMHCKQ0preCd79w8IKXw9QSeO4woyQJdN7IShR6EZkak5ykSE8oV68Sp3tPAoPi7td2B6H3hVJAbCmISASElzdr+LvA5xEcKuxv+iD8mtcIQS7ocuTN+lPYu6UMaLtEycxfFVDlfY=;xOMMOHoJLoK5YOvudi06Fw=="
 ---
