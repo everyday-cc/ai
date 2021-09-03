@@ -2,6 +2,127 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-07-22-detecting-acute-stroke-early-with-artificial-intelligence-and-imaging.md",
+      "title": "Detecting Acute Stroke Early with Artificial Intelligence and Imaging",
+      "excerpt": "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/Article.aspx?ArticleID=1976",
+      "originalUrl": "https://www.azooptics.com/Article.aspx?ArticleID=1976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg",
+          "width": 1000,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/article.aspx?ArticleID=1976",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/article.aspx?ArticleID=1976",
+      "publishedDateTime": "2021-07-22T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445822-units-by-2030-at-a-cagr-of-1368.md",
+      "title": "The robotaxi market is projected to grow from 617 units in 2021 to reach 1445,822 units by 2030, at a CAGR of 136.8%",
+      "excerpt": "Reportlinker.com announces the release of the report \"Robotaxi Market by Application, Level of Autonomy, Vehicle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/g22098016/the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445-822-units-by-2030-at",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/g22098016/the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445-822-units-by-2030-at",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22098016",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22098016",
+      "publishedDateTime": "2021-07-22T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-uk-fintech-napier-sets-up-office-at-dubais-leading-financial-center.md",
+      "title": "UK fintech Napier sets up office at Dubai’s leading financial center",
+      "excerpt": "Napier already works on AI-led anti-financial crime solutions with many organizations across MEASA, including the Saudi Arabian Monetary Agency, Central Bank of UAE and directly with DIFC",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
+      "originalUrl": "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210330032159USWL.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_226923548/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/",
+      "publishedDateTime": "2021-07-22T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-move-to-data-now-thats-the-next-big-paradigm-mai-lan-bukovec-aws.md",
       "title": "Move to Data – Now. That’s the next big paradigm: Mai-Lan Bukovec, AWS",
       "excerpt": "How about having a storage area that is less of a dank-creepy basement and more of a colorful modular wardrobe? Here is all you need to know.",
@@ -1068,163 +1189,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-microsoft-powered-autonomous-beach-cleaning-robot-is-here-to-clean-our-shores.md",
-      "title": "Microsoft-powered autonomous beach-cleaning robot is here to clean our shores",
-      "excerpt": "A Dutch startup aims to rid beaches of cigarette butts, and Microsoft's artificial intelligence is helping the robot learn how to do it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/uFEX43607aFPkDv2GM04zBfSj68=/2021/07/21/015fc565-b217-46b4-9eb8-1ec97c805fd1/ogi-tech.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/",
-      "publishedDateTime": "2021-07-21T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-google-looker-gets-azure-support-api-explorer.md",
-      "title": "Google Looker gets Azure support, API explorer",
-      "excerpt": "As a part of Looker 21, the newest version of the Looker platform, Google launched new features including Microsoft Azure support.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
-      "originalUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Looker-Life-1-21.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
-      "publishedDateTime": "2021-07-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-the-bourdain-ai-furore-shouldnt-overshadow-an-effective-complicated-film.md",
-      "title": "The Bourdain AI furore shouldn’t overshadow an effective, complicated film",
-      "excerpt": "Despite anger over a decision to deepfake the voice of the much-loved star in a new documentary it’s a haunting and difficult film that deserves to be seen",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "originalUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1293f26cefda42cc765ebd04e1adf322b6336d7a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c7e7b4455c26d9e96a3febf26be5833f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "publishedDateTime": "2021-07-21T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

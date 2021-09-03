@@ -8,8 +8,8 @@ webUrl: "https://www.globalbankingandfinance.com/how-ai-and-machine-learning-can
 ampWebUrl: "https://www.globalbankingandfinance.com/how-ai-and-machine-learning-can-square-the-ledger-against-money-launderers/"
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-and-machine-learning-can-square-the-ledger-against-money-launderers/"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Responsible Artificial Intelligence for Anti-Money Laundering: How to Address Bias"

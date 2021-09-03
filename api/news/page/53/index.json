@@ -2,6 +2,145 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-07-27-blaize-raises-71m-for-ai-edge-hardware.md",
+      "title": "Blaize raises $71M for AI edge hardware",
+      "excerpt": "Blaize, a startup developing AI hardware and software to accelerate computing workloads, has raised $71 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/27/blaize-raises-71m-for-ai-edge-hardware/",
+      "originalUrl": "https://venturebeat.com/2021/07/27/blaize-raises-71m-for-ai-edge-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/27/blaize-raises-71m-for-ai-edge-hardware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/27/blaize-raises-71m-for-ai-edge-hardware/amp/",
+      "publishedDateTime": "2021-07-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-wiliot-raises-200m-as-it-preps-a-saas-pivot-licensing-its-ultra-light-ambient-power-chip-technology-to-third-parties.md",
+      "title": "Wiliot raises $200M as it preps a SaaS pivot, licensing its ultra-light, ambient-power chip technology to third parties",
+      "excerpt": "Wiliot — the IoT startup that has developed a new kind of processor that is ultra thin and light and runs on ambient power but possesses all the power of a “computer” — has picked up a huge round of growth funding on the back of strong interest in its technology,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/27/wiliot-raises-200m-as-it-preps-a-saas-pivot-licensing-its-ultra-light-ambient-power-chip-technology-to-third-parties/",
+      "originalUrl": "https://techcrunch.com/2021/07/27/wiliot-raises-200m-as-it-preps-a-saas-pivot-licensing-its-ultra-light-ambient-power-chip-technology-to-third-parties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/wiliot-tag.jpeg?w=1024",
+          "width": 1024,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/27/wiliot-raises-200m-as-it-preps-a-saas-pivot-licensing-its-ultra-light-ambient-power-chip-technology-to-third-parties/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/wiliot-raises-200m-as-it-preps-a-saas-pivot-licensing-its-ultra-light-ambient-power-chip-technology-to-third-parties/amp/",
+      "publishedDateTime": "2021-07-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-adtheorent-a-leader-in-data-science-and-machine-learning-optimized-advertising-to-list-on-nasdaq-via-merger-with-mcap-acquisition-corporation.md",
+      "title": "AdTheorent, a Leader in Data Science and Machine Learning Optimized Advertising, to List on NASDAQ via Merger with MCAP Acquisition Corporation",
+      "excerpt": "NEW YORK & CHICAGO--(BUSINESS WIRE)--AdTheorent, Inc., a programmatic digital advertising leader using advanced machine learning ... Banking, Financial Services and Insurance (BFSI); Government ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210727005418/en/AdTheorent-a-Leader-in-Data-Science-and-Machine-Learning-Optimized-Advertising-to-List-on-NASDAQ-via-Merger-with-MCAP-Acquisition-Corporation",
+      "originalUrl": "https://www.businesswire.com/news/home/20210727005418/en/AdTheorent-a-Leader-in-Data-Science-and-Machine-Learning-Optimized-Advertising-to-List-on-NASDAQ-via-Merger-with-MCAP-Acquisition-Corporation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-the-effects-of-ai-on-child-psychology.md",
       "title": "The Effects Of AI On Child Psychology",
       "excerpt": "AI enables us to connect to loved ones, near and far. And from this connection, we see how child psychology can be positively impacted by those interactions.",
@@ -1040,161 +1179,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-daily-crunch-accused-january-6-insurrectionist-must-use-face-to-unlock-laptop-orders-judge.md",
-      "title": "Daily Crunch: Accused January 6 insurrectionist must use face to unlock laptop, orders judge",
-      "excerpt": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/26/daily-crunch-34/",
-      "originalUrl": "https://techcrunch.com/2021/07/26/daily-crunch-34/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/reffitt-laptop.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/26/daily-crunch-34/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/daily-crunch-34/amp/",
-      "publishedDateTime": "2021-07-26T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-lying-corrupt-anti-american-cops-are-running-amok-with-ai.md",
-      "title": "Lying, corrupt, anti-American cops are running amok with AI",
-      "excerpt": "Who watches the watchers? Law enforcement agencies around the US are heavily-invested in AI and nobody is holding them accountable.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/cops-are-running-amok-with-artificial-intelligence",
-      "originalUrl": "https://thenextweb.com/news/cops-are-running-amok-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2015%2F11%2Fpolice-lights-dark.jpg&signature=5ceaa89b03c53869cbbfb93696f24707",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor.md",
-      "title": "Bring your own container to project model accuracy drift with Amazon SageMaker Model Monitor",
-      "excerpt": "The world we live in is constantly changing, and so is the data that is collected to build models. One of the problems that is often seen in production environments is that the deployed model doesn’t behave the same way as it did during the training phase. This concept is generally called data drift",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/08/ml2559-diag2.jpg",
-          "width": 785,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T14:37:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

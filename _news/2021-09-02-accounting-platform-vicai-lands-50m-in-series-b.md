@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/accounting-platf
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/accounting-platform-vic-ai-lands-50m-in-series-b/amp/"
 type: article
 quality: 157
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "SAP Acquires AI HR Platform"
-    excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
-    publishedDateTime: 2021-08-30T01:46:00Z
-    webUrl: "https://www.datamation.com/applications/sap-acquires-swooptalent-ai-hr-platform/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/SAP-logo.png"
-        width: 1920
-        height: 979
-        isCached: true
   - title: "Vic.ai Secures $50 Million to Spur Artificial Intelligence Adoption within Enterprise Finance and Accounting"
     excerpt: "Vic.ai today announced $50 million in Series B funding to spur adoption of its pioneering AI platform for real-time, autonomous accounting and financial intelligence. The Series B funding was led by ICONIQ Growth with participation from existing investors GGV Capital,"
     publishedDateTime: 2021-09-01T10:05:00Z
@@ -82,6 +68,6 @@ related:
       domain: tmcnet.com
     quality: 30
 
-secured: "A6AICyVWgBuTH8BsDedE6N2/GGZ48e3CpsxbUK2bZ6e0cY34EmyJ4m8XCaDIBFsjqa1HjBnmL2r6GLqnAOZIjEcRnQMgJ0rL3qd2mOXeCcMrNFQP1G1IvCD8OTuClVWWIiSq6ChlXuJVTuBFnKIy2n40eDvXptTnOHee0wPhYMMtk14KyLXofH2fplFdh/jRwcizASS/4gMc5vKVY+ZWT6UmwyL+4isj5R+9yv6jwe5JJAB2bczXCDfOuWb77M7/Mkpd5lAxRu2LdQMoqpt2Vxu4E2GBxQbmlXHjyCuWfHQB7t/6Fv817QKyE3i1a9bhwBf/biFHk45+jU1MMHLT+f7AqHZQKW4KWzrzY0Ue8+I=;h1atAnh3WU7A9+rbH+9FzA=="
+secured: "UEBjfTjAhW7xCB2VquuWN2E3lsX1xrckZCWHan0lXoShqJ+xyMuj9HuGRUgz76l6Z3ykPY2mWNhqn6vFzmgKViCX+JtqkeJSP6ceAnoYLsrAXwtmfUprvWN4Z9bkceTP3o7rmfb+aJKaBN+MxRj8iWYpT+78NLJCthRX5MQUPvtyLqf8vNbXjyTA7yS4R7wU1wa7snDPSi5tYLgDGzPxr4l+mzWgTYGcfXZD8MpVtrtklSwvebozO1Oy/vbXHatIRGA6zHJyRpWL68j2Ra8xZifJwTKhKy4mkdRlSTC/mJLWNvlsp7t0S1PcUQSoyNnMoCNMIaCFtcj7d5xEjhQBA9eltaa56i+nOQV6IndwRuIWVZmzomugz0VIAGQ1WqtougvQy7Qu70nGb20QxjXtn6bSezG8/IftqCgb7nkJHBk06RSSuMOZIOGzwhVEWt8sEGqTAy6hBH8IjEYNB/OomD5fHr2fn5dHjvX/FF85kYfXcPcwbEeyq/5nZKWW4xnYNpauKk9NeXnb7TpiexURncYUasiQOJkZMR+SnBZuIr0=;RU5/ufPSTvFp9pz3pIYWgg=="
 ---
 

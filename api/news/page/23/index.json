@@ -2,6 +2,155 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-08-17-microsoft-azure-government-top-secret-has-hit-general-availability.md",
+      "title": "Microsoft Azure Government Top Secret has hit general availability",
+      "excerpt": "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-metinvest-achieves-blast-furnace-efficiency-with-machine-learning.md",
+      "title": "Metinvest Achieves Blast-Furnace Efficiency with Machine Learning",
+      "excerpt": "Ukraine-headquartered Metinvest, looking to improve the efficiency of its blast furnaces by reducing fuel consumption by controlling the silicon content in its iron, has started a pilot project with Azure Data Factory and Azure Machine Learning and having seen its efficiency improve against benchmarks set by industry leaders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "originalUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/steelguru%2F2021-08%2Fbf7a65a3-0f97-40be-871a-42658d642cc5%2FMachine_Learning.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1192,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "publishedDateTime": "2021-08-16T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-trainocate-recognised-as-1-microsoft-learning-partner-worldwide.md",
+      "title": "Trainocate recognised as #1 Microsoft Learning Partner worldwide",
+      "excerpt": "Trainocate Holdings, Asia's largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company to earn the title.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/trainocate-recognised-as-1-microsoft-learning-partner-worldwide-1030736204",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/trainocate-recognised-as-1-microsoft-learning-partner-worldwide-1030736204",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1594909/Zafarullah_Hashim.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-graph-based-natural-language-processing-and-information-retrieval.md",
       "title": "Graph-based Natural Language Processing and Information Retrieval",
       "excerpt": "Graph theory and the fields of natural language processing and information retrieval are well-studied disciplines. Traditionally, these areas have been perceived as distinct, with different algorithms, different applications and different potential end-users.",
@@ -981,126 +1130,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings.md",
-      "title": "Data Center, Gaming Segments to Aid NVIDIA's (NVDA) Q2 Earnings",
-      "excerpt": "The company’s fate is tied to its gaming and data-center segments, which accounts for a bulk of NVIDIA’s revenues. The two divisions are likely to continue benefiting from stellar demand for chips used in gaming,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
-      "originalUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
-      "publishedDateTime": "2021-08-16T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com",
-      "excerpt": "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-how-conversational-ai-works-and-what-it-does.md",
-      "title": "How Conversational AI Works and What It Does",
-      "excerpt": "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,",
-      "sourceUrl": null,
-      "webUrl": "https://www.interactions.com/conversational-ai/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg",
-          "width": 768,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

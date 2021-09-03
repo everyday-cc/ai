@@ -62,22 +62,6 @@ related:
         width: 300
         height: 212
         isCached: true
-  - title: "Artificial Intelligence Market Size 2021 And Forecast to 2028 | Keyplayers – IBM, Intel, IFLYTEK, Microsoft"
-    excerpt: "In addition, the global Artificial Intelligence Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-08-30T01:19:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-market-size-2021-and-forecast-to-2028-keyplayers-ibm-intel-iflytek-microsoft/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-size-2021-and-forecast-to-2028-keyplayers-ibm-intel-iflytek-microsoft/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-size-2021-and-forecast-to-2028-keyplayers-ibm-intel-iflytek-microsoft/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 56
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/research-criteria-1-350x220.png"
-        width: 350
-        height: 220
-        isCached: true
   - title: "Machine Learning in Education Market Size 2021 And Forecast to 2028 | Keyplayers – IBM, Microsoft, Google, Amazon"
     excerpt: "In addition, the global Machine Learning in Education Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
     publishedDateTime: 2021-08-31T19:46:00Z
@@ -179,17 +163,6 @@ related:
         width: 300
         height: 212
         isCached: true
-  - title: "Machine Learning in Manufacturing Market Size 2021 And Forecast to 2028 | Keyplayers – Intel, IBM, Siemens, GE"
-    excerpt: "In addition, the global Machine Learning in Manufacturing Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-08-30T01:24:00Z
-    webUrl: "https://manometcurrent.com/machine-learning-in-manufacturing-market-size-2021-and-forecast-to-2028-keyplayers-intel-ibm-siemens-ge/"
-    ampWebUrl: "https://manometcurrent.com/machine-learning-in-manufacturing-market-size-2021-and-forecast-to-2028-keyplayers-intel-ibm-siemens-ge/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-in-manufacturing-market-size-2021-and-forecast-to-2028-keyplayers-intel-ibm-siemens-ge/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 19
   - title: "Self-driving Cars Sensors Market 2021: Size, Huge Growth Opportunities, Business Scenario, New Technology Upcoming Trends and Forecast to 2026"
     excerpt: "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Self-driving Cars Sensors"
     publishedDateTime: 2021-09-02T08:05:00Z

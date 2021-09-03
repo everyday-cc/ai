@@ -62,20 +62,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "SAP Acquires AI HR Platform"
-    excerpt: "SAP is enhancing its human experience management (HXM) software suite via the acquisition of artificial intelligence (AI) technology:"
-    publishedDateTime: 2021-08-30T01:46:00Z
-    webUrl: "https://www.datamation.com/applications/sap-acquires-swooptalent-ai-hr-platform/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/SAP-logo.png"
-        width: 1920
-        height: 979
-        isCached: true
   - title: "Vic.ai Secures $50 Million to Spur Artificial Intelligence Adoption within Enterprise Finance and Accounting"
     excerpt: "Vic.ai today announced $50 million in Series B funding to spur adoption of its pioneering AI platform for real-time, autonomous accounting and financial intelligence. The Series B funding was led by ICONIQ Growth with participation from existing investors GGV Capital,"
     publishedDateTime: 2021-09-01T10:05:00Z

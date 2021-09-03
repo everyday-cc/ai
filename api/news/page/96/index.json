@@ -2,6 +2,143 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2021-06-26-shake-hands-with-a-mind-controlled-robotic-arm.md",
+      "title": "Shake Hands with a Mind-Controlled Robotic Arm",
+      "excerpt": "Using a noninvasive (not implanted) brain-computer interface (BCI), engineers have developed the first successful mind-controlled robotic arm that can continuously track and follow a computer cursor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/markets/robotics/article/21837913/shake-hands-with-a-mindcontrolled-robotic-arm",
+      "originalUrl": "https://www.machinedesign.com/markets/robotics/article/21837913/shake-hands-with-a-mindcontrolled-robotic-arm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2019/06/machinedesign_20713_promo_g1mind.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-apples-car-obsession-is-all-about-taking-eyes-off-the-road.md",
+      "title": "Apple’s car obsession is all about taking eyes off the road",
+      "excerpt": "Giants such as Huawei Technologies Co. and Baidu Inc. have pledged to plow almost $19 billion into electric and self-driving vehicle ventures this year alone. Smartphone giant Xiaomi Corp. and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road",
+      "originalUrl": "https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/c678a02/2147483647/strip/true/crop/1839x1201+105+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2F0f%2Fa0dd117502ce6dc1270687a5f039%2Fla-fi-self-driving-car-accidents-20150511-001",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-06-25/apples-car-obsession-is-all-about-taking-eyes-off-the-road?_amp=true",
+      "publishedDateTime": "2021-06-25T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-how-ai-is-changing-the-nature-of-analytics.md",
+      "title": "How AI is changing the nature of analytics",
+      "excerpt": "At its core, artificial intelligence is an analytics tool. AI is useful because it can parse large amounts of data and add context.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/",
+      "originalUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/analytics-e1624650601959.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/",
+      "publishedDateTime": "2021-06-25T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-a-beginners-guide-to-ai-policy.md",
       "title": "A beginner’s guide to AI: Policy",
       "excerpt": "Neural's long-running Begginer's Guide To Artificial Intelligence gets a modern update discussing policy and regulation around the globe.",
@@ -1074,144 +1211,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure.md",
-      "title": "NIS America is making fan translations official with Trails from Zero and Trails to Azure",
-      "excerpt": "Fan translations for two Trails games from a group called Geofront are serving as the basis for official releases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/25/nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure/",
-      "originalUrl": "https://venturebeat.com/2021/06/25/nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/trailsfromzero.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/25/nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure/amp/",
-      "publishedDateTime": "2021-06-25T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-state-of-ai-report-finds-ai-is-now-core-to-business-success.md",
-      "title": "State of AI report finds AI is now core to business success",
-      "excerpt": "Appen survey of business leaders and data scientists indicates that AI initiatives are delivering business value but challenges still exist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html",
-      "originalUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html",
-      "publishedDateTime": "2021-06-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026.md",
-      "title": "Computer Vision Market Market 2021 Highlights Recent Trends, Market Growth, Business Opportunities till 2026",
-      "excerpt": "The computer vision market is expected to grow at a CAGR of 7.36 % over the forecast period (2021 – 2026).”  Top Leading Companies of Computer Vision Market are Intel Corporation, National Instruments Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/06/25/computer-vision-market-market-2021-highlights-recent-trends-market-growth-business-opportunities-till-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

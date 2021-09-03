@@ -2,6 +2,145 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-31-ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays.md",
+      "title": "AI analysis unveils the most effective email subject lines for the holidays",
+      "excerpt": "Last year's data may help shape messaging this year, but companies need to test, experiment, and consider the past when sending emails.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/",
+      "originalUrl": "https://venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/05/email-marketing.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/amp/",
+      "publishedDateTime": "2021-08-30T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-researchers-offer-standards-for-studies-using-machine-learning.md",
+      "title": "Researchers offer standards for studies using machine learning",
+      "excerpt": "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce their results, according to a comment article published today in the journal Nature Methods.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-standards-machine.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-standards-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-standards-machine.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-standards-machine.amp",
+      "publishedDateTime": "2021-08-30T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-amazon-ai-weighs-optimization-options-for-gnns.md",
+      "title": "Amazon AI Weighs Optimization Options for GNNs",
+      "excerpt": "Many of the largest retailers and social networks are seeing a narrowing path for scaling of AI training capabilities. Hardware and software optimizations",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/",
+      "originalUrl": "https://www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/ab_network-graph-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/30/amazon-ai-weighs-optimization-options-for-gnns/amp/",
+      "publishedDateTime": "2021-08-30T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-machine-learning-market-is-thriving-worldwide-ibm-microsoft-corporation-sap-se-intel.md",
       "title": "Machine Learning Market is Thriving Worldwide : IBM, Microsoft Corporation, SAP SE, Intel",
       "excerpt": "The global Machine Learning market is expected to grow at a CAGR of 36.6% during the forecast period. The global Machine Learning market is estimated to be about 2337.6 million US dollars in 2020. The global Machine Learning market is estimated to reach 8143.",
@@ -277,7 +416,7 @@
       "originalUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1037,163 +1176,6 @@
         "AI",
         "Computer Vision",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-self-driving-electric-cars-could-mean-the-end-of-short-haul-flights.md",
-      "title": "Self-Driving Electric Cars Could Mean The End Of Short Haul Flights",
-      "excerpt": "Self-driving battery-electric vehicles could drastically reduce the need for short haul flying, or even render it obsolete, and slash emissions in the process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61262ae06169576215801db8%2F0x0.jpg",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/",
-      "publishedDateTime": "2021-08-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-inside-boston-dynamics-project-to-create-humanoid-robots.md",
-      "title": "Inside Boston Dynamics’ project to create humanoid robots",
-      "excerpt": "Atlas is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, backflips, and dancing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
-      "originalUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Boston-Dynamic-Atlas-Parkour1-e1629834411758.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
-      "publishedDateTime": "2021-08-27T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans.md",
-      "title": "How IBM is using AI to deliver insights and stats to US Open fans",
-      "excerpt": "Tennis lovers are getting a lot of new data insights thanks to IBM's Power Rankings and Match Insights powered by its Watson AI, and business leaders looking for analytics tools should tune in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/30/a89991a4-f68b-4afd-bfca-5741f861acf3/resize/1200x/1c8ef71d7c03da27b6f3bac423df3062/ibm-watson-tennis.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "publishedDateTime": "2021-08-27T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-31T13:12:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-onestream-software-previews-new-machine-learning-capabilities-splash-/2021/08/31/9440131.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-onestream-software-previews-new-machine-learning-capabilities-splash-/2021/08/31/9440131.htm"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "OneStream to deliver new machine learning enabled capabilities"

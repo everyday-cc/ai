@@ -139,15 +139,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
-    excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
-    publishedDateTime: 2021-08-30T01:30:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/ausnet-signs-5-year-deal-with-microsoft-as-it-ramps-up-cloud-and-ai-options/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 32
 
 secured: "qzKbWrEvpRX/AhoRIYTbIYF98MPazfqgvZDGD12Jh3fA/9D3wSh44EZtTBmPElV9/zLPIXFE95+fB/LYOsQddBn2uvU2lR9AKoh6ljIit5EeeTUG4SAAUyj6RBXtB4EqvRXAPBberOnPCHI/JsVgzT6DGSBrjqYtNAMGNTG3raON13sUvulblifVLU1Fk78FMPOZmU0aByVasKLui0TuzdrVwXp8lFoGBW4pBQwC9AlttVuh2jLWe5kSp/Vkg5ogck9NQpZpIc7JpB0NgK+x29U73ipOT55eCIIlFFK1ASAGA2P8ZDhqjoNZSGnxjMZln3Pdr+6WPbxv2QcwOGpSKe6NY3tuucWJZVbt6z+eFawAn0eGIfNL7l9oeBEvIQUmlHGwAKQWTIHy5YdJkg1tU0HSI4r7ym3f2mJO0qA3755MqD1UCuUG+Tu3vpDlpa/NzS7wp5yd05UjJ4EiUBZxgJSbjv2PWFc9HviXlZcybxmNbn9dvMTw2wSpcH0Y50sYmHGODYTg8fyCiwl2fHrZxw==;fOzj8z67YF9qWLC8EKF06w=="
 ---

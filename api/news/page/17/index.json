@@ -2,6 +2,144 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-08-20-ros-open-source-solutions.md",
+      "title": "ROS / Open Source Solutions",
+      "excerpt": "Amazon launched SageMaker Reinforcement Learning (RL) Kubeflow Components, an open-source toolkit designed to help manage robotics workflows. SageMaker RL is designed to make it faster to develop machine learning capabilities for everything from perception ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/category/technologies/ros-open-source/",
+      "originalUrl": "https://www.therobotreport.com/category/technologies/ros-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/ros-world-2021-logo-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-sd-times-news-digest-microsoft-acquires-jclarity-julia-12-released-and-eggplants-automated-testing-capability.md",
+      "title": "SD Times news digest: Microsoft acquires jClarity, Julia 1.2 released, and Eggplant’s automated testing capability",
+      "excerpt": "The new AutoML capabilities include a AutoML Toolkit, an end-to-end machine learning pipeline, automated model search, automated hyperparameter tuning, and integration with Azure Machine Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
+      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/08/coffee-1117933_640-1.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-ut-southwestern-pioneers-pulsar-integrated-radiotherapy-with-immunotherapy-for-improved-tumor-control.md",
+      "title": "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control",
+      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/926055",
+      "originalUrl": "https://www.eurekalert.org/news-releases/926055",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-tesla-to-hold-ai-day-at-a-time-of-new-scrutiny-what-to-expect.md",
       "title": "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect",
       "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology.",
@@ -1033,153 +1171,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-intels-arc-gaming-gpu-price-specs-and-availability.md",
-      "title": "Intel's Arc gaming GPU: Price, specs and availability",
-      "excerpt": "Intel Arc GPUs will face off against AMD and Nvidia rivals with hardware ray tracing and other key features. Read all about them here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
-      "originalUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/03/intel-xe-gpu-tease-100791559-large.jpg?auto=webp",
-          "width": 1199,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html",
-      "publishedDateTime": "2021-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect.md",
-      "title": "Tesla to Hold AI Day Amid New Scrutiny: What to Expect",
-      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
-      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-387824?width=700&height=557",
-          "width": 700,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "publishedDateTime": "2021-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-how-this-technologist-is-using-beauty-as-a-tool-to-disrupt-facial-recognition.md",
-      "title": "How this technologist is using beauty as a tool to disrupt facial recognition",
-      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "originalUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

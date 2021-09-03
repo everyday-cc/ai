@@ -140,15 +140,6 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 34
-  - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
-    excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
-    publishedDateTime: 2021-08-30T01:30:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/ausnet-signs-5-year-deal-with-microsoft-as-it-ramps-up-cloud-and-ai-options/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 32
 
 secured: "YF8a5ar3mtqu/6X/Z7mw3HjPjfnBlHl4QRGZn8AcW3QfWN17Fik39Z9unChDBGjsOGjCSQRJMg+4kPubU9grYZoAoX44DX3kYTdVYlUBMmJnFA/ZhSb3SPDUnQgTPaiACzTfdxRRGGgxmq0qbomxPmd8h8dIznkDHioQLhu7gWBaP2ALV/Z86gzzIvyQ6QRnwqaiLRGHmHerxYzuP+ZLCKxHH8RF06yMYeBhcx0Cfe7qoidlBO3i+oYrBMWVaXBLJ4KS8VKwnzKCZ1WnmXZHuJxnMKT5UnDi/iCvF4dPMKyNAaig3VdITxvARd83yXT+/3xgaOCU23MQYWmB/zzHcCBzdEHrYnHdurFtBxV7nG0=;OtOD7UQQ6U7mwgJcyqmt/w=="
 ---

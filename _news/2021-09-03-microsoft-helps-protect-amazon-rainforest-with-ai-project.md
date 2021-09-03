@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -144,15 +144,6 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 34
-  - title: "AusNet signs 5-year deal with Microsoft as it ramps up cloud and AI options"
-    excerpt: "Microsoft has announced a five-year strategic partnership with diversified Australian energy infrastructure business, AusNet Services, which has selected Azure as its preferred cloud platform for a major digital modernisation initiative."
-    publishedDateTime: 2021-08-30T01:30:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/ausnet-signs-5-year-deal-with-microsoft-as-it-ramps-up-cloud-and-ai-options/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 32
 
 secured: "1vsZ+fAHQRi8FKt4XLifJY9C/K8xPbktmz02emy/r/R88akFF8gTEDnWeMMgArBoG3Ye5k+XG0ws4uUOzC404+YSvpt6y3t6fXiffK2knRtPLAA2RRNTB0QAx1SSx+7sNIDWhb79+IpAF6ZzPseqaduHQ9x/rVBz53Tm/uGb2oWdEaViKmYZnMibgEW89APAzcpdyqswkVSPI/w3SYCPFKykJ9qOcKAfFXdlmnSoUGnVfn3cJ+bDuUuXj0vV+BjRTbP74YlkQzVmyX2VJUBEgSmXw9jnUiIDCUe2FWCICEg+tkHTeiwMayXre9naAWFK7VRvwJn3kcErMgHUFJq1+czyKbUOSW9wiAD73gFFSVu7ORPQSzds7WvoCHfMyySAOeBVJ/fGAO4jUHuFze9uYlrFuBOFrDCXLl8uK1EnGtpFTBvffJCE9Rceu+yMDT03N/QleBun/gUH+iNjT4ugoE5WWEpSt/NMnN57FZGXTJOg9/pSNYlQps0fSAR1cOvZxC9dy65lzSWSpZEbP1Np3Q==;hFjEPQzkovtAdOTf1nuLZg=="
 ---

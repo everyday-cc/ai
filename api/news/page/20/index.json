@@ -2,6 +2,145 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-08-18-honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.md",
+      "title": "Honeywell, IIT-Hyderabad tie up for Artificial Intelligence lab",
+      "excerpt": "HTS and IIT-Hyderabad would together do research on technologies that solve problems of the future with AI as the major focus area",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
+      "originalUrl": "https://www.deccanchronicle.com/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7dcvics2q243c25fc6las4r8p6-20210818182700.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html",
+      "publishedDateTime": "2021-08-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-azure-government-top-secret-now-available-for-us-national-security-missions.md",
+      "title": "Azure Government Top Secret now available for US national security missions",
+      "excerpt": "Microsoft recently announced that cloud-based service Azure Government Top Secret is now going to aid national security missions in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/",
+      "originalUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2021/08/azure-govt-top-secret.jpg",
+          "width": 700,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp",
+      "publishedDateTime": "2021-08-18T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-chinas-baidu-launches-second-chip-and-a-robocar-as-it-sets-up-future-in-ai-and-autonomous-driving.md",
+      "title": "China's Baidu launches second chip and a 'robocar' as it sets up future in AI and autonomous driving",
+      "excerpt": "Baidu, known as China's biggest search engine player, has focused on diversifying its business beyond advertising to artificial intelligence and driverless cars. In this article GUANGZHOU, China — Chinese internet giant Baidu unveiled its second ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
+      "originalUrl": "https://www.cnbc.com/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106929546-1629264747396-Robin_Li_Baidu_Robocarpic_hd_copy.jpg?v=1629264961",
+          "width": 2891,
+          "height": 1927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/baidu-launches-robocar-and-ai-chip-in-bid-to-diversify-business.html",
+      "publishedDateTime": "2021-08-18T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-ai-powered-design-platform-uizard-picks-up-15m.md",
       "title": "AI-powered design platform Uizard picks up $15M",
       "excerpt": "Uizard, an AI-powered mobile app and desktop software design platform, has raised $15 million in venture capital financing.",
@@ -995,153 +1134,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-optimize-personalized-recommendations-for-a-business-metric-of-your-choice-with-amazon-personalize.md",
-      "title": "Optimize personalized recommendations for a business metric of your choice with Amazon Personalize",
-      "excerpt": "Amazon Personalize now enables you to optimize personalized recommendations for a business metric of your choice, in addition to improving relevance of recommendations for your users. You can define a business metric such as revenue, profit margin, video watch time, or any other numerical attribute of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-personalized-recommendations-for-a-business-metric-of-your-choice-with-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-personalized-recommendations-for-a-business-metric-of-your-choice-with-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/12/5131-1.jpg",
-          "width": 800,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T11:47:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-innovating-with-artificial-intelligence.md",
-      "title": "Innovating With Artificial Intelligence",
-      "excerpt": "It’s been a while since I talked about artificial intelligence — mainly because those articles started to die down or I started reading the same thing over and over. Then other topics emerged within the markets and current events sort of shifted the conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
-      "originalUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png",
-          "width": 300,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
-      "cdnAmpWebUrl": "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
-      "publishedDateTime": "2021-08-17T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wealth Daily",
-        "domain": "wealthdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-accerns-no-code-ai-platform-can-speed-analytics-in-financial-services.md",
-      "title": "Accern’s No-Code AI Platform Can Speed Analytics In Financial Services",
-      "excerpt": "Accern, which has more than a library of use cases available for immediate deployment across financial services firms, says templates can reduce the need for customer data scientist-led analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/",
-      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://secure.gravatar.com/avatar/a1949b2c32bb572c7030dac004c2af03?s=400&d=mm&r=g",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

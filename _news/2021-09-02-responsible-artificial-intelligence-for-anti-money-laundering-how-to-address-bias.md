@@ -28,7 +28,7 @@ related:
     provider:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
-    quality: 52
+    quality: 54
 
 secured: "FZF8NjxpMjPX9+TXX7YNxQaJqjLefNp+314VPsr9JF/0dnpmcmyYV7dfiE6EGieRpuvlLp4mT+sZMxmdEfJy8bgiqJOyfwgAw0UnGtvilZ8Q832wf4a7fZ2BIXsZLM1/tPGRmMyC1FNzO9+tRPTDkFCQQgrvNzGbSme04qIORB+eAMsZgS3QctfC7kllSRyvUwqnlO5hNKG8+HmmXIUF38g4Ld6R0nCA/NsPT1ytekQsmDoy7tkk0CQ/H0CUkFdJ34ULSX4r/zYwDmgxawbeKgP/1F+dB/E01y3Q10aQ0tsm4dehS8jbONiA5ErXzczV0LHRxXEBnTIw62bNuchoO2lDy/FLOU5tz/V/+Wv6rB00ifjuc4DSKhKw1J+n4T7/6Sy4mf/XuRXfI3Tj412iwH+B9wVnhYEEdsmmf80utUwBb1jautLQD+XWaj5D8o5ZPhYjZVMnEApCGtQQC/t14hbD1iprTa1BT/5yb1nG7iZsJS8NpeDWSByHqVtJDwj1L6CPquCKHKLLmKcewxWJCQ==;QIGH/Q5Q4/33OVyA/NpWTg=="
 ---
