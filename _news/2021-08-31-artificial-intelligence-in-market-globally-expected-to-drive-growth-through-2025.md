@@ -44,17 +44,19 @@ related:
         isCached: true
   - title: "Global Facial Recognition Market Size Growing at 17.23 Percent CAGR, Says SpendEdge"
     excerpt: "NEW YORK, Aug. 29, 2021 /PRNewswire/ -- The Facial Recognition market will register an incremental spend of about USD 8.23 Billion, growing at a CAGR of 17.23% during the five-year forecast period. A targeted strategic approach to Facial Recognition can ..."
-    publishedDateTime: 2021-08-29T19:46:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-facial-recognition-market-size-growing-at-17-23-percent-cagr-says-spendedge/article_fb998d77-1d52-573d-8ee2-1687e1e5a7dc.html"
+    publishedDateTime: 2021-08-29T19:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22709845/global-facial-recognition-market-size-growing-at-17-23-percent-cagr-says-spendedge"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22709845"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22709845"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e7/ce769305-794e-5a36-bbf7-87fec7b217a3/612be14aaad68.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1602873/SpendEdge_Facial_Recognition_Market_Procurement_Report.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Gesture Recognition Market Size Is Likely To Reach USD 30.6 Billion By 2025. It Is Poised To Post A CAGR Of 22.2% From 2018 To 2025."
     excerpt: "A recent market research report added to repository of Credible Markets is an in depth analysis of Gesture Recognition Market On the basis of historic growth analysis and current scenario of Gesture Recognition Market place the report intends to offer"

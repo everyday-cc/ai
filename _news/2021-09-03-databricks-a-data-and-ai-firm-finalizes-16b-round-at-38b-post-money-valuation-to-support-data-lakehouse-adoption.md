@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "CAG urges for greater use of data analytics, Artificial Intelligence"
+    excerpt: "Comptroller and Auditor General of India G.C. Murmu on Thursday urged the auditors to make far greater use of data analytics, Artificial Intelligence and Machine"
+    publishedDateTime: 2021-09-03T03:59:00Z
+    webUrl: "https://www.sentinelassam.com/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
+    ampWebUrl: "https://www.sentinelassam.com/amp/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
+    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: sentinelassam.com
+    quality: 57
+    images:
+      - url: "https://assets.sentinelassam.com/h-upload/2021/09/03/252278-artificial-intelligence.jpg"
+        width: 780
+        height: 469
+        isCached: true
   - title: "Databricks Raises $1.6 Billion Series H at $38 Billion Valuation"
     excerpt: "Databricks, a San Francisco, CA-based Data and AI company, raised $1.6 Billion in Series H funding. The round, which brought valuation to $38 billion post-money and total funding to almost $3.6 billion,"
     publishedDateTime: 2021-08-31T14:47:00Z

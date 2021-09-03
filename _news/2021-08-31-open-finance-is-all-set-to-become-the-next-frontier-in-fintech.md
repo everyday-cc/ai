@@ -88,22 +88,6 @@ related:
         width: 269
         height: 300
         isCached: true
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "(Source: Cyber Administration of China) AI Data Infrastructure Service Provider BasicFinder ... (Source: Tencent) The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership ..."
-    publishedDateTime: 2021-08-29T12:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/08/179727-china-weiyangx-fintech-review-212/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179727-china-weiyangx-fintech-review-212/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179727-china-weiyangx-fintech-review-212/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2-600x599.jpeg"
-        width: 600
-        height: 599
-        isCached: true
   - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-08-31T21:57:00Z
@@ -117,6 +101,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/6f0b9837f87a6b9370971ed25b30abad.png"
         width: 759
         height: 675
+        isCached: true
+  - title: "Investing in Fintech as a ‘Bridge to the Future’"
+    excerpt: "Hub models stimulate fintech innovation, which in turn boosts economic growth, Siobhan Dullea of MassChallenge writes."
+    publishedDateTime: 2021-09-03T04:30:00Z
+    webUrl: "https://www.tradersmagazine.com/am/investing-in-fintech-as-a-bridge-to-the-future/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2021/09/Siobhan.jpg"
+        width: 480
+        height: 300
         isCached: true
   - title: "Common Challenges Faced by Developers while Developing Fintech Applications"
     excerpt: "FinTech developers can help businesses build a connected ecosystem and reap the advantages of innovative business models like bancassurance and open banking by creating hybrid integration-ready FinTech applications."

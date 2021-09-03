@@ -2,6 +2,40 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2021-06-15-artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028.md",
+      "title": "Artificial Intelligence Market Analysis Growth Challenges, Opportunities and Future Developments to 2028",
+      "excerpt": "The report discusses the key players in the market who have provided a huge contribution in the growth of the Artificial Intelligence Market and dominate the market share. The report also provides information on the market revenue of the key players.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-canadian-regulators-seek-policy-amendments-for-facial-recognition.md",
       "title": "Canadian Regulators Seek Policy Amendments for Facial Recognition",
       "excerpt": "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada",
@@ -1122,49 +1156,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-artificial-intelligence-for-predicting-tmb-h-colorectal-cancer-from-histopathological-characteristics.md",
-      "title": "Artificial intelligence for predicting TMB-H colorectal cancer from histopathological characteristics",
-      "excerpt": "This artificial intelligence is important in solving the ... (including inhibitors of the PD-1 protein and its ligand, PD-L1) therapy, without implicating the use of gene panel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
-      "publishedDateTime": "2021-06-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

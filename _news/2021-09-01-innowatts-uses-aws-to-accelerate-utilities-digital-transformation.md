@@ -18,6 +18,17 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "Innowatts Uses AWS to Accelerate Utilities' Digital Transformation"
+    excerpt: "Innowatts, an industry-leading artificial intelligence-enabled (AI) software-as-a-service (SaaS) platform for global energy providers, today (Sept 2) announced a solution to allow energy providers to ."
+    publishedDateTime: 2021-09-03T05:25:00Z
+    webUrl: "https://electricenergyonline.com/article/energy/category/ot-it/53/916450/innowatts-uses-aws-to-accelerate-utilities-digital-transformation.html"
+    type: article
+    provider:
+      name: Electric Energy Online
+      domain: electricenergyonline.com
+    quality: 19
+
 secured: "wYyMyKos3ztwvxS9cuI8+XHyuLedu4QIpO1OB3xqMWrcXNAAHIo6XsZxIRm5MYdTYGwiBHcv2dWAU26MGB9dcAaly93LbDv7FBn6J6g1Br9YoqEhA5iCxsJe8sdMT8Iak0ukCFMtV/mEV/dhF3qmm9zKbJ6rID3ep4s4VctZyrb4TQjTrfKbRZVLQ0P2rUsRykZju2IWX0fIN2LFj0jpLd5S4bM+2lVDdbAlcJK0+Udb1Gf2LqY7bxkMvjSMA2JWLjXyT6BjpbURf/TieNvYLhNKyhJ2d/He/4UPZ7AArlco7JOi2hgdJ5J44PATYxx1OGefbCW6F1OqpJ9W7EUA1EUFcWvo2hCVhObpiutKmng=;k5mwNPsLNDUjgUSKD8S3fQ=="
 ---
 

@@ -92,10 +92,24 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 24
+  - title: "The Executive’s Guide to Accelerating Artificial Intelligence and Data Innovation with Synthetic Data"
+    excerpt: "Senior leadership finds itself grappling with the competing demands of operating in an increasingly digital world. This digital environment requires use of sophisticated technologies like artificial intelligence (AI),"
+    publishedDateTime: 2021-09-02T01:46:00Z
+    webUrl: "https://hbr.org/sponsored/2021/09/the-executives-guide-to-accelerating-artificial-intelligence-and-data-innovation-with-synthetic-data"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 22
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/09/HBRAS_CRE2072_thumb.png"
+        width: 1220
+        height: 686
+        isCached: true
   - title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
     excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
     publishedDateTime: 2021-08-31T15:38:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
     type: article
     provider:
       name: Associated Press

@@ -48,7 +48,7 @@ related:
     provider:
       name: CIO Applications
       domain: cioapplications.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
         width: 300

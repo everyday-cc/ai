@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-02T00:00:00Z
 originalUrl: "https://www.cioapplications.com/news/artificial-intelligence-ais-impact-on-business-communication-nid-8449.html"
 webUrl: "https://www.cioapplications.com/news/artificial-intelligence-ais-impact-on-business-communication-nid-8449.html"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"

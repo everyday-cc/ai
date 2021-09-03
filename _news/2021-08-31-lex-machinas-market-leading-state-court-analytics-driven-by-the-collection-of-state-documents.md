@@ -3,8 +3,8 @@ category: news
 title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
 excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
 publishedDateTime: 2021-08-31T15:38:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
-webUrl: "https://apnews.com/press-release/PRNewswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
 type: article
 quality: 12
 heat: -1
@@ -92,6 +92,20 @@ related:
       name: Engineering News
       domain: engineeringnews.co.za
     quality: 24
+  - title: "The Executive’s Guide to Accelerating Artificial Intelligence and Data Innovation with Synthetic Data"
+    excerpt: "Senior leadership finds itself grappling with the competing demands of operating in an increasingly digital world. This digital environment requires use of sophisticated technologies like artificial intelligence (AI),"
+    publishedDateTime: 2021-09-02T01:46:00Z
+    webUrl: "https://hbr.org/sponsored/2021/09/the-executives-guide-to-accelerating-artificial-intelligence-and-data-innovation-with-synthetic-data"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 22
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/09/HBRAS_CRE2072_thumb.png"
+        width: 1220
+        height: 686
+        isCached: true
   - title: "Independent survey highlights need for advanced analytics and machine learning to accelerate investigations"
     excerpt: "OpenText™ (NASDAQ: OTEX), (TSX: OTEX), today announced findings from a recent independent survey from Compliance Week, sponsored by OpenText. The results show the importance of both advanced technology and dedicated teams that can quickly deliver data insights to reduce time and cost and result in better outcomes."
     publishedDateTime: 2021-08-31T13:13:00Z
@@ -121,6 +135,6 @@ related:
         height: 600
         isCached: true
 
-secured: "DvNo8L7KbxjNBlSo7Mh2NpjYeuzALZCutK6m+vMRlZBQUwKDrOsoCqdoN5QfT4VJl51qI/yZPiTsHrCGf29Zzyqhs1JyJLGVGumw4fM4Iu9HGSlVCAnU+fnLs57UkMsW10QE+Fy87732nHSuZirrEZTpTfR+OFXusAa3fC7H9qrRMPyqB/jIoA8VgRzRgDAQoffbs2AMDdIriU/KdJhTLZZapxB07l98ruALDw/osddYtgHSRAU5hCmz50n2uXGsIFv5rppuLX/uMqqlEuI79GMh2Nnm4ckzA/l8Gs2n/8fnyVOZTfIU7emwu+aFmmycTrHQrItPR4oGVCD7UpE7a/rFj2tnTdJSkETpBhWanL8=;yB6TkmMfmWqVK7ij58VT9w=="
+secured: "KQvOXZARVCWc6+1vEGFCtx+O9jIQXwf6TM4oCGNH7kzmAtd5p1XnJW0SOBFScSP7cbCwl+hGP98lRaqDbi/AzKdaJtIirRjl8oh9PUTWVaPq1pgMTLCW+SPZZIhhCFyRd7Bm2FzE4WlhT7m4x5LgoVqc9BQ1jFJ0LdWQM6m9waMP0pV3BVnr2SKoTM2N2EqYufUdfEwYcm1NCsT0HVRYqNsw1u9VjawHpy/1MzaVHFcDKBZ2EZDME+3ARZF9nWGsqagmpRzf4Ny1oQsNcsa+D+0TCtxPZvuPxS2+UXyfWg+d/iaOPDKUa0wbadPgc2esqzRXyhX4puWYUGa0jqG+LKjxEJANTLxdMmsm/1CkNxI=;szwJWT0OHtn3a7jlKCbRoA=="
 ---
 

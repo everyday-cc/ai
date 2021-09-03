@@ -42,6 +42,22 @@ related:
         height: 600
         isCached: true
   - title: "CAG urges for greater use of data analytics, Artificial Intelligence"
+    excerpt: "Comptroller and Auditor General of India G.C. Murmu on Thursday urged the auditors to make far greater use of data analytics, Artificial Intelligence and Machine"
+    publishedDateTime: 2021-09-03T03:59:00Z
+    webUrl: "https://www.sentinelassam.com/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
+    ampWebUrl: "https://www.sentinelassam.com/amp/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
+    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: sentinelassam.com
+    quality: 57
+    images:
+      - url: "https://assets.sentinelassam.com/h-upload/2021/09/03/252278-artificial-intelligence.jpg"
+        width: 780
+        height: 469
+        isCached: true
+  - title: "CAG urges for greater use of data analytics, Artificial Intelligence"
     excerpt: "Comptroller and Auditor General of India G.C. Murmu on Thursday urged the auditors to make far greater use of data analytics, Artificial Intelligence and Machine Learning for optimizing efficient use of their own scarce resources."
     publishedDateTime: 2021-09-02T12:28:00Z
     webUrl: "https://www.freepressjournal.in/business/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence"

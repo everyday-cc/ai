@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Managed Grafana"
-excerpt: "NTT DATA Services, Area52, and Tech Mahindra among the customers and partners using Amazon Managed Grafana Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Grafana,"
-publishedDateTime: 2021-08-31T22:30:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210831006079/aws-announces-general-availability-of-amazon-managed-grafana"
-webUrl: "https://www.morningstar.com/news/business-wire/20210831006079/aws-announces-general-availability-of-amazon-managed-grafana"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Grafana, a fully managed data visualization service that enables customers to instantly query,"
+publishedDateTime: 2021-09-01T03:31:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc"
 type: article
-quality: 34
-heat: -1
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AWS Announces General Availability of Amazon FSx for NetApp ONTAP"
@@ -34,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gPL5K7PNb9u87zcN8Fz2zGSAcCOTOjdPBKHLPPOwHNuC/2YIgUL/PTu7RIYrpr3h3pfQHjncX9L90n3UCvV8zeYViktbwRccKKjooKpurp0U+tI9zq/0IDACyeF6HbcGPbe8m8SOe9dtkKIUEkk1QQoK6FM42V4jaMjU2UxmH2Qpm2sJPgsa4KDhk6f+0n96U4H+IoYiS2+fuFYJ4x4f/I9C9FXJ85xyv73EuFlX4NbqkOrqDyNIl3GBpu5CeOcjM0JiF+cL/NhxZqX7yc998z6bz/HMgEFDPkWjsmiLrGmbnmRJi+FVpTUPVDPwoEh3pqxgFtpk1375EhsBvCxKTv6A61EOv/y0lXtXzGjHEgk=;K+0zqVmK718eAo1EdA858Q=="
+secured: "cfUKjvi6OuyraXS0hIore+7PXqj0VrsM8q90aPr8S61bSLTJFjHl+l8vIJ2qRDQv10aQNfOKhRVsenjelHcj8mKcIN10pUL+5d/kfnQPea/vAizFzMeGtd7XSSGbL3nCuh+vrJgmXCqzEEiA/wczbMDawEP1ySk4PuRva89O4ADZRgZ0ha+uWNL79qFFFSEhOtNsb7oMj6DQz1suqncXugBclPnlue60U2vRRDJVMQWdPdG+ktPsTb6vmj5TXoWjGje/GkYd041kd1MFdoIxXNzgC5SXD5IFhRXK6jJANhr5zKAZsEn6FOgieVGC3H88fZt1yCapu4uc8UceagLQ6o0Ecq28Squibc6rgCw9vho=;vH5YAmUNyB8GrpYgdKtKxg=="
 ---
 

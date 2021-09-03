@@ -2,26 +2,28 @@
 category: news
 title: "Global Facial Recognition Market Size Growing at 17.23 Percent CAGR, Says SpendEdge"
 excerpt: "NEW YORK, Aug. 29, 2021 /PRNewswire/ -- The Facial Recognition market will register an incremental spend of about USD 8.23 Billion, growing at a CAGR of 17.23% during the five-year forecast period. A targeted strategic approach to Facial Recognition can ..."
-publishedDateTime: 2021-08-29T19:46:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-facial-recognition-market-size-growing-at-17-23-percent-cagr-says-spendedge/article_fb998d77-1d52-573d-8ee2-1687e1e5a7dc.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-facial-recognition-market-size-growing-at-17-23-percent-cagr-says-spendedge/article_fb998d77-1d52-573d-8ee2-1687e1e5a7dc.html"
+publishedDateTime: 2021-08-29T19:56:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22709845/global-facial-recognition-market-size-growing-at-17-23-percent-cagr-says-spendedge"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/n22709845/global-facial-recognition-market-size-growing-at-17-23-percent-cagr-says-spendedge"
+ampWebUrl: "https://www.benzinga.com/amp/content/22709845"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22709845"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e7/ce769305-794e-5a36-bbf7-87fec7b217a3/612be14aaad68.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1602873/SpendEdge_Facial_Recognition_Market_Procurement_Report.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -88,6 +90,6 @@ related:
         height: 450
         isCached: true
 
-secured: "eZH/Buy6Ypc06hCI8j3W4uHOXtXCUIFjssQtWsehutepSv4lwC3dePY11Q+BCyhT6MzKO9o0/SI7ZlZ4bBhG5rtjkp64lAoNqpW0r2QhukahqokSKY1WiJcUYkWflTBS9lFojL3grArnK7x8B8Oyv6oDu7bjDnTAyGQc3TwDfayotBU6TajyviMpyNJ9Pkqxs6WBNsFONz7JGCMh8PJyYkfOHk9j/G7UO3wFE5RE7FMXvqFw0XqNOTa+a6czGCipqUg4v/aBU9yC/N6Kx9GS1V2aGR3SuLJq2wxeEqEz9mvzZfcbGrZqYuMTL7x7DyvuL+STC5XEvuTBZkB7YpPzlLIjqDLUxR+T5Lgp+fsKQt8+roEVH71ryhXA7GI8StFeHj3toqfkMOZZjleRR9yWPkVPoP67v+iTIO5hKitgawItSOW1qabmFb44TlhjrrqkRBnTAwoEs5JVEPJjAXIHkNmk5ijsBXfJVJcu5+PDaxPaH/+ntESctkJwB8/ifrDtT9XYkyhyWEX4Qh4rtKev/g==;dtoQ1TUoGvR0wJIZACTIIg=="
+secured: "UwMmwfL9AtAgzCGLfM31yWNB5dFjoIVDjGMSJ0DHXPXUfduQQEyDsvIaJhTeoWBXfFzyk6XgzxnJMclXOipH18V7YKO5oUhQpoLPeWyR8yhrxnKh83xm1/APMzPSVEaFXr4BOFgzdmccwMFcLMAJoaWQpYd3W2cuwRmMmmapFWkC4mdawhR3wDCFuwEHbGE/db62JV/eJENZnDjR/Za/XmSibNCuw4xrc5vwSdievDvgWGWGp8CfkYkzTMH68V+cnlps5SVczElR6IUo8FcPttRpp5SSpc7V2JteE9wq4azO9H6rXgrFSY4YwviB1SGBk/Dqj/cOSKY7P/YErEi7KglgBNMLJbI9+HfpqMhi1b0=;eAgKWjk9P5ECXq4iBl/fHQ=="
 ---
 
