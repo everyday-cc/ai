@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to make AI more ethical"
-    excerpt: "We practice this at my company through a cross-functional Privacy and Ethics Board and a separate ethical AI subcommittee. These groups help us define corporate ethical principles and procedures ..."
-    publishedDateTime: 2021-08-29T13:22:00Z
-    webUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/"
-    ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Why The Ethics Of AI Are Complicated"
-    excerpt: "The question isn't really whether AI will eventually become more intelligent than humans (it definitely will) or whether it will turn good or evil. It's what we can do right now to make sure it turns \"good\" (or,"
-    publishedDateTime: 2021-08-30T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/30/why-the-ethics-of-ai-are-complicated/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61292026053f741229b0da60%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1181%26cropY1%3D146%26cropY2%3D1032"
-        width: 1181
-        height: 886
-        isCached: true
   - title: "Why Businesses Benefit From Building Ethical AI"
     excerpt: "Compatible Artificial Intelligence (CHAI) Throughout the pandemic, many businesses have turned to artificial intelligence at"
     publishedDateTime: 2021-08-31T14:21:00Z
@@ -65,31 +35,36 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "How To Create An AI Startup"
-    excerpt: "Artificial intelligence is the future of the world, according to many experts. With the rise of AI-enabled chatbots, voice assistants, and driverless cars, it’s hard to argue. Here are the essential tips for founding an AI startup."
-    publishedDateTime: 2021-08-31T07:24:00Z
-    webUrl: "https://www.analyticsinsight.net/how-to-create-an-ai-startup/"
+  - title: "The Propelling Impact of Artificial Intelligence on Businesses"
+    excerpt: "Artificial Intelligence (AI) is generally defined as any machine that can do ‘’what a human brain can do’’. Nevertheless, Artificial Intelligence is indubitably still subject to significant limitations in comparison to humans."
+    publishedDateTime: 2021-09-01T00:27:00Z
+    webUrl: "https://www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243"
+    ampWebUrl: "https://www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-10.jpg"
-        width: 900
-        height: 500
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/31/propelling-impact-artificial-intelligence-businesses.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Zebra to acquire artificial intelligence software company"
-    excerpt: "Zebra Technologies Monday said it intends to acquire Antuit.ai, a provider of artificial intelligence-powered software solutions specific to forecasting and merchandising for the retail and consumer packaged goods industries."
-    publishedDateTime: 2021-08-30T18:24:00Z
-    webUrl: "https://www.dailyherald.com/business/20210830/zebra-to-acquire-artificial-intelligence-software-company"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20210830/business/210839944/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210830/business/210839944/"
+  - title: "Unethical Use of AI Being Mainstreamed by Some Business Execs, Survey Finds"
+    excerpt: "By John P. Desmond, AI Trends Editor  In a recent survey, senior business executives admitted to their sometimes unethical use of AI.  The admission of being openly unethical came from respondents to a recent survey conducted by KPMG of 250 director-level or higher executives at companies with more than 1,"
+    publishedDateTime: 2021-09-03T00:05:00Z
+    webUrl: "https://www.aitrends.com/ethics-and-social-issues/unethical-use-of-ai-being-mainstreamed-by-some-business-execs-survey-finds/"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 37
+      name: aitrends
+      domain: aitrends.com
+    quality: 52
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3UnethicalAI-2.jpeg"
+        width: 550
+        height: 363
+        isCached: true
 
 secured: "T/CdRL/Sr4EbACtKrJOL2mDDdjCCp6+MJPSSpAGtooUjbrcEGpgdRzDQeOe0y4dRaqU+EM0/BKG99ApCkZA0+ZAt6auXWFoJCVxtPBOhFoXpiA02FhvFq9hnHrXFGRYFOC9Vn/pxyGi+8PEAEFChIwr8jLPoTw7S4btuZSA38kQfuOB0HbCLIqQ95Cv9cv+vTQ4URkcdcWzHrdmTm6X1ENBRfH//TBCG+p+XGO2DdxRKciHQeVMSEny33VloF0kMToPMl2OAH6n9O3nTTyOp1vGBsaQRP9sHe7qWWyLnX1pnLRBunN75TVWWygJYiWi7YP2Zvtp53ipms4T083R7yfjxrTPGfOLoW3B+YSJyVD8=;xSWd/dSaTVds3iNkG5/ALw=="
 ---

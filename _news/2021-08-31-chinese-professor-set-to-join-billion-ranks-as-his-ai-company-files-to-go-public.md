@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ywang/2021/08/31/sensetime-chinese-prof
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/08/31/sensetime-chinese-professor-set-to-join-billion-ranks-as-his-ai-company-files-to-go-public/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
-    excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
-    publishedDateTime: 2021-08-29T13:43:00Z
-    webUrl: "https://www.globaltimes.cn/page/202108/1232758.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-08-23/41c23040-0432-4bd5-85a5-fe0f8060b40f.jpeg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "Fawad Chaudhry urges Chinese companies to invest in Pakistani youth for Artificial Intelligence"
     excerpt: "ISLAMABAD: Minister for Information and Broadcasting Fawad Chaudhry has urged Chinese companies to invest in Pakistani youth for the development of skilled human resources, saying that Chinese compan"
     publishedDateTime: 2021-09-02T16:14:00Z

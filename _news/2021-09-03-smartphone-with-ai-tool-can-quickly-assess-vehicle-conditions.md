@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "New AI solution accurately assesses vehicle condition in minutes"
-    excerpt: "Tractable, the company developing AI for visual assessment and disaster recovery, today launches AI Inspection, a new solution that accurately assesses the external condition of a vehicle’s body within minutes AI Inspection allows anyone with a smartphone to quickly and easily assess a vehicle through a mobile-friendly web-based app,"
+    excerpt: "NEW YORK, Sept. 2, 2021 /PRNewswire/ -- Tractable, the company developing AI for visual assessment and disaster recovery, today launches AI Inspection, a new solution that accurately assesses the external condition of a vehicle’s body within minutes AI ..."
     publishedDateTime: 2021-09-02T23:08:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-8172c68d7a01febb5c5b39b9997dab44"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-8172c68d7a01febb5c5b39b9997dab44"
     type: article
     provider:
       name: Associated Press

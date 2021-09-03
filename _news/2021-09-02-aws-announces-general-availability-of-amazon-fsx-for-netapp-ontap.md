@@ -3,25 +3,25 @@ category: news
 title: "AWS Announces General Availability of Amazon FSx for NetApp ONTAP"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon FSx for NetApp ONTAP, a new storage service that allows customers to launch and run complete,"
 publishedDateTime: 2021-09-02T15:59:00Z
-originalUrl: "https://www.nrtoday.com/ap/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap/article_8813b654-0f4b-5d0a-a52f-ff3527547f19.html"
-webUrl: "https://www.nrtoday.com/ap/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap/article_8813b654-0f4b-5d0a-a52f-ff3527547f19.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: News Review Today
-  domain: nrtoday.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "zMtpl4XpVBv1YMhejWDecTKRANYmdOr5Y4UXPTTd+xFJoZ4xCW45prZrXskhYHknLNtobVVfvds3ibIqOSkvXEZ0PC31HLVy4ygfZuyXseyRqjiv8rq1d/e3eRITZ5RZOZQOUBBHr4kEps5wDrI0uYXU0KGmjyAv+6mKIKGK1ZtGjZ7lPtF++Hl+Dn5CnfFBLn/y2k7pnlRYpvttZbyh20KY4jccKsyDicj1Bb0KduYJFBwkZpnKaflXJAYDu32LolJLpAMzv9xiVwW1q3HWKIGumnyhPn1+eNtdEnWD/evZO9Vqh4f7ZJ5MP9GXiOsbD+uX1yjMfyQiF6++UVC4sb3Hv2B3DTHLUsChmOuMIBM=;r23RbltvTAjT9ogb81k4qw=="
+secured: "GQfDZhnc8fLTFyMr6Eorm7UInxguiTrZCC8Q0vwlfBxruASez53Bx3o6d/M/BpDuVi29keBn6iqgfDNT7dd7zKrJ/LSyb+UFhSPs8YxjX2Q5e/7lQ2Agbvao64GoA2Ry6qzE8QerbLJVdT/oGCIzLN+qymOd8hUEIa9kGIlPnVuhZfLUummiuBYzMpB755h6ZqTQymSvU5LS+rgmwER6uSz01kUABdcUcqV4fdzMWeFcWIafxU2YVLsIk4S65nVdEthP0uy5jHR9Q1n7BXfepD+nl/bzScz9merbBGYoO8JTH3y7iY+lHxXsWEJVsf8fg7MlF9tyDwa9PN1oHaC88br0t2PAhelLPGovki2fiHw=;Ms0s8Ejvn1nH6d19CTFCyA=="
 ---
 

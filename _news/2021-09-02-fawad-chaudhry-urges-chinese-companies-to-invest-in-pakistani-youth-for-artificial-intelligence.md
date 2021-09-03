@@ -40,20 +40,6 @@ related:
         width: 959
         height: 540
         isCached: true
-  - title: "Chinese AI firm SenseTime applies for $12b IPO in Hong Kong"
-    excerpt: "Chinese artificial intelligence (AI) company SenseTime has submitted an application to the Hong Kong Exchanges and Clearing (HKEX) for a proposed IPO that may become the world's largest in the field of AI with a valuation of $12 billion. AI companies have ..."
-    publishedDateTime: 2021-08-29T13:43:00Z
-    webUrl: "https://www.globaltimes.cn/page/202108/1232758.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-08-23/41c23040-0432-4bd5-85a5-fe0f8060b40f.jpeg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "UZS5KG+9iRFZ2EW1kWF47hmMCH75y+zsrVH1xbao00JToVChLaHKElInTyfmQvJOL/oAkapLfCtvbW7wjmtyG3saMZKOnJkWU2ZLO+dD7Hf9vGUGIqGZo1QBkkfrIWzJl21ie03vjYXrG4r3Rg8LIDlcB5UKh/GXPKaW+hbelMc52NMarE/b4T7L3wlFGvl187mN+qY5zU4/nQ6uyB0GkkOvL/JfD4l/vLDQTrgUfn8KkNr658rz3n5I0v1ebScFjau1AyFAzWGEYdE2w4KJZu7S831zBzX6pw0eH96KoFoIuspqaR2b1ytbQX29O1ouiHZbH1q53tip8I6RoI6HQE03bap2j/dGDGgrPnHwm+w=;AipL6zfmKOGuuDTuNIA2lA=="
 ---

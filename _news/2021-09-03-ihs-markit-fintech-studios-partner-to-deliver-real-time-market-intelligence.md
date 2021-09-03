@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
-excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
-publishedDateTime: 2021-08-31T08:53:00Z
-originalUrl: "https://www.indianweb2.com/2021/08/spice-money-partners-with-israels.html"
-webUrl: "https://www.indianweb2.com/2021/08/spice-money-partners-with-israels.html"
+title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"
+excerpt: "IHS Markit has formed an alliance with FinTech Studios to deliver highly-relevant market intelligence, research and"
+publishedDateTime: 2021-09-03T07:24:00Z
+originalUrl: "https://ibsintelligence.com/ibsi-news/ihs-markit-fintech-studios-partner-to-deliver-real-time-market-intelligence/"
+webUrl: "https://ibsintelligence.com/ibsi-news/ihs-markit-fintech-studios-partner-to-deliver-real-time-market-intelligence/"
 type: article
-quality: 0
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: indianweb2.com
-  domain: indianweb2.com
+  name: IBS
+  domain: ibsintelligence.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
@@ -134,20 +140,6 @@ related:
         width: 300
         height: 400
         isCached: true
-  - title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"
-    excerpt: "IHS Markit has formed an alliance with FinTech Studios to deliver highly-relevant market intelligence, research and"
-    publishedDateTime: 2021-09-03T07:24:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/ihs-markit-fintech-studios-partner-to-deliver-real-time-market-intelligence/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 21
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Forum addresses importance of FinTech, AI in future careers"
     excerpt: "The minister stressed that the forum seeks to identify and discuss the reality of future professions in Bahrain in financial technology (FinTech), artificial intelligence (AI) and sustainable energy as well as labor market trends and expected jobs in the near future."
     publishedDateTime: 2021-09-01T14:46:00Z
@@ -180,6 +172,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 4
+  - title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
+    excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
+    publishedDateTime: 2021-08-31T08:53:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/spice-money-partners-with-israels.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 0
   - title: "Tampa Bay Wave unveils startups to watch, new fintech focus at latest pitch night"
     excerpt: "X accelerators, the latter of which proved to be so successful the Wave is launching new financial technology-focused programming in th"
     publishedDateTime: 2021-09-02T11:01:00Z
@@ -190,6 +191,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "8+XJtSJg9orFKzwOHWLhTRvFJMt+9wMXHG2XgZLYgmgJCvHFqUA45u4ivw1Ve997EcnJ6jTx2McArGRyH4UIUhujd6QyP5/88etni3bGsL06UQnVzjn2WyhH36LJtaBAcfGR6bUVDaxAohb/WyYCnm88ItHiAluH76nW+xf5dQrA6XcAKPIbw2t7UZau1J1VM0TuQksZ7A/bPxe+3efF8IfpQeguafpmHHFEcNl5j8I5t+cEYIkCT+5fW25QsKjo0yCF83ao5JODC2v+TXBipiqfdsXRQE/9VCazn+RJ1zvSLVCVKV9KaSrCLn6V3fQyf1iSd43znazppXrZ2TjdaWPwI1wJVszDbTfv2dqDnGs=;pvikAh6ccgqsSSgWhFkwCA=="
+secured: "L3ca0zw27bWQ9rQB8JrI7JZXm25kqQOJPp11MBAjuhf6mknstCHyqmBjrY6KT2PNRdA4IRjPWbK8RgF4z3MxyfB/YeRNkO9mCcUfJI+8LEFOtm0OYJTJ19KUrnqWoA448QLfBUbLX1OGVlIRz7FdiK3c9Q6+dPyc2QGgFbYCDYe0e9yLjz/B3zWyu3XxMa7fgfHGDwLchxa5PyDJYz/Nuf5VDMfCOi68Q0qaYiTzxfepCv+gdNxnDhPDAD5MU6zhbG68cQB/D9VFLuKtK3cKKo80hhrJ4/jeEWKaqfw7IXc2Z3SDlnudeZFWngdmHtQkdzZ+97q7n4sQXAamICoIwEjDuNDvsB/KaMXvbEkJqi0=;KNLSku/b0VQknXf0E2nzsQ=="
 ---
 

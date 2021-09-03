@@ -134,6 +134,20 @@ related:
         width: 300
         height: 400
         isCached: true
+  - title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"
+    excerpt: "IHS Markit has formed an alliance with FinTech Studios to deliver highly-relevant market intelligence, research and"
+    publishedDateTime: 2021-09-03T07:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ihs-markit-fintech-studios-partner-to-deliver-real-time-market-intelligence/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 21
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
     excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
     publishedDateTime: 2021-09-02T11:50:00Z

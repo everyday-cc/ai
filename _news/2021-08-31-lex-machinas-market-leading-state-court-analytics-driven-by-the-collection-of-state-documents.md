@@ -3,8 +3,8 @@ category: news
 title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
 excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
 publishedDateTime: 2021-08-31T15:38:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+originalUrl: "https://apnews.com/press-release/PRNewswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+webUrl: "https://apnews.com/press-release/PRNewswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
 type: article
 quality: 12
 heat: -1
@@ -135,6 +135,6 @@ related:
         height: 600
         isCached: true
 
-secured: "KQvOXZARVCWc6+1vEGFCtx+O9jIQXwf6TM4oCGNH7kzmAtd5p1XnJW0SOBFScSP7cbCwl+hGP98lRaqDbi/AzKdaJtIirRjl8oh9PUTWVaPq1pgMTLCW+SPZZIhhCFyRd7Bm2FzE4WlhT7m4x5LgoVqc9BQ1jFJ0LdWQM6m9waMP0pV3BVnr2SKoTM2N2EqYufUdfEwYcm1NCsT0HVRYqNsw1u9VjawHpy/1MzaVHFcDKBZ2EZDME+3ARZF9nWGsqagmpRzf4Ny1oQsNcsa+D+0TCtxPZvuPxS2+UXyfWg+d/iaOPDKUa0wbadPgc2esqzRXyhX4puWYUGa0jqG+LKjxEJANTLxdMmsm/1CkNxI=;szwJWT0OHtn3a7jlKCbRoA=="
+secured: "7qjxzQ1HHI9aW7dOYVkIKScyg0FJ2SynKkc1Nqyjv4ldf8tyz++DnJbkquF4Pv6zUn6Vo8Q7pzFv95ZUrWN/cAo9GrVyuMk+iQzPJ313LL9MU0XzV/UpuEegqzfKAUtf42Y4rBhEXYA1Z0JC2O+XaS6qTkErQMM06BkPozPb6DvXY9e9/JE25zTaVL82mU4ETa2Apj3g9cm3fpvmScUI6KfSBRLRalTTw8Yo1re8b7tMHhVZVVEN7xjLfKQltuFE9ivqvL3PSL/5tJu0nm0Wpw3EqFiJ/gBHV4F9NkNiJm9T5kW78jr14Xc//2DZbe/Y4akoryuz6RldeuU0jtNml6+7mtxiAYW2F8/aQ4Tv/eI=;xQzafd38JvACNkwcma3+uQ=="
 ---
 

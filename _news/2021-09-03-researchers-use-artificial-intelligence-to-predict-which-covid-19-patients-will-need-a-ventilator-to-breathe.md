@@ -56,6 +56,20 @@ related:
         width: 800
         height: 570
         isCached: true
+  - title: "AI to predict Covid patients at dire need for ventilators"
+    excerpt: "US researchers have developed an online tool using Artificial Intelligence (AI) to help medical staff quickly determine which Covid-19 patients will need help breathing with a ventilator. The team at Case Western Reserve University developed the tool,"
+    publishedDateTime: 2021-09-03T07:58:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=869664"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
+        width: 280
+        height: 250
+        isCached: true
   - title: "Researchers bring innovative AI and simulation tools to the COVID-19 battlefront"
     excerpt: "In its on-going campaign to reveal the inner workings of the Sar-CoV-2 virus, the U.S. Department of Energy's (DOE) Argonne National Laboratory is leading efforts to couple artificial intelligence (AI) and cutting-edge simulation workflows to better understand biological observations and accelerate drug discovery."
     publishedDateTime: 2021-09-01T07:43:00Z

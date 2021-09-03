@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New AI solution accurately assesses vehicle condition in minutes"
-excerpt: "Tractable, the company developing AI for visual assessment and disaster recovery, today launches AI Inspection, a new solution that accurately assesses the external condition of a vehicle’s body within minutes AI Inspection allows anyone with a smartphone to quickly and easily assess a vehicle through a mobile-friendly web-based app,"
+excerpt: "NEW YORK, Sept. 2, 2021 /PRNewswire/ -- Tractable, the company developing AI for visual assessment and disaster recovery, today launches AI Inspection, a new solution that accurately assesses the external condition of a vehicle’s body within minutes AI ..."
 publishedDateTime: 2021-09-02T23:08:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-8172c68d7a01febb5c5b39b9997dab44"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-8172c68d7a01febb5c5b39b9997dab44"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-8172c68d7a01febb5c5b39b9997dab44"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-8172c68d7a01febb5c5b39b9997dab44"
 type: article
 quality: 37
 heat: 37
@@ -39,6 +39,6 @@ related:
         height: 574
         isCached: true
 
-secured: "urUjNXmnL3Up6BLbgl1hFL9HVdIoISLaOm7FTs1W+sQUX6FsTe2Lb+j5eO53df0gohh3I8IpU53enwFIHpi8egCv/8/cBGix5/F/t4mqHrrBiiQmRo4fm6nHirnjXmt3otJlnXIqXRxaO19uk4mlQi0zCZjGZ4MJdEdJ8VA4+jDF2h9qNT9zR4Q/21r27cykjHolTf4zTX286tA9trRnPSxlNX2JKCIfKZzWPoX9iBcq1jv+ZD5TpcXyj1vBRA/a1clht0Ao9x4tQxDtg/zbPwOK5VQbtVSInC/VkYZHCmme+y/4kWO8dbe25Eb7Wkoje54PvofkMLUQN4YYNDj/CmA8AEj0DA+a6p7eypqzPNI=;bUNbaQnM9KZ88BxM622XPQ=="
+secured: "cQHkTov140yWamnnwIg9Hx7jInLRc6TIP8JjZlN3ChGrKBMUNNN/GlJkE7QTjkngGrEd4/t3MTMGcP53Zu+l3Cx+5C/DCdyoki1un03YDuXNlTpnFY5R6boLZFbgjmZVyMu7yJZOwVWe4yUxic5a33APz4xb4pAniD8H8n2okNZaorFsi/e8GJt+C5GBflcrYnnw/WKtagIEwKhrBvIxstf9fF80KqxDNCBD7ayGnsAYZoqigvzGETieFBofkv2JMm5c6O0NgynuQ6fgY6bkxbW7zfnuoDzdySuVbk9ZnVimGlyYZYHMeRybBADUKp1tA3mbbkhlUKppEenJuEW5akHkFQUi1qTTwHSM/03+ysE=;VUbh5jvk6ZV9aMbtOHW04Q=="
 ---
 

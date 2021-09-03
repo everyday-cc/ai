@@ -2,21 +2,27 @@
 category: news
 title: "Ushur Forms AI Research Group to Power the Future of Customer Experience Automation"
 excerpt: "Ushur, the leader in AI-powered Customer Experience Automation™ (CXA), today announced the launch of Ushur AI Lab, a research group dedicated to tackling some of the most pressing issues in natural language processing (NLP),"
-publishedDateTime: 2021-09-02T10:00:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8319305/ushur-forms-ai-research-group-to-power-the-future-of-customer-experience-automation"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8319305/ushur-forms-ai-research-group-to-power-the-future-of-customer-experience-automation"
+publishedDateTime: 2021-09-02T15:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-8de1ba4467121aca287c9bd55398e5ec"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-8de1ba4467121aca287c9bd55398e5ec"
 type: article
-quality: 13
-heat: 13
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Kanverse.ai Launches Fluorite Release of its AI-Powered IDP Product for Insurance, Strengthens AP Invoice Automation Offering"
@@ -29,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "oymkMuYwXeRi/+nAhSO/vwyM/fCQvxAXPGHo49DjYuFQo1td0CYEZw7y9MF9plYsnbKKU6jVUMbzgz5739EeysyD2jbZwtXdTfwE04veeOWjQkXHWrxvzxfke4XRHM9P+W167PVrNabs/kDbA9zbQ/kIrMH0OqbLQ/WC+PaWYQccCoA6ldiLb4nuTTT6O/VGskbqGNSaqyJ9KiDpZqUzKKYGnEm6d8md8bKKUOHDeNiMSawgsU7he+pcMEGHaOvytpf/p4GRoFJWWGJ/fgI3zj7tdv7vFJNsyVU3DOVRlTTPwVRGJQtWZ1Cfu/Wcs2PzkXnEQ5Y6ri5IfoyE9wgJVujudYYthrUsjpONrdn6OKg=;D2p6Stnj5bto402v3xeAhA=="
+secured: "kOfpcGq3SFgtxl+MKxYEaKIWF4RcU/tNMgzGes04ighSHMBlk202TDcttxKS9PD2GQWmOooCjwkSf7dN6y0B9FcWH0oBsmm4he4DIno1x6vfy124SlcosiEfC+VlNdSIwSOGHe45dhVA8ScYql85shtUkBJKMJgO67IviKqnroeRsdwl/3NTBEuu0ixSd5z2imTSQ+v1ev2mVnx7DUGkWSyAXmzdOzyy039VSBAjNU+j37fQ8zW+Uzy+0gSLkK0sGfDUpO7TrFGLP5+cUjYcS2blIOwBUhVdQgtc9OgQojzUUdyFji/ZHCQ+pZvxS9XHQn1wd6jebvm5lIeKoRwnuozut6qp4cfMe54d+AmEwzg=;nYNFcjwrSG/GtQ6a5jYXqA=="
 ---
 

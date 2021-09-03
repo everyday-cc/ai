@@ -3,8 +3,8 @@ category: news
 title: "Richard Geruson, NexOptic Chairman Reports, NexOptic Develops Neural Embed Technology: Part of ..."
 excerpt: "NexOptic Technology Corp. (“NexOptic” or the “Company”) (TSX VENTURE: NXO) (OTCQB: NXOPF) (FSE: E3O1), an innovator in cutting-edge Artificial Intelligence (AI) imaging unveiled the newest offering of its ALIIS™ program today—Neural Embedding AI for Imaging (“Neural Embedding”) The technology is processed on-device(s) in real-time,"
 publishedDateTime: 2021-09-02T17:03:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-business-68e9e18db4514860678aca1a2c7aa321"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-business-68e9e18db4514860678aca1a2c7aa321"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-business-68e9e18db4514860678aca1a2c7aa321"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-business-68e9e18db4514860678aca1a2c7aa321"
 type: article
 quality: 25
 heat: 25
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "ppn2U+5dujUbpsaNJUEmOBf6Gz0q6X/GZN/9nQTlSzS2Q1bc15I2xx5NKOWv3JscsGlTQonV10rpNR9WZnYYQc7ORvqkFEr1DmIOIeUTg/Q06TUqZFa6I8owmIez30g0e0Wo590hcShy/BAU0rFQLbHkKLr+Z3PCjsCHckeaS895mwqGBIPBgv8UwSlMCq/uJFxCo4FCOsokNbzfNgMrDdQQrmF/DqsCa2hIFK4bkauqkSrzvOfdTP9R7jbWB0b5kOjgnkOcb2dXJgXTiq79PjZlg2bOzQc+w2LH+ag6pZTklvD5kEtQJSjmL7LgJFsJEBoMZh+6YYqA21cEUHfJI4O4k+eTPbXNp/beFqrvBBA=;MwH2TU1+NTegHZVS1x/fgA=="
+secured: "5Mp3J2cUI0Xf0k+XgaPrrjR9YHmDALkZhF/TQ1YcA+feUQzgv0F1BkSEZv9HosDXvC9JJfLtijo32Mb0WhOjnCEyzsyU8Y8uo/8vA1WlhGluhV9t6UBQQpFdkCgBfhhlPuS8cIgdBSqEd5XsEMKvqucaFOWbY5P4BBR/Lm6+4Be1vONMOnpsWSyLfEY4PbfIrkOzO6k76HrD5mVxl7KtkCSW04mUkTg7bm201LRzr6gxK2e/4OBSkmQiNLoAv+c41FQOqEyjLEYrhzGvvVhL+KU46FKFZYc5EuYVTcKtBeJXleW7794ILOv+2tAJDc73QvVrdtf8mxL9bV3QaF6VlE9gzjjIkcIpSrEn5rHf37M=;t6sBzxZ316D0NsgQZwYn1Q=="
 ---
 

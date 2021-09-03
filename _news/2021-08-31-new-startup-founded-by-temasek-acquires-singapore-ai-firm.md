@@ -36,6 +36,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Singapore isn’t self-reliant for food. This innovative startup wants to fix that"
+    excerpt: "When David Tan started Netatech 13 years ago, he realized that Singapore was not self-reliant when it came to food production, with farms in the city-state supplying less than 10% of the population’s food requirements."
+    publishedDateTime: 2021-09-03T06:15:00Z
+    webUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovative-startup-fix?ref=recommender-705576"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 27
   - title: "Korea, Singapore discuss mutual recognition of vaccine certificates"
     excerpt: "National Assembly Speaker Park Byeong-seug and his Singaporean counterpart Tan Chuan-Jin agreed on the need to mutually recognize COVID-19 vaccination certificates and to resume a reciprocal quarantine exemption arrangement at a virtual meeting held on Friday,"
     publishedDateTime: 2021-08-30T02:01:00Z

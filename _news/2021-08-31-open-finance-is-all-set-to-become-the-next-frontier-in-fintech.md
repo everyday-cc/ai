@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382675"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382675"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -128,6 +128,20 @@ related:
     images:
       - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
         width: 300
+        height: 400
+        isCached: true
+  - title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"
+    excerpt: "IHS Markit has formed an alliance with FinTech Studios to deliver highly-relevant market intelligence, research and"
+    publishedDateTime: 2021-09-03T07:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ihs-markit-fintech-studios-partner-to-deliver-real-time-market-intelligence/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 21
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
+        width: 400
         height: 400
         isCached: true
   - title: "Forum addresses importance of FinTech, AI in future careers"

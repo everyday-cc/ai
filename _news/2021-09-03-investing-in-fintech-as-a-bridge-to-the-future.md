@@ -126,6 +126,20 @@ related:
         width: 300
         height: 400
         isCached: true
+  - title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"
+    excerpt: "IHS Markit has formed an alliance with FinTech Studios to deliver highly-relevant market intelligence, research and"
+    publishedDateTime: 2021-09-03T07:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ihs-markit-fintech-studios-partner-to-deliver-real-time-market-intelligence/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 21
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Forum addresses importance of FinTech, AI in future careers"
     excerpt: "The minister stressed that the forum seeks to identify and discuss the reality of future professions in Bahrain in financial technology (FinTech), artificial intelligence (AI) and sustainable energy as well as labor market trends and expected jobs in the near future."
     publishedDateTime: 2021-09-01T14:46:00Z
@@ -177,6 +191,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "T9k0R3TFzdiXgj0qQrLtty84di/1RI5ygSdGdG+u9aqvVoHsUDvP9e+IzHJB8gq4g1BDc+hvW3wluUw7pHEhOwzM9FrOcUTN58Ynychkf3qln1yQmA1cjK0fmAO1M9BYyplKKdvw84Xa8pwFkzZXbQs30W9p8qdfc9ztesOVwbn+VS3+rS4kStdJg3EUURBTBixIenOinTYW+cvIXTI3H4M8BuDEx/zvKasXPzvrTxTPCfQWLbZC+JRopxUX/7+8yxsUFdPznCAgB7dOsHseu+PxBZ+ZGNnd0iQ+uNraoJRPy1Mlj/MGqcIKiOB5G15656X/0FVCQmJxs5QRm3Fvan4YZ3N+UZ5OKtpoV4cpnvc=;5YkXBrIUVC04JIQFPDgwJA=="
+secured: "HpBAl+Xm2I3wlLPBOQHa8GQAj+R5ozQBwzZ59WYIPwz9lRdLE/9wt3pc1Bu1mGoM+ckyz99K37q4d9Dju+vpG2ilQHyZp3nf+SMVLBwbHZVDcFbwlh+YTJlBq2E9CLvAAMcPzPKZqzR80qKku43KfbjmYnl24FloiNGj+BgrkvZUEzDO9f6iEAI6iaeyHc9FIIZndXM+WsB7uf3VShQ73z/LljbhMTkTjK974YMQnWGo+PeCdv7tiSZIZuujz5b8FMpEI08zodDv9D2U5kKuWuuBZhEmFg6kUhc1ECeN9JOeGUSWoZ0CVME66vkfhlrZXvJ1GkfOfiTQneasvTXsEPtLQ8tOZu7kRHn0xgJlboEOYXM3igS6S8JIOzEMwOJiiecqH6c8u1R7QOn0MbZte8ajDYJR15xu93VN/nbQ/flcfwmlPfon22PI6KNhppyZhLysqtKiDNNIY7h4UPadgTKnU4kz30Xyoi9C7lEBW2QB+9StQkibz6xoe5dMK6TZ5TZ62WebC3vfCmHK0BGHzw==;hJUz2aH5z3hA3bEiZ0CFeg=="
 ---
 

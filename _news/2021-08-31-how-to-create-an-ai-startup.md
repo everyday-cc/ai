@@ -26,71 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How to make AI more ethical"
-    excerpt: "We practice this at my company through a cross-functional Privacy and Ethics Board and a separate ethical AI subcommittee. These groups help us define corporate ethical principles and procedures ..."
-    publishedDateTime: 2021-08-29T13:22:00Z
-    webUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/"
-    ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
+  - title: "Voice AI startup Skit raises $23 million to fuel its US expansion plans"
+    excerpt: "Founded in 2016 by Sourabh Gupta and Akshay Deshraj, Skit has a suite of speech and language solutions that allow enterprises to automate their call centre operations. In August, the startup set up its new headquarters in New York City."
+    publishedDateTime: 2021-09-01T10:46:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/voice-ai-startup-skit-raises-23-million-to-fuel-its-us-expansion-plans/articleshow/85831349.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/voice-ai-startup-skit-raises-23-million-to-fuel-its-us-expansion-plans/amp_articleshow/85831349.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/voice-ai-startup-skit-raises-23-million-to-fuel-its-us-expansion-plans/amp_articleshow/85831349.cms"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Why The Ethics Of AI Are Complicated"
-    excerpt: "The question isn't really whether AI will eventually become more intelligent than humans (it definitely will) or whether it will turn good or evil. It's what we can do right now to make sure it turns \"good\" (or,"
-    publishedDateTime: 2021-08-30T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/30/why-the-ethics-of-ai-are-complicated/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61292026053f741229b0da60%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1181%26cropY1%3D146%26cropY2%3D1032"
-        width: 1181
-        height: 886
-        isCached: true
-  - title: "Why Businesses Benefit From Building Ethical AI"
-    excerpt: "Compatible Artificial Intelligence (CHAI) Throughout the pandemic, many businesses have turned to artificial intelligence at"
-    publishedDateTime: 2021-08-31T14:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
-  - title: "Zebra to acquire artificial intelligence software company"
-    excerpt: "Zebra Technologies Monday said it intends to acquire Antuit.ai, a provider of artificial intelligence-powered software solutions specific to forecasting and merchandising for the retail and consumer packaged goods industries."
-    publishedDateTime: 2021-08-30T18:24:00Z
-    webUrl: "https://www.dailyherald.com/business/20210830/zebra-to-acquire-artificial-intelligence-software-company"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20210830/business/210839944/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210830/business/210839944/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 37
-  - title: "How Businesses Use AI to Boost Revenue"
-    excerpt: "In the era of big data, digitization has enabled the conditions for AI applications to flourish and generate revenue.  Artificial Intelligence is perhaps the most hyped technology of the 21st century,"
-    publishedDateTime: 2021-09-01T17:06:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-Businesses-Use-AI-to-Boost-Revenue-16428273.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/54/66/21417401/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-3292328,msid-85831324/skit.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "J1R8TJ4gibuKxUIfUka3yEbSk0IJkREkrjBlTiHVqY3uh8vrFJBw+0joPc26q1h/7pPVvx42wA+z7blps9A4/Ilnszdwmt0YTcUo+IeGz+5L2orrc3+zrqTWN/ra/hQbQkupZeJxXtU50I3AmMYqHkkSnIGUH23/93GqGx+rYzx9NAE4m2SVtHQgkLSiP+LJn0Jb6wP680j3lhJPZyD5Ntr6weNPrettolXw8Rs4gsETMiOai6dAvojOrSdMStA444gLYQ7uUwzx9E4a9LZMFSW+4n5IkyNs21UuzfMtP3EOr84sRavdGAUGFYp9QXZjZidLg9Ej47Iz4PmL2expd5BX+l1egGFDgDOHQmH1eKxcCMbPqxHSsRnIch0AHWhEyiM/3tQcQxnTVoiyCUCZCFZ4wt12C8QCjGKxE9RPnAnOpQTAyaOmF7YNBGhZOBJkuvQ91h1eQmwN0lEwx0JyU9tCXS29VXHxFJKq7D/xxyNOtPQx5aK9nRmIHMogcGJyQS5Y3eOCmerZdo5IQPKu9Q==;SMjCqCOs5ikGZoA+KNNDPw=="

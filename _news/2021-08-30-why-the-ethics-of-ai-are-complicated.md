@@ -29,71 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "How to make AI more ethical"
-    excerpt: "We practice this at my company through a cross-functional Privacy and Ethics Board and a separate ethical AI subcommittee. These groups help us define corporate ethical principles and procedures ..."
-    publishedDateTime: 2021-08-29T13:22:00Z
-    webUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/"
-    ampWebUrl: "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/"
+  - title: "Ignore the AI hype, focus on the value"
+    excerpt: "Organizations need to focus on using AI to find solutions to real problems, not on acquiring the newest, shiniest tech."
+    publishedDateTime: 2021-08-30T16:20:00Z
+    webUrl: "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/"
+    ampWebUrl: "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Why Businesses Benefit From Building Ethical AI"
-    excerpt: "Compatible Artificial Intelligence (CHAI) Throughout the pandemic, many businesses have turned to artificial intelligence at"
-    publishedDateTime: 2021-08-31T14:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
-  - title: "How To Create An AI Startup"
-    excerpt: "Artificial intelligence is the future of the world, according to many experts. With the rise of AI-enabled chatbots, voice assistants, and driverless cars, it’s hard to argue. Here are the essential tips for founding an AI startup."
-    publishedDateTime: 2021-08-31T07:24:00Z
-    webUrl: "https://www.analyticsinsight.net/how-to-create-an-ai-startup/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-10.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Zebra to acquire artificial intelligence software company"
-    excerpt: "Zebra Technologies Monday said it intends to acquire Antuit.ai, a provider of artificial intelligence-powered software solutions specific to forecasting and merchandising for the retail and consumer packaged goods industries."
-    publishedDateTime: 2021-08-30T18:24:00Z
-    webUrl: "https://www.dailyherald.com/business/20210830/zebra-to-acquire-artificial-intelligence-software-company"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20210830/business/210839944/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210830/business/210839944/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 37
-  - title: "How Businesses Use AI to Boost Revenue"
-    excerpt: "In the era of big data, digitization has enabled the conditions for AI applications to flourish and generate revenue.  Artificial Intelligence is perhaps the most hyped technology of the 21st century,"
-    publishedDateTime: 2021-09-01T17:06:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-Businesses-Use-AI-to-Boost-Revenue-16428273.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/54/66/21417401/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "GazG+o/DASqRakX5xoWZwHDyG2ms3wgmn/RJ0kWX7wnDT9Sw4xg6bgjBR0qxLTtb6QrwMuK6pd7NNEDzbsM16cJ1+j8OmobiN7Lw1ECxEU4Z0T1wz3Bays8Lb8WVG4nM3mpa5inbYp9KipKCGteIafYBzDyn/d+XwxSLCCiOxDN8PjKqnAu69aNSQHqkmejt2FgIozG/aV2PPN/C/fuNnZd3OSPOJmqbgiHXV1SN+kHpSa84khVf0MC6q/ad5xGl08JFp2rL+07Nr98giDvIsLCh3QB2XApBk9+eggzLb4Q50RJqENzI3Ckf3PL9/htOWkFM3O98BcWLjKKHfnwJ9TQTI1gqlIdwW9OX/qLx4uNDqEMjFtWhvQy5lniDLEFtbZBe6CB00BjX8AlVTvjAN0KyUAGYV93osibtANjQexD8RxbnhLlJFd2SWppikt6lHSTGevyJbCBgCu0vfKtyNalkowqvvbBjbDRUORsSpClNfnzoi1oG4UdURslqS2LFoQjCiNoOs1i6rTDtRTaNfg==;iLz/XJEd/fz9TozALdeKYQ=="
