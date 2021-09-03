@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Top Positive and Negative Impacts of AI & ML on Cybersecurity"
+    excerpt: "You might have heard only praise and good things about AI and ML, but that does not mean that they cannot become a bitter enemy to humanity. AI & ML are advanced technologies bound to function under the administrator’s command."
+    publishedDateTime: 2021-09-03T17:04:00Z
+    webUrl: "https://customerthink.com/top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/security-265130_1280-tech-pixabay.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Arctic Wolf Selects AWS to Power Global Cybersecurity Offering at Scale"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that Arctic Wolf Networks has selected AWS as its primary cloud provider to power the company's innovative, cloud-native security operations platform."
     publishedDateTime: 2021-09-01T13:18:00Z

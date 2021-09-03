@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22723083"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22723083"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Benzinga.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fighting fake news with AI"
-    excerpt: "PETALING JAYA: To combat the proliferation of fake news, companies across the globe are resorting to artificial intelligence (AI) programs which are able to analyse and flag disinformation. Firms like AlphaVu and Logically use these virtual sleuths to mine ..."
-    publishedDateTime: 2021-08-29T23:42:00Z
-    webUrl: "https://www.thestar.com.my/news/nation/2021/08/30/fighting-fake-news-with-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/08/30/1273994.jpg"
-        width: 1240
-        height: 892
-        isCached: true
   - title: "AnChain.AI raises $10M to monitor crypto and digital assets"
     excerpt: "AnChain.AI, a blockchain security company that monitors crypto and digital assets, today announced it has raised $10 million in new funding led by SIG Asia Investments LLLP on the heels of being awarded a multiyear contract with the Securities and Exchange Commission."
     publishedDateTime: 2021-09-01T17:22:00Z

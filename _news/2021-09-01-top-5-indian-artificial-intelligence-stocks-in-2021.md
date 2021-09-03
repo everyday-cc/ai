@@ -42,6 +42,20 @@ related:
         width: 938
         height: 527
         isCached: true
+  - title: "10 Indian AI Startups To Watch in 2021"
+    excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
+    publishedDateTime: 2021-09-02T13:00:00Z
+    webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
+    type: article
+    provider:
+      name: Open Data Science
+      domain: opendatascience.com
+    quality: 39
+    images:
+      - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
+        width: 640
+        height: 300
+        isCached: true
   - title: "Indian Navy procures indigenously developed Robotic Lifebuoys from startup"
     excerpt: "In a big boost to the 'Self Reliant India' campaign, Indian Navy signed a Rs 13 crore contract to procure country's first indigenously developed Robotic Lifebuoys. The contract was bagged by a startup -- Saif Seas -- based in Visakhapatnam."
     publishedDateTime: 2021-08-30T16:27:00Z

@@ -59,6 +59,20 @@ related:
         width: 2500
         height: 1734
         isCached: true
+  - title: "JAIC completes draft of AI ethics implementation guidance"
+    excerpt: "The Department of Defense’s Joint Artificial Intelligence Center (JAIC) briefed Deputy Secretary of Defense Kathleen Hicks late last month on how it plans to implement the DOD’s AI ethics principles."
+    publishedDateTime: 2021-09-03T17:02:00Z
+    webUrl: "https://www.fedscoop.com/ai-ethics-draft-implementation-policy-jaic/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
 
 secured: "TzXnkqj70IEJc9XNzpsNGEIkIQbTLuKvrb/If+hIZ5aSewp598D9eB6/gLiXF8Y1nwE+8CXrneG/hKR0rQK7VKTpdiCrVUJ9NmqFxVn8DJ/ErRRqYRLjlh3VrAQrpQ4bmFMY8H5y1qTmivp1vkxqMKG/BvtNQfRuJ+9wxXyZLy/MR0Zs16MFGwcU2xQG0JQYha/zWoxg9BsowN6K+AcsKi1KpvQ9yOxhui/r7euZTAjxzZ4VnEF3OnYyB6gywGJyudwvvNuEBW3ohcpZ86oxm3Ppvmxn/cKquVuheQjxNn0ldZoIEG0NMUAiGhKETBsbZUUt1kUzRrigqQmnB5m5CkjycgZy2qtLhswmx0r5h/M=;lblX69hvrEYYIRY3AhUqRw=="
 ---

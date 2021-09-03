@@ -49,6 +49,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "10 Indian AI Startups To Watch in 2021"
+    excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
+    publishedDateTime: 2021-09-02T13:00:00Z
+    webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
+    type: article
+    provider:
+      name: Open Data Science
+      domain: opendatascience.com
+    quality: 39
+    images:
+      - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
+        width: 640
+        height: 300
+        isCached: true
 
 secured: "gtZDvbzuhSmnt27aUaBJYqnaoT0RtVshw8/k+gTI7BID+gmo6jviWWcTGSd4PakMECfqlIlK8ksfq4ygpWILbDLt9tvoMJbcAfF+sJrpjW9cMmP0aF1siS1KmIjf2iTDqU80G2Nm0nw/orsHbINYqiIQEMSe1upCKYIkU8Rb4JWEv3oj+M9tT5WfAsanpLj3mwodsWMdWONXNz+RCSvPCvJ+K7xq9SKQDsGpm+GdXjQCigvLwcb34WMTnxoTcZalL/csEG6ysbFKCSI+1za1z7KqvLZBp7JgboZbYT0W4eof7EhEx+0qxfdQd/FDR23UeXeH5ofK7f4VCcQMBcT2tP3sIpd/B1GTFsAk5Jxmdp0=;hccVh+dqC0KwlRs2g54Opg=="
 ---

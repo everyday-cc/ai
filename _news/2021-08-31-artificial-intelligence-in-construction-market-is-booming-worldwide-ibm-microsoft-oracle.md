@@ -43,6 +43,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Bias persists in face detection systems from Amazon, Microsoft, and Google"
+    excerpt: "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon."
+    publishedDateTime: 2021-09-03T17:40:00Z
+    webUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/"
+    ampWebUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Verizon, Microsoft launch private edge solution"
     excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
     publishedDateTime: 2021-09-01T08:28:00Z

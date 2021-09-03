@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-31-israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations.md",
+      "title": "Israeli AI startup bets on robotic beehives to save global bee populations",
+      "excerpt": "Beewise says round-the-clock monitoring, care for honeybees will make world of difference in protecting pollinators, global food supply and agriculture",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/",
+      "originalUrl": "https://www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/08/Beewise-Founders-left-to-right-Hillel-Schreier-Eliyah-Radzyner-Saar-Safra-Yossi-Surin-Botz-Petersil-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/amp/",
+      "publishedDateTime": "2021-08-31T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-ibm-openpages-with-watson-wins-red-dot-design-award.md",
       "title": "IBM OpenPages With Watson Wins Red Dot Design Award",
       "excerpt": "We are pleased to announce that IBM OpenPages with Watson has won an Interface &#38; User Experience Design award at the 2021 Red Dot Awards. Each year, agencies, designers, and companies all over the world gather to celebrate the best in design, with the Red Dot Award: Brands &#38; Communication Design",
@@ -710,7 +753,7 @@
       "originalUrl": "https://www.sentinelassam.com/national-news/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-552687",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -741,48 +784,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-sec-to-monitor-defi-with-artificial-intelligence.md",
-      "title": "SEC To Monitor DeFi With Artificial Intelligence",
-      "excerpt": "The United States Securities and Exchange Commission (SEC) signed a deal with blockchain analytics firm AnChain.AI to help its efforts in",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/cryptocurrency/21/08/22723083/sec-to-monitor-defi-with-artificial-intelligence",
-      "originalUrl": "https://www.benzinga.com/markets/cryptocurrency/21/08/22723083/sec-to-monitor-defi-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/screen_shot_2021-08-30_at_7.30.20_pm.png",
-          "width": 1402,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22723083",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22723083",
-      "publishedDateTime": "2021-08-30T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

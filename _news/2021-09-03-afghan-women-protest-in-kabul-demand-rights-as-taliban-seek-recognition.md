@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 858
         isCached: true
+  - title: "Afghan women demand rights as Taliban seek recognition"
+    excerpt: "Now they face the urgent challenge of governing a war-ravaged country that is heavily reliant on international aid. The Taliban have promised an inclusive government and a more moderate form of Islamic rule than when they last ruled the country from 1996 ..."
+    publishedDateTime: 2021-09-03T17:51:00Z
+    webUrl: "https://www.abqjournal.com/2425899/afghan-women-demand-rights-as-taliban-seek-recognition.html"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 24
+    images:
+      - url: "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2021/09/03/BC-AS-Afghanistan-IMG.jpg"
+        width: 1024
+        height: 732
+        isCached: true
 
 secured: "4sf1AAH+JWVWVDxiL2FyQBoAtEvy486DVX2fh20B2RL/PtQZTkzxzp1a3uV3ubJ3jRHAz+eK5zx0r6SrF3q20vmpY3yUSSWoQVNZvVPsPh30DOXO22nPZlLya6vFqPKfvLTxBX8JyPJSp2Gvpo/wqozkgX5+vlZSfA45t8rxvSiU5/EcaBwzcjD9wzEqtbBdDb6HBaeK0Go+hA6kaVLoM7oKje432q0WZ284QLWAipcRNdPfyugCFKwwHdraCNBdPMrfHNSmEwN5QuAbQs+zT5b0QfutXO3e8k09VUYwkbg9SOLQ/EeWLGqf5X0++CeRCgURww88NqgMA+tpLQsxZMKdQSVRvzoxTW7Kc9aW8so=;/HsgWSNmShJ9PQF0bgZfzg=="
 ---

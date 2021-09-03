@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/31/kai-fu-lee-and-chen-qiufan-will-sh
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/kai-fu-lee-and-chen-qiufan-will-share-their-vision-of-our-ai-powered-future-at-disrupt/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 536
     isCached: true
-
-related:
-  - title: "Kai Fu Lee’s Vision of the Future of 2041"
-    excerpt: "Dr. Kai-Fu Lee has spent more than three decades at the cutting edge of artificial intelligence research, development, and investment in both the US and"
-    publishedDateTime: 2021-08-29T23:40:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/kai-fu-lees-vision-of-the-future-of-2041.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/kai-fu-lees-vision-of-the-future-of-2041.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/kai-fu-lees-vision-of-the-future-of-2041.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-29-at-4.34.51-PM.jpg"
-        width: 1078
-        height: 1024
-        isCached: true
 
 secured: "wXNIz/o4OrK9AD1UBBSmKoxF/0pvs/zWROi3PS1iO6EL7HZlj3WQ4wbv/D6iFRNCRVEjJv2VyrCi8eigaSTzYSWfa1LmeEeVJ7KEIwZrgb7m5W+ZQgo55o4bPYicb8uMXz9PiHKA3EYq/mEf+wSGGdSyrkSOAxrATkjdes5Ud2wm/+laOgf/L4SpVzy4AIA+yk4pl3b6lZRZerPyYW3uDRh9oqW3M5G0WO1FLlwYFbzxG2zXltOzN0uazc5NWmS8EHnZ2WThYarqx2cUYTumEaUlyCijR6IWHwMZqspcJDf9yhfnS8Fr0d91eIq6KUnDRd1AO9xJjITbWh9C+0YZs5YMckmYbdbyQ+Q7cqZ+Fin95n5S3rwRXOrGzS4cWnwcWaNu6IM01yMnDYcroBcshUUydooYozFmg5FXJJgdHCfAiMWuVOYLNLf9ErrTa6pIt6BzjziBoCG82iX9Z1K0fryOdS6tJGW6qGqIgAaux25vNsf0xT7aFkxGF8kVpOSPIjB7kC4VGVF4guBsUxDpuQ==;0aOihyAllL955XZgvRTDGg=="
 ---

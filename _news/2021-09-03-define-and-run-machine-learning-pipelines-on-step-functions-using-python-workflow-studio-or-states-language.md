@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/define-and-run-machi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 400
     height: 494
     isCached: true
-
-related:
-  - title: "Standards for studies using machine learning"
-    excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce their results, according to a new article."
-    publishedDateTime: 2021-08-30T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210830163940.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "w2enBPqFJaNGrga74R6mi5nU1WXGQTv8/oo8RGvH1iNvCbDnbc/6muKToBWC36hJMWwMHzlv9sm/zWxPet25K66p1UhqHgP30JFoq8l0G6ArgXhrhmB0N9D6EjeTBMxseSKWNgMWHXh5fyLHKGyM1bJ0YxiCAwpWCF/OJPhPw4Z1qqd/Cp4THCRPUCkTTkAAkmnqYlUhLAlOECYI7+mps4jwAVXe/8I0Mcg41Qa0dZP37/5m4O7A7mFSIpOAyEhn0MCBMCO3GSAUej/T9NR6ozhjSLHLr42dhE2zeYwlcK0n+4wtSKvKeGu+Yw9JMNZHdBypQ5SKep6JmQUZLZBQxYaD/nhPlGmKXRt1SoTm38s=;jncUA2nKLZ00xBIj9PyVHA=="
 ---

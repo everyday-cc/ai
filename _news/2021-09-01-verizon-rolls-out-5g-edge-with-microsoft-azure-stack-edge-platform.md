@@ -35,6 +35,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Bias persists in face detection systems from Amazon, Microsoft, and Google"
+    excerpt: "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon."
+    publishedDateTime: 2021-09-03T17:40:00Z
+    webUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/"
+    ampWebUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
     excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
     publishedDateTime: 2021-08-31T06:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19977858.html"
 webUrl: "https://www.lelezard.com/en/news-19977858.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Top Positive and Negative Impacts of AI & ML on Cybersecurity"
+    excerpt: "You might have heard only praise and good things about AI and ML, but that does not mean that they cannot become a bitter enemy to humanity. AI & ML are advanced technologies bound to function under the administrator’s command."
+    publishedDateTime: 2021-09-03T17:04:00Z
+    webUrl: "https://customerthink.com/top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/security-265130_1280-tech-pixabay.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Reinventing cybersecurity with artificial intelligence"
     excerpt: "As traditional company barriers broke down, and remote working became the norm, the threat landscape rapidly changed, bringing cybersecurity to centre stage for every digital organisation. To be resilient in this hybrid working paradigm,"
     publishedDateTime: 2021-08-31T07:05:00Z

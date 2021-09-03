@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-04-top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity.md",
+      "title": "Top Positive and Negative Impacts of AI & ML on Cybersecurity",
+      "excerpt": "You might have heard only praise and good things about AI and ML, but that does not mean that they cannot become a bitter enemy to humanity. AI & ML are advanced technologies bound to function under the administrator’s command.",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity/",
+      "originalUrl": "https://customerthink.com/top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/security-265130_1280-tech-pixabay.jpg",
+          "width": 1279,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language.md",
       "title": "Define and run Machine Learning pipelines on Step Functions using Python, Workflow Studio, or States Language",
       "excerpt": "You can use various tools to define and run machine learning (ML) pipelines or DAGs (Directed Acyclic Graphs). Some popular options include AWS Step Functions, Apache Airflow, KubeFlow Pipelines (KFP), TensorFlow Extended (TFX), Argo, Luigi, and Amazon SageMaker Pipelines. All these tools help you compose",
@@ -10,7 +53,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -375,7 +418,7 @@
       "originalUrl": "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -607,7 +650,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -754,7 +797,7 @@
       "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1224,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients.md",
-      "title": "Researchers Predict Arthritis Drug Will Save Thousands Of Hospitalized Covid-19 Patients",
-      "excerpt": "A drug used to treat rheumatoid arthritis has been found to improve survival of. The discovery stems from a study of over 1,500 patients in 12 countries and is being hailed as a significant breakthrough for treatment options for people who are severely ill with Covid-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/",
-      "originalUrl": "https://www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6130243a2183dfa954bf0df2%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/amp/",
-      "publishedDateTime": "2021-09-01T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
