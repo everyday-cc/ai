@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2373672/machine-learning-market-is-thrivi
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Cognitive Media Market to Eyewitness Massive Growth by 2026 : IBM, Google, AWS, Microsoft"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/31/2021 — Latest survey on Worldwide Cognitive Media Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Worldwide Cognitive Media."
+    publishedDateTime: 2021-08-31T19:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-to-eyewitness-massive-growth-by-2026-ibm-google-aws-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 47
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/CCC-5-e1628627764328-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Recent Survey on Automatic Speech Recognition Market 2021-2030 Key Players : Nuance, Microsoft, Alphabet, IBM, Sensory, Cantab Research"
     excerpt: "In recent years and especially due to the Covid-19 impact, the Global Automatic Speech Recognition Market has been through many ups and downs which have greatly impacted the business and the market players be it large or small."

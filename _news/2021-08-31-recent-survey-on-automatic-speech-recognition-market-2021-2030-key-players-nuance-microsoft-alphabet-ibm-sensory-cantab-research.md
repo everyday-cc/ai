@@ -52,6 +52,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cognitive Media Market to Eyewitness Massive Growth by 2026 : IBM, Google, AWS, Microsoft"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/31/2021 — Latest survey on Worldwide Cognitive Media Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Worldwide Cognitive Media."
+    publishedDateTime: 2021-08-31T19:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-to-eyewitness-massive-growth-by-2026-ibm-google-aws-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 47
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/CCC-5-e1628627764328-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Microsoft adds literary Chinese to translation service"
     excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
     publishedDateTime: 2021-08-30T08:14:00Z

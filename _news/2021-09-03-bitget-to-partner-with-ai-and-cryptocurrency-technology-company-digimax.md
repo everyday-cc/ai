@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/bitget-to-partner-with-
 webUrl: "https://www.prnewswire.co.uk/news-releases/bitget-to-partner-with-ai-and-cryptocurrency-technology-company-digimax-867356113.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "Bitget Signs Partnership with AI-Based Crypto Firm DigiMax"
+    excerpt: "Bitget, a Singapore-based derivatives exchange, announced that it arranged a partnership with DigiMax, an artificial intelligence (AI) technology company."
+    publishedDateTime: 2021-09-03T20:53:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/bitget-signs-partnership-with-ai-based-crypto-firm-digimax/"
+    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/bitget-signs-partnership-with-ai-based-crypto-firm-digimax/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/bitget-signs-partnership-with-ai-based-crypto-firm-digimax/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 57
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/06/cryptocurrency.jpg"
+        width: 880
+        height: 400
+        isCached: true
 
 secured: "vZ4fCL3oXSQluloer7eRmuDxUCBVA8NaLVscamE8c2QTzsZQPuuED54Ax7B36ztAPoxYExM+8pAeSZMTA8wOvqbT01fm6k6D/U4wWIEjRXrydg/7CmF/9exRsD6NQ6h9H3MI3Pd2P3dNuBuKLCOaIUqRos4JT1dNDoGIov0fo3nOtOliQ6WN3VJnInEi+UBHlFKWSqjOhu7OsNLqCp9h8mPiZaCKwgFqtlCbbF0f739NxdQE8S+cTE8j1cFspasMgO6Trqn6MGfamMz2hWx8lyaHlqh52sQJXTCqk89AFwenJ+t4mpYyDKJjPa7dmZcsvUOqIu0QT1c7IKK7R84Ju1piqf9L/qXnJSs9AQDGP2w=;A0Z+gN0rLcewuIC0eA7luQ=="
 ---

@@ -73,6 +73,15 @@ related:
         width: 800
         height: 459
         isCached: true
+  - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
+    excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
+    publishedDateTime: 2021-09-03T19:18:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "Lbwhs2V84Ltpo3kCHOHfeeewBaBAVNhphiRR+IpHvPkg5gZIAg2RdejbWBIanOG7wQzrTU/bCJ3DcWAGckxHder9u0kmgWDBZyEahNk4SrgebUOjWga2Z9hHSCgl7z+/NMVlH+eVDWQY83ut+Aj5puL0HJkofgxa2P7bZGKZKfKU0PlnmgYR/UPP4ZGr/fpaU5lGhY9A4e9tzov+zKpDZa+wBGM4ViKfQxBxXix3GzFjul7fOKFjxEFNcSdNrXUIaSXcyds+7nT/4rWaxejx5AjGbWqtkYnyJlA9qWhQ4n60Rp3CuNE9lgrIbzzOfmhhscLqDtlq0A3MUFxezVTr4R7M3NxovarWmP969yziFV0=;PKwbMYvQkU56qnVHdyM86g=="
 ---

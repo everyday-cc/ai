@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Narwal brings 2-in-1 robot mop and vacuum with automatic mop cleaning station to Canadian customers"
-excerpt: "Today, robotics startup Narwal launched its award-winning robot vacuum and mop in Canada. A first-of-its-kind, the T10 is a 2-in-1 robot mop and vacuum featuring a novel self-cleaning technology. The system is available for $1,"
-publishedDateTime: 2021-09-03T18:09:00Z
-originalUrl: "https://www.lelezard.com/en/news-19982322.html"
-webUrl: "https://www.lelezard.com/en/news-19982322.html"
+excerpt: "Today, robotics startup Narwal launched its award-winning robot vacuum and mop in Canada. A first-of-its-kind, the T10 is a 2-in-1 robot mop and"
+publishedDateTime: 2021-09-03T18:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/narwal-brings-2-in-1-robot-mop-and-vacuum-with-automatic-mop-cleaning-station-to/article_b8b84de4-f1a8-5596-804e-50f5cbe314be.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/narwal-brings-2-in-1-robot-mop-and-vacuum-with-automatic-mop-cleaning-station-to/article_b8b84de4-f1a8-5596-804e-50f5cbe314be.html"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "02VRLg8AG37/oEDVqDte6ouFVjyVTM5Z+pY4GFiyjCGf5tTvmTDpjJ0qzroH5B/sDTMzljSzspQnQJhUUndcwDTx9XE/n2+A2KTdWrnd0VhjU/HrOsZOiVQxzkZ7dbSIIjeQNMp5xcj/vGHu8+tkFOs1qNQeVssobK337WmpzFC9A6fVM+lM4SY3W0Hsk4gbkmMOT0LSN96LgbRCyZHUjq4I3EYt0oipIWxaT7lnVsx9RJ4+Svnc3P/0qxFzVV81eIAerLRB4yURjXXLxCXU4lXTMGtk5XP/ldvSXXIbfB6aTXVXCWvFr5B+66nwKkv29CxJFhemwrTPrLWYwzPhh7n77OdU9YRox5YD7BHS0Tk=;iOAuXyYtrJ/CMpje7jfk2Q=="
+secured: "KqonKhUzJTizokC4rJv56pyaP+Z8GxckoyL9NIYVPS8uQWKTEwH1P1PGxXu3bYEWPpeHBhDu8c3tENcWiBTP/LUByDvDnfl2Cba4AZYwaEQ+1EQWvsp7O4FczxnkqeFOPAyboDmAHtS2Upopiq3vwGyjMf8IEmlHgDm8rQTDJhYT77CjwCa44NZ2Tt/Uj/eV5hqtatQhORNhuo487u6La5m3YmRwUbBdiCvkuxNJ5nGYtTPouRHGkclHxwX0KmkLRC4Qr3JpOOki5HVAA1gyM/gXxwz5d6ZIjAf/X/UvEN8Cbv20NXxV98S906YcFR49/XucPnEhx1VkcFUgf22eiOQ37Y1HHKXgmGjzBFBFgCo=;WUU5pFHqGdZYnrLRUsYz9A=="
 ---
 

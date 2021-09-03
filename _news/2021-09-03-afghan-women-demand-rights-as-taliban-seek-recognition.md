@@ -44,20 +44,20 @@ related:
         height: 338
         isCached: true
   - title: "Afghan women demand rights as Taliban seek recognition"
-    excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new rulers work on forming a government and seeking international recognition."
-    publishedDateTime: 2021-09-03T19:45:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/sep/3/afghan-women-demand-rights-as-taliban-seek-recogni/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/3/afghan-women-demand-rights-as-taliban-seek-recogni/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/3/afghan-women-demand-rights-as-taliban-seek-recogni/"
+    excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan's new rulers work on forming a government and seeking international recognition."
+    publishedDateTime: 2021-09-03T21:56:00Z
+    webUrl: "https://www.chron.com/news/article/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 44
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/03/afghanistan_54606_c0-217-3300-2142_s1200x700.jpg?54c01033a4262618958d58997cb50a01dd253da4"
-        width: 1200
-        height: 700
+      - url: "https://s.hdnux.com/photos/01/21/56/55/21425016/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "KkOvDBRW1mZxaK0JaaNqgyaw58JI14mCAWHSUTfQa/v8TJa4GGVrOlWinUzwO3BwjyLX4mMRyaFCTOHxEGiNsQ0ObFiXa6I53YfYE9VEAcICIVHCslECCNeRlda+rNNV8FYCmkmjoUO9LcfpCZi2/7xcLc0mBTaYA5lIoM4wVYhUNMKNgk2mMgirC2vgxKYr9gX1UVxLSdyAdGGmQbaY5cVDAgbVRiPZ1hP69r5pjtWioiRPqmDHrRt1jaLuD+mmGWJebk2umuNb8YSdlSmjj1UCITj1r59TjFPctl+T7ym8tWgmnKH/8huGP3jJ7VE1DjNtQVg05u4bWJfwf7vMWrjXYQZQZi9zoY/OEO3LZ3E=;K1P/PXiluerMI+XnlSpwuw=="

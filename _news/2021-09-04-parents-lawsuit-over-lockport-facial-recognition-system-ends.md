@@ -1,0 +1,47 @@
+---
+category: news
+title: "Parents' lawsuit over Lockport facial recognition system ends"
+excerpt: "A judge said the approval was invalidated when former Gov. Andrew M. Cuomo signed a law in December 2020 banning the use of facial recognition technology in schools."
+publishedDateTime: 2021-09-03T19:15:00Z
+originalUrl: "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html"
+webUrl: "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html"
+ampWebUrl: "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html"
+cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html"
+type: article
+quality: 59
+heat: 69
+published: false
+
+provider:
+  name: Buffalo News
+  domain: buffalonews.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/45/f4555f2d-8ce6-550b-82e9-417e781ab8b7/5ef133e01db3f.image.jpg?resize=1024%2C759"
+    width: 1024
+    height: 759
+    isCached: true
+
+related:
+  - title: "Lockport school security-related litigation ends"
+    excerpt: "According to the law firm, since NYCLU's ultimate objective was to force the shutdown of the district's Aegis system — the software system that enabled facial and object recognition through surveillance cameras in school buildings — the district faced ..."
+    publishedDateTime: 2021-09-03T02:21:00Z
+    webUrl: "https://www.lockportjournal.com/news/local_news/lockport-school-security-related-litigation-ends/article_4726719a-d291-5d6b-b9d4-1f85f4dfeb62.html"
+    type: article
+    provider:
+      name: Lockport Union-Sun & Journal
+      domain: lockportjournal.com
+    quality: 41
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/5/bb/5bb1e53c-8718-560c-b134-ff68528cd62b/613188afda9b7.image.jpg?resize=800%2C534"
+        width: 800
+        height: 534
+        isCached: true
+
+secured: "v3V82DlT/zUL6X2CKffKTVvks2xED1Q9lGZI2o6tInM8K74IAuPKTF+Q9ranCfCt+s4iDqSt1Lr38whtAXrfyagQePIBRgxPJzkBpEKsEd1z8fxQXgX1xD1CpqK49r/XOA9i3ackKjACgh+L8ztKxe6AuXIA80MH0WeJL4tyW/PYdFxWR4JC9J0FAwE3wHwQ+v3q629AqGoVnnHHcWMaKr5wGqpZ00ypXzY9IMQB2K9HU2sneYknC7zW0Ij87W4luBB+xIikuCTMWAfr12o6bGykyoyvvBdYnobRUyDnFG/s4yCilr/8n3KgH2d3cTt5S/yNSedmM21l2/8UIPZXn+kRtv1bIojLPtTuuEunOp0=;lhEoVyj44OEvTRTll8IEMQ=="
+---
+
