@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "If you thought a self-driving Tesla was cool, here is a kit to build and program your own self-driving car"
+    excerpt: "This build & code your own AI self-driving car comes with complete components. Learn about microcomputers, electromotors, camera calibration & more!"
+    publishedDateTime: 2021-09-03T14:00:00Z
+    webUrl: "https://thenextweb.com/news/if-you-thought-a-self-driving-tesla-was-cool-here-is-a-kit-to-build-and-program-your-own-self-driving-car"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 51
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-Build-Code-Self-Driving-Car.jpeg&signature=c189a084ee36e4787b851d03217ccbae"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
     excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
     publishedDateTime: 2021-09-01T09:00:00Z
@@ -68,20 +82,6 @@ related:
       - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
         width: 350
         height: 240
-        isCached: true
-  - title: "Passengers want self-driving cars to be like them"
-    excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
-    publishedDateTime: 2021-08-31T07:12:00Z
-    webUrl: "https://gadget.co.za/passengers-want-self-driving-cars-to-be-like-them/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/08/self-driving-car.jpg?resize=600%2C332&#038;ssl=1"
-        width: 600
-        height: 332
         isCached: true
 
 secured: "nc2O5STI1osB/7XO1cbxnDKdhKyDwYrR605UCHmOyR9Ju6laEZFmyG1whc2GUA9pVRp525yE9fgRuZgoGR0nujNo0zcDfJsKiTXPzKrqFgnG22Q2K4CQ8GRvZkwUhID2kKR0Asi80iGIOFMThFSsg6ovsttUhRpFern+2Ldzav8uWflcw/fFZDBkjrQMIwgUbrmp4JxuF7Lv1wsmd33InoEOXpdZHB4s9vJyqAXAqaJ/nJvmEEuokxGTFGOw6TsYvxgtwHF3xnTceUGZim/pdSq29cHo4b+bbOZhP0TKgiIXLVi926Gq3LGI7Wa+j7XREy7MK1kkQhjs5vho/H+eqwhAGIW7Jq8Fw2LgzNh8ymB7v/bKzBVABML1seo4nztH9kselVFCa3Jv1Hsx4ANUTvVkB0R2EBshdDxWg3bynDG+Q4BEehE3Pi8GGgq4qB/ED9NSPRKvLUwsPyRgX4SX0FWu3vh8T1OBIZJqjjMaZt1srMzXie6K52e10QCLDqz3iv4WrkNFWcscyWr4KkUC/w==;e1RAUGDK7n6rreSkEGfQ+Q=="

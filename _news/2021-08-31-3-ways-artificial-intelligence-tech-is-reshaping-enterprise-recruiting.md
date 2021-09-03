@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "How AI is creating higher quality PET bales"
+    excerpt: "e-scrap and construction and demolition debris with an object recognition run rate of more than 10 billion items annually. This combination of scalable accuracy and classification creates a step-level solution for data collection and measurement that ..."
+    publishedDateTime: 2021-09-02T14:09:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-ai-pet-bales-sponsored-video/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 39
+    images:
+      - url: "http://www.recyclingtoday.com/fileuploads/image/2021/09/02/Screenshot6.jpg?w=736&h=414&mode=crop"
+        width: 730
+        height: 396
+        isCached: true
   - title: "New study will use artificial intelligence to improve treatments for people with multiple long-term conditions"
     excerpt: "The NIHR has awarded £2.5 million for research that will use artificial intelligence to produce computer programmes and tools to help doctors improve the choice of drugs in patients with multiple long-term conditions."
     publishedDateTime: 2021-09-03T12:56:00Z

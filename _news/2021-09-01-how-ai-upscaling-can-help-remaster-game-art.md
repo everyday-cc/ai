@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "How AI is creating higher quality PET bales"
+    excerpt: "e-scrap and construction and demolition debris with an object recognition run rate of more than 10 billion items annually. This combination of scalable accuracy and classification creates a step-level solution for data collection and measurement that ..."
+    publishedDateTime: 2021-09-02T14:09:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-ai-pet-bales-sponsored-video/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 39
+    images:
+      - url: "http://www.recyclingtoday.com/fileuploads/image/2021/09/02/Screenshot6.jpg?w=736&h=414&mode=crop"
+        width: 730
+        height: 396
+        isCached: true
   - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
     excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."
     publishedDateTime: 2021-08-31T15:17:00Z

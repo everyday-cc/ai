@@ -23,45 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "Researchers offer standards for studies using machine learning"
-    excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce their results, according to a comment article published today in the journal Nature Methods."
-    publishedDateTime: 2021-08-30T20:07:00Z
-    webUrl: "https://techxplore.com/news/2021-08-standards-machine.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-standards-machine.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-standards-machine.amp"
+  - title: "Define and run Machine Learning pipelines on Step Functions using Python, Workflow Studio, or States Language"
+    excerpt: "You can use various tools to define and run machine learning (ML) pipelines or DAGs (Directed Acyclic Graphs). Some popular options include AWS Step Functions, Apache Airflow, KubeFlow Pipelines (KFP), TensorFlow Extended (TFX), Argo, Luigi, and Amazon SageMaker Pipelines. All these tools help you compose"
+    publishedDateTime: 2021-09-03T15:47:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg"
-        width: 1920
-        height: 1285
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/31/ML4675-image019.jpg"
+        width: 400
+        height: 494
         isCached: true
-  - title: "Researcher and colleagues offer standards for studies using machine learning"
-    excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce"
-    publishedDateTime: 2021-08-30T18:49:00Z
-    webUrl: "https://www.miragenews.com/researcher-and-colleagues-offer-standards-for-622567/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2018/12/Police2111-8-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Cu researcher and colleagues offer standards for studies using machine learning"
-    excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce their results, according to a comment article published today in the journal Nature Methods."
-    publishedDateTime: 2021-08-30T20:27:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/926928"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
 
 secured: "hMxedHnQyPiHVZkbDU8rLaSSTcsirBYzyk4JqVyBmMvyrYnReknA6mrX/Khfwav7FQcn8Dc0NZAcrcAjC7lV6RWh4z6KFHljhByjIVz8mTnpmHT0oFnKZunGjXo8jbFHzKjUNDsYep5qnIosfMD2VE0qKH4MAio2WO3Om1QsTjCBVQiBzEOii+VCZjEnl2Kg1b8QU+GDnFBztqS3OGH3P/OaAXWBDWZOlNSs6eBibp8tGhkuZscgFR4v4fn53HHyrHG2T5T3UKGdalTqwYZeGgXGhQpI3pkLOedmfQuqA9cbYtfCHJA/oUvC+El34ZlhYbu8zlsolppvunNQceyi+8h+TRRU9gC4zkg5xMymV70=;irJLq9uCQ5KNvfxZjfsPaQ=="
 ---

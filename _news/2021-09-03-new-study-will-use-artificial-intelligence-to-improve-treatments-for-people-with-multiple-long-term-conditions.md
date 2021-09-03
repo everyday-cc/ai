@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "How AI is creating higher quality PET bales"
+    excerpt: "e-scrap and construction and demolition debris with an object recognition run rate of more than 10 billion items annually. This combination of scalable accuracy and classification creates a step-level solution for data collection and measurement that ..."
+    publishedDateTime: 2021-09-02T14:09:00Z
+    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-ai-pet-bales-sponsored-video/"
+    type: article
+    provider:
+      name: Recycling Today
+      domain: recyclingtoday.com
+    quality: 39
+    images:
+      - url: "http://www.recyclingtoday.com/fileuploads/image/2021/09/02/Screenshot6.jpg?w=736&h=414&mode=crop"
+        width: 730
+        height: 396
+        isCached: true
   - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
     excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."
     publishedDateTime: 2021-08-31T15:17:00Z
@@ -100,6 +114,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "dDNO6qtOtFxdxZhuL7yEHjIXaq3YODZigwCsnxWuRbEsRcT6MOSUnnienFOrfK6jLl+FOiq2zLZd9GMj1PDXNLUXKgOI7+bq0Ugt/STJ052gAAAyFjLMd/9UzxaE5Q1MyeWuBC6OMe3u02/ntczTONcl+MQDNA8SdQBOj8X40tjipEERNbMU/63Gh1PfC/A7/rq48gpiOohdKw4D9bIv9eLRrnzNOZHWlc1kkmneb5X768wP0dp9DqtYCH0kxfxHHc/OVGOvNvndRoGoiRze68zdkmqe12C/zOPx7BEckV4cIYNs/F5Ny4g3m7Vzs8NKXCQNsgAJAOp66tX9fr5CHKmbjqVr74+VK4Nlflrv/fE=;2yJ5yGkbtqmS/dRwt5rjRg=="
+secured: "0H5eQcE9U0QTI/iUXpUjqQaScfsN+H54iy4UFmf/OakAI2j6j9u9LpSO83GEJd+CBokiIiwftdSx0xrRlJ9qdkv6kcusxAKNhTx93rx4+cko7geMYxRRw8pqBXjyz/FKKcAURM6U2nPHZ1a9zDLpWX2oSifdSbiMyb31CXQmFT1DwOTJoR5J7Nce935AzA8KtBbHGsYmZBXVtDR/ktVxJNfzjAZ4/1eQHq0NDSKruLVpR2XGDUuN3DGdVRc6jBIjgGMgEqawl2KhgyTwNcSvboU6GEj7XD+G9PmP2fUYtkTZYh+M6yG0+5Qn3savTGxKcyhBOzJVjBNn/gUoYBq63q0qIVGIEKneulfUHjIA6LywuX0bjk+RTdmdmmMaB7pXGAnxNkJoMQnE191sGJ/vsnW0HzZt2G4oZfAAn6H4XmJyjSHnW3ic/8MmorohEyC02odio9InOsB3i4yvl3umhUJz476+RNXPJntgT7BmFVre83tZClq6UDqOZa6UKJHQp65orQ5AquSISHOqHxSEFQ==;3KoAJk//2PKyfJes+Xoz7w=="
 ---
 

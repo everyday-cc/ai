@@ -1,25 +1,49 @@
 ---
 category: news
 title: "Afghan women demand rights as Taliban seek recognition"
-excerpt: "A small group of Afghan women have protested near the presidential palace in Kabul, demanding equal rights from the Taliban"
-publishedDateTime: 2021-09-03T13:02:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/afghan-women-demand-rights-as-taliban-seek-recognition/"
-webUrl: "https://www.seattletimes.com/nation-world/afghan-women-demand-rights-as-taliban-seek-recognition/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/afghan-women-demand-rights-as-taliban-seek-recognition/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/afghan-women-demand-rights-as-taliban-seek-recognition/?amp=1"
+excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new rulers work on forming a government and seeking international recognition."
+publishedDateTime: 2021-09-03T15:02:00Z
+originalUrl: "https://www.nydailynews.com/news/ny-afghan-women-rights-taliban-20210903-t2bitgewpjajriimoy57w6r5xq-story.html"
+webUrl: "https://www.nydailynews.com/news/ny-afghan-women-rights-taliban-20210903-t2bitgewpjajriimoy57w6r5xq-story.html"
+ampWebUrl: "https://www.nydailynews.com/news/ny-afghan-women-rights-taliban-20210903-t2bitgewpjajriimoy57w6r5xq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/ny-afghan-women-rights-taliban-20210903-t2bitgewpjajriimoy57w6r5xq-story.html?outputType=amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: New York Daily News
+  domain: nydailynews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "l3bPKECEtEZ4LUz4jI21d3d5JyGHrDLzVZ04CPBtDrzwhjrBFQ+Gc4c0xcDTWykBM+j6MRbKzuTZLk15lcnWXV0K6EInaCad87Ng7T11yfUKGB/il6OHBYCfhbrimUc0dkYwvGM/04tUk/jG8uEKw2mkS1I2Vur/7BDOQhwLHBP3U71BfZbEG8YEG2DycCxsuMnVhjvWYK5gs33BMwAujZzHaRSkqwxF3m+S7c0lOCrCmO1QYF0z22Jl9Gsh1ew2fI8sKp+Is4IP0NwqpsycCCce4RMLWrG0qrwKAge+J1RwcOt3jYgSh1qEhyU/bMgEeYbL62qOMMCHHf+f+hCzFgeitcYOi+stHolXVcJulDmDJOidtrPwcU+stNtnYEY0SxCqLGwKArQmIKjewQmUC7VRGYrF4T/pvManTf6RWGyVm2fPv/RxvJH+r9/i0z/RPGDdvk8RADOX46r7oecikVYV8MAv5s9FZOyRII8CerypVnXDplgpvfK4ZmUG43vLlRpCe9MtSp45UfX7IyKuug==;x/f7arjM+6JG4GGFnx/rGw=="
+images:
+  - url: "https://www.nydailynews.com/resizer/FlAbKo-QOZ9PjqxHUFj-4AzjN4c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IU6NTMZ6JEPRLJ7HF22TY5CA3I.jpg"
+    width: 1200
+    height: 858
+    isCached: true
+
+related:
+  - title: "Afghan women protest in Kabul demand rights as Taliban seek recognition"
+    excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new"
+    publishedDateTime: 2021-09-03T14:21:00Z
+    webUrl: "https://english.alarabiya.net/News/world/2021/09/03/Afghan-women-protest-in-Kabul-demand-rights-as-Taliban-seek-recognition"
+    ampWebUrl: "https://english.alarabiya.net/amp/News/world/2021/09/03/Afghan-women-protest-in-Kabul-demand-rights-as-Taliban-seek-recognition"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/world/2021/09/03/Afghan-women-protest-in-Kabul-demand-rights-as-Taliban-seek-recognition"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 44
+    images:
+      - url: "https://vid.alarabiya.net/images/2021/09/03/5e58eb2d-d036-4378-ae2d-289c2ef4d2d9/5e58eb2d-d036-4378-ae2d-289c2ef4d2d9_16x9_600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
+
+secured: "KkOvDBRW1mZxaK0JaaNqgyaw58JI14mCAWHSUTfQa/v8TJa4GGVrOlWinUzwO3BwjyLX4mMRyaFCTOHxEGiNsQ0ObFiXa6I53YfYE9VEAcICIVHCslECCNeRlda+rNNV8FYCmkmjoUO9LcfpCZi2/7xcLc0mBTaYA5lIoM4wVYhUNMKNgk2mMgirC2vgxKYr9gX1UVxLSdyAdGGmQbaY5cVDAgbVRiPZ1hP69r5pjtWioiRPqmDHrRt1jaLuD+mmGWJebk2umuNb8YSdlSmjj1UCITj1r59TjFPctl+T7ym8tWgmnKH/8huGP3jJ7VE1DjNtQVg05u4bWJfwf7vMWrjXYQZQZi9zoY/OEO3LZ3E=;K1P/PXiluerMI+XnlSpwuw=="
 ---
 

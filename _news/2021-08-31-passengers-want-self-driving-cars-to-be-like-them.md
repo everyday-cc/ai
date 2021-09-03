@@ -25,61 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive."
-    excerpt: "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve."
-    publishedDateTime: 2021-08-30T22:00:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
+  - title: "Self-Driving Cars Doing The Tango With Those Heroic School Crossing Guards"
+    excerpt: "School crossing guards are daily heroes, and it will be important that self-driving cars can be devised to work hand-in-hand with them."
+    publishedDateTime: 2021-09-03T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://images.barrons.com/im-386041/social"
-        width: 1280
-        height: 640
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602357e93d2febddf0f0dcb7%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D1632%26cropY1%3D28%26cropY2%3D1091"
+        width: 1200
+        height: 946
         isCached: true
-  - title: "Special Report-How the Chinese Tycoon Driving Volvo Plans to Tackle Tesla"
-    excerpt: "REUTERS/Aly Song Reuters HANGZHOU, China (Reuters) - \"Do you know how big Volvo is?\" asked Don Leclair, finance chief at Ford Motor Co.. It was 2008, and Leclair was responding to an offer from a little-known Chinese businessman to purchase the Swedish carmaker,"
-    publishedDateTime: 2021-09-02T11:54:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-09-02/special-report-how-the-chinese-tycoon-driving-volvo-plans-to-tackle-tesla"
+  - title: "Will self-driving cars cause driving to be illegal?"
+    excerpt: "In an opinion that may not be popular among the masses, IDTechEx’s new data forecasts that by 2040, self-driving cars will be capable of fulfilling mobility worldwide without accidents. By 2050, manual driving could be outlawed."
+    publishedDateTime: 2021-09-01T12:38:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17134/will-self-driving-cars-cause-driving-to-be-illegal"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
-  - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
-    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
-    publishedDateTime: 2021-09-01T09:00:00Z
-    webUrl: "https://www.barrons.com/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 41
-    images:
-      - url: "https://images.barrons.com/im-393971/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The US to investigate increased self-driving Tesla-related incidents"
-    excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
-    publishedDateTime: 2021-09-02T16:43:00Z
-    webUrl: "https://www.electropages.com/blog/2021/09/us-investigate-increased-self-driving-tesla-related-incidents"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 39
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
-        width: 350
-        height: 240
-        isCached: true
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "lhlXU/CuFtLkS42RbqrImLw+UCX7Plb0CmGSd1x3zGyespsjn6JgyBEm/46yblLToZlvdtiGsFuIf4ml95s8QfzVIt+vP1uEYC0JCxmbvyOQqpjJAK+0dKk/zWaIfiVamG086/LdjVGs/qeICDcJnfX4tFFFQCFWGgCtPx2DcRAcTtHF49DCsaw3j+midhkAn+ZJymBFiwwFtFZ+RITKVFawAugqzCT1DybFzNfBjBLm+wiSoiz+jLKRGZJ0oQtbAF6hyvN7X8P7zGiaY206ozJpmtsyTodM5SCMNtkhMhPa/4K7QfnJjRusD56eRAETZqvnLPO0iNPgfKAIknG676uGjtqDfZeRyFXw9FL0LRM=;rzKaqhlz3BN36FpHcoJiyw=="
 ---

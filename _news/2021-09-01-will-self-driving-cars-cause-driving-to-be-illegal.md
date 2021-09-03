@@ -19,139 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Apple self-driving cars were involved in two accidents last month in California"
-    excerpt: "Apple has been working on its self-driving car technology and the Cupertino-based tech giant was recently in the news related to efforts in forming partnerships with automakers for the Apple Car, but nothing has been materialized yet."
-    publishedDateTime: 2021-09-02T01:20:00Z
-    webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
+  - title: "Self-Driving Cars Doing The Tango With Those Heroic School Crossing Guards"
+    excerpt: "School crossing guards are daily heroes, and it will be important that self-driving cars can be devised to work hand-in-hand with them."
+    publishedDateTime: 2021-09-03T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 50
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/09/Apple-Self-Driving-Car-Testing.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "This Lidar Maker Could Win Big—and It Doesn’t Involve Self-Driving Cars"
-    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
-    publishedDateTime: 2021-09-01T15:33:00Z
-    webUrl: "https://www.barrons.com/articles/lidar-maker-aeva-technologies-nikon-51630453396"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-393971/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
-    excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
-    publishedDateTime: 2021-09-01T20:35:00Z
-    webUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august"
-    ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 41
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
-  - title: "Black Lives Matter activist to face trial for driving through California crowd, judge rules"
-    excerpt: "Prosecutors allege that Tatiana Turner deliberately drove through a crowd of counter-protestors, while Turner’s fellow activists say she was surrounded by an angry mob and acted in"
-    publishedDateTime: 2021-09-03T10:31:00Z
-    webUrl: "https://www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/"
-    ampWebUrl: "https://www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 34
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/16x9OCR-L-TURNER-0901-02.jpg?w=1024&#038;h=576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Two Apple Self-Driving Cars Rear-Ended While in Manual Mode, Marking First Minor Collisions in Two Years"
-    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
-    publishedDateTime: 2021-09-01T19:37:00Z
-    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
-    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 27
-    images:
-      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
-        width: 1600
-        height: 1042
-        isCached: true
-  - title: "A secret weapon for self-driving car start-ups - humans"
-    excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
-    publishedDateTime: 2021-08-30T21:00:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/a-secret-weapon-for-self-driving-car-start-ups-humans"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/30/mi_selfdrive_300821.jpg?itok=OUMWk11o"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Apple self-driving cars involved in two recent accidents"
-    excerpt: "Self-driving prototype cars from Apple were involved in road traffic accidents, but it wasn't the technology that was at fault"
-    publishedDateTime: 2021-09-02T12:49:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/apple-self-driving-cars-involved-two-recent-accidents/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 24
-    images:
-      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2020/12/Apple.jpg"
-        width: 1440
-        height: 897
-        isCached: true
-  - title: "Two Apple Self-Driving Cars Involved in Accidents in Same Month, No Injuries Reported"
-    excerpt: "Testing a ground-breaking technology on a car involves many risks, which the Cupertino-based tech giant was willing to take, but this was unexpected."
-    publishedDateTime: 2021-09-01T19:57:00Z
-    webUrl: "https://www.autoevolution.com/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 17
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
-  - title: "Apple Inc. (NASDAQ:AAPL), NIO Inc. (NYSE:NIO) – 2 Apple Self-Driving Cars Said To Be Involved In Accidents Last Month"
-    excerpt: "Two of Apple Inc.’s (NASDAQ: AAPL) self-driving cars were involved in minor collisions in August, according to a report by MacRumors that cited data from the California Department of Motor Vehicles. What Happened: The first accident took place in San Diego on Aug."
-    publishedDateTime: 2021-09-02T11:22:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_apple-stock/apple-inc-nasdaqaapl-nio-inc-nysenio-2-apple-self-driving-cars-said-to-be-involved-in-accidents-last-month/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 16
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/alexandr-bormotin-ntmu8vcwqe0-unsplash_1_1.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602357e93d2febddf0f0dcb7%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D1632%26cropY1%3D28%26cropY2%3D1091"
         width: 1200
-        height: 630
+        height: 946
+        isCached: true
+  - title: "Passengers want self-driving cars to be like them"
+    excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
+    publishedDateTime: 2021-08-31T07:12:00Z
+    webUrl: "https://gadget.co.za/passengers-want-self-driving-cars-to-be-like-them/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/08/self-driving-car.jpg?resize=600%2C332&#038;ssl=1"
+        width: 600
+        height: 332
         isCached: true
 
 secured: "NhwT5E6q0erOvJF0GZ8V3K7xNN0xUjiV0unHv0SgPvfI4lr1YibKbzZtvd3L6vI7nbEwwY56R1zVIDHWla6zg3YUHO4D37hZY9rsigm+IieMfpyNq5cDtC3ohdan3Exdx/2H8C//+4O9Kk0C8GfJb6EWM8ZW+QUoFDQdhq0DFB08Rv+mamlJbJXOGfuVLsqNSZLt/6Mg5u+vSiwBuHG0JVuefidoSgNU0rdIHKMtwePbQau+nzDp08Qhmx9sWnzE0WekNV3j/WTlmI7443Rip8GfkIxvYiwY60NJKm4Pp8HC7km4/UyD7Anz7pkJ3k/xwGTRTnv0aYJ6NCJxdBvp7jC9NWP/X4stGBMUB7pGfOg=;263gniLUelLd9lmInpbuaQ=="

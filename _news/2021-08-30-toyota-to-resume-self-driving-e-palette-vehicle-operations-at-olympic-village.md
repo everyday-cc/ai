@@ -190,20 +190,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Toyota suspends self-driving shuttles after one hits a Paralympian"
-    excerpt: "Toyota has called a halt to the operation of its fully-autonomus e-Palette shuttle at the Tokyo Paralympic Games after one hit an athlete."
-    publishedDateTime: 2021-08-29T22:36:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300394471/toyota-suspends-selfdriving-shuttles-after-one-hits-a-paralympian"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 24
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/u/h/w/4/image.related.StuffLandscapeSixteenByNine.1420x800.4yuhuv.png/1630275500248.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "Toyota to restart self-driving e-Palettes with more safety staff"
     excerpt: "TOKYO: Toyota said today it would resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff to ensure they did not hit any more people."
     publishedDateTime: 2021-08-30T11:44:00Z
@@ -326,20 +312,6 @@ related:
       - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/fohl6ojcry7ou1breo3w"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Toyota withdraws all its self-driving vehicles from Paralympic village after collision with visually impaired athlete"
-    excerpt: "Toyota has suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian."
-    publishedDateTime: 2021-08-29T21:13:00Z
-    webUrl: "https://www.independent.ie/life/motoring/toyota-withdraws-all-its-self-driving-vehicles-from-paralympic-village-after-collision-with-visually-impaired-athlete-40800148.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 16
-    images:
-      - url: "https://www.independent.ie/life/motoring/2ad74/40800147.ece/AUTOCROP/w1240h700/TOYOTA-OLYMPICSACCIDENT"
-        width: 1240
-        height: 700
         isCached: true
   - title: "Self-driving electric shuttle heading to Whitby GO as part of Metrolinx’s AV pilot project"
     excerpt: "Durham Region residents will soon see a self-driving electric vehicle rolling into Whitby GO as Metrolinx partners with several agencies to help create the smart infrastructure."

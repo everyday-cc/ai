@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 1285
         isCached: true
-  - title: "Standards for studies using machine learning"
-    excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce their results, according to a new article."
-    publishedDateTime: 2021-08-30T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210830163940.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Cu researcher and colleagues offer standards for studies using machine learning"
     excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce their results, according to a comment article published today in the journal Nature Methods."
     publishedDateTime: 2021-08-30T20:27:00Z

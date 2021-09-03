@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "If you thought a self-driving Tesla was cool, here is a kit to build and program your own self-driving car"
+    excerpt: "This build & code your own AI self-driving car comes with complete components. Learn about microcomputers, electromotors, camera calibration & more!"
+    publishedDateTime: 2021-09-03T14:00:00Z
+    webUrl: "https://thenextweb.com/news/if-you-thought-a-self-driving-tesla-was-cool-here-is-a-kit-to-build-and-program-your-own-self-driving-car"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 51
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-Build-Code-Self-Driving-Car.jpeg&signature=c189a084ee36e4787b851d03217ccbae"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Special Report-How the Chinese Tycoon Driving Volvo Plans to Tackle Tesla"
     excerpt: "REUTERS/Aly Song Reuters HANGZHOU, China (Reuters) - \"Do you know how big Volvo is?\" asked Don Leclair, finance chief at Ford Motor Co.. It was 2008, and Leclair was responding to an offer from a little-known Chinese businessman to purchase the Swedish carmaker,"
     publishedDateTime: 2021-09-02T11:54:00Z
@@ -65,20 +79,6 @@ related:
       - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
         width: 350
         height: 240
-        isCached: true
-  - title: "Passengers want self-driving cars to be like them"
-    excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
-    publishedDateTime: 2021-08-31T07:12:00Z
-    webUrl: "https://gadget.co.za/passengers-want-self-driving-cars-to-be-like-them/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/08/self-driving-car.jpg?resize=600%2C332&#038;ssl=1"
-        width: 600
-        height: 332
         isCached: true
 
 secured: "Llm3h6aiWp6XY7WOr8V7lQhB1+pY0tP/fC7TZxzKTeHTsy4S+XZZdA/POLjGZ/xBqvJ0nh1OioopVFjHnJTDLMnUQXzrsrPGMbG3khCdm68fWB3ZfKFz4XLchfA9JwcFB6R2+A6Q+2dJZiMnokiMhJFpDmbETxZVHPjY7X5Bqv/wIpuX3UUUJvSTRUV+MB8rkFiy+WZD4+byOzlJ78AZik15cyPvtfGWyzaXCEp0gINriO6ERUHor10J1V759EIHcnL6TjQRGF78FGgtzktdCEb+N79lYdN79lEeZ3X9+FU2LazIvfj/BRNAarBpfJde03SfEZShTGd4m31w0Fx2z6aMZGYSED7AAS1jpMdbVDx0lTf/nWJFg1sZeGkU6BeCqVCgVhsiYWROgeDppOK9ajLBwxqCgs0WVK2aPhulxpy4daWMHIqdiMMn8f/wiF2sfjx7Fiyu357+IDtDnNn/F5MbJl0HIV5jYm6f9of56IE74KnVj8QVCMS6prRe7cvyx4FOsxzCEw+sjH/hROSaRQ==;Va9FU/OVCQQ6jgI24Ql5Zw=="

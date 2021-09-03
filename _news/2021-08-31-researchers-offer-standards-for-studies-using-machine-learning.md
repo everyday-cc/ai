@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-standards-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-standards-machine.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Standards for studies using machine learning"
-    excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce their results, according to a new article."
-    publishedDateTime: 2021-08-30T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210830163940.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Researcher and colleagues offer standards for studies using machine learning"
     excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce"
     publishedDateTime: 2021-08-30T18:49:00Z
