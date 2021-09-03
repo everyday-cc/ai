@@ -2,7 +2,7 @@
 name: "Feedzai"
 overview: "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices."
 type: "profile"
-heat: 42
+heat: 58
 
 website: https://feedzai.com/
 
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Q/zS1wrsKFmGTsYmAnDMModmvszh6lxB2HMN74P9DqFgGjxUyJwqCYv82yx0eMVql/J2toaxMS6Sz0+igILY1WhRulj4mnMAW6FLStfKA+HExn7IKhMGQmH2UTRPjK6BdYZcgQb5VuKSg2Vrw1v7B2dJgHsqj4TBbPJxDqe4HJIg+GsZZWGzINtqEoGw55DdnvThyz4+YwT+7yVRwuGY/SXVFkdVK2Q5j1/3pAx96zC0M6I4tGMoNcbh6AbqsgftwhVsn1mrGOokt5pv7i562oRMJWnnNLBeVM0B8y+Jg3KFjakActnTIxUmR27Lo/JOLOoUvBzVHc15TvvCT8Z4RaMmoGnrCfoWcX8MeOmDlQft4vIJbUCkIQaBEBTmBViF8UecV2p+NSBmFhSB/A6ulyTUJnKHSFg2vm8NIt00lSY=;MdVQNG7g6pTHPAsytHRZTg=="
+secured: "545NL2YDH+SaiRrOv8ZSXUq5JjD42zfsF7rkc9XTq0cQGjta75OOajZVlTFh/0kmCVr0LizPHZgDkQD2zegdhwJKcXy0tJ6OLZ+roawp4DeUE54/wXON7Fs7GojCf24IiTqurooNFaAUX6lQ/888oTfxCDJ4GS2asgjoBpQpOdB4NAx9uPkOwn67BqZf/04MwEvM9Tb8sIP9fSeNxZAtXg7gBy+JNI8TDBCSAZFrPo4WTM6mZ8O8zLSr1SzmLnmbDDT6q+EtQwD5dbXravLjUGUVgs17n5O/s0w9ACUP2cialPYkavhz1SdLpagnc1+9jGY1494v+uJAIzaRmJG3wnWqO/Uw27+JLy5OCTBCEdcu8eOcUc9cWXIjqW+f6M17+wgoS3ibRmsonr385VWX4+QwWal4qVa+NlgTaDT1IgA=;ryWk853yiPYJxy66qfn9ZA=="
 ---
 

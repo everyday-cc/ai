@@ -2,7 +2,7 @@
 name: "SparkCognition"
 overview: "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance."
 type: "profile"
-heat: 64
+heat: 72
 
 website: https://www.sparkcognition.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SparkCognition"
   url: "https://twitter.com/SparkCognition"
-  followers: 4003
+  followers: 4004
 
 size: 201-500 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "SparkCognition"
 
-secured: "V9F3qhoM71JOFkJ/+5MUNilybrviEu5hRSQUucB0eJtPDQmYPNATN0sYjJRgFbcDdo25zwi+tml4pz4UE+qLNmIpSIgu3gMAuzeT+hvOka4eRAupjBc53KdxqtiCyioaoXjo0ok3bStvEu8GB9WvoAD2t5QOUJzWFmCXTkUSj0LsA4tPGMmBrRU6/eJE2EpMi9YgT3mRcLd6nkbDuGJBHbNJE2ThUorj6Ol/NUrQdq/DiQe+T/ujNnqfiMDEsb6kR7Z3b+VrGPF2th7yiETimjsuUbrpOWPD2PyzYY2UxfWjOexyBRtNWLU17HqXzT0zlVzytvBm9vVz491rRc1KV9qgngw/q0ZcMLO+lK5HIfhULdMVy5BOQHSIW+ay76+PmpdM1ltoQd9mBBbFe+CgZOxT1yCG+wCb96L3K1JTV/g=;SFiQZc95/z/roYUaCvE2hw=="
+secured: "qtpn31K4dpijwDk6G+bbzDd7KQjIccnfp6IL/wHnS550E6m+t9NGedqckafaain+gkvSAJB8NT6Xe/o/x/ujTgSENAahZW1zOEW83XQkpId5vYlZfGpLuwLEwVoXYXZYpuZGpdxP4VooltQCJ8tKYss6Fm36YjaOQ/DaaemVzNlIfB2Spkw8IlKD5LBzK93GUHyPmWhiXipm8dvPZpIt2eP511wHRJgCgg9ikERtGDMFdwlcyyx+WQuN4LC2Tj5NbPcqATakLWwAhP6r2sGCy69GyQ+cbEj2SsaepUSJ+EbnPeYPS1pZ8EGDfou9kp95s9o2dKYlrd6Mra7qcO4Day3ShTm1R4BnId0nQY3q0Qqd4lb59Gk//DNpLttHXs+4T39QO0XSEBBtbgnMjQZLjRVq0TfkulSKicqf9Ux2Jhg=;eFYMopnegXZ3/1je71OdIw=="
 ---
 
