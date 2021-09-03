@@ -1,25 +1,21 @@
 ---
 category: news
 title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-excerpt: "He founded MOLOCO with the vision of making sophisticated machine learning algorithms available as a cloud service to a wide variety of businesses, industries and use cases. MOLOCO Cloud is a ..."
-publishedDateTime: 2021-08-17T15:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
-webUrl: "https://markets.businessinsider.com/news/stocks/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-1030739081"
+excerpt: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All. REDWOOD CITY, Calif., Aug. 17, 2021 /PRNewswire/ -- MOLO"
+publishedDateTime: 2021-08-17T16:25:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9432517.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9432517.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "FQjv8BcBJkX3E4oE9gFbfb/PLM0xhTk3lK7YublIZjK4aATaTTMS9vAVzonbFVkFfinSLxvzYA/KgoD8VapS9pbPKoUIaMDfoUjwMDJu1rCvd7NaAWdXeMId3opRTf6UsL10cAqnN28C0dkbs8UtElG61/BV74840u+DNJRLN1UwPzFSEf26seA5QQ3s/e3QUN+/4n695AdQi7VDvqaWedoObL70IvpViQkQ6dbfyyVvXUec1lesKvQqTtlsYU5gqDYqiTIvswZyQA1PrRG1OqMoMs21wg+Xj3BL5oWGhORVOjjRNgj1rMM6GRukrr3829IUHDGKJ96tVHwcDugakOIv+4B3dBI2aPWVIDvn5vc=;cffehh6AqKZkWMU8vWVMow=="
+secured: "cYFqkg6YE97jlVX2qKfj6tIQJBH0+favwqqvoyahyIhQSO0k6liYPjAtZ3/pUGyM6jinQbKzS9INl0G2MW6qiV/weFhajcuCQYz+6ud9ru0UGkGQxcYcD2h7ZlUvxUFNSMTZCzXE0q4CDHDLW1oq9QNKuLF9UDIzI5usvdBg/sia6vvxCWw0XrnZQ8yQO66H4UUbd7soO4kbZCpz5mXFdf10KrZxectbVmSiw/4FdcAj6Vp7X3lm+Qi6Rg2S05kFzeYInR0g07e4vfcm5PgNJ5EQi/k+rSU8ZK9xT1pw4fyyN82JlpY4iLWic8Hy4HnsCX5OUuO5qdmaPCtyB1LBbg7xn5rWfOXqCWTYfAkPp9g=;ePaDumBeAtWNZOV4zRzvug=="
 ---
 

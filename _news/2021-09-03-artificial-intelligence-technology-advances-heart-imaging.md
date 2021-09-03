@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
+    excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
+    publishedDateTime: 2021-09-02T21:23:00Z
+    webUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness"
+    ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 58
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "New AI technology for heart imaging could improve care for patients"
     excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
     publishedDateTime: 2021-09-01T11:13:00Z
@@ -40,66 +56,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "New artificial intelligence tech set to transform heart imaging"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
-    publishedDateTime: 2021-08-31T17:02:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-1.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
-  - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
-    excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
-    publishedDateTime: 2021-09-02T21:23:00Z
-    webUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness"
-    ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 56
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "New artificial intelligence tech set to transform heart imaging"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
-    publishedDateTime: 2021-08-31T13:46:00Z
-    webUrl: "https://www.miragenews.com/new-artificial-intelligence-tech-set-to-623195/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1348&q=80"
-        width: 1348
-        height: 901
-        isCached: true
-  - title: "New AI Allows Physicians to Obtain Better Images of the Heart"
-    excerpt: "Researchers from University of Virginia Health System have developed an artificial intelligence technology for heart imaging – dubbed the Virtual Native Enhancement (VNE). The researchers said the AI technology could improve care for patients allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
-    publishedDateTime: 2021-08-31T18:36:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/new-ai-allows-physicians-obtain-better-images-heart"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 37
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug312021at22928PM.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "New Artificial Intelligence Technology Poised to Transform Heart Imaging"
     excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
     publishedDateTime: 2021-08-31T19:36:00Z
@@ -113,6 +69,31 @@ related:
       - url: "https://news.virginia.edu/sites/default/files/inline_1_chris_kramer_05hr_da.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Robot Operating System Market by Technology Advancement and Business Outlook 2021-2026"
+    excerpt: "MarketInsightsReports recently published a research report called Robot Operating System Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study of geographic regions"
+    publishedDateTime: 2021-08-31T11:55:00Z
+    webUrl: "https://www.openpr.com/news/2374811/robot-operating-system-market-by-technology-advancement"
+    ampWebUrl: "https://www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "BMO Harnesses AI Technology for Capital Markets Structured Note Pricing and Scenario Analysis"
+    excerpt: "BMO working with Riskfuel Analytics to help clients make faster, better investment decisions Successful pilot leveraged deep learning and fast neural nets to speed up valuation and pricing process TORONTO,"
+    publishedDateTime: 2021-09-02T12:38:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-business-cc04b0587103a1307130515a08e0814e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "OzBRJrxRh5x9ivtuL1y05+DJGNgTmeQzli+MJSoY1CiqZ3BE/vZdBZiMR4MjLlyLTTw1/tLiLSJcpVpVc7M+nV2b8fadAU6HVvLtSIBo3mEqSU4Zk5hoGQfPdBb+/E+IjYJPaZ/tUCAu1Szl3wdtdLcbrt/Nz4SzW3fJNggPk+IGI/2I2bn7WyN6b0VMMKqq+nczlJ6WtOYkNdS18mKu9QijwKL+odw6UfCvm098+W9rvyRWn3TE53oSkwTc2cjaJdu4T3o8ofqPFPFyLJal89ccNfBD/ctsO/c3X/EyFf2PGkRfSCDIiIOoNqil4YsSqn/Sml0BUh5eh4nqu2LUh1F6aAib545N/wDedihd3030EPj8gDj1krgvKmeWLJYpwdGnk7rB+8V/K+U8dn2mEUWrR3eOfcdOMsTQV0VDXbGx7kZTksj+UTgcgONtmNlCkfboLZmnCTC/7gTqMQb2A5yoERiFlQ8NYUb07GPHc20llRSXv0NfNUh7H2voD815EDH4q2ZZCxXJiN0r7QY86w==;+puWp9DyD9IPV3woQ/iw8Q=="

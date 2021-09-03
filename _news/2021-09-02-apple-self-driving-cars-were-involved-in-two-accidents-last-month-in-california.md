@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accid
 webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
 type: article
 quality: 50
-heat: 110
+heat: 111
 published: true
 
 provider:

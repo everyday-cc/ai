@@ -25,33 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A."
-    excerpt: "Hum Capital, a match maker in the private capital markets, just raised its $9 million Series A. Here's the pitch deck it used to raise the round."
-    publishedDateTime: 2021-09-01T17:44:00Z
-    webUrl: "https://www.businessinsider.com/hum-capital-pitch-deck-series-a-fintech-fundraising-2021-9"
+  - title: "New artificial intelligence tech set to transform heart imaging"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
+    publishedDateTime: 2021-08-31T17:02:00Z
+    webUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://i.insider.com/612ea1b412b9cc0019639849?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-1.jpg"
+        width: 1920
+        height: 1920
         isCached: true
-  - title: "Australian Fintech Startups Seek Singapore Investors to Help Fund SE Asian Expansion"
-    excerpt: "Eight Australian fintech startups are seeking financial backing and strategic support to help them access the fast-growing SE Asian market."
-    publishedDateTime: 2021-08-31T01:37:00Z
-    webUrl: "https://fintechnews.sg/54725/australia/australian-fintech-startups-seek-singapore-investors-to-help-fund-se-asian-expansion/"
+  - title: "New artificial intelligence tech set to transform heart imaging"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
+    publishedDateTime: 2021-08-31T13:46:00Z
+    webUrl: "https://www.miragenews.com/new-artificial-intelligence-tech-set-to-623195/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 17
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 37
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Australian-Fintech-Startups-Seek-Singapore-Investors-to-Help-Fund-Southeast-Asian-Expansion-.jpg"
-        width: 2048
-        height: 1136
+      - url: "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1348&q=80"
+        width: 1348
+        height: 901
+        isCached: true
+  - title: "New AI Allows Physicians to Obtain Better Images of the Heart"
+    excerpt: "Researchers from University of Virginia Health System have developed an artificial intelligence technology for heart imaging – dubbed the Virtual Native Enhancement (VNE). The researchers said the AI technology could improve care for patients allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
+    publishedDateTime: 2021-08-31T18:36:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/new-ai-allows-physicians-obtain-better-images-heart"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug312021at22928PM.jpg"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "ms4Ui3MX82rPnLQ46A5RS5sQXePANlglSb7NPJRQ9Jmc1b9HKbKA+gXjIsqjX5leqAZXyEuBwtzsXry27Jk+0MOhTb075l1ROUZULx29iK70b0q7uufnpI4QYmMYwXcjdL8Bs/EwHGY2IP2IfGfZYlRpHpJoyxAHrfsvzrwa7h9v0gSn+tctM29zhsTOT01TGmhowSagHH5knPL9hAnygUR0ICGRTP61iAOBiMR1IboAiCp8/YfVgvAKMhXoP/9q3fS+hZsTl+AUjYbDZDt2rfXTTHSfpY5mQFngP4xichTZE2LOim8WLZIijS8JvmfguGTjw52tUeRJJ0E3oWElbz4CefJMBmTKVqENDBfTFie6Bzb2+XmnbPLJEj5GRnTRJ2ES9DnQW/cLwuc7jG+Y04goqJwRvdy1ZNEr/CWaLCQkibEf2ko9SUERx1z6vZcyhvHL6Jz+VNd39PtERTaXKQlbZf6oy8TiJI2P4eHrIEtVcxYJX0O+ViK9DwId5qDh9hFF7ZN8kkbRYahN+W7ufg==;5TVPfhZVv5iQi+8WGjnvpQ=="

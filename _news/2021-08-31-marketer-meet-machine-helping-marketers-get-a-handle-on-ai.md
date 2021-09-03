@@ -59,6 +59,22 @@ related:
         width: 630
         height: 316
         isCached: true
+  - title: "AI in Online Advertising Market"
+    excerpt: "The Global AI in Online Advertising Market Report is presented in a clear and concise way to help you understand market structure and dynamics. Recent trends, developments and opportunities ..."
+    publishedDateTime: 2021-08-31T12:19:00Z
+    webUrl: "https://www.openpr.com/news/2374926/ai-in-online-advertising-market-demand-growth-prospects"
+    ampWebUrl: "https://www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/8/U831556344_g.jpg"
+        width: 720
+        height: 325
+        isCached: true
   - title: "Can real time accent translations perfect conversational AI?"
     excerpt: "One of the biggest problem with conversational AI is understand and detecting the various accents of a language."
     publishedDateTime: 2021-08-31T21:15:00Z

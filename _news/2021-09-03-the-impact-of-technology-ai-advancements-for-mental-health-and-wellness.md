@@ -8,9 +8,9 @@ webUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-
 ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 58
+heat: 108
+published: true
 
 provider:
   name: The National Law Review
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
@@ -41,50 +42,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/9/Chris_Kramer.jpg"
         width: 760
         height: 507
-        isCached: true
-  - title: "New artificial intelligence tech set to transform heart imaging"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
-    publishedDateTime: 2021-08-31T17:02:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-1.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
-  - title: "New artificial intelligence tech set to transform heart imaging"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
-    publishedDateTime: 2021-08-31T13:46:00Z
-    webUrl: "https://www.miragenews.com/new-artificial-intelligence-tech-set-to-623195/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1348&q=80"
-        width: 1348
-        height: 901
-        isCached: true
-  - title: "New AI Allows Physicians to Obtain Better Images of the Heart"
-    excerpt: "Researchers from University of Virginia Health System have developed an artificial intelligence technology for heart imaging – dubbed the Virtual Native Enhancement (VNE). The researchers said the AI technology could improve care for patients allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
-    publishedDateTime: 2021-08-31T18:36:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/new-ai-allows-physicians-obtain-better-images-heart"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 37
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug312021at22928PM.jpg"
-        width: 770
-        height: 400
         isCached: true
   - title: "Artificial Intelligence Technology Advances Heart Imaging"
     excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
@@ -114,7 +71,32 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Robot Operating System Market by Technology Advancement and Business Outlook 2021-2026"
+    excerpt: "MarketInsightsReports recently published a research report called Robot Operating System Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study of geographic regions"
+    publishedDateTime: 2021-08-31T11:55:00Z
+    webUrl: "https://www.openpr.com/news/2374811/robot-operating-system-market-by-technology-advancement"
+    ampWebUrl: "https://www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
+  - title: "BMO Harnesses AI Technology for Capital Markets Structured Note Pricing and Scenario Analysis"
+    excerpt: "BMO working with Riskfuel Analytics to help clients make faster, better investment decisions Successful pilot leveraged deep learning and fast neural nets to speed up valuation and pricing process TORONTO,"
+    publishedDateTime: 2021-09-02T12:38:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-business-cc04b0587103a1307130515a08e0814e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "KUHxi6kfD7Rx7PfIxc8lELCl+3XGQaPD1IP5OXmln2YlxmcLQUvTMeCH8WjQhxH8THKw/BLiSWntg2AVmfYimd9/7sULLA2DGn6e8mZ72GDq1FUM6s6vCKCbgsiPBR/xCvrEHC6DYO2HclN1Y9P+nnaPfpkjnKXvEipY5z3pwDWG6ef/pTx69JKVJ6y8awR3h5PJ4jUDHociViUJQ1WpK2zHEgVaxu1GmfHKZCmR5RLT43nRX9kpiuoslkjLQ2UvxWMsnnYwDreyqvbrEwqoStR3CR7Qq82DvzsxcxsTwtl0vD2vrD2selI49BcnkW16+X0aHSEYFCtNgE0+FtWYTd2/vNOBd+FWs8dESICfO8E=;YKJpOrXdFIU8QjMhlzqaUg=="
+secured: "d0IlMOi5+GfAo5Zt0N/76OXM5D3qx24N2FuYI7tfRMPG8QqCFoFFc/ob7DMsKEi1ywIWs0B/cdC5DRvaoQkUoE63Pyf423Hq6OVzDoLRrY8s1goWEFKKzooA8RxCt3ZSqJXRGLjJ169fk9q8poIagymN+FjF93nBY+3XdXgbaAyk3W0a3B+Lmqpc6G6W8QqQWMoSwWkPjUlpOUSCswCmrhY1u92zXO9SJVMn+2EbElnVM/CM5uxybho1dU3XJSIcAiIL8O7LFAGe63cpcoAtq9hY1gSo6q+3IVhEeWeV8/iXC0eW2TWIWwjdQ1q4+FKN0rdfSZxDqXfebox45Aa071MveSQRiYQy0DSU39sCD0EsEXVKB1n+5jNnIMWJRIul0Q7o0BKdxQSGfCoC+b0/8LpIS96pMk+TPBh91ZMd19U4jk0tFv5R8RmD2EpBo4fwD8kHM6aGs4hsPzvss56cjs89GedcN59zrEHAILGpuSft+wSZVqBR15xyxpGqA58e6EyYj+4jQ8exRkgdMpVUbQ==;bFtk834vcpPVeH4dIO8xTA=="
 ---
 

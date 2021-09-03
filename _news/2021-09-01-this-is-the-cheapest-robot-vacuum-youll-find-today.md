@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-v
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/?amp"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

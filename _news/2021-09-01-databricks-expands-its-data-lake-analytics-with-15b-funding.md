@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/31/databricks-expands-its-data-lake-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/amp/"
 type: article
 quality: 74
-heat: 116
+heat: 124
 published: true
 
 provider:
@@ -87,6 +87,17 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Databricks, a Data and AI Firm, Finalizes $1.6B Round at $38B Post Money Valuation, to Support Data Lakehouse Adoption"
+    excerpt: "Databricks, a data and AI firm, finalizes $1.6B round at $38B post money valuation, to support data lakehouse adoption."
+    publishedDateTime: 2021-09-02T22:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/179885-databricks-a-data-and-ai-firm-finalizes-1-6b-round-at-38b-post-money-valuation-to-support-data-lakehouse-adoption/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179885-databricks-a-data-and-ai-firm-finalizes-1-6b-round-at-38b-post-money-valuation-to-support-data-lakehouse-adoption/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179885-databricks-a-data-and-ai-firm-finalizes-1-6b-round-at-38b-post-money-valuation-to-support-data-lakehouse-adoption/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 15
 
 secured: "5Jt8m3lJlt5ZvnZLiw+xD9wRoPsMIzGGol+kFdB/dFSS+58+PWztddwVPNliK/vezppUCPCSQlrjhSIn3hNkh8W8Af+1uy4h+D6P590+lfPJbGy6bptiOIkLP9c76G1ahQfLQpLQaPt++ACcmSCHmA7YfTifMso0R6YLEqwIGKwa7LIEFhZ1Rdhd8p0GcVLL8dnutAobLsE/VejBluGJ4pyKgo3evn54lSf7uSwXm/IwLhWYKBCQ2h8cQH0BokvV2Lx95S4X0pUguLMlhnsB7XHZ6mY7MM4Whe7qvlnYYQI2ro8OsCe1O7aUe+6bVzqhihcTiEJEWtQJOiH0R4WPEgLeqYXaNzC4owlbxRRu8xWMNIoYbx0aGKsAuYe6qrMszbo7rpV1DtevofI6vH7LmAdfA5YxyQEy5rQ9x3v56iiH0fNKGunWqTi6MVd3XbK4WDV/T5L5VRoCw92/ojSbKF+5kHlNV2nQa4ElxpGFJwKN219xbMXOFFZGVsVbmHNVMFpakkSmx+pbETHkiMWt6g==;PJI5o09O8u2B27JPxMUyiQ=="
 ---

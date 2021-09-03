@@ -75,6 +75,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Nvidia In the Lead in AI Chips and is Working to Stay There"
+    excerpt: "Nvidia is the leading AI chips company today and has prospects in future markets around the auto industry and edge computing."
+    publishedDateTime: 2021-09-02T23:39:00Z
+    webUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-lead-in-ai-chips-and-is-working-to-stay-there/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 54
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3GPUchip-2.jpeg"
+        width: 550
+        height: 309
+        isCached: true
   - title: "Nvidia Aims vSphere-Integrated AI Software Suite at Enterprise Market"
     excerpt: "The AI leader has designed the software together with VMware to make AI easier for both data scientists and enterprise IT pros."
     publishedDateTime: 2021-08-30T13:49:00Z

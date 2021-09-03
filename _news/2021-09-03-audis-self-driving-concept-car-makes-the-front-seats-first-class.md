@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Audi’s self-driving concept car makes the front seats first class"
-excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
-publishedDateTime: 2021-09-02T18:17:00Z
-originalUrl: "https://kvia.com/video/2021/09/02/audis-self-driving-concept-car-makes-the-front-seats-first-class/"
-webUrl: "https://kvia.com/video/2021/09/02/audis-self-driving-concept-car-makes-the-front-seats-first-class/"
+title: "Audi's self-driving concept car makes the front seats first class"
+excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker's idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
+publishedDateTime: 2021-09-02T22:15:00Z
+originalUrl: "https://www.waaytv.com/content/news/575232202.html"
+webUrl: "https://www.waaytv.com/content/news/575232202.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: WAAY-TV
+  domain: waaytv.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2021/06/featured-biz-tech.jpeg"
-    width: 1024
-    height: 576
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902101633-audi-grandsphere-concept-car-live-video.jpg"
+    width: 576
+    height: 324
     isCached: true
 
 related:
@@ -131,6 +131,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "lMnml+3oVM0Hn9MWBeY0UMQs4BwBtiir2WoL03mbqQLyekI0xbU1c9yjF3WtcSmKq04y0Rugvp1cbKKZU827XWbLv3zZyLpPTUNFWlQwvFnMI+dQWcHEwdTWjTlMnuu6e8bLTs0uy57aNm1zGpp3/ZKnNi1/dNkWNU+cLzA9bIS/jbbrDukYMUBb2ttJEMHtR0BiyadIC50k2drdpEp8Lr0pYJW1pI71kd7Lvt9Nyn2R5pxu13a+94W1g96FnwuV2R7j7/l4+6HtN2Bo3u5gC35wwqyTIduj7DgpGmjkGaA4MTA2sDkuo8x80SCe+SI34SSdbsA14DrASkP6ZINLLNDZdhbt6bf3C+7aAOV+oWQ=;AqK/qUuuMipjVI2Ly/etfQ=="
+secured: "FsSTBi+GUM11aNV9jdPnRm90koH9wyvNWeOPus/Zv+xVTchzK/b1PWkp4Skr4z9vPa1QQNhSsrE7rN79Yg0zzWgMwXCI6NXwGhztfCjs78OGWi2au6I4XVa9Ot0+ueyfx0uidzn/WUyW4714vpQ6LGuAwu9dBWOPlLc1pThj8uis8ojblM6Rho5qOnEfqJqjyUAmGfelao9DGuaMzPrr6g81+pST0HQ2FLc5yJDaWICN5rfcrc1UCx3VzTCG2uVS1XvXRpM9HSSGZO2ReEg7XejB/H0GWYejDp1jkFA+lerGK2qaU+IjaAxs0rIiTjCRUFEyyFvf6Rz8vVhMtVA0gHXSOw1+feKW7MWN+ZhYMYI=;uIKk8nB5D+UvzlfKU4+xfw=="
 ---
 

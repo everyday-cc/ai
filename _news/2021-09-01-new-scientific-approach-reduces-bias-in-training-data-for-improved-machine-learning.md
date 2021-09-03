@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-09-scientific-approach-bias-machine
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-scientific-approach-bias-machine.amp"
 type: article
 quality: 68
-heat: 90
+heat: 88
 published: true
 
 provider:

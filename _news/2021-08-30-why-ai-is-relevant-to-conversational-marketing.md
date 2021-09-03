@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382318"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-26-at-7.47.44-AM-630x316.png"
         width: 630
         height: 316
+        isCached: true
+  - title: "AI in Online Advertising Market"
+    excerpt: "The Global AI in Online Advertising Market Report is presented in a clear and concise way to help you understand market structure and dynamics. Recent trends, developments and opportunities ..."
+    publishedDateTime: 2021-08-31T12:19:00Z
+    webUrl: "https://www.openpr.com/news/2374926/ai-in-online-advertising-market-demand-growth-prospects"
+    ampWebUrl: "https://www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/8/U831556344_g.jpg"
+        width: 720
+        height: 325
         isCached: true
   - title: "Marketer, meet machine! - helping marketers get a handle on AI"
     excerpt: "As a marketer, I am fascinated with how machine learning and Artificial Intelligence are helping companies improve their marketing and sales strategies. But also understand we have a long way to go, and there are many questions around how to use AI right."

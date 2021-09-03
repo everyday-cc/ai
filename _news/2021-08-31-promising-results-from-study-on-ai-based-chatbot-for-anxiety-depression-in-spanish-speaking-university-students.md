@@ -25,6 +25,17 @@ images:
     height: 1660
     isCached: true
 
+related:
+  - title: "This AI company's chatbot speaks 120 languages and is still learning more"
+    excerpt: "If you contact @dominos about your pizza delivery, there's a good chance you just used this growing #SanMateo company's #AI service."
+    publishedDateTime: 2021-09-02T22:02:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/09/02/yellow-messenger-ai-san-mateo-chatbot.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
+
 secured: "ZHCqknT/njtwTBz5KE4pzS80wbKpMTzsMV2xcjKdxwRLERO8+BFLa4IVoGGe3Y2ie3OslcY1zwJRf6oTSEPcgzJk67GzkBUCw8WLQ9/asn3PmFWDLIMvbTmWu+RrdYXw7wFPCwziyQpYuH4JMIwggxq2s+75ekVoEfoTNxSxqzF99fKsex0MF1hqcvbX4+IcFnqKw4YPc20w5sDrq82UmiLUhV4e9uGV5u/iwK4fdd8zTDg0JIF5kYGDOUwv4xI/+BdHjLhjinKGvJ9BE8yhaFshBelZFmS1LTifxT6rbObG9E/hbyvMEZVDK1L/FozS1pvmdOxpU5WLCGCI+/1rSXIqQSmt2VkPJZeqNMf2rhk=;UaUbiLX9ejN3NC7y6GPm9Q=="
 ---
 

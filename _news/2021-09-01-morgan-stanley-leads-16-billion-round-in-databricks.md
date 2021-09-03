@@ -83,6 +83,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Databricks, a Data and AI Firm, Finalizes $1.6B Round at $38B Post Money Valuation, to Support Data Lakehouse Adoption"
+    excerpt: "Databricks, a data and AI firm, finalizes $1.6B round at $38B post money valuation, to support data lakehouse adoption."
+    publishedDateTime: 2021-09-02T22:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/179885-databricks-a-data-and-ai-firm-finalizes-1-6b-round-at-38b-post-money-valuation-to-support-data-lakehouse-adoption/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179885-databricks-a-data-and-ai-firm-finalizes-1-6b-round-at-38b-post-money-valuation-to-support-data-lakehouse-adoption/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179885-databricks-a-data-and-ai-firm-finalizes-1-6b-round-at-38b-post-money-valuation-to-support-data-lakehouse-adoption/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 15
 
 secured: "ZvgHBFSlCRbxq33uEQ4G/FqvGf7B2vjSbGJqmEVwZtZbJNCqhHOpZ/gCVajmcwJhAhE1m3wSj9plf34aZnhCFcIS+Z6E/PY+vu85tJ+OYUKYC1zyZZgWJtXimbbaf0gFaQxNlendkOJHuarhdOPwzlcu8akORDL6UxZ1LrLILUyoBzpKngyMr/ORc/qVZM4EKs+A51UTlFyrzndOH/iNyQQ1vS0dbkGczTVcLXuDhblPuIzW3ZU7XB+q5XYHzodzX0F0DF8nXJwtJMyOqI9cszT8K9ayhbEVegHhP/+nRriowVZ4yYzNGBOlm/PcJv0kIBYni4J3ri6mIunLXdSNQyqnkOJd64VxXl32OHGu8tw=;+SeTy7EeVa2APGB+feFOcA=="
 ---

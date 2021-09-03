@@ -36,6 +36,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "A Dublin company sees voice recognition as a valuable tool for kids’ education"
+    excerpt: "Voice recognition systems continue to play a more prominent role in our daily lives, and the phenomenon continues to roll out to more sectors."
+    publishedDateTime: 2021-09-02T17:09:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/09/03/a-dublin-company-sees-voice-recognition-as-a-valuable-tool-for-kids-education"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/03/1279722.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "pdAgmJsLLblh4mhfZXEGs/NEVKkWF+qMxSaSEy6Lm6LjGgQBdTj1ZEHoEdIb5jpW2heKi237uEZuj4BwE2g0o0LhETWUZLhe3544E2Po13UgejQOshGUCqa0fxfAfIXytMEbx9aDNdGct8k6zkcrRk5yahXm8srKC7mhReVtjio1rKb1psSqYXsLMlfcXxigpsUiFdqryi2O3jIAOduuV/Yo4qHXlnyCavwlYJtXVBHdF9tRFuBy+VFfPHpU+HWPq6hxJlBZZjPCRkwHbGvNV2gO0AMxnd2eZht2/hOHDNMpYkBd1xlFg5fCXwSIzWP4PVJyuRDMO7QZZx4yAg2xuUbcuKPDzzPUC7J75OB5o/7105rB0HCit+czE7SVr6C1p0K8HDaBiboCE+yel2AuOrRbHg4V314XT/ZTr6FaKvQWYaHBKukdOFwM1f8d9yldzr1Tk77dzFIdALx0k7CTteFP8DvkQNwj/fFsDCcXGpgNxozDxFcvsD2ahQdROdpfRlwRRmKDMeidU2fMaZG8pA==;8XhjMw7k2v4CXBAvAe7d6A=="
 ---

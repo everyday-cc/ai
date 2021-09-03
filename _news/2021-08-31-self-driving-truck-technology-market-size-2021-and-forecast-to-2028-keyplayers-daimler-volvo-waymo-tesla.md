@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/self-driving-truck-technology-market-size
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/"
 type: article
 quality: 69
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -99,6 +99,22 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/09/food-390x220.jpg"
         width: 390
         height: 220
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market Size 2021 And Forecast to 2028 | Keyplayers – Airbus, Amazon, Boeing, Garmin"
+    excerpt: "In the recently published financial credit Artificial Intelligence in Aviation Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim."
+    publishedDateTime: 2021-09-02T21:45:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-2021-and-forecast-to-2028-keyplayers-airbus-amazon-boeing-garmin/?noamp=mobile"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-2021-and-forecast-to-2028-keyplayers-airbus-amazon-boeing-garmin/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-size-2021-and-forecast-to-2028-keyplayers-airbus-amazon-boeing-garmin/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 48
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg"
+        width: 300
+        height: 212
         isCached: true
   - title: "Face Recognition Systems Market Share, Top Key Players, Growth Factor, Industry Size, Latest Trends and Forecast 2021-2026"
     excerpt: "Global “Face Recognition Systems Market” research report presents a detailed analysis of the industry by size,"

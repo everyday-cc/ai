@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Nvidia In the Lead in AI Chips and is Working to Stay There"
+    excerpt: "Nvidia is the leading AI chips company today and has prospects in future markets around the auto industry and edge computing."
+    publishedDateTime: 2021-09-02T23:39:00Z
+    webUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-lead-in-ai-chips-and-is-working-to-stay-there/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 54
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3GPUchip-2.jpeg"
+        width: 550
+        height: 309
+        isCached: true
   - title: "NVIDIA shares expressive speech synthesis research at Interspeech"
     excerpt: "Developers and creators can access state-of-the-art conversational AI models for expressive speech synthesis to generate voices for characters, virtual assistants and personalized avatars."
     publishedDateTime: 2021-08-31T14:58:00Z

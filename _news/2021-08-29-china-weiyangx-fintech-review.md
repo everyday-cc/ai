@@ -73,6 +73,17 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "A Comprehensive Guide to Fintech ETFs"
+    excerpt: "According to the report, the fintech space is expected to reach a market value of around $324 billion by 2026. The combination of financial services and technology has allowed providers to focus on a more customer-centric approach."
+    publishedDateTime: 2021-09-02T21:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Global Payments Fintech Adyen Introduces Machine Learning enabled Compliance Solution, Score"
     excerpt: "Adyen (AMS: ADYEN), the international payments platform for leading businesses, has officially launched Score. Adyen claims that it’s the first-to-market with a machine learning powered solution on a single platform for identifying unusual activity and ensuring platform compliance."
     publishedDateTime: 2021-09-02T01:38:00Z

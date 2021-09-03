@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Hi-Tech Companies Helping Non-Tech Companies with AI Applications"
-    excerpt: "This article explores top hi-tech companies helping non-tech companies with AI applications. Leveraging artificial intelligence can help non-tech companies to get help from hi-tech companies with AI applications for driving growth."
-    publishedDateTime: 2021-09-02T13:39:00Z
-    webUrl: "https://www.analyticsinsight.net/top-hi-tech-companies-helping-non-tech-companies-with-ai-applications/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-Hi-Tech-Companies-Helping-Non-Tech-Companies-With-AI-Applications.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Australian Fintech Startups Seek Singapore Investors to Help Fund SE Asian Expansion"
     excerpt: "Eight Australian fintech startups are seeking financial backing and strategic support to help them access the fast-growing SE Asian market."
     publishedDateTime: 2021-08-31T01:37:00Z

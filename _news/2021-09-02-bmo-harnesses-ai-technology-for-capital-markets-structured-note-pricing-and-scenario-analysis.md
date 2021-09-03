@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-bus
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-business-cc04b0587103a1307130515a08e0814e"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,79 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
+    excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
+    publishedDateTime: 2021-09-02T21:23:00Z
+    webUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness"
+    ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 58
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "New AI technology for heart imaging could improve care for patients"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
+    publishedDateTime: 2021-09-01T11:13:00Z
+    webUrl: "https://www.news-medical.net/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/9/Chris_Kramer.jpg"
+        width: 760
+        height: 507
+        isCached: true
+  - title: "Artificial Intelligence Technology Advances Heart Imaging"
+    excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
+    publishedDateTime: 2021-09-02T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-technology-advances-heart-imaging"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1094058356.jpg"
+        width: 700
+        height: 480
+        isCached: true
+  - title: "New Artificial Intelligence Technology Poised to Transform Heart Imaging"
+    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
+    publishedDateTime: 2021-08-31T19:36:00Z
+    webUrl: "https://www.miragenews.com/new-artificial-intelligence-technology-poised-623368/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 36
+    images:
+      - url: "https://news.virginia.edu/sites/default/files/inline_1_chris_kramer_05hr_da.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Robot Operating System Market by Technology Advancement and Business Outlook 2021-2026"
+    excerpt: "MarketInsightsReports recently published a research report called Robot Operating System Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study of geographic regions"
+    publishedDateTime: 2021-08-31T11:55:00Z
+    webUrl: "https://www.openpr.com/news/2374811/robot-operating-system-market-by-technology-advancement"
+    ampWebUrl: "https://www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
 
 secured: "dg2KaTfRxsesJAtgOrORL2KMTVv4l0ROZ9mGrwMqsXYxfbE7CirA5SXvE88bgPMyW+/gfuGvWdxPoTiItCjZr29P1tENybx7pjr02/0XzH0Y131sFemrJqAK1iRnYFlw0/ONaTcIOWH+Mv9DzyZNDja4m4XlsUnyaYV/h7C+ONxfkwDzc60vYolaH0+zGBXY3OUTY3hqHxlMmLEOhj8vQ3GS/Ss/CvAci0w2kL/wojj5PqZ4YqCQ2fq0yD4nLIOCdKCOzRlwXm/en4kARkXUp8cccyWB9Va+9/pLpIWcBX9kKeWRJ0PiiSI6cLC5UdstEYTRd90t0Jrqm0q0q/m94YaKMM7e/rvOacgsXzVYJj4=;J1q00Lyx6GGYCwVvqty9VQ=="
 ---

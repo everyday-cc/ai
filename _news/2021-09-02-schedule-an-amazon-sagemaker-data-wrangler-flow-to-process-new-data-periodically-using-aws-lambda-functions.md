@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Build machine learning at the edge applications using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2"
+    excerpt: "Running machine learning (ML) models at the edge can be a powerful enhancement for Internet of Things (IoT) solutions that must perform inference without a constant connection back to the cloud. Although there are numerous ways to train ML models for countless applications, effectively optimizing and"
+    publishedDateTime: 2021-09-02T22:22:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/31/ml2780-image001-whitebckgn-1008x630.png"
+        width: 1008
+        height: 630
+        isCached: true
   - title: "Dive deep into Amazon SageMaker Studio Notebooks architecture"
     excerpt: "Machine learning (ML) is highly iterative and complex in nature, and requires data scientists to explore multiple ways in which a business problem can be solved. Data scientists have to use tools that support interactive experimentation so you can run code, review its outputs, and annotate it, which"
     publishedDateTime: 2021-08-31T18:45:27Z

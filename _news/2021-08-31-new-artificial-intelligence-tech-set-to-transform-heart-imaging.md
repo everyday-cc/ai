@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI technology for heart imaging could improve care for patients"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
-    publishedDateTime: 2021-09-01T11:13:00Z
-    webUrl: "https://www.news-medical.net/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/9/Chris_Kramer.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "New artificial intelligence tech set to transform heart imaging"
     excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
     publishedDateTime: 2021-08-31T17:02:00Z
@@ -56,21 +40,19 @@ related:
         width: 1920
         height: 1920
         isCached: true
-  - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
-    excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
-    publishedDateTime: 2021-09-02T21:23:00Z
-    webUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness"
-    ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+  - title: "Top Hi-Tech Companies Helping Non-Tech Companies with AI Applications"
+    excerpt: "This article explores top hi-tech companies helping non-tech companies with AI applications. Leveraging artificial intelligence can help non-tech companies to get help from hi-tech companies with AI applications for driving growth."
+    publishedDateTime: 2021-09-02T13:39:00Z
+    webUrl: "https://www.analyticsinsight.net/top-hi-tech-companies-helping-non-tech-companies-with-ai-applications/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 56
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-Hi-Tech-Companies-Helping-Non-Tech-Companies-With-AI-Applications.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "New AI Allows Physicians to Obtain Better Images of the Heart"
     excerpt: "Researchers from University of Virginia Health System have developed an artificial intelligence technology for heart imaging – dubbed the Virtual Native Enhancement (VNE). The researchers said the AI technology could improve care for patients allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
@@ -85,34 +67,6 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug312021at22928PM.jpg"
         width: 770
         height: 400
-        isCached: true
-  - title: "Artificial Intelligence Technology Advances Heart Imaging"
-    excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
-    publishedDateTime: 2021-09-02T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-technology-advances-heart-imaging"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1094058356.jpg"
-        width: 700
-        height: 480
-        isCached: true
-  - title: "New Artificial Intelligence Technology Poised to Transform Heart Imaging"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
-    publishedDateTime: 2021-08-31T19:36:00Z
-    webUrl: "https://www.miragenews.com/new-artificial-intelligence-technology-poised-623368/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://news.virginia.edu/sites/default/files/inline_1_chris_kramer_05hr_da.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "ON/xyDNQX6wLFgZwD1okeGjCtNzfuZbiGDeIgJIG+Qa7I+QTrtOzoeMmXdfSTzx56IHcf1CYRHlhpTqIelblFkZUFKjnEPgUgx07uye8hBYSh6q+92WxKZYh9spqaIrkf5oKrDoAb1aNKMVuiUighwjT1E4B9pS9EhmhSYcJ++3+f/2mhIhDlP++NsCr0Uke9/TsVG9r2mtB0Sur3Ba/RnyT4TCrIo5MZVUhppp9V/08KO0ykxi4nYG7b+70oJ/qad9veJHqlOn6jNvYKQWk43WFFmntdZFXlS66dwp9aAVD7UweF7OBYgRblReB8SQbJ5cSB3FMgReJs1duHlggXilol2ni7ZLQ7hTcVJNYo90=;/NwstA30B/K0cdeJkUYH/g=="

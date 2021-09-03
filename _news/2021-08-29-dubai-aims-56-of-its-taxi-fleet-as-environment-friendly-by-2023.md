@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/dubai-aims-56-of-its-taxi-
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/dubai-aims-56-of-its-taxi-fleet-as-environment-friendly-by-2023/amp-41630225460311.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Dubai to make 56% of taxi fleet environmentally friendly, 5% self-driving by 2023"
-    excerpt: "Director general of the RTA has said the organisation is committed to employing artificial intelligence and smart systems in Dubai's taxi sector"
-    publishedDateTime: 2021-08-29T06:29:00Z
-    webUrl: "https://www.arabianbusiness.com/transport/467689-dubai-to-make-56-of-taxi-fleet-environmentally-friendly-5-self-driving-by-2023"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 14
 
 secured: "+/7MzK22IwaeLnEmiA3bZfNa5JhYfDK4AI7ShrGODUv0YgtmvaT/WmxFYzlLLIMZsF0m7LjF79o9uwL57I5MHgZmv8cytcTLN5CUownvhBuio8Tgh5iXfMvF4PfL1Fc/+lGEa5h5uOT1OUZkt/GBsJqLleHHg5qi15/h9GvLleO9jowcAJSSkPmV5ybmPxdB0C5rfITQUb20tGMnLjEEWN9dMvSZxdghX3aTW06l1yfiE4BM6Rap7zKFnkqGIeYTp8X8Hl5QSVHBUI4NHeXVKfVsNaJ+Cd8ulHy8BCpxH+Qp9g8BZAuWMg9q9Re6ABuJukyq0mV/7THXwHkgZ7cAR7EgvAByoqh1jm6G7u0p9/U=;UkJqWh3NMKZ/CtttnvV0GA=="
 ---
