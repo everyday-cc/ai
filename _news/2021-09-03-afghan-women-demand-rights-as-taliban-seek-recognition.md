@@ -38,20 +38,20 @@ related:
         height: 338
         isCached: true
   - title: "Afghan women demand rights as Taliban seek recognition"
-    excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan's new rulers work on forming a government and seeking international recognition."
-    publishedDateTime: 2021-09-03T23:56:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
+    excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new rulers work"
+    publishedDateTime: 2021-09-04T05:50:00Z
+    webUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/"
+    ampWebUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
+      name: The Denver Post
+      domain: denverpost.com
     quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/21/56/55/21425016/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246339754606.jpg?w=1024&#038;h=732"
+        width: 1024
+        height: 732
         isCached: true
 
 secured: "M568NMpa3N/bqsL8r7pxF8b5JeM4DmVv/XAYY4rHjBRCV2040yXA3W13OCyvSaKSd+gqUL4th3gCJDYStQoPPvkrPOeLpurAw+QDyGV9PjdQudiGyy2SObcB29g2XqRfwtDbCjHSW1kZeaJ3vDyr4iwPNCodaKimz+sH5kl4UemJspzlsSdq6Gn3raihFq3IqoCZK9E0A8qTlLf7/iO60JXPwmy0bpvencbA41EzRgjTofeKeDpzvpVn78rIW08nnbagBdZHTYaROhqCCN5GhJgLGLu5KrR51UCSjnuFE7OEp+Yz1y20aQXrDL5zfeIAT8o7GZrvRngM+ISZy6C9f0kXY46D1p8c0D4q5beW7HE=;m88nq1S+4Mk0UwSpp48pag=="

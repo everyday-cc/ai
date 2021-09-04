@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-h
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/amp/"
 type: article
 quality: 202
-heat: 232
+heat: 222
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Tesla Presents A Humanoid Robot To Support Humans At Work"
-    excerpt: "The Tesla Company is working on the development of a humanoid robot. This TeslaBot will be able to perform the thankless tasks usually performed by humans in the workforce."
-    publishedDateTime: 2021-08-30T12:43:00Z
-    webUrl: "https://www.dcvelocity.com/articles/52113-tesla-presents-a-humanoid-robot-to-support-humans-at-work"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 56
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/e2ffc489-4bca-4e4a-afba-df8fcdcb9840.jpg?crop=true&height=430&t=1629323382&width=640"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Tesla Makes a Leap from Autonomous Vehicles to Robots with “Tesla Bot” Reveal"
     excerpt: "Not a stranger to taking on a challenge, Elon Musk reveals \"Tesla Bot\" at 2021's Tesla AI Day. While it seems to be an ambitious plan to build a humanoid robot, how feasible is it for Tesla? Elon Musk isn't new to having big ideas and even bigger ambitions."
     publishedDateTime: 2021-09-01T23:00:00Z

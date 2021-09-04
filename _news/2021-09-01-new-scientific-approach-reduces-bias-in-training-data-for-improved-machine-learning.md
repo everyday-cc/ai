@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-09-scientific-approach-bias-machine
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-scientific-approach-bias-machine.amp"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spell Introduces Deep Learning Operations Platform To Reduce AI Training Costs"
-    excerpt: "Concept: NY’s MLOps platform provider Spell has announced the launch of an operations platform that includes the tools needed to train AI models using deep learning algorithms. ML algorithms are tuned for the platforms currently used to train AI models."
-    publishedDateTime: 2021-08-30T12:28:00Z
-    webUrl: "https://www.power-technology.com/research-reports/spell-introduces-deep-learning-operations-platform-to-reduce-ai-training-costs/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 50
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/shutterstock_1698736867.jpg"
-        width: 500
-        height: 282
-        isCached: true
   - title: "New scientific approach reduces bias in training data for improved machine learning"
     excerpt: "Gautam Thakur leads a team of ORNL researchers who have developed a new scientific method for identifying bias in human data annotators to ensure high-quality data inputs for machine learning applications."
     publishedDateTime: 2021-08-31T12:00:00Z

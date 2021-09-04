@@ -42,20 +42,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Flying robots with AI mechanisms can identify the right fruits for plucking"
-    excerpt: "In the past decade, the introduction of cutting-edge technologies like AI, machine learning and deep learning has transformed the overall process of fruit harvesting. Now, fruit farmers"
-    publishedDateTime: 2021-08-30T12:41:00Z
-    webUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-mechanisms-can-identify-the-right-fruits-for-plucking/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 52
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Coming Identity Crisis for AI"
     excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
     publishedDateTime: 2021-09-01T21:05:00Z

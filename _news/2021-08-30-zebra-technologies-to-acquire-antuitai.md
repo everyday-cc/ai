@@ -24,31 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zebra Technologies Plans To Acquire Antuit.ai - Quick Facts"
-    excerpt: "Zebra Technologies (ZBRA) announced Monday that it intends to acquire antuit.ai, a provider of artificial intelligence (AI)-powered Software-as-a-Service (SaaS) solutions specific to forecasting and merchandising for the retail and CPG industries."
-    publishedDateTime: 2021-08-30T12:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Temasek-founded Aicadium acquires Singapore AI firm BasisAI"
-    excerpt: "Aicadium, a global technology company founded by Temasek and dedicated to creating and scaling AI solutions, today announced the acquisition of BasisAI, a Singapore -based provider of scalable and responsible artificial intelligence (AI) software."
-    publishedDateTime: 2021-08-31T02:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/temasek-founded-aicadium-acquires-singapore-ai-firm-basisai-1030768169"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1605010/Cofounders_1.jpg"
-        width: 400
-        height: 283
-        isCached: true
   - title: "Zebra's (ZBRA) antuit.ai Buyout to Boost Retail Software Portfolio"
     excerpt: "Zebra will leverage antuit.ai’s expertise in the demand forecasting space and combine it with its SaaS portfolio to offer an advanced analytics, AI and automation solution to its customers. This will aid them in effective planning and executing business operations with better insights into the supply chain,"
     publishedDateTime: 2021-08-31T13:14:00Z
@@ -76,36 +51,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Zebra Technologies to Acquire AI Software Firm Antuit"
-    excerpt: "In a move it said would enhance the demand forecasting and pricing capabilities of its store execution solutions, Zebra Technologies intends to acquire antuit.ai, a provider of AI-powered merchandising software for the retail and CPG industries."
-    publishedDateTime: 2021-08-30T20:16:00Z
-    webUrl: "https://www.winsightgrocerybusiness.com/technology/zebra-technologies-acquire-ai-software-firm-antuit"
-    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
-    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
-    type: article
-    provider:
-      name: Winsight Grocery Business
-      domain: winsightgrocerybusiness.com
-    quality: 57
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-08/background/400x600/antuit1.jpg?VersionId=ykWLYXCE0R31U_UXOc1fHHbPm5ZqlpP."
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Frisco-Based Antuit.ai to Be Acquired By Zebra Technologies"
-    excerpt: "Zebra plans to expand its growing retail and CPG portfolio with the addition of Antuit.ai, a Goldman Sachs company that uses AI and machine learning software to assist retail and CPG businesses in digitally transforming their businesses and achieving outsized results in supply chain,"
-    publishedDateTime: 2021-08-30T23:15:00Z
-    webUrl: "https://dallasinnovates.com/frisco-based-antuit-ai-to-be-acquired-by-zebra-technologies/"
-    type: article
-    provider:
-      name: dallasinnovates.com
-      domain: dallasinnovates.com
-    quality: 39
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/06/SivakumarLakshmanan_and_YogeshKulkarni-970.jpg"
-        width: 970
-        height: 508
-        isCached: true
   - title: "Zebra Technologies acquires AI forecasting provider Antuit.ai"
     excerpt: "Antuit.ai will expand the company’s SaaS product ... market through the recently announced $290 million acquisition of startup Fetch Robotics Inc, which makes robots for fulfillment centers."
     publishedDateTime: 2021-08-30T19:28:00Z
@@ -119,45 +64,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image-2.png"
         width: 768
         height: 432
-        isCached: true
-  - title: "Zebra Technologies to Acquire Antuit.ai"
-    excerpt: "Zebra Technologies (NASDAQ: ZBRA), a Lincolnshire, IL-based provider of performance edge solutions, is to acquire antuit.ai, a Dallas, TX-based provider of artificial intelligence (AI)-powered Softwar"
-    publishedDateTime: 2021-08-30T21:57:00Z
-    webUrl: "https://www.finsmes.com/2021/08/zebra-technologies-to-acquire-antuit-ai.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/zebra-1.jpg"
-        width: 1280
-        height: 596
-        isCached: true
-  - title: "Zebra to acquire artificial intelligence software company"
-    excerpt: "Zebra Technologies Monday said it intends to acquire Antuit.ai, a provider of artificial intelligence-powered software solutions specific to forecasting and merchandising for the retail and consumer packaged goods industries."
-    publishedDateTime: 2021-08-30T18:24:00Z
-    webUrl: "https://www.dailyherald.com/business/20210830/zebra-to-acquire-artificial-intelligence-software-company"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20210830/business/210839944/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210830/business/210839944/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 37
-  - title: "Zebra Technologies to Acquire Antuit.ai"
-    excerpt: "Zebra Technologies Corporation, a global enterprise mobile computing company, announced its intention to acquire antuit.ai, a provider of artificial intelligence (AI)-powered Software-as-a-Service (SaaS) solutions specific to forecasting and merchandising for the retail and CPG industries."
-    publishedDateTime: 2021-09-02T14:44:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/33691-zebra-technologies-to-acquire-antuitai"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 37
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Aug-2021-SM.jpg?crop=1&height=348&t=1628176208&width=271"
-        width: 271
-        height: 348
         isCached: true
 
 secured: "aMGHaOfH6tMNTKssDVpQpR8ak6UnfFSt+yIPkW4CSXvHnZwhmyqhs3CrRjAWCs2qQPhFLW4/273fEgwEd0GY0nxZ8PN5nxTRc2h+xztuFTWyRo1Rm8+3x0iyQBBXnXK/NCOAc1rg9HdlUQRIEoWievyM6KKv9capE3iUXq4e7caR9nWh/Hwu0tmQuwMMwX71T0C1SIFcBLv2AFWF8QVxN2+EJH81p1XQtDL2O7kFQOaPU6kjHnolL1YRwJfXbPGNgWKrN2ugoF9OSzALvFJfTd8urHenWM6Lm1lLNkdaLOVw9phaW3VxDpZymqvMV6DdAPVr/Or5G7UtB5FEki0+4l3mwF8jA/gjjZ1gUeVCzjk=;XhESWSlcw8BbPBwwbiDN2w=="

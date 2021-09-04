@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovat
 webUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovative-startup-fix?ref=recommender-705042"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -20,31 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "New startup founded by Temasek acquires Singapore AI firm"
-    excerpt: "Aicadium, a tech firm based in Singapore and the founded by Temasek, today announced the acquisition of BasisAI, a provider of scalable and responsible AI software. Specific details about the deal amount,"
-    publishedDateTime: 2021-08-31T01:27:00Z
-    webUrl: "https://www.techinasia.com/temasekfounded-aicadium-acquires-singapore-ai-firm"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
-  - title: "Sitecore Acquires AI-Powered Digital Search Platform Reflektion"
-    excerpt: "Sitecore®, the global leader in digital experience management software, today announced the acquisition of San Mateo-based Reflektion, an AI-powered digital search platform that understands and predicts patterns,"
-    publishedDateTime: 2021-09-02T15:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-93de7c9f99ec0ff79067be64066a3818"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "6lRFxKlHlH+PRiIwasPM2uMyZ0dbCuyU3RpAC+LsZV1z/wpJqlgYmLIzREUoNVBoF2FTYG2OyHrLJHOJpnaYgW1PLyXnTNzOJA5Zuir/NBTGHkf5yJskNsDzSyDJ+svTxt8wCGOOo7lVPXH6B4Gn4LEQPzWvByMWprXy5RF2NVBwqRcckmRaQeLfWgjn4TOfGkz/fCg6FiqzyH8IbuIJ+/Eo2aibcae3Unxbnb7D0dTPrEAZCCSTQdrzucQUHMT/m2D+nl+YUdcF6sZi5G3/sg62e2JPWmBAADn163fPj59lnVwwqwMuIf5Xnl3a3Tk9STpHZ2YS2HRDF+2fdA6K61BsqRtJZR9SDIEW4sgSjVZj9sY7P0zCn4FNVlwsK9xZ/84xVidva6qyWwIZAPVBZZQfW9OskqH1cXuqqH9KdOiwKlmKoeymm6jbdqPeYQi66ctAl1tyTKQz85XhcjdsJ4wo4c4NRj4xYx4Ej4E4aDprjPhk0rcRahG29/+tLirU5BwVjCn6gH+sQj3PkT3N/A==;33z4e1zKhkcUcPngjqKQQg=="
 ---

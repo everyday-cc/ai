@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence answers COVID questions"
-    excerpt: "A chatbot that is based on an artificial neural network that can carry out natural language processing (NLP) is being developed by researchers in India. The team describes how the chatbot can be programmed to answer questions related to the COVID-19 pandemic."
-    publishedDateTime: 2021-08-30T11:49:00Z
-    webUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg"
-        width: 1920
-        height: 1497
-        isCached: true
   - title: "How AI Helped Companies Survive COVID-19: 5 Tips for Resilience"
     excerpt: "Tim Lawes, Sr. Manager for Solutions Consulting at Symphony SummitAI shares 5 lessons for post-COVID-19 pandemic resiliency leveraging AI"
     publishedDateTime: 2021-08-31T04:00:00Z

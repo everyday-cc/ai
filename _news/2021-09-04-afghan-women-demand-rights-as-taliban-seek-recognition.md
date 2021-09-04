@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Afghan women demand rights as Taliban seek recognition"
-excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan's new rulers work on forming a government and seeking international recognition."
-publishedDateTime: 2021-09-03T23:56:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
-webUrl: "https://www.seattlepi.com/news/article/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
+excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new rulers work"
+publishedDateTime: 2021-09-04T05:50:00Z
+originalUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/"
+webUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/"
+ampWebUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
+cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/21/56/55/21425016/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246339754606.jpg?w=1024&#038;h=732"
+    width: 1024
+    height: 732
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
       domain: wtop.com
     quality: 24
 
-secured: "AGTxCxldMoqA4mZ3LQtnLocdp2yZ0JYbDrZ9zrFzw8VhDJSxwVQ6wKuYzT90gUXtHUWKoqm89THDJUJHZqFiwGVcqkuE1xClq4lyvED43n2gDd9pZfHKvgk/VyTlZoI5fqcrRm81lwDHr4CFyRg6QUgde+TjotCeJNbKyOBbTKikrJFmvsMTsPIAgQTw4Fgm8g7t3uGk2N58sTVYVTzIE2zsuMVKd/kNHcssFZ03T73WtPUbVdm3ntLnwrEo8jbpDJP3eZ2F4eg1rnn+WKBOJkccU9IaK7hXE0foHmCXAhFHsAoNYIp7V+8l90mho1VtiQWCyiasUuQXXN0inYdnx8nb7VNi+JWa4EaW8HaBl0s=;o4OsyphU/nJiWbwnadY98g=="
+secured: "RxaPRUSM/ilZb03oiZ7dm3782g3jPfK22KcHN2KafCcgUKLYeybBWVsRwmegIGYbEhrXr7UzA1zunNOkvpU+x0haSNtlwRQDmdmG9GDpemEJA/a5qmuOmTfqTE+l7y/uE2KmGxs3oRFKhJYD1CGCtnhkZX0HJmUY3uzM4ZrH8FRhrmNdOtq/+kAb2pTNPkkVY+F8ft4TMjQzbgkZnJzApAD9frvB8eu43H+V7qJ/6e7L3FsKy27PxV7SO7X8o9qeacxUsNbnFIxS8WnH5Ga67FYZxGZ1mc2ieZVRcLEyZ/u7I+ZRPh5Z5or6s43aQwxuL9IBM3qjaFfJZDnx6/yODDKcutPTK3S+ycRwNeYsiOc=;SeaVCCfgh7P9bYYif2T7zw=="
 ---
 

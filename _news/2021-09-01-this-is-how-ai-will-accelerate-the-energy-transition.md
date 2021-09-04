@@ -9,8 +9,8 @@ ampWebUrl: "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: europeansting.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Executive’s Guide to Accelerating Artificial Intelligence and Data Innovation with Synthetic Data"
+    excerpt: "Senior leadership finds itself grappling with the competing demands of operating in an increasingly digital world. This digital environment requires use of sophisticated technologies like artificial intelligence (AI),"
+    publishedDateTime: 2021-09-02T01:46:00Z
+    webUrl: "https://hbr.org/sponsored/2021/09/the-executives-guide-to-accelerating-artificial-intelligence-and-data-innovation-with-synthetic-data"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 22
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/09/HBRAS_CRE2072_thumb.png"
+        width: 1220
+        height: 686
+        isCached: true
   - title: "Investment in Artificial Intelligence Solutions Will Accelerate According to a New IDC Spending Guide"
     excerpt: "Businesses and organizations across all industries are increasing their investment in artificial intelligence (AI) to"
     publishedDateTime: 2021-08-30T16:05:00Z

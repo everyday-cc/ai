@@ -75,38 +75,6 @@ related:
         width: 1008
         height: 1632
         isCached: true
-  - title: "Toyota to resume self-driving vehicles at Paralympic Games village"
-    excerpt: "CNBCTV18 is India's leading financial, economic and business information source. The leading platform for business & financial news, BSE/NSE stock market news updates, business news live, IPO Analysis,"
-    publishedDateTime: 2021-08-30T12:25:00Z
-    webUrl: "https://www.cnbctv18.com/sports/toyota-to-resume-self-driving-vehicles-at-paralympic-games-village-10548111.htm"
-    ampWebUrl: "https://www.cnbctv18.com/sports/toyota-to-resume-self-driving-vehicles-at-paralympic-games-village-10548111.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/sports/toyota-to-resume-self-driving-vehicles-at-paralympic-games-village-10548111.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 44
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/06/2018-06-27T140657Z_1_LYNXMPEE5Q1GO_RTROPTP_3_AUTOS-TOYOTA.jpg"
-        width: 800
-        height: 504
-        isCached: true
-  - title: "Toyota to resume self-driving e-Palette vehicle operations at Olympic village"
-    excerpt: "A Toyota self-driving e-Palette vehicle had last week collided with and injured a visually impaired pedestrian at the Olympic village..Toyota says it is cooperating with a local police investigation to determine the exact cause of the accident."
-    publishedDateTime: 2021-08-30T12:24:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/toyota-to-resume-self-driving-e-palette-vehicle-operations-at-olympic-village-41630324084693.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/toyota-to-resume-self-driving-e-palette-vehicle-operations-at-olympic-village/amp-41630324084693.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/toyota-to-resume-self-driving-e-palette-vehicle-operations-at-olympic-village/amp-41630324084693.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 41
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/08/30/600x338/Screenshot_2021-07-20_at_2.07.14_PM_1626770282792_1630324372220.png"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Toyota to resume self driving pods operations with more safety staff"
     excerpt: "Toyota says that the breaks were hit when the athlete was detected by both the operator and the autonomous system."
     publishedDateTime: 2021-08-31T16:18:00Z
@@ -136,43 +104,6 @@ related:
       - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
         width: 1600
         height: 1042
-        isCached: true
-  - title: "Toyota to Restart Self-Driving Vehicles at Olympic Village With More Safety Staff"
-    excerpt: "Toyota Motor said on Monday it would resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff to ensure they did not hit any more people."
-    publishedDateTime: 2021-08-30T11:16:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-08-30/toyota-to-restart-self-driving-vehicles-at-olympic-village-with-more-safety-staff"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 29
-  - title: "Toyota self-driving buses in Paralympic village to restart Tues."
-    excerpt: "Toyota Motor Corp. said its self-driving buses will start running again in the athletes' village in Tokyo on Tuesday with improved sa"
-    publishedDateTime: 2021-08-30T13:00:00Z
-    webUrl: "https://mainichi.jp/english/articles/20210830/p2g/00m/0bu/064000c"
-    type: article
-    provider:
-      name: mainichi.jp
-      domain: mainichi.jp
-    quality: 24
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2021/08/30/20210830p2g00m0bu063000p/0c10.jpg?1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Toyota to restart self-driving e-Palettes with more safety staff"
-    excerpt: "TOKYO: Toyota said today it would resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff to ensure they did not hit any more people."
-    publishedDateTime: 2021-08-30T11:44:00Z
-    webUrl: "https://www.carsifu.my/news/toyota-to-restart-self-driving-e-palettes-with-more-safety-staff"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/08/e21.jpg"
-        width: 800
-        height: 500
         isCached: true
   - title: "Toronto's new self-driving shuttle bus hits the road this month"
     excerpt: "The new self-driving shuttle serving the Rouge Valley area will begin learning its route in September before welcoming passengers."
@@ -230,20 +161,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "URGENT: Toyota self-driving buses in Paralympic village to restart Tues."
-    excerpt: "Toyota Motor Corp. said its self-driving buses will start running again in the athletes' village in Tokyo on Tuesday with improved safety measures after they have been stopped since an accident last week involving a visually impaired Paralympian."
-    publishedDateTime: 2021-08-30T11:10:00Z
-    webUrl: "https://www.nippon.com/en/news/kd805027382900211712/"
-    type: article
-    provider:
-      name: Nippon
-      domain: nippon.com
-    quality: 23
-    images:
-      - url: "https://www.nippon.com/en/ncommon/contents/news/1055056/1055056.jpg"
-        width: 360
-        height: 245
-        isCached: true
   - title: "Self-driving buses back online in Tokyo after hitting Paralympic athlete"
     excerpt: "Toyota will resume the use of its self-driving buses, e-Palette Pods, at the Tokyo 2020 Paralympic Games today after one hit a visually impaired athlete. The Guardian reported that the Paralympian, Aramitsu Kitazono,"
     publishedDateTime: 2021-08-31T11:28:00Z
@@ -255,20 +172,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 23
-  - title: "Toyota restarts self-driving shuttle fleet following collision with Paralympian"
-    excerpt: "Toyota President Akio Toyoda offered an apology to the Paralympian, and then issued a stinging rebuke of autonomous-driving technology."
-    publishedDateTime: 2021-08-30T11:47:00Z
-    webUrl: "https://www.autonews.com/mobility-report/toyota-restarts-self-driving-shuttle-fleet-following-collision-paralympian"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 20
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ToyotaE-MAIN_i.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Self-driving electric shuttle heading to Whitby GO as part of Metrolinx’s AV pilot project"
     excerpt: "Durham Region residents will soon see a self-driving electric vehicle rolling into Whitby GO as Metrolinx partners with several agencies to help create the smart infrastructure."
     publishedDateTime: 2021-08-30T15:52:00Z

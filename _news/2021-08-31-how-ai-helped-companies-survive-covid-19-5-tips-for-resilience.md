@@ -7,7 +7,7 @@ originalUrl: "https://hitconsultant.net/2021/08/31/ai-helped-companies-survive-c
 webUrl: "https://hitconsultant.net/2021/08/31/ai-helped-companies-survive-covid-19/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence answers COVID questions"
-    excerpt: "A chatbot that is based on an artificial neural network that can carry out natural language processing (NLP) is being developed by researchers in India. The team describes how the chatbot can be programmed to answer questions related to the COVID-19 pandemic."
-    publishedDateTime: 2021-08-30T11:49:00Z
-    webUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg"
-        width: 1920
-        height: 1497
-        isCached: true
   - title: "Using artificial intelligence and eco-friendly printing to kill COVID-19"
     excerpt: "Imagine if our personal protective gear could not only block the virus that causes COVID-19, but also kill it. Imagine if hospitals had walls, floors, and even bedsheets that could disinfect themselves."
     publishedDateTime: 2021-08-30T23:12:00Z

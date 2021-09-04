@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flying robots with AI mechanisms can identify the right fruits for plucking"
-    excerpt: "In the past decade, the introduction of cutting-edge technologies like AI, machine learning and deep learning has transformed the overall process of fruit harvesting. Now, fruit farmers"
-    publishedDateTime: 2021-08-30T12:41:00Z
-    webUrl: "https://www.freshplaza.com/article/9350621/flying-robots-with-ai-mechanisms-can-identify-the-right-fruits-for-plucking/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 52
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/30/Fake.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Open Access Resources for AI in Schools"
     excerpt: "Part of a Global Network of Internet & Society Centers (NoC) project on the Ethics of Digitalization, the Research Clinic convened a dozen early-career scholars to examine a real-world use case of AI in the public sector. The larger initiative is conducted ..."
     publishedDateTime: 2021-09-02T14:50:00Z
