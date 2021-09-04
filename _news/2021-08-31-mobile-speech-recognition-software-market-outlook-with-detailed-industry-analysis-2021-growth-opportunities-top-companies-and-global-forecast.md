@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognitio
 webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-outlook-with-detailed-industry-analysis-2021-growth-opportunities-top-companies-and-global-forecast-2027-2021-08-31"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI Translation Market 2021 Research on Import-Export Details, Business Standards and Forecast to 2026"
-    excerpt: "A new research market study report titled Global AI Translation Market 2021 by Company, Regions, Type and Application, Forecast to 2026 has been featured by MarketsandResearch.biz. The report delivers different segments on basis of product category,"
-    publishedDateTime: 2021-08-31T22:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-ai-translation-market-2021-research-on-import-export-details-business-standards-and-forecast-to-2026"
+  - title: "Self Driving Wheelchair Market Size Insight Report 2021 to 2027 by Manufactures Types, End Users and Regions with COVID-19 Impact Analysis"
+    excerpt: "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Self Driving Wheelchair"
+    publishedDateTime: 2021-09-02T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/521899449c0c649b327d2721355b13037b7a6e6d-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Ju7wza/7y6x29oP0FmHtLRhXzHqsYKuipxnS42TPB7ftB/E/e075PU6PqdWjMUpCaqEHUgQajUYdsybKTftGr6wKuSgavyQC5XtiFQEWrhKWbpRxBwhvj3uKFBO8DsngMq8zUNRJLnZY/wlY1nUEM4SY2ZlI7E4gKTNFHjXsNg2Gf9cupuhfiv1aTLslEXZQJ59wBAcstAeWzWYaFdcs0ePbc29bWok6NSJ9RJWjI+a/Uc6onaF5IfgOnfY3QS4mMN8uWaYetl89f28PNj9G0JbTj4+e8v3L8Uo9IEB6AmxO13VmSDSaiWFZ61zp8Kl1I0a1h5rGhkmp1RFUAtfoWM866yltyXgwvqctX3huNJA=;q9ZCE29KmDBC0d9NEV6G7w=="

@@ -31,7 +31,7 @@ related:
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/31/propelling-impact-artificial-intelligence-businesses.jpg"
         width: 1200

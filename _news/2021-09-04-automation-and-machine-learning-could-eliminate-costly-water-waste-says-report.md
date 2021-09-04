@@ -24,22 +24,6 @@ images:
     height: 916
     isCached: true
 
-related:
-  - title: "Could Automation Eliminate the Boring Job Components?"
-    excerpt: "more than 85% of businesses using AI today are reducing their operating costs. Yet these automation technologies are often limited in their scope to just call centers, or IT departments. IBM is hoping to spark a meaningful change here with its Watson ..."
-    publishedDateTime: 2021-08-30T16:53:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21173802/could-automation-eliminate-the-boring-job-components"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 24
-    images:
-      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2021/08/andrea_de_santis_zwd435_ewb4_unsplash.612d074c2633a.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 624
-        isCached: true
-
 secured: "iTLGvmZmcDRxfsZgibPCBbzo0n8oxAd02dnvT/Thor6kvKi0Zctv79skrWMkRnhLbi6gFuge+VjbGxnhg7I/L1XjHeteU+08AXNMWgJh/f3qfSSjtwAJJvi3z0xxR8+PulKZM95gUs2t0eLnwsuXGSEDL0NCQLnV3Iuujwunk3o7yS/co/Z0tqT1uhBIi9Alpx3Hlp5UQ/962xCWcveZGvMQCXd9rLPTjJ8d3NXcLVsf7gA3wVIeY00EAKIGozk/wIQNBdA2D5Jm5W98x7qI4ruptzouQrPDKek3gf7M/1a+C6Vm0ya5Xn3zIrQ3xrmq/o/4emU/GNqFQx3MVeuAfJUfINw2fUrOvE3vmtZkTLWxReio89f0IgB+gpBjIfrVfbvLOKgRg1AT8UH0TWfaxMMJ6FkAAT9pLH8vVmD6ESxu340n9t96va3heNxo76fB2cX+bcsfm/2PXNNC18Px4O0ppNlMofstUE1ddBPcNj7zZv5RXAfuqlDUQpYFnCcDXgsC84+jc7cSm2SKg9tdqw==;YfzNu7rtaS7d4Hm8v/zllA=="
 ---
 

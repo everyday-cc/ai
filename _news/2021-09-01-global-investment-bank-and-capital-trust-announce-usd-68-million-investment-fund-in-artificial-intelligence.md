@@ -55,7 +55,7 @@ related:
     provider:
       name: DNA India
       domain: dnaindia.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/09/04/994538-gib.jpg"
         width: 640

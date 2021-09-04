@@ -70,6 +70,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "38 Billion Reasons Why Databricks Is The Next Big Thing For Indian Enterprise AI"
+    excerpt: "Switching to Azure Databricks helped the Indian media giant “slice and dice” tonnes of data and deliver customer insights to their data teams."
+    publishedDateTime: 2021-09-03T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/databricks-38-billion-valuation-india-enterprise-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/databricks-india.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "MiaRec Announces Release of Integrated Voice Analytics"
     excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution."
     publishedDateTime: 2021-08-30T19:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-h
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/amp/"
 type: article
 quality: 202
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 AI Stocks to Buy as Tesla Doubles Down on Automation"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Thanks to Elon Musk, artificial intelligence (AI) businesses have become some"
-    publishedDateTime: 2021-08-30T16:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-tesla-doubles-down-automation-1030767572"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Tesla Makes a Leap from Autonomous Vehicles to Robots with “Tesla Bot” Reveal"
     excerpt: "Not a stranger to taking on a challenge, Elon Musk reveals \"Tesla Bot\" at 2021's Tesla AI Day. While it seems to be an ambitious plan to build a humanoid robot, how feasible is it for Tesla? Elon Musk isn't new to having big ideas and even bigger ambitions."
     publishedDateTime: 2021-09-01T23:00:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.ibtimes.com/propelling-impact-artificial-intelligence-busin
 ampWebUrl: "https://www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/31/propelling-impact-artificial-intelligence-businesses.jpg"

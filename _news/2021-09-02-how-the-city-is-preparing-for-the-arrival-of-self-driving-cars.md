@@ -156,20 +156,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 23
-  - title: "Self-driving electric shuttle heading to Whitby GO as part of Metrolinx’s AV pilot project"
-    excerpt: "Durham Region residents will soon see a self-driving electric vehicle rolling into Whitby GO as Metrolinx partners with several agencies to help create the smart infrastructure."
-    publishedDateTime: 2021-08-30T15:52:00Z
-    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21236282/metrolinx-selfdriving-electric-shuttle-heading-to-whitby-go-as-part-of-metrolinxs-av-pilot-project"
-    type: article
-    provider:
-      name: Mass Transit
-      domain: masstransitmag.com
-    quality: 14
-    images:
-      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/08/16x9/metrolinx.612cfaf90d4d9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ToKzLhHzioCU3MRcRnH/YdWZ98IVZQ2Z+Kb8GVU5zPg+ZV3vSJ/1Pzqgb7yKuw1eI6JYp6J6mFeJrK1lFZtLLH0FPYvtyv+Z/FCrRKNWeFi9wCl7VEOYyrrGsxNgedVbPaPh7TBBjpCe5tci+RNCXQjIspNFHDTeKSpOGsO0to/CPbuFtbNAXgocjGXPiJ5BY6tnqwpZr+asN0uRallX1AEirzKRtZJaSWNFvccuEjJJUjBlw4ZpzGMLfLJ+BBFc61PwpTQsywpcmMY0t9s4rmGGYjDPpgSlgLR79Llp3boQ9Q+RIoM5BBQXdE4qKmAk1y4iGGnGyQ1z9/xuv0FoiPJFPc/PrziFoQlb1UibCm0/KKBaKxUYvzkaYrXgMgk7pMKgE1GDDucPlVV3jRZsVZ2fqmxQ/V5v4eHvD4nkHCW4mRCLKX/mEDxAPG5RByQTxae4LLOF7A/MN6cNlbnHD33Ee7zVVg9AMRSS+WP4FJiffJqee1zuJe9UT7eqLIYNQrDuJVg27gWECfVYEB60Xw==;0iKjHi27/e+fC6pvh7aC3w=="
 ---

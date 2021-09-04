@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-02-ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families.md",
+      "title": "iPad kids game Pok Pok Playroom is the perfect back to school app for families",
+      "excerpt": "Over the summer, Pok Pok, a company \"incubated\" in Snowman-- the studio behind Apple Arcade games Skate City and Where Cards Fall-- released a new way for kids to experience playtime. Pok Pok ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/DdwYnB6rXWieZaMiWROVleOmWdc=/2021/05/20/523c4c47-34c5-4426-87aa-32b34d0156fe/town.jpg",
+          "width": 2000,
+          "height": 1335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "publishedDateTime": "2021-09-02T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-deploying-impactful-ai-education-programs-in-rural-and-underserved-america.md",
       "title": "Deploying Impactful AI Education Programs In Rural And Underserved America",
       "excerpt": "What follows is a guide on offering various training programs for students, businesses and government officials with the goal of solving the AI talent and training dilemma that has long faced rural America.",
@@ -1148,50 +1200,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai.md",
-      "title": "Global Investment Bank, Capital Trust announce $68 mn investment fund in AI",
-      "excerpt": "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to $68 million in startups transforming artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/14/full/1610640588-3918.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
-      "publishedDateTime": "2021-09-01T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

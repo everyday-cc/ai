@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning
 webUrl: "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Playing catch-up to the early adopters of AI and machine learning"
-    excerpt: "Early adopters of data analytics, artificial intelligence and machine learning tools have found themselves in a position of favour in today's rapidly accelerating digital"
-    publishedDateTime: 2021-08-30T15:19:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 54
-    images:
-      - url: "https://biz-file.com/c/2108/625807.jpg"
-        width: 700
-        height: 364
-        isCached: true
   - title: "Data science, machine learning, and AI in fitness – now and next"
     excerpt: "Data science, machine learning, and AI have become critical technologies, penetrating almost every aspect of our lives, including fitness and wellbeing."
     publishedDateTime: 2021-09-03T07:56:00Z

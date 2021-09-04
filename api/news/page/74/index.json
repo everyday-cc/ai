@@ -2,6 +2,40 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-07-13-they-design-a-system-for-detecting-floods-from-space-using-artificial-intelligence.md",
+      "title": "They design a system for detecting floods from space using Artificial Intelligence",
+      "excerpt": "Researchers have developed a model for flood detection based on neural networks. It’s called WorldFloods and has been launched into space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.preventionweb.net/english/professional/news/v.php?id=78968",
+      "originalUrl": "https://www.preventionweb.net/english/professional/news/v.php?id=78968",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Prevention Web",
+        "domain": "preventionweb.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-zoho-launches-business-intelligence-platform-infused-with-ai.md",
       "title": "Zoho launches business intelligence platform infused with AI",
       "excerpt": "Zoho launched the integrated Zoho Business Intelligence Platform as part of its effort to expand the total addressable market.",
@@ -1109,49 +1143,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-could-your-next-rental-car-be-a-robotaxi-t-mobile-teams-with-startup-for-5g-driverless-electric-car-service.md",
-      "title": "Could your next rental car be a robotaxi? T-Mobile teams with startup for 5G driverless electric car service",
-      "excerpt": "Autonomous and driverless car technology company Halo ... Halo equips the vehicles with an artificial intelligence-driven \"Advanced Safe Stop mechanism\" that automatically brings the cars to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/07/08/t-mobile-startup-plan-driverless-rental-car-service/7887811002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/07/USAT/edba4e94-13cc-4888-921c-7d88a12d4f5d-21CM0192-05_060221_1604m.jpg?auto=webp&crop=6719,3779,x0,y341&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7887811002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7887811002",
-      "publishedDateTime": "2021-07-12T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

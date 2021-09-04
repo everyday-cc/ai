@@ -55,15 +55,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Indian Navy procures indigenously developed Robotic Lifebuoys from startup"
-    excerpt: "In a big boost to the 'Self Reliant India' campaign, Indian Navy signed a Rs 13 crore contract to procure country's first indigenously developed Robotic Lifebuoys. The contract was bagged by a startup -- Saif Seas -- based in Visakhapatnam."
-    publishedDateTime: 2021-08-30T16:27:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20210830/3811391.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "Dk//w8+kQloQ2irWoZac/dmQ1xJUhrbtJ5+iawMsxh9d+O/EgBdoF88KCqNTTCFwPfmSaJT+VPqeWYQ532/3Ad2OC2tUKRuq9ZFRhhRqqZJ+NufeJ2bVsA1IEfFzwq+iZ+V+bV9E3q3ihHeeT2w4vqECuJYDMF5eZhdI6XJKck1YdE47lz467cDaq1M5unVSN3S3i07vavv9515uNXldteIy4tCtchGcB5ekTdfBnBciG1ZKV7uNIdZ53i+55fiD5mNRo3Y9VMfyTdPSly92vQFfq0e4jrv5ulttwTtuVRZSf0hXRgCefnA69m1ofBE7lufZ2c0+/TS7bwpJdhrBW241lP1jOaqdOZ/ysC+mxCnDkTSCB6elT4LppbK5pGTOdWq2gEPmIkngy+OBMoZUIoaW87f+Ehn+te0t/gZn7xnEVy8aSnwODfhgHZqrnPkU7X7oQZwi8rxkiImlWlXpHvg9RNdm8ELrDU8MiMW5VoZT82316IF3Vk52YwrnZAp663Zg7kRn5jWauQp3ooCPKQ==;/T9brtZThE4atZ51Z8fRdA=="
 ---

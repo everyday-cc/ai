@@ -8,7 +8,7 @@ webUrl: "https://www.dnaindia.com/business/report-global-investment-bank-and-cap
 ampWebUrl: "https://www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp"
 cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Finance
+  - AI in Autos
 
 images:
   - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/09/04/994538-gib.jpg"
@@ -70,6 +71,6 @@ related:
       domain: webindia123.com
     quality: 20
 
-secured: "PKSG8IULIU4O9s4GuuDQjNNl0wD+mcXjp4tl/rNybbfUKBqsJZHP/SihFN9tiwJ9/qer09TWL8x97Coz7Zz92whPI5a5mYrSaOh24/wL0kgrRAD4XmvDRJxPMRpiHiVKCBDr+vjaSVNI9CMsZ2uTnkYSK4tjGMCTQc/JvJ2J/5XDiO4vdbpfoqYy7BqrSUHpJ4v4XlWOw5qTuezccV9WsgurtTbt2cOiJfhI3T8FWlQy1BRwa/TeH6bVJzi04UaVU/cJuLsjmiQS3A2aV0a1z2udUDuvA8lstqDs/aQ6EWd71YeJboylgiN/XxttQJ8dif+hnL3i86u18puu2XF/WT0YQE1q5vkNXtI4kMl2GMI=;fgUtXpZpnFOEmii5yqhktA=="
+secured: "wtD6YydZ3CwmNJdHXlc8jmdbRrw2NI4YXkfzigGxT9/YAmMN4OIdP86pnLUoTvdlG6HE0QP6yW6HtSIXX0X9F21/9tcGWDGk+8zvQh2+MwiSU8TD/8hxBGulXfztcrWo000QfMU8ufMgccqx593lH4rGrlIw3jkBSdLmcVc09LFQawdn0DbE/y2V9/WX+rMEdO2g4A7OzLJejsnb8fwDrvAly0OvKUffbIolKtjP1S9vx6M6UDK0k8bYlHDCQoomFy1MyEhcCU/vzn6mRNDO18M6m+SbAUpKdqlP7G7c/ScFkn8O6P5vh3kOvJULtRWGuEXSmwFAjYcY9UTIxe4V87nmiFN+iS/GU99M+BZixQjcYPRKk0kHgg+tOfp0lq31To5x2rhDIZzCRGWJXP2r4pGvKRiC/33hQXOcW/GLMh8N/FkuwfrXh+C63YJN72z3+jROw45LSymUYEvD3i3hFkvjyMwglmmRpfVzEIgyQDO6hgjkoj4tuknqYrAOTJ6jnuMFF75pDIp2YAJaxwuPdg==;+pqW8N6MWpomP1nxMpD87w=="
 ---
 

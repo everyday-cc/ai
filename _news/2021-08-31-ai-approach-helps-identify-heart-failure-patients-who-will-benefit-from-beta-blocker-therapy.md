@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210831/AI-approach-helps-ide
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210831/AI-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.aspx"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 900
         height: 510
         isCached: true
-  - title: "Artificial Intelligence approach helps to identify patients with heart failure that respond to beta-blocker treatment"
-    excerpt: "Researchers at the University of Birmingham have developed a new way to identify patients with heart failure who will benefit from treatment with beta-blockers."
-    publishedDateTime: 2021-08-30T16:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/926808"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 11
 
 secured: "XDWTp/uLMjcsGiuKVns1m/R8uKIWLq1aN0RYmgmTUbBViwTuxgfG2d2FgVRl+s1KsNb+Q/9emXPyZafvjyDKDtEVEH0TSBKKKBAyybNYYN7ZF4j6VMchsCCZAnTXiI2HqsZ+cDutCwwrESF60093ta7sR8f8/bdlTQ+hHIps/AGeNF8FX8ar/W9UO2fDiVa+nBtngesmCuzWcn5de+zaveq57zw5blJsN4Q5jRYsArzmdDhoLMYaqx5p55HhLJCo5wsGJ4dgnSq3hwqnhjrHdZHWoAWtiS8JqG8Vmce+vwgcZYotJaagP+EWZJIWhOkOoUk1cqRzmI8vGsvmuetbFeX7seijd1mqeuVQivHi//c=;ywI1bURVeNbSocwOtMDUAQ=="
 ---

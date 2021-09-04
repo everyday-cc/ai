@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ignore the AI hype, focus on the value"
-    excerpt: "Organizations need to focus on using AI to find solutions to real problems, not on acquiring the newest, shiniest tech."
-    publishedDateTime: 2021-08-30T16:20:00Z
-    webUrl: "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/"
-    ampWebUrl: "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/"
+  - title: "A spotlight on the EU’s AI legislation – Realizing the full potential of AI"
+    excerpt: "The EU’s proposed AI legislation published in April, sparked debate on the true impact that new AI rules would have on businesses. Overall, it seems to be that the legislation has the potential to benefit society as a whole,"
+    publishedDateTime: 2021-08-31T08:30:00Z
+    webUrl: "https://www.itproportal.com/features/a-spotlight-on-the-eus-ai-legislation-realizing-the-full-potential-of-ai/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/a-spotlight-on-the-eus-ai-legislation-realizing-the-full-potential-of-ai/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/a-spotlight-on-the-eus-ai-legislation-realizing-the-full-potential-of-ai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash.jpg?w=1200&strip=all"
+      - url: "https://cdn.mos.cms.futurecdn.net/aPK9JP79EUu5CqWfrQLTZ7-1200-80.jpg"
         width: 1200
-        height: 600
+        height: 751
         isCached: true
 
 secured: "/OmAw9RgCFROwVKVPGTUh8a0SKUxfCAhwzWUCSUOOotYgQjMMAkDboaIMlvG3XTbstX+uJemyfUmZL2kMwD61XEWny71iVuqy+gDSNn9C62HUYOTpqIrFc4AAIXon1FxV9uspYR/+YmRgzDrk+1EdYolN0+lPXtiVvHiOsfw2muok+2BtdFgYjeItLWz+SjU5+YhvBF9SONLbgp6XgoDbgOAlFeGyiJPAa8JHem7wt1Zw+8PaL7yN+i11pEdL+yVh0CSJQ6XwpnnQo8Ad60NfeZ1fFeOk4Qcn3a65Oa2jeqet749nG80FrywYjSl21TCESkKzS3HHWv1vuvNVOA+Y80qnMeiKnVM+vALHND7sAA2scy3POrTMZsohQCvUDxGCfOowJ7gXW4z6ppualhwpHu1QWwGi/XIzlsMr9pDJjT9drEvxKOuS2WUJ5yJ0EZvdJRvj/Amt8twC5l4Js69Q+YQ1etFyEuMipDavna8dTqi9LRyZfkSbgTFlRdYo6VzW0khY+/VbGx2JgP3KE0O1Q==;U+u4SYkIi/RY7vMVD2X0eQ=="

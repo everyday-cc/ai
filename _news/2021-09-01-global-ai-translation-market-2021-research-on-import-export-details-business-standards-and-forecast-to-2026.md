@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/global-ai-translation-market-202
 webUrl: "https://www.digitaljournal.com/pr/global-ai-translation-market-2021-research-on-import-export-details-business-standards-and-forecast-to-2026"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -24,20 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Speech Recognition Software Market Outlook with Detailed Industry Analysis 2021: Growth Opportunities, Top Companies and Global Forecast 2027"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Mobile Speech Recognition"
-    publishedDateTime: 2021-08-31T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-outlook-with-detailed-industry-analysis-2021-growth-opportunities-top-companies-and-global-forecast-2027-2021-08-31"
+  - title: "Artificial Intelligence in Medical Diagnostics Market by Component, Application, End-user and Region - Global Forecast to 2025 - ResearchAndMarkets.co"
+    excerpt: "The \"Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, OBGY,MRI, CT, Ultrasound, IVD), End User (Hospital, Diagnostic Laboratory,"
+    publishedDateTime: 2021-09-01T13:24:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=524498"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
+  - title: "Global Machine Learning Market (2021 to 2029) – Featuring IBM, SAP and Google Among Others – ResearchAndMarkets.com"
+    excerpt: "The global machine learning market is estimated to grow at a CAGR of 43.3% during the forecast period (2021-2029). The major drivers for machine learning market are proliferation in data generation, technological advancements in machine learning,"
+    publishedDateTime: 2021-09-03T08:51:00Z
+    webUrl: "https://www.financialbuzz.com/global-machine-learning-market-2021-to-2029-featuring-ibm-sap-and-google-among-others-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "CTSXhAJbJrYnNngb9dlR94GajOzHZGVBoQ5erZB25LsuDPI1H8BEklpT4EnloiigFaVBzj9BeF/+v7rK/ycTPwE9PfDtTvtZHnJFP487ZB3SUqgqZAF4htxQjrAlDhswWbBS+zLITrBvGunRqSR7i2Jn81WCBrOC69ycUxvV3EVs8L/ZYluxRfT3djaeRcip5K93u0mFzl+AhhvL63QGZ13uIgQjHtsdomN1SE2vNEZRvG2j0ZdjC0eqiMtvDDT1z3cbxCJnXERIMIh1Ch0WHC41tStoHlfAgZKR+Oy674arLlEAgPsjk2+j4138IzvfKxKJzEjCRtttA3fd7BlW6G4jjeRCwm1ZcAMcQ8pQogc=;B19dTSlTr0NojkL5dP5ezw=="
 ---

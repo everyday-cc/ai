@@ -39,20 +39,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Scottish local authority switches off facial recognition citing legal, ethical concerns"
-    excerpt: "A council spokesperson said that facial recognition was specifically switched off over ethical and legal concerns about the implications of the technology."
-    publishedDateTime: 2021-08-30T15:46:00Z
-    webUrl: "https://www.biometricupdate.com/202108/scottish-local-authority-switches-off-facial-recognition-citing-legal-ethical-concerns"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
-        isCached: true
   - title: "Facial recognition app being used In Australia to track quarantined"
     excerpt: "The government of South Australia has implemented a new policy requiring Australians to use an app with facial recognition software and geolocation to prove that they are abiding by a 14-day quarantine for travel within the country. While a conservative ..."
     publishedDateTime: 2021-09-03T17:48:00Z

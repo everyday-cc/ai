@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/a-spotlight-on-the-eus-ai-l
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/a-spotlight-on-the-eus-ai-legislation-realizing-the-full-potential-of-ai/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 751
     isCached: true
+
+related:
+  - title: "Continuing the Conversation on the Future of Artificial Intelligence"
+    excerpt: "If we believe the hype, artificial intelligence (AI) and data analytics are quite possibly the answer to all our problems. Not just in business, but for"
+    publishedDateTime: 2021-09-01T04:27:00Z
+    webUrl: "https://www.datanami.com/anniversary_channel/continuing-the-conversation-on-the-future-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Speaker-Spotlight-Future-Says-Season-2_3.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "q0HekSF/1XkbXsXGBOBChkzxcWtKDBDCKdTcWFet05+HjqJRajRMP8uZkxVyxxcGla2S4++AMjPPnHw0jAYT4NAglER8g8GSVJBTnuNQWRJlRuPj7SOQacoae/qJ9uRTKKeUI/SOHdIwS3t4rhRO01pSLStmtSQ/+F7O8BhHGwwA2q0J1bcGF6PbdaRS7nxFTF9vCHlFCbhoaOq9UALAnyZqR3E8IXC88SdXQBdEYKnvNCQmUnQWch+RRLXURlr+Wgvi4Km++LltN5kVMxmWRHcueiRs4SrD2hpDlGuh+F9l/xWn+HL4uDyRSJd3WOpcDkQohwktpHYSwEMFo4cNnHvsfhngPUWyEC7ov/M5tSyjcS+iSxGiMB4Lh47XIQ4OJau2yx5JcQeVz2M5Ix6QVvPsrElwcLucrskQqod32uk1P1qnNe19HalQEgEm12yj2tb7yFJTyGBjdbz/8ixjwyTD/cSNY1fSHPy1QcegnODogh1sfIN+VCdLdPD7eU07rTum/Eam29XBiHgFXylSOQ==;Mtdxj6csiaJLjvXBfy6GWg=="
 ---

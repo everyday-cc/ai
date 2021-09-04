@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-et
 webUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scottish local authority switches off facial recognition citing legal, ethical concerns"
-    excerpt: "A council spokesperson said that facial recognition was specifically switched off over ethical and legal concerns about the implications of the technology."
-    publishedDateTime: 2021-08-30T15:46:00Z
-    webUrl: "https://www.biometricupdate.com/202108/scottish-local-authority-switches-off-facial-recognition-citing-legal-ethical-concerns"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
-        isCached: true
   - title: "New non-contact facial recognition software monitors a baby’s vital signs"
     excerpt: "Researchers have designed a computer vision system that can automatically detect a tiny baby's face in a hospital bed and remotely monitor its vital signs from a digital camera with the same accuracy as an electrocardiogram machine."
     publishedDateTime: 2021-09-03T11:42:00Z
