@@ -2,7 +2,7 @@
 name: "AIBrain"
 overview: "AIBrain is an artificial intelligence company with the goal of building fully autonomous AI by unifying the three essential aspects of intelligence: Problem Solving, Learning and Memory. AIBrain is headquartered in Menlo Park, CA with offices in Berlin, Seoul, and Shenzhen."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.aibrain.com
 
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "CaLckYe0N8WKHtPYdNJSlgJBiuAVDX/nYciUJH/wQHmpAkRWAulVBLxMyRnbOx2k9G2nzazHqD7yyI8hyTtpdDXLyO07rfXque8ctopymUCZzVMK001WRgSD2g6TodlT1HBtyHN/NXKhz2hz2Gr/GZZ908bvRF8PTiqnIVRXalkBGV6R788kzy4XVgl4/RkG7haTFWQCB4D3aFp3Ig8oZrQT/b9c8fQAi5zzEe8sSITfDwVLlA0H/+kmMMK58NYWNhtG5FbRokDKEnyDtEU0ikCaAkXWyx1APXRkcWnVNuQxMJDvMoLEp4+eq5yPpMMdbtnHmeKKSsEXIJxNgxaZH28Fk4hdq404F0Ojk+8b96IBfSO62vjZ9IY1i+dVEPrKudWYheUeK2Gab54i6xycwg==;vtWkBIlLjRIzw8VO2dctcw=="
+secured: "odRaf9dvyt+iDl1u46R5mWywCS/VK0v06Md1prL7Qt4K3b3b+FFma1r/5gGzMRePMfKpEkaQ+9bo0ZXt4UmexFuT6IqWaguJsSe2WiIXZERihoccuWP1a0R8KTI7ryuJnYNGuxfB1eCdayvD9mIi03uL8Y1yo8U/22HW5U3jEb+LLyd5huPl4Uw1LzynHtGlS1IDPAGp8bDkz6otkYYKviO5GEK6lflHQQbI1N3zEFaFIP9M1fzVE5y4+5ZkC13VvHB37jfyI3fc70z/ZlyrF2m8BG/h1KsBxO0vbUgcnanno7SX7EzlhuxrvYtMivIPl2cThGBwJcoQeU/uPr2qqwFjfUBWJC+qMaaTYNCR017VtT6HeN8XPY+QT2K2iIyBGCgaca5NbqULZM1ZXpMwFw==;no5abON4Pgcpjb7urMGXHQ=="
 ---
 

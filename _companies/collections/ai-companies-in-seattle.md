@@ -2,7 +2,7 @@
 name: "Seattle AI Companies"
 overview: "List of AI companies in Seattle."
 type: "collection"
-heat: 78
+heat: 60
 
 
 query: item.locations contains 'Seattle, WA'
