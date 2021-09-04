@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-et
 webUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
         width: 1200
         height: 914
+        isCached: true
+  - title: "New non-contact facial recognition software monitors a baby’s vital signs"
+    excerpt: "Researchers have designed a computer vision system that can automatically detect a tiny baby's face in a hospital bed and remotely monitor its vital signs from a digital camera with the same accuracy as an electrocardiogram machine."
+    publishedDateTime: 2021-09-03T11:42:00Z
+    webUrl: "https://www.dpaonthenet.net/article/186871/New-non-contact-facial-recognition-software-monitors-a-baby-s-vital-signs.aspx"
+    type: article
+    provider:
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 38
+    images:
+      - url: "https://www.dpaonthenet.net/global/showimage/Article/197394/"
+        width: 375
+        height: 238
         isCached: true
   - title: "Facial recognition app being used In Australia to track quarantined"
     excerpt: "The government of South Australia has implemented a new policy requiring Australians to use an app with facial recognition software and geolocation to prove that they are abiding by a 14-day quarantine for travel within the country. While a conservative ..."

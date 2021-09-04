@@ -53,20 +53,6 @@ related:
         width: 795
         height: 397
         isCached: true
-  - title: "Fintech and digital banking searches have been on the rise"
-    excerpt: "Four popular fintech brands have seen a surge in Google searches as they’ve gained a foothold in the banking industry."
-    publishedDateTime: 2021-08-30T09:02:00Z
-    webUrl: "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://images.mktw.net/im-392268/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "Global Payments Fintech Adyen Introduces Machine Learning enabled Compliance Solution, Score"
     excerpt: "Adyen (AMS: ADYEN), the international payments platform for leading businesses, has officially launched Score. Adyen claims that it’s the first-to-market with a machine learning powered solution on a single platform for identifying unusual activity and ensuring platform compliance."
     publishedDateTime: 2021-09-02T01:38:00Z

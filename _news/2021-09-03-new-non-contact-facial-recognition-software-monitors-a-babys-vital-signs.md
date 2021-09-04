@@ -25,36 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "China’s new data laws are a risk factor in a facial-recognition giant’s IPO filing"
-    excerpt: "The firm's lengthy list of risk factors is a reminder that Chinese tech champions face rising scrutiny in both Beijing and Washington."
-    publishedDateTime: 2021-08-30T10:57:00Z
-    webUrl: "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/"
-    ampWebUrl: "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/"
+  - title: "Rank One to campaign for ethical facial recognition commitment from providers"
+    excerpt: "Rank One Computing declares its intention to take a strong stand on ethics in facial recognition use, in coordination with the Security Industry Association."
+    publishedDateTime: 2021-09-03T18:35:00Z
+    webUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers"
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 68
     images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 875
-        height: 492
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
-  - title: "Army Testing Facial Recognition in Child-Care Centers"
-    excerpt: "Live video feeds of daycare centers are common, but the Army wants to take their kid-monitoring capabilities to the next level. Under a new pilot program being rolled out at a Fort Jackson, S.C. child-care center,"
-    publishedDateTime: 2021-08-30T20:32:00Z
-    webUrl: "https://threatpost.com/army-facial-recognition-child-care/169036/"
+  - title: "Scottish local authority switches off facial recognition citing legal, ethical concerns"
+    excerpt: "A council spokesperson said that facial recognition was specifically switched off over ethical and legal concerns about the implications of the technology."
+    publishedDateTime: 2021-08-30T15:46:00Z
+    webUrl: "https://www.biometricupdate.com/202108/scottish-local-authority-switches-off-facial-recognition-citing-legal-ethical-concerns"
     type: article
     provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 48
     images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/08/05143851/deepfake-fireeye.jpg"
-        width: 800
-        height: 533
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
+        width: 1200
+        height: 914
         isCached: true
+  - title: "Facial recognition app being used In Australia to track quarantined"
+    excerpt: "The government of South Australia has implemented a new policy requiring Australians to use an app with facial recognition software and geolocation to prove that they are abiding by a 14-day quarantine for travel within the country. While a conservative ..."
+    publishedDateTime: 2021-09-03T17:48:00Z
+    webUrl: "https://www.tigerdroppings.com/rant/politics/facial-recognition-app-being-used-in-australia-to-track-quarantined/98104410/"
+    type: article
+    provider:
+      name: TigerDroppings.com
+      domain: tigerdroppings.com
+    quality: 19
 
 secured: "IveBc09qFlMcH/ZOuPBBEG0gVziaFeWa6N2Y2TObWAw7gzwL0DgWEfI7UWHgFHeMJCtoY79e1FKoowZo7xNZmajCqgbZdMrkl51AopbkzGsE7hHzM3AhthXqeTxVQno+jezaxkLgocKdPZ3z9vCpzMqR5lHtcA9RCG2LYznYbYwNWkfeMUEooD4dI0cgldGX0KPL5C/g6o0o3QVK3SLvcqW5Kjz6xFFxdsrp2BIYEfcoYQmhFk78WAIXd93Kty1LRyS8oRck4Fqplp09y2rdgxWaZiltCtGOQqGRbd8e3fEzJald+w/Dz2xdLZkUq0v0AR1inWMD51OLF/7ivP0iyVly1M8zQ+mmhBrnGJR31h8=;Uc9847i2Y0Lf5xJ11N4KLg=="
 ---

@@ -105,22 +105,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Manitoba seeks the public's input for testing self-driving cars"
-    excerpt: "Having authorized testing of self-driving vehicles on its roads, Manitoba is now asking the public for its input as it lays the groundwork for the program. Manitoba introduced its Vehicle Technology Testing Act in 2020,"
-    publishedDateTime: 2021-09-01T15:15:00Z
-    webUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars"
-    ampWebUrl: "https://driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/local-content/manitoba-seeks-the-publics-input-for-testing-self-driving-cars/wcm/e4f42152-e9bb-478c-a414-2d679f59fa0b/amp/"
-    type: article
-    provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 44
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "Toyota to resume self-driving e-Palette vehicle operations at Olympic village"
     excerpt: "A Toyota self-driving e-Palette vehicle had last week collided with and injured a visually impaired pedestrian at the Olympic village..Toyota says it is cooperating with a local police investigation to determine the exact cause of the accident."
     publishedDateTime: 2021-08-30T12:24:00Z
@@ -162,20 +146,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 29
-  - title: "Toyota self-driving bus throws a Paralympic judo expert"
-    excerpt: "Company said it was a little overconfident – the bus not the competitor \"Toyota has apologised for the 'overconfidence' of a self-driving bus,\" after the slow-moving bus managed to hit a Paralympic judo expert."
-    publishedDateTime: 2021-08-30T09:50:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/53447-toyota-self-driving-bus-throws-a-paralympic-judo-expert"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/2a05e0b5e9bf0f01d2ab319a3e5f3217_L.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Toyota self-driving buses in Paralympic village to restart Tues."
     excerpt: "Toyota Motor Corp. said its self-driving buses will start running again in the athletes' village in Tokyo on Tuesday with improved sa"
     publishedDateTime: 2021-08-30T13:00:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-16-peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion.md",
+      "title": "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion",
+      "excerpt": "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1594914/Peak_Fintech_Group_Inc__Peak_Fintech_Signs_Agreement_to_Acquire.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-leveraging-on-fintech-to-solve-the-creditworthiness-issues-among-msmes-in-india.md",
       "title": "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India",
       "excerpt": "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,",
@@ -1259,50 +1311,6 @@
       "provider": {
         "name": "internationalinvestment",
         "domain": "internationalinvestment.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening.md",
-      "title": "ADIB is the first UAE bank to use facial recognition for account opening",
-      "excerpt": "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally.",
-      "sourceUrl": null,
-      "webUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
-      "originalUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Lending-Systems-Suppliers-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBS",
-        "domain": "ibsintelligence.com",
         "images": null,
         "publishers": null,
         "authors": null

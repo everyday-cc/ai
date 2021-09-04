@@ -2,6 +2,152 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-08-05-feds-arrest-george-washington-in-jan-6-case-using-phone-tracking-facial-recognition.md",
+      "title": "Feds Arrest ‘George Washington’ In Jan. 6 Case Using Phone Tracking, Facial Recognition",
+      "excerpt": "The FBI arrested Missouri's Isaac Yoder, who admitted to entering the U.S. Capitol during the deadly insurrection while wearing colonial attire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/feds-arrest-george-washington-jan-6-fbi-insurrection_n_610af372e4b0cc1278b71c02",
+      "originalUrl": "https://www.huffpost.com/entry/feds-arrest-george-washington-jan-6-fbi-insurrection_n_610af372e4b0cc1278b71c02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/610af9dd3b00007491ecdf6b.jpeg?ops=1778_1000",
+          "width": 1778,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-dataiku-gets-400m-at-a-46b-valuation-led-by-tiger-global.md",
+      "title": "Dataiku gets $400M at a $4.6B valuation, led by Tiger Global",
+      "excerpt": "Data science platform Dataiku announced today it has raised a $400 million Series E, bringing its valuation to $4.6 billion. The round was led by Tiger Global ... told TechCrunch at the time ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/05/dataiku-gets-400m-at-a-4-6b-valuation-led-by-tiger-global/",
+      "originalUrl": "https://techcrunch.com/2021/08/05/dataiku-gets-400m-at-a-4-6b-valuation-led-by-tiger-global/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1148114609.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/05/dataiku-gets-400m-at-a-4-6b-valuation-led-by-tiger-global/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/05/dataiku-gets-400m-at-a-4-6b-valuation-led-by-tiger-global/amp/",
+      "publishedDateTime": "2021-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-how-smart-are-ai-chips-really.md",
+      "title": "How Smart Are AI Chips, Really?",
+      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-key-metrics-for-monitoring-amazon-efs.md",
       "title": "Key metrics for monitoring Amazon EFS",
       "excerpt": "A file system must have an access point in order for Lambda functions to connect to it. Other clients—EC2 instances, ECS tasks, EKS pods, and SageMaker notebooks—can mount a file system without using an access point if the file system policy will allow ...",
@@ -1027,162 +1173,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red.md",
-      "title": "Word To The Wise: Do Not Try Asking An AI Self-Driving Car To Park In The Red",
-      "excerpt": "If a passenger inside a self-driving car asks to be dropped off at a red curb, should the AI perform this potentially illegal act?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6108c783af8a8c472c810b03%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2166%26cropY1%3D562%26cropY2%3D2896",
-          "width": 1200,
-          "height": 1293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
-      "publishedDateTime": "2021-08-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-air-t-edge-series-rugged-software-define-radios-with-a-gpu.md",
-      "title": "AIR-T Edge Series-Rugged Software Define Radios with a GPU",
-      "excerpt": "The AIR8201 incorporates the proven technology of Artificial Intelligence Radio Transceiver (AIR-T) product line: an NVIDIA Jetson TX2i industrial-grade embedded GPU processor, an industrial grade Xilinx FPGA,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1587736/Deepwave_Digital_edge_series_announcement.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-sensorium-demos-ai-driven-avatars-as-latest-virtual-beings.md",
-      "title": "Sensorium demos AI-driven avatars as latest virtual beings",
-      "excerpt": "All the sessions from Transform 2021 are available on-demand now. Watch now. Sensorium Galaxy is an upcoming virtual world that will blend human and AI characters so that humans can have unscripted conversations with virtual beings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/sensorium.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
-      "publishedDateTime": "2021-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

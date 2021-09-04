@@ -2,6 +2,137 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2021-07-05-ai-driven-robots-are-here-for-good.md",
+      "title": "AI-Driven Robots Are Here For Good",
+      "excerpt": "AI, algorithms and technological applications are accelerating into new realms. With the proper implementation of ethics, diversity, and inclusive design - humans stand to benefit significantly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e279184db784a0c94473f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/",
+      "publishedDateTime": "2021-07-04T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
+      "title": "'Racist' facial recognition sparks ethical concerns in Russia",
+      "excerpt": "From scanning residents' faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.trust.org/item/20210705014850-6gwm1",
+      "originalUrl": "https://news.trust.org/item/20210705014850-6gwm1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/ebe712df-e91b-4162-847c-c65997db30c5/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100",
+          "width": 1100,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-04T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thomson Reuters Foundation",
+        "domain": "trust.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-cmu-spinoff-marinus-analytics-awarded-ai-xprize-third-place.md",
+      "title": "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place",
+      "excerpt": "A CMU spinoff company from a Dietrich College alumna won third place and $500,000 in the IBM Watson AI XPRIZE competition in June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmu.edu/dietrich/philosophy/news/2020-2021/marinus-analytics-kennedy.html.html",
+      "originalUrl": "https://www.cmu.edu/dietrich/philosophy/news/2020-2021/marinus-analytics-kennedy.html.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmu.edu",
+        "domain": "cmu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-will-the-ai-dynamic-pricing-lead-hong-kongs-shoppers-to-virtual-insanity.md",
       "title": "Will the AI dynamic pricing lead Hong Kong’s shoppers to virtual insanity?",
       "excerpt": "Computer driven dynamic pricing is a bit like a Hong Kong wet market, but on a whole new level, writes Neil Newman.",
@@ -1048,150 +1179,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-ford-not-worth-the-risk.md",
-      "title": "Ford: Not Worth The Risk",
-      "excerpt": "Ford could be a great turnaround play ... The effect ends up being that the company wasn't able to retain its advantage - and everyone else in the industry was forced to pay money to keep up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/?sh=55bcc5223606",
-      "originalUrl": "https://seekingalpha.com/article/4437700-ford-not-worth-the-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
-      "publishedDateTime": "2021-07-02T22:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect.md",
-      "title": "Madden 22’s Next-Gen Stats And Star-Driven AI May Have An Important Disconnect",
-      "excerpt": "The concept of Next-Gen Stats and star-driven AI are great, but both enhancements might still miss the mark in fixing a legacy issue in the Madden series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/",
-      "originalUrl": "https://www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dfd5ed5cd0db2f2c9735e7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1456%26cropY1%3D0%26cropY2%3D819",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/amp/",
-      "publishedDateTime": "2021-07-02T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems.md",
-      "title": "AI Weekly: WHO outlines steps for creating inclusive AI health care systems",
-      "excerpt": "The World Health Organization (WHO) outlined steps that must be taken for the development of trustworthy AI in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/",
-      "originalUrl": "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/How-healthcare-will-become-a-democratized-on-demand-service-01-e1618816638837.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/amp/",
-      "publishedDateTime": "2021-07-02T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,144 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-07-29-convert-an-object-detection-python-code-to-aws-sagemaker-for-deployment.md",
+      "title": "Convert an object detection python code to AWS sagemaker for deployment.",
+      "excerpt": "Object Detection Re-implementation on AWS Sagemaker using Pytorch's detecto library. We have an object detection code in Pytorch using detecto. However, we would like to deploy it on aws sagemaker. We have an existing object detection dataset. Our goal is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upwork.com/freelance-jobs/apply/Convert-object-detection-python-code-AWS-sagemaker-for-deployment_~01cc049e3d738a019e/",
+      "originalUrl": "https://www.upwork.com/freelance-jobs/apply/Convert-object-detection-python-code-AWS-sagemaker-for-deployment_~01cc049e3d738a019e/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.upwork.com/images/upwork-logo-1200.png",
+          "width": 1201,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Upwork",
+        "domain": "upwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-partnering-with-the-nsf-on-a-research-institute-for-ai-to-improve-elderly-care.md",
+      "title": "Partnering with the NSF on a research institute for AI to improve elderly care",
+      "excerpt": "From the early days of the internet to the development of the Human Genome Project, U.S. government-funded R&amp;D has yielded remarkable progress for society, and today it is an important engine for AI research. That’s why, last year, we were proud to announce our partnership with the U.S. National",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/",
+      "originalUrl": "https://blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/",
+      "publishedDateTime": "2021-07-29T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-cansel-brings-tinysurveyor-robot-to-canada.md",
+      "title": "Cansel Brings TinySurveyor Robot to Canada",
+      "excerpt": "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg",
+          "width": 400,
+          "height": 317,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-meet-the-new-digitall-stack.md",
       "title": "Meet The New DIGITALL Stack",
       "excerpt": "As advancements like digital humans, machine learning, robotic process automation and quantum computing fuse, captains of business will soon reach greater heights and fend off exogenous events says Ben Pring,",
@@ -1013,143 +1151,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles.md",
-      "title": "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles",
-      "excerpt": "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
-      "originalUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/",
-      "publishedDateTime": "2021-07-28T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-zuckerberg-is-turning-trillion-dollar-facebook-into-a-metaverse-company-he-tells-investors.md",
-      "title": "Zuckerberg is turning trillion-dollar Facebook into a ‘metaverse’ company, he tells investors",
-      "excerpt": "Following the quarterly release of Facebook’s earnings numbers where the company’s CFO takes time to walk analysts through the nitty gritty of the company’s financials, CEO Mark Zuckerberg took a moment to zoom out and wax on the company’s future goals,",
-      "sourceUrl": null,
-      "webUrl": "https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fwatch%2F%3Fv%3D432511701042439%26refsrc%3Ddeprecated&refsrc=deprecated&_rdr",
-      "originalUrl": "https://techcrunch.com/2021/07/28/zuckerberg-is-turning-trillion-dollar-facebook-into-a-metaverse-company-he-tells-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.facebook.com/images/fb_icon_325x325.png",
-          "width": 325,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-artificial-intelligence-learns-better-when-distracted.md",
-      "title": "Artificial Intelligence learns better when distracted",
-      "excerpt": "Computer scientists from the Netherlands and Spain have determined how a deep learning system well suited for image recognition learns to recognize its surroundings. They were able to simplify the learning process by forcing the system's focus toward secondary characteristics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/07/210729183602.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/07/210729183602.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

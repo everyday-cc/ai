@@ -119,20 +119,6 @@ related:
         width: 1600
         height: 1042
         isCached: true
-  - title: "A secret weapon for self-driving car start-ups - humans"
-    excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
-    publishedDateTime: 2021-08-30T21:00:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/a-secret-weapon-for-self-driving-car-start-ups-humans"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/30/mi_selfdrive_300821.jpg?itok=OUMWk11o"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Two Apple Self-Driving Cars Involved in Accidents in Same Month, No Injuries Reported"
     excerpt: "Testing a ground-breaking technology on a car involves many risks, which the Cupertino-based tech giant was willing to take, but this was unexpected."
     publishedDateTime: 2021-09-01T19:57:00Z

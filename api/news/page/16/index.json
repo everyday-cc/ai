@@ -2,6 +2,138 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-08-21-elon-musk-says-tesla-will-produce-humanoid-robot-to-help-build-cars.md",
+      "title": "Elon Musk says Tesla will produce humanoid robot to help build cars",
+      "excerpt": "The \"Tesla Bot\" is a natural step because the company's vehicles are \"like semi-sentient robots on wheels,\" the CEO said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/elon-musk-says-tesla-will-produce-humanoid-robot-help-build-n1277348",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/elon-musk-says-tesla-will-produce-humanoid-robot-help-build-n1277348",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 276,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500579/210820-tesla-mb-1.jpg",
+          "width": 4000,
+          "height": 2666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277348",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277348",
+      "publishedDateTime": "2021-08-20T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-china-revs-up-in-race-to-a-driverless-future.md",
+      "title": "China revs up in race to a driverless future",
+      "excerpt": "The government also wants to scale up production and has set a target of 2025 for half of all new cars to come with partial self-driving features. A Baidu self-driving vehicle in Shougang Park in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/asia/china-driverless-cars-autonomous-vehicles-2118566",
+      "originalUrl": "https://www.channelnewsasia.com/asia/china-driverless-cars-autonomous-vehicles-2118566",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--Ut5fAspQ--/fl_relative%2Cg_south_east%2Cl_mediacorp:cna:watermark:2021-08:cna%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/cna/image/2021-08/china_driverless_car_olivia_1.jpg?itok=WaiOjPdQ",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-20T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-how-can-ai-and-machine-learning-assist-in-app-development-and-marketing.md",
+      "title": "How can AI and machine learning assist in app development and marketing?",
+      "excerpt": "You can train a program through enormous data that is collected through speech recognition, object recognition, facial recognition, translation, Chatbots, messages, etc. They help in learning the pattern in the data and prediction of the next step.",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/how-can-ai-and-machine-learning-assist-in-app-development-and-marketing/",
+      "originalUrl": "https://customerthink.com/how-can-ai-and-machine-learning-assist-in-app-development-and-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/robot-507811.jpg",
+          "width": 4961,
+          "height": 3508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-20T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-the-value-when-tesla-bot-shows-up-to-work.md",
       "title": "The Value When Tesla Bot Shows Up to Work",
       "excerpt": "Waymo, Huawei, Baidu, Boston Dynamics ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he ...",
@@ -1053,135 +1185,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-healthtech-startup-ziniai-bags-seed-grant-from-the-government-of-punjab.md",
-      "title": "Healthtech Startup Zini.ai Bags Seed Grant From The Government Of Punjab",
-      "excerpt": "The startups selected for the grant will have access to mentors, networking opportunities, interactions with Invest Punjab and other stakeholders",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380793",
-      "originalUrl": "https://www.entrepreneur.com/article/380793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629446524-Zini-PunjabSeedGrant002v11.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380793",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380793",
-      "publishedDateTime": "2021-08-20T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-simanalytics-receives-investment-from-kemira.md",
-      "title": "SimAnalytics Receives Investment from Kemira",
-      "excerpt": "SimAnalytics, a Finnish startup known for its advanced process harmony prediction and analysis tool, received a minority investment from Kemira, a global chemicals company",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/08/simanalytics-receives-investment-from-kemira.html",
-      "originalUrl": "https://www.finsmes.com/2021/08/simanalytics-receives-investment-from-kemira.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-north-america-is-expected-to-dominate-the-ai-in-physical-security-market-to-through-2026-techsci-research.md",
-      "title": "North America is expected to dominate the AI in Physical Security Market to through 2026 – TechSci Research",
-      "excerpt": "Ongoing technological advancements and the surge in use of the internet protocol based camera is expected to drive the demand for global AI in physical security market in forecast period According to TechSci Research report Global AI in Physical Security",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "originalUrl": "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U820806123_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "publishedDateTime": "2021-08-19T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

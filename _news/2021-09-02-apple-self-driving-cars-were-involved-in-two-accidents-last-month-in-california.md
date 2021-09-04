@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accid
 webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
 type: article
 quality: 50
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
         width: 1600
         height: 1042
-        isCached: true
-  - title: "A secret weapon for self-driving car start-ups - humans"
-    excerpt: "Self-driving start-ups such as Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: human operators.. Read more at straitstimes."
-    publishedDateTime: 2021-08-30T21:00:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/a-secret-weapon-for-self-driving-car-start-ups-humans"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/30/mi_selfdrive_300821.jpg?itok=OUMWk11o"
-        width: 763
-        height: 509
         isCached: true
   - title: "Apple self-driving cars involved in two recent accidents"
     excerpt: "Self-driving prototype cars from Apple were involved in road traffic accidents, but it wasn't the technology that was at fault"

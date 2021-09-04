@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-24-mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78c.md",
+      "title": "Mynd Integrated Solutions acquires Artificial Intelligence Platform Move78(c)",
+      "excerpt": "Mynd Integrated Solutions, one of the leading Finance & Accounting (F & A) and HR outsourcing partners for businesses, awarded by NASSCOM in the AI & ML category, has acquired Move78(c)[?] platform fr",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/24/full/20210824204718.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "publishedDateTime": "2021-08-24T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-a-rare-military-tech-unicorn-looks-past-afghanistan-war.md",
+      "title": "A Rare Military Tech Unicorn Looks Past Afghanistan War",
+      "excerpt": "Shield AI initially made drones to protect ground troops, but it has raised $210 million to expand to larger aircraft in more complicated situations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7qI4DSMYKl8/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai.md",
+      "title": "NVIDIA Now Offers A Comprehensive Platform For Enterprise AI",
+      "excerpt": "NVIDIA has released the full spectrum of AI tools for the Enterprise, extending its reach and confounding competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d7504522a9187778d0853%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
+      "publishedDateTime": "2021-08-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-onsolve-wins-security-todays-2021-new-product-of-the-year-award-for-artificial-intelligence.md",
       "title": "OnSolve Wins Security Today's 2021 New Product of the Year Award for Artificial Intelligence",
       "excerpt": "OnSolve, a leading critical event management provider for enterprises, SMB organizations, and government entities, today announced that it has been awarded Security Today's 2021 New Product of the Year Award in the Artificial Intelligence category.",
@@ -1068,134 +1215,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation.md",
-      "title": "Baidu's AI Voice Assistant Xiaodu Closes Funding at $5.1 Billion Valuation",
-      "excerpt": "Chinese tech giant Baidu Inc said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation. This comes in the midst of a regulatory crackdown on the tech industry by the Chinese authorities that has led to an upheaval in many sectors including as e-commerce,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp",
-      "publishedDateTime": "2021-08-24T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-ai-enabled-e-commerce-solutions-market-forecast-to-2026.md",
-      "title": "AI Enabled E-Commerce Solutions Market - Forecast to 2026",
-      "excerpt": "According to a new market research report published by Global Market Estimates the AI Enabled E Commerce Solutions Market will grow with a CAGR value of around 40 percent over the forecast period Browse TOC on Global AI Enabled E",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "originalUrl": "https://www.openpr.com/news/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U824327631_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "publishedDateTime": "2021-08-24T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-could-ai-designed-chips-herald-a-revolution-in-compute.md",
-      "title": "Could AI-designed chips herald a revolution in compute?",
-      "excerpt": "Microprocessors have come a long way from the days of the humble Intel 8008. In their nearly 50 years of existence, microprocessors have grown vastly more powerful, efficient, capable of handling even quantum computing simulations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanherald.com/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "originalUrl": "https://www.deccanherald.com/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/08/24/silicon-wafer-istock-968465-1617129572-1022986-1629796766.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanherald.com/amp/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "cdnAmpWebUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "publishedDateTime": "2021-08-24T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Herald",
-        "domain": "deccanherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

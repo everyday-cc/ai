@@ -2,6 +2,135 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-07-28-cyberlinks-faceme-ranked-top-3-in-face-anti-spoofing-challenge-at-iccv-2021.md",
+      "title": "CyberLink's FaceMe® Ranked Top 3 in Face Anti-spoofing Challenge at ICCV 2021",
+      "excerpt": "(5203.TW), a pioneer in AI and facial recognition technologies, is excited to announce its FaceMe ® AI facial recognition has ranked in the Top 3 in the face anti-spoofing challenge held by the ICCV 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cyberlinks-facemereg-ranked-top-3-face-anti-spoofing-/2021/07/28/9418743.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cyberlinks-facemereg-ranked-top-3-face-anti-spoofing-/2021/07/28/9418743.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app.md",
+      "title": "Brain Technologies raises $50M+ for the launch of Natural, a natural language search engine and ‘super app’",
+      "excerpt": "Voice-based and other personal assistant apps — which use natural language and hefty AI engines in the backend to source information to address your various questions, do your e-commerce bidding, or control one electronic device or another in your home — have been around for years,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/",
+      "originalUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/nat_screen_2.png?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/amp/",
+      "publishedDateTime": "2021-07-28T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process.md",
+      "title": "Joint Artificial Intelligence Center to Pilot a Responsible AI Procurement Process",
+      "excerpt": "The Department of Defense Joint Artificial Intelligence Center (JAIC) is continuing to operationalize Responsible Artificial Intelligence with the announcement of a pilot of a",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process/article_26b0df77-1536-5495-8b8b-5cee70537fd1.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process/article_26b0df77-1536-5495-8b8b-5cee70537fd1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/863fad68-d192-5735-ade4-f6c611f698ec/610156312c5e1.image.jpg?resize=1064%2C630",
+          "width": 1064,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-osmos-emerges-from-stealth-to-unify-enterprise-data.md",
       "title": "Osmos emerges from stealth to unify enterprise data",
       "excerpt": "Osmos, a startup developing a platform for enterprise data transformation, has emerged from stealth with $13 million in funding.",
@@ -1009,145 +1138,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-cassie-the-bipedal-robot-uses-machine-learning-to-complete-a-5km-jog.md",
-      "title": "Cassie the bipedal robot uses machine learning to complete a 5km jog",
-      "excerpt": "Four years is a long time in robotics, especially so for a bipedal robot developed at Oregon State University (OSU) named Cassie. Dreamt up as an agile machine to carry packages from delivery vans to doorsteps,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
-      "originalUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/b8df8e2/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2Fe3%2Fc5501d6e4aee82bae15cb06f67ed%2Fcassie-5k.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
-      "publishedDateTime": "2021-07-27T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-powered-beach-cleanup-robots.md",
-      "title": "AI-Powered Beach Cleanup Robots",
-      "excerpt": "It’s estimated that more than 4.5-trillion cigarette butts are littered across the environment around the world, which is something the",
-      "sourceUrl": null,
-      "webUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "originalUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.trendhunterstatic.com/thumbs/robotic-beach-cleaner.jpeg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "publishedDateTime": "2021-07-27T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrendHunter",
-        "domain": "trendhunter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-cognex-visionpro-software-breaks-down-barriers-between-deep-learning-and-traditional-vision.md",
-      "title": "Cognex VisionPro Software Breaks Down Barriers Between Deep Learning and Traditional Vision",
-      "excerpt": "Cognex Corporation (NASDAQ: CGNX), the leader in industrial machine vision, announces VisionPro® 10.0 and VisionPro Deep Learning 2.0, two new releases in its VisionPro line of vision software. VisionPro 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/cognex-visionpro-software-breaks-down-barriers-between-deep-learning-and-traditional-vision",
-      "originalUrl": "https://www.pressreleasepoint.com/cognex-visionpro-software-breaks-down-barriers-between-deep-learning-and-traditional-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

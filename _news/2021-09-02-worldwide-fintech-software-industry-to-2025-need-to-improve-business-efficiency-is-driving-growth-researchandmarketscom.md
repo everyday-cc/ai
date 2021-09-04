@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "Global Machine Learning Market (2021 to 2029) - Featuring IBM, SAP and Google Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Machine Learning Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Forecasts, 2021 To 2029” report has been added to ResearchAndMarkets."
+    excerpt: "The \"Machine Learning Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Forecasts, 2021 To"
     publishedDateTime: 2021-09-03T08:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-95fb4bc1cd8f40948645b70b933c7b28"
+    webUrl: "https://www.benzinga.com/pressreleases/21/09/b22794094/global-machine-learning-market-2021-to-2029-featuring-ibm-sap-and-google-among-others-researchandm"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22794094"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22794094"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "Artificial Intelligence in Medical Diagnostics Market by Component, Application, End-user and Region - Global Forecast to 2025 - ResearchAndMarkets.co"
     excerpt: "The \"Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, OBGY,MRI, CT, Ultrasound, IVD), End User (Hospital, Diagnostic Laboratory,"
     publishedDateTime: 2021-09-01T13:24:00Z

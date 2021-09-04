@@ -150,7 +150,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/382675",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -174,6 +174,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-fintech-and-digital-banking-searches-have-been-on-the-rise.md",
+      "title": "Fintech and digital banking searches have been on the rise",
+      "excerpt": "Four popular fintech brands have seen a surge in Google searches as they’ve gained a foothold in the banking industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519?mod=home-page",
+      "originalUrl": "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519?mod=home-page",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-392268/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1277,58 +1329,6 @@
         "name": "Stock News",
         "domain": "stocknews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion.md",
-      "title": "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion",
-      "excerpt": "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1594914/Peak_Fintech_Group_Inc__Peak_Fintech_Signs_Agreement_to_Acquire.jpg",
-          "width": 323,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

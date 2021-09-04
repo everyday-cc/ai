@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-02-facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance.md",
+      "title": "Facial Recognition Tech: Metro Rail Users In Moscow Can Soon Pay Fare With A Glance",
+      "excerpt": "Metro train commuters in Moscow can soon pay fare with their faces. A report in Bloomberg says that “The Moscow metro system, which carries more riders than the New York subway, is about to roll out a facial recognition system that will let people pay with a glance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "originalUrl": "https://www.news18.com/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/09/untitled-design-8-163058141116x9.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/facial-recognition-tech-metro-rail-users-in-moscow-can-soon-pay-fare-with-a-glance-4157330.html",
+      "publishedDateTime": "2021-09-02T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-an-edtech-users-glossary-to-speech-recognition-and-ai-in-the-classroom.md",
       "title": "An Edtech User’s Glossary to Speech Recognition and AI in the Classroom",
       "excerpt": "In a recent white paper, former Scholastic president of education Margery Mayer dubbed 2021 the “year of speech recognition” in education. And she may be right: A spike in adoption by edtech developers in the first half of this year reflects the ...",
@@ -347,7 +390,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -672,6 +715,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-what-you-need-to-know-about-this-self-driving-truck-start-ups-ipo.md",
+      "title": "What You Need to Know About This Self-Driving Truck Start-up's IPO",
+      "excerpt": "Self-driving start-ups are racing to go public, hoping to ride the success of next-generation automotive IPOs like XPeng (NYSE: XPEV) and NIO (NYSE: NIO). But investors don't seem too excited. TuSimple Holdings ( NASDAQ:TSP) -- which went public in April -- has already dropped 15% below its IPO price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
+      "originalUrl": "https://www.fool.com/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F641215%2Fgettyimages-trucks.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
+      "publishedDateTime": "2021-09-01T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1096,110 +1191,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member.md",
-      "title": "Tech Moves: Azure GM joins Madrona; Microsoft chief scientist promoted; Avalara adds board member",
-      "excerpt": "Microsoft Azure General Manager and COO Aseem Datar is joining Madrona Venture Group as a partner. The Seattle investment firm also announced that Chris Picardo has been promoted to partner",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member/",
-      "originalUrl": "https://www.geekwire.com/2021/tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/12/jaimetease-1260x966-300x230.jpg",
-          "width": 300,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member/amp/",
-      "publishedDateTime": "2021-09-01T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-toyotas-self-driving-shuttles-return-to-the-paralympics-following-crash.md",
-      "title": "Toyota's self-driving shuttles return to the Paralympics following crash",
-      "excerpt": "Toyota is once again running its self-driving e-Palette vehicles at the Paralympics following a collision with a pedestrian..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "originalUrl": "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 283,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/f20135a0-0b1f-11ec-bab7-b37093ad4a37",
-          "width": 5908,
-          "height": 3939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "publishedDateTime": "2021-09-01T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

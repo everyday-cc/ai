@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-21-ai-day-showcases-the-breadth-of-teslas-ambition.md",
+      "title": "AI Day Showcases The Breadth Of Tesla’s Ambition",
+      "excerpt": "Tesla AI Day 2021 featured executives presenting the full range of the company’s AI efforts, from computer vision to planning and controls to data infrastructure to automotive super computers to data center supercomputers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/",
+      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fdf470f5f95efd0682f84%2F0x0.jpg",
+          "width": 1200,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/",
+      "publishedDateTime": "2021-08-20T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-elon-musk-announces-teslas-new-humanoid-robots.md",
       "title": "Elon Musk Announces Tesla's New Humanoid Robots",
       "excerpt": "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates ... \"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" he said during Tesla’s AI Day. He added, \"What ...",
@@ -1367,58 +1419,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-baidu-unveils-concept-autonomous-robocar.md",
-      "title": "Baidu unveils concept autonomous 'Robocar'",
-      "excerpt": "Along with unveiling a new autonomous vehicle, Baidu also announced it has started mass producing its AI chip, the Kunlun II.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/18/97007714-bc06-4b94-816a-9a85a0427308/e9clrpivoag-sz.jpg",
-          "width": 2477,
-          "height": 1509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/",
-      "publishedDateTime": "2021-08-17T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

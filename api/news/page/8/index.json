@@ -2,6 +2,136 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-26-athreon-launches-front-end-speech-recognition-solution.md",
+      "title": "Athreon Launches Front-End Speech Recognition Solution",
+      "excerpt": "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-otterai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex.md",
+      "title": "Otter.ai expands automatic transcription assistant to Microsoft Teams, Google Meet and Cisco Webex",
+      "excerpt": "AI-powered voice transcription service Otter.ai is expanding its Otter Assistant feature for Microsoft Teams, Google Meet, and Cisco Webex. Otter.ai first released this feature for Zoom users earlier this year in May.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/",
+      "originalUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1024",
+          "width": 1024,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/",
+      "publishedDateTime": "2021-08-26T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-ask-the-expert-demystifying-ai-and-machine-learning-in-search.md",
+      "title": "Ask the expert: Demystifying AI and Machine Learning in search",
+      "excerpt": "Artificial intelligence encompasses multiple concepts, deep learning is a subset of machine learning, and natural language processing uses a wide range of AI algorithms to better understand language.",
+      "sourceUrl": null,
+      "webUrl": "https://searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554",
+      "originalUrl": "https://searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://searchengineland.com/figz/wp-content/seloads/2021/08/AI-and-NLP.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554/amp",
+      "cdnAmpWebUrl": "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554/amp",
+      "publishedDateTime": "2021-08-26T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Land",
+        "domain": "searchengineland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app.md",
       "title": "Google confirms it’s pulling the plug on Streams, its UK clinician support app",
       "excerpt": "Google is infamous for spinning up products and killing them off, often in very short order. It’s an annoying enough habit when it’s stuff like messaging apps and games. But the tech giant’s ambitions stretch into many domains that touch human lives these days.",
@@ -1024,145 +1154,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-fired-google-ai-ethics-lead-joins-natural-language-processing-start-up.md",
-      "title": "Fired Google AI ethics lead joins natural language processing start-up",
-      "excerpt": "A researcher fired from Google during a tumultuous period for the company’s AI division has announced her next move in business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/start-ups/margaret-mitchell-hugging-face-google-ai-ethics",
-      "originalUrl": "https://www.siliconrepublic.com/start-ups/margaret-mitchell-hugging-face-google-ai-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/08/AdobeStock_448737185.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-neural-network-market-report-covers-detail-analysis-about-size-share-growth-past-present-data-and-forecast-to-2027.md",
-      "title": "Neural Network Market Report Covers Detail Analysis about Size, Share, Growth, Past, Present Data and Forecast To 2027",
-      "excerpt": "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Neural Network Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-market-report-covers-detail-analysis-about-size-share-growth-past-present-data-and-forecast-to-2027-2021-08-26-21975239",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-market-report-covers-detail-analysis-about-size-share-growth-past-present-data-and-forecast-to-2027-2021-08-26-21975239",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-artificial-intelligence-ai-in-retail-market.md",
-      "title": "Artificial Intelligence (AI) in Retail Market",
-      "excerpt": "The global Artificial Intelligence in the Retail market is forecast to reach USD 18 74 Billion by 2026 according to a new report by The retail industry has witnessed a surge in technological advances over the past",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2368221/artificial-intelligence-ai-in-retail-market-investment",
-      "originalUrl": "https://www.openpr.com/news/2368221/artificial-intelligence-ai-in-retail-market-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U826286763_g.jpg",
-          "width": 800,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment",
-      "publishedDateTime": "2021-08-25T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

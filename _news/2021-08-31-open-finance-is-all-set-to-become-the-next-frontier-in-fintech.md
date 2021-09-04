@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382675"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382675"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.insider.com/60f9726c0729770012b93db5?width=1200&format=jpeg"
         width: 795
         height: 397
-        isCached: true
-  - title: "Fintech and digital banking searches have been on the rise"
-    excerpt: "Four popular fintech brands have seen a surge in Google searches as they’ve gained a foothold in the banking industry."
-    publishedDateTime: 2021-08-30T09:02:00Z
-    webUrl: "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://images.mktw.net/im-392268/social"
-        width: 1279
-        height: 640
         isCached: true
   - title: "A Comprehensive Guide to Fintech ETFs"
     excerpt: "According to the report, the fintech space is expected to reach a market value of around $324 billion by 2026. The combination of financial services and technology has allowed providers to focus on a more customer-centric approach."

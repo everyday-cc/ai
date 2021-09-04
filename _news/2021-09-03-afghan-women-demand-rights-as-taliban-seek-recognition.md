@@ -2,29 +2,23 @@
 category: news
 title: "Afghan women demand rights as Taliban seek recognition"
 excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new rulers work on forming a government and seeking international recognition."
-publishedDateTime: 2021-09-03T15:02:00Z
-originalUrl: "https://www.nydailynews.com/news/ny-afghan-women-rights-taliban-20210903-t2bitgewpjajriimoy57w6r5xq-story.html"
-webUrl: "https://www.nydailynews.com/news/ny-afghan-women-rights-taliban-20210903-t2bitgewpjajriimoy57w6r5xq-story.html"
-ampWebUrl: "https://www.nydailynews.com/news/ny-afghan-women-rights-taliban-20210903-t2bitgewpjajriimoy57w6r5xq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/ny-afghan-women-rights-taliban-20210903-t2bitgewpjajriimoy57w6r5xq-story.html?outputType=amp"
+publishedDateTime: 2021-09-03T05:49:00Z
+originalUrl: "https://wtop.com/asia/2021/09/afghan-women-demand-rights-as-taliban-seek-recognition/"
+webUrl: "https://wtop.com/asia/2021/09/afghan-women-demand-rights-as-taliban-seek-recognition/"
+ampWebUrl: "https://wtop.com/asia/2021/09/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
+cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/asia/2021/09/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: New York Daily News
-  domain: nydailynews.com
+  name: WTOP News
+  domain: wtop.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.nydailynews.com/resizer/FlAbKo-QOZ9PjqxHUFj-4AzjN4c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IU6NTMZ6JEPRLJ7HF22TY5CA3I.jpg"
-    width: 1200
-    height: 858
-    isCached: true
 
 related:
   - title: "Afghan women protest in Kabul demand rights as Taliban seek recognition"
@@ -60,6 +54,6 @@ related:
         height: 267
         isCached: true
 
-secured: "KkOvDBRW1mZxaK0JaaNqgyaw58JI14mCAWHSUTfQa/v8TJa4GGVrOlWinUzwO3BwjyLX4mMRyaFCTOHxEGiNsQ0ObFiXa6I53YfYE9VEAcICIVHCslECCNeRlda+rNNV8FYCmkmjoUO9LcfpCZi2/7xcLc0mBTaYA5lIoM4wVYhUNMKNgk2mMgirC2vgxKYr9gX1UVxLSdyAdGGmQbaY5cVDAgbVRiPZ1hP69r5pjtWioiRPqmDHrRt1jaLuD+mmGWJebk2umuNb8YSdlSmjj1UCITj1r59TjFPctl+T7ym8tWgmnKH/8huGP3jJ7VE1DjNtQVg05u4bWJfwf7vMWrjXYQZQZi9zoY/OEO3LZ3E=;K1P/PXiluerMI+XnlSpwuw=="
+secured: "M568NMpa3N/bqsL8r7pxF8b5JeM4DmVv/XAYY4rHjBRCV2040yXA3W13OCyvSaKSd+gqUL4th3gCJDYStQoPPvkrPOeLpurAw+QDyGV9PjdQudiGyy2SObcB29g2XqRfwtDbCjHSW1kZeaJ3vDyr4iwPNCodaKimz+sH5kl4UemJspzlsSdq6Gn3raihFq3IqoCZK9E0A8qTlLf7/iO60JXPwmy0bpvencbA41EzRgjTofeKeDpzvpVn78rIW08nnbagBdZHTYaROhqCCN5GhJgLGLu5KrR51UCSjnuFE7OEp+Yz1y20aQXrDL5zfeIAT8o7GZrvRngM+ISZy6C9f0kXY46D1p8c0D4q5beW7HE=;m88nq1S+4Mk0UwSpp48pag=="
 ---
 

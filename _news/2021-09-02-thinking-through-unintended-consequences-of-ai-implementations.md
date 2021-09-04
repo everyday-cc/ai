@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Closing The Gap Between The Promise Of AI And Its Implementation"
-    excerpt: "Despite a growing and compelling body of evidence that AI can significantly boost business performance there’s still widespread reluctance to adopt it."
-    publishedDateTime: 2021-08-30T10:40:00Z
-    webUrl: "https://www.ibtimes.com/closing-gap-between-promise-ai-its-implementation-3283952"
-    ampWebUrl: "https://www.ibtimes.com/closing-gap-between-promise-ai-its-implementation-3283952?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/closing-gap-between-promise-ai-its-implementation-3283952?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg"
-        width: 1200
-        height: 803
-        isCached: true
   - title: "Closing the gap between the promise of AI and its implementation"
     excerpt: "Despite a growing and compelling body of evidence that AI can significantly boost business performance there's still widespread reluctance to adopt it."
     publishedDateTime: 2021-08-31T07:28:00Z
