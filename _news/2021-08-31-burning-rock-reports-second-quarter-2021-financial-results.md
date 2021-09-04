@@ -7,7 +7,7 @@ originalUrl: "https://www.djournal.com/burning-rock-reports-second-quarter-2021-
 webUrl: "https://www.djournal.com/burning-rock-reports-second-quarter-2021-financial-results/article_f4ec9b60-cf9e-5e42-83b1-78ac35342988.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AnalytixInsight Reports Second Quarter 2021 Financial Results"
-    excerpt: "Artificial Intelligence company, AnalytixInsight Inc. (\"AnalytixInsight\", or the \"Company\") , reports financial results for the second quarter ended June 30, 2021. Key Highlights: Completed an overnight marketed public offering raising"
-    publishedDateTime: 2021-08-30T21:33:00Z
-    webUrl: "https://www.lelezard.com/en/news-19973974.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Perimeter Medical Imaging AI Reports Second Quarter 2021 Financial Results and Provides Corporate Update"
     excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform"
     publishedDateTime: 2021-08-31T01:48:00Z

@@ -62,20 +62,6 @@ related:
         height: 508
         isCached: true
   - title: "Zebra Technologies to Acquire Antuit.ai"
-    excerpt: "Zebra Technologies (NASDAQ: ZBRA), a Lincolnshire, IL-based provider of performance edge solutions, is to acquire antuit.ai, a Dallas, TX-based provider of artificial intelligence (AI)-powered Softwar"
-    publishedDateTime: 2021-08-30T21:57:00Z
-    webUrl: "https://www.finsmes.com/2021/08/zebra-technologies-to-acquire-antuit-ai.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/zebra-1.jpg"
-        width: 1280
-        height: 596
-        isCached: true
-  - title: "Zebra Technologies to Acquire Antuit.ai"
     excerpt: "Zebra Technologies Corporation, a global enterprise mobile computing company, announced its intention to acquire antuit.ai, a provider of artificial intelligence (AI)-powered Software-as-a-Service (SaaS) solutions specific to forecasting and merchandising for the retail and CPG industries."
     publishedDateTime: 2021-09-02T14:44:00Z
     webUrl: "https://www.supplychainbrain.com/articles/33691-zebra-technologies-to-acquire-antuitai"

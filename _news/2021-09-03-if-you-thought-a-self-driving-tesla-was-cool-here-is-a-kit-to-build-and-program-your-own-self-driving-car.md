@@ -59,22 +59,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive."
-    excerpt: "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve."
-    publishedDateTime: 2021-08-30T22:00:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-386041/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The US to investigate increased self-driving Tesla-related incidents"
     excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
     publishedDateTime: 2021-09-02T16:43:00Z

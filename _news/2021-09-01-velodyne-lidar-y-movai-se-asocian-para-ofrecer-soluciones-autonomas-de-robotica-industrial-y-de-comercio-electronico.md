@@ -33,20 +33,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 34
-  - title: "Kanverse.ai Launches Fluorite Release of its AI-Powered IDP Product for Insurance, Strengthens AP Invoice Automation Offering"
-    excerpt: "Kanverse, a hyper-automation company, has announced the global launch of the Fluorite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprises. Kanverse IDP combines multiple AI technologies with Optical Character Recognition (OCR) and Automation to provide an end-to-end product that digitizes enterprise document processing from ingestion,"
-    publishedDateTime: 2021-08-31T14:38:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-379de5760ba7425f8a7d79a12d05b332"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Velodyne Lidar e MOV.AI fazem parceria para fornecer soluções autônomas para robótica industrial e de comércio eletrônico"
     excerpt: "A Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) e a MOV.AI anunciaram hoje que as empresas estão colaborando para fornecer a fabricantes de robôs soluções de automação de nível empresarial, incluindo mapeamento,"
     publishedDateTime: 2021-09-01T07:53:00Z

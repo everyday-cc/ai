@@ -7,7 +7,7 @@ originalUrl: "https://www.diplomaticourier.com/posts/the-proliferation-of-weapon
 webUrl: "https://www.diplomaticourier.com/posts/the-proliferation-of-weaponized-artificial-intelligence"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,74 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI and Computer Vision to Reduce Misinformation on the Web"
-    excerpt: "The spread of misinformation via deepfakes, document manipulation and false narratives is fairly common on the internet today."
-    publishedDateTime: 2021-08-30T22:37:00Z
-    webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
+  - title: "Kanverse.ai Launches Fluorite Release of its AI-Powered IDP Product for Insurance, Strengthens AP Invoice Automation Offering"
+    excerpt: "Kanverse, a hyper-automation company, has announced the global launch of the Fluorite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprises. Kanverse IDP combines multiple AI technologies with Optical Character Recognition (OCR) and Automation to provide an end-to-end product that digitizes enterprise document processing from ingestion,"
+    publishedDateTime: 2021-08-31T14:38:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-379de5760ba7425f8a7d79a12d05b332"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_and_Computer_Vision_to_Reduce_Misinformation_on_the_Web.jpeg"
-        width: 1347
-        height: 600
-        isCached: true
-  - title: "Innovative AI and simulation tools used to reveal the inner workings of Sar-CoV-2 virus"
-    excerpt: "Argonne, industry and academia collaborate to bring innovative AI and simulation tools to the COVID-19 battlefront."
-    publishedDateTime: 2021-09-01T05:14:00Z
-    webUrl: "https://www.news-medical.net/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/Innovative-AI-and-simulation-tools-used-to-reveal-the-inner-workings-of-Sar-CoV-2-virus.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Paravision, Trust Stamp, Advance.AI add new talent"
-    excerpt: "A number of companies in the biometrics and digital ID space announce the appointment of new talent this week including Paravision, Trust Stamp and Advance.AI."
-    publishedDateTime: 2021-09-03T18:08:00Z
-    webUrl: "https://www.biometricupdate.com/202109/paravision-trust-stamp-advance-ai-add-new-talent"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg"
-        width: 1080
-        height: 511
-        isCached: true
-  - title: "Data Science Against Disinformation: How Artificial Intelligence and Machine Learning Can Fact-Check Claims of Digital Election Campaigns"
-    excerpt: "By Professor Dr Mohammad Mahdavi, Programme Leader Data Science, AI, and Digital Business at GISMA Business School Becoming digital allows election campaigns to promote their candidates more effectively and economically."
-    publishedDateTime: 2021-09-01T20:41:00Z
-    webUrl: "https://www.globalbankingandfinance.com/data-science-against-disinformation-how-artificial-intelligence-and-machine-learning-can-fact-check-claims-of-digital-election-campaigns/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/data-science-against-disinformation-how-artificial-intelligence-and-machine-learning-can-fact-check-claims-of-digital-election-campaigns/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/data-science-against-disinformation-how-artificial-intelligence-and-machine-learning-can-fact-check-claims-of-digital-election-campaigns/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 38
-  - title: "Government urged to embrace Artificial Intelligence for Disaster Risk Reduction"
-    excerpt: "The Kenya National Commission for UNESCO has urged the government to embrace Artificial Intelligence for Disaster Risk Reduction to strengthen disaster prevention approaches. The Commission argues that technology is the way to go in dealing with disasters such as floods and drought."
-    publishedDateTime: 2021-09-02T14:27:00Z
-    webUrl: "https://www.kbc.co.ke/government-urged-to-embrace-artificial-intelligence-for-disaster-risk-reduction/"
-    type: article
-    provider:
-      name: Kenya Broadcasting Corporation
-      domain: kbc.co.ke
-    quality: 33
-    images:
-      - url: "https://www.kbc.co.ke/wp-content/uploads/2021/09/maxresdefault-5.jpg"
-        width: 1280
-        height: 720
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "YHtNPOeQTOBdM/13DC9XjrYiY1IjC8NJ50NVXE+AYiv3DDVt0pRgHdyD3RBkG9EYs8hg9By8j+n7pz08pQAa3cV2EKxaLzX6Hg2QpfzwjGFQPUlH6jncpvXi98RUfzEYe3oxTFmrlNgIL6dRyB6XL+rbQPMBa4BCMzV5TtsedRS+gS7oV8O6hv4EyQqe2BkgTnCReu755zAYrggLFdd5fkrlFE8t9MPCe2V7WRKHWJmlrVwybNbbwKzGksDITBJgBDlzGwqoIVl8abrz9JPtSROgBNRW0RVvinhVOG+31T3WYmBhIHzdR99s64QW81rV8UUbdsg7QLrM4gCF5/W/j8ENDiOsMfPs0SaskA4iYZbDbHm924ywGKkhA9Wj+17e1iX3+1PCMLnlVjs1jV5LWRtTtjUEL3KEA+5qRyAehmu/lp0EcI+YNSNDM0+BRbqOutqvZ6uo/UoZqYnPrBJq7f2evyKdnESowb4MKW5RAHd2rBlMHBrD5aNGG1i4TDjsvse6yUHjnJLCJbIZ/dBNlw==;58zIEkw9I8V0OdT/w8+b5g=="

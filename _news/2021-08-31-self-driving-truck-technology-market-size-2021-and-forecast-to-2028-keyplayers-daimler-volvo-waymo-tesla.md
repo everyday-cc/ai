@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/self-driving-truck-technology-market-size
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/"
 type: article
 quality: 69
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -111,22 +111,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Machine Learning as a Service Market Size 2021 And Forecast to 2028 | Keyplayers – Amazon, Oracle, Ibm, Microsoftn"
-    excerpt: "The global Machine Learning as a Service market report provides detailed details on market size, share, industry overview, revenues, recent developments, acquisitions and mergers, and expansion strategies."
-    publishedDateTime: 2021-08-30T22:44:00Z
-    webUrl: "https://manometcurrent.com/machine-learning-as-a-service-market-size-2021-and-forecast-to-2028-keyplayers-amazon-oracle-ibm-microsoftn/"
-    ampWebUrl: "https://manometcurrent.com/machine-learning-as-a-service-market-size-2021-and-forecast-to-2028-keyplayers-amazon-oracle-ibm-microsoftn/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-as-a-service-market-size-2021-and-forecast-to-2028-keyplayers-amazon-oracle-ibm-microsoftn/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 39
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg"
-        width: 300
-        height: 212
         isCached: true
   - title: "Computer Vision Market Trends, Size, Market Share, Growth Factor, Opportunities, Segment, Top Manufacturers, Drivers and Forecast 2021-2026"
     excerpt: "Global “Computer Vision Market” research report presents a detailed analysis of the industry by size, strategies"

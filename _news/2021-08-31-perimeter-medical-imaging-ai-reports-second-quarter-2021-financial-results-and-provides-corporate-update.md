@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AnalytixInsight Reports Second Quarter 2021 Financial Results"
-    excerpt: "Artificial Intelligence company, AnalytixInsight Inc. (\"AnalytixInsight\", or the \"Company\") , reports financial results for the second quarter ended June 30, 2021. Key Highlights: Completed an overnight marketed public offering raising"
-    publishedDateTime: 2021-08-30T21:33:00Z
-    webUrl: "https://www.lelezard.com/en/news-19973974.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Burning Rock Reports Second Quarter 2021 Financial Results"
     excerpt: "GUANGZHOU, China, Aug. 31, 2021 (GLOBE NEWSWIRE) --  (NASDAQ: BNR, the “Company” or “Burning Rock”), a company focused on the application of next generation sequencing (NGS)"
     publishedDateTime: 2021-08-31T04:30:00Z

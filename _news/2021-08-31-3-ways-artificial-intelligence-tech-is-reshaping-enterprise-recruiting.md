@@ -82,6 +82,20 @@ related:
         width: 730
         height: 396
         isCached: true
+  - title: "New study will use artificial intelligence to improve treatments for people with multiple long-term conditions"
+    excerpt: "The NIHR has awarded £2.5 million for research that will use artificial intelligence to produce computer programmes and tools to help doctors improve the choice of drugs in patients with multiple long-term conditions."
+    publishedDateTime: 2021-09-03T12:56:00Z
+    webUrl: "https://www.birmingham.ac.uk/university/colleges/mds/news/2021/09/ai-treatments-long-term-conditions.aspx"
+    type: article
+    provider:
+      name: birmingham.ac.uk
+      domain: birmingham.ac.uk
+    quality: 19
+    images:
+      - url: "https://www.birmingham.ac.uk/images/news/artificial-intelligence-720.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "ZNu6BWxih3Ft77eP/fo65lXNNECDvJk6kmF4iooIEwWnnht5olCfGyrdy1+zxYNK/Qvxx5qpls7/HQOIBgXdaIb699jAd1+2GwqyTp9mTGikyvVBrc5s0Jchss7d3XEk9VJSJ5N+p7s67WuCqpsRJP6wsigwgxXoKe+EBT8tfQ9UhbOepW03FecPrqnZhK7vdDviq8zH4QoVeQbS72XuQNgOSqnvNUuyspevEG4cT45RyVZ8fskj9uDQbVLQLpZc0Hkf9vOJWzjKvLXc7aFabr15V8FCcOQEaSMNkD4eE1IyDYu5oPcXfAhUrCJFGGGdny6n6QDwSfx0JynHleIOtuewmctM3t/M5LlaBeFFVi5tz0N5Nesfc8H5x3Anr01j1bj+f9p38YTwfAsc5Jg9pj6y1tX9om3+TsztMpkDms1I2uj24+R39uUk5Iq6n6WDW/QRUhJko3c39HOrP8lqcU8EjBvdKeJ72CXmuy/MjrpkTYFN+0+GWTfxnHFkxID91uBPbAyHhJ/5WedYQ2AG1Q==;xnuoC148+vdfY7L/CuMOnQ=="
 ---

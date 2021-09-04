@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/temasek-founded-ai
 webUrl: "https://markets.businessinsider.com/news/stocks/temasek-founded-aicadium-acquires-singapore-ai-firm-basisai-1030768169"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       - url: "https://s24806.pcdn.co/wp-content/uploads/2021/06/SivakumarLakshmanan_and_YogeshKulkarni-970.jpg"
         width: 970
         height: 508
-        isCached: true
-  - title: "Zebra Technologies to Acquire Antuit.ai"
-    excerpt: "Zebra Technologies (NASDAQ: ZBRA), a Lincolnshire, IL-based provider of performance edge solutions, is to acquire antuit.ai, a Dallas, TX-based provider of artificial intelligence (AI)-powered Softwar"
-    publishedDateTime: 2021-08-30T21:57:00Z
-    webUrl: "https://www.finsmes.com/2021/08/zebra-technologies-to-acquire-antuit-ai.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/zebra-1.jpg"
-        width: 1280
-        height: 596
         isCached: true
   - title: "Sitecore Acquires AI-Powered Digital Search Platform Reflektion"
     excerpt: "Sitecore®, the global leader in digital experience management software, today announced the acquisition of San Mateo-based Reflektion, an AI-powered digital search platform that understands and predicts patterns,"
