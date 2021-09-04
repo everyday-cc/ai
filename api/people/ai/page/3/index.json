@@ -18,7 +18,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3VyGrdwAAAAJ",
-        "citations": 16980
+        "citations": 16992
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Karl_Iagnemma"
@@ -55,7 +55,7 @@
       "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
-        "citations": 184552
+        "citations": 184785
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
@@ -93,7 +93,7 @@
       "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
-        "citations": 187691
+        "citations": 187787
       },
       "affiliation": {
         "path": "",
@@ -127,7 +127,7 @@
       "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
-        "citations": 197024
+        "citations": 197333
       },
       "affiliation": {
         "path": "",
@@ -161,7 +161,7 @@
       "bio": "Professor Emeritus, EECS, UC Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=S6H-0RAAAAAJ",
-        "citations": 265068
+        "citations": 265192
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lotfi_A._Zadeh"
@@ -235,7 +235,7 @@
       "bio": "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Q6pxNZYAAAAJ",
-        "citations": 30945
+        "citations": 30963
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lydia_Kavraki"
@@ -310,7 +310,7 @@
       "bio": "CERN",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3vZMAs4AAAAJ",
-        "citations": 187025
+        "citations": 187149
       },
       "affiliation": {
         "path": "",
@@ -377,7 +377,7 @@
       "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 219647
+        "citations": 219879
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"
@@ -416,7 +416,7 @@
       "website": "https://nickbostrom.com/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oQwpz3QAAAAJ",
-        "citations": 19186
+        "citations": 19198
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Nick_Bostrom"
@@ -513,7 +513,7 @@
       "bio": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=2oy3OXYAAAAJ",
-        "citations": 95824
+        "citations": 95967
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Stuart_J._Russell"
@@ -541,7 +541,7 @@
       "website": "https://mila.quebec/en/yoshua-bengio/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=kukA0LcAAAAJ",
-        "citations": 435178
+        "citations": 436382
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
@@ -649,11 +649,11 @@
       "twitter": {
         "username": "etzioni",
         "url": "https://twitter.com/etzioni",
-        "followers": 26209
+        "followers": 26210
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 43231
+        "citations": 43252
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
@@ -693,7 +693,7 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14204
+        "followers": 14205
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
@@ -786,14 +786,14 @@
       "twitter": {
         "username": "rosalindpicard",
         "url": "https://twitter.com/rosalindpicard",
-        "followers": 11619
+        "followers": 11620
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 67143
+        "citations": 67216
       },
       "affiliation": {
         "path": "",
@@ -829,11 +829,11 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17446
+        "followers": 17445
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 47327
+        "citations": 47337
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Harry_Shum"
@@ -882,7 +882,7 @@
       "twitter": {
         "username": "TarynSouthern",
         "url": "https://twitter.com/TarynSouthern",
-        "followers": 65430
+        "followers": 65429
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/tarynsouthern/"
@@ -919,11 +919,11 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1522901
+        "followers": 1522907
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
-        "citations": 17743
+        "citations": 17751
       },
       "weibo": {
         "url": "https://www.weibo.com/kaifulee",
@@ -997,7 +997,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 243950
+        "followers": 243947
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"

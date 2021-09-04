@@ -21,11 +21,11 @@ website: https://t.co/rlrjbh9s51
 twitter:
   username: SebastianThrun
   url: https://twitter.com/SebastianThrun
-  followers: 77280
+  followers: 77284
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7K34d7cAAAAJ
-  citations: 128537
+  citations: 128645
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Sebastian_Thrun
