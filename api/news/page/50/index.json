@@ -2,93 +2,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
-      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
-      "excerpt": "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-a-mid-year-tour-of-ai-in-2021-and-what-it-means-for-communications-pros.md",
-      "title": "A Mid-Year Tour Of AI In 2021 — And What It Means For Communications Pros",
-      "excerpt": "The AI industry is evolving quickly, and capturing an accurate snapshot of it at any given time is critical. Experts conduct surveys and research each year to evaluate the current priorities and challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/29/a-mid-year-tour-of-ai-in-2021---and-what-it-means-for-communications-pros/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/29/a-mid-year-tour-of-ai-in-2021---and-what-it-means-for-communications-pros/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe33d661ff84a5b5e2d9ed9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/29/a-mid-year-tour-of-ai-in-2021---and-what-it-means-for-communications-pros/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/07/29/a-mid-year-tour-of-ai-in-2021---and-what-it-means-for-communications-pros/amp/",
-      "publishedDateTime": "2021-07-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-baidu-shows-its-self-driving-ambitions-with-base-in-shanghais-auto-city.md",
       "title": "Baidu Shows Its Self-Driving Ambitions With Base in Shanghai’s Auto City",
       "excerpt": "Located in Shanghai International Automobile City, an automotive industry cluster in the financial hub’s Jiading district, the new 10,000-square-meter Apollo Park is intended to function as a cloud and big data operations center for Baidu’s connected self-driving vehicles,",
@@ -1161,6 +1074,92 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-sean-gallagher-and-an-ai-expert-talk-about-our-crazy-machine-learning-adventure.md",
+      "title": "Sean Gallagher and an AI expert talk about our crazy machine-learning adventure",
+      "excerpt": "Our three-person panel will consisted of Ars Infosec Editor Emeritus Sean Gallagher and me, along with Amazon Senior Principal Technical Evangelist (and AWS expert) Julien Simon. To watch, use the player embedded at the top of this story.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/07/come-talk-with-us-about-machine-learning-experiments-gone-right-and-wrong/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/07/come-talk-with-us-about-machine-learning-experiments-gone-right-and-wrong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Evite-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-modelling-perception-with-artificial-neural-networks.md",
+      "title": "Modelling Perception with Artificial Neural Networks",
+      "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/tc/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
+      "originalUrl": "https://www.cambridge.org/tc/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

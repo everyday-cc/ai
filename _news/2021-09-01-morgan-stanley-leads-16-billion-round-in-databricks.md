@@ -99,20 +99,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "MiaRec Announces Release of Integrated Voice Analytics"
-    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution."
-    publishedDateTime: 2021-08-30T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miarec-announces-release-of-integrated-voice-analytics/article_7f8a4658-e7f8-5346-bd9b-4e549dee94dc.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/91/29119288-540e-516e-84a0-432a491bb592/612d2b1381566.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Databricks, a Data and AI Firm, Finalizes $1.6B Round at $38B Post Money Valuation, to Support Data Lakehouse Adoption"
     excerpt: "Databricks, a data and AI firm, finalizes $1.6B round at $38B post money valuation, to support data lakehouse adoption."
     publishedDateTime: 2021-09-02T22:55:00Z

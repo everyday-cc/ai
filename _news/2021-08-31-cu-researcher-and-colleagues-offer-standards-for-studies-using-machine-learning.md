@@ -35,20 +35,6 @@ related:
         width: 1920
         height: 1285
         isCached: true
-  - title: "Researcher and colleagues offer standards for studies using machine learning"
-    excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce"
-    publishedDateTime: 2021-08-30T18:49:00Z
-    webUrl: "https://www.miragenews.com/researcher-and-colleagues-offer-standards-for-622567/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2018/12/Police2111-8-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
 
 secured: "ue03tjAcBY+U7mMXUJm4/3l3y/7MtoG1P5Dhq0uX+1nbzsoBDjYzYqtP3RX8MUsmAD9gXFLAr5OQMMjDLM/ikNhbU6+/A4leG5EDV8GUo//Fck/+/V7SY5eEfM1mrhKXXFAUSuXTtERG5iOlYp0sqUG2bqLgWw5zN0sJATPua27hPI131Vsb17yy8m+lUr8mwq7B8aGqGqRb3jyOgvhQ7py/NZ6E2HyPwOwXSWD1R9zFH+8jA+9VAqtqDt9bWRkxbQTgZJUcmV1Qygi4Enc04ssnv2KL6WGU6V9Dy3uZCHa4VzxpD1KifVo6srgB8AOFBiQjfqa9QmSxMi3x0BJKOHcPru4Zl5NGl3vdBvWPLqY=;LuKFW6cpX0JmLtK6bURcrw=="
 ---

@@ -2,111 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2021-08-10-run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide.md",
-      "title": "Run your TensorFlow job on Amazon SageMaker with a PyCharm IDE",
-      "excerpt": "As more machine learning (ML) workloads go into production, many organizations must bring ML workloads to market quickly and increase productivity in the ML model development lifecycle. However, the ML model development lifecycle is significantly different from an application development lifecycle. This",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/16/ML1585-image003-1.jpg",
-          "width": 700,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T15:02:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test.md",
-      "title": "SportsBettingDime and OpenAI put AI to the assistant coach test",
-      "excerpt": "SportsBettingDime collaborates with OpenAI to test the viability of making AI an assistant head coach in the NBA or NFL.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/",
-      "originalUrl": "https://venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/AICoach.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/amp/",
-      "publishedDateTime": "2021-08-10T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-11-machine-learning-solution-architect.md",
       "title": "Machine Learning Solution Architect",
       "excerpt": "We are looking for a Machine Learning Solution Architect with expertise in automated machine learning solutions and experience with various MLOps systems, and main ML platforms including Amazon AWS, Azure Machine Learning and GCP. The aim is to first ...",
@@ -1135,6 +1030,92 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-synthesis-ais-head-of-artificial-intelligence-publishes-the-first-book-on-synthetic-data-for-deep-learning.md",
+      "title": "Synthesis AI’s Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning",
+      "excerpt": "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep Learning written by Head of Artificial Intelligence (AI), Sergey Nikolenko.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-truera-open-sources-trulens-neural-network-explainability-for-ml-models.md",
+      "title": "TruEra Open Sources TruLens, Neural Network Explainability for ML Models",
+      "excerpt": "TruEra, which provides the first suite of AI Quality solutions announced today the availability of TruLens, an open source explainability software tool for machine learning models that are based on neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

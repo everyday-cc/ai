@@ -2,92 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-08-18-financial-data-platform-pngme-raises-15-million.md",
-      "title": "Financial Data Platform Pngme Raises $15 Million",
-      "excerpt": "Pngme, a San Francisco-based financial data platform, announced yesterday that it has secured $15 million in Series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/",
-      "originalUrl": "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2021/05/StoneX-Logo.jpg",
-          "width": 424,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/financial-data-platform-pngme-raises-15-million/amp/",
-      "publishedDateTime": "2021-08-18T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-this-new-ai-system-can-translate-natural-language-to-computer-code.md",
-      "title": "This New AI System Can Translate Natural Language To Computer Code",
-      "excerpt": "Advertisement Do you feel like you have an amazing idea for an application but don’t know how to code? Thanks to an artificial intelligence research company named OpenAI, it’s now possible to translate natural English language into programming code!",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
-      "originalUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/08/2020_10largeimg_1328966816.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-system-can-translate-natural-language-to-computer-code/amp/",
-      "publishedDateTime": "2021-08-18T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-18-modelling-perception-with-artificial-neural-networks.md",
       "title": "Modelling Perception with Artificial Neural Networks",
       "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
@@ -862,6 +776,41 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all.md",
+      "title": "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All",
+      "excerpt": "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All. REDWOOD CITY, Calif., Aug. 17, 2021 /PRNewswire/ -- MOLO",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2021/08/17/9432517.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2021/08/17/9432517.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-closedloopai-nets-34m-in-series-b-funding-round.md",
       "title": "ClosedLoop.ai Nets $34M In Series B Funding Round",
       "excerpt": "ClosedLoop.ai., a healthcare platform powered by artificial intelligence, on Tuesday (Aug. 17) announced it has raised $34 million in Series B funding.",
@@ -1085,27 +1034,45 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all.md",
-      "title": "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All",
-      "excerpt": "He founded MOLOCO with the vision of making sophisticated machine learning algorithms available as a cloud service to a wide variety of businesses, industries and use cases. MOLOCO Cloud is a ...",
+      "path": "_news/2021-08-17-this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media.md",
+      "title": "This App Urges Gen Z to Talk It Out Privately, Not Overshare on Social Media",
+      "excerpt": "Mental health apps abound, but with evrmore, the idea is to receive support from the app's cocktail of AI, machine learning, and natural language processing rather than the dopamine drip of social media validation.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html",
+      "webUrl": "https://in.pcmag.com/mobile-apps/144335/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
+      "originalUrl": "https://in.pcmag.com/mobile-apps/144335/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/t/this-app-u/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare_n7eb.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:03:00-07:00",
+      "publishedDateTime": "2021-08-17T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1114,9 +1081,59 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-when-your-teacher-is-an-ai-avatar.md",
+      "title": "When your teacher is an AI avatar",
+      "excerpt": "Natalie Monbiot, head of strategy at Hour One, explains to Tonya Hall how digital avatars could expand the reach of online education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
+      "originalUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/17/7a1c3acf-bd9b-49cf-b428-a124026eb375/thumbnail/770x578/cf74f2a944f82fd6bc4128ea1210553f/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

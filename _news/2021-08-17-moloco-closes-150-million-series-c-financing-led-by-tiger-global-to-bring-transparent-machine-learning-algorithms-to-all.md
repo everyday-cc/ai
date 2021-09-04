@@ -1,21 +1,21 @@
 ---
 category: news
 title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-excerpt: "He founded MOLOCO with the vision of making sophisticated machine learning algorithms available as a cloud service to a wide variety of businesses, industries and use cases. MOLOCO Cloud is a ..."
-publishedDateTime: 2021-08-17T15:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html"
-webUrl: "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html"
+excerpt: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All. REDWOOD CITY, Calif., Aug. 17, 2021 /PRNewswire/ -- MOLO"
+publishedDateTime: 2021-08-17T16:25:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9432517.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9432517.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "iYyrGZCwHam7fFN8pvNgYH3hKpk/RkkQ+GcBO4uV9YuITuybTQUKeoYw2zRrolqOEzN17TgYNXWxgS5xt0TLJRCd+bHcmPjrBYRbswe+bXyhIp80mtNQTbM7+6DuGNZi8gYmc2uHLsYIBrvS3m2vcxPiW7V6Tk2O7X3iOJRB2BaBOTkw5MV9d31M2us4Y8XHrZL2f5JTkG++W5FbdEiHjXtO8VA+Vu/uDOxYXCezIAHvKFJajaY0xnUuUOfas7WwAawsilfU7t/yhL9KiDg4+driNn47RRBYu90l/oHANk5dSRAjaaMVgCxCAANWp3iydBky6dDwIjNEtVlaYpjaa9gl29FyY/E2SoL8pjoQZ9s=;ciDq/xe24PRPyh4RMAEQmw=="
+secured: "Dk+C7ePL1sGjavHqt11g+VmTE0gwAKvoRmQPob3ViTe9efjd/5rgLXRBZ7hy4Suwo/5IcOyUiA6Woqc99s3ONyCazlBrO+fDZ3JZTneoau1ahqPWcNLUkF2E+vDiDiDGXPnow+ckXEpSXUYbPGfldJ15Tze5HUqo2RHUtOnQ750ZTdJrzf3BQUh2mVB7G98M2F8e9ZKENzulK78d4cX0jsBioP9/6GwT1mzMUTVoFksvyYM9Db9fng1nQBAfP5jZOakVL5lGwoMRe1H8uRgu9/c0YKF0TtIQE6hCusMqIxFCV1JwM4da+KDFZbyhSOuS/AJvDs1JGJhyS/cKfP3BErzzjbCYMjLhwgTOdRdqq/M=;rGWnWH5iTr7h6t9qZVAHgA=="
 ---
 

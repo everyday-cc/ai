@@ -2,92 +2,6 @@
   "page": 51,
   "value": [
     {
-      "path": "_news/2021-07-28-sean-gallagher-and-an-ai-expert-talk-about-our-crazy-machine-learning-adventure.md",
-      "title": "Sean Gallagher and an AI expert talk about our crazy machine-learning adventure",
-      "excerpt": "Our three-person panel will consisted of Ars Infosec Editor Emeritus Sean Gallagher and me, along with Amazon Senior Principal Technical Evangelist (and AWS expert) Julien Simon. To watch, use the player embedded at the top of this story.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2021/07/come-talk-with-us-about-machine-learning-experiments-gone-right-and-wrong/",
-      "originalUrl": "https://arstechnica.com/information-technology/2021/07/come-talk-with-us-about-machine-learning-experiments-gone-right-and-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Evite-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-modelling-perception-with-artificial-neural-networks.md",
-      "title": "Modelling Perception with Artificial Neural Networks",
-      "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/tc/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
-      "originalUrl": "https://www.cambridge.org/tc/academic/subjects/life-sciences/neuroscience/modelling-perception-artificial-neural-networks?format=HB&isbn=9780521763950",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-28-deepminds-xlearn-trains-ai-agents-to-complete-complex-tasks.md",
       "title": "DeepMind’s XLearn trains AI agents to complete complex tasks",
       "excerpt": "DeepMind designed a virtual environment called XLand to train systems to succeed at problems and games, even those they haven't encountered.",
@@ -1164,6 +1078,92 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-chipmaker-ampere-to-acquire-ai-startup-onspecta.md",
+      "title": "Chipmaker Ampere to acquire AI startup OnSpecta",
+      "excerpt": "Chipmaker Ampere on Wednesday announced its plan to acquire OnSpecta, a startup whose software accelerates AI inference workloads in the cloud and the edge. The terms of the deal were not disclosed. OnSpecta,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "publishedDateTime": "2021-07-27T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-baidus-success-is-pivotal-to-chinas-ai-transformation.md",
+      "title": "Baidu's Success Is Pivotal To China's AI Transformation",
+      "excerpt": "Apollo Self Driving or ASD, though a small base, grew over 5x from last year. China's Big Tech Investments in AI. Data source: Intel and Deloitte While Baidu is clearly the leader when it comes to ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "originalUrl": "https://seekingalpha.com/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1183684002/medium_image_1183684002.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "publishedDateTime": "2021-07-27T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

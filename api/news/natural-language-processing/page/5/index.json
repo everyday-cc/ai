@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-07-19-building-mlgui-user-interfaces-for-machine-learning-applications.md",
-      "title": "Building MLGUI, user interfaces for machine learning applications",
-      "excerpt": "In this interview, KPMG's Philip Vollet talks about why building user interfaces is necessary to unlock AI's true potential.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/kelly-sikkema-gcHFXsdcmJE-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/building-mlgui-user-interfaces-for-machine-learning-applications/amp/",
-      "publishedDateTime": "2021-07-19T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-07-19-scaling-ai-and-data-science-10-smart-ways-to-move-from-pilot-to-production.md",
       "title": "Scaling AI and data science – 10 smart ways to move from pilot to production",
       "excerpt": "Taking steps that help overcome bottlenecks in data and data scientists is key to extracting value from AI investments.",
@@ -1462,6 +1409,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
+      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
+      "excerpt": "Meanwhile, Brain Ventures has developed an AI video content automatic translator and short answer ... and communicates with human languages.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "originalUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "publishedDateTime": "2021-07-09T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

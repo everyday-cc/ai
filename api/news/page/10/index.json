@@ -2,111 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-08-26-enabling-student-success-what-were-learning-from-distance-and-hybrid-education.md",
-      "title": "Enabling Student Success: What We’re Learning From Distance And Hybrid Education",
-      "excerpt": "Make online, hybrid, and in-the-classroom Like many parents and guardians, I felt unprepared to take over the day-to-day management of my household’s learning during the pandemic. Despite being involved in online education for over a decade—first as the founding president of Khan Academy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/08/25/enabling-student-success-what-were-learning-from-distance-and-hybrid-education/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/08/25/enabling-student-success-what-were-learning-from-distance-and-hybrid-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123e05c5be46a78852e80fa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1439%26cropY1%3D0%26cropY2%3D808",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/08/25/enabling-student-success-what-were-learning-from-distance-and-hybrid-education/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/08/25/enabling-student-success-what-were-learning-from-distance-and-hybrid-education/amp/",
-      "publishedDateTime": "2021-08-25T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-speech-to-text-software-free-vs-paid-apps-whats-the-difference.md",
-      "title": "Speech to text software: free vs paid apps - what's the difference?",
-      "excerpt": "Looking for the best speech to text software? The best place to start your search is by deciding whether you’re willing to pay for an app or not. There are plenty of free options on the market for anyone looking for a one-off voice to text task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference/",
-      "originalUrl": "https://www.techradar.com/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/thNbgEHPbMCLXu5jDXUXJL-1200-80.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/speech-to-text-software-free-vs-paid-apps-whats-the-difference",
-      "publishedDateTime": "2021-08-25T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-25-valued-to-be-93-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth-worldwide.md",
       "title": "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide",
       "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its",
@@ -1222,6 +1117,109 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-microsoft-teams-now-teachers-can-monitor-students-reading-fluency-with-ai.md",
+      "title": "Microsoft Teams: Now teachers can monitor students' reading fluency with AI",
+      "excerpt": "Reading Progress will help teachers build students' confidence and reading fluency at a time when face-to-face contact is less frequent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/25/ff85b97e-6397-4e80-9b0e-d4c6a7f94694/teams-reading-progress.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "publishedDateTime": "2021-08-24T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse.md",
+      "title": "Alethea AI raises $16M in private token sale for intelligent NFTs for the metaverse",
+      "excerpt": "Alethea AI, creator of the \"intelligent NFTs,\" or iNFTs, has raised $16 million in a private token sale to a group of investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/alice.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
+      "publishedDateTime": "2021-08-24T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

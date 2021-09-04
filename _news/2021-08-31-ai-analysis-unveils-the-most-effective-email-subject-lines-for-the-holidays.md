@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ai-analysis-unveils-the-most-effective-email-subject-lines-for-the-holidays/amp/"
 type: article
 quality: 187
-heat: 188
+heat: 187
 published: true
 
 provider:

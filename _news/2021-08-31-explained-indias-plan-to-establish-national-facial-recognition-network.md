@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jagranjosh.com/general-knowledge/amp/explained-indias-plan
 cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/explained-indias-plan-to-establish-national-facial-recognition-network-1630396385-1"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NtechLab supplies facial recognition for Indian Railways, but privacy legislation still pending"
-    excerpt: "NtechLab is implementing a facial recognition surveillance project in India intended to monitor the movement of train commuters."
-    publishedDateTime: 2021-08-30T18:39:00Z
-    webUrl: "https://www.biometricupdate.com/202108/ntechlab-supplies-facial-recognition-for-indian-railways-but-privacy-legislation-still-pending"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 42
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
   - title: "Government agencies used Clearview facial recognition in 24 countries"
     excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
     publishedDateTime: 2021-08-31T11:03:00Z

@@ -80,17 +80,6 @@ related:
         width: 1280
         height: 596
         isCached: true
-  - title: "Zebra to acquire artificial intelligence software company"
-    excerpt: "Zebra Technologies Monday said it intends to acquire Antuit.ai, a provider of artificial intelligence-powered software solutions specific to forecasting and merchandising for the retail and consumer packaged goods industries."
-    publishedDateTime: 2021-08-30T18:24:00Z
-    webUrl: "https://www.dailyherald.com/business/20210830/zebra-to-acquire-artificial-intelligence-software-company"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20210830/business/210839944/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20210830/business/210839944/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 37
   - title: "Sitecore Acquires AI-Powered Digital Search Platform Reflektion"
     excerpt: "Sitecore®, the global leader in digital experience management software, today announced the acquisition of San Mateo-based Reflektion, an AI-powered digital search platform that understands and predicts patterns,"
     publishedDateTime: 2021-09-02T15:05:00Z

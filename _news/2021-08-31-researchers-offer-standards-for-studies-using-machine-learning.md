@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-08-standards-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-standards-machine.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techxplore.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researcher and colleagues offer standards for studies using machine learning"
-    excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce"
-    publishedDateTime: 2021-08-30T18:49:00Z
-    webUrl: "https://www.miragenews.com/researcher-and-colleagues-offer-standards-for-622567/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 36
-    images:
-      - url: "https://mypolice.qld.gov.au/wp-content/uploads/2018/12/Police2111-8-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Cu researcher and colleagues offer standards for studies using machine learning"
     excerpt: "Researchers in the life sciences who use machine learning for their studies should adopt standards that allow other researchers to reproduce their results, according to a comment article published today in the journal Nature Methods."
     publishedDateTime: 2021-08-30T20:27:00Z

@@ -261,7 +261,7 @@
       "originalUrl": "https://www.edsurge.com/news/2021-09-02-an-edtech-user-s-glossary-to-speech-recognition-and-ai-in-the-classroom",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -304,7 +304,7 @@
       "originalUrl": "https://www.hongkiat.com/blog/ai-in-iot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -590,6 +590,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-02-federal-agencies-to-increase-facial-recognition-use-gao-finds.md",
+      "title": "Federal Agencies to Increase Facial Recognition Use, GAO Finds",
+      "excerpt": "The Government Accountability Office recently released a report detailing the past and future uses of facial recognition technology within 24 federal agencies. The report found that nearly half plan to increase use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds",
+      "originalUrl": "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true",
+      "publishedDateTime": "2021-09-01T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2.md",
       "title": "Ambarella Analysts Laud Accelerating Computer Vision Momentum Following Blowout Q2",
       "excerpt": "Morgan Stanley analyst Joseph Moore maintained an Overweight rating and $137 price target for Ambarella shares. Rosenblatt Securities analyst Kevin Cassidy maintained a Buy rating and increased the price target from $145 to $160.",
@@ -683,49 +726,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium.md",
-      "title": "Feds are increasing use of facial recognition systems – despite calls for a moratorium",
-      "excerpt": "Politicians of all stripes, computer professionals and even big-tech executives are calling on government to hit the brakes on using these algorithms. The feds are hitting the gas.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913",
-      "originalUrl": "https://theconversation.com/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/418725/original/file-20210831-17-1g1kwc7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=239&fit=crop",
-          "width": 320,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913",
-      "publishedDateTime": "2021-09-01T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

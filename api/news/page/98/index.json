@@ -2,100 +2,6 @@
   "page": 98,
   "value": [
     {
-      "path": "_news/2021-06-25-why-ethical-ai-wont-catch-on-anytime-soon.md",
-      "title": "Why Ethical AI Won't Catch On Anytime Soon",
-      "excerpt": "While there has been a good deal of discussion about the use of AI in enterprises and the possibility of building ethical AI strategies, new research indicates that even 10 years from today, it is unlikely that ethical AI design will be widely adopted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/",
-      "originalUrl": "https://www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/0ec4df5f96ba4d2ead37feaffe2c3180.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/amp/",
-      "publishedDateTime": "2021-06-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge.md",
-      "title": "Zero trust startup Illumio raises $225M to protect multicloud and edge",
-      "excerpt": "Zero trust security expert Illumio raised $225 million in a funding round led by Thoma Bravo, others. Channel expansion is among goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/",
-      "originalUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1182955043-e1619720482359.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/",
-      "publishedDateTime": "2021-06-24T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-the-future-of-mobility-5-transportation-technologies-to-watch-out-for.md",
       "title": "The future of mobility: 5 transportation technologies to watch out for",
       "excerpt": "From autonomous vehicles to flying taxis, the future of mobility and transportation is set to change dramatically in the next few decades. Here's a preview",
@@ -1177,6 +1083,100 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-appzen-launches-finance-ai-appstore.md",
+      "title": "AppZen Launches Finance AI AppStore",
+      "excerpt": "AppZen, a modern finance AI software platform, announced the launch of the AppZen AppStore Thursday. What Happened: The development comes as AppZen looks to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
+      "originalUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/pexels-andrea-piacquadio-3774903_0.jpg",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21696443",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21696443",
+      "publishedDateTime": "2021-06-24T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-walmarts-ai-is-getting-smarter-about-grocery-delivery.md",
+      "title": "Walmart’s AI is getting smarter about grocery delivery",
+      "excerpt": "It’s no surprise that the coronavirus pandemic has changed the way we shop, especially when it comes to groceries. Grocery delivery apps experienced a record number of downloads in March 2020, and by the following month,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/",
+      "originalUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-23-at-10.53.02-AM.png?w=680",
+          "width": 680,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/",
+      "publishedDateTime": "2021-06-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

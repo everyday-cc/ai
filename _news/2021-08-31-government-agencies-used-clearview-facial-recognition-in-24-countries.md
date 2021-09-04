@@ -41,20 +41,6 @@ related:
         width: 450
         height: 232
         isCached: true
-  - title: "NtechLab supplies facial recognition for Indian Railways, but privacy legislation still pending"
-    excerpt: "NtechLab is implementing a facial recognition surveillance project in India intended to monitor the movement of train commuters."
-    publishedDateTime: 2021-08-30T18:39:00Z
-    webUrl: "https://www.biometricupdate.com/202108/ntechlab-supplies-facial-recognition-for-indian-railways-but-privacy-legislation-still-pending"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 42
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
 
 secured: "FVmT5u1FFUXdsyBjLkF+RgmCiEHl/RCZblGJOENbVNad9uQchk3e8dB2fgWG0pglYROfqGz8zlTKh8VShqn12el5FNub/2CERtaa2bMIMkC49BaY9yZ+VPCGnllgAfi2ZyzfN+WY8izF1tvBpXcnR3a2UGRFcFzqVJnPKYAMyPB+XHkLQ3RBMStP5MX3yTkrhtoWaZKAdd0lpWq7nGXVOz0qkPOD4jixICCSlGsI7Qv+wcXafHlVG4tqX3VK/uG29xGgiAYU6ix/TbXVZeAm5k9hI0PjZxvt5bs/CQ60j4xIN/KFpBpHD78PX2eW5njsUsPlS7W76liuysqQJF6KNtNo9Jx//ljbBJeAw8Kj8bU89G+2RbmGm9SpDlIwMvAnEgBGeCYfvIUpXPwfqa19kI+iwIBjgp+mRUdi5ollXv7k1TeE3IAbRnXMYX4rc7z4lfO8nXktJz8Iu4gy+0Ij5xobWJZ7eusY5zIt06AMMczDODEQzr3YsPBqiWgJsTAlmoM4NoyhoGXcDLsMiYrKCA==;jyXYNWQiiEYaOk3eclTsvQ=="
 ---

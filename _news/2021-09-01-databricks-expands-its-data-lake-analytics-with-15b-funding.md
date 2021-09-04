@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/31/databricks-expands-its-data-lake-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/databricks-india.jpeg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "MiaRec Announces Release of Integrated Voice Analytics"
-    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution."
-    publishedDateTime: 2021-08-30T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miarec-announces-release-of-integrated-voice-analytics/article_7f8a4658-e7f8-5346-bd9b-4e549dee94dc.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/91/29119288-540e-516e-84a0-432a491bb592/612d2b1381566.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Morgan Stanley leads $1.6 billion round in Databricks"
     excerpt: "Databricks, the Data and AI company, today announced a $1.6 Billion round of funding to accelerate innovation and adoption of the data lakehouse, as the data architecture’s popularity across data-driven organizations continues to grow at a rapid pace."

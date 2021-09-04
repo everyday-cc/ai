@@ -52,6 +52,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Paravision, Trust Stamp, Advance.AI add new talent"
+    excerpt: "A number of companies in the biometrics and digital ID space announce the appointment of new talent this week including Paravision, Trust Stamp and Advance.AI."
+    publishedDateTime: 2021-09-03T18:08:00Z
+    webUrl: "https://www.biometricupdate.com/202109/paravision-trust-stamp-advance-ai-add-new-talent"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg"
+        width: 1080
+        height: 511
+        isCached: true
   - title: "The Proliferation of Weaponized Artificial Intelligence"
     excerpt: "Over the past decade, the growing sophistication of machine learning and AI have allowed these systems to be weaponized with concerning implications for cybersecurity. This has created an arms race between cybersecurity professionals and bad actors that will only get worse,"
     publishedDateTime: 2021-08-31T12:12:00Z

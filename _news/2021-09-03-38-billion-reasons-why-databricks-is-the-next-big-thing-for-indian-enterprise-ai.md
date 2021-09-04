@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "MiaRec Announces Release of Integrated Voice Analytics"
-    excerpt: "MiaRec, provider of award-winning voice AI solutions, announced a major analytics update to its call recording and quality assurance solution."
-    publishedDateTime: 2021-08-30T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miarec-announces-release-of-integrated-voice-analytics/article_7f8a4658-e7f8-5346-bd9b-4e549dee94dc.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/91/29119288-540e-516e-84a0-432a491bb592/612d2b1381566.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Morgan Stanley leads $1.6 billion round in Databricks"
     excerpt: "Databricks, the Data and AI company, today announced a $1.6 Billion round of funding to accelerate innovation and adoption of the data lakehouse, as the data architecture’s popularity across data-driven organizations continues to grow at a rapid pace."
     publishedDateTime: 2021-09-01T11:39:00Z
@@ -125,6 +111,6 @@ related:
       domain: crowdfundinsider.com
     quality: 15
 
-secured: "AaeFvd5kzv8UGj6RSewtv1aQFATV4IVIlxGbn7icgqI9pfTw7bC1QtFLV1cHFmL8S9wDUARlyMGEwos5r5vjOxlRtCEy3mEZWEzbe+TgUe4Z4Sqw0ztxvyXiVFTSOdgemiQD8CCMiCS5YrEYJ2yFHvNa1mktsLOQRbFxjJqxxf5h8hTI+xolZXtGR3iPavLatVeIHcp8939zcrSzZE0rmLBAkCTm87sNAPG+2VB1Ur1IR4+87Y8/lFr0Zru0y3as2q+AKoNZu5xT6MM5QRluJuLMAojp6ZkquDAPZUW9dlwptwBNimlFjCaJ/hs8/ma7VQa2WMFTTfDPxxkYo3Cok/LnH75iOVDJo7JUS5IC2/k=;t9DF3iF6kntwf270UcLnNQ=="
+secured: "rWZB7BCsDVrC/qY0B+06hvwYLB3pskPXTsutz8pggaaTwawXwEvlQ7/z0fGp36BT1/EVl+gWNAIJFVEb6adyuBPxC7Mlxu8NBloqGEb0obYxzTkTCyaZEcsFaImUwMVZ8VoCFWm0san6ekyRrm6bB1+Unstx3H07w1nA5E6HJE+FRcjdC+UFtbO/8fESLck2kzS5PUr3RG+R0xg5kNV9ONCVbd73wXBukpiYDuVZsT0iLBXpssb1f9LPOA9rkAoLD/JkOz1BSNk+4KGSUUlqzFNEM9YIAkxEwpVDkaJNpg8+Vx+WZRe5LlgFAKF+iujkQn+/2XiGKwLbkhkSkGbJDEJLUa/kOYN9zsomHlB/keCtkNX9QTwwBOiNN+UMGk6PRkVWkwJKRKKix8ePwpSSD5y2JbZ9AeMp7EX0WCbeQNvx58LIIVJ0gSLg8srej9BRfLRqEQk1tWRk4goCEhIjMvnRCM5v2BpqHkAaOtt8tseynOiJu4ee4B49eR9P4KSiN0rthe4YxS66vH/zCOPmog==;K5M+0kZbfcS9/LgdDWZ4VA=="
 ---
 

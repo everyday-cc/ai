@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1459
         isCached: true
-  - title: "This Company Wants To Put Your Face In Advertisements By Making Deepfake Clones With AI"
-    excerpt: "Advertisement With every passing day, scientists and researchers are coming up with ways to incorporate technology in ways that were not known before. This brings innovation, convenience, and improved living standards in our lives."
-    publishedDateTime: 2021-08-30T17:36:00Z
-    webUrl: "https://wonderfulengineering.com/this-company-wants-to-put-your-face-in-advertisements-by-making-deepfake-clones-with-ai/"
-    ampWebUrl: "https://wonderfulengineering.com/this-company-wants-to-put-your-face-in-advertisements-by-making-deepfake-clones-with-ai/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-wants-to-put-your-face-in-advertisements-by-making-deepfake-clones-with-ai/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 49
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/109129822_19845043-8e5a-4bb4-a8af-b7269659a838.jpg"
-        width: 976
-        height: 549
-        isCached: true
   - title: "How AI Upscaling Can Help Remaster Game Art"
     excerpt: "Mass Effect Legendary Edition is one of the first high-profile titles to use AI texture upscaling, but how does it work?"
     publishedDateTime: 2021-08-31T17:07:00Z

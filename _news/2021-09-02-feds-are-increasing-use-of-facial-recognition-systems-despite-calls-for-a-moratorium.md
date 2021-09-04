@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/feds-are-increasing-use-of-facial-re
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Conversation
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Federal Agencies to Increase Facial Recognition Use, GAO Finds"
+    excerpt: "The Government Accountability Office recently released a report detailing the past and future uses of facial recognition technology within 24 federal agencies. The report found that nearly half plan to increase use."
+    publishedDateTime: 2021-09-01T22:38:00Z
+    webUrl: "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds"
+    ampWebUrl: "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Largs Academy pupils to use facial recognition system"
     excerpt: "Largs Academy pupils will be able to use facial recognition inside the school. The new technology will be used to buy contactless school meals and all in-school catering purchases. The technology will be launched later this year to replace Parent Pay."
     publishedDateTime: 2021-09-03T10:12:00Z
@@ -40,34 +56,6 @@ related:
       - url: "https://www.largsandmillportnews.com/resources/images/12694389/"
         width: 2400
         height: 1596
-        isCached: true
-  - title: "Why civil liberty groups are fighting for facial recognition ban: ‘It’s intrusive and dangerous’"
-    excerpt: "And is the omnipresence of LFRT (live facial recognition technology) actually making our lives safer or creating more dangers and division? Those campaigning to ban it argue there is no safe way of using LFRT in public spaces due to the fact it could worsen police treatment of minority communities and totally change the relationship between the individual and the state."
-    publishedDateTime: 2021-09-01T10:21:00Z
-    webUrl: "https://leftfootforward.org/2021/09/why-civil-liberty-groups-are-fighting-for-facial-recognition-ban-its-intrusive-and-dangerous/"
-    type: article
-    provider:
-      name: Left Foot Forward
-      domain: leftfootforward.org
-    quality: 26
-    images:
-      - url: "https://leftfootforward.org/images/2021/09/Quadcopter_camera_drone_in_flight-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "S. China’s Shenzhen to increase penalty for illegal installation of cameras, face-recognition systems"
-    excerpt: "Shenzhen in South China’s Guangdong Province will increase penalties for illegal installation of cameras and face recognition systems with the maximum fine of 50,000 yuan ($7,732.04) for individual and 200,"
-    publishedDateTime: 2021-08-31T02:35:00Z
-    webUrl: "https://www.globaltimes.cn/page/202108/1232905.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 9
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2019/2019-09-10/b2ba76bf-45cf-46af-8337-a4e8e4ae8862.jpeg"
-        width: 500
-        height: 300
         isCached: true
 
 secured: "JrMHRgFRduV29yIRMKaDL589IHh62pq/euCRl0k/LAicsRKXbuClnglsjGi9FlGME2ZNxGFB0fMTQXJr5kxIYwD2W9o/AV5QTsVQCx6rPQKQuN1XowGRGqThhR7scM3BoysBuw1Svusz3XRScrZF35Wmm4Eiksy1yXnBxP+kMavT7WXVeCG9aC+LM6Gg9U+LZFCmbKg3fSe733P0guOWg37Y6HSGo7UkIJStxBXyuH7hnE68P3WdkPcIloilMpu1naeeSBlLeqLW0Dy3H5iLUGWntHQ7pWS3LXrUVyuW4UuA6NOVmMqbim1socot48v/U1jGERNFJ2j/xPBhQqPkOiNWxDHkzlXh61YaBdMbYWUkBA7fNRgs95MzsCkpyLGLL1xgEW4M3UBsxkWqGUSgs0DBIi32Cbh5e2mZvqIdRJDCknzwQnctfVh5Uz8B1pp3AVaVo1HBytMGksFj7bz0wWhwB9XAYr5XBYIn03kAkBZNbLZpgQu8zFqOqlAYjmwN67Y/CE2IP7ZLys11l1DkTQ==;Uc3XGopUFLb8A7EhGS7Mfw=="

@@ -2,92 +2,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2021-07-28-chipmaker-ampere-to-acquire-ai-startup-onspecta.md",
-      "title": "Chipmaker Ampere to acquire AI startup OnSpecta",
-      "excerpt": "Chipmaker Ampere on Wednesday announced its plan to acquire OnSpecta, a startup whose software accelerates AI inference workloads in the cloud and the edge. The terms of the deal were not disclosed. OnSpecta,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
-      "publishedDateTime": "2021-07-27T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-baidus-success-is-pivotal-to-chinas-ai-transformation.md",
-      "title": "Baidu's Success Is Pivotal To China's AI Transformation",
-      "excerpt": "Apollo Self Driving or ASD, though a small base, grew over 5x from last year. China's Big Tech Investments in AI. Data source: Intel and Deloitte While Baidu is clearly the leader when it comes to ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
-      "originalUrl": "https://seekingalpha.com/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1183684002/medium_image_1183684002.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
-      "publishedDateTime": "2021-07-27T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-28-data-brief-only-12-pct-of-healthcare-firms-use-ai-to-fight-fraud-waste-abuse.md",
       "title": "Data Brief: Only 12 Pct Of Healthcare Firms Use AI To Fight Fraud, Waste, Abuse",
       "excerpt": "More fraud and abuse in healthcare billing scams can fail thanks to artificial intelligence (AI) and its ability to see red flags and stop this activity.",
@@ -1123,6 +1037,111 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
+      "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
+      "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T09:10:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-deep-learning-qa-whats-coming-next-with-francois-chollet.md",
+      "title": "Deep Learning Q&A: What’s Coming Next With Francois Chollet",
+      "excerpt": "Francois Chollet needs no introduction for most of the artificial intelligence (AI) and m (ML) community. Besides being the creator of the deep-learning library Ker",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb448024198515808ea197%2F0x0.jpg",
+          "width": 797,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
+      "publishedDateTime": "2021-07-27T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
