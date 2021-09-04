@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "Waymo"
   url: "https://twitter.com/Waymo"
-  followers: 68497
+  followers: 68499
 
 size: 1,001-5,000 employees
 yearFounded: 2009
