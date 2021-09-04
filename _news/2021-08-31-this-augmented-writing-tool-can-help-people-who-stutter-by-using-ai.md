@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-hel
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://cdn.techreport.com/wp-content/uploads/2021/08/artificial-intelligence-enterprise-recruiting.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "New study will use artificial intelligence to improve treatments for people with multiple long-term conditions"
-    excerpt: "The NIHR has awarded £2.5 million for research that will use artificial intelligence to produce computer programmes and tools to help doctors improve the choice of drugs in patients with multiple long-term conditions."
-    publishedDateTime: 2021-09-03T12:56:00Z
-    webUrl: "https://www.birmingham.ac.uk/university/colleges/mds/news/2021/09/ai-treatments-long-term-conditions.aspx"
-    type: article
-    provider:
-      name: birmingham.ac.uk
-      domain: birmingham.ac.uk
-    quality: 19
-    images:
-      - url: "https://www.birmingham.ac.uk/images/news/artificial-intelligence-720.jpg"
-        width: 720
-        height: 480
         isCached: true
 
 secured: "0pDv6DkeL7JMCxZ0GJBrq0FFtzNQsR6NwIaayI4ce0jcQrAEP/Tm7ICOfBkVwFHms6GlisB37OjjqcNzmmW0TkeGKqrqRzRjyH9Mt6s3bEQkChYPA6jTKinvOmxwEC+/oAfVawWrBKaB+ibnDBOU0Taf0UV5GxQnptG23zM5WlYkea5HlU2fjeLsTdzGRM8vBat1D0FvN7fI8SL/seHrJcOzPiRoZvp0/fyLTN89XNDeTDkzC4i1eydzlzCgxmRWjLuvITO1uucy6OKcluV3K6frHztywYKzbbpFIION12lfiRBIu1jSGLyQqXi4fIiLqQYN6XuH5trhbtNNuGDxJi9fhRcWl1ybkiCiTb0rO38=;0OJgJK76ieAEPsEWZhLGmQ=="

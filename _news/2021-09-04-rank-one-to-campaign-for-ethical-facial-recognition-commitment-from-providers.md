@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-et
 webUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers"
 type: article
 quality: 68
-heat: 89
+heat: 88
 published: true
 
 provider:

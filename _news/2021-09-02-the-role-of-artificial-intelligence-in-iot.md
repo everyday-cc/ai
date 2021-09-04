@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hongkiat.com/blog/ai-in-iot/amp/"
 cdnAmpWebUrl: "https://www-hongkiat-com.cdn.ampproject.org/c/s/www.hongkiat.com/blog/ai-in-iot/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 91
 published: true
 
 provider:

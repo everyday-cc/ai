@@ -2,48 +2,6 @@
   "page": 71,
   "value": [
     {
-      "path": "_news/2021-07-15-holly-herndon-releases-ai-deepfake-tool-that-lets-others-make-music-with-her-voice.md",
-      "title": "Holly Herndon Releases AI Deepfake Tool That Lets Others Make Music With Her Voice",
-      "excerpt": "W]e think we have found a way to allow people to perform through my voice, reduce confusion by establishing official approval, and invite everyone to benefit from the proceeds generated",
-      "sourceUrl": null,
-      "webUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/",
-      "originalUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2021/07/602ce97df0ac5c08e9c98d5578bbe38e54167b86.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/",
-      "publishedDateTime": "2021-07-14T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure.md",
       "title": "Lambda Labs raises $15M for AI-optimized hardware infrastructure",
       "excerpt": "Among these are the TensorBook, a laptop with a dedicated GPU, and a workstation product with up to four desktop-class GPUs for AI training. Lambda also offers servers including one designed to be ...",
@@ -1214,6 +1172,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-zillow-utilizes-explainer-ai-data-to-revolutionize-how-people-sell-houses.md",
+      "title": "Zillow utilizes explainer AI, data, to revolutionize how people sell houses",
+      "excerpt": "Zillow's Stan Humphries discusses how the company uses AI such as computer vision and NLP to change how people sell houses at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/08/real-estate-zillow.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/zillow-utilizes-ai-data-to-revolutionize-how-people-sell-houses/amp/",
+      "publishedDateTime": "2021-07-14T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

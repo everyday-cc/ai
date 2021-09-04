@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

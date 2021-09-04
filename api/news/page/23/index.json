@@ -2,49 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-08-17-deleting-unethical-data-sets-isnt-good-enough.md",
-      "title": "Deleting unethical data sets isn’t good enough",
-      "excerpt": "The AI research community has tried to scrub away ... research using the collection of faces was conducted by companies including Facebook, IBM, Baidu, and SenseTime, one of China’s largest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/08/13/1031836/ai-ethics-responsible-data-stewardship/",
-      "originalUrl": "https://www.technologyreview.com/2021/08/13/1031836/ai-ethics-responsible-data-stewardship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/08/AI-scrub2b.jpg?w=2916",
-          "width": 2916,
-          "height": 1640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/08/13/1031836/ai-ethics-responsible-data-stewardship/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/13/1031836/ai-ethics-responsible-data-stewardship/amp/",
-      "publishedDateTime": "2021-08-17T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-solve-your-toughest-business-problems-with-ai-and-machine-learning.md",
       "title": "Solve your toughest business problems with AI and machine learning ",
       "excerpt": "Today, AI and machine learning are enabling data-driven organizations to accelerate their journey to insights and decisions. With all the latest advancements, AI is no longer limited to only those with deep expertise or a cache of data scientists, and many organizations can now adopt AI and machine learning",
@@ -1139,6 +1096,40 @@
         "AI in Finance",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-upstart-holdings-vs-360-finance-which-fintech-stock-is-a-better-choice.md",
+      "title": "Upstart Holdings vs. 360 Finance: Which FinTech Stock is a Better Choice?",
+      "excerpt": "Fintech companies have been in the limelight owing to a significant increase in remote financial transactions amid the COVID-19 pandemic. The trend is expected to continue in the foreseeable future thanks to rapid digitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
+      "originalUrl": "https://stocknews.com/news/qfin-upst-upstart-holdings-vs-360-finance-which-fintech-stock-is-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stocknews.com/single-snippet-page/amp/",
+      "cdnAmpWebUrl": "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/",
+      "publishedDateTime": "2021-08-16T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stock News",
+        "domain": "stocknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2021-09-02-an-edtech-user-s-glossar
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-09-02-an-edtech-user-s-glossary-to-speech-recognition-and-ai-in-the-classroom"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         height: 427
         isCached: true
 
-secured: "y3XHjlqy1Q84FIbO0KDFWXRmzJuS9yfclfV36e4TAvBq7M5vP6cQbqUkJ7eDdIl0zggDBt0OdEP+kirpcsOpndyXkx/Blnd7cpqG+qvPaJSLo5yq1EaViKLSuzXZOd6H4vXk8hBMHtVPevOmyOM1LvXWuY2WmjqaJvbT8E6EXeOZQCnHrRggTXx3TSHOIIhbVY78wEGiFjFI4OGHpCJRGDx2WsoOEScQL1Vj29TiHdv2ZbZ2V/h4ptmC2IHxPUlfbSk1mIupoXXWtJPTxCbZ/MP3TpbOxYdCzBs2MZsZWO2AK5TDI0a+q4wLkh+ulNlR7jfSppD3bovp0vOhKvgOUM/SiRzkOXCTgR5fkNYFN/c=;h8lNZzzjqKhz2aP9pSqeUQ=="
+secured: "+1oeLnJGfRAGYuQUMqJWJcfWTgK069p9mpQ0QTvqkc9sCcOWJ/GgBsYKUWEKuBYDApU45/VRwUHs3V9UlqabF7aqWqxB2MebX8QmpiifHzo2rCQmKkjIZKtUVCS9nX0SaLLUk0M3eZLysQNsHGn5CIPgx6Bed4XPqivPISUtX1n4nn0UwS7KPpHqVZkV3IsocU5WFCuCEFyWzr4EdbPOJaID8rafbyh4csNGcltbFEs3nmpZXWNJgK+OTOb7OCC4gNLOg5HtocPj9D+U7rOkpfj/E/2dM9/KnQv3Y1XMLOPYiOls1d3n7l/fYatGxaLJrKct2/J9fF2nCPHF7SNnxeaDKSX0xWgN0rq/BY1Irp/z3Kthd7+CeHTrNRSIS+CEa0fgI/TEdSwlBep3vFMHXEobq7cGa9OLyQ1702Qt1/aeyowBx3PqM9ma2EI9JD7fgRdF5YJ9kzLAodNKHaEH7Ld8t+b5rL/Sefvk8N+gkw84+B4rxm6Q+95WjZvt5lGdgTPRmfIYOxh7PumbZCX8qA==;Na6WMEcqyJDxsT3SY7b/0Q=="
 ---
 

@@ -36,22 +36,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Patent Protection on AI Inventions"
-    excerpt: "In recent years, AI patent activity has exponentially increased. The figure below shows the volume of public AI patent applications categorized by AI component in the U.S. from 1990-2018. The eight AI"
-    publishedDateTime: 2021-08-30T23:06:00Z
-    webUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions"
-    ampWebUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/patent-protection-ai-inventions?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
-    images:
-      - url: "https://www.intellectualpropertylawblog.com/wp-content/uploads/sites/98/2021/08/111.gif"
-        width: 1906
-        height: 811
-        isCached: true
 
 secured: "8CIzwLUN7BtKjgYcq1InGJUuEwF62TIxOhqmEQuW6AVcmzRqI39g2ppNvAPdPUM684auHRJjmbgqtCMxxlWelC0ag4mIdQP2+/GYhIhtF7grqdGScs/23PlEsMA0zoLpLgS07OJqL7fVq6o/eUE2IFiOKIJLt4FekhLbzr6SZpH1c4ACwsSeimq3424XdOYiV4LrkoMfZJKcbmvBsYvNW4lXx0BhlDegrnj0SLqIvHLuadloPAkoV3ymrK5t9xkjSyts1kjijqcN0ntE1YRhIwGPw+FrmM+xrfyxtJLqzxQXpKnSQZfELQjkk6qsuMDFcZNv1p32kDuNv/M+aJ41hj9tUByO1MstBNBqAG7gmAQ=;+wNwihOts6uXIx3T+C+4lA=="
 ---

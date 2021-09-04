@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling"
 type: article
 quality: 157
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Patent Protection on AI Inventions"
-    excerpt: "In recent years, AI patent activity has exponentially increased. The figure below shows the volume of public AI patent applications categorized by AI component in the U.S. from 1990-2018. The eight AI"
-    publishedDateTime: 2021-08-30T23:06:00Z
-    webUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions"
-    ampWebUrl: "https://www.natlawreview.com/article/patent-protection-ai-inventions?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/patent-protection-ai-inventions?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 57
-    images:
-      - url: "https://www.intellectualpropertylawblog.com/wp-content/uploads/sites/98/2021/08/111.gif"
-        width: 1906
-        height: 811
-        isCached: true
   - title: "Only Humans, Not AI, Can Be An Inventor, Va. Judge Rules"
     excerpt: "A Virginia federal judge ruled Thursday that artificial intelligence cannot be listed as an inventor on a patent application, holding that the Patent Act makes clear that inventing is the exclusive legal province of human beings."
     publishedDateTime: 2021-09-03T02:57:00Z

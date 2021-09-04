@@ -47,20 +47,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 47
-  - title: "Frisco-Based Antuit.ai to Be Acquired By Zebra Technologies"
-    excerpt: "Zebra plans to expand its growing retail and CPG portfolio with the addition of Antuit.ai, a Goldman Sachs company that uses AI and machine learning software to assist retail and CPG businesses in digitally transforming their businesses and achieving outsized results in supply chain,"
-    publishedDateTime: 2021-08-30T23:15:00Z
-    webUrl: "https://dallasinnovates.com/frisco-based-antuit-ai-to-be-acquired-by-zebra-technologies/"
-    type: article
-    provider:
-      name: dallasinnovates.com
-      domain: dallasinnovates.com
-    quality: 39
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/06/SivakumarLakshmanan_and_YogeshKulkarni-970.jpg"
-        width: 970
-        height: 508
-        isCached: true
   - title: "Zebra Technologies to Acquire Antuit.ai"
     excerpt: "Zebra Technologies Corporation, a global enterprise mobile computing company, announced its intention to acquire antuit.ai, a provider of artificial intelligence (AI)-powered Software-as-a-Service (SaaS) solutions specific to forecasting and merchandising for the retail and CPG industries."
     publishedDateTime: 2021-09-02T14:44:00Z
