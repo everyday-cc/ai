@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/toyota-resumes-self-driving-e-palette-u
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
 type: article
 quality: 73
-heat: 193
+heat: 173
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Toyota-E-Pallette-Paralympics.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Toyota to restart self-driving pods at Paralympic village in Tokyo"
-    excerpt: "Toyota has said it will resume operations of its self-driving e-Palette pods at the Tokyo Paralympic Games village with greater operator control and more safety staff. The pods were earlier suspended after one of the them collided with and injured a visually impaired Japanese athlete."
-    publishedDateTime: 2021-08-30T13:36:00Z
-    webUrl: "https://inshorts.com/en/news/toyota-to-restart-selfdriving-pods-at-paralympic-village-in-tokyo-1630330612058"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/toyota-to-restart-selfdriving-pods-at-paralympic-village-in-tokyo-1630330612058"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/toyota-to-restart-selfdriving-pods-at-paralympic-village-in-tokyo-1630330612058"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 44
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/08_aug/30_mon/img_1630327521629_942.jpg?"
-        width: 1008
-        height: 1632
         isCached: true
   - title: "Toyota Adjusts Self-Driving Olympic Shuttles after 1-MPH Accident"
     excerpt: "Photo: ToyotaToyota announced its e-Palette autonomous Olympic shuttles could be used again, with added security measures, after one of them struck a visually impaired pedestrian last week.Th"
@@ -189,20 +173,6 @@ related:
       - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/08/16x9/metrolinx.612cfaf90d4d9.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Toyota suspends use of self-driving vehicle in Olympic Village after collision with paralympic athlete"
-    excerpt: "Toyota’s CEO on Friday apologized in a video posted to YouTube after one of the company’s self-driving vehicles hit the athlete while driving at 1 to 2 kilometers per hour around the Olympic Village in Tokyo."
-    publishedDateTime: 2021-08-30T13:44:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_world/toyota-suspends-use-of-self-driving-vehicle-in-olympic-village-after-collision-with-paralympic-athlete/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 8
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210827145423-e-palette-toyota-tokyo-olympics-2020-restricted-large-169.jpg"
-        width: 460
-        height: 259
         isCached: true
 
 secured: "YwJAQ90FEMoIgbyll3x0O3Aq2lVTq+g1Bo2wt6zMm0HeEpbVprU7o9ozp1T2giHTghoHLHCE/zVAylxihtit2Ud7/BI9JMP2ItUtFJfmMgexAXv/dzEpAjqbTMVwUTIpguKDnJIa3Rg/IpUyPNu9+0mIqIIXnvMKrUl2lZaDgVxG7PLDlizWGqt/rDnxSf4QXCShKGf5boescjSnS4UA1kd/t+1MyZsLcU1AzjQy4Cieek0TdJCrG851Fmd+Qlnr53qynG7YmeYj16Zkm5WHARcNtPXRnlDsi7b06AIHO/XdVQr3vJOGw8bAqwvGWQdeC55g3ftRlB8/z/CbRk6vioWWng3HcIqw4qPHn3VPQ3+0TKIyiozfd/Kh5VJjGSglo1EtuqncLvbNyaLV15057dkPxWInwKAaf9vt62/n3IGbaLPF7tp88UTRjOvwtvVfEK/3lDkTftCNG8/JvvNFtO+B3z2kJKnX2fYVIqse7PxR5CYJlhtyRPVUTj1lflCEoL52sovfTbITyB+Y5h3Nvw==;dG3/eH+up0PbFo+HBebYWw=="

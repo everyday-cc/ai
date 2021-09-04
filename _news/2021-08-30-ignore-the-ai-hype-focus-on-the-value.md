@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-v
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/30/ignore-the-ai-hype-focus-on-the-value/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why The Ethics Of AI Are Complicated"
-    excerpt: "The question isn't really whether AI will eventually become more intelligent than humans (it definitely will) or whether it will turn good or evil. It's what we can do right now to make sure it turns \"good\" (or,"
-    publishedDateTime: 2021-08-30T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/30/why-the-ethics-of-ai-are-complicated/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61292026053f741229b0da60%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1181%26cropY1%3D146%26cropY2%3D1032"
-        width: 1181
-        height: 886
-        isCached: true
   - title: "Continuing the Conversation on the Future of Artificial Intelligence"
     excerpt: "If we believe the hype, artificial intelligence (AI) and data analytics are quite possibly the answer to all our problems. Not just in business, but for"
     publishedDateTime: 2021-09-01T04:27:00Z

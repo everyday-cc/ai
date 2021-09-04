@@ -36,36 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Zebra Technologies Acquires Antuit.ai"
-    excerpt: "Front-line business firm Zebra Technologies will acquire Antuit.ai, a retail and consumer packaged goods-based artificial intelligence (AI)-powered SaaS."
-    publishedDateTime: 2021-08-30T14:52:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2021/zebra-technologies-acquires-antuit-ai/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2021/zebra-technologies-acquires-antuit-ai/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/zebra-technologies-acquires-antuit-ai/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Zebra-Technologies-AI-acquires-Antuit.ai_-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Zebra Technologies to acquire Antuit.ai"
-    excerpt: "Deal for vendor whose AI-based software improves forecasts and optimizes inventory allocations grows Zebra's retail and consumer packaged goods (CPG) software portfolio{/exp:eehive_hacksaw"
-    publishedDateTime: 2021-08-30T14:28:00Z
-    webUrl: "https://www.scmr.com/article/zebra_technologies_to_acquire_antuit.ai"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 37
-    images:
-      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
-        width: 444
-        height: 333
-        isCached: true
 
 secured: "V10bmqPbfgku2jUHrxbPNwrobF9S0ZSQvqljOxXC9u8xZmPEPBF0beMjBKN/ccZB4gj8aGmbF8XBG/m8SfBfxsFrHQHNejyQtLI8rCVtix+MVedFnwm5r6Uy6hGZhpzVqx5xMpvnGjhn/Y4k4u3WR0X44EdF/B7YBJxxZ+ShRPjFtaZc1Djzistd2IiaUxEBhxL6U9FRQpqSEvm/BaVtSW15kOC0+ly/8ZWMSDZQHeHt0exznNO0IzQO9in5ia/OzBxSk8lk7Rg7l9f9m3Ew4lD+utcV/HoEdrWUm+p+nkro/DmNeI/52rxlNIw0I8JXqpifGO5zob8y61vbUdGvF3rEMN9Po36g//hv+GME3q4Er7n18Yjea0DWkDSMWx/ERHAUCm2hbyzFmgooflXlPWmoc+RD13Es8EDJDgSIF9wvoJQ7Gnnks3p111mLbgUU0KbdctmTGh7ngoJGmmCwRadLfba23piWX7AjiwiIMR+pwesSRPWcHeEdcb2aIKLIwqulPcbCo67jGpC+YVTZSQ==;RFUPTvnKYVOea0Whl23k8A=="
 ---

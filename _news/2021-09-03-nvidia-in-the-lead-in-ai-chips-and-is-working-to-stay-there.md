@@ -90,20 +90,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "Nvidia Aims vSphere-Integrated AI Software Suite at Enterprise Market"
-    excerpt: "The AI leader has designed the software together with VMware to make AI easier for both data scientists and enterprise IT pros."
-    publishedDateTime: 2021-08-30T13:49:00Z
-    webUrl: "https://www.datacenterknowledge.com/machine-learning/nvidia-aims-vsphere-integrated-ai-software-suite-enterprise-market"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 39
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jensen%20huang%20nvidia%20gtc%2020%20keynote%20kitchen.png"
-        width: 1413
-        height: 736
-        isCached: true
   - title: "Nvidia projects are helping AI find its human-like voice"
     excerpt: "Nvidia is presenting multiple speech technology efforts at Interspeech this week, including one to help create more human-sounding AI voices."
     publishedDateTime: 2021-08-31T14:23:00Z

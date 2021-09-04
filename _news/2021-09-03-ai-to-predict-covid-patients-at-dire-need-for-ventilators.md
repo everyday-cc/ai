@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Unsupervised AI predicts the progression of COVID-19 and survival of patients"
-    excerpt: "Fast and accurate clinical assessment of the disease progression and mortality is vital for the management of COVID-19 patients. Although several predictors have been proposed, they have been limited to subjective assessment,"
-    publishedDateTime: 2021-08-30T14:29:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-unsupervised-ai-covid-survival-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-unsupervised-ai-covid-survival-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-unsupervised-ai-covid-survival-patients.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/unsupervised-ai-predic.jpg"
-        width: 800
-        height: 570
-        isCached: true
   - title: "Researchers bring innovative AI and simulation tools to the COVID-19 battlefront"
     excerpt: "In its on-going campaign to reveal the inner workings of the Sar-CoV-2 virus, the U.S. Department of Energy's (DOE) Argonne National Laboratory is leading efforts to couple artificial intelligence (AI) and cutting-edge simulation workflows to better understand biological observations and accelerate drug discovery."
     publishedDateTime: 2021-09-01T07:43:00Z

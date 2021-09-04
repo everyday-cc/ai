@@ -7,7 +7,7 @@ originalUrl: "https://hitconsultant.net/2021/08/30/sanas-accent-matching-solutio
 webUrl: "https://hitconsultant.net/2021/08/30/sanas-accent-matching-solution-for-bpos-launches-with-6m/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 650
     height: 364
     isCached: true
-
-related:
-  - title: "Sanas.ai launches first platform that boosts communication"
-    excerpt: "Backed with $5.5 million in seed funding, Sanas' accent-matching solution makes it easier for people to understand each other in customer care centers, remote tech support, education, telemedicine and"
-    publishedDateTime: 2021-08-30T14:42:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Sanas.ai-launches-first-platform-that-boosts-communication-148673.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
-        isCached: true
 
 secured: "0ymDZ+xVb+jBfmEht1sQ/rQRFABmOSK2tHrYkAwUh4WFEZr98INWhxs6OqG7Qa8RdyHlkbgiESAh4OtsMfS6n/5op/Y0UybElZhOCC1ScIZKKEG+7sQYcwFBu8d0MNMwo/QkEO+gCGKcYAs4qHHed0wk9is8YY4/B9xyQsaAPpLhJx56Kurq27/eZguRmH/LOeAB+/3qSEustspaPIDffWH5LrJFIjumas5A8dzHKBFvVYB+5mhOQXkAKK9LtGIpiGYvPb+TrMVBTWcYTmpci/ws8KzRBjnn/W3wkmHZ0x7+iXzuzpYPMlKAn+bHW1IrCrIbDZ8J9a8IJDEdbMQJKIv6ATuS5D2ZvDL41p1fX96+wd+oNbIqsMCUSkFSEMTPb7TY+Ngh6X7cYPQ7vSZ89kpyMNLM93R9pxhWeWgl1RXFKoeWI8/IWr2MbbdIbzXmQGb5NUeBC35Sxg7JwbtSIpoh+LI1jnQbf5nOH6xQYqpZPhWhDm0zqHsXtKEwMVXd4f0jislnWqXp289suibStg==;ej4nXbX98QEGYXqkwsIW8A=="
 ---

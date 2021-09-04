@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2374926/ai-in-online-advertising-market-d
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -72,34 +72,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U831119321_g.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and Inference), Power (Less Than 1W, 1-3 W,"
-    publishedDateTime: 2021-08-30T13:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-19973236.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 27
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and"
-    publishedDateTime: 2021-08-30T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-hardware-market-worth-2-080-million-units-by-2026---exclusive-report/article_d19062e8-3ab9-50f9-a711-5e5c4d492767.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
-        width: 669
-        height: 229
         isCached: true
 
 secured: "2jpFEVhhQGrXq9glS0x6/9LMKUthmb9lavp4tmNWYe69xjg8r4B5uQs/Nargg2on1xI3Q9SNxcUeMO8Sk1rCB9uT9A7Y6HPmpgGunx+0QyowYZVPPpmlE1swqCxS5r7JyXZiasPF1iWd9h33fOqp7Ihd2iqH4VL0Ydo3Q5fpOlBC6Mw/zheE7HDDBZMHPpFWUBX29ww5cFDcECYKltywiwRnBnuRATVvrbuxolZpLaOFIefbKUEYCW2NyxqrW6icXGQarskYdGdY+jO+N9OzYJHlafECrJy4sP5vaS8sWOjbEokPmobASQXaXa9fow/Vm0jKwb9DdO9etVUBy4EuVo6kF2k+FwfaDQ276fk/5Rw=;RSxhCmF0lypNZYvDdiDheQ=="

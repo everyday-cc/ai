@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/victoriaforster/2021/09/01/researchers-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/amp/"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unsupervised AI predicts the progression of COVID-19 and survival of patients"
-    excerpt: "Fast and accurate clinical assessment of the disease progression and mortality is vital for the management of COVID-19 patients. Although several predictors have been proposed, they have been limited to subjective assessment,"
-    publishedDateTime: 2021-08-30T14:29:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-unsupervised-ai-covid-survival-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-unsupervised-ai-covid-survival-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-unsupervised-ai-covid-survival-patients.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/unsupervised-ai-predic.jpg"
-        width: 800
-        height: 570
-        isCached: true
   - title: "AI to predict Covid patients at dire need for ventilators"
     excerpt: "US researchers have developed an online tool using Artificial Intelligence (AI) to help medical staff quickly determine which Covid-19 patients will need help breathing with a ventilator. The team at Case Western Reserve University developed the tool,"
     publishedDateTime: 2021-09-03T07:58:00Z

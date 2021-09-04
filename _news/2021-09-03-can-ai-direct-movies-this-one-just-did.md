@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did?am
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/can-ai-direct-movies-this-one-just-did?amp=true"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

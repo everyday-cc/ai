@@ -72,34 +72,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and Inference), Power (Less Than 1W, 1-3 W,"
-    publishedDateTime: 2021-08-30T13:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-19973236.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 27
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and"
-    publishedDateTime: 2021-08-30T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-hardware-market-worth-2-080-million-units-by-2026---exclusive-report/article_d19062e8-3ab9-50f9-a711-5e5c4d492767.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
-        width: 669
-        height: 229
-        isCached: true
 
 secured: "mYF95aR4qx2CQ1lyNx9DDPZ73xM4Uk/+p5pN4TEoTl5ja7BvAl0bYE6B3h9WhTUjKwyzlajwoX8WTf4pLYFaP9fANj2LxFxBAdDNyRkhV5DADNgynShlvie+QEVpTBt+eO9Kic997/Fao+V/yvgUj63gNHDaC/AvaGjZFQdDM778IaYDDuIAurLv9U7hZ0oIpj+6NzymXk9ueMhHXewudOYSIGuxSplY2zhbJWZ9Bw+bwh6p2ebTNOR+A9IXyS6dtbNOpTQZumJf/v4Jwpu3ri3elW/fQvGP0RcLxsIYoAqXMMLjPPpLVXcaopiGyK75dE57dySPgvArixzatp8EXgw7n0wcS6m2DB0TqQNHs7BIigsVSDxu6YvQq37uVPpBBeTn0Y7rnpv3HGBSN62WnAE1fAgVqtY5bFtEV+omN8IF1Kuc/6TSc9tTMj/I+Yv4MUTM5sVeU9MgtihTM3xwsuZAm/EowdllBw4YUnStPiH2KNY6amRZ1JHJZwRQSH/4rSW18/0LQrh7fHIvrmyigw==;T+w+jyPAPqZFMix4Pb9Xag=="
 ---

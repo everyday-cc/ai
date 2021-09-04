@@ -42,22 +42,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial Intelligence approach helps identify patients with heart failure that respond to beta-blocker treatment"
-    excerpt: "Researchers at the University of Birmingham have developed a new way to identify patients with heart failure who will benefit from treatment with beta-blockers."
-    publishedDateTime: 2021-08-30T14:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-approach-patients-heart.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-approach-patients-heart.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-approach-patients-heart.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-2.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "AI identifies heart failure patients best suited to beta-blocker treatment"
     excerpt: "A new AI-based approach could help to quickly and easily identify the best treatment options for heart failure patients."
     publishedDateTime: 2021-08-31T09:57:00Z

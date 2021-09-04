@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210831/AI-approach-helps-ide
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210831/AI-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.aspx"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence approach helps identify patients with heart failure that respond to beta-blocker treatment"
-    excerpt: "Researchers at the University of Birmingham have developed a new way to identify patients with heart failure who will benefit from treatment with beta-blockers."
-    publishedDateTime: 2021-08-30T14:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-approach-patients-heart.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-approach-patients-heart.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-approach-patients-heart.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-2.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "Hutch scientists use AI to identify potential therapies"
     excerpt: "Fred Hutch researchers used machine learning and other AI tools to screen, identify and validate a handful of FDA-approved compounds that inhibit COVID-19's deadly cytokine storms, at least in mice and cells."
     publishedDateTime: 2021-09-01T18:47:00Z

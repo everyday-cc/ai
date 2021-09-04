@@ -130,6 +130,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market Size 2021 And Forecast to 2028 | Keyplayers – Amazon, Oracle, Ibm, Microsoftn"
+    excerpt: "The global Machine Learning as a Service market report provides detailed details on market size, share, industry overview, revenues, recent developments, acquisitions and mergers, and expansion strategies."
+    publishedDateTime: 2021-08-30T22:44:00Z
+    webUrl: "https://manometcurrent.com/machine-learning-as-a-service-market-size-2021-and-forecast-to-2028-keyplayers-amazon-oracle-ibm-microsoftn/"
+    ampWebUrl: "https://manometcurrent.com/machine-learning-as-a-service-market-size-2021-and-forecast-to-2028-keyplayers-amazon-oracle-ibm-microsoftn/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-as-a-service-market-size-2021-and-forecast-to-2028-keyplayers-amazon-oracle-ibm-microsoftn/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 39
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg"
+        width: 300
+        height: 212
+        isCached: true
   - title: "Artificial Intelligence In Military Market Size 2021 And Forecast to 2028 | Keyplayers – Lockheed Martin , Raytheon , Northrop Grumman , Ibm"
     excerpt: "In the recently published financial credit Artificial Intelligence In Military Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim."
     publishedDateTime: 2021-09-02T21:03:00Z
