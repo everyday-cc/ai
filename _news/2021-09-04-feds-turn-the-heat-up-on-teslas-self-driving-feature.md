@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-tesla
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
 type: article
 quality: 59
-heat: 110
+heat: 109
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-w
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

@@ -36,22 +36,6 @@ related:
         width: 400
         height: 283
         isCached: true
-  - title: "Zebra Technologies to Acquire AI Software Firm Antuit"
-    excerpt: "In a move it said would enhance the demand forecasting and pricing capabilities of its store execution solutions, Zebra Technologies intends to acquire antuit.ai, a provider of AI-powered merchandising software for the retail and CPG industries."
-    publishedDateTime: 2021-08-30T20:16:00Z
-    webUrl: "https://www.winsightgrocerybusiness.com/technology/zebra-technologies-acquire-ai-software-firm-antuit"
-    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
-    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
-    type: article
-    provider:
-      name: Winsight Grocery Business
-      domain: winsightgrocerybusiness.com
-    quality: 57
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-08/background/400x600/antuit1.jpg?VersionId=ykWLYXCE0R31U_UXOc1fHHbPm5ZqlpP."
-        width: 400
-        height: 210
-        isCached: true
   - title: "Frisco-Based Antuit.ai to Be Acquired By Zebra Technologies"
     excerpt: "Zebra plans to expand its growing retail and CPG portfolio with the addition of Antuit.ai, a Goldman Sachs company that uses AI and machine learning software to assist retail and CPG businesses in digitally transforming their businesses and achieving outsized results in supply chain,"
     publishedDateTime: 2021-08-30T23:15:00Z

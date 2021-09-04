@@ -117,20 +117,6 @@ related:
         width: 1500
         height: 1126
         isCached: true
-  - title: "Otter.ai Brings Transcription Assistant To Microsoft Teams, Google Meet and Webex"
-    excerpt: "After partnering with Zoom, Otter.ai, brings Otter Assistant to Microsoft Teams, Google Meet and Webex for automatic transcriptions."
-    publishedDateTime: 2021-08-30T20:42:00Z
-    webUrl: "https://www.commercialintegrator.com/communications/otter-ai-brings-transcription-assistant-to-microsoft-teams-google-meet-and-webex/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 49
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2021/08/Desktop-edit-e1630356121313.png"
-        width: 1000
-        height: 672
-        isCached: true
   - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
     excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
     publishedDateTime: 2021-08-31T18:52:00Z

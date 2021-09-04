@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/temasek-founded-ai
 webUrl: "https://markets.businessinsider.com/news/stocks/temasek-founded-aicadium-acquires-singapore-ai-firm-basisai-1030768169"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zebra Technologies to Acquire AI Software Firm Antuit"
-    excerpt: "In a move it said would enhance the demand forecasting and pricing capabilities of its store execution solutions, Zebra Technologies intends to acquire antuit.ai, a provider of AI-powered merchandising software for the retail and CPG industries."
-    publishedDateTime: 2021-08-30T20:16:00Z
-    webUrl: "https://www.winsightgrocerybusiness.com/technology/zebra-technologies-acquire-ai-software-firm-antuit"
-    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
-    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/zebra-technologies-acquire-ai-software-firm-antuit"
-    type: article
-    provider:
-      name: Winsight Grocery Business
-      domain: winsightgrocerybusiness.com
-    quality: 57
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-08/background/400x600/antuit1.jpg?VersionId=ykWLYXCE0R31U_UXOc1fHHbPm5ZqlpP."
-        width: 400
-        height: 210
-        isCached: true
   - title: "New startup founded by Temasek acquires Singapore AI firm"
     excerpt: "Aicadium, a tech firm based in Singapore and the founded by Temasek, today announced the acquisition of BasisAI, a provider of scalable and responsible AI software. Specific details about the deal amount,"
     publishedDateTime: 2021-08-31T01:27:00Z

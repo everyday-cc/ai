@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/black-men-identified-as-primates-by-fa
 webUrl: "https://www.neowin.net/news/black-men-identified-as-primates-by-facebooks-not-so-intelligent-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Facebook apologizes after AI puts ‘primates’ label on video of Black men"
+    excerpt: "Facebook users who recently watched a video from a tabloid featuring Black men saw a prompt that asked if they would like to “keep seeing videos about Primates.” The artificial intelligence-powered feature that pushed the message has been disabled."
+    publishedDateTime: 2021-09-04T01:37:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/facebook-apologizes-after-ai-puts-primates-label-on-video-of-black-men/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/facebook-apologizes-after-ai-puts-primates-label-on-video-of-black-men/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facebook-apologizes-after-ai-puts-primates-label-on-video-of-black-men/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 36
 
 secured: "kHKVarI/JGWejIsIAkZMhRHqxmKiGpoZgb+wogzXk2PeFTMtcsNkVVYcrddbEsV7J/SpLMDoZp2Thuy6rIwR7KDLcP0wW3w+Y9+P0v62BEAhGZCKwVAhPWctpuA/XK6ekxqicIzBn4NOAsNeWnTXXMLoQg3zfCfjTrkUOhcdTXHjIEkZPJiTCyI8eA32fSWwkzbQp+yJ1D8rLrGEjkyiZSb0M9GQ4+hPD60RGyk6qmbGSJ3eA7KW5UoHCw+jJ8OaH6h4p7a6D8VmAuFxFLzqjC7Be3xyYCdNDKW7YpWMPA2Dx7rVkwiXrVv0nOm2GxVB34VpHcuV2JjKjZpchUZ7qnaZOiYZcWZeY9NB+rgKL5l12LEMF7sOXYFpzGCdhukU2qrZ7JdNeeH7zHG10qj/sWGIM+gMQcR6rUQA56uOtWNjsdLOnMVgGZo9k5YrP3ZLX+S63mst/XGXaM5gKhzHezdla4n8ea6z1/AngqAqeTixCIOQXjpUP7r6/CLkf6CeNi+P29d8EX+BbugjFNUw7g==;FgnUvwDGkYw8kawHIVBH3w=="
 ---

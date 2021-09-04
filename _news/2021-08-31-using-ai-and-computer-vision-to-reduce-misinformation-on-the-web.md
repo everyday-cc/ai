@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-r
 webUrl: "https://www.bbntimes.com/science/using-ai-and-computer-vision-to-reduce-misinformation-on-the-web"
 type: article
 quality: 54
-heat: 106
+heat: 104
 published: true
 
 provider:
