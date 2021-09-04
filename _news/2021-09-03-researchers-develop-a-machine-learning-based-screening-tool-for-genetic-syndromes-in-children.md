@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning tool detects the risk of genetic syndromes in children with diverse backgrounds"
+    excerpt: "With an average accuracy of 88%, a deep learning technology offers rapid genetic screening that could accelerate the diagnosis of genetic syndromes, recommending further investigation or referral to a specialist in seconds,"
+    publishedDateTime: 2021-09-01T22:30:00Z
+    webUrl: "https://medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-genetic.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Using machine learning to accurately identify genetic syndromes in children"
     excerpt: "A novel machine learning technology has demonstrated impressive efficiency in detecting genetic syndromes in children."
     publishedDateTime: 2021-09-02T13:11:00Z
@@ -41,15 +57,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Machine learning tool detects the risk of genetic syndromes in children with diverse backgrounds"
-    excerpt: "With an average accuracy of 88%, a deep learning technology offers rapid genetic screening that could accelerate the diagnosis of genetic syndromes, recommending further investigation or referral to a specialist in seconds,"
-    publishedDateTime: 2021-09-02T14:25:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/09/210901191416.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 36
   - title: "Researchers develop deep-learning based method to predict onset of Alzheimer’s disease"
     excerpt: "According to World Health Organisation, Alzheimer's disease is the most frequent cause of dementia, contributing to up to 70 percent of dementia cases. Worldwide, approximately 24 million people are affected,"
     publishedDateTime: 2021-09-03T12:30:00Z

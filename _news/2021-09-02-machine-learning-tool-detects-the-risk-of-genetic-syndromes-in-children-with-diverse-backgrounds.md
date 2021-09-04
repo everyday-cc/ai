@@ -2,25 +2,29 @@
 category: news
 title: "Machine learning tool detects the risk of genetic syndromes in children with diverse backgrounds"
 excerpt: "With an average accuracy of 88%, a deep learning technology offers rapid genetic screening that could accelerate the diagnosis of genetic syndromes, recommending further investigation or referral to a specialist in seconds,"
-publishedDateTime: 2021-09-02T14:25:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/09/210901191416.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/09/210901191416.htm"
+publishedDateTime: 2021-09-01T22:30:00Z
+originalUrl: "https://medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.html"
+webUrl: "https://medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.amp"
 type: article
-quality: 36
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-genetic.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Researchers develop a machine learning-based screening tool for genetic syndromes in children"
@@ -70,6 +74,6 @@ related:
         height: 480
         isCached: true
 
-secured: "jtRjMHI1M14MuBXKXrCgjrZlPjsKWgb7aq2VYrBVFnigbYM2RrilGCQVHWRSLunR6KsVI/D6+IY1CBldjzjvI5FOJbOik02hvoe4Ke0ta99TKES/ragUNCKvajYeVQC47/XIDBj1moU1lDUTQdjKMT/B9HG3cIYl4g/W6aCpFJbuAkAJZ86tbyG3HixxCZI3vOXfSdEEaFdHRVJKueGnK2jTRxc5wUCCpmCdBg4LnZw5xWFj9WQT8gq+9SiKbhy1IaDrKaMwsv4brhV+QTZcZJejSzUZw3UBOTR44IvE1dJXfI56MgwWReauUH7Ew3uwwVlquD/OBTLSXWZK2GZjKWpIV5nAtpoKoqZJ5NYgvGw=;zfae8SshpaJY+mMnACMWAw=="
+secured: "/cW3Eil+n6JI1n+sFeO+YWM8o8iHt/kG0YUM/ilz4TTbIwsnjVqcYV1+N9jjZIuApUkRIUtwEmQAlB9hChPC/7yNioQnTlnR+bmL238Po/eIEAjKEtTUHA8kas86DpMuQh5SaPZHrWsPeXe15OlWPvFM/pmhg/DcbULFgul3UsutFbBo9c6I6uEhVVjI7AxmuUQirMGzIWEznVz71ouqJqjKhoiXMam2KCBwYtYG/ITcFR/9qQZtFUqL0bNzdxz6PQak1DSCt9MnlOyCRbT/EKqNMI/BbmtZ/4wxO+TRnO6KRKRv4fzoQE7X40hegY2bLR4/HpCBzrh6oKhbqmpxMO+H6rNDlEy73d7OaTCFiYE=;RsZ2kbsCMzU3YGCVButXVQ=="
 ---
 

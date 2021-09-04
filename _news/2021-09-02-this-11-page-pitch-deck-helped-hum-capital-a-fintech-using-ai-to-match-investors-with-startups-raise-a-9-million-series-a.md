@@ -28,22 +28,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Australian Fintech Startups Seek Singapore Investors to Help Fund SE Asian Expansion"
-    excerpt: "Eight Australian fintech startups are seeking financial backing and strategic support to help them access the fast-growing SE Asian market."
-    publishedDateTime: 2021-08-31T01:37:00Z
-    webUrl: "https://fintechnews.sg/54725/australia/australian-fintech-startups-seek-singapore-investors-to-help-fund-se-asian-expansion/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 17
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Australian-Fintech-Startups-Seek-Singapore-Investors-to-Help-Fund-Southeast-Asian-Expansion-.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
-
 secured: "nfszitl5pICK3Y6OhtwFXzvebHCbaI2McZVBs7KtCsIFjXVyBRVlFgcaiI7ihb16Mrqfo216JAW4uS++K5PIT0cDlL9o79gD9bvWleS61PPWNwj1oOKftAacYD+AytuUc95Hj7J4Harso5BW1t0/k1H7cLkUTuFk6zf+vsvmRKgGF2ENTy7vpd8oZkLD0oBGugmTaX39Pf67/Gf1z33e0qVHzPZYIALR6rLa3VW1LVieMPXPmNTFyV6vriEqZ4vcXsm/cHHFZ86wi3ypnpxDl98yich+fyxHTPxyf59d2ONTR3jdWjcFgJqEfZmAkMEXk3b+dOUsOCAXSISVZAeHCJJOyACrjaA1TpCWRGmBNqYLVTHlXOcYRld0uFw4OwtCyB4ZKhazWc3wiC8kUC9TClCBjF1e14w8ZDiZbATOiwtFPxJwCttNB3ehRdEfp0SqV/Uh7rMgPCUo0hZJ84eqU3mfiNaNEBfKTl8+/vm3Rqog2Q3QOYrGfj/Z80SVvDL0MrVjHhWbFXHQttG9yVdZ2A==;wCaSjfXp0tmo7ZTr6ngr6g=="
 ---
 

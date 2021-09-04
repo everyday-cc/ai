@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Cars Sensors Market 2021: Size, Huge Growth Opportunities, Business Scenario, New Technology Upcoming Trends and Forecast to 2026"
+    excerpt: "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Self-driving Cars Sensors"
+    publishedDateTime: 2021-09-02T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-sensors-market-2021-size-huge-growth-opportunities-business-scenario-new-technology-upcoming-trends-and-forecast-to-2026-2021-09-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Ju7wza/7y6x29oP0FmHtLRhXzHqsYKuipxnS42TPB7ftB/E/e075PU6PqdWjMUpCaqEHUgQajUYdsybKTftGr6wKuSgavyQC5XtiFQEWrhKWbpRxBwhvj3uKFBO8DsngMq8zUNRJLnZY/wlY1nUEM4SY2ZlI7E4gKTNFHjXsNg2Gf9cupuhfiv1aTLslEXZQJ59wBAcstAeWzWYaFdcs0ePbc29bWok6NSJ9RJWjI+a/Uc6onaF5IfgOnfY3QS4mMN8uWaYetl89f28PNj9G0JbTj4+e8v3L8Uo9IEB6AmxO13VmSDSaiWFZ61zp8Kl1I0a1h5rGhkmp1RFUAtfoWM866yltyXgwvqctX3huNJA=;q9ZCE29KmDBC0d9NEV6G7w=="
 ---

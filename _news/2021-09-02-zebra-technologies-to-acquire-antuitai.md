@@ -24,43 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Temasek-founded Aicadium acquires Singapore AI firm BasisAI"
-    excerpt: "Aicadium, a global technology company founded by Temasek and dedicated to creating and scaling AI solutions, today announced the acquisition of BasisAI, a Singapore -based provider of scalable and responsible artificial intelligence (AI) software."
-    publishedDateTime: 2021-08-31T02:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/temasek-founded-aicadium-acquires-singapore-ai-firm-basisai-1030768169"
+  - title: "Zebra's (ZBRA) antuit.ai Buyout to Boost Retail Software Portfolio"
+    excerpt: "Zebra will leverage antuit.ai’s expertise in the demand forecasting space and combine it with its SaaS portfolio to offer an advanced analytics, AI and automation solution to its customers. This will aid them in effective planning and executing business operations with better insights into the supply chain,"
+    publishedDateTime: 2021-08-31T13:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/zebras-zbra-antuit.ai-buyout-to-boost-retail-software-portfolio-2021-08-31"
+    ampWebUrl: "https://www.nasdaq.com/articles/zebras-zbra-antuit.ai-buyout-to-boost-retail-software-portfolio-2021-08-31?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebras-zbra-antuit.ai-buyout-to-boost-retail-software-portfolio-2021-08-31?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1605010/Cofounders_1.jpg"
-        width: 400
-        height: 283
-        isCached: true
-  - title: "New startup founded by Temasek acquires Singapore AI firm"
-    excerpt: "Aicadium, a tech firm based in Singapore and the founded by Temasek, today announced the acquisition of BasisAI, a provider of scalable and responsible AI software. Specific details about the deal amount,"
-    publishedDateTime: 2021-08-31T01:27:00Z
-    webUrl: "https://www.techinasia.com/temasekfounded-aicadium-acquires-singapore-ai-firm"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
-  - title: "Sitecore Acquires AI-Powered Digital Search Platform Reflektion"
-    excerpt: "Sitecore®, the global leader in digital experience management software, today announced the acquisition of San Mateo-based Reflektion, an AI-powered digital search platform that understands and predicts patterns,"
-    publishedDateTime: 2021-09-02T15:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-93de7c9f99ec0ff79067be64066a3818"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "keiAYmml5ZHQUKpW7sw0sLXmjjRi8kOzrlqMjhlkmC5Hlx/1k4Bhr1RIYp7N2VNF7rso2YNdrG28bGW7irzwWz5vpI/4s/iun/0NpiN/tzv35jjZXMgtNApj3m0b3nDC/cslK28A65VjCuzE4MozG6K13bch8CoYw0CLuyuWh4p4HWb2Wc6XWqkvZo4d8A613qZ5og0nNDsCqo7Yqk9IxcPpgBO4hO8uDIRHfMoF/KVhj5AfayUZiWmrSV9lu0OmBREgurvibUxwkXoszg1cbuEoNDdYLTr32sdXYk9k/36vT87bbw8Vnqtn/h78gULKInFyTG/0+hFy8ejC3GXsqzT6oPaWODF5dM7+/LZzCFE=;FBF8hrh/duLAQUXI+tT5EQ=="
 ---

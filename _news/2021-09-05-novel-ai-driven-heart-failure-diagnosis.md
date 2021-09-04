@@ -1,27 +1,29 @@
 ---
 category: news
-title: "AI identifies heart failure patients best suited to beta-blocker treatment"
-excerpt: "A new AI-based approach could help to quickly and easily identify the best treatment options for heart failure patients."
-publishedDateTime: 2021-08-31T09:57:00Z
-originalUrl: "https://www.healtheuropa.eu/ai-identifies-heart-failure-patients-best-suited-to-beta-blocker-treatment/110680/"
-webUrl: "https://www.healtheuropa.eu/ai-identifies-heart-failure-patients-best-suited-to-beta-blocker-treatment/110680/"
+title: "Novel AI-Driven Heart Failure Diagnosis"
+excerpt: "Developing an artificial intelligence (AI) based diagnosis for heart failure will identify individuals who are unlikely to receive therapeutic benefit, and can make a more personalised medicine approach."
+publishedDateTime: 2021-09-04T18:10:00Z
+originalUrl: "https://www.medindia.net/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
+webUrl: "https://www.medindia.net/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: healtheuropa
-  domain: healtheuropa.eu
+  name: Medindia
+  domain: medindia.net
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.healtheuropa.eu/wp-content/uploads/2021/08/iStockdiephosi-183362325.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://images.medindia.net/amp-images/health-images/heart-transplant-paradox.jpg"
+    width: 1200
+    height: 1000
     isCached: true
 
 related:
@@ -41,22 +43,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Novel AI-Driven Heart Failure Diagnosis"
-    excerpt: "Developing an artificial intelligence (AI) based diagnosis for heart failure will identify individuals who are unlikely to receive therapeutic benefit, and can make a more personalised medicine approach."
-    publishedDateTime: 2021-09-04T18:10:00Z
-    webUrl: "https://www.medindia.net/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/heart-transplant-paradox.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Hutch scientists use AI to identify potential therapies"
     excerpt: "Fred Hutch researchers used machine learning and other AI tools to screen, identify and validate a handful of FDA-approved compounds that inhibit COVID-19's deadly cytokine storms, at least in mice and cells."
     publishedDateTime: 2021-09-01T18:47:00Z
@@ -70,6 +56,20 @@ related:
       - url: "https://www.fredhutch.org/content/dam/public/communications/Photo/2021/09-september/210901/social-patient.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "AI identifies heart failure patients best suited to beta-blocker treatment"
+    excerpt: "A new AI-based approach could help to quickly and easily identify the best treatment options for heart failure patients."
+    publishedDateTime: 2021-08-31T09:57:00Z
+    webUrl: "https://www.healtheuropa.eu/ai-identifies-heart-failure-patients-best-suited-to-beta-blocker-treatment/110680/"
+    type: article
+    provider:
+      name: healtheuropa
+      domain: healtheuropa.eu
+    quality: 37
+    images:
+      - url: "https://www.healtheuropa.eu/wp-content/uploads/2021/08/iStockdiephosi-183362325.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Artificial Intelligence approach helps to identify patients with heart failure that respond to beta-blocker treatment"
     excerpt: "Researchers at the University of Birmingham have developed a new way to identify which patients with heart failure will benefit from treatment with beta-blockers."
@@ -86,6 +86,6 @@ related:
         height: 510
         isCached: true
 
-secured: "9du6y52QLWFvcpmZfoARIW5h73E2AdC/IQf7r4PmRluUpDUnekwcGv9cbu1EGGsWndaWRFLOth/SwFDNM8Scq3fDBnXfPHB/PUwNC6ol+GQk7rRwsfc+1WzfDr3G/5Ia7sx/T8Vm5xsCcFhQkFxA/pMiIOjVc9WVhawgZcw4icUKeamX3mqXTts+LCDcm9XNJFyNZ+l2pX3cmRL9GR/7v1L1QqO7Ou2/VNrEoeLlWBm5lRxCyCaYejHeLCeMtK7sQ239+UzESc3eXWHdWIwBbgauUxsJJiJzMccrE7bS+ATzHk9Qyzchy0GB0MAP//EA0ocWlQ1Z3xgQCzJmivT2haMt85OJCfNl3PMq7qLO+fo=;CDebEQKTPq72mWLNZE8iIw=="
+secured: "Zy8EXCvP0eFqsZHqzhZMA/CQXPrv5IgFd2j9DXW20O73MD5iWW63EQ368GhUDZpu1xKKZFUaTt9eqTs6GAiej4gggIooRwGlZ0PIW2y+nH6ZIEHubLCmvZCqP0KKR4BbQ3PL+bFjUDxKLZVeDAyCnwDl2KsaUsk43BK53hf9HL2sw6N9h4Je0QM73v8dARyHj1vMxr9CqzrvpOEVVgRTuSV5Z3ThG5dfVAO8SNqV04JfPF4IfBHwWftsh8Cc9jZflTQOoreMOStdMCvfD3eOzcBBOp6Q0N71wbulZmcXY/kdFtfl0bkJ1g4Gx6JwSjdhk5zugLfb6TG1Yc84VdizRFzdxeCGxw/yaABORD/Xkn0=;TlcI98lkybASMMJprOmPWg=="
 ---
 

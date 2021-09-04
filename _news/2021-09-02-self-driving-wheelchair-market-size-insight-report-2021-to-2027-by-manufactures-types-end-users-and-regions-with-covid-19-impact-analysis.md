@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars Sensors Market 2021: Size, Huge Growth Opportunities, Business Scenario, New Technology Upcoming Trends and Forecast to 2026"
+    excerpt: "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Self-driving Cars Sensors"
+    publishedDateTime: 2021-09-02T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-sensors-market-2021-size-huge-growth-opportunities-business-scenario-new-technology-upcoming-trends-and-forecast-to-2026-2021-09-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Truck Technology Market Size 2021 And Forecast to 2028 | Keyplayers – Daimler, Volvo, Waymo, Tesla"
-    excerpt: "The global Self-Driving Truck Technology market report provides detailed details on market size, share, industry overview, revenues, recent developments, acquisitions and mergers, and expansion strategies."
-    publishedDateTime: 2021-08-31T02:31:00Z
-    webUrl: "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/"
-    ampWebUrl: "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 69
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg"
-        width: 300
-        height: 212
-        isCached: true
   - title: "Artificial Intelligence Solutions Market Size 2021 And Forecast to 2028 | Keyplayers – Google, Baidu, Ibm, Microsoft"
     excerpt: "In the recently published financial credit Artificial Intelligence Solutions Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim."
     publishedDateTime: 2021-09-02T17:11:00Z
@@ -102,6 +86,20 @@ related:
         width: 300
         height: 212
         isCached: true
+  - title: "Cognitive Media Market to Eyewitness Massive Growth by 2026 : IBM, Google, AWS, Microsoft"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/31/2021 — Latest survey on Worldwide Cognitive Media Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Worldwide Cognitive Media."
+    publishedDateTime: 2021-08-31T19:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-to-eyewitness-massive-growth-by-2026-ibm-google-aws-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 47
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/CCC-5-e1628627764328-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Face Recognition Systems Market Share, Top Key Players, Growth Factor, Industry Size, Latest Trends and Forecast 2021-2026"
     excerpt: "Global “Face Recognition Systems Market” research report presents a detailed analysis of the industry by size,"
     publishedDateTime: 2021-08-31T11:38:00Z
@@ -116,20 +114,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Trends, Size, Market Share, Growth Factor, Opportunities, Segment, Top Manufacturers, Drivers and Forecast 2021-2026"
-    excerpt: "Global “Computer Vision Market” research report presents a detailed analysis of the industry by size, strategies"
-    publishedDateTime: 2021-08-31T11:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-market-share-growth-factor-opportunities-segment-top-manufacturers-drivers-and-forecast-2021-2026-2021-08-31"
+  - title: "Recent Survey on Automatic Speech Recognition Market 2021-2030 Key Players : Nuance, Microsoft, Alphabet, IBM, Sensory, Cantab Research"
+    excerpt: "In recent years and especially due to the Covid-19 impact, the Global Automatic Speech Recognition Market has been through many ups and downs which have greatly impacted the business and the market players be it large or small."
+    publishedDateTime: 2021-08-31T09:46:00Z
+    webUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/"
+    ampWebUrl: "https://manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/recent-survey-on-automatic-speech-recognition-market-2021-2030-key-players-nuance-microsoft-alphabet-ibm-sensory-cantab-research/?amp=1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
   - title: "Artificial Intelligence In Military Market Size 2021 And Forecast to 2028 | Keyplayers – Lockheed Martin , Raytheon , Northrop Grumman , Ibm"
     excerpt: "In the recently published financial credit Artificial Intelligence In Military Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim."
     publishedDateTime: 2021-09-02T21:03:00Z
@@ -146,31 +141,6 @@ related:
         width: 300
         height: 212
         isCached: true
-  - title: "Self-driving Cars Sensors Market 2021: Size, Huge Growth Opportunities, Business Scenario, New Technology Upcoming Trends and Forecast to 2026"
-    excerpt: "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Self-driving Cars Sensors"
-    publishedDateTime: 2021-09-02T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-sensors-market-2021-size-huge-growth-opportunities-business-scenario-new-technology-upcoming-trends-and-forecast-to-2026-2021-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Guided Vehicles Market 2021 Global Growth Opportunities, Key Driving Factors, Market Scenario and Forecast to 2027"
-    excerpt: "The Global Self Guided Vehicles Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with a"
-    publishedDateTime: 2021-08-31T13:02:00Z
-    webUrl: "https://www.openpr.com/news/2374886/self-guided-vehicles-market-2021-global-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2374886/self-guided-vehicles-market-2021-global-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374886/self-guided-vehicles-market-2021-global-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "rceEiUofv2dXYmF2vS1mrzUBU+tOcPxvC0SNKZqygo6HAyEhNd7wc1HhlnS0vmKgR1tsXLYge0t14pemsA6RviD459lJLc0nYJdozVtpeFJogqnAb/vh2h5LG8rhezB4lG8mBffNGpCOTRlswSfcV1HvoXz85dbNUlEk7BpmBYz8D/3NZHnVflY9Stzm8Bd7JQirEpwUmmKmMMzAY2nMdZm1waIqk9ydGOwIxPZGDx+9v8k7o+pB1T/sXKEKqDCDLX6uaZPF0zJI9PDL5OQ5Jjuz4ec53ayiEXOuu/ltSXx6iiCnOI98AdZrWkkWdHym4OnQRH+sQbcdiMDlGHQ4b9Wa/nvUFfGD17jvyoWkkp8=;cgnyMHh8liiU0KLh5ul3Mg=="
 ---

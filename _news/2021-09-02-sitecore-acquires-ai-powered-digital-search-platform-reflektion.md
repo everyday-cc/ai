@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-93de7c9f99
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-93de7c9f99ec0ff79067be64066a3818"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,43 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Temasek-founded Aicadium acquires Singapore AI firm BasisAI"
-    excerpt: "Aicadium, a global technology company founded by Temasek and dedicated to creating and scaling AI solutions, today announced the acquisition of BasisAI, a Singapore -based provider of scalable and responsible artificial intelligence (AI) software."
-    publishedDateTime: 2021-08-31T02:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/temasek-founded-aicadium-acquires-singapore-ai-firm-basisai-1030768169"
+  - title: "Ushur Forms AI Research Group to Power the Future of Customer Experience Automation"
+    excerpt: "Ushur, the leader in AI-powered Customer Experience Automation™ (CXA), today announced the launch of Ushur AI Lab, a research group dedicated to tackling some of the most pressing issues in natural language processing (NLP),"
+    publishedDateTime: 2021-09-02T15:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-8de1ba4467121aca287c9bd55398e5ec"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/1605010/Cofounders_1.jpg"
-        width: 400
-        height: 283
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "New startup founded by Temasek acquires Singapore AI firm"
-    excerpt: "Aicadium, a tech firm based in Singapore and the founded by Temasek, today announced the acquisition of BasisAI, a provider of scalable and responsible AI software. Specific details about the deal amount,"
-    publishedDateTime: 2021-08-31T01:27:00Z
-    webUrl: "https://www.techinasia.com/temasekfounded-aicadium-acquires-singapore-ai-firm"
+  - title: "Gesa Credit Union Goes Live with Scienaptic’s AI-Powered Credit Decisioning Platform"
+    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI today announced that Gesa Credit Union has completed implementation and is"
+    publishedDateTime: 2021-08-31T15:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210831005082/en/Gesa-Credit-Union-Goes-Live-with-Scienaptic’s-AI-Powered-Credit-Decisioning-Platform"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
-  - title: "Zebra Technologies to Acquire Antuit.ai"
-    excerpt: "Zebra Technologies Corporation, a global enterprise mobile computing company, announced its intention to acquire antuit.ai, a provider of artificial intelligence (AI)-powered Software-as-a-Service (SaaS) solutions specific to forecasting and merchandising for the retail and CPG industries."
-    publishedDateTime: 2021-09-02T14:44:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/33691-zebra-technologies-to-acquire-antuitai"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 37
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Aug-2021-SM.jpg?crop=1&height=348&t=1628176208&width=271"
-        width: 271
-        height: 348
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "SROG2+lYyI/qJfdfVrbJ+WT5UWZZSfwLiUx56vuzA+41tUw92c18ZoSY5YeyP2q8UjUebatu1EIAhRXU00tDZtjBXKVfxtktEd+106ADoqTmnMIKGecCTB7/++f9Dj1J13+sr7HW1cQRKVN8grzSTz4ohk5z2lcMTKo0vajPOanFJIb8WSbNgdTdOF50wxVxiOxSaCpySM98IzfrezxOA/PkIhxmjJyvzZMWl/qT1AeXaAtsmf6SSWc2Dmp2UgDmYK7PEbdvaRa7/L7KDbFRokJB088EYRl9hoemRLHwzlM57QuiIte7go7VfcQJtkLo4CbfqxM72+XYUdafHO9BB1P4wcFkYpmrsb9BvA7RFp8=;DmK+oYFeuXw4eASFVaqJug=="
 ---

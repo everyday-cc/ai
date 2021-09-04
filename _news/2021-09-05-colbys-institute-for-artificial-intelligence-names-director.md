@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscentermaine.com/amp/article/news/education/colbys-in
 cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: newscentermaine.com
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Colby's Institute for Artificial Intelligence Names Director"
+    excerpt: "The nation’s first small liberal arts college to create an institute devoted to artificial intelligence now has a director."
+    publishedDateTime: 2021-09-04T15:55:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2021-09-04/colbys-institute-for-artificial-intelligence-names-director"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Colby College hires director for artificial intelligence institute"
     excerpt: "Amanda Stent, a nationally known expert on artificial intelligence and human language, will serve as the new director of the Davis Institute for Artificial Intelligence."
     publishedDateTime: 2021-08-31T23:37:00Z
@@ -41,6 +50,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "VpUN2oyTsXw79vh+3P1PAndSenUcyJ/Cp5hBg/1TsPsHbyaOiAuLJJbnVgT+RDXeMm3TASjiz73gr4oO8HiZvRG8i7F81R5CMN7/IysSIcO4HiXxbK9Y/yvsnOWKLCrG2YpiHCwSc7lbTi+huG3esEgEluqTKJjGFryXMdv5UHzgdZL4S05lH8D5aD3q8NIYZRHmmp+oAboNsXRJVOmUvHsRVkOFpODQMG1sIiQ9usHMs0QwpfTY38hxDXLtIIVPjlYNr15hkD9NKUYLWUnQrl7rd03PbvfoCg3vRJR8KGKOxeSB/rimTtR7ljzHo1AqRms4a7+svE1JWeBFnmCNaPkgUprN+b8uKTQGEwC03Kg=;a1rb36k2j1XedgCD1xfUzA=="
+secured: "p73WdyJLCL67cb+7JjP7xpozS0IZiHbJGtjdc8rodgvuAdDysba3CAW1YElTEamNWjv0VL390GNjLHUBPw7fnVQMRKqT8WWL9PQR2Vmg2L+XNWyb6mk9QGRomm9iu2pYsr3i9ZLRPuX+A2qwtyeVsaGbh8F5K7unhvmmrDX1iNwaVP9MKJgQRCfcJGtM72a4TkeS4pTeLuSofLOcym8o4B/II4RS6b3oJ1zdixpMa65h1v0oj02EhoDvDc1CDzUqLqiUVTgzo3rKQCioDo/CMDZgza9UJ9P0RTy22yMsev7Si9imwGgay5NZJYa+79mC+/2l6DRSAcphc5nxhPrAeYPEHi47D24g4Jc0xf2r4nV5ECpyqo7/IZ1JlVLA42CEfAzplOYitqYKJvWZlk02awqQ6oULHdG6Fd97TzkBB4m+ao7BMCFEJ6jFJ6PUG1YXxCQRUnz2Cm2SskrscGKFtZhUw3Jh8RZf2z6E07pqT06PmfAyzqEhxIa5z8Vo9hGX6muUh8/KqlDevYsmOj9oQA==;HC7UEYRFimxohByy1P3o7A=="
 ---
 

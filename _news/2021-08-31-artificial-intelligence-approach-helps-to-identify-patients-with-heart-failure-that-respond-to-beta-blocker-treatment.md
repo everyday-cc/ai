@@ -41,6 +41,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Novel AI-Driven Heart Failure Diagnosis"
+    excerpt: "Developing an artificial intelligence (AI) based diagnosis for heart failure will identify individuals who are unlikely to receive therapeutic benefit, and can make a more personalised medicine approach."
+    publishedDateTime: 2021-09-04T18:10:00Z
+    webUrl: "https://www.medindia.net/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/heart-transplant-paradox.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Hutch scientists use AI to identify potential therapies"
     excerpt: "Fred Hutch researchers used machine learning and other AI tools to screen, identify and validate a handful of FDA-approved compounds that inhibit COVID-19's deadly cytokine storms, at least in mice and cells."
     publishedDateTime: 2021-09-01T18:47:00Z

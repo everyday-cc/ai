@@ -43,6 +43,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Computer Vision Market Trends, Size, Market Share, Growth Factor, Opportunities, Segment, Top Manufacturers, Drivers and Forecast 2021-2026"
+    excerpt: "Global “Computer Vision Market” research report presents a detailed analysis of the industry by size, strategies"
+    publishedDateTime: 2021-08-31T11:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-market-share-growth-factor-opportunities-segment-top-manufacturers-drivers-and-forecast-2021-2026-2021-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Harvesting Robot Market is Forecasted to Grow at a CAGR of 19.9% During the Forecast Period 2017-2027 - ResearchAndMarkets.com"
     excerpt: "By Harvesting Type (Fruit, Vegetable, Grain, Others), By Application (Outdoor, Greenhouse), By Region, Estimation & Forecast, 2017 - 2027” report has been added to ResearchAndMarkets.com’s offering. The global harvesting robot market held a market value of USD 512."
     publishedDateTime: 2021-08-31T08:48:00Z
@@ -57,6 +71,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Self-Guided Vehicles Market 2021 Global Growth Opportunities, Key Driving Factors, Market Scenario and Forecast to 2027"
+    excerpt: "The Global Self Guided Vehicles Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with a"
+    publishedDateTime: 2021-08-31T13:02:00Z
+    webUrl: "https://www.openpr.com/news/2374886/self-guided-vehicles-market-2021-global-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2374886/self-guided-vehicles-market-2021-global-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374886/self-guided-vehicles-market-2021-global-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
   - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
     excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
     publishedDateTime: 2021-09-03T19:18:00Z
