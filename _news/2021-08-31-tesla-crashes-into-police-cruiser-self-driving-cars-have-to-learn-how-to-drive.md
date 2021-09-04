@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crashes-into-police-cruis
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crashes-into-police-cruiser-self-driving-cars-have-to-learn-how-to-drive-51630360830"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Feds Turn the Heat Up on Tesla's Self-Driving Feature"
+    excerpt: "Due to concerns about self-driving accidents, the National Highway Traffic and Safety Administration has told Telsa to provide a significant amount of data on every car the company has sold over the last seven years."
+    publishedDateTime: 2021-09-03T22:16:00Z
+    webUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature"
+    ampWebUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8178c13/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcd%2Fbf%2F781c440fda8cf1d7b16e94b883db%2Fshutterstock-284409203.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "How Does Tesla Use Artificial Intelligence?"
+    excerpt: "Elon Musk, the billionaire with a dream to launch humans into space and to Mars shortly with his SpaceX Company, also has a car manufacturing company. Calling it just a \"car\""
+    publishedDateTime: 2021-09-01T06:04:00Z
+    webUrl: "https://technofaq.org/posts/2021/09/how-does-tesla-use-artificial-intelligence/"
+    type: article
+    provider:
+      name: technofaq.org
+      domain: technofaq.org
+    quality: 58
+    images:
+      - url: "https://technofaq.org/wp-content/uploads/2021/09/charlie-deets-D1W5QenBzlU-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "If you thought a self-driving Tesla was cool, here is a kit to build and program your own self-driving car"
     excerpt: "This build & code your own AI self-driving car comes with complete components. Learn about microcomputers, electromotors, camera calibration & more!"
     publishedDateTime: 2021-09-03T14:00:00Z
@@ -38,31 +68,6 @@ related:
     quality: 51
     images:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-Build-Code-Self-Driving-Car.jpeg&signature=c189a084ee36e4787b851d03217ccbae"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Special Report-How the Chinese Tycoon Driving Volvo Plans to Tackle Tesla"
-    excerpt: "REUTERS/Aly Song Reuters HANGZHOU, China (Reuters) - \"Do you know how big Volvo is?\" asked Don Leclair, finance chief at Ford Motor Co.. It was 2008, and Leclair was responding to an offer from a little-known Chinese businessman to purchase the Swedish carmaker,"
-    publishedDateTime: 2021-09-02T11:54:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-09-02/special-report-how-the-chinese-tycoon-driving-volvo-plans-to-tackle-tesla"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
-  - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
-    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
-    publishedDateTime: 2021-09-01T09:00:00Z
-    webUrl: "https://www.barrons.com/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 41
-    images:
-      - url: "https://images.barrons.com/im-393971/social"
         width: 1280
         height: 640
         isCached: true
@@ -79,6 +84,20 @@ related:
       - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
         width: 350
         height: 240
+        isCached: true
+  - title: "How the Chinese tycoon driving Volvo plans to tackle Tesla"
+    excerpt: "Li Shufu has charted a path from a remote fishing village in eastern China through dirty factory floors to the heart of the auto industry."
+    publishedDateTime: 2021-09-02T19:09:00Z
+    webUrl: "https://www.autonews.com/china/how-chinese-tycoon-driving-volvo-plans-tackle-tesla"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/2021-09-02T110303Z_457192153_RC29OO9EY51Y_RTRMADP_3_AUTOS-GEELY-LISHUFU.JPG"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "Llm3h6aiWp6XY7WOr8V7lQhB1+pY0tP/fC7TZxzKTeHTsy4S+XZZdA/POLjGZ/xBqvJ0nh1OioopVFjHnJTDLMnUQXzrsrPGMbG3khCdm68fWB3ZfKFz4XLchfA9JwcFB6R2+A6Q+2dJZiMnokiMhJFpDmbETxZVHPjY7X5Bqv/wIpuX3UUUJvSTRUV+MB8rkFiy+WZD4+byOzlJ78AZik15cyPvtfGWyzaXCEp0gINriO6ERUHor10J1V759EIHcnL6TjQRGF78FGgtzktdCEb+N79lYdN79lEeZ3X9+FU2LazIvfj/BRNAarBpfJde03SfEZShTGd4m31w0Fx2z6aMZGYSED7AAS1jpMdbVDx0lTf/nWJFg1sZeGkU6BeCqVCgVhsiYWROgeDppOK9ajLBwxqCgs0WVK2aPhulxpy4daWMHIqdiMMn8f/wiF2sfjx7Fiyu357+IDtDnNn/F5MbJl0HIV5jYm6f9of56IE74KnVj8QVCMS6prRe7cvyx4FOsxzCEw+sjH/hROSaRQ==;Va9FU/OVCQQ6jgI24Ql5Zw=="

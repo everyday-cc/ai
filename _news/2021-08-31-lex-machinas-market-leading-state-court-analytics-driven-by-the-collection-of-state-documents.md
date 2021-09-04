@@ -120,6 +120,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
+    excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
+    publishedDateTime: 2021-08-31T00:53:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210830005567/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
   - title: "Cornerstone Advisors Acquires Coastline Analytics, Adding Advanced Analytics Expertise to Its Financial Services Consulting Offerings"
     excerpt: "Cornerstone Advisors announced today its acquisition of Coastline Analytics, a Florida-based firm specializing in advanced data analytics applications for community-based banks and credit"
     publishedDateTime: 2021-08-31T12:31:00Z

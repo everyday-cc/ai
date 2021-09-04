@@ -134,6 +134,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Cognigy Launches Conversational AI Analytics Suite to Deliver Actionable Insights From Conversational Data"
+    excerpt: "The Cognigy Insights analytics suite will enhance the capabilities of the Cognigy.AI platform to make sense of conversational data and facilitate data-driven optimisation SYDNEY-- ( BUSINESS WIRE )-- Cognigy,"
+    publishedDateTime: 2021-08-31T00:53:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210830005567/en/Cognigy-Launches-Conversational-AI-Analytics-Suite-to-Deliver-Actionable-Insights-From-Conversational-Data"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "qAyuPefJD+lIZ7gTmiZhdHyR658ZOw4BeKCXIkcLXvLUEFIUEiP98EGtcNZBramVvppdktfp+74Pc5G6lfFSoqrJVwsTDvTcMyBLO9DpDCcQ3DLTkeiZc15um0nAMEEHtxhQWl7LS6K15TiyO0bNJqPgRoxqLPHSY9K04QzT++YxMMJykG7Q3e42N7dybAt2yjl8IQ8TnfVcpnhf/S3ACpQNS9zwptM7Hd/SSiNf3RH8fh8yGjM6ofRdvInmaPc/gpCOfb+RkmXZ4dc1dYuhZ03XFR/f3qK++ifu8IlB4e7pttan3RPauIFlkCizm9ef7xcKM3sm3l4GH5uR0zYpRmfx8juBaisBos+xqormP78qz/NMd9PUfUPOZe6PvpWfd0+DoZM655bQoSHYwVts9V0HyI2MZj8wAsTnCgHm2k/EK+i4V26XXhSF96kwFuNHXuFP6bGxPMf2ur8HxymBuEFbVmvIjJUzkEP8C3hHcLly8/ys6jPKVyEDkXHsY1D6PzyXGQWsKzvjuecRbA5Wjw==;XVvyjg8FKzPgdBrvNNx30g=="
 ---

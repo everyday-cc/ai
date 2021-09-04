@@ -34,20 +34,6 @@ related:
         width: 716
         height: 1002
         isCached: true
-  - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
-    excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
-    publishedDateTime: 2021-08-30T05:50:00Z
-    webUrl: "https://3quarksdaily.com/3quarksdaily/2021/08/irrationality-artificial-intelligence-and-the-climate-crisis.html"
-    type: article
-    provider:
-      name: 3 Quarks Daily
-      domain: 3quarksdaily.com
-    quality: 37
-    images:
-      - url: "https://3quarksdaily.com/wp-content/uploads/2021/08/RC152B10B550-768x511-1-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
 
 secured: "jpWqOOHWjEW5zzSv1+wr69dtEDiCrOezdiirmSHlE9HuhDG+ydFyPWQfpXggS88VVsItPxO5oPhvP1MZIQG/48CmrsXDb391zKqdayYFVpjwA7f+gq73qvvI2q/iQrwz1b6NT1pv2302rB9/CUhFcSUCHICQ9aqQIn95qfNgb9kT6r01Ul6Wc9M/zyAp0VPGJN+Q75JvTVMUTsVyE2z115IFffDwsx5qmIZ4uspuLgdKY5mNc1WpyC29fdzCVR4MlhhoyBqx8Vju4AsGYi/X0EvH0ONNtmFldh3vhGlrDZt6XgV/+LWkCziKAn3iAAzcR3gSAzHF1Oe+Jm6991EtjJ40M6woPQpJstX1yZyNNpM=;L+dVm3LltmYpcXORsyOCVw=="
 ---

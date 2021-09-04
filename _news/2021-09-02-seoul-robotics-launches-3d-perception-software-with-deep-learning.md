@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/seoul-robotics-launches-first-3d-pe
 webUrl: "https://www.therobotreport.com/seoul-robotics-launches-first-3d-perception-software-with-deep-learning/"
 type: article
 quality: 101
-heat: 123
+heat: 121
 published: true
 
 provider:

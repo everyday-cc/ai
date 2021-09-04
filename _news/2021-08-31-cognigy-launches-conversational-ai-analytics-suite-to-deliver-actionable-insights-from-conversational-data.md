@@ -18,139 +18,128 @@ topics:
   - AI
 
 related:
-  - title: "Why AI Is Relevant To Conversational Marketing"
-    excerpt: "Marketers want to have one-on-one conversations with their customers to learn what they are looking for, and develop a stronger, long-term relationship with them"
-    publishedDateTime: 2021-08-30T06:08:00Z
-    webUrl: "https://www.entrepreneur.com/article/382318"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/382318"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318"
+  - title: "Playing catch-up to the early adopters of analytics, AI and machine learning"
+    excerpt: "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
+    publishedDateTime: 2021-08-30T13:00:00Z
+    webUrl: "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 104
+      name: IOL News
+      domain: iol.co.za
+    quality: 71
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1630303653-4530890.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e"
+        width: 410
+        height: 230
         isCached: true
-  - title: "AI in Online Advertising Market"
-    excerpt: "The Global AI in Online Advertising Market Report is presented in a clear and concise way to help you understand market structure and dynamics. Recent trends, developments and opportunities ..."
-    publishedDateTime: 2021-08-31T12:19:00Z
-    webUrl: "https://www.openpr.com/news/2374926/ai-in-online-advertising-market-demand-growth-prospects"
-    ampWebUrl: "https://www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
+  - title: "Playing catch-up to the early adopters of AI and machine learning"
+    excerpt: "Early adopters of data analytics, artificial intelligence and machine learning tools have found themselves in a position of favour in today's rapidly accelerating digital"
+    publishedDateTime: 2021-08-30T15:19:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/219535.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/8/U831556344_g.jpg"
-        width: 720
-        height: 325
-        isCached: true
-  - title: "Marketer, meet machine! - helping marketers get a handle on AI"
-    excerpt: "As a marketer, I am fascinated with how machine learning and Artificial Intelligence are helping companies improve their marketing and sales strategies. But also understand we have a long way to go, and there are many questions around how to use AI right."
-    publishedDateTime: 2021-08-31T09:30:00Z
-    webUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai"
-    ampWebUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-03/shutterstock_1005701926.png"
-        width: 740
-        height: 450
-        isCached: true
-  - title: "Three ways conversational AI could boost productivity"
-    excerpt: "Tired of distractions around the home office? Need some encouragement from the \"boss\"? Artificial intelligence could one day come to the rescue."
-    publishedDateTime: 2021-09-03T08:24:00Z
-    webUrl: "https://www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.html"
-    ampWebUrl: "https://www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/01/gettyimages-1064982786-100828145-large.jpg?auto=webp"
-        width: 1200
-        height: 762
-        isCached: true
-  - title: "3 ways artificial intelligence will change marketing forever"
-    excerpt: "Marketers are no exception to the relentless pace of organizational digital transformation and automation—especially by leveraging artificial intelligence. AI-powered automation doesn’t just make a firm’s marketing department faster,"
-    publishedDateTime: 2021-09-03T09:30:00Z
-    webUrl: "https://adage.com/article/opinion/3-ways-artificial-intelligence-will-change-marketing-forever/2362516"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
+      name: Bizcommunity
+      domain: bizcommunity.com
     quality: 54
     images:
-      - url: "https://s3-prod.adage.com/s3fs-public/styles/800x600/public/20210906_AI_Istock_3x2.jpg"
-        width: 800
-        height: 600
+      - url: "https://biz-file.com/c/2108/625807.jpg"
+        width: 700
+        height: 364
         isCached: true
-  - title: "Can real time accent translations perfect conversational AI?"
-    excerpt: "One of the biggest problem with conversational AI is understand and detecting the various accents of a language."
-    publishedDateTime: 2021-08-31T21:15:00Z
-    webUrl: "https://techhq.com/2021/08/can-real-time-accent-translations-perfect-conversational-ai/"
+  - title: "PKS rebrands as Beamtree, buys AI start-up Ainsoff and data analytics firm Potential(x)"
+    excerpt: "The clinical data analytics company formed earlier this year through the merger of health software vendors Pacific Knowledge Systems (PKS) and Pavilion Health has rebranded as Beamtree Holdings, with the ASX-listed company recently buying two smaller companies to form what it says is one of the largest health analytics and decision support platforms in Australia."
+    publishedDateTime: 2021-08-31T05:22:00Z
+    webUrl: "https://www.pulseitmagazine.com.au/australian-ehealth/6229-pks-rebrands-as-beamtree-buys-ai-start-up-ainsoff-and-data-analytics-firm-potential-x"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 39
+      name: PULSE IT
+      domain: pulseitmagazine.com.au
+    quality: 29
     images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/000_1Q247L-scaled.jpg"
-        width: 2560
-        height: 1731
+      - url: "https://www.pulseitmagazine.com.au/images/articles/ClinicalData.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Continuing the Conversation on the Future of Artificial Intelligence"
-    excerpt: "If we believe the hype, artificial intelligence (AI) and data analytics are quite possibly the answer to all our problems. Not just in business, but for"
-    publishedDateTime: 2021-09-01T04:27:00Z
-    webUrl: "https://www.datanami.com/anniversary_channel/continuing-the-conversation-on-the-future-of-artificial-intelligence/"
+  - title: "Analytics and AI Not Being Fully Utilized for Audits and Compliance Investigations: Report"
+    excerpt: "While there is an increase in the number of investigations companies are conducting in the areas of employee conduct, regulatory compliance, security, and"
+    publishedDateTime: 2021-08-31T17:56:00Z
+    webUrl: "https://www.datanami.com/2021/08/31/analytics-and-ai-not-being-fully-utilized-for-audits-and-compliance-investigations-report/"
     type: article
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Speaker-Spotlight-Future-Says-Season-2_3.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Togal.AI Launches Construction Estimating Tool"
-    excerpt: "Togal automates the estimating process, which includes measuring the size of each room’s square footage to accurately price the cost of construction."
-    publishedDateTime: 2021-09-02T14:57:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21648221/togalai-launches-construction-estimating-tool"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 37
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/09/16x9/Togal.AI_product_screen.6130e3d4477fe.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Yellow.ai Debuts as a Major Contender in Everest Group's PEAK Matrix for Conversational AI"
-    excerpt: "Yellow.ai, the world's leading customer experience (CX) automation platform, trusted by 700+ enterprises globally, today announced it"
-    publishedDateTime: 2021-09-01T11:46:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/yellow-ai-debuts-as-a-major-contender-in-everest-group-s-peak-matrix-for-conversational-ai-810124262.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
     quality: 27
     images:
-      - url: "https://mma.prnewswire.com/media/1606571/Yellow_ai_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/compliance_shutterstock_EtiAmmos.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
+    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
+    publishedDateTime: 2021-08-30T08:22:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 24
+  - title: "The Executive’s Guide to Accelerating Artificial Intelligence and Data Innovation with Synthetic Data"
+    excerpt: "Senior leadership finds itself grappling with the competing demands of operating in an increasingly digital world. This digital environment requires use of sophisticated technologies like artificial intelligence (AI),"
+    publishedDateTime: 2021-09-02T01:46:00Z
+    webUrl: "https://hbr.org/sponsored/2021/09/the-executives-guide-to-accelerating-artificial-intelligence-and-data-innovation-with-synthetic-data"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 22
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/09/HBRAS_CRE2072_thumb.png"
+        width: 1220
+        height: 686
+        isCached: true
+  - title: "Independent survey highlights need for advanced analytics and machine learning to accelerate investigations"
+    excerpt: "OpenText™ (NASDAQ: OTEX), (TSX: OTEX), today announced findings from a recent independent survey from Compliance Week, sponsored by OpenText. The results show the importance of both advanced technology and dedicated teams that can quickly deliver data insights to reduce time and cost and result in better outcomes."
+    publishedDateTime: 2021-08-31T13:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-independent-survey-highlights-need-advanced-analytics-machine-learning-/2021/08/31/9440063.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
+    excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
+    publishedDateTime: 2021-08-31T15:38:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Cornerstone Advisors Acquires Coastline Analytics, Adding Advanced Analytics Expertise to Its Financial Services Consulting Offerings"
+    excerpt: "Cornerstone Advisors announced today its acquisition of Coastline Analytics, a Florida-based firm specializing in advanced data analytics applications for community-based banks and credit"
+    publishedDateTime: 2021-08-31T12:31:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cornerstone-advisors-acquires-coastline-analytics-adding-advanced-analytics-expertise-to-its-financial-services-consulting-offerings/article_06d546a7-9199-5b7e-9fd4-362736dfb2ef.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/2f/e2f6071d-9d4a-5338-a4af-458d3a66456d/612e223769960.image.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "dTRIyG3/LaBYcSZrRHlRjq/H4gGV+z72005EEtsxbyXZWy0PBJXlxw8uPSptzOADHuOV1AvpVgvxv88Wyq3HVizGQvZ86O1il8xVxxbIEUImNj675spUvEgkrFrnjIxuPksHT2xFKEzB5E+/W/HWpNgR/6hAxevhoRBdDeu9qMlOACsuVkEVj5/+gvAw5dcoHF2KbfXraciz1kpPS2EFUMIgh3MLSl15P25ipUXtEfxb/qYb0PlM6Adx0EC75iRmyue8flaSyR+Dpnf3tfakFFqYhGiLvJ4Js/cDBVqJSL1GHivZf+6ISsrQuT6Tsa9nLts/eUaBKBc7qYHEbVAOhjoVu0K9dNsRST0hIo8GXYc=;xzN1IwzIQAtTxa3yaS/jwA=="

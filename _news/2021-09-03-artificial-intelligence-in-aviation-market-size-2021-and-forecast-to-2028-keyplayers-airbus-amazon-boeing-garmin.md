@@ -83,22 +83,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 52
-  - title: "Cognitive Analytics Solutions Market Size 2021 And Forecast to 2028 | Keyplayers – IBM, Amazon Web Services, Google, Microsoft"
-    excerpt: "In addition, the global Cognitive Analytics Solutions Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-08-30T05:26:00Z
-    webUrl: "https://manometcurrent.com/cognitive-analytics-solutions-market-size-2021-and-forecast-to-2028-keyplayers-ibm-amazon-web-services-google-microsoft/"
-    ampWebUrl: "https://manometcurrent.com/cognitive-analytics-solutions-market-size-2021-and-forecast-to-2028-keyplayers-ibm-amazon-web-services-google-microsoft/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-analytics-solutions-market-size-2021-and-forecast-to-2028-keyplayers-ibm-amazon-web-services-google-microsoft/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 48
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/food-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Face Recognition Systems Market Share, Top Key Players, Growth Factor, Industry Size, Latest Trends and Forecast 2021-2026"
     excerpt: "Global “Face Recognition Systems Market” research report presents a detailed analysis of the industry by size,"
     publishedDateTime: 2021-08-31T11:38:00Z

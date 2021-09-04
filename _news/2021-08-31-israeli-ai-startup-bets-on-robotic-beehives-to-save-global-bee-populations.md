@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-bee
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/09/il.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "8 ways the Start-Up Nation is trying to save the bees"
-    excerpt: "From bee-free honey to completely autonomous beehives and artificial pollination, Israelis are buzzing with ideas."
-    publishedDateTime: 2021-08-30T05:21:00Z
-    webUrl: "https://www.israel21c.org/8-ways-the-start-up-nation-is-trying-to-save-the-bees/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 22
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/08/flowers.jpg"
-        width: 1599
-        height: 901
         isCached: true
 
 secured: "s++BJOe7AGfx42LGdtNDu9D0PZJFRGo//Vtvar0QkVfFqapVjrlNxdtVMlDDvSldP4LRU9l7pfp4YojiwIu+lMVXtaIinzPs9v1OOYYZO46BS461nEZsbL49aO7Dk34ieZNBqqW4iVstkOvaam/WpvOA5mu+XcAIbKGgKD6KgAgzbswaOpG8H2YKHtJ1G3vK3q5qrE8mvTl5C2aBglEC4qG9yjFIW0QBBFlf3oW/KPUAmX+JdMus3X1MDH1pTLqNTDDPf2nbLvcozRyNbaPwckqN4h/mmQ++Vh0Mor7+ueaf1LqJ7wr+2XQP9W6MSLwJdP8asAtpRTLLybGLyrxxq0s7SyZuZCcFyzW68QA/WCLeEW0spN0qrOTXy3++CctwpoYODTloyJOPg+BsJvAL6qyT3eVasNdLe5TSYN8VgPf1FsZvY5hp3ZhCgi6/Qi/pL9OWiSz5/0EmcNEC7sbDBXHX4KPtlloXXu4vqcOQ3hJv39w4tUKo3yzv712kjIPZbdJ3WEr9cdsyh1gkC/OGNw==;Jdgvt1mW9qYZVfUBenTkpA=="

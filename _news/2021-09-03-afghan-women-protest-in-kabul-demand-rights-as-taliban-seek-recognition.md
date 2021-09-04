@@ -45,14 +45,14 @@ related:
         isCached: true
   - title: "Afghan women demand rights as Taliban seek recognition"
     excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan's new rulers work on forming a government and seeking international recognition."
-    publishedDateTime: 2021-09-03T21:56:00Z
-    webUrl: "https://www.chron.com/news/article/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
+    publishedDateTime: 2021-09-03T23:56:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Afghan-women-demand-rights-as-Taliban-seek-16433172.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 44
     images:
       - url: "https://s.hdnux.com/photos/01/21/56/55/21425016/3/ratio3x2_400.jpg"

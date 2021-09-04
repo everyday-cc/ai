@@ -26,61 +26,80 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Growth Registering a CAGR of 13.5 % by 2025"
-    excerpt: "Global Facial Recognition Market Drivers Restraints Opportunities Trends and Forecast up to 2025 Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation"
-    publishedDateTime: 2021-08-31T16:01:00Z
-    webUrl: "https://www.openpr.com/news/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5"
-    ampWebUrl: "https://www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5"
+  - title: "AI in Online Advertising Market"
+    excerpt: "The Global AI in Online Advertising Market Report is presented in a clear and concise way to help you understand market structure and dynamics. Recent trends, developments and opportunities ..."
+    publishedDateTime: 2021-08-31T12:19:00Z
+    webUrl: "https://www.openpr.com/news/2374926/ai-in-online-advertising-market-demand-growth-prospects"
+    ampWebUrl: "https://www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 59
     images:
-      - url: "https://cdn.openpr.com/U/8/U831188396_g.jpg"
+      - url: "https://cdn.openpr.com/U/8/U831556344_g.jpg"
+        width: 720
+        height: 325
+        isCached: true
+  - title: "Marketer, meet machine! - helping marketers get a handle on AI"
+    excerpt: "As a marketer, I am fascinated with how machine learning and Artificial Intelligence are helping companies improve their marketing and sales strategies. But also understand we have a long way to go, and there are many questions around how to use AI right."
+    publishedDateTime: 2021-08-31T09:30:00Z
+    webUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai"
+    ampWebUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-03/shutterstock_1005701926.png"
+        width: 740
+        height: 450
+        isCached: true
+  - title: "3 ways artificial intelligence will change marketing forever"
+    excerpt: "Marketers are no exception to the relentless pace of organizational digital transformation and automation—especially by leveraging artificial intelligence. AI-powered automation doesn’t just make a firm’s marketing department faster,"
+    publishedDateTime: 2021-09-03T09:30:00Z
+    webUrl: "https://adage.com/article/opinion/3-ways-artificial-intelligence-will-change-marketing-forever/2362516"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/800x600/public/20210906_AI_Istock_3x2.jpg"
         width: 800
         height: 600
         isCached: true
-  - title: "Gesture Recognition Market Size Is Likely To Reach USD 30.6 Billion By 2025. It Is Poised To Post A CAGR Of 22.2% From 2018 To 2025."
-    excerpt: "A recent market research report added to repository of Credible Markets is an in depth analysis of Gesture Recognition Market On the basis of historic growth analysis and current scenario of Gesture Recognition Market place the report intends to offer"
-    publishedDateTime: 2021-08-31T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2374812/gesture-recognition-market-size-is-likely-to-reach-usd-30-6"
-    ampWebUrl: "https://www.openpr.com/amp/2374812/gesture-recognition-market-size-is-likely-to-reach-usd-30-6"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374812/gesture-recognition-market-size-is-likely-to-reach-usd-30-6"
+  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and Inference), Power (Less Than 1W, 1-3 W,"
+    publishedDateTime: 2021-08-30T13:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-19973236.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 27
     images:
-      - url: "https://cdn.openpr.com/U/8/U831591626_g.jpg"
-        width: 800
-        height: 459
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Global Harvesting Robot Market is Forecasted to Grow at a CAGR of 19.9% During the Forecast Period 2017-2027 - ResearchAndMarkets.com"
-    excerpt: "By Harvesting Type (Fruit, Vegetable, Grain, Others), By Application (Outdoor, Greenhouse), By Region, Estimation & Forecast, 2017 - 2027” report has been added to ResearchAndMarkets.com’s offering. The global harvesting robot market held a market value of USD 512."
-    publishedDateTime: 2021-08-31T08:48:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-44659cc39bc347bb95c2977d50153fc1"
+  - title: "Edge AI Hardware Market worth 2,080 million Units by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \"Edge AI Hardware Market with COVID-19 Impact Analysis device, Processor (CPU, GPU, and ASICs), End User, Function (Training and"
+    publishedDateTime: 2021-08-30T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/edge-ai-hardware-market-worth-2-080-million-units-by-2026---exclusive-report/article_d19062e8-3ab9-50f9-a711-5e5c4d492767.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+        width: 669
+        height: 229
         isCached: true
-  - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
-    excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
-    publishedDateTime: 2021-09-03T19:18:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "mYF95aR4qx2CQ1lyNx9DDPZ73xM4Uk/+p5pN4TEoTl5ja7BvAl0bYE6B3h9WhTUjKwyzlajwoX8WTf4pLYFaP9fANj2LxFxBAdDNyRkhV5DADNgynShlvie+QEVpTBt+eO9Kic997/Fao+V/yvgUj63gNHDaC/AvaGjZFQdDM778IaYDDuIAurLv9U7hZ0oIpj+6NzymXk9ueMhHXewudOYSIGuxSplY2zhbJWZ9Bw+bwh6p2ebTNOR+A9IXyS6dtbNOpTQZumJf/v4Jwpu3ri3elW/fQvGP0RcLxsIYoAqXMMLjPPpLVXcaopiGyK75dE57dySPgvArixzatp8EXgw7n0wcS6m2DB0TqQNHs7BIigsVSDxu6YvQq37uVPpBBeTn0Y7rnpv3HGBSN62WnAE1fAgVqtY5bFtEV+omN8IF1Kuc/6TSc9tTMj/I+Yv4MUTM5sVeU9MgtihTM3xwsuZAm/EowdllBw4YUnStPiH2KNY6amRZ1JHJZwRQSH/4rSW18/0LQrh7fHIvrmyigw==;T+w+jyPAPqZFMix4Pb9Xag=="
 ---

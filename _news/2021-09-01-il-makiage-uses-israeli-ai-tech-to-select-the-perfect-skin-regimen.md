@@ -49,20 +49,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "8 ways the Start-Up Nation is trying to save the bees"
-    excerpt: "From bee-free honey to completely autonomous beehives and artificial pollination, Israelis are buzzing with ideas."
-    publishedDateTime: 2021-08-30T05:21:00Z
-    webUrl: "https://www.israel21c.org/8-ways-the-start-up-nation-is-trying-to-save-the-bees/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 22
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/08/flowers.jpg"
-        width: 1599
-        height: 901
-        isCached: true
 
 secured: "G0YKyvFMLOS6DM0oBezbEj/l07DEbjwvDtjMGyVvnTAMt1UEVLO/D3y/A24MrwT+iwcyqJmcyGSOiIpCwmxnh2XkWrf/ma4z9jZsP+hG/M0US7o8Jx57j5wxTVYxxijVxDr6Yii5gS1FBx7R2SwGmRuaWGt7YJM1Wkm3rLy9P3jFsl0SlaBVIsxRwD6LikYIpRVm4CCdlqn6wIXobvLdF0xX+hv1Opubz6bIge7EFgP54HQ0QmAPwXjOU8htjl1tZnH/2sPrPXyM3B7oQJnHL8zRovGMTIgNFBxFbou+gYl3b+IuEj8RSqbAzSbe1E+6HkWh0Au1X/R3pAanFgFC1HkpSBALJ4BYs3Ylzi9Y22I=;HVYVbaN8wRgruhaUfARNVA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: europeansting.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Irrationality, Artificial Intelligence, and the Climate Crisis"
-    excerpt: "Human beings are rather silly creatures. Some of us cheer billionaires into space while our planet burns. Some of us think vaccines cause autism, that the earth is flat, that anthropogenic climate change is not real,"
-    publishedDateTime: 2021-08-30T05:50:00Z
-    webUrl: "https://3quarksdaily.com/3quarksdaily/2021/08/irrationality-artificial-intelligence-and-the-climate-crisis.html"
-    type: article
-    provider:
-      name: 3 Quarks Daily
-      domain: 3quarksdaily.com
-    quality: 37
-    images:
-      - url: "https://3quarksdaily.com/wp-content/uploads/2021/08/RC152B10B550-768x511-1-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Investment in Artificial Intelligence Solutions Will Accelerate According to a New IDC Spending Guide"
     excerpt: "Businesses and organizations across all industries are increasing their investment in artificial intelligence (AI) to"
     publishedDateTime: 2021-08-30T16:05:00Z

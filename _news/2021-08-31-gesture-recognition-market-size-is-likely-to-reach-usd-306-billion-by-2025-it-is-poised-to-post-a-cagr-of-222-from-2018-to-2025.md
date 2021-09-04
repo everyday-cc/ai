@@ -43,22 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Artificial Intelligence in Market Globally Expected to Drive Growth through 2025"
-    excerpt: "A complete research offering of comprehensive analysis of the market share size recent developments and trends can be availed in this latest report by Big Market Research As per the report the Global Artificial Intelligence in Market is anticipated to"
-    publishedDateTime: 2021-08-31T08:34:00Z
-    webUrl: "https://www.openpr.com/news/2374209/artificial-intelligence-in-market-globally-expected-to-drive"
-    ampWebUrl: "https://www.openpr.com/amp/2374209/artificial-intelligence-in-market-globally-expected-to-drive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374209/artificial-intelligence-in-market-globally-expected-to-drive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/U/8/U831119321_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Global Harvesting Robot Market is Forecasted to Grow at a CAGR of 19.9% During the Forecast Period 2017-2027 - ResearchAndMarkets.com"
     excerpt: "By Harvesting Type (Fruit, Vegetable, Grain, Others), By Application (Outdoor, Greenhouse), By Region, Estimation & Forecast, 2017 - 2027” report has been added to ResearchAndMarkets.com’s offering. The global harvesting robot market held a market value of USD 512."
     publishedDateTime: 2021-08-31T08:48:00Z

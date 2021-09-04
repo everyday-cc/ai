@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "8 ways the Start-Up Nation is trying to save the bees"
-    excerpt: "From bee-free honey to completely autonomous beehives and artificial pollination, Israelis are buzzing with ideas."
-    publishedDateTime: 2021-08-30T05:21:00Z
-    webUrl: "https://www.israel21c.org/8-ways-the-start-up-nation-is-trying-to-save-the-bees/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 22
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/08/flowers.jpg"
-        width: 1599
-        height: 901
-        isCached: true
 
 secured: "8wM0ekY5YzwGdZNiahsaJEWhWgpI6XDbSMWd+pDpGBNEGRJ4mNEHXL3bXhK45yCgtP1AMlNH1pBvIq9R+NRgxwMMSy8HHeHwGb7lUKZWwO6WZA9NjZ0zPVziFU5Ni/HmCC58fOPBsvmPgkDiQpfLjRF2Wz1AUztJa3nwq/G8iy8a4fPbCHW0x8BsGYq5Bd5fC4aWLkRPTjEAHpLx0/jb1fRMq/S4FC6MkdC6oTFJd9DerMrm2brxT09QE7Q+E+llM/mqYh9Uda1FGH7PF0oKRUIQqyPInqh4jzuN2MIDZtyw5m/GTg4sXcmB5ShbjI+33u/EBfLf0cdcCc7hs0f1IEkfDEPwofogvMRpdoEq6qsqhdCapnn5edza6bmnMmnZKUt1a7CXUCB6wNaFPH806GNOmy0wjOtuLQ69VLBzsrhX4JE14mQKSTwljkg+lHa9bqI3AjUqn/Z4q7PqWw62jq/bLxvTqt59fp04QBzLoeRD7W5xo2SnE+oHGuWChbWIdaBmENLig7f+0sQ1kax6gg==;Hsq0fgj37GuaC0yAJSA2Hg=="
 ---

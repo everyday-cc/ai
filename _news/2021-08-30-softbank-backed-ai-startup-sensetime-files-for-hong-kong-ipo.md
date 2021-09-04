@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/sensetime-ipo-hongkong-stock-exchange"
 webUrl: "https://www.techinasia.com/sensetime-ipo-hongkong-stock-exchange"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,21 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "China’s AI unicorn SenseTime files for Hong Kong IPO"
-    excerpt: "China’s biggest AI firm SenseTime filed Friday to go public on the Hong Kong exchange as China tightens scrutiny on overseas listings. The firm is planning to raise at least $2 billion in its IPO, local media reported."
-    publishedDateTime: 2021-08-30T06:03:00Z
-    webUrl: "https://technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
-    ampWebUrl: "https://technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/30/chinas-ai-unicorn-sensetime-files-for-hong-kong-ipo/"
+  - title: "SoftBank to offer AI-based, real-time sign language translation"
+    excerpt: "SoftBank will start providing an AI-based sign language translation service as soon as 2024 using a smartphone app that can turn 5,000 signs into Japanese text in one second or less, Nikkei has learned."
+    publishedDateTime: 2021-09-03T09:56:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/SoftBank-to-offer-AI-based-real-time-sign-language-translation"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 57
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
     images:
-      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F7%252F1%252F36241707-4-eng-GB%252F%25E2%2598%258520191105_1866.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "IszCWpLqwTECtrJy4FiJ0Z7H60+0OhGYJQHvaxHfg8cF3v024Lju5gz3syh3UEkkZm+fnrXdqxtcTy5icujRvWiIxa+8HuPXhUI8v10ug47NxqsAkdCByrzdBHhEjc3AblPSK2vaCZO8xWwJrTWenyEztxmJqrmESKgYf/BDeQC+TZpycIe2IWkxkwadc7ycRNdC8GD7W/OeHoqkwz2IfzzgGKq2LTXx4Dn2rH8o+UvF90puiM5daZ+Ou/7ypKFSJfy1kEvnHVNXHWLAr5geQCH7ybR7xfO4ArcAsTOvIX1xZ+Pdg/e92un9vMKoR1rOHCHc7xFm+pwXh7sNAkTzTmCr7wahP/lfHv1LDmRVNwY=;NPvkaJLMDMWwJQxatn5bew=="

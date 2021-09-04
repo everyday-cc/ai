@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Feds Turn the Heat Up on Tesla's Self-Driving Feature"
+    excerpt: "Due to concerns about self-driving accidents, the National Highway Traffic and Safety Administration has told Telsa to provide a significant amount of data on every car the company has sold over the last seven years."
+    publishedDateTime: 2021-09-03T22:16:00Z
+    webUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature"
+    ampWebUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8178c13/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcd%2Fbf%2F781c440fda8cf1d7b16e94b883db%2Fshutterstock-284409203.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "How Does Tesla Use Artificial Intelligence?"
+    excerpt: "Elon Musk, the billionaire with a dream to launch humans into space and to Mars shortly with his SpaceX Company, also has a car manufacturing company. Calling it just a \"car\""
+    publishedDateTime: 2021-09-01T06:04:00Z
+    webUrl: "https://technofaq.org/posts/2021/09/how-does-tesla-use-artificial-intelligence/"
+    type: article
+    provider:
+      name: technofaq.org
+      domain: technofaq.org
+    quality: 58
+    images:
+      - url: "https://technofaq.org/wp-content/uploads/2021/09/charlie-deets-D1W5QenBzlU-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Tesla Crashes Into Police Cruiser. Self-Driving Cars Have To Learn How To Drive."
     excerpt: "The stock brushed off the crash, which happened over the weekend in Florida. Still, the wreck shows that true self driving is hard to achieve."
     publishedDateTime: 2021-08-30T22:00:00Z
@@ -55,30 +85,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Special Report-How the Chinese Tycoon Driving Volvo Plans to Tackle Tesla"
-    excerpt: "REUTERS/Aly Song Reuters HANGZHOU, China (Reuters) - \"Do you know how big Volvo is?\" asked Don Leclair, finance chief at Ford Motor Co.. It was 2008, and Leclair was responding to an offer from a little-known Chinese businessman to purchase the Swedish carmaker,"
-    publishedDateTime: 2021-09-02T11:54:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-09-02/special-report-how-the-chinese-tycoon-driving-volvo-plans-to-tackle-tesla"
+  - title: "How the Chinese tycoon driving Volvo plans to tackle Tesla"
+    excerpt: "Li Shufu has charted a path from a remote fishing village in eastern China through dirty factory floors to the heart of the auto industry."
+    publishedDateTime: 2021-09-02T19:09:00Z
+    webUrl: "https://www.autonews.com/china/how-chinese-tycoon-driving-volvo-plans-tackle-tesla"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
-  - title: "Lidar Maker Branches Beyond Self-Driving Cars in Race To Prove New Technology"
-    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
-    publishedDateTime: 2021-09-01T09:00:00Z
-    webUrl: "https://www.barrons.com/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-branches-beyond-self-driving-cars-in-race-to-prove-new-technology-51630453396"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 41
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
     images:
-      - url: "https://images.barrons.com/im-393971/social"
-        width: 1280
-        height: 640
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/2021-09-02T110303Z_457192153_RC29OO9EY51Y_RTRMADP_3_AUTOS-GEELY-LISHUFU.JPG"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "/RFip2LOI401wA9pC3K6uovVlZsBOlRQXANTx5Cn5oEImFqqx3/kT841BroBwoEXRmB6p9GjtIfsy+Mh5UJATSKRnSfZ0rMkYl2qG3qWSlWEOB4qkzIk8Jyl8yMIbHXRZDb25QKI30cHmY0V1BAqRMC855QXbUkTMXncGjOn9gxeiqEArMP3KeqfS9PpMlK+WBMpBjBc6paxVxSmVh4ocYBnmOp9QPKG3UhKOYmmE1z1iSbsfLN/FaFv53rE9SbjbAkmcT7I2ajVStJNYlzVf4lF0T4xbd3Orb4PmnrvNlml7RbODuJ9M4TVUGEZFqh+93rBEBV3iYjQiUVmZFFOPStTS3CrOTn4CR/ssMflu/g=;k8Tlr04x8KV/URNfhOPraw=="

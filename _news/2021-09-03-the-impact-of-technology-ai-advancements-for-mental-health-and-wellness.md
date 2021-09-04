@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancemen
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
 type: article
 quality: 58
-heat: 108
+heat: 109
 published: true
 
 provider:
