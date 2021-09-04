@@ -3,8 +3,8 @@ category: news
 title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
 excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
 publishedDateTime: 2021-08-31T15:38:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
-webUrl: "https://apnews.com/press-release/PRNewswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
 type: article
 quality: 12
 heat: -1
@@ -83,15 +83,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
-    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
-    publishedDateTime: 2021-08-30T08:22:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 24
   - title: "The Executive’s Guide to Accelerating Artificial Intelligence and Data Innovation with Synthetic Data"
     excerpt: "Senior leadership finds itself grappling with the competing demands of operating in an increasingly digital world. This digital environment requires use of sophisticated technologies like artificial intelligence (AI),"
     publishedDateTime: 2021-09-02T01:46:00Z
@@ -144,6 +135,6 @@ related:
         height: 600
         isCached: true
 
-secured: "8FWZsKTM8V9Rm4XMayD0eG7Sl+8OGET/hsXgMsh8vAcXu1chKlvQrNeS2iQOcKZ/HGmVoW33FTJ8lQFPV3KeRO6d+4B0WYLJ4zIZmd7JF63Hbu+NeSSUzDdrJfOA690vvDwAy3x/Wu1yg1rLjGhboElx3hACj2X1BsrkEzrW8EFgJN8YtDCqFyaBgCXi4BVtL/+p7Z5ZK4rGZI7MFJLhW/zvi+rvFR+r9nps11F3cbCfWoPPGg76YaUPFNGT0gV22eKfSc21iN9BmiyyskG9qShE7BK3aoAwuPbhBmjYNK9106tUlhRhJ7vy7QkkjopfhPdOKz/AkWA74mNXxqUOQSejJWnoTYazOGEq/+ZPgjQ=;tnKTpuQ/uUKQPvogmr0Vcg=="
+secured: "gIs1dxuGd3syGBYhiNFccyOl8FB1DT65Gqlnam8UuQ4TLkKOTDbeoCPoOJ9dyMf6Yt07T+OTthK0I3zsgJhI/jBKck/mnS60s81SDx0XPGLhGZ6AjugPqMzn++zr1b8K1f9IC0XPJ/gM7TparFSKlxPbN+K3Q9tho/rz8G3kN/G49TEunQ4BYOwntToU0R5QuG3VhhkvjD1c/djy4Qjt7mgH1r2T6EOSXd+KUxtshyXoWWwXOcS7nSMrzTJ1t4ojb+gCVsyP1TP4u8xzP2mKiMrpdo2S0jfdut3qEa0lrOjYl5kSXR7dA7WzF/lvRigly5NSCZLUEN9VbwrdLc7qkz3JLRfPtHzF0qt+zuilzso=;kiqRhe1npvubA6wyxGlKeg=="
 ---
 

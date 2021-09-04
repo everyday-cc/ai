@@ -24,22 +24,6 @@ images:
     height: 364
     isCached: true
 
-related:
-  - title: "What does the Future of Healthcare Look Like"
-    excerpt: "The use of virtual reality is changing the lives of both patients and healthcare professionals. The primary application of VR at the moment is in the training of future surgeons. Thanks to virtual reality,"
-    publishedDateTime: 2021-08-30T07:20:00Z
-    webUrl: "https://www.cioapplications.com/news/what-does-the-future-of-healthcare-look-like-nid-8398.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
-        width: 300
-        height: 400
-        isCached: true
-
 secured: "BSLuoShbqBLwsdNnQMusW+nWGeSzZ155ea+p1W0m8mB0RAYlQkQRKM3LSZddnM+OurK0bsebVIdjOt+F1PwLCRkf5RGfIuOybwxO80eqyPmFTFbLYZb51P79diSxtJXTyBfXYEK36Sr+owtfQlZALjMGi7QoZzHtGO7x+xjwkwFv8RHXXEWk+RCyI/ft5iurheKABsQ1gl/XqeRT1npRV9C1ZL6ZRkk7Wrzh/wn/LsR+zONpfT7NogebCoKuyryCIecFohAWUfxtvrciGY7Kuy6kdAX9BguF16QbuzKkcTTuDVHLFmeQR0AYYjcXtcaRFcVD5N44ng5d/te7HGOa2Y8YG6kcOQD1BI6h3TFnHQ4=;D0fANhoCCqOiS1d0q3BLBA=="
 ---
 

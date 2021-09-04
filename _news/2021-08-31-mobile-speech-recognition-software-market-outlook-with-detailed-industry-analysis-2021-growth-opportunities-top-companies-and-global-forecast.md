@@ -43,20 +43,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Trade Surveillance Systems Market Forecast to 2028: Opportunities in the Integration of Technologies such as Artificial Intelligence and Machin"
-    excerpt: "The \"Trade Surveillance Systems Market Forecast to 2028 - COVID-19 Impact and Global Analysis by Component (Solutions and Services), Deployment (On Premise and Cloud), and Organization Size (SMEs and Large Enterprises)\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-30T09:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=522713"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "Ju7wza/7y6x29oP0FmHtLRhXzHqsYKuipxnS42TPB7ftB/E/e075PU6PqdWjMUpCaqEHUgQajUYdsybKTftGr6wKuSgavyQC5XtiFQEWrhKWbpRxBwhvj3uKFBO8DsngMq8zUNRJLnZY/wlY1nUEM4SY2ZlI7E4gKTNFHjXsNg2Gf9cupuhfiv1aTLslEXZQJ59wBAcstAeWzWYaFdcs0ePbc29bWok6NSJ9RJWjI+a/Uc6onaF5IfgOnfY3QS4mMN8uWaYetl89f28PNj9G0JbTj4+e8v3L8Uo9IEB6AmxO13VmSDSaiWFZ61zp8Kl1I0a1h5rGhkmp1RFUAtfoWM866yltyXgwvqctX3huNJA=;q9ZCE29KmDBC0d9NEV6G7w=="
 ---

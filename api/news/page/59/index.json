@@ -2,6 +2,58 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-07-22-global-and-regional-speech-voice-recognition-systems-market-present-status-and-future-prospects.md",
+      "title": "Global and Regional Speech & Voice Recognition Systems Market: Present Status And Future Prospects",
+      "excerpt": "The Speech & Voice Recognition Systems Market Snapshot Since the turn of the new decade, change has been relentless for Speech & Voice Recognition Systems Market across all geographies. The year 2020 was tumultuous,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-and-regional-speech-voice-recognition-systems-market-present-status-and-future-prospects-2021-07-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-and-regional-speech-voice-recognition-systems-market-present-status-and-future-prospects-2021-07-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-zone7-raises-8-million-in-series-a-round-to-expand-artificial-intelligence-platform-for-predicting-sports-injury-risks.md",
       "title": "Zone7 Raises $8 Million In Series A Round To Expand Artificial Intelligence Platform For Predicting Sports Injury Risks",
       "excerpt": "Zone7, an artificial intelligence platform, recently secured $8 million in a Series A funding round to help expand its reach in sports as well as other industries.",
@@ -1127,57 +1179,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-blueocean-raises-15m-to-measure-brand-sentiment-with-ai.md",
-      "title": "BlueOcean raises $15M to measure brand sentiment with AI",
-      "excerpt": "BlueOcean, a startup leveraging AI and machine learning to measure brand sentiment, has raised $15 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/21/blueocean-raises-15m-to-measure-brand-sentiment-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/21/blueocean-raises-15m-to-measure-brand-sentiment-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/control.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/21/blueocean-raises-15m-to-measure-brand-sentiment-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/blueocean-raises-15m-to-measure-brand-sentiment-with-ai/amp/",
-      "publishedDateTime": "2021-07-21T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

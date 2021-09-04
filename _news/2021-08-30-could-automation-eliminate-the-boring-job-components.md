@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Edge computing - coming to eat your data center? Some CIO considerations"
-    excerpt: "Will data centers be chewed up by the edge? Some may, most won’t, but there will be big changes and all businesses need to be ready."
-    publishedDateTime: 2021-08-30T07:12:00Z
-    webUrl: "https://diginomica.com/edge-computing-coming-eat-your-data-center-some-cio-considerations"
-    ampWebUrl: "https://diginomica.com/edge-computing-coming-eat-your-data-center-some-cio-considerations?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/edge-computing-coming-eat-your-data-center-some-cio-considerations?amp"
+  - title: "Automation and Machine Learning Could Eliminate Costly Water Waste, Says Report"
+    excerpt: "Improvement to water infrastructure lags across the country and that could lead to unknown and costly risks to businesses and consumers, according to a report by Banyan Water."
+    publishedDateTime: 2021-09-03T17:50:00Z
+    webUrl: "https://www.environmentalleader.com/2021/09/automation-and-machine-learning-could-eliminate-costly-water-waste-says-report/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 43
+      name: Environmental Leader
+      domain: environmentalleader.com
+    quality: 35
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-08/pacman-151558_640.png"
-        width: 640
-        height: 468
+      - url: "https://s30148.pcdn.co/wp-content/uploads/2021/09/C79FAAC8-22B6-4FB8-839F-DB64C925C3F5.jpeg.optimal.jpeg"
+        width: 1486
+        height: 916
         isCached: true
 
 secured: "JK+9P3HE2Tu/L2G8guRfMV4dNkqh6P4xrFG/9A9TaQy2y8MDnHr0V5sQj7ACRTkBbx0lqanmOQivcJKP7ejDNJv7GlH0B8N+bdg6JhMorbc3b3ke6ocd9Eq4wBq6FCpeVCSunPRoHSXlSug5YqKbfehovf6hgbD7ilKawk4U+j3eHOEUCWhnGpPs5ScaIF7l5rjm/9A6EmRPuyc3u9PGu/JghXrPKKUgu6qNj5j9aTCdcFclAhejGHzfCibJBLvMtHFW62Kz6E6/QqZ06TomPLNli8O2HIMrKtMLoJgn3Ls9kFsShp4K9I1NZW3sCcuNWU9o5Jr1snLWxtb0j+1nAiCb1JIp6u3eLrPMJU22/Xk=;OeYoR1P+6nQm4Thmj8+tgQ=="

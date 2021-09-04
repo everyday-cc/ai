@@ -82,15 +82,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Opinion Piece: Playing catch-up to the early adopters of analytics, AI and machine learning"
-    excerpt: "By Sarthak Rohal, VP - IT services at AlphaCodes Early adopters of data analytics, Artificial Intelligence (AI) and Machine Learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world."
-    publishedDateTime: 2021-08-30T08:22:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/opinion-piece-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-2021-08-30"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 24
   - title: "Independent survey highlights need for advanced analytics and machine learning to accelerate investigations"
     excerpt: "OpenText™ (NASDAQ: OTEX), (TSX: OTEX), today announced findings from a recent independent survey from Compliance Week, sponsored by OpenText. The results show the importance of both advanced technology and dedicated teams that can quickly deliver data insights to reduce time and cost and result in better outcomes."
     publishedDateTime: 2021-08-31T13:13:00Z
@@ -108,7 +99,7 @@ related:
   - title: "Lex Machina’s Market-Leading State Court Analytics Driven By The Collection Of State Documents"
     excerpt: "Today, Lex Machina, a LexisNexis company, takes state court analytics to a new level, driven by Lex Machina’s unique combination of natural language processing and human review of state documents, including new state court “fetch” functionality."
     publishedDateTime: 2021-08-31T15:38:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-courts-state-courts-0b2d0953b39ee8a634d0b83e39e5c5c2"
     type: article
     provider:
       name: Associated Press

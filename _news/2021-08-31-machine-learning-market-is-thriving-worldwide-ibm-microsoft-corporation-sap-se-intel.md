@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2373672/machine-learning-market-is-thrivi
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373672/machine-learning-market-is-thriving-worldwide-ibm-microsoft"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 24
-  - title: "Microsoft adds literary Chinese to translation service"
-    excerpt: "Microsoft has added literary Chinese to its translation service, from the modern Chinese, and the more than 90 other languages and dialects provided by the service. Literary Chinese translation has been integrated into the Microsoft Translator app,"
-    publishedDateTime: 2021-08-30T08:14:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-adds-literary-chinese-to-translation-service--1395246"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "+jUZjVRiLshGrgxuKoRDJ1dUOLAeaXKggVrrmMHHgMOC5lPuin52TDo/KH+EcfStCV2mo65RuLfWy7oBAYJsxaiCAN7Fk6hGf/Yd99iohNz7jAQuat1v1T5dJ+In6R53y/eLtLO75VDSPdVhfwvEAQlDfYEwpHMmGCzuJCpXrNqXK2Y4Wfy9gQbWOT0zOJsL+PJSGDerkTxWq2v7rr/KF9dpYy2RBmoRo1OXfN/1hcfZ3NO2z80XWDSzbJV3/9a2ves9vfNzxZkWJNiTVS30U5uKDzWLp+ZalJo63s2Z+5D+HJpsCkeml+Dl6m+2waAgk8kOZ82Xe46zAR1M+tAermf3zZw1ScjZXcMEXscDAsE/ygbMha7ZV8WdLT2XZMXied8JnO252mI/PLMrt511TY0tulS6+8+ZwHqOuc4Sm6ZOYf1DPz8V63pHf/aF6zNV312Hoo7PG9XCFqzQYeVgvudWGxGNlV+vg5Xl7QaFpw2Eg9ztQZiq0+APufTe39WXfJUJjhN6FnrM+FwCjDPbdg==;ciTs4SUdQRzAUvtWMytC6w=="
 ---
