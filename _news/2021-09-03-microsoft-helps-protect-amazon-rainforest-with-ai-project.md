@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
 type: article
 quality: 104
-heat: 174
+heat: 104
 published: true
 
 provider:
@@ -29,107 +29,6 @@ images:
     width: 1260
     height: 710
     isCached: true
-
-related:
-  - title: "Bias persists in face detection systems from Amazon, Microsoft, and Google"
-    excerpt: "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon."
-    publishedDateTime: 2021-09-03T17:40:00Z
-    webUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/"
-    ampWebUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
-    excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
-    publishedDateTime: 2021-08-31T06:15:00Z
-    webUrl: "https://www.openpr.com/news/2373861/artificial-intelligence-in-construction-market-is-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/U/8/U831667007_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Verizon, Microsoft launch private edge solution"
-    excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
-    publishedDateTime: 2021-09-01T08:28:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/verizon-5G-MEC-trial-footage.png"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Verizon turns up private 5G edge compute with Microsoft Azure"
-    excerpt: "Verizon's private 5G edge product with Microsoft Azure is now available for enterprise. It complements Verizon’s 5G private wireless offering that launched in June."
-    publishedDateTime: 2021-08-31T16:09:00Z
-    webUrl: "https://www.fiercewireless.com/private-wireless/verizon-turns-up-prem-private-5g-edge-compute-microsoft-azure"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 54
-    images:
-      - url: "https://qtxasset.com/fiercewireless/1630426422/GettyImages-875013806.jpg?Rfp1YVeSs3.1Lp7Ke5VFBuRAz0A.OlwN"
-        width: 6567
-        height: 4378
-        isCached: true
-  - title: "Verizon, Microsoft Azure Roll Out Private Mobile Edge Cloud For Enterprises"
-    excerpt: "Verizon Business and Microsoft debuted Verizon 5G Edge with Microsoft Azure Stack Edge, on-premises, private edge compute solution for enterprises that uses Verizon's private 5G network, On Site 5G."
-    publishedDateTime: 2021-08-31T15:39:00Z
-    webUrl: "https://www.crn.com/news/networking/verizon-microsoft-azure-roll-out-private-mobile-edge-cloud-for-enterprises"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 52
-    images:
-      - url: "https://www.crn.com/resources/026c-131fe7ed6511-86ecc8226b17-1000/cloud-blue.jpg"
-        width: 1500
-        height: 1126
-        isCached: true
-  - title: "Verizon launches private edge compute platform with Microsoft, as promised"
-    excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
-    publishedDateTime: 2021-09-01T12:14:00Z
-    webUrl: "https://telecoms.com/511162/verizon-launches-private-edge-compute-platform-with-microsoft-as-promised/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 37
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/08/iStock-1181748268-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
-    excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
-    publishedDateTime: 2021-08-31T18:52:00Z
-    webUrl: "https://channelvisionmag.com/verizon-rolls-out-5g-edge-with-microsoft-azure-stack-edge-platform/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 34
 
 secured: "1vsZ+fAHQRi8FKt4XLifJY9C/K8xPbktmz02emy/r/R88akFF8gTEDnWeMMgArBoG3Ye5k+XG0ws4uUOzC404+YSvpt6y3t6fXiffK2knRtPLAA2RRNTB0QAx1SSx+7sNIDWhb79+IpAF6ZzPseqaduHQ9x/rVBz53Tm/uGb2oWdEaViKmYZnMibgEW89APAzcpdyqswkVSPI/w3SYCPFKykJ9qOcKAfFXdlmnSoUGnVfn3cJ+bDuUuXj0vV+BjRTbP74YlkQzVmyX2VJUBEgSmXw9jnUiIDCUe2FWCICEg+tkHTeiwMayXre9naAWFK7VRvwJn3kcErMgHUFJq1+czyKbUOSW9wiAD73gFFSVu7ORPQSzds7WvoCHfMyySAOeBVJ/fGAO4jUHuFze9uYlrFuBOFrDCXLl8uK1EnGtpFTBvffJCE9Rceu+yMDT03N/QleBun/gUH+iNjT4ugoE5WWEpSt/NMnN57FZGXTJOg9/pSNYlQps0fSAR1cOvZxC9dy65lzSWSpZEbP1Np3Q==;hFjEPQzkovtAdOTf1nuLZg=="
 ---

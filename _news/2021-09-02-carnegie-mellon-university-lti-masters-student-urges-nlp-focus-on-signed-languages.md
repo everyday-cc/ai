@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/carnegie-mellon-university-lti-master
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/carnegie-mellon-university-lti-masters-student-urges-nlp-focus-on-signed-languages/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 860
     height: 449
     isCached: true
-
-related:
-  - title: "Ural Federal University: University Accelerates Artificial Intelligence Programs Development"
-    excerpt: "Ural Federal University has won a grant of 37 million rubles from the Russian Ministry of Science and Higher Education to develop educational programs in artificial intelligence. The corresponding doc"
-    publishedDateTime: 2021-08-31T03:41:00Z
-    webUrl: "https://indiaeducationdiary.in/ural-federal-university-university-accelerates-artificial-intelligence-programs-development/"
-    ampWebUrl: "https://indiaeducationdiary.in/ural-federal-university-university-accelerates-artificial-intelligence-programs-development/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ural-federal-university-university-accelerates-artificial-intelligence-programs-development/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 48
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/02/Ural_Federal_University_eng-3.jpg"
-        width: 893
-        height: 503
-        isCached: true
 
 secured: "IIsTj8tk3HCnog0ihrqCiVe+YJHYpIetCItVxdA80DLaSoTqS9/ZgMFRBxzUCJe5LaXE5iRk2m8iXF8kWMdehiq9EON76NiY9WILX6qf9aweZ0gBmZHLZ3Wr5uvFMLq8vXjcQ79oDXaUbe31sQVwuMMLCBa9jCsD+faGKK7l2WE7y9X0Su8+i9Ui7fpKGS2GRoQ5nHJXEsnonxJVm4s9Hkq8HTg4ULPUD8zBi6sYZj1urotAlwH8mJSGCyS9ys6dyY6Vl4KYSF4co4Zz+EaOw4dMt/VJNmOXJ3XN4UKqmM2VaEn5gBOgKzzE3mSistQE5Rf6ezMdGv+AGUrQ+xy39ji8vNokZIjqUTfq2tPH9tEk7xWD3RzZntSuWHmuKqdlOnIthfrnF1RzltYX37D7a8nGmYRmS2RfGjhltjSFBWRB9ZdDH+ZoBdRQUeQIqHJ1g2wOAVrSGWZ4y+gMelwLREzyKlJ82LHaqRcUCxQpCLD+KJK1GeMSQbqHHKshUC0SPXOJh9dBprRkOQiNgG7CjA==;aYaxADafi5EjgxVc9dy35w=="
 ---

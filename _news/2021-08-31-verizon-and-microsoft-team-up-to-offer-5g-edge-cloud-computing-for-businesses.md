@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/verizon-and-microsoft-team-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
 type: article
 quality: 66
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -25,6 +25,84 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft announces new Spring Cloud offering on Azure"
+    excerpt: "The new service also includes expanded support, with VMware offering Spring Runtime support services on top of Microsoft’s existing Azure support offerings."
+    publishedDateTime: 2021-09-01T13:26:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "Bias persists in face detection systems from Amazon, Microsoft, and Google"
+    excerpt: "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon."
+    publishedDateTime: 2021-09-03T17:40:00Z
+    webUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/"
+    ampWebUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
+    excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
+    publishedDateTime: 2021-08-31T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2373861/artificial-intelligence-in-construction-market-is-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/U/8/U831667007_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Verizon, Microsoft launch private edge solution"
+    excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
+    publishedDateTime: 2021-09-01T08:28:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/verizon-5G-MEC-trial-footage.png"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Verizon turns up private 5G edge compute with Microsoft Azure"
+    excerpt: "Verizon's private 5G edge product with Microsoft Azure is now available for enterprise. It complements Verizon’s 5G private wireless offering that launched in June."
+    publishedDateTime: 2021-08-31T16:09:00Z
+    webUrl: "https://www.fiercewireless.com/private-wireless/verizon-turns-up-prem-private-5g-edge-compute-microsoft-azure"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/fiercewireless/1630426422/GettyImages-875013806.jpg?Rfp1YVeSs3.1Lp7Ke5VFBuRAz0A.OlwN"
+        width: 6567
+        height: 4378
+        isCached: true
   - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise"
     excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
     publishedDateTime: 2021-08-31T18:26:00Z
@@ -40,6 +118,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Verizon, Microsoft Azure Roll Out Private Mobile Edge Cloud For Enterprises"
+    excerpt: "Verizon Business and Microsoft debuted Verizon 5G Edge with Microsoft Azure Stack Edge, on-premises, private edge compute solution for enterprises that uses Verizon's private 5G network, On Site 5G."
+    publishedDateTime: 2021-08-31T15:39:00Z
+    webUrl: "https://www.crn.com/news/networking/verizon-microsoft-azure-roll-out-private-mobile-edge-cloud-for-enterprises"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 52
+    images:
+      - url: "https://www.crn.com/resources/026c-131fe7ed6511-86ecc8226b17-1000/cloud-blue.jpg"
+        width: 1500
+        height: 1126
         isCached: true
   - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
     excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."
@@ -71,19 +163,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Verizon Debuts Private 5G Edge with Azure Stack Edge"
-    excerpt: "Verizon announced the availability of an on-premises, private edge compute solution that builds upon the collaboration"
-    publishedDateTime: 2021-09-02T02:01:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20671-verizon-debuts-private-5g-edge-with-azure-stack-edge"
+  - title: "Verizon launches private edge compute platform with Microsoft, as promised"
+    excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
+    publishedDateTime: 2021-09-01T12:14:00Z
+    webUrl: "https://telecoms.com/511162/verizon-launches-private-edge-compute-platform-with-microsoft-as-promised/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/de9c0f86b49e88be695cd5c27c1aa1b4.jpg?t=20210902_015756"
-        width: 752
-        height: 408
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/08/iStock-1181748268-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "CubicFarms collaborates with Microsoft on cloud services for indoor farming tech"
     excerpt: "CubicFarm Systems Corp., an agtech company, announced that it has selected Microsoft’s technology to launch the next generation of indoor farming technologies for fresh food and"
@@ -99,6 +191,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
+    excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
+    publishedDateTime: 2021-08-31T18:52:00Z
+    webUrl: "https://channelvisionmag.com/verizon-rolls-out-5g-edge-with-microsoft-azure-stack-edge-platform/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 34
   - title: "Verizon Announces Availability of Private Mobile Edge Cloud Computing for Enterprises with Microsoft Azure"
     excerpt: "Through its relationship with Microsoft, Verizon is now offering businesses an on-premises, private edge compute solution that enables the ultra-low latency needed to deploy real-time enterprise applications."
     publishedDateTime: 2021-08-31T13:12:00Z
@@ -108,15 +209,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 31
-  - title: "Verizon starts on-site 5G edge services for Azure private cloud"
-    excerpt: "Verizon announced the availability of an on-premises, private edge compute service with Microsoft Azure, building on their collaboration formed last year. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
-    publishedDateTime: 2021-08-31T14:55:00Z
-    webUrl: "https://www.telecompaper.com/news/verizon-starts-on-site-5g-edge-services-for-azure-private-cloud--1395486"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "CbkXclYI4UssqenSkrWdJC1kxus6D7rkO2K8AFBxIkPOVjYBOhPhV8C4BLxLssBYlKijv/KnOkoHRoxJ1G94drdLFi+hMwm84y/ANhUCdAJM0+f8rORQsATFgOsLEhPFfyTmObnY3Z0oqr2IgElQEbaKyFO54LxYSxg/Ts23FAyuLWUYXXFGSBNDT/s5f7SeM6jAPKZ75qgi+qc308qcjlQ6zjz44MVPm+EYxCS+ktBoP1NZbo7VwRJIueURfzmEosANQiuWp42DOv+miKl52SYcv31nTT1W3cYhR+oLAfThBBbqQcMrhzXGDZgPid7ltqv5ZB8I0TIkW2eN8AM4moXpDmqmS2eemnMTLMJxhD+OxDRGq4c/L2a7esiA7tPKiKmwyfxGc5O6E3M8dyxXxXnD1o5gg6CyX3eFGHBQQ/HP5MEbXUGJx4chH3K8PSPYbA/ck2iwpWia0UjUstm9foNKTiNVVgpJmJ8fFdwx1hySD/OBMMDEatZK4yCegk733ZTeVTUaPRt1rPb7Lv++fQ==;k1olY9u5pelkbaQW2jZVRQ=="
 ---

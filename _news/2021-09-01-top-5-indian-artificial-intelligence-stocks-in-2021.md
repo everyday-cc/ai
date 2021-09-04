@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-5-indian-artificial-intellige
 webUrl: "https://www.analyticsinsight.net/top-5-indian-artificial-intelligence-stocks-in-2021/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian Navy procures indigenously developed Robotic Lifebuoys from startup"
-    excerpt: "In a big boost to the ‘Self Reliant India’ campaign, Indian Navy signed a Rs 13 crore contract to procure country’s first indigenously developed Robotic Lifebuoys."
-    publishedDateTime: 2021-08-31T04:06:00Z
-    webUrl: "https://www.sentinelassam.com/national-news/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-552687"
-    ampWebUrl: "https://www.sentinelassam.com/amp/national-news/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-552687"
-    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/national-news/indian-navy-procures-indigenously-developed-robotic-lifebuoys-from-startup-552687"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: sentinelassam.com
-    quality: 57
-    images:
-      - url: "https://assets.sentinelassam.com/h-upload/2021/08/31/251693-indian-navy.jpg"
-        width: 938
-        height: 527
-        isCached: true
   - title: "10 Indian AI Startups To Watch in 2021"
     excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
     publishedDateTime: 2021-09-02T13:00:00Z
