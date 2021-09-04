@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 10877669
+        "followers": 10878085
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 580,
+      "heat": 578,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1062276
+        "followers": 1062307
       },
       "yearFounded": 0,
       "locations": [
@@ -117,7 +117,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 75450
+        "followers": 75451
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -181,7 +181,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 68486
+        "followers": 68491
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -285,7 +285,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 23605
+        "followers": 23607
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -453,7 +453,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 6568
+        "followers": 6569
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -561,7 +561,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 3830
+        "followers": 3831
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -767,7 +767,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 18467
+        "followers": 18469
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
