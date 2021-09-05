@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/toyota-resumes-self-driving-e-palette-u
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
 type: article
 quality: 73
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota to resume self driving pods operations with more safety staff"
-    excerpt: "Toyota says that the breaks were hit when the athlete was detected by both the operator and the autonomous system."
-    publishedDateTime: 2021-08-31T16:18:00Z
-    webUrl: "https://techstory.in/toyota-to-resume-self-driving-pods-operations-with-more-safety-staff/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/120336697_20201222_01_04_s.jpg"
-        width: 976
-        height: 549
-        isCached: true
   - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
     excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
     publishedDateTime: 2021-09-01T19:37:00Z
@@ -60,20 +46,6 @@ related:
       - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
         width: 1600
         height: 1042
-        isCached: true
-  - title: "Toronto's new self-driving shuttle bus hits the road this month"
-    excerpt: "The new self-driving shuttle serving the Rouge Valley area will begin learning its route in September before welcoming passengers."
-    publishedDateTime: 2021-08-31T16:20:00Z
-    webUrl: "https://dailyhive.com/toronto/self-driving-shuttle-map-route"
-    type: article
-    provider:
-      name: Daily Hive
-      domain: dailyhive.com
-    quality: 24
-    images:
-      - url: "https://images.dailyhive.com/20210831084911/Screen-Shot-2021-08-31-at-8.48.20-AM.png"
-        width: 992
-        height: 694
         isCached: true
   - title: "Self-Driving Olympic Vehicles Continue Services after Accident"
     excerpt: "As if avoiding a virus in a city where athletes from across the world have converged wasn’t enough, Paralympians must also be wary of autonomous vehicles hitting them as they head to their events. An e-Palette pod from Toyota Motors injured a visually-impaired Japanese athlete when it struck him at a junction."

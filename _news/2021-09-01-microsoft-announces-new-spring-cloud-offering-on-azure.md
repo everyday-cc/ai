@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-annou
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure?amp"
 type: article
 quality: 104
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Verizon turns up private 5G edge compute with Microsoft Azure"
-    excerpt: "Verizon's private 5G edge product with Microsoft Azure is now available for enterprise. It complements Verizon’s 5G private wireless offering that launched in June."
-    publishedDateTime: 2021-08-31T16:09:00Z
-    webUrl: "https://www.fiercewireless.com/private-wireless/verizon-turns-up-prem-private-5g-edge-compute-microsoft-azure"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 54
-    images:
-      - url: "https://qtxasset.com/fiercewireless/1630426422/GettyImages-875013806.jpg?Rfp1YVeSs3.1Lp7Ke5VFBuRAz0A.OlwN"
-        width: 6567
-        height: 4378
-        isCached: true
   - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise"
     excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
     publishedDateTime: 2021-08-31T18:26:00Z
@@ -92,20 +78,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Verizon, Microsoft Azure Roll Out Private Mobile Edge Cloud For Enterprises"
-    excerpt: "Verizon Business and Microsoft debuted Verizon 5G Edge with Microsoft Azure Stack Edge, on-premises, private edge compute solution for enterprises that uses Verizon's private 5G network, On Site 5G."
-    publishedDateTime: 2021-08-31T15:39:00Z
-    webUrl: "https://www.crn.com/news/networking/verizon-microsoft-azure-roll-out-private-mobile-edge-cloud-for-enterprises"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 52
-    images:
-      - url: "https://www.crn.com/resources/026c-131fe7ed6511-86ecc8226b17-1000/cloud-blue.jpg"
-        width: 1500
-        height: 1126
         isCached: true
   - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
     excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."

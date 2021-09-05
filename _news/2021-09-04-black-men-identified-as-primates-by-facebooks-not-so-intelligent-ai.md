@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/black-men-identified-as-primates-by-fa
 webUrl: "https://www.neowin.net/news/black-men-identified-as-primates-by-facebooks-not-so-intelligent-ai/"
 type: article
 quality: 69
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/61d84470-0d2f-11ec-b7ff-aec40b61b306"
         width: 5122
         height: 3415
+        isCached: true
+  - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
+    excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
+    publishedDateTime: 2021-09-05T09:38:00Z
+    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men-11630830158252.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/09/05/600x338/2021-08-20T082648Z_2_LYNXMPEH7J0E5_RTROPTP_3_AFGHANISTAN-CONFLICT-SOCIALMEDIA_1629701868385_1630830249254.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Facebook apologizes after AI puts ‘primates’ label on video of Black men"
     excerpt: "Facebook users who recently watched a video from a tabloid featuring Black men saw a prompt that asked if they would like to “keep seeing videos about Primates.” The artificial intelligence-powered feature that pushed the message has been disabled."

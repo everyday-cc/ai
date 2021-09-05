@@ -36,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Global Payments Fintech Adyen Introduces Machine Learning enabled Compliance Solution, Score"
+    excerpt: "Adyen (AMS: ADYEN), the international payments platform for leading businesses, has officially launched Score. Adyen claims that it’s the first-to-market with a machine learning powered solution on a single platform for identifying unusual activity and ensuring platform compliance."
+    publishedDateTime: 2021-09-02T01:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Machine-Learning-Computer-AI-Artificial-Intelligence-269x300.jpeg"
+        width: 269
+        height: 300
+        isCached: true
   - title: "Investing in Fintech as a ‘Bridge to the Future’"
     excerpt: "Hub models stimulate fintech innovation, which in turn boosts economic growth, Siobhan Dullea of MassChallenge writes."
     publishedDateTime: 2021-09-03T04:30:00Z

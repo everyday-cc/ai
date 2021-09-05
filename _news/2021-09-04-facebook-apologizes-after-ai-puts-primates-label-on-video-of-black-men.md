@@ -48,6 +48,22 @@ related:
         width: 5122
         height: 3415
         isCached: true
+  - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
+    excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
+    publishedDateTime: 2021-09-05T09:38:00Z
+    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men-11630830158252.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/09/05/600x338/2021-08-20T082648Z_2_LYNXMPEH7J0E5_RTROPTP_3_AFGHANISTAN-CONFLICT-SOCIALMEDIA_1629701868385_1630830249254.JPG"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "9w3oMMAdk9nhjQ0uMJIGeR82aCfi71ehKgiFd7nHssRnRPibxVPMTLFMtJhhqkPAigzcE1v8bday+d7P3zG1Z32anI7shGtmcjGTsgTHMKI2cpUq4VW64vTV8NHs1E1OPByiQwOTO08iGblV+EEUwJYBJFokQPmxErWrtJepqW2JWj58mJqqJUu9bCFF2VSWcC+hV9toc4zjEG3/WW7TBfYi6fezQIxreC5JRCVQcR3jRkE2q1JTLROsQ7vaT863FWClSprciO9xj6PKJAg4aLPwuBjNVNzonRbUr4y7ntg7wldpxSoVRnnEhbFEfoNmvO8LiKMo62BouFS4s/wRJaHMAGtXExCSGKu/N9aJ4I7qEFz0L3+WEMhwKxBbeZFInkXAXWPxkZ5rTpLB/UXq6/3YtfWc7YL8tujYV+DwttfD8mnTrdqv3vBkHCHf4irP4sad5mkkbYSZ2ahD9VpeedcaDCqEQ2Xtj05ruk1sxkeVmdnXCq749iA/k/xZ2Wdh5FnnZLSDz+VzylURrkELAg==;9Qz+sbzoLGessgfOCU8ZDA=="
 ---

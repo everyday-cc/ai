@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Technology/SoftBank-to-offer-AI-b
 webUrl: "https://asia.nikkei.com/Business/Technology/SoftBank-to-offer-AI-based-real-time-sign-language-translation"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "SoftBank-backed AI startup Peak raises $75m in second funding round in six months"
-    excerpt: "Manchester-based Artificial Intelligence (AI) provider Peak will expand into new global markets after raising $75m in its latest funding round, led by SoftBank's $100bn Vision Fund Two."
-    publishedDateTime: 2021-08-31T16:15:00Z
-    webUrl: "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/"
-    ampWebUrl: "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 52
-    images:
-      - url: "https://www.cityam.com/assets/uploads/main-image/full_width_article_body_image/2013/09/manufacturers-responded-57ed4cb5d756f-57ed4cb5efe68.jpg"
-        width: 839
-        height: 523
-        isCached: true
-  - title: "Lab startup specializing in labeling medical images for artificial intelligence raises $15M"
-    excerpt: "A Boston-based startup specializing in labeling medical images for artificial intelligence use has just raised $15 million in new financing, leaders announced Friday. Private equity firm Matrix Partners led the Series A funding round,"
-    publishedDateTime: 2021-09-03T00:00:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/centaur-labs-startup-labeling-medical-images-ai"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 44
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/money-1604921_1280.jpg?h=1c9b88c9&itok=ICPkIM9o"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Ixr93NVvngFWD5UzRCV22CQaFp6vgvRUYwx2DGJie0ACjXtZawzkWAWOzdNPv8+74sdcVi5hI7JHUsyJJV3FO1Y/M4WCSdkCAPIJEjTuJNOKXO/I3iBAVXR4l5SzXWLlMejpFUV6QLzdr2qz9iqIgoH2qdbhLzGg0Sysgz0k/1x8ZKe2humsJT/Ujvs8atwNJ/92+2+UOw5sYzzEfQxCqJ6pxqYOd+SIltssG1vYg4pjXI4/cB8UJ/BFnYw8RLzbtkJRhCh76Kz7Km0M2+0qsnbdrFLVhdLnXOkxJ5Fv5P+P6SW7I+SaGCWnCxvtvRV9DhX4VPMnkVGZW/iAdLyLqwehoLoyhpN/2kfNglHeTGnha8mjwkOt550BXvTNnuYXMISZ2MSUTd6XZnHQ/4vl+wlW3E69lgjKuAmI9vCHdrviMuOS21Ipoxv8WmDiZNQ9HIuQb5MSKMqsq3EvCpBYxend5Rm/GnLkwwhlXRntBnO/x8f6lOKfknCfOOSARpJbg8VCBrnGvv2NW7MakCZYiA==;qKOkk9U29HeJ1SqerVWSmw=="
 ---

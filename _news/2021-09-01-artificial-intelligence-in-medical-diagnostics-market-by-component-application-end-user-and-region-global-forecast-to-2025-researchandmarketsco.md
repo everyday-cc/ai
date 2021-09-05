@@ -48,6 +48,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 0
+  - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
+    excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
+    publishedDateTime: 2021-09-03T19:18:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "9rUsskxpHKZX5MSvjCpla5bDFxac7GTLMCKZ9flOYvqOY7w1UJZV9xj4xwVcR8JsDlmtxy0iDFUASMaPodTLqp8bF3s2Q83J+FKpwgfLep9LErVPRwfsFw7mSAkQjNIRUC6s01/Fp6uIELRDbNeI/4gszD2SjP1F/n7JkHcXztCj0kvVDAqRvuuYbAXkZ7AUx39yeh7hOfAJ+5Ry66Tvkz7A5dqXK7qqTkC+6I11LOpI+i10sxZtYqHlqICLFPoKZmV1/YrJZHLZGo6udDLuuUeiNGoGSYpNixLMgz48evDeCRKsYHb7g7FS9P8Duh3YTT3r/iTbta58YZLHc+eIfgTw3sLicwoTe447Py1jDqI=;DYRV+W/WU16jFHYMDmb22A=="
 ---

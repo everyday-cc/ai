@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-03T02:21:00Z
 originalUrl: "https://www.lockportjournal.com/news/local_news/aegis--related-lawsuit-ended/article_4726719a-d291-5d6b-b9d4-1f85f4dfeb62.html"
 webUrl: "https://www.lockportjournal.com/news/local_news/aegis--related-lawsuit-ended/article_4726719a-d291-5d6b-b9d4-1f85f4dfeb62.html"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Security
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/5/bb/5bb1e53c-8718-560c-b134-ff68528cd62b/613188afda9b7.image.jpg?resize=800%2C534"

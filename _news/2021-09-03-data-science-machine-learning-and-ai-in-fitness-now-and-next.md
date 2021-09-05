@@ -47,7 +47,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 41
+    quality: 43
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Deep-Reinforcement-Learning-Is-the-Key-To-Making-AI-Physical.jpg"
         width: 900

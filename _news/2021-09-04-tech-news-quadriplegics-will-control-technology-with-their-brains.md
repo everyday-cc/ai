@@ -7,7 +7,7 @@ originalUrl: "https://www.iol.co.za/business-report/economy/tech-news-quadripleg
 webUrl: "https://www.iol.co.za/business-report/economy/tech-news-quadriplegics-will-control-technology-with-their-brains-e32dfa80-84ac-4d52-8944-0bf8237f1d73"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Quadriplegics will control technology with their brains"
+    excerpt: "In April this year Neuralink made headlines when it released a video showing a macaque monkey with its implanted chip playing video games with its mind six weeks after ... motor and sensory functions and to control robotic prostheses."
+    publishedDateTime: 2021-09-05T09:54:00Z
+    webUrl: "https://www.cbn.co.za/news/digital-transformation-information-technology/quadriplegics-will-control-technology-with-their-brains/"
+    type: article
+    provider:
+      name: cbn.co.za
+      domain: cbn.co.za
+    quality: 39
+    images:
+      - url: "https://www.cbn.co.za/wp-content/uploads/2021/09/tech.jpg"
+        width: 639
+        height: 351
+        isCached: true
 
 secured: "8b7FGEA7eo3ji3qLwXDS0abweeY8sW5mE1y+0aIVy6kOaSkHeHdBifBx5kDTPeWmggMh9mTVsZmGMMf41FBSJ6jbIcxR/x3+H87/BPdF76kXuI/1dcOG0er04k2Te2VxtarbTUZDdk8YsfFflOmuIJyGjLvrTyf5FZCQ0Sn5XsjLxDIPQxl4FkfmRoBzusgAinNNUtwhDF5sxcdmFTvETKGVzXcV23FnkJHcf0KhmjxbTLTzsIHRSADDWXjy0NS9nkDXbzASVsHEqRFwmMnfLv85CoekZED/H/v7EpIqWAq1UBt1qkXedMtirrb/wfQAzP4LO9lcjiT2UtsqQtFxr4hMXVv+c/L6FGur9UPXp72kAIKiEtx4mmNZRoHWAH4HxWOMBUy2dEZp8XP6alKP6ZD0dvuazdVovqlwwSPw33uqcTNMxny0YzWVtS6f60LKe9MsZQyVh2kL2x/P8Gkulkov9qdKoPRYS+kOt99XRM8+xRp1+seVBGLtfLhw+QBkFhZ8/y0/76SrWpZjl8vhVA==;JTaeSeee+SKNl4AylBMEWg=="
 ---

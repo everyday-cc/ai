@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/artificial-intelligence/new-ai-allows-p
 webUrl: "https://www.mddionline.com/artificial-intelligence/new-ai-allows-physicians-obtain-better-images-heart"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 770
     height: 400
     isCached: true
-
-related:
-  - title: "New artificial intelligence tech set to transform heart imaging"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
-    publishedDateTime: 2021-08-31T17:02:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/heart-1.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
-  - title: "Top Hi-Tech Companies Helping Non-Tech Companies with AI Applications"
-    excerpt: "This article explores top hi-tech companies helping non-tech companies with AI applications. Leveraging artificial intelligence can help non-tech companies to get help from hi-tech companies with AI applications for driving growth."
-    publishedDateTime: 2021-09-02T13:39:00Z
-    webUrl: "https://www.analyticsinsight.net/top-hi-tech-companies-helping-non-tech-companies-with-ai-applications/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-Hi-Tech-Companies-Helping-Non-Tech-Companies-With-AI-Applications.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "v4u67fQNbfXnOEd/6zbyDy7liwi91XuGrxaX1OSwxBVB2jQr5xqKarHqCU8wmsM2IKYys/zUIJzm1MFQkeFCNhEwiS21IiB32bi3FCxgbkB/q+O1FJlkkzKplBSzeiLNqekUoTO/X7YntNfl4bG5xHVqm+4A7+x1MhL5v67mWL1TYzLIjOdK2REq9F97Iyj3oXn74fkY6fhYvZuEXJLhKh7AyJPmHBou9W7yxbQCzOs2IDxD/EB4HDFgiemYdeC6IZZPzUDOFFeBFgUqFGPVrQAUyJess24k+DbnKi77NePaNSndz/RbUcRFHw8X8eIq8OE0N9t9VmusB9IDUdN3YAoSzyQnn4vUzlfW4NXGLanzidG0WHE9Y96a4KuH9OVpYTB0csPeXC2aOi83PH3Ji2deTgkCbwCNmCjA+BqHwlw9Sj5O6lOGwyHmL1duOfOpuVZFjdCHMqKGaRGk+6Su0zxwM45Sk/kIhUsPSaQiVNEVv3sHt0FG5WfRYErlHyyyIUnV9Gpu7YjXHSn9/FifIA==;gPQ38woWOajkMW8ZZl8waA=="
 ---

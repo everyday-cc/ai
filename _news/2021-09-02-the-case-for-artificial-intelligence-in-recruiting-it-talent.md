@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://images.ctfassets.net/cnu0m8re1exe/65XSymbGJEL7F2ovzt3sy9/d77df1e9d0a8904ebba41da5e02d87fb/shutterstock_1178406460.jpg"
         width: 1000
         height: 625
-        isCached: true
-  - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
-    excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."
-    publishedDateTime: 2021-08-31T15:17:00Z
-    webUrl: "https://techreport.com/software/3474594/artificial-intelligence-enterprise-recruiting/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
-    images:
-      - url: "https://cdn.techreport.com/wp-content/uploads/2021/08/artificial-intelligence-enterprise-recruiting.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "AI weather forecasting for smart farms"
     excerpt: "AI weather forecasting for smart farms Researchers working on smart irrigation systems have developed a way to choose the most accurate weather forecast out of those offered in the week leading up to a given day."

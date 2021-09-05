@@ -56,20 +56,6 @@ related:
         width: 1000
         height: 625
         isCached: true
-  - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
-    excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."
-    publishedDateTime: 2021-08-31T15:17:00Z
-    webUrl: "https://techreport.com/software/3474594/artificial-intelligence-enterprise-recruiting/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
-    images:
-      - url: "https://cdn.techreport.com/wp-content/uploads/2021/08/artificial-intelligence-enterprise-recruiting.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AI weather forecasting for smart farms"
     excerpt: "AI weather forecasting for smart farms Researchers working on smart irrigation systems have developed a way to choose the most accurate weather forecast out of those offered in the week leading up to a given day."
     publishedDateTime: 2021-09-01T07:58:00Z

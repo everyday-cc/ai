@@ -36,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Global Payments Fintech Adyen Introduces Machine Learning enabled Compliance Solution, Score"
+    excerpt: "Adyen (AMS: ADYEN), the international payments platform for leading businesses, has officially launched Score. Adyen claims that it’s the first-to-market with a machine learning powered solution on a single platform for identifying unusual activity and ensuring platform compliance."
+    publishedDateTime: 2021-09-02T01:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Machine-Learning-Computer-AI-Artificial-Intelligence-269x300.jpeg"
+        width: 269
+        height: 300
+        isCached: true
   - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-08-31T21:57:00Z
@@ -120,6 +136,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "aHFy5It66IPUSO+Bia6VQJ4aUOa8v0gcjuFIiJLs1JT5sVMIkuyHrfidjdR4FV6l6xh7Dy2RCpubN5vMPUrmZAfb+0+duDoWxIQCfBy6IKLUYnJTbJFkQC7iwSrHIFmwvqHrV7Rd8mfvpB/yIA1j9w0clk/occDYL0NyCNcgJtgnABfsXCK08SSHBSz8By6LeHgQQazDu1KOv82AkQC0f4Q2EXrjb2lmHuyVVVyJIMx9jTsgh+R56dxdcdZiXOGRL2foD4FsQGkPostbu5fExJzKuAmH5uZUndkj8IhqKuk+Xk/kD95c4BeMa4VPm1di5E01WrhcsoJ42oVazPIBI1xq9P3kQyCxoSDaD+w2vxI=;AWXAELi2eNFa8oQYfKNpUA=="
+secured: "5G5BBzGx0eNyG560VLxGOQAGduGACL9DML2MEj4HeXOoWbN7LIoLSG6teAiwczHxqF19D0WXKYXH2qstDGFze0pKr6/hiKQLojviLlwPAeh/6O1XrzIaZoKEhkfw37fkA6DE9NJ4g/1gkGqRcJlrzVkAd+goPxLwNcIma+1Vw6kMGu9+iet/T2h2lUbiijmnttip5w7O/wNTug/c7+Il93GfO/IYQl0tO3+nzmLKkECTcBfdnYbfzH7pI5EiM91Iu6UxoLsnBLHyPjp9We9QYu/TvW0g87OewbDSS3CC/kHXs9jvPiZBjS86upn8msiJ9DPhNpog7T3thaDnA2Jp9aUsG3Cmw3yX5CyCf98ZwYvDCfnqocOlrtT4PjPTCrOevFh6tEc+QBYQaUXXhVz0zR7CDM8Hk+ilcKIODU344xcLXov4RnuGTKBXcPlIUSVXZ0VRT01HH0/s85CU4EXx8IgmXTvZiZcNOPhU2aUumHVc1i1hb1D63yDIUHjgXgTcYw7gALu05ThT4WaJ7qkB/g==;PHb+B35tQwmymEale5tgtg=="
 ---
 
