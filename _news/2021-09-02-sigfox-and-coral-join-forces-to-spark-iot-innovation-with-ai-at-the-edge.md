@@ -7,7 +7,7 @@ originalUrl: "https://iotbusinessnews.com/2021/09/02/78965-sigfox-and-coral-join
 webUrl: "https://iotbusinessnews.com/2021/09/02/78965-sigfox-and-coral-join-forces-to-spark-iot-innovation-with-ai-at-the-edge/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 800
     height: 360
     isCached: true
-
-related:
-  - title: "The Role of Artificial Intelligence in IoT"
-    excerpt: "Currently, the business world has changed drastically with the adoption of IoT. It is helping the businesses to gather a lot"
-    publishedDateTime: 2021-09-02T10:01:00Z
-    webUrl: "https://www.hongkiat.com/blog/ai-in-iot/"
-    ampWebUrl: "https://www.hongkiat.com/blog/ai-in-iot/amp/"
-    cdnAmpWebUrl: "https://www-hongkiat-com.cdn.ampproject.org/c/s/www.hongkiat.com/blog/ai-in-iot/amp/"
-    type: article
-    provider:
-      name: Hongkiat
-      domain: hongkiat.com
-    quality: 59
-    images:
-      - url: "https://assets.hongkiat.com/uploads/ai-in-iot/customer-experience.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "fhqeoNBr54KcAft51CiKnFnyVcgTTKJawik9ttGbX8ZakDUkhOQpxfccpPYXP5OR+jjIsl3GT9GgA2Gg+k/cnzcVIy97gCJTNM/AzgIu/IpTB0qVtsFE3q/PbLy6peLn7yba7J8T997Ov6jA52CutO11VKyguwoHBjYGCjXnoexYdoFRW/n3VV0VUCJdGsjjajxVfyn6SGGsRPpZ0K2UENssvhnymZ5ckFv4h5r5118U4+xPrNb69Vu1uSqAD/E8p+ES1ZVofsMCBB9n3trY8Y9oBWsQ7Jex8r/Bc+BAINIVakZ469qMjbOvi75/eDo2SIvvbH8FGVAC2dW/Qfcdc8DgWfZdqsJUaVP80u9BdRM=;gSjIW2lCO1nPWU+KF0J8Yg=="
 ---

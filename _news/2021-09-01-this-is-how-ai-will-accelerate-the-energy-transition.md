@@ -9,8 +9,8 @@ ampWebUrl: "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: europeansting.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How this AI startup is overcoming the challenges of cultural accents"
+    excerpt: "US-based artificial intelligence startup, Sanas, has been working to unpick the nuances of accents to make communication easier for people from different backgrounds. That could have huge implications for any marketer who wants to improve customer experience through voice channels by helping both customers and staff be better understood."
+    publishedDateTime: 2021-09-05T21:14:00Z
+    webUrl: "https://www.cmo.com.au/article/691050/how-ai-startup-overcoming-challenges-cultural-accents/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 37
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/dreamstime_m_109924597_conversation.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "The Executive’s Guide to Accelerating Artificial Intelligence and Data Innovation with Synthetic Data"
     excerpt: "Senior leadership finds itself grappling with the competing demands of operating in an increasingly digital world. This digital environment requires use of sophisticated technologies like artificial intelligence (AI),"
     publishedDateTime: 2021-09-02T01:46:00Z

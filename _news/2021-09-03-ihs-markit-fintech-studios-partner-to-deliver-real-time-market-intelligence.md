@@ -154,6 +154,17 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "Financial Institutions are Increasingly Adopting AI for Supporting AML as Fintech Adoption Rises: Report"
+    excerpt: "Financial institutions are increasingly adopting AI for supporting AML as global Fintech adoption rises: Report."
+    publishedDateTime: 2021-09-05T21:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 22
   - title: "Forum addresses importance of FinTech, AI in future careers"
     excerpt: "The minister stressed that the forum seeks to identify and discuss the reality of future professions in Bahrain in financial technology (FinTech), artificial intelligence (AI) and sustainable energy as well as labor market trends and expected jobs in the near future."
     publishedDateTime: 2021-09-01T14:46:00Z

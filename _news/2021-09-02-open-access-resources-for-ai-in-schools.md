@@ -42,6 +42,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Deep Reinforcement Learning Is the Key To Making AI Physical"
+    excerpt: "Deep RL is a kind of AI that can learn how to reach a goal over many steps, often by inventing surprising moves to navigate complex environments. Know and explore more about RL in this article."
+    publishedDateTime: 2021-09-05T05:40:00Z
+    webUrl: "https://www.analyticsinsight.net/deep-reinforcement-learning-is-the-key-to-making-ai-physical/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 43
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Deep-Reinforcement-Learning-Is-the-Key-To-Making-AI-Physical.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "The Coming Identity Crisis for AI"
     excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
     publishedDateTime: 2021-09-01T21:05:00Z

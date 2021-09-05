@@ -27,33 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "2017 – AI, Deep Learning, and GPUs"
-    excerpt: "Armed with huge data sets and increasingly powerful GPUs, neural network architectures got bigger and better, helping to close the human-machine performance gap in two prominent AI workloads: natural language processing (NLP) and computer vision."
-    publishedDateTime: 2021-09-01T04:26:00Z
-    webUrl: "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/"
+  - title: "The Case for Artificial Intelligence in Recruiting IT Talent"
+    excerpt: "More AI tools are becoming available to help recruit and hire new technology staff. They take some of the burden off management to find the right people and also reduce bias in the process."
+    publishedDateTime: 2021-09-01T17:36:00Z
+    webUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent"
+    ampWebUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 71
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_for_DoD.png"
-        width: 800
-        height: 533
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/93d9cbb/2147483647/strip/true/crop/6000x3129+0+436/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2F9b%2F44fc45d24b5b9f92241cff803deb%2Fvirtual-ai-hiring.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Data science, machine learning, and AI in fitness – now and next"
-    excerpt: "Data science, machine learning, and AI have become critical technologies, penetrating almost every aspect of our lives, including fitness and wellbeing."
-    publishedDateTime: 2021-09-03T07:56:00Z
-    webUrl: "https://dataconomy.com/2021/09/data-science-machine-learning-ai-fitness/"
+  - title: "Open Access Resources for AI in Schools"
+    excerpt: "Part of a Global Network of Internet & Society Centers (NoC) project on the Ethics of Digitalization, the Research Clinic convened a dozen early-career scholars to examine a real-world use case of AI in the public sector. The larger initiative is conducted ..."
+    publishedDateTime: 2021-09-02T14:50:00Z
+    webUrl: "https://cyber.harvard.edu/story/2021-09/open-access-resources-ai-schools"
     type: article
     provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 54
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 41
     images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/09/data-science-machine-learning-ai-fitness.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2021-09/joao-marcelo-martins-hFoPRRwjVgg-unsplash.jpg?h=6521bd5e&itok=WaKAxnJa"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "The Coming Identity Crisis for AI"
+    excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
+    publishedDateTime: 2021-09-01T21:05:00Z
+    webUrl: "https://www.discovermagazine.com/technology/the-coming-identity-crisis-for-ai"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/65XSymbGJEL7F2ovzt3sy9/d77df1e9d0a8904ebba41da5e02d87fb/shutterstock_1178406460.jpg"
+        width: 1000
+        height: 625
+        isCached: true
+  - title: "AI weather forecasting for smart farms"
+    excerpt: "AI weather forecasting for smart farms Researchers working on smart irrigation systems have developed a way to choose the most accurate weather forecast out of those offered in the week leading up to a given day."
+    publishedDateTime: 2021-09-01T07:58:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=725881"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 37
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0011/725888/IMG_2.JPG"
+        width: 5328
+        height: 4000
         isCached: true
 
 secured: "jjGluWlWjfWxfJNgbX6tna/4ihWfaktAa/8VYDVQcJeu8Oh7RKmT+dVrwr7gX+xcW1J+wl2jsjFo8cLkhpE4lQniM1S5EYaA6bQzbqkveFfN0t1lFmdxkaKKaH7icGT0rwGsq9QnRmVlcWbjT0scnyV0edC0BRxQu79d9lyIf8hgDELJdIhhqZTpWXwx4zZIcXRKouWcC/xY1fUbaRaeyhrgHMVF9QfFCZY+Md6MIjl+D0k1GGGYJii5ko3zqljHx9ZoYpSxsu7A/yqSEL04KP5vJEs3lT+tnMeeTJZkCOyoCgHaBu5BubkdBo9zB/eIRNMYTeNKGbanhUseN80C2t/0uRMSs/lqe0esneiME6pfW5jhQembpGb8WTAbYtrWZd4/0K61/z7gswJbvEctKJpqJSY3Ci3TQW62d4Y+x6CzDjF8apn+WGIRG3J5b7Hedc5C/WtEHFexgD3+zulXve8zCrhM9AIIbXL/oqGlEu6CauN60lcttRSbNL6s5BhcT5iPklZs+BNrEjDYpF0j6g==;7cEP4FR72BBfwOuDipnc8g=="

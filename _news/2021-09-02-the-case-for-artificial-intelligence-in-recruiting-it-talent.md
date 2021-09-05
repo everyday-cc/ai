@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Reinforcement Learning Is the Key To Making AI Physical"
+    excerpt: "Deep RL is a kind of AI that can learn how to reach a goal over many steps, often by inventing surprising moves to navigate complex environments. Know and explore more about RL in this article."
+    publishedDateTime: 2021-09-05T05:40:00Z
+    webUrl: "https://www.analyticsinsight.net/deep-reinforcement-learning-is-the-key-to-making-ai-physical/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 43
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Deep-Reinforcement-Learning-Is-the-Key-To-Making-AI-Physical.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Open Access Resources for AI in Schools"
     excerpt: "Part of a Global Network of Internet & Society Centers (NoC) project on the Ethics of Digitalization, the Research Clinic convened a dozen early-career scholars to examine a real-world use case of AI in the public sector. The larger initiative is conducted ..."
     publishedDateTime: 2021-09-02T14:50:00Z

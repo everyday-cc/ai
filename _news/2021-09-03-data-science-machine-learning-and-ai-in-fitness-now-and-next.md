@@ -7,7 +7,7 @@ originalUrl: "https://dataconomy.com/2021/09/data-science-machine-learning-ai-fi
 webUrl: "https://dataconomy.com/2021/09/data-science-machine-learning-ai-fitness/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1920
     height: 1280
     isCached: true
-
-related:
-  - title: "2017 – AI, Deep Learning, and GPUs"
-    excerpt: "Armed with huge data sets and increasingly powerful GPUs, neural network architectures got bigger and better, helping to close the human-machine performance gap in two prominent AI workloads: natural language processing (NLP) and computer vision."
-    publishedDateTime: 2021-09-01T04:26:00Z
-    webUrl: "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 71
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_for_DoD.png"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Deep Reinforcement Learning Is the Key To Making AI Physical"
-    excerpt: "Deep RL is a kind of AI that can learn how to reach a goal over many steps, often by inventing surprising moves to navigate complex environments. Know and explore more about RL in this article."
-    publishedDateTime: 2021-09-05T05:40:00Z
-    webUrl: "https://www.analyticsinsight.net/deep-reinforcement-learning-is-the-key-to-making-ai-physical/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 43
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Deep-Reinforcement-Learning-Is-the-Key-To-Making-AI-Physical.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "IrZZcOSghMrP7L4ayc1IqG13gI6ON44IdFwGiiK85IZrM47oLUKo9ScGBNLxJAgnNMVRyZHYHpLv/708jDgOfk/eS981xbWaM5mSIQHvjawiTt8DAPNX+Kmnbb+XmpRHFisE7Bh5uqq2lNtuaAmGeGS0DenoF+mL7dto6qROCYuM7/bP52/xvjHhF6rTxVvhcYHLnNWHbxxEGzimWIAymJdRvtNBdEoenP4anamw19VpoYRzIceVztnJpiPwPn/Q9BE7ZEor0frQooqutgoUWPjaEtHPcJEgY0OufirMSLQCcQ/KFiUQjOAviIc0sNmaCqtC0kjp1SGpQ/HSmKY17B8ijl4iG96dj1VPcQifMu6TWQ2wVAhpgns7q3DNKmLiV4yNvksU+390qppvA1h3kEh7sCRf0tVOgz8YaTmo0Uh68OUH5koDsDFBR5EXCD/fuYQQdqEwfizU+sestm5Hx9r1iRWer0y0PZjwFaji4O0UEqISC64zTTnNXVyhOlsqUQ7vumzmhdCeTqnYLCnKAQ==;0BUlls+KF6NTMJasFC0T3g=="
 ---

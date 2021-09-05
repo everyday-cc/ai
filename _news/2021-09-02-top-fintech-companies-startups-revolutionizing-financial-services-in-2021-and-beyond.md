@@ -154,6 +154,17 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "Financial Institutions are Increasingly Adopting AI for Supporting AML as Fintech Adoption Rises: Report"
+    excerpt: "Financial institutions are increasingly adopting AI for supporting AML as global Fintech adoption rises: Report."
+    publishedDateTime: 2021-09-05T21:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 22
   - title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"
     excerpt: "IHS Markit has formed an alliance with FinTech Studios to deliver highly-relevant market intelligence, research and"
     publishedDateTime: 2021-09-03T07:24:00Z
