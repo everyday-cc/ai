@@ -33,6 +33,15 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 34
+  - title: "How robots are changing the construction industry — For the better"
+    excerpt: "A forward-thinking wave of general contractors is working to find unique ways to fill the talent gap in the construction industry, and they're investing heavily in tech practices through innovations in robotics and smart software solutions."
+    publishedDateTime: 2021-09-01T04:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2021/09/01/how-robots-are-changing-the-construction-industry.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Velodyne Lidar e MOV.AI fazem parceria para fornecer soluções autônomas para robótica industrial e de comércio eletrônico"
     excerpt: "A Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) e a MOV.AI anunciaram hoje que as empresas estão colaborando para fornecer a fabricantes de robôs soluções de automação de nível empresarial, incluindo mapeamento,"
     publishedDateTime: 2021-09-01T07:53:00Z

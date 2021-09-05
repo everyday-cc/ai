@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-08-26-tesla-now-aims-for-full-self-driving-beta-public-release-in-4-weeks.md",
-      "title": "Tesla now aims for Full Self-Driving Beta public release in ‘~4 weeks’",
-      "excerpt": "Elon Musk is now saying that Tesla is aiming for the wider public release of its Full Self-Driving Beta in about 4 weeks. We are coming up on almost a year since Tesla started testing its Full Self-Driving Beta in its early access program with some customers.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "originalUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/",
-      "publishedDateTime": "2021-08-25T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-26-joondalup-supports-push-to-become-centre-for-artificial-intelligence-and-robotics.md",
       "title": "Joondalup supports push to become centre for artificial intelligence and robotics",
       "excerpt": "A major Perth council wants to become Australia’s first urban centre for artificial intelligence and robotics.",
@@ -1415,6 +1363,49 @@
       "provider": {
         "name": "Channel NewsAsia Singapore",
         "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-the-value-when-tesla-bot-shows-up-to-work.md",
+      "title": "The Value When Tesla Bot Shows Up to Work",
+      "excerpt": "Waymo, Huawei, Baidu, Boston Dynamics ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.50.41-PM-1024x495.jpg",
+          "width": 1024,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
+      "publishedDateTime": "2021-08-20T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
         "images": null,
         "publishers": null,
         "authors": null

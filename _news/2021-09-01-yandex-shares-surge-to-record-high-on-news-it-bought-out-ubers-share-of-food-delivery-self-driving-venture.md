@@ -43,15 +43,6 @@ related:
         width: 1024
         height: 546
         isCached: true
-  - title: "Yandex To Acquire Uber's Interest In Eats, Lavka, Delivery And Self-Driving Businesses"
-    excerpt: "Yandex (YNDX) and Uber (UBER) have agreed to restructure the ownership of their joint ventures, MLU B.V. and Yandex Self-Driving B.V."
-    publishedDateTime: 2021-08-31T10:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yandex-to-acquire-uber-s-interest-in-eats-lavka-delivery-and-self-driving-businesses-1030769168"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "Yandex to buy Uber shares for $1bn in self-driving, mobility and foodtech"
     excerpt: "As well as Yandex acquiring full ownership of four companies, the deal opens the way for a further $2bn acquisition in the mobility sector."
     publishedDateTime: 2021-08-31T11:29:00Z

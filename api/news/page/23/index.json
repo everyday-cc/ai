@@ -2,109 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-08-17-data-observability-startup-monte-carlo-raises-60m.md",
-      "title": "Data observability startup Monte Carlo raises $60M",
-      "excerpt": "Monte Carlo, a startup leveraging AI to power its data observability tech, has raised $60 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
-      "originalUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1628527067120.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
-      "publishedDateTime": "2021-08-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier.md",
-      "title": "Industry Expo To Feature Seven Well-Tech Trends to Make Your Home Healthier",
-      "excerpt": "Ian Bryant, CEDIA’s director of strategic partnerships, dates the industry’s heightened interest in “well-tech,” (also called well tech and welltech to describe technology created to support wellness),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/",
-      "originalUrl": "https://www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5bfdc2f80c7e7ce0b23b1e%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/amp/",
-      "publishedDateTime": "2021-08-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-qualcomm-readies-5g-and-ai-drone-platform.md",
       "title": "Qualcomm readies 5G and AI drone platform",
       "excerpt": "Qualcomm is unveiling its QRB5165 processor platform that enables aerial drones to tap both 5G and AI technologies.",
@@ -1179,6 +1076,102 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-microsoft-azure-government-top-secret-has-hit-general-availability.md",
+      "title": "Microsoft Azure Government Top Secret has hit general availability",
+      "excerpt": "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-metinvest-achieves-blast-furnace-efficiency-with-machine-learning.md",
+      "title": "Metinvest Achieves Blast-Furnace Efficiency with Machine Learning",
+      "excerpt": "Ukraine-headquartered Metinvest, looking to improve the efficiency of its blast furnaces by reducing fuel consumption by controlling the silicon content in its iron, has started a pilot project with Azure Data Factory and Azure Machine Learning and having seen its efficiency improve against benchmarks set by industry leaders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "originalUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/steelguru%2F2021-08%2Fbf7a65a3-0f97-40be-871a-42658d642cc5%2FMachine_Learning.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1192,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
+      "publishedDateTime": "2021-08-16T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

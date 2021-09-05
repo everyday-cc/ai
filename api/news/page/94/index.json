@@ -2,102 +2,6 @@
   "page": 94,
   "value": [
     {
-      "path": "_news/2021-06-29-global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandmarketscom.md",
-      "title": "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com",
-      "excerpt": "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/b21758968/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandm",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/b21758968/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-pruning-preserving-quantization-aware-training-pqat-keras-example.md",
-      "title": "Pruning preserving quantization aware training (PQAT) Keras example",
-      "excerpt": "This is an end to end example showing the usage of the pruning preserving quantization aware training (PQAT) API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. _, baseline_model_accuracy = model.evaluate( test ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example?hl=sv",
-      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example?hl=sv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sv",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-how-were-supporting-30-new-ai-for-social-good-projects.md",
       "title": "How we’re supporting 30 new AI for Social Good projects",
       "excerpt": "Over recent years, we have seen remarkable progress in AI’s ability to confront new problems and help solve old ones. Advancing these efforts was one reason we set up the Google Research India lab in 2019, with a particular emphasis on AI research that could make a positive social impact. It’s also why",
@@ -1126,6 +1030,92 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-enterprise-ai-startup-beyondminds-certified-by-top-international-security-standard.md",
+      "title": "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard",
+      "excerpt": "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital.md",
+      "title": "Pittsburgh’s mayor on the city’s startup community and the difficulty of attracting venture capital",
+      "excerpt": "TechCrunch is turning its spotlight on Pittsburgh, Pennsylvania with interviews, profiles, and an event featuring the outgoing mayor, CMU’s President, and local startups. The Rust Belt city has spent much of the past decade working to shed the image that arrived in the wake of the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
+      "originalUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1071999330-yellow.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
+      "publishedDateTime": "2021-06-28T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

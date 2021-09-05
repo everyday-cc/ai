@@ -10,7 +10,7 @@
       "originalUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,9 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Robotics",
+        "AI in Healthcare"
       ]
     },
     {

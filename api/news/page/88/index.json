@@ -2,102 +2,6 @@
   "page": 88,
   "value": [
     {
-      "path": "_news/2021-07-02-aws-vs-azure-which-one-to-choose-for-banking-software-development.md",
-      "title": "AWS vs Azure: Which One to Choose For Banking Software Development",
-      "excerpt": "The financial service industry is among the most data-intensive and highly regulated sectors around the global market. With the",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270",
-      "originalUrl": "https://www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/06/AWS-Vs-Microsoft-Azure.png",
-          "width": 700,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-vs-azure-which-one-to-choose-for-banking-software-development-02416270/amp",
-      "publishedDateTime": "2021-07-01T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-google-sold-25-million-in-ai-to-the-pentagon-for-its-covid-19-recovery.md",
-      "title": "Google Sold $2.5 Million In AI To The Pentagon For Its Covid-19 Recovery",
-      "excerpt": "A previously-undisclosed deal with the Pentagon reveals Google sold AI tech for the DOD’s Covid-19 recovery. But, with no contractual “red line,” there were concerns it could have been repurposed for non-Covid military projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/",
-      "publishedDateTime": "2021-07-01T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-01-repsol-to-commercialize-industrial-ai-platform.md",
       "title": "Repsol to commercialize industrial AI platform",
       "excerpt": "Repsol S.A. (Madrid, Spain) will begin marketing ARiA, its proprietary, cloud-based data and analytics platform, in collaboration with Accenture (Dublin,",
@@ -1154,6 +1058,110 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams.md",
+      "title": "Microsoft Power Platform and low code/no code development: Getting the most out of Fusion Teams",
+      "excerpt": "Microsoft is starting to define a development philosophy for its Power Platform, and delivering the tools needed to back it up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/07/01/d61a2a58-69c0-4af9-9a85-3845fb7e8a0b/resize/1200x/816ad734b37107581dbb100ffae49100/power-platform.jpg",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-platform-and-low-codeno-code-development-getting-the-most-out-of-fusion-teams/",
+      "publishedDateTime": "2021-07-01T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher.md",
+      "title": "Facebook wants to help train the robots that will take out your trash and unload your dishwasher",
+      "excerpt": "The social media company released Habitat 2.0 to help researchers train household robots-to-be. By Daphne Leprince-Ringuet | July 1, 2021 -- 15:08 GMT (08:08 PDT) | Topic: Robotics Facebook has announced a new step in the company's journey towards achieving what it calls \"embodied AI\" – the technology that could one day enable robots to carry out tasks in mundane settings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/01/bb632da1-3378-41ff-845c-d07b3fe73671/gettyimages-1309871457.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-wants-to-help-train-the-robots-that-will-take-out-your-trash-and-unload-your-dishwasher/",
+      "publishedDateTime": "2021-07-01T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

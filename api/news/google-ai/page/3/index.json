@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-11-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth.md",
-      "title": "Behringer DeepMind 6 37-Key 6-Voice Polyphonic Analog Synth",
-      "excerpt": "Anyone can sell on Reverb. List your Behringer DeepMind 6 37-Key 6-Voice Polyphonic Analog Synth today to get it in front of thousands of eyes, quickly and easily. Learn more on the Seller Hub.",
-      "sourceUrl": null,
-      "webUrl": "https://reverb.com/item/41927692-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth-arpeggiator-sequencer",
-      "originalUrl": "https://reverb.com/item/41927692-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth-arpeggiator-sequencer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.reverb.com/image/upload/s--jEpaWUja--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1505743929/sllcktodjfv1zc1xnl8a.jpg",
-          "width": 1215,
-          "height": 984,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-10T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-09-basalt-minecraft-competition-aims-to-advance-reinforcement-learning.md",
       "title": "BASALT Minecraft competition aims to advance reinforcement learning",
       "excerpt": "Researchers at DeepMind and the University of California, Berkeley are launching a competition to spur reinforcement learning research.",
@@ -1430,6 +1387,58 @@
         "name": "pocketgamer",
         "domain": "pocketgamer.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-databricks-cofounders-next-act-shining-a-ray-on-serverless-autoscaling.md",
+      "title": "Databricks cofounder’s next act: Shining a Ray on serverless autoscaling",
+      "excerpt": "After helping shepherd Spark to surmount the data bottleneck, UC Berkeley’s Ion Stoica is helping unleash Ray, an emerging open source project to get over the compute bottleneck for scaling machine learning models into production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "originalUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/22/5db419aa-0477-47dc-a3ca-4444b6b838aa/sun-rays.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "publishedDateTime": "2021-06-21T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

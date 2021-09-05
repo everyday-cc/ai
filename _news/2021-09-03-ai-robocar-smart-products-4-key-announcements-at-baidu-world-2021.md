@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/key-announcements-baidu-world-2021/amp/"
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/key-announcements-baidu-world-2021/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 850
     height: 478
     isCached: true
-
-related:
-  - title: "All The Key Announcements Made By Chinese Search Giant At ‘Baidu World 2021’"
-    excerpt: "Last week at the annual technology conference 'Baidu World 2021', the Chinese internet giant Baidu unveiled its second-generation AI chip Kunlun (Kunlun II), robocar, a driverless taxi app (Luobo Kuaipao),"
-    publishedDateTime: 2021-08-31T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/all-the-key-announcements-made-by-chinese-search-giant-at-baidu-world-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Baidu-launches-worlds-largest-AI-open-platforms.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "lQ6P/1m1yZQflhbkzIovMPhSLLXujf7beMArIFmtADp5ZpTS8Ggaq0W5TfKcNvRkHGd/k0+XDI0p73tIf8CynuKLXgG2GpsJ4rXV223nNnXDqI7QGaBe1HBds8WA9Dp8EmuisEDodWnaE15JjQ8XYRaXMfKWUbyp8ykI1u8sJMAQcyy6E6874TQ5zzvPQjCdpmxTSpfsz6ixVqcSaRVhAFj6v4JtVeIAxu8AYpr9kWCZ+m9tPChR79VVuVEskdZHjYpRESKgKRsuw3a8oeQoP5S3zTUtyz72kmJSs3l7cyv0HHhs+2Wx2E/rPqFoFvBI1GPvxo0Akw+p7DGlH6m+7jOIwTzyvUdPu+Ym2OCCODqnpUpkE23wCVuI3PvAMlU6rRrc8bDzO+jZHaP2P9Viwgg6Y/Hsqzd7LFNR4GAohs13ZizQys4dZ1CxuliSJOXLgSt/kxYfowJCDggT5sLNp033A80bRhRM6DNXa8OiNMm2kmAl/us6x/RQjZMeLQrbf/s7cAF73FluebuyTvzJHw==;8M1QfOFXdcXwaznCIq7ExA=="
 ---

@@ -34,7 +34,7 @@ related:
     provider:
       name: bbntimes
       domain: bbntimes.com
-    quality: 82
+    quality: 86
     images:
       - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Trends_2021-min.jpg"
         width: 1600

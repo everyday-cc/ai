@@ -156,7 +156,7 @@
       "originalUrl": "https://manometcurrent.com/artificial-intelligence-solutions-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?noamp=mobile",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -647,7 +647,7 @@
       "originalUrl": "https://www.hongkiat.com/blog/ai-in-iot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -678,58 +678,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis.md",
-      "title": "Self Driving Wheelchair Market Size Insight Report 2021 to 2027 by Manufactures Types, End Users and Regions with COVID-19 Impact Analysis",
-      "excerpt": "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Self Driving Wheelchair",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1214,6 +1162,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-what-you-need-to-know-about-this-self-driving-truck-start-ups-ipo.md",
+      "title": "What You Need to Know About This Self-Driving Truck Start-up's IPO",
+      "excerpt": "Self-driving start-ups are racing to go public, hoping to ride the success of next-generation automotive IPOs like XPeng (NYSE: XPEV) and NIO (NYSE: NIO). But investors don't seem too excited. TuSimple Holdings ( NASDAQ:TSP) -- which went public in April -- has already dropped 15% below its IPO price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
+      "originalUrl": "https://www.fool.com/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F641215%2Fgettyimages-trucks.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
+      "publishedDateTime": "2021-09-01T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

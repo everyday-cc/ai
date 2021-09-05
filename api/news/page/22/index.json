@@ -2,101 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2021-08-18-innovating-with-artificial-intelligence.md",
-      "title": "Innovating With Artificial Intelligence",
-      "excerpt": "It’s been a while since I talked about artificial intelligence — mainly because those articles started to die down or I started reading the same thing over and over. Then other topics emerged within the markets and current events sort of shifted the conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
-      "originalUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png",
-          "width": 300,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
-      "cdnAmpWebUrl": "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
-      "publishedDateTime": "2021-08-17T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wealth Daily",
-        "domain": "wealthdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-accerns-no-code-ai-platform-can-speed-analytics-in-financial-services.md",
-      "title": "Accern’s No-Code AI Platform Can Speed Analytics In Financial Services",
-      "excerpt": "Accern, which has more than a library of use cases available for immediate deployment across financial services firms, says templates can reduce the need for customer data scientist-led analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/",
-      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://secure.gravatar.com/avatar/a1949b2c32bb572c7030dac004c2af03?s=400&d=mm&r=g",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-18-intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week.md",
       "title": "Intel teases reveal of Arc's AI-powered DLSS Super Sampling alternative this week",
       "excerpt": "Intel appears ready to announce its new AI-powered super sampling GPU technology later this week in a direct challenge to Nvidia's DLSS dominance in the PC gaming market. Anton Kaplanyan, Intel's VP of Graphics Research,",
@@ -1134,6 +1039,109 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-data-observability-startup-monte-carlo-raises-60m.md",
+      "title": "Data observability startup Monte Carlo raises $60M",
+      "excerpt": "Monte Carlo, a startup leveraging AI to power its data observability tech, has raised $60 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
+      "originalUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1628527067120.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier.md",
+      "title": "Industry Expo To Feature Seven Well-Tech Trends to Make Your Home Healthier",
+      "excerpt": "Ian Bryant, CEDIA’s director of strategic partnerships, dates the industry’s heightened interest in “well-tech,” (also called well tech and welltech to describe technology created to support wellness),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/",
+      "originalUrl": "https://www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5bfdc2f80c7e7ce0b23b1e%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/amp/",
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2374926/ai-in-online-advertising-market-d
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Marketer, meet machine! - helping marketers get a handle on AI"
-    excerpt: "As a marketer, I am fascinated with how machine learning and Artificial Intelligence are helping companies improve their marketing and sales strategies. But also understand we have a long way to go, and there are many questions around how to use AI right."
-    publishedDateTime: 2021-08-31T09:30:00Z
-    webUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai"
-    ampWebUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-03/shutterstock_1005701926.png"
-        width: 740
-        height: 450
-        isCached: true
   - title: "3 ways artificial intelligence will change marketing forever"
     excerpt: "Marketers are no exception to the relentless pace of organizational digital transformation and automation—especially by leveraging artificial intelligence. AI-powered automation doesn’t just make a firm’s marketing department faster,"
     publishedDateTime: 2021-09-03T09:30:00Z

@@ -54,15 +54,6 @@ related:
         width: 800
         height: 510
         isCached: true
-  - title: "The past, present, and future of AI in financial services"
-    excerpt: "As the use cases for AI in financial services continue to grow and deliver value for organizations and customers alike, I’d like to provide some insight on where I think the technology is delivering most value at the moment,"
-    publishedDateTime: 2021-08-31T10:50:00Z
-    webUrl: "https://www.finextra.com/blogposting/20816/the-past-present-and-future-of-ai-in-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "fhqeoNBr54KcAft51CiKnFnyVcgTTKJawik9ttGbX8ZakDUkhOQpxfccpPYXP5OR+jjIsl3GT9GgA2Gg+k/cnzcVIy97gCJTNM/AzgIu/IpTB0qVtsFE3q/PbLy6peLn7yba7J8T997Ov6jA52CutO11VKyguwoHBjYGCjXnoexYdoFRW/n3VV0VUCJdGsjjajxVfyn6SGGsRPpZ0K2UENssvhnymZ5ckFv4h5r5118U4+xPrNb69Vu1uSqAD/E8p+ES1ZVofsMCBB9n3trY8Y9oBWsQ7Jex8r/Bc+BAINIVakZ469qMjbOvi75/eDo2SIvvbH8FGVAC2dW/Qfcdc8DgWfZdqsJUaVP80u9BdRM=;gSjIW2lCO1nPWU+KF0J8Yg=="
 ---

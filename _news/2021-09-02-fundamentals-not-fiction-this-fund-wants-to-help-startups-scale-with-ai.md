@@ -3,8 +3,8 @@ category: news
 title: "Fundamentals, not fiction: This fund wants to help startups scale with AI"
 excerpt: "As the scale of startup growth has soared over the last five years, founders have gotten locked into an endless search for funding. Investment rounds are getting larger, and startups need more cash to accelerate and justify their valuations."
 publishedDateTime: 2021-09-02T06:21:00Z
-originalUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-705815"
-webUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-705815"
+originalUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-705576"
+webUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-705576"
 type: article
 quality: 46
 heat: 46
@@ -32,6 +32,6 @@ related:
       domain: techinasia.com
     quality: 46
 
-secured: "G0aykzBuprLMtSwyOmj+o5Bdl514+9X0sPqXsX9ZAATZcEvhRDw5U8gsSGS2F3Th4YAieOT4Hfz0ejsKQZ01EC3zYWftBwpq8C8vSCqklyDZa7r2PcKkKIhD8GnNKyp5BgUmsjlnLblGX4oehtkeik7YESxK1Nw4pHY+A+dJE+OqZQmrCYjIQoKxLesJYFCsF+kH6RGFGInKXmg+wE0a4fYNf9ZKv6cJl+eSWRQkB7j08MlpqBWW0ang2xkBDQI6njzD6Ur8KLITCnTVlYe7DDPIApF321KogLt586WhoCE1P8W3KxdL5+dyo5sbcuLM5FJyz3ghqyssLx12OSyPxKHhUOYA4E9m7YHP2k49xDvFZg68X+p4DJOmfCa45EkV/0tagfYbjIVLsoi/58H4GU4pQsJTBqVw9jae+R42jWJfu61ev+eD3fX0e+CitZZqgAfXNEvsmE6xmqwJOdMrlPbTGwUu208TTFlMDm+GHXdjo/M/lSonqwod6DrNLL5NEWJ5MjJtdH6P1kAmpz0Elg==;izcFaGICQmYQWhFfAi0V3Q=="
+secured: "/hhTPmJKSO9G5c2s2KQ0B2doohTLV0UOED3+ofxrL6Z9bS+MYbuH/VL8Tw92S37Jv6lewmikMezZmkDL/GUV9IMAhbvd009N1Aa5Qg1NoSYhvmzEzUKj4uTFwJ9aYw6MydmwufnYTghRctCgdAuXKAFWt6Mi7V4UmJY88v/UgQTx3jX2GtpT5ckjvf/opt63xay29T0qMiGnIJoFgKBhgMv0lhMfA7GKSa5ElktuK+MzgTW6qXDne59WpmgtHwvVmu+1zRlBWnthetihwoJQ9sl05QhhFxo0M7TLY0ywwiNGm3lZnOOMzIpuHXQvlwFPgGbM6mPEUD5Ktk+luL0ijWoONGp9sgZKz7kq2IjqhEwTQK9Dsv4ztEuHM2JEixYR4FtpehyBL4eWaS/HArscyhQY0s750XViO2ONSC1TdaCyQSV09xsv0edd65L4q+9g0w4rZxfRyw+2tFERd5gdnrPRo0B1f5pgLU9k9ZdAuthaQKaFwM0duqkr+lGcCjJonX2u2rHuI5wH9gQUIuh+Lg==;xnIPJ4RlLfhHCkwJmgg/NA=="
 ---
 

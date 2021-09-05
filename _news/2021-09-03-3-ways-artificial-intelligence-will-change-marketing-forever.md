@@ -41,22 +41,6 @@ related:
         width: 720
         height: 325
         isCached: true
-  - title: "Marketer, meet machine! - helping marketers get a handle on AI"
-    excerpt: "As a marketer, I am fascinated with how machine learning and Artificial Intelligence are helping companies improve their marketing and sales strategies. But also understand we have a long way to go, and there are many questions around how to use AI right."
-    publishedDateTime: 2021-08-31T09:30:00Z
-    webUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai"
-    ampWebUrl: "https://diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/marketer-meet-machine-helping-marketers-get-handle-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-03/shutterstock_1005701926.png"
-        width: 740
-        height: 450
-        isCached: true
 
 secured: "XfTrP4L6RCk7sqtj9ZeOz70v3TdBsAWHBEK4SbwP5kq8BRaPAo02ZWPUKl1sfXlzIcX4YAJ7sjQyy2d6lwPQKZYMiOqOXXHa2KbD6kPDsjy28psOHfBHOwu14LCW6XLFr9sS6Jgv06D7PYv/g7CuCCFvtbALgQSJS3jXtFe0vmY5p2pEHxEteu1UHxIIlVHV455f2mZxVrrfkf4ZHxSKB0Nvxiy9aTsT7nuA3vhOMkWNiga9RSS7RTY65Fe5CCYKDnhbV1LYgf8RFmFiFXW6N84jjQQJyb/C6qyPyNrh9P9Xyw66/ZqQjAzG2pan6Ka1E/FFSyoDzNapttzYqFYmpvGv6V3lujKjY06wF6mI99jfvQqVyzQxevyXiH4uJyKmejdatAkHuEp5mRnYZlLUEzHt/TZedknZW9JJ2QR2sm9J8DSXLLDxS6nFFi8DVewFbi/rBR+/ol6ED+in0d9CQ5JDoklZLUBBBTurJ86UjawqISb48HRZlh/l48bVYjN9I3C/hu1v5Q1tYQnczfa0zg==;BPd436DXoHB3t7iRD226Wg=="
 ---

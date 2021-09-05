@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-04T22:53:00Z
 originalUrl: "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml"
 webUrl: "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml"
 type: article
-quality: 82
-heat: 92
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Trends_2021-min.jpg"

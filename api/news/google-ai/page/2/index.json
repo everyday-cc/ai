@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-08-02-load-external-tfrecord-with-tfds.md",
-      "title": "Load external tfrecord with TFDS",
-      "excerpt": "For TFDS to be able to decode the tf.train.Example proto, you need to provide the tfds.features sturcture matching your specs. For example: features = tfds.features.FeaturesDict({ 'image': tfds.features.Image(shape=(256, 256, 3)), 'label': tfds.features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=uk",
-      "originalUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=uk",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-01-new-scientific-database-could-revolutionise-the-way-diseases-are-treated.md",
       "title": "New scientific database ‘could revolutionise the way diseases are treated’",
       "excerpt": "Researchers from Google-owned artificial intelligence (AI) lab DeepMind, and European Bioinformatics Institute (EMBL), have launched a database featuring 20,000 structures for the complete set of ...",
@@ -1466,6 +1414,49 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth.md",
+      "title": "Behringer DeepMind 6 37-Key 6-Voice Polyphonic Analog Synth",
+      "excerpt": "Anyone can sell on Reverb. List your Behringer DeepMind 6 37-Key 6-Voice Polyphonic Analog Synth today to get it in front of thousands of eyes, quickly and easily. Learn more on the Seller Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://reverb.com/item/41927692-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth-arpeggiator-sequencer",
+      "originalUrl": "https://reverb.com/item/41927692-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth-arpeggiator-sequencer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.reverb.com/image/upload/s--jEpaWUja--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1505743929/sllcktodjfv1zc1xnl8a.jpg",
+          "width": 1215,
+          "height": 984,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-10T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

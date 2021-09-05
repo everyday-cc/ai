@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-31-ai-in-online-advertising-market.md",
-      "title": "AI in Online Advertising Market",
-      "excerpt": "The Global AI in Online Advertising Market Report is presented in a clear and concise way to help you understand market structure and dynamics. Recent trends, developments and opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2374926/ai-in-online-advertising-market-demand-growth-prospects",
-      "originalUrl": "https://www.openpr.com/news/2374926/ai-in-online-advertising-market-demand-growth-prospects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U831556344_g.jpg",
-          "width": 720,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects",
-      "publishedDateTime": "2021-08-31T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-31-deserialization-bug-in-tensorflow-machine-learning-framework-allowed-arbitrary-code-execution.md",
       "title": "Deserialization bug in TensorFlow machine learning framework allowed arbitrary code execution",
       "excerpt": "The team behind TensorFlow, Google’s popular open source Python machine learning library, has revoked support for YAML due to an arbitrary code execution vulnerability. YAML is a general-purpose format used to store data and pass objects between processes and applications.",
@@ -1410,6 +1367,58 @@
         "name": "Genius",
         "domain": "genius.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-load-external-tfrecord-with-tfds.md",
+      "title": "Load external tfrecord with TFDS",
+      "excerpt": "For TFDS to be able to decode the tf.train.Example proto, you need to provide the tfds.features sturcture matching your specs. For example: features = tfds.features.FeaturesDict({ 'image': tfds.features.Image(shape=(256, 256, 3)), 'label': tfds.features ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=uk",
+      "originalUrl": "https://www.tensorflow.org/datasets/external_tfrecord?hl=uk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=uk",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

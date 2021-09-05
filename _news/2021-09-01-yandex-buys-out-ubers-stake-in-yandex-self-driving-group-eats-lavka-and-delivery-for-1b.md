@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yan
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/amp/"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yandex To Acquire Uber's Interest In Eats, Lavka, Delivery And Self-Driving Businesses"
-    excerpt: "Yandex (YNDX) and Uber (UBER) have agreed to restructure the ownership of their joint ventures, MLU B.V. and Yandex Self-Driving B.V."
-    publishedDateTime: 2021-08-31T10:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yandex-to-acquire-uber-s-interest-in-eats-lavka-delivery-and-self-driving-businesses-1030769168"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "Yandex shares surge to record high on news it bought out Uber’s share of food-delivery & self-driving venture"
     excerpt: "Shares of Russian technology giant Yandex soared to new heights on Wednesday, extending the gains of around 5% recorded in the previous session after the firm said it would buy Uber out of several joint businesses."
     publishedDateTime: 2021-09-01T12:38:00Z
