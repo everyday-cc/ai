@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voice
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -120,20 +120,6 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/09371cbda8d7ec87ba62fa6252f58268.jpeg"
         width: 1200
         height: 638
-        isCached: true
-  - title: "Nvidia showcases latest research and advances in speech synthesis"
-    excerpt: "Nvidia Corp. is closing the gap between synthesized speech and human voices with the launch of its most advanced conversational artificial intelligence models at the Interspeech 2021 conference today."
-    publishedDateTime: 2021-08-31T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/31/nvidia-showcases-latest-research-advances-speech-synthesis/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Nvidia-synthetic-speech.png"
-        width: 955
-        height: 536
         isCached: true
 
 secured: "GjbmrvVvu6CyIbZmP2V22+LiaBI6nKC6hdY4CZaOBL9UhQQSCrXESG/1513ND3K2fge9BnJI6aaplgnkEo0yFabbui609NGIQZj6N1LBR3dpqCYxrJCMRIJpHJGgglYEQEvfb5lFAbx6pzOKdUP25X9KEIRmP7ggkh1OctMh14l6KDe5FEezKuBowAUkhEHFeACg+XyUWov/A9OdFWZcPf9dudk3XtN7Ni7hSJydIQRG+Yh6TSYaBLM51rTj6k+E2vPyMGcG7Fbgpd481+ND43cAEVoHaBJInANZ3fk9C8vqqHd7VfWwqSFxG0kIl08FAer0XJpll9PEaYp1JisRFsTS0zJl6aWu0lK0H4OKAAnJ135dz+JvgvHMhQ1kvTYrSU5otIMTv2qyPBBek/BsmXNAd1Q8T9E4p8dte6IQ6UgXHcaXLe3NYJ4o8vLnp++a1KF74rIirhRzhy7gEYIVEsS6/He6N95VPEGpZtygbqXgCCk3mrsjTs2NbXUU6UhkThz5x5b0q+htERTQ/q15Kw==;9rYPa8eAb0x9HsvuwreZvg=="

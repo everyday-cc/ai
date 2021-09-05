@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/amp/"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank to offer AI-based, real-time sign language translation"
-    excerpt: "SoftBank will start providing an AI-based sign language translation service as soon as 2024 using a smartphone app that can turn 5,000 signs into Japanese text in one second or less, Nikkei has learned."
-    publishedDateTime: 2021-09-03T09:56:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/SoftBank-to-offer-AI-based-real-time-sign-language-translation"
+  - title: "AI start-up Peak to create more than 200 jobs after $75m funding boost"
+    excerpt: "A Manchester-based artificial intelligence (AI) start-up has raised $75m in a funding round with the world's largest technology investor and is now set to create more than 200 jobs over the next 12 months."
+    publishedDateTime: 2021-08-31T13:03:00Z
+    webUrl: "https://www.business-live.co.uk/technology/ai-start-up-peak-create-21445175"
+    ampWebUrl: "https://www.business-live.co.uk/technology/ai-start-up-peak-create-21445175.amp"
+    cdnAmpWebUrl: "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/ai-start-up-peak-create-21445175.amp"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
+      name: business-live
+      domain: business-live.co.uk
+    quality: 57
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F7%252F1%252F36241707-4-eng-GB%252F%25E2%2598%258520191105_1866.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://i2-prod.business-live.co.uk/incoming/article21445111.ece/ALTERNATES/s615/0_peak-announcing-our-series-c-fundingjpeg.jpg"
+        width: 615
+        height: 409
         isCached: true
 
 secured: "dVxuw6X3V2zbrAmmlDkj+Z1pOzZLBhmBj961CgISccb9ue7/D7R1RHC8ELUdawrd4hwJzXBCzgu9PH+KezSyH8rvRgaunQqafnZ8bTEvLnFc4OCZtWoxgNSqirq1UzAXiWLYA2lb/7dAuViEyEUtPwkxkY3q4zqpFm5r9ryksT5sSXKAaKvkpAuS1YQrAhf2NTgdZRMsO4DiMk77BlmGQUFetAbSOb/W9f3jwaky3sLbvJ9gcCvtMa5tA558R5+FAYrJqgVGlvlxP+m9g4h29RyZLSBEUiNjghXMoRFQrhagfy3bggfeBYHeJ0Aol/daY5veWbXu6vuIuaLEy5j6ISkaMpmZlm9Wi4jQ1sVRxvvNe0ra3dmE/X6FIlLM/tRAvJ43tTfnm6VkpJBQrnaXJJT8DJMzMaHJGsCYVEHA09JYfSKWNzwnuZx9JpWv4c7+gJ7u1WL1H8plnWJbaQjsP5N3HjKhawdMbLB2/J0IeBEsHq305sld8HWBN5NUNzUcNae+GfgOnEzbYCKje22Pmg==;yoaX45U2Z9C6hORV1QVyig=="

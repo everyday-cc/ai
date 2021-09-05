@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 546
         isCached: true
-  - title: "Yandex to buy Uber shares for $1bn in self-driving, mobility and foodtech"
-    excerpt: "As well as Yandex acquiring full ownership of four companies, the deal opens the way for a further $2bn acquisition in the mobility sector."
-    publishedDateTime: 2021-08-31T11:29:00Z
-    webUrl: "https://www.siliconrepublic.com/companies/yandex-deal-uber-mobility-foodtech"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 23
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/yandex-office-building.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "US tech giant Uber bought out in Russia by homegrown Yandex, handing over keys to self-driving cars & food delivery business"
     excerpt: "Russia's largest technology company has announced it will buy a series of joint ventures from US ride-sharing and delivery services conglomerate Uber, handing over a billion dollars as part of the deal and sending shares soaring."
     publishedDateTime: 2021-08-31T17:20:00Z

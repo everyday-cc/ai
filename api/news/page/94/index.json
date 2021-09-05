@@ -2,58 +2,6 @@
   "page": 94,
   "value": [
     {
-      "path": "_news/2021-06-29-how-were-supporting-30-new-ai-for-social-good-projects.md",
-      "title": "How we’re supporting 30 new AI for Social Good projects",
-      "excerpt": "Over recent years, we have seen remarkable progress in AI’s ability to confront new problems and help solve old ones. Advancing these efforts was one reason we set up the Google Research India lab in 2019, with a particular emphasis on AI research that could make a positive social impact. It’s also why",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/30-new-ai-for-social-good-projects/",
-      "originalUrl": "https://blog.google/technology/ai/30-new-ai-for-social-good-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_12_CKcml0Q.max-600x600.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/30-new-ai-for-social-good-projects/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/30-new-ai-for-social-good-projects/amp/",
-      "publishedDateTime": "2021-06-28T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-thailands-pomelo-is-revolutionizing-seas-fashion-industry-with-machine-learning-and-ai.md",
       "title": "Thailand’s Pomelo is revolutionizing SEA’s fashion industry with machine learning and AI",
       "excerpt": "Machine learning and AI have a multitude of applications in various industries, but fashion might sound like a curious one - Tech Wire Asia",
@@ -1107,6 +1055,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum.md",
+      "title": "Greensprings School to Integrate Robotics, Artificial Intelligence into Curriculum",
+      "excerpt": "The management of Greensprings School has announced that the school will start offering robotics and artificial intelligence (AI) to its secondary school students. This announcement",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/",
+      "originalUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2018/11/Greensprings-pix.gif",
+          "width": 412,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/?amp=1",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/?amp=1",
+      "publishedDateTime": "2021-06-28T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

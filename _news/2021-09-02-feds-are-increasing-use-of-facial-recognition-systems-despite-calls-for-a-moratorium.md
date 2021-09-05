@@ -43,20 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Government agencies used Clearview facial recognition in 24 countries"
-    excerpt: "Dozens of government-affiliated agencies around the world, including police departments and universities, have trialled Clearview AI's facial-recognition system, according to BuzzFeed News. The publication reviewed internal data from Clearview and found that 88 government agencies in 24 countries (not including the USA) had used the firm's facial recognition system,"
-    publishedDateTime: 2021-08-31T11:03:00Z
-    webUrl: "https://www.computing.co.uk/news/4036424/government-agencies-clearview-facial-recognition-countries"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/957b3e5/1560dce2-db4e-469d-86cb-0b930d4c95fc/6/ClearviewAI-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Largs Academy pupils to use facial recognition system"
     excerpt: "Largs Academy pupils will be able to use facial recognition inside the school. The new technology will be used to buy contactless school meals and all in-school catering purchases. The technology will be launched later this year to replace Parent Pay."
     publishedDateTime: 2021-09-03T10:12:00Z

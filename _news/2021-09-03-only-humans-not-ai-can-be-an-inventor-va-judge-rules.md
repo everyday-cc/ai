@@ -36,6 +36,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Judge Says an AI Can’t Be an Inventor on a Patent Because It’s Not a Person"
+    excerpt: "They can’t even appear as inventors on U.S. patents. U.S. federal judge Leonie Brikema ruled this week that an AI can’t be listed as an inventor on a U.S. patent under current law. The case was brought forward by Stephen Thaler,"
+    publishedDateTime: 2021-09-05T05:09:00Z
+    webUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641"
+    ampWebUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 85
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/37537a3ccad75b9d5a057a42727649ac.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "8CIzwLUN7BtKjgYcq1InGJUuEwF62TIxOhqmEQuW6AVcmzRqI39g2ppNvAPdPUM684auHRJjmbgqtCMxxlWelC0ag4mIdQP2+/GYhIhtF7grqdGScs/23PlEsMA0zoLpLgS07OJqL7fVq6o/eUE2IFiOKIJLt4FekhLbzr6SZpH1c4ACwsSeimq3424XdOYiV4LrkoMfZJKcbmvBsYvNW4lXx0BhlDegrnj0SLqIvHLuadloPAkoV3ymrK5t9xkjSyts1kjijqcN0ntE1YRhIwGPw+FrmM+xrfyxtJLqzxQXpKnSQZfELQjkk6qsuMDFcZNv1p32kDuNv/M+aJ41hj9tUByO1MstBNBqAG7gmAQ=;+wNwihOts6uXIx3T+C+4lA=="
 ---

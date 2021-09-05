@@ -71,17 +71,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Robot Operating System Market by Technology Advancement and Business Outlook 2021-2026"
-    excerpt: "MarketInsightsReports recently published a research report called Robot Operating System Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study of geographic regions"
-    publishedDateTime: 2021-08-31T11:55:00Z
-    webUrl: "https://www.openpr.com/news/2374811/robot-operating-system-market-by-technology-advancement"
-    ampWebUrl: "https://www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374811/robot-operating-system-market-by-technology-advancement"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
   - title: "BMO Harnesses AI Technology for Capital Markets Structured Note Pricing and Scenario Analysis"
     excerpt: "BMO working with Riskfuel Analytics to help clients make faster, better investment decisions Successful pilot leveraged deep learning and fast neural nets to speed up valuation and pricing process TORONTO,"
     publishedDateTime: 2021-09-02T12:38:00Z

@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "Tesla Makes a Leap from Autonomous Vehicles to Robots with “Tesla Bot” Reveal"
+    excerpt: "Not a stranger to taking on a challenge, Elon Musk reveals \"Tesla Bot\" at 2021's Tesla AI Day. While it seems to be an ambitious plan to build a humanoid robot, how feasible is it for Tesla? Elon Musk isn't new to having big ideas and even bigger ambitions."
+    publishedDateTime: 2021-09-01T23:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/tesla-makes-a-leap-from-autonomous-vehicles-to-robots-with-tesla-bot-reveal/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 53
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/tesla_bot_ai_day_thumbnail.jpg"
+        width: 700
+        height: 300
+        isCached: true
   - title: "4 Specialized AI Stocks to Buy for the Boom"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally, it appears that companies that have developed artificial"
     publishedDateTime: 2021-08-31T17:06:00Z

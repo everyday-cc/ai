@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/09/03/space-company-redwire-begins-tra
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/space-company-redwire-begins-trading-nyse-after-closing-spac-deal.html"
 type: article
 quality: 140
-heat: 140
+heat: 141
 published: true
 
 provider:

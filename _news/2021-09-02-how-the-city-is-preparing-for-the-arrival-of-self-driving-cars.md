@@ -99,17 +99,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving buses back online in Tokyo after hitting Paralympic athlete"
-    excerpt: "Toyota will resume the use of its self-driving buses, e-Palette Pods, at the Tokyo 2020 Paralympic Games today after one hit a visually impaired athlete. The Guardian reported that the Paralympian, Aramitsu Kitazono,"
-    publishedDateTime: 2021-08-31T11:28:00Z
-    webUrl: "https://mybroadband.co.za/news/motoring/412038-self-driving-buses-back-online-in-tokyo-after-hitting-paralympic-athlete.html"
-    ampWebUrl: "https://mybroadband.co.za/news/motoring/412038-self-driving-buses-back-online-in-tokyo-after-hitting-paralympic-athlete.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412038-self-driving-buses-back-online-in-tokyo-after-hitting-paralympic-athlete.html/amp"
+  - title: "Not so fast on self-driving cars, Toyota boss cautions after Paralympian hit"
+    excerpt: "Akio Toyoda is speaking out against the industry's rush to push technological boundaries: \"I don't think it's at all realistic yet that self-driving cars can travel normally on ordinary roads.\""
+    publishedDateTime: 2021-09-05T05:41:00Z
+    webUrl: "https://www.autonews.com/mobility-report/toyota-boss-not-so-fast-av-shift"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 23
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/1PALETTE-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "ToKzLhHzioCU3MRcRnH/YdWZ98IVZQ2Z+Kb8GVU5zPg+ZV3vSJ/1Pzqgb7yKuw1eI6JYp6J6mFeJrK1lFZtLLH0FPYvtyv+Z/FCrRKNWeFi9wCl7VEOYyrrGsxNgedVbPaPh7TBBjpCe5tci+RNCXQjIspNFHDTeKSpOGsO0to/CPbuFtbNAXgocjGXPiJ5BY6tnqwpZr+asN0uRallX1AEirzKRtZJaSWNFvccuEjJJUjBlw4ZpzGMLfLJ+BBFc61PwpTQsywpcmMY0t9s4rmGGYjDPpgSlgLR79Llp3boQ9Q+RIoM5BBQXdE4qKmAk1y4iGGnGyQ1z9/xuv0FoiPJFPc/PrziFoQlb1UibCm0/KKBaKxUYvzkaYrXgMgk7pMKgE1GDDucPlVV3jRZsVZ2fqmxQ/V5v4eHvD4nkHCW4mRCLKX/mEDxAPG5RByQTxae4LLOF7A/MN6cNlbnHD33Ee7zVVg9AMRSS+WP4FJiffJqee1zuJe9UT7eqLIYNQrDuJVg27gWECfVYEB60Xw==;0iKjHi27/e+fC6pvh7aC3w=="
 ---

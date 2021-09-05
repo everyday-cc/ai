@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Sequoia-backed upskilling firm Scaler acquires Indian online learning platform"
-    excerpt: "Scaler, an India-based upskilling platform, said it has acquired online learning platform Coding Elements in an all-cash deal. However, the companies did not disclose the deal value. Scaler said it has set aside a dedicated fund of 50 crore rupees (US$6."
-    publishedDateTime: 2021-08-31T12:24:00Z
-    webUrl: "https://www.techinasia.com/sequoiabacked-scaler-acquires-indian-online-learning-platform?ref=recommender-705054"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 30
-
 secured: "ueFvbfrwZUW2InWd3ZURew1tWged6N61pD6KeTiVNMLUE8a37gNQsA7ccHDbX6goVEOuggXm7FErJr/wxbYebIarqPvdYOSm7Om6n3LZuBe3IivoK1AfV2db4gi96ZmmY8TYLmfOiJRZR4P/ySzqLNrGKnfQQzbFWXVI8ue7xf9tZizG29A5qjOb+yyHBkZPN8n9ZP67aPWY5VoCnORDJf+3oNPzQmEQuUSnRYN/tjZmbGm/x3TTR6VpjMlNcmcQ044FyqI9dWZfpH7uOSnh/o43QKVG6m4zseaxPkjom3HSkxQH5qXofB6PBbMbdJghr+EDMA0kX+iAZdrm6fCAi2/VUAjeapFM65G6aCMBUe3izTy8o9/nKy6opASHrB04vn/bHxM/Gr7nzsPq7XABm37cm1drO/VPHJXlWueD76+HARt4U4j4vYkGO4WzgMFhSXu0cKFDjZH0izHMwn5//duSUwx4cSNjMk5vGN6H77htEoqZM5eingcWc5Ma9GvDN3KGTnKfqSWaQeuV63KVig==;Lty0I7PrxcLHwL07k7EhbQ=="
 ---
 

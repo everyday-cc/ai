@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling"
 type: article
 quality: 157
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Judge Says an AI Can’t Be an Inventor on a Patent Because It’s Not a Person"
+    excerpt: "They can’t even appear as inventors on U.S. patents. U.S. federal judge Leonie Brikema ruled this week that an AI can’t be listed as an inventor on a U.S. patent under current law. The case was brought forward by Stephen Thaler,"
+    publishedDateTime: 2021-09-05T05:09:00Z
+    webUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641"
+    ampWebUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 85
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/37537a3ccad75b9d5a057a42727649ac.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Only Humans, Not AI, Can Be An Inventor, Va. Judge Rules"
     excerpt: "A Virginia federal judge ruled Thursday that artificial intelligence cannot be listed as an inventor on a patent application, holding that the Patent Act makes clear that inventing is the exclusive legal province of human beings."
     publishedDateTime: 2021-09-03T02:57:00Z

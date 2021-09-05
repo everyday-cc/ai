@@ -2,50 +2,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_news/2021-08-07-spell-bringing-mlops-to-deep-learning-to-ease-the-deep-learning-path-for-enterprises.md",
-      "title": "Spell Bringing MLOps to Deep Learning to Ease the Deep Learning Path for Enterprises",
-      "excerpt": "Making machine learning operations easier to use, manage and organize for enterprises has always been the goal of the series of best practices known as",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterpriseai.news/2021/08/06/spell-bringing-mlops-to-deep-learning-to-ease-the-deep-learning-path-for-enterprises/",
-      "originalUrl": "https://www.enterpriseai.news/2021/08/06/spell-bringing-mlops-to-deep-learning-to-ease-the-deep-learning-path-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterpriseai.news/wp-content/uploads/2021/08/deep-learning-shutterstock-1040985685_600x.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterpriseai",
-        "domain": "enterpriseai.news",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-08-07-ai-weekly-companies-look-to-scale-up-their-use-of-ai.md",
       "title": "AI Weekly: Companies look to ‘scale up’ their use of AI",
       "excerpt": "Companies are looking to 'scale up' their deployments of AI as they look to incorporate machine learning throughout the organization.",
@@ -1177,6 +1133,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-laser-driven-ion-acceleration-with-deep-learning-neural-networks.md",
+      "title": "Laser-Driven Ion Acceleration With Deep Learning Neural Networks",
+      "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing, and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/",
+      "originalUrl": "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Maximum-Ion-Energy-Function-Laser-Pulse-Duration-777x466.jpg",
+          "width": 777,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/",
+      "publishedDateTime": "2021-08-05T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

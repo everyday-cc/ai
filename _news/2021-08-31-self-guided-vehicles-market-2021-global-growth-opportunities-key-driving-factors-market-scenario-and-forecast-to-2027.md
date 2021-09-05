@@ -37,36 +37,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Computer Vision Market Trends, Size, Market Share, Growth Factor, Opportunities, Segment, Top Manufacturers, Drivers and Forecast 2021-2026"
-    excerpt: "Global “Computer Vision Market” research report presents a detailed analysis of the industry by size, strategies"
-    publishedDateTime: 2021-08-31T11:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-market-share-growth-factor-opportunities-segment-top-manufacturers-drivers-and-forecast-2021-2026-2021-08-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Gesture Recognition Market Size Is Likely To Reach USD 30.6 Billion By 2025. It Is Poised To Post A CAGR Of 22.2% From 2018 To 2025."
-    excerpt: "A recent market research report added to repository of Credible Markets is an in depth analysis of Gesture Recognition Market On the basis of historic growth analysis and current scenario of Gesture Recognition Market place the report intends to offer"
-    publishedDateTime: 2021-08-31T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2374812/gesture-recognition-market-size-is-likely-to-reach-usd-30-6"
-    ampWebUrl: "https://www.openpr.com/amp/2374812/gesture-recognition-market-size-is-likely-to-reach-usd-30-6"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374812/gesture-recognition-market-size-is-likely-to-reach-usd-30-6"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
-    images:
-      - url: "https://cdn.openpr.com/U/8/U831591626_g.jpg"
-        width: 800
-        height: 459
-        isCached: true
   - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
     excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
     publishedDateTime: 2021-09-03T19:18:00Z

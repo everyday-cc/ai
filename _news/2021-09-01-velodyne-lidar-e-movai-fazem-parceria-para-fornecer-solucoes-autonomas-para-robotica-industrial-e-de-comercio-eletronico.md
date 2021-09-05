@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 586
         isCached: true
+  - title: "Kanverse.ai Launches Fluorite Release of its AI-Powered IDP Product for Insurance, Strengthens AP Invoice Automation Offering"
+    excerpt: "Kanverse, a hyper-automation company, has announced the global launch of the Fluorite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprises. Kanverse IDP combines multiple AI technologies with Optical Character Recognition (OCR) and Automation to provide an end-to-end product that digitizes enterprise document processing from ingestion,"
+    publishedDateTime: 2021-08-31T14:38:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-379de5760ba7425f8a7d79a12d05b332"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Velodyne Lidar et MOV.AI s’associent pour fournir des solutions autonomes au secteur de la robotique industrielle et du commerce électronique"
     excerpt: "Velodyne Lidar, Inc. (Nasdaq : VLDR, VLDRW) et MOV.AI ont annoncé aujourd’hui que les deux entreprises collaboraient pour fournir aux fabricants de robots des solutions d’automatisation de classe entreprise,"
     publishedDateTime: 2021-09-01T08:11:00Z

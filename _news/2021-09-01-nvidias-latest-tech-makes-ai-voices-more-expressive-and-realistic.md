@@ -117,20 +117,6 @@ related:
         width: 1999
         height: 1024
         isCached: true
-  - title: "Nvidia showcases latest research and advances in speech synthesis"
-    excerpt: "Nvidia Corp. is closing the gap between synthesized speech and human voices with the launch of its most advanced conversational artificial intelligence models at the Interspeech 2021 conference today."
-    publishedDateTime: 2021-08-31T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/31/nvidia-showcases-latest-research-advances-speech-synthesis/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Nvidia-synthetic-speech.png"
-        width: 955
-        height: 536
-        isCached: true
 
 secured: "ZUlMZxpma2kmzMSH4D868Jdll5uC0/V2u3xLzTUGG4EbMLv53gWGIkJqMon03YDLVhvgaU3ISswOEfz2kh6kliUGwynDC+Ix615VMJuiSoyMk5iXfJSYUrB+xkwvupJIguqLF/eTwOmwupHMxNc8ISB87LD1ngrDcuekn4uJQKX16mwFx+6H3imUEkN6popJK3rP/FWnNJ5mZ2k7QQIYyOz5tnVP+jq3/5xqPfod6FKty1kcA/XLPnFs3oLOKCyHypm6W7baxxeOpbYGkQFhVpDfdYgmA8hhsXGFbPhVwdgdrjK5sBhPxuvtLoryQ6zGAuRffLEw/OtleosfA+4BovBP9i7E29wLE8nHUn3Blcc=;IVVVekqoYhfi64DA1faA0A=="
 ---

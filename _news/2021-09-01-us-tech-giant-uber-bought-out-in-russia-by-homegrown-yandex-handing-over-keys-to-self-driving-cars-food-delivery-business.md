@@ -59,20 +59,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Yandex to buy Uber shares for $1bn in self-driving, mobility and foodtech"
-    excerpt: "As well as Yandex acquiring full ownership of four companies, the deal opens the way for a further $2bn acquisition in the mobility sector."
-    publishedDateTime: 2021-08-31T11:29:00Z
-    webUrl: "https://www.siliconrepublic.com/companies/yandex-deal-uber-mobility-foodtech"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 23
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/yandex-office-building.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "U9xnfiQc5M6c7hgOc+Pfp3JwxSdFcNSJOQ6zX5ZUxxNiwG06X3lCMeGyn4vXW033aF5McJyVbAucd0tKR/H7Fsb2+lQoHILUDZnlHfiajqWZZ0QHso8f+WeqPOk+Yz23aPuAbzG7rTbWt1OHtVC+i0M0QPAzNgLGkIeGN+GWhK8b/CZDNsAkxTlo4jpjdbr0mLX6JCf/srFh+6V6NtAXNfMxBPpI9XQHZsEaOH4vx8E6PcQNk3hBOByjN2gXufVzGJXo73kpD9zQrzvRQnBVa7W/T2/BZgG+3muZIAQO5lH1gbvhEIguEWKBpYID+EYrSqqVFCsDa9v5hongPnCttZkmSPdod21g/I3Do9/lmi8=;Ip1C5mAkPneSgci8g15rmg=="
 ---

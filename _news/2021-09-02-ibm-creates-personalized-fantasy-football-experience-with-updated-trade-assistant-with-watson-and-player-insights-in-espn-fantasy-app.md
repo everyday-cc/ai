@@ -25,21 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "IBM OpenPages With Watson Wins Red Dot Design Award"
-    excerpt: "We are pleased to announce that IBM OpenPages with Watson has won an Interface &#38; User Experience Design award at the 2021 Red Dot Awards. Each year, agencies, designers, and companies all over the world gather to celebrate the best in design, with the Red Dot Award: Brands &#38; Communication Design"
-    publishedDateTime: 2021-08-31T12:00:54Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/08/ibm-openpages-with-watson-wins-red-dot-design-award/"
+  - title: "IBM creates personalized fantasy football experience"
+    excerpt: "IBM has announced an updated, customized experience powered by IBM Watson artificial intelligence (AI) technology in the ESPN Fantasy App designed to make"
+    publishedDateTime: 2021-09-02T13:30:00Z
+    webUrl: "https://www.euroweeklynews.com/2021/09/02/ibm-creates-personalized-fantasy-football-experience/"
+    ampWebUrl: "https://www.euroweeklynews.com/2021/09/02/ibm-creates-personalized-fantasy-football-experience/amp/"
+    cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/09/02/ibm-creates-personalized-fantasy-football-experience/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 117
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/08/Best_UI_Awards_2000x1006_V1.jpg"
-        width: 2000
-        height: 1007
-        isCached: true
+      name: Euro Weekly News
+      domain: euroweeklynews.com
+    quality: 24
 
-secured: "42m7JJEXCAy+zaD1P5JWRs0+wF85Fkjp4ZxiJcQHhCNUo7fwD6PPex2LQZHD961D44CgDi6ffzmFaawXEGdnbvK6eyC3jx0q+8xR7IaozPLfKlJXDhha5HHAWfWGY5EDhROCBAIfqVI2fEnFJNj+F5Ug1toqVCw7ukq2PIMSKMdcvm+dTJ7uQv+V3q4mG/X2eJrJSc4WsvNmEvWyR8RhQU00GpigOccTPDvGKutvZGEkMb54k2T+Yq4Ap1MbAulbOyA5W30vw1O/kWEGJzZpSN9WUs32WLFfNJUmmmUiD1Y93Trq1rVrePWOjGzgudP3obRkSApWvLIPzNbqeUOGcgXjlgQ4jBiPjUgWl7LqAm4=;G6IgY6tESEemuicBPDbhIQ=="
+secured: "H8G8EKPVYKTGEZWPNirDXzNrBEMO93jnQna0XVjjlUbriUr1pbP9REidbzuBWa30f1KcqZJkabI8Y6Pj5PG9YGzRgk4aoCI1vNbC/7itu2RDCAoPQHgNwP/r9x5rwoJDr8Qb9U8TM84ELWavnJeI7iSbDeLKpr7Vc1dNfzmdeoyHik7MOBn8rnwtBo9UK7PEIpPYhIoZOV7VxJFmLpzqrkh323Ijm5oFlw95JNIBATrn60eUPFSj9xfyoDYc0l7xNU/tSsNH9+S+JeE7RnYONKc3gS8IOpmmhlwUcTEpqx0RJPwWjecrOHGzFq35aox5v+gDgJvB9I0eMAOqWlIUM3yiK1SPirflyZ7eTqwWqMY=;b8m+TbZLQvdapwwHOHKgpA=="
 ---
 
