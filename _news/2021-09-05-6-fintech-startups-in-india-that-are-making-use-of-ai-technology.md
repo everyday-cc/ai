@@ -1,46 +1,32 @@
 ---
 category: news
-title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
-excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
-publishedDateTime: 2021-09-02T11:50:00Z
-originalUrl: "https://productcoalition.com/top-fintech-companies-startups-revolutionizing-financial-services-in-2021-and-beyond-3c004886018d"
-webUrl: "https://productcoalition.com/top-fintech-companies-startups-revolutionizing-financial-services-in-2021-and-beyond-3c004886018d"
+title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
+excerpt: "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2."
+publishedDateTime: 2021-09-05T13:05:00Z
+originalUrl: "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+webUrl: "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
-quality: 16
-heat: -1
-published: false
+quality: 59
+heat: 199
+published: true
 
 provider:
-  name: productcoalition.com
-  domain: productcoalition.com
+  name: Goodreturns
+  domain: goodreturns.in
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://miro.medium.com/max/1200/1*mTtOeZV1V7PWbkEqKwxKjQ.jpeg"
-    width: 1200
-    height: 798
+  - url: "https://www.goodreturns.in/img/2016/12/07-1438929714-interest-rates-red-14-1481696060.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
-  - title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
-    excerpt: "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2."
-    publishedDateTime: 2021-09-05T13:05:00Z
-    webUrl: "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
-    type: article
-    provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 59
-    images:
-      - url: "https://www.goodreturns.in/img/2016/12/07-1438929714-interest-rates-red-14-1481696060.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
     excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
     publishedDateTime: 2021-09-02T21:23:00Z
@@ -191,6 +177,20 @@ related:
       name: bna.bh
       domain: www.bna.bh
     quality: 19
+  - title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
+    excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
+    publishedDateTime: 2021-09-02T11:50:00Z
+    webUrl: "https://productcoalition.com/top-fintech-companies-startups-revolutionizing-financial-services-in-2021-and-beyond-3c004886018d"
+    type: article
+    provider:
+      name: productcoalition.com
+      domain: productcoalition.com
+    quality: 16
+    images:
+      - url: "https://miro.medium.com/max/1200/1*mTtOeZV1V7PWbkEqKwxKjQ.jpeg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "This Canadian FinTech Co. Jumped 77% in Revenue"
     excerpt: "AI-driven financial technology company Marble Financial Inc. (CSE: MRBL) released its interim consolidated finances statements and management’s discussion and analysis for Q2 2021 on Wednesday. MRBL highlighted total revenue for the three- and six-months ending June 30th,"
     publishedDateTime: 2021-09-01T16:56:00Z
@@ -210,6 +210,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "gTO7hSpytynQYBjT+y5qbAifUCbjKurML/QqgrwKpKLaiMlJwlgqixvn8ecJUCpr7oTEJoXr764mIqfsgEpeedJ0TmeC2VVVQg4x9ACgFJDIfOP7DOt1FS/N29B3//90XW6id65re7iqn5BRw8jP+o3kLb6cfRN+PB1jIjKeRLZzi+VT3QjkmZir+IFZHzzQ/hiHm6M1CpE24dvl6HhmkP7y9fqt3L8zstjmPMIZVAjAPJXhq+fbRK6MgF1VsFJMmFzkusyfrXKMvvGWKRSwzgOa4oDW7DJTZw68fM226s2ez2LeXrhHx7C6amx3m6hb0lG12aP8M8NAf2njX/cWc6mKiPySOQWQ2dkiLFc5DHu120G9DUtZ6BDqMgWlDu4lQ+P131sStydbqbVH4uWCw54CnfGwgudHCK8Rok59GVHrTEiXgYT6veauV7WRhjePeMj2dxZ0junEvsturLhs0MN8JjDqg9SevFZygk13Y/CtOd+Z3dCC8tsGbXDn82cm2E3rqUkbALYxUJswFFyJOw==;vezK1xRXGunUxzs5TCQxgg=="
+secured: "8+DwvkX6I2UbqxUhO6aUqRA3EwfykJ3gKqtR9P5dK5ZW+BSIUMgjv400+r8JvnxKjVIa5Ara8i0tXgrGGp5LCeo9VgrgJrBjr9a3kJXqvnlIdqpY09/Zg0XytPzCAEEtJDDfZNPJRS6c24ss440oEtxN1PtzHb4rsgY+OkVOMoD6/angdZYoPr9uc7TjvQTe7WPZVRksJ6a+NjV1KH9BNoCWJKOQRMl8W1vcTBnASHFYWlsnPdkUCD9zNvuMt5JmCrlMS0hUkM5EqfmW5gkvdd0g6UEUUACxpGqbbyyPNN//x3xO5KEKykFuSOvZ7V9TtpCrG/EFwVNBX/AQatzsjHtL4sxCHWkGHsImSVDnTn8=;H6p8aK94hn6w7zqzd9QMsw=="
 ---
 

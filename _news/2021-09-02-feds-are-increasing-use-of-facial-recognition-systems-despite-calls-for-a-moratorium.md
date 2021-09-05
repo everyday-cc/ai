@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Federal agencies are rapidly increasing their use of facial recognition"
+    excerpt: "The U.S. Government Accountability Office released a report on Aug. 24, 2021, detailing current and planned use of facial recognition technology."
+    publishedDateTime: 2021-09-05T13:00:00Z
+    webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FFR.jpg&signature=edf8bfb4b96e8f3d082fcc901f7f5547"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Federal Agencies to Increase Facial Recognition Use, GAO Finds"
     excerpt: "The Government Accountability Office recently released a report detailing the past and future uses of facial recognition technology within 24 federal agencies. The report found that nearly half plan to increase use."
     publishedDateTime: 2021-09-01T22:38:00Z
@@ -43,19 +57,33 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Largs Academy pupils to use facial recognition system"
-    excerpt: "Largs Academy pupils will be able to use facial recognition inside the school. The new technology will be used to buy contactless school meals and all in-school catering purchases. The technology will be launched later this year to replace Parent Pay."
-    publishedDateTime: 2021-09-03T10:12:00Z
-    webUrl: "https://www.largsandmillportnews.com/news/19556675.largs-academy-pupils-use-facial-recognition-system/"
+  - title: "Facial recognition technology gaining speed within federal agencies"
+    excerpt: "Federal Drive with Tom Temin spoke to the director for science, technology assessment and analytics at the Government Accountability Office Candice Wright."
+    publishedDateTime: 2021-09-01T11:34:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/09/facial-recognition-technology-gaining-speed-within-federal-agencies/"
     type: article
     provider:
-      name: Largs and Millport Weekly News
-      domain: largsandmillportnews.com
-    quality: 39
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 54
     images:
-      - url: "https://www.largsandmillportnews.com/resources/images/12694389/"
-        width: 2400
-        height: 1596
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/2020-Candice-Wright-1.jpg"
+        width: 2172
+        height: 1449
+        isCached: true
+  - title: "New non-contact facial recognition software monitors a baby’s vital signs"
+    excerpt: "Researchers have designed a computer vision system that can automatically detect a tiny baby's face in a hospital bed and remotely monitor its vital signs from a digital camera with the same accuracy as an electrocardiogram machine."
+    publishedDateTime: 2021-09-03T11:42:00Z
+    webUrl: "https://www.dpaonthenet.net/article/186871/New-non-contact-facial-recognition-software-monitors-a-baby-s-vital-signs.aspx"
+    type: article
+    provider:
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 38
+    images:
+      - url: "https://www.dpaonthenet.net/global/showimage/Article/197394/"
+        width: 375
+        height: 238
         isCached: true
 
 secured: "JrMHRgFRduV29yIRMKaDL589IHh62pq/euCRl0k/LAicsRKXbuClnglsjGi9FlGME2ZNxGFB0fMTQXJr5kxIYwD2W9o/AV5QTsVQCx6rPQKQuN1XowGRGqThhR7scM3BoysBuw1Svusz3XRScrZF35Wmm4Eiksy1yXnBxP+kMavT7WXVeCG9aC+LM6Gg9U+LZFCmbKg3fSe733P0guOWg37Y6HSGo7UkIJStxBXyuH7hnE68P3WdkPcIloilMpu1naeeSBlLeqLW0Dy3H5iLUGWntHQ7pWS3LXrUVyuW4UuA6NOVmMqbim1socot48v/U1jGERNFJ2j/xPBhQqPkOiNWxDHkzlXh61YaBdMbYWUkBA7fNRgs95MzsCkpyLGLL1xgEW4M3UBsxkWqGUSgs0DBIi32Cbh5e2mZvqIdRJDCknzwQnctfVh5Uz8B1pp3AVaVo1HBytMGksFj7bz0wWhwB9XAYr5XBYIn03kAkBZNbLZpgQu8zFqOqlAYjmwN67Y/CE2IP7ZLys11l1DkTQ==;Uc3XGopUFLb8A7EhGS7Mfw=="

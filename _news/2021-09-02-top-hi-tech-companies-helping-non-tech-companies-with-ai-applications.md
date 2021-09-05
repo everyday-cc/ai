@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-hi-tech-companies-helping-non
 webUrl: "https://www.analyticsinsight.net/top-hi-tech-companies-helping-non-tech-companies-with-ai-applications/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A."
-    excerpt: "Hum Capital, a match maker in the private capital markets, just raised its $9 million Series A. Here's the pitch deck it used to raise the round."
-    publishedDateTime: 2021-09-01T17:44:00Z
-    webUrl: "https://www.businessinsider.com/hum-capital-pitch-deck-series-a-fintech-fundraising-2021-9"
+  - title: "Top FMCG Companies Who are Using Artificial Intelligence"
+    excerpt: "Introducing innovation in FMCG companies would improve the process of data management and inventory control. The use of smart technology and artificial intelligence would result in a breakthrough in the FMCG industry."
+    publishedDateTime: 2021-09-02T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-fmcg-companies-who-are-using-artificial-intelligence/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
     images:
-      - url: "https://i.insider.com/612ea1b412b9cc0019639849?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-FMCG-companies-who-are-using-artificial-intelligence.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "ms4Ui3MX82rPnLQ46A5RS5sQXePANlglSb7NPJRQ9Jmc1b9HKbKA+gXjIsqjX5leqAZXyEuBwtzsXry27Jk+0MOhTb075l1ROUZULx29iK70b0q7uufnpI4QYmMYwXcjdL8Bs/EwHGY2IP2IfGfZYlRpHpJoyxAHrfsvzrwa7h9v0gSn+tctM29zhsTOT01TGmhowSagHH5knPL9hAnygUR0ICGRTP61iAOBiMR1IboAiCp8/YfVgvAKMhXoP/9q3fS+hZsTl+AUjYbDZDt2rfXTTHSfpY5mQFngP4xichTZE2LOim8WLZIijS8JvmfguGTjw52tUeRJJ0E3oWElbz4CefJMBmTKVqENDBfTFie6Bzb2+XmnbPLJEj5GRnTRJ2ES9DnQW/cLwuc7jG+Y04goqJwRvdy1ZNEr/CWaLCQkibEf2ko9SUERx1z6vZcyhvHL6Jz+VNd39PtERTaXKQlbZf6oy8TiJI2P4eHrIEtVcxYJX0O+ViK9DwId5qDh9hFF7ZN8kkbRYahN+W7ufg==;5TVPfhZVv5iQi+8WGjnvpQ=="

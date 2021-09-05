@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-rea
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia AI Speech With Complex Rhythm and Tone"
-    excerpt: "Human speech has musicality. Everyone may not talk like Martin Luther King Junior or rap like people in the play Hamilton, but there is rhythm and tone."
-    publishedDateTime: 2021-08-31T20:47:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-30-at-9.02.57-AM-1024x512.jpg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Nvidia In the Lead in AI Chips and is Working to Stay There"
     excerpt: "Nvidia is the leading AI chips company today and has prospects in future markets around the auto industry and edge computing."
     publishedDateTime: 2021-09-02T23:39:00Z
@@ -60,20 +44,6 @@ related:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3GPUchip-2.jpeg"
         width: 550
         height: 309
-        isCached: true
-  - title: "NVIDIA’s latest tech makes AI voices more expressive and realistic"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-31T20:46:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/09371cbda8d7ec87ba62fa6252f58268.jpeg"
-        width: 1200
-        height: 638
         isCached: true
 
 secured: "ujQI0RFWCb/ZC1GeGKsdlMNPmXkGDKbOg44AeUH98qcTLT6+W7OjjgeqZgBjH6q4wshrzrwBJDOTVS8biZbQKDZWzt7kHjULjtQQ3Uv+TVjg+HsbtseKst9/zGtECkucFHWxDDChfwNLxGG1bgivtCJp5F2fKBm5VWvnc8d78sxI5y+no6RFVyiW7UIJDvxYv2A0f2u4uZC9iOBTKmAEGaRobJAwu3qhh9redx5PxprxRfQG5ZnxGm7guiG0VuAKEJcF9pLK2O9bTHzX2RnY75Qme7G1JW1c/NTbxnVqqmKoNCZMWuifmRUA8RYIZjXScBPYXKXrsbSVVNwho9euYlwI55AtZbsBnOYlPBvd718cG3xz5FUG+M80Q5xZqnF6dmlr2274SPiSJHC5HEnU8rm4HHezo2nOMFZwrss0M1mPQLN072/F34C55wAoqC+eJaD3zXkO1AGTyQd2ByWjAZFQKi5IiEDYnj44NfP4DsW8nFxrqc5+ZYa47SGlFYf0FqPcbNphSZJ2g9vgfxQWRw==;iLifGJyYw/zp/BoxEJjWRA=="

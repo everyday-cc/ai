@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etf
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02?amp"
 type: article
 quality: 54
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -21,21 +21,81 @@ topics:
   - AI
 
 related:
-  - title: "Global Payments Fintech Adyen Introduces Machine Learning enabled Compliance Solution, Score"
-    excerpt: "Adyen (AMS: ADYEN), the international payments platform for leading businesses, has officially launched Score. Adyen claims that it’s the first-to-market with a machine learning powered solution on a single platform for identifying unusual activity and ensuring platform compliance."
-    publishedDateTime: 2021-09-02T01:38:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
+  - title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
+    excerpt: "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2."
+    publishedDateTime: 2021-09-05T13:05:00Z
+    webUrl: "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 59
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Machine-Learning-Computer-AI-Artificial-Intelligence-269x300.jpeg"
-        width: 269
-        height: 300
+      - url: "https://www.goodreturns.in/img/2016/12/07-1438929714-interest-rates-red-14-1481696060.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
+    excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
+    publishedDateTime: 2021-09-02T21:23:00Z
+    webUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness"
+    ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 58
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "Veda co-founder is passionate about the intersection of artificial intelligence, healthcare and women in technology"
+    excerpt: "Veda Data Solutions co-founder and political entrepreneur Meghan Gaffney was working in Washington, D.C., while the sweeping Affordable Care Act was being crafted. It was an exciting time, with widesp"
+    publishedDateTime: 2021-09-01T11:00:00Z
+    webUrl: "https://madison.com/ct/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.html"
+    ampWebUrl: "https://madison.com/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 52
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/2/cb/2cb9dc82-0cca-11ec-901c-df6cbc050c38/61323cf410d0a.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A."
+    excerpt: "Hum Capital, a match maker in the private capital markets, just raised its $9 million Series A. Here's the pitch deck it used to raise the round."
+    publishedDateTime: 2021-09-01T17:44:00Z
+    webUrl: "https://www.businessinsider.com/hum-capital-pitch-deck-series-a-fintech-fundraising-2021-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://i.insider.com/612ea1b412b9cc0019639849?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Top 5 Indian Artificial Intelligence Stocks in 2021"
+    excerpt: "Artificial intelligence stocks aren't as uncommon as you would assume. Many businesses are promoting artificial intelligence initiatives. Investing in AI stocks, you might reap significant rewards in the future."
+    publishedDateTime: 2021-09-01T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-5-indian-artificial-intelligence-stocks-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 41
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence-Stocks.png"
+        width: 900
+        height: 500
         isCached: true
   - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
@@ -51,19 +111,33 @@ related:
         width: 759
         height: 675
         isCached: true
-  - title: "Investing in Fintech as a ‘Bridge to the Future’"
-    excerpt: "Hub models stimulate fintech innovation, which in turn boosts economic growth, Siobhan Dullea of MassChallenge writes."
-    publishedDateTime: 2021-09-03T04:30:00Z
-    webUrl: "https://www.tradersmagazine.com/am/investing-in-fintech-as-a-bridge-to-the-future/"
+  - title: "10 Indian AI Startups To Watch in 2021"
+    excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
+    publishedDateTime: 2021-09-02T13:00:00Z
+    webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
     type: article
     provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 24
+      name: Open Data Science
+      domain: opendatascience.com
+    quality: 39
     images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2021/09/Siobhan.jpg"
-        width: 480
+      - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
+        width: 640
         height: 300
+        isCached: true
+  - title: "Artificial Intelligence Technology Advances Heart Imaging"
+    excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
+    publishedDateTime: 2021-09-02T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-technology-advances-heart-imaging"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1094058356.jpg"
+        width: 700
+        height: 480
         isCached: true
   - title: "A Comprehensive Guide to Fintech ETFs"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."

@@ -25,52 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Databricks expands its data lake analytics with $1.5B funding"
-    excerpt: "Databricks, a provider of big data analytics and AI solutions, has raised $1.5 billion at a $38 billion post-money valuation."
-    publishedDateTime: 2021-08-31T21:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/"
-    ampWebUrl: "https://venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "CAG urges for greater use of data analytics, Artificial Intelligence"
-    excerpt: "Comptroller and Auditor General of India G.C. Murmu on Thursday urged the auditors to make far greater use of data analytics, Artificial Intelligence and Machine"
-    publishedDateTime: 2021-09-03T03:59:00Z
-    webUrl: "https://www.sentinelassam.com/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
-    ampWebUrl: "https://www.sentinelassam.com/amp/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
-    cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: sentinelassam.com
-    quality: 57
-    images:
-      - url: "https://assets.sentinelassam.com/h-upload/2021/09/03/252278-artificial-intelligence.jpg"
-        width: 780
-        height: 469
-        isCached: true
-  - title: "CAG urges for greater use of data analytics, Artificial Intelligence"
-    excerpt: "Comptroller and Auditor General of India G.C. Murmu on Thursday urged the auditors to make far greater use of data analytics, Artificial Intelligence and Machine Learning for optimizing efficient use of their own scarce resources."
-    publishedDateTime: 2021-09-02T12:28:00Z
-    webUrl: "https://www.freepressjournal.in/business/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 37
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-01/3b2dd1c1-ba9f-430b-98c0-bd68bdfa8c0c/etc_lead_jan_17.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "38 Billion Reasons Why Databricks Is The Next Big Thing For Indian Enterprise AI"
     excerpt: "Switching to Azure Databricks helped the Indian media giant “slice and dice” tonnes of data and deliver customer insights to their data teams."
     publishedDateTime: 2021-09-03T09:30:00Z
@@ -85,17 +39,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Databricks, a Data and AI Firm, Finalizes $1.6B Round at $38B Post Money Valuation, to Support Data Lakehouse Adoption"
-    excerpt: "Databricks, a data and AI firm, finalizes $1.6B round at $38B post money valuation, to support data lakehouse adoption."
-    publishedDateTime: 2021-09-02T22:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/09/179885-databricks-a-data-and-ai-firm-finalizes-1-6b-round-at-38b-post-money-valuation-to-support-data-lakehouse-adoption/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179885-databricks-a-data-and-ai-firm-finalizes-1-6b-round-at-38b-post-money-valuation-to-support-data-lakehouse-adoption/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179885-databricks-a-data-and-ai-firm-finalizes-1-6b-round-at-38b-post-money-valuation-to-support-data-lakehouse-adoption/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 15
 
 secured: "ZvgHBFSlCRbxq33uEQ4G/FqvGf7B2vjSbGJqmEVwZtZbJNCqhHOpZ/gCVajmcwJhAhE1m3wSj9plf34aZnhCFcIS+Z6E/PY+vu85tJ+OYUKYC1zyZZgWJtXimbbaf0gFaQxNlendkOJHuarhdOPwzlcu8akORDL6UxZ1LrLILUyoBzpKngyMr/ORc/qVZM4EKs+A51UTlFyrzndOH/iNyQQ1vS0dbkGczTVcLXuDhblPuIzW3ZU7XB+q5XYHzodzX0F0DF8nXJwtJMyOqI9cszT8K9ayhbEVegHhP/+nRriowVZ4yYzNGBOlm/PcJv0kIBYni4J3ri6mIunLXdSNQyqnkOJd64VxXl32OHGu8tw=;+SeTy7EeVa2APGB+feFOcA=="
 ---

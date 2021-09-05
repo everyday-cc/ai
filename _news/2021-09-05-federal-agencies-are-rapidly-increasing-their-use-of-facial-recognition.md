@@ -1,44 +1,34 @@
 ---
 category: news
-title: "Facial recognition technology gaining speed within federal agencies"
-excerpt: "Federal Drive with Tom Temin spoke to the director for science, technology assessment and analytics at the Government Accountability Office Candice Wright."
-publishedDateTime: 2021-09-01T11:34:00Z
-originalUrl: "https://federalnewsnetwork.com/technology-main/2021/09/facial-recognition-technology-gaining-speed-within-federal-agencies/"
-webUrl: "https://federalnewsnetwork.com/technology-main/2021/09/facial-recognition-technology-gaining-speed-within-federal-agencies/"
+title: "Federal agencies are rapidly increasing their use of facial recognition"
+excerpt: "The U.S. Government Accountability Office released a report on Aug. 24, 2021, detailing current and planned use of facial recognition technology."
+publishedDateTime: 2021-09-05T13:00:00Z
+originalUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
+webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 69
+heat: 109
+published: true
 
 provider:
-  name: federalnewsnetwork.com
-  domain: federalnewsnetwork.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/2020-Candice-Wright-1.jpg"
-    width: 2172
-    height: 1449
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FFR.jpg&signature=edf8bfb4b96e8f3d082fcc901f7f5547"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
-  - title: "Federal agencies are rapidly increasing their use of facial recognition"
-    excerpt: "The U.S. Government Accountability Office released a report on Aug. 24, 2021, detailing current and planned use of facial recognition technology."
-    publishedDateTime: 2021-09-05T13:00:00Z
-    webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FFR.jpg&signature=edf8bfb4b96e8f3d082fcc901f7f5547"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Federal Agencies to Increase Facial Recognition Use, GAO Finds"
     excerpt: "The Government Accountability Office recently released a report detailing the past and future uses of facial recognition technology within 24 federal agencies. The report found that nearly half plan to increase use."
     publishedDateTime: 2021-09-01T22:38:00Z
@@ -54,6 +44,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Facial recognition technology gaining speed within federal agencies"
+    excerpt: "Federal Drive with Tom Temin spoke to the director for science, technology assessment and analytics at the Government Accountability Office Candice Wright."
+    publishedDateTime: 2021-09-01T11:34:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/09/facial-recognition-technology-gaining-speed-within-federal-agencies/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/2020-Candice-Wright-1.jpg"
+        width: 2172
+        height: 1449
         isCached: true
   - title: "Feds are increasing use of facial recognition systems – despite calls for a moratorium"
     excerpt: "Politicians of all stripes, computer professionals and even big-tech executives are calling on government to hit the brakes on using these algorithms. The feds are hitting the gas."
@@ -86,6 +90,6 @@ related:
         height: 238
         isCached: true
 
-secured: "uaBB9a6I0uAQvsRjLvIqi/RWJEnUgAH+UDT9ouNHHCSJj1O10y4SGUCjsEwcErwJL62B+nt2jc9pqdwUZtQgH8cUIwwh3I/drDUY1RKL3VKt6xuJk5L3jBnVMkbdZPOKF1H90Ypd+aqXaMJ91Dg2FO5nWSeHTwp97uCJgKYJfVMkrIBodmxtNAjk6l0uN8V5xC4NEUsW0vzJWvuIvX1fsVf+0lb88oPPNAi4HuxbJbcYNAavzyQstZA319yyl16imsbkLeb1EAh/K1/ugnYiWEbsHVSOD8v0zPZfT0y7dNy1cYtbZF+r5rfriMnAuoVJvRgTiJe51ZH5xrkM454FkJcT6B+pNKEYUcSmT7eE8HA=;3T7ArJDOTnlFJC9LgqxvZw=="
+secured: "4RmwIKKs5dMgns5LME76HOZyfgILRQuNLCnXe4gAY05IDhrDUpMkp7Jg+DTGxlkEmzWhrCOG4L004QSf5+atA4lhJG5xHSargrZcXYu/1n9Rvny4cxYyEJSGeFpq6xbpSsgaxmTXIbu/DYCvLtsOKRbK2CMm/4bRU9q20f/ZE66hmiE5dGJkINV+e568Cfmk79lU2Grf/XsVXnlp8WP4QoreU75m7nc2hMLle9Miqo6ayia68p0DG9JuC6cj8wMcWJBeAleCCJcaDp7rFVrgVIXqkA/aTaNpXC44XzExeD8zTtMb2lNf2WfxQBsFVUYcz5HVJYFe0n8AM5t9XFPjgbL98WhJqHrawbNepwEVvQY=;h+5fJZwQGmGPY2MLTLPmCQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/hum-capital-pitch-deck-series-a-fi
 webUrl: "https://www.businessinsider.com/hum-capital-pitch-deck-series-a-fintech-fundraising-2021-9"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -29,20 +29,190 @@ images:
     isCached: true
 
 related:
-  - title: "Top Hi-Tech Companies Helping Non-Tech Companies with AI Applications"
-    excerpt: "This article explores top hi-tech companies helping non-tech companies with AI applications. Leveraging artificial intelligence can help non-tech companies to get help from hi-tech companies with AI applications for driving growth."
-    publishedDateTime: 2021-09-02T13:39:00Z
-    webUrl: "https://www.analyticsinsight.net/top-hi-tech-companies-helping-non-tech-companies-with-ai-applications/"
+  - title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
+    excerpt: "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2."
+    publishedDateTime: 2021-09-05T13:05:00Z
+    webUrl: "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 59
+    images:
+      - url: "https://www.goodreturns.in/img/2016/12/07-1438929714-interest-rates-red-14-1481696060.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
+    excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
+    publishedDateTime: 2021-09-02T21:23:00Z
+    webUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness"
+    ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 58
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "A Comprehensive Guide to Fintech ETFs"
+    excerpt: "According to the report, the fintech space is expected to reach a market value of around $324 billion by 2026. The combination of financial services and technology has allowed providers to focus on a more customer-centric approach."
+    publishedDateTime: 2021-09-02T21:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Veda co-founder is passionate about the intersection of artificial intelligence, healthcare and women in technology"
+    excerpt: "Veda Data Solutions co-founder and political entrepreneur Meghan Gaffney was working in Washington, D.C., while the sweeping Affordable Care Act was being crafted. It was an exciting time, with widesp"
+    publishedDateTime: 2021-09-01T11:00:00Z
+    webUrl: "https://madison.com/ct/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.html"
+    ampWebUrl: "https://madison.com/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 52
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/2/cb/2cb9dc82-0cca-11ec-901c-df6cbc050c38/61323cf410d0a.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Top 5 Indian Artificial Intelligence Stocks in 2021"
+    excerpt: "Artificial intelligence stocks aren't as uncommon as you would assume. Many businesses are promoting artificial intelligence initiatives. Investing in AI stocks, you might reap significant rewards in the future."
+    publishedDateTime: 2021-09-01T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-5-indian-artificial-intelligence-stocks-in-2021/"
     type: article
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 39
+    quality: 41
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-Hi-Tech-Companies-Helping-Non-Tech-Companies-With-AI-Applications.jpg"
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence-Stocks.png"
         width: 900
         height: 500
         isCached: true
+  - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-31T21:57:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/open-finance-is-all-set-to-become-the-next-frontier-in-fintech/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/6f0b9837f87a6b9370971ed25b30abad.png"
+        width: 759
+        height: 675
+        isCached: true
+  - title: "10 Indian AI Startups To Watch in 2021"
+    excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
+    publishedDateTime: 2021-09-02T13:00:00Z
+    webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
+    type: article
+    provider:
+      name: Open Data Science
+      domain: opendatascience.com
+    quality: 39
+    images:
+      - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
+        width: 640
+        height: 300
+        isCached: true
+  - title: "Artificial Intelligence Technology Advances Heart Imaging"
+    excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
+    publishedDateTime: 2021-09-02T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-technology-advances-heart-imaging"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1094058356.jpg"
+        width: 700
+        height: 480
+        isCached: true
+  - title: "A Comprehensive Guide to Fintech ETFs"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-05T07:26:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/a-comprehensive-guide-to-fintech-etfs/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/71db9e3c1e83b4edc3bba506d8c34d01.jpeg"
+        width: 635
+        height: 400
+        isCached: true
+  - title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"
+    excerpt: "IHS Markit has formed an alliance with FinTech Studios to deliver highly-relevant market intelligence, research and"
+    publishedDateTime: 2021-09-03T07:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ihs-markit-fintech-studios-partner-to-deliver-real-time-market-intelligence/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 21
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Forum addresses importance of FinTech, AI in future careers"
+    excerpt: "The minister stressed that the forum seeks to identify and discuss the reality of future professions in Bahrain in financial technology (FinTech), artificial intelligence (AI) and sustainable energy as well as labor market trends and expected jobs in the near future."
+    publishedDateTime: 2021-09-01T14:46:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDnEp5STLohoyCKX6RO74qZU%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 19
+  - title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
+    excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
+    publishedDateTime: 2021-09-02T11:50:00Z
+    webUrl: "https://productcoalition.com/top-fintech-companies-startups-revolutionizing-financial-services-in-2021-and-beyond-3c004886018d"
+    type: article
+    provider:
+      name: productcoalition.com
+      domain: productcoalition.com
+    quality: 16
+    images:
+      - url: "https://miro.medium.com/max/1200/1*mTtOeZV1V7PWbkEqKwxKjQ.jpeg"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "This Canadian FinTech Co. Jumped 77% in Revenue"
+    excerpt: "AI-driven financial technology company Marble Financial Inc. (CSE: MRBL) released its interim consolidated finances statements and management’s discussion and analysis for Q2 2021 on Wednesday. MRBL highlighted total revenue for the three- and six-months ending June 30th,"
+    publishedDateTime: 2021-09-01T16:56:00Z
+    webUrl: "https://stockhouse.com/news/newswire/2021/09/01/this-canadian-fintech-co-jumped-77-revenue"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
+  - title: "Tampa Bay Wave unveils startups to watch, new fintech focus at latest pitch night"
+    excerpt: "X accelerators, the latter of which proved to be so successful the Wave is launching new financial technology-focused programming in th"
+    publishedDateTime: 2021-09-02T11:01:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/roundups/2021/09/02/tampa-bay-waves-techdiversity-2021-pitch-night.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "nfszitl5pICK3Y6OhtwFXzvebHCbaI2McZVBs7KtCsIFjXVyBRVlFgcaiI7ihb16Mrqfo216JAW4uS++K5PIT0cDlL9o79gD9bvWleS61PPWNwj1oOKftAacYD+AytuUc95Hj7J4Harso5BW1t0/k1H7cLkUTuFk6zf+vsvmRKgGF2ENTy7vpd8oZkLD0oBGugmTaX39Pf67/Gf1z33e0qVHzPZYIALR6rLa3VW1LVieMPXPmNTFyV6vriEqZ4vcXsm/cHHFZ86wi3ypnpxDl98yich+fyxHTPxyf59d2ONTR3jdWjcFgJqEfZmAkMEXk3b+dOUsOCAXSISVZAeHCJJOyACrjaA1TpCWRGmBNqYLVTHlXOcYRld0uFw4OwtCyB4ZKhazWc3wiC8kUC9TClCBjF1e14w8ZDiZbATOiwtFPxJwCttNB3ehRdEfp0SqV/Uh7rMgPCUo0hZJ84eqU3mfiNaNEBfKTl8+/vm3Rqog2Q3QOYrGfj/Z80SVvDL0MrVjHhWbFXHQttG9yVdZ2A==;wCaSjfXp0tmo7ZTr6ngr6g=="
 ---

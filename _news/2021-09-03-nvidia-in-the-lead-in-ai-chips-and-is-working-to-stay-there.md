@@ -42,36 +42,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Nvidia AI Speech With Complex Rhythm and Tone"
-    excerpt: "Human speech has musicality. Everyone may not talk like Martin Luther King Junior or rap like people in the play Hamilton, but there is rhythm and tone."
-    publishedDateTime: 2021-08-31T20:47:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/nvidia-ai-speech-with-complex-rhythm-and-tone.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-30-at-9.02.57-AM-1024x512.jpg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "NVIDIA’s latest tech makes AI voices more expressive and realistic"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-31T20:46:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/09371cbda8d7ec87ba62fa6252f58268.jpeg"
-        width: 1200
-        height: 638
-        isCached: true
 
 secured: "N/E0InvUs3t1fHv8gW3S6TFcH4U/7fhkCyF5OJ/lSgQTThhA8M3inGMy8uHDj7GwkWtclv/mh8IshI0j/Mqc7+b+HGWTE39SboZHgexF5KoP/hKHQnVoxwF/XylaEbjsGG0xHRaUQZIUUrwDqsYVzg+kfeYLDbDNkKZH81Dmmsn/ZkPA9d3/MyL7jqxHoIjSyks9oa8vRczV7deauGV/8TL4F+IBllITW/t4z6l4QeHnH6Rw3C+0+JAawmjqCq8xDFxfm4J57gx6Af/cwXYdSJ/8LFcrNkVPleM9DgqnZYeu/wz+WFi5OB3mm4q44AWZMCIFhpF3dYhfxzCoBXFhaT4NS1X0zRLkw5brHQsdvfyRxl47XdqeL8UplvF0IYHH4q6mWbXlyBM08tj1kIZHY+0OFsTPpY1lJ9vPkwwUgoLxQMcXqRtUBzT3ySUhbY/wLmJHd1X761gfBmRywZ43hmiW3eZxqDoAKEdif9cAflif3WHNSwnlmWYApehUdSi8578BtMa1EpEwd0x09wp0IA==;280ZNS4R0ugLp5+MDlzLKQ=="
 ---

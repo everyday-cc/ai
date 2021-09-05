@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-r
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla survey shows take rate for Full Self-Driving package is surprisingly low"
-    excerpt: "A large survey of Tesla owners gives us probably the best idea of the take rate for the Full Self-Driving package. It’s an important metric for Tesla and it is surprisingly low. Or… is it? Tesla’s Full Self-Driving (FSD) package has been controversial for a few reasons."
-    publishedDateTime: 2021-08-31T20:13:00Z
-    webUrl: "https://electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/"
-    ampWebUrl: "https://electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-survey-take-rate-full-self-driving-package/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 85
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s So-Called “Full Self Driving” Doesn’t Work"
     excerpt: "Stanphyl Capital’s commentary for the month ended August 31, 2021, discussing their short position in Tesla Inc (NASDAQ:TSLA)."
     publishedDateTime: 2021-09-01T14:32:00Z

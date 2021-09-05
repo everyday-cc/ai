@@ -99,49 +99,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-03-the-impact-of-technology-ai-advancements-for-mental-health-and-wellness.md",
-      "title": "The Impact of Technology: AI Advancements for Mental Health and Wellness",
-      "excerpt": "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness",
-      "originalUrl": "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp",
-      "publishedDateTime": "2021-09-02T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-09-02-new-study-ai-in-healthcare-applications-to-witness-burgeoning-demand-during-2021-26.md",
       "title": "New Study: AI in Healthcare Applications to Witness Burgeoning Demand During 2021-26",
       "excerpt": "According to MarkNtel Advisors, the “Global Artificial Intelligence (AI) in Cancer Diagnostic Market” is predicted to",
@@ -1404,6 +1361,49 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-a-big-hole-and-cutting-edge-ideas-as-osf-healthcare-begins-work-on-new-cancer-institute.md",
+      "title": "A big hole and cutting-edge ideas as OSF HealthCare begins work on new Cancer Institute",
+      "excerpt": "Once the proton beam is installed in Peoria, it will be only the second in Illinois — there is currently one in Warrenville.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pjstar.com/story/business/2021/08/17/new-cancer-institute-peoria-bringing-proton-beam-therapy-osf/8151382002/",
+      "originalUrl": "https://www.pjstar.com/story/business/2021/08/17/new-cancer-institute-peoria-bringing-proton-beam-therapy-osf/8151382002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/16/NJOS/b223fc39-10ec-443a-8d7e-561daa22f8ea-CancerInstitute1.jpg?auto=webp&crop=6191,3483,x0,y629&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.pjstar.com/amp/8151382002",
+      "cdnAmpWebUrl": "https://amp-pjstar-com.cdn.ampproject.org/c/s/amp.pjstar.com/amp/8151382002",
+      "publishedDateTime": "2021-08-17T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journal Star",
+        "domain": "pjstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

@@ -42,31 +42,6 @@ related:
         width: 300
         height: 212
         isCached: true
-  - title: "Machine Learning in Education Market Size 2021 And Forecast to 2028 | Keyplayers – IBM, Microsoft, Google, Amazon"
-    excerpt: "In addition, the global Machine Learning in Education Market is expected to grow at a CAGR of about XX % over the next five years, will reach XX Billion US $in 2020, XX Billion US $in 2028 Get | Download Sample Copy with TOC,"
-    publishedDateTime: 2021-08-31T19:46:00Z
-    webUrl: "https://manometcurrent.com/machine-learning-in-education-market-size-2021-and-forecast-to-2028-keyplayers-ibm-microsoft-google-amazon/"
-    ampWebUrl: "https://manometcurrent.com/machine-learning-in-education-market-size-2021-and-forecast-to-2028-keyplayers-ibm-microsoft-google-amazon/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-in-education-market-size-2021-and-forecast-to-2028-keyplayers-ibm-microsoft-google-amazon/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 52
-  - title: "Cognitive Media Market to Eyewitness Massive Growth by 2026 : IBM, Google, AWS, Microsoft"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/31/2021 — Latest survey on Worldwide Cognitive Media Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Worldwide Cognitive Media."
-    publishedDateTime: 2021-08-31T19:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-to-eyewitness-massive-growth-by-2026-ibm-google-aws-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 47
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/CCC-5-e1628627764328-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence In Military Market Size 2021 And Forecast to 2028 | Keyplayers – Lockheed Martin , Raytheon , Northrop Grumman , Ibm"
     excerpt: "In the recently published financial credit Artificial Intelligence In Military Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim."
     publishedDateTime: 2021-09-02T21:03:00Z

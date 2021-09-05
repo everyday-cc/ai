@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-03-unsupervised-learning-can-detect-unknown-adversarial-attacks.md",
+      "title": "Unsupervised learning can detect unknown adversarial attacks",
+      "excerpt": "Adversarial attacks are data samples that have been inconspicuously modified to manipulate the behavior of the targeted machine learning model",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/",
+      "originalUrl": "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Adversarial-examples-machine-learning.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/amp/",
+      "publishedDateTime": "2021-09-02T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-stow-group-acquires-german-startup-raiser-robotics.md",
       "title": "stow Group acquires German startup Raiser Robotics",
       "excerpt": "Group acquired a majority stake in Raiser Robotics, a German-startup that has developed and automated storage and retrieval system.",
@@ -199,7 +251,7 @@
       "originalUrl": "https://manometcurrent.com/artificial-intelligence-solutions-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?noamp=mobile",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -733,7 +785,7 @@
       "originalUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -981,49 +1033,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-federal-agencies-to-increase-facial-recognition-use-gao-finds.md",
-      "title": "Federal Agencies to Increase Facial Recognition Use, GAO Finds",
-      "excerpt": "The Government Accountability Office recently released a report detailing the past and future uses of facial recognition technology within 24 federal agencies. The report found that nearly half plan to increase use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds",
-      "originalUrl": "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/federal-agencies-to-increase-facial-recognition-use-gao-finds?_amp=true",
-      "publishedDateTime": "2021-09-01T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

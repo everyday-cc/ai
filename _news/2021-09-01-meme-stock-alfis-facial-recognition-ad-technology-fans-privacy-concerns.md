@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology gaining speed within federal agencies"
-    excerpt: "Federal Drive with Tom Temin spoke to the director for science, technology assessment and analytics at the Government Accountability Office Candice Wright."
-    publishedDateTime: 2021-09-01T11:34:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/09/facial-recognition-technology-gaining-speed-within-federal-agencies/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/2020-Candice-Wright-1.jpg"
-        width: 2172
-        height: 1449
-        isCached: true
   - title: "Meme stock Alfi’s facial recognition ad technology fans privacy concerns"
     excerpt: "Alfi Inc, a small artificial intelligence software company, has ambitious plans to use facial recognition to target individualised ads to people as they walk through an airport, a shopping mall or stare at a screen in the back of an Uber."
     publishedDateTime: 2021-09-02T09:32:00Z
