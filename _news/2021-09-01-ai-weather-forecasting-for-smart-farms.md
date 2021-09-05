@@ -68,6 +68,20 @@ related:
         width: 1000
         height: 625
         isCached: true
+  - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
+    excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."
+    publishedDateTime: 2021-08-31T15:17:00Z
+    webUrl: "https://techreport.com/software/3474594/artificial-intelligence-enterprise-recruiting/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://cdn.techreport.com/wp-content/uploads/2021/08/artificial-intelligence-enterprise-recruiting.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "35dhFXpUYvQLs95ufh4atIzbMc/RNHfY/bcDmdwTMZjICSXQsvGqOamubqnJ/2oKsgLuXPB0vs2asOHyV3pZSY4oXhWVoX6ocOGWobWzsZ4PgwbRpaWfd79ZDowcFM6SYhaeCyErihB0HBhw+fBE8XaCEjwJ8xBPl0GS0xkG3ehugPVumFCMm9QWFEc+qeY10YFaXIBk3a7xRPVIxKt4pmB72SmqJY8/2jVeqpa297ICuvOTOUXAhIk279AKQ27z9H2UpkCr8DAM6MqpiNFlmEr3bQKdrcbNa8gyy8knCVVyasVFRo+bAS+hdhW0Cpzo2mxqzy+hn+06YhhlBMmECwiQlr39Oje6CQSi9UPuevQ=;vjcp6PtCCbmW84s4lHpM4g=="
 ---

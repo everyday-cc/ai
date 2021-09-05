@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.iflscience.com/images/d46d69f5-4a12-5e28-89e1-56d8348573fa/default-1630510701-cover-image.jpg"
         width: 720
         height: 405
-        isCached: true
-  - title: "Deals: Wheelson Build & Code Your Own AI Self-Driving Car"
-    excerpt: "We have an awesome deal for our readers in the Geeky Gadgets Deals store this week, the Wheelson Build & Code Your Own AI Self-Driving Car kit. The"
-    publishedDateTime: 2021-08-31T06:40:00Z
-    webUrl: "https://www.geeky-gadgets.com/deals-wheelson-build-code-your-own-ai-self-driving-car/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Wheelson.jpg"
-        width: 700
-        height: 525
         isCached: true
   - title: "Deals Reminder: Wheelson Build & Code Your Own AI Self-Driving Car"
     excerpt: "Just a quick reminder for our readers on the great deal on the Wheelson Build & Code Your Own AI Self-Driving Car in the Geeky Gadgets Deals store"

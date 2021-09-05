@@ -56,6 +56,20 @@ related:
         width: 1000
         height: 625
         isCached: true
+  - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
+    excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."
+    publishedDateTime: 2021-08-31T15:17:00Z
+    webUrl: "https://techreport.com/software/3474594/artificial-intelligence-enterprise-recruiting/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://cdn.techreport.com/wp-content/uploads/2021/08/artificial-intelligence-enterprise-recruiting.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "AI weather forecasting for smart farms"
     excerpt: "AI weather forecasting for smart farms Researchers working on smart irrigation systems have developed a way to choose the most accurate weather forecast out of those offered in the week leading up to a given day."
     publishedDateTime: 2021-09-01T07:58:00Z
@@ -71,6 +85,6 @@ related:
         height: 4000
         isCached: true
 
-secured: "jt+rZzO3ndd6oQj0GzNPYjpxqk/IYEbMRhHyfVmY75y7tME3AZWhe7grzM6p+ZQWyJW3tm2PdQRrKlrJ2UT0iXGOTEE7YtUmGFH87C33Tx95FO0d752W6aOX/WhG9m2HFT/yCXyXjOCN9nUB6DbB0EDocUS0bn6xc+WgHPEKzDNS45cTxmydIufWJX8zDkn3mSLWtpSIjD8YWSnqjVMJ7bVWJERDvTKwAlAJFwnB7dfEdX6Wtk4VUmHi1BKd4zZOoUV+riC23sWJBQ5br53+OtlRxrL8KGcV8lA5ckrgEBRD4682rLtgpSltB0Q3pHxuPyEyxl+eDimopl4eL3aMOGFFBKxX1Oq6mrMRJPA2DBM=;piBggqPkG/VZlcuZQPXaMw=="
+secured: "Uf1jOtXlZVE9CGDOpZzOEOVp88EyX4fjsae5vQs3PKvb9xF8O+tEFtbcXvdVLnMsDeUAV6lkHrDnCpPqkbHcw46B5+97Zo+uClcZYKGOa2JRD/gId0c0t9d+h0f+/UDEcbVQtavk8Kb8TJa9V/mW5eS4j7pVjuFqv/QlkF02CaafDEu/LkYtYXaTwezFDBH9iE400bUWxwKGiOXku768cjIsLXhAwB9LR+S26gQhKP5jFB12FGRRUsFgElM52JajZzwPveuMDBqJ766WNIrU2TRniFnBOPy35WPIxKcwPrf0OQSM7awBOboVZoEXSsOaIcq7LXdWbXQ4JOlH7c8cpa0x/GtHokJKeLiPuAHGMmXrmk11aBji/VHred74RJL/Dg813YEd36X6y9gDc3wxfI+XDpwj6eyq8Vj0+rylQYrdbjSTJe9agDXZZOgySps2mK70I1eh0ezr1WnErMsBscWmifqUDNe5yZsyGKVWC9cB8EUDj5DumWAMl3v5pIr1SUzLQPq4+H0kenwyuVrSUQ==;aCG7HMkjAPszxS+5eQev8w=="
 ---
 

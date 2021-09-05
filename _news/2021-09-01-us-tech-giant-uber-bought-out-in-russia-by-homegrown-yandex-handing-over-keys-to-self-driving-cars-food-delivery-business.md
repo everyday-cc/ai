@@ -82,20 +82,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Yandex to Acquire Uber's Interest in the Foodtech, Delivery and Self-Driving ..."
-    excerpt: "Yandex will own 100% of Yandex Eats, Lavka, Delivery and Self-Driving Group businesses Yandex and employees will increase share in mobility-focused MLU to approximately 71% Yandex"
-    publishedDateTime: 2021-08-31T06:50:00Z
-    webUrl: "https://www.pr-inside.com/yandex-to-acquire-uber-s-interest-in-the-foodtech-delivery-and-self-driving-r4845207.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 19
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "U9xnfiQc5M6c7hgOc+Pfp3JwxSdFcNSJOQ6zX5ZUxxNiwG06X3lCMeGyn4vXW033aF5McJyVbAucd0tKR/H7Fsb2+lQoHILUDZnlHfiajqWZZ0QHso8f+WeqPOk+Yz23aPuAbzG7rTbWt1OHtVC+i0M0QPAzNgLGkIeGN+GWhK8b/CZDNsAkxTlo4jpjdbr0mLX6JCf/srFh+6V6NtAXNfMxBPpI9XQHZsEaOH4vx8E6PcQNk3hBOByjN2gXufVzGJXo73kpD9zQrzvRQnBVa7W/T2/BZgG+3muZIAQO5lH1gbvhEIguEWKBpYID+EYrSqqVFCsDa9v5hongPnCttZkmSPdod21g/I3Do9/lmi8=;Ip1C5mAkPneSgci8g15rmg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/ecommerce/2021/adyen-releases-score-mach
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ecommerce/2021/adyen-releases-score-machine-learning-solution/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adyen launches Score with GoFundMe -- a machine learning tool to easily identify malicious platform users"
-    excerpt: "Score is the newest addition to the company's offering for platforms. GoFundMe, the global online fundraising platform, is one of Adyen's first merchants to implement Score during the past six months."
-    publishedDateTime: 2021-08-31T05:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/adyen-launches-score-with-gofundme-a-machine-learning-tool-to-easily-identify-malicious-platform-users-1030768563"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1490851/Logo__Adyen_green_RGB_Logo.jpg"
-        width: 400
-        height: 207
-        isCached: true
   - title: "Adyen debuts machine learning fraud detection tool"
     excerpt: "Adyen (AMS: ADYEN), the global payments platform of choice for many of the world's leading companies, today launched Score."
     publishedDateTime: 2021-08-31T16:48:00Z

@@ -45,6 +45,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-04-top-12-high-growth-artificial-intelligence-stocks.md",
+      "title": "Top 12 High-Growth Artificial Intelligence Stocks",
+      "excerpt": "AI is a large, complex universe covering many industries and technology megatrends. Here are 12 high-growth stocks that harness the power of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
+      "originalUrl": "https://www.fool.com/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
+      "publishedDateTime": "2021-09-03T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards.md",
       "title": "Self-Driving Cars Doing The Tango With Those Heroic School Crossing Guards",
       "excerpt": "School crossing guards are daily heroes, and it will be important that self-driving cars can be devised to work hand-in-hand with them.",
@@ -357,7 +401,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -461,7 +505,7 @@
       "originalUrl": "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1359,58 +1403,6 @@
         "name": "The Sentinel",
         "domain": "sentinelassam.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-tesla-now-aims-for-full-self-driving-beta-public-release-in-4-weeks.md",
-      "title": "Tesla now aims for Full Self-Driving Beta public release in ‘~4 weeks’",
-      "excerpt": "Elon Musk is now saying that Tesla is aiming for the wider public release of its Full Self-Driving Beta in about 4 weeks. We are coming up on almost a year since Tesla started testing its Full Self-Driving Beta in its early access program with some customers.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "originalUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/",
-      "publishedDateTime": "2021-08-25T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

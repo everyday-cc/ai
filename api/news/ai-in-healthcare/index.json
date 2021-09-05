@@ -253,50 +253,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-01-artificial-intelligence-ai-and-machine-learning-jobs-4-hot-skills.md",
-      "title": "Artificial Intelligence (AI) and machine learning jobs: 4 hot skills",
-      "excerpt": "Top Artificial Intelligence pros need more than just technical chops. Consider honing these core skills to boost your value in the fast-growing AI specialty",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisersproject.com/article/2021/9/artificial-intelligence-ai-jobs-4-hot-skills",
-      "originalUrl": "https://enterprisersproject.com/article/2021/9/artificial-intelligence-ai-jobs-4-hot-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisersproject.com/sites/default/files/styles/google_discover/public/2021-05/cio-remote-work-orange2.png?itok=5FPk9Tf_",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisersproject.com",
-        "domain": "enterprisersproject.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-08-31-healthcare-providers-turn-to-ai-to-rein-in-fraudsters-240-hour-head-start.md",
       "title": "Healthcare Providers Turn to AI to Rein in Fraudsters’ 240-Hour Head Start",
       "excerpt": "Beth Griffin of Mastercard tells Karen Webster that AI-driven models can help reduce fraud and false positives, while boosting compliance efforts.",
@@ -1391,6 +1347,49 @@
       "provider": {
         "name": "Journal Star",
         "domain": "pjstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandmarketscom.md",
+      "title": "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com",
+      "excerpt": "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

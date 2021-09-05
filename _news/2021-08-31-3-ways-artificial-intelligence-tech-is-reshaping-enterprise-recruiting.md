@@ -24,63 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "This Augmented Writing Tool Can Help People Who Stutter By Using AI"
-    excerpt: "Advertisement With the passage of time, technology is making our lives easier and more convenient. Besides providing us facilities for advancement in different sectors, it also creates solutions for people with disabilities or conditions that serve as an obstruction in the smooth execution of their daily activities."
-    publishedDateTime: 2021-08-31T06:03:00Z
-    webUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/"
-    ampWebUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
+  - title: "The Case for Artificial Intelligence in Recruiting IT Talent"
+    excerpt: "More AI tools are becoming available to help recruit and hire new technology staff. They take some of the burden off management to find the right people and also reduce bias in the process."
+    publishedDateTime: 2021-09-01T17:36:00Z
+    webUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent"
+    ampWebUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
     type: article
     provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
+      name: Government Technology
+      domain: govtech.com
     quality: 57
     images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/texttospeech.jpg"
-        width: 1920
-        height: 1459
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/93d9cbb/2147483647/strip/true/crop/6000x3129+0+436/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2F9b%2F44fc45d24b5b9f92241cff803deb%2Fvirtual-ai-hiring.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "How AI Upscaling Can Help Remaster Game Art"
-    excerpt: "Mass Effect Legendary Edition is one of the first high-profile titles to use AI texture upscaling, but how does it work?"
-    publishedDateTime: 2021-08-31T17:07:00Z
-    webUrl: "https://www.gamasutra.com/blogs/TommyThompson/20210831/387627/How_AI_Upscaling_Can_Help_Remaster_Game_Art.php"
+  - title: "Open Access Resources for AI in Schools"
+    excerpt: "Part of a Global Network of Internet & Society Centers (NoC) project on the Ethics of Digitalization, the Research Clinic convened a dozen early-career scholars to examine a real-world use case of AI in the public sector. The larger initiative is conducted ..."
+    publishedDateTime: 2021-09-02T14:50:00Z
+    webUrl: "https://cyber.harvard.edu/story/2021-09/open-access-resources-ai-schools"
     type: article
     provider:
-      name: Gamasutra
-      domain: gamasutra.com
-    quality: 39
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 41
     images:
-      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1038824.jpg"
-        width: 400
-        height: 400
+      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2021-09/joao-marcelo-martins-hFoPRRwjVgg-unsplash.jpg?h=6521bd5e&itok=WaKAxnJa"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "AI + Augmented: Pushing the Limits of What Machines Can Do"
-    excerpt: "Among these, the application of AI attracts perhaps the greatest attention due to its potential impact on the future of manufacturing automation. Less frequently mentioned, but equally important, is augmented intelligence."
-    publishedDateTime: 2021-09-01T18:42:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21174112/ai-augmented-pushes-the-limits-of-what-machines-can-do"
+  - title: "The Coming Identity Crisis for AI"
+    excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
+    publishedDateTime: 2021-09-01T21:05:00Z
+    webUrl: "https://www.discovermagazine.com/technology/the-coming-identity-crisis-for-ai"
     type: article
     provider:
-      name: IndustryWeek
-      domain: industryweek.com
+      name: Discover Magazine
+      domain: discovermagazine.com
     quality: 39
     images:
-      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2021/09/augmented_intelligence.612fc8cb6813d.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 624
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/65XSymbGJEL7F2ovzt3sy9/d77df1e9d0a8904ebba41da5e02d87fb/shutterstock_1178406460.jpg"
+        width: 1000
+        height: 625
         isCached: true
-  - title: "How AI is creating higher quality PET bales"
-    excerpt: "e-scrap and construction and demolition debris with an object recognition run rate of more than 10 billion items annually. This combination of scalable accuracy and classification creates a step-level solution for data collection and measurement that ..."
-    publishedDateTime: 2021-09-02T14:09:00Z
-    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-ai-pet-bales-sponsored-video/"
+  - title: "AI weather forecasting for smart farms"
+    excerpt: "AI weather forecasting for smart farms Researchers working on smart irrigation systems have developed a way to choose the most accurate weather forecast out of those offered in the week leading up to a given day."
+    publishedDateTime: 2021-09-01T07:58:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=725881"
     type: article
     provider:
-      name: Recycling Today
-      domain: recyclingtoday.com
-    quality: 39
+      name: scimex.org
+      domain: scimex.org
+    quality: 37
     images:
-      - url: "http://www.recyclingtoday.com/fileuploads/image/2021/09/02/Screenshot6.jpg?w=736&h=414&mode=crop"
-        width: 730
-        height: 396
+      - url: "https://www.scimex.org/__data/assets/image/0011/725888/IMG_2.JPG"
+        width: 5328
+        height: 4000
         isCached: true
 
 secured: "ZNu6BWxih3Ft77eP/fo65lXNNECDvJk6kmF4iooIEwWnnht5olCfGyrdy1+zxYNK/Qvxx5qpls7/HQOIBgXdaIb699jAd1+2GwqyTp9mTGikyvVBrc5s0Jchss7d3XEk9VJSJ5N+p7s67WuCqpsRJP6wsigwgxXoKe+EBT8tfQ9UhbOepW03FecPrqnZhK7vdDviq8zH4QoVeQbS72XuQNgOSqnvNUuyspevEG4cT45RyVZ8fskj9uDQbVLQLpZc0Hkf9vOJWzjKvLXc7aFabr15V8FCcOQEaSMNkD4eE1IyDYu5oPcXfAhUrCJFGGGdny6n6QDwSfx0JynHleIOtuewmctM3t/M5LlaBeFFVi5tz0N5Nesfc8H5x3Anr01j1bj+f9p38YTwfAsc5Jg9pj6y1tX9om3+TsztMpkDms1I2uj24+R39uUk5Iq6n6WDW/QRUhJko3c39HOrP8lqcU8EjBvdKeJ72CXmuy/MjrpkTYFN+0+GWTfxnHFkxID91uBPbAyHhJ/5WedYQ2AG1Q==;xnuoC148+vdfY7L/CuMOnQ=="

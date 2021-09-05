@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-05-the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml.md",
+      "title": "The Latest Trends in Artificial Intelligence (AI) and Machine Learning (ML)",
+      "excerpt": "Artificial intelligence (AI) contains many subfields, including machine learning (ML), which automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
+      "originalUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Trends_2021-min.jpg",
+          "width": 1600,
+          "height": 1035,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-04T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity.md",
       "title": "Top Positive and Negative Impacts of AI & ML on Cybersecurity",
       "excerpt": "You might have heard only praise and good things about AI and ML, but that does not mean that they cannot become a bitter enemy to humanity. AI & ML are advanced technologies bound to function under the administrator’s command.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://customerthink.com/top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -342,50 +385,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-01-artificial-intelligence-ai-and-machine-learning-jobs-4-hot-skills.md",
-      "title": "Artificial Intelligence (AI) and machine learning jobs: 4 hot skills",
-      "excerpt": "Top Artificial Intelligence pros need more than just technical chops. Consider honing these core skills to boost your value in the fast-growing AI specialty",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisersproject.com/article/2021/9/artificial-intelligence-ai-jobs-4-hot-skills",
-      "originalUrl": "https://enterprisersproject.com/article/2021/9/artificial-intelligence-ai-jobs-4-hot-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisersproject.com/sites/default/files/styles/google_discover/public/2021-05/cio-remote-work-orange2.png?itok=5FPk9Tf_",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisersproject.com",
-        "domain": "enterprisersproject.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-09-01-2017-ai-deep-learning-and-gpus.md",
       "title": "2017 – AI, Deep Learning, and GPUs",
       "excerpt": "Armed with huge data sets and increasingly powerful GPUs, neural network architectures got bigger and better, helping to close the human-machine performance gap in two prominent AI workloads: natural language processing (NLP) and computer vision.",
@@ -491,7 +490,7 @@
       "originalUrl": "https://www.pymnts.com/news/ecommerce/2021/adyen-releases-score-machine-learning-solution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {

@@ -57,33 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Verizon and Microsoft team up to offer 5G edge cloud computing for businesses"
-    excerpt: "Leveraging Verizon 5G Edge with Microsoft Azure Stack Edge, the solution \"enables the ultra-low latency needed to deploy real-time enterprise applications,\" the companies said in a statement."
-    publishedDateTime: 2021-08-31T06:09:00Z
-    webUrl: "https://www.zdnet.com/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-and-microsoft-team-up-to-offer-edge-cloud-computing-for-businesses/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-  - title: "Artificial Intelligence in Construction Market is Booming Worldwide | IBM, Microsoft, Oracle"
-    excerpt: "Latest released the research study on Global Artificial Intelligence in Construction Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Construction Market research report shows the latest market insights current situation analysis with"
-    publishedDateTime: 2021-08-31T06:15:00Z
-    webUrl: "https://www.openpr.com/news/2373861/artificial-intelligence-in-construction-market-is-booming"
-    ampWebUrl: "https://www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2373861/artificial-intelligence-in-construction-market-is-booming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/U/8/U831667007_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Verizon, Microsoft launch private edge solution"
     excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
     publishedDateTime: 2021-09-01T08:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technolo
 webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21174112/ai-augmented-pushes-the-limits-of-what-machines-can-do"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,66 +23,6 @@ images:
     width: 1200
     height: 624
     isCached: true
-
-related:
-  - title: "This Augmented Writing Tool Can Help People Who Stutter By Using AI"
-    excerpt: "Advertisement With the passage of time, technology is making our lives easier and more convenient. Besides providing us facilities for advancement in different sectors, it also creates solutions for people with disabilities or conditions that serve as an obstruction in the smooth execution of their daily activities."
-    publishedDateTime: 2021-08-31T06:03:00Z
-    webUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/"
-    ampWebUrl: "https://wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-augmented-writing-tool-can-help-people-who-stutter-by-using-ai/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 57
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/08/texttospeech.jpg"
-        width: 1920
-        height: 1459
-        isCached: true
-  - title: "How AI Upscaling Can Help Remaster Game Art"
-    excerpt: "Mass Effect Legendary Edition is one of the first high-profile titles to use AI texture upscaling, but how does it work?"
-    publishedDateTime: 2021-08-31T17:07:00Z
-    webUrl: "https://www.gamasutra.com/blogs/TommyThompson/20210831/387627/How_AI_Upscaling_Can_Help_Remaster_Game_Art.php"
-    type: article
-    provider:
-      name: Gamasutra
-      domain: gamasutra.com
-    quality: 39
-    images:
-      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1038824.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "How AI is creating higher quality PET bales"
-    excerpt: "e-scrap and construction and demolition debris with an object recognition run rate of more than 10 billion items annually. This combination of scalable accuracy and classification creates a step-level solution for data collection and measurement that ..."
-    publishedDateTime: 2021-09-02T14:09:00Z
-    webUrl: "https://www.recyclingtoday.com/article/amp-robotics-ai-pet-bales-sponsored-video/"
-    type: article
-    provider:
-      name: Recycling Today
-      domain: recyclingtoday.com
-    quality: 39
-    images:
-      - url: "http://www.recyclingtoday.com/fileuploads/image/2021/09/02/Screenshot6.jpg?w=736&h=414&mode=crop"
-        width: 730
-        height: 396
-        isCached: true
-  - title: "3 Ways Artificial Intelligence Tech Is Reshaping Enterprise Recruiting"
-    excerpt: "It's estimated that 80% of companies use artificial intelligence in their HR workflows as it brings immense value to enterprise recruiting."
-    publishedDateTime: 2021-08-31T15:17:00Z
-    webUrl: "https://techreport.com/software/3474594/artificial-intelligence-enterprise-recruiting/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
-    images:
-      - url: "https://cdn.techreport.com/wp-content/uploads/2021/08/artificial-intelligence-enterprise-recruiting.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "nclU8ptr1EkI+0cB+CgHwLMoWeKFw/P4x/6pFeA+YU6jBeDGgx7TUyf3PbA5eZ2y0dIe9bNpD0xQUX7hoxJiUmQ/uaH5PUyv1kXhb/1O1Kc7KprlRDeCVCuGaAcjogLPzBtHGIt3g3wnhp1tdWYeQQsCFZK7eHAQds/UDtyc8Q48Svs1Oa97ByXlRce+4Pq2/P1+ObFgr04L2ybj/hmMtlbj+Jjw7WvWBcMyVLrj2YKE2VPbluCOIocykjUnSdHnsDp96I6KB74zZC0MM00ZYs7L2Ca5atgFuVKHrAzRy7pwC30R/n/TkJc95oDxPNuE9zGcAMGqX5YnIzYvtijI53x2gkHJCsyDlzpv0HJZfLM=;UZDlnFDBMBw+z9kSuGtYgg=="
 ---
