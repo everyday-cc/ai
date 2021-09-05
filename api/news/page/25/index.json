@@ -2,6 +2,40 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-08-16-data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings.md",
+      "title": "Data Center, Gaming Segments to Aid NVIDIA's (NVDA) Q2 Earnings",
+      "excerpt": "The company’s fate is tied to its gaming and data-center segments, which accounts for a bulk of NVIDIA’s revenues. The two divisions are likely to continue benefiting from stellar demand for chips used in gaming,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
+      "originalUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
+      "publishedDateTime": "2021-08-16T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandmarketscom.md",
       "title": "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com",
       "excerpt": "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market.",
@@ -1084,40 +1118,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-a-more-hardware-oriented-spiking-neural-network-based-on-leading-memory-technology-and-its-application-with-reinforcement-learning.md",
-      "title": "A More Hardware-Oriented Spiking Neural Network Based on Leading Memory Technology and Its Application With Reinforcement Learning",
-      "excerpt": "In recent days, more hardware-driven artificial intelligence system capable of brain-like low-energy consumption is gaining ever-increasing interest. The hardware-driven property lies in the low-power synaptic device and its array along with the area and energy-efficient neuron circuits.",
-      "sourceUrl": null,
-      "webUrl": "https://ieeexplore.ieee.org/document/9506994",
-      "originalUrl": "https://ieeexplore.ieee.org/document/9506994",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IEEE",
-        "domain": "ieee.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

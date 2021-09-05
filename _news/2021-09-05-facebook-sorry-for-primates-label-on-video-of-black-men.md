@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Facebook AI mislabels video of Black men as 'Primates' content"
-excerpt: "Users who watched a video posted by Daily Mail featuring Black men saw a prompt asking them if they'd like to \"[k]eep seeing videos about Primates.\"."
-publishedDateTime: 2021-09-04T06:17:00Z
-originalUrl: "https://www.engadget.com/facebook-ai-mislabels-video-black-men-primates-044255703.html"
-webUrl: "https://www.engadget.com/facebook-ai-mislabels-video-black-men-primates-044255703.html"
+title: "Facebook sorry for ‘primates’ label on video of Black men"
+excerpt: "Facebook has apologized for putting a “primates” label on a video of Black men, according to a reportin the New York Times. The newspaper said the video was posted by a"
+publishedDateTime: 2021-09-04T21:40:00Z
+originalUrl: "https://www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/"
+webUrl: "https://www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/"
+ampWebUrl: "https://www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/amp/"
+cdnAmpWebUrl: "https://www-pahomepage-com.cdn.ampproject.org/c/s/www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/amp/"
 type: article
-quality: 67
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WYOU
+  domain: pahomepage.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/61d84470-0d2f-11ec-b7ff-aec40b61b306"
-    width: 5122
-    height: 3415
+  - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2021/09/ba9b2841e7154d13bda18e8455df89e7.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -42,6 +41,20 @@ related:
         width: 760
         height: 1263
         isCached: true
+  - title: "Facebook AI mislabels video of Black men as 'Primates' content"
+    excerpt: "Users who watched a video posted by Daily Mail featuring Black men saw a prompt asking them if they'd like to \"[k]eep seeing videos about Primates.\"."
+    publishedDateTime: 2021-09-04T06:17:00Z
+    webUrl: "https://www.engadget.com/facebook-ai-mislabels-video-black-men-primates-044255703.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 67
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/61d84470-0d2f-11ec-b7ff-aec40b61b306"
+        width: 5122
+        height: 3415
+        isCached: true
   - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
     excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
     publishedDateTime: 2021-09-05T09:38:00Z
@@ -58,22 +71,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Facebook sorry for ‘primates’ label on video of Black men"
-    excerpt: "Facebook has apologized for putting a “primates” label on a video of Black men, according to a reportin the New York Times. The newspaper said the video was posted by a"
-    publishedDateTime: 2021-09-04T21:40:00Z
-    webUrl: "https://www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/"
-    ampWebUrl: "https://www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/amp/"
-    cdnAmpWebUrl: "https://www-pahomepage-com.cdn.ampproject.org/c/s/www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/amp/"
-    type: article
-    provider:
-      name: WYOU
-      domain: pahomepage.com
-    quality: 44
-    images:
-      - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2021/09/ba9b2841e7154d13bda18e8455df89e7.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Facebook apologizes after AI puts ‘primates’ label on video of Black men"
     excerpt: "Facebook users who recently watched a video from a tabloid featuring Black men saw a prompt that asked if they would like to “keep seeing videos about Primates.” The artificial intelligence-powered feature that pushed the message has been disabled."
     publishedDateTime: 2021-09-04T01:37:00Z
@@ -86,6 +83,6 @@ related:
       domain: seattletimes.com
     quality: 36
 
-secured: "QqwGXOorC7dv65T2q+W5HRo2DOBRXLd2S+GRulYgjdsHIHiIKbtjCXokX4O2RmJHyswHqs6euC6ePzw8nJJ7nLT+N9lJ8ABoAOB5DhP9sEGgDVWl+P1pYNgnHVgI/L2Bwh22IilW0P77dkh4XVs/vKoyk+NrhV53hxv+sVwUgegaQ5ji+eLVsZPaAn/G30p2+m8Ojpl8q89QLsxGvOy7emcFK7ZcBh0Gwu47/4EfTo1swLcBMnf1i1ZLv4m8uuq0fT/kBu5l/gTt5kexIdMYs3oiOmwabOu7PJ6iKkdGWTlIYhUZzswNvOexxLhtgPWLv1nnNtIZDwMcFaHubJDl99f4HCZuvEhYzJITdSnIvjmloPVYZuN0Pa5i7GpEWxgOzeqv2q6X24Xgf6xQZEKfJkR5dHmdVH6yIAJ5SxrH9Kv9LeP1YPZPnSVTk8JtpEafIVwgO8PsfwutsZeZoTA/X4cF6VQD9CJvbd1gQiFk4xt+c8ROBmuPNKMrIG0gAzP6ZxTxIiDihGxxHXj7B2rfIA==;9fTlv2mEy1KKItpVuKAAUA=="
+secured: "PKg8iZsRnIp0aR+5CrGtVpF3ojgnVplSiAT/VK8MlpZkxh6m7KNP/VqZs2U7wtoJ7eEfMMD8s/Dg2BI23FBZbaBLv1dJtX1Y2ih9Z222dMBCOkYQ/1ea0rOPtIxej8F4G2TbflQfAoODH3Y1ny4bMV++b0NfNRVgW2xqRwUdVgjKaRb0sQiCRedXmM8EU8fPepyxCczmCEr1yIATuqvdbtJEndptePAPmVoHUTH2OFQiAVFqQFR1ZhmYurZQIHDKAWC++O0r2b8SaSRC4aV5JzX5oGQa1noL6PiNEXMVFxB1NQZbLzqLk/7ObcSJuxx08OZjGcS10m88bpWWr+1MuSNKTvlpehLHoBMc7MCjgrU=;Byu8Tk7Hk7iID5xFoB4CNw=="
 ---
 

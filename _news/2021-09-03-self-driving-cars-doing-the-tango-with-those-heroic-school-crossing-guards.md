@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Volvo waits for self-driving tech to improve before touting autonomous cars"
+    excerpt: "Volvo Cars has aggressively promoted its push toward becoming an all-electric brand, with the first such vehicle to be a successor to the XC90 SUV that will be built at"
+    publishedDateTime: 2021-09-05T19:00:00Z
+    webUrl: "https://www.postandcourier.com/business/volvo-waits-for-self-driving-tech-to-improve-before-touting-autonomous-cars/article_45c8c34e-0cc2-11ec-811c-7731825f1779.html"
+    type: article
+    provider:
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/53/d533e33c-0ccd-11ec-9083-832f29bc0de7/6132433221252.image.jpg?resize=838%2C630"
+        width: 838
+        height: 630
+        isCached: true
   - title: "Will self-driving cars cause driving to be illegal?"
     excerpt: "In an opinion that may not be popular among the masses, IDTechEx’s new data forecasts that by 2040, self-driving cars will be capable of fulfilling mobility worldwide without accidents. By 2050, manual driving could be outlawed."
     publishedDateTime: 2021-09-01T12:38:00Z

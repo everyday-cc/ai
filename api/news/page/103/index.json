@@ -2,6 +2,58 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2021-06-22-google-says-ai-and-analytics-can-take-its-cloud-to-the-next-level.md",
+      "title": "Google says AI and analytics can take its cloud to the next level",
+      "excerpt": "Google believes that artificial intelligence ( AI) and data analytics are the key technologies that will be the impetus behind their cloud computing business going forward. In an interview on the sidelines of the Qatar Economic Forum,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "originalUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
+      "publishedDateTime": "2021-06-22T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-techsees-ai-can-recognize-devices-and-guide-users-through-setup.md",
       "title": "TechSee’s AI can recognize devices and guide users through setup",
       "excerpt": "TechSee's new Eve Cortex platform leverages AI, machine learning, and augmented reality to help users set up new devices.",
@@ -1079,58 +1131,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate.md",
-      "title": "Global Telecoms Cloud Market Forecast to 2026: AWS, BT, Oracle and Verizon Dominate",
-      "excerpt": "The global telecom cloud market size is expected to grow from USD 19.8 Billion in 2021 to USD 52.3 Billion by 2026, at a Compound Annual Growth Rate (CAGR) of 21.4% during the forecast period. Data stored on a public cloud platform is generally regarded as safe from most hazards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

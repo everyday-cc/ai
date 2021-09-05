@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet.md",
+      "title": "Volkswagen, Argo AI Ready Electric Robotaxi Vans For German Test Fleet",
+      "excerpt": "The autonomous driving startup's technology is to be part of a commercial robotaxi service in Hamburg operated by MOIA in 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61350e3e1665d8968e63a481%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/amp/",
+      "publishedDateTime": "2021-09-05T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-6-fintech-startups-in-india-that-are-making-use-of-ai-technology.md",
       "title": "6 Fintech Startups In India That Are Making Use Of AI Technology",
       "excerpt": "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2.",
@@ -287,7 +338,7 @@
       "originalUrl": "https://www.neowin.net/news/black-men-identified-as-primates-by-facebooks-not-so-intelligent-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -753,7 +804,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -805,7 +856,7 @@
       "originalUrl": "https://www.msn.com/en-us/money/companies/space-infrastructure-company-redwire-begins-trading-after-closing-spac-deal/ar-AAO4eYf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1147,49 +1198,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-stow-group-acquires-german-startup-raiser-robotics.md",
-      "title": "stow Group acquires German startup Raiser Robotics",
-      "excerpt": "Group acquired a majority stake in Raiser Robotics, a German-startup that has developed and automated storage and retrieval system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/stow-grou-acquires-german-startup-raiser-robotics/",
-      "originalUrl": "https://www.therobotreport.com/stow-grou-acquires-german-startup-raiser-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/DSC_82303.jpg",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

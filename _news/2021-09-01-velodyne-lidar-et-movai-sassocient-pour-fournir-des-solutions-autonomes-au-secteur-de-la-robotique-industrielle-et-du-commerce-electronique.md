@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Velodyne Lidar y MOV.AI se asocian para ofrecer soluciones autónomas de robótica industrial y de comercio electrónico"
-    excerpt: "Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) y MOV.AI anunciaron hoy que las empresas están colaborando para ofrecer a los fabricantes de robots soluciones de automatización de nivel empresarial, que incluyen mapeo,"
-    publishedDateTime: 2021-09-01T01:41:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/velodyne-lidar-y-mov-ai-se-asocian-para-ofrecer-soluciones-aut-nomas-de-rob-tica/article_9a87e4ef-955c-5230-92bb-9ecf185cbdc1.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 14
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/16/b162197c-0a61-5862-ac12-44c523cde853/612edb4fbd4a0.image.jpg?resize=1200%2C586"
-        width: 1200
-        height: 586
-        isCached: true
   - title: "Velodyne Lidar e MOV.AI fazem parceria para fornecer soluções autônomas para robótica industrial e de comércio eletrônico"
     excerpt: "A Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) e a MOV.AI anunciaram hoje que as empresas estão colaborando para fornecer a fabricantes de robôs soluções de automação de nível empresarial, incluindo mapeamento,"
     publishedDateTime: 2021-09-01T07:53:00Z

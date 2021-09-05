@@ -2,6 +2,58 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2021-06-29-amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids.md",
+      "title": "Amazon introduces Reading Sidekick, a kids reading companion for Alexa, and Voice Profiles for Kids",
+      "excerpt": "Amazon today announced a new feature that will turn Alexa into a reading companion for children as well as new support for Alexa Voice Profiles for Kids, which personalize the child’s Alexa experience across all Echo devices in the household.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
+      "originalUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Reading-Sidekick-Echo-Show-Book-List.png?w=680",
+          "width": 680,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
+      "publishedDateTime": "2021-06-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-microsoft-launches-azure-arc-enabled-sql-in-general-availability.md",
       "title": "Microsoft launches Azure Arc-enabled SQL in general availability",
       "excerpt": "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances.",
@@ -1166,50 +1218,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandmarketscom.md",
-      "title": "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com",
-      "excerpt": "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/b21758968/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandm",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/b21758968/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

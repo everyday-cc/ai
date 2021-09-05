@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 946
         isCached: true
+  - title: "Volvo waits for self-driving tech to improve before touting autonomous cars"
+    excerpt: "Volvo Cars has aggressively promoted its push toward becoming an all-electric brand, with the first such vehicle to be a successor to the XC90 SUV that will be built at"
+    publishedDateTime: 2021-09-05T19:00:00Z
+    webUrl: "https://www.postandcourier.com/business/volvo-waits-for-self-driving-tech-to-improve-before-touting-autonomous-cars/article_45c8c34e-0cc2-11ec-811c-7731825f1779.html"
+    type: article
+    provider:
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/53/d533e33c-0ccd-11ec-9083-832f29bc0de7/6132433221252.image.jpg?resize=838%2C630"
+        width: 838
+        height: 630
+        isCached: true
 
 secured: "NhwT5E6q0erOvJF0GZ8V3K7xNN0xUjiV0unHv0SgPvfI4lr1YibKbzZtvd3L6vI7nbEwwY56R1zVIDHWla6zg3YUHO4D37hZY9rsigm+IieMfpyNq5cDtC3ohdan3Exdx/2H8C//+4O9Kk0C8GfJb6EWM8ZW+QUoFDQdhq0DFB08Rv+mamlJbJXOGfuVLsqNSZLt/6Mg5u+vSiwBuHG0JVuefidoSgNU0rdIHKMtwePbQau+nzDp08Qhmx9sWnzE0WekNV3j/WTlmI7443Rip8GfkIxvYiwY60NJKm4Pp8HC7km4/UyD7Anz7pkJ3k/xwGTRTnv0aYJ6NCJxdBvp7jC9NWP/X4stGBMUB7pGfOg=;263gniLUelLd9lmInpbuaQ=="
 ---

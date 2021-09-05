@@ -2,6 +2,58 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-07-11-sonys-televisions-will-soon-be-100-robot-made-according-to-a-report.md",
+      "title": "Sony's televisions will soon be 100% robot-made, according to a report",
+      "excerpt": "He told the newspaper: \"I don't think automation alone using robots will bring enough merits. The key is to use digitalization to link both sales and manufacturing.\" Sales data would be studied using artificial intelligence to more effectively calculate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
+      "originalUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609eb383f27b4c00194448b5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
+      "publishedDateTime": "2021-07-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-ai-has-become-a-design-problem.md",
       "title": "AI has become a design problem",
       "excerpt": "The bulk of the discussion around making AI trustworthy centers on engineering. But it should really be focused on design.",
@@ -1092,59 +1144,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030.md",
-      "title": "Robot Operating System Market Size 2021 by Company, Product introduction, Products Sales Volume, Revenue, Price and Gross Margin to 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Robot Operating System Market for",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-operating-system-market-size-2021-by-company-product-introduction-products-sales-volume-revenue-price-and-gross-margin-to-2030-2021-07-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

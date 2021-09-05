@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-23-improving-creative-quality-could-save-brands-millions-in-media-spend-according-to-creativex-research.md",
+      "title": "Improving Creative Quality Could Save Brands Millions in Media Spend, According to CreativeX Research",
+      "excerpt": "CreativeX, an AI-powered technology company that enables brands to measure the impact of creative decisions, today released a landmark industry report, \"Insights From",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/improving-creative-quality-could-save-brands-millions-in-media-spend-according-to-creativex-research/article_6938f5e8-5d24-56ae-b602-11a32ea88dd7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/improving-creative-quality-could-save-brands-millions-in-media-spend-according-to-creativex-research/article_6938f5e8-5d24-56ae-b602-11a32ea88dd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-10-key-questions-every-company-should-ask-before-using-ai.md",
       "title": "10 Key Questions Every Company Should Ask Before Using AI",
       "excerpt": "If AI technology and machine learning (ML) were parents, deep learning (DL) would be their most successful child, the one who learns from its own mistakes and makes better decisions than the neural networks of generations before.",
@@ -1104,49 +1147,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla.md",
-      "title": "Autonomous Vehicles Market to Eyewitness Massive Growth by 2026 | General Motors, Daimler Group, Baidu, Ford Motor Company, Audi, Tesla",
-      "excerpt": "The global Autonomous Vehicles market is expected to grow at a CAGR of 24.4% during the forecast period. The global Autonomous Vehicles market is estimated to be about 31675.9 million US dollars in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla/",
-      "originalUrl": "https://manometcurrent.com/autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Autonomous-Vehicles-Market-780x470.jpeg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla/",
-      "publishedDateTime": "2021-08-21T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

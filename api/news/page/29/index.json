@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-08-12-keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers.md",
+      "title": "KeepTruckin uses Ambarella AI chips to monitor truck drivers",
+      "excerpt": "KeepTruckin will use Ambarella AI processors in its dashboard camera that can monitor both road conditions and driver awareness.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/",
+      "originalUrl": "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/truck-Combined-Product-Photo_Ambarella-KeepTruckin-—-Under-Embargo-Until-Aug.-12-2021.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/amp/",
+      "publishedDateTime": "2021-08-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-motivo-raises-125m-series-a-to-speed-up-chip-design-with-ai.md",
       "title": "Motivo raises $12.5M Series A to speed up chip design with AI",
       "excerpt": "Chip design is a long slog of trial and error, taking years to bring a design to market. Motivo, a five year old startup from a chip industry veteran is creating software to speed up chip design from years to months using AI.",
@@ -1100,58 +1152,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-without-code-for-deepminds-protein-ai-this-lab-wrote-its-own.md",
-      "title": "Without Code for DeepMind’s Protein AI, This Lab Wrote Its Own",
-      "excerpt": "After CASP14, which took place in December 2020, the problem had effectively been solved, by researchers at the Google subsidiary DeepMind. A research company focused on a branch of artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/without-code-for-deepminds-protein-ai-this-lab-wrote-its-own/",
-      "originalUrl": "https://www.wired.com/story/without-code-for-deepminds-protein-ai-this-lab-wrote-its-own/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6114588886407d6dcacb924c/master/pass/Science_Protein_GettyImages-1227480531.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/without-code-for-deepminds-protein-ai-this-lab-wrote-its-own/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/without-code-for-deepminds-protein-ai-this-lab-wrote-its-own/amp",
-      "publishedDateTime": "2021-08-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

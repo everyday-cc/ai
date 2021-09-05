@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-30-can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity.md",
+      "title": "Can Artificial Intelligence Give Thoughtful Gifts? An Exploration Of The Possibilities And Limits Of AI’s Humanity",
+      "excerpt": "It is clear that with the massive amounts of behavioral data available to Google and other social media platforms, the impact on our shopping behavior begins with how we are marketed to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c521fc881ada8921adcb0%2F0x0.jpg",
+          "width": 825,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/",
+      "publishedDateTime": "2021-08-29T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet.md",
       "title": "The long-tail of AI problems requires hyper-customized solutions, not a silver-bullet",
       "excerpt": "Spending the last decade on AI research and implementation, my observation is that these challenges are inherently specific, differing drastically across companies — even when the AI application ...",
@@ -1172,49 +1224,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-us-agencies-increasing-use-of-facial-recognition-tech.md",
-      "title": "US Agencies Increasing Use of Facial Recognition Tech",
-      "excerpt": "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcareinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393",
-      "originalUrl": "https://www.healthcareinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-27T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthcareinfosecurity.com",
-        "domain": "healthcareinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

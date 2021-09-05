@@ -2,6 +2,58 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-07-15-china-grants-tax-breaks-policy-leeway-to-turn-shanghai-into-powerhouse-for-ai-chips-planes-and-pharmaceuticals.md",
+      "title": "China grants tax breaks, policy leeway to turn Shanghai into powerhouse for AI, chips, planes and pharmaceuticals",
+      "excerpt": "China’s central government has offered tax incentives, greater autonomy in local legislation and more administrative power to liberalise the capital markets in Shanghai, as Beijing envisions building Pudong into a ‘brilliant pearl’ of a strong socialist country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "originalUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/15/d8254c32-e551-11eb-9aba-1b7e08262541_image_hires_220157.jpeg?itok=fYw4eWfq&v=1626357723",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "publishedDateTime": "2021-07-15T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-opening-up-the-email-marketing-engine-to-artificial-intelligence.md",
       "title": "Opening Up the Email Marketing Engine to Artificial Intelligence",
       "excerpt": "With an average open email rate of 18.0% in 2020, it’s not like marketing teams are crushing this email thing. Wait, isn't 18% pretty good? We get that standards are low here, for sure. Bottom-line? Email remains a priority.",
@@ -1083,49 +1135,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-self-driving-cars-are-not-yet-safe.md",
-      "title": "Self-Driving Cars Are Not (Yet) Safe",
-      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
