@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Only Humans, Not AI, Can Be An Inventor, Va. Judge Rules"
-excerpt: "A Virginia federal judge ruled Thursday that artificial intelligence cannot be listed as an inventor on a patent application, holding that the Patent Act makes clear that inventing is the exclusive legal province of human beings."
-publishedDateTime: 2021-09-03T02:57:00Z
-originalUrl: "https://www.law360.com/articles/1418666/only-humans-not-ai-can-be-an-inventor-va-judge-rules"
-webUrl: "https://www.law360.com/articles/1418666/only-humans-not-ai-can-be-an-inventor-va-judge-rules"
-ampWebUrl: "https://www.law360.com/amp/articles/1418666"
-cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1418666"
+title: "Federal court rules Artificial Intelligence cannot be an ‘inventor’ under US patent law"
+excerpt: "The US District Court for the Eastern District of Virginia on Wednesday ruled that an artificial intelligence (AI) machine cannot be an inventor under the Patent Act. The action was a motion for"
+publishedDateTime: 2021-09-05T07:38:00Z
+originalUrl: "https://www.jurist.org/news/2021/09/federal-court-rules-artificial-intelligence-cannot-be-an-inventor-under-us-patent-law/"
+webUrl: "https://www.jurist.org/news/2021/09/federal-court-rules-artificial-intelligence-cannot-be-an-inventor-under-us-patent-law/"
 type: article
-quality: 37
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Law360
-  domain: law360.com
+  name: Jurist
+  domain: jurist.org
 
 topics:
   - AI
+
+images:
+  - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/09/Artificial_Intelligence_1630841903.jpg"
+    width: 1280
+    height: 427
+    isCached: true
 
 related:
   - title: "AI computers can’t patent their own inventions — yet — a US judge rules"
@@ -52,21 +56,18 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Federal court rules Artificial Intelligence cannot be an ‘inventor’ under US patent law"
-    excerpt: "The US District Court for the Eastern District of Virginia on Wednesday ruled that an artificial intelligence (AI) machine cannot be an inventor under the Patent Act. The action was a motion for"
-    publishedDateTime: 2021-09-05T07:38:00Z
-    webUrl: "https://www.jurist.org/news/2021/09/federal-court-rules-artificial-intelligence-cannot-be-an-inventor-under-us-patent-law/"
+  - title: "Only Humans, Not AI, Can Be An Inventor, Va. Judge Rules"
+    excerpt: "A Virginia federal judge ruled Thursday that artificial intelligence cannot be listed as an inventor on a patent application, holding that the Patent Act makes clear that inventing is the exclusive legal province of human beings."
+    publishedDateTime: 2021-09-03T02:57:00Z
+    webUrl: "https://www.law360.com/articles/1418666/only-humans-not-ai-can-be-an-inventor-va-judge-rules"
+    ampWebUrl: "https://www.law360.com/amp/articles/1418666"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1418666"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 29
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/09/Artificial_Intelligence_1630841903.jpg"
-        width: 1280
-        height: 427
-        isCached: true
+      name: Law360
+      domain: law360.com
+    quality: 37
 
-secured: "8CIzwLUN7BtKjgYcq1InGJUuEwF62TIxOhqmEQuW6AVcmzRqI39g2ppNvAPdPUM684auHRJjmbgqtCMxxlWelC0ag4mIdQP2+/GYhIhtF7grqdGScs/23PlEsMA0zoLpLgS07OJqL7fVq6o/eUE2IFiOKIJLt4FekhLbzr6SZpH1c4ACwsSeimq3424XdOYiV4LrkoMfZJKcbmvBsYvNW4lXx0BhlDegrnj0SLqIvHLuadloPAkoV3ymrK5t9xkjSyts1kjijqcN0ntE1YRhIwGPw+FrmM+xrfyxtJLqzxQXpKnSQZfELQjkk6qsuMDFcZNv1p32kDuNv/M+aJ41hj9tUByO1MstBNBqAG7gmAQ=;+wNwihOts6uXIx3T+C+4lA=="
+secured: "MZMLIgfXngQaIiuh5PxcTMNqE0G5TLzAr83UR+EBq/pGBcu+iJYeBzXXkPaUOXCGekRtc5SFAHom0g6Lt9W+ban+x8iL6ra8HyUW0Af2I7YHQ/Pbz3IKt1D5k30bCiBbpvs1cCN47mgqH9i6kWWltJ5iEyDQsRbRHe5yAOQCf1raoq61/h+kbNNqSbAsODJ9H6RyC7EhQoyPvoSvodKcaoLXFyB+9I9IKSGDmmZIfFOppqZdeEI5Zh6rr3fSNxa0Qp7GOLHSJFmqiFJfcNlLnDGI++TkZy7AcRbP8m94tMNvXQJmQEaQ+1iAXp8wRtypcd1EsDJF6ya7s4N+8Jk822flK5KmL8VBOEb0NVhfvUI=;6Kys66gSy6/2zK4DmaqR5Q=="
 ---
 

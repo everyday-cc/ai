@@ -73,22 +73,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise"
-    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
-    publishedDateTime: 2021-08-31T18:26:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
     excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."
     publishedDateTime: 2021-08-31T22:36:00Z
@@ -102,22 +86,6 @@ related:
       - url: "https://www.channelfutures.com/files/2021/04/5G-security-challenges-1024x678.jpg"
         width: 1024
         height: 678
-        isCached: true
-  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise with 5G"
-    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
-    publishedDateTime: 2021-08-31T18:26:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 50
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Verizon launches private edge compute platform with Microsoft, as promised"
     excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
@@ -133,15 +101,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
-    excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
-    publishedDateTime: 2021-08-31T18:52:00Z
-    webUrl: "https://channelvisionmag.com/verizon-rolls-out-5g-edge-with-microsoft-azure-stack-edge-platform/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 34
 
 secured: "E3Ic3BYc//bEJCieM5LzMOCnOqs0kPM7SDL3ZrA0eDs83DITcNReaEN1Ves3BzE8YeHlbDxX2dG8/VU62KaEiVaR5wYi/axZ8e+7GUll9ERQ/4C/AhERd8a5o49aoFTRUgJIDtUxJJwEyNNElXB9sapdg77ox7d313pv9EYCDBINWqqlIx1ffY7Uni47VTLgRqTB/dGO4LubF1uyZ1byWmSFt349+FkEJ1F5pnyRWKiXUY/5qfzqXreyF10Yst2VsiTmaIAWBdiLQNeJhoOwg0Z2CmYoAI5bc/vsNykc4selg5DDZ8VYajwB3vzRN3P6XBxoVYkyf98HxuZadrucao1s28Pppf/dQ6AbNWEiLhU=;WRKrxX7Co5VB5JKKf5GlZg=="
 ---

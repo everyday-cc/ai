@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence on September 10"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-05T10:06:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/artificial-intelligence-on-september-10/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 17
 
 secured: "dKNMRIYnK7xQ0WsjXezPFX3UM9MMm5M7pWg/SzRwdQuCLzD7y1Y1/c8y5wo8UZge5ofhWYMx3Vd/rhOk7JQKg172S19/ufKWgjYpfHHLVvl/SJ4iXye0ELTq1H1NyicfAuS+RZeLQGmEMfGWE/8AocBEcCAzEZmTiOc5Xb7mZ9qc/UAMXBGtcExavlyin7nx1+x9V+xpKj3SLnH3HcTa83GM89p2skfhaTCwq0/M/EVqMDlu7Rlh2i7XvwGTR0fUgWeYsBEHC4EVtd80hS6qDBYKwzALMXUgs56SIsxu4K7bbVpiNQ/iq49T2dw3udmyPHYIZPl7Rp6nxFBSUy8JU5ZJKAEwD//P0gN93w6DBZMboBASwRNUEylFOqKNxlW7SDsj6l8KTwoop+kpKVXVD10mpIAomd1n6SmDiqKdMQ2BePWpQq0QPa8QLQnlRTnaYsQD7dPA0UVKRuN8Nx6y8Y25cpU3vgdVaNf8kdYYCfyj/IW7pizhEvuNHCqVoDS5f+yD9ga7SelgobbX0qMvrg==;DGy16qWLU03BaU6vLTDKqg=="
 ---

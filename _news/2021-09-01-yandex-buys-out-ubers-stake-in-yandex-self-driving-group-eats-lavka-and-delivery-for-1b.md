@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yan
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/amp/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 25
     images:
       - url: "https://cdni.rt.com/files/2021.09/xxl/612f730085f54034481a0627.jpg"
-        width: 1240
-        height: 697
-        isCached: true
-  - title: "US tech giant Uber bought out in Russia by homegrown Yandex, handing over keys to self-driving cars & food delivery business"
-    excerpt: "Russia's largest technology company has announced it will buy a series of joint ventures from US ride-sharing and delivery services conglomerate Uber, handing over a billion dollars as part of the deal and sending shares soaring."
-    publishedDateTime: 2021-08-31T17:20:00Z
-    webUrl: "https://www.rt.com/russia/533563-yandex-buys-ventures-uber/"
-    ampWebUrl: "https://www.rt.com/russia/533563-yandex-buys-ventures-uber/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/russia/533563-yandex-buys-ventures-uber/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 17
-    images:
-      - url: "https://cdni.rt.com/files/2021.08/xxl/612e519085f54044fb0668a0.jpg"
         width: 1240
         height: 697
         isCached: true

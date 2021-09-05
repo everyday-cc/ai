@@ -43,20 +43,6 @@ related:
         width: 1008
         height: 630
         isCached: true
-  - title: "Dive deep into Amazon SageMaker Studio Notebooks architecture"
-    excerpt: "Machine learning (ML) is highly iterative and complex in nature, and requires data scientists to explore multiple ways in which a business problem can be solved. Data scientists have to use tools that support interactive experimentation so you can run code, review its outputs, and annotate it, which"
-    publishedDateTime: 2021-08-31T18:45:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/30/2-3172.jpg"
-        width: 800
-        height: 396
-        isCached: true
   - title: "Fine-tune and host Hugging Face BERT models on Amazon SageMaker"
     excerpt: "The last few years have seen the rise of transformer deep learning architectures to build natural language processing (NLP) model families. The adaptations of the transformer architecture in models such as BERT, RoBERTa, T5, GPT-2, and DistilBERT outperform previous NLP models on a wide range of tasks,"
     publishedDateTime: 2021-08-31T19:47:15Z

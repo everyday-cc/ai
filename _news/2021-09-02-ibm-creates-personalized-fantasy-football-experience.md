@@ -9,7 +9,7 @@ ampWebUrl: "https://www.euroweeklynews.com/2021/09/02/ibm-creates-personalized-f
 cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/09/02/ibm-creates-personalized-fantasy-football-experience/amp/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,14 +22,16 @@ topics:
 
 related:
   - title: "IBM Creates Personalized Fantasy Football Experience with Updated Trade Assistant with Watson and Player Insights in ESPN Fantasy App"
-    excerpt: "Trade Assistant with IBM Watson was initially introduced to reduce the complexities of fantasy football trades by using AI to suggest trades and to assess the fairness and value of a proposed trade. Now within the app, fantasy players can personalize their ..."
-    publishedDateTime: 2021-09-02T12:04:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/09/02/ibm-creates-personalized-fantasy-football-experience-with-updated-trade"
+    excerpt: "customized experience powered by IBM Watson artificial intelligence (AI) technology in the ESPN Fantasy App designed to make the game more engaging for fantasy football players. New this year ..."
+    publishedDateTime: 2021-09-02T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/09/n22776985/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22776985"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22776985"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 8
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400

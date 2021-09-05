@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/the-latest-trends-in-artificia
 webUrl: "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml"
 type: article
 quality: 86
-heat: 96
+heat: 97
 published: true
 
 provider:

@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise"
-    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
-    publishedDateTime: 2021-08-31T18:26:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
     excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."
     publishedDateTime: 2021-08-31T22:36:00Z
@@ -88,22 +72,6 @@ related:
       - url: "https://www.channelfutures.com/files/2021/04/5G-security-challenges-1024x678.jpg"
         width: 1024
         height: 678
-        isCached: true
-  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise with 5G"
-    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
-    publishedDateTime: 2021-08-31T18:26:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 50
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Verizon launches private edge compute platform with Microsoft, as promised"
     excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
@@ -133,15 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
-    excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
-    publishedDateTime: 2021-08-31T18:52:00Z
-    webUrl: "https://channelvisionmag.com/verizon-rolls-out-5g-edge-with-microsoft-azure-stack-edge-platform/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 34
 
 secured: "6mLZAH6a36CpfrnlEiQ1tbhGW4+zWSg+sYRv/ySgjmAgdzt4uY3kVVubZXDbBScF2ZhDBBPhIXZDzXF1syq3KxtAb6BH1Ci6XBkenm9kgE4rtT33O2tmy6M4YCTO+VGefmdI3ekP8i5Bzb8Dp5mkTWLBBLjPVCASG/slYrfrIQzqktT0b1lzGPVeffNBtP2VSR8mWpa0614BexFVJ9ImWbAgBrTG8uM9saLYIb3ZCKG35h6EqSR+Q39vIoJ9expSD5Smd+fFUKj0BusEJj3UR1iS2BEd5J4riIKmE8CbHHZoQlj/HFWgrlyR8EqnQ0UcQssFwrmIqaFwTVVDWN7TfnAcCXOSE45yccocCnCHr5XgEprFlgpe2EtbnPXtlxvQIsxjKSkYM2mSOmJ5Y/mpdAKcGBLudaxz5td4qQAa+iWShgk/Nu2HRBrr64mCyQUjS7jOL9+mtYa2Arrk9P1UjGYovwlnJY57XCyjyYV5q3TXpg8oQP3bjsA0Z0NpgLfkSfXBDSC1p3sHxZlKWyfRag==;Kyjy61fX97sRPuE+AhVgTw=="
 ---

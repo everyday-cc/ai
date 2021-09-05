@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling"
 type: article
 quality: 157
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 37
+  - title: "Federal court rules Artificial Intelligence cannot be an ‘inventor’ under US patent law"
+    excerpt: "The US District Court for the Eastern District of Virginia on Wednesday ruled that an artificial intelligence (AI) machine cannot be an inventor under the Patent Act. The action was a motion for"
+    publishedDateTime: 2021-09-05T07:38:00Z
+    webUrl: "https://www.jurist.org/news/2021/09/federal-court-rules-artificial-intelligence-cannot-be-an-inventor-under-us-patent-law/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 29
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/09/Artificial_Intelligence_1630841903.jpg"
+        width: 1280
+        height: 427
+        isCached: true
 
 secured: "HJCbGG39BXGYaF5nezSPODbRAbt0E7uH+zwAq5PTqn0I+j/RKuAlDzIQWr3rNm0Oct+I2F++rFjZfeR8Vn2UNCGawVUWaf9GedJjEstCG/a/BKV37LnMeRDPUluQxmMDevlKGLQ0CoNsN9KrBNlpvQKMpKX9NFGXOTK+OPppCpKXTX8nVTQUjX12sRjo+UNux97SfActeoOP/QOi4fwNsW2oplbPriocSOunXB/xkkuuYApqAgdrTNaZoyZ+7mCFvefx+bnd0IacnP+eTp3RVNXMKfyLeexC0oZDKx6nJBvqzqeePsc3ct+lMRMhQ7hCoq/dhDqOs738EPTtIzc8d8ubxwAEnsRuzEryeU/WI7KINMUx0/e9oZhiL6zdhwLIru2fgxzh/8kUtd3QUKa6muzGQcbZlmsd8bIkQOo1jwLY0MTJPsEDX5LYIbQVPwxq5fbBs8qhnv79H4BPaNMMbT0gd4E9v9bKnRnaL0CVvu0m7tHwvFIpUGUicjKNsp9AvDf/8HKVbRSzdxvUJTuyawCbTDhmmPPV58sEjWTAXts=;H1kiV8kWK6B2hxP+7PFQjA=="
 ---

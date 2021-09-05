@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-annou
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure?amp"
 type: article
 quality: 104
-heat: 184
+heat: 154
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise"
-    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
-    publishedDateTime: 2021-08-31T18:26:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
     excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."
     publishedDateTime: 2021-08-31T22:36:00Z
@@ -92,22 +76,6 @@ related:
       - url: "https://www.channelfutures.com/files/2021/04/5G-security-challenges-1024x678.jpg"
         width: 1024
         height: 678
-        isCached: true
-  - title: "Microsoft and Verizon partner up to improve efficiency in business and enterprise with 5G"
-    excerpt: "Verizon announced a partnership with Microsoft to help businesses and enterprises process data to improve efficiency."
-    publishedDateTime: 2021-08-31T18:26:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-verizon-partner-improve-efficiency-business-and-enterprise-supply-chains?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 50
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Verizon launches private edge compute platform with Microsoft, as promised"
     excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
@@ -137,15 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Verizon Rolls Out 5G Edge with Microsoft Azure Stack Edge Platform"
-    excerpt: "Verizon released its new on-premise, private edge compute solution. The Verizon 5G Edge with Microsoft Azure Stack Edge offers a cloud computing platform for offering compute and storage services at the network edge."
-    publishedDateTime: 2021-08-31T18:52:00Z
-    webUrl: "https://channelvisionmag.com/verizon-rolls-out-5g-edge-with-microsoft-azure-stack-edge-platform/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 34
 
 secured: "L9PACKWPKyzG3kxqdZlpTC3+SDImkGDC9U9hCAP2f3rbuxB5Xu8c5RnOzgkORKcITdOYcEQfDC54crRLXf3KGYpldo0S6qFzY7N4qmInc403eXc/o2UyLjN9FGgnBZyya6+fESawSwL/1M3bhB3pgUWX4SCM2UrvvsmcLh6q8G3Sj1mjiZgmLlW+DfHtsUKWbBmg95z4BF95n7kxndNap5D+sCeuM5qOA6UURkZ8EUP7JZuNaMA9O73XYqoBiNi39Ubuu2IWm1sdrecp2szVRCxBm1AZNJP6t7ZseCkHg4BfgHXi5n6xQEPeVg9OOS5xRIPceZucYuZ4L1qa1tQzxtsNNBsK844t/8vJxprfce4=;KpFu3r1DOpQXqpdJeX8QIw=="
 ---
