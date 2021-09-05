@@ -54,20 +54,6 @@ related:
         width: 280
         height: 250
         isCached: true
-  - title: "Unsupervised artificial intelligence predicts COVID-19 progression, survival rates based on CT scans"
-    excerpt: "Massachusetts General Hospital scientists have helped create an unsupervised artificial intelligence system they say can predict patients’ COVID-19 progression and risk of death based on chest CT images."
-    publishedDateTime: 2021-08-31T07:16:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/unsupervised-artificial-intelligence-covid-19-progression"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 22
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/covid.jpg?h=38c30757&itok=YrVp4qUR"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Researchers use artificial intelligence to predict which COVID-19 patients will need a ventilator to breathe"
     excerpt: "Researchers at Case Western Reserve University have developed an online tool to help medical staff quickly determine which COVID-19 patients will need help breathing with a ventilator."
     publishedDateTime: 2021-09-02T19:55:00Z

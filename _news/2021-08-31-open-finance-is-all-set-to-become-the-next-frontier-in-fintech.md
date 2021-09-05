@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/382675"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382675"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -162,15 +162,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 4
-  - title: "Spice Money Partners with Israel’s Leading Fintech Player Tarya to Launch Community-led Rural Lend-Tech platform"
-    excerpt: "The joint venture will combine their technological expertise leveraging data to bring digital transformation and reshape financial"
-    publishedDateTime: 2021-08-31T08:53:00Z
-    webUrl: "https://www.indianweb2.com/2021/08/spice-money-partners-with-israels.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 0
   - title: "Tampa Bay Wave unveils startups to watch, new fintech focus at latest pitch night"
     excerpt: "X accelerators, the latter of which proved to be so successful the Wave is launching new financial technology-focused programming in th"
     publishedDateTime: 2021-09-02T11:01:00Z

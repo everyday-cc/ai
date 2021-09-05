@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Closing the gap between the promise of AI and its implementation"
-    excerpt: "Despite a growing and compelling body of evidence that AI can significantly boost business performance there's still widespread reluctance to adopt it."
-    publishedDateTime: 2021-08-31T07:28:00Z
-    webUrl: "https://www.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
-    ampWebUrl: "https://amp.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1692825/ibm-quantum-system-one.jpg"
-        width: 2500
-        height: 1734
-        isCached: true
   - title: "JAIC completes draft of AI ethics implementation guidance"
     excerpt: "The Department of Defense’s Joint Artificial Intelligence Center (JAIC) briefed Deputy Secretary of Defense Kathleen Hicks late last month on how it plans to implement the DOD’s AI ethics principles."
     publishedDateTime: 2021-09-03T17:02:00Z

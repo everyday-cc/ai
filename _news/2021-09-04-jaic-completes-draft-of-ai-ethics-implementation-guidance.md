@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Closing the gap between the promise of AI and its implementation"
-    excerpt: "Despite a growing and compelling body of evidence that AI can significantly boost business performance there's still widespread reluctance to adopt it."
-    publishedDateTime: 2021-08-31T07:28:00Z
-    webUrl: "https://www.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
-    ampWebUrl: "https://amp.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/closing-gap-between-promise-ai-its-implementation-1693998"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1692825/ibm-quantum-system-one.jpg"
-        width: 2500
-        height: 1734
-        isCached: true
 
 secured: "sQnLumU5ybNan64fONWVDNk910egHAry2B7osHqLqA4o5bBXOBe4kzFVysoTQJxAMDw/4uWHM0kyfC5XD8kNTyTkCzZOUEt9iV4yB2lzqlEiK05aCAOQpJQrUPXarh38SWSp7QwzMGet4rIh0EWps4PYnmU05D4EnY1kFmTx4LlVSjtUFRVBtDHVRBb5LqyQPM8wklv33cJ+DHlGS6fVT1DBsOqH5ETitEGArTt8methxIq5f1/uwKoLzUdMxQ5eNdWfdd14kTMqA4lfEJ1PZAAzL4X8Le9xWK1zaQhmIdnRAwn45Mxj9x9lHImcJ4S5BCIUtdR/M1yVULcP7cDvpXU4AP0DpOmlXI9gU13Q6lM=;+6J/z0w7rpWIDvos4vOGuA=="
 ---

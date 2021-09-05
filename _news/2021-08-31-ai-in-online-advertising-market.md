@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2374926/ai-in-online-advertising-market-d
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374926/ai-in-online-advertising-market-demand-growth-prospects"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://s3-prod.adage.com/s3fs-public/styles/800x600/public/20210906_AI_Istock_3x2.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Artificial Intelligence in Market Globally Expected to Drive Growth through 2025"
-    excerpt: "A complete research offering of comprehensive analysis of the market share size recent developments and trends can be availed in this latest report by Big Market Research As per the report the Global Artificial Intelligence in Market is anticipated to"
-    publishedDateTime: 2021-08-31T08:34:00Z
-    webUrl: "https://www.openpr.com/news/2374209/artificial-intelligence-in-market-globally-expected-to-drive"
-    ampWebUrl: "https://www.openpr.com/amp/2374209/artificial-intelligence-in-market-globally-expected-to-drive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374209/artificial-intelligence-in-market-globally-expected-to-drive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/U/8/U831119321_g.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "2jpFEVhhQGrXq9glS0x6/9LMKUthmb9lavp4tmNWYe69xjg8r4B5uQs/Nargg2on1xI3Q9SNxcUeMO8Sk1rCB9uT9A7Y6HPmpgGunx+0QyowYZVPPpmlE1swqCxS5r7JyXZiasPF1iWd9h33fOqp7Ihd2iqH4VL0Ydo3Q5fpOlBC6Mw/zheE7HDDBZMHPpFWUBX29ww5cFDcECYKltywiwRnBnuRATVvrbuxolZpLaOFIefbKUEYCW2NyxqrW6icXGQarskYdGdY+jO+N9OzYJHlafECrJy4sP5vaS8sWOjbEokPmobASQXaXa9fow/Vm0jKwb9DdO9etVUBy4EuVo6kF2k+FwfaDQ276fk/5Rw=;RSxhCmF0lypNZYvDdiDheQ=="

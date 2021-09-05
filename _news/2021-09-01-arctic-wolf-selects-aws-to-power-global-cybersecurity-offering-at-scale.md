@@ -39,20 +39,6 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "Reinventing cybersecurity with artificial intelligence"
-    excerpt: "As traditional company barriers broke down, and remote working became the norm, the threat landscape rapidly changed, bringing cybersecurity to centre stage for every digital organisation. To be resilient in this hybrid working paradigm,"
-    publishedDateTime: 2021-08-31T07:05:00Z
-    webUrl: "https://www.technologyrecord.com/Article/reinventing-cybersecurity-with-artificial-intelligence-125555"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 37
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10479/img-The-Record---imagery.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Sequitur Labs Joins AI Day to Address IoT Cybersecurity"
     excerpt: "Sequitur Labs announced today its CEO Phil Attfield will present on Embedded AI Systems and Software at Embedded Computing Design's (News - Alert) online event AI Day,  9, 2021. AI Day features education and thought leadership on compelling AI-related products and technologies for the engineering and design community."
     publishedDateTime: 2021-09-01T12:06:00Z

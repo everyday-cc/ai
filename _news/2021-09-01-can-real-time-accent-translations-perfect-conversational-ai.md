@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 762
         isCached: true
+  - title: "Continuing the Conversation on the Future of Artificial Intelligence"
+    excerpt: "If we believe the hype, artificial intelligence (AI) and data analytics are quite possibly the answer to all our problems. Not just in business, but for"
+    publishedDateTime: 2021-09-01T04:27:00Z
+    webUrl: "https://www.datanami.com/anniversary_channel/continuing-the-conversation-on-the-future-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Speaker-Spotlight-Future-Says-Season-2_3.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "UPPl9XJ/G1R9fofwTHP8DTM2eAKLL+mX+VwlyqHb+or1b7HfqiridbhVVILqWAzfPCZpIaMNFjkz9s6g8axCyjzd+CeGPuyzMz/cgj1ObvZys0YF4KFq+nE6H4i+yOzE4BGsoGWaXb1fWytkLCbcexzJSeS+ENhqMppB81Ve7G0fveeuotimBurjRKbwQ9vnMNVL7votSZxY+tfaHdYkSAfH3P0S5OyCIdnmGTrYkEv19kzYtxbNy576QkjB1nxeP0tKy+H44GPNU0Ov69SQQPwOO2wTIFxtXtfailYmYh9weyBEDiRju22EX+un5SURnXOcv4h84OWXqXuatGZD9Ptd/3s4UwBSaEOsuq46Sc4ynhAY0/hNDxmx9isww8wI0pt62NuZorMTkz18Rd7mVPYHEQWmv78pb7wpNjmggKTM4x/6dpCYFgF8ymFw6VWV8Fbqilsu95S5p95QP7COS0fnCNeAwReMOcrq0dWz3Y2nhuTss0b0Mlur9wIcn99yXMPUhKaloEeqT6Eb6IDJjA==;DzousvQOlrkpdKjHMLKvxg=="
 ---

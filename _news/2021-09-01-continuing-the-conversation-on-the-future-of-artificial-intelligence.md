@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "A spotlight on the EU’s AI legislation – Realizing the full potential of AI"
-    excerpt: "The EU’s proposed AI legislation published in April, sparked debate on the true impact that new AI rules would have on businesses. Overall, it seems to be that the legislation has the potential to benefit society as a whole,"
-    publishedDateTime: 2021-08-31T08:30:00Z
-    webUrl: "https://www.itproportal.com/features/a-spotlight-on-the-eus-ai-legislation-realizing-the-full-potential-of-ai/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/a-spotlight-on-the-eus-ai-legislation-realizing-the-full-potential-of-ai/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/a-spotlight-on-the-eus-ai-legislation-realizing-the-full-potential-of-ai/"
+  - title: "Three ways conversational AI could boost productivity"
+    excerpt: "Tired of distractions around the home office? Need some encouragement from the \"boss\"? Artificial intelligence could one day come to the rescue."
+    publishedDateTime: 2021-09-03T08:24:00Z
+    webUrl: "https://www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.html"
+    ampWebUrl: "https://www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.amp.html"
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 57
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/aPK9JP79EUu5CqWfrQLTZ7-1200-80.jpg"
+      - url: "https://images.idgesg.net/images/article/2020/01/gettyimages-1064982786-100828145-large.jpg?auto=webp"
         width: 1200
-        height: 751
+        height: 762
+        isCached: true
+  - title: "Can real time accent translations perfect conversational AI?"
+    excerpt: "One of the biggest problem with conversational AI is understand and detecting the various accents of a language."
+    publishedDateTime: 2021-08-31T21:15:00Z
+    webUrl: "https://techhq.com/2021/08/can-real-time-accent-translations-perfect-conversational-ai/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 39
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/000_1Q247L-scaled.jpg"
+        width: 2560
+        height: 1731
         isCached: true
 
 secured: "/OmAw9RgCFROwVKVPGTUh8a0SKUxfCAhwzWUCSUOOotYgQjMMAkDboaIMlvG3XTbstX+uJemyfUmZL2kMwD61XEWny71iVuqy+gDSNn9C62HUYOTpqIrFc4AAIXon1FxV9uspYR/+YmRgzDrk+1EdYolN0+lPXtiVvHiOsfw2muok+2BtdFgYjeItLWz+SjU5+YhvBF9SONLbgp6XgoDbgOAlFeGyiJPAa8JHem7wt1Zw+8PaL7yN+i11pEdL+yVh0CSJQ6XwpnnQo8Ad60NfeZ1fFeOk4Qcn3a65Oa2jeqet749nG80FrywYjSl21TCESkKzS3HHWv1vuvNVOA+Y80qnMeiKnVM+vALHND7sAA2scy3POrTMZsohQCvUDxGCfOowJ7gXW4z6ppualhwpHu1QWwGi/XIzlsMr9pDJjT9drEvxKOuS2WUJ5yJ0EZvdJRvj/Amt8twC5l4Js69Q+YQ1etFyEuMipDavna8dTqi9LRyZfkSbgTFlRdYo6VzW0khY+/VbGx2JgP3KE0O1Q==;U+u4SYkIi/RY7vMVD2X0eQ=="

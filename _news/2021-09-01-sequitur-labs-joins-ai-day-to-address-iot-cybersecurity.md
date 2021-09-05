@@ -47,20 +47,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Reinventing cybersecurity with artificial intelligence"
-    excerpt: "As traditional company barriers broke down, and remote working became the norm, the threat landscape rapidly changed, bringing cybersecurity to centre stage for every digital organisation. To be resilient in this hybrid working paradigm,"
-    publishedDateTime: 2021-08-31T07:05:00Z
-    webUrl: "https://www.technologyrecord.com/Article/reinventing-cybersecurity-with-artificial-intelligence-125555"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 37
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10479/img-The-Record---imagery.jpg"
-        width: 940
-        height: 443
-        isCached: true
 
 secured: "7ub22iEs/j5Bw3QDBbrGXzgvAKhE6BU54rqQtoj0IL4HFQD9bWkl4j4ka0XGOC0GQB0yvOL71nb15+b+D2a/BfmCUtxQC0XgOoXerNwb82hRCFnn6Ug30C1jPTQoP56wQPdjtD8Z0IObuaXQ20gsfSeZVu6lARNBb7CsOtRxNYhawrHPMoouAGoWcfECibr7HMeAnCxPsvJ7+PtHwh41hJew0lTzvw9tXCuDTaw3g91b+79XteRKvIN/2xOMvZn/93TrTXlxHDtN0C3BfibtskOgmbAAG8L9V2gkzmQWkBOQ85cRy6r/vjQMKXnfP9CLvc10xB5yWOYkTe3GsuCYq9cy+KshlkUqQxB/5ZZroys=;L+JKkpkep8JbsxMjSSAFQg=="
 ---

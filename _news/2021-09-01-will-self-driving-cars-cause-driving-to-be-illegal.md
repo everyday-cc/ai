@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 946
         isCached: true
-  - title: "Passengers want self-driving cars to be like them"
-    excerpt: "Recent studies have shown that people have negative attitudes about using autonomous systems because they don’t trust them. Moreover, research shows a human-centred approach in autonomy is perceived as more trustworthy by users."
-    publishedDateTime: 2021-08-31T07:12:00Z
-    webUrl: "https://gadget.co.za/passengers-want-self-driving-cars-to-be-like-them/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/08/self-driving-car.jpg?resize=600%2C332&#038;ssl=1"
-        width: 600
-        height: 332
-        isCached: true
 
 secured: "NhwT5E6q0erOvJF0GZ8V3K7xNN0xUjiV0unHv0SgPvfI4lr1YibKbzZtvd3L6vI7nbEwwY56R1zVIDHWla6zg3YUHO4D37hZY9rsigm+IieMfpyNq5cDtC3ohdan3Exdx/2H8C//+4O9Kk0C8GfJb6EWM8ZW+QUoFDQdhq0DFB08Rv+mamlJbJXOGfuVLsqNSZLt/6Mg5u+vSiwBuHG0JVuefidoSgNU0rdIHKMtwePbQau+nzDp08Qhmx9sWnzE0WekNV3j/WTlmI7443Rip8GfkIxvYiwY60NJKm4Pp8HC7km4/UyD7Anz7pkJ3k/xwGTRTnv0aYJ6NCJxdBvp7jC9NWP/X4stGBMUB7pGfOg=;263gniLUelLd9lmInpbuaQ=="
 ---

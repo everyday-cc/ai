@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2375485/facial-recognition-market-growth-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U831591626_g.jpg"
         width: 800
         height: 459
-        isCached: true
-  - title: "Global Harvesting Robot Market is Forecasted to Grow at a CAGR of 19.9% During the Forecast Period 2017-2027 - ResearchAndMarkets.com"
-    excerpt: "By Harvesting Type (Fruit, Vegetable, Grain, Others), By Application (Outdoor, Greenhouse), By Region, Estimation & Forecast, 2017 - 2027” report has been added to ResearchAndMarkets.com’s offering. The global harvesting robot market held a market value of USD 512."
-    publishedDateTime: 2021-08-31T08:48:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-44659cc39bc347bb95c2977d50153fc1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Self-Guided Vehicles Market 2021 Global Growth Opportunities, Key Driving Factors, Market Scenario and Forecast to 2027"
     excerpt: "The Global Self Guided Vehicles Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with a"
