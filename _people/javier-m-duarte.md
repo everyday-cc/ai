@@ -15,7 +15,7 @@ website: https://t.co/Z06UY9gVRv
 twitter:
   username: jmgduarte
   url: https://twitter.com/jmgduarte
-  followers: 315
+  followers: 314
 
 googleScholar:
   url: https://scholar.google.com/citations?user=GTtW9H0AAAAJ
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Javier M. Duarte"
 
-secured: "y265W85z83aHiM98A09MUC4/LuerTMsRy9XpPekdoAChWUibckPGnhub6GAW77xtOjKkIxYYR2jtSI0USM0uCHIEn0+Gos5gtWieO8t8r+AFLxtkAvgFDzNkI0ucW3honGLlnQhcmTwICQQOvo04z503iRwWgLXv5vmYxWrLUQNEiZx0PqToMDYTc3G4PedYqxVeYbYQuCxMGrVfbcfHf21d8USntCOYEn69H4yL3rKmFcSNs8RoKbK/MYcnxIFLyaC9Ovfj8DgVNb7fEyArlfrVFSZSPpAiopxMkSFTm6BnaAF8PRFgBIxkg4yKZFN5mXL9UiMrqteg6oSI07U/9Su5HUz7xjJ7b8zFr1PL0+z7G70wnfj9bylu5rJK6P7Eu76kehPad2diOIKJgWio1jLOWflPm7gLgjymilGXZQw=;aY/xgXM7WWSD0h111YdYoQ=="
+secured: "sTusYYNAsm14mLE/LJF2yHcBM+gkWk0m9aY7xc3sPDwsf88iLvzhcZ3pNUBWChNPigUpXo4ux6CDhH7F/BXfk9KtF1l8l0S9AZAF7Uq3MTzhKGN3tg9Tzm/zkF86dV/4ynzVS54ayZy7L1d0D0frF1Edx8zxtJQvPWUzJmA1+zoET6tlbKbmQAPYXMuzUW/GB+sXxaefqGXJk68bsdzd1R/POBL8HQAwisIoQOTRGws73utckX9SB0i70yvJdJWgGe+ylQpuqxcbEHTrha88Po+iunMXLqkZ1qrf/dGZR3GSDM6pKT+7Tw/nmNiEaCzYpvXBj0nXfyh9CATpU+HtGa/crjzjaSBKjOb5bcnFvo9CbHo/xx4FUXd0AUXo8ulMPmyGsiBUf3VfzHF9DG6F/89OnGJhXPLPPInfxldyyFc=;ivqQQbqj2ZqC0EZchjhm5Q=="
 ---
 
