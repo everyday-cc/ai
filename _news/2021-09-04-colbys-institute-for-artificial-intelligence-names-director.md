@@ -39,20 +39,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Colby College hires director for artificial intelligence institute"
-    excerpt: "Amanda Stent, a nationally known expert on artificial intelligence and human language, will serve as the new director of the Davis Institute for Artificial Intelligence."
-    publishedDateTime: 2021-08-31T23:37:00Z
-    webUrl: "https://www.pressherald.com/2021/08/31/colby-college-hires-director-for-artificial-intelligence-institute/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/08/Amanda-Stent.jpg"
-        width: 750
-        height: 1000
-        isCached: true
 
 secured: "3QhMWzjjXTe8KcUsnEOEll+chrsZkGLvjFjcgZXLH4ljm/JBG+X97vJLGtl38TjfoXFdjgMmqmThxcG10qQJ8FzcRAH79YDer+68pt8umQIG1Xd7dBRX9TORkxio/ti6rcLa+LxtDTEUOnFxjlnVtrfnM4qtE4KRT7mc7KM35afA26iSIgOZG0bd4gsl7NZjit90yMurfZeZgGI1cVyRDhcMZABVesou4IZ/tNlPY0UH0DZHz9yxA7HrI/8/+NADVkLxWsO85OVV1PElwRFw6t1XTGNRzGggG+YK6zqh1PR8jA78o471+bN/zYyyJTV8Q0Qiw9S2qfA5/0+GOMgCIBmTKJz6gUM+WJFfQd+VJZU=;mo8GqMloDYOGq0TuHzHLPg=="
 ---

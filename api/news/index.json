@@ -228,48 +228,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-05-colbys-institute-for-artificial-intelligence-names-director.md",
-      "title": "Colby's Institute for Artificial Intelligence names director",
-      "excerpt": "The nation’s first small liberal arts college to create an institute devoted to artificial intelligence now has a director. Amanda Stent will lead the newly formed Davis Institute for Artificial Intelligence at Colby College.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscentermaine.com/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531",
-      "originalUrl": "https://www.newscentermaine.com/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newscentermaine.com/assets/NCM/images/a168e324-f5af-498b-9a52-32f5027aa2dd/a168e324-f5af-498b-9a52-32f5027aa2dd_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscentermaine.com/amp/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531",
-      "cdnAmpWebUrl": "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531",
-      "publishedDateTime": "2021-09-04T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newscentermaine.com",
-        "domain": "newscentermaine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-04-ai-weekly-an-outline-for-government-regulation-of-ai.md",
       "title": "AI Weekly: An outline for government regulation of AI",
       "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Governments face a range of policy challenges around AI technologies, many of which are exacerbated by the fact that they lack sufficiently detailed information.",
@@ -847,7 +805,7 @@
       "originalUrl": "https://www.msn.com/en-us/money/companies/space-infrastructure-company-redwire-begins-trading-after-closing-spac-deal/ar-AAO4eYf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1189,6 +1147,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-stow-group-acquires-german-startup-raiser-robotics.md",
+      "title": "stow Group acquires German startup Raiser Robotics",
+      "excerpt": "Group acquired a majority stake in Raiser Robotics, a German-startup that has developed and automated storage and retrieval system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/stow-grou-acquires-german-startup-raiser-robotics/",
+      "originalUrl": "https://www.therobotreport.com/stow-grou-acquires-german-startup-raiser-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/DSC_82303.jpg",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

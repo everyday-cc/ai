@@ -7,7 +7,7 @@ originalUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-le
 webUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-lead-in-ai-chips-and-is-working-to-stay-there/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 550
     height: 309
     isCached: true
-
-related:
-  - title: "NVIDIA's RAD-TTS generates realistic AI voices that are more expressive"
-    excerpt: "As far as synthesized voices and text-to-speech has come, it's still not perfect. However, Nvidia's text-to-speech research department has developed some machine-learning tools for making voice"
-    publishedDateTime: 2021-09-01T00:11:00Z
-    webUrl: "https://www.techspot.com/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-31-image-44.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "N/E0InvUs3t1fHv8gW3S6TFcH4U/7fhkCyF5OJ/lSgQTThhA8M3inGMy8uHDj7GwkWtclv/mh8IshI0j/Mqc7+b+HGWTE39SboZHgexF5KoP/hKHQnVoxwF/XylaEbjsGG0xHRaUQZIUUrwDqsYVzg+kfeYLDbDNkKZH81Dmmsn/ZkPA9d3/MyL7jqxHoIjSyks9oa8vRczV7deauGV/8TL4F+IBllITW/t4z6l4QeHnH6Rw3C+0+JAawmjqCq8xDFxfm4J57gx6Af/cwXYdSJ/8LFcrNkVPleM9DgqnZYeu/wz+WFi5OB3mm4q44AWZMCIFhpF3dYhfxzCoBXFhaT4NS1X0zRLkw5brHQsdvfyRxl47XdqeL8UplvF0IYHH4q6mWbXlyBM08tj1kIZHY+0OFsTPpY1lJ9vPkwwUgoLxQMcXqRtUBzT3ySUhbY/wLmJHd1X761gfBmRywZ43hmiW3eZxqDoAKEdif9cAflif3WHNSwnlmWYApehUdSi8578BtMa1EpEwd0x09wp0IA==;280ZNS4R0ugLp5+MDlzLKQ=="
 ---

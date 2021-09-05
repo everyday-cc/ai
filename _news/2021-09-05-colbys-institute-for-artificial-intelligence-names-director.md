@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscentermaine.com/amp/article/news/education/colbys-in
 cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: newscentermaine.com
@@ -35,20 +35,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Colby College hires director for artificial intelligence institute"
-    excerpt: "Amanda Stent, a nationally known expert on artificial intelligence and human language, will serve as the new director of the Davis Institute for Artificial Intelligence."
-    publishedDateTime: 2021-08-31T23:37:00Z
-    webUrl: "https://www.pressherald.com/2021/08/31/colby-college-hires-director-for-artificial-intelligence-institute/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/08/Amanda-Stent.jpg"
-        width: 750
-        height: 1000
-        isCached: true
 
 secured: "nu11sSHLQXjMcgV7UtZrdt+Fm5m/5LSROolEonT199QbXY5cvBC46Nne3fhaw1DLz3RETsKERu3j/26l9j9Zbft19Eof+PJMyjatmhLr8q4D4sfVVZ2rvou6fcoXq1k5ZZ0gBedyTs0jgYPYWbppmbekPT6yXxv35mjbpWUvYHIwiCf+17Xw8AWis4qRBAhQoHSrHAfSPI87sXK5R+xARgWz93fbqknxjVxeH2D50sIrDEu0TYWGYBimPffCUeWk+stJGnpxKs9xpXwF2wUu+cAibHZeQLFvKsV4Dnf8qyHPjgYUWWyQZa6ip0k29EfX9Hr+gsoH5xa9lBrMZZucnXNxUf9RYpBrS3zKBaJvyy+ykGP+1sVG3bzl/pMF3WwxZ0qePCoqIk+HNlGqGbpUrYfbW1pyc5NR/+XHzOlfJfQkzVzJQ81uWUeYNRWD0/bfs6+SmISS1taGlfVQFqqyCgAPzcCTZlxmnufz3hk2A29xY9UWtDhFSU8ioOeKjUFqYgPTeQyrOoSZu22RnY2jtw==;TXV2wuaNfQAwrP8IuDcAfg=="
 ---
