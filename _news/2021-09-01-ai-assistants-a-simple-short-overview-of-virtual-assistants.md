@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a-simple--short-overview-of-virtual-assistants/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How we can create opportunities with AI assistant"
-    excerpt: "Newly launched products are overhyped because of their rising popularity all over the world. One of the premier discoveries we have today is the AI program. It is very intriguing since it can think, learn, and perform tasks that generally only humans can do."
-    publishedDateTime: 2021-08-31T22:41:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/31/how-we-can-create-opportunities-with-ai-assistant/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 19
   - title: "This ex-Googler has launched a new startup to employ AI assistants at small businesses"
     excerpt: "Early-stage Cupertino startup Goodcall, creator of a cloud-based “conversational” AI assistant to man the phones for restaurants and retailers, opened for business Wednesday with $4 million in seed funding."
     publishedDateTime: 2021-09-01T21:18:00Z

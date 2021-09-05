@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 762
         isCached: true
-  - title: "Can real time accent translations perfect conversational AI?"
-    excerpt: "One of the biggest problem with conversational AI is understand and detecting the various accents of a language."
-    publishedDateTime: 2021-08-31T21:15:00Z
-    webUrl: "https://techhq.com/2021/08/can-real-time-accent-translations-perfect-conversational-ai/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 39
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/000_1Q247L-scaled.jpg"
-        width: 2560
-        height: 1731
-        isCached: true
 
 secured: "/OmAw9RgCFROwVKVPGTUh8a0SKUxfCAhwzWUCSUOOotYgQjMMAkDboaIMlvG3XTbstX+uJemyfUmZL2kMwD61XEWny71iVuqy+gDSNn9C62HUYOTpqIrFc4AAIXon1FxV9uspYR/+YmRgzDrk+1EdYolN0+lPXtiVvHiOsfw2muok+2BtdFgYjeItLWz+SjU5+YhvBF9SONLbgp6XgoDbgOAlFeGyiJPAa8JHem7wt1Zw+8PaL7yN+i11pEdL+yVh0CSJQ6XwpnnQo8Ad60NfeZ1fFeOk4Qcn3a65Oa2jeqet749nG80FrywYjSl21TCESkKzS3HHWv1vuvNVOA+Y80qnMeiKnVM+vALHND7sAA2scy3POrTMZsohQCvUDxGCfOowJ7gXW4z6ppualhwpHu1QWwGi/XIzlsMr9pDJjT9drEvxKOuS2WUJ5yJ0EZvdJRvj/Amt8twC5l4Js69Q+YQ1etFyEuMipDavna8dTqi9LRyZfkSbgTFlRdYo6VzW0khY+/VbGx2JgP3KE0O1Q==;U+u4SYkIi/RY7vMVD2X0eQ=="
 ---

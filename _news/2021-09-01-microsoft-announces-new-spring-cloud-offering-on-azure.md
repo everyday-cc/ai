@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-annou
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure?amp"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/verizon-5G-MEC-trial-footage.png"
         width: 650
         height: 400
-        isCached: true
-  - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
-    excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."
-    publishedDateTime: 2021-08-31T22:36:00Z
-    webUrl: "https://www.channelfutures.com/mobility-wireless/verizon-microsoft-officially-make-private-edge-compute-solution-available"
-    type: article
-    provider:
-      name: channelfutures
-      domain: channelfutures.com
-    quality: 52
-    images:
-      - url: "https://www.channelfutures.com/files/2021/04/5G-security-challenges-1024x678.jpg"
-        width: 1024
-        height: 678
         isCached: true
   - title: "Verizon launches private edge compute platform with Microsoft, as promised"
     excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."

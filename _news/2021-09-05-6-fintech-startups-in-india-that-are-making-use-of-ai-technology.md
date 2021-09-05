@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence-Stocks.png"
         width: 900
         height: 500
-        isCached: true
-  - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-08-31T21:57:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/open-finance-is-all-set-to-become-the-next-frontier-in-fintech/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/6f0b9837f87a6b9370971ed25b30abad.png"
-        width: 759
-        height: 675
         isCached: true
   - title: "10 Indian AI Startups To Watch in 2021"
     excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
@@ -210,6 +196,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "8+DwvkX6I2UbqxUhO6aUqRA3EwfykJ3gKqtR9P5dK5ZW+BSIUMgjv400+r8JvnxKjVIa5Ara8i0tXgrGGp5LCeo9VgrgJrBjr9a3kJXqvnlIdqpY09/Zg0XytPzCAEEtJDDfZNPJRS6c24ss440oEtxN1PtzHb4rsgY+OkVOMoD6/angdZYoPr9uc7TjvQTe7WPZVRksJ6a+NjV1KH9BNoCWJKOQRMl8W1vcTBnASHFYWlsnPdkUCD9zNvuMt5JmCrlMS0hUkM5EqfmW5gkvdd0g6UEUUACxpGqbbyyPNN//x3xO5KEKykFuSOvZ7V9TtpCrG/EFwVNBX/AQatzsjHtL4sxCHWkGHsImSVDnTn8=;H6p8aK94hn6w7zqzd9QMsw=="
+secured: "B34RPM1No9IixYmvPnigSQ7MYXpMLNDGXUT1qhqhENLDA/OwETRh0m6+4Wji57bO02ST85Mc4n6tjpwJMd8LGmYbqE0vJbjf4b1dc2IMVfUyCqK6fXwBBJx6WVmLkUHWhONS40wwpFGN2LiXxOAR04Ahm4/yJt9adOCV82NqoYFTz3694SHRiydWnh4nTPJr1gG/ZDbp6nc4FtIYiKeltyYiKvu39Juiz0/muHRifI9mEThP+uA31HwygzIwg5MUkYWs0W7SDHvFaVxs6bTrxIRy0WUoayA1lgtC8jmvxKstjFogxY9XTBrpx5SmG4fn5w9EDp38o0z7YSQ+TQp1LtxYtaccuB5CzBmAt1gaSEPLTLpRbg3Z1vikU0GCJWGipij+dLzGMB59zOHKNtQobo8aHNZ9kjmUkV3JNJk4cbFR5Buurf1/msH9p98M0DvHqFTdCCo9ZJQoQ7Ef00n/i+P8sse6f7eWqeoPiLlMWJWYGH4wjjvjCn7ksGrTJUfjSUfLpC9TjXW78+MzBpLlAg==;d8LpNLdvSl96fZsdWBBnIg=="
 ---
 

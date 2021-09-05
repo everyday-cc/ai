@@ -1,18 +1,20 @@
 ---
 category: news
 title: "IBM Creates Personalized Fantasy Football Experience with Updated Trade Assistant with Watson and Player Insights in ESPN Fantasy App"
-excerpt: "Trade Assistant with IBM Watson was initially introduced to reduce the complexities of fantasy football trades by using AI to suggest trades and to assess the fairness and value of a proposed trade. Now within the app, fantasy players can personalize their ..."
-publishedDateTime: 2021-09-02T12:04:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/09/02/ibm-creates-personalized-fantasy-football-experience-with-updated-trade"
-webUrl: "https://stockhouse.com/news/press-releases/2021/09/02/ibm-creates-personalized-fantasy-football-experience-with-updated-trade"
+excerpt: "customized experience powered by IBM Watson artificial intelligence (AI) technology in the ESPN Fantasy App designed to make the game more engaging for fantasy football players. New this year ..."
+publishedDateTime: 2021-09-02T13:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/n22776985/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/n22776985/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-"
+ampWebUrl: "https://www.benzinga.com/amp/content/22776985"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22776985"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
@@ -48,6 +50,6 @@ related:
       domain: euroweeklynews.com
     quality: 24
 
-secured: "LDO58C2Girbwuy1yLVbb1PN+KWeafPEcseNZ/J8sA/AX0IeVwE/TwQk14ktQOoJAi0+UZLq9AvwHjcSaA1kzsaMjx84drtvuNWIvxxFFvs9Bv7gMgcuVIvPDqc1vqeIACplrypYCsRSv5M1a8Ht8nkMbKL9xoj+hKhyiwykEl8gy371cvbxEG21qz30/zt8epi74ibtqQ7AZVV1q6XjwlrMsgj1XsyBmnix8qQKKRWol2cGW1t2KlTbeanRGBw+4bA4V4bEJh9rOTqieRnWZNPJEdO0lXliacF0YsH3KFVupsY+IGUAILQdOJUFqi6akqEAcy3QZ5pZg3jqLEvqqn7LR1qDGPWLEU65JGsmkzaQ=;xhrmRkR1xglZx9qxuaCP4w=="
+secured: "VLL7KMa6xEj1nfWXV10T2lQx+i/siC7BjdgyN7a0tLhRZ7kjaHutk+VxbK5YjY7ZDDLROBTZGsHsqiZMROZhyCR9CJCTWlbZbHmkWtPFZ88fibB0Fgw81UwbaLpWuXpsNFZgXvB/1OS2TC5O7TXnIGKusnSiKNa04JkD+QPAc+mIMZeTWe1NH0CO93INW5z1vqqurKu41IyVbqOeLyq1Sc0Ar/CbCpJVUURdtYhtjsgC0osnAuuAUQNKSp8lmlvK21j4avq1akY0lJhkMkLIlPVvVuuJaCNqm9EcJR/sVLE72XMsGygJW+ptLO85vtb7QHJ2pAPKrlve0LQzswFpuWPp1mtOCKUrOZFkbpdCq0k=;tyU8B3E+uL5Nf/IQ0BCgyQ=="
 ---
 

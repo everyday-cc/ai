@@ -112,20 +112,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-08-31T21:57:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/open-finance-is-all-set-to-become-the-next-frontier-in-fintech/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/6f0b9837f87a6b9370971ed25b30abad.png"
-        width: 759
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence Technology Advances Heart Imaging"
     excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
     publishedDateTime: 2021-09-02T17:00:00Z

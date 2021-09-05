@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3632137/three-ways-conversatio
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.amp.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Computerworld
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can real time accent translations perfect conversational AI?"
-    excerpt: "One of the biggest problem with conversational AI is understand and detecting the various accents of a language."
-    publishedDateTime: 2021-08-31T21:15:00Z
-    webUrl: "https://techhq.com/2021/08/can-real-time-accent-translations-perfect-conversational-ai/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 39
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/000_1Q247L-scaled.jpg"
-        width: 2560
-        height: 1731
-        isCached: true
   - title: "Continuing the Conversation on the Future of Artificial Intelligence"
     excerpt: "If we believe the hype, artificial intelligence (AI) and data analytics are quite possibly the answer to all our problems. Not just in business, but for"
     publishedDateTime: 2021-09-01T04:27:00Z

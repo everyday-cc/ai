@@ -73,20 +73,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Verizon, Microsoft Officially Make Private Edge Compute Solution Available"
-    excerpt: "Verizon and Microsoft expanded their partnership around 5G-powered edge computing to launch an on-premise private solution."
-    publishedDateTime: 2021-08-31T22:36:00Z
-    webUrl: "https://www.channelfutures.com/mobility-wireless/verizon-microsoft-officially-make-private-edge-compute-solution-available"
-    type: article
-    provider:
-      name: channelfutures
-      domain: channelfutures.com
-    quality: 52
-    images:
-      - url: "https://www.channelfutures.com/files/2021/04/5G-security-challenges-1024x678.jpg"
-        width: 1024
-        height: 678
-        isCached: true
   - title: "CubicFarms collaborates with Microsoft on cloud services for indoor farming tech"
     excerpt: "CubicFarm Systems Corp., an agtech company, announced that it has selected Microsoft’s technology to launch the next generation of indoor farming technologies for fresh food and"
     publishedDateTime: 2021-09-01T12:43:00Z
