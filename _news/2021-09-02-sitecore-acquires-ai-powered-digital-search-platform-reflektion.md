@@ -38,15 +38,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Gesa Credit Union Goes Live with Scienaptic’s AI-Powered Credit Decisioning Platform"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI today announced that Gesa Credit Union has completed implementation and is"
-    publishedDateTime: 2021-08-31T15:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210831005082/en/Gesa-Credit-Union-Goes-Live-with-Scienaptic’s-AI-Powered-Credit-Decisioning-Platform"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 10
 
 secured: "SROG2+lYyI/qJfdfVrbJ+WT5UWZZSfwLiUx56vuzA+41tUw92c18ZoSY5YeyP2q8UjUebatu1EIAhRXU00tDZtjBXKVfxtktEd+106ADoqTmnMIKGecCTB7/++f9Dj1J13+sr7HW1cQRKVN8grzSTz4ohk5z2lcMTKo0vajPOanFJIb8WSbNgdTdOF50wxVxiOxSaCpySM98IzfrezxOA/PkIhxmjJyvzZMWl/qT1AeXaAtsmf6SSWc2Dmp2UgDmYK7PEbdvaRa7/L7KDbFRokJB088EYRl9hoemRLHwzlM57QuiIte7go7VfcQJtkLo4CbfqxM72+XYUdafHO9BB1P4wcFkYpmrsb9BvA7RFp8=;DmK+oYFeuXw4eASFVaqJug=="
 ---

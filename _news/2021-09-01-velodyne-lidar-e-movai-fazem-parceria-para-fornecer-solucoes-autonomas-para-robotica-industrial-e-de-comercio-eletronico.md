@@ -24,24 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Velodyne Lidar and MOV.AI Partner to Provide Autonomous Solutions for Industrial and E-Commerce Robotics"
-    excerpt: "Velodyne Lidar and MOV.AI are collaborating to provide robot manufacturers with enterprise-grade automation solutions, including mapping, navigation, obstacle avoidance and risk avoidance."
-    publishedDateTime: 2021-08-31T14:14:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=17402"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
-  - title: "How robots are changing the construction industry — For the better"
-    excerpt: "A forward-thinking wave of general contractors is working to find unique ways to fill the talent gap in the construction industry, and they're investing heavily in tech practices through innovations in robotics and smart software solutions."
-    publishedDateTime: 2021-09-01T04:00:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2021/09/01/how-robots-are-changing-the-construction-industry.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Velodyne Lidar y MOV.AI se asocian para ofrecer soluciones autónomas de robótica industrial y de comercio electrónico"
     excerpt: "Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) y MOV.AI anunciaron hoy que las empresas están colaborando para ofrecer a los fabricantes de robots soluciones de automatización de nivel empresarial, que incluyen mapeo,"
     publishedDateTime: 2021-09-01T01:41:00Z
@@ -55,20 +37,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/16/b162197c-0a61-5862-ac12-44c523cde853/612edb4fbd4a0.image.jpg?resize=1200%2C586"
         width: 1200
         height: 586
-        isCached: true
-  - title: "Kanverse.ai Launches Fluorite Release of its AI-Powered IDP Product for Insurance, Strengthens AP Invoice Automation Offering"
-    excerpt: "Kanverse, a hyper-automation company, has announced the global launch of the Fluorite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprises. Kanverse IDP combines multiple AI technologies with Optical Character Recognition (OCR) and Automation to provide an end-to-end product that digitizes enterprise document processing from ingestion,"
-    publishedDateTime: 2021-08-31T14:38:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-379de5760ba7425f8a7d79a12d05b332"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Velodyne Lidar et MOV.AI s’associent pour fournir des solutions autonomes au secteur de la robotique industrielle et du commerce électronique"
     excerpt: "Velodyne Lidar, Inc. (Nasdaq : VLDR, VLDRW) et MOV.AI ont annoncé aujourd’hui que les deux entreprises collaboraient pour fournir aux fabricants de robots des solutions d’automatisation de classe entreprise,"

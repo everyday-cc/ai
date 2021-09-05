@@ -53,20 +53,6 @@ related:
         width: 780
         height: 469
         isCached: true
-  - title: "Databricks Raises $1.6 Billion Series H at $38 Billion Valuation"
-    excerpt: "Databricks, a San Francisco, CA-based Data and AI company, raised $1.6 Billion in Series H funding. The round, which brought valuation to $38 billion post-money and total funding to almost $3.6 billion,"
-    publishedDateTime: 2021-08-31T14:47:00Z
-    webUrl: "https://www.finsmes.com/2021/08/databricks-raises-1-6-billion-series-h-at-38-billion-valuation.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/databricks.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "CAG urges for greater use of data analytics, Artificial Intelligence"
     excerpt: "Comptroller and Auditor General of India G.C. Murmu on Thursday urged the auditors to make far greater use of data analytics, Artificial Intelligence and Machine Learning for optimizing efficient use of their own scarce resources."
     publishedDateTime: 2021-09-02T12:28:00Z

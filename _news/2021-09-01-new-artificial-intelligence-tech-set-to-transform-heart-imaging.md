@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-Hi-Tech-Companies-Helping-Non-Tech-Companies-With-AI-Applications.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "New artificial intelligence tech set to transform heart imaging"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
-    publishedDateTime: 2021-08-31T13:46:00Z
-    webUrl: "https://www.miragenews.com/new-artificial-intelligence-tech-set-to-623195/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1348&q=80"
-        width: 1348
-        height: 901
         isCached: true
   - title: "New AI Allows Physicians to Obtain Better Images of the Heart"
     excerpt: "Researchers from University of Virginia Health System have developed an artificial intelligence technology for heart imaging – dubbed the Virtual Native Enhancement (VNE). The researchers said the AI technology could improve care for patients allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."

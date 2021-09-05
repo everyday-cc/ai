@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-rea
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: TechSpot
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA’s latest tech makes AI voices more expressive and realistic"
-    excerpt: "The voices on Amazon's Alexa, Google Assistant and others still lack the rhythms and intonation that make speech human. NVIDIA has unveiled new tools that can capture those natural speech qualities."
-    publishedDateTime: 2021-08-31T13:10:00Z
-    webUrl: "https://techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/"
-    ampWebUrl: "https://techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/nvidias-latest-tech-makes-ai-voices-more-expressive-and-realistic/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/Rafael_002.jpg?w=1024"
-        width: 1024
-        height: 544
-        isCached: true
   - title: "Nvidia AI Speech With Complex Rhythm and Tone"
     excerpt: "Human speech has musicality. Everyone may not talk like Martin Luther King Junior or rap like people in the play Hamilton, but there is rhythm and tone."
     publishedDateTime: 2021-08-31T20:47:00Z
@@ -76,36 +60,6 @@ related:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3GPUchip-2.jpeg"
         width: 550
         height: 309
-        isCached: true
-  - title: "NVIDIA shares expressive speech synthesis research at Interspeech"
-    excerpt: "Developers and creators can access state-of-the-art conversational AI models for expressive speech synthesis to generate voices for characters, virtual assistants and personalized avatars."
-    publishedDateTime: 2021-08-31T14:58:00Z
-    webUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/"
-    ampWebUrl: "https://www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-shares-expressive-speech-synthesis-research-interspeech/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/Data-for-AI.jpg"
-        width: 850
-        height: 400
-        isCached: true
-  - title: "Nvidia projects are helping AI find its human-like voice"
-    excerpt: "Nvidia is presenting multiple speech technology efforts at Interspeech this week, including one to help create more human-sounding AI voices."
-    publishedDateTime: 2021-08-31T14:23:00Z
-    webUrl: "https://www.fierceelectronics.com/electronics/nvidia-helping-ai-find-its-human-like-voice"
-    type: article
-    provider:
-      name: fierceelectronics
-      domain: fierceelectronics.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/fierceelectronics/1630421287/Interspeech%20Press%20Graphic.jpg?hpuWXoyncP1AHsu8QCYo2fGwPxvfXhII"
-        width: 1999
-        height: 1024
         isCached: true
   - title: "NVIDIA’s latest tech makes AI voices more expressive and realistic"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hongkiat.com/blog/ai-in-iot/amp/"
 cdnAmpWebUrl: "https://www-hongkiat-com.cdn.ampproject.org/c/s/www.hongkiat.com/blog/ai-in-iot/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Hongkiat
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of AI in Talent Acquisition – and a Look at What’s Next"
-    excerpt: "We’re reaching artificial intelligence's day of reckoning. As organizations adopt and employ, they seek greater functional AI in talent acquisition."
-    publishedDateTime: 2021-08-31T14:00:00Z
-    webUrl: "https://recruitingdaily.com/the-rise-of-ai-in-talent-acquisition-and-a-look-at-whats-next/"
-    type: article
-    provider:
-      name: Recruiting News and Views @ RecruitingDaily
-      domain: recruitingdaily.com
-    quality: 39
-    images:
-      - url: "https://recruitingdaily.com/wp-content/uploads/sites/6/2021/08/8.30-RD-Article-Featured-Image-Template-1.jpg"
-        width: 800
-        height: 510
-        isCached: true
   - title: "Sigfox and Coral join forces to spark IoT innovation with AI at the edge"
     excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
     publishedDateTime: 2021-09-02T12:27:00Z

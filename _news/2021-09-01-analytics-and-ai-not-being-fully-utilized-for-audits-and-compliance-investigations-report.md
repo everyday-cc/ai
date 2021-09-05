@@ -23,22 +23,6 @@ images:
     height: 667
     isCached: true
 
-related:
-  - title: "Independent survey highlights need for advanced analytics and machine learning to accelerate investigations"
-    excerpt: "OpenText™ (NASDAQ: OTEX), (TSX: OTEX), today announced findings from a recent independent survey from Compliance Week, sponsored by OpenText. The results show the importance of both advanced technology and dedicated teams that can quickly deliver data insights to reduce time and cost and result in better outcomes."
-    publishedDateTime: 2021-08-31T13:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-independent-survey-highlights-need-advanced-analytics-machine-learning-/2021/08/31/9440063.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "mXnxagOTXks9BbhupTM8tVoCtQkI9IovbFB9tk9ODzNSBrgjgxEJ9hVMalV/DS0qdHUI+XZhihufwKMpRJjCEzgKQlsVAMgO+4ZZjNvAVj7huz4xGdHoappml3fF++IVPRKh9yVDsiexIJ4ThOTjwynE6T+ZZF2lHISg0eSWvJaa//ay3XFtDSyTOpYjfTXh8wU43mvofKqqjccAwWlJxdXgt1Ix/SdjJ/iAnr4nZulxIGLaEe319V860n1zhZcgbqbsl6k7sqmYM5uSIirmj61/28m7tLUklRUIT5XzXk+iOi24nhDGM5Z8+HedHNUarTZ79kls0haMb6IC17ziRThldHLe93b805TcAODi/tbKSyyaSzJoTXefdmY+s/pmKohVY1Pe7sYogTBwzjPwMvqi53IFSiFc+b2Oyv10upI5Akldn7T1t9x1ebOGpLDGsYNipRxdfLjwDAk/UVDH4LiaW6S1emoWmyubCewEqKjrWnkkM3hAshALYnecccN8tJszcEc2PGYmsxCUPTJlbQ==;/4J4iSyDK0fum70vpOhJsw=="
 ---
 

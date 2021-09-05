@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainbrain.com/articles/33691-zebra-technologies
 webUrl: "https://www.supplychainbrain.com/articles/33691-zebra-technologies-to-acquire-antuitai"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,17 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Zebra's (ZBRA) antuit.ai Buyout to Boost Retail Software Portfolio"
-    excerpt: "Zebra will leverage antuit.ai’s expertise in the demand forecasting space and combine it with its SaaS portfolio to offer an advanced analytics, AI and automation solution to its customers. This will aid them in effective planning and executing business operations with better insights into the supply chain,"
-    publishedDateTime: 2021-08-31T13:14:00Z
-    webUrl: "https://www.nasdaq.com/articles/zebras-zbra-antuit.ai-buyout-to-boost-retail-software-portfolio-2021-08-31"
-    ampWebUrl: "https://www.nasdaq.com/articles/zebras-zbra-antuit.ai-buyout-to-boost-retail-software-portfolio-2021-08-31?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebras-zbra-antuit.ai-buyout-to-boost-retail-software-portfolio-2021-08-31?amp"
+  - title: "Nautilus To Acquire Motion Technology Start-Up"
+    excerpt: "Nautilus Inc. announced that it has entered into a definitive agreement to acquire VAY (pronounced \"way\"), which specializes in motion technology."
+    publishedDateTime: 2021-09-02T12:27:00Z
+    webUrl: "https://sgbonline.com/nautilus-to-acquire-motion-technology-start-up/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
+      name: Sgbonline.com
+      domain: sgbonline.com
+    quality: 22
+    images:
+      - url: "https://sgbonline.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-9.42.16-AM-copy.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "keiAYmml5ZHQUKpW7sw0sLXmjjRi8kOzrlqMjhlkmC5Hlx/1k4Bhr1RIYp7N2VNF7rso2YNdrG28bGW7irzwWz5vpI/4s/iun/0NpiN/tzv35jjZXMgtNApj3m0b3nDC/cslK28A65VjCuzE4MozG6K13bch8CoYw0CLuyuWh4p4HWb2Wc6XWqkvZo4d8A613qZ5og0nNDsCqo7Yqk9IxcPpgBO4hO8uDIRHfMoF/KVhj5AfayUZiWmrSV9lu0OmBREgurvibUxwkXoszg1cbuEoNDdYLTr32sdXYk9k/36vT87bbw8Vnqtn/h78gULKInFyTG/0+hFy8ejC3GXsqzT6oPaWODF5dM7+/LZzCFE=;FBF8hrh/duLAQUXI+tT5EQ=="
 ---

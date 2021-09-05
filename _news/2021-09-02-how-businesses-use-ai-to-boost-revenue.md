@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Businesses Benefit From Building Ethical AI"
-    excerpt: "Compatible Artificial Intelligence (CHAI) Throughout the pandemic, many businesses have turned to artificial intelligence at"
-    publishedDateTime: 2021-08-31T14:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "The Propelling Impact of Artificial Intelligence on Businesses"
     excerpt: "Artificial Intelligence (AI) is generally defined as any machine that can do ‘’what a human brain can do’’. Nevertheless, Artificial Intelligence is indubitably still subject to significant limitations in comparison to humans."
     publishedDateTime: 2021-09-01T00:27:00Z
@@ -51,19 +40,33 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Unethical Use of AI Being Mainstreamed by Some Business Execs, Survey Finds"
-    excerpt: "By John P. Desmond, AI Trends Editor  In a recent survey, senior business executives admitted to their sometimes unethical use of AI.  The admission of being openly unethical came from respondents to a recent survey conducted by KPMG of 250 director-level or higher executives at companies with more than 1,"
-    publishedDateTime: 2021-09-03T00:05:00Z
-    webUrl: "https://www.aitrends.com/ethics-and-social-issues/unethical-use-of-ai-being-mainstreamed-by-some-business-execs-survey-finds/"
+  - title: "Artificial Intelligence (AI)s Impact on Business Communication"
+    excerpt: "Even when managers are seeking to assign projects to the right candidates, AI can assist them in comparing the probabilities of best outcomes. That is not all. Employees can also benefit from speech recognition, real-time language translation, and other ..."
+    publishedDateTime: 2021-09-02T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/artificial-intelligence-ais-impact-on-business-communication-nid-8449.html"
     type: article
     provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 52
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 56
     images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3UnethicalAI-2.jpeg"
-        width: 550
-        height: 363
+      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
+        width: 300
+        height: 400
+        isCached: true
+  - title: "How Mars measures the emotional impact of video ads using AI tech"
+    excerpt: "A proprietary tool tracks eye and mouth movements so the company behind M&M's and Skittles can gauge whether a campaign is resonating or needs to be tweaked."
+    publishedDateTime: 2021-09-01T13:58:00Z
+    webUrl: "https://www.marketingdive.com/news/how-mars-measures-the-emotional-impact-of-video-ads-using-ai-tech/605882/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 37
+    images:
+      - url: "https://www.marketingdive.com/user_media/cache/e1/3f/e13f0c727bd6e9b250fe6e945760956f.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "T/CdRL/Sr4EbACtKrJOL2mDDdjCCp6+MJPSSpAGtooUjbrcEGpgdRzDQeOe0y4dRaqU+EM0/BKG99ApCkZA0+ZAt6auXWFoJCVxtPBOhFoXpiA02FhvFq9hnHrXFGRYFOC9Vn/pxyGi+8PEAEFChIwr8jLPoTw7S4btuZSA38kQfuOB0HbCLIqQ95Cv9cv+vTQ4URkcdcWzHrdmTm6X1ENBRfH//TBCG+p+XGO2DdxRKciHQeVMSEny33VloF0kMToPMl2OAH6n9O3nTTyOp1vGBsaQRP9sHe7qWWyLnX1pnLRBunN75TVWWygJYiWi7YP2Zvtp53ipms4T083R7yfjxrTPGfOLoW3B+YSJyVD8=;xSWd/dSaTVds3iNkG5/ALw=="

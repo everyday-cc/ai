@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etf
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02?amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Nasdaq
@@ -21,54 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
-    excerpt: "Open Finance is not just considered to be an extension but the next big step in the fintech journey. Over the past decade, Fintech companies have"
-    publishedDateTime: 2021-08-31T14:48:00Z
-    webUrl: "https://www.entrepreneur.com/article/382675"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/382675"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382675"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2021/08/Fintech-1.png"
-        width: 1523
-        height: 1354
-        isCached: true
-  - title: "JPMorgan deepens wealthtech push by leading raise in investment analytics fintech"
-    excerpt: "JPMorgan went on an investing and acquisition spree this year to accelerate its digital transformation in wealthtech."
-    publishedDateTime: 2021-08-31T14:09:00Z
-    webUrl: "https://www.businessinsider.com/jpmorgan-leads-aumni-50-million-funding-raise-2021-8"
-    ampWebUrl: "https://www.businessinsider.com/jpmorgan-leads-aumni-50-million-funding-raise-2021-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jpmorgan-leads-aumni-50-million-funding-raise-2021-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://i.insider.com/60f9726c0729770012b93db5?width=1200&format=jpeg"
-        width: 795
-        height: 397
-        isCached: true
-  - title: "Global Payments Fintech Adyen Introduces Machine Learning enabled Compliance Solution, Score"
-    excerpt: "Adyen (AMS: ADYEN), the international payments platform for leading businesses, has officially launched Score. Adyen claims that it’s the first-to-market with a machine learning powered solution on a single platform for identifying unusual activity and ensuring platform compliance."
-    publishedDateTime: 2021-09-02T01:38:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Machine-Learning-Computer-AI-Artificial-Intelligence-269x300.jpeg"
-        width: 269
-        height: 300
-        isCached: true
   - title: "Open Finance Is All Set To Become The Next Frontier In Fintech"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-08-31T21:57:00Z
@@ -97,18 +49,18 @@ related:
         width: 480
         height: 300
         isCached: true
-  - title: "Common Challenges Faced by Developers while Developing Fintech Applications"
-    excerpt: "FinTech developers can help businesses build a connected ecosystem and reap the advantages of innovative business models like bancassurance and open banking by creating hybrid integration-ready FinTech applications."
-    publishedDateTime: 2021-09-02T13:52:00Z
-    webUrl: "https://www.cioapplications.com/news/common-challenges-faced-by-developers-while-developing-fintech-applications-nid-8477.html"
+  - title: "A Comprehensive Guide to Fintech ETFs"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-05T07:26:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/a-comprehensive-guide-to-fintech-etfs/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 22
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
     images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/k56iikkdkd.jpg"
-        width: 300
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/71db9e3c1e83b4edc3bba506d8c34d01.jpeg"
+        width: 635
         height: 400
         isCached: true
   - title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"

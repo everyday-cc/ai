@@ -54,20 +54,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "New artificial intelligence tech set to transform heart imaging"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for"
-    publishedDateTime: 2021-08-31T13:46:00Z
-    webUrl: "https://www.miragenews.com/new-artificial-intelligence-tech-set-to-623195/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1348&q=80"
-        width: 1348
-        height: 901
-        isCached: true
 
 secured: "v4u67fQNbfXnOEd/6zbyDy7liwi91XuGrxaX1OSwxBVB2jQr5xqKarHqCU8wmsM2IKYys/zUIJzm1MFQkeFCNhEwiS21IiB32bi3FCxgbkB/q+O1FJlkkzKplBSzeiLNqekUoTO/X7YntNfl4bG5xHVqm+4A7+x1MhL5v67mWL1TYzLIjOdK2REq9F97Iyj3oXn74fkY6fhYvZuEXJLhKh7AyJPmHBou9W7yxbQCzOs2IDxD/EB4HDFgiemYdeC6IZZPzUDOFFeBFgUqFGPVrQAUyJess24k+DbnKi77NePaNSndz/RbUcRFHw8X8eIq8OE0N9t9VmusB9IDUdN3YAoSzyQnn4vUzlfW4NXGLanzidG0WHE9Y96a4KuH9OVpYTB0csPeXC2aOi83PH3Ji2deTgkCbwCNmCjA+BqHwlw9Sj5O6lOGwyHmL1duOfOpuVZFjdCHMqKGaRGk+6Su0zxwM45Sk/kIhUsPSaQiVNEVv3sHt0FG5WfRYErlHyyyIUnV9Gpu7YjXHSn9/FifIA==;gPQ38woWOajkMW8ZZl8waA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-1030773901"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       - url: "https://wp-assets.futurism.com/2021/09/elon-musk-robots-coming-anyway-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Elon Musk Says Tesla Is Making A Robot Because ‘Robots Are Coming Anyway’"
+    excerpt: "Advertisement Artificial intelligence is coming for us all; this is a prediction or a warning as you like to term it is up to you. He has been on this narrative for years. “I’ve been banging this AI drum for a decade,"
+    publishedDateTime: 2021-09-05T07:51:00Z
+    webUrl: "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/"
+    ampWebUrl: "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 75
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/elon-musk-robots-coming-anyway.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla Makes a Leap from Autonomous Vehicles to Robots with “Tesla Bot” Reveal"
     excerpt: "Not a stranger to taking on a challenge, Elon Musk reveals \"Tesla Bot\" at 2021's Tesla AI Day. While it seems to be an ambitious plan to build a humanoid robot, how feasible is it for Tesla? Elon Musk isn't new to having big ideas and even bigger ambitions."

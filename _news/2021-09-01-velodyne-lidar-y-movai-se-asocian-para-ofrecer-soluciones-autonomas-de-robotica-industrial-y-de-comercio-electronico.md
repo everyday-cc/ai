@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/velodyne-lida
 webUrl: "https://www.joplinglobe.com/region/national_business/velodyne-lidar-y-mov-ai-se-asocian-para-ofrecer-soluciones-aut-nomas-de-rob-tica/article_9a87e4ef-955c-5230-92bb-9ecf185cbdc1.html"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Velodyne Lidar and MOV.AI Partner to Provide Autonomous Solutions for Industrial and E-Commerce Robotics"
-    excerpt: "Velodyne Lidar and MOV.AI are collaborating to provide robot manufacturers with enterprise-grade automation solutions, including mapping, navigation, obstacle avoidance and risk avoidance."
-    publishedDateTime: 2021-08-31T14:14:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=17402"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
-  - title: "How robots are changing the construction industry — For the better"
-    excerpt: "A forward-thinking wave of general contractors is working to find unique ways to fill the talent gap in the construction industry, and they're investing heavily in tech practices through innovations in robotics and smart software solutions."
-    publishedDateTime: 2021-09-01T04:00:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2021/09/01/how-robots-are-changing-the-construction-industry.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "Kanverse.ai Launches Fluorite Release of its AI-Powered IDP Product for Insurance, Strengthens AP Invoice Automation Offering"
-    excerpt: "Kanverse, a hyper-automation company, has announced the global launch of the Fluorite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprises. Kanverse IDP combines multiple AI technologies with Optical Character Recognition (OCR) and Automation to provide an end-to-end product that digitizes enterprise document processing from ingestion,"
-    publishedDateTime: 2021-08-31T14:38:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-379de5760ba7425f8a7d79a12d05b332"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Velodyne Lidar e MOV.AI fazem parceria para fornecer soluções autônomas para robótica industrial e de comércio eletrônico"
     excerpt: "A Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) e a MOV.AI anunciaram hoje que as empresas estão colaborando para fornecer a fabricantes de robôs soluções de automação de nível empresarial, incluindo mapeamento,"
     publishedDateTime: 2021-09-01T07:53:00Z

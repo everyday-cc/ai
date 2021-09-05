@@ -51,6 +51,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Elon Musk Says Tesla Is Making A Robot Because ‘Robots Are Coming Anyway’"
+    excerpt: "Advertisement Artificial intelligence is coming for us all; this is a prediction or a warning as you like to term it is up to you. He has been on this narrative for years. “I’ve been banging this AI drum for a decade,"
+    publishedDateTime: 2021-09-05T07:51:00Z
+    webUrl: "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/"
+    ampWebUrl: "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 75
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/elon-musk-robots-coming-anyway.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "4 Specialized AI Stocks to Buy for the Boom"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally, it appears that companies that have developed artificial"
     publishedDateTime: 2021-08-31T17:06:00Z

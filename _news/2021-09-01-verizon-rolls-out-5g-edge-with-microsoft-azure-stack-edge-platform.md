@@ -169,15 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Verizon Announces Availability of Private Mobile Edge Cloud Computing for Enterprises with Microsoft Azure"
-    excerpt: "Through its relationship with Microsoft, Verizon is now offering businesses an on-premises, private edge compute solution that enables the ultra-low latency needed to deploy real-time enterprise applications."
-    publishedDateTime: 2021-08-31T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-verizon-announces-availability-private-mobile-edge-cloud-computing-/2021/08/31/9440007.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
 
 secured: "qzKbWrEvpRX/AhoRIYTbIYF98MPazfqgvZDGD12Jh3fA/9D3wSh44EZtTBmPElV9/zLPIXFE95+fB/LYOsQddBn2uvU2lR9AKoh6ljIit5EeeTUG4SAAUyj6RBXtB4EqvRXAPBberOnPCHI/JsVgzT6DGSBrjqYtNAMGNTG3raON13sUvulblifVLU1Fk78FMPOZmU0aByVasKLui0TuzdrVwXp8lFoGBW4pBQwC9AlttVuh2jLWe5kSp/Vkg5ogck9NQpZpIc7JpB0NgK+x29U73ipOT55eCIIlFFK1ASAGA2P8ZDhqjoNZSGnxjMZln3Pdr+6WPbxv2QcwOGpSKe6NY3tuucWJZVbt6z+eFawAn0eGIfNL7l9oeBEvIQUmlHGwAKQWTIHy5YdJkg1tU0HSI4r7ym3f2mJO0qA3755MqD1UCuUG+Tu3vpDlpa/NzS7wp5yd05UjJ4EiUBZxgJSbjv2PWFc9HviXlZcybxmNbn9dvMTw2wSpcH0Y50sYmHGODYTg8fyCiwl2fHrZxw==;fOzj8z67YF9qWLC8EKF06w=="
 ---

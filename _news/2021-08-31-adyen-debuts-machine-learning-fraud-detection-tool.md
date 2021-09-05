@@ -41,6 +41,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Global Payments Fintech Adyen Introduces Machine Learning enabled Compliance Solution, Score"
+    excerpt: "Adyen (AMS: ADYEN), the international payments platform for leading businesses, has officially launched Score. Adyen claims that it’s the first-to-market with a machine learning powered solution on a single platform for identifying unusual activity and ensuring platform compliance."
+    publishedDateTime: 2021-09-02T01:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179824-global-payments-fintech-adyen-introduces-machine-learning-enabled-compliance-solution-score/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Machine-Learning-Computer-AI-Artificial-Intelligence-269x300.jpeg"
+        width: 269
+        height: 300
+        isCached: true
 
 secured: "QEAfBCtbFzed9FwXdaH8hN4ApkFpod4ve0cjEYAva40PgRgCkuz32zXzuKULHSwVlgQnwKDHFTNxnQqrEKFyA1NtQdnEBaZ7SP8wwLIDhoOGTd4O/wSm7BUSm5CgKq/5XBXovJnz+KR1mJQwp/J72yGc2SNFr3RadzPoQQY0l1+Kas1aG4M+nBedLypo1mS1AtjRVHuvbJwnnpcMcrHF8lki2PZqOdGgw4qJ+Rh+zDS7i/GZX//49lvK6juicls7PG3MYCf+DzaNxukH7k+S4wB/oVnCcOLslx46kdZXZf5hTuRLZdNffJnpL+/F+v9DeAqgz2U9g5Co5biB8UZKiOsePTnp4XR0mbuTOe6ciQM=;Xhm84DUViSXw9nv5cmYyeg=="
 ---

@@ -175,15 +175,6 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 34
-  - title: "Verizon Announces Availability of Private Mobile Edge Cloud Computing for Enterprises with Microsoft Azure"
-    excerpt: "Through its relationship with Microsoft, Verizon is now offering businesses an on-premises, private edge compute solution that enables the ultra-low latency needed to deploy real-time enterprise applications."
-    publishedDateTime: 2021-08-31T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-verizon-announces-availability-private-mobile-edge-cloud-computing-/2021/08/31/9440007.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
 
 secured: "nWBr0bR/BDgNQjOZX36QA6Vt493lhTq7SSdaqBJ1XiPxSVQC42KliZL2xiUwAy/iJENDdGuPoPy6j/nMm8ThlclGI6aSvu2+v+xSHmreIPUh/vVFY7ecaTafQrDCzIyFz8HZ8ZPxUFEu8HkdtHIMl0YgKAyXS61yVo/DBm629WWDa340Bj8T8i+VScYoUvh8axF3JxBOjnZ5N0sShEZJTVGmTh/IheGfD0s1Ubtx6cAE2zewf8jqgHzMFUJlHUY0FJUz45AtoAr05ZT95vYbckNPg9FNhaVZbigAH/Iv4NhBSqgwf0DpFWS1xViTFH2iOxXPV3IorIvwWcmKXNaAHUsLE9r3I96kF1XpyLINmkw=;HaZlgd/zTUzQjryLOEqLoQ=="
 ---

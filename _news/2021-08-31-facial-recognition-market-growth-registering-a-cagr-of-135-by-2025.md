@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2375485/facial-recognition-market-growth-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Guided Vehicles Market 2021 Global Growth Opportunities, Key Driving Factors, Market Scenario and Forecast to 2027"
-    excerpt: "The Global Self Guided Vehicles Market research delves into detailed and insightful data on important variables such as regional growth segmentation and CAGR The research contains a broad overview of the industry as well as a detailed explanation with a"
-    publishedDateTime: 2021-08-31T13:02:00Z
-    webUrl: "https://www.openpr.com/news/2374886/self-guided-vehicles-market-2021-global-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2374886/self-guided-vehicles-market-2021-global-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2374886/self-guided-vehicles-market-2021-global-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
     excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
     publishedDateTime: 2021-09-03T19:18:00Z

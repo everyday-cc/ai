@@ -40,20 +40,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "The Rise of AI in Talent Acquisition – and a Look at What’s Next"
-    excerpt: "We’re reaching artificial intelligence's day of reckoning. As organizations adopt and employ, they seek greater functional AI in talent acquisition."
-    publishedDateTime: 2021-08-31T14:00:00Z
-    webUrl: "https://recruitingdaily.com/the-rise-of-ai-in-talent-acquisition-and-a-look-at-whats-next/"
-    type: article
-    provider:
-      name: Recruiting News and Views @ RecruitingDaily
-      domain: recruitingdaily.com
-    quality: 39
-    images:
-      - url: "https://recruitingdaily.com/wp-content/uploads/sites/6/2021/08/8.30-RD-Article-Featured-Image-Template-1.jpg"
-        width: 800
-        height: 510
-        isCached: true
 
 secured: "fhqeoNBr54KcAft51CiKnFnyVcgTTKJawik9ttGbX8ZakDUkhOQpxfccpPYXP5OR+jjIsl3GT9GgA2Gg+k/cnzcVIy97gCJTNM/AzgIu/IpTB0qVtsFE3q/PbLy6peLn7yba7J8T997Ov6jA52CutO11VKyguwoHBjYGCjXnoexYdoFRW/n3VV0VUCJdGsjjajxVfyn6SGGsRPpZ0K2UENssvhnymZ5ckFv4h5r5118U4+xPrNb69Vu1uSqAD/E8p+ES1ZVofsMCBB9n3trY8Y9oBWsQ7Jex8r/Bc+BAINIVakZ469qMjbOvi75/eDo2SIvvbH8FGVAC2dW/Qfcdc8DgWfZdqsJUaVP80u9BdRM=;gSjIW2lCO1nPWU+KF0J8Yg=="
 ---

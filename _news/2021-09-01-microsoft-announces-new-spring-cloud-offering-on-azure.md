@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-annou
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure?amp"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -174,15 +174,6 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 34
-  - title: "Verizon Announces Availability of Private Mobile Edge Cloud Computing for Enterprises with Microsoft Azure"
-    excerpt: "Through its relationship with Microsoft, Verizon is now offering businesses an on-premises, private edge compute solution that enables the ultra-low latency needed to deploy real-time enterprise applications."
-    publishedDateTime: 2021-08-31T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-verizon-announces-availability-private-mobile-edge-cloud-computing-/2021/08/31/9440007.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
 
 secured: "L9PACKWPKyzG3kxqdZlpTC3+SDImkGDC9U9hCAP2f3rbuxB5Xu8c5RnOzgkORKcITdOYcEQfDC54crRLXf3KGYpldo0S6qFzY7N4qmInc403eXc/o2UyLjN9FGgnBZyya6+fESawSwL/1M3bhB3pgUWX4SCM2UrvvsmcLh6q8G3Sj1mjiZgmLlW+DfHtsUKWbBmg95z4BF95n7kxndNap5D+sCeuM5qOA6UURkZ8EUP7JZuNaMA9O73XYqoBiNi39Ubuu2IWm1sdrecp2szVRCxBm1AZNJP6t7ZseCkHg4BfgHXi5n6xQEPeVg9OOS5xRIPceZucYuZ4L1qa1tQzxtsNNBsK844t/8vJxprfce4=;KpFu3r1DOpQXqpdJeX8QIw=="
 ---

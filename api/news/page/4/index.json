@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-01-intel-expands-ai-education-program-to-11-states.md",
+      "title": "Intel expands AI education program to 11 states",
+      "excerpt": "Intel said it plans to expand the “AI for Workforce” program to 18 community colleges this year and an additional 50 colleges next year.",
+      "sourceUrl": null,
+      "webUrl": "https://edscoop.com/intel-expands-ai-workforce-education/",
+      "originalUrl": "https://edscoop.com/intel-expands-ai-workforce-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-media-es/2021/08/31181710/GettyImages-951562286-1-1-scaled.jpg",
+          "width": 2560,
+          "height": 1705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edscoop.com/intel-expands-ai-workforce-education/?amp",
+      "cdnAmpWebUrl": "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/intel-expands-ai-workforce-education/?amp",
+      "publishedDateTime": "2021-08-31T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edscoop.com",
+        "domain": "edscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-databricks-expands-its-data-lake-analytics-with-15b-funding.md",
+      "title": "Databricks expands its data lake analytics with $1.5B funding",
+      "excerpt": "Databricks, a provider of big data analytics and AI solutions, has raised $1.5 billion at a $38 billion post-money valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/",
+      "originalUrl": "https://venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/31/databricks-expands-its-data-lake-analytics-with-1-5b-funding/amp/",
+      "publishedDateTime": "2021-08-31T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b.md",
       "title": "Yandex buys out Uber’s stake in Yandex Self-Driving Group, Eats, Lavka and Delivery for $1B",
       "excerpt": "The total cost of the deal came to $1 billion, giving the Russian company 100% ownership over all four businesses.",
@@ -115,7 +210,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-tech-heart-imaging.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -200,21 +295,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-31-facial-recognition-market-growth-registering-a-cagr-of-135-by-2025.md",
-      "title": "Facial Recognition Market Growth Registering a CAGR of 13.5 % by 2025",
-      "excerpt": "Global Facial Recognition Market Drivers Restraints Opportunities Trends and Forecast up to 2025 Facial Recognition Market is approximately USD 5 billion market that is expected to double by 2025 Facial recognition market is experiencing a sudden boom due to proliferation",
+      "path": "_news/2021-08-31-softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months.md",
+      "title": "SoftBank-backed AI startup Peak raises $75m in second funding round in six months",
+      "excerpt": "Manchester-based Artificial Intelligence (AI) provider Peak will expand into new global markets after raising $75m in its latest funding round, led by SoftBank's $100bn Vision Fund Two.",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5",
-      "originalUrl": "https://www.openpr.com/news/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5",
+      "webUrl": "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/",
+      "originalUrl": "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.openpr.com/U/8/U831188396_g.jpg",
-          "width": 800,
-          "height": 600,
+          "url": "https://www.cityam.com/assets/uploads/main-image/full_width_article_body_image/2013/09/manufacturers-responded-57ed4cb5d756f-57ed4cb5efe68.jpg",
+          "width": 839,
+          "height": 523,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -222,13 +317,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2375485/facial-recognition-market-growth-registering-a-cagr-of-13-5",
-      "publishedDateTime": "2021-08-31T09:01:00-07:00",
+      "ampWebUrl": "https://www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/softbank-backed-ai-startup-peak-raises-75m-in-second-funding-round-in-six-months/amp/",
+      "publishedDateTime": "2021-08-31T09:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "City A.M.",
+        "domain": "cityam.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -238,7 +333,6 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -251,7 +345,7 @@
       "originalUrl": "https://www.pymnts.com/news/ecommerce/2021/adyen-releases-score-machine-learning-solution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1104,109 +1198,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-robot-truck-startup-gatik-raises-85-million-in-koch-led-funding-round.md",
-      "title": "Robot Truck Startup Gatik Raises $85 Million In Koch-Led Funding Round",
-      "excerpt": "The Silicon Valley startup is developing an autonomous fixed-route robotic delivery service and hauls goods for Walmart and Canada's Loblaw.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/08/31/robot-truck-startup-gatik-raises-85-million-in-koch-led-funding-round/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/08/31/robot-truck-startup-gatik-raises-85-million-in-koch-led-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612d6a03b30d28ca17239bf0%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/08/31/robot-truck-startup-gatik-raises-85-million-in-koch-led-funding-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/08/31/robot-truck-startup-gatik-raises-85-million-in-koch-led-funding-round/amp/",
-      "publishedDateTime": "2021-08-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-three-crucial-alignments-to-enable-success-in-automation-and-ai-initiatives.md",
-      "title": "Three Crucial Alignments To Enable Success In Automation And AI Initiatives",
-      "excerpt": "Although automation will be essential to stay competitive as an employer, some employees may worry about AI's true purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/three-crucial-alignments-to-enable-success-in-automation-and-ai-initiatives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/three-crucial-alignments-to-enable-success-in-automation-and-ai-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612ce6f1d6e31c988722c803%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/31/three-crucial-alignments-to-enable-success-in-automation-and-ai-initiatives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/31/three-crucial-alignments-to-enable-success-in-automation-and-ai-initiatives/amp/",
-      "publishedDateTime": "2021-08-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

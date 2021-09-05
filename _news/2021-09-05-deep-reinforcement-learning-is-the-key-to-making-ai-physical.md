@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-05T05:40:00Z
 originalUrl: "https://www.analyticsinsight.net/deep-reinforcement-learning-is-the-key-to-making-ai-physical/"
 webUrl: "https://www.analyticsinsight.net/deep-reinforcement-learning-is-the-key-to-making-ai-physical/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Deep-Reinforcement-Learning-Is-the-Key-To-Making-AI-Physical.jpg"
@@ -54,6 +55,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "BhQzZdKX/oDLAV1D6xgP3UwmbBj/Pq/IipH6myvKjjgXy1o2PauOateLCJ8KhMIK0Uf3CFrSXhUfb7XhfJdn2Qmm7iN5vlSRt0JJMTuFlmd30kj+DzQKS89rscimY5rzi+7U84h+Z0n/6Gq2108ZbCK3KMKr1Ra9zbOsfbxgZNgfsTiP+jJDfY3lhtH/cJhJsox151zhD1b5MWFfvpErg8y7IwGuz8d7Kb5Ohx3goDYMk4et2avwQFcU1kveCibRq04AV/VcRoD1dkCiuvvH5e+zt2hkJCGTYTJ0NuMv2RVlbYx2sRXRtntceZ2ey2GT0WzoxTzvfeED7fiTpGZ5j6G81aC1yyXcLXyUyhtO5jA=;hzfuA8BpqQ9H7Y35WNU2Mg=="
+secured: "jjGluWlWjfWxfJNgbX6tna/4ihWfaktAa/8VYDVQcJeu8Oh7RKmT+dVrwr7gX+xcW1J+wl2jsjFo8cLkhpE4lQniM1S5EYaA6bQzbqkveFfN0t1lFmdxkaKKaH7icGT0rwGsq9QnRmVlcWbjT0scnyV0edC0BRxQu79d9lyIf8hgDELJdIhhqZTpWXwx4zZIcXRKouWcC/xY1fUbaRaeyhrgHMVF9QfFCZY+Md6MIjl+D0k1GGGYJii5ko3zqljHx9ZoYpSxsu7A/yqSEL04KP5vJEs3lT+tnMeeTJZkCOyoCgHaBu5BubkdBo9zB/eIRNMYTeNKGbanhUseN80C2t/0uRMSs/lqe0esneiME6pfW5jhQembpGb8WTAbYtrWZd4/0K61/z7gswJbvEctKJpqJSY3Ci3TQW62d4Y+x6CzDjF8apn+WGIRG3J5b7Hedc5C/WtEHFexgD3+zulXve8zCrhM9AIIbXL/oqGlEu6CauN60lcttRSbNL6s5BhcT5iPklZs+BNrEjDYpF0j6g==;7cEP4FR72BBfwOuDipnc8g=="
 ---
 
