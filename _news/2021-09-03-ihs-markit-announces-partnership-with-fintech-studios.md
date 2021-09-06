@@ -1,27 +1,29 @@
 ---
 category: news
-title: "10 Indian AI Startups To Watch in 2021"
-excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
-publishedDateTime: 2021-09-02T13:00:00Z
-originalUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
-webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
+title: "IHS Markit Announces Partnership with FinTech Studios"
+excerpt: "IHS Markit recently announced a partnership with FinTech Studios to deliver highly relevant market intelligence, research, and analytics within thinkFolio."
+publishedDateTime: 2021-09-03T09:16:00Z
+originalUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/"
+webUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/"
+ampWebUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
+cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
 type: article
-quality: 39
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Open Data Science
-  domain: opendatascience.com
+  name: Finance Magnates
+  domain: financemagnates.com
 
 topics:
-  - AI in Robotics
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
-    width: 640
-    height: 300
+  - url: "https://www.financemagnates.com/wp-content/uploads/2015/11/partnership.jpg"
+    width: 880
+    height: 400
     isCached: true
 
 related:
@@ -68,21 +70,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IHS Markit Announces Partnership with FinTech Studios"
-    excerpt: "IHS Markit recently announced a partnership with FinTech Studios to deliver highly relevant market intelligence, research, and analytics within thinkFolio."
-    publishedDateTime: 2021-09-03T09:16:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
+  - title: "10 Indian AI Startups To Watch in 2021"
+    excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
+    publishedDateTime: 2021-09-02T13:00:00Z
+    webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
+      name: Open Data Science
+      domain: opendatascience.com
+    quality: 39
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2015/11/partnership.jpg"
-        width: 880
-        height: 400
+      - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
+        width: 640
+        height: 300
         isCached: true
   - title: "Artificial Intelligence Technology Advances Heart Imaging"
     excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
@@ -175,6 +175,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "Dk//w8+kQloQ2irWoZac/dmQ1xJUhrbtJ5+iawMsxh9d+O/EgBdoF88KCqNTTCFwPfmSaJT+VPqeWYQ532/3Ad2OC2tUKRuq9ZFRhhRqqZJ+NufeJ2bVsA1IEfFzwq+iZ+V+bV9E3q3ihHeeT2w4vqECuJYDMF5eZhdI6XJKck1YdE47lz467cDaq1M5unVSN3S3i07vavv9515uNXldteIy4tCtchGcB5ekTdfBnBciG1ZKV7uNIdZ53i+55fiD5mNRo3Y9VMfyTdPSly92vQFfq0e4jrv5ulttwTtuVRZSf0hXRgCefnA69m1ofBE7lufZ2c0+/TS7bwpJdhrBW241lP1jOaqdOZ/ysC+mxCnDkTSCB6elT4LppbK5pGTOdWq2gEPmIkngy+OBMoZUIoaW87f+Ehn+te0t/gZn7xnEVy8aSnwODfhgHZqrnPkU7X7oQZwi8rxkiImlWlXpHvg9RNdm8ELrDU8MiMW5VoZT82316IF3Vk52YwrnZAp663Zg7kRn5jWauQp3ooCPKQ==;/T9brtZThE4atZ51Z8fRdA=="
+secured: "vE7a0/k3Y49N3BT3P/BuFWHo6638A8AdROfEjWXf9OJjnSw24vijWRwvCPlKtDJ6wL9tyg9JyxAPjbsvybAbadkcEqz022a0XpLjsAgQS+i+0njpX01ALSOssJELbJu4Y58Zu7Wh023P16MfS3pkLfKHam/CKS7aCOvfcJi6ZpefTgZHMbK5witTo5HI8GNMsT8ZUROcx2x27kYGcGg5dvwvUTnncutgLIwBJGk/wYcJtUNT+sNqYD3Buh4push/wHcfvLZtzt4WaH86Kzo0+w879/f2gqMGSDx4F+v+f4vBcd2OW9K9amhovcaFFt5BoPtmQ0UcVSVJ98nFeeTVgwxWtyKQyFa6CNr0q1dHwgc=;KoC2/kRhoTj5G4TwTkFEGA=="
 ---
 

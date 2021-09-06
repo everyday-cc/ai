@@ -62,6 +62,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "IHS Markit Announces Partnership with FinTech Studios"
+    excerpt: "IHS Markit recently announced a partnership with FinTech Studios to deliver highly relevant market intelligence, research, and analytics within thinkFolio."
+    publishedDateTime: 2021-09-03T09:16:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2015/11/partnership.jpg"
+        width: 880
+        height: 400
+        isCached: true
   - title: "10 Indian AI Startups To Watch in 2021"
     excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
     publishedDateTime: 2021-09-02T13:00:00Z

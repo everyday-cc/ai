@@ -8,8 +8,8 @@ webUrl: "https://techbullion.com/artificial-intelligence-for-automating-recruitm
 ampWebUrl: "https://techbullion.com/artificial-intelligence-for-automating-recruitment-flow-is-surging-integrated-talent-management-market-demand/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-for-automating-recruitment-flow-is-surging-integrated-talent-management-market-demand/amp/"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 secured: "x4s108JodA5cEQ+BeSJ8A/aFpz0gCzopWrH6BQk5TVt6bKPrIPdw57ftt6mKsBhfNPT8fvbGxI4g1uMeorl9JkJne//zHeZmmIK0kckFVaZu9xggqTZAJYDCDqz6b0AMIcmKzW4xWwCQOd8k8H3tZXoyTReH3CHU4xRDgQT+JEmsaLiLmUnYy7ik8E8+tPlUvboCAGVZVtVVieLen0znR8Ukpn4CWHPWb3iYrDXvPFri7v0/uYIjfPX2BY7CqzpitsHCrCj/lZgJPK9xbnKp1M9C7DJbbcOPQOouWC/ABoREHeTNKwwr/a0q8so6gdsbJtrgxyaXTNQ/OoPSwn4v4S9bWnULhaapCeUGIvyZ4Px0BUhgdVgWI28Fqr/rfG3Shd8af/F1dlF2BhPpmLZWnl7/Gs1Qhtk/j87w49dDwzbllKHqbi30PIArHsOAEYoMFaHjuQI4gmVfHF8BxgaWrKBl6wzoZQF0LtOkMiPVLnTXyRTBsTXZnC9JpzfiH8jnSocrhqX0sVqyYgSEPsg7fA==;N/XcuwWRefqwn/6c2BjY9g=="
 ---
