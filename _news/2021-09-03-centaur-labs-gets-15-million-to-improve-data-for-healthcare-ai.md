@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-1
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "When Fintech Meets Healthcare: How can cryptocurrencies and blockchain improve access to healthcare?"
+    excerpt: "Cryptocurrencies and blockchain technology are used in a wide array of new applications – including in healthcare. Fintech start-ups are the catalyst for many of these recent market innovations – and they aren’t just focused on the banking and financial services sector."
+    publishedDateTime: 2021-09-06T20:46:00Z
+    webUrl: "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/"
+    ampWebUrl: "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 61
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/09/When-Fintech-Meets-Healthcare.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Health care AI startup raises $15M to label medical data"
     excerpt: "Centaur Labs is behind an app called \"DiagnosUs,\" through which users around the world analyze medical images and videos."
     publishedDateTime: 2021-09-03T13:25:00Z

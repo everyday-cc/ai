@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "When Fintech Meets Healthcare: How can cryptocurrencies and blockchain improve access to healthcare?"
+    excerpt: "Cryptocurrencies and blockchain technology are used in a wide array of new applications – including in healthcare. Fintech start-ups are the catalyst for many of these recent market innovations – and they aren’t just focused on the banking and financial services sector."
+    publishedDateTime: 2021-09-06T20:46:00Z
+    webUrl: "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/"
+    ampWebUrl: "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 61
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/09/When-Fintech-Meets-Healthcare.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "eFWm8vwoDwjTmA15bAghURDQc0SaqLD3fnoGFB6bqG4eyJl6AVnGmyt2GMxMnk95w+I0PT+xYCDp3r1TJVuGjHt5WXeDtE774qaHHVaeX5mQenISc+wJgabxFXSXAFXi3vVE4u2dHXHpeygKLYKbkEZ+MXHtpnRLPd8h6zJXZUD+u1AJpsjfD6xNQCNMHIRHo5thQt0OgwN7cF7xY6qcoVbhIWIPOinuzSvs7DwZ1TRNlXm2+Kb8l0twnKM9Fq1Mp6Uv0JjaqDP+6ZrkvmYvf8ayHIUpz7k4+zEVSePeqdVt5HckA3BKiU5TTrKO3x9g+DZGhovb0tFxjkaYCQtiDHZ1O1558jf2IUPXLI5Vd7eC8iOIHNSuqA+sIGyGqb5AXYP181trSOpiEuwUzOIV0lS6P9eFitEZyTivupsOyvIGLTEjaFArO1WuGaEU2RnN1Rg6TxhZkmJsFfxGAomnu8xK6iDnJrXlsFmBwBkV2U7YIERKS5IeGp9rxlF4Cld4eOaJRjZl2xqXFT2DIFIvPg==;RP8f1aGb92i+nwj7vQGjXw=="
 ---

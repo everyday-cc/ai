@@ -26,15 +26,15 @@ images:
 related:
   - title: "OpenAI Launches Programming Language for AI Workload Optimization"
     excerpt: "Concept: San Francisco’s company OpenAI has released Triton, an open source, Python-like programming language that lets researchers write efficient GPU code for AI workloads. OpenAI says that Triton makes it feasible to attain top hardware performance with minimum effort,"
-    publishedDateTime: 2021-09-06T12:42:00Z
-    webUrl: "https://www.mining-technology.com/research-reports/openai-launches-programming-language-for-ai-workload-optimization/"
+    publishedDateTime: 2021-09-06T06:41:00Z
+    webUrl: "https://www.retail-insight-network.com/research-reports/openai-launches-programming-language-for-ai-workload-optimization/"
     type: article
     provider:
-      name: Mining Technology
-      domain: mining-technology.com
+      name: Verdict Retail
+      domain: retail-insight-network.com
     quality: 39
     images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/09/shutterstock_600203855.jpg"
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/09/shutterstock_600203855.jpg"
         width: 500
         height: 334
         isCached: true

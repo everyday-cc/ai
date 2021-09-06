@@ -1,12 +1,12 @@
 ---
 category: news
 title: "ESPN and IBM unveil new fantasy football trade features with help from Watson AI"
-excerpt: "NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages.  The Trade Assistant with IBM Watson tool has long helped ESPN Fantasy Football players but now IBM Watson's AI technology will help users create \"customizable and simplified trade packages,"
+excerpt: "IBM Watson will help ESPN Fantasy Football players make better trades. By Jonathan Greig | September 5, 2021 -- 13:00 GMT (06:00 PDT) | Topic: IBM With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages."
 publishedDateTime: 2021-09-05T06:00:00Z
-originalUrl: "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-webUrl: "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+originalUrl: "https://www.zdnet.com/index.php/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+webUrl: "https://www.zdnet.com/index.php/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
 type: article
 quality: 79
 heat: 99
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - IBM AI
   - AI
+  - IBM AI
 
 related:
   - title: "IBM creates personalized fantasy football experience"
@@ -51,6 +51,6 @@ related:
         height: 209
         isCached: true
 
-secured: "CkQ9pxEJfS0gdRSxxXGwUAneWtaJIjcyn9kB/N+2K8PUfbuaxZrZioiYSkOMrbdXIEqpeOnu3oi+/kJQETS8YaMeI0ia2Vs4AQcn4z3COg3awQR4Zv/mt2mr3vkyrPpyUcEJ40V5zKPoGyzFq1pd07mtKOVouxP/v17biLZlNyiFoEg4eneTDXOCb1NBo0n1uEq4PKoLX7MBLj5k5MPQN4ClB2GZKCH+AWtDEGV0YNsOhGrHlBi3Hq52rQYlywmOhNRpBzR8ZclSBN6zBJVVrsYcqIBHiF9iY1fpdNgGm5jfnYCfuJZlSto8DVTLbDQ/iTQ7/z0gUi9C6xuk6fILBuAZimnHNMMPUsxvwRWPgYYkI6Ne6etlCRRzbHA+jZAByYX5J8YZ6LoS+xu7wmx5JDKczON9cAhQ8k81Ro5NSSx2rOA5mGsp0EJP3/RJpVDHIFGKSNR3otYZOfcVN3RC5Xzg12H8zrAcnHkyS3joVOgjv5Q9EhfAnCs0aLqWWRjQuZjvVMUw4rJEcEdKYJ2iQw==;1pYDEH4e0s+nhZ0OH1KQ0g=="
+secured: "A38E1c7iQZAfXwUyWXYkrQAonO2lldWMv5efS3PTB7FF+0EIAnife2XP5kWyWXSAKZ5raRHhwEJkSSjXBZcIheeiY1A4NI5BVe+U5cux3DKyMFud/MRtIWAwGA8yaaSP7HnSIe1VGzoxHxJyqNcjNe8CCAQy30D48JF0MKShgDfbU7EQGdOVh/TuQzYNp3a30vseimr1JIIOxizVvSQDAUX8L3RVhMF5cN9xeAOdE0RBc2f8jNXaHqXNfjlML8kaRBu3ePtX2xCweb5oiQl97+I7N8u6UcuB2AEXpItdN3cEPMfwF9AUDtBMhDtC9ORpVZPpYEBM49hamOOuIvAS8xuUV+63DP0AAJvQPmZeR3yCfFrivsChipAtKeA7jhu1PUq73ENki67Yv4K5uU2cfyGgCp+SdQrc5/1kbkq6jHGSmEhBAWgiXAk/B3cfovXUa9uQXwucviBcX8X3vH09wwDPU8K2JpJDFQ1nEMOa1zsud+bYxhunE8XxuOiroyLOPfSs3k2hQ2wOcc466TMcQA==;bgN6x5egUs45dyaVe7NISA=="
 ---
 

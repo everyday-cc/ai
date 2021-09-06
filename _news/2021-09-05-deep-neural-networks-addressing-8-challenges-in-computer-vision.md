@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/deep-neural-networks-addressing-8-challe
 webUrl: "https://customerthink.com/deep-neural-networks-addressing-8-challenges-in-computer-vision/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: Business 2 Community
       domain: business2community.com
-    quality: 39
+    quality: 56
 
 secured: "A+Sxctbz3/qGHXhf2v8Kvg3UuIhLVEp4Vwvu5WeKv25ftM6E274nJnDTHv1A8JKRnG8y2R9VMRsbR2pkDxgosIXcv2y3HSa2i2uAdG+WhwGaIE2RDOK0Cbejq21MXTJA7ai+BUoXCCsuBuoAnZcQT2hhwnJqDhmtlExT8cZI/BfVEVNbFKhmLGMeW3DTLG59mezf7E7J8G+ofO0nZFpJAdxtenLqC1XFqdhPEpLBVgKDXZKVzY9Mej80ZvDF2FyaleY3USbx1fdIIgB6Opi1NWsXhf1yGuMoPz8bIc5/G3uI5aT+FgklFp4/czF2fuZ/WlNUI/43OgTNApXneGBMgDetTvxO1Z2efbp9yvhoC9A=;kaJ2rLJZE0dikxkDm6EPdw=="
 ---

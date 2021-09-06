@@ -8,8 +8,8 @@ webUrl: "https://www.business2community.com/business-intelligence/deep-neural-ne
 ampWebUrl: "https://www.business2community.com/business-intelligence/deep-neural-networks-addressing-8-challenges-in-computer-vision-02429360/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/deep-neural-networks-addressing-8-challenges-in-computer-vision-02429360/amp"
 type: article
-quality: 39
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 related:
   - title: "Deep Neural Networks Addressing 8 Challenges in Computer Vision"
