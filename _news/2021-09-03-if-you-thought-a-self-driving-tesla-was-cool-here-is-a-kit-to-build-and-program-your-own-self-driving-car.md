@@ -45,20 +45,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "How Does Tesla Use Artificial Intelligence?"
-    excerpt: "Elon Musk, the billionaire with a dream to launch humans into space and to Mars shortly with his SpaceX Company, also has a car manufacturing company. Calling it just a \"car\""
-    publishedDateTime: 2021-09-01T06:04:00Z
-    webUrl: "https://technofaq.org/posts/2021/09/how-does-tesla-use-artificial-intelligence/"
-    type: article
-    provider:
-      name: technofaq.org
-      domain: technofaq.org
-    quality: 58
-    images:
-      - url: "https://technofaq.org/wp-content/uploads/2021/09/charlie-deets-D1W5QenBzlU-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "The US to investigate increased self-driving Tesla-related incidents"
     excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
     publishedDateTime: 2021-09-02T16:43:00Z

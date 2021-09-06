@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/carbon-robotics-closes-27-million-i
 webUrl: "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/"
 type: article
 quality: 84
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Carbon Robotics closes $27M in Series B financing round"
+    excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds"
+    publishedDateTime: 2021-09-01T17:17:00Z
+    webUrl: "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/Carbon-Robotics-robot2-web.jpg"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "Carbon Robotics Raises $27M In Series B Financing"
+    excerpt: "Carbon Robotics, a Seattle, WA-based agriculture robotics company, raised $27m in Series B financing. Backers included Anthos Capital, Ignition Partners, Fuse Venture Capital, Voyager Capital, Bolt and Liquid2 Ventures."
+    publishedDateTime: 2021-09-01T15:21:00Z
+    webUrl: "https://www.finsmes.com/2021/09/carbon-robotics-raises-27m-in-series-b-financing.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 69
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/laserweeding.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Carbon Robotics Closes $27 Million In Series B Financing Round Led by Anthos Capital"
     excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weedsSEATTLE--(BUSINESS WIRE)--Carbon Robotics, an agriculture robotics company, today announced it secured $27 million in Series B financing from Anthos Capital,"
     publishedDateTime: 2021-09-01T13:00:00Z

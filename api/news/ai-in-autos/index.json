@@ -10,7 +10,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -432,6 +432,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-looking-into-the-future-of-ai-big-data-and-informed-consent.md",
+      "title": "Looking into the future of AI: big data, and informed consent",
+      "excerpt": "We are living in the age of artificial intelligence (AI ... powerful AI algorithms which can aid medical diagnoses, navigate driverless cars, and make criminal sentencing decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.canberratimes.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
+      "originalUrl": "https://www.canberratimes.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/matthew.crossman/9d3d63c6-0806-4c8c-843b-b92df4c9509b.jpg/r0_445_5500_3553_w1200_h678_fmax.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Canberra Times",
+        "domain": "canberratimes.com.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1351,58 +1394,6 @@
         "name": "The Sentinel",
         "domain": "sentinelassam.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-tesla-now-aims-for-full-self-driving-beta-public-release-in-4-weeks.md",
-      "title": "Tesla now aims for Full Self-Driving Beta public release in ‘~4 weeks’",
-      "excerpt": "Elon Musk is now saying that Tesla is aiming for the wider public release of its Full Self-Driving Beta in about 4 weeks. We are coming up on almost a year since Tesla started testing its Full Self-Driving Beta in its early access program with some customers.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "originalUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-full-self-driving-beta-public-release-4-weeks/amp/",
-      "publishedDateTime": "2021-08-25T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

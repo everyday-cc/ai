@@ -2,6 +2,92 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-08-22-3-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Through AWS, developers implement complex AI and machine learning services without having to build the technologies themselves. Image source: Getty Images. While artificial intelligence may seem ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F639600%2Fgettyimages-1307905824.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "publishedDateTime": "2021-08-22T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-22-artificial-intelligence-and-the-law.md",
+      "title": "Artificial Intelligence and the Law",
+      "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/at/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=HB&isbn=9781108472128",
+      "originalUrl": "https://www.cambridge.org/at/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=HB&isbn=9781108472128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-break-the-cycle-of-yesterdays-logic-in-organizational-change-and-agile-adoption.md",
       "title": "Break the Cycle of Yesterday's Logic in Organizational Change and Agile Adoption",
       "excerpt": "Topics discussed include deep learning, edge deployment of machine learning algorithms, commercial robot platforms ... could lead into a newborn mind set. Sadly, that is a false bias which ...",
@@ -1044,102 +1130,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-elon-musk-announces-teslas-new-humanoid-robots.md",
-      "title": "Elon Musk Announces Tesla's New Humanoid Robots",
-      "excerpt": "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates ... \"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" he said during Tesla’s AI Day. He added, \"What ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380843",
-      "originalUrl": "https://www.entrepreneur.com/article/380843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 646,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629473007-GettyImages-1234764434.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380843",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380843",
-      "publishedDateTime": "2021-08-20T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-the-future-of-neural-network-models.md",
-      "title": "The future of neural network models",
-      "excerpt": "We believe that neural network models need to bridge the gaps ... the derived principles can also be implemented on computers as a form of artificial intelligence and even be used to design ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-future-neural-network.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-future-neural-network.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain-5.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-future-neural-network.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-future-neural-network.amp",
-      "publishedDateTime": "2021-08-20T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/top-positive-and-negative-impacts-of-ai-
 webUrl: "https://customerthink.com/top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity/"
 type: article
 quality: 54
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -2,6 +2,110 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2021-06-16-snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers.md",
+      "title": "Snowflake taps C3 AI to bring AI dev tools and apps to customers",
+      "excerpt": "Snowflake discloses Snowpark Scala development tooling while partnering with C3 AI to bring new apps to its cloud data platform users.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/15/snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers/",
+      "originalUrl": "https://venturebeat.com/2021/06/15/snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_514013068-e1623787978313.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/15/snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers/amp/",
+      "publishedDateTime": "2021-06-15T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle.md",
+      "title": "FedEx and Nuro launch pilot program to test self-driving delivery vehicle",
+      "excerpt": "FedEx has announced a new multi-year deal with self-driving technology company Nuro to test its autonomous delivery vehicle under a pilot program. According to FedEx, the arrangement includes a",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/",
+      "originalUrl": "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/nuro_fedex_main.jpg",
+          "width": 1440,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/",
+      "publishedDateTime": "2021-06-15T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-6-ai-stocks-to-watch-for-rapid-growth.md",
       "title": "6 AI Stocks to Watch for Rapid Growth",
       "excerpt": "AI is transformative not just for the investment landscape, but it will change how we live and work. As demand for this technology grows, it seems likely that so too will interest in AI stocks. There will be winners and losers to be sure,",
@@ -1045,100 +1149,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity.md",
-      "title": "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity",
-      "excerpt": "PricewaterhouseCoopers plans to spend $12 billion and hire 100,000 new people in areas such as artificial intelligence and cybersecurity by 2026, the latest move by a Big Four accounting firm to bet big on technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "originalUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-353929/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "publishedDateTime": "2021-06-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic-fusions-and-driver-mutations.md",
-      "title": "Caris Life Sciences and Elevation Oncology Announce Joint Discovery and Development Collaboration Focused on Oncogenic Fusions and Driver Mutations",
-      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
-      "originalUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/fa/7faabe80-266e-5cb4-9b9c-f24b7b146ba5/60c8855377d65.image.jpg?resize=703%2C630",
-          "width": 703,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

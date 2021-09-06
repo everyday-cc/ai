@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-is
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

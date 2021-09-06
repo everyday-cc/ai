@@ -2,30 +2,28 @@
 category: news
 title: "Insilico Medicine Collaborates with Gray Matter to Fight Age-related Cognitive Decline"
 excerpt: "This strategic partnership is intended to speed up the discovery of new therapeutic targets for peptide therapy in the field of age-related cognitive ... health and social services, the public ..."
-publishedDateTime: 2021-09-01T14:05:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/14351661-insilico-medicine-collaborates-with-gray-matter-to-fight-age-related-cognitive-decline"
-webUrl: "https://www.wallstreet-online.de/nachricht/14351661-insilico-medicine-collaborates-with-gray-matter-to-fight-age-related-cognitive-decline"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/14351661-insilico-medicine-collaborates-with-gray-matter-to-fight-age-related-cognitive-decline"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14351661-insilico-medicine-collaborates-with-gray-matter-to-fight-age-related-cognitive-decline"
+publishedDateTime: 2021-09-01T16:40:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1207182&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1207182&cat=PR News Wire"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1606537/Insilico_Medicine_GrayMatter.jpg"
+  - url: "https://mma.prnewswire.com/media/1606537/Insilico_Medicine_GrayMatter.jpg  "
     width: 400
     height: 210
     isCached: true
 
-secured: "SJ8UauEyJMUGUBLevs3OQ68KZ9b70Zkd4ib/KXYbuHQYYSk8Ddf6EdRZtfFT1Sx+8bPSAZMwxaC9R7cUwLBZTIlRGkCIfvuS2ELTGCWmK4j2UVLa9Ezx7AE9OfWC+FvfRbCSLVMTNUDHGSD/xneHqDi/MrLJ9YjispQoNoSABvSChnA4vV35ovpxEiCwCSucKsRkp1Ud89hws9Y3KUA2mHVTo9W0kBXRbI4uhhuACpsjEvFGOfEJ8dkBmjlnvm75w3VEYaf0uLomWq1QH0sMlePaZQPwe7TU2g1HF8CjzWQVNXXyrzxOg6FNB9BVkxG5wUwAqWKbHj9lT0hre0cUsppmT58etzSLL6pDYtt5q7g=;/xp2WOhY1MKgLbIJ+cMdJw=="
+secured: "U4IuH7EfrTRwF8K33mJ87vld6oDkOg2a93RyDjgFr9F+YNfrHJKgkT8CXXP152tGFlmU6pP9Ks4tAHNbYTpxq/v2B85OqRXFShxFhknqR8OAdy9zZ5w43+j9UtBDRqpu1C1aLDf+ObrpulZTAp5nS2+QYas9LwdqnX06Bk261PGMMPjTYH682Bs97y9Qult6yDxA2JcNAQqP+g0EMwQKRlGApf3hW/RuPJAln1tWFdVnQoentUsQKbyCYjOh3+8nYr6c5xLh9PTwbXQzXGMGCpReZ6xfpUCYDfTKlfPyXUuLrcfn2bLL/IXssWIpx8pVHliKvjqPxN2W6kdW0jPe6vbTq4zoMA6I36KMr92DDUQ=;zQM8+LtwTV8nECyYWHFDkQ=="
 ---
 

@@ -23,6 +23,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "BMO uses AI for capital markets structured note pricing"
+    excerpt: "Bank of Montreal is working with Toronto-based startup Riskfuel Analytics to develop AI-based models for pricing and scenario analysis of structured derivatives transactions."
+    publishedDateTime: 2021-09-05T23:29:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38770/bmo-uses-ai-for-capital-markets-structured-note-pricing"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
+
 secured: "dg2KaTfRxsesJAtgOrORL2KMTVv4l0ROZ9mGrwMqsXYxfbE7CirA5SXvE88bgPMyW+/gfuGvWdxPoTiItCjZr29P1tENybx7pjr02/0XzH0Y131sFemrJqAK1iRnYFlw0/ONaTcIOWH+Mv9DzyZNDja4m4XlsUnyaYV/h7C+ONxfkwDzc60vYolaH0+zGBXY3OUTY3hqHxlMmLEOhj8vQ3GS/Ss/CvAci0w2kL/wojj5PqZ4YqCQ2fq0yD4nLIOCdKCOzRlwXm/en4kARkXUp8cccyWB9Va+9/pLpIWcBX9kKeWRJ0PiiSI6cLC5UdstEYTRd90t0Jrqm0q0q/m94YaKMM7e/rvOacgsXzVYJj4=;J1q00Lyx6GGYCwVvqty9VQ=="
 ---
 

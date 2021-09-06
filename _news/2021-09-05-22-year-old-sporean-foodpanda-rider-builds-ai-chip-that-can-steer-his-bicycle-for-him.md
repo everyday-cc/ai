@@ -9,7 +9,7 @@ ampWebUrl: "https://mothership.sg/2021/09/sporean-foodpanda-rider-ai-chip-steer-
 cdnAmpWebUrl: "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/09/sporean-foodpanda-rider-ai-chip-steer-bicycle//amp"
 type: article
 quality: 66
-heat: 76
+heat: 77
 published: true
 
 provider:

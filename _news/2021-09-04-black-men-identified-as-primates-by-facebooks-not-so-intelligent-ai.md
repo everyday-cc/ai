@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/black-men-identified-as-primates-by-fa
 webUrl: "https://www.neowin.net/news/black-men-identified-as-primates-by-facebooks-not-so-intelligent-ai/"
 type: article
 quality: 69
-heat: 111
+heat: 109
 published: true
 
 provider:

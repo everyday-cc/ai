@@ -38,6 +38,34 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Google Cloud and C3 AI Join Forces to Accelerate Enterprise AI"
+    excerpt: "C3 AI and Google Cloud have announced a partnership to help organizations across multiple industries accelerate their application of AI solutions. 'Combining the innovation, leadership, scale, and go-to-market expertise of Google Cloud with the substantial business value delivered from C3 AI applications,"
+    publishedDateTime: 2021-09-01T18:47:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Google-Cloud-and-C3-AI-Join-Forces-to-Accelerate-Enterprise-AI-148755.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Enterprise AI software firm C3 AI delivers mixed earnings results and its stock falls"
+    excerpt: "Enterprise-focused artificial intelligence software firm C3 AI Inc. reported mixed fiscal first-quarter results today and was punished in after-hours trading as its stock lost more than 8% of its value."
+    publishedDateTime: 2021-09-02T01:13:00Z
+    webUrl: "https://siliconangle.com/2021/09/01/enterprise-ai-software-firm-c3-ai-delivers-mixed-q1-results-stock-falls/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/siebel-800x533.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "e5rnyz5EEHbhMH/qAILP6PrYLDzcr/sQmW3pN55p0YGiTFcjsHwJtqv34ei0zd3ssOefRudavTMCLPojpD3NCG1byGr/pU/GJMvffEsZc/jNm6mS+ctmK/EWzB/G3ryFDCik40W9RRpu2jV1/ALeuqAr8Ov/9khNUMf7qiRdHC1P37goyTIXHP4HdQUEOSQ5TXrXfG9GFTuY8/iJCt9ryasJvZ9x4lO9UqH/BY94jK683i3wCqayVkMA2ecFaX28v91c9Xi/oKsnPYeFr6sray6+t5A4LZCtc4U+C/91ovsE1WF1tSpFM0L/wYq5VBE3xYNLYugLL7SNOA0aQ9uhXVjtqH8YIo1vIthvJrYACEo=;ILOITCXna1kBYWhxo1k44A=="
 ---

@@ -2,6 +2,111 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-07-14-deploy-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker.md",
+      "title": "Deploy variational autoencoders for anomaly detection with TensorFlow Serving on Amazon SageMaker",
+      "excerpt": "Anomaly detection is the process of identifying items, events, or occurrences that have different characteristics from the majority of the data. It has many applications in various fields, like fraud detection for credit cards, insurance, or healthcare; network intrusion detection for cybersecurity;",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-variational-autoencoders-for-anomaly-detection-with-tensorflow-serving-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/01/ML1533-image003.jpg",
+          "width": 1588,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T10:28:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence.md",
+      "title": "Car insurance and more could get cheaper (and, a lot fairer) thanks to artificial intelligence",
+      "excerpt": "TomTom has partnered with AI insurance startup Loop to offer coverage that weighs driving habits over demographics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
+      "originalUrl": "https://www.techrepublic.com/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/16/2dfc1eba-a99d-4fe3-9894-aba5f4c2ad06/resize/1200x/b2c0f59b9f7186d9c7f47b0b98f51e59/cyber-insurance.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/car-insurance-and-more-could-get-cheaper-and-a-lot-fairer-thanks-to-artificial-intelligence/",
+      "publishedDateTime": "2021-07-14T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-aidoc-raises-over-66m-for-ai-radiology-analysis-technology.md",
       "title": "Aidoc raises over $66M for AI radiology analysis technology",
       "excerpt": "The biggest question facing Aidoc, or any other startup in the field of artificial intelligence, though, is whether it can convince hospitals and clinics to adopt an AI strategy in the first place.",
@@ -1054,100 +1159,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market.md",
-      "title": "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market",
-      "excerpt": "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/",
-      "originalUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/07/ai-5899612_1920.jpg",
-          "width": 1267,
-          "height": 912,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/",
-      "publishedDateTime": "2021-07-14T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-india-ai-startup-fractal-weighs-ipo-as-pandemic-fuels-growth.md",
-      "title": "India AI Startup Fractal Weighs IPO as Pandemic Fuels Growth",
-      "excerpt": "India’s Fractal Analytics Inc., a provider of artificial intelligence and analytics solutions to global companies, is exploring an initial public offering to fuel its growth as the pandemic helps to boost demand for its services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-07-14/india-ai-startup-fractal-weighs-ipo-as-pandemic-fuels-growth",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-14/india-ai-startup-fractal-weighs-ipo-as-pandemic-fuels-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIijcYotbFh8/v1/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

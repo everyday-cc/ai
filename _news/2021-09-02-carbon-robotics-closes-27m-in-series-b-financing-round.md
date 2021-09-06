@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Carbon Robotics raises $27M for its AI-powered weed destroying machine used by farmers"
-    excerpt: "Investors are putting more cash behind the self-driving weed-zapping machines made by Carbon Robotics that are attracting attention from farmers across the world. The Seattle-based startup just"
-    publishedDateTime: 2021-09-01T06:00:00Z
-    webUrl: "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/"
-    ampWebUrl: "https://www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/carbon-robotics-raises-27m-ai-powered-weed-destroying-machine-used-farmers/amp/"
+  - title: "Carbon Robotics closes $27 Million in Series B financing round"
+    excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds"
+    publishedDateTime: 2021-09-01T17:17:00Z
+    webUrl: "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 111
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/08/Bud-in-CA-630x473.jpg"
-        width: 630
-        height: 473
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/Carbon-Robotics-robot2-web.jpg"
+        width: 770
+        height: 500
         isCached: true
   - title: "Carbon Robotics Raises $27M In Series B Financing"
     excerpt: "Carbon Robotics, a Seattle, WA-based agriculture robotics company, raised $27m in Series B financing. Backers included Anthos Capital, Ignition Partners, Fuse Venture Capital, Voyager Capital, Bolt and Liquid2 Ventures."
@@ -55,15 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Seattle startup that makes weed-killing robots for farmers raises $27M"
-    excerpt: "Carbon Robotics' technology is meant to replace herbicides and other chemicals that farmers currently use to manage weeds."
-    publishedDateTime: 2021-09-01T18:18:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/09/01/carbon-robotics-series-b.html"
+  - title: "Carbon Robotics Closes $27 Million In Series B Financing Round Led by Anthos Capital"
+    excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weedsSEATTLE--(BUSINESS WIRE)--Carbon Robotics, an agriculture robotics company, today announced it secured $27 million in Series B financing from Anthos Capital,"
+    publishedDateTime: 2021-09-01T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=524464"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 47
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "w74u/VHoOcxo3LmoMtMmrK8AtSeZSgogJ7Y1mMMKdZZRYzKYcEu8SlqMSjr7X5YNdcGX7GWHshbKcMFpOoJ0jSRI5F46zPu7otT2Tx6ARb0mDfqScfavLezIukocHs2psBioZYhp34AIAXTJ1bvIywYYAmU4dtLR3NalBlOWHje938f6vkAn6Jd2ludMWPzON3CW/sYeIBazu8+pHOogribQxI+CxmZ+qpvi6hVoE9rHYWl4LTkcBNku3zIN4xVCR2uUGIUHO3VUEBjcB+C7DxFUoMFpftoJMs/ipLN57ICc7k5ji3G651ZPsmWywytfgpNG3ZJyXmMBHO2e6/NsvroZI6XiN9hivuCgMIpD0odLSB+lePtkUfDy/QDQ9l0IOaNcE3OVfCi+KtobEmAW4ggAjXpXVfumzeRV3Nm0WdrZHTr9aIpRgMXAeS3tSsr5dzkLeaC0AXXA1Qp5OXqHZiiINq9aiQNIdsCf/Qf6mz9zerz327q7r8T9qBfWxuTy/XPer7/RZoSVIImI86JfDA==;VKgJeF6lgh+ZhcOjbK4sMw=="
 ---

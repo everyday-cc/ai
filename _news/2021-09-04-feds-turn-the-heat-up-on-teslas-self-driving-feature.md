@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-tesla
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Does Tesla Use Artificial Intelligence?"
-    excerpt: "Elon Musk, the billionaire with a dream to launch humans into space and to Mars shortly with his SpaceX Company, also has a car manufacturing company. Calling it just a \"car\""
-    publishedDateTime: 2021-09-01T06:04:00Z
-    webUrl: "https://technofaq.org/posts/2021/09/how-does-tesla-use-artificial-intelligence/"
-    type: article
-    provider:
-      name: technofaq.org
-      domain: technofaq.org
-    quality: 58
-    images:
-      - url: "https://technofaq.org/wp-content/uploads/2021/09/charlie-deets-D1W5QenBzlU-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "If you thought a self-driving Tesla was cool, here is a kit to build and program your own self-driving car"
     excerpt: "This build & code your own AI self-driving car comes with complete components. Learn about microcomputers, electromotors, camera calibration & more!"
     publishedDateTime: 2021-09-03T14:00:00Z

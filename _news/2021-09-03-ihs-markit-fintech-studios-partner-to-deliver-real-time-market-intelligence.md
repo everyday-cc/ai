@@ -140,6 +140,20 @@ related:
         width: 700
         height: 480
         isCached: true
+  - title: "Logiq, Reliq Health Tech, AI/ML Innovations and ESE Entertainment. Emerging Leaders in E-Sports, HealthTech, E-Commerce and AdTech"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-05T23:29:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/logiq-reliq-health-tech-ai-ml-innovations-and-ese-entertainment-emerging-leaders-in-e-sports-healthtech-e-commerce-and-adtech/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 26
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/yahoo_default_logo-1200x1200.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "A Comprehensive Guide to Fintech ETFs"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-09-05T07:26:00Z
