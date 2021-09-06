@@ -9,7 +9,7 @@ ampWebUrl: "https://mothership.sg/2021/09/xavier-robot-patrol-toa-payoh//amp"
 cdnAmpWebUrl: "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/09/xavier-robot-patrol-toa-payoh//amp"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1576
     height: 940
     isCached: true
+
+related:
+  - title: "Robocop Is Here: Singapore Deploys Robots To Detect “Undesirable Behavior”"
+    excerpt: "Three weeks from Sunday (5 September), a Singapore-designed ground patrol robot will be put on trial at Toa Payoh Central to detect \"undesirable social behaviour\"."
+    publishedDateTime: 2021-09-06T07:10:00Z
+    webUrl: "https://www.herald.ng/robocop-is-here-singapore-deploys-robots-to-detect-undesirable-behavior/"
+    ampWebUrl: "https://www.herald.ng/robocop-is-here-singapore-deploys-robots-to-detect-undesirable-behavior/amp/"
+    cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/robocop-is-here-singapore-deploys-robots-to-detect-undesirable-behavior/amp/"
+    type: article
+    provider:
+      name: herald.ng
+      domain: herald.ng
+    quality: 57
+    images:
+      - url: "https://i1.wp.com/www.herald.ng/wp-content/uploads/2021/09/Xavier-will-patrol-the-Toa-Payoh-Central-neighbourhood-as-part-of-a-three-week-trial-starting-on-Sept-5.jpg?fit=860%2C573&ssl=1"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "W+gp/OLTO7pFdjJp53vSI4B7OWTId0zTG/B5JVta4Rb7OGBMTtsnPET8lFFaL75hC7RsGbD7qAurFnGMPU16a1nQdnaeLvGYu8Jolkg5Ug0+BlqT7SIvrhFiuLh/BxmMqBJn0q8mMx2fPNZbIs2iTBpueSLmwQh/WFzKxcYvOqxrJsq5hQzjnM/NRj9Ut7UMu6rWYBI2Xo5GBCjIioYtBCYSXB9EbBUX0Pyb2/J6lwUSaqpGIM1gAc9xApavlqwGanfcuYk2AKBcT8UK3DUe4nTCt27e4PO2AjuOKsji3SMrNVT5GlVsuqGKhmAquLVgOxhpqXIHox4TLRe50rwYkfGMU36RaVn1yGS8ZP1piaQ=;aw+XTyqMae2fHct5oHnceg=="
 ---

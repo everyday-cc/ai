@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Arctic Wolf Selects AWS to Power Global Cybersecurity Offering at Scale"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that Arctic Wolf Networks has selected AWS as its primary cloud provider to power the company's innovative, cloud-native security operations platform."
-    publishedDateTime: 2021-09-01T13:18:00Z
-    webUrl: "https://www.lelezard.com/en/news-19977858.html"
+  - title: "Artificial intelligence is the future of cybersecurity"
+    excerpt: "Cybercriminals are using artificial intelligence (AI) to evolve the sophistication of attacks at a rapid pace. In response, an increasing number of organisations are also adopting the technology as part of their cybersecurity strategies."
+    publishedDateTime: 2021-09-06T07:15:00Z
+    webUrl: "https://www.technologyrecord.com/Article/artificial-intelligence-is-the-future-of-cybersecurity-125678"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 37
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10487/img-Pixabay_werner-moser_security_web.jpg"
+        width: 940
+        height: 443
         isCached: true
 
 secured: "TQ6TIF59+7hK9iuczkKDAXOXNCy3TxNAjJHBlP4eaNZT6dbLdl8prjYN8GjDVumBTwMIuGjC28bX5n19WWhVD93qh6QUvO8eU82A52LoQTEVpguPsWIxxqRycVzZ49Yh7CjLOc/o3D0eEUepVg7RlcjG50uFrf9nekjyD3PgVRfKpXG9nWHc/0fO6lWKoYI9kLO+lkf6dX+wgE/2x6DHwHq9sUuthDLwdDT2BgYBbR8wDn1HhnDiKN3lGNFUymLFSzd8N0tnobdo+IUR8WN2CZ5CXwOYxoL4SnPUlvOGkH+GlNHhQLjaA5Liww5+U7001YaQelvLyrbev4sdSOLgNSTJmUTjJzrQBFvkeaQoTMQ=;95Q/5Osl/PlP9ky9tf/OVA=="

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Industrial Automation Company Symbio Robotics Announces Key Executive Hires to Support Growing List of Manufacturing Customers"
-    excerpt: "Symbio Robotics, a pioneer in the future of industrial manufacturing through a combination of artificial intelligence (AI) and industrial robotics, today announced the addition of key executives to its leadership team."
-    publishedDateTime: 2021-09-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-industrial-automation-company-symbio-robotics-announces-key-/2021/09/01/9441172.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
   - title: "Lantern Pharma Expands Management Team with Appointment of Two Leading Industry Executives to Support Clinical and Manufacturing Initiatives"
     excerpt: "Lantern Pharma Expands Management Team with Appointment of Two Leading Industry Executives to Support Clinical and Manufacturing Initiatives"
     publishedDateTime: 2021-09-02T13:02:00Z

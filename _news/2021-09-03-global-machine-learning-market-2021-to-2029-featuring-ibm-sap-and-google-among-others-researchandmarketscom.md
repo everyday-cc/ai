@@ -20,20 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence in Medical Diagnostics Market by Component, Application, End-user and Region - Global Forecast to 2025 - ResearchAndMarkets.co"
-    excerpt: "The \"Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application (In Vivo, Radiology, OBGY,MRI, CT, Ultrasound, IVD), End User (Hospital, Diagnostic Laboratory,"
-    publishedDateTime: 2021-09-01T13:24:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=524498"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Worldwide Fintech Software Industry to 2025 - Need to Improve Business Efficiency is Driving Growth - ResearchAndMarkets.com"
     excerpt: "The \"Global Fintech Software Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the fintech software market and it is poised to grow by $25."
     publishedDateTime: 2021-09-02T11:42:00Z
@@ -48,6 +34,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
+    excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
+    publishedDateTime: 2021-09-03T19:18:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "Wq29ifyhdGtrxPuNUQV1J6LwGoQPuhwPeWvnKZsZVe5YcxGqm8Z3eiNe6LY8ETZJlhdAdb3KHBqOTcExv2qVjRDSQn5onTuYxZ4CuaeVLA+vQPH7HrgF+UaC0TShpqD4ZIRO36EWWggci/66aRHoVrN4N9HOKCNPjmCtL92R6l1ABkjyAgxyEBAKKNVpCHGaY4rQMbj9vW4a19bERT8QxoVIlgVz5k2uWfmaVZB/aSgghep9wZ7nRjbx0Fx/L+azHfi3y9bd2EX5IQoUUGM2Ckde6Db+j3uqGuViD0TVWBtui+9bfO2KAvRuUr8mARglyek1q09Hh3gxoEwnyBTxff+e4abzVXWZhtKFBlgmtCA=;3cKhRP1zIn8D0mI7TWWWEQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

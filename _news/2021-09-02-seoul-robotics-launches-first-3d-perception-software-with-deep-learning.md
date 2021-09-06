@@ -40,15 +40,6 @@ related:
         width: 771
         height: 500
         isCached: true
-  - title: "Seoul Robotics Launches First 3D Perception Software with Deep Learning"
-    excerpt: "Seoul Robotics, a 3D computer vision company using AI and deep learning to power the future of autonomy, today introduced the most advanced version of its patented 3D perception software. Building on the success of Seoul Robotics’ proprietary technology,"
-    publishedDateTime: 2021-09-01T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-seoul-robotics-launches-first-3d-perception-software-with-/2021/09/01/9441131.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
 
 secured: "/nM+olIonqFSoNofYIwvULmhgRfiARwKqgjz+zTwPRCWnQ1qioPHf5IGfcqovxF/wm3AGrJDralogDpifUvlCyQquI0riZXTuFL3AHxKcuE49SwjKOWgfvMvI3+RaIxy8PGeBJ0EGDXEAZYZI1fkOSWdoMdP2rwEyjShVo9v+x6NRaRoEVroIDNo8Jq2Mx2xdOdl3HIj1x5+yDZ3bKRrsYe7KEhSG+/X+63ATNCwPzKocKegSoHhL1eywgEsmwenpwDkonM2v+D5nUW88xBYmy65Y6B8gw9T++iH1OGkIHF2O1E4PITw9vD5Bq4/y0K7625WsCRsjd3ua+XJnbov8M/odBWYwkXBKJC6xFFVDX5h6MTghsYCMkwKr96y5TKryftdApXGkxSqsNX9ZM7nukzg1vzHUeIoD2CrlzZBnjsM4H5VZLYPjjGW88eddeLRlV+K9lxLp8tQRsXL1JJd/yStIutemHdiBMcY46b/0B+tR/FSWpuGdUUDJuTJjmfzkJDJD+RlqaPohgC1JEGdCA==;SPvFaLI4CKzXRLru3Fpr7w=="
 ---

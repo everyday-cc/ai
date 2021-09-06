@@ -73,6 +73,22 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
+    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
+    publishedDateTime: 2021-09-01T19:37:00Z
+    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
+    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 38
+    images:
+      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
+        width: 1600
+        height: 1042
+        isCached: true
   - title: "Black Lives Matter activist to face trial for driving through California crowd, judge rules"
     excerpt: "Prosecutors allege that Tatiana Turner deliberately drove through a crowd of counter-protestors, while Turner’s fellow activists say she was surrounded by an angry mob and acted in"
     publishedDateTime: 2021-09-03T10:31:00Z

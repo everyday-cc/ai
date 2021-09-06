@@ -25,65 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota's self-driving shuttles return to the Paralympics following crash"
-    excerpt: "Toyota is once again running its self-driving e-Palette vehicles at the Paralympics following a collision with a pedestrian.."
-    publishedDateTime: 2021-09-01T14:08:00Z
-    webUrl: "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
-    ampWebUrl: "https://www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
+  - title: "Self-Driving Cars Doing The Tango With Those Heroic School Crossing Guards"
+    excerpt: "School crossing guards are daily heroes, and it will be important that self-driving cars can be devised to work hand-in-hand with them."
+    publishedDateTime: 2021-09-03T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/f20135a0-0b1f-11ec-bab7-b37093ad4a37"
-        width: 5908
-        height: 3939
-        isCached: true
-  - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
-    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
-    publishedDateTime: 2021-09-01T19:37:00Z
-    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
-    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 38
-    images:
-      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
-        width: 1600
-        height: 1042
-        isCached: true
-  - title: "Self-Driving Olympic Vehicles Continue Services after Accident"
-    excerpt: "As if avoiding a virus in a city where athletes from across the world have converged wasn’t enough, Paralympians must also be wary of autonomous vehicles hitting them as they head to their events. An e-Palette pod from Toyota Motors injured a visually-impaired Japanese athlete when it struck him at a junction."
-    publishedDateTime: 2021-09-01T14:36:00Z
-    webUrl: "https://www.manufacturing.net/video/video/21648035/selfdriving-olympic-vehicles-continue-services-after-accident"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/09/MM_260_Thumb_2.612f8ccf7a0b0.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602357e93d2febddf0f0dcb7%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D1632%26cropY1%3D28%26cropY2%3D1091"
         width: 1200
-        height: 675
+        height: 946
         isCached: true
-  - title: "Not so fast on self-driving cars, Toyota boss cautions after Paralympian hit"
-    excerpt: "Akio Toyoda is speaking out against the industry's rush to push technological boundaries: \"I don't think it's at all realistic yet that self-driving cars can travel normally on ordinary roads.\""
-    publishedDateTime: 2021-09-05T05:41:00Z
-    webUrl: "https://www.autonews.com/mobility-report/toyota-boss-not-so-fast-av-shift"
+  - title: "Volvo waits for self-driving tech to improve before touting autonomous cars"
+    excerpt: "Volvo Cars has aggressively promoted its push toward becoming an all-electric brand, with the first such vehicle to be a successor to the XC90 SUV that will be built at"
+    publishedDateTime: 2021-09-05T19:00:00Z
+    webUrl: "https://www.postandcourier.com/business/volvo-waits-for-self-driving-tech-to-improve-before-touting-autonomous-cars/article_45c8c34e-0cc2-11ec-811c-7731825f1779.html"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 37
     images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/1PALETTE-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/53/d533e33c-0ccd-11ec-9083-832f29bc0de7/6132433221252.image.jpg?resize=838%2C630"
+        width: 838
+        height: 630
         isCached: true
 
 secured: "ToKzLhHzioCU3MRcRnH/YdWZ98IVZQ2Z+Kb8GVU5zPg+ZV3vSJ/1Pzqgb7yKuw1eI6JYp6J6mFeJrK1lFZtLLH0FPYvtyv+Z/FCrRKNWeFi9wCl7VEOYyrrGsxNgedVbPaPh7TBBjpCe5tci+RNCXQjIspNFHDTeKSpOGsO0to/CPbuFtbNAXgocjGXPiJ5BY6tnqwpZr+asN0uRallX1AEirzKRtZJaSWNFvccuEjJJUjBlw4ZpzGMLfLJ+BBFc61PwpTQsywpcmMY0t9s4rmGGYjDPpgSlgLR79Llp3boQ9Q+RIoM5BBQXdE4qKmAk1y4iGGnGyQ1z9/xuv0FoiPJFPc/PrziFoQlb1UibCm0/KKBaKxUYvzkaYrXgMgk7pMKgE1GDDucPlVV3jRZsVZ2fqmxQ/V5v4eHvD4nkHCW4mRCLKX/mEDxAPG5RByQTxae4LLOF7A/MN6cNlbnHD33Ee7zVVg9AMRSS+WP4FJiffJqee1zuJe9UT7eqLIYNQrDuJVg27gWECfVYEB60Xw==;0iKjHi27/e+fC6pvh7aC3w=="

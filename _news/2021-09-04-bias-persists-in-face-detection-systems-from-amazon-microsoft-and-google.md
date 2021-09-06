@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft announces new Spring Cloud offering on Azure"
-    excerpt: "The new service also includes expanded support, with VMware offering Spring Runtime support services on top of Microsoft’s existing Azure support offerings."
-    publishedDateTime: 2021-09-01T13:26:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure?amp"
+  - title: "Microsoft helps protect Amazon rainforest with AI project"
+    excerpt: "Microsoft has partnered with environmental groups to create an artificial intelligence (AI) -based tool that could help to stop deforestation in the Amazon rainforest. The tool, called PrevisIA, uses machine learning to spot possible trends in forest conversion from deforestation."
+    publishedDateTime: 2021-09-02T18:06:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
     type: article
     provider:
       name: IT Pro
       domain: itpro.co.uk
     quality: 104
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630606098/itpro/shutterstock_amazon_rainforest.jpg"
         width: 1260
         height: 710
         isCached: true

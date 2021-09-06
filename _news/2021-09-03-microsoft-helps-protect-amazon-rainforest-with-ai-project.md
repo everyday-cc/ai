@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1260
     height: 710
     isCached: true
+
+related:
+  - title: "Bias persists in face detection systems from Amazon, Microsoft, and Google"
+    excerpt: "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon."
+    publishedDateTime: 2021-09-03T17:40:00Z
+    webUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/"
+    ampWebUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "1vsZ+fAHQRi8FKt4XLifJY9C/K8xPbktmz02emy/r/R88akFF8gTEDnWeMMgArBoG3Ye5k+XG0ws4uUOzC404+YSvpt6y3t6fXiffK2knRtPLAA2RRNTB0QAx1SSx+7sNIDWhb79+IpAF6ZzPseqaduHQ9x/rVBz53Tm/uGb2oWdEaViKmYZnMibgEW89APAzcpdyqswkVSPI/w3SYCPFKykJ9qOcKAfFXdlmnSoUGnVfn3cJ+bDuUuXj0vV+BjRTbP74YlkQzVmyX2VJUBEgSmXw9jnUiIDCUe2FWCICEg+tkHTeiwMayXre9naAWFK7VRvwJn3kcErMgHUFJq1+czyKbUOSW9wiAD73gFFSVu7ORPQSzds7WvoCHfMyySAOeBVJ/fGAO4jUHuFze9uYlrFuBOFrDCXLl8uK1EnGtpFTBvffJCE9Rceu+yMDT03N/QleBun/gUH+iNjT4ugoE5WWEpSt/NMnN57FZGXTJOg9/pSNYlQps0fSAR1cOvZxC9dy65lzSWSpZEbP1Np3Q==;hFjEPQzkovtAdOTf1nuLZg=="
 ---

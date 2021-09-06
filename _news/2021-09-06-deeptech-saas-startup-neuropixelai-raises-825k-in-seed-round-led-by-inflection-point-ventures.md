@@ -25,6 +25,45 @@ images:
     height: 630
     isCached: true
 
-secured: "P2M6KotNTGxcu0E5KQOnNfTyTgh2eIHlIJO9BrveKRJc7/EOKJ7B6//RbSgvRKtAJNjsd9HF61zTHwsKd4eHL2sxZcihDn65/de6MAgcy19U0uE/K2TmIkQ8t1kiEs551Pw+ivMJkGoHCNYYpDAerkpiyeYDaB9ToEMe/QI0uz3bNAfQm7J77V6qLcnZMi4fg4SbivJ9MMSJ8BvJYNizpkZY9ttWi6MvQEsKDSiVhz5+ItDtBZxdj7EbTLGY/3An5FB+Fl8BMjzCDLX4NgWZYR0FunT1XiDXIO7bTJi8J4H9Nyy/16B5eCdMY93dQoFAnSx2BROg8WtA5yNiOrdpIBcRp84FOyyIDMtJ5/gBBTE=;VAO+jzpkRS1Ef4Gg3MhI/A=="
+related:
+  - title: "Bangalore-Based Deeptech SaaS Startup NeuroPixel.AI Raises $825k In Seed Round"
+    excerpt: "The funds raised will be used for scaling up their R&D team to accelerate the transition of their product from beta to production."
+    publishedDateTime: 2021-09-06T06:45:00Z
+    webUrl: "https://analyticsindiamag.com/bangalore-based-deeptech-saas-startup-neuropixel-ai-raises-825k-in-seed-round/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Bangalore-Based-Deeptech-SaaS-Startup-NeuroPixel.AI-Raises-825k-In-Seed-Round.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
+  - title: "DeepTech SaaS StartUp Neuropixel.ai Raises $825k in a Seed Round Led by Inflection Point Ventures"
+    excerpt: "Neuropixel Founders The Bengaluru-based startup works at the intersection of Artificial Intelligence and E-Commerce to transform online"
+    publishedDateTime: 2021-09-06T05:37:00Z
+    webUrl: "https://www.indianweb2.com/2021/09/deeptech-saas-startup-neuropixelai.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 24
+    images:
+      - url: "https://1.bp.blogspot.com/-8Q-h3nLXsKM/YTWouV-_H3I/AAAAAAAAEuw/NRQG-zG9InMrbdBKeOxnhhY4O-xALJ-PACLcBGAsYHQ/s16000/Neuropixel%2BFounders.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Deeptech SaaS startup NeuroPixel.AI raises $825k"
+    excerpt: "The Bengaluru-based startup works at the intersection of artificial intelligence and e-commerce to transform online fashion storefronts"
+    publishedDateTime: 2021-09-06T07:22:00Z
+    webUrl: "https://www.ciol.com/deeptech-saas-startup-neuropixel-ai-raises-825k/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 17
+
+secured: "aslTN+vQ4+uPSTp0VcZQr+RL8bKhM77FKRc6RLyCvdBJqSkijgn0GMcAwySXr/oXJIUGWJ3zKJxTbBjRwQF6gPnK4mYgAlGJLO1b2iS4YYFc+e54JvpRWR8yoYHiKDk/dlMqM9Qk8ZkXFoQ6TZIOwfpt+cPKfFrwD82mrHsg5h+edqYwEmpnQ9awfMyBJVl/LQ2ZrU/h72WQtdUsN3L8snwvzJS11TyLkf9tpAhr+xUUjmCLooGvOmsZfzgfD5z0qZmBE8UohVLBW8H7nSjq92xLQj7pnMblpBYBYJlOI2QSSFhSxBLEcIsbP1xKbEsRRULrrChQuFkPihhNmK7u+CYb01AQtnpfzv9qD37glJdDX2Xl+wfkYibtrJT0TLWwdZMDIglUeiMcHABpvOpA4CQJftyi9L/qS7KqNvwtHUfWtJZEvqHPEjkhF/A8eVSKBy9r5NndNKPnGpK7v+cadfOIfw5lEf1CD6K5TRERSHs7dNf0jH5Ldcfg6r0xNSPF37dDxYvafRoKyHudYj9fOg==;EWVnqesXW1KJU+X/H8wiMg=="
 ---
 

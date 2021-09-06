@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla’s So-Called “Full Self Driving” Doesn’t Work"
-    excerpt: "Stanphyl Capital’s commentary for the month ended August 31, 2021, discussing their short position in Tesla Inc (NASDAQ:TSLA)."
-    publishedDateTime: 2021-09-01T14:32:00Z
-    webUrl: "https://www.valuewalk.com/teslas-so-called-full-self-driving-doesnt-work/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 54
-    images:
-      - url: "https://valuewalk.b-cdn.net/wp-content/uploads/2021/03/tesla_1615531404.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence on September 10"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-09-05T10:06:00Z

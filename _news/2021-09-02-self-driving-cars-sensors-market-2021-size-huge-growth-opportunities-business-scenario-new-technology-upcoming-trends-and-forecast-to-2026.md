@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Artificial Intelligence Market Size, Share, Manufacturing Cost Structure, Revenue and Growth Status | Global Report 2021 to 2026"
+    excerpt: "Effective development policies adopted by various companies are creating new standards for competition in the global Mobile Artificial Intelligence market. A report, titled Global Mobile Artificial Intelligence Market Research Report 2021 - Impact of COVID ..."
+    publishedDateTime: 2021-09-03T10:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-size-share-manufacturing-cost-structure-revenue-and-growth-status-global-report-2021-to-2026-2021-09-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yA8dR+QIHYyUKcnvyTElZr+Y+iY4Xu+HZZjLns7q2CHOkJLvMNV7m3YITvABEI8QjoaDIC14cJQSKMwkfEX66SyxJ2Zc5SA7JqbSJuOLPHfkJ1/bmhdCeFBz+tO0NqOyERcXpLB8mUIM2BP7jkyqugnv1i1alR/q0oUJla5VshF68B+t2fpnw7C4PxsChsIs399bmJn5oEXlLfPhPeOf6XQHXJQUrSMKzrVbrbCrvoUolfYg3//bAQZWp0kdKGOQzVW/LsyCQZ/WHwlNBkYmTg0ifoBdJzhWTFWNrd39H1Zae2UnUZDV1eyNZsml+AXftk2vc7OLwouCeaVLVGyBcbW+krWg/V1FAsyxf20+dfI=;akDZsaH47zI4C9p3goD1Kg=="
 ---

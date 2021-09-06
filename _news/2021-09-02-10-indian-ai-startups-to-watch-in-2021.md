@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Top 5 Indian Artificial Intelligence Stocks in 2021"
-    excerpt: "Artificial intelligence stocks aren't as uncommon as you would assume. Many businesses are promoting artificial intelligence initiatives. Investing in AI stocks, you might reap significant rewards in the future."
-    publishedDateTime: 2021-09-01T14:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-5-indian-artificial-intelligence-stocks-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Artificial-Intelligence-Stocks.png"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Artificial Intelligence Technology Advances Heart Imaging"
     excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
     publishedDateTime: 2021-09-02T17:00:00Z
@@ -163,15 +149,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Forum addresses importance of FinTech, AI in future careers"
-    excerpt: "The minister stressed that the forum seeks to identify and discuss the reality of future professions in Bahrain in financial technology (FinTech), artificial intelligence (AI) and sustainable energy as well as labor market trends and expected jobs in the near future."
-    publishedDateTime: 2021-09-01T14:46:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDnEp5STLohoyCKX6RO74qZU%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 19
   - title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
     excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
     publishedDateTime: 2021-09-02T11:50:00Z

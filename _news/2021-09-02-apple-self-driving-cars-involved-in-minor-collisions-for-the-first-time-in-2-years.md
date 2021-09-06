@@ -27,63 +27,125 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota's self-driving shuttles return to the Paralympics following crash"
-    excerpt: "Toyota is once again running its self-driving e-Palette vehicles at the Paralympics following a collision with a pedestrian.."
-    publishedDateTime: 2021-09-01T14:08:00Z
-    webUrl: "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
-    ampWebUrl: "https://www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html"
+  - title: "Apple self-driving cars were involved in two accidents last month in California"
+    excerpt: "Apple has been working on its self-driving car technology and the Cupertino-based tech giant was recently in the news related to efforts in forming partnerships with automakers for the Apple Car, but nothing has been materialized yet."
+    publishedDateTime: 2021-09-02T01:20:00Z
+    webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 73
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 50
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/f20135a0-0b1f-11ec-bab7-b37093ad4a37"
-        width: 5908
-        height: 3939
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/09/Apple-Self-Driving-Car-Testing.jpeg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Self-Driving Olympic Vehicles Continue Services after Accident"
-    excerpt: "As if avoiding a virus in a city where athletes from across the world have converged wasn’t enough, Paralympians must also be wary of autonomous vehicles hitting them as they head to their events. An e-Palette pod from Toyota Motors injured a visually-impaired Japanese athlete when it struck him at a junction."
-    publishedDateTime: 2021-09-01T14:36:00Z
-    webUrl: "https://www.manufacturing.net/video/video/21648035/selfdriving-olympic-vehicles-continue-services-after-accident"
+  - title: "This Lidar Maker Could Win Big—and It Doesn’t Involve Self-Driving Cars"
+    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
+    publishedDateTime: 2021-09-01T15:33:00Z
+    webUrl: "https://www.barrons.com/articles/lidar-maker-aeva-technologies-nikon-51630453396"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-393971/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
+    excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
+    publishedDateTime: 2021-09-01T20:35:00Z
+    webUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august"
+    ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 41
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
+        width: 870
+        height: 485
+        isCached: true
+  - title: "Black Lives Matter activist to face trial for driving through California crowd, judge rules"
+    excerpt: "Prosecutors allege that Tatiana Turner deliberately drove through a crowd of counter-protestors, while Turner’s fellow activists say she was surrounded by an angry mob and acted in"
+    publishedDateTime: 2021-09-03T10:31:00Z
+    webUrl: "https://www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/"
+    ampWebUrl: "https://www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/03/black-lives-matter-activist-from-long-beach-to-face-trial-for-driving-through-yorba-linda-crowd-judge-rules/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 34
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/16x9OCR-L-TURNER-0901-02.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Two Apple Self-Driving Cars Rear-Ended While in Manual Mode, Marking First Minor Collisions in Two Years"
+    excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
+    publishedDateTime: 2021-09-01T19:37:00Z
+    webUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/"
+    ampWebUrl: "https://www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/09/01/apple-self-driving-cars-minor-collisions/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 27
+    images:
+      - url: "https://images.macrumors.com/t/VaNN-y5jX4jcXrJsJ_aduFk2IOk=/1600x/http://images.macrumors.com/article-new/2017/08/applelexusselfdriving1.jpg"
+        width: 1600
+        height: 1042
+        isCached: true
+  - title: "Apple self-driving cars involved in two recent accidents"
+    excerpt: "Self-driving prototype cars from Apple were involved in road traffic accidents, but it wasn't the technology that was at fault"
+    publishedDateTime: 2021-09-02T12:49:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/apple-self-driving-cars-involved-two-recent-accidents/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
     quality: 24
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/09/MM_260_Thumb_2.612f8ccf7a0b0.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2020/12/Apple.jpg"
+        width: 1440
+        height: 897
+        isCached: true
+  - title: "Two Apple Self-Driving Cars Involved in Accidents in Same Month, No Injuries Reported"
+    excerpt: "Testing a ground-breaking technology on a car involves many risks, which the Cupertino-based tech giant was willing to take, but this was unexpected."
+    publishedDateTime: 2021-09-01T19:57:00Z
+    webUrl: "https://www.autoevolution.com/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 17
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/two-apple-self-driving-cars-involved-in-accidents-in-same-month-no-injuries-reported-168507-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Apple Inc. (NASDAQ:AAPL), NIO Inc. (NYSE:NIO) – 2 Apple Self-Driving Cars Said To Be Involved In Accidents Last Month"
+    excerpt: "Two of Apple Inc.’s (NASDAQ: AAPL) self-driving cars were involved in minor collisions in August, according to a report by MacRumors that cited data from the California Department of Motor Vehicles. What Happened: The first accident took place in San Diego on Aug."
+    publishedDateTime: 2021-09-02T11:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_apple-stock/apple-inc-nasdaqaapl-nio-inc-nysenio-2-apple-self-driving-cars-said-to-be-involved-in-accidents-last-month/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 16
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/alexandr-bormotin-ntmu8vcwqe0-unsplash_1_1.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "How the city is preparing for the arrival of self-driving cars"
-    excerpt: "The footage, taken in July, is from a vehicle equipped with technology from Mobileye, an Intel subsidiary that is the first company to test a self-driving car on city streets. The arrival of the autonomous vehicle industry has prompted action from the city—with the de Blasio administration launching a new permit process for companies testing self-driving cars."
-    publishedDateTime: 2021-09-02T12:00:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/how-new-york-city-preparing-arrival-self-driving-cars"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/Mobileye-AV-NYC-Intel-14.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Not so fast on self-driving cars, Toyota boss cautions after Paralympian hit"
-    excerpt: "Akio Toyoda is speaking out against the industry's rush to push technological boundaries: \"I don't think it's at all realistic yet that self-driving cars can travel normally on ordinary roads.\""
-    publishedDateTime: 2021-09-05T05:41:00Z
-    webUrl: "https://www.autonews.com/mobility-report/toyota-boss-not-so-fast-av-shift"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
-    images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/1PALETTE-MAIN_i.jpg"
-        width: 800
-        height: 600
+        height: 630
         isCached: true
 
 secured: "hIlyXO17GcJqykGCK+FdUhQqhkTCV5L5UObpcKGye86J+nva7k6vlX2ygZ7p3/i/y1IVmWhTtCK2ikEfI6af0UoJ5m3QKLTfuILIF6cV8TVJAmBZKVUCUUMc0SqPcdeafU+8Fj2yL0cCqDHiKfuUDNIkaJT9MwzjrGZKsdBBfsGNGkaM6U6G4j7y56IajsozIso9fULEj0jdC+ID2HhmfdVHyoEZ6R1mTVsbitZ68qvWJbr16efaBf9cjUqJBqGF96cyrRVoetwH40MqFvTghHfTv7ID+k1Zg032QB8Zb7Q0QwhgYom0KcQE7rxaflsfjCKTWBgcxKmuazQ2wQ4pTQ/xE6kwVPdHhDXydIIzy4r1I7+264vPZn5FgY5RLkEJ7+BbgdEwjhdQuo7nwgH2gJCOBYi+IstkOf9tW724chlx+4RQPhF4yYzTjpLm9dnayvU+lG5iUDsDYWl6l4zqV0yYlj3KvCgGRiuatbNDa29xwmdhdLfI5RIgYSw6CpD27dRLZdG0AqEBRvxpYp26LA==;A2njY2LpHYPvSuH+afz4Fg=="

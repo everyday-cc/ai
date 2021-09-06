@@ -39,15 +39,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "AI Industrial Automation Company Symbio Robotics Announces Key Executive Hires to Support Growing List of Manufacturing Customers"
-    excerpt: "Symbio Robotics, a pioneer in the future of industrial manufacturing through a combination of artificial intelligence (AI) and industrial robotics, today announced the addition of key executives to its leadership team."
-    publishedDateTime: 2021-09-01T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-industrial-automation-company-symbio-robotics-announces-key-/2021/09/01/9441172.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
 
 secured: "nOiiBEmLuu4Wr/fbYBrtT1RJRtQNjotCdZk/3ANHCKkNjg/XahAJMLohGTdGREzqYiacY52B5XcFKs66vMWzm52jcog+UOG8ADNfJb5dR5wkTEhSkWztDWw5Rtx64jXvh6aUSAAfzYc1ZR+2JgIz1BAfwy3AVmPtun5aENXGx4jddfA09FB43xRKSwP5v+loXvhX0pWNhziDU/ph3QUHW2CiK2YLDrP2UnE/9aGCoynst02L1ZzuVmeIYe2iiN1515N4eh3rnj0UgOmnv/88HLnnKd6sm2epN6AAv4Rd32m2aS2htRtWVV72LzgJ8ZkEXPgrgcZ6e58XITgLN8SjZ/EtqAWQTXOSsjZqICEVJG0=;Nl2+1kgBcVodCc9lNb/NZQ=="
 ---

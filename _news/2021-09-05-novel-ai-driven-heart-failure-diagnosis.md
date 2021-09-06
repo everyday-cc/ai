@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/novel-ai-driven-heart-failure-diag
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 1000
     isCached: true
+
+related:
+  - title: "AI could be used to guide drug therapy for heart failure"
+    excerpt: "Beta blockers were unable to improve survival in trials involving patients with heart failure and atrial fibrillation, but an AI finds they can cut mortality in some patients"
+    publishedDateTime: 2021-09-06T07:47:00Z
+    webUrl: "https://pharmaphorum.com/news/ai-could-be-used-to-guide-drug-therapy-for-heart-failure/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 54
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2017/08/iStock-455237505.jpg"
+        width: 1240
+        height: 828
+        isCached: true
 
 secured: "Zy8EXCvP0eFqsZHqzhZMA/CQXPrv5IgFd2j9DXW20O73MD5iWW63EQ368GhUDZpu1xKKZFUaTt9eqTs6GAiej4gggIooRwGlZ0PIW2y+nH6ZIEHubLCmvZCqP0KKR4BbQ3PL+bFjUDxKLZVeDAyCnwDl2KsaUsk43BK53hf9HL2sw6N9h4Je0QM73v8dARyHj1vMxr9CqzrvpOEVVgRTuSV5Z3ThG5dfVAO8SNqV04JfPF4IfBHwWftsh8Cc9jZflTQOoreMOStdMCvfD3eOzcBBOp6Q0N71wbulZmcXY/kdFtfl0bkJ1g4Gx6JwSjdhk5zugLfb6TG1Yc84VdizRFzdxeCGxw/yaABORD/Xkn0=;TlcI98lkybASMMJprOmPWg=="
 ---
