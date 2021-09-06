@@ -3,8 +3,8 @@ category: news
 title: "AI Workshops: Explore Our Future and How We Create It"
 excerpt: "Discuss AI is a multi-programme initiative run by the SFI ADAPT Centre for AI-Driven Digital Content Technology"
 publishedDateTime: 2021-08-25T10:00:00Z
-originalUrl: "https://www.dcu.ie/engineeringandcomputing/news/2021/aug/ai-workshops-explore-our-future-and-how-we-create-it"
-webUrl: "https://www.dcu.ie/engineeringandcomputing/news/2021/aug/ai-workshops-explore-our-future-and-how-we-create-it"
+originalUrl: "https://www.dcu.ie/computing/news/2021/aug/ai-workshops-explore-our-future-and-how-we-create-it"
+webUrl: "https://www.dcu.ie/computing/news/2021/aug/ai-workshops-explore-our-future-and-how-we-create-it"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 819
     isCached: true
 
-secured: "4IVs2PE41DL5CTQKsUeKAoSQA+OiIkpzuh7TR8qx/A4MitwrPiirK+ORWbcOsz+xUEhMsae7j5zTRIj+r0a9cPTiLb9yRf17iafvG4AjoZSm1giCRCwKxaGASdMY0cDXmNA0HtgepKVCejs61oERrkzC9xWIZepqAGfzmGwmj9EXPrYl+sH7Mm9dmmOXuFsMZozSPnOL0sO2LO6yUotujlIzvs0cAZDFMVjj/ZEBAw6M/2a1CAZelSXWgGuxq5uuPSnaCy7HK8j5AJ2U4yYWtfqsTD4Ee3EUgauVAaWVYhMKTYofEgxV59fZz7ERzka3J9KYZP0CwyIGQfxLaFIBJHKc1ZeQvcCzjESwj25bduk=;GD4gPLvWUDffKyV3874k4A=="
+secured: "Gme7m2YgvY1fANy9SrflxFH0T409Nr8lu9qOHa4jLyUImDWGTJnWmyfPyfuqWSwwEMrGAMqInafHvEZtoL9+rw54Z3fcTLkRPBjs2vnYeSbW2c6usOLGoHZmT6yhVzSBgPcX8hLdyO51xUwnPEILQrzvELZMHuCLMijkF2p8xpaIkShyOSGN4adzR3+4gAHHMFHrAc19dRykR3BBTrUAun5+5eJ5QeZqXJkpAtmld1UrcmNbcwmhMj+/uVF3LL7O+5smMQtF+P620P4g3cJ16uxds/KWsfghbXKVDULP5o7Dql+bhNVev84Scrz27OPtYuCNxZZ8hO5utC3wv+wuKwD4FwVmozd0oUTAqjLJD+c=;xFBP5MiKL4a1nP1kHkJ4Aw=="
 ---
 

@@ -72,22 +72,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Veda co-founder is passionate about the intersection of artificial intelligence, healthcare and women in technology"
-    excerpt: "Veda Data Solutions co-founder and political entrepreneur Meghan Gaffney was working in Washington, D.C., while the sweeping Affordable Care Act was being crafted. It was an exciting time, with widesp"
-    publishedDateTime: 2021-09-01T11:00:00Z
-    webUrl: "https://madison.com/ct/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.html"
-    ampWebUrl: "https://madison.com/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 52
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/2/cb/2cb9dc82-0cca-11ec-901c-df6cbc050c38/61323cf410d0a.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Top 5 Indian Artificial Intelligence Stocks in 2021"
     excerpt: "Artificial intelligence stocks aren't as uncommon as you would assume. Many businesses are promoting artificial intelligence initiatives. Investing in AI stocks, you might reap significant rewards in the future."
     publishedDateTime: 2021-09-01T14:30:00Z

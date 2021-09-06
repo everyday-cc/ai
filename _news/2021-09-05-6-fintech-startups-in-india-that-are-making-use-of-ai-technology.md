@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Veda co-founder is passionate about the intersection of artificial intelligence, healthcare and women in technology"
-    excerpt: "Veda Data Solutions co-founder and political entrepreneur Meghan Gaffney was working in Washington, D.C., while the sweeping Affordable Care Act was being crafted. It was an exciting time, with widesp"
-    publishedDateTime: 2021-09-01T11:00:00Z
-    webUrl: "https://madison.com/ct/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.html"
-    ampWebUrl: "https://madison.com/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/veda-co-founder-is-passionate-about-the-intersection-of-artificial-intelligence-healthcare-and-women-in/article_8b3c895e-0cc9-11ec-ba0c-433c5662422d.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 52
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/2/cb/2cb9dc82-0cca-11ec-901c-df6cbc050c38/61323cf410d0a.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A."
     excerpt: "Hum Capital, a match maker in the private capital markets, just raised its $9 million Series A. Here's the pitch deck it used to raise the round."
     publishedDateTime: 2021-09-01T17:44:00Z

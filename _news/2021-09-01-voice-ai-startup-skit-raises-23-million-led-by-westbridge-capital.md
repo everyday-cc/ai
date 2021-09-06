@@ -72,38 +72,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Voice AI company Skit raises $23 mn in Series B led by WestBridge Capital"
-    excerpt: "This follows a Series A round last May, led by Exfinity Ventures and Kalaari Capital, AngelList. The latest funding brings the startup's total raise to $30 million"
-    publishedDateTime: 2021-09-01T09:04:00Z
-    webUrl: "https://www.business-standard.com/article/companies/voice-ai-company-skit-raises-23-mn-in-series-b-led-by-westbridge-capital-121090100662_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/voice-ai-company-skit-raises-23-mn-in-series-b-led-by-westbridge-capital-121090100662_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/voice-ai-company-skit-raises-23-mn-in-series-b-led-by-westbridge-capital-121090100662_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/01/full/1630485947-7193.png&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Voice AI startup Skit raises $23 million in funding from WestBridge Capital, others"
-    excerpt: "The capital will be used for sales and marketing, building delivery capabilities and R&D to speed up innovation and further enhance products as well as global expansion."
-    publishedDateTime: 2021-09-01T10:28:00Z
-    webUrl: "https://www.financialexpress.com/industry/sme/voice-ai-startup-skit-raises-23-million-in-funding-from-westbridge-capital-others/2321943/"
-    ampWebUrl: "https://www.financialexpress.com/industry/sme/voice-ai-startup-skit-raises-23-million-in-funding-from-westbridge-capital-others/2321943/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/voice-ai-startup-skit-raises-23-million-in-funding-from-westbridge-capital-others/2321943/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 51
-    images:
-      - url: "https://images.financialexpress.com/2021/09/Cash.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "1o6Jxdhtp27zK6xKa5QoxO4Q8jm9XhBcGiCtiG/iidWImU7gDofipsKod40jU/DbJclN0m0+V0M1iid+Mocip+xBlXZDgiP5jRFJ0fdOGDMuT9Mv2LfNrEv/XC0k2IigLzSBrgBAnaCx+klNWVkkVRe71jp+UpJ+xOo0ZT0lkTyzQm5NlEF463fmNVCoZQ7VwGVZw290P8cHMqxqBvvlrSASeS+sUiPsz5jvxi2lsChsPHsPcfwdEiNJPTwWxwGImcsr/ULqE8V/szVYrxpusYK72tBFB581/3gJyISpC8610MlX339VRomxveb5j9vmY+A7ubUV5usjZJMrT3F3zD6LFq/tyi+73vAU/rqv47j1USJ+yC3hTP7yxs37k/GIKQCSv2PN5kcQB7WJTl1lJtWHEFJHQF/bd6fHECL60lNFKUZiDd81VLPg21PZgU6RJ+I3wXtC0d72j++DkA3NwII+pClaGtwtmJLU6eXgvi4MBHOsh02vF0Y73KRuMHOZVIigTzYK5GuRCQxs9FWhrw==;8fyBObO2zO0yWq4euHJQlw=="
 ---

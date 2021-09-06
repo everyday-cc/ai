@@ -21,15 +21,6 @@ topics:
 related:
   - title: "These robotics and automation stocks could climb up to 68% in the next year"
     excerpt: "Below is a screen of 24 stocks held among five exchange-traded funds that focus on companies involved with robotics and automation -- booming technology for companies involved in many industries around the world."
-    publishedDateTime: 2021-09-01T09:20:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210901397/these-robotics-and-automation-stocks-could-climb-up-to-68-in-the-next-year"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 32
-  - title: "These robotics and automation stocks could climb up to 68% in the next year"
-    excerpt: "Below is a screen of 24 stocks held among five exchange-traded funds that focus on companies involved with robotics and automation -- booming technology for companies involved in many industries around the world."
     publishedDateTime: 2021-09-02T07:28:00Z
     webUrl: "https://www.morningstar.com/news/marketwatch/20210902355/these-robotics-and-automation-stocks-could-climb-up-to-68-in-the-next-year"
     type: article
