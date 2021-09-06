@@ -39,20 +39,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "The Coming Identity Crisis for AI"
-    excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
-    publishedDateTime: 2021-09-01T21:05:00Z
-    webUrl: "https://www.discovermagazine.com/technology/the-coming-identity-crisis-for-ai"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/65XSymbGJEL7F2ovzt3sy9/d77df1e9d0a8904ebba41da5e02d87fb/shutterstock_1178406460.jpg"
-        width: 1000
-        height: 625
-        isCached: true
 
 secured: "3QhMWzjjXTe8KcUsnEOEll+chrsZkGLvjFjcgZXLH4ljm/JBG+X97vJLGtl38TjfoXFdjgMmqmThxcG10qQJ8FzcRAH79YDer+68pt8umQIG1Xd7dBRX9TORkxio/ti6rcLa+LxtDTEUOnFxjlnVtrfnM4qtE4KRT7mc7KM35afA26iSIgOZG0bd4gsl7NZjit90yMurfZeZgGI1cVyRDhcMZABVesou4IZ/tNlPY0UH0DZHz9yxA7HrI/8/+NADVkLxWsO85OVV1PElwRFw6t1XTGNRzGggG+YK6zqh1PR8jA78o471+bN/zYyyJTV8Q0Qiw9S2qfA5/0+GOMgCIBmTKJz6gUM+WJFfQd+VJZU=;mo8GqMloDYOGq0TuHzHLPg=="
 ---

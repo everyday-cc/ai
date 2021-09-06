@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "C3 AI Announces First Quarter Fiscal 2022 Results"
-    excerpt: "(NYSE: AI), the Enterprise AI software company, today announced results for its fiscal first quarter ended July 31, 2021. “We began our fiscal year 2022 with strong results in the first quarter, including year-over-year increases of 29% in revenue and 31% in gross profit,"
-    publishedDateTime: 2021-09-01T20:16:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-3d3211a53f6b47158cc3295d309d7d12"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ex4gfnQFf3BU0ZD5w3awjRZeWsOofiM4ZZFEK3S1oIbuFN7znNfR0zMQKtFRsJF0WxDe8CIffYd3lPZuMqXVaFwwmhYnodddXgSyo2TXVNsT+ld/FbqCOLaQAgoP8gxc9p5yojr+4glQk55LSYz6Z1oeigs02mNb2ypKjrMdnY9u/qa2bGLPqO2M4yOXTMrq3SjtKcXev/CxHm0EoS90oBEn6K+XbCdAGBDfrh9bKXRKUb9wOgIqWcEGpqPSVgkJ/SLV04Eyf9PEedjLqNq5YE3D4HT4dCzpjtw+88Kytr6c9i8oJU3jU44hByldKqr3Lb1r60yWQ5EyM/ZGfJhoIXOUnc+8hlXePiz7LiJ1cpOQ5Z6/qFsFKOtn+1PR9nCznwCS/m12xAIdPaYySRsvQb/V/vqshrZatoX0hidKSGj/n/RkDUohKmh+LnCP/mMcBki/fF/obP9xJnDZtMHF/rXrIM6/ZjfUW1UR22jeaZQaj57fclziwu2c3nGTLb8VNUhT4hSfuXcTKgBkNas63g==;qUJCo7PbbxRCjWWJ/2Wshw=="
 ---

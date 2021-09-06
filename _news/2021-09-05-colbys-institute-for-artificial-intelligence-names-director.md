@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscentermaine.com/amp/article/news/education/colbys-in
 cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: newscentermaine.com
@@ -35,20 +35,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "The Coming Identity Crisis for AI"
-    excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
-    publishedDateTime: 2021-09-01T21:05:00Z
-    webUrl: "https://www.discovermagazine.com/technology/the-coming-identity-crisis-for-ai"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/65XSymbGJEL7F2ovzt3sy9/d77df1e9d0a8904ebba41da5e02d87fb/shutterstock_1178406460.jpg"
-        width: 1000
-        height: 625
-        isCached: true
 
 secured: "nu11sSHLQXjMcgV7UtZrdt+Fm5m/5LSROolEonT199QbXY5cvBC46Nne3fhaw1DLz3RETsKERu3j/26l9j9Zbft19Eof+PJMyjatmhLr8q4D4sfVVZ2rvou6fcoXq1k5ZZ0gBedyTs0jgYPYWbppmbekPT6yXxv35mjbpWUvYHIwiCf+17Xw8AWis4qRBAhQoHSrHAfSPI87sXK5R+xARgWz93fbqknxjVxeH2D50sIrDEu0TYWGYBimPffCUeWk+stJGnpxKs9xpXwF2wUu+cAibHZeQLFvKsV4Dnf8qyHPjgYUWWyQZa6ip0k29EfX9Hr+gsoH5xa9lBrMZZucnXNxUf9RYpBrS3zKBaJvyy+ykGP+1sVG3bzl/pMF3WwxZ0qePCoqIk+HNlGqGbpUrYfbW1pyc5NR/+XHzOlfJfQkzVzJQ81uWUeYNRWD0/bfs6+SmISS1taGlfVQFqqyCgAPzcCTZlxmnufz3hk2A29xY9UWtDhFSU8ioOeKjUFqYgPTeQyrOoSZu22RnY2jtw==;TXV2wuaNfQAwrP8IuDcAfg=="
 ---

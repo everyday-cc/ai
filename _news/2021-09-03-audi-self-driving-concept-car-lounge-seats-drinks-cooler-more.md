@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Audi unveils its Grandsphere self-driving luxury car"
+    excerpt: "Audi has offered a preview of its luxury-car future with the unveiling of the Grandsphere concept car at this week’s IAA motor show in Munich. The German carmaker recently announced its intention to stop developing internal-combustion engines by 2026,"
+    publishedDateTime: 2021-09-06T11:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2021-09-06-audi-unveils-its-grandsphere-self-driving-luxury-car/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2021-09-06-audi-unveils-its-grandsphere-self-driving-luxury-car/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-09-06-audi-unveils-its-grandsphere-self-driving-luxury-car/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/V3G5SAEZT3IRHOb1gX-U1e-gT7oXVGLqQd0rW-C2NEtotBb7wGNdkjtN4k1-DtL47WaSurWc5V-RNzz8eLKAnZ8yua3XggCy-JKfe2GlaQS_=s1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Elegant Audi Grandsphere concept car previews self-driving luxury future, with 711bhp"
     excerpt: "AUDI has taken the wraps off its Grandsphere concept car, a second glimpse at how the future of autonomous driving could look, after the recent Skysphere, in a trio of sphere-themed design studies being shown this year."
     publishedDateTime: 2021-09-02T17:27:00Z

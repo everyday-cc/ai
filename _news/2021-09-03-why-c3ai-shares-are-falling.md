@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-a
 webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-falling-1030777749"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3 AI Announces First Quarter Fiscal 2022 Results"
-    excerpt: "(NYSE: AI), the Enterprise AI software company, today announced results for its fiscal first quarter ended July 31, 2021. “We began our fiscal year 2022 with strong results in the first quarter, including year-over-year increases of 29% in revenue and 31% in gross profit,"
-    publishedDateTime: 2021-09-01T20:16:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-3d3211a53f6b47158cc3295d309d7d12"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Enterprise AI software firm C3 AI delivers mixed earnings results and its stock falls"
     excerpt: "Enterprise-focused artificial intelligence software firm C3 AI Inc. reported mixed fiscal first-quarter results today and was punished in after-hours trading as its stock lost more than 8% of its value."
     publishedDateTime: 2021-09-02T01:13:00Z

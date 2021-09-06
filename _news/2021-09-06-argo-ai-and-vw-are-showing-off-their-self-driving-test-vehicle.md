@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 120
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
-    excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
-    publishedDateTime: 2021-09-01T20:35:00Z
-    webUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august"
-    ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 41
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "Volkswagen ID.Buzz self-driving prototype forging ahead with public road testing"
     excerpt: "Volkswagen has teamed up with Argo AI to develop the autonomous ID.Buzz electric vehicle..Volkswagen ID.Buzz self-driving prototype will be showcased at the 2021 IAA Munich auto show."
     publishedDateTime: 2021-09-06T09:12:00Z
@@ -94,6 +78,6 @@ related:
         height: 600
         isCached: true
 
-secured: "IqZZr0AzgGo3hCr0qsFovDlh4lJKHed0/dZxUiVIIWz6FY+WZYBjJUstt0H4T8CXb4V61sqfngvxie2BiFTKo+02nZaXh9yygS8FA7qpjHdiqeAYNX+oRMfn8Pr6slz+nUbzz5LSi94VBCnWRZCMRvC+VdfMUqLtZbvzVSX3FwWGg3iR7s0SN9iUkWGYsI/HjnQRt4DhTKqYeuEMMHKD1ek6NZu+mWf91EAfquY6TZCjvbYygOabLnjamPR86QnsHthg4OG/axXl8OPnMCec85IIm5TINbV03otycq27cuZbLFJG8Mvd7x3QWWHK/Tl+A7/yoM/J/V0IBq+IWXSu0csr5TbaRonTRM+xR3PA+ls=;cRF83hAMv9XJcJ8V5l8FeA=="
+secured: "/Ok7oLlwrYD6o8KcvsCBbev2vIXkxduoRQsvm00CRkgMnRotQ6p9+tSSeU1A64LJbPLH00tzDpnRJnFdIAL8Al9zq3bP7Oglrq4fPlks6WECeWgXPnPS5eXnSRbcsArEGNwFF3hCFgRiWc45sqwnynyqxlCbUWhym5y4De2KHPCYJesYnQCdq3InR5c0EB9WlMGrJloaKZhnwf3morf6wtVIYnJRwF8aTI1HP/gl/mmUyKQ3fGIJoGGBdg/LejjaxjlyAo5OgzWa7stkf/ag+ouAvtBzFW/eLP9oazNeodpBfggMUZ7WukuH3DAek0P39Z356KJbfRYYQeilaYY8C036dzZvrwVSl6zusVUs1Xnt+jDzcDvN8EGFRrUIivxZ/MoI6wk0MyxE6OG0V1v/mNdzhu0dy2pb9X7pyDt6myYgcL9/BxUseU5SEH8ZpiunKX7B5ajMCMAHN6X1f03ss1Vas3EpdaF7itXQK7S36Jy7kNUpRmTPCN600Z6BhR+omaK6xg/f66nXeGRFn5v57Q==;wegvbAp97QxKOzyn76DqEA=="
 ---
 

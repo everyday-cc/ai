@@ -3,8 +3,8 @@ category: news
 title: "Fundamentals, not fiction: This fund wants to help startups scale with AI"
 excerpt: "As the scale of startup growth has soared over the last five years, founders have gotten locked into an endless search for funding. Investment rounds are getting larger, and startups need more cash to accelerate and justify their valuations."
 publishedDateTime: 2021-09-02T06:21:00Z
-originalUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai"
-webUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai"
+originalUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-705815"
+webUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-705815"
 type: article
 quality: 46
 heat: 46
@@ -32,6 +32,6 @@ related:
       domain: techinasia.com
     quality: 46
 
-secured: "nxlh3Tlc3NJETuSvMw//46qjayzYyGdVW06wP511HC8BegN+VtrEKjVgb63N7LDP97loTsDrR2hU5ARb2YGJBWmaD/d75SwjxS5I/3A3WtMJAiGmhJ+6lR7j+1x1Xcp50KDjrD38AkYi2Em4Ipr9bMzd3i96Uw9wxsF4hlbx8UyIC7bGDCUbqBMbesnnYILilBd8XXAro1Eyb5HnfpUmTRfrdSB0yvLRj5Q3PoFhI75OKUml3lPiIeSzkLfJ9EMFgWKDq09V1mirqDDp+kMYRyy7RUz40LwtVqxCcXbG/QSOFhh9744tZYGqnUHBiYivIXfGBHrD0GpW1Qz4Vm3RwIFRpUDIY1wD8kLMpwAL6ig5eo9zy9fP4RphE6iEAwJd+U/h72qtgt0PUcT/NA5/UR2n7NnKuMUTs579DutyyWyIDZZ3g5uLSh9HRQW+n7ubIr1p4hfDEeopXBla1UiEn7APgY3EqD4CkWQxwA+yySR909UHoPuDc2sIVlBuvCc/7EMtZab8VBmIynru+dj04g==;aDXBxIgb6F8I7Yk0lA4PVw=="
+secured: "dZdKPIz/HFL4ESjh2wtWSNQGq96cjQUKyJAkPEux7N4FDKT6NGRKoLapr0fTW5SfcXoEHfp8XYi93xhSto5dYaQX4NtUDlLJiPxmSXmHGTqHM+3qZEEs5qU6JqVnWcGU+c6yZ5q8S24eearC1VwdzTR3sVmbvxR6k6c2nrj9iQpjbv6Rk1A1SwHhRAY9kuRJv1WhHkZIGRCK46MtZI+fsl7ckxzMMB2ouUNvwWpYHhaP5UPzv7JG2XRFLTeYR3rBlKlVdZlkALDoJRNFFddalBEMNtuy8snh2lqqWYjYK7h78p+xZIhvXBcSh04f7oK9vLyTjJn7yCjz32/B4GFYmc+YCQaDr5CHbzKuhwgw2Rfdw5kBFGzD2FwzL0G26/FkNrH6j28e7C9xKson2HFAyVB7BkaXUgEbGsFRx4NKYGeHsgE1ai2MsQv73Hwv3oU78hmgOifVG6AVEcdoFR0qnZgJ3M8rxD2Wr4yOh8e7hmEGBm7pYPEquw1b5DRvUHXLeQoTy6jkmYlcmKy1YU4KuA==;i0uLq5QM2cJU+ZIvdIFKZw=="
 ---
 

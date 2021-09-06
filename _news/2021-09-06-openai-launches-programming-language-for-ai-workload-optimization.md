@@ -1,25 +1,25 @@
 ---
 category: news
 title: "OpenAI Launches Programming Language for AI Workload Optimization"
-excerpt: "San Francisco’s company OpenAI has released Triton, an open source, Python-like programming language that lets researchers write efficient GPU code for AI workloads."
-publishedDateTime: 2021-09-06T06:48:00Z
-originalUrl: "https://www.just-style.com/research-reports/openai-launches-programming-language-for-ai-workload-optimization/"
-webUrl: "https://www.just-style.com/research-reports/openai-launches-programming-language-for-ai-workload-optimization/"
+excerpt: "Concept: San Francisco’s company OpenAI has released Triton, an open source, Python-like programming language that lets researchers write efficient GPU code for AI workloads. OpenAI says that Triton makes it feasible to attain top hardware performance with minimum effort,"
+publishedDateTime: 2021-09-06T12:42:00Z
+originalUrl: "https://www.mining-technology.com/research-reports/openai-launches-programming-language-for-ai-workload-optimization/"
+webUrl: "https://www.mining-technology.com/research-reports/openai-launches-programming-language-for-ai-workload-optimization/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Companies
-  domain: just-style.com
+  name: Mining Technology
+  domain: mining-technology.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/09/shutterstock_600203855.jpg"
+  - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/09/shutterstock_600203855.jpg"
     width: 500
     height: 334
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "koyebJa/X+mrQ0x/XnTjRyD/Ms6W7cM110nGlNFRRIcu03MJECx+6rzb0KZOoQPbLNpDVwNpeClbKJjJ5trCbaweGLWtiuR4pMQeN0h1mqSyIY7FD0CyBBS6ng6aAmcDWvP55MegAAl3JCv6Fj7qXUkp7lHHBTDOs5GhYK3sulBHuJf7K6y/PAsDHhly0/22gHN5kP+RFCepVfRRhjW78oVNO2lbJj2M+VYK8b4a1kN4PWB1KitLqEbOIDsXiW22SprF3xr5NbSSNruiGXXN/9x+qVF/yUAL/oZroDeOlOerx+LGSTpXS8hgh9BcdSmp8SSYZ8QHmoKJUrYYJLRzFZd42VoiKFK58vXXscvbkibpkWq+3UmTfjSQKpEoiqYcZTuKsLt/IYrQVW0ctEuJwspGf0/49dYSarAw6vni2EOgckWxQ19ZK1UNafo+m2E77dzwvznujDLemkUefLu3R+vcbebjo1occwhaQI0I/jhtZOA0fs5oebRpcpfGzBNhTS6nCzVVRqkFK9s/HmFtHQ==;NU8oHCqoZll7RQAf31yKWA=="
+secured: "KgXVieyg4JorYobPsvoMdeWOoF0r4HpBRGsKVpLobsSzcVnrZizPT/SFMuuPO7TIvtKmWvWXz8iudyv3XxV5qVbAvg6zvkNpnC+wwBQxzhpBlw7DRRK7HKNMzBD3Q+BGxbxzgIf6pOwjQBu6a/wGxh11l6s8Cdv7JcTOs6aOpZNhih8T6q8KXZ42pB/fRUub3KyvaQERROKT0FrTEZar6nuBHlrULLEwZgT4VK8qPc704oOIIHGzG5fNSz2rHsENf1T4Rw1UqSZp2khwaBQKVV3sJnDDaKjh0n6tcjMcah99uw+7tep6Ueax67pz+ktWoXxV6LAnSHHGcxj2SyH4o77Wu3DXos0DcKZpHS+hDDM=;AVmTTormGHkqzYcQ+xf9dg=="
 ---
 

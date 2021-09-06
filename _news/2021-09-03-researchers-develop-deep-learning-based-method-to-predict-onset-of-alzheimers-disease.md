@@ -59,6 +59,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Machine Learning Tool Detects Genetic Syndromes in Children"
+    excerpt: "Children’s National Hospital researchers developed a machine learning tool that offers rapid genetic screening, potentially accelerating the diagnosis of genetic syndromes in children."
+    publishedDateTime: 2021-09-06T13:32:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-detects-genetic-syndromes-in-children"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Data_funnel.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Using machine learning to accurately identify genetic syndromes in children"
     excerpt: "A novel machine learning technology has demonstrated impressive efficiency in detecting genetic syndromes in children."
     publishedDateTime: 2021-09-02T13:11:00Z

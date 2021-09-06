@@ -9,7 +9,7 @@ ampWebUrl: "https://www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-
 cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/amp/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Audi unveils its Grandsphere self-driving luxury car"
+    excerpt: "Audi has offered a preview of its luxury-car future with the unveiling of the Grandsphere concept car at this week’s IAA motor show in Munich. The German carmaker recently announced its intention to stop developing internal-combustion engines by 2026,"
+    publishedDateTime: 2021-09-06T11:53:00Z
+    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2021-09-06-audi-unveils-its-grandsphere-self-driving-luxury-car/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2021-09-06-audi-unveils-its-grandsphere-self-driving-luxury-car/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-09-06-audi-unveils-its-grandsphere-self-driving-luxury-car/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/V3G5SAEZT3IRHOb1gX-U1e-gT7oXVGLqQd0rW-C2NEtotBb7wGNdkjtN4k1-DtL47WaSurWc5V-RNzz8eLKAnZ8yua3XggCy-JKfe2GlaQS_=s1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Audi self-driving concept car: lounge seats, drinks cooler, more"
     excerpt: "The Audi Grandsphere is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
     publishedDateTime: 2021-09-02T20:17:00Z

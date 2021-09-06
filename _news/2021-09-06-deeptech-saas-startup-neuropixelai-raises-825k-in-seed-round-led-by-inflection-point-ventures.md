@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/deeptech-saas-startup-n
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/deeptech-saas-startup-neuropixelai-raises-825k-in-seed-round-led-by-inflection-point-ventures"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deeptech SaaS Startup NeuroPixel.AI Raises $825,000 In Seed Round Led By Inflection Point Ventures"
+    excerpt: "The funds raised will be used for scaling up research and development (R&D) team to accelerate the transition of product from beta to production"
+    publishedDateTime: 2021-09-06T09:12:00Z
+    webUrl: "https://www.entrepreneur.com/article/383793"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/383793"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/383793"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 73
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1630919511-NeuropixelFounders11.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Inflection Point Ventures leads seed round in NeuroPixel.AI"
     excerpt: "Deeptech SaaS startup focused on apparel cataloging, NeuroPixel.AI has raised $825k in its seed round led by Inflection Point Ventures."
     publishedDateTime: 2021-09-06T09:56:00Z
