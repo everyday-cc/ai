@@ -57,20 +57,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Facial recognition technology gaining speed within federal agencies"
-    excerpt: "Federal Drive with Tom Temin spoke to the director for science, technology assessment and analytics at the Government Accountability Office Candice Wright."
-    publishedDateTime: 2021-09-01T11:34:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/09/facial-recognition-technology-gaining-speed-within-federal-agencies/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/2020-Candice-Wright-1.jpg"
-        width: 2172
-        height: 1449
-        isCached: true
   - title: "New non-contact facial recognition software monitors a baby’s vital signs"
     excerpt: "Researchers have designed a computer vision system that can automatically detect a tiny baby's face in a hospital bed and remotely monitor its vital signs from a digital camera with the same accuracy as an electrocardiogram machine."
     publishedDateTime: 2021-09-03T11:42:00Z

@@ -39,15 +39,6 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "Sequitur Labs Joins AI Day to Address IoT Cybersecurity"
-    excerpt: "Sequitur Labs announced today its CEO Phil Attfield will present on Embedded AI Systems and Software at Embedded Computing Design's (News - Alert) online event AI Day,  9, 2021. AI Day features education and thought leadership on compelling AI-related products and technologies for the engineering and design community."
-    publishedDateTime: 2021-09-01T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sequitur-labs-joins-ai-day-address-iot-cybersecurity-/2021/09/01/9440938.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "cD1DBR6VemJ2blRFXtwv5cvzJNNZGnRIpAAMK6cI1/76lyvfYwDEkqMAy0jVGhGtjtsk/2xQ2yE3TdrCf4AKmaVDEON6CHyAuN48gbNFmRC7JvFMJvJHJz0KZh0s9jLbykZWgMFKv0rhsNgqkj0y6KVPWuPMABj9Qx8/K6o9zwKjBpslwCi4Rp6GSRgj5dvlvH1TGv+lFZoMYCFjiz5heyDz7IIfQD0OxoeeoSL72mzZUPzs+LT41m5tgPlHD3jsZyPEE8mGe0gEG1lqvcL53ZnusLIr8lviNSdqNzprdXl3DaESaSvR/6DDazaZiVkIyGg4XDIO4xG2X9X+WzvB2fRBTB5IYqMU0bWSaznbOEc=;kE/JXB/vd96e+enukgf3zw=="
 ---

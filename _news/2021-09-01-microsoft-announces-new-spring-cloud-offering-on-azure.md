@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-annou
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/360736/microsoft-announces-new-spring-cloud-offering-on-azure?amp"
 type: article
 quality: 104
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -46,34 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Verizon launches private edge compute platform with Microsoft, as promised"
-    excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
-    publishedDateTime: 2021-09-01T12:14:00Z
-    webUrl: "https://telecoms.com/511162/verizon-launches-private-edge-compute-platform-with-microsoft-as-promised/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 37
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/08/iStock-1181748268-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "CubicFarms collaborates with Microsoft on cloud services for indoor farming tech"
-    excerpt: "CubicFarm Systems Corp., an agtech company, announced that it has selected Microsoft’s technology to launch the next generation of indoor farming technologies for fresh food and"
-    publishedDateTime: 2021-09-01T12:43:00Z
-    webUrl: "https://www.freshplaza.com/article/9351394/cubicfarms-collaborates-with-microsoft-on-cloud-services-for-indoor-farming-tech/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 34
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/VFD_com/2021/09/01/cubic.png?preset=OgImage"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "L9PACKWPKyzG3kxqdZlpTC3+SDImkGDC9U9hCAP2f3rbuxB5Xu8c5RnOzgkORKcITdOYcEQfDC54crRLXf3KGYpldo0S6qFzY7N4qmInc403eXc/o2UyLjN9FGgnBZyya6+fESawSwL/1M3bhB3pgUWX4SCM2UrvvsmcLh6q8G3Sj1mjiZgmLlW+DfHtsUKWbBmg95z4BF95n7kxndNap5D+sCeuM5qOA6UURkZ8EUP7JZuNaMA9O73XYqoBiNi39Ubuu2IWm1sdrecp2szVRCxBm1AZNJP6t7ZseCkHg4BfgHXi5n6xQEPeVg9OOS5xRIPceZucYuZ4L1qa1tQzxtsNNBsK844t/8vJxprfce4=;KpFu3r1DOpQXqpdJeX8QIw=="

@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Carbon Robotics Closes $27 Million In Series B Financing Round Led by Anthos Capital"
-    excerpt: "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weedsSEATTLE--(BUSINESS WIRE)--Carbon Robotics, an agriculture robotics company, today announced it secured $27 million in Series B financing from Anthos Capital,"
-    publishedDateTime: 2021-09-01T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=524464"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 47
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "w74u/VHoOcxo3LmoMtMmrK8AtSeZSgogJ7Y1mMMKdZZRYzKYcEu8SlqMSjr7X5YNdcGX7GWHshbKcMFpOoJ0jSRI5F46zPu7otT2Tx6ARb0mDfqScfavLezIukocHs2psBioZYhp34AIAXTJ1bvIywYYAmU4dtLR3NalBlOWHje938f6vkAn6Jd2ludMWPzON3CW/sYeIBazu8+pHOogribQxI+CxmZ+qpvi6hVoE9rHYWl4LTkcBNku3zIN4xVCR2uUGIUHO3VUEBjcB+C7DxFUoMFpftoJMs/ipLN57ICc7k5ji3G651ZPsmWywytfgpNG3ZJyXmMBHO2e6/NsvroZI6XiN9hivuCgMIpD0odLSB+lePtkUfDy/QDQ9l0IOaNcE3OVfCi+KtobEmAW4ggAjXpXVfumzeRV3Nm0WdrZHTr9aIpRgMXAeS3tSsr5dzkLeaC0AXXA1Qp5OXqHZiiINq9aiQNIdsCf/Qf6mz9zerz327q7r8T9qBfWxuTy/XPer7/RZoSVIImI86JfDA==;VKgJeF6lgh+ZhcOjbK4sMw=="
 ---

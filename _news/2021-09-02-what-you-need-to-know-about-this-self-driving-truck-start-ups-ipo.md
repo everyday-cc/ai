@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
         width: 1800
         height: 1200
-        isCached: true
-  - title: "Self-driving truck shipments to boom in next 5 years"
-    excerpt: "These vehicle shipments will rise at a whopping 186% from 2024 through 2026 as Level 4 autonomy moves to heavy-duty trucks and pilots across multiple regions. (Learn more about the levels of self-driving cars at Globalspec."
-    publishedDateTime: 2021-09-01T12:23:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17131/self-driving-truck-shipments-to-boom-in-next-5-years"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/131/17131/TuSimple_Self_Driving_Truck.jpg"
-        width: 752
-        height: 501
         isCached: true
 
 secured: "vqlx16SckhpsfM18etqR1QQAN8a+sIIe/NJsmvsgsU4r1fi8UhNKu3FGAZsHxKrgMH8BSmvg62KHaYOuSlPiGqyDlMufB1MgZSxWlQR2HeSXbtYlfwJJloRdXYJr4Mxz2T747TkJFI8jaEfen5sMs9JeWMMekmYAspKG+WM38YmlWorBsY8hPzWgFNf4QfQHHVOp00I8VXf/rbzC7CRookrEZiI7rB9Vojb2RXBk4EJeUVp36x2UtqOCwp5XoNypLU/ojByJPNwIpEQe1f/q5kU8v3eY+aJjNXuycSQbPHNIjbJKkD+bK+nlpJZrDcQps1e063L8iQoLtTEnf9SUjS+OHLZwrhoGIniSN7BN5v32WvpS6Jm7158Cze/vwLEnU1h+0ncDdsWJ2gQee3qnK9hlzDpU/mquTby5GG/Kz5nBgwhRnF5b9+WjTIwNCqMV5AnGvFDbmiskqOiaa4863/Q+F/cNttn+3BLVLaecOEWlNn6ofEGDswjMQC+UXEBx9h1POF5VZu/EsvgShA74XA==;FfIUBslpGt0CPWpKOEzA3w=="

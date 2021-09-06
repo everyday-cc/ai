@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 946
         isCached: true
-  - title: "Will self-driving cars cause driving to be illegal?"
-    excerpt: "In an opinion that may not be popular among the masses, IDTechEx’s new data forecasts that by 2040, self-driving cars will be capable of fulfilling mobility worldwide without accidents. By 2050, manual driving could be outlawed."
-    publishedDateTime: 2021-09-01T12:38:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17134/will-self-driving-cars-cause-driving-to-be-illegal"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "WI8NB7q7BjmmwaIWtRDdSZhYChcZP5vTHxkjHbATpDRHCLgFxaLBkr0vZ0HCLc/0mEGpcIbI+F+rPJUuwRUf+OM5LVlkhJNwVg3kgOZXTqJ0PP20D3IbEmL1I9U/LnGK9XWJ00ip/1PY/vu6HM8rKlcMFGQswoJGUmxXczJce6VQ8zgOY54CRoeLHqhdQ0H3MNFHQisq0Rl8F29LNVvI1BZqM+kxjJo2DweSbIGHGczjrx5wPXpssspzh1H1P9Xac1DFefLXE2w7PPD7AWU5D4Iwl2kJYALxPbef+g2chLmVX0nt/v9XUryDqWeRNdUGqR+tymWEZEcBYhmForDaUm64X5+LNoaALKzVOvBtCIGJTFb92sUApnwovc/v18jKNRgBcYDw17qtgk8F7pOPrPoRBPspIwM99tsyjO3gEmkFrKU2jPZLt9FqIrhdeCaKxUaiqDUeFaBbhUXDaoH+cs60k0bColsvPVSLlQ6YnofdpQQAG44pUUdvvwj5nEGa2HZNscUoBUOHoo09Km7MvQ==;OenvISU7GcC4jxdWjxaFUg=="
 ---

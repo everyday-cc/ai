@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-1
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI technology for heart imaging could improve care for patients"
-    excerpt: "A new artificial-intelligence technology for heart imaging can potentially improve care for patients, allowing doctors to examine their hearts for scar tissue while eliminating the need for contrast injections required for traditional cardiovascular magnetic resonance imaging (CMR)."
-    publishedDateTime: 2021-09-01T11:13:00Z
-    webUrl: "https://www.news-medical.net/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210901/New-AI-technology-for-heart-imaging-could-improve-care-for-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/9/Chris_Kramer.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "Health care AI startup raises $15M to label medical data"
     excerpt: "Centaur Labs is behind an app called \"DiagnosUs,\" through which users around the world analyze medical images and videos."
     publishedDateTime: 2021-09-03T13:25:00Z

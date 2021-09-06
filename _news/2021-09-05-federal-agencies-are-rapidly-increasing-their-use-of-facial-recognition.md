@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognitio
 webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Facial recognition technology gaining speed within federal agencies"
-    excerpt: "Federal Drive with Tom Temin spoke to the director for science, technology assessment and analytics at the Government Accountability Office Candice Wright."
-    publishedDateTime: 2021-09-01T11:34:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/09/facial-recognition-technology-gaining-speed-within-federal-agencies/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/05/2020-Candice-Wright-1.jpg"
-        width: 2172
-        height: 1449
         isCached: true
   - title: "Feds are increasing use of facial recognition systems – despite calls for a moratorium"
     excerpt: "Politicians of all stripes, computer professionals and even big-tech executives are calling on government to hit the brakes on using these algorithms. The feds are hitting the gas."

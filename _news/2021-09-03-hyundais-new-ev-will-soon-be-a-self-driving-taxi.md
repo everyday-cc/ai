@@ -9,7 +9,7 @@ ampWebUrl: "https://www.treehugger.com/amp/hyundai-new-ev-self-driving-taxi-5199
 cdnAmpWebUrl: "https://www-treehugger-com.cdn.ampproject.org/c/s/www.treehugger.com/amp/hyundai-new-ev-self-driving-taxi-5199964"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Hyundai Ioniq 5 electric robotaxi revealed with Motional autonomous-driving venture"
-    excerpt: "Will the Hyundai Ioniq 5 electric car be put to use as an autonomous \"robotaxi\" before the Tesla Model 3 or Model Y?"
-    publishedDateTime: 2021-09-01T12:00:00Z
-    webUrl: "https://www.greencarreports.com/news/1133433_hyundai-ioniq-5-electric-robotaxi-revealed-with-motional-autonomous-driving-venture"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 33
-    images:
-      - url: "https://images.hgmsites.net/hug/hyundai-ioniq-5-self-driving-car_100804409_h.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "zYf+BUxrdXZFIPlQKzUoflzb8SEJ3efQEAi4Wigi3S0MG2XDQmYKMNyZ/isiJGtCv0zRvhYWDPhW5D5pGPUQw5IFBZxmz4gdENziIvIykIJTuRoLEWgfMb91YShQ69YOF8bj36hqcqLcy5GiKDEanp7hMdza9jUaTBA11/z6Ibk3FL2ERfUOWGKRhL1UOrRALbIgg/1UN70K4Cxk0pnLS7Fg1bDcx9AUxfw5rA1MTlh5flh4fxPW72bl03pce8IPJKotqQs96MkzwLK3HDawlEeqiJoePWlCeu3RWsqaty97PPEtQZYsdbtveWzEeHVxy6v5IlFcQhn6ye6keIqxrGePZRXdF5fo/qI20omR7g9P2t4shLNxOZOkVQuJy66wPRbnXMbrjJK54vzS+KuT9sobXpZarzKl6I83u7bUFwVpZfBAFAoNsg+QBBf+QKgeGk2fNbT9KHzJ967dr3kqg3rQ4AvD8epQQ98MUdDPZ1Ak7urBiUy8mUe/Cjwr2RNCK4icLRpu47k8v7UYM9jsIQ==;ht5M/EpiUiOzpl8lAwtltg=="
 ---

@@ -2,6 +2,109 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-24-samsung-will-spend-205-billion-in-strategic-plan-to-conquer-semiconductors-robotics-and-more.md",
+      "title": "Samsung will spend $205 billion in strategic plan to conquer semiconductors, robotics, and more",
+      "excerpt": "Samsung today announced it will invest no less than 240 trillion won ($206 billion) over the next three years in order to expand its presence in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90921-samsung-spend-205-billion-strategic-plan-conquer-semiconductors.html",
+      "originalUrl": "https://www.techspot.com/news/90921-samsung-spend-205-billion-strategic-plan-conquer-semiconductors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-24-image-10.jpg",
+          "width": 3200,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90921-samsung-spend-205-billion-strategic-plan-conquer-semiconductors.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90921-samsung-spend-205-billion-strategic-plan-conquer-semiconductors.html",
+      "publishedDateTime": "2021-08-24T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-four-skills-every-successful-ai-product-owner-should-possess.md",
+      "title": "Four Skills Every Successful AI Product Owner Should Possess",
+      "excerpt": "The product owner is focused on providing direction and prioritization for the cross-functional AI team, ensuring everyone remains focused on the overall vision and road map.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/four-skills-every-successful-ai-product-owner-should-possess/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/four-skills-every-successful-ai-product-owner-should-possess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123f73285d953dad6d58199%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/four-skills-every-successful-ai-product-owner-should-possess/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/24/four-skills-every-successful-ai-product-owner-should-possess/amp/",
+      "publishedDateTime": "2021-08-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa.md",
       "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
       "excerpt": "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was led by Octopus Ventures and comes less than a year after its $3 million seed round.",
@@ -1084,92 +1187,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank.md",
-      "title": "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank",
-      "excerpt": "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash-300x219.jpg",
-          "width": 300,
-          "height": 219,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
-      "publishedDateTime": "2021-08-23T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-air-charter-services-market-size-trends-and-key-players-gama-aviation-air-charter-service-air-partner-netjets-delta-private-jets.md",
-      "title": "Air Charter Services Market Size, Trends, and Key Players – Gama Aviation, Air Charter Service, Air Partner, NetJets, Delta Private Jets.",
-      "excerpt": "Air Charter Services Market was valued at USD 25,574.6 Million in 2018 and is projected to reach USD 34,930.2 Million by 2026, growing at a CAGR of 4.04% from 2019 to 2026. Get | Download Sample Copy with TOC,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/air-charter-services-market-size-and-forecast-2028/",
-      "originalUrl": "https://manometcurrent.com/air-charter-services-market-size-and-forecast-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Free-Space-Optics-Market-Including-Key-Players-Market-Share-1-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/air-charter-services-market-size-and-forecast-2028/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/air-charter-services-market-size-and-forecast-2028/?amp=1",
-      "publishedDateTime": "2021-08-23T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

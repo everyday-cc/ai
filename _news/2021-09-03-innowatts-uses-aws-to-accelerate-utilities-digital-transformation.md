@@ -7,7 +7,7 @@ originalUrl: "https://electricenergyonline.com/article/energy/category/ot-it/53/
 webUrl: "https://electricenergyonline.com/article/energy/category/ot-it/53/916450/innowatts-uses-aws-to-accelerate-utilities-digital-transformation.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Innowatts Uses AWS to Accelerate Utilities' Digital Transformation"
-    excerpt: "Innowatts, an industry-leading artificial intelligence-enabled (AI) software-as-a-service (SaaS) platform for global energy providers,"
-    publishedDateTime: 2021-09-01T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innowatts-uses-aws-to-accelerate-utilities-digital-transformation-301367244.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
 
 secured: "185EK4dYY/5HoRAxmRFBrdQlONYjJOZGEKaUxBebwB0P63Y89nw0NsnALAvw1t9pyn2uK39w911evVa6ZzGtFpjeRfulwAxqA+bgfL0h/8pUtBJ/sWQA1Z38tekTbM+JfAKwRp94xLwVudUZK4/D/Ol81eWvNVdeOWqrKoG2KOB50Xs7vT0LlhHL2CyAtVygefYd3UDG1QOJG3iDgq8/g51/Zl/cTUq03R9MBPY5cPW5H4+VzRJkoI/vILGCblNwE24qH8ybwb7eSCqpoPgvAWdFjH6wv8HD32LU8Ld/UN1OYoztbotfNtV7f4o5GCgey7Lrt8Uy17PnkxANPNhNpgFotrZgZLW2zK3i9AjUrIY=;4SNJypjkPns28K2CKgwcEg=="
 ---

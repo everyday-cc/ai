@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "This is how AI will accelerate the energy transition"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Espen Mehlum, Head of Energy,Materials"
-    publishedDateTime: 2021-09-01T13:00:00Z
-    webUrl: "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/"
-    ampWebUrl: "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/"
+  - title: "Sigfox and Coral join forces to spark IoT innovation with AI at the edge"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-09-02T12:27:00Z
+    webUrl: "https://iotbusinessnews.com/2021/09/02/78965-sigfox-and-coral-join-forces-to-spark-iot-innovation-with-ai-at-the-edge/"
     type: article
     provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 59
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 36
     images:
-      - url: "https://europeansting.files.wordpress.com/2021/09/robots.jpeg"
-        width: 716
-        height: 1002
-        isCached: true
-  - title: "How this AI startup is overcoming the challenges of cultural accents"
-    excerpt: "US-based artificial intelligence startup, Sanas, has been working to unpick the nuances of accents to make communication easier for people from different backgrounds. That could have huge implications for any marketer who wants to improve customer experience through voice channels by helping both customers and staff be better understood."
-    publishedDateTime: 2021-09-05T21:14:00Z
-    webUrl: "https://www.cmo.com.au/article/691050/how-ai-startup-overcoming-challenges-cultural-accents/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 37
-    images:
-      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/dreamstime_m_109924597_conversation.jpg"
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/partnership-iot.jpg"
         width: 800
-        height: 532
+        height: 360
         isCached: true
 
 secured: "MUouCUpe8ffKugM9J/OID3IFoIndcQbQ4PuUnNKNij9uKXY/vhBwdS9JSaaCztbdPi41HaR1Tuvru7CmQNsHDE9DNEV0X2t2x8qyUMfNdTkp8D80E3feXRyoxDXEzW+kbupjXG6LtmGtBGzhCstXU5hVdC6tharwic9SSrt3pwHhG7myWBYRUN5yEJkRiw3w0TEDcq7kK981Z0WEpcJYybLFscUH9pGYkb8BOru045UC6VZwPDuVxOQn+zBRg4dkdrz9l7hGiuhTIafAcLBxLhAySpKl9Gq98C0eYrV5+efAaNs0pZ7MSC1JWyq7NCTPd/dVl0nxCm4/2/OgpGKuGRzDch4uqz8S0fTvbySUBZmfBnw+cML0XGy+/B6C1VPvP0n+BTlQcwHDLaqn9sE1uJebMyZfDupYfmAm7vSpKpikjz5Pr5CJxqHOwZjBL9j+o/IRcZ5BLqRWzKc2mGIrh9ZTABlNmdQNNueILn3jmDVS7ndYkVhqK686ztmZNB5UPQgLHNRd/IXbGXH99EH3qg==;J0APjro/Az8sJYItq+iV9A=="

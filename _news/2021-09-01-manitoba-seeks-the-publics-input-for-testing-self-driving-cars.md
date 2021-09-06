@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "Self-driving truck shipments to boom in next 5 years"
-    excerpt: "These vehicle shipments will rise at a whopping 186% from 2024 through 2026 as Level 4 autonomy moves to heavy-duty trucks and pilots across multiple regions. (Learn more about the levels of self-driving cars at Globalspec."
-    publishedDateTime: 2021-09-01T12:23:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17131/self-driving-truck-shipments-to-boom-in-next-5-years"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/131/17131/TuSimple_Self_Driving_Truck.jpg"
-        width: 752
-        height: 501
-        isCached: true
 
 secured: "Pc3GrqliGlMYl4C/a9qdJkbGNNVTT8uU4HeZRTzS55yurUefGHlrVfw2jhPa5zJWzz/qLsYCtJPwP/VIZw/O5HK3HIigQDNGTcaJp6LFrZzxmPTo0yAldMW8nV2Ih3udgJUdJnhaOfq9IE+38+9VjvrdgKhm5HAd9U4tfCE7PI8bWEKp//+dgb6UioJ4yo8BN5aS5BOAdvpLPFkj/scUBIOSgviaS/16mPoQPo0Id5mvXPqo4xLFNF2B1XNah5NcP1cCm+iGlHi+M0w33DSlBpQkq+keapjHVTX0fG25lbSId8AzVks3FEt2KPGoLrR9KY0mgIbGywy4Am8zxoYFNE/bIQfgfEKZT2uX//zFC6I=;9KkKZ/7GcmDF3+1cq/y+ZQ=="
 ---

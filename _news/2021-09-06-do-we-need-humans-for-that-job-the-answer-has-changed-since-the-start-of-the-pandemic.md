@@ -8,8 +8,8 @@ webUrl: "https://www.pennlive.com/business/2021/09/do-we-need-humans-for-that-jo
 ampWebUrl: "https://www.pennlive.com/business/2021/09/do-we-need-humans-for-that-job-the-answer-has-changed-since-the-start-of-the-pandemic.html?outputType=amp"
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/business/2021/09/do-we-need-humans-for-that-job-the-answer-has-changed-since-the-start-of-the-pandemic.html?outputType=amp"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ULWX6DB3JZFW7N2FTAUILYNWS4.jpg"
@@ -25,6 +26,6 @@ images:
     height: 4000
     isCached: true
 
-secured: "Xyb6tfWqQEC66+F8IpAWTTh4YF39D8jk2XUSKUMrF7bFpglWdRXhQevcxnRSLtFoGwvQw8g20q2oC+VmGjIziHhjYJydTLdDP7MIhd2sK6xNm9Y3WcdxbP1D4MCIjG8P4tRlFwjzEz7ffeCOWVjgXAkJrxZI/a1KvIpD8zdCPacO7YOfDXyeVxsdH44OQFHKcbHd9ng9lQyRuw6KBVJpGc43TghEljHmQA81orZbyPsC6ScbS8KHU5JuQJhkMVnElRERRFKbMHebmAcByey2yPKA1WeEAOvorNUPu9SHorgz8/9mN/KHzBHQRfliuFnOlFjYTypKwWDgtIhL5o61FmNQGqcIEuhtEHynshiL1+w=;+Lw7UzRHeaVFXT7rikvxuQ=="
+secured: "o8kKRkeKMJVUGR3WQ3bFIge19WAQnJK04iFwIGLGLSL3l8gjtvVAsxYVW+l5F0JJtY/r15kH0Aht7VHcgryPyrEg7to/8r1yn5jWXfvWFxKRRSAXwFvEQg2bDNPn8NMNJJotXilaR89XHxt2e8rW/dVT4mBnesz7ygn6XJtx5FrSr9I2eGsg13/eHIO3TWPosK9GflEijkmyqJPRgO37+Q5J/LVGAKv/241DS2+5JXgSEJ0h6Tj8cIT1sFKc1aI9ShNj/mcdFv/AUF2kT0kMsqXpDIO/BsOnR2Zvo1Gr2PDpJgBbEAXixZthF3ML1Gmbt688brBZhQc5OidBdoSOaX+BQ9vxcjsavLZjaUyen3u1bAbnjQYQ2OTi0Vpbc1LIusVNcE7kAgiA0PTyFEYXAGYB7/+qmbNov3Ndg8ZPj8Zet4ytqGoFtXl3U4IfNR8qGdRpdXx4Bt80lToWlb3oKhsHhx3lQhk7FXpRkHuI6vWIBr4J6z8z2S5fh35qBZgsQgNF7UYFztFfMzLeQeOFnw==;w2LCeXFRaBubbsdCS9esJg=="
 ---
 

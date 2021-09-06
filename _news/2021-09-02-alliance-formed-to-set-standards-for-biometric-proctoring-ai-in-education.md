@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/alliance-formed-to-set-stan
 webUrl: "https://www.biometricupdate.com/202109/alliance-formed-to-set-standards-for-biometric-proctoring-ai-in-education"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "UK’s Ambition To Create Gold Standards For Ethical AI"
+    excerpt: "Public trust is the centre stone of professionalism, founded on Competency, Ethical values, and Accountability."
+    publishedDateTime: 2021-09-06T05:37:00Z
+    webUrl: "https://analyticsindiamag.com/uks-ambition-to-create-gold-standards-for-ethical-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/EthicalAI_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "1o2yupc0fk6BUWsLt7pS7cKn18F7h59GnBoUfHG9/Hx1cIc8V1+c8SonJcsLkwZtgjtxyYAQi3EsMwyvRsOX/5j66iS/oVB0ImGp7ULmM35aCgwymk2QZQoPsjrmynhcEZD9C9WUrTy4objo53B5zJV9eEGBKD8kbkXRkhfHwhpthdVPjKKuzItj6JLFW1/5T28yRWEYPDJyFgcy+TJQue+cjxhmZC01TeXq/QoUOo/VbauAm2MyUx1Eq3OrJKmAe3Y+AR+24042yRB3PRCc0G7WX8L20smegu1dIdgFCgc07OTM2CEylQSchKmXPtT6gDGantRBw1B4t/DCZOmClwCtmg8AJXKCsdgexTP8NkspIXbutlPxagpFMNHLVZ7SGJMx/5et20aS/Z4gi3zFUiIOBs7qzlpTRhMH5o7mPqRbqonud4VS/1huGcZ14kh+Prv8kMErcP3Uhhck/QFkRbXmf0zHxbCwmeG1pLR2fOb/EC2ZkgPW/ofY5H0KjWiyCPDgSIe5RCCBMUuxzOlV8A==;M6/xTtiWyL8RyN0HBa57AA=="
 ---
