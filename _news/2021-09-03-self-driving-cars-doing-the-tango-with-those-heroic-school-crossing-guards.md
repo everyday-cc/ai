@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/53/d533e33c-0ccd-11ec-9083-832f29bc0de7/6132433221252.image.jpg?resize=838%2C630"
         width: 838
         height: 630
-        isCached: true
-  - title: "How the city is preparing for the arrival of self-driving cars"
-    excerpt: "The footage, taken in July, is from a vehicle equipped with technology from Mobileye, an Intel subsidiary that is the first company to test a self-driving car on city streets. The arrival of the autonomous vehicle industry has prompted action from the city—with the de Blasio administration launching a new permit process for companies testing self-driving cars."
-    publishedDateTime: 2021-09-02T12:00:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/how-new-york-city-preparing-arrival-self-driving-cars"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/Mobileye-AV-NYC-Intel-14.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "u2taN/MHYbcLtYVPxi4dMfd8YLGKxzBpXgzVJKlTuWpq62upz7SzT+Ff9NHTI6iGA8TRur/OdrkJ1/A4mfvWbESGWQFZx3xVntIqbrvh+JiBesdfonp8VZWQwcUfN0ablXLMPEFb3BJxcB8vYZ3FB7oCsuYwsag+Vs6/adRdQBjd3VJE9ML8ilmdHACa6Thxwb5ib4e9Q1nvwVvcXz6hNGR8z/BxrR0uxvw3aYV5QRs+JFbzSnrGkHhwkZtJGrUYX+3TJyBnbZwvFAIpc9GpQ4mSw5lWoUiGXT5dexeJZ2fXewTLMIU+HAnJu8Sgp8MGGHSTag4+dlqOiOF05RDTz5l5gmFXLyiZt12aDceI3HZLrINHiD19/iGP6bPIAbwSkdCE7A7zj2uOi0R5CX+7ryzNGG+/w1ZZFwKYVMJGKv11RJlnDbPAvSMyeEINHaSj5sDHCgr7geUjBB9Fqy6fVtVkCUcsRaUupYptvoF3+/RKnvqKvaO6XltDHe4tf0Qt6wZxzewf5/fg5nOJ0sJu+w==;+/7NJgHaBOG7xKngcTdcSg=="

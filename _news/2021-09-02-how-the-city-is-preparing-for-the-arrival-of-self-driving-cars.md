@@ -25,35 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Doing The Tango With Those Heroic School Crossing Guards"
-    excerpt: "School crossing guards are daily heroes, and it will be important that self-driving cars can be devised to work hand-in-hand with them."
-    publishedDateTime: 2021-09-03T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
+  - title: "Argo AI and VW are showing off their self-driving test vehicle"
+    excerpt: "The companies hope to deliver commercial self-driving vehicles to be used for commercial services in Hamburg by 2025. The autonomous ride-pooling services will be run by a VW subsidiary called MOIA, a mobility service provider. Argo AI received the base ..."
+    publishedDateTime: 2021-09-06T11:52:00Z
+    webUrl: "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/"
+    ampWebUrl: "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602357e93d2febddf0f0dcb7%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D1632%26cropY1%3D28%26cropY2%3D1091"
-        width: 1200
-        height: 946
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/09/id-buzz0ad01.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Volvo waits for self-driving tech to improve before touting autonomous cars"
-    excerpt: "Volvo Cars has aggressively promoted its push toward becoming an all-electric brand, with the first such vehicle to be a successor to the XC90 SUV that will be built at"
-    publishedDateTime: 2021-09-05T19:00:00Z
-    webUrl: "https://www.postandcourier.com/business/volvo-waits-for-self-driving-tech-to-improve-before-touting-autonomous-cars/article_45c8c34e-0cc2-11ec-811c-7731825f1779.html"
+  - title: "Volkswagen and Argo AI reveal first ID Buzz test vehicle for autonomous driving"
+    excerpt: "Volkswagen Commercial Vehicles, a standalone VW brand responsible for the development and sales of light commercial vehicles, and Argo AI, an autonomous driving technology company, unveiled the first version of the ID Buzz AD (Autonomous Driving) on Sunday."
+    publishedDateTime: 2021-09-06T00:20:00Z
+    webUrl: "https://techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/"
+    ampWebUrl: "https://techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/amp/"
     type: article
     provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/53/d533e33c-0ccd-11ec-9083-832f29bc0de7/6132433221252.image.jpg?resize=838%2C630"
-        width: 838
-        height: 630
+      - url: "https://techcrunch.com/wp-content/uploads/2021/09/IBA_7650.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
+    excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
+    publishedDateTime: 2021-09-01T20:35:00Z
+    webUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august"
+    ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 41
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
+        width: 870
+        height: 485
+        isCached: true
+  - title: "Volkswagen ID.Buzz self-driving prototype forging ahead with public road testing"
+    excerpt: "Volkswagen has teamed up with Argo AI to develop the autonomous ID.Buzz electric vehicle..Volkswagen ID.Buzz self-driving prototype will be showcased at the 2021 IAA Munich auto show."
+    publishedDateTime: 2021-09-06T09:12:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing-41630912480440.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/09/06/600x338/VW_1630917535414_1630917550377.jpg"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "ToKzLhHzioCU3MRcRnH/YdWZ98IVZQ2Z+Kb8GVU5zPg+ZV3vSJ/1Pzqgb7yKuw1eI6JYp6J6mFeJrK1lFZtLLH0FPYvtyv+Z/FCrRKNWeFi9wCl7VEOYyrrGsxNgedVbPaPh7TBBjpCe5tci+RNCXQjIspNFHDTeKSpOGsO0to/CPbuFtbNAXgocjGXPiJ5BY6tnqwpZr+asN0uRallX1AEirzKRtZJaSWNFvccuEjJJUjBlw4ZpzGMLfLJ+BBFc61PwpTQsywpcmMY0t9s4rmGGYjDPpgSlgLR79Llp3boQ9Q+RIoM5BBQXdE4qKmAk1y4iGGnGyQ1z9/xuv0FoiPJFPc/PrziFoQlb1UibCm0/KKBaKxUYvzkaYrXgMgk7pMKgE1GDDucPlVV3jRZsVZ2fqmxQ/V5v4eHvD4nkHCW4mRCLKX/mEDxAPG5RByQTxae4LLOF7A/MN6cNlbnHD33Ee7zVVg9AMRSS+WP4FJiffJqee1zuJe9UT7eqLIYNQrDuJVg27gWECfVYEB60Xw==;0iKjHi27/e+fC6pvh7aC3w=="

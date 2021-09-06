@@ -55,22 +55,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Feds are increasing use of facial recognition systems – despite calls for a moratorium"
-    excerpt: "Politicians of all stripes, computer professionals and even big-tech executives are calling on government to hit the brakes on using these algorithms. The feds are hitting the gas."
-    publishedDateTime: 2021-09-01T18:49:00Z
-    webUrl: "https://theconversation.com/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
-    ampWebUrl: "https://theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/418725/original/file-20210831-17-1g1kwc7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=239&fit=crop"
-        width: 320
-        height: 239
-        isCached: true
 
 secured: "IveBc09qFlMcH/ZOuPBBEG0gVziaFeWa6N2Y2TObWAw7gzwL0DgWEfI7UWHgFHeMJCtoY79e1FKoowZo7xNZmajCqgbZdMrkl51AopbkzGsE7hHzM3AhthXqeTxVQno+jezaxkLgocKdPZ3z9vCpzMqR5lHtcA9RCG2LYznYbYwNWkfeMUEooD4dI0cgldGX0KPL5C/g6o0o3QVK3SLvcqW5Kjz6xFFxdsrp2BIYEfcoYQmhFk78WAIXd93Kty1LRyS8oRck4Fqplp09y2rdgxWaZiltCtGOQqGRbd8e3fEzJald+w/Dz2xdLZkUq0v0AR1inWMD51OLF/7ivP0iyVly1M8zQ+mmhBrnGJR31h8=;Uc9847i2Y0Lf5xJ11N4KLg=="
 ---

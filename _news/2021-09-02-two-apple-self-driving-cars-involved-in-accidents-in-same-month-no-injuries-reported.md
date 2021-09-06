@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
-    excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
-    publishedDateTime: 2021-09-01T20:35:00Z
-    webUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august"
-    ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 41
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "Apple Self-Driving Cars Involved in Minor Collisions for the First Time in 2 Years"
     excerpt: "Two of Apple's self-driving cars operating in manual mode were involved in minor collisions in August, according to the California DMV."
     publishedDateTime: 2021-09-01T19:37:00Z

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 946
         isCached: true
-  - title: "How the city is preparing for the arrival of self-driving cars"
-    excerpt: "The footage, taken in July, is from a vehicle equipped with technology from Mobileye, an Intel subsidiary that is the first company to test a self-driving car on city streets. The arrival of the autonomous vehicle industry has prompted action from the city—with the de Blasio administration launching a new permit process for companies testing self-driving cars."
-    publishedDateTime: 2021-09-02T12:00:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/how-new-york-city-preparing-arrival-self-driving-cars"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/Mobileye-AV-NYC-Intel-14.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "WI8NB7q7BjmmwaIWtRDdSZhYChcZP5vTHxkjHbATpDRHCLgFxaLBkr0vZ0HCLc/0mEGpcIbI+F+rPJUuwRUf+OM5LVlkhJNwVg3kgOZXTqJ0PP20D3IbEmL1I9U/LnGK9XWJ00ip/1PY/vu6HM8rKlcMFGQswoJGUmxXczJce6VQ8zgOY54CRoeLHqhdQ0H3MNFHQisq0Rl8F29LNVvI1BZqM+kxjJo2DweSbIGHGczjrx5wPXpssspzh1H1P9Xac1DFefLXE2w7PPD7AWU5D4Iwl2kJYALxPbef+g2chLmVX0nt/v9XUryDqWeRNdUGqR+tymWEZEcBYhmForDaUm64X5+LNoaALKzVOvBtCIGJTFb92sUApnwovc/v18jKNRgBcYDw17qtgk8F7pOPrPoRBPspIwM99tsyjO3gEmkFrKU2jPZLt9FqIrhdeCaKxUaiqDUeFaBbhUXDaoH+cs60k0bColsvPVSLlQ6YnofdpQQAG44pUUdvvwj5nEGa2HZNscUoBUOHoo09Km7MvQ==;OenvISU7GcC4jxdWjxaFUg=="
 ---

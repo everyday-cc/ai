@@ -54,20 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A."
-    excerpt: "Hum Capital, a match maker in the private capital markets, just raised its $9 million Series A. Here's the pitch deck it used to raise the round."
-    publishedDateTime: 2021-09-01T17:44:00Z
-    webUrl: "https://www.businessinsider.com/hum-capital-pitch-deck-series-a-fintech-fundraising-2021-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: "https://i.insider.com/612ea1b412b9cc0019639849?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "10 Indian AI Startups To Watch in 2021"
     excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
     publishedDateTime: 2021-09-02T13:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.unilad.co.uk/life/australia-introduces-orwellian-police-
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/life/australia-introduces-orwellian-police-enforced-facial-recognition-covid-app/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: UNILAD
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "South Australia Deploys Facial Recognition Quarantine App"
+    excerpt: "South Australia has deployed the Quarantine SA home quarantine enforcement app, which some have called \"Orwellian\" because of facial recognition and geolocation"
+    publishedDateTime: 2021-09-06T07:26:00Z
+    webUrl: "https://www.visiontimes.com/2021/09/06/south-australia-facial-recognition-quarantine-app.html"
+    type: article
+    provider:
+      name: visiontimes.com
+      domain: visiontimes.com
+    quality: 39
+    images:
+      - url: "https://img.visiontimes.com/2021/09/GettyImages-1334591569.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "South Australia facial recognition trial: Covid app blasted by Fox and Breitbart criticised over lack of safeguards"
     excerpt: "NSW Council for Civil Liberties wants a moratorium on the use of biometrics and facial recognition"
     publishedDateTime: 2021-09-04T06:34:00Z

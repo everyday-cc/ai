@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle.md",
+      "title": "Argo AI and VW are showing off their self-driving test vehicle",
+      "excerpt": "The companies hope to deliver commercial self-driving vehicles to be used for commercial services in Hamburg by 2025. The autonomous ride-pooling services will be run by a VW subsidiary called MOIA, a mobility service provider. Argo AI received the base ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/",
+      "originalUrl": "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/id-buzz0ad01.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/",
+      "publishedDateTime": "2021-09-06T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech.md",
       "title": "Veoneer Says Its Products Enable Level 3 Hands-off Self-driving Tech",
       "excerpt": "The automotive technology company Veoneer Inc. (VNE) said that its products enable level 3 hands-off self-driving tech. During the fall, Mercedes-Benz' DRIVE PILOT system is being introduced with performance from Veoneer's Stereo Vision and Radar products to support level 3 self-driving,",
@@ -138,7 +190,7 @@
       "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -189,7 +241,7 @@
       "originalUrl": "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -232,7 +284,7 @@
       "originalUrl": "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -407,6 +459,48 @@
       ]
     },
     {
+      "path": "_news/2021-09-05-colbys-institute-for-artificial-intelligence-names-director.md",
+      "title": "Colby's Institute for Artificial Intelligence names director",
+      "excerpt": "The nation’s first small liberal arts college to create an institute devoted to artificial intelligence now has a director. Amanda Stent will lead the newly formed Davis Institute for Artificial Intelligence at Colby College.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscentermaine.com/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531",
+      "originalUrl": "https://www.newscentermaine.com/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newscentermaine.com/assets/NCM/images/a168e324-f5af-498b-9a52-32f5027aa2dd/a168e324-f5af-498b-9a52-32f5027aa2dd_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscentermaine.com/amp/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531",
+      "cdnAmpWebUrl": "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531",
+      "publishedDateTime": "2021-09-04T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newscentermaine.com",
+        "domain": "newscentermaine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-ai-weekly-an-outline-for-government-regulation-of-ai.md",
       "title": "AI Weekly: An outline for government regulation of AI",
       "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Governments face a range of policy challenges around AI technologies, many of which are exacerbated by the fact that they lack sufficiently detailed information.",
@@ -511,7 +605,7 @@
       "originalUrl": "https://www.neowin.net/news/black-men-identified-as-primates-by-facebooks-not-so-intelligent-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -934,7 +1028,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1067,110 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-meet-the-women-making-waves-in-ai-ethics-research-and-entrepreneurship.md",
-      "title": "Meet the women making waves in AI ethics, research, and entrepreneurship",
-      "excerpt": "We've been chatting with the winners of VentureBeat's Women in AI awards. Here are the conversations, covering ethics, regulation, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/03/women-in-ai-ethics-research-and-entrepreneurship/",
-      "originalUrl": "https://venturebeat.com/2021/09/03/women-in-ai-ethics-research-and-entrepreneurship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/03/women-in-ai-ethics-research-and-entrepreneurship/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/women-in-ai-ethics-research-and-entrepreneurship/amp/",
-      "publishedDateTime": "2021-09-03T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai.md",
-      "title": "Centaur Labs Gets $15 Million To Improve Data For Healthcare AI",
-      "excerpt": "Centaur Labs harnesses collective human intelligence to improve the quality of medical data used by AI systems in healthcare applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61313372817d4e51c946dbcd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/amp/",
-      "publishedDateTime": "2021-09-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

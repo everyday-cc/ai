@@ -27,49 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Case for Artificial Intelligence in Recruiting IT Talent"
-    excerpt: "More AI tools are becoming available to help recruit and hire new technology staff. They take some of the burden off management to find the right people and also reduce bias in the process."
-    publishedDateTime: 2021-09-01T17:36:00Z
-    webUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent"
-    ampWebUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
+  - title: "Nvidia In the Lead in AI Chips and is Working to Stay There"
+    excerpt: "Nvidia is the leading AI chips company today and has prospects in future markets around the auto industry and edge computing."
+    publishedDateTime: 2021-09-02T23:39:00Z
+    webUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-lead-in-ai-chips-and-is-working-to-stay-there/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
+      name: aitrends
+      domain: aitrends.com
+    quality: 56
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/93d9cbb/2147483647/strip/true/crop/6000x3129+0+436/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2F9b%2F44fc45d24b5b9f92241cff803deb%2Fvirtual-ai-hiring.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Open Access Resources for AI in Schools"
-    excerpt: "Part of a Global Network of Internet & Society Centers (NoC) project on the Ethics of Digitalization, the Research Clinic convened a dozen early-career scholars to examine a real-world use case of AI in the public sector. The larger initiative is conducted ..."
-    publishedDateTime: 2021-09-02T14:50:00Z
-    webUrl: "https://cyber.harvard.edu/story/2021-09/open-access-resources-ai-schools"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 41
-    images:
-      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2021-09/joao-marcelo-martins-hFoPRRwjVgg-unsplash.jpg?h=6521bd5e&itok=WaKAxnJa"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "The Coming Identity Crisis for AI"
-    excerpt: "Artificially intelligent behavior is emergent rather than designed, which is why we have little understanding of what it is capable of. Now computer scientists are saying this needs to change before AI's widespread deployment."
-    publishedDateTime: 2021-09-01T21:05:00Z
-    webUrl: "https://www.discovermagazine.com/technology/the-coming-identity-crisis-for-ai"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/65XSymbGJEL7F2ovzt3sy9/d77df1e9d0a8904ebba41da5e02d87fb/shutterstock_1178406460.jpg"
-        width: 1000
-        height: 625
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3GPUchip-2.jpeg"
+        width: 550
+        height: 309
         isCached: true
 
 secured: "jjGluWlWjfWxfJNgbX6tna/4ihWfaktAa/8VYDVQcJeu8Oh7RKmT+dVrwr7gX+xcW1J+wl2jsjFo8cLkhpE4lQniM1S5EYaA6bQzbqkveFfN0t1lFmdxkaKKaH7icGT0rwGsq9QnRmVlcWbjT0scnyV0edC0BRxQu79d9lyIf8hgDELJdIhhqZTpWXwx4zZIcXRKouWcC/xY1fUbaRaeyhrgHMVF9QfFCZY+Md6MIjl+D0k1GGGYJii5ko3zqljHx9ZoYpSxsu7A/yqSEL04KP5vJEs3lT+tnMeeTJZkCOyoCgHaBu5BubkdBo9zB/eIRNMYTeNKGbanhUseN80C2t/0uRMSs/lqe0esneiME6pfW5jhQembpGb8WTAbYtrWZd4/0K61/z7gswJbvEctKJpqJSY3Ci3TQW62d4Y+x6CzDjF8apn+WGIRG3J5b7Hedc5C/WtEHFexgD3+zulXve8zCrhM9AIIbXL/oqGlEu6CauN60lcttRSbNL6s5BhcT5iPklZs+BNrEjDYpF0j6g==;7cEP4FR72BBfwOuDipnc8g=="

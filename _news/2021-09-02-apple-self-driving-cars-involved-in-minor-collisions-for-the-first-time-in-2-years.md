@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
-    excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
-    publishedDateTime: 2021-09-01T20:35:00Z
-    webUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august"
-    ampWebUrl: "https://appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/01/apples-self-driving-test-vehicles-involved-in-two-minor-collisions-in-august/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 41
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/44164-85830-Apple-Test-Car-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "Black Lives Matter activist to face trial for driving through California crowd, judge rules"
     excerpt: "Prosecutors allege that Tatiana Turner deliberately drove through a crowd of counter-protestors, while Turner’s fellow activists say she was surrounded by an angry mob and acted in"
     publishedDateTime: 2021-09-03T10:31:00Z

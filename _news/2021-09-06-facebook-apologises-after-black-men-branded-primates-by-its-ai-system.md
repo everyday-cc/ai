@@ -71,6 +71,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Facebook Apologises After AI Labels Black Men in Video as “Primates”"
+    excerpt: "A video on ubiquitous social media platform Facebook titled “White man calls cops on black men at marina”, published by UK tabloid Daily Mail, included an automated prompt by the social network, asking users if they would like to “Keep seeing videos about Primates?"
+    publishedDateTime: 2021-09-06T11:07:00Z
+    webUrl: "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/"
+    ampWebUrl: "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/?amp"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 59
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Facebook-Privacy.jpg"
+        width: 800
+        height: 520
+        isCached: true
   - title: "Facebook sorry for ‘primates’ label on video of Black men"
     excerpt: "Facebook has apologized for putting a “primates” label on a video of Black men, according to a reportin the New York Times. The newspaper said the video was posted by a"
     publishedDateTime: 2021-09-04T21:40:00Z

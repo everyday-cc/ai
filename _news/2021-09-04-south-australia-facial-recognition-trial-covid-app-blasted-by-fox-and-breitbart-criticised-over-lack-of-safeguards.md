@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 619
         isCached: true
+  - title: "South Australia Deploys Facial Recognition Quarantine App"
+    excerpt: "South Australia has deployed the Quarantine SA home quarantine enforcement app, which some have called \"Orwellian\" because of facial recognition and geolocation"
+    publishedDateTime: 2021-09-06T07:26:00Z
+    webUrl: "https://www.visiontimes.com/2021/09/06/south-australia-facial-recognition-quarantine-app.html"
+    type: article
+    provider:
+      name: visiontimes.com
+      domain: visiontimes.com
+    quality: 39
+    images:
+      - url: "https://img.visiontimes.com/2021/09/GettyImages-1334591569.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "fEhyWDv72zZa6I6fjLuat3wnLAayL+3MXpIHlwPeRtM1vq/anHMo1yL1BuwxIHA7uYFqCf86+v5J/MEMDiTjRU4g/De04gIiI4oCr76IvSkOT1r52QdE5cqftpCbDoG5agfhjb0JHloE80nKE7wajdHh6c9cxWKzqd5ZBo4ubKdbph0nKram8XGQPzgcxRDHN+wgS1bFpfTpOfshJkXYtIkXJUtOa4imT5kDrasVbUdrZ1FIhAKbW+G0iUsUlSjmAmZ9wOfy2XzGmBdG+jlp3grivhyiIOrJtm63I8T5ZPKmS95Kh5qkrLRkYNG/LK+IFfj2j4wYpDw5lOC64SiioNhR2Sc+6ud71RFe2zn14cVlNRt4GhfZdhTqydNFAi6pcwDD2RIsB0NkaqCYntRk8dMtLiAInW7RLoHSNHhpjk3XN5455f4cy6dBsA3WGAk1zyVl/osQLdCkKEHIIG4T1om4UHyVAHKEVpcaW1dRzROMX4QcxbNgzhXPxfXrk5O48JaiDgwp5NkPQb5dRboUMA==;T+dJH1xzqyoSaKbHHYi5BA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
+    excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
+    publishedDateTime: 2021-09-06T10:14:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/verizon-launches-private-mobile-edge-cloud-computing-service-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 49
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ice-mobility-700x393.2e16d0ba.fill-1200x630.jpg"
+        width: 700
+        height: 369
         isCached: true
 
 secured: "1vsZ+fAHQRi8FKt4XLifJY9C/K8xPbktmz02emy/r/R88akFF8gTEDnWeMMgArBoG3Ye5k+XG0ws4uUOzC404+YSvpt6y3t6fXiffK2knRtPLAA2RRNTB0QAx1SSx+7sNIDWhb79+IpAF6ZzPseqaduHQ9x/rVBz53Tm/uGb2oWdEaViKmYZnMibgEW89APAzcpdyqswkVSPI/w3SYCPFKykJ9qOcKAfFXdlmnSoUGnVfn3cJ+bDuUuXj0vV+BjRTbP74YlkQzVmyX2VJUBEgSmXw9jnUiIDCUe2FWCICEg+tkHTeiwMayXre9naAWFK7VRvwJn3kcErMgHUFJq1+czyKbUOSW9wiAD73gFFSVu7ORPQSzds7WvoCHfMyySAOeBVJ/fGAO4jUHuFze9uYlrFuBOFrDCXLl8uK1EnGtpFTBvffJCE9Rceu+yMDT03N/QleBun/gUH+iNjT4ugoE5WWEpSt/NMnN57FZGXTJOg9/pSNYlQps0fSAR1cOvZxC9dy65lzSWSpZEbP1Np3Q==;hFjEPQzkovtAdOTf1nuLZg=="

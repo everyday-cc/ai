@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Google Cloud and C3 AI Join Forces to Accelerate Enterprise AI"
-    excerpt: "C3 AI and Google Cloud have announced a partnership to help organizations across multiple industries accelerate their application of AI solutions. 'Combining the innovation, leadership, scale, and go-to-market expertise of Google Cloud with the substantial business value delivered from C3 AI applications,"
-    publishedDateTime: 2021-09-01T18:47:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Google-Cloud-and-C3-AI-Join-Forces-to-Accelerate-Enterprise-AI-148755.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enterprise AI software firm C3 AI delivers mixed earnings results and its stock falls"
     excerpt: "Enterprise-focused artificial intelligence software firm C3 AI Inc. reported mixed fiscal first-quarter results today and was punished in after-hours trading as its stock lost more than 8% of its value."
     publishedDateTime: 2021-09-02T01:13:00Z

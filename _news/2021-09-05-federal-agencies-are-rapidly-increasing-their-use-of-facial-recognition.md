@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognitio
 webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Feds are increasing use of facial recognition systems – despite calls for a moratorium"
-    excerpt: "Politicians of all stripes, computer professionals and even big-tech executives are calling on government to hit the brakes on using these algorithms. The feds are hitting the gas."
-    publishedDateTime: 2021-09-01T18:49:00Z
-    webUrl: "https://theconversation.com/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
-    ampWebUrl: "https://theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium-145913"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/418725/original/file-20210831-17-1g1kwc7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=239&fit=crop"
-        width: 320
-        height: 239
         isCached: true
   - title: "New non-contact facial recognition software monitors a baby’s vital signs"
     excerpt: "Researchers have designed a computer vision system that can automatically detect a tiny baby's face in a hospital bed and remotely monitor its vital signs from a digital camera with the same accuracy as an electrocardiogram machine."
