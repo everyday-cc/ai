@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-08-23-tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.md",
-      "title": "Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud",
-      "excerpt": "Home » Artificial intelligence » Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud Lex Fridman has a very successful podcast but he has been an AI researcher for 6+ years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-22-at-2.23.19-PM.jpg",
-          "width": 1802,
-          "height": 1322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html",
-      "publishedDateTime": "2021-08-22T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-08-23-autonomous-self-driving-vehicle-news-waymo-woven-planet-perrone-robotics-aurora-baidu-lightware-robosense-ghost-robotics.md",
       "title": "Autonomous & Self Driving Vehicle News: Waymo, Woven Planet, Perrone Robotics, Aurora, Baidu, LightWare, RoboSense & Ghost Robotics",
       "excerpt": "In autonomous and self-driving vehicle news are Waymo, Woven Planet, Perrone Robotics, Aurora, Baidu, LightWare, RoboSense and Ghost Robotics. Waymo is building a dedicated trucking hub in the ...",
@@ -1394,6 +1350,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-nvidia-forecast-beats-expectations-but-talks-on-40-bln-arm-deal-take-longer-than-expected.md",
+      "title": "Nvidia forecast beats expectations, but talks on $40 bln Arm deal take longer than expected",
+      "excerpt": "The disclosure came as Nvidia, the world's biggest maker of graphics chips for gamers and artificial intelligence chips ... Alphabet Inc's Waymo has started taking a few San Franciscans on rides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/nvidia-forecasts-third-quarter-revenue-above-estimates-2021-08-18/",
+      "originalUrl": "https://www.reuters.com/technology/nvidia-forecasts-third-quarter-revenue-above-estimates-2021-08-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

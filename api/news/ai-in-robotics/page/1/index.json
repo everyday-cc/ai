@@ -90,51 +90,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-04-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence.md",
-      "title": "Global Investment Bank and Capital Trust Announce $68 Million Investment Fund in Artificial Intelligence",
-      "excerpt": "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to $68 million in startups transforming artificial intelligence. The fund will prioritise startups that share the vision of on-device AI becoming more powerful and widespread,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540",
-      "originalUrl": "https://www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/09/04/994538-gib.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp",
-      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp",
-      "publishedDateTime": "2021-09-03T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DNA India",
-        "domain": "dnaindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-09-04-top-12-high-growth-artificial-intelligence-stocks.md",
       "title": "Top 12 High-Growth Artificial Intelligence Stocks",
       "excerpt": "AI is a large, complex universe covering many industries and technology megatrends. Here are 12 high-growth stocks that harness the power of artificial intelligence.",
@@ -1401,6 +1356,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-robotics-startup-rents-out-automated-machines-to-factories-for-as-little-as-10-an-hour.md",
+      "title": "Robotics startup rents out automated machines to factories for as little as $10 an hour",
+      "excerpt": "Companies struggling with a labor shortage and rising salaries are turning to robots for automated work and for those who can't afford a big expense, they're renting robots for as little as $10 per hour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/08/26/13/47127101-0-image-a-104_1629981069153.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "publishedDateTime": "2021-08-26T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

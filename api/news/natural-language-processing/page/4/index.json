@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-07-30-ai-at-the-helm-of-indias-digital-inclusion-journey.md",
-      "title": "AI at the helm of India’s digital inclusion journey",
-      "excerpt": "The Covid 19 pandemic has propelled the transition towards digital technologies and heightened use of the internet. According to the latest IAMAI-Kantar Cube report, the number of active internet users in India is likely",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "publishedDateTime": "2021-07-30T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-repay-provides-integrated-payment-processing-for-provana-customers.md",
       "title": "REPAY Provides Integrated Payment Processing for Provana Customers",
       "excerpt": "The integration automates processes and increases control of payment methods on Provana’s repayment platform ATLANTA-- ( BUSINESS WIRE )-- Repay Holdings Corporation (NASDAQ: RPAY) (\"REPAY\"), a leading provider of vertically-integrated payment solutions,",
@@ -1386,6 +1343,49 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-what-you-should-know-about-natural-language-processing.md",
+      "title": "What You Should Know about Natural Language Processing",
+      "excerpt": "Natural language processing (NLP) ingests and learns syntax using machine learning (ML) algorithms. FREMONT, CA: Every internet user has encountered a natural language processing application. Natural language processing is used by search engines such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/what-you-should-know-about-natural-language-processing-nid-34091-cid-244.html",
+      "originalUrl": "https://www.cioreview.com/news/what-you-should-know-about-natural-language-processing-nid-34091-cid-244.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/news_new/sliderimage/6xms5.s0pl.Untitled-1.jpg",
+          "width": 300,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

@@ -140,51 +140,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-04-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence.md",
-      "title": "Global Investment Bank and Capital Trust Announce $68 Million Investment Fund in Artificial Intelligence",
-      "excerpt": "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to $68 million in startups transforming artificial intelligence. The fund will prioritise startups that share the vision of on-device AI becoming more powerful and widespread,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540",
-      "originalUrl": "https://www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/09/04/994538-gib.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp",
-      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp",
-      "publishedDateTime": "2021-09-03T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DNA India",
-        "domain": "dnaindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-09-04-feds-turn-the-heat-up-on-teslas-self-driving-feature.md",
       "title": "Feds Turn the Heat Up on Tesla's Self-Driving Feature",
       "excerpt": "Due to concerns about self-driving accidents, the National Highway Traffic and Safety Administration has told Telsa to provide a significant amount of data on every car the company has sold over the last seven years.",
@@ -1435,6 +1390,40 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-4-top-autonomous-vehicle-stocks-to-watch-before-september-2021.md",
+      "title": "4 Top Autonomous Vehicle Stocks To Watch Before September 2021",
+      "excerpt": "Recently, Baidu has been pushing forward with its ... But what some may not be aware of is, Alphabet also has a self-driving car project that was started more than a decade ago with the goal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
+      "originalUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
+      "publishedDateTime": "2021-08-27T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

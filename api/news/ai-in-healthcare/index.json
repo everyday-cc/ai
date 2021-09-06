@@ -429,6 +429,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-31-rita-the-wound-pros-leverages-artificial-intelligence-with-its-wound-measurement-app.md",
+      "title": "RITA: The Wound Pros Leverages Artificial Intelligence With Its Wound Measurement App",
+      "excerpt": "RITA represents The Wound Pros' \"high-tech\" approach that leverages the power of artificial intelligence and machine learning to measure chronic non-healing wounds with pinpoint accuracy. According to Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-rita-wound-pros-leverages-artificial-intelligence-with-its-/2021/08/30/9439425.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-rita-wound-pros-leverages-artificial-intelligence-with-its-/2021/08/30/9439425.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1604641/The_Wound_Pros_app_RITA.jpg",
+          "width": 400,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors.md",
       "title": "15 Innovative AI Companies Driving Exponential Shifts In Their Respective Sectors",
       "excerpt": "AI-built, AI-fueled, AI-powered, AI-informed: it is pervasive. In the hands of innovators, the disruption of AI of companies worldwide trends in a positive direction, and has the potential to change the world.",
@@ -1362,49 +1405,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-deep-6-ai-announces-release-of-trial-recommender.md",
-      "title": "Deep 6 AI Announces Release of Trial Recommender",
-      "excerpt": "Deep 6 AI today announced the addition of Trial Recommender to its industry-leading artificial intelligence (AI)-driven clinical trial acceleration platform. Addressing a major gap in traditional patient recruitment,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

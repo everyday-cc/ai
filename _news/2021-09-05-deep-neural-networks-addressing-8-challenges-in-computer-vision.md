@@ -24,6 +24,19 @@ images:
     height: 615
     isCached: true
 
+related:
+  - title: "Deep Neural Networks Addressing 8 Challenges in Computer Vision"
+    excerpt: "As studied earlier, computer networks are one of the most popular and well-researched automation topics over the last many"
+    publishedDateTime: 2021-09-06T19:10:00Z
+    webUrl: "https://www.business2community.com/business-intelligence/deep-neural-networks-addressing-8-challenges-in-computer-vision-02429360"
+    ampWebUrl: "https://www.business2community.com/business-intelligence/deep-neural-networks-addressing-8-challenges-in-computer-vision-02429360/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/deep-neural-networks-addressing-8-challenges-in-computer-vision-02429360/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 39
+
 secured: "A+Sxctbz3/qGHXhf2v8Kvg3UuIhLVEp4Vwvu5WeKv25ftM6E274nJnDTHv1A8JKRnG8y2R9VMRsbR2pkDxgosIXcv2y3HSa2i2uAdG+WhwGaIE2RDOK0Cbejq21MXTJA7ai+BUoXCCsuBuoAnZcQT2hhwnJqDhmtlExT8cZI/BfVEVNbFKhmLGMeW3DTLG59mezf7E7J8G+ofO0nZFpJAdxtenLqC1XFqdhPEpLBVgKDXZKVzY9Mej80ZvDF2FyaleY3USbx1fdIIgB6Opi1NWsXhf1yGuMoPz8bIc5/G3uI5aT+FgklFp4/czF2fuZ/WlNUI/43OgTNApXneGBMgDetTvxO1Z2efbp9yvhoC9A=;kaJ2rLJZE0dikxkDm6EPdw=="
 ---
 

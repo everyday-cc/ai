@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-06T15:00:00Z
 originalUrl: "https://slator.com/intento-and-smartcat-partner-to-strengthen-the-translation-landscape/"
 webUrl: "https://slator.com/intento-and-smartcat-partner-to-strengthen-the-translation-landscape/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://slator.com/assets/2021/09/Intento-and-Smartcat-Partnership.png"

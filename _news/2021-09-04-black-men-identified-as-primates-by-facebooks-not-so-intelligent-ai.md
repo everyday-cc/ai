@@ -7,8 +7,8 @@ originalUrl: "https://www.neowin.net/news/black-men-identified-as-primates-by-fa
 webUrl: "https://www.neowin.net/news/black-men-identified-as-primates-by-facebooks-not-so-intelligent-ai/"
 type: article
 quality: 69
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Neowin
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform"
+    excerpt: "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question."
+    publishedDateTime: 2021-09-04T10:47:00Z
+    webUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9"
+    ampWebUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/60187bf96dfbe10018e012e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facebook AI mislabels video of Black men as 'Primates' content"
     excerpt: "Users who watched a video posted by Daily Mail featuring Black men saw a prompt asking them if they'd like to \"[k]eep seeing videos about Primates.\"."
     publishedDateTime: 2021-09-04T06:17:00Z

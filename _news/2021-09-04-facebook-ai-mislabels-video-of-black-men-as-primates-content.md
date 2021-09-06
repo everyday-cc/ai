@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform"
+    excerpt: "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question."
+    publishedDateTime: 2021-09-04T10:47:00Z
+    webUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9"
+    ampWebUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/60187bf96dfbe10018e012e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Black men identified as \"Primates\" by Facebook's not so intelligent AI"
     excerpt: "Facebook's AI mistook black men for \"Primates\" in a video on the social media's site. The company has apologized for this \"unacceptable error\" and has acknowledged the tech still needs more work."
     publishedDateTime: 2021-09-04T03:56:00Z

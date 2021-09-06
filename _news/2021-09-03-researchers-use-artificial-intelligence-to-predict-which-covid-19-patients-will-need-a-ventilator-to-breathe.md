@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Predict Arthritis Drug Will Save Thousands Of Hospitalized Covid-19 Patients"
-    excerpt: "A drug used to treat rheumatoid arthritis has been found to improve survival of. The discovery stems from a study of over 1,500 patients in 12 countries and is being hailed as a significant breakthrough for treatment options for people who are severely ill with Covid-19."
-    publishedDateTime: 2021-09-02T01:22:00Z
-    webUrl: "https://www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/"
-    ampWebUrl: "https://www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/amp/"
+  - title: "For Patients to Trust Medical AI, They Need to Understand It"
+    excerpt: "AI has huge potential to improve the quality and affordability of care — but only if providers explain how it works."
+    publishedDateTime: 2021-09-03T12:25:00Z
+    webUrl: "https://hbr.org/2021/09/for-patients-to-trust-medical-ai-they-need-to-understand-it"
+    ampWebUrl: "https://hbr.org/amp/2021/09/for-patients-to-trust-medical-ai-they-need-to-understand-it"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/for-patients-to-trust-medical-ai-they-need-to-understand-it"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6130243a2183dfa954bf0df2%2F0x0.jpg"
+      - url: "https://hbr.org/resources/images/article_assets/2021/09/Sep21_03_148207655.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
   - title: "AI to predict Covid patients at dire need for ventilators"
     excerpt: "US researchers have developed an online tool using Artificial Intelligence (AI) to help medical staff quickly determine which Covid-19 patients will need help breathing with a ventilator. The team at Case Western Reserve University developed the tool,"

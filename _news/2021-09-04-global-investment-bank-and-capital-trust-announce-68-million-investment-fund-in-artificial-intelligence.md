@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dnaindia.com/business/report-global-investment-bank-and-
 cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: DNA India
@@ -27,17 +27,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Global Investment Bank and Capital Trust announce USD 68 Million Investment Fund in Artificial Intelligence"
-    excerpt: "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to USD 68 million in startups transforming artificial intelligence. The fund will prioritise startups that share the vision of on-device AI becoming more powerful and widespread,"
-    publishedDateTime: 2021-09-02T02:15:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20210901/3812461.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 20
 
 secured: "wtD6YydZ3CwmNJdHXlc8jmdbRrw2NI4YXkfzigGxT9/YAmMN4OIdP86pnLUoTvdlG6HE0QP6yW6HtSIXX0X9F21/9tcGWDGk+8zvQh2+MwiSU8TD/8hxBGulXfztcrWo000QfMU8ufMgccqx593lH4rGrlIw3jkBSdLmcVc09LFQawdn0DbE/y2V9/WX+rMEdO2g4A7OzLJejsnb8fwDrvAly0OvKUffbIolKtjP1S9vx6M6UDK0k8bYlHDCQoomFy1MyEhcCU/vzn6mRNDO18M6m+SbAUpKdqlP7G7c/ScFkn8O6P5vh3kOvJULtRWGuEXSmwFAjYcY9UTIxe4V87nmiFN+iS/GU99M+BZixQjcYPRKk0kHgg+tOfp0lq31To5x2rhDIZzCRGWJXP2r4pGvKRiC/33hQXOcW/GLMh8N/FkuwfrXh+C63YJN72z3+jROw45LSymUYEvD3i3hFkvjyMwglmmRpfVzEIgyQDO6hgjkoj4tuknqYrAOTJ6jnuMFF75pDIp2YAJaxwuPdg==;+pqW8N6MWpomP1nxMpD87w=="
 ---

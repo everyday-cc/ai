@@ -42,15 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Voice recognition may be beneficial in kids’ education"
-    excerpt: "Vocal recognition is an extremely interesting function for children in terms of education and learning through play."
-    publishedDateTime: 2021-09-02T01:15:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2021/09/02/voice-recognition-may-be-beneficial-in-kids-education/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 21
 
 secured: "fdeXSm+oVrI5+c/KjzaFc45w1zBN081oNHhwH2mRzk9+P1mAE62b9m/FYY7UdcbdDvF8673tQm8UICRgknRL/jLdRj1AD68UulyMKOyIr70onDfqVEJj9fFAuh9s7WCoDg2wzAOlDL0fCV2QmLoxbBq1M6R+WDjWTPNG6/+mkObq3p5uTi+u+/qvpEtDYb/FA3auFdmKd/kP4eK2EAQ4ezE9j9pPgATsS5U9FUPpP84iousRomSxsgX3RPF+EN+cYvhOLr6tgtM4B2T+xHdGapG9eamdyG+99J6mdsXYBr/FqgJsmLsBCn25EYujQWZwGTRq+bwHMKB18TeMB+5eh46ry/qkGK0BIGX7GjpJgnhl0v46clJOuvoJe7CORNo2JVCgioRzhiFvc2jndIpGWTd87swMhJkmsT+kp6IbnG6NUmk4U7jdF/VQOm4mnwZ9vX1JaX4p3CBsHNIMv5g7dykIGy3pNG2+X9wfjAyJQfmrYyCuuw2HNuQ20GxA5bY3mubFr22+G2l0IMAqyf/D0Q==;GWdg7Fvqq7AtCmChr9Nbmg=="
 ---
