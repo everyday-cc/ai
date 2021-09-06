@@ -54,20 +54,6 @@ related:
         width: 280
         height: 250
         isCached: true
-  - title: "Researchers bring innovative AI and simulation tools to the COVID-19 battlefront"
-    excerpt: "In its on-going campaign to reveal the inner workings of the Sar-CoV-2 virus, the U.S. Department of Energy's (DOE) Argonne National Laboratory is leading efforts to couple artificial intelligence (AI) and cutting-edge simulation workflows to better understand biological observations and accelerate drug discovery."
-    publishedDateTime: 2021-09-01T07:43:00Z
-    webUrl: "https://techxplore.com/news/2021-09-ai-simulation-tools-covid-battlefront.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 32
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/argonne-collaborations.jpg"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "tGCsW2r1v0CaiVGcmGNthOGvS2up+b54Q6R60zWj23zm9ZdArrX+pnmamZwOjKnYkAmSa4IEv0u3nVrQTbtmkKi4N6G0qohPeozSc1xvGSqtupVyKhfLwa+NQNGMWNZLWIFsaBdvq9T/cLXSU6MhyuTIXwE20a/Qu6Cg0kE44okaYOFUn19Ny6bY6GKbKrB3gZ4PvO7mAfISZaQn3JWsp1ma8aYGNVjovR1GFn1n9xFoSS9JY7tYRYsmauOcSWcYtE7OHHmWAr/1aGRuay4dkn8arc+4R5m+c1ktHkkhz6dMar/B5Yek8DvudmXbiE3ltFYFy2S1nvSQDnVHa75TPp0SGTtLjeChDr5uS2brQZB5wAYSdzIb0GHLQb/BgJRuxn3rlJx8VoaodZHPO+AWfbkHnYGDdrAIStMEFHfGEdeQ3oqdh8aI1TreVG7LAj//LWdknqbGRtx8sCb1O5zPHvDltDWNv1cjvnzpDlAx7P8sECXOWtrGLAd5HdBZvyPklkVVt1DipaThbwAgmkfHSw==;SwOJUwLrIMG8wkhEgxvceg=="
 ---

@@ -300,6 +300,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-20-deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy.md",
+      "title": "Deep Learning Courses for NLP Market R & D including top key players Coursera, Stanford University, Udemy",
+      "excerpt": "The Deep Learning Courses for NLP Market research report includes an in-sight study of the key Global Deep Learning Courses for NLP Market prominent players along with the company profiles and planning adopted by them.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/chart-2021-08-20T220608.762-780x470.jpg",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
+      "publishedDateTime": "2021-08-20T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-3.md",
       "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 3)",
       "excerpt": "In the previous posts in this series, I described why AI models that are trained in a controlled lab setting tend to fail miserably once deployed in a real-world production environment. I also explained why AI solutions must be significantly more rugged,",
@@ -1281,58 +1325,6 @@
         "name": "Inter Press Service",
         "domain": "ipsnews.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-this-intriguing-new-platform-lets-you-translate-your-words-into-code.md",
-      "title": "This intriguing new platform lets you translate your words into code",
-      "excerpt": "Notably, Codex powers GitHub Copilot, a new tool launched in June and currently under preview that assists programmers by making relevant suggestions as they write code inside development environments like Microsoft’s Visual Studio Code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/this-amazing-new-platform-lets-you-translate-your-words-into-code",
-      "originalUrl": "https://www.techradar.com/news/this-amazing-new-platform-lets-you-translate-your-words-into-code",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LrstCAnun6N69BxwmEtn4k-1200-80.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/this-amazing-new-platform-lets-you-translate-your-words-into-code",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-amazing-new-platform-lets-you-translate-your-words-into-code",
-      "publishedDateTime": "2021-08-11T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

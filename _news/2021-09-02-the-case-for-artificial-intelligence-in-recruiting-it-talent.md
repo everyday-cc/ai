@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/opinion/the-case-for-artificial-intelligence
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://images.ctfassets.net/cnu0m8re1exe/65XSymbGJEL7F2ovzt3sy9/d77df1e9d0a8904ebba41da5e02d87fb/shutterstock_1178406460.jpg"
         width: 1000
         height: 625
-        isCached: true
-  - title: "AI weather forecasting for smart farms"
-    excerpt: "AI weather forecasting for smart farms Researchers working on smart irrigation systems have developed a way to choose the most accurate weather forecast out of those offered in the week leading up to a given day."
-    publishedDateTime: 2021-09-01T07:58:00Z
-    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=725881"
-    type: article
-    provider:
-      name: scimex.org
-      domain: scimex.org
-    quality: 37
-    images:
-      - url: "https://www.scimex.org/__data/assets/image/0011/725888/IMG_2.JPG"
-        width: 5328
-        height: 4000
         isCached: true
 
 secured: "ULkR08pm3O/fwoMBAR4Ua0cHSG7S2kCA/wzuy8wVS5VGMDKDMilctO9tzJIc7wmlb4ILNvPB3MTkt3ssRPJfF5LVCa4TMG/uVhBql5Y/n8G9YOT23d41mZWe2fTYUxN7v20MZbSdtyr1HdcdKfOZMMwrQ6O4el7uxXO3VS1eMiIzz/3qr6wii3CA2jDQzFxa7MugiBJb4TPPoVy3Y/0XuSNx46Hs4kPaqF33FnbXtazx2HNV+iAHBovpbzvEdwM+YXLDjY8jhpd1XnbSc6F33bhajCVddfB3k4D7mNU0bISD/kYSRxi2FBZsofa7fVBomxAGYTJvJaOvFKfKX8tYl2NMIQepxcOiPmttNSXZTWw9AY81M0lIG41LN0AAFhlAdpAHKjGAo1oSOVJkbzSb8hcZ7oERMrJ5lembGOOpPTeTZhxaOraJupCbtkokbqk5aseOwgOrsSmz9YNByDKMSiAu2PnuaYzAhUwxHhMQ1kHpfKwdOOehcxGBuPfzm0J8Cnu6IhMLky5xizfeDVtplA==;/bCX28zme4YRWwk18e3mvw=="

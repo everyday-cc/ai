@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Verizon, Microsoft launch private edge solution"
-    excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
-    publishedDateTime: 2021-09-01T08:28:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/verizon-5G-MEC-trial-footage.png"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Verizon launches private edge compute platform with Microsoft, as promised"
     excerpt: "Verizon is furthering its push into the private mobile networks space by making available a private mobile edge cloud computing solution to businesses."
     publishedDateTime: 2021-09-01T12:14:00Z

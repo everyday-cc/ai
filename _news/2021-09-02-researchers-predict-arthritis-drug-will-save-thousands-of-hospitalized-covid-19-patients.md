@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/victoriaforster/2021/09/01/researchers-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2021/09/01/researchers-predict-arthritis-drug-will-save-thousands-of-hospitalized-covid-19-patients/amp/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
         width: 280
         height: 250
-        isCached: true
-  - title: "Researchers bring innovative AI and simulation tools to the COVID-19 battlefront"
-    excerpt: "In its on-going campaign to reveal the inner workings of the Sar-CoV-2 virus, the U.S. Department of Energy's (DOE) Argonne National Laboratory is leading efforts to couple artificial intelligence (AI) and cutting-edge simulation workflows to better understand biological observations and accelerate drug discovery."
-    publishedDateTime: 2021-09-01T07:43:00Z
-    webUrl: "https://techxplore.com/news/2021-09-ai-simulation-tools-covid-battlefront.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 32
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/argonne-collaborations.jpg"
-        width: 700
-        height: 394
         isCached: true
   - title: "Researchers use artificial intelligence to predict which COVID-19 patients will need a ventilator to breathe"
     excerpt: "Researchers at Case Western Reserve University have developed an online tool to help medical staff quickly determine which COVID-19 patients will need help breathing with a ventilator."

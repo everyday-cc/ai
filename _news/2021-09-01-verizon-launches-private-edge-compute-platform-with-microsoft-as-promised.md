@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Verizon, Microsoft launch private edge solution"
-    excerpt: "Verizon began offering enterprise customers a private edge compute solution to complement its OnSite 5G service."
-    publishedDateTime: 2021-09-01T08:28:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/verizon-microsoft-launch-private-edge-solution/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/verizon-5G-MEC-trial-footage.png"
-        width: 650
-        height: 400
-        isCached: true
   - title: "CubicFarms collaborates with Microsoft on cloud services for indoor farming tech"
     excerpt: "CubicFarm Systems Corp., an agtech company, announced that it has selected Microsoft’s technology to launch the next generation of indoor farming technologies for fresh food and"
     publishedDateTime: 2021-09-01T12:43:00Z

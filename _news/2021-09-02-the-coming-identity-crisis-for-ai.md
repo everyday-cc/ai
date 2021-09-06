@@ -69,20 +69,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "AI weather forecasting for smart farms"
-    excerpt: "AI weather forecasting for smart farms Researchers working on smart irrigation systems have developed a way to choose the most accurate weather forecast out of those offered in the week leading up to a given day."
-    publishedDateTime: 2021-09-01T07:58:00Z
-    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=725881"
-    type: article
-    provider:
-      name: scimex.org
-      domain: scimex.org
-    quality: 37
-    images:
-      - url: "https://www.scimex.org/__data/assets/image/0011/725888/IMG_2.JPG"
-        width: 5328
-        height: 4000
-        isCached: true
 
 secured: "dVALSCJHquRZFFWrthIeLHf6EByH22oj1GhLRjJbnez8yhDJWvsaBWYS07VmSi8Ww1IXHafJKvo0JZCoCAbr8EZTCdGOH9b1+Ujp3+qp5A/MgJxzLQXDywU0EPXYbpK9pO/KO/Z1M8ybizaliDq+dIaSU046glGufuQhmbmo2Cx7Df21gMLL8ENLnp1Jrcy1gM6wqN+AexmIFdbFSTgQcLbY79g1GQbdnl+eTBsJcp5QqknEQtH4n8XQmLozpITPpgMB7Yv/0K1z1UpI0i8oizo+JJ4bFMKGR1tW9zLp81FhB5ZjDZcsXnhpIwsZz81gmNNVOAbdpVR0nA4gW7EWTtJQc/BuJTi1xBtfw9VtcElL/Ce90q0HnQjywF9sdztRASGPHp92bzRZTp5N3U5NXaiascDKTHYcBIpAO3eKsU8Iqb0BD6VLYPH3920/VDBknLgPgsrizHD4skTz4Qw+pp/fIegrgzY9Gy1AA1LoVlzCCjNpy8IcNInz2K1ZHWxfqnuAeaoUtZekadwl0Brlgw==;IFMlQUN9AftrDRVvEVndPA=="
 ---
