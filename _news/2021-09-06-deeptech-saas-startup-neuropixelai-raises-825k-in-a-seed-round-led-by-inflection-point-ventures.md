@@ -40,6 +40,20 @@ related:
         width: 1199
         height: 630
         isCached: true
+  - title: "Inflection Point Ventures leads seed round in NeuroPixel.AI"
+    excerpt: "Deeptech SaaS startup focused on apparel cataloging, NeuroPixel.AI has raised $825k in its seed round led by Inflection Point Ventures."
+    publishedDateTime: 2021-09-06T09:56:00Z
+    webUrl: "https://entrackr.com/2021/09/inflection-point-ventures-leads-seed-round-in-neuropixel-ai/"
+    type: article
+    provider:
+      name: entrackr
+      domain: entrackr.com
+    quality: 37
+    images:
+      - url: "https://entrackr.com/wp-content/uploads/2021/09/Neuro-pixel.ai_.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Bangalore-Based Deeptech SaaS Startup NeuroPixel.AI Raises $825k In Seed Round"
     excerpt: "The funds raised will be used for scaling up their R&D team to accelerate the transition of their product from beta to production."
     publishedDateTime: 2021-09-06T06:45:00Z
@@ -64,6 +78,6 @@ related:
       domain: ciol.com
     quality: 17
 
-secured: "HQHU+zXgQ20voL9EMYIyGjZAjJ6ueSf14QPGmcY7CzpjZHkqonDg6EmSS+/hgOty63K5ixgkM2oXNqxvVYLIBb77UVaIzrSUaM8pRM8Wk4qREcFzOCKF5gQ6qET86jbPie+ktZ7JqKPvXzEljx8X7AXc1n1sgnAVEpCyw+9anKUQDMHqSIU9RBZzUs/uis119N8vZmk3n2N6BWdPeUmEsurdHpSpINM8EyciDmYLAoZgab17y2xkEyF5sZaYxxiHf4MOxlSI1+JFfibAGLp5q/223QbmmiBrvHRdchwUqcuDrkSLvLSLgNST6I4Co5Id6hTKEm3OnUlCYO56IeoClkjDciNgIh5VTO2ZExC0SQk=;H5zEyV6Ie+/DCO+2MIG+gw=="
+secured: "GkLLddAuyhujl+hDFlPBh6iAu1C9Cjn6+aQOdvlaKCOPZnWC5c5cpYqe7Sgo9atUmHXP7EK3Jz3Y+jGtBAxUhRwnDbFxj76V6oNzMn0BzoH/GDBLV8bxU61SyTe2ZARODsMpwBfZHj8dAJ2Haqs64htpXKPjcbGtdt27o2fyMjf2gZa8yBH0/AUfipKcSvjs0adLyRSVGupXOcDSn3r27QwhWyk4RDpkmAAukSAO0SL51jdNBB+6Tgm67z6S4d467lHLcPALVFC9llONc9s4Ra8fR8+U3tjlRUxCm83ci7rsg0G5bQ7obTgxkA3kqLoXBK3Ka1GQkzNFsecaTnb3L6wPju6q3OIUeUj27px4WiQ6KSS2DLg3uO1mgc7DYna7adH02lUBSfHGABCE6LNuPp4E56aq4CihqudMFaFkkNOdo+qqtz2raCmERSY8M/jexSNTWwiJ/jW0GCAb1Pe5f2wbmsjRzhAV1bcSBtUrfcYsGGS8WkZ9Ik0bI1/w3E5G3cBtcjzlUpkwm1rI4OnAuw==;ngY/Jm8M4mNOlPJu0mODRw=="
 ---
 

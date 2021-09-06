@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-workers-fear-robots-and-automation-from-covid-are-here-to-stay-but-they-create-jobs.md",
+      "title": "Workers fear robots and automation from Covid are here to stay. But they create jobs.",
+      "excerpt": "Calls for steps like 'robot taxes' to level the playing field between humans and AI will only hurt the economy — and workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/workers-fear-robots-automation-covid-are-here-stay-they-create-ncna1278433",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/workers-fear-robots-automation-covid-are-here-stay-they-create-ncna1278433",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_35/3503671/210903-think-self-checkout-se-616p.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1278433",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1278433",
+      "publishedDateTime": "2021-09-06T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml.md",
       "title": "The Latest Trends in Artificial Intelligence (AI) and Machine Learning (ML)",
       "excerpt": "Artificial intelligence (AI) contains many subfields, including machine learning (ML), which automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.",
@@ -100,7 +143,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -133,6 +176,50 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-elon-musk-tesla-making-a-robot-because-robots-are-coming-anyway.md",
+      "title": "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”",
+      "excerpt": "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
+      "originalUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/09/elon-musk-robots-coming-anyway-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/elon-musk-robots-coming-anyway/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-robots-coming-anyway/amp",
+      "publishedDateTime": "2021-09-02T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -387,7 +474,7 @@
       "originalUrl": "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1314,101 +1401,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-robotics-startup-rents-out-automated-machines-to-factories-for-as-little-as-10-an-hour.md",
-      "title": "Robotics startup rents out automated machines to factories for as little as $10 an hour",
-      "excerpt": "Companies struggling with a labor shortage and rising salaries are turning to robots for automated work and for those who can't afford a big expense, they're renting robots for as little as $10 per hour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/08/26/13/47127101-0-image-a-104_1629981069153.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
-      "publishedDateTime": "2021-08-26T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley.md",
-      "title": "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley",
-      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
-      "originalUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

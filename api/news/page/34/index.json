@@ -2,6 +2,144 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-08-10-synthesis-ais-head-of-artificial-intelligence-publishes-the-first-book-on-synthetic-data-for-deep-learning.md",
+      "title": "Synthesis AI’s Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning",
+      "excerpt": "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep Learning written by Head of Artificial Intelligence (AI), Sergey Nikolenko.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-truera-open-sources-trulens-neural-network-explainability-for-ml-models.md",
+      "title": "TruEra Open Sources TruLens, Neural Network Explainability for ML Models",
+      "excerpt": "TruEra, which provides the first suite of AI Quality solutions announced today the availability of TruLens, an open source explainability software tool for machine learning models that are based on neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech.md",
+      "title": "TetaVi Raises $20 Million For Its Metaverse-Focused Computer Vision Tech",
+      "excerpt": "The startup hopes to democratize the ability for consumers to create for the metaverse through its cheaper and more flexible volumetric video software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/",
+      "originalUrl": "https://www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61119c98afc8b5da845a536c%2F0x0.jpg",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/amp/",
+      "publishedDateTime": "2021-08-10T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-three-considerations-to-keep-in-mind-before-investing-in-ai.md",
       "title": "Three Considerations To Keep In Mind Before Investing In AI",
       "excerpt": "There are some concrete steps you should take as a company leader to ensure you're investing in the AI solution that's right for your organization.",
@@ -1004,135 +1142,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-15-ai-ethics-leaders-showing-the-world-the-way-of-the-future.md",
-      "title": "15 AI Ethics Leaders Showing The World The Way Of The Future",
-      "excerpt": "There are leaders and visionaries across the globe that are paving the way and setting examples for every business to follow when implementing and leveraging the massive power that AI possesses. These people are AI Ethicists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6111c7721c4a31b2ae419c4e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/",
-      "publishedDateTime": "2021-08-09T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-1800flowers-unwraps-ibm-watson-powered-mobile-gift-concierge-signaling-ais-rise.md",
-      "title": "1800Flowers unwraps IBM Watson-powered mobile gift concierge, signaling AI’s rise",
-      "excerpt": "Gifts retailer 1800Flowers, which has recently made waves in artificial intelligence integration, is cementing its stronghold on mobile commerce with an IBM Watson-powered gift concierge that uses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.retaildive.com/ex/mobilecommercedaily/1800flowers-unwraps-ibm-watson-powered-mobile-gift-concierge-signaling-ais-rise",
-      "originalUrl": "https://www.retaildive.com/ex/mobilecommercedaily/1800flowers-unwraps-ibm-watson-powered-mobile-gift-concierge-signaling-ais-rise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail Dive",
-        "domain": "retaildive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-amazons-edstart-helps-deliver-thailands-opendurian.md",
-      "title": "Amazon’s EdStart helps deliver Thailand’s OpenDurian",
-      "excerpt": "Amazon Rekognition for vocabulary exercise, and Amazon SageMaker for content recommendation. Our engineers also learned a lot from the AWS solution architects about cloud architecture and best practices, so that we can design for success and provide great ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationthailand.com/business/30372231",
-      "originalUrl": "https://www.nationthailand.com/business/30372231",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nationthailand.com/images/news/2019/07/03/30372231/800_bd22e678ccf6feb.jpg?v=1562153023",
-          "width": 674,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nationthailand",
-        "domain": "nationthailand.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

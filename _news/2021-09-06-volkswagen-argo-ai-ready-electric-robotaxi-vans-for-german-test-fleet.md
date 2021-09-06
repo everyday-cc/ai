@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/09/IBA_7650.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Volkswagen ID.Buzz self-driving prototype forging ahead with public road testing"
+    excerpt: "Volkswagen has teamed up with Argo AI to develop the autonomous ID.Buzz electric vehicle..Volkswagen ID.Buzz self-driving prototype will be showcased at the 2021 IAA Munich auto show."
+    publishedDateTime: 2021-09-06T09:12:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing-41630912480440.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/09/06/600x338/VW_1630917535414_1630917550377.jpg"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "ta18UYZkfAB8489KxfrM/L4DPKKQfPpEntiGe//wgOq1e5n30kKqzGZviOD18BQt4QrtowOLS9cJi6bkeFv2UF2/++A4r0cL57oqeT22z+uhHsFfobtStzqjiu/TwsYU/e0w5nwQlwt9qj+1CHaKe6vKD7Is+HYoc4fKejvHGvJzO/ptQ+7R6WwsqjKBXZZb4qLeB0R2XNrtv93u2T1QgwlOw8CKnn4Jk9B7aLnggwHBxTHBnQUzd0Bep/Y6JS7DolNgYV+hCAaEpAmxVTXvcMFGddp6+5ig9bQposd/kEt6OtsTe2iP16IfDDzINb/f9AwdDkIZm9IqdrzsLadpwegR/nDwfyADSNMYfgNkTY9J9O12uQveZmYMMCmWWcetO2u1sezw6Y9m1NDRhwp+1aNOLJSMvQTWYhpJVgVmgJUIJ3naGrucRSPgz4irsAM9sy4bTKfCCfWYpVriL0mf54TH5QOoCcJz3s+LXIZIORkHaG0/ZKBQ7NSg4InOl7bowvBwOJDTA+hl3vfAAYnE6A==;myrJb4iUoOBgCFNUtff8dQ=="

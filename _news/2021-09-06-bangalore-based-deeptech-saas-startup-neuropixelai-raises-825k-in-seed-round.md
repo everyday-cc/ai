@@ -40,6 +40,20 @@ related:
         width: 1199
         height: 630
         isCached: true
+  - title: "Inflection Point Ventures leads seed round in NeuroPixel.AI"
+    excerpt: "Deeptech SaaS startup focused on apparel cataloging, NeuroPixel.AI has raised $825k in its seed round led by Inflection Point Ventures."
+    publishedDateTime: 2021-09-06T09:56:00Z
+    webUrl: "https://entrackr.com/2021/09/inflection-point-ventures-leads-seed-round-in-neuropixel-ai/"
+    type: article
+    provider:
+      name: entrackr
+      domain: entrackr.com
+    quality: 37
+    images:
+      - url: "https://entrackr.com/wp-content/uploads/2021/09/Neuro-pixel.ai_.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DeepTech SaaS StartUp Neuropixel.ai Raises $825k in a Seed Round Led by Inflection Point Ventures"
     excerpt: "Neuropixel Founders The Bengaluru-based startup works at the intersection of Artificial Intelligence and E-Commerce to transform online"
     publishedDateTime: 2021-09-06T05:37:00Z
@@ -64,6 +78,6 @@ related:
       domain: ciol.com
     quality: 17
 
-secured: "mvyuoBGmYk4gbOq9bNzBMsXFNN/HROALlyGqXnaY1/L3VLf9sFzU+rRFph7X6Qy8zdIOkdxxFFoirPzYgob0Dnbi15Qs4LoMN2iz3DbgHhfuLrEeORHQ+TmJ17CNQPs5T3+yl32bgBrtVH5OErENlvLql/EOApRWbUFdnW4ZMZC0C5dDi9EFeMHIz+w6abmh9kejEZ+F9kt+qOYzuP5zkX7AMDq023N0y5qQKBoKYVpvb4iC99uHJL2ZUb/hzC0JJwUfBRBtEfYtZ1xBgFSBLVPEZ0FbJzgW7gsX5Vl+kzntxn54s8NU4qIVIYiHD2w8GgPkD+k+FsA28zXO5NMpOuRJxCcj04j8GgUXBmbNmkc=;pnxhZ9nCITro8MV8TZ/5NQ=="
+secured: "bqX6pFJukkWMreE0jBp20iP8FzmwOl6/PP3ajZ9FuPHQINBUdS5gNNrDvsMVqEpIFky7vv9raASP5CFb1jB6AVW/bDano1ECJ5gFm/fPQOM9VARFMAMK4ffL01HVl3OCHew74hsdEQZkfElT6zAILyzy+pxNGc5Nc0kH+vLg5lJZubdavz+yul4t0mXLWosWH31sxIxzv8rae8N4TRSZHYCV7i6iRd7ejYxFvaDeUR8sS58QxEzsj6kPXd4tPX00Lt4Jj4RTQz2fp1U3nVxNMlyPCMo3JGBsURzYFoFgykYE9P0ZZ3dNNIu6wcwBab048OM7ZSS6nNU6qaxVtaSxfBbLSeFzFsYxXWeC53HJHLWhRUcTj0kJAayvRUUiOAN1agNk4tc0KcoZoHYUOzSlL0VISvXf/cRxMJbEJVB9FBKvUZYpo4Y172IJjRjllUCn+NqUf6qHv/kYL5yK9qsHRKY15bkbqZ+WWBdVx5M91/UKr+ekeR4112HzP4BcbsYE0AZFecqdGfFUBPpwV6EZ3g==;nA7fpHRpppg2mwj5LpifkQ=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Volkswagen ID.Buzz self-driving prototype forging ahead with public road testing"
+    excerpt: "Volkswagen has teamed up with Argo AI to develop the autonomous ID.Buzz electric vehicle..Volkswagen ID.Buzz self-driving prototype will be showcased at the 2021 IAA Munich auto show."
+    publishedDateTime: 2021-09-06T09:12:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing-41630912480440.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/09/06/600x338/VW_1630917535414_1630917550377.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "UPIjybi47MNTAHjEQGcp/N8X1N6hxERTNL+Yx3LszDk3DWkzQAii5fPX+CcPkT8Dl/3z5WeMlZVGJGUDFYUJzd2mFTG1hWismSoQVJe320/xCcFP/MRT9zTXPNhs8aP1/In1hFYu4x37ZtxeAK+odzpmWfEPsX5BjERP14wcVX7d8jSy6TIgIrGomvYHPzah9b+7/taGNuhR2E5jutUlrRe0uCXSUYhFGabp90nUCDKxin01G8sz8vRlDfFcelsGrFy3GrY0NhQn72NI9kVh1GA9SUVc2/K7ISShfvujyHHeepQPFmIccN5zXrL78/nXir1C0gZMZh5SR8quiGxZQMxWCxgEDoTqWouVPZ1siQ18SR6ut97BQ0FY8BEFo5pOICSvXnhJLODzEcrZNze0ahribbv9075fgzt6g961BiLYlbVnNNH7QK1wA3k2Sjz1j5Y/Rr8aMQRhjkqdfkACAZiNONEnLjKpZNT2OmhGbiv7WS7FO94pTUKFhkVAMC5+9r8Tz3eoTq4noRbnsqPHXw==;oAW4XW6RRKFx0D2xVFmcVg=="
 ---

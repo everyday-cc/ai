@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-27-waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco.md",
+      "title": "Waymo launches rider testing for self-driving cars in San Francisco",
+      "excerpt": "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
+      "originalUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
+      "publishedDateTime": "2021-08-26T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRON4",
+        "domain": "kron4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-baidu-cash-position-reflects-50-of-market-cap.md",
+      "title": "Baidu: Cash Position Reflects ~50% Of Market Cap",
+      "excerpt": "Baidu's cash and cash equivalents position ... and global leadership in AI (artificial intelligence), including self-driving technology through Apollo (robotaxis, robobuses, etc.). We are one ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "originalUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168330221/medium_image_1168330221.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "publishedDateTime": "2021-08-26T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet.md",
       "title": "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet",
       "excerpt": "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley.",
@@ -1327,102 +1413,6 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars.md",
-      "title": "Angst And Worries That Forbidden Knowledge Could Be Revealed By Developing AI Self-Driving Cars",
-      "excerpt": "Asking whether forbidden knowledge might be hidden within efforts to create AI systems, and particularly in the case of developing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea6e9c265b9c305b6d333%2F0x0.jpg%3FcropX1%3D471%26cropX2%3D3180%26cropY1%3D8%26cropY2%3D1531",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-21T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-baidu-announces-autonomous-driving-milestones-at-baidu-world-2021.md",
-      "title": "Baidu Announces Autonomous Driving Milestones at Baidu World 2021",
-      "excerpt": "and be self-learning,\" said Robin Li, Co-founder and CEO of Baidu, as he unveiled his vision for autonomous vehicles of the future – a robocar with L5 autonomous driving capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg?p=facebook",
-          "width": 1270,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-21T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

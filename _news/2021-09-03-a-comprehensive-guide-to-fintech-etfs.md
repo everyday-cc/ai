@@ -162,15 +162,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "This Canadian FinTech Co. Jumped 77% in Revenue"
-    excerpt: "AI-driven financial technology company Marble Financial Inc. (CSE: MRBL) released its interim consolidated finances statements and management’s discussion and analysis for Q2 2021 on Wednesday. MRBL highlighted total revenue for the three- and six-months ending June 30th,"
-    publishedDateTime: 2021-09-01T16:56:00Z
-    webUrl: "https://stockhouse.com/news/newswire/2021/09/01/this-canadian-fintech-co-jumped-77-revenue"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 4
   - title: "Tampa Bay Wave unveils startups to watch, new fintech focus at latest pitch night"
     excerpt: "X accelerators, the latter of which proved to be so successful the Wave is launching new financial technology-focused programming in th"
     publishedDateTime: 2021-09-02T11:01:00Z

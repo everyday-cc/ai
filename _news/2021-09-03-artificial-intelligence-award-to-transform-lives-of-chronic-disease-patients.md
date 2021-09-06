@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-03T13:27:00Z
 originalUrl: "https://www.ecs.soton.ac.uk/news/6985"
 webUrl: "https://www.ecs.soton.ac.uk/news/6985"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://secure.ecs.soton.ac.uk/heights/heights-image-400.php?imgid=news_6985_img&anchor=CM"

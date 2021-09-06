@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-06-veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech.md",
+      "title": "Veoneer Says Its Products Enable Level 3 Hands-off Self-driving Tech",
+      "excerpt": "The automotive technology company Veoneer Inc. (VNE) said that its products enable level 3 hands-off self-driving tech. During the fall, Mercedes-Benz' DRIVE PILOT system is being introduced with performance from Veoneer's Stereo Vision and Radar products to support level 3 self-driving,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06",
+      "originalUrl": "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06?amp",
+      "publishedDateTime": "2021-09-06T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence.md",
       "title": "Global Investment Bank and Capital Trust Announce $68 Million Investment Fund in Artificial Intelligence",
       "excerpt": "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to $68 million in startups transforming artificial intelligence. The fund will prioritise startups that share the vision of on-device AI becoming more powerful and widespread,",
@@ -98,7 +132,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -183,6 +217,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-elon-musk-tesla-making-a-robot-because-robots-are-coming-anyway.md",
+      "title": "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”",
+      "excerpt": "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
+      "originalUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/09/elon-musk-robots-coming-anyway-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/elon-musk-robots-coming-anyway/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-robots-coming-anyway/amp",
+      "publishedDateTime": "2021-09-02T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -298,7 +376,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -350,7 +428,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1320,92 +1398,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco.md",
-      "title": "Waymo launches rider testing for self-driving cars in San Francisco",
-      "excerpt": "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
-      "originalUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
-      "publishedDateTime": "2021-08-26T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRON4",
-        "domain": "kron4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-baidu-cash-position-reflects-50-of-market-cap.md",
-      "title": "Baidu: Cash Position Reflects ~50% Of Market Cap",
-      "excerpt": "Baidu's cash and cash equivalents position ... and global leadership in AI (artificial intelligence), including self-driving technology through Apollo (robotaxis, robobuses, etc.). We are one ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "originalUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168330221/medium_image_1168330221.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "publishedDateTime": "2021-08-26T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

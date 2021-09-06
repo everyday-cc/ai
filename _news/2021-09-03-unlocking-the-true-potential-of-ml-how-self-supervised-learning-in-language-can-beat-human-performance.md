@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-02T17:56:00Z
 originalUrl: "https://www.datanami.com/2021/09/02/unlocking-the-true-potential-of-ml-how-self-supervised-learning-in-language-can-beat-human-performance/"
 webUrl: "https://www.datanami.com/2021/09/02/unlocking-the-true-potential-of-ml-how-self-supervised-learning-in-language-can-beat-human-performance/"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Human_robot_tugawar_shutterstock_Elnur.jpg"

@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/elon-musk-robots-coming-anyway/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-robots-coming-anyway/amp"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Futurism
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 Robotics Stocks to Buy for Elon Musk’s Big ‘Tesla Bot’ Bet"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks have been gaining significant traction among buy-and-hold"
-    publishedDateTime: 2021-09-01T16:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-1030773901"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "Elon Musk Says Tesla Is Making A Robot Because ‘Robots Are Coming Anyway’"
     excerpt: "Advertisement Artificial intelligence is coming for us all; this is a prediction or a warning as you like to term it is up to you. He has been on this narrative for years. “I’ve been banging this AI drum for a decade,"
     publishedDateTime: 2021-09-05T07:51:00Z

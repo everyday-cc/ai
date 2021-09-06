@@ -2,6 +2,145 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-27-schnuck-markets-expanding-use-of-tally-robots-chainwide.md",
+      "title": "Schnuck Markets expanding use of Tally robots chainwide",
+      "excerpt": "Schnuck Markets Inc. is expanding its use of Tally inventory-taking robots to all of its stores chainwide. Schnuck Markets said Thursday that a multiyear, full-scale rollout now will bring Tally robots to all 111 Schnucks stores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "originalUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/6064e977-d6b9-4a67-9b45-b73059276597/6064e977-d6b9-4a67-9b45-b73059276597_1140x641.png",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
+      "publishedDateTime": "2021-08-27T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew.md",
+      "title": "‘Good to Know’ headlines: Self-driving taxis and Flamin’ Hot Cheetos flavored Mountain Dew",
+      "excerpt": "NBC News' Vicky Nguyen reports on a new app that is set to offer self-driving taxis, logging into virtual meetings using A.I., and Mountain Dew’s new Flamin’ Hot Cheetos inspired drink.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew-119588421962",
+      "originalUrl": "https://www.nbcnews.com/now/video/good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew-119588421962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1630065015132_ott_now_am_goodtoknow_210827_1920x1080-bs619r.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo119588421962",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo119588421962",
+      "publishedDateTime": "2021-08-27T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-the-free-speech-case-for-facial-recognition-opinion.md",
+      "title": "The Free-Speech Case for Facial Recognition | Opinion",
+      "excerpt": "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
+      "originalUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
+      "publishedDateTime": "2021-08-27T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-people-are-hiring-out-their-faces-to-become-deepfake-style-marketing-clones.md",
       "title": "People are hiring out their faces to become deepfake-style marketing clones",
       "excerpt": "Liri can juggle so many jobs, in multiple countries, because she has hired out her face to Hour One, a startup that uses people’s likenesses to create AI-voiced characters that then appear in marketing and educational videos for organizations around the world.",
@@ -945,12 +1084,12 @@
       ]
     },
     {
-      "path": "_news/2021-08-26-for-the-6th-time-ta-digital-appears-on-the-inc-5000-list-of-americas-fastest-growing-companies.md",
-      "title": "For the 6th Time, TA Digital Appears on the Inc. 5000 List of America's Fastest-Growing Companies",
-      "excerpt": "Today Inc. magazine revealed that TA Digital is No. 2,854 on its annual Inc. 5000 list, the most prestigious ranking of the nation's",
+      "path": "_news/2021-08-26-speech-and-voice-recognition-market-worth-220-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets",
+      "excerpt": "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deployment Mode (On",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-the-6th-time-ta-digital-appears-the-inc-/2021/08/26/9438005.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-the-6th-time-ta-digital-appears-the-inc-/2021/08/26/9438005.htm",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-08/53783702-speech-and-voice-recognition-market-worth-dollar-22-0-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -960,11 +1099,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T08:27:00-07:00",
+      "publishedDateTime": "2021-08-26T08:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -974,161 +1113,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app.md",
-      "title": "Google confirms it’s pulling the plug on Streams, its UK clinician support app",
-      "excerpt": "Google is infamous for spinning up products and killing them off, often in very short order. It’s an annoying enough habit when it’s stuff like messaging apps and games. But the tech giant’s ambitions stretch into many domains that touch human lives these days.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/",
-      "originalUrl": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/05/p1040482.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/amp/",
-      "publishedDateTime": "2021-08-26T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ai-voice-synthetic-speech-company-lovo-gets-45m-pre-series-a-funding.md",
-      "title": "AI voice, synthetic speech company LOVO gets $4.5M pre-series A funding",
-      "excerpt": "Voice skins” have become a very popular feature for AI-based voice assistants, to help personalize some of the more anodyne aspects of helpful, yet also kind of bland and robotic, speaking voices you get on services like Alexa.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/",
-      "originalUrl": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Co-Founders-of-LOVO.jpg?w=1024",
-          "width": 1024,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/amp/",
-      "publishedDateTime": "2021-08-26T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-heres-why-your-ai-isnt-providing-real-value.md",
-      "title": "Here’s Why Your AI Isn’t Providing Real Value",
-      "excerpt": "What’s more, a recent Deloitte benchmarking study found that leaders in AI implementation show an average of 4.3% ROI for their projects. What all those facts aren’t showing is that you can’t expect such a level of success just by “plugging AI into your process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6090278bf5c9ff4ba9b3340b%2F0x0.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/amp/",
-      "publishedDateTime": "2021-08-26T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

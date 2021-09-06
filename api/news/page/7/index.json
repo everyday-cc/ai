@@ -2,6 +2,164 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-28-celebrity-spotting-amazon-improves-facial-recognition-for-famous-people.md",
+      "title": "Celebrity spotting: Amazon improves facial recognition for famous people",
+      "excerpt": "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-28T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-self-driving-electric-cars-could-mean-the-end-of-short-haul-flights.md",
+      "title": "Self-Driving Electric Cars Could Mean The End Of Short Haul Flights",
+      "excerpt": "Self-driving battery-electric vehicles could drastically reduce the need for short haul flying, or even render it obsolete, and slash emissions in the process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61262ae06169576215801db8%2F0x0.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/",
+      "publishedDateTime": "2021-08-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-inside-boston-dynamics-project-to-create-humanoid-robots.md",
+      "title": "Inside Boston Dynamics’ project to create humanoid robots",
+      "excerpt": "Atlas is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, backflips, and dancing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
+      "originalUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Boston-Dynamic-Atlas-Parkour1-e1629834411758.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
+      "publishedDateTime": "2021-08-27T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans.md",
       "title": "How IBM is using AI to deliver insights and stats to US Open fans",
       "excerpt": "Tennis lovers are getting a lot of new data insights thanks to IBM's Power Rankings and Match Insights powered by its Watson AI, and business leaders looking for analytics tools should tune in ...",
@@ -1082,145 +1240,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-schnuck-markets-expanding-use-of-tally-robots-chainwide.md",
-      "title": "Schnuck Markets expanding use of Tally robots chainwide",
-      "excerpt": "Schnuck Markets Inc. is expanding its use of Tally inventory-taking robots to all of its stores chainwide. Schnuck Markets said Thursday that a multiyear, full-scale rollout now will bring Tally robots to all 111 Schnucks stores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "originalUrl": "https://www.ksdk.com/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ksdk.com/assets/KSDK/images/6064e977-d6b9-4a67-9b45-b73059276597/6064e977-d6b9-4a67-9b45-b73059276597_1140x641.png",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/schnuck-markets-expanding-use-tally-robots-chainwide/63-19ffa56e-e84d-48dc-ac17-0652ea68460c",
-      "publishedDateTime": "2021-08-27T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSDK",
-        "domain": "ksdk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew.md",
-      "title": "‘Good to Know’ headlines: Self-driving taxis and Flamin’ Hot Cheetos flavored Mountain Dew",
-      "excerpt": "NBC News' Vicky Nguyen reports on a new app that is set to offer self-driving taxis, logging into virtual meetings using A.I., and Mountain Dew’s new Flamin’ Hot Cheetos inspired drink.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew-119588421962",
-      "originalUrl": "https://www.nbcnews.com/now/video/good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew-119588421962",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_08/1630065015132_ott_now_am_goodtoknow_210827_1920x1080-bs619r.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo119588421962",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo119588421962",
-      "publishedDateTime": "2021-08-27T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-the-free-speech-case-for-facial-recognition-opinion.md",
-      "title": "The Free-Speech Case for Facial Recognition | Opinion",
-      "excerpt": "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
-      "originalUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
-      "publishedDateTime": "2021-08-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

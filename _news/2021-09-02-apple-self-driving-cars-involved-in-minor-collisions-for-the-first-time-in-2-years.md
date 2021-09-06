@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "This Lidar Maker Could Win Big—and It Doesn’t Involve Self-Driving Cars"
-    excerpt: "Aeva Technologies recently signed a deal with Nikon as it searches new applications for its laser-based radar systems."
-    publishedDateTime: 2021-09-01T15:33:00Z
-    webUrl: "https://www.barrons.com/articles/lidar-maker-aeva-technologies-nikon-51630453396"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lidar-maker-aeva-technologies-nikon-51630453396"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-393971/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Apple's self-driving test vehicles involved in two minor collisions in August"
     excerpt: "Two cars in Apple's fleet of self-driving vehicles were involved in minor accidents in August while driving on California roads, though neither was the fault of autonomous systems being tested."
     publishedDateTime: 2021-09-01T20:35:00Z

@@ -171,15 +171,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "This Canadian FinTech Co. Jumped 77% in Revenue"
-    excerpt: "AI-driven financial technology company Marble Financial Inc. (CSE: MRBL) released its interim consolidated finances statements and management’s discussion and analysis for Q2 2021 on Wednesday. MRBL highlighted total revenue for the three- and six-months ending June 30th,"
-    publishedDateTime: 2021-09-01T16:56:00Z
-    webUrl: "https://stockhouse.com/news/newswire/2021/09/01/this-canadian-fintech-co-jumped-77-revenue"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 4
 
 secured: "goSbCs6eeDDGEJZEW8CQ9RPVIiKoWwWuWUG+ipcZT1OHFQ5cmC/Q2kjU+j5a4ZdNRUXeojhoHdEGqpnvoAqiW9cD0H6r25Y4N8eVlz+M0EEoLJgfcS7SeFn5oIL5o01JpwbxTp96sMzuOz7mXii7u8XVcl9YYD1weHevaFkHa7aXnQzOlfhy4rNcLCyWHzxNaWAPY5ztGohcn8gu840gbtc0vW5W+lpu8cNEnFQEZE4aU+VzLUeYLS3EfD6ycBgbpXYADej/2F9WF9BDLeVq9uG3VyqKiYzUww0BSckAJD6oPbFIV3Ge2E38BC5guhBHMSXm1UvlmeCjkycWt/oiRgOyjyIvtm+FcPGf0uVyfHZib76tbj9dBNlwz7egy6/SDxwIAX1MKQ8cOsT7uCA231mqO0d8Zq8eGkYClgCbrx4331O6VGmMNl73f8ZXHpWLETlrPblxKjA3DbcfvufmXTdXUCAeX8ANj4AvuVEiaInOjlA+xx/R5x2WwNslL/DOhZJ9FuUxmM76pLbDp+b9QA==;vNrV0ADPC6RAq+YumhSx7Q=="
 ---

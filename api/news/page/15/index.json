@@ -2,6 +2,162 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-23-a-secret-weapon-for-self-driving-car-startups-humans.md",
+      "title": "A secret weapon for self-driving car startups: Humans",
+      "excerpt": "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/jdx_SBKHpamXIFpgNPetMNtT-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YZTF4GYIYNIVJJBTUP3X3KH4B4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-an-artificial-intelligence-helped-write-this-play-it-may-contain-racism.md",
+      "title": "An Artificial Intelligence Helped Write This Play. It May Contain Racism",
+      "excerpt": "OpenAI believes that this kind of AI research will reshape the global economy. Earlier this month, they debuted a new version of GPT-3 that can translate ... you train large language models ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6092078/artificial-intelligence-play/",
+      "originalUrl": "https://time.com/6092078/artificial-intelligence-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2021/08/ai-teaser.jpg?quality&#x3D;85",
+          "width": 780,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-seeking-early-signals-of-dementia-in-driving-and-credit-scores.md",
+      "title": "Seeking Early Signals of Dementia in Driving and Credit Scores",
+      "excerpt": "The pathologies underlying brain decline can begin years before symptoms emerge. Can everyday behavior provide warning?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/24/science/24dementia-span/24dementia-span-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.amp.html",
+      "publishedDateTime": "2021-08-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-these-researchers-are-bringing-ai-to-farmers.md",
       "title": "These researchers are bringing AI to farmers",
       "excerpt": "“Farmers feed the entire world — so how might we support them to be resilient and build sustainable systems that also support global food security?” It’s a question that Diana Akrong found herself asking last year. Diana is a UX researcher based in Accra, Ghana, and the founding member of Google’s Accra",
@@ -1062,136 +1218,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-arab-bank-to-back-egyptian-fintech-ai-and-cybersecurity-startups.md",
-      "title": "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups",
-      "excerpt": "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
-      "originalUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
-      "publishedDateTime": "2021-08-22T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.md",
-      "title": "Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud",
-      "excerpt": "Home » Artificial intelligence » Tesla AI Dojo Training as a Service Could Compete with Amazon and Google Cloud Lex Fridman has a very successful podcast but he has been an AI researcher for 6+ years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-22-at-2.23.19-PM.jpg",
-          "width": 1802,
-          "height": 1322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-ai-dojo-training-as-a-service-could-compete-with-amazon-and-google-cloud.html",
-      "publishedDateTime": "2021-08-22T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-pi-and-30-csos-unite-against-use-of-live-facial-recognition-technology.md",
-      "title": "PI and 30 CSOs unite against use of live facial recognition technology",
-      "excerpt": "PI, together with 30 national and international civil society organisations (CSOs), release an open letter calling on Parliament and relevant stakeholders to halt and ban the use of live facial recognition technology (LFRT) by the police and private companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.privacyinternational.org/advocacy/4616/pi-and-30-csos-unite-against-use-live-facial-recognition-technology",
-      "originalUrl": "https://www.privacyinternational.org/advocacy/4616/pi-and-30-csos-unite-against-use-live-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.privacyinternational.org/sites/default/files/styles/teaser_large_x1/public/2021-07/etienne-girardet-CxTCcjUo2hM-unsplash2.png?itok=GcWDwORh",
-          "width": 525,
-          "height": 295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Privacy International",
-        "domain": "privacyinternational.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

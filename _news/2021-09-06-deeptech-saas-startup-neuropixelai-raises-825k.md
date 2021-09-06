@@ -34,6 +34,20 @@ related:
         width: 1199
         height: 630
         isCached: true
+  - title: "Inflection Point Ventures leads seed round in NeuroPixel.AI"
+    excerpt: "Deeptech SaaS startup focused on apparel cataloging, NeuroPixel.AI has raised $825k in its seed round led by Inflection Point Ventures."
+    publishedDateTime: 2021-09-06T09:56:00Z
+    webUrl: "https://entrackr.com/2021/09/inflection-point-ventures-leads-seed-round-in-neuropixel-ai/"
+    type: article
+    provider:
+      name: entrackr
+      domain: entrackr.com
+    quality: 37
+    images:
+      - url: "https://entrackr.com/wp-content/uploads/2021/09/Neuro-pixel.ai_.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Bangalore-Based Deeptech SaaS Startup NeuroPixel.AI Raises $825k In Seed Round"
     excerpt: "The funds raised will be used for scaling up their R&D team to accelerate the transition of their product from beta to production."
     publishedDateTime: 2021-09-06T06:45:00Z

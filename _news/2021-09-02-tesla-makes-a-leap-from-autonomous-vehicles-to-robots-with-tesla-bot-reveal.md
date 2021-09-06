@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 Robotics Stocks to Buy for Elon Musk’s Big ‘Tesla Bot’ Bet"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks have been gaining significant traction among buy-and-hold"
-    publishedDateTime: 2021-09-01T16:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-1030773901"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”"
     excerpt: "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war."
     publishedDateTime: 2021-09-02T20:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/09/03/top-12-high-growth-art
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:
