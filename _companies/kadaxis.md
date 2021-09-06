@@ -2,7 +2,7 @@
 name: "Kadaxis"
 overview: "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis."
 type: "profile"
-heat: 6
+heat: 0
 
 website: https://kadaxis.com/
 
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=3ELoLhZNxb0"
 
-secured: "hWH1HaN2vK4ulwJ0QE7fkJv4GiMypLbBaluCuv9QmFRJxwOcSSZvTpJ3124jX+o158LZdmRWlShp2Ti8C/zsOuIJqHCyURmubYnrofcHaB5SAvIW+kLGqmW290jJjPVDtBugCgho68upUdYWMxWLV7i8MzAKNgiSbnmDVTy0muV0VhBTTifqNBjlWfsBqJxTdNW4RFxgHu7G2rWBSOmr4R7Euab5b+BxrIgYd+5P5gtbjhJGxsp1HPSGXdwC7JHXLnTDBn4ytLzoPyvaJAOkWkn2/O1D93nNa0PUB8Kk907qt01f6tjJ1Gm7PbC7NYbGxvVWPIZwtPqTKKq4PNnzzu37DZLz26En7Wx1c+ZN7RUHbrLrvI1ihtckNQd2sZUvXQtrTuZbNYjX4gTkpN9mcoGuaDshkPgghAd8Qmf2DE8=;jfkzjL8yNfFe5u/7jeHSSg=="
+secured: "7okEM1CqsP/uJPLOOgGWVj2sDya6+dj8yz7n6B1G/dOrmA91vDgtKFDCnZvpevXNsycxAphm5qp1eVQgO9Wv1zJiyMGc7Yn238ezQ2vejwsrqbTTAhyppv9YQgRSHG0Cqze6mtmjewYLoisEjjdC8arerX7bLYqAj4oJakBHHBddyuDLUQYPOa/Da4xrGJ3wKTobjPJv/f0OxAHilLKo1sJu6W5fVSDJIhjorKnAWJ+JZWuGg46nQiWHcggA6fSovZqFI/NDT+DxoF55IpJ/p5d6I7cnc4x+6Ofe1vfzU6ya/M4s6a9L8bUDq8ENLuvz1dcjXlOGvhbTD5AMLREDyS2CSvvgiQK9f3E7WqZ13OylmKE6/CCCIHeayCdhXpgQIGPxyT1pd13cE1IarWWERLs7nAu2jKM9qVW7fImM72w=;LFCYWQ/Xgxk4gV0IwjQd1A=="
 ---
 
