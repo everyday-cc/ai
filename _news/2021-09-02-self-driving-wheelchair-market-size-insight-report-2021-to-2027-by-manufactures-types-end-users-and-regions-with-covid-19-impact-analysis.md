@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Propelled Modular Transporter Market Size Report 2021: Market Share, Trends Analysis, Supply and Demand Forecast by Region 2026"
+    excerpt: "Sep 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
+    publishedDateTime: 2021-09-06T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-propelled-modular-transporter-market-size-report-2021-market-share-trends-analysis-supply-and-demand-forecast-by-region-2026-2021-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

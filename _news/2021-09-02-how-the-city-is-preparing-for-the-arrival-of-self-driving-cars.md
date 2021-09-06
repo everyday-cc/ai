@@ -25,53 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI and VW are showing off their self-driving test vehicle"
-    excerpt: "The companies hope to deliver commercial self-driving vehicles to be used for commercial services in Hamburg by 2025. The autonomous ride-pooling services will be run by a VW subsidiary called MOIA, a mobility service provider. Argo AI received the base ..."
-    publishedDateTime: 2021-09-06T11:52:00Z
-    webUrl: "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/"
-    ampWebUrl: "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/"
+  - title: "Could That Dreaded Highway Hypnosis That Puts Human Drivers Into A Trance Befall AI Self-Driving Cars?"
+    excerpt: "Highway hypnosis is said to befall human drivers, so the apparent question is whether AI self-driving cars could suffer likewise. Or is highway hypnosis a fictional aliment and merely a myth? See the scoop."
+    publishedDateTime: 2021-09-06T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/09/id-buzz0ad01.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f71e2337464fd52c091f01%2F0x0.jpg%3FcropX1%3D313%26cropX2%3D4817%26cropY1%3D233%26cropY2%3D3235"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Apple self-driving cars involved in two recent accidents"
+    excerpt: "Self-driving prototype cars from Apple were involved in road traffic accidents, but it wasn't the technology that was at fault"
+    publishedDateTime: 2021-09-02T12:49:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/apple-self-driving-cars-involved-two-recent-accidents/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 24
+    images:
+      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2020/12/Apple.jpg"
+        width: 1440
+        height: 897
+        isCached: true
+  - title: "Audi self-driving concept car: lounge seats, drinks cooler, more"
+    excerpt: "The Audi Grandsphere is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
+    publishedDateTime: 2021-09-02T20:17:00Z
+    webUrl: "https://www.wishtv.com/news/business/audi-self-driving-concept-car-lounge-seats-drinks-cooler-more/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 24
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2021/09/BACKGROUND-audi-concept-self-driving-car.jpg"
         width: 1280
-        height: 853
-        isCached: true
-  - title: "Volkswagen and Argo AI reveal first ID Buzz test vehicle for autonomous driving"
-    excerpt: "Volkswagen Commercial Vehicles, a standalone VW brand responsible for the development and sales of light commercial vehicles, and Argo AI, an autonomous driving technology company, unveiled the first version of the ID Buzz AD (Autonomous Driving) on Sunday."
-    publishedDateTime: 2021-09-06T00:20:00Z
-    webUrl: "https://techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/"
-    ampWebUrl: "https://techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/IBA_7650.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Volkswagen ID.Buzz self-driving prototype forging ahead with public road testing"
-    excerpt: "Volkswagen has teamed up with Argo AI to develop the autonomous ID.Buzz electric vehicle..Volkswagen ID.Buzz self-driving prototype will be showcased at the 2021 IAA Munich auto show."
-    publishedDateTime: 2021-09-06T09:12:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing-41630912480440.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/09/06/600x338/VW_1630917535414_1630917550377.jpg"
-        width: 600
-        height: 338
+        height: 720
         isCached: true
 
 secured: "ToKzLhHzioCU3MRcRnH/YdWZ98IVZQ2Z+Kb8GVU5zPg+ZV3vSJ/1Pzqgb7yKuw1eI6JYp6J6mFeJrK1lFZtLLH0FPYvtyv+Z/FCrRKNWeFi9wCl7VEOYyrrGsxNgedVbPaPh7TBBjpCe5tci+RNCXQjIspNFHDTeKSpOGsO0to/CPbuFtbNAXgocjGXPiJ5BY6tnqwpZr+asN0uRallX1AEirzKRtZJaSWNFvccuEjJJUjBlw4ZpzGMLfLJ+BBFc61PwpTQsywpcmMY0t9s4rmGGYjDPpgSlgLR79Llp3boQ9Q+RIoM5BBQXdE4qKmAk1y4iGGnGyQ1z9/xuv0FoiPJFPc/PrziFoQlb1UibCm0/KKBaKxUYvzkaYrXgMgk7pMKgE1GDDucPlVV3jRZsVZ2fqmxQ/V5v4eHvD4nkHCW4mRCLKX/mEDxAPG5RByQTxae4LLOF7A/MN6cNlbnHD33Ee7zVVg9AMRSS+WP4FJiffJqee1zuJe9UT7eqLIYNQrDuJVg27gWECfVYEB60Xw==;0iKjHi27/e+fC6pvh7aC3w=="

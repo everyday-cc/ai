@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Colby Brings On Leading Researcher To Direct New AI Institute"
+    excerpt: "Stent was part of a project that led to several AI applications, including the Siri voice assistant on the iPhone."
+    publishedDateTime: 2021-09-06T14:39:00Z
+    webUrl: "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute"
+    ampWebUrl: "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true"
+    cdnAmpWebUrl: "https://www-mainepublic-org.cdn.ampproject.org/c/s/www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true"
+    type: article
+    provider:
+      name: Maine Public
+      domain: mainepublic.org
+    quality: 59
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4430736/2147483647/strip/true/crop/488x301+0+175/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F09%2Fd931f40340a5affbf92b6e924974%2Famanda-stent-488x650.jpeg"
+        width: 880
+        height: 542
+        isCached: true
   - title: "Colby's Institute for Artificial Intelligence names director"
     excerpt: "The nation’s first small liberal arts college to create an institute devoted to artificial intelligence now has a director. Amanda Stent will lead the newly formed Davis Institute for Artificial Intelligence at Colby College."
     publishedDateTime: 2021-09-04T17:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscentermaine.com/amp/article/news/education/colbys-in
 cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/education/colbys-institute-for-artificial-intelligence-names-director-colby-college-waterville/97-e2676648-04e5-4a68-8b00-a82eb13ce531"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Colby Brings On Leading Researcher To Direct New AI Institute"
+    excerpt: "Stent was part of a project that led to several AI applications, including the Siri voice assistant on the iPhone."
+    publishedDateTime: 2021-09-06T14:39:00Z
+    webUrl: "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute"
+    ampWebUrl: "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true"
+    cdnAmpWebUrl: "https://www-mainepublic-org.cdn.ampproject.org/c/s/www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true"
+    type: article
+    provider:
+      name: Maine Public
+      domain: mainepublic.org
+    quality: 59
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4430736/2147483647/strip/true/crop/488x301+0+175/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F09%2Fd931f40340a5affbf92b6e924974%2Famanda-stent-488x650.jpeg"
+        width: 880
+        height: 542
+        isCached: true
   - title: "Colby's Institute for Artificial Intelligence Names Director"
     excerpt: "The nation’s first small liberal arts college to create an institute devoted to artificial intelligence now has a director."
     publishedDateTime: 2021-09-04T15:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/elon-musk-robots-coming-anyway/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-robots-coming-anyway/amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/elon-musk-robots-coming-anyway.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla Makes a Leap from Autonomous Vehicles to Robots with “Tesla Bot” Reveal"
-    excerpt: "Not a stranger to taking on a challenge, Elon Musk reveals \"Tesla Bot\" at 2021's Tesla AI Day. While it seems to be an ambitious plan to build a humanoid robot, how feasible is it for Tesla? Elon Musk isn't new to having big ideas and even bigger ambitions."
-    publishedDateTime: 2021-09-01T23:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/tesla-makes-a-leap-from-autonomous-vehicles-to-robots-with-tesla-bot-reveal/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 53
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/tesla_bot_ai_day_thumbnail.jpg"
-        width: 700
-        height: 300
         isCached: true
 
 secured: "8M6a6Om7FxZr+OweESBGXX9JyQIft8mvCbI8lu+Pp8QBwmm3SWvDnA2hmOTH2NWDb3DrAc+GsEyG1H2hO3pgq0QNomLF8JoTu9EE8rW9+CHoQS6Ua4rfePcMw1jVf/cYf2T7CUZhu5xNvIsjZHg7+q9imNkbIvCIHz+ILX36CelL9A6liATSZWwXaxFDe9EeZQ7Hu0VU1s3JrFiZDIDwhzh8agF3Oam772pSt1u9gSaVXbNC1djF2g35muUSTzFipmSw2C0rvaQGYaZu1OUPhkc7pOk9ZgAPcb5deVZ6Rfpw4o2uBHjRQ8g3QyM4ZJHNwRTpiEFAQIXm2O2vw7c5ltOAlocebugdJv/8zVzWCw9KlE4uBQMZ0eZvpp/Ia8U0+3BbcZqPoYCUridQjzw7F/MlOo/0VUaZoz0d4XzBY9SdPOnOGos18t6TF/uzfPIFMOuWnpgPBd964A4zxiiP9adWWUzxCF3KD31UFB+ZVLGvCFg0QQiawHRg4c3Uixyi9vXt58nqSMk/BrHCUjgFhQ==;gwKdS6reLIc6Fwr8cv4cFQ=="

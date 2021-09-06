@@ -1,21 +1,21 @@
 ---
 category: news
 title: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All"
-excerpt: "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All. REDWOOD CITY, Calif., Aug. 17, 2021 /PRNewswire/ -- MOLO"
-publishedDateTime: 2021-08-17T16:25:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9432517.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9432517.htm"
+excerpt: "He founded MOLOCO with the vision of making sophisticated machine learning algorithms available as a cloud service to a wide variety of businesses, industries and use cases. MOLOCO Cloud is a ..."
+publishedDateTime: 2021-08-17T15:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html"
+webUrl: "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html"
 type: article
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "N71TgmxGGDqV79j/JUwsDNd0MH6jeFZQcEcjQYzutm9LIl6jDmyXCH+g8LYOrVyF4W3DCGHo59+BdiSSIf3nVlya5IANViWAJnBFCMEprA6j+fgPW38KLzm5b5VPaeHhjmOzWeUaZ/x8tmNwXn6dEKUzFreFl3pk7v4zMZMu2OPN1YmSnmQxNLskZiUsjbXQ7mYESfRnlCDcUbvMe0RUVywZo6UmjyIm6qXLO14WOo8awT7jR7ShgjLZkIMDbexqVn4+7A96Io7GkPRLRNSTwr8mYL+SVTJOd9JFZYRJ183mD3cWkR/+iw/hjTc2gPgOGdYU3O3y09ZOHBIQV11+TpV8FCDYn453C928x0bWUXM=;1/tIXExsXtxhd5Ko6H7VJw=="
+secured: "WSYVx5ccccIGRN/6pqjRXk2vY9OLDuds5KNhOVjmJOPuNPRnhB6QvrplxmcDkKnxmN4ZeW7bIT9MWd/unztI+bGOQ18mKIC/ACNMi23zFX9hO+HQF/EMoDLpMizrcmNuRM4FVVxwxBXBAP3iV74lL+pdUWc3oo7nPJXXMdo9TSYZcWMqgpJftGBpbwZkDPOXJLFoAfko0jr7agdZGP+4p9VOzBmUFt/JOvoR9MFjM+HbK3tY9Z65Z4Zkxm8DkTw6MrrndJkcLATEmZZ6wtvYS5A2lvKJg4PgwHRlFpb+F0OWgfEP8JAJChnTVpW+sOGVJj4PeUx3Gg91YrNGkDDQMuZyRwqal7RU4aw0yuYfwFo=;p1uuerfuw/v21oNi042DyA=="
 ---
 

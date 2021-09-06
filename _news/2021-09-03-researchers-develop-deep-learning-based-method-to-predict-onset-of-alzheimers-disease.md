@@ -43,22 +43,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine learning tool detects the risk of genetic syndromes in children with diverse backgrounds"
-    excerpt: "With an average accuracy of 88%, a deep learning technology offers rapid genetic screening that could accelerate the diagnosis of genetic syndromes, recommending further investigation or referral to a specialist in seconds,"
-    publishedDateTime: 2021-09-01T22:30:00Z
-    webUrl: "https://medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-genetic.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Machine Learning Tool Detects Genetic Syndromes in Children"
     excerpt: "Children’s National Hospital researchers developed a machine learning tool that offers rapid genetic screening, potentially accelerating the diagnosis of genetic syndromes in children."
     publishedDateTime: 2021-09-06T13:32:00Z

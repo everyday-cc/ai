@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Propelled Modular Transporter Market Size Report 2021: Market Share, Trends Analysis, Supply and Demand Forecast by Region 2026"
+    excerpt: "Sep 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
+    publishedDateTime: 2021-09-06T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-propelled-modular-transporter-market-size-report-2021-market-share-trends-analysis-supply-and-demand-forecast-by-region-2026-2021-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yA8dR+QIHYyUKcnvyTElZr+Y+iY4Xu+HZZjLns7q2CHOkJLvMNV7m3YITvABEI8QjoaDIC14cJQSKMwkfEX66SyxJ2Zc5SA7JqbSJuOLPHfkJ1/bmhdCeFBz+tO0NqOyERcXpLB8mUIM2BP7jkyqugnv1i1alR/q0oUJla5VshF68B+t2fpnw7C4PxsChsIs399bmJn5oEXlLfPhPeOf6XQHXJQUrSMKzrVbrbCrvoUolfYg3//bAQZWp0kdKGOQzVW/LsyCQZ/WHwlNBkYmTg0ifoBdJzhWTFWNrd39H1Zae2UnUZDV1eyNZsml+AXftk2vc7OLwouCeaVLVGyBcbW+krWg/V1FAsyxf20+dfI=;akDZsaH47zI4C9p3goD1Kg=="
 ---

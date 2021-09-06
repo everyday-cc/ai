@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accid
 webUrl: "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/16x9OCR-L-TURNER-0901-02.jpg?w=1024&#038;h=576"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Apple self-driving cars involved in two recent accidents"
-    excerpt: "Self-driving prototype cars from Apple were involved in road traffic accidents, but it wasn't the technology that was at fault"
-    publishedDateTime: 2021-09-02T12:49:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/apple-self-driving-cars-involved-two-recent-accidents/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 24
-    images:
-      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2020/12/Apple.jpg"
-        width: 1440
-        height: 897
         isCached: true
   - title: "Apple Inc. (NASDAQ:AAPL), NIO Inc. (NYSE:NIO) – 2 Apple Self-Driving Cars Said To Be Involved In Accidents Last Month"
     excerpt: "Two of Apple Inc.’s (NASDAQ: AAPL) self-driving cars were involved in minor collisions in August, according to a report by MacRumors that cited data from the California Department of Motor Vehicles. What Happened: The first accident took place in San Diego on Aug."

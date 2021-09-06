@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New self-driving Audi Grandsphere is a private jet for the road"
+    excerpt: "Audi has offered a preview of its luxury-car future with the unveiling of the Grandsphere concept car at this week’s IAA motor show in Munich"
+    publishedDateTime: 2021-09-06T15:14:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/new-models/2021-09-06-new-self-driving-audi-grandsphere-is-a-private-jet-for-the-road/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/new-models/2021-09-06-new-self-driving-audi-grandsphere-is-a-private-jet-for-the-road/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/new-models/2021-09-06-new-self-driving-audi-grandsphere-is-a-private-jet-for-the-road/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/V3G5SAEZT3IRHOb1gX-U1e-gT7oXVGLqQd0rW-C2NEtotBb7wGNdkjtN4k1-DtL47WaSurWc5V-RNzz8eLKAnZ8yua3XggCy-JKfe2GlaQS_=s1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Elegant Audi Grandsphere concept car previews self-driving luxury future, with 711bhp"
     excerpt: "AUDI has taken the wraps off its Grandsphere concept car, a second glimpse at how the future of autonomous driving could look, after the recent Skysphere, in a trio of sphere-themed design studies being shown this year."
     publishedDateTime: 2021-09-02T17:27:00Z
@@ -42,20 +58,6 @@ related:
       - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/Audiconcept-06-1024x638.jpg"
         width: 1024
         height: 638
-        isCached: true
-  - title: "Audi self-driving concept car: lounge seats, drinks cooler, more"
-    excerpt: "The Audi Grandsphere is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
-    publishedDateTime: 2021-09-02T20:17:00Z
-    webUrl: "https://www.wishtv.com/news/business/audi-self-driving-concept-car-lounge-seats-drinks-cooler-more/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 24
-    images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2021/09/BACKGROUND-audi-concept-self-driving-car.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Audi's self-driving concept car makes the front seats first class"
     excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker's idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"

@@ -41,22 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine learning tool detects the risk of genetic syndromes in children with diverse backgrounds"
-    excerpt: "With an average accuracy of 88%, a deep learning technology offers rapid genetic screening that could accelerate the diagnosis of genetic syndromes, recommending further investigation or referral to a specialist in seconds,"
-    publishedDateTime: 2021-09-01T22:30:00Z
-    webUrl: "https://medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-machine-tool-genetic-syndromes-children.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-genetic.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Using machine learning to accurately identify genetic syndromes in children"
     excerpt: "A novel machine learning technology has demonstrated impressive efficiency in detecting genetic syndromes in children."
     publishedDateTime: 2021-09-02T13:11:00Z
@@ -88,6 +72,6 @@ related:
         height: 480
         isCached: true
 
-secured: "UaRtEbFotq/Qo/KYOOFqiaz5BAMHqtFCD453xMd9TPQbnGn8eX2zcWscFWNpiypqRJmrFagV4ArE91BUpPzke7bPzAvcQ4oCw7r3z7ydrIALMpVaoSFTV4nJ1FtCik49CXbatGDCjsYA3PGOVexn0Or3aa79Xg/j7TMx+wEllssdbrY9GPZFDpEBCM3XvmAbI8D4TDtt0j2DQim7npeTJLWFklLhep/JKXhhVLUiJWteNxsn7HGVqSNzn2ui+CvNSXieNmnpqWm383fYT0kKpYZ46+AfuB7cdcm3iC8IqPaTw+lWA8FVM05OyULcHepm3Jm5YkJNQ728YaX/322J+x8cv88fPWwRqFT82ZF/0fo=;4BDJYJzmduPxXap+tCCQuA=="
+secured: "iIxNJWy7eXe+r9z1n0yD8MBWL13fpgyIVY7DHJ4xVUxBUiwu5n/2b+ZKhQw9WGedoN3Lgw13ClX8h7dqJObamfRSodxB/PLFrY01pz8CWssPeGruu8OZcRkHqmlNI64KbOpK4VyzQZFqaaKDVwrQdl3mTyE4FuvzTkkaCiQz3gZ4PAwVMaYVMjKKhSOgoEyWVPcP/+wm0avjxc8Xm3IHjO0Amxt/tUpREhfTF0OKzneEpf2pmgOr2kc+09ewj6kecShBWFVE2HU/0hqsrc6c1mCIZl0iWysCilKX22B/5PUp5p//wKVqxXdVQmhEV+RtrBo3Gl9myVwPw0f/ryLI2JOoXEK8TOFOMDky7176Dh8EHfxqtnJP1cmAlHbV7NPuS3bZghEv8GujwyPfjBTCi0m02/PTYH94jYC037CE2rlUIVeDZGP5yzn0k0wVivHY0CQfUyHA3vV4B3EJDgI6eupzyFW492qUB0DruwhTWM9JrGS56arMjLW3UNYFUrizUZ0pamxAv6AmI33KN83z1w==;gPHCSv1i2VluJZJhS2mWOg=="
 ---
 

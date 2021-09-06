@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Russia's new space station to use AI, robots"
-excerpt: "Russias new space station will operate autonomously to a large extent, using artificial intelligence as well as include extravehicular robots, Roscosmos CEO Dmitry Rogozin has said."
-publishedDateTime: 2021-09-06T13:11:00Z
-originalUrl: "https://www.sify.com/news/russias-new-space-station-to-use-ai-robots-news-education-vjgnl8gdcdedf.html"
-webUrl: "https://www.sify.com/news/russias-new-space-station-to-use-ai-robots-news-education-vjgnl8gdcdedf.html"
+excerpt: "Russia's new space station will operate autonomously to a large extent, using artificial intelligence as well as include extravehicular ... Rogozin also noted that Roscosmos will start deploying the new Russian Orbital Service Station (ROSS) in five ..."
+publishedDateTime: 2021-09-06T14:38:00Z
+originalUrl: "https://www.tribuneindia.com/news/schools/russias-new-space-station-to-use-ai-robots-307556"
+webUrl: "https://www.tribuneindia.com/news/schools/russias-new-space-station-to-use-ai-robots-307556"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "Z90A2O+Bx8k0h+EKbHKKZNqBHRIifAoNULuQGOsXMIxZ9/K9rz450bZfIkjm0cfQTHx28xkSm6lf0IO7BvVDmimErbeIEMogQnF5GEjFnv+UmIYtN0R5EPEbtE0BWXaDWmc8IpAFqm0fe9+n2XUpj42A3NQojCvuqVrmH8A3gPqkUrBewvV4vyahUuGKUxv/gtNnuLKChEgfdp99VGVgZU6M8dAB17Wns4d567ElDM/AtFLHLWOWbhjk66K8mQMO6riI21A7ivRwLhRp8lvD+v7ufo8/EVHZaEEZ5/60OayO3HOJ9Ns57uC/OhBAAzhzQzj2gZv0+LU7T+ARGeb+U1hdktvfQs6yckKFl6Akbco=;b27KyZNSI1tggZyjREpx7w=="
+images:
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/9/2021_9$largeimg_1106030387.jpg"
+    width: 715
+    height: 401
+    isCached: true
+
+secured: "3Xhbj9/B1XkerE9SqP88zDE6t+XSAFYecWaaIxubr7x4BMAmugcc8nMyUmvlgLTmHqvwbQdphwtULL+rsPMBNgzifTZWiyprERs0+ntTz+tBVucybbqrprw+1cSoXtJiPBFbLfH0j0RgLsbXO5eir2nvY+Haldd8DUd5s78m5PipTNts6cTpS1EgoNZ27XWhtvS21IiaIu4b00s54t6tDvY8TAikSD7OazcKsgm/AKfZXHlNYS1T61Uxu06KMLJQdr30MbpIDs1l3hSi9gRSt14JpdvqAddd0lqlzqvvjpvj9W6jkT1vK7lzQcTMQklqB7vz6EHG6FgHVRXIqxYqVyMp1IcOw/yvA5xFI3uMPls=;1+KbvDxg7dF4aRK0u4kV2g=="
 ---
 
