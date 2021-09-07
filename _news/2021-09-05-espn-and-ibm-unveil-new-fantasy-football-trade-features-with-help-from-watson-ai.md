@@ -1,12 +1,12 @@
 ---
 category: news
 title: "ESPN and IBM unveil new fantasy football trade features with help from Watson AI"
-excerpt: "IBM Watson will help ESPN Fantasy Football players make better trades. By Jonathan Greig | September 5, 2021 -- 13:00 GMT (06:00 PDT) | Topic: IBM With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages."
-publishedDateTime: 2021-09-05T06:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-webUrl: "https://www.zdnet.com/index.php/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+excerpt: "With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages. The Trade Assistant with ..."
+publishedDateTime: 2021-09-05T13:05:00Z
+originalUrl: "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+webUrl: "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
 type: article
 quality: 79
 heat: 99
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - IBM AI
+  - AI
 
 related:
   - title: "IBM creates personalized fantasy football experience"
@@ -51,6 +51,6 @@ related:
         height: 209
         isCached: true
 
-secured: "/fSURAbH73b8zmo5aTQysUVcu0Qyl+61RnwTCUWNc+eLBJXxeBJbNPEn6yuN5s0a0jbXARV0jqn33Rb9iaztF2oVHla/hxoYUqEJc2Cl972JTMLXrKkt4iiRdVdzhdbp2QQzZiJth1rTF26/Q1KJ8lJDlGZcZLjommZVnFth3dMyESxeKisCE0aefZEahokcj35f4fMrLOJSPXewFJVU+iOv6GhEPzWuAOdkL+6TbsnZXkQCIIqMAIp96hAmH9549tUdBaWHW6oD7+IYF1PW8KqL4zddrEq9XitEgsmaUE0PPSwiJAAZvWBEYUp22hTtCsB5fy2uBfEyvmOJNycaBNBRrDWmNdbW1qUZvs+h8FGcVaB0fPliXdvDCYG1kBhZViOkeg7MjITDPQkY3v4J5Zc1M+RVsezPhYpWaHpUPAgssg+vcMxu/5CTqx4GU7QRDJ1U0hWKHHC6Z2Wlq8sEo5of54qXE7EJBncMjlEmIBxxEWqjMaZb51I/Ko/5dvWP8CuVYsu1ziRnAMLcX/QgWg==;vi7n8MQMMuUlyUM3Kjxqgg=="
+secured: "O3D1gJs7kbfxHcRdkdKyeSqG5DJV6T7RHUfVqlGJ2vyo1bmWzsv3cnM8akCCHzjlefLRRJY3EEJY5z4lQlciEzAR3Bngh1xavJfWxFnjKa60qessYzKTSFVAh0qntKsF9j53vxDZl3Dd7+pMVgcFCBtzor4xU9WoO0oZWK4ov8/7t/BlYpCjeQuJThtFXEr/V2NUQoCzbz1hUqjqLKmiGS/NL4TLuMQvrtL7EmKl2OzSIWqotcMXJxSH7hHHHu6JzHxXiGPeEB2P4LTomJLm05w92I2AADXWBuqq+4cLMKYFrrbpLulXvBPH8+APpBVUUjXVZ6ehMRVfRA9mVNfmdaLQTM+gfPfB1JplIOJ5BHhYuostFV7rLWwbREHRAm42UWHmlB6H6tqkzkuVXYyuWNpdva8qrAtf2H0lup+coaN0NMjSuqRgezTEmYYVqJtG01KEvmOMvy81U80t0GMWlWEWzTZ/YPwRdN79+yCdNedBFPWDjIsZXfjQ+hmcIqk02yl8pngE6oQA4z5MTOh/pA==;EIcAPfDzfVA96WE01FZB/A=="
 ---
 

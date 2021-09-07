@@ -165,15 +165,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Tampa Bay Wave unveils startups to watch, new fintech focus at latest pitch night"
-    excerpt: "X accelerators, the latter of which proved to be so successful the Wave is launching new financial technology-focused programming in th"
-    publishedDateTime: 2021-09-02T11:01:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/roundups/2021/09/02/tampa-bay-waves-techdiversity-2021-pitch-night.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "NUV5q+6qkK4deDkDdm5RFCFEsWM2ZWCopz1PZRHJphf+H6KipHtICH7WH5et4x8pIBqWB8OWFjRtWjY/D5S2UVroWgDzncL1H833N+F5UMrmq1wmHmchv+kDwRgRZRCN9DDn7YePeNKUelr9GsVfJ59kn9UY8baESYAoqd1WYixtdNOti+4nW9fHxM31JMQap+H9cNNoHgm/+75S8EQP5xoB7diVK2YLfwZ6PLc4Kcwdn2lnsR1/3xmS9eP5fnfDpyyWSq1/HsR3BfDUyWYDC7lEvtdxaXfwSKVpLBxij7iV0AiCLMnwqiRulYtHG5kCWPedDH4sI3bb8VSkRaJLjyFT5J38ejdsBHHYFxTgCvK6Hti8YSs27zy+DGZdGn7pFjU97dS8nMuwMafocS30+fvgrvudfCN7R8afkxikLrsl6zwJ0ZIyWFlefM7+R7keUteaKKQ6mAKuBU2Gc3N17el4FEuW/tKUjq/63271HQaFLxP3b7dSvP8/Ud1LVfCo4Lu6b6Ny7wTimU0fiMeg3A==;TfHI96PVm5RoVmmAUpVXKg=="
 ---

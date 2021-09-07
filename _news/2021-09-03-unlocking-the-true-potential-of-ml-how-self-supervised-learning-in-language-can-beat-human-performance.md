@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/09/02/unlocking-the-true-potential-o
 webUrl: "https://www.datanami.com/2021/09/02/unlocking-the-true-potential-of-ml-how-self-supervised-learning-in-language-can-beat-human-performance/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "AI Can Write in English. Now It’s Learning Other Languages"
-    excerpt: "The algorithms build on recent advances in machine learning which enable machines to handle language with what seems like an accurate understanding. The devices have now turned their attention to other languages."
-    publishedDateTime: 2021-09-02T09:51:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-can-write-in-english-now-its-learning-other-languages/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "DWdenKYdWn1D3dgxliCx1dyN3bgyMIJti3TpmjTx5bdWAahnmlQlvilxbFWoazjad8a7dQS/iBQTfUaGFgCgUEWa1v9L+ziOAFJ4pG8m1CfnKeg1KL1OSLt1YNYfwljxX21fHAP9o90cowvSobmfFkM7d0rtN73Nq6+r7gD2p152vZy+uetbcvRIA0pne5Fp+5o3rVtDO5io4EZxleNXE1TLmPmuYrXXjaafRmSx4kEq2yeFP9wvzB916ggKa4b0g1E42zR1e2taFXnQzYuhm3P3DSkX0D0OD+dUMro9JgDxKLfWNaptwOX5m3v14EDvq7m1EOBikiXsBwuZcjuZYMSnoUgg6dGKE+hDOUAtVbc4SYgooZ/NEcBj2r6TW5uFHKWhJp7hvc0x9bA93BEF5CmGcUwCZozeatZKs0pQK13ItS0lbZFcgO0GoXRLtvpSaggmu2ncDvZv2Vx9Y5iiuZYOeUFxynnaSQZ0n+BxV9nYd0Ose6P6rWCgAbLprI5XRNUSnBIi1E66/nx6KXr6aA==;baasfyS7t9nKdM8J8HR1JA=="
 ---

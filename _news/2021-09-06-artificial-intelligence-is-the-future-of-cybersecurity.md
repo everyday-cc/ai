@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence is the future of cybersecurity"
 excerpt: "Cybercriminals are using artificial intelligence (AI) to evolve the sophistication of attacks at a rapid pace. In response, an increasing number of organisations are also adopting the technology as part of their cybersecurity strategies."
 publishedDateTime: 2021-09-06T07:15:00Z
-originalUrl: "https://www.technologyrecord.com/Home/artificial-intelligence-is-the-future-of-cybersecurity-125725"
-webUrl: "https://www.technologyrecord.com/Home/artificial-intelligence-is-the-future-of-cybersecurity-125725"
+originalUrl: "https://www.technologyrecord.com/Article/artificial-intelligence-is-the-future-of-cybersecurity-125678"
+webUrl: "https://www.technologyrecord.com/Article/artificial-intelligence-is-the-future-of-cybersecurity-125678"
 type: article
 quality: 37
 heat: -1
@@ -24,21 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Top Positive and Negative Impacts of AI & ML on Cybersecurity"
-    excerpt: "You might have heard only praise and good things about AI and ML, but that does not mean that they cannot become a bitter enemy to humanity. AI & ML are advanced technologies bound to function under the administrator’s command."
-    publishedDateTime: 2021-09-03T17:04:00Z
-    webUrl: "https://customerthink.com/top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity/"
+  - title: "Enemy at the Gates – The untold chronicles of AI Security"
+    excerpt: "The effort in securing AI will result not only in benefitting the organization but the society and will impact the lives of people touched by the comp.."
+    publishedDateTime: 2021-09-07T03:42:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 54
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://customerthink.com/wp-content/uploads/security-265130_1280-tech-pixabay.jpg"
-        width: 1279
-        height: 720
+      - url: "https://etimg.etb2bimg.com/thumb/msid-85997251,imgsize-10286,width-800,height-434,overlay-etcio/enemy-at-the-gates-the-untold-chronicles-of-ai-security.jpg"
+        width: 800
+        height: 434
         isCached: true
 
-secured: "8z53A/VLO+2W1T3V4PAQ+JhJK3CfAm0htSpMsIFUQWn8MFCxoNiGVGI6dYIG3fhyXf1aFKl03Gqt+3b7yoqpT9KMg1so5s//c303EXC6VAR1N1cBp81Tjfbv9t026mVVfuVJGV/jnONt8hYFcKinKvrOsCWFGZ6cVJXJdoFiiR7ls9O47g70NNR995IOO5qj9qpOrLEq6M1uldLfTQwrv8OYLUzze+3AbHR+CzLitIK7iS1XWf1Hs45XzLnbV9dK0Hb0fOVrIzNf2ht8u94SbbSovwMXI9xesahrI3sQb7ivF18ideZTlFOe4G1clbCa+MzGG8N22R1X38AC9l93Pf/5vhRdpaefirUds6sz8P4=;pkDMx2Ir9S0g20HsxtduHQ=="
+secured: "ZDNhkRgrPOgg98nJjkIWXzCBYv5HQZYv/6ts1fxILQli5KJysagIv8gPd9e99byC3lZI5JZE5w37RNzPRuYP3a8fLxQxx9Dq0vXxcegd9/T0JuXmuIh62eVfg1vCh5wfqRlQVmDhLfLezbJmRe/iNVnEzhBnEq0RYy+1KpiSA1AfwEllk2kHrp3XymMnVQYRHydqCQ8NhLv85cbfJLqFQiygmcOjq/lqVb0k/A7ZtW81I1KAKE7LD2VVkosRR3HXOyDiOZKMNA30M0ygnfgO8o1yZur/SA3URoPEE81pzT+rD/+FC5WC9T7c+GsVTMjv0C47fwftjv/CsZdLxyBl9Jiba7BKFWUKw7OSeIZxOSU=;XX52b6cNuBRj2MLauc+G0g=="
 ---
 

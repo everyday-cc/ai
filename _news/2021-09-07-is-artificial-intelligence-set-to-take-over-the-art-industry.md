@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 560
         isCached: true
-  - title: "The Role of Artificial Intelligence in IoT"
-    excerpt: "Currently, the business world has changed drastically with the adoption of IoT. It is helping the businesses to gather a lot"
-    publishedDateTime: 2021-09-02T10:01:00Z
-    webUrl: "https://www.hongkiat.com/blog/ai-in-iot/"
-    ampWebUrl: "https://www.hongkiat.com/blog/ai-in-iot/amp/"
-    cdnAmpWebUrl: "https://www-hongkiat-com.cdn.ampproject.org/c/s/www.hongkiat.com/blog/ai-in-iot/amp/"
-    type: article
-    provider:
-      name: Hongkiat
-      domain: hongkiat.com
-    quality: 59
-    images:
-      - url: "https://assets.hongkiat.com/uploads/ai-in-iot/customer-experience.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "Ipbj+ERgebtkOADGfWwY13w7W3IojkjlXCC4CF3CsQl1kU/oh7XAV5TBEDyElmZf7z9f5xXdEnnYPUp/sPv2ITLnts3ItWnZXk/5wnWPN2Z4y9Zf13sGJuZda6xxqHz0742gokoadxQyd/Xoi7FpR38lLVlh3w3nJeUmbuG5XTQfeP+4BvjPXJ6ik1cI7rS7iVokyV+rJxchX6CHKHqvnO43p+GLNB2XEsyrxZF8DqDGNQ3wgU7XBdY2lWL6L3DxuZRFkEYYsNMukfcF8aMmXcEM40tws+rucY8lMTtwj7GpaQHQeP+FnQ4lxlBWwwNUxMBQ7+pkxD8PlyFUtbsG3xidts3ER9dWdJnZw6pGlBqcLb+fkuWpdDReZw0tzqvVrsT0JcDoacXAUyvGdStlT3yvegyW9WphJzrQndiX+aJm9OUESvjrJwFFzGvRgCBFbK8bRHWlkM9ChIP7WyBanq0WIs4N6NpNrkBhreQZib2lPcMnvnYpaK/SXT9Ae+ijIAW5TAUJzT246qlV54nxTg==;DkH6C2WC6VMsDPfTEIsWDg=="
 ---

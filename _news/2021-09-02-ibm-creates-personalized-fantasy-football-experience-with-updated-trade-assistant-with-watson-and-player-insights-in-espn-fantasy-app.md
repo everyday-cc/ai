@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "ESPN and IBM unveil new fantasy football trade features with help from Watson AI"
-    excerpt: "IBM Watson will help ESPN Fantasy Football players make better trades. By Jonathan Greig | September 5, 2021 -- 13:00 GMT (06:00 PDT) | Topic: IBM With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages."
-    publishedDateTime: 2021-09-05T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+    excerpt: "With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages. The Trade Assistant with ..."
+    publishedDateTime: 2021-09-05T13:05:00Z
+    webUrl: "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
     type: article
     provider:
       name: ZDNet
@@ -48,6 +48,6 @@ related:
       domain: euroweeklynews.com
     quality: 24
 
-secured: "4Eeaj01j/QTAs5EDya3BzuuCGd8qElM/sah+3KwsFihHnQm0443AXVM74t64+g7bxrorU7hjW48046rJfXDOkHQx7fNf5x5O2F0XNdku5PI6xJ2cmozB3fvu8rYqCq4lesOXd9OfBofQEYPVbpLGyLtpSEforyEWr/ASZQGfu7cjdPTUHGkYwTpP5ALRhk5KzHSI6aILC3aOlYiBTMM6gVEKRJKdPsnlnDEPNhROh43igfBSwcq4Yx4GW+ls+YHeGuy5ZJKdA4/QACgh0p5zfMHXnnRa0QiL5UdBZzfMj76fX8pjzIwBW8jou4l7t6kOaN6sczVeC8ivxDShUq7ZCR1M8IsZQ9im68USNCkMd8c=;rAD02wdEnXJ8Nu9O4A3OTg=="
+secured: "TedhPviBciot0kk44MeFdoATp9AXBS4Aop90M0jXxH3wme+vCBHwhGVsm79hAau84IEHbJ/7M5ZLftRGwOGaYIKZ8WY5cpISmVbemT+TSKu2Hnh1YQh7o/Lry77LJVWO2YAkI/6sTgREpfAaU+bUJxtnazv3GSAgrLELFdy4ayZSRye+tGpaPL/cbURA6z2kTAvUNezgq9lSpUYK60PaRw/OVnFA5eLLLu+zuMgr3zaeitcZEjoZf+KHU4SJiGfpY0lLzLTHSIMhPQ2f8Chn7XohrM92G5PgH1KFr38Al/NiPcbjWHNJCHruN62zbS9vCY5f4UvbMjHkDGm23AUBscS8L2qKoSEcXJuVjytPYUQ=;vL+NJKBJBtYdL5gckLZDQQ=="
 ---
 
