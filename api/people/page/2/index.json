@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/clement-farabet.md",
+      "title": "Clément Farabet",
+      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
+      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
+      "type": "profile",
+      "name": "Clément Farabet",
+      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "location": "San Francisco, CA",
+      "website": "http://www.clement.farabet.net/",
+      "twitter": {
+        "username": "clmt",
+        "url": "https://twitter.com/clmt",
+        "followers": 11032
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/clementfarabet"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
+        "citations": 9166
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu - Homepage",
+        "domain": "nyu.edu - Homepage"
+      },
+      "topics": [
+        "AI",
+        "AI in Hardware"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Clément Farabet",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/daniele-bonacorsi.md",
       "title": "Daniele Bonacorsi",
       "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
@@ -367,7 +411,7 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 7566
+        "followers": 7567
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
@@ -1221,40 +1265,6 @@
           "width": 128,
           "height": 128,
           "title": "Lev Dudko",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/lily-asquith.md",
-      "title": "Lily Asquith",
-      "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lily-asquith/index.json",
-      "webUrl": "https://everyday.cc/ai/people/lily-asquith/",
-      "type": "profile",
-      "name": "Lily Asquith",
-      "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
-        "citations": 197789
-      },
-      "affiliation": {
-        "path": "",
-        "name": "University of Sussex",
-        "domain": "sussex.ac.uk"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
-          "width": 128,
-          "height": 128,
-          "title": "Lily Asquith",
           "isCached": false
         }
       ],

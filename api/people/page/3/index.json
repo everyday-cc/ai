@@ -4,6 +4,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_people/lily-asquith.md",
+      "title": "Lily Asquith",
+      "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lily-asquith/index.json",
+      "webUrl": "https://everyday.cc/ai/people/lily-asquith/",
+      "type": "profile",
+      "name": "Lily Asquith",
+      "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
+        "citations": 197789
+      },
+      "affiliation": {
+        "path": "",
+        "name": "University of Sussex",
+        "domain": "sussex.ac.uk"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lily Asquith",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/lotfi-a-zadeh.md",
       "title": "Lotfi A. Zadeh",
       "excerpt": "Professor Emeritus, EECS, UC Berkeley",
@@ -465,7 +499,7 @@
       "twitter": {
         "username": "smolix",
         "url": "https://twitter.com/smolix",
-        "followers": 17785
+        "followers": 17784
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
@@ -515,7 +549,7 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17445
+        "followers": 17447
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
@@ -783,50 +817,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/clement-farabet.md",
-      "title": "Clément Farabet",
-      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
-      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
-      "type": "profile",
-      "name": "Clément Farabet",
-      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "location": "San Francisco, CA",
-      "website": "http://www.clement.farabet.net/",
-      "twitter": {
-        "username": "clmt",
-        "url": "https://twitter.com/clmt",
-        "followers": 11031
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/clementfarabet"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 9166
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu - Homepage",
-        "domain": "nyu.edu - Homepage"
-      },
-      "topics": [
-        "AI",
-        "AI in Hardware"
-      ],
-      "heat": 6,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clément Farabet",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/noramay-cadena.md",
       "title": "Noramay Cadena",
       "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
@@ -871,7 +861,7 @@
       "twitter": {
         "username": "SebastianThrun",
         "url": "https://twitter.com/SebastianThrun",
-        "followers": 77282
+        "followers": 77281
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
@@ -929,7 +919,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1522761
+        "followers": 1522756
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -977,7 +967,7 @@
       "twitter": {
         "username": "katecrawford",
         "url": "https://twitter.com/katecrawford",
-        "followers": 76411
+        "followers": 76412
       },
       "topics": [
         "AI"
@@ -1008,7 +998,7 @@
       "twitter": {
         "username": "TarynSouthern",
         "url": "https://twitter.com/TarynSouthern",
-        "followers": 65412
+        "followers": 65413
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/tarynsouthern/"
