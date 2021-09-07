@@ -69,6 +69,17 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
+    excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
+    publishedDateTime: 2021-09-07T10:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "IHS Markit Announces Partnership with FinTech Studios"
     excerpt: "IHS Markit recently announced a partnership with FinTech Studios to deliver highly relevant market intelligence, research, and analytics within thinkFolio."
     publishedDateTime: 2021-09-03T09:16:00Z

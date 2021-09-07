@@ -7,7 +7,7 @@ originalUrl: "https://thebrakereport.com/making-zero-autonomous-driving-accident
 webUrl: "https://thebrakereport.com/making-zero-autonomous-driving-accidents-a-reality/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Quantum’s New Reference Architecture Tackles Autonomous Driving"
-    excerpt: "San Jose-based Quantum Corporation aims to operate at the cutting edge of data management – and that edge, of course, is moving rapidly towards AI and"
-    publishedDateTime: 2021-09-02T18:06:00Z
-    webUrl: "https://www.datanami.com/2021/09/02/quantums-new-reference-architecture-tackles-autonomous-driving/"
+  - title: "CANGO Auto View: China's Burgeoning Autonomous Driving Market"
+    excerpt: "Prior to this, Baidu Apollo unveiled Apollo Lite, its closed-loop solution for pure visual self-driving on urban roads. According to the company, this is the only L4 pure visual perception ..."
+    publishedDateTime: 2021-09-03T10:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cango-auto-view-chinas-burgeoning-autonomous-driving-market-301368989.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/shutterstock_lidar_car.jpg"
-        width: 1000
-        height: 693
-        isCached: true
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
 
 secured: "dJ2eYE6hheSOred/e5AB3Xx/ar3zgHZwjPryeH7ziJLMEyghuyVb1VeZ7OTZ0gZlnPwo9VyMGzIC9ZUyaS8jKUsJAz9SH0ps2rShgRZaw6a9i4RGxKwuZ3EvltsOpAA6uH6WRUBPtfNd34cJ8J1aAy0vF9mBpP2iaewWCAzUJ2t/zjpE3U6g2Fa+e1R9uQPraoaigj7gT3MOCpsVES0TdLMhGYe4vqUlAhR02tNmJt5ibwwKOoRzTHtLdJ2UG00Kgne2DE+22j6sJYg5fwOF5lsXmkuNI5FHt36VXV1R9Su+lC36uftJNYJoJTTQQCog+4A8nHzeE16NxBrPNzrr7OI6CIVFhrD//12ryUz/kYXavnNxPTCKtUQMpbQs18WZ8+n0xl65qmSTyuDGsAct5sZD2iUydaodl9FL5rC+DWB68SgasDtxTDsC2jFjyoSLgBMQDnJVsB7POGdZQy9y5MqPeYBTy5FNSmaLyJU1t+eW6M0X1njd2+8pLWJu4w2STiA0ootG6MShnbiJRRXZ2g==;NUgt43AZdNYW/qp+1xnhug=="
 ---

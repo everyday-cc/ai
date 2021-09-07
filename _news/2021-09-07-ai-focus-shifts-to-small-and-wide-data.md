@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-da
 ampWebUrl: "https://venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "nhwwRwEs1DY4xcSOBIRiyMo+CEKa2gmhCBBR/Txv5GW1SklJrLgQNEz71BfO20pSCiOxNtR4nA6jPySilSnssstsMnI4PNHYUXasctfYb+v9bi7xd+f7iB8iO3O25odij3khj5y1XoKb2WgYAv3Ye3APSgoJ6x8O9ZwsMqOgc0yK3HLgJFkiYiwmY8OjnS0GtthmVBdM8VoQeQqLnIqs9WNPoV9Sv8heGmOIWhlTCOFqIL64O4DIf1/UXyQoXyZqj0rYLnYWAWw7rILljUuUYs+io+nxHlsV8Z8bDQFr/7zW5nonLJHNxJyPmxyQcEkpRzIl+Mt+ntPr5rLghoCdD/eQFSP12w4m1xDicwWA/Jg=;Bx8m/SEo+ptwvhZJFGLENQ=="
+secured: "oLOyNOYRmY95gITXehQcmWy4Xk1cSBoKZOUQmf4Uw4ErqtE5nloTZ9sRN1jQu5+/yTg9/XyncN8dhpX6IyItX1a5ult5jBtRP4teCiVJ2SCmw4zpZsHiaq9FK21B4e5yLxd5s5aNPd5Rgt1BgXLC6ErxwBNtcOiKS/8vTAsG2zrTsKpqFEwintl8FKKlW8XPRy08RtUBSMNwt1rKBpnyfRc7PI/F97InsSRKZ+rJ6OuuIPLbUk/zFrU4D/4BJbYOHVKDKZ6BUrfVVmpprrTE1n3LKKP9dIN8H9yrwO3TmCn7DvuXIGlTtXnznmh0t+ZcQG+8DUPC5DsFuZxDyUoPv2jT7PEaP5vGqk7RW5gJKcjqlRMAts7SbIYYH3mAXzerz56aMeTVoUyEBpzfTPXsieJOvuD4FRwe5nP5ZP30P3AreroZ4IdXs0sul/mP+GsD4eJ9uQtA8rj01fRmGTuzTKX4M9c6qGmNe6f6erHg6GLlwGUV7SzH8237VX6aRwJz57gtEBXBRstOxfLWYM0LQA==;iJ6Vie/NLvbylwEGktkE2Q=="
 ---
 

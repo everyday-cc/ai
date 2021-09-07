@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft helps protect Amazon rainforest with AI project"
-    excerpt: "Microsoft has partnered with environmental groups to create an artificial intelligence (AI) -based tool that could help to stop deforestation in the Amazon rainforest. The tool, called PrevisIA, uses machine learning to spot possible trends in forest conversion from deforestation."
-    publishedDateTime: 2021-09-02T18:06:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630606098/itpro/shutterstock_amazon_rainforest.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Bias persists in face detection systems from Amazon, Microsoft, and Google"
     excerpt: "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon."
     publishedDateTime: 2021-09-03T17:40:00Z
@@ -55,6 +39,20 @@ related:
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "Irish IoT start-up Journey Protector wins €25,000 from Typetec, Microsoft"
+    excerpt: "Journey Protector has received a €25,000 prize from Typetec and Microsoft, and plans to open new offices in three countries."
+    publishedDateTime: 2021-09-07T09:31:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/journey-protector-product-launch-25000-prize"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 38
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/AdobeStock_65931251.jpeg"
+        width: 800
         height: 600
         isCached: true
 

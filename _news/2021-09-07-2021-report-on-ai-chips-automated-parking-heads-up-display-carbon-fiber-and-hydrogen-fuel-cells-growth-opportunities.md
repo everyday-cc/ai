@@ -1,31 +1,29 @@
 ---
 category: news
 title: "2021 Report on AI Chips, Automated Parking, Heads-Up Display, Carbon Fiber, and Hydrogen Fuel Cells Growth Opportunities"
-excerpt: "The \"Growth Opportunities in AI Chips, Automated Parking, Heads-Up Display, Carbon Fiber, and Hydrogen Fuel Cells\" report has"
+excerpt: "The \"Growth Opportunities in AI Chips, Automated Parking, Heads-Up Display, Carbon Fiber, and Hydrogen Fuel Cells\" report has been added to ResearchAndMarkets.com's offering."
 publishedDateTime: 2021-09-06T20:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/09/n22818148/2021-report-on-ai-chips-automated-parking-heads-up-display-carbon-fiber-and-hydrogen-fuel-cells-gr"
-webUrl: "https://www.benzinga.com/pressreleases/21/09/n22818148/2021-report-on-ai-chips-automated-parking-heads-up-display-carbon-fiber-and-hydrogen-fuel-cells-gr"
-ampWebUrl: "https://www.benzinga.com/amp/content/22818148"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22818148"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/2021-report-on-ai-chips-automated-parking-heads-up-display-carbon-fiber-and-hydrogen-fuel/article_46b86ec2-33db-51f0-84bf-26a705a28e00.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/2021-report-on-ai-chips-automated-parking-heads-up-display-carbon-fiber-and-hydrogen-fuel/article_46b86ec2-33db-51f0-84bf-26a705a28e00.html"
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-    width: 1200
-    height: 600
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "qm/Fe6f1Y+1vYCkNmOGHuAy7kksW33tx/ks0v3vZq+2m+0N5CbcwYsU2NQhYV9en2xs3s114m2XdqR44zX4aX0HkBySF5rDsxz/w5Pa9KCwouk4sh886WXz3BHP9AivNJGBYFOcG1fk+wiGdbrLUfgwTV6fGRDwAO8RIkPiJWEDxyf6AC/IYdTogx0l597S2yodTlAlaYCQK1UZIL/jpNUJqCzgsF4WrIUirp8enohl1SqfJ6EzRZZPTNfuAb6YPRnjx6iVQ4hn93kOHPQRpLqDfLDKNgGM+fVdXuU8tnx0MmYkk5U8g5XZ7sW7IWt9SblQJEe6fpZEhmgCu3Rd3kJW6nv9WKmBpFrJNE1Rdb4o=;EihobJlWsv6swj8dIzFUlQ=="
+secured: "ZZZz2zWY40Dyc0DWKpU9Nal79IieFH8h9syuJP7deBHvHxOqefwzS4T+5mHYxWcLk6iDo3Y83bCmdj1aFoWyRArcQ3bAaBG/yIMS9M8B72cGxPLejhBu5GkbmLDBY8nH5F/14KQPzEWPPV1XiKGFkM7x8QqyJ4UsPHR2nEkczy88ehZB5nx/lA0d3ShKjmCcNaUEiEKEZxAWE1AfPNXGbhfN1nfKnkqe0Q0uVCJfecPuf7zm2ldPA5mUiIHdBZI7hyWNXPxocMEpZwcEaajbcy4GCiLMJdMMz8m+WEi9+nvwVt2B1TONDi7d4TUv83pGeOldwDVVKYn62OdML6TI3AUU1JClOb8U5BsUY5JBDrE=;resjpOFkdqMdsAJT2LruGQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/saps-financial-services-enterprise-f
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/saps-financial-services-enterprise-fioneer-begins-operations-2021-09-03?amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Efficient Cloud Migrations for Financial Services"
-    excerpt: "By Brian Adler is senior director of cloud market strategy at Flexera and was previously a senior director analyst at Gartner. Financial service organizations are facing a time of great change and opportunity."
-    publishedDateTime: 2021-09-02T17:28:00Z
-    webUrl: "https://www.globalbankingandfinance.com/efficient-cloud-migrations-for-financial-services/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/efficient-cloud-migrations-for-financial-services/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/efficient-cloud-migrations-for-financial-services/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
 
 secured: "OKPfo8V2FZyELrEt9CM0LwsHJyIpJLRDADsPNnTwXT5k2hjswAocT1mjsdzCUe+X+biFcQPxQ5vGx1JrEwXVW6BUM/zgoI5orni77Do8bfLRGAGW1xhWN94MjZCG5NtB/HqktQF4WFcNWyHBVuf5y8IjdmB8hiJFSIj4jvE8Zx9WRGPS2jspi57qeU8p8bRjC9BDupmOoeXpKsJXOOAydiEOMbOpQGQHxBdUkwYBwwiKi+HT3FYsdCk243Vg/xdgQUE0lENKtkzxiEfvOUHE7PHPpegi2KmQdSmbe3rE/liUGLiTMotcyTaaBlZ7NyniLzFIz2otCyf5C3Rl+Viz/8a+YNgQ+mxtr3feBTxml9w=;qbKlJXp/8CRzhb6wF3tOsA=="
 ---

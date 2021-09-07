@@ -57,22 +57,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Elegant Audi Grandsphere concept car previews self-driving luxury future, with 711bhp"
-    excerpt: "AUDI has taken the wraps off its Grandsphere concept car, a second glimpse at how the future of autonomous driving could look, after the recent Skysphere, in a trio of sphere-themed design studies being shown this year."
-    publishedDateTime: 2021-09-02T17:27:00Z
-    webUrl: "https://www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/"
-    ampWebUrl: "https://www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/elegant-audi-grandsphere-concept-car-previews-self-driving-luxury-future-711bhp/amp/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 37
-    images:
-      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/Audiconcept-06-1024x638.jpg"
-        width: 1024
-        height: 638
-        isCached: true
   - title: "Audi's self-driving concept car makes the front seats first class"
     excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker's idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
     publishedDateTime: 2021-09-02T22:15:00Z

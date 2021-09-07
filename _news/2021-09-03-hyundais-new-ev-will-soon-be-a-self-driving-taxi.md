@@ -9,7 +9,7 @@ ampWebUrl: "https://www.treehugger.com/amp/hyundai-new-ev-self-driving-taxi-5199
 cdnAmpWebUrl: "https://www-treehugger-com.cdn.ampproject.org/c/s/www.treehugger.com/amp/hyundai-new-ev-self-driving-taxi-5199964"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "VW’s first electric minibus is a self-driving taxi"
+    excerpt: "Volkswagen has unveiled a prototype self-driving version of its upcoming electric microbus, the. The vehicle was showcased during a press briefing by the German automak"
+    publishedDateTime: 2021-09-07T11:06:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
 
 secured: "zYf+BUxrdXZFIPlQKzUoflzb8SEJ3efQEAi4Wigi3S0MG2XDQmYKMNyZ/isiJGtCv0zRvhYWDPhW5D5pGPUQw5IFBZxmz4gdENziIvIykIJTuRoLEWgfMb91YShQ69YOF8bj36hqcqLcy5GiKDEanp7hMdza9jUaTBA11/z6Ibk3FL2ERfUOWGKRhL1UOrRALbIgg/1UN70K4Cxk0pnLS7Fg1bDcx9AUxfw5rA1MTlh5flh4fxPW72bl03pce8IPJKotqQs96MkzwLK3HDawlEeqiJoePWlCeu3RWsqaty97PPEtQZYsdbtveWzEeHVxy6v5IlFcQhn6ye6keIqxrGePZRXdF5fo/qI20omR7g9P2t4shLNxOZOkVQuJy66wPRbnXMbrjJK54vzS+KuT9sobXpZarzKl6I83u7bUFwVpZfBAFAoNsg+QBBf+QKgeGk2fNbT9KHzJ967dr3kqg3rQ4AvD8epQQ98MUdDPZ1Ak7urBiUy8mUe/Cjwr2RNCK4icLRpu47k8v7UYM9jsIQ==;ht5M/EpiUiOzpl8lAwtltg=="
 ---

@@ -70,6 +70,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
+    excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
+    publishedDateTime: 2021-09-07T10:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "IHS Markit Announces Partnership with FinTech Studios"
     excerpt: "IHS Markit recently announced a partnership with FinTech Studios to deliver highly relevant market intelligence, research, and analytics within thinkFolio."
     publishedDateTime: 2021-09-03T09:16:00Z
@@ -168,6 +179,6 @@ related:
         height: 270
         isCached: true
 
-secured: "EzjXXU84N0dZ//fXqHCt9MMnQ1/BgclOA2RjYeb+cwvXuR/EiakHFKOn51mRXb0anf3Tr/fGc0uYc4UskugJlP5BrS6vZwz2brQBbuC94lfgTPEdnPF11MKbcWtDA2gfMVl7r5bUz8xq9EpdPRzGLruAA+ipiIugv99qOcZkFtY2hJqTqAPCFILIt08m4USUvZsgY1deXH+qc8l5UQnJGR8fqJWLe7duwyH6DwE5UkgawFQjj92pc6K3+WprqqekmK3WDlWiJIfDHAo4lJw8eKq/z6dGYZ1puOb1TddMjsICg3+OUSNx7Jewr0s1lEKRcaMcoNFkzaknHYcFEurHyFYkhDEaKOu8uPbOP3k8odM=;axGDzVkv+72QpwLhDC3LBw=="
+secured: "7q/IKIFMLA1Kre+CsjTAA4A7oQcGDW5Str7TZE25hlu4ORRDgDvMF8O+sQxhvsw7cuDVx2H8218CFq1hEqs1g1Sefwo9exur3bmXYEWy57O2KsdjUhK1XAmUkO43pXNc4kzqcI/E0UhC7xHthjjRH0ZUTpFBghoHdAoz6OvFJDZqlAP788ftsnHhleXLmmzIow8eMWGpbFOCfkRLEyrhek/JO7VIIn0jTc6xwzk1voNJq8LaIKdpZI6x4WQlMiwGJhAj9ufX294Iw3olGEpZUIveAmGKdlVZizA5VSIknbMpux3sdwz2hxlgtvuqkqlOIsh6movm2W1UTdj9gwkH7nSy6mCRVZWgi8rKsOmjWdbyZvzfyJMVPSiMfsNKs9aDsVvdmlxMLNp3EwzJwIdwIJup7TbKF7tMV9WLJTEgP35XXtDI8/tQVOanPgFGF3wcVCIxIv6NqIjJn7jt+QLpWMaPp4blGfDnYYByPfugLL7uUQLBGCJPvk6ORhGjlDIaJureJkUnI2AwjaLxf+fEJA==;A2zPtrRYZnbAzl60Xx54gg=="
 ---
 
