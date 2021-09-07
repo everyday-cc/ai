@@ -137,6 +137,20 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 22
+  - title: "The new AIFinTech100 is launched to highlight the industry-leading Artificial Intelligence companies driving the future of financial services"
+    excerpt: "FinTech Global, the specialist research and intelligence firm, today launches the new AIFinTech100 to list the most innovative companies offering Artificial Intelligence (AL) and Machine Learning (ML) technology solutions to the financial services industry."
+    publishedDateTime: 2021-09-06T23:00:00Z
+    webUrl: "https://pressat.co.uk/releases/the-new-aifintech100-is-launched-to-highlight-the-industry-leading-artificial-intelligence-companies-driving-the-future-of-financial-services-2c3ddfca5431735dcab1277aacf1de42/"
+    type: article
+    provider:
+      name: pressat.co.uk
+      domain: pressat.co.uk
+    quality: 19
+    images:
+      - url: "https://pressat.co.uk/media/cache/360x270-b592d7ca94627364a13c8253d397f286.png"
+        width: 360
+        height: 270
+        isCached: true
 
 secured: "i1v7CpsrkHWipnDdPcZkB2dgUBt5fbQhtnFzaiIkLne5G24sTEM6goXd8M0x2ce5j90WGA9Xww7LSVwSDkaQo4XAAy89PvzKNVVfDNin0KP8sAg8JJ3qwAb2hBg04aYcfufM+OIjkW9utpOXTX20wFcguIjjjnSIxqdkCEoGmo1gwfdopiOHA+TLE5Dp1ZpN56TO2whdjqhpp4WNCcBKiQyMACsuF2qO+vfrGyetLQDtGYFSd+7lPa2Ypls1A5eFk25NHzzXOLgEBdzq36Dlf4tM0SKZok3FkFZijrp7aciDxH/j7Y8rSGJG7AXFLRBlvarviejvsWzsv/6p/wZjC0H3UQ66euLXZ8tiqH/7/AqjywyzFn9mu51k8hkGKi1ZNNom7L5a6PlFnnOx2QB5EGx0hZZrvFHT0otQY9NQ29m10s6c3fK9UncLyUkbp2NeKpTDhqfPzsFzCjgkN129hVVWs6odziPf6FxkNSAPPh/li5OdBPRdb1D6q2UUU7/1drY4TRiJFOEzi3Bk85r+yA==;J3HXA2Xq8yglfXWopqlSuQ=="
 ---

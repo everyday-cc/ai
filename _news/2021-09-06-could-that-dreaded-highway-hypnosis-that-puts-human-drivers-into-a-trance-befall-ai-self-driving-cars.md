@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreade
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Japan speeds up move to self-driving cars"
+    excerpt: "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced on Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025."
+    publishedDateTime: 2021-09-07T07:19:00Z
+    webUrl: "https://www.businesslive.co.za/bd/world/asia/2021-09-07-japan-speeds-up-move-to-self-driving-cars/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/asia/2021-09-07-japan-speeds-up-move-to-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-09-07-japan-speeds-up-move-to-self-driving-cars/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/NdKtAOZuz1MhJdP2-QURVWOcdzXU-WM5QvsqGy6ms8NvgD_piFTPgv3vlFrOs8vwo5s4nizhCJcML6IcFZONRYLLLp4dtqk3VA=s1000"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Audi self-driving concept car: lounge seats, drinks cooler, more"
     excerpt: "The Audi Grandsphere is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
     publishedDateTime: 2021-09-02T20:17:00Z

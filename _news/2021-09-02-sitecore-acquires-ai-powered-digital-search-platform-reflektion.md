@@ -23,22 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Ushur Forms AI Research Group to Power the Future of Customer Experience Automation"
-    excerpt: "Ushur, the leader in AI-powered Customer Experience Automation™ (CXA), today announced the launch of Ushur AI Lab, a research group dedicated to tackling some of the most pressing issues in natural language processing (NLP),"
-    publishedDateTime: 2021-09-02T15:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-8de1ba4467121aca287c9bd55398e5ec"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "SROG2+lYyI/qJfdfVrbJ+WT5UWZZSfwLiUx56vuzA+41tUw92c18ZoSY5YeyP2q8UjUebatu1EIAhRXU00tDZtjBXKVfxtktEd+106ADoqTmnMIKGecCTB7/++f9Dj1J13+sr7HW1cQRKVN8grzSTz4ohk5z2lcMTKo0vajPOanFJIb8WSbNgdTdOF50wxVxiOxSaCpySM98IzfrezxOA/PkIhxmjJyvzZMWl/qT1AeXaAtsmf6SSWc2Dmp2UgDmYK7PEbdvaRa7/L7KDbFRokJB088EYRl9hoemRLHwzlM57QuiIte7go7VfcQJtkLo4CbfqxM72+XYUdafHO9BB1P4wcFkYpmrsb9BvA7RFp8=;DmK+oYFeuXw4eASFVaqJug=="
 ---
 

@@ -34,13 +34,13 @@ related:
     provider:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--ISbrhFWk--/c_crop%2Ch_3124%2Cw_5555%2Cx_16%2Cy_0/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/cna/image/2021-09/ntu_ttsh_glaucoma.jpg?itok=6CXTXpza"
         width: 600
         height: 338
         isCached: true
 
-secured: "f4UkWo04tDt0Q5PU1aNgJHt34TGZ/KbbJ9gEI9O2aylVfMjJ6rBhXGtsPyPRez7m/PslXpSEpqAhqWFqi5Cp3h4OdD3XJ62wxoElcSr9IRmRJUYyKS4w7aM2eSDBAGtRSrnsjN2ck1DhObv//nYoBCoD3ZFimhA+VJkkLCfebVzNnS3N0eo7RMY87BCeq+ped51RCbfWzghDCyWSemaWAVQRJZhACnOVAGKY3L/SBvLZsK2YfAlYROaGQ7//X/h0bF5TSmqxGivh2lcMRMLD31zZQ/yUPvtmpunN5f29LEVIPXKdyZ6S5btiH+pt5t0vokYxemxxLkU3SMjXNPQ7TyYRmxIKMlxn95P5zSAY3LI=;alVx4hluJe21amHY1A2H2A=="
+secured: "PDhQNimqgX8FY5ZYlJu2DF5QvTQ8vrZ6EHH/JEdnu0NxHMo8pUqEIhVZRF5O2fwBUTCYn3WOxdU0W2fD+2t34zZQVzTzxbQ+GdhTn6dAwTT3iHY7n0LUtPdzIX11RUu3Fy8XefV/DD50JzcreRePuN6T/KbFqas9vRlt3ersI7qMFrV0mhPxvXZrh1d8aFYDZBIJjNhkvYuPkEJOLHZ16YAIT8XuzJSPLDTO4a+0S6I2gPH0qFuWn186TV2CohBor7jxuaV94LS1bICEzrlgZy83X5ueDMgFOivJxLYJq5k+f7gJkoerLlML/wZ5XKMQ0j+sJx60dt9nMUYOvJLzmAH4KDg2qTtenkm4yQ86GVXcz7oDSTz/C7eTBoSDq4SEM6Gti9I87FeEspEY5N1AOb3tTofjGc4ry9GtdZVxrMqoxewScLok/xIAh5wMTje+VNauR+xazJmoBYHmyNsPMpa3HiQkUcMnvyuBuwFdKAoFGo6kqizdGzSYHZgHO/r2T6P9B3mGZxaw4N59N6jSFQ==;C9tnyQEYDEQQlyazdLAkqg=="
 ---
 

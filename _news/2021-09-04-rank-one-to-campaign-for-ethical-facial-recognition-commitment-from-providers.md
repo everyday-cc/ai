@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-et
 webUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition app being used In Australia to track quarantined"
-    excerpt: "The government of South Australia has implemented a new policy requiring Australians to use an app with facial recognition software and geolocation to prove that they are abiding by a 14-day quarantine for travel within the country. While a conservative ..."
-    publishedDateTime: 2021-09-03T17:48:00Z
-    webUrl: "https://www.tigerdroppings.com/rant/politics/facial-recognition-app-being-used-in-australia-to-track-quarantined/98104410/"
-    type: article
-    provider:
-      name: TigerDroppings.com
-      domain: tigerdroppings.com
-    quality: 19
   - title: "Covid Impact on Global Artificial Intelligence in Telecommunication Market 2021 Key Players and Production Information Analysis with Forecast 2026"
     excerpt: "Global Artificial Intelligence in Telecommunication Market Research Report 2020-2026 thinks about key breakdowns in the Industry with insights about the market drivers and market restrictions. The report illuminates accumulating an all-encompassing rundown of factual investigation for the market scape."
     publishedDateTime: 2021-09-06T15:04:00Z

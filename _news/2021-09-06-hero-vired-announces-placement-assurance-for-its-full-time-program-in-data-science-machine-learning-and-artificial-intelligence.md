@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "MIT Offers Online Course in Data Science, Machine Learning, AI with Placement Assurance"
+    excerpt: "Massachusetts Institute of Technology (MIT) in collaboration with Indian ed-tech company Hero Vired has launched a full-time integrated programme in data science, machine learning, and artificial intelligence."
+    publishedDateTime: 2021-09-07T06:46:00Z
+    webUrl: "https://www.news18.com/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 68
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/09/mit-163099301116x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Data science, machine learning, and AI in fitness – now and next"
     excerpt: "Data science, machine learning, and AI have become critical technologies, penetrating almost every aspect of our lives, including fitness and wellbeing."
     publishedDateTime: 2021-09-03T07:56:00Z

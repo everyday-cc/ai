@@ -24,6 +24,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Facebook’s Recent Mishap Is A Grim Reminder Of Big Tech’s Bias Problem"
+    excerpt: "The Facebook mishap is not a one-off incident. It is a fundamental problem that has been plaguing the AI and tech community at large."
+    publishedDateTime: 2021-09-07T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/facebooks-recent-mishap-is-a-grim-reminder-of-big-techs-bias-problem/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Facebook_AIM-1024x576.gif"
+        width: 1024
+        height: 576
+        isCached: true
+
 secured: "j4LdNMrWMRq47A+uTqmO5NsQQt27t+qDq4/RWRHPG/s1icU01kSlxePf0ocmz2kMeIeMDLOHQ4yeP5IMCCduJfb6B+XRbZdjT/LM+UhFZ4RjTFh5aIPllhcJLqDpBeK8Gw7u528c+xt9laWYxyqSnotgWDWijH4XWubpSOqtBtPbUjij9AU0ym+INBmDDBNyHqYjCDspUjfSxQpJO4E3mI9+1psu6LYB9/D+WcCcSx5upUdvYEXVXp0G73ZQIz+OqW/qBe+6Zvibq8+2X1nGK9OSF9yvDZAlvFiHV11qm8sARfVGnL6w1IcfJTSPyooHGYcho4LQBIDzegeRoLHi9YQo3IwdsCtXYBApSZiZsY9PqeHcmUoXfqsZ8nOHbgWVk+qivhpx7wupiyKqsno14CDimsZnbAJ8FLxaMRLBulQnCPQoeewMKWlvL0mPJamcpc57KcSWYDNI7ndibdOl8V2cLeEANNRy9B9CVYbrtQ/DKjgDavcBX6LJm6AKhgsJ0Yr+fLZQP2N5N3kFqDHuJQ==;qrW/km6A0JSvnpEUiwxBHg=="
 ---
 

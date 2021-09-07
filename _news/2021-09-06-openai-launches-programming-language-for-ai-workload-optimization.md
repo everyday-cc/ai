@@ -24,22 +24,6 @@ images:
     height: 334
     isCached: true
 
-related:
-  - title: "Togal.AI Launches Construction Estimating Tool"
-    excerpt: "Togal automates the estimating process, which includes measuring the size of each room’s square footage to accurately price the cost of construction."
-    publishedDateTime: 2021-09-02T14:57:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21648221/togalai-launches-construction-estimating-tool"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 37
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/09/16x9/Togal.AI_product_screen.6130e3d4477fe.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "dC2kQp8mIM58/K0TgySul9EuVYmeKZ/vWpUFiMR6vBMH27AHCMlJnXK8PebA5LlI9bKzAML4VRSqYFjIhca6h86JBOwS1nY6LMKw/IXG0VJCW+otvaYmlU8EsrQvsaHCLg3cYFbEwyN7/gonutv9bHGrPV3Xw3jttMJcIrp0TIOF8KZlX3g62eVMdnsjuKwDrhaISG/0BA4uJg6uQAbYlHvqcCWHMB7/4ytGoFQu5+G4gcfEa3aIMWgT2OAnQbQeZXnSwuTMNOPSMSdgkeKYW0Y5y0y6Un5I1iux/BBlEGSLvleEdKgCGEOOZjtYhiYatz8GD7OzZfJJf0b00cGa1YhLPHIkNhiqcyTn9MbGYGpKSjeisaVsNcy7pHsIek6clK0w0NtMbFx3Sf/vB6xAhfTQElhLzBJqUbGEvkgNQqZA/w3E1YpN8Xu/CRrHY3Ty8j2sP6IHrJbMHnaC01akEfcvqvKOchQaGRAM8unNPzCIXKFzghWHSuQXrXMUyo6gdngmbh7owtMzES/HQrEiTw==;u5WREtLeDqjlwgGSjV2JKg=="
 ---
 

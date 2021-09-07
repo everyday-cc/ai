@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.khaleejtimes.com/business/corporate/middle-east-companie
 cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/corporate/middle-east-companies-training-staff-for-ai-powered-jobs"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Khaleej Times
@@ -42,6 +42,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/09/Sep21_07_1271186214.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "A List of the Top 5 AI-Powered Business Tools for U.S Startups"
+    excerpt: "Revealing The Best Five AI Business Tools For Starting Entrepreneurs Most of today’s businesses rely heavily on Artificial Intelligence (AI) powered"
+    publishedDateTime: 2021-09-07T07:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/a-list-of-the-top-5-ai-powered-business-tools-for-u-s-startups-07-09-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/business-tools.jpg"
+        width: 700
+        height: 466
         isCached: true
 
 secured: "Cp0oP/88bxryLNvuOz4+hTeoDlElH9ISKjRnwiT3BJZZcb90cbk5ps8WD2myIFxACqWo83x+Xunh32yTCQm8tGZg0MKXSFeQymjogqtchmFoVHvENNuf34OjoG0m0Kgqs53SrekJl1GqwuvzeHgk2zQmumlz1yjmjVi1DJEd5ubAFpEE6w5V5uGXLOyfFc+7Ugq8VqC7TNBVvMTsMb9/OalY6osqGBpAKzPsydXubTOBFWYZLLJJGcnA/9bLEZR5stNVz2EQcGP8h4ZZExDafbr3g8gJjczqbCIhZvugcNU8u732sPil+O0ClI0koQqZs8sp5wO30aLMXUU2Tb6rYu7RpyvHuftnx38HT6WXYq45EZbCmBow0AjSRyn59E/ELkJ48QuZZj8maSWlVNCGlLo3o0rpyKk+foYikb1DDSIw4/syqMejk+1eAah2h39MbGZ0IMw8zSOKFYVz+DqeNm4Ta2X95iMDtaGjnfwZOnZwy+cBesq2T7iNnJxkwBUF7voDQEV3wZYpLAgO/OJjew==;2Ty46wa8RPSGXJOTX9hzVw=="

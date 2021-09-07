@@ -7,7 +7,7 @@ originalUrl: "https://dataconomy.com/2021/09/data-science-machine-learning-ai-fi
 webUrl: "https://dataconomy.com/2021/09/data-science-machine-learning-ai-fitness/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "MIT Offers Online Course in Data Science, Machine Learning, AI with Placement Assurance"
+    excerpt: "Massachusetts Institute of Technology (MIT) in collaboration with Indian ed-tech company Hero Vired has launched a full-time integrated programme in data science, machine learning, and artificial intelligence."
+    publishedDateTime: 2021-09-07T06:46:00Z
+    webUrl: "https://www.news18.com/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 68
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/09/mit-163099301116x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Hero Vired announces placement assurance for its full-time program in Data Science, Machine Learning, and Artificial Intelligence"
     excerpt: "Hero Vired, India’s premium edtech company for professionals and higher education aspirants, has announced Placement Assurance for all aspirants enrolling in the full-time Integrated Program in Data Science,"
     publishedDateTime: 2021-09-06T10:14:00Z

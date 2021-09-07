@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Buffalo Wild Wings gauges crowd noise with AI for sports bar competitions"
-    excerpt: "This is the first time IBM Watson has been used as part of head-to-head challenges between two different sites."
-    publishedDateTime: 2021-09-02T14:37:00Z
-    webUrl: "https://www.marketingdive.com/news/buffalo-wild-wings-gauges-crowd-noise-with-ai-for-sports-bar-competitions/605954/"
+  - title: "The Mouse Brain As A Gatekeeper For AI And Autonomous Cars"
+    excerpt: "The unheralded mouse brain could be one of the cornerstones or keys to achieving AI-based true self-driving cars."
+    publishedDateTime: 2021-09-02T22:21:00Z
+    webUrl: "https://www.aitrends.com/ai-insider/the-mouse-brain-as-a-gatekeeper-for-ai-and-autonomous-cars/"
     type: article
     provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 38
+      name: aitrends
+      domain: aitrends.com
+    quality: 37
     images:
-      - url: "https://www.marketingdive.com/user_media/cache/ec/c0/ecc05ef863f7c69febce9a443c39eb9d.jpg"
-        width: 770
-        height: 363
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3SmartMouse-2.jpeg"
+        width: 550
+        height: 550
         isCached: true
 
 secured: "NmCpcBLYZNaAFM2u4nrRBTjRIvl7VS0ibH18hVUYhda8DOlIE1DorfslmWEKZIlkARgNbD3LkjsWy3Z87OsEXJGhn3vif0SgBkMps4afNapXeltmAFyj2Bp08k/2g1WkswgZYtSrm+PhaGvWSooZJP//PWUzNaCmMzqiny0lXg3RpovWKtCutmuvkEaOniGelHQpH9XlXxS0PyTaj+yTXTJAr4wYagPtjVn60EE4b+gCAuMQHpHvC9yiUHe6RNPbQeouybD7He1W9T8pTtwR42SXk27SIIuJSeQlC0G3niLukVM2M00Ha1PVDqYfBv/U6fsEtYwIrE2wCLPrQclJ4son8rLz8sSAinnwUlwPkII=;0eS9aVhWe4wgovsQHRzVEw=="

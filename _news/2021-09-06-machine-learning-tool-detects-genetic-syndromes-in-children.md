@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Using machine learning to accurately identify genetic syndromes in children"
-    excerpt: "A novel machine learning technology has demonstrated impressive efficiency in detecting genetic syndromes in children."
-    publishedDateTime: 2021-09-02T13:11:00Z
-    webUrl: "https://www.healtheuropa.eu/using-machine-learning-to-accurately-identify-genetic-syndromes-in-children/110719/"
-    type: article
-    provider:
-      name: healtheuropa
-      domain: healtheuropa.eu
-    quality: 37
-    images:
-      - url: "https://www.healtheuropa.eu/wp-content/uploads/2021/09/©-iStock-SDI-Productions.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Researchers develop deep-learning based method to predict onset of Alzheimer’s disease"
     excerpt: "According to World Health Organisation, Alzheimer's disease is the most frequent cause of dementia, contributing to up to 70 percent of dementia cases. Worldwide, approximately 24 million people are affected,"
     publishedDateTime: 2021-09-03T12:30:00Z

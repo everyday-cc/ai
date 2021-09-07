@@ -57,20 +57,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Using machine learning to accurately identify genetic syndromes in children"
-    excerpt: "A novel machine learning technology has demonstrated impressive efficiency in detecting genetic syndromes in children."
-    publishedDateTime: 2021-09-02T13:11:00Z
-    webUrl: "https://www.healtheuropa.eu/using-machine-learning-to-accurately-identify-genetic-syndromes-in-children/110719/"
-    type: article
-    provider:
-      name: healtheuropa
-      domain: healtheuropa.eu
-    quality: 37
-    images:
-      - url: "https://www.healtheuropa.eu/wp-content/uploads/2021/09/©-iStock-SDI-Productions.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "MVf8xWCSK03y+/9lP0LNfgHvUpHYsnFt/Fr74if/b+jr3XBlgnsWy7LJdH3FEhGukr0VDpBEhClVTyLHWbgxRLN7V8JHBPnkBvvnVKvWzCB3Gtj4Mzt/6MM+WNrgixBGhPcuiufa5/Ag3zM/ugUMXlK/vvby8J5sIeDbWRdr3q+OhjjtLLlh8G+3esXa6u1Di7wqMPrjbsry8Bk7QE+OUxjWPSv6D2hVpY7WTB8Wk3IBrALt0qTpQa3yi0DHGtp3cGTYCE3PJko9dnm9tI/AFqsk3/6KKnGWBjkulaJZ2EjLgM76hlcBsTZyevozqvrUh+PmOPctant67Rc9ILGxwM7g2/uhR5jrnEtCde0IpEc=;EjQhYvl+h75IgE86bzJTyg=="
 ---

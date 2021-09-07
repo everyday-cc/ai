@@ -53,6 +53,22 @@ related:
         width: 1024
         height: 732
         isCached: true
+  - title: "Pak ISI and Chinese proximity to Taliban, queer Quad pitch for Kabul recognition"
+    excerpt: "The role played by Pak and UK in cutting out a deal with the Taliban has been noted by India, which is concerned about the group’s projection as a beacon for Sunni Islam."
+    publishedDateTime: 2021-09-07T07:36:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/pak-isi-and-chinese-proximity-to-taliban-queer-quad-pitch-for-kabul-recognition-101630999882321.html"
+    ampWebUrl: "https://www.hindustantimes.com/india-news/pak-isi-and-chinese-proximity-to-taliban-queer-quad-pitch-for-kabul-recognition-101630999882321-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/pak-isi-and-chinese-proximity-to-taliban-queer-quad-pitch-for-kabul-recognition-101630999882321-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/09/07/1600x900/quad-leaders_1631000127016_1631000139934.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "M568NMpa3N/bqsL8r7pxF8b5JeM4DmVv/XAYY4rHjBRCV2040yXA3W13OCyvSaKSd+gqUL4th3gCJDYStQoPPvkrPOeLpurAw+QDyGV9PjdQudiGyy2SObcB29g2XqRfwtDbCjHSW1kZeaJ3vDyr4iwPNCodaKimz+sH5kl4UemJspzlsSdq6Gn3raihFq3IqoCZK9E0A8qTlLf7/iO60JXPwmy0bpvencbA41EzRgjTofeKeDpzvpVn78rIW08nnbagBdZHTYaROhqCCN5GhJgLGLu5KrR51UCSjnuFE7OEp+Yz1y20aQXrDL5zfeIAT8o7GZrvRngM+ISZy6C9f0kXY46D1p8c0D4q5beW7HE=;m88nq1S+4Mk0UwSpp48pag=="
 ---

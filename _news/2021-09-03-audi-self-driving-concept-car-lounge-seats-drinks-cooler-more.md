@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Japan speeds up move to self-driving cars"
+    excerpt: "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced on Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025."
+    publishedDateTime: 2021-09-07T07:19:00Z
+    webUrl: "https://www.businesslive.co.za/bd/world/asia/2021-09-07-japan-speeds-up-move-to-self-driving-cars/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/asia/2021-09-07-japan-speeds-up-move-to-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-09-07-japan-speeds-up-move-to-self-driving-cars/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/NdKtAOZuz1MhJdP2-QURVWOcdzXU-WM5QvsqGy6ms8NvgD_piFTPgv3vlFrOs8vwo5s4nizhCJcML6IcFZONRYLLLp4dtqk3VA=s1000"
+        width: 1000
+        height: 666
+        isCached: true
 
 secured: "EKQSATXzJuXuxusk86oc8rUBTHzYO6Wop6pfJd2vtMybscvkS0bFjfE4VUafN41w1ofZyShQ0P5yfbnL7rJrjyXaVqdvZPuU49FBrmQ75xIWBbjDnPgV8kzmI5XEfiD8GNv5cKl6a+TyfrPp9Dug6w8wnXs0cD+Oeb7XcpjQQJw18FCfHHPUQVyxqTWZzwOb3S/3yszI6mBTM+zkmLajj3xhe7L2fLfi88uobqH20+xY/vky7vVF3WHQ9pO+hSfl6vceaDJk6jKgR/WXdFIrwdffGJozkLNSE8w6q5TDQlmYEK1RV0+lV20Or2tdQ8aRta8bFTUGkLy7+dm18oeSYjOQn+IbDXUo/flXFwYpRpODwGoggBF29hg60OyQMtMKjUs+mShMdmeJgt5le81jqTriOqd0LHjD9LP9pcQehkXFLYcIVX6PFFYPMMs2PDAbNFe9sz+g+DvP8MRHcCckK7YmWAf5Gx9JtFItOWqEZj2cuG8bwzfcbrQVzhvxdZ2OOlW0AAhypeiGIOi6nyUNug==;MqNuzkgYosv/XWTGI8neJg=="
 ---

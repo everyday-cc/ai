@@ -137,6 +137,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "The new AIFinTech100 is launched to highlight the industry-leading Artificial Intelligence companies driving the future of financial services"
+    excerpt: "FinTech Global, the specialist research and intelligence firm, today launches the new AIFinTech100 to list the most innovative companies offering Artificial Intelligence (AL) and Machine Learning (ML) technology solutions to the financial services industry."
+    publishedDateTime: 2021-09-06T23:00:00Z
+    webUrl: "https://pressat.co.uk/releases/the-new-aifintech100-is-launched-to-highlight-the-industry-leading-artificial-intelligence-companies-driving-the-future-of-financial-services-2c3ddfca5431735dcab1277aacf1de42/"
+    type: article
+    provider:
+      name: pressat.co.uk
+      domain: pressat.co.uk
+    quality: 19
+    images:
+      - url: "https://pressat.co.uk/media/cache/360x270-b592d7ca94627364a13c8253d397f286.png"
+        width: 360
+        height: 270
+        isCached: true
 
 secured: "NUV5q+6qkK4deDkDdm5RFCFEsWM2ZWCopz1PZRHJphf+H6KipHtICH7WH5et4x8pIBqWB8OWFjRtWjY/D5S2UVroWgDzncL1H833N+F5UMrmq1wmHmchv+kDwRgRZRCN9DDn7YePeNKUelr9GsVfJ59kn9UY8baESYAoqd1WYixtdNOti+4nW9fHxM31JMQap+H9cNNoHgm/+75S8EQP5xoB7diVK2YLfwZ6PLc4Kcwdn2lnsR1/3xmS9eP5fnfDpyyWSq1/HsR3BfDUyWYDC7lEvtdxaXfwSKVpLBxij7iV0AiCLMnwqiRulYtHG5kCWPedDH4sI3bb8VSkRaJLjyFT5J38ejdsBHHYFxTgCvK6Hti8YSs27zy+DGZdGn7pFjU97dS8nMuwMafocS30+fvgrvudfCN7R8afkxikLrsl6zwJ0ZIyWFlefM7+R7keUteaKKQ6mAKuBU2Gc3N17el4FEuW/tKUjq/63271HQaFLxP3b7dSvP8/Ud1LVfCo4Lu6b6Ny7wTimU0fiMeg3A==;TfHI96PVm5RoVmmAUpVXKg=="
 ---

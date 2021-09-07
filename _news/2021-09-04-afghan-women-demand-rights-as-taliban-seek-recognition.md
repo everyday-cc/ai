@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Pak ISI and Chinese proximity to Taliban, queer Quad pitch for Kabul recognition"
+    excerpt: "The role played by Pak and UK in cutting out a deal with the Taliban has been noted by India, which is concerned about the group’s projection as a beacon for Sunni Islam."
+    publishedDateTime: 2021-09-07T07:36:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/pak-isi-and-chinese-proximity-to-taliban-queer-quad-pitch-for-kabul-recognition-101630999882321.html"
+    ampWebUrl: "https://www.hindustantimes.com/india-news/pak-isi-and-chinese-proximity-to-taliban-queer-quad-pitch-for-kabul-recognition-101630999882321-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/pak-isi-and-chinese-proximity-to-taliban-queer-quad-pitch-for-kabul-recognition-101630999882321-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/09/07/1600x900/quad-leaders_1631000127016_1631000139934.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Afghan women demand rights as Taliban seek recognition"
     excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new rulers work on forming a government and seeking international recognition."
     publishedDateTime: 2021-09-03T05:49:00Z

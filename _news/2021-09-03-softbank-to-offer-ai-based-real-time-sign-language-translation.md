@@ -24,6 +24,17 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "SoftBank Corp. to Build and Operate Aichi Prefecture's Start-up Support Hub “STATION Ai”"
+    excerpt: "SoftBank Corp.'s corporate page provides information about SoftBank Corp. to Build and Operate Aichi Prefecture's Start-up Support Hub “STATION Ai”."
+    publishedDateTime: 2021-09-07T06:18:00Z
+    webUrl: "https://www.softbank.jp/en/corp/news/press/sbkk/2021/20210907_01/"
+    type: article
+    provider:
+      name: SoftBank
+      domain: softbank.jp
+    quality: 8
+
 secured: "Ixr93NVvngFWD5UzRCV22CQaFp6vgvRUYwx2DGJie0ACjXtZawzkWAWOzdNPv8+74sdcVi5hI7JHUsyJJV3FO1Y/M4WCSdkCAPIJEjTuJNOKXO/I3iBAVXR4l5SzXWLlMejpFUV6QLzdr2qz9iqIgoH2qdbhLzGg0Sysgz0k/1x8ZKe2humsJT/Ujvs8atwNJ/92+2+UOw5sYzzEfQxCqJ6pxqYOd+SIltssG1vYg4pjXI4/cB8UJ/BFnYw8RLzbtkJRhCh76Kz7Km0M2+0qsnbdrFLVhdLnXOkxJ5Fv5P+P6SW7I+SaGCWnCxvtvRV9DhX4VPMnkVGZW/iAdLyLqwehoLoyhpN/2kfNglHeTGnha8mjwkOt550BXvTNnuYXMISZ2MSUTd6XZnHQ/4vl+wlW3E69lgjKuAmI9vCHdrviMuOS21Ipoxv8WmDiZNQ9HIuQb5MSKMqsq3EvCpBYxend5Rm/GnLkwwhlXRntBnO/x8f6lOKfknCfOOSARpJbg8VCBrnGvv2NW7MakCZYiA==;qKOkk9U29HeJ1SqerVWSmw=="
 ---
 
