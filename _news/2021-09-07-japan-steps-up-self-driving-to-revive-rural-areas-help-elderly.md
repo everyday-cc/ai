@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Japan steps up self-driving to revive rural areas, help elderly"
-excerpt: "The government has earmarked about 6 billion yen (S$73 million) for developing autonomous-driving services this fiscal year.. Read more at straitstimes.com."
-publishedDateTime: 2021-09-07T05:20:00Z
-originalUrl: "https://www.straitstimes.com/asia/east-asia/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
-webUrl: "https://www.straitstimes.com/asia/east-asia/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
+title: "Japan Steps Up Self-Driving to Revive Rural Areas, Help Elderly"
+excerpt: "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025."
+publishedDateTime: 2021-09-07T03:44:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
+webUrl: "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/07/rk_japan-selfdrivingvehicle_070921.jpg?itok=dcFL7gme"
-    width: 763
-    height: 509
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iamawYFonON0/v0/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -40,6 +44,6 @@ related:
         height: 489
         isCached: true
 
-secured: "YaX56yCNQjRBoqojR5XezWO55bCk5C7jT5OzjztZsnq7tl2CX/wEEuBF9gd5cTBfkjQX+eaGzthclVyJfGjQ0oDL6XOLAIQHB0knzmnH1O33BBNeMEX943SHEkPPH4KdhGLujNwmEK+/8GU4RN8MvnF4si65w3JSaseIxP3Co+BVi0HpeB1xe/ZAOd4G2NlCCjrsVs/KbJ4wEFN2Rdzo8jrXdwE92tL4h+l1zBk+IXwdsTaSLQ9bOfITD2D8qiMIxAWtcKFx2kdJLkPC/6bRYgIuawdAytQFnMMrTYbFiURv3kW2zT8GYdTV7LxF1w/2VfeoD3uyjtRI8bEOp80W4BrX4vJjFmxvy71IZKgARPx3Sj+wYhwDmtDG8/Mimm9Nmey4DXiLMSEosqy5ClaQ6ZRhTl9M4SQ4/Kb+jPG2kRNrFtvwEMYV+UkZYqgof8waMabRPmVC8Ph1eOnc+IVyX6o6P6frCA3j6pzCDmzxpvkSW5CkatTw5qkeq+52r7igUmqYC2dmN1p6YRsfPt561Q==;CsX+EvUqVwqUImvWrukZRw=="
+secured: "kJK5EAQJFgYtldEiDwfBYoitwWjhHnRA0kbUo98UqteiBSZGBRS6HcMfzCyTnd4j+1U4qgI3WGCWqnfbP9X3PdwcepBZ4SNYBDF7syn51Eh+IOL/LCHX2xL/U8lHsnbEr37x6puKy3R8fcKUWpNbT7dLNdPdZWanVC7wZzBij70fv+J3Eavtu8O2AX6iJbTsfT0ycYTM/Bh7Xajy8Yf8UfNukV750SBKdxFJ4ciC4Ox7KGAmuanUG3DjiInVrn+qEmYDij07oPGj/4mOupdQd8hCMFuim8OByf6O7KxN2IwQ5dzJ0mz5zfhrH5C5eDLQkql9eiN6iqzdauFZJ/wfU0mb4c0Q3bB+FBj7lM0iouw=;QAp/XcT4Ri4aIApzzVZKow=="
 ---
 

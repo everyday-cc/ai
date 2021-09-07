@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-tesla
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-Build-Code-Self-Driving-Car.jpeg&signature=c189a084ee36e4787b851d03217ccbae"
         width: 1280
         height: 640
-        isCached: true
-  - title: "The US to investigate increased self-driving Tesla-related incidents"
-    excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
-    publishedDateTime: 2021-09-02T16:43:00Z
-    webUrl: "https://www.electropages.com/blog/2021/09/us-investigate-increased-self-driving-tesla-related-incidents"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 39
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
-        width: 350
-        height: 240
         isCached: true
   - title: "How the Chinese tycoon driving Volvo plans to tackle Tesla"
     excerpt: "Li Shufu has charted a path from a remote fishing village in eastern China through dirty factory floors to the heart of the auto industry."

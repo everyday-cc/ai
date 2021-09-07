@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The US to investigate increased self-driving Tesla-related incidents"
-    excerpt: "What challenges do self-driving vehicles face and how could this affect development into AI-based technologies in the future?"
-    publishedDateTime: 2021-09-02T16:43:00Z
-    webUrl: "https://www.electropages.com/blog/2021/09/us-investigate-increased-self-driving-tesla-related-incidents"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 39
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2021/August/tesla-car-hl.png"
-        width: 350
-        height: 240
-        isCached: true
   - title: "Tesla Expects Full Self-Driving Beta Public Release On Or Around September 25"
     excerpt: "Elon Musk, Tesla CEO, says that the company should be ready to make its Full Self-Driving Beta available to the public on or around5. This after months of delays relating to the software and issues elsewhere within the company."
     publishedDateTime: 2021-09-02T17:35:00Z

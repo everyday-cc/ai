@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Innowatts Uses AWS to Accelerate Utilities' Digital Transformation"
-excerpt: "Innowatts, an industry-leading artificial intelligence-enabled (AI) software-as-a-service (SaaS) platform for global energy providers, today announced a solution to allow energy providers to fully lev"
-publishedDateTime: 2021-09-01T12:00:00Z
-originalUrl: "https://www.fbherald.com/news/state/innowatts-uses-aws-to-accelerate-utilities-digital-transformation/article_9d7e6ef4-c631-5f51-9116-0f57e889a96d.html"
-webUrl: "https://www.fbherald.com/news/state/innowatts-uses-aws-to-accelerate-utilities-digital-transformation/article_9d7e6ef4-c631-5f51-9116-0f57e889a96d.html"
+excerpt: "1, 2021 /PRNewswire/ -- Innowatts, an industry-leading artificial intelligence-enabled (AI ... Leveraging the power and agility of Amazon Web Services (AWS) to process 4.3 billion data points per hour, Innowatts' SaaS energy analytics platform has ..."
+publishedDateTime: 2021-09-01T13:00:00Z
+originalUrl: "https://www.inforney.com/texas/innowatts-uses-aws-to-accelerate-utilities-digital-transformation/article_207920d8-a4eb-5fcd-9ac0-722f6faa21c6.html"
+webUrl: "https://www.inforney.com/texas/innowatts-uses-aws-to-accelerate-utilities-digital-transformation/article_207920d8-a4eb-5fcd-9ac0-722f6faa21c6.html"
 type: article
 
 provider:
-  name: Fort Bend Herald
-  domain: fbherald.com
+  name: Local News in Forney
+  domain: inforney.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/ce8ef3ce-c2e9-11eb-83f7-734cafba99e7.jpg"
-    width: 1228
-    height: 411
-    isCached: true
-
-secured: "jgT0UyeRqfk9x31TGqM079TU0n0dU5Z0bPw3SYbsHx11p59vKDtDwCovwMi4c+Ak7OCBPP3uYPFZBOdqkJJV0R0BQkmekDZeC35vvk+yg3brFeVGxSgb4+OVP2+k9yJDknMw5NWVatcb5IhY3jxtPumsv3j92oUU/QN+/6ujxGromoJRmQ42nCsLOe4JSCg3WNWGRb7JPg2wpWmoJYr/YfUoPT+AK/UYTGYjuDUkyMXCTOQD3jXy83s32YSa9O0l9CfLj7nUvq/cNroTC+VUcDndPUaMSMt0vnTRX9Y/l2bQ+l4g3sZdDyumD2+VUPJi0M5Tzwb/QevPZ6DjdEbRjEMQaUOtRoLmhIMsLB2oK8k=;h0ko2m9gdQduKBaEPfCe8w=="
+secured: "gRJOPjDYggbr2zkiZvPKA/4ZL0+fSM3bxDT818Oc+rF9j7kZirXI+zExauafqcClYlPt5vJDcpGL82zNMf/YmF7B5d2jzeW03wbH7YV6x0J27Hw5hpPwSdgton3lKOMgbxEdJBj8/ME1co1JfWMymJkPMjjI5XPBziZQjizKviOrgHqX3zRBrphjt6lvzsAzfEn++OLADXG+HQTlCU2dCjnK0/MsjIYALnXcfm2MwvUQDJWGhPajd+e6CPzwptmOMChdDifuSpWEaE3H6T+lGDDbRvachm4ue4aIm/p7slw9BV1nP6qeHqx/74wOw6YhQmjz3F+lw+CjrkTOwJkmP7dv7fEka7bDYevQ6aYUDSQ=;JAeQq8mt6vGCxmKgbFY4Rg=="
 ---
 

@@ -42,6 +42,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Crediwatch named to list of 100 most innovative AI fintech companies"
+    excerpt: "Crediwatch, a Bangalore-based ‘data-insights-as-a-service’ platform, has been selected to be part of the AIFinTech100, an annual list of 100 of the world’s most innovative AI solution providers for financial services selected by a panel of industry experts and analysts."
+    publishedDateTime: 2021-09-07T09:39:00Z
+    webUrl: "https://www.freepressjournal.in/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-09/7c7bd66a-1853-4e5f-9878-bf9af8cf76c8/Meghna_Suryakumar__Founder_and_CEO_Crediwatch.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 630
+        isCached: true
   - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
     excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
     publishedDateTime: 2021-09-02T21:23:00Z
@@ -85,20 +101,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Technology Advances Heart Imaging"
-    excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
-    publishedDateTime: 2021-09-02T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-technology-advances-heart-imaging"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1094058356.jpg"
-        width: 700
-        height: 480
-        isCached: true
   - title: "A Comprehensive Guide to Fintech ETFs"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-09-05T07:26:00Z
@@ -112,6 +114,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/09/71db9e3c1e83b4edc3bba506d8c34d01.jpeg"
         width: 635
         height: 400
+        isCached: true
+  - title: "A Fintech Fox in the Regulatory Henhouse"
+    excerpt: "Apparently, Harris just doesn’t get why regulators have to be so skeptical of the industry all the time—which makes sense, coming from a fintech executive who’s advocated for the industry on both sides of the revolving door."
+    publishedDateTime: 2021-09-07T09:12:00Z
+    webUrl: "https://prospect.org/economy/fintech-fox-in-the-regulatory-henhouse-adrienne-harris/"
+    type: article
+    provider:
+      name: The American Prospect
+      domain: prospect.org
+    quality: 24
+    images:
+      - url: "https://prospect.org/downloads/16799/download/RDP-Harris%20090721.jpg?cb=2bae456d97bd72bb8ecee83656aae636&w=1200"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Financial Institutions are Increasingly Adopting AI for Supporting AML as Fintech Adoption Rises: Report"
     excerpt: "Financial institutions are increasingly adopting AI for supporting AML as global Fintech adoption rises: Report."

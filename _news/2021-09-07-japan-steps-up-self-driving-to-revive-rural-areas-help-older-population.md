@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Japan steps up self-driving to revive rural areas, help elderly"
-    excerpt: "The government has earmarked about 6 billion yen (S$73 million) for developing autonomous-driving services this fiscal year.. Read more at straitstimes.com."
-    publishedDateTime: 2021-09-07T05:20:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
+  - title: "Japan Steps Up Self-Driving to Revive Rural Areas, Help Elderly"
+    excerpt: "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025."
+    publishedDateTime: 2021-09-07T03:44:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/07/rk_japan-selfdrivingvehicle_070921.jpg?itok=dcFL7gme"
-        width: 763
-        height: 509
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iamawYFonON0/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "uIXJJ6pIRZCFh4ESBk1mTlI+GHHOpplg2t+sULdtqBR8r+Ab2y4t2pNsLkfxNjHXeO5INE56ugHdCh5T9X+V88LnPDR3zInReI1PL+8rlH2YRcI8ZIIFQXbrjIlFfNtqnNQEzEN6lbsqR3LCh3zZMhBVpp839v2e8GpeSTxkeVseINADyT11LiPeuu5iePVljteWg4XETSzwp4w+SSwQrJfEQo+D69m/G61oKvtmEJTb+zVkBQxEtb62tDngGcVU0XHRM1L7Aj2shQKAUo4V4HXtZfjSlQhK4iZmblzKPzUK9lBf1R3slDwZOwEai6JaHh6WHUKRM8cuHcw0uZ4wbO1qta0P+bm+rUgeWIrTo7I=;EXpBUL2/9QfANkuR9/HhdA=="
