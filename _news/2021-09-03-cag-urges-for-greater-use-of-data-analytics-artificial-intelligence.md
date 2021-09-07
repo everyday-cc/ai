@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sentinelassam.com/amp/national-news/cag-urges-for-greate
 cdnAmpWebUrl: "https://www-sentinelassam-com.cdn.ampproject.org/c/s/www.sentinelassam.com/amp/national-news/cag-urges-for-greater-use-of-data-analytics-artificial-intelligence-553091"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 780
     height: 469
     isCached: true
+
+related:
+  - title: "Pearson Acquires Leading AI Analytics Company Faethm"
+    excerpt: "Pearson, the world's leading learning company, today announced that it has acquired the groundbreaking workforce AI and predictive"
+    publishedDateTime: 2021-09-07T17:55:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pearson-acquires-leading-ai-analytics-company-faethm-301370557.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/617186/Pearson_Logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "Zikp1WI1ORhNuHTYN4TFXH792CxH9P2+ppL3s5y7LhhC70So4qeaV6RqbhutUpcJmNGxWpDfV6pKKuR90o9pivbKCy6WBq1tJX/83lKyowIYos5d9Y96C392MzARKPsAoAp41N/MaDSPb8w2jKKXQjVnvFTCMuVl2LE3S/ifdZ9+LtHfmZB/iS4nvyAzF/KX6GpcGVvJrqnlu9MA7hBFc/AldGL08Cwj4KahXKeiEjQY28Tb1FXV7A+Gn8n/IRuGBoEdpAC75KVC5ctEdwQn8dmiP4/YVoWjDQEs0TkJlD+kMFVYQmdU8wSfw1+ZGCg5nqEKWqecjNqFFgMzcpWP2pJz+dAc9WR12dTDPNH1g7DyEE8oMrUuJvn6Eh9Qg7Lf06+bDeEKnh/JTDBKXhi1hGaTaLAuAZRn9A3/VFlDCJw1MuyM2SD2Py2YMfmB76AVr8IPy+1LGKIZW0cn4Z+JFyooZAybgRDtGLWHq2x1grg3015YrzbPcvTtlgjSd+hDXalXxTs7pGIfFJWooR1Hkg==;H+IpOFTgzN3AEQjTfWMz4w=="
 ---

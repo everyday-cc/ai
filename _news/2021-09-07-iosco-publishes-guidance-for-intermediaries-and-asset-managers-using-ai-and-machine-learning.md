@@ -3,8 +3,8 @@ category: news
 title: "IOSCO Publishes Guidance for Intermediaries and Asset Managers Using AI and Machine Learning"
 excerpt: "The Board of the International Organization of Securities Commissions (IOSCO) today published guidance to help its members regulate and supervise the use of Artificial Intelligence (AI) and Machine Learning (ML) by market intermediaries and asset managers,"
 publishedDateTime: 2021-09-07T15:45:00Z
-originalUrl: "https://www.proshareng.com/news/Regulators/IOSCO-Publishes-Guidance-for-Intermediar/58926"
-webUrl: "https://www.proshareng.com/news/Regulators/IOSCO-Publishes-Guidance-for-Intermediar/58926"
+originalUrl: "https://www.proshareng.com/news/Regulators/IOSCO-Publishes-Guidance-for-Intermediaries-and-Asset-Managers-Using-AI-and-Machine-Learning/58926"
+webUrl: "https://www.proshareng.com/news/Regulators/IOSCO-Publishes-Guidance-for-Intermediaries-and-Asset-Managers-Using-AI-and-Machine-Learning/58926"
 type: article
 quality: 45
 heat: 45
@@ -25,6 +25,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "2OPutbte5ZwF01+wVN9IKUKDfX6WYvoc7SJvJDoWJz5Wlc+gmHdDjE9nU6NDdslLFh0+R4Vd2jkgayI7IcAFnjDtQIxmA1oz+P3JxeiXdvXbokMKDmeing737DPu8Irkj50eZi0WOUK6voym26uIVuu5TDYWE+Aor41ymyhgQocuPxCwTKPUbHk7HIZjmHsg2yMWjra/Gd+U6KAsGzvyYXTZ7E/0cNJdCfD7MYjxTIljZbww08cZ0RHH/yeLRbK4Rixlj8qhnArrkicVQInHyml0dorKJ4ButT10ElUHYxd0eVYc0oef/9yJxj7cjxhxHA0QKcirbIaPAVqxsebcqXEgdVSbbxnJ7Cv570Qf5Dk=;KnMV3SoCqJCy/hr5LG2BkQ=="
+secured: "CCeXsh/h3s0eJO3mZWVjvnnuWFUNbA0unhq/DUZ9gDWPJpGAqWb5FSeq9PfB87ekZhqv1dKYRDKL34tsYHQzwQwTMzvB+/+OvYNRnisRhgy0ga/4LKbXXkn2fcDZklLoNbP5/0LvO4WiI5t/lbdq7tIwoH3fWtaDPo39b6yEfPzcz2J32+NffhtGBBJNWLIoDtgisgDeR+0icBJi67Fr/9cJnCOoXp3LCNuQN3bzcV6ivrWsWrKFfOB4A7fv77bTWbrhr8rbWwRVv1EfpgVV8WwLYNdllk1iJaxUKAFjPJrv42vrje6wWR+fDicAI74OceahNAQXv5fikMBL2WBMwpGcLk8g4ecki9SUr8vGCjo=;5F5GJvryD7FXW/gUEHuzKQ=="
 ---
 

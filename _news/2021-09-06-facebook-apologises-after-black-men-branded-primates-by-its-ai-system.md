@@ -103,6 +103,22 @@ related:
         width: 800
         height: 520
         isCached: true
+  - title: "Facebook's AI Thought a Video of a Black Man Was 'About Primates'"
+    excerpt: "Facebook's AI has made an 'unacceptable' error, the company says. But the AI knows nothing. It just learns what it is told about the world as it exists."
+    publishedDateTime: 2021-09-07T16:13:00Z
+    webUrl: "https://interestingengineering.com/facebooks-ai-thought-a-video-of-a-black-man-was-about-primates"
+    ampWebUrl: "https://amp.interestingengineering.com/facebooks-ai-thought-a-video-of-a-black-man-was-about-primates"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-ai-thought-a-video-of-a-black-man-was-about-primates"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 59
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/bM6AApNl67/sizes/fb-dislike-1_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "When Facebook’s AI Labeled ‘Primates’ in a Video of Black Men"
     excerpt: "The recent incident involving Facebook’s AI putting the ‘primate’ label on a video featuring black men is objectionable and offensive. Afterward, Facebook apologized for the incident, calling it an “unacceptable error."
     publishedDateTime: 2021-09-07T05:55:00Z

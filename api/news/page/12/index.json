@@ -2,6 +2,93 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-26-joondalup-supports-push-to-become-centre-for-artificial-intelligence-and-robotics.md",
+      "title": "Joondalup supports push to become centre for artificial intelligence and robotics",
+      "excerpt": "A major Perth council wants to become Australia’s first urban centre for artificial intelligence and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
+      "originalUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.perthnow.com.au/publication/C-3759113/76e2e6c6694853bac73137e934cad47d6de4a2db-16x9-x0y198w2756h1550.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
+      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
+      "publishedDateTime": "2021-08-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Perth Now",
+        "domain": "perthnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-baidus-ai-assistant-raises-b-round-at-51-billion-valuation.md",
+      "title": "Baidu’s AI assistant raises B round at $5.1 billion valuation",
+      "excerpt": "Baidu’s AI-enabled consumer hardware arm Xiaodu Technology has secured an undisclosed amount in a B round, at a valuation of $5.1 billion. An Alexa counterpart, Xiaodu’s AI voice assistant has been applied in a variety of smart speakers, smartphones ...",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/08/25/baidus-ai-assistant-raises-b-round-at-5-1-billion-valuation/",
+      "originalUrl": "https://technode.com/2021/08/25/baidus-ai-assistant-raises-b-round-at-5-1-billion-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/08/25/baidus-ai-assistant-raises-b-round-at-5-1-billion-valuation/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/25/baidus-ai-assistant-raises-b-round-at-5-1-billion-valuation/",
+      "publishedDateTime": "2021-08-25T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-artificial-intelligence-ai-in-education-market-next-big-thing-major-giants-google-cognizant-ibm.md",
       "title": "Artificial Intelligence (Ai) In Education Market Next Big Thing : Major Giants Google, Cognizant, IBM",
       "excerpt": "The latest research on Worldwide Artificial Intelligence Ai In Education Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the",
@@ -629,6 +716,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-25-rightway-introduces-artificial-intelligence-to-improve-care-navigation-for-persons-with-chronic-conditions.md",
+      "title": "Rightway Introduces Artificial Intelligence to Improve Care Navigation for Persons with Chronic Conditions",
+      "excerpt": "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify “rising-risk” and “high-risk” members.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-health-artificial-intelligence-4c0e8ae31d87307aade6709bbdbe3a1f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-health-artificial-intelligence-4c0e8ae31d87307aade6709bbdbe3a1f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain.md",
       "title": "The world’s largest chip is creating AI networks larger than the human brain",
       "excerpt": "Cerebras Systems, maker of the world’s largest chip, has lifted the lid on new architecture capable of supporting AI models that outscale the human brain. The current largest AI models (such as Switch Transformer from Google) are built on circa 1 trillion parameters,",
@@ -677,49 +807,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-rightway-introduces-artificial-intelligence-to-improve-care-navigation-for-persons-with-chronic-conditions.md",
-      "title": "Rightway Introduces Artificial Intelligence to Improve Care Navigation for Persons with Chronic Conditions",
-      "excerpt": "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify \"rising-risk\" and \"high-risk\" members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19967778.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19967778.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -914,6 +1001,41 @@
       ]
     },
     {
+      "path": "_news/2021-08-25-south-america-ai-in-computer-vision-market-advancements-with-373-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation.md",
+      "title": "South America AI in Computer Vision Market Advancements with 37.3% of CAGR by 2027 – Intel Corporation,Microsoft Corporation,Nvidia Corporation",
+      "excerpt": "The AI in computer vision market in SAM is expected to grow from US$ 201.59 million in 2019 to US$ 2,443.57 million by 2027; it is estimated to grow at a CAGR of 37.3% from 2020 to 2027. A report added on the Business Market Insights, titled “South ...",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/",
+      "originalUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/?amp=1",
+      "publishedDateTime": "2021-08-25T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-healthtech-startup-neodocs-raises-pre-seed-from-y-combinator-9unicorns-and-titan-capital.md",
       "title": "Healthtech Startup Neodocs Raises Pre-Seed From Y Combinator, 9Unicorns And Titan Capital",
       "excerpt": "The AI-based platform will be utilizing the proceeds from the fundraise to strengthen its core technology framework, increase presence and expand its team.",
@@ -1068,153 +1190,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-agritech-robotics-startup-tartansense-raises-5-mn-in-series-a-round.md",
-      "title": "Agritech Robotics Startup TartanSense Raises $5 Mn In Series A Round",
-      "excerpt": "The company builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/381428",
-      "originalUrl": "https://www.entrepreneur.com/article/381428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629886004-tartansenseteampic.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381428",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428",
-      "publishedDateTime": "2021-08-25T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-ai-workshops-explore-our-future-and-how-we-create-it.md",
-      "title": "AI Workshops: Explore Our Future and How We Create It",
-      "excerpt": "Discuss AI is a multi-programme initiative run by the SFI ADAPT Centre for AI-Driven Digital Content Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcu.ie/engineeringandcomputing/news/2021/aug/ai-workshops-explore-our-future-and-how-we-create-it",
-      "originalUrl": "https://www.dcu.ie/engineeringandcomputing/news/2021/aug/ai-workshops-explore-our-future-and-how-we-create-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcu.ie/themes/custom/dcuorange/themeAssets/DCU_logo_stacked_red-Adjusted120w.png",
-          "width": 750,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DCU",
-        "domain": "www.dcu.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-can-new-robotic-massage-chairs-really-replace-a-spa-visit.md",
-      "title": "Can New, Robotic Massage Chairs Really Replace a Spa Visit?",
-      "excerpt": "We take sides on whether high-tech luxury chairs—with artificial intelligence, ‘brain massage’ tech and undulating air bags—can soothe you as effectively as a licenced massage therapist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/can-new-robotic-massage-chairs-really-replace-a-spa-visit-11629885601",
-      "originalUrl": "https://www.wsj.com/articles/can-new-robotic-massage-chairs-really-replace-a-spa-visit-11629885601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-389093/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/can-new-robotic-massage-chairs-really-replace-a-spa-visit-11629885601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-new-robotic-massage-chairs-really-replace-a-spa-visit-11629885601",
-      "publishedDateTime": "2021-08-25T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 759
         isCached: true
+  - title: "Lawsuit over face biometrics in school security system ruled no longer relevant"
+    excerpt: "A state law signed in December 2020 invalidated the approval of Lockport School District’s face biometrics system by the state Education Department."
+    publishedDateTime: 2021-09-07T16:45:00Z
+    webUrl: "https://www.biometricupdate.com/202109/lawsuit-over-face-biometrics-in-school-security-system-ruled-no-longer-relevant"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
+        width: 1021
+        height: 729
+        isCached: true
 
 secured: "1ocUw1BXfWUA4K/wmHWYma22183bQH5wbaQJJdjCs1zx1sCtoWi/7mos6Io8iNTPjUZl1xg1B+Uy+Ptr1tV4CC7MpluLXBtTy72P7PPZr0g5PLCmttX8vW0f4HZ18d2iecYhl0Jp4e2nnp780/LkCnw2V0P4pZFQAEikrBWfRsb9cuASJ540zSLKOtY01IhtilBAF5dhuBuZGSyErMs/hiy4seMOYiIqHPp5/NF6vkwfJUT3CcXLL+9jTo2SA6311+KMLsYGsx1hdAXoRivRjkG9Ih40LK2poi7NYyLFP5gM+monLidEPRt1RGnPoe3SHCMgv+9XRqYD+ik7a+jQ+2KLI+NLeZoWwl2tWHVjToFGFdHCJtKHleXXYe33ZhbpYxfz+EJiJsXN4tgHPe8xBsGycvkzZ5oXT2T6I6cw2PTXQwPnsCBkrQaJphvTc/Y6OMlz7uj1+3Eni+r/UTFnOaEg/lQfg+HnFv2KprlWTT8mehG68N8mw9duz9ejVVneKnv0BwTOdHFe2apsn4zeQg==;NZyxgNxdInexsWO/K6QbGQ=="
 ---

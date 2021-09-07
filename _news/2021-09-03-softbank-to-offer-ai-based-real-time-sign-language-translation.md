@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AJE Launches New AI-Based English-language Translation Service"
+    excerpt: "AJE (American Journal Experts) announces the launch of its Standard Translation service, which combines AJE’s highly advanced artificial intelligence (AI) software and its own US-trained editors to return high-quality technical English-language translations in no more than five business days."
+    publishedDateTime: 2021-09-07T14:50:00Z
+    webUrl: "https://www.stm-publishing.com/aje-launches-new-ai-based-english-language-translation-service/"
+    type: article
+    provider:
+      name: STM Publishing News
+      domain: stm-publishing.com
+    quality: 39
+    images:
+      - url: "https://www.stm-publishing.com/wp-content/uploads/2018/05/aje.png"
+        width: 727
+        height: 468
+        isCached: true
   - title: "SoftBank Corp. to Build and Operate Aichi Prefecture's Start-up Support Hub “STATION Ai”"
     excerpt: "SoftBank Corp.'s corporate page provides information about SoftBank Corp. to Build and Operate Aichi Prefecture's Start-up Support Hub “STATION Ai”."
     publishedDateTime: 2021-09-07T06:18:00Z

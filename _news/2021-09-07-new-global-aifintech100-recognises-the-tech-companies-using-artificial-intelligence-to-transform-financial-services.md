@@ -41,6 +41,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "9 Reasons Why Fintech Will Take Over The Banking Industry"
+    excerpt: "The introduction of Fintech or financial technology was back in the 1950s when credit cards came into existence. Next, internet"
+    publishedDateTime: 2021-09-07T16:24:00Z
+    webUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/"
+    ampWebUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/09/what-is-fintech.jpeg"
+        width: 990
+        height: 556
+        isCached: true
   - title: "Crediwatch named to list of 100 most innovative AI fintech companies"
     excerpt: "Crediwatch, a Bangalore-based ‘data-insights-as-a-service’ platform, has been selected to be part of the AIFinTech100, an annual list of 100 of the world’s most innovative AI solution providers for financial services selected by a panel of industry experts and analysts."
     publishedDateTime: 2021-09-07T09:39:00Z
@@ -166,6 +182,6 @@ related:
         height: 270
         isCached: true
 
-secured: "xo4Xmg/Jt1DvQCblWJIE9DhaJ8rhYpkHrAefyRBmqNuRIhP1kptuSqvirTitF0kgrPjdkYPZvncAVBNaHSo5kqC58s68wsxEHFPkKuPKZntjMBXgYp/ENrsXI64Sa4/bhW6FxdFejTqeQJvwhS2EAoRQ6iBWumSmEwS/OVgzb1wvujhzqMfFcyAldJ0Ylonq7CqJqi4bw00FvaRKLyHyAcli2FF/u2W8WnEaWgm+UNPw/b102r7trsFJ7Ffph2J+7miHhHB5hHQRtT4xP8jCaeuRTy8HUDYbMUl25wn2Vi2NeHDKoyJh1nMb34HwH9LUfB/SD1EW6sqKsK9Rjjqp1WUmUOCcAELYsgTQ4YZ6t20=;OzPGrshCKlbG8XOOYFUQYQ=="
+secured: "5j1K14hJU5mwAqed7wlAccUQ9RIF8S41uDbsCzxtyEIkphhm3yS7UTBVt4RblJj4lf96jnaXcl6gcGIMAFtLbk9JdiN+MIlPyreRj6kIz80KYAD0qDlxwEShgUBjAdZCTq65tV4qoag81GVTmoZycFWf4Za/WyGD9aWDE/R/s097YDHIh0N+7ShaWm4q3f1+Mn7EdwhBE4f5f9o0MJtxyO643RAHUgaIw1hvhUdb9pUK/thLNcsTTIKabeL7+vavDAfnbXvImAi95lN5L+48OoDZIRxKiiyF0Idjr8ZR1WJBq0GFlu8mLDTwa5aCOO1ieJOpYkz4J7Z2e4IEe1RiJa3pB+3XnzHORweCjyixmkkLZO4O8nRa55EUJHx2OaXop790PucGdXacqGGtbdhXUD1IzrzV9L6smwT4DL9K+SqaWtlcMl3iBFQ5jEJ1uYKF44IcszhFB0b7V/5eIosdAzarTxskdUKCOHtjPoxaD3UNPUG0REEDz9X4kOQn7BV3/lcKn9SdzXo+sdS0Cni6Wg==;ayJXweNyWV/781jEsorlPQ=="
 ---
 

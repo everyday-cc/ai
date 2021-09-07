@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla’s full self-driving software is available now"
+    excerpt: "Tesla's fully autonomous self-driving software allows drivers to input their location and let the car drive itself, following all the rules and safety precautions while transporting the occupants."
+    publishedDateTime: 2021-09-07T17:35:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/article/tesla-s-full-self-driving-software-is-available-now/809055"
+    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/tesla-s-full-self-driving-software-is-available-now/809055"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/tesla-s-full-self-driving-software-is-available-now/809055"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 74
+    images:
+      - url: "https://imgk.timesnownews.com/1631035404-sla.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Feds Turn the Heat Up on Tesla's Self-Driving Feature"
     excerpt: "Due to concerns about self-driving accidents, the National Highway Traffic and Safety Administration has told Telsa to provide a significant amount of data on every car the company has sold over the last seven years."
     publishedDateTime: 2021-09-03T22:16:00Z

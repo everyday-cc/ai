@@ -43,6 +43,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "9 Reasons Why Fintech Will Take Over The Banking Industry"
+    excerpt: "The introduction of Fintech or financial technology was back in the 1950s when credit cards came into existence. Next, internet"
+    publishedDateTime: 2021-09-07T16:24:00Z
+    webUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/"
+    ampWebUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/09/what-is-fintech.jpeg"
+        width: 990
+        height: 556
+        isCached: true
   - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
     excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
     publishedDateTime: 2021-09-07T10:43:00Z

@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia In the Lead in AI Chips and is Working to Stay There"
-    excerpt: "Nvidia is the leading AI chips company today and has prospects in future markets around the auto industry and edge computing."
-    publishedDateTime: 2021-09-02T23:39:00Z
-    webUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-lead-in-ai-chips-and-is-working-to-stay-there/"
+  - title: "Announcing the Amazon S3 plugin for PyTorch"
+    excerpt: "Amazon S3 plugin for PyTorch is an open-source library which is built to be used with the deep learning framework PyTorch for streaming data from Amazon Simple Storage Service (Amazon S3). With this feature available in PyTorch Deep Learning Containers, you can take advantage of using data from S3 buckets"
+    publishedDateTime: 2021-09-07T17:24:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/"
     type: article
     provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 56
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
     images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3GPUchip-2.jpeg"
-        width: 550
-        height: 309
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
 
 secured: "IjwkfNZaugfaAr+BYDoEivVw8gHIxgbOvd5azKVexMKXrfyNr98AzD3TWRuQ4AKJskE6KekEI1ghN2F2V5rmksO9t6irFRDJ6tbGyPzm+Km/YCog//KeFLM62QVRGav1NiF6axNgm75KzOj+M0tXGWjXNcnxYIc0e0+gK1rQtcJkOn4I8CgD3OmUfjavcpheoI96DdPxQm59n3wLwsqmjfD+Qb78K3E15nUwU2EiDdqDYVd/HsptAgH7PKwG0D6I+1yPJACbCGu1QbtWNRZvndGWZfQQoYTE1BhbrtttTxSRIqZWMlBzeMomC0O9MNSalqQg7BGHFMJeEZ24ZWPBXGr/ISS92XIPtDOjRSDfGs0=;NJ8C2CLkMPdILCQ4wpTyaQ=="

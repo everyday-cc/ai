@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-drivi
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 24
+  - title: "Indian, German experts discuss Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here."
+    publishedDateTime: 2021-09-07T17:11:00Z
+    webUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
   - title: "Self-driving VW ID.Buzz electric vans start testing ahead of commercial service in 2025"
     excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
     publishedDateTime: 2021-09-07T11:00:00Z

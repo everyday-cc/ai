@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "9 Reasons Why Fintech Will Take Over The Banking Industry"
+    excerpt: "The introduction of Fintech or financial technology was back in the 1950s when credit cards came into existence. Next, internet"
+    publishedDateTime: 2021-09-07T16:24:00Z
+    webUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/"
+    ampWebUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/09/what-is-fintech.jpeg"
+        width: 990
+        height: 556
+        isCached: true
   - title: "Crediwatch named to list of 100 most innovative AI fintech companies"
     excerpt: "Crediwatch, a Bangalore-based ‘data-insights-as-a-service’ platform, has been selected to be part of the AIFinTech100, an annual list of 100 of the world’s most innovative AI solution providers for financial services selected by a panel of industry experts and analysts."
     publishedDateTime: 2021-09-07T09:39:00Z

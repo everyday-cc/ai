@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-17-patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656.md",
+      "title": "Patent Issued for Using machine learning to classify insurance card information (USPTO 11074656)",
+      "excerpt": "As a result, many consumers enroll in insurance plans that are not the most appropriate for their medical needs and financial budget ... method for applying machine-learning algorithms to ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-sales-fintech-seismic-pushes-valuation-to-3-billion.md",
       "title": "Sales fintech Seismic pushes valuation to $3 billion",
       "excerpt": "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition.",
@@ -1268,40 +1312,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-hong-leong-bank-seeks-digital-disruptors-across-southeast-asia-to-find-esg-focused-innovative-solutions-for-banking-and-financial-services.md",
-      "title": "Hong Leong Bank Seeks Digital Disruptors Across Southeast Asia to Find ESG-Focused Innovative Solutions for Banking and Financial Services",
-      "excerpt": "Hong Leong Bank (\"HLB\" or the \"Bank\") is calling all budding disruptors to join its 'Can You Hack It' Virtual Hackathon ASEAN Edition 2021 to co-create Innovative solutions focused on ESG. This virtual hackathon themed 'Environmental,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
