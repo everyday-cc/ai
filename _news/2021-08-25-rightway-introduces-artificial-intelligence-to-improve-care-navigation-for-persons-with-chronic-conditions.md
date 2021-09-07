@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Rightway Introduces Artificial Intelligence to Improve Care Navigation for Persons with Chronic Conditions"
-excerpt: "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify “rising-risk” and “high-risk” members."
-publishedDateTime: 2021-08-25T13:37:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-health-artificial-intelligence-4c0e8ae31d87307aade6709bbdbe3a1f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-health-artificial-intelligence-4c0e8ae31d87307aade6709bbdbe3a1f"
+excerpt: "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify \"rising-risk\" and \"high-risk\" members."
+publishedDateTime: 2021-08-25T13:20:00Z
+originalUrl: "https://www.lelezard.com/en/news-19967778.html"
+webUrl: "https://www.lelezard.com/en/news-19967778.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "26r5lcNreJKMvCS5H1B7Ksir+U7H8DcvbIDXdUKyn/DUV0jSLSbdQEvMqwWmD5jf0UZJaZsTfqHzGB0LEeWOAiXyQNV8vvMPIACU+yg2OvMxDMEQNu1aUkeDuOdgGAd2QAmfnOnTPK46wbnFgt4Ag/VUfBe7addu8fTT8hY5ziruj5qjZ0fwt5GjGBtYjfOZNvHQ9nhQYXLhqaLSUJKwU3qCww16D3nl1JC9YkMRHyuAYJLxpgEScmMDVkYYz8p8Fl+j3qqsxjm//oArcZzfCB8mrUYZoJke9odbyQY1esIIW4BEbR+DH9U7Cquvg4e7adEQiRumT4QmoLirU+kNfWUJHC33+udNOg/l2zOqfn8=;W03aALvbCU5zst0Y3Zm/fA=="
+secured: "9A36lsUsFIYGfI8Wkxas9wKi06UgT78MrubFtp9re3UENIN8H1lyDQuc/L6dzMyL4GmNfix91GBYH+68aUGx7lFPUJqnr+1hlTbBJV3qfIh8xvTRzF9EY5AGmonlEfFDA0Jaq2JA+CL774v0Df2qE7+IHEmrbfK9x+boI8RbqmeJ9UFsf3atbDLKLuWMOJgsZC2mEClvmtJggi7wMTmweR+apqf9w1/tcKXCriuNZWzTkzqy0MK2hcmID62p4tMy5qVDwSbtYFr4snn4vCBFw+MyCYBYU2Yyws7lUIrS4mGKNxZvthgc3TMo9awgsnB6wwxsGGoFm7Xsz58529ZQ7xy8t6bObA4cKjaHrhnMQDc=;C7YZvfFnrjNgu3cCC9uZyw=="
 ---
 

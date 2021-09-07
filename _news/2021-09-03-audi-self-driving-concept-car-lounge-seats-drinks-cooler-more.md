@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Apple self-driving cars involved in two recent accidents"
-    excerpt: "Self-driving prototype cars from Apple were involved in road traffic accidents, but it wasn't the technology that was at fault"
-    publishedDateTime: 2021-09-02T12:49:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/apple-self-driving-cars-involved-two-recent-accidents/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 24
-    images:
-      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2020/12/Apple.jpg"
-        width: 1440
-        height: 897
-        isCached: true
-  - title: "How the city is preparing for the arrival of self-driving cars"
-    excerpt: "The footage, taken in July, is from a vehicle equipped with technology from Mobileye, an Intel subsidiary that is the first company to test a self-driving car on city streets. The arrival of the autonomous vehicle industry has prompted action from the city—with the de Blasio administration launching a new permit process for companies testing self-driving cars."
-    publishedDateTime: 2021-09-02T12:00:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/how-new-york-city-preparing-arrival-self-driving-cars"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/Mobileye-AV-NYC-Intel-14.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "EKQSATXzJuXuxusk86oc8rUBTHzYO6Wop6pfJd2vtMybscvkS0bFjfE4VUafN41w1ofZyShQ0P5yfbnL7rJrjyXaVqdvZPuU49FBrmQ75xIWBbjDnPgV8kzmI5XEfiD8GNv5cKl6a+TyfrPp9Dug6w8wnXs0cD+Oeb7XcpjQQJw18FCfHHPUQVyxqTWZzwOb3S/3yszI6mBTM+zkmLajj3xhe7L2fLfi88uobqH20+xY/vky7vVF3WHQ9pO+hSfl6vceaDJk6jKgR/WXdFIrwdffGJozkLNSE8w6q5TDQlmYEK1RV0+lV20Or2tdQ8aRta8bFTUGkLy7+dm18oeSYjOQn+IbDXUo/flXFwYpRpODwGoggBF29hg60OyQMtMKjUs+mShMdmeJgt5le81jqTriOqd0LHjD9LP9pcQehkXFLYcIVX6PFFYPMMs2PDAbNFe9sz+g+DvP8MRHcCckK7YmWAf5Gx9JtFItOWqEZj2cuG8bwzfcbrQVzhvxdZ2OOlW0AAhypeiGIOi6nyUNug==;MqNuzkgYosv/XWTGI8neJg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-tr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 91
 published: true
 
 provider:

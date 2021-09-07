@@ -7,8 +7,8 @@ originalUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-le
 webUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-lead-in-ai-chips-and-is-working-to-stay-there/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: aitrends
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Shows How To Build AI Models At Scale With PyTorch Lightning"
+    excerpt: "Deploying predictive AI models across a business is no easy feat. The effectiveness of AI depends on the quality of the underlying models. Therefore, it becomes crucial for data scientists and academic researchers to quickly build models with various parameters and identify the most effective ones to deploy them easily and scale them seamlessly."
+    publishedDateTime: 2021-09-07T04:33:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-shows-how-to-build-ai-models-at-scale-with-pytorch-lightning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Simplifying-model-development-and-building-models-at-scale-with-PyTorch-Lightning-and-NGC-.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Deep Reinforcement Learning Is the Key To Making AI Physical"
     excerpt: "Deep RL is a kind of AI that can learn how to reach a goal over many steps, often by inventing surprising moves to navigate complex environments. Know and explore more about RL in this article."
     publishedDateTime: 2021-09-05T05:40:00Z

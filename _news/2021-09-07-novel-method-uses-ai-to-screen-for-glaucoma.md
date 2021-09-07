@@ -1,0 +1,46 @@
+---
+category: news
+title: "Novel method uses AI to screen for glaucoma"
+excerpt: "Scientists from Nanyang Technological University, Singapore (NTU Singapore), in collaboration with clinicians at Tan Tock Seng Hospital (TTSH) in Singapore have developed a novel method that uses artificial intelligence (AI) to screen for glaucoma,"
+publishedDateTime: 2021-09-07T04:36:00Z
+originalUrl: "https://www.news-medical.net/news/20210907/Novel-method-uses-AI-to-screen-for-glaucoma.aspx"
+webUrl: "https://www.news-medical.net/news/20210907/Novel-method-uses-AI-to-screen-for-glaucoma.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20210907/Novel-method-uses-AI-to-screen-for-glaucoma.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210907/Novel-method-uses-AI-to-screen-for-glaucoma.aspx"
+type: article
+quality: 57
+heat: 67
+published: false
+
+provider:
+  name: News Medical
+  domain: news-medical.net
+
+topics:
+  - AI
+
+images:
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/2/Close_up_of_the_beautiful_eye_of_a_young_child_-_Nik_Bruining_f959060df7e6466ba2733a4c18153083-620x480.jpg"
+    width: 620
+    height: 480
+    isCached: true
+
+related:
+  - title: "NTU, TTSH scientists develop glaucoma diagnosis system powered by artificial intelligence"
+    excerpt: "SINGAPORE: Scientists from Singapore’s Nanyang Technological University (NTU) and clinicians from Tan Tock Seng Hospital (TTSH) have developed a new method of screening for glaucoma using artificial intelligence (AI). Glaucoma is a group of eye diseases ..."
+    publishedDateTime: 2021-09-07T04:36:00Z
+    webUrl: "https://www.channelnewsasia.com/singapore/glaucoma-diagnosis-ai-system-ttsh-ntu-2160686"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 28
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--ISbrhFWk--/c_crop%2Ch_3124%2Cw_5555%2Cx_16%2Cy_0/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/cna/image/2021-09/ntu_ttsh_glaucoma.jpg?itok=6CXTXpza"
+        width: 600
+        height: 338
+        isCached: true
+
+secured: "f4UkWo04tDt0Q5PU1aNgJHt34TGZ/KbbJ9gEI9O2aylVfMjJ6rBhXGtsPyPRez7m/PslXpSEpqAhqWFqi5Cp3h4OdD3XJ62wxoElcSr9IRmRJUYyKS4w7aM2eSDBAGtRSrnsjN2ck1DhObv//nYoBCoD3ZFimhA+VJkkLCfebVzNnS3N0eo7RMY87BCeq+ped51RCbfWzghDCyWSemaWAVQRJZhACnOVAGKY3L/SBvLZsK2YfAlYROaGQ7//X/h0bF5TSmqxGivh2lcMRMLD31zZQ/yUPvtmpunN5f29LEVIPXKdyZ6S5btiH+pt5t0vokYxemxxLkU3SMjXNPQ7TyYRmxIKMlxn95P5zSAY3LI=;alVx4hluJe21amHY1A2H2A=="
+---
+

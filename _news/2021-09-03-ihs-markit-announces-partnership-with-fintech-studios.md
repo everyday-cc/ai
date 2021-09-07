@@ -70,20 +70,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "10 Indian AI Startups To Watch in 2021"
-    excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
-    publishedDateTime: 2021-09-02T13:00:00Z
-    webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
-    type: article
-    provider:
-      name: Open Data Science
-      domain: opendatascience.com
-    quality: 39
-    images:
-      - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
-        width: 640
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Technology Advances Heart Imaging"
     excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
     publishedDateTime: 2021-09-02T17:00:00Z
@@ -150,20 +136,6 @@ related:
       - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
-    excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
-    publishedDateTime: 2021-09-02T11:50:00Z
-    webUrl: "https://productcoalition.com/top-fintech-companies-startups-revolutionizing-financial-services-in-2021-and-beyond-3c004886018d"
-    type: article
-    provider:
-      name: productcoalition.com
-      domain: productcoalition.com
-    quality: 16
-    images:
-      - url: "https://miro.medium.com/max/1200/1*mTtOeZV1V7PWbkEqKwxKjQ.jpeg"
-        width: 1200
-        height: 798
         isCached: true
 
 secured: "NUV5q+6qkK4deDkDdm5RFCFEsWM2ZWCopz1PZRHJphf+H6KipHtICH7WH5et4x8pIBqWB8OWFjRtWjY/D5S2UVroWgDzncL1H833N+F5UMrmq1wmHmchv+kDwRgRZRCN9DDn7YePeNKUelr9GsVfJ59kn9UY8baESYAoqd1WYixtdNOti+4nW9fHxM31JMQap+H9cNNoHgm/+75S8EQP5xoB7diVK2YLfwZ6PLc4Kcwdn2lnsR1/3xmS9eP5fnfDpyyWSq1/HsR3BfDUyWYDC7lEvtdxaXfwSKVpLBxij7iV0AiCLMnwqiRulYtHG5kCWPedDH4sI3bb8VSkRaJLjyFT5J38ejdsBHHYFxTgCvK6Hti8YSs27zy+DGZdGn7pFjU97dS8nMuwMafocS30+fvgrvudfCN7R8afkxikLrsl6zwJ0ZIyWFlefM7+R7keUteaKKQ6mAKuBU2Gc3N17el4FEuW/tKUjq/63271HQaFLxP3b7dSvP8/Ud1LVfCo4Lu6b6Ny7wTimU0fiMeg3A==;TfHI96PVm5RoVmmAUpVXKg=="

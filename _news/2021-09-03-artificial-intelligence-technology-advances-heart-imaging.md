@@ -84,20 +84,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "10 Indian AI Startups To Watch in 2021"
-    excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
-    publishedDateTime: 2021-09-02T13:00:00Z
-    webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
-    type: article
-    provider:
-      name: Open Data Science
-      domain: opendatascience.com
-    quality: 39
-    images:
-      - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
-        width: 640
-        height: 300
-        isCached: true
   - title: "Logiq, Reliq Health Tech, AI/ML Innovations and ESE Entertainment. Emerging Leaders in E-Sports, HealthTech, E-Commerce and AdTech"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-09-05T23:29:00Z
@@ -150,20 +136,6 @@ related:
       - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
-    excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
-    publishedDateTime: 2021-09-02T11:50:00Z
-    webUrl: "https://productcoalition.com/top-fintech-companies-startups-revolutionizing-financial-services-in-2021-and-beyond-3c004886018d"
-    type: article
-    provider:
-      name: productcoalition.com
-      domain: productcoalition.com
-    quality: 16
-    images:
-      - url: "https://miro.medium.com/max/1200/1*mTtOeZV1V7PWbkEqKwxKjQ.jpeg"
-        width: 1200
-        height: 798
         isCached: true
 
 secured: "OzBRJrxRh5x9ivtuL1y05+DJGNgTmeQzli+MJSoY1CiqZ3BE/vZdBZiMR4MjLlyLTTw1/tLiLSJcpVpVc7M+nV2b8fadAU6HVvLtSIBo3mEqSU4Zk5hoGQfPdBb+/E+IjYJPaZ/tUCAu1Szl3wdtdLcbrt/Nz4SzW3fJNggPk+IGI/2I2bn7WyN6b0VMMKqq+nczlJ6WtOYkNdS18mKu9QijwKL+odw6UfCvm098+W9rvyRWn3TE53oSkwTc2cjaJdu4T3o8ofqPFPFyLJal89ccNfBD/ctsO/c3X/EyFf2PGkRfSCDIiIOoNqil4YsSqn/Sml0BUh5eh4nqu2LUh1F6aAib545N/wDedihd3030EPj8gDj1krgvKmeWLJYpwdGnk7rB+8V/K+U8dn2mEUWrR3eOfcdOMsTQV0VDXbGx7kZTksj+UTgcgONtmNlCkfboLZmnCTC/7gTqMQb2A5yoERiFlQ8NYUb07GPHc20llRSXv0NfNUh7H2voD815EDH4q2ZZCxXJiN0r7QY86w==;+puWp9DyD9IPV3woQ/iw8Q=="

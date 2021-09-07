@@ -1,34 +1,26 @@
 ---
 category: news
 title: "Innowatts Uses AWS to Accelerate Utilities' Digital Transformation"
-excerpt: "Innowatts, an industry-leading artificial intelligence-enabled (AI) software-as-a-service (SaaS) platform for global energy providers,"
-publishedDateTime: 2021-09-01T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/innowatts-uses-aws-to-accelerate-utilities-digital-transformation-301367244.html"
-webUrl: "https://www.prnewswire.com/news-releases/innowatts-uses-aws-to-accelerate-utilities-digital-transformation-301367244.html"
+excerpt: "Innowatts, an industry-leading artificial intelligence-enabled (AI) software-as-a-service (SaaS) platform for global energy providers, today announced a solution to allow energy providers to fully lev"
+publishedDateTime: 2021-09-01T12:00:00Z
+originalUrl: "https://www.fbherald.com/news/state/innowatts-uses-aws-to-accelerate-utilities-digital-transformation/article_9d7e6ef4-c631-5f51-9116-0f57e889a96d.html"
+webUrl: "https://www.fbherald.com/news/state/innowatts-uses-aws-to-accelerate-utilities-digital-transformation/article_9d7e6ef4-c631-5f51-9116-0f57e889a96d.html"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Fort Bend Herald
+  domain: fbherald.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Innowatts Uses AWS to Accelerate Utilities' Digital Transformation"
-    excerpt: "Innowatts, an industry-leading artificial intelligence-enabled (AI) software-as-a-service (SaaS) platform for global energy providers, today (Sept 2) announced a solution to allow energy providers to ."
-    publishedDateTime: 2021-09-03T05:25:00Z
-    webUrl: "https://electricenergyonline.com/article/energy/category/ot-it/53/916450/innowatts-uses-aws-to-accelerate-utilities-digital-transformation.html"
-    type: article
-    provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 19
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/ce8ef3ce-c2e9-11eb-83f7-734cafba99e7.jpg"
+    width: 1228
+    height: 411
+    isCached: true
 
-secured: "wYyMyKos3ztwvxS9cuI8+XHyuLedu4QIpO1OB3xqMWrcXNAAHIo6XsZxIRm5MYdTYGwiBHcv2dWAU26MGB9dcAaly93LbDv7FBn6J6g1Br9YoqEhA5iCxsJe8sdMT8Iak0ukCFMtV/mEV/dhF3qmm9zKbJ6rID3ep4s4VctZyrb4TQjTrfKbRZVLQ0P2rUsRykZju2IWX0fIN2LFj0jpLd5S4bM+2lVDdbAlcJK0+Udb1Gf2LqY7bxkMvjSMA2JWLjXyT6BjpbURf/TieNvYLhNKyhJ2d/He/4UPZ7AArlco7JOi2hgdJ5J44PATYxx1OGefbCW6F1OqpJ9W7EUA1EUFcWvo2hCVhObpiutKmng=;k5mwNPsLNDUjgUSKD8S3fQ=="
+secured: "jgT0UyeRqfk9x31TGqM079TU0n0dU5Z0bPw3SYbsHx11p59vKDtDwCovwMi4c+Ak7OCBPP3uYPFZBOdqkJJV0R0BQkmekDZeC35vvk+yg3brFeVGxSgb4+OVP2+k9yJDknMw5NWVatcb5IhY3jxtPumsv3j92oUU/QN+/6ujxGromoJRmQ42nCsLOe4JSCg3WNWGRb7JPg2wpWmoJYr/YfUoPT+AK/UYTGYjuDUkyMXCTOQD3jXy83s32YSa9O0l9CfLj7nUvq/cNroTC+VUcDndPUaMSMt0vnTRX9Y/l2bQ+l4g3sZdDyumD2+VUPJi0M5Tzwb/QevPZ6DjdEbRjEMQaUOtRoLmhIMsLB2oK8k=;h0ko2m9gdQduKBaEPfCe8w=="
 ---
 

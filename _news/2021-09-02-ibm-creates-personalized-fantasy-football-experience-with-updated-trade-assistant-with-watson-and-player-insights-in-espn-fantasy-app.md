@@ -6,9 +6,6 @@ publishedDateTime: 2021-09-02T12:04:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2021/09/02/ibm-creates-personalized-fantasy-football-experience-with-updated-trade"
 webUrl: "https://stockhouse.com/news/press-releases/2021/09/02/ibm-creates-personalized-fantasy-football-experience-with-updated-trade"
 type: article
-quality: 8
-heat: -1
-published: false
 
 provider:
   name: Stockhouse
@@ -24,30 +21,6 @@ images:
     height: 209
     isCached: true
 
-related:
-  - title: "ESPN and IBM unveil new fantasy football trade features with help from Watson AI"
-    excerpt: "With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages. The Trade Assistant with ..."
-    publishedDateTime: 2021-09-05T13:05:00Z
-    webUrl: "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-  - title: "IBM creates personalized fantasy football experience"
-    excerpt: "IBM has announced an updated, customized experience powered by IBM Watson artificial intelligence (AI) technology in the ESPN Fantasy App designed to make"
-    publishedDateTime: 2021-09-02T13:30:00Z
-    webUrl: "https://www.euroweeklynews.com/2021/09/02/ibm-creates-personalized-fantasy-football-experience/"
-    ampWebUrl: "https://www.euroweeklynews.com/2021/09/02/ibm-creates-personalized-fantasy-football-experience/amp/"
-    cdnAmpWebUrl: "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/09/02/ibm-creates-personalized-fantasy-football-experience/amp/"
-    type: article
-    provider:
-      name: Euro Weekly News
-      domain: euroweeklynews.com
-    quality: 24
-
-secured: "TedhPviBciot0kk44MeFdoATp9AXBS4Aop90M0jXxH3wme+vCBHwhGVsm79hAau84IEHbJ/7M5ZLftRGwOGaYIKZ8WY5cpISmVbemT+TSKu2Hnh1YQh7o/Lry77LJVWO2YAkI/6sTgREpfAaU+bUJxtnazv3GSAgrLELFdy4ayZSRye+tGpaPL/cbURA6z2kTAvUNezgq9lSpUYK60PaRw/OVnFA5eLLLu+zuMgr3zaeitcZEjoZf+KHU4SJiGfpY0lLzLTHSIMhPQ2f8Chn7XohrM92G5PgH1KFr38Al/NiPcbjWHNJCHruN62zbS9vCY5f4UvbMjHkDGm23AUBscS8L2qKoSEcXJuVjytPYUQ=;vL+NJKBJBtYdL5gckLZDQQ=="
+secured: "oCL8fSdMQ3Q64axI5s3jS063XIBZ3iv704h894xisctgzy3EW1dqjTX3RuIWjXNe82nuK54ucIwurqWFaha38zg9kbabKih3xKFOLBFLVrjkf3Fokhm39HDIoHGnuciIvx/ZLqXm505pRqZZ9HTr4GLu8B0joMFv0uBzCS/E8RtufgbC+fTIsAx//dV44820w2EQAHh3xTH2hS4BOspDbsyfsOCVy7SFtaHdJ0k07PgupF8wPaFHAgcbLG3T6yg44VZERZZUbN02Gw+J18+unFPOiAAVvZGrniEIfQo+XQRpgIfmUgOAuX9vh3A7C2aI+x0pbMPCuwjXfvYo7aus7r/r1gDeUndJjCm/7FDE1oM=;vvr0bs676UU6cytCkb7mkg=="
 ---
 

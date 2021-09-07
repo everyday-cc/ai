@@ -84,20 +84,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "10 Indian AI Startups To Watch in 2021"
-    excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
-    publishedDateTime: 2021-09-02T13:00:00Z
-    webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
-    type: article
-    provider:
-      name: Open Data Science
-      domain: opendatascience.com
-    quality: 39
-    images:
-      - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
-        width: 640
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Technology Advances Heart Imaging"
     excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
     publishedDateTime: 2021-09-02T17:00:00Z
@@ -151,20 +137,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 22
-  - title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
-    excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
-    publishedDateTime: 2021-09-02T11:50:00Z
-    webUrl: "https://productcoalition.com/top-fintech-companies-startups-revolutionizing-financial-services-in-2021-and-beyond-3c004886018d"
-    type: article
-    provider:
-      name: productcoalition.com
-      domain: productcoalition.com
-    quality: 16
-    images:
-      - url: "https://miro.medium.com/max/1200/1*mTtOeZV1V7PWbkEqKwxKjQ.jpeg"
-        width: 1200
-        height: 798
-        isCached: true
 
 secured: "i1v7CpsrkHWipnDdPcZkB2dgUBt5fbQhtnFzaiIkLne5G24sTEM6goXd8M0x2ce5j90WGA9Xww7LSVwSDkaQo4XAAy89PvzKNVVfDNin0KP8sAg8JJ3qwAb2hBg04aYcfufM+OIjkW9utpOXTX20wFcguIjjjnSIxqdkCEoGmo1gwfdopiOHA+TLE5Dp1ZpN56TO2whdjqhpp4WNCcBKiQyMACsuF2qO+vfrGyetLQDtGYFSd+7lPa2Ypls1A5eFk25NHzzXOLgEBdzq36Dlf4tM0SKZok3FkFZijrp7aciDxH/j7Y8rSGJG7AXFLRBlvarviejvsWzsv/6p/wZjC0H3UQ66euLXZ8tiqH/7/AqjywyzFn9mu51k8hkGKi1ZNNom7L5a6PlFnnOx2QB5EGx0hZZrvFHT0otQY9NQ29m10s6c3fK9UncLyUkbp2NeKpTDhqfPzsFzCjgkN129hVVWs6odziPf6FxkNSAPPh/li5OdBPRdb1D6q2UUU7/1drY4TRiJFOEzi3Bk85r+yA==;J3HXA2Xq8yglfXWopqlSuQ=="
 ---

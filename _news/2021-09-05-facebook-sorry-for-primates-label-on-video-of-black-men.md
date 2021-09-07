@@ -119,6 +119,22 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "When Facebook’s AI Labeled ‘Primates’ in a Video of Black Men"
+    excerpt: "The recent incident involving Facebook’s AI putting the ‘primate’ label on a video featuring black men is objectionable and offensive. Afterward, Facebook apologized for the incident, calling it an “unacceptable error."
+    publishedDateTime: 2021-09-07T05:55:00Z
+    webUrl: "https://fossbytes.com/facebooks-ai-labelled-primates-on-video-of-black-men/"
+    ampWebUrl: "https://fossbytes.com/facebooks-ai-labelled-primates-on-video-of-black-men/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/facebooks-ai-labelled-primates-on-video-of-black-men/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 57
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2021/09/When-Facebooks-AI-Labelled-Primates-On-A-Video-Of-Black-Men.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
     excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
     publishedDateTime: 2021-09-06T03:49:00Z

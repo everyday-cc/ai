@@ -2,9 +2,9 @@
 category: news
 title: "BBB: Online learning emphasizes need to stay safe on internet"
 excerpt: "Better Business Bureau offers the following tips on how to stay safe on the internet this school year. Videoconferencing tools. Make sure the online software used to deliver lectures, classroom work and other online interactions is secure."
-publishedDateTime: 2021-09-06T21:24:00Z
-originalUrl: "https://www.chron.com/news/education/article/BBB-Online-learning-emphasizes-need-to-stay-16438527.php"
-webUrl: "https://www.chron.com/news/education/article/BBB-Online-learning-emphasizes-need-to-stay-16438527.php"
+publishedDateTime: 2021-09-07T01:24:00Z
+originalUrl: "https://www.chron.com/news/education/article/BBB-Online-learning-emphasizes-need-to-stay-16438527.php?bingParse"
+webUrl: "https://www.chron.com/news/education/article/BBB-Online-learning-emphasizes-need-to-stay-16438527.php?bingParse"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 731
     isCached: true
 
-secured: "9TJDU4eABx5AOd1mfTREb3+zHrhDVnbjkQUu0n30j6sS2WfdnOI6vaTLHVevbkqA9MTnROXyD/GcJBgupWA2NKMXEXTrdcYypg+ioC2lyN5zRIdlPcV1ORemSELClhfVaHRwG26ILWAqHAtQsSpz73oNwV79nZ4Kk3jKelnc1SGVOQKYcwqODMIDLjWvxXJCJrSfo0i6M6DwAz1UyyAfoaNtkiqYdZnBH0n5GgMs53f29gMxzV/3omj36Fj2EiBY63YUSvQ/XpXPcyhnBIEf6NudCoYiuPPtLFt4zH/PFN8nxcire5XOK7hUghdeuh7AussYrCqf7p3nKSrYpCDnSKZAVaTFaBZLB4l+RUIWHFWpbzlQ03E0aRXjZMe93XofoPWBna39fVTB0yOMMBhePmUQ6AAuu/XM8yjAvvdqtRGBrIvQnTgjLKB7PEVdozFGUdSSjS7It4bHk5W4g84PPiM6PkoRGaI5vyvNUdWjA1cm7oSP7ricCNo2mzivZfmWn1p/tlJGI3+U8E0zx0gq9g==;OAHq/TH2dj28SBQBaCex5A=="
+secured: "MGaqt6tdOVC159+DN5gj1IRqyDz+UQq/Nb5ieSDFq1DyI/raFvQyojdyQAvJXfTtJjQCk3g8Qkd1JQl/A2CdUCNMpsb3KbNu68B2XQisWViYiY0Kkvos0LJBHgYSU6V72DOM+F4XPatzJ8GAx+a3w4T8ygy7QkMEMkVGw7UNfKsjnckcwZu+T8MnKj67pCyfDUnIJ1evCZ/ou2EyNHM3WqvlKR7oHXM03ttUy31YpfcOEswlR9MoQOyDPZugS02rtEmVF5KJj96Qpnn6ERA5XlzcZ9a3oBmcIkHpZgsenBeBmolp7fRM4iaYh68/RoJfkYNZzs8F61PgETCckxa107op1+jWMA9yjNMnM+CfrpA=;rLG4bv29BQWVV2PYAcewPg=="
 ---
 

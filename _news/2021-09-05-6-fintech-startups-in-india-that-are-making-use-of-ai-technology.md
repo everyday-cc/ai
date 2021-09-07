@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2015/11/partnership.jpg"
         width: 880
         height: 400
-        isCached: true
-  - title: "10 Indian AI Startups To Watch in 2021"
-    excerpt: "Thanks to government initiatives and Silicon Valley moving offices to the area, India is a hotbed for artificial intelligence development, including healthcare startups. It’s an area to watch because the next most exciting artificial intelligence startup will come from here."
-    publishedDateTime: 2021-09-02T13:00:00Z
-    webUrl: "https://opendatascience.com/10-indian-ai-startups-to-watch-in-2021/"
-    type: article
-    provider:
-      name: Open Data Science
-      domain: opendatascience.com
-    quality: 39
-    images:
-      - url: "https://opendatascience.com/wp-content/uploads/2021/08/artificial-intelligence-machine-learning-and-robot-4VNP9AC-640x300.jpg"
-        width: 640
-        height: 300
         isCached: true
   - title: "Artificial Intelligence Technology Advances Heart Imaging"
     excerpt: "New artificial intelligence technology improves heart imaging to detect scar tissue without contrast injections."
@@ -150,20 +136,6 @@ related:
       - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Top Fintech Companies & Startups Revolutionizing Financial Services in 2021 and Beyond"
-    excerpt: "We are witnessing the dawn of next-gen finance. These fintech companies and startups are among the most impactful digital"
-    publishedDateTime: 2021-09-02T11:50:00Z
-    webUrl: "https://productcoalition.com/top-fintech-companies-startups-revolutionizing-financial-services-in-2021-and-beyond-3c004886018d"
-    type: article
-    provider:
-      name: productcoalition.com
-      domain: productcoalition.com
-    quality: 16
-    images:
-      - url: "https://miro.medium.com/max/1200/1*mTtOeZV1V7PWbkEqKwxKjQ.jpeg"
-        width: 1200
-        height: 798
         isCached: true
 
 secured: "B34RPM1No9IixYmvPnigSQ7MYXpMLNDGXUT1qhqhENLDA/OwETRh0m6+4Wji57bO02ST85Mc4n6tjpwJMd8LGmYbqE0vJbjf4b1dc2IMVfUyCqK6fXwBBJx6WVmLkUHWhONS40wwpFGN2LiXxOAR04Ahm4/yJt9adOCV82NqoYFTz3694SHRiydWnh4nTPJr1gG/ZDbp6nc4FtIYiKeltyYiKvu39Juiz0/muHRifI9mEThP+uA31HwygzIwg5MUkYWs0W7SDHvFaVxs6bTrxIRy0WUoayA1lgtC8jmvxKstjFogxY9XTBrpx5SmG4fn5w9EDp38o0z7YSQ+TQp1LtxYtaccuB5CzBmAt1gaSEPLTLpRbg3Z1vikU0GCJWGipij+dLzGMB59zOHKNtQobo8aHNZ9kjmUkV3JNJk4cbFR5Buurf1/msH9p98M0DvHqFTdCCo9ZJQoQ7Ef00n/i+P8sse6f7eWqeoPiLlMWJWYGH4wjjvjCn7ksGrTJUfjSUfLpC9TjXW78+MzBpLlAg==;d8LpNLdvSl96fZsdWBBnIg=="
