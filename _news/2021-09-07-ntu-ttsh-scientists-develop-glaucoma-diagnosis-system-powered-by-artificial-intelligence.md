@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered system to diagnose glaucoma using eye images"
+    excerpt: "Scientists from Nanyang Technological University, Singapore (NTU Singapore), in collaboration with clinicians at Tan Tock Seng Hospital (TTSH) in Singapore have developed a novel method that uses artificial intelligence (AI) to screen for glaucoma,"
+    publishedDateTime: 2021-09-07T12:04:00Z
+    webUrl: "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-develop-ai.jpg"
+        width: 2880
+        height: 2304
+        isCached: true
   - title: "Novel method uses AI to screen for glaucoma"
     excerpt: "Scientists from Nanyang Technological University, Singapore (NTU Singapore), in collaboration with clinicians at Tan Tock Seng Hospital (TTSH) in Singapore have developed a novel method that uses artificial intelligence (AI) to screen for glaucoma,"
     publishedDateTime: 2021-09-07T04:36:00Z

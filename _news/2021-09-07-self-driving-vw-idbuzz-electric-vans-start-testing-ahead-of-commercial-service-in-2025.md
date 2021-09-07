@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buz
 webUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buzz-electric-vans-start-testing-ahead-of-commercial-service-in-2025"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 1280
     isCached: true
 
-secured: "yZsjDswuOqv1sFwz36KBxqCKTiBlEdqsdG/d5+yHe/C07f0amhqCT23g0j2vJq+WcKqmlLOe3AMwDx0d2tbyT+SBq5uB8j+YakN3i/CzNQjpWzeEPUwrVc4FTSJLhuCUScBjbFtSfhLci5wApdrrY1Uy7DrPttz2rOKsGXJZTaFiuwdxT55XE372km+fbs1Uen+kncscuFmiY2o9KO6SaEv+kDQrGCFV2NYqSbIw/Mbq0Ws2dDxsez8idmY5iOEaBOpY4bX4ixKdTf0iIJwf0Om2PV83q8DIQ14EWn9GHo1/Knmr6gtOK0n/KFzqHfYlzyIGDihUDuk1ml3ybmR36KRwOT4vo8Kc44CQ8wgDEO0=;pEf+uXSyEw61hN6ugXFHzA=="
+related:
+  - title: "VW’s Self-Driving Partner Closing In on German Public Road Tests"
+    excerpt: "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany."
+    publishedDateTime: 2021-09-05T20:10:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixMLqLHvG858/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "kxPx8+rVoUD3RvGM0rBNbAVTyYVtHVRoq6tX/Po/nHiiTjOs7uUThpyNswb4io7T9rsLgy91erBx4VaNLeSbltwtfxDGg/APunymDrE14AYXbN1HLEOpjgSn1SCOW1CZU0v8RGIC+K8SYCF8pUrvAeXXtcDUeltdw18+XDSsVGTbb9eB4kuCTfdElyvdEot5BrAOxVSfNImkL0/Vvw8sowqD4R0E7isiNCCMMAMBFCGIkJALQqukjtrDX/gJWBWEXRsmq5tSe6WoiJoPRW/+l4gA1cuezQWCmlvWsVOFDisKV1qkTdQQUPta1zostKlvXOVdrgvJaQmMut1wfj/CbgVRzAFMo4YmSQa3ZetdcQ/9rAufXz+EX68SSDBfbIm9hbmCMeAlbCepUhdvW/hUazg9wzEFCmravZbvg8tNP2dW8eoSqXNEF4tLFuOi9H3kPipxmAg5EYPrJr5qdvgZZVqjGT+rrHJ+HJNgWbcygAZpLaeOLX8+gyuO2uIyRwrUHST5/NqRDg/VBFultRdZ/Q==;TAeFEtE2R1uQGYycrVJRIQ=="
 ---
 

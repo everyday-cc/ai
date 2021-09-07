@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-drivi
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "stow Group acquires German startup Raiser Robotics"
-    excerpt: "Group acquired a majority stake in Raiser Robotics, a German-startup that has developed and automated storage and retrieval system."
-    publishedDateTime: 2021-09-02T19:55:00Z
-    webUrl: "https://www.therobotreport.com/stow-grou-acquires-german-startup-raiser-robotics/"
+  - title: "Self-driving VW ID.Buzz electric vans start testing ahead of commercial service in 2025"
+    excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
+    publishedDateTime: 2021-09-07T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buzz-electric-vans-start-testing-ahead-of-commercial-service-in-2025"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 99
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 16
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/DSC_82303.jpg"
-        width: 720
-        height: 720
+      - url: "https://images.hgmsites.net/hug/volkswagen-id-buzz-ad-self-driving-car-prototype_100805632_h.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "hFwcu0GrJpwOq8TlcepA85ReifP/TZlogH0Jp21QWTSqbryHT0d0ZoyoY7Fs7rsTOVoOI7MvFxWuVvtlg7naPDuVecrtkzg/uzVC/OuAvdZWRtsIcj/SgMgnOvJuROVWYLgxp8Vix36+fVrlF3c917JRv7ZRUYO/XvaTgwwOmPfGdwMXj+0KAc9RPTCAt4VQNuUzLwGqMAQ4Hs9IALDWr27jvvxEOVjeEocRnwcRIvlaSlKvMecJTO+Bx9kc1JXFrIwjebEAvh3B3psUPyK+1akbshMJM+9HXiRijVmVm9yrNelyG2h/QuUS5LhMmwFaIBgZYuZa2q82XQ5rvl8PyGddXoLP5vV5KpWTLmM1kiWs1iUpAkvthXapO0JXYyDdn2/nHwwtGStOsIJhf+8+8UEe7zGTN9u7j1Q2UW91CnSVwxXc10ZFuuezfHv9QsGYjUWH1PU+zoWhx9+pz/6eojifvY3AYakqr11Maj8y4aU/j07rZBQWQwrsHfT2sOus9zGDgHJKYf7IK+Pmyzblfw==;9VrOwEhtcuY1zpBo7zYkDA=="

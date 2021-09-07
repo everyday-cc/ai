@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Researchers use artificial intelligence to predict which COVID-19 patients will need a ventilator to breathe"
-    excerpt: "Researchers at Case Western Reserve University have developed an online tool to help medical staff quickly determine which COVID-19 patients will need help breathing with a ventilator."
-    publishedDateTime: 2021-09-02T19:55:00Z
-    webUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-covid-patients-ventilator.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 18
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ventilator.jpg"
-        width: 1920
-        height: 1405
-        isCached: true
 
 secured: "YrnqK3qwrykwa+dsMf1ya0UQgaZANYQbMEBNRCLDEcZGqrVf5s9qQEuBJkHoV1qfbKSit0mY7Sd1+y3xmJ4pNFkTPI41akgEsJeX+UOUeEgZ9WQrBulbeCjyzd+ehMKyxGjTcBD7T9znG+ZwtqoH2b7lIZqZd/CCbtriIMeyWSnqCxQ3k3B0ytGe07YqC11lT1dtAMV4WoiDtJBXwna7ltwiBJ0lGetgwO0Wf2J6KRH75ai+E4OOfa7wl17P7ZZ3lBata2gUVasyORcbYYbCHMAyWcQxgoTiVhG8cbZGMh8eDi/FbTF7j3+AKk1VAoxVlQE/wtPGtg5OEj5EY5pr4xOdaYd3xNlWHmqwj7dSXo8=;rETH5XTUY3a73ibYdrCoeA=="
 ---

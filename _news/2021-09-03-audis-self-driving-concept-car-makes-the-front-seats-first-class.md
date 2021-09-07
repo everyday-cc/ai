@@ -71,20 +71,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "Audi grandsphere Concept Is a Self-Driving Luxury Sedan With 466 Miles of Electric Range"
-    excerpt: "Only a few days away from its debut at the bi-annual 2021 Munich Auto Show (IAA Munich), Audi has revealed its second of three \"sphere\" concept cars: the grandsphere. Described as a \"private jet for the road,"
-    publishedDateTime: 2021-09-02T20:01:00Z
-    webUrl: "https://www.autoevolution.com/news/audi-grandsphere-concept-is-a-self-driving-luxury-sedan-with-466-miles-of-electric-range-168578.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 15
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/audi-grandsphere-concept-is-a-self-driving-luxury-sedan-with-466-miles-of-electric-range-168578-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "UJ2rAnnorcaYI1b5Kitam/oUz1WhxsIjeEYohdujgcWIu67o2lHzVrrhD49/QIggzJv3ikyEJ731MPGw3uhE72TVpQx11afvbkGf5T9DgMiqurIAXKRMMod/RVp1QZQo+7d8b4AQAmy0XSbenhSdauGqpXJhnfaZY2IPWoUKTwinsX4x429WXDm6JG1wRjaHI9eulseO2D1wWerH13ab5xRpKJ98kIzIj78KY+tfMjTiXvS6kCTXcavOlJvmcKFxZORyH4E1dXOa5jae0DPt7wdigNWfZ2NamtMYSb6ZHPfWP5LI14xTupl3nd1kISQwWuXqhrGjdtNsPKHaxO4nIOeokwcnEnp+IYM6nTXL8wvrbxnkxYEbgCvJLvMDk7Yden5hA5Gp9jRIHPUYW599l7CkBRK79cM8GQqh/+SknSI9WFZMAnv1f0EVWvWVo+nYyfBGnUnQ4w6LuRBq6Oj71zcCek+LKgm7iknborU2tntg+i9YHMszQ+a7LMpZA/6wGUiiGDP4FKEzNeETWXtMOA==;YC3ZnvNhuUuaIcixKsLKCA=="
 ---

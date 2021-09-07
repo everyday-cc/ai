@@ -41,6 +41,15 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
+    excerpt: "\"The AIFinTech100 is an essential source of information for senior management enabling them to identify the most innovative Artificial Intelligence companies in areas such as Insurance, Banking, Investment & Trading, Lending, Customer Experience ..."
+    publishedDateTime: 2021-09-07T13:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-global-aifintech100-recognises-tech-companies-using-artificial-/2021/09/07/9443889.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "yZC4fnS9FFFp0rDuGXM21ZVi+pQSMQ+FLCRlnabmOreRT4jTr/CleaRs65KZAlcaniQu/1gzarItGuAlyveVpoRL9JLDBTivH0n5T2yHfQV+kvNEE+o59V5Ik6evzrcRgJ8cT52HGMxpKeHNMysv7+Vk0OFLZyFLreB5w2ZKzZqUa+0PjRjLfKwdMytm0pWtHCMkA5ICp4LaEHmKE8TnQK61++5C5voBbWZFzalK0oppxBoAHqJj1I7KrMo7NU7pQkiOYT3TbUEN35TtlkCq1oKWzB2WJa8hDXdS4F2t4GumzJpCvgm6rmIEDvTrsbuscgaxfQqtHFTe+M9i/ILWpGENZ50+LiOzrlsty9R+CW+IRtVa0BKuNhFa7ejfCvUzd4AE2+u6fpZ9Nox7KOxQrQ6PtSr/ZhCmYQn8BgreApBcJtpK+/dWwWGmb/oQsKnxhmI3gnOk/6O+TJH1YiLGiwdfdqQvvc3d+vJ/+6XG/ig/PJ9gwlROjhvvTT0nXVNv5m511vKevGS6DX59SN4Arw==;VRCk1oleKIz9+NHnVXf8sA=="
 ---

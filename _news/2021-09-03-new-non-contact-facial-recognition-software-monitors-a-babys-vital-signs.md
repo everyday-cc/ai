@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Using facial recognition on grizzlies, and more advances"
+    excerpt: "A new tool helps identify individual bears, machines turn glass bottles into grains of ‘sand,’ and scientists discover a gene transfer from plant to animal."
+    publishedDateTime: 2021-09-07T13:04:00Z
+    webUrl: "https://www.nationalgeographic.com/magazine/article/using-facial-recognition-on-grizzlies-and-more-advances"
+    type: article
+    provider:
+      name: National Geographic news
+      domain: nationalgeographic.com
+    quality: 39
+    images:
+      - url: "https://i.natgeofe.com/n/5a7b78dd-c3a5-4130-a2fd-6a887253f983/STOCK_MZ3820_IMG_9442_Melanie%20Clapham_16x9.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "IveBc09qFlMcH/ZOuPBBEG0gVziaFeWa6N2Y2TObWAw7gzwL0DgWEfI7UWHgFHeMJCtoY79e1FKoowZo7xNZmajCqgbZdMrkl51AopbkzGsE7hHzM3AhthXqeTxVQno+jezaxkLgocKdPZ3z9vCpzMqR5lHtcA9RCG2LYznYbYwNWkfeMUEooD4dI0cgldGX0KPL5C/g6o0o3QVK3SLvcqW5Kjz6xFFxdsrp2BIYEfcoYQmhFk78WAIXd93Kty1LRyS8oRck4Fqplp09y2rdgxWaZiltCtGOQqGRbd8e3fEzJald+w/Dz2xdLZkUq0v0AR1inWMD51OLF/7ivP0iyVly1M8zQ+mmhBrnGJR31h8=;Uc9847i2Y0Lf5xJ11N4KLg=="
 ---

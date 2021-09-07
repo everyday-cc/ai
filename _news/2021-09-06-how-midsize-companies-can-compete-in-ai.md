@@ -3,8 +3,8 @@ category: news
 title: "How Midsize Companies Can Compete in AI"
 excerpt: "Startups and large corporations are seizing AI opportunities and strengthening their position. But what about midsize companies that often lack access to big data and AI talent? These midsize firms risk being left behind in the age of AI."
 publishedDateTime: 2021-09-06T12:20:00Z
-originalUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai?ab=hero-main-text"
-webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai?ab=hero-main-text"
+originalUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai"
+webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai"
 ampWebUrl: "https://hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
 type: article
@@ -57,6 +57,6 @@ related:
         height: 466
         isCached: true
 
-secured: "5+a8N8GNNCFJLIPEKKaT3tvINqOitLjJx7mSmI8ZF6ew3LUrrMKRCGa0xKQaiqnj2rlIhzFLHvrFGv3zbcfsPoWK40zPDoHFQsR0aUa39jUDDVnkUUB0bFnm2DP5UFn/NTKIn/wo6i286Y4y4bJc1X3MM/vvAL6Kkj09uY+qqsvtVlJz6oIjUFvIPkse1MOPVUk6u2eNWUWy/4/Waxl3Vtq1sWGL4XqjhIDQfXTn9WItr4lsUebVfM2mXVmn3wLUf1RKTnlqTaylvSnBE1nR/6K22Kq2+zla35KDV02mlrDpLCpBCi8FuzQuWFNAUKwfY/52SKR5JKXQw8xsAKueol14Ppy6AHYOrWy/DsN/hXY=;8eM8g0/OsK6x50tiBmnovg=="
+secured: "y49SFAKU47/l0J3OhJSb5qH9h25VAL8E8lqjvU4x4MEiR7WdmYuXxTnD/k9AH3s4S4/s3dmj3ATyU6fo0vuhpQ4VBFnYs4Ak9fYt9bD36qSoyigA1sQ4pe2vnDzW8N4RveuY223VFRh20dnzkwyCNYqQKabQgOcYAapRMRUBCDb/nUdGgOAl3KTZRysUh8OPGiTv/98RXpouXKhHxf5i4i4UDpBV2dCaWHCnt8LBRVmzKEtapGZuAshtAcXEknfYbdg2lBGntlmWqDb109d+BlCNo5xMN2rIA32rIEzghGHG72K+Ovkr9m5p3z6T8FC6nuzeh3+SCP2H0LDC9PzZjb1lClzkI7DFDP9HB81bjbc=;RrG+Wy6GKhU0UfUYJX1Z4A=="
 ---
 

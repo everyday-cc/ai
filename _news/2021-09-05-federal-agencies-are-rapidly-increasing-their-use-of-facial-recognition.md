@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognitio
 webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Using facial recognition on grizzlies, and more advances"
+    excerpt: "A new tool helps identify individual bears, machines turn glass bottles into grains of ‘sand,’ and scientists discover a gene transfer from plant to animal."
+    publishedDateTime: 2021-09-07T13:04:00Z
+    webUrl: "https://www.nationalgeographic.com/magazine/article/using-facial-recognition-on-grizzlies-and-more-advances"
+    type: article
+    provider:
+      name: National Geographic news
+      domain: nationalgeographic.com
+    quality: 39
+    images:
+      - url: "https://i.natgeofe.com/n/5a7b78dd-c3a5-4130-a2fd-6a887253f983/STOCK_MZ3820_IMG_9442_Melanie%20Clapham_16x9.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New non-contact facial recognition software monitors a baby’s vital signs"
     excerpt: "Researchers have designed a computer vision system that can automatically detect a tiny baby's face in a hospital bed and remotely monitor its vital signs from a digital camera with the same accuracy as an electrocardiogram machine."
     publishedDateTime: 2021-09-03T11:42:00Z

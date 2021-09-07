@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreade
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://lh3.googleusercontent.com/NdKtAOZuz1MhJdP2-QURVWOcdzXU-WM5QvsqGy6ms8NvgD_piFTPgv3vlFrOs8vwo5s4nizhCJcML6IcFZONRYLLLp4dtqk3VA=s1000"
         width: 1000
         height: 666
-        isCached: true
-  - title: "Audi self-driving concept car: lounge seats, drinks cooler, more"
-    excerpt: "The Audi Grandsphere is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
-    publishedDateTime: 2021-09-02T20:17:00Z
-    webUrl: "https://www.wishtv.com/news/business/audi-self-driving-concept-car-lounge-seats-drinks-cooler-more/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 24
-    images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2021/09/BACKGROUND-audi-concept-self-driving-car.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "85kUbGWMBOHI2NkzIFIH74fqwzbixDCDCqGwsmmrllGuZt+1QtLAmcbeNg/vzfKOTVZKGTdlqXpHlXl5Y5FRUgZIsRFCM9t2ns6uV40Wa71b7Wva20bek+UEJxO4MDQss9XBvxHbF/Auo/tvi2diP7XaCnr6YUxd6G2n5Swk5UKOT8lpbd1gCX8k+S5XLHjLjK0B16xZaT5WDPmu0fFfVo3K11j5EnU4joEFYwPSwOGL5ciEvPKlQyVSkgZmfzwiP/4JCxdmkCwZdMtiMi2n1VJ7SYpVUYtbCaMQ/B+45VStQgHzQwK7xGJ/+HDq09U8prIh2Acblu030QHmgtrQ+75wJpWaJit+BHtmtcPoP+0MWkKlCltAunSmRzPtOgWhf4VGg3X9tEMo1/nlaRU6L4C19VD6R4GO9BWkBLjbUH+AdMYofJqQzuFSE69ZneP78SbrBrYTkdphJrUZ0nt4xbexAmPaetTSIk2YYycC/QAMjiLg2QGYhxc+Xhqf/aZB/awzIj8/MpRuJ56mI9fBAQ==;FLpLGnZkMNz3767G5Nf4Pg=="

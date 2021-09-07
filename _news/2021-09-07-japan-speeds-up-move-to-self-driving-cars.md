@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Audi self-driving concept car: lounge seats, drinks cooler, more"
-    excerpt: "The Audi Grandsphere is the German automaker’s idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
-    publishedDateTime: 2021-09-02T20:17:00Z
-    webUrl: "https://www.wishtv.com/news/business/audi-self-driving-concept-car-lounge-seats-drinks-cooler-more/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 24
-    images:
-      - url: "https://www.wishtv.com/wp-content/uploads/2021/09/BACKGROUND-audi-concept-self-driving-car.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "zGSQfPkF/BvoNlBS5+bXBopadTlU3JcV73u+WQ+L0UVR7X4eO5GZvrJTBETft4Vl42ZH49p/MQhxsxwiTajxD2YfPuuSwtZ1O0X1X7tcQJHM3scFawH6NLeIMEOP5vxD/tGP8tJOia6XeH1lfk7Y2UZBCKuTAODzNGmQkjF5q/bEKsoUZA07NgSwAzmb3bJ3EyiW5jeBJBQfiOWDE8igOc+BvNGQFp85yEKVcY9wljwlyzbVPbUtwpITc/8W91gb1J93cYQYM5ScNubNbcBFZG42rGlS7/hRsIiy+UWTM7mlNQ3Zaf2fW/bWVYYMxz8LnxnYswhB4hxEfPmIQsghJcUaTH/rRX9MO6qQ6XnaDvk=;CioW8sB/kJ4yk5OhAcutXg=="
 ---
