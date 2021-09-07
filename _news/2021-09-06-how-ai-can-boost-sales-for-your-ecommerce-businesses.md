@@ -9,7 +9,7 @@ ampWebUrl: "https://www.blackenterprise.com/how-ai-can-boost-sales-for-your-ecom
 cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/how-ai-can-boost-sales-for-your-ecommerce-businesses/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1024
     height: 557
     isCached: true
+
+related:
+  - title: "How eCommerce Shops are Leveraging Machine Learning to Resolve Sizing Issues"
+    excerpt: "Commerce shops are leveraging this shift in buyers’ attitudes to make big gains and relegate brick and mortar to the background. What the marketing world witnessed in April 2020, was an unprecedented rise of eCommerce retail sales in North America by triple digits."
+    publishedDateTime: 2021-09-07T21:00:00Z
+    webUrl: "https://www.business2community.com/ecommerce/how-ecommerce-shops-are-leveraging-machine-learning-to-resolve-sizing-issues-02429366"
+    ampWebUrl: "https://www.business2community.com/ecommerce/how-ecommerce-shops-are-leveraging-machine-learning-to-resolve-sizing-issues-02429366/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/ecommerce/how-ecommerce-shops-are-leveraging-machine-learning-to-resolve-sizing-issues-02429366/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 56
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/09/shutterstock_1762185533-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "wjpLdMMKHPGFoQNejjU5LCgqTVLvXCyKJ5slrnhoNRVjr2AEj3P0vyIaEiyAmfEsH+j19RTMqGch1vAp5VVMeKoDjuN9wMs0oAUDoiKhVqIEVPDx/uQ2RXN7dYFwsh481viRZtDZ1yZXxCenmx8+syYoHT4FbSuw76I1uYJfDC5slchOnHyQhPI4FhikEsPVCejCHFbTWCFcGha/vhCVWq+P+6DGpfv51ZnFmxH/H52pUG0yAoX7bA5m9A6xd4cJxuTQ9bK299DudOZyOQUJnSksXT3xPGce/r/SDfNCrQsQpv3F+IzEeK6zzHTwpo7SIvXWD3W1LqxHdPqQD36SQGlvSTtM2sydZQuT1wxsf6xDOikFp0zBg41xin0VSZsTC1wUoUa0wK4vpPuB5u3HdFuzxH9OioAnafck2Zi9u82+VJVeIA9UNfUcvE8oxpomzTGL9GdRTzBIV79zlNktdAGWlZM3lt5yJV0IjQivCy7k9L6oIz0vtBvyNDq24Y6hCuqou2lsB835UoGgA7Zrzg==;7LG9Z2txdCWpQlRCM/JBdA=="
 ---

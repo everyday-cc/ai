@@ -10,7 +10,7 @@
       "originalUrl": "https://diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -565,22 +565,31 @@
       "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
       "excerpt": "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was led by Octopus Ventures and comes less than a year after its $3 million seed round.",
       "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436286.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436286.htm",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-financial-services-2a0bc10896feb1b6d9e0741acbf22110",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-financial-services-2a0bc10896feb1b6d9e0741acbf22110",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T08:17:00-07:00",
+      "publishedDateTime": "2021-08-24T06:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-sof
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/supercharger_16_0.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Tesla's 'Full Self-Driving' Software May Open to More Drivers. Should We Worry?"
+    excerpt: "Driving\" (FSD) beta software to a limited group of customers to mixed public reception nearly a year ago, but now CEO Elon Musk wants to introduce a wider release before the month is out, according to a recent tweet from the billionaire."
+    publishedDateTime: 2021-09-07T20:05:00Z
+    webUrl: "https://interestingengineering.com/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry"
+    ampWebUrl: "https://amp.interestingengineering.com/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 55
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/1L6o4ALqwP/sizes/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "If you thought a self-driving Tesla was cool, here is a kit to build and program your own self-driving car"
     excerpt: "This build & code your own AI self-driving car comes with complete components. Learn about microcomputers, electromotors, camera calibration & more!"

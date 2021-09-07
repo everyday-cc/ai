@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-22-artificial-intelligence-as-a-service-aiaas-market.md",
+      "title": "Artificial Intelligence as a Service (AIaaS) Market",
+      "excerpt": "The Artificial Intelligence as a Service AIaaS Market size is estimated to grow from USD XX Billion in 2020 to USD 59 6 Billion by 2027 growing at a CAGR of 51 2 during the forecast year from 2021 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
+      "originalUrl": "https://www.openpr.com/news/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U721205866_g.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
+      "publishedDateTime": "2021-07-21T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-what-machine-learning-can-offer-nigerias-healthcare-system.md",
       "title": "What machine learning can offer Nigeria's healthcare system",
       "excerpt": "Imagine it's 2030—and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office.",
@@ -1299,49 +1342,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-australian-shares-rise-on-healthcare-tech-boost-challenger-shines.md",
-      "title": "Australian shares rise on healthcare, tech boost; Challenger shines",
-      "excerpt": "Australian shares rose on Wednesday, lifted by the healthcare and technology sectors, while Challenger Ltd jumped after two U.S. companies bought a stake in the investment manager.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L",
-      "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idUSL3N2OJ04L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL3N2OJ04L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2OJ04L",
-      "publishedDateTime": "2021-07-06T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -75,6 +75,17 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Study: Deep learning artificial intelligence predicts breast cancer risk better"
+    excerpt: "According to a new study in the journal Radiology, AI-driven deep learning may be better at distinguishing between the mammograms of women who will later develop breast cancer and those"
+    publishedDateTime: 2021-09-07T20:00:00Z
+    webUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.html"
+    ampWebUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 50
   - title: "Deep Reinforcement Learning Is the Key To Making AI Physical"
     excerpt: "Deep RL is a kind of AI that can learn how to reach a goal over many steps, often by inventing surprising moves to navigate complex environments. Know and explore more about RL in this article."
     publishedDateTime: 2021-09-05T05:40:00Z
@@ -90,6 +101,6 @@ related:
         height: 500
         isCached: true
 
-secured: "UTy7F1GI71fAzquK6bVcS0AIvbuRqMnXijSpwFeN7Xe8bxYJxpNcVeBqhjgpRT/13UH2faebOSIAyZru4fIAz4FZDvBYPWUVyCMlKeGkjCiikGsUxwlayY2qOMcHQymqaPm6YWt418FS13qOw84PYS0xq9sJ9etvzNXB1Ci1GrkYtBIkHbOL3uopbxue7xILml6V/rlYoyo3dDnGBXfq6jg4OU7vR9qZdbLwoEEeAK3SlJ6jahVHZqprfu5KIQI1BpObZQX1KXaC2FTc5ukxosIW16l6DofmKMTswLIqdxN0R4yC4tanzX6yO8Gsuf+uFO6/a4usvPGTNrScRewjCiKToa6X34fz+OHPGt+oS/k=;m/KtVF8j8Qo0IAQQBhyMDQ=="
+secured: "hqA+HQ6G2W0z7VZVEXOr9yEqPhZPubrs42RgMw+XDEkuOvY6ezPiK4ccmZgiM8UIcLcSNiP72+hdN0kgXocAgOlpddNmp6qlYPogz7fzarmBV+KMrmyZ5+xx8XPS0KgrJqWwfeQYPnqMol/z9FX4neGIpf93UWTyn3rqRhs1BgEHtjcR1i7MWfOI4ipIKmT5DvbNKPRjfx4bQbAicFXFiF+rgtCMtXx8mWsSDJ9gkYEMBM0AvCfaBpH9i9ssFU1kX1u4QinItOqsJhOoUlerEjJhLTbGXJjD077P9r+QFtJXi5pSnEb9Uff81cb231wNONsYgu10f+aP7zGXx7taVwQHmcZg0Udmnk2QZMf1E5FCtHfYgAdC7kVRQeh9Hp+rm97Puv6gr4upmviqg4xuj57GpGIbHGdvcErHAwPjRMQOXq+R2ZfO7kR1BFaUjJDqFZOTs3VT2UHilE5Wgv68U4eGUsjQp03+sZGrdpJfAY9w97RLVtRql3sNOjuUJA9fBE9za0bRPfCF4iowkcSucw==;ZgfB3lNOqkxPujRAiXw7Rw=="
 ---
 

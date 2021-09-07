@@ -93,6 +93,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Tesla's 'Full Self-Driving' Software May Open to More Drivers. Should We Worry?"
+    excerpt: "Driving\" (FSD) beta software to a limited group of customers to mixed public reception nearly a year ago, but now CEO Elon Musk wants to introduce a wider release before the month is out, according to a recent tweet from the billionaire."
+    publishedDateTime: 2021-09-07T20:05:00Z
+    webUrl: "https://interestingengineering.com/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry"
+    ampWebUrl: "https://amp.interestingengineering.com/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 55
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/1L6o4ALqwP/sizes/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "So2xAyNMaGlkJclDW18trmUB1O8BO3v3Tgh3UnsfEEL+dUyXJ9bbTmuxOTPgNIqEA8nwi6Ck2RaNKxFD0qoH310xqKC+UFeVjjlZcmPFQNEM/cAvM5JosURy0/OmgoYiFdbS4wiiSAtqB8HMsI3WA2zdwd3uuTKCn5lSU5In83mCmkFHQQw+HPjq47cmqWV6aMFRq2ZMChI7thFkbLFYfyVwfnSPRQY0d5aMW11iwinXwwpcC2EjvgdjbIBKUmX5Jeefl4jM/tlP0t2q2soOZ6V9pqqKMdCfh0UuhKbEvQ5AW09ml8537z8vskIlnmgUygH0qNy/fEuc8kIFbBnxpVrd5U/6j29iaALMezboZM8/2tMK43yJ9+zlSnLvGHiDu9FL200p8vKVWhQrKpGE1klq/LnHu38AU2g88wa1Gf6G4tcax2ccz+8J88o4dstCbhEFyPck08KgSGSjUWjkWD2Gzy4nQvETQggkWI6XZYHuNIGp9kJHhnwfpi8RB0U1mWVL1Fl46VZQZw9N4NtVgQ==;vTA2u4SrJ7glk40KZgwBdQ=="
 ---

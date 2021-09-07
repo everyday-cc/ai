@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook – Facebook is very sorry that we keep noticing its racist AI"
+    excerpt: "Together with an amazing line-up of experts, we will explore the future of AI during TNW Conference 2021. Secure your ticket now! Facebook’s issuing apologies for its AI‘s bigotry again. This time, users watching a video of a Black man were asked it they were interested in more content on “primates."
+    publishedDateTime: 2021-09-07T21:28:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-very-sorry-that-we-keep-noticing-its-racist-ai/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 19
 
 secured: "j4LdNMrWMRq47A+uTqmO5NsQQt27t+qDq4/RWRHPG/s1icU01kSlxePf0ocmz2kMeIeMDLOHQ4yeP5IMCCduJfb6B+XRbZdjT/LM+UhFZ4RjTFh5aIPllhcJLqDpBeK8Gw7u528c+xt9laWYxyqSnotgWDWijH4XWubpSOqtBtPbUjij9AU0ym+INBmDDBNyHqYjCDspUjfSxQpJO4E3mI9+1psu6LYB9/D+WcCcSx5upUdvYEXVXp0G73ZQIz+OqW/qBe+6Zvibq8+2X1nGK9OSF9yvDZAlvFiHV11qm8sARfVGnL6w1IcfJTSPyooHGYcho4LQBIDzegeRoLHi9YQo3IwdsCtXYBApSZiZsY9PqeHcmUoXfqsZ8nOHbgWVk+qivhpx7wupiyKqsno14CDimsZnbAJ8FLxaMRLBulQnCPQoeewMKWlvL0mPJamcpc57KcSWYDNI7ndibdOl8V2cLeEANNRy9B9CVYbrtQ/DKjgDavcBX6LJm6AKhgsJ0Yr+fLZQP2N5N3kFqDHuJQ==;qrW/km6A0JSvnpEUiwxBHg=="
 ---

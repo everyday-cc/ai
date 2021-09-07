@@ -2,6 +2,211 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-04-facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform.md",
+      "title": "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform",
+      "excerpt": "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9",
+      "originalUrl": "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60187bf96dfbe10018e012e0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp",
+      "publishedDateTime": "2021-09-04T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-ai-weekly-an-outline-for-government-regulation-of-ai.md",
+      "title": "AI Weekly: An outline for government regulation of AI",
+      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Governments face a range of policy challenges around AI technologies, many of which are exacerbated by the fact that they lack sufficiently detailed information.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/government_meeting.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
+      "publishedDateTime": "2021-09-04T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-court-ruling-uspto-cannot-issue-patents-to-an-artificial-intelligence.md",
+      "title": "Court ruling: USPTO cannot issue patents to an artificial intelligence",
+      "excerpt": "A court in Alexandria, Virginia, ruled that inventions can only be patented under the name of a \"natural person.\" The decision was made against someone who",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "originalUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-03-image-42.jpg",
+          "width": 2560,
+          "height": 1696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "publishedDateTime": "2021-09-03T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-australia-debuts-orwellian-new-app-using-facial-recognition-geolocation-to-enforce-quarantine.md",
+      "title": "Australia debuts 'Orwellian' new app using facial recognition, geolocation to enforce quarantine",
+      "excerpt": "The government of South Australia has launched an \"Orwellian\" new COVID-19 quarantine app, complete with facial recognition and geolocation, to enforce 14-day quarantines for travel. The policy actually represents an improvement over the current pandemic restrictions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
+      "originalUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02834334-5d94-481f-9107-cf7509528d96/aa6b228a-b84e-4c99-931b-60e018cf0274/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
+      "publishedDateTime": "2021-09-03T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-open-source-powers-ai-yet-policymakers-havent-seemed-to-notice.md",
       "title": "Open source powers AI, yet policymakers haven't seemed to notice",
       "excerpt": "Commentary: Open source is driving AI policy without policymakers getting involved, argues a Brookings Institution briefing.",
@@ -1009,213 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-xerox-backed-field-service-startup-carear-raises-10m.md",
-      "title": "Xerox-backed field service startup CareAR raises $10M",
-      "excerpt": "CareAR, an AI- and AR-powered field service platform, has raised $10 million from ServiceNow at a $700 million valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/02/xerox-backed-field-service-startup-carear-raises-10m/",
-      "originalUrl": "https://venturebeat.com/2021/09/02/xerox-backed-field-service-startup-carear-raises-10m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/india-call-center-masks.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/02/xerox-backed-field-service-startup-carear-raises-10m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/02/xerox-backed-field-service-startup-carear-raises-10m/amp/",
-      "publishedDateTime": "2021-09-02T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families.md",
-      "title": "iPad kids game Pok Pok Playroom is the perfect back to school app for families",
-      "excerpt": "Over the summer, Pok Pok, a company \"incubated\" in Snowman-- the studio behind Apple Arcade games Skate City and Where Cards Fall-- released a new way for kids to experience playtime. Pok Pok ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/DdwYnB6rXWieZaMiWROVleOmWdc=/2021/05/20/523c4c47-34c5-4426-87aa-32b34d0156fe/town.jpg",
-          "width": 2000,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
-      "publishedDateTime": "2021-09-02T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-deploying-impactful-ai-education-programs-in-rural-and-underserved-america.md",
-      "title": "Deploying Impactful AI Education Programs In Rural And Underserved America",
-      "excerpt": "What follows is a guide on offering various training programs for students, businesses and government officials with the goal of solving the AI talent and training dilemma that has long faced rural America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/02/deploying-impactful-ai-education-programs-in-rural-and-underserved-america/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/02/deploying-impactful-ai-education-programs-in-rural-and-underserved-america/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612f8ceca6203d1ddb15be55%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/02/deploying-impactful-ai-education-programs-in-rural-and-underserved-america/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/02/deploying-impactful-ai-education-programs-in-rural-and-underserved-america/amp/",
-      "publishedDateTime": "2021-09-02T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform.md",
-      "title": "Explosion snags $6M on $120M valuation to expand machine learning platform",
-      "excerpt": "Explosion, a company that has combined an open source machine learning library with a set of commercial developer tools, announced a $6 million Series A today on a $120 million valuation. The round was led by SignalFire,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/",
-      "originalUrl": "https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1136663830.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/amp/",
-      "publishedDateTime": "2021-09-02T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

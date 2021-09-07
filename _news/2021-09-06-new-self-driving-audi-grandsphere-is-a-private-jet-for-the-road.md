@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "The Audi Grandsphere self-driving limousine concept says goodbye to display screens"
-    excerpt: "After introducing the Audi skysphere convertible GT concept last month, Audi has continued the range of “sphere” concept cars with the Audi grandsphere"
-    publishedDateTime: 2021-09-03T03:54:00Z
-    webUrl: "https://autobuzz.my/2021/09/03/the-audi-grandsphere-self-driving-limousine-concept-says-goodbye-to-rigid-2d-display-screens/"
-    type: article
-    provider:
-      name: autobuzz.my
-      domain: autobuzz.my
-    quality: 18
-    images:
-      - url: "https://assets.autobuzz.my/wp-content/uploads/2021/09/03100530/2021-Audi-Grandsphere-Concept-1.jpg"
-        width: 1400
-        height: 788
-        isCached: true
 
 secured: "ztRpXFHZHO5thQ2NIDuwlvbH6EULi+ho+D5p9C87D0aCDYuE7sIJG6T0rC8wXJPdXOlPgjpC7uxzSl39m4fxGLAVfqs6NiMtrVTRZ1FRZddVwxqRVG+fxnsJZaey8bWkCgHqG1C656iE95UVC8MlnYh8uca2sp/3fuUrrdK8im7rmzNLauelZJw9QzA4WsB0MweEM197bQDIi6cy1m7M47BvtS6AW3tr2SwVMEvKkBdM2wpz8vQwb5e4Wojy7cgjgB0fwLA9GfgzH0CMqiv226X61vm7bVYCqjt89UO9Zk64ANiAu2fYqVQ7DR6q5g1imRK44I7zjWBiYLcnp+tGhBEwaQWJcZiK4OpiOKSYQqU=;5KeuTq5adnVDJ5Ox45EtGQ=="
 ---

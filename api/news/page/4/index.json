@@ -2,6 +2,213 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-02-xerox-backed-field-service-startup-carear-raises-10m.md",
+      "title": "Xerox-backed field service startup CareAR raises $10M",
+      "excerpt": "CareAR, an AI- and AR-powered field service platform, has raised $10 million from ServiceNow at a $700 million valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/02/xerox-backed-field-service-startup-carear-raises-10m/",
+      "originalUrl": "https://venturebeat.com/2021/09/02/xerox-backed-field-service-startup-carear-raises-10m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/india-call-center-masks.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/02/xerox-backed-field-service-startup-carear-raises-10m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/02/xerox-backed-field-service-startup-carear-raises-10m/amp/",
+      "publishedDateTime": "2021-09-02T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families.md",
+      "title": "iPad kids game Pok Pok Playroom is the perfect back to school app for families",
+      "excerpt": "Over the summer, Pok Pok, a company \"incubated\" in Snowman-- the studio behind Apple Arcade games Skate City and Where Cards Fall-- released a new way for kids to experience playtime. Pok Pok ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/DdwYnB6rXWieZaMiWROVleOmWdc=/2021/05/20/523c4c47-34c5-4426-87aa-32b34d0156fe/town.jpg",
+          "width": 2000,
+          "height": 1335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ipad-kids-game-pok-pok-playroom-is-the-perfect-back-to-school-app-for-families/",
+      "publishedDateTime": "2021-09-02T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-deploying-impactful-ai-education-programs-in-rural-and-underserved-america.md",
+      "title": "Deploying Impactful AI Education Programs In Rural And Underserved America",
+      "excerpt": "What follows is a guide on offering various training programs for students, businesses and government officials with the goal of solving the AI talent and training dilemma that has long faced rural America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/02/deploying-impactful-ai-education-programs-in-rural-and-underserved-america/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/02/deploying-impactful-ai-education-programs-in-rural-and-underserved-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612f8ceca6203d1ddb15be55%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/02/deploying-impactful-ai-education-programs-in-rural-and-underserved-america/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/02/deploying-impactful-ai-education-programs-in-rural-and-underserved-america/amp/",
+      "publishedDateTime": "2021-09-02T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform.md",
+      "title": "Explosion snags $6M on $120M valuation to expand machine learning platform",
+      "excerpt": "Explosion, a company that has combined an open source machine learning library with a set of commercial developer tools, announced a $6 million Series A today on a $120 million valuation. The round was led by SignalFire,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/",
+      "originalUrl": "https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1136663830.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/amp/",
+      "publishedDateTime": "2021-09-02T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-player-insights-in-espn-fantasy-app.md",
       "title": "IBM Creates Personalized Fantasy Football Experience with Updated Trade Assistant with Watson and Player Insights in ESPN Fantasy App",
       "excerpt": "Trade Assistant with IBM Watson was initially introduced to reduce the complexities of fantasy football trades by using AI to suggest trades and to assess the fairness and value of a proposed trade. Now within the app, fantasy players can personalize their ...",
@@ -1011,213 +1218,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-this-is-the-cheapest-robot-vacuum-youll-find-today.md",
-      "title": "This is the cheapest robot vacuum you’ll find today",
-      "excerpt": "If you need help in keeping your floor clean, take advantage of this offer from Walmart that drops the price of the IonVac SmartClean 2000 robot vacuum to $97.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ion-smrtclean2000-images_2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/?amp",
-      "publishedDateTime": "2021-09-01T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member.md",
-      "title": "Tech Moves: Azure GM joins Madrona; Microsoft chief scientist promoted; Avalara adds board member",
-      "excerpt": "Microsoft Azure General Manager and COO Aseem Datar is joining Madrona Venture Group as a partner. The Seattle investment firm also announced that Chris Picardo has been promoted to partner",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member/",
-      "originalUrl": "https://www.geekwire.com/2021/tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/12/jaimetease-1260x966-300x230.jpg",
-          "width": 300,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/tech-moves-azure-gm-joins-madrona-microsoft-chief-scientist-promoted-avalara-adds-board-member/amp/",
-      "publishedDateTime": "2021-09-01T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-toyotas-self-driving-shuttles-return-to-the-paralympics-following-crash.md",
-      "title": "Toyota's self-driving shuttles return to the Paralympics following crash",
-      "excerpt": "Toyota is once again running its self-driving e-Palette vehicles at the Paralympics following a collision with a pedestrian..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "originalUrl": "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/f20135a0-0b1f-11ec-bab7-b37093ad4a37",
-          "width": 5908,
-          "height": 3939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "publishedDateTime": "2021-09-01T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-ai-assistants-a-simple-short-overview-of-virtual-assistants.md",
-      "title": "“AI Assistants” — A Simple , Short Overview Of Virtual Assistants",
-      "excerpt": "AI Assistants” is a good, quick read for those who are trying to gain a baseline understanding of virtual assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a-simple--short-overview-of-virtual-assistants/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a-simple--short-overview-of-virtual-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514",
-          "width": 876,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a-simple--short-overview-of-virtual-assistants/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/09/01/ai-assistants---a-simple--short-overview-of-virtual-assistants/amp/",
-      "publishedDateTime": "2021-09-01T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

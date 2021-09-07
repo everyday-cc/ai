@@ -2,6 +2,197 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-08-03-upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code.md",
+      "title": "Upgrade your Amazon Polly voices to neural with one line of code",
+      "excerpt": "In 2019, Amazon Polly launched neural text-to-speech (NTTS) voices in US English and UK English. Neural voices use machine learning and provide a richer, more lifelike speech quality. Since the initial launch of NTTS, Amazon Polly has extended its neural offering by adding new voices in US Spanish, Brazilian",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T12:06:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps.md",
+      "title": "Extend Amazon SageMaker Pipelines to include custom steps using callback steps",
+      "excerpt": "Launched at AWS re:Invent 2020, Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With Pipelines, you can create, automate, and manage end-to-end ML workflows at scale. You can extend your pipelines",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/30/ML-4059-image001-805x630.png",
+          "width": 805,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T11:44:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud.md",
+      "title": "Enhancing customer service experiences using Conversational AI: Power your contact center with Amazon Lex and Genesys Cloud",
+      "excerpt": "Customers expect personalized contact center experiences. They want easy access to customer support and quick resolution of their issues. Delighting callers with a quick and easy interaction remains central to the customer experience (CX) strategy for support organizations. Enterprises often deploy omni-channel",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/02/lex-genesys-1.gif",
+          "width": 800,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T11:32:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-levita-robotic-platform-interview-with-alberto-rodriguez-navarro-ceo-of-levita-magnetics.md",
+      "title": "Levita Robotic Platform: Interview with Alberto Rodriguez-Navarro, CEO of Levita Magnetics",
+      "excerpt": "Levita Magnetics, a California-based company that specializes in laparoscopic systems, has recently announced that its Levita Robotic Platform, a surgical robot that is still in development, has been used to perform surgery on a patient for the first time in a hospital in Chile.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2021/08/levita-robotic-platform-interview-with-alberto-rodriguez-navarro-ceo-of-levita-magnetics.html",
+      "originalUrl": "https://www.medgadget.com/2021/08/levita-robotic-platform-interview-with-alberto-rodriguez-navarro-ceo-of-levita-magnetics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-accuracy-of-automated-machine-learning-in-classifying-retinal-pathologies-from-ultra-widefield-pseudocolour-fundus-images.md",
       "title": "Accuracy of automated machine learning in classifying retinal pathologies from ultra-widefield pseudocolour fundus images",
       "excerpt": "Aims Automated machine learning (AutoML) is a novel tool in artificial intelligence (AI). This study assessed the discriminative performance of AutoML in differentiating retinal vein occlusion (RVO), retinitis pigmentosa (RP) and retinal detachment (RD ...",
@@ -936,206 +1127,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-intel-expands-ai-career-education-program-to-18-community-colleges.md",
-      "title": "Intel expands AI career education program to 18 community colleges",
-      "excerpt": "Program will teach data collection, computer vision and AI model training to community college students in 11 states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/",
-      "originalUrl": "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg",
-          "width": 644,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/",
-      "publishedDateTime": "2021-08-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Education",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-how-ai-inspires-human-versatility-at-work.md",
-      "title": "How AI Inspires Human Versatility At Work",
-      "excerpt": "Below are four fundamentals that acknowledge both AI’s limitations and how it pushes humans to be more versatile at work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6107f8e32ee0245e4f194ad4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/amp/",
-      "publishedDateTime": "2021-08-03T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-distinguished-research-scientist-dr-zoltan-tuske-to-join-apptek-and-drive-new-innovations-in-automatic-speech-recognition.md",
-      "title": "Distinguished Research Scientist, Dr. Zoltán Tüske, to Join AppTek and Drive New Innovations in Automatic Speech Recognition",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidenova.com/news/state/distinguished-research-scientist-dr-zolt-n-t-ske-to-join-apptek-and-drive-new-innovations/article_44851ce0-0da1-5da0-afc8-92e2089b958c.html",
-      "originalUrl": "https://www.insidenova.com/news/state/distinguished-research-scientist-dr-zolt-n-t-ske-to-join-apptek-and-drive-new-innovations/article_44851ce0-0da1-5da0-afc8-92e2089b958c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/8/e5/8e554a14-7cbd-5d7b-9761-a9356555bc0f/61093f15b3634.image.jpg?resize=547%2C630",
-          "width": 547,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "INSIDENOVA.COM",
-        "domain": "insidenova.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-why-data-management-is-critical-for-faster-drug-development.md",
-      "title": "Why Data Management Is Critical For Faster Drug Development",
-      "excerpt": "Co-Founder, COO at Komprise, creating Intelligent Data Management for enterprises to manage data growth and harness data value across clouds For every 5,000 drug candidates, only one results in a commercial product,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-management-is-critical-for-faster-drug-development/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-management-is-critical-for-faster-drug-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6107f38c6f4816452b7a6fed%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-management-is-critical-for-faster-drug-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-management-is-critical-for-faster-drug-development/amp/",
-      "publishedDateTime": "2021-08-03T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

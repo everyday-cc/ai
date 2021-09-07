@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-07-boost-transcription-accuracy-of-class-lectures-with-custom-language-models-for-amazon-transcribe.md",
+      "title": "Boost transcription accuracy of class lectures with custom language models for Amazon Transcribe",
+      "excerpt": "Many universities like transcribing their recorded class lectures and later creating captions out of these transcriptions. Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. Transcribe assists",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T14:14:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-fully-customizable-action-space-now-available-on-the-aws-deepracer-console.md",
+      "title": "Fully customizable action space now available on the AWS DeepRacer console",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML) through a global racing league, cloud-based 3D racing simulator, and fully autonomous 1/18th scale race car driven by reinforcement learning. Starting today, the model action space is fully customizable yet simplified with new",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/07/8-5294-Baja-truck.jpg",
+          "width": 800,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T13:20:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-announcing-the-amazon-s3-plugin-for-pytorch.md",
       "title": "Announcing the Amazon S3 plugin for PyTorch",
       "excerpt": "Amazon S3 plugin for PyTorch is an open-source library which is built to be used with the deep learning framework PyTorch for streaming data from Amazon Simple Storage Service (Amazon S3). With this feature available in PyTorch Deep Learning Containers, you can take advantage of using data from S3 buckets",
@@ -1344,102 +1450,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers.md",
-      "title": "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers",
-      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS) Advanced Technology Partner to drive scale and efficiency for the supply chains of global consumer packaged goods (CPG) companies.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker.md",
-      "title": "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker",
-      "excerpt": "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-2440-img1-1260x592.png",
-          "width": 1260,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T10:40:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

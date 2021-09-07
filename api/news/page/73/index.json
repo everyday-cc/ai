@@ -2,6 +2,205 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-07-15-insights-on-the-31-billion-robotics-global-market-to-2025-impact-analysis-of-covid-19.md",
+      "title": "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19",
+      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/insights-on-the-31-billion-robotics-global-market-to-2025---impact-analysis-of-covid-19-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-building-ethical-ai-products-can-put-businesses-at-a-competitive-advantage.md",
+      "title": "Building ethical A.I. products can put businesses at a competitive advantage",
+      "excerpt": "They are able to automate repetitive tasks, analyze large volumes of data, recommend content, translate languages and even play games. But the current scope of things that AI can do is relatively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106908631-1625805682269-gettyimages-1327731017-vcg111338081794.jpeg?v=1626330979",
+          "width": 6016,
+          "height": 4016,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/15/building-ethical-ai-products-can-put-businesses-at-competitive-advantage.html",
+      "publishedDateTime": "2021-07-15T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-with-general-motors-40-ytd-3-ways-it-can-power-up-long-term-portfolios.md",
+      "title": "With General Motors +40% YTD, 3 Ways It Can Power Up Long-Term Portfolios",
+      "excerpt": "Stocks Analysis by Investing.com (Tezcan Gecgil/Investing.com) covering: General Motors Company, Microsoft Corporation, Ford Motor Company, Walmart Inc. Read Investing.com (Tezcan Gecgil/Investing.com)'s latest article on Investing.",
+      "sourceUrl": null,
+      "webUrl": "https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-first-quarter-2021-results",
+      "originalUrl": "https://www.investing.com/analysis/with-general-motors-40-ytd-3-ways-it-can-power-up-longterm-portfolios-200591536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investor.gm.com/sites/g/files/knoqqb60441/themes/site/nir_pid2306/dist/new-images/GM-logo-2021.png",
+          "width": 555,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-artificial-intelligence-in-healthcare-global-market-forecast-to-2027.md",
+      "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2027",
+      "excerpt": "The rapidly evolving vast and complex healthcare industry is slowly deploying AI solutions into its mainstream workflows to increase the productivity of various healthcare. Artificial intelligence (AI) is the collection of computer programs or algorithms or software to make machines smarter and enable them to simulate human intelligence and perform various higher-order value-based tasks like visual perception,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-global-market---forecast-to-2027-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit.md",
       "title": "IBM unveils first machine-learning end-to-end pipeline starter kit",
       "excerpt": "IBM is announcing a new addition to its open source Cloud-Native Toolkit that will allow developers to integrate their AI and ML applications \"to cloud-native environments and optimize scalable, reliable deployments.",
@@ -919,215 +1118,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure.md",
-      "title": "Lambda Labs raises $15M for AI-optimized hardware infrastructure",
-      "excerpt": "Among these are the TensorBook, a laptop with a dedicated GPU, and a workstation product with up to four desktop-class GPUs for AI training. Lambda also offers servers including one designed to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/lambda-labs-raises-15m-for-ai-optimized-hardware-infrastructure/amp/",
-      "publishedDateTime": "2021-07-14T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-global-speech-and-voice-recognition-technology-market-2021-top-industry-trend-and-segments-analysis-upto-2026.md",
-      "title": "Global Speech and Voice Recognition Technology Market 2021 Top Industry Trend and Segments Analysis upto 2026",
-      "excerpt": "The latest updated report published by MarketQuest.biz titled Global Speech and Voice Recognition Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026 provides a better understanding of the overall market analytics and valuation of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2021-top-industry-trend-and-segments-analysis-upto-2026-2021-07-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2021-top-industry-trend-and-segments-analysis-upto-2026-2021-07-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-capital-one-uses-nlp-to-discuss-potential-fraud-with-customers-over-sms.md",
-      "title": "Capital One uses NLP to discuss potential fraud with customers over SMS",
-      "excerpt": "Capital One discusses how it harnesses the power of personalization and automation to verify fraudulent transactions at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/capital-one-uses-nlp-to-discuss-potential-fraud-with-customers-over-sms/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/capital-one-uses-nlp-to-discuss-potential-fraud-with-customers-over-sms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/capone.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/capital-one-uses-nlp-to-discuss-potential-fraud-with-customers-over-sms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/capital-one-uses-nlp-to-discuss-potential-fraud-with-customers-over-sms/amp/",
-      "publishedDateTime": "2021-07-14T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight.md",
-      "title": "AI ethics champion Margaret Mitchell on self-regulation and ‘foresight’",
-      "excerpt": "AI researcher and former Googler Margaret Mitchell spoke about ethics challenges at VentureBeat's Transform 2021 event today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1204729497.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/ai-ethics-champion-margaret-mitchell-on-self-regulation-and-foresight/amp/",
-      "publishedDateTime": "2021-07-14T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

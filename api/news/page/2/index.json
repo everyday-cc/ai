@@ -2,6 +2,188 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-07-mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance.md",
+      "title": "MIT Offers Online Course in Data Science, Machine Learning, AI with Placement Assurance",
+      "excerpt": "Massachusetts Institute of Technology (MIT) in collaboration with Indian ed-tech company Hero Vired has launched a full-time integrated programme in data science, machine learning, and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html",
+      "originalUrl": "https://www.news18.com/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/09/mit-163099301116x9.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html",
+      "publishedDateTime": "2021-09-06T23:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-nitda-trains-178-young-nigerians-on-robotics-emerging-technologies.md",
+      "title": "NITDA trains 178 young Nigerians on robotics, emerging technologies",
+      "excerpt": "Nigeria’s digital literacy has received a boost with the training of 178 young Nigerians in the just-concluded 10-Days Stem Bootcamp for Kids (SB4Kids)",
+      "sourceUrl": null,
+      "webUrl": "https://tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/",
+      "originalUrl": "https://tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tribuneonlineng.com/wp-content/uploads/2020/09/NITDA.jpg",
+          "width": 650,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/amp/",
+      "cdnAmpWebUrl": "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/amp/",
+      "publishedDateTime": "2021-09-06T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigerian Tribune",
+        "domain": "tribuneonlineng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-laser-powered-robot-weeder-zaps-without-poison.md",
+      "title": "Laser-powered robot weeder zaps without poison",
+      "excerpt": "An autonomous laser-powered weeder is attracting big green from investors. Carbon Robotics recently announced it secured $27 million in Series B financing to help in its quest to eliminate weeds without herbicides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/laser-powered-weeder-zaps-without-poison/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/laser-powered-weeder-zaps-without-poison/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/09/07/430ae2fd-8d74-493b-a0d1-a3081d193045/carbon-robotics.jpg",
+          "width": 1200,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/laser-powered-weeder-zaps-without-poison/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/laser-powered-weeder-zaps-without-poison/",
+      "publishedDateTime": "2021-09-06T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-enemy-at-the-gates-the-untold-chronicles-of-ai-security.md",
+      "title": "Enemy at the Gates – The untold chronicles of AI Security",
+      "excerpt": "The effort in securing AI will result not only in benefitting the organization but the society and will impact the lives of people touched by the comp..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-85997251,imgsize-10286,width-800,height-434,overlay-etcio/enemy-at-the-gates-the-untold-chronicles-of-ai-security.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251",
+      "publishedDateTime": "2021-09-06T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-why-coders-love-the-ai-that-could-put-them-out-of-a-job.md",
       "title": "Why coders love the AI that could put them out of a job",
       "excerpt": "As a programmer, far from seeing the tool as risking her job she likes the idea of having AI to support her with \"the more boring parts\" of coding, like checking over complicated",
@@ -356,7 +538,7 @@
       "originalUrl": "https://www.blackenterprise.com/how-ai-can-boost-sales-for-your-ecommerce-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -535,7 +717,7 @@
       "originalUrl": "https://www.nbcnews.com/think/opinion/workers-fear-robots-automation-covid-are-here-stay-they-create-ncna1278433",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -724,7 +906,7 @@
       "originalUrl": "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -992,211 +1174,6 @@
         "Machine Learning",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform.md",
-      "title": "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform",
-      "excerpt": "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9",
-      "originalUrl": "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60187bf96dfbe10018e012e0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp",
-      "publishedDateTime": "2021-09-04T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-ai-weekly-an-outline-for-government-regulation-of-ai.md",
-      "title": "AI Weekly: An outline for government regulation of AI",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Governments face a range of policy challenges around AI technologies, many of which are exacerbated by the fact that they lack sufficiently detailed information.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
-      "originalUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/government_meeting.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
-      "publishedDateTime": "2021-09-04T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-court-ruling-uspto-cannot-issue-patents-to-an-artificial-intelligence.md",
-      "title": "Court ruling: USPTO cannot issue patents to an artificial intelligence",
-      "excerpt": "A court in Alexandria, Virginia, ruled that inventions can only be patented under the name of a \"natural person.\" The decision was made against someone who",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "originalUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-03-image-42.jpg",
-          "width": 2560,
-          "height": 1696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "publishedDateTime": "2021-09-03T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-australia-debuts-orwellian-new-app-using-facial-recognition-geolocation-to-enforce-quarantine.md",
-      "title": "Australia debuts 'Orwellian' new app using facial recognition, geolocation to enforce quarantine",
-      "excerpt": "The government of South Australia has launched an \"Orwellian\" new COVID-19 quarantine app, complete with facial recognition and geolocation, to enforce 14-day quarantines for travel. The policy actually represents an improvement over the current pandemic restrictions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
-      "originalUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02834334-5d94-481f-9107-cf7509528d96/aa6b228a-b84e-4c99-931b-60e018cf0274/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
-      "publishedDateTime": "2021-09-03T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

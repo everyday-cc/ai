@@ -91,6 +91,17 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Study: Deep learning artificial intelligence predicts breast cancer risk better"
+    excerpt: "According to a new study in the journal Radiology, AI-driven deep learning may be better at distinguishing between the mammograms of women who will later develop breast cancer and those"
+    publishedDateTime: 2021-09-07T20:00:00Z
+    webUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.html"
+    ampWebUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 50
 
 secured: "jjGluWlWjfWxfJNgbX6tna/4ihWfaktAa/8VYDVQcJeu8Oh7RKmT+dVrwr7gX+xcW1J+wl2jsjFo8cLkhpE4lQniM1S5EYaA6bQzbqkveFfN0t1lFmdxkaKKaH7icGT0rwGsq9QnRmVlcWbjT0scnyV0edC0BRxQu79d9lyIf8hgDELJdIhhqZTpWXwx4zZIcXRKouWcC/xY1fUbaRaeyhrgHMVF9QfFCZY+Md6MIjl+D0k1GGGYJii5ko3zqljHx9ZoYpSxsu7A/yqSEL04KP5vJEs3lT+tnMeeTJZkCOyoCgHaBu5BubkdBo9zB/eIRNMYTeNKGbanhUseN80C2t/0uRMSs/lqe0esneiME6pfW5jhQembpGb8WTAbYtrWZd4/0K61/z7gswJbvEctKJpqJSY3Ci3TQW62d4Y+x6CzDjF8apn+WGIRG3J5b7Hedc5C/WtEHFexgD3+zulXve8zCrhM9AIIbXL/oqGlEu6CauN60lcttRSbNL6s5BhcT5iPklZs+BNrEjDYpF0j6g==;7cEP4FR72BBfwOuDipnc8g=="
 ---

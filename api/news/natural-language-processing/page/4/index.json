@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-02-unbabel-launches-mt-telescope-to-deeply-understand-machine-translation-performance.md",
+      "title": "Unbabel Launches MT-Telescope to Deeply Understand Machine Translation Performance",
+      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Unbabel, an AI-powered Language Operations platform ... tool that enables developers and users of Machine Translation (MT) systems to deeply analyze and understand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210802005131/en/Unbabel-Launches-MT-Telescope-to-Deeply-Understand-Machine-Translation-Performance",
+      "originalUrl": "https://www.businesswire.com/news/home/20210802005131/en/Unbabel-Launches-MT-Telescope-to-Deeply-Understand-Machine-Translation-Performance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-what-the-evolution-of-aiml-means-for-government-it.md",
       "title": "What the evolution of AI/ML means for government IT",
       "excerpt": "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions.",
@@ -1335,49 +1369,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-aicte-translating-engineering-coursework-using-ai-tool-finding-word-equivalent-of-tech-terms-a-task.md",
-      "title": "AICTE Translating Engineering Coursework Using AI Tool, Finding Word Equivalent of Tech Terms a Task",
-      "excerpt": "A many as 3,000 translators along with young interns in their 20s set their eyes to the AI tool on their screen to translate course materials from English to regional languages at the AICTE headquarters in New Delhi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
-      "originalUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/07/1626756615_aicte.jpg?im=FitAndFill,width=1200,height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
-      "publishedDateTime": "2021-07-20T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

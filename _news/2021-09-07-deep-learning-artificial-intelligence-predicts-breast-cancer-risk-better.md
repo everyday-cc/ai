@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/deep-learning-artificial-intelligence-predi
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Study: Deep learning artificial intelligence predicts breast cancer risk better"
+    excerpt: "According to a new study in the journal Radiology, AI-driven deep learning may be better at distinguishing between the mammograms of women who will later develop breast cancer and those"
+    publishedDateTime: 2021-09-07T20:00:00Z
+    webUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.html"
+    ampWebUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 50
   - title: "Deep Reinforcement Learning Is the Key To Making AI Physical"
     excerpt: "Deep RL is a kind of AI that can learn how to reach a goal over many steps, often by inventing surprising moves to navigate complex environments. Know and explore more about RL in this article."
     publishedDateTime: 2021-09-05T05:40:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-how-ai-in-healthcare-is-making-hospitals-smarter.md",
+      "title": "How AI in healthcare is making hospitals smarter",
+      "excerpt": "The digital solutions that health systems are deploying today—like AI—are effectively steps in their evolution into smart hospitals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9",
+      "originalUrl": "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6137ca892534ab0018533543?width=1200&format=jpeg",
+          "width": 463,
+          "height": 231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9?amp",
+      "publishedDateTime": "2021-09-07T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml.md",
       "title": "The Latest Trends in Artificial Intelligence (AI) and Machine Learning (ML)",
       "excerpt": "Artificial intelligence (AI) contains many subfields, including machine learning (ML), which automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.",
@@ -1359,50 +1411,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare.md",
-      "title": "AI in Medical Imaging Diagnosis Market Is Booming Worldwide | GE Healthcare, IBM Watson Health, Philips Healthcare",
-      "excerpt": "Our report will be revised to address COVID-19 pre-Post pandemic effects on the Global AI in Medical Imaging Diagnosis Market. Click to get Global AI in Medical Imaging Diagnosis Market Research Free Sample PDF Copy Here Before Purchase @: jcmarketresearch.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
-      "originalUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/global-silicone-swimming-caps-market-390x220.png",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
-      "publishedDateTime": "2021-08-17T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI",
         "AI in Healthcare"
       ]

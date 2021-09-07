@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-07-fully-customizable-action-space-now-available-on-the-aws-deepracer-console.md",
+      "title": "Fully customizable action space now available on the AWS DeepRacer console",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML) through a global racing league, cloud-based 3D racing simulator, and fully autonomous 1/18th scale race car driven by reinforcement learning. Starting today, the model action space is fully customizable yet simplified with new",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/07/8-5294-Baja-truck.jpg",
+          "width": 800,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T13:20:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-self-driving-cars-are-here-and-the-leaders-may-surprise-you.md",
       "title": "Self-Driving Cars Are Here and the Leaders May Surprise You",
       "excerpt": "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ:TSLA) is not yet one of those launching fully autonomous vehicles,",
@@ -62,7 +115,7 @@
       "originalUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1399,40 +1452,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-4-top-autonomous-vehicle-stocks-to-watch-before-september-2021.md",
-      "title": "4 Top Autonomous Vehicle Stocks To Watch Before September 2021",
-      "excerpt": "Recently, Baidu has been pushing forward with its ... But what some may not be aware of is, Alphabet also has a self-driving car project that was started more than a decade ago with the goal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
-      "publishedDateTime": "2021-08-27T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

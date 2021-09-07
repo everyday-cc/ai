@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Investing in Fintech as a ‘Bridge to the Future’"
-    excerpt: "Hub models stimulate fintech innovation, which in turn boosts economic growth, Siobhan Dullea of MassChallenge writes."
-    publishedDateTime: 2021-09-03T04:30:00Z
-    webUrl: "https://www.tradersmagazine.com/am/investing-in-fintech-as-a-bridge-to-the-future/"
+  - title: "Broadridge/LTX hires fintech fixed income veterans"
+    excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that Ted Bragg and Jim Kwiatkowski have joined LTX, a Broadridge company offering a new AI-driven digital trading platform for corporate bonds."
+    publishedDateTime: 2021-09-07T20:07:00Z
+    webUrl: "https://www.finextra.com/pressarticle/89180/broadridgeltx-hires-fintech-fixed-income-veterans"
     type: article
     provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
+      name: Finextra
+      domain: finextra.com
     quality: 24
     images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2021/09/Siobhan.jpg"
-        width: 480
-        height: 300
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "VMsqOHKtCPLzctecVSP6MnahwuIbkQR/pQWnBNFtfUe5S01bP7+JsbFAXlXTDiEX5xcUIbpbgu/t6xJQwyGnKZws9CkL4sRjOrPgadFBS3rrLWdnEs7UT7HWB2SMMbeVXpeQgwlSdatVGaGX7Qq7PYDDajckASd/PZ+qcAWuyuYAjkTFzhNymSY5ZwJQZoTvvjGJq1v5OPveUjoPlljBbKQxTY9HnOy43za/yl0XB0Fxvh5UwVj85jLVi4kQyMG4V6BaaYwDB5J8O1jaPQbMdkjODWPpIqLyNSYCPxPLJWpH5BNrH0KnIbjYLYLdOL1yEo50/m6VmjM0XZud5PnYCnmG8my3VN1yXcVuvjyaP1g=;pytBHm+rJ6svMt8SCHVE8Q=="

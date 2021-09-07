@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Japan Steps Up Self-Driving to Revive Rural Areas, Help Elderly"
-excerpt: "One of the goals is to help revitalize communities. “People including the elderly don’t have ways to get around in rural areas,” said Tatsuki Izawa, an assistant manager in the ministry’s autonomous driving division."
-publishedDateTime: 2021-09-07T15:44:00Z
-originalUrl: "https://www.bloombergquint.com/business/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
-webUrl: "https://www.bloombergquint.com/business/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
+excerpt: "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025."
+publishedDateTime: 2021-09-07T03:44:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
+webUrl: "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iamawYFonON0/v0/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -40,6 +44,6 @@ related:
         height: 489
         isCached: true
 
-secured: "NETQiLxIpB28G3hbdqgnu0K2cWSYVkrYKmRWQdabflh3HaneO5Yy8FJZpKWij7omeQ1fKXl9No0fEVpfgrre6GXbG2ujE4Lg7ZGcKfNaZsus7MiBydTXgseXLQPF8G4NFdXVApU7AEkyJeibynFZCjKnfPqKHiS9+PvvNiLjpZtMJwlHTSDxD7buoH4ai/kI7TAHOrzwzNFYqCrLsifWCLgCSJ5v4Jy7E4XhREe15vIO2CBx4/yUv88Zay39U/VluCmvc6XNjfLYBC0gbVseQu8BcUKUHH86RVzdlTO2UJqFPQG5nTphfmQj+m8UEWNUZG/7s0ns3psRMwYEZTgT+paCQfbj84mLOdxOe5Ye4R4=;cR8shvfHxHgHB1MTA++bSQ=="
+secured: "fEd5rEnNEzBC4pE7WosL14EtarIT+T/9zNDAMo1HajC8erzS2v4zbeuWP43LPEK6jUspSfIIV44iL7OrGZPEIl1zMITJshsMhijwdcuyI0SwgPxQ59cNqLzpl9jAAqn3Y1mmRTbe/YVt2KOmmG6G68/fnjUR3QJRTcrWjqNAGet43AU+QmbMZwZfRFahO33BXd7p1CiU0jXAEtkU3mw6mRgnHexliPoqXzgIj+MJZOXfMxN577udSHdRKpYqCrnBZ/6w6PhYs4LmtoM76/GW5itavtvvrUyNBm10nIL2lPH/5AU/pTZ84UMHbOt2tkQF7NV3A6ix8Q9vWYP6iKpEOhAWslpxSskXswMQEJ3KbFo=;GCRdy7IvJHgq1CzFKaM6sQ=="
 ---
 

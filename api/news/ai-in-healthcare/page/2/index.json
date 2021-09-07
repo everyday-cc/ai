@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-17-ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare.md",
+      "title": "AI in Medical Imaging Diagnosis Market Is Booming Worldwide | GE Healthcare, IBM Watson Health, Philips Healthcare",
+      "excerpt": "Our report will be revised to address COVID-19 pre-Post pandemic effects on the Global AI in Medical Imaging Diagnosis Market. Click to get Global AI in Medical Imaging Diagnosis Market Research Free Sample PDF Copy Here Before Purchase @: jcmarketresearch.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
+      "originalUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/global-silicone-swimming-caps-market-390x220.png",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
+      "publishedDateTime": "2021-08-17T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-deep-6-ai-announces-release-of-trial-recommender.md",
       "title": "Deep 6 AI Announces Release of Trial Recommender",
       "excerpt": "Deep 6 AI today announced the addition of Trial Recommender to its industry-leading artificial intelligence (AI)-driven clinical trial acceleration platform. Addressing a major gap in traditional patient recruitment,",
@@ -1288,50 +1332,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-microsoft-cloud-for-healthcare-launches-azure-healthcare-apis.md",
-      "title": "Microsoft Cloud for Healthcare Launches Azure Healthcare APIs",
-      "excerpt": "Azure Healthcare APIs enable customers with a platform as a service (PaaS) to ingest, manage, and persist data in the Cloud for Healthcare. Anyone working with health data can use Azure Healthcare APIs to bring disparate sets of PHI together and connect it with tools for machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_microsoft/microsoft-cloud-for-healthcare-launches-azure-healthcare-apis/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_microsoft/microsoft-cloud-for-healthcare-launches-azure-healthcare-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/Microsoft-Azure-Healthcare-APIs.png",
-          "width": 648,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]
