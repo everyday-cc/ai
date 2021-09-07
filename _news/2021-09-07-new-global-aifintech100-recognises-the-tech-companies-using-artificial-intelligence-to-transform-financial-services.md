@@ -1,54 +1,171 @@
 ---
 category: news
 title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
-excerpt: "\"The AIFinTech100 is an essential source of information for senior management enabling them to identify the most innovative Artificial Intelligence companies in areas such as Insurance, Banking, Investment & Trading, Lending, Customer Experience ..."
-publishedDateTime: 2021-09-07T13:59:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-new-global-aifintech100-recognises-tech-companies-using-artificial-/2021/09/07/9443889.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-new-global-aifintech100-recognises-tech-companies-using-artificial-/2021/09/07/9443889.htm"
+excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
+publishedDateTime: 2021-09-07T13:53:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/new-global-aifintech100-recognises-the-tech-companies-using-artificial-intelligence-to-transform-financial-services-301370320.html"
+webUrl: "https://www.prnewswire.com/news-releases/new-global-aifintech100-recognises-the-tech-companies-using-artificial-intelligence-to-transform-financial-services-301370320.html"
 type: article
-quality: 10
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI in Finance
   - AI
 
+images:
+  - url: "https://mma.prnewswire.com/media/1609590/FinTech_Global_100_List.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
 related:
-  - title: "How AI can help transform finance professionals into strategic influencers"
-    excerpt: "Finance teams using artificial intelligence (AI) are outperforming their peers — and many professionals look destined to become strategic 'influencers'. Gordon Stuart of Unit4 shares the new research revealing some intriguing shifts within businesses."
-    publishedDateTime: 2021-09-07T09:23:00Z
-    webUrl: "https://diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers"
-    ampWebUrl: "https://diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers?amp"
+  - title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
+    excerpt: "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2."
+    publishedDateTime: 2021-09-05T13:05:00Z
+    webUrl: "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 72
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 59
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-09/shutterstock_1941454657.png"
-        width: 740
+      - url: "https://www.goodreturns.in/img/2016/12/07-1438929714-interest-rates-red-14-1481696060.jpg"
+        width: 600
         height: 450
         isCached: true
-  - title: "How artificial intelligence is used in finance"
-    excerpt: "\"Artificial intelligence is everywhere,\" we learn from the media, but is it actually everywhere? I get this question in my lectures practically all the time. For this reason, I decided to start a new blog series called \"Applied Artificial Intelligence\"."
-    publishedDateTime: 2021-09-07T08:10:00Z
-    webUrl: "https://spectator.sme.sk/c/22733662/how-artificial-intelligence-is-used-in-finance.html"
+  - title: "Crediwatch named to list of 100 most innovative AI fintech companies"
+    excerpt: "Crediwatch, a Bangalore-based ‘data-insights-as-a-service’ platform, has been selected to be part of the AIFinTech100, an annual list of 100 of the world’s most innovative AI solution providers for financial services selected by a panel of industry experts and analysts."
+    publishedDateTime: 2021-09-07T09:39:00Z
+    webUrl: "https://www.freepressjournal.in/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
     type: article
     provider:
-      name: SME
-      domain: spectator.sme.sk
-    quality: 54
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
     images:
-      - url: "https://m.smedata.sk/api-media/media/image/spectator/3/72/7281863/7281863_1200x.jpg?rev=3"
+      - url: "https://images.assettype.com/freepressjournal/2021-09/7c7bd66a-1853-4e5f-9878-bf9af8cf76c8/Meghna_Suryakumar__Founder_and_CEO_Crediwatch.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 630
+        isCached: true
+  - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
+    excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
+    publishedDateTime: 2021-09-07T10:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "IHS Markit Announces Partnership with FinTech Studios"
+    excerpt: "IHS Markit recently announced a partnership with FinTech Studios to deliver highly relevant market intelligence, research, and analytics within thinkFolio."
+    publishedDateTime: 2021-09-03T09:16:00Z
+    webUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/"
+    ampWebUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 44
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2015/11/partnership.jpg"
+        width: 880
+        height: 400
+        isCached: true
+  - title: "Logiq, Reliq Health Tech, AI/ML Innovations and ESE Entertainment. Emerging Leaders in E-Sports, HealthTech, E-Commerce and AdTech"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-05T23:29:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/logiq-reliq-health-tech-ai-ml-innovations-and-ese-entertainment-emerging-leaders-in-e-sports-healthtech-e-commerce-and-adtech/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 26
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/yahoo_default_logo-1200x1200.png"
         width: 1200
-        height: 799
+        height: 1200
+        isCached: true
+  - title: "A Comprehensive Guide to Fintech ETFs"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-05T07:26:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/a-comprehensive-guide-to-fintech-etfs/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/71db9e3c1e83b4edc3bba506d8c34d01.jpeg"
+        width: 635
+        height: 400
+        isCached: true
+  - title: "A Fintech Fox in the Regulatory Henhouse"
+    excerpt: "Apparently, Harris just doesn’t get why regulators have to be so skeptical of the industry all the time—which makes sense, coming from a fintech executive who’s advocated for the industry on both sides of the revolving door."
+    publishedDateTime: 2021-09-07T09:12:00Z
+    webUrl: "https://prospect.org/economy/fintech-fox-in-the-regulatory-henhouse-adrienne-harris/"
+    type: article
+    provider:
+      name: The American Prospect
+      domain: prospect.org
+    quality: 24
+    images:
+      - url: "https://prospect.org/downloads/16799/download/RDP-Harris%20090721.jpg?cb=2bae456d97bd72bb8ecee83656aae636&w=1200"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Financial Institutions are Increasingly Adopting AI for Supporting AML as Fintech Adoption Rises: Report"
+    excerpt: "Financial institutions are increasingly adopting AI for supporting AML as global Fintech adoption rises: Report."
+    publishedDateTime: 2021-09-05T21:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 22
+  - title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"
+    excerpt: "IHS Markit has formed an alliance with FinTech Studios to deliver highly-relevant market intelligence, research and"
+    publishedDateTime: 2021-09-03T07:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ihs-markit-fintech-studios-partner-to-deliver-real-time-market-intelligence/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 21
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "The new AIFinTech100 is launched to highlight the industry-leading Artificial Intelligence companies driving the future of financial services"
+    excerpt: "FinTech Global, the specialist research and intelligence firm, today launches the new AIFinTech100 to list the most innovative companies offering Artificial Intelligence (AL) and Machine Learning (ML) technology solutions to the financial services industry."
+    publishedDateTime: 2021-09-06T23:00:00Z
+    webUrl: "https://pressat.co.uk/releases/the-new-aifintech100-is-launched-to-highlight-the-industry-leading-artificial-intelligence-companies-driving-the-future-of-financial-services-2c3ddfca5431735dcab1277aacf1de42/"
+    type: article
+    provider:
+      name: pressat.co.uk
+      domain: pressat.co.uk
+    quality: 19
+    images:
+      - url: "https://pressat.co.uk/media/cache/360x270-b592d7ca94627364a13c8253d397f286.png"
+        width: 360
+        height: 270
         isCached: true
 
-secured: "mMYib9Hu2g926WzQmG7+PEt4W6DpXBv8FUMc7se4dju88qQxWelJ8XnhXc8Rojzjgr1fOfk/rLD62j7Uq5Ac+ICNsTAoqK363powzvPlL4oABVmuMyNHbd1JttpbzfSZZPEEIcHlChyQfBNjKgpmJlnJLQqTAq5yuNYzP0Ng/1Yl3enkxau0Jc1mj2fDWpg8kotvKdoxwQL2xY6NSOFagW0K0Su1oB3T3DhZqiuMfV/aEY4iWZEoQHlV2BydbX3ML1vyjbjvcuEc+8J6oHkA2O+lueIwYmM6njRw1YKSM4ncNHtLeTd8/LI56iMdo257k1ZeiGA/FCPkjwU01dUOxtY3R3OQJkivgiuo9CnZGeI=;8eYGyr9MC/xcnVNVRvRj9w=="
+secured: "xo4Xmg/Jt1DvQCblWJIE9DhaJ8rhYpkHrAefyRBmqNuRIhP1kptuSqvirTitF0kgrPjdkYPZvncAVBNaHSo5kqC58s68wsxEHFPkKuPKZntjMBXgYp/ENrsXI64Sa4/bhW6FxdFejTqeQJvwhS2EAoRQ6iBWumSmEwS/OVgzb1wvujhzqMfFcyAldJ0Ylonq7CqJqi4bw00FvaRKLyHyAcli2FF/u2W8WnEaWgm+UNPw/b102r7trsFJ7Ffph2J+7miHhHB5hHQRtT4xP8jCaeuRTy8HUDYbMUl25wn2Vi2NeHDKoyJh1nMb34HwH9LUfB/SD1EW6sqKsK9Rjjqp1WUmUOCcAELYsgTQ4YZ6t20=;OzPGrshCKlbG8XOOYFUQYQ=="
 ---
 

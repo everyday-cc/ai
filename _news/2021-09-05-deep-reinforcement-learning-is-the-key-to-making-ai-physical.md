@@ -27,33 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia In the Lead in AI Chips and is Working to Stay There"
-    excerpt: "Nvidia is the leading AI chips company today and has prospects in future markets around the auto industry and edge computing."
-    publishedDateTime: 2021-09-02T23:39:00Z
-    webUrl: "https://www.aitrends.com/ai-and-business-strategy/nvidia-in-the-lead-in-ai-chips-and-is-working-to-stay-there/"
+  - title: "Deep Learning Artificial Intelligence Predicts Breast Cancer Risk Better"
+    excerpt: "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,"
+    publishedDateTime: 2021-09-07T14:00:00Z
+    webUrl: "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/"
+    ampWebUrl: "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/"
     type: article
     provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 56
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 73
     images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3GPUchip-2.jpeg"
-        width: 550
-        height: 309
+      - url: "https://scitechdaily.com/images/Mammogram-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
-  - title: "NVIDIA Shows How To Build AI Models At Scale With PyTorch Lightning"
-    excerpt: "Deploying predictive AI models across a business is no easy feat. The effectiveness of AI depends on the quality of the underlying models. Therefore, it becomes crucial for data scientists and academic researchers to quickly build models with various parameters and identify the most effective ones to deploy them easily and scale them seamlessly."
-    publishedDateTime: 2021-09-07T04:33:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-shows-how-to-build-ai-models-at-scale-with-pytorch-lightning/"
+  - title: "Deep learning provides a better estimate of breast cancer risk"
+    excerpt: "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,"
+    publishedDateTime: 2021-09-07T15:13:00Z
+    webUrl: "https://www.news-medical.net/news/20210907/Deep-learning-provides-a-better-estimate-of-breast-cancer-risk.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210907/Deep-learning-provides-a-better-estimate-of-breast-cancer-risk.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210907/Deep-learning-provides-a-better-estimate-of-breast-cancer-risk.aspx"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Simplifying-model-development-and-building-models-at-scale-with-PyTorch-Lightning-and-NGC-.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Researchers use deep learning to predict breast cancer risk"
+    excerpt: "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,"
+    publishedDateTime: 2021-09-07T14:16:00Z
+    webUrl: "https://medicalxpress.com/news/2021-09-deep-breast-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-09-deep-breast-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-breast-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/breast-cancer-2.jpg"
+        width: 2880
+        height: 1920
         isCached: true
 
 secured: "jjGluWlWjfWxfJNgbX6tna/4ihWfaktAa/8VYDVQcJeu8Oh7RKmT+dVrwr7gX+xcW1J+wl2jsjFo8cLkhpE4lQniM1S5EYaA6bQzbqkveFfN0t1lFmdxkaKKaH7icGT0rwGsq9QnRmVlcWbjT0scnyV0edC0BRxQu79d9lyIf8hgDELJdIhhqZTpWXwx4zZIcXRKouWcC/xY1fUbaRaeyhrgHMVF9QfFCZY+Md6MIjl+D0k1GGGYJii5ko3zqljHx9ZoYpSxsu7A/yqSEL04KP5vJEs3lT+tnMeeTJZkCOyoCgHaBu5BubkdBo9zB/eIRNMYTeNKGbanhUseN80C2t/0uRMSs/lqe0esneiME6pfW5jhQembpGb8WTAbYtrWZd4/0K61/z7gswJbvEctKJpqJSY3Ci3TQW62d4Y+x6CzDjF8apn+WGIRG3J5b7Hedc5C/WtEHFexgD3+zulXve8zCrhM9AIIbXL/oqGlEu6CauN60lcttRSbNL6s5BhcT5iPklZs+BNrEjDYpF0j6g==;7cEP4FR72BBfwOuDipnc8g=="

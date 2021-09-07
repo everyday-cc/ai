@@ -19,38 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Aviation Market Size 2021 And Forecast to 2028 | Keyplayers – Airbus, Amazon, Boeing, Garmin"
-    excerpt: "In the recently published financial credit Artificial Intelligence in Aviation Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim."
-    publishedDateTime: 2021-09-02T21:45:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-2021-and-forecast-to-2028-keyplayers-airbus-amazon-boeing-garmin/?noamp=mobile"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-2021-and-forecast-to-2028-keyplayers-airbus-amazon-boeing-garmin/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-size-2021-and-forecast-to-2028-keyplayers-airbus-amazon-boeing-garmin/?amp=1"
+  - title: "Mobile Artificial Intelligence Market Size, Share, Manufacturing Cost Structure, Revenue and Growth Status | Global Report 2021 to 2026"
+    excerpt: "Effective development policies adopted by various companies are creating new standards for competition in the global Mobile Artificial Intelligence market. A report, titled Global Mobile Artificial Intelligence Market Research Report 2021 - Impact of COVID ..."
+    publishedDateTime: 2021-09-03T10:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-size-share-manufacturing-cost-structure-revenue-and-growth-status-global-report-2021-to-2026-2021-09-03"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 48
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg"
-        width: 300
-        height: 212
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence In Military Market Size 2021 And Forecast to 2028 | Keyplayers – Lockheed Martin , Raytheon , Northrop Grumman , Ibm"
-    excerpt: "In the recently published financial credit Artificial Intelligence In Military Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim."
-    publishedDateTime: 2021-09-02T21:03:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-military-market-size-2021-and-forecast-to-2028-keyplayers-lockheed-martin-raytheon-northrop-grumman-ibm/?noamp=mobile"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-military-market-size-2021-and-forecast-to-2028-keyplayers-lockheed-martin-raytheon-northrop-grumman-ibm/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-military-market-size-2021-and-forecast-to-2028-keyplayers-lockheed-martin-raytheon-northrop-grumman-ibm/?amp=1"
+  - title: "Self-Propelled Modular Transporter Market Size Report 2021: Market Share, Trends Analysis, Supply and Demand Forecast by Region 2026"
+    excerpt: "Sep 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
+    publishedDateTime: 2021-09-06T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-propelled-modular-transporter-market-size-report-2021-market-share-trends-analysis-supply-and-demand-forecast-by-region-2026-2021-09-06"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 22
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg"
-        width: 300
-        height: 212
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Global Machine Learning Market (2021 to 2029) – Featuring IBM, SAP and Google Among Others – ResearchAndMarkets.com"
+    excerpt: "The global machine learning market is estimated to grow at a CAGR of 43.3% during the forecast period (2021-2029). The major drivers for machine learning market are proliferation in data generation, technological advancements in machine learning,"
+    publishedDateTime: 2021-09-03T08:51:00Z
+    webUrl: "https://www.financialbuzz.com/global-machine-learning-market-2021-to-2029-featuring-ibm-sap-and-google-among-others-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "TR+jodMEo+OcYJ5F8SchWpgyIEiJ5cZF3BdUngo2fNEQLzeHGM/6sIBYgpOouAyXg83Of0eqKjZlwP0jC54df3cID2WU8xvw+ShaDvc3LsO5zJmC5b3C5rnqt/Nbc9ky1/LA8+aO3KtF2vA2miEduoul9U7hh2hEOCo5NjpNvXLN7lGbPjEK4N1VAvHmG+kk68wzPPNMZnGFKME5tDhseSYY5u+k1yJ9BcRXQ/un0gjT89T0V/lVSPPvGCAsXG6Sdr8YNiefvPyY4rTgDrpi3K1K3tXxiV7va1pj7m3dwRKXf/RLs1EGxhC3NRUL1o714630+uhzYcqDyvzeBoW39npoyVLsLyY84pQ71Kj6U3M=;kwR12F8jzJ8vUNSscyq6xA=="
 ---

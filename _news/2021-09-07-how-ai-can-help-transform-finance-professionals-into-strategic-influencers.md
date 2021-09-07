@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/how-ai-can-help-transform-finance-professiona
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers?amp"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
-    excerpt: "\"The AIFinTech100 is an essential source of information for senior management enabling them to identify the most innovative Artificial Intelligence companies in areas such as Insurance, Banking, Investment & Trading, Lending, Customer Experience ..."
-    publishedDateTime: 2021-09-07T13:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-global-aifintech100-recognises-tech-companies-using-artificial-/2021/09/07/9443889.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "oJ3QMdaZh5XIOJ3viBSAaKcxOZCZmd0478tPayQWZrjEzRsSGksoE+ly1q9zln0DkkyDTauRdgfkSviqgx2kX/VZg1+5Fm2Uql/e6HWBjsQPFv1NJ+SFRBYxZKPwIr7USzgOo0UyH0wDbWtXAGvFVH0mTesUoPW+7nvGO5BWSrniLpGlSCqMTmz4S5LjbES9kMtOJapV4Iwpy/DJTEicSHLJEpz7SxKBoI142sZiLFRZ3xMv5acJxy02vWbgnDpk43fN44LEYXM1uuvdIQv2pAPhmKdTcoN3mUwa43SeyodM6GoVouSva6Dw1B+OgFSakiGceu4cAKcoXeNb0TN0YlXOwpzgXA6g5qe/ej/vlohIVqof/+nHbad8HwEzxr5kVQgWjHWh8lWcyY26TRAbZDW/TJa/WrsmhjKBy3gZzp4Fa5lDiMIi0DF6+xCZ8m0wvIZn2WpOXDtRoe9OyCE2uGkxGvBBhOXr2LG33TnoBVHmupOE9tadhXLJjYmyxfUL+LHT1BYpTp4A6kP5bv1zmA==;TdhcN8y22r28CV2aQHOj9Q=="
 ---

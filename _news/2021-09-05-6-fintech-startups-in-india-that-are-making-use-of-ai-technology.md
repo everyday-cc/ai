@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -43,33 +43,6 @@ related:
         width: 1199
         height: 630
         isCached: true
-  - title: "The Impact of Technology: AI Advancements for Mental Health and Wellness"
-    excerpt: "Advancements in artificial intelligence (AI) technology are impacting mental health and wellness with tools that are right at the user’s fingertips. Innovators are developing new ways to bring t"
-    publishedDateTime: 2021-09-02T21:23:00Z
-    webUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness"
-    ampWebUrl: "https://www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/impact-technology-ai-advancements-mental-health-and-wellness?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 58
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "A Comprehensive Guide to Fintech ETFs"
-    excerpt: "According to the report, the fintech space is expected to reach a market value of around $324 billion by 2026. The combination of financial services and technology has allowed providers to focus on a more customer-centric approach."
-    publishedDateTime: 2021-09-02T21:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02"
-    ampWebUrl: "https://www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-comprehensive-guide-to-fintech-etfs-2021-09-02?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
     excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
     publishedDateTime: 2021-09-07T10:43:00Z
@@ -96,6 +69,20 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2015/11/partnership.jpg"
         width: 880
         height: 400
+        isCached: true
+  - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
+    excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
+    publishedDateTime: 2021-09-07T13:53:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/new-global-aifintech100-recognises-the-tech-companies-using-artificial-intelligence-to-transform-financial-services-301370320.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1609590/FinTech_Global_100_List.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
   - title: "Logiq, Reliq Health Tech, AI/ML Innovations and ESE Entertainment. Emerging Leaders in E-Sports, HealthTech, E-Commerce and AdTech"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."

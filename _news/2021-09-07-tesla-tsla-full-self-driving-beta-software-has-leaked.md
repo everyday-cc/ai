@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-sof
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/8178c13/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcd%2Fbf%2F781c440fda8cf1d7b16e94b883db%2Fshutterstock-284409203.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Tesla's Self-Driving Beta Software Unlocked By Hacking Community"
+    excerpt: "Tesla Inc (NASDAQ: TSLA) is working towards fully autonomous cars. The company stated that every car it sells today comes with the hardware necessary for full"
+    publishedDateTime: 2021-09-07T15:34:00Z
+    webUrl: "https://www.benzinga.com/tech/21/09/22828214/teslas-self-driving-beta-software-unlocked-by-hacking-community"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22828214"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22828214"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/supercharger_16_0.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "If you thought a self-driving Tesla was cool, here is a kit to build and program your own self-driving car"
     excerpt: "This build & code your own AI self-driving car comes with complete components. Learn about microcomputers, electromotors, camera calibration & more!"

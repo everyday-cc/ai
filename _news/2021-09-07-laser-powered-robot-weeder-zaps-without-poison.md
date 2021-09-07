@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/laser-powered-weeder-zaps-without-poison/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 760
     isCached: true
+
+related:
+  - title: "Carbon Robotics raises $27M for automated laser weeding"
+    excerpt: "US startup Carbon Robotics says it has closed a series B round of venture financing that will be used to scale production of an automated vehicle equipped with lasers to destroy weeds. The Seattle firm,"
+    publishedDateTime: 2021-09-07T15:19:00Z
+    webUrl: "https://optics.org/news/12/9/8"
+    type: article
+    provider:
+      name: Optics
+      domain: optics.org
+    quality: 69
+    images:
+      - url: "https://optics.org/objects/news/thumb/12/9/8/CarbonRoboticsSeptember2021.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "TvgbAtmJ3S+SDgrjl1l/TUzkko6afwREzgd30UKD7OB33qH9MjKsRUYSuLI4XvCfeCKSoPAPcShqGI/jfUV0Uivf5tE7aQst+h42k+wV7d3kXHM49KZulEMd7GbYVZ/GK64JKCqfbDP4P/9LkadG37BdwWzfHjV6bnF0VDkm8RA8dnY6G0P/bo1Dj0KCIJaMN1BphkbwC22kwicX8CfJZ7leov4NRC0NV8ahWj0JESnDS6NEjOsik7hQH4Wy+vRaRx9T622ZqkJ92//I6KMhMU6UmhCFtAvX72z6Odq00wIT7SH6n/iq+Ca2IrZPC+BNnmhz/7Yo+RWKISnXdP46jKlEU1PA0ESsaaMZsg3GhZA=;7JnqR+P+YwdjQEfr6ZtkWg=="
 ---

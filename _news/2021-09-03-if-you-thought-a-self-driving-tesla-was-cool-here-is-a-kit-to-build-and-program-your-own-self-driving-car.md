@@ -61,6 +61,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Tesla's Self-Driving Beta Software Unlocked By Hacking Community"
+    excerpt: "Tesla Inc (NASDAQ: TSLA) is working towards fully autonomous cars. The company stated that every car it sells today comes with the hardware necessary for full"
+    publishedDateTime: 2021-09-07T15:34:00Z
+    webUrl: "https://www.benzinga.com/tech/21/09/22828214/teslas-self-driving-beta-software-unlocked-by-hacking-community"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22828214"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22828214"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/supercharger_16_0.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "So2xAyNMaGlkJclDW18trmUB1O8BO3v3Tgh3UnsfEEL+dUyXJ9bbTmuxOTPgNIqEA8nwi6Ck2RaNKxFD0qoH310xqKC+UFeVjjlZcmPFQNEM/cAvM5JosURy0/OmgoYiFdbS4wiiSAtqB8HMsI3WA2zdwd3uuTKCn5lSU5In83mCmkFHQQw+HPjq47cmqWV6aMFRq2ZMChI7thFkbLFYfyVwfnSPRQY0d5aMW11iwinXwwpcC2EjvgdjbIBKUmX5Jeefl4jM/tlP0t2q2soOZ6V9pqqKMdCfh0UuhKbEvQ5AW09ml8537z8vskIlnmgUygH0qNy/fEuc8kIFbBnxpVrd5U/6j29iaALMezboZM8/2tMK43yJ9+zlSnLvGHiDu9FL200p8vKVWhQrKpGE1klq/LnHu38AU2g88wa1Gf6G4tcax2ccz+8J88o4dstCbhEFyPck08KgSGSjUWjkWD2Gzy4nQvETQggkWI6XZYHuNIGp9kJHhnwfpi8RB0U1mWVL1Fl46VZQZw9N4NtVgQ==;vTA2u4SrJ7glk40KZgwBdQ=="
 ---

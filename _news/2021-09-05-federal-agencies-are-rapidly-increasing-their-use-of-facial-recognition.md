@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognitio
 webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.dpaonthenet.net/global/showimage/Article/197394/"
         width: 375
         height: 238
+        isCached: true
+  - title: "Global facial recognition market expected to grow 12 percent to 2025 – report"
+    excerpt: "The substantial growth is expected to be spurred by increasing instances of identity threats, and the necessity of using biometrics to counter them."
+    publishedDateTime: 2021-09-07T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202109/global-facial-recognition-market-expected-to-grow-12-percent-to-2025-report"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
         isCached: true
 
 secured: "4RmwIKKs5dMgns5LME76HOZyfgILRQuNLCnXe4gAY05IDhrDUpMkp7Jg+DTGxlkEmzWhrCOG4L004QSf5+atA4lhJG5xHSargrZcXYu/1n9Rvny4cxYyEJSGeFpq6xbpSsgaxmTXIbu/DYCvLtsOKRbK2CMm/4bRU9q20f/ZE66hmiE5dGJkINV+e568Cfmk79lU2Grf/XsVXnlp8WP4QoreU75m7nc2hMLle9Miqo6ayia68p0DG9JuC6cj8wMcWJBeAleCCJcaDp7rFVrgVIXqkA/aTaNpXC44XzExeD8zTtMb2lNf2WfxQBsFVUYcz5HVJYFe0n8AM5t9XFPjgbL98WhJqHrawbNepwEVvQY=;h+5fJZwQGmGPY2MLTLPmCQ=="

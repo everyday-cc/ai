@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreade
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Cars Are Here and the Leaders May Surprise You"
+    excerpt: "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ: TSLA) is not yet one of those launching fully autonomous vehicles,"
+    publishedDateTime: 2021-09-07T14:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-cars-are-here-and-the-leaders-may-surprise-you-2021-09-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-are-here-and-the-leaders-may-surprise-you-2021-09-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-are-here-and-the-leaders-may-surprise-you-2021-09-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Japan speeds up move to self-driving cars"
     excerpt: "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced on Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025."
     publishedDateTime: 2021-09-07T07:19:00Z

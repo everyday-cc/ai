@@ -21,21 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "Hyundai's New EV Will Soon Be a Self-Driving Taxi"
-    excerpt: "A venture called Motional has developed Hyundai's Ioniq 5 EV into a self-driving robotaxi that will hit roads by 2023, aided by rid-sharing app Lyft."
-    publishedDateTime: 2021-09-02T22:56:00Z
-    webUrl: "https://www.treehugger.com/hyundai-new-ev-self-driving-taxi-5199964"
-    ampWebUrl: "https://www.treehugger.com/amp/hyundai-new-ev-self-driving-taxi-5199964"
-    cdnAmpWebUrl: "https://www-treehugger-com.cdn.ampproject.org/c/s/www.treehugger.com/amp/hyundai-new-ev-self-driving-taxi-5199964"
+  - title: "VW’s Self-Driving Partner Closing In on German Public Road Tests"
+    excerpt: "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany."
+    publishedDateTime: 2021-09-05T20:10:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests"
     type: article
     provider:
-      name: TreeHugger
-      domain: treehugger.com
-    quality: 59
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
     images:
-      - url: "https://www.treehugger.com/thmb/HwoHvbUBM1ZMzX56rAbknxJeoaA=/1200x800/filters:fill(auto,1)/Hyundai-Ioniq-5-Robotaxi-71-77297edccdcb4cbaad54f80c790eadb6.jpeg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixMLqLHvG858/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Self-driving VW ID.Buzz electric vans start testing ahead of commercial service in 2025"
+    excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
+    publishedDateTime: 2021-09-07T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buzz-electric-vans-start-testing-ahead-of-commercial-service-in-2025"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 16
+    images:
+      - url: "https://images.hgmsites.net/hug/volkswagen-id-buzz-ad-self-driving-car-prototype_100805632_h.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "nScSSKaHgEKBwMBbsAwdTwGgH1pTlz6yGkyODhIayo4NN2QWQNPFQFINK3BtlAyTQVq/CXQjPSQqyUYulsplc4VXK1qEvM3rOX/2tiN07IyNBDyEeDo8uUOzj1XN9OHmY7E0hU8GbHYwTXpfmISvEHgqsjqcdecA09NEtM10hmtHr7jFwFJ0d01OoSfnEHjuirRPwRQizuWlQQo7Nmo5QbaXwlagmBBdkVE3RnIUxr2BNiUsGrMvf3IxgtuwecVhG7VFvYEZ7QsLz/XtFRilp+Qr+MSensA6tQb2i04/YAaKzavC98ihy2dkfFRRKGPADwukAKtnQq+FFvy/kKg54r3anYPTr0Cnw0qup5hRN5c3cEBLCKttJEczEnm/x+2Oc/w5aSOcRPEVRd6VYqm97VHHDoh5fbFzLiaMEjomk3zOLgfW4C0YQHZsAhoTa14JBCQlWtkg+F4OLtjmsbZ63LjXLj/vlC4BL9RhBmwoU24/U5eP6kDQfGXaeynGYazNeg0jsB0HdfHOvI6TdYYM2Q==;z8PamHBvnb1LauX4ckuiDA=="

@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Global facial recognition market expected to grow 12 percent to 2025 – report"
+    excerpt: "The substantial growth is expected to be spurred by increasing instances of identity threats, and the necessity of using biometrics to counter them."
+    publishedDateTime: 2021-09-07T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202109/global-facial-recognition-market-expected-to-grow-12-percent-to-2025-report"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
 
 secured: "IveBc09qFlMcH/ZOuPBBEG0gVziaFeWa6N2Y2TObWAw7gzwL0DgWEfI7UWHgFHeMJCtoY79e1FKoowZo7xNZmajCqgbZdMrkl51AopbkzGsE7hHzM3AhthXqeTxVQno+jezaxkLgocKdPZ3z9vCpzMqR5lHtcA9RCG2LYznYbYwNWkfeMUEooD4dI0cgldGX0KPL5C/g6o0o3QVK3SLvcqW5Kjz6xFFxdsrp2BIYEfcoYQmhFk78WAIXd93Kty1LRyS8oRck4Fqplp09y2rdgxWaZiltCtGOQqGRbd8e3fEzJald+w/Dz2xdLZkUq0v0AR1inWMD51OLF/7ivP0iyVly1M8zQ+mmhBrnGJR31h8=;Uc9847i2Y0Lf5xJ11N4KLg=="
 ---

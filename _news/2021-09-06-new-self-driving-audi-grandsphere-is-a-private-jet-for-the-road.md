@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Audi's self-driving concept car makes the front seats first class"
-    excerpt: "The Audi Grandsphere, revealed Wednesday, is the German automaker's idea of what self-driving luxury car could be, with controls that fold away and lounge-style seats in the front. Audi has yet to release anything like a fully self-driving car,"
-    publishedDateTime: 2021-09-02T22:15:00Z
-    webUrl: "https://www.waaytv.com/content/news/575232202.html"
-    type: article
-    provider:
-      name: WAAY-TV
-      domain: waaytv.com
-    quality: 24
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210902101633-audi-grandsphere-concept-car-live-video.jpg"
-        width: 576
-        height: 324
-        isCached: true
   - title: "The Audi Grandsphere self-driving limousine concept says goodbye to display screens"
     excerpt: "After introducing the Audi skysphere convertible GT concept last month, Audi has continued the range of “sphere” concept cars with the Audi grandsphere"
     publishedDateTime: 2021-09-03T03:54:00Z

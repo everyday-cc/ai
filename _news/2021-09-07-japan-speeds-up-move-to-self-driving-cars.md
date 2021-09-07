@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-Driving Cars Are Here and the Leaders May Surprise You"
+    excerpt: "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ: TSLA) is not yet one of those launching fully autonomous vehicles,"
+    publishedDateTime: 2021-09-07T14:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-cars-are-here-and-the-leaders-may-surprise-you-2021-09-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-are-here-and-the-leaders-may-surprise-you-2021-09-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-are-here-and-the-leaders-may-surprise-you-2021-09-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "zGSQfPkF/BvoNlBS5+bXBopadTlU3JcV73u+WQ+L0UVR7X4eO5GZvrJTBETft4Vl42ZH49p/MQhxsxwiTajxD2YfPuuSwtZ1O0X1X7tcQJHM3scFawH6NLeIMEOP5vxD/tGP8tJOia6XeH1lfk7Y2UZBCKuTAODzNGmQkjF5q/bEKsoUZA07NgSwAzmb3bJ3EyiW5jeBJBQfiOWDE8igOc+BvNGQFp85yEKVcY9wljwlyzbVPbUtwpITc/8W91gb1J93cYQYM5ScNubNbcBFZG42rGlS7/hRsIiy+UWTM7mlNQ3Zaf2fW/bWVYYMxz8LnxnYswhB4hxEfPmIQsghJcUaTH/rRX9MO6qQ6XnaDvk=;CioW8sB/kJ4yk5OhAcutXg=="
 ---

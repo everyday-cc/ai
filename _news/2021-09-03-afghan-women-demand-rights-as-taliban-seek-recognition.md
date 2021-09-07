@@ -53,6 +53,22 @@ related:
         width: 1024
         height: 732
         isCached: true
+  - title: "WH: No need to rush Taliban gov't recognition"
+    excerpt: "White House Press Secretary Jen Psaki stated on Tuesday the United States is not in a rush to recognize the new Afghan government led by the Taliban. Speaking before the president's departure for"
+    publishedDateTime: 2021-09-07T15:17:00Z
+    webUrl: "https://www.teletrader.com/wh-no-need-to-rush-taliban-gov-t-recognition/news/details/56323917"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/56323917"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56323917"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 44
+    images:
+      - url: "https://cdn.ttweb.net/News/images/228949.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Pak ISI and Chinese proximity to Taliban, queer Quad pitch for Kabul recognition"
     excerpt: "The role played by Pak and UK in cutting out a deal with the Taliban has been noted by India, which is concerned about the group’s projection as a beacon for Sunni Islam."
     publishedDateTime: 2021-09-07T07:36:00Z

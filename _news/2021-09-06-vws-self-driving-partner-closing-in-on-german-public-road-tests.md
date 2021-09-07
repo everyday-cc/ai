@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-drivi
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Bloomberg
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "VW’s first electric minibus is a self-driving taxi"
+    excerpt: "Volkswagen has unveiled a prototype self-driving version of its upcoming electric microbus, the. The vehicle was showcased during a press briefing by the German automak"
+    publishedDateTime: 2021-09-07T11:06:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
   - title: "Self-driving VW ID.Buzz electric vans start testing ahead of commercial service in 2025"
     excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
     publishedDateTime: 2021-09-07T11:00:00Z

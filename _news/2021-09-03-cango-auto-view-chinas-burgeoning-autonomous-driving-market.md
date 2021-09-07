@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/cango-auto-view-chinas-bu
 webUrl: "https://www.prnewswire.com/news-releases/cango-auto-view-chinas-burgeoning-autonomous-driving-market-301368989.html"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Making Zero Autonomous Driving Accidents a Reality"
-    excerpt: "The following is a guest editorial by Dr. Behrooz Rezvani founder and CEO of Neural Propulsions Systems, Inc., a pioneer in autonomous driving and sensing platforms. Most Americans are leery of self-driving vehicles because putting our lives—and the lives of our loved ones—in the hands of artificial intelligence is too big a leap for many right now."
-    publishedDateTime: 2021-09-06T11:00:00Z
-    webUrl: "https://thebrakereport.com/making-zero-autonomous-driving-accidents-a-reality/"
-    type: article
-    provider:
-      name: The BRAKE Report
-      domain: thebrakereport.com
-    quality: 24
-    images:
-      - url: "https://thebrakereport.com/wp-content/uploads/2021/09/Futurecar-e1630678463950.png"
-        width: 700
-        height: 333
-        isCached: true
-
-secured: "z5vHBysoN049lTnWaofFuT2ymdHOgqpKc9UDj9A3uULF9vlA7aOuM9FyBvMWW55w3RT1dLr0c708DtwXnqn8hPCS04AJZ+qhbJgwFwYqbRsKhhwm7aw8eK4KbK/zybqVoDcu1r+wrTqovekzAkLcfSl2KEErU6nMAo5/apF1/w6aQGFrDVyZwQmFJ+25hdIBtsufoF5FDZujA5eFgapaF/968a+jt7Wo++l/aAXUMq0IkBHbzeGfg6p/mvDBq9OUTxzqeRCxyUjLTzaxpxudHWeZ0f5wssl7624zc5qscltcvwU7dYWtd3QEsthie3q1lGHsWKOodUzndPIceh58RT0A95LZklVdlgoE7lkx50E=;ipCQoK6vIncsY2EQfj9KGg=="
+secured: "zxoUDnZnNyaZR0qDXK2wOB/JlplPJ+5gFsQohJvl9rnfRl6pPdzHrUHDlnlH4KLxkk/QvrujVz0Q1UxFuUfPmRnlh5DKHW3LC5qNbcfdtIGjW3O2Ca4YoNBAGMYhkyeKXRMLAxZmgUDXDE/7Q+bkENGzDtdb1Cv+l+8/2icA2ycCJxyfyGnv3HsgaT+rikcl5zDr4jGH48nK1SgZ1aaIt63ETg9AS2HAhcjCJ4erTPbtZB7i77JK2xU0wYVMBlzN057eYsKIy6qLYLr+x7nY2NMvHvXp2Lf8M0WjpF7BphkdiQIKpdFoXqYJARLZ26VdH8oOCSTehcO/LWcEcXn9wFxDyfVcaJLz1Ekrq3GXINU=;mnk66L+9cTnwOpijN5QC3A=="
 ---
 

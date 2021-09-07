@@ -7,7 +7,7 @@ originalUrl: "https://www.usherbrooke.ca/research/inventory-of-research-projects
 webUrl: "https://www.usherbrooke.ca/research/inventory-of-research-projects/projet/616/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,43 @@ images:
     isCached: true
 
 related:
-  - title: "The Mouse Brain As A Gatekeeper For AI And Autonomous Cars"
-    excerpt: "The unheralded mouse brain could be one of the cornerstones or keys to achieving AI-based true self-driving cars."
-    publishedDateTime: 2021-09-02T22:21:00Z
-    webUrl: "https://www.aitrends.com/ai-insider/the-mouse-brain-as-a-gatekeeper-for-ai-and-autonomous-cars/"
+  - title: "Wipro AI Solutions Wins The Hackett Groups 2021 Digital Award for AI-led HR Automation"
+    excerpt: "The award reinforces Wiproâ€™s leadership in AI and automation. New York, USA and Bangalore, India â€“ September 06, 2021 : Wipro Limited (NYSE: WIT, BSE: 507685, NSE: W"
+    publishedDateTime: 2021-09-06T21:11:00Z
+    webUrl: "https://www.pressreleasepoint.com/wipro-ai-solutions-wins-hackett-groups-2021-digital-award-ai-led-hr-automation"
     type: article
     provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 37
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 29
     images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-3SmartMouse-2.jpeg"
-        width: 550
-        height: 550
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
         isCached: true
+  - title: "Making Zero Autonomous Driving Accidents a Reality"
+    excerpt: "The following is a guest editorial by Dr. Behrooz Rezvani founder and CEO of Neural Propulsions Systems, Inc., a pioneer in autonomous driving and sensing platforms. Most Americans are leery of self-driving vehicles because putting our lives—and the lives of our loved ones—in the hands of artificial intelligence is too big a leap for many right now."
+    publishedDateTime: 2021-09-06T11:00:00Z
+    webUrl: "https://thebrakereport.com/making-zero-autonomous-driving-accidents-a-reality/"
+    type: article
+    provider:
+      name: The BRAKE Report
+      domain: thebrakereport.com
+    quality: 24
+    images:
+      - url: "https://thebrakereport.com/wp-content/uploads/2021/09/Futurecar-e1630678463950.png"
+        width: 700
+        height: 333
+        isCached: true
+  - title: "Bahrain calls for international recognition of women’s merits in confronting COVID-19"
+    excerpt: "Bahraini women have been impressively successful in confronting the COVID-19 pandemic thanks to their rapid and effective response in all workplaces, Council of Representatives Speaker has said. They contributed to the development of an advanced Bahraini model,"
+    publishedDateTime: 2021-09-06T15:29:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDrlt5UyFGWcbfHAieYl3TD8%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 12
 
 secured: "NmCpcBLYZNaAFM2u4nrRBTjRIvl7VS0ibH18hVUYhda8DOlIE1DorfslmWEKZIlkARgNbD3LkjsWy3Z87OsEXJGhn3vif0SgBkMps4afNapXeltmAFyj2Bp08k/2g1WkswgZYtSrm+PhaGvWSooZJP//PWUzNaCmMzqiny0lXg3RpovWKtCutmuvkEaOniGelHQpH9XlXxS0PyTaj+yTXTJAr4wYagPtjVn60EE4b+gCAuMQHpHvC9yiUHe6RNPbQeouybD7He1W9T8pTtwR42SXk27SIIuJSeQlC0G3niLukVM2M00Ha1PVDqYfBv/U6fsEtYwIrE2wCLPrQclJ4son8rLz8sSAinnwUlwPkII=;0eS9aVhWe4wgovsQHRzVEw=="
 ---
