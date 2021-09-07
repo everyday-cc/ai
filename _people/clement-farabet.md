@@ -14,14 +14,14 @@ website: http://www.clement.farabet.net/
 twitter:
   username: clmt
   url: https://twitter.com/clmt
-  followers: 11031
+  followers: 11030
 
 linkedin:
   url: https://www.linkedin.com/in/clementfarabet
 
 googleScholar:
   url: https://scholar.google.com/citations?user=u3u16tgAAAAJ
-  citations: 9157
+  citations: 9166
 
 topics:
   - AI
