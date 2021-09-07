@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Intel CEO Predicts Chips Will Be More Than 20% of Premium Vehicle BOM by 2030"
-excerpt: "Intel outlines plans to ramp chip production and help automotive industry customers modernize designs to leverage leading edge silicon."
-publishedDateTime: 2021-09-07T16:11:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210907005345/en/Intel-CEO-Predicts-Chips-Will-Be-More-Than-20-of-Premium-Vehicle-BOM-by-2030"
-webUrl: "https://www.businesswire.com/news/home/20210907005345/en/Intel-CEO-Predicts-Chips-Will-Be-More-Than-20-of-Premium-Vehicle-BOM-by-2030"
+excerpt: "Intel outlines plans to ramp chip production and help automotive industry customers modernize designs to leverage leading edge silicon. NEWS HIGHLIGHTS Intel CEO"
+publishedDateTime: 2021-09-07T15:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/b22830056/intel-ceo-predicts-chips-will-be-more-than-20-of-premium-vehicle-bom-by-2030"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/b22830056/intel-ceo-predicts-chips-will-be-more-than-20-of-premium-vehicle-bom-by-2030"
+ampWebUrl: "https://www.benzinga.com/amp/content/22830056"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22830056"
 type: article
-quality: 16
-heat: 16
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "36vOobOJfrckqhBFM4dAIIx739pXliWt0kNEdoky5ARLxE8rhmMJXbpRBmvfM0kxxsNyDy6s/npRWwYuDxPyCWNuu1L+oVvdOF5aK3AvA9tjXgHAhlZFjnN7lnZbqCwW1ExOvswO2JzMuY6upW+WvQW+sg/ZPjWgqKn35M3JzBzuQZ050TwKdJXqvRu9C6KCMLU+CP2/90DDz4qKRMvddG+lQZmgbRdgbtXGC7HT9DG+AdhoHfkIhFGnW1X+6qQF5BacCk3sGd76xRQwec4k+9zvYRBS1UrlGFOiOgHtJgsb0GsanSp0D6jvPrNu0IpZruiyt2qQ+u0qsbo1EL4fKyZ3zFvZjUkKWZvwqFoLuIs=;BcAOk4Oj8TMhkri+AF0nDQ=="
+images:
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "XD9I83+m5+wkwPGhjTSYLJYCOm2cj561koCEmIDhF7EoDAv+0EYoaF452av962eQg0JQZHCuGZ4IhF8gtDeId1J5zx9qf5pM0WuNaobb3l9jVfRnEnf9WaMAnWXuR1tfOpy9A8KBB93h1ctY8IyN5TIArHKDjYCfPJFbLK+sUD76S05CW7w5PlL4Sz45VjPqIza+c2jN1P+jYv+vbpAwi/+VwPL2tZRNJ34mRUAj8w1nDh/Wnqf/kTwLvzd5zegRwKQ851CHnHHRIGmxEz/YbYd1sEFaVPMCCiVR5r2q4aDGqbHr0nscy9DuRLDcu+5Otkg+uRVELLqvQzyYuvrNHp0fQHqron40LHKMUwqo4gQ=;8NYcnIA2X8Ibn5N8pGPARQ=="
 ---
 

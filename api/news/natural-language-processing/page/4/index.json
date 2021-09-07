@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-31-what-the-evolution-of-aiml-means-for-government-it.md",
+      "title": "What the evolution of AI/ML means for government IT",
+      "excerpt": "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
+      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-ai-at-the-helm-of-indias-digital-inclusion-journey.md",
       "title": "AI at the helm of India’s digital inclusion journey",
       "excerpt": "The Covid 19 pandemic has propelled the transition towards digital technologies and heightened use of the internet. According to the latest IAMAI-Kantar Cube report, the number of active internet users in India is likely",
@@ -1333,59 +1378,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy.md",
-      "title": "Maine’s facial recognition law shows bipartisan support for protecting privacy",
-      "excerpt": "The ACLU urges all Americans to ask their members of Congress to join the movement to halt facial recognition technology and support federal legislation limiting it.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "originalUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1199508481.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/",
-      "publishedDateTime": "2021-07-20T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

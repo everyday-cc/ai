@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How artificial intelligence will change solar O&M and asset management"
+    excerpt: "PV Tech spoke to experts in the artificial intelligence-solar space to explore how it was being used in the industry and the potential benefits it could bring to the sector"
+    publishedDateTime: 2021-09-03T09:16:00Z
+    webUrl: "https://www.pv-tech.org/how-artificial-intelligence-will-change-solar-om-and-asset-management/"
+    type: article
+    provider:
+      name: PV Tech
+      domain: pv-tech.org
+    quality: 39
+    images:
+      - url: "https://www.pv-tech.org/wp-content/uploads/2021/02/AboveSurveying.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "XfTrP4L6RCk7sqtj9ZeOz70v3TdBsAWHBEK4SbwP5kq8BRaPAo02ZWPUKl1sfXlzIcX4YAJ7sjQyy2d6lwPQKZYMiOqOXXHa2KbD6kPDsjy28psOHfBHOwu14LCW6XLFr9sS6Jgv06D7PYv/g7CuCCFvtbALgQSJS3jXtFe0vmY5p2pEHxEteu1UHxIIlVHV455f2mZxVrrfkf4ZHxSKB0Nvxiy9aTsT7nuA3vhOMkWNiga9RSS7RTY65Fe5CCYKDnhbV1LYgf8RFmFiFXW6N84jjQQJyb/C6qyPyNrh9P9Xyw66/ZqQjAzG2pan6Ka1E/FFSyoDzNapttzYqFYmpvGv6V3lujKjY06wF6mI99jfvQqVyzQxevyXiH4uJyKmejdatAkHuEp5mRnYZlLUEzHt/TZedknZW9JJ2QR2sm9J8DSXLLDxS6nFFi8DVewFbi/rBR+/ol6ED+in0d9CQ5JDoklZLUBBBTurJ86UjawqISb48HRZlh/l48bVYjN9I3C/hu1v5Q1tYQnczfa0zg==;BPd436DXoHB3t7iRD226Wg=="
 ---

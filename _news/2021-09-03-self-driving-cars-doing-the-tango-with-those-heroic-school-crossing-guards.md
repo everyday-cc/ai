@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
 type: article
 quality: 72
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,19 +31,78 @@ images:
     isCached: true
 
 related:
-  - title: "Volvo waits for self-driving tech to improve before touting autonomous cars"
-    excerpt: "Volvo Cars has aggressively promoted its push toward becoming an all-electric brand, with the first such vehicle to be a successor to the XC90 SUV that will be built at"
-    publishedDateTime: 2021-09-05T19:00:00Z
-    webUrl: "https://www.postandcourier.com/business/volvo-waits-for-self-driving-tech-to-improve-before-touting-autonomous-cars/article_45c8c34e-0cc2-11ec-811c-7731825f1779.html"
+  - title: "Self-Driving Cars Are Here and the Leaders May Surprise You"
+    excerpt: "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ:TSLA) is not yet one of those launching fully autonomous vehicles,"
+    publishedDateTime: 2021-09-07T18:37:00Z
+    webUrl: "https://www.fool.com/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/"
     type: article
     provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 37
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/53/d533e33c-0ccd-11ec-9083-832f29bc0de7/6132433221252.image.jpg?resize=838%2C630"
-        width: 838
-        height: 630
+      - url: "https://media.ycharts.com/charts/124f6c79b50814347bec4e2f03880437.png"
+        width: 720
+        height: 449
+        isCached: true
+  - title: "Could That Dreaded Highway Hypnosis That Puts Human Drivers Into A Trance Befall AI Self-Driving Cars?"
+    excerpt: "Highway hypnosis is said to befall human drivers, so the apparent question is whether AI self-driving cars could suffer likewise. Or is highway hypnosis a fictional aliment and merely a myth? See the scoop."
+    publishedDateTime: 2021-09-06T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f71e2337464fd52c091f01%2F0x0.jpg%3FcropX1%3D313%26cropX2%3D4817%26cropY1%3D233%26cropY2%3D3235"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Self-Driving Cars Are Here and the Leaders May Surprise You"
+    excerpt: "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ: TSLA) is not yet one of those launching fully autonomous vehicles,"
+    publishedDateTime: 2021-09-07T14:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-cars-are-here-and-the-leaders-may-surprise-you-2021-09-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-cars-are-here-and-the-leaders-may-surprise-you-2021-09-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-cars-are-here-and-the-leaders-may-surprise-you-2021-09-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Japan speeds up move to self-driving cars"
+    excerpt: "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced on Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025."
+    publishedDateTime: 2021-09-07T07:19:00Z
+    webUrl: "https://www.businesslive.co.za/bd/world/asia/2021-09-07-japan-speeds-up-move-to-self-driving-cars/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/asia/2021-09-07-japan-speeds-up-move-to-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-09-07-japan-speeds-up-move-to-self-driving-cars/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/NdKtAOZuz1MhJdP2-QURVWOcdzXU-WM5QvsqGy6ms8NvgD_piFTPgv3vlFrOs8vwo5s4nizhCJcML6IcFZONRYLLLp4dtqk3VA=s1000"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "CVS – Self-Driving Cars Are Here and the Leaders May Surprise You"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-07T17:19:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_cvs/cvs-self-driving-cars-are-here-and-the-leaders-may-surprise-you/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631035169_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "u2taN/MHYbcLtYVPxi4dMfd8YLGKxzBpXgzVJKlTuWpq62upz7SzT+Ff9NHTI6iGA8TRur/OdrkJ1/A4mfvWbESGWQFZx3xVntIqbrvh+JiBesdfonp8VZWQwcUfN0ablXLMPEFb3BJxcB8vYZ3FB7oCsuYwsag+Vs6/adRdQBjd3VJE9ML8ilmdHACa6Thxwb5ib4e9Q1nvwVvcXz6hNGR8z/BxrR0uxvw3aYV5QRs+JFbzSnrGkHhwkZtJGrUYX+3TJyBnbZwvFAIpc9GpQ4mSw5lWoUiGXT5dexeJZ2fXewTLMIU+HAnJu8Sgp8MGGHSTag4+dlqOiOF05RDTz5l5gmFXLyiZt12aDceI3HZLrINHiD19/iGP6bPIAbwSkdCE7A7zj2uOi0R5CX+7ryzNGG+/w1ZZFwKYVMJGKv11RJlnDbPAvSMyeEINHaSj5sDHCgr7geUjBB9Fqy6fVtVkCUcsRaUupYptvoF3+/RKnvqKvaO6XltDHe4tf0Qt6wZxzewf5/fg5nOJ0sJu+w==;+/7NJgHaBOG7xKngcTdcSg=="

@@ -2,6 +2,144 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-08-17-farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth.md",
+      "title": "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth",
+      "excerpt": "Building the bench Silver was most recently a Tech Lead & Manager at Waymo, the self-driving ... with deep expertise in robotics and artificial intelligence, and a vision to solve global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth-301341687.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth-301341687.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg?p=facebook",
+          "width": 1500,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner.md",
+      "title": "Huawei smart city projects meet facial recognition block, lawsuit from partner",
+      "excerpt": "The Serbia smart city projectis raising concerns among some members of the European Parliament. Huawei also faces a lawsuit in a Pakistan surveillance project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
+      "originalUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/11150416/Huawei-scaled.jpg",
+          "width": 2048,
+          "height": 1045,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together.md",
+      "title": "Adapdix acquires Edge Intelligence to bring data and AI closer together",
+      "excerpt": "Adapdix, the industry leader in AI-powered automation software, announces that it has acquired Edge Intelligence, developer of the first geographically distributed data management platform for analytics built for both edge computing and hybrid cloud environments.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735171",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735171",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1589890/Adapdix_acquires_Edge_Intelligence.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day.md",
       "title": "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?",
       "excerpt": "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,",
@@ -962,144 +1100,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-openai-offers-api-for-github-copilot-ai-model.md",
-      "title": "OpenAI offers API for GitHub Copilot AI model",
-      "excerpt": "Available through the OpenAI API in a private beta, Codex can translate natural language into code in upwards of a dozen programming language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/690512/openai-offers-api-github-copilot-ai-model/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/690512/openai-offers-api-github-copilot-ai-model/?fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/software_development_lifecycle_developers_programmers_coding_code_by_roman_samborskyi_shutterstock_1536573386_royalty-free_digital-only_2400x1600-100890352-orig.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-samsung-joins-google-and-nvidia-in-using-ai-to-design-chips.md",
-      "title": "Samsung Joins Google and Nvidia in Using AI to Design Chips",
-      "excerpt": "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/processors/135086/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
-      "originalUrl": "https://uk.pcmag.com/processors/135086/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/s/samsung-jo/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips_neg5.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones.md",
-      "title": "Gridlock solutions envisioned with driverless cars, flying taxis and delivery drones",
-      "excerpt": "“The challenge is that AV and AI [artificial intelligence] is complicated to implement in urban environments,” said Bernard Schmidt of the authority’s AV division. “There is human bias in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "originalUrl": "https://www.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d8c13d6b-7856-494e-9971-e37ddc10c652/c3add766-c8dc-42cf-9b32-f380f6083365/1280x720/match/image.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/community/miami-dade/article237643954.html",
-      "publishedDateTime": "2021-08-15T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

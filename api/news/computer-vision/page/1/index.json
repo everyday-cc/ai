@@ -264,49 +264,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-04-parents-lawsuit-over-lockport-facial-recognition-system-ends.md",
-      "title": "Parents' lawsuit over Lockport facial recognition system ends",
-      "excerpt": "A judge said the approval was invalidated when former Gov. Andrew M. Cuomo signed a law in December 2020 banning the use of facial recognition technology in schools.",
-      "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
-      "originalUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/45/f4555f2d-8ce6-550b-82e9-417e781ab8b7/5ef133e01db3f.image.jpg?resize=1024%2C759",
-          "width": 1024,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
-      "cdnAmpWebUrl": "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
-      "publishedDateTime": "2021-09-03T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-04-judge-ends-nyclu-suit-against-school-facial-recognition.md",
       "title": "Judge Ends NYCLU Suit Against School Facial Recognition",
       "excerpt": "(TNS) — A lawsuit brought by New York Civil Liberties Union last year to prevent Lockport City School District from operating its facial recognition-capable camera surveillance system was made moot by a state judge this week. In June 2020, NYCLU filed ...",
@@ -315,7 +272,7 @@
       "originalUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1439,6 +1396,58 @@
         "name": "Trusted Reviews",
         "domain": "trustedreviews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-gone-fully-google.md",
+      "title": "The New Nest Doorbell Cam Is a Reminder That Nest Has Gone Fully Google",
+      "excerpt": "Google's cheaper doorbell security camera offers a lot for less, but you make some sacrifices for those savings.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113",
+      "originalUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/60c0d9f8efd6d8eba4fc1bdea13ead40.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113/amp",
+      "publishedDateTime": "2021-08-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -43,6 +43,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "N.Y. School District’s Facial Recognition System Remains on Hold, Lawsuit Dismissed"
+    excerpt: "A law temporarily barring the use of biometric-based surveillance in New York schools supersedes a lawsuit from the state ACLU chapter."
+    publishedDateTime: 2021-09-07T16:24:00Z
+    webUrl: "https://www.edweek.org/technology/n-y-school-districts-facial-recognition-system-remains-on-hold-lawsuit-dismissed/2021/09"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 48
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/f091d83/2147483647/strip/true/crop/1750x1150+0+0/resize/959x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2Fb0%2Fc2%2F8170649d4457bb8a9d0efece31e9%2F16-facial-recog.jpg"
+        width: 959
+        height: 630
+        isCached: true
 
 secured: "+gFfcbISoRkmlmHK/yITWXOpJh0NDPtWRXtabTJVEFrvW3aHL8q5cYBrkIZrqlllgh9Xo7uD2DI/mGv92GamJxxNpQazX5IYQ9IXJkInjleQSMIaBee96IuGKKKUXP6DUo0o1ffClv29N/hbQPEy7pvCQztqEEr3IBVnEDctVJTrOQegaDh+uwJcE+LYRpOdO4lVxtoGWjQvX1hqJD4X/WHhNBR6CfokdLHgvTN+Z3WJ4jYu8ii9NGV2+Q4ixNVwdZHKh4z+flZnALBYaE96VH7ta2If2FDdtyfvhfWb3i7VHAg3Po3quCkpZIGrZBWQSlJSF4ebR+APaY6EGunUfhPjpk+0mvBWOWmgsP+vFOQf+p5IhTH9ZuHlQzM0fGg5aS88+F46FCSc6D+ALZqvKsaF+6xuhWVW+/I3V3XjvRDx+m1zTAuH/pUFIDzbZnbCzTblRRiTcJSPRmtbyhsk9KBW644DeBQB5VgdNDxCY65g/ccimvB9O0XtUBJJ62sI1Bgi7w9sbywXQ3Z4XTD1pQ==;B3sGUL8y8J0vBUQQHfPjjg=="
 ---

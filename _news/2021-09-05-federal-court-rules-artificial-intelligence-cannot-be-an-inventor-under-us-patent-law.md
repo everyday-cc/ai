@@ -56,17 +56,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Only Humans, Not AI, Can Be An Inventor, Va. Judge Rules"
-    excerpt: "A Virginia federal judge ruled Thursday that artificial intelligence cannot be listed as an inventor on a patent application, holding that the Patent Act makes clear that inventing is the exclusive legal province of human beings."
-    publishedDateTime: 2021-09-03T02:57:00Z
-    webUrl: "https://www.law360.com/articles/1418666/only-humans-not-ai-can-be-an-inventor-va-judge-rules"
-    ampWebUrl: "https://www.law360.com/amp/articles/1418666"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1418666"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 37
 
 secured: "kDpimwa5rMpNHwZI1YpMEkR9V2Nz2362rgKQGYV4gwLgCqccXRqJtKOVNG7o1Iazj43KP5LkFTJtJHYMe/0XtQmTfkGRtWFor+V+8ewvvTWGUWXwSsoLF5NLNO8mgwHC5TqxT4Q15upS/6YzlbVl0Z/E0/StrUp2cB/WcFoHpDRPQWjPd/fkeXG8MeAtuZPwl0gqZzPMm1KRgAJDIpuuxoJWHXt+dJApR42XdqjA3FUVC+o8cdmHFSkFluj1ni9ktBK/RjvXr+eIasiXKdLpJgdkfs0WA/O6MIDqws/iXgfmoPlv5fumxpptdfIi/4J5CSewhvlnazxqtlKJs5ZnU+9Ouhh8biW6LSrotdBEBT7baJnoTddFrHDv2zIIXFAz2UR8IeRdZ5E8rsC3DOAhziHvEbzNU7D1hcHDzEOAfi6TY4imj/DHg3A6UkRY3gnq/Sd8Zpivmj/x7nhLyM1xlYAmkJ8nt3SgQjyYSNhq9jV//F7SMhEtLP+Rfd4PGol6bASUbo1FaJqpl8luQBVARg==;qMslxCk6fQPXOrIEvdQBkw=="
 ---

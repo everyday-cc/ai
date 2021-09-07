@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-university-of-idaho-robotics-flourish-at-north-idaho-college.md",
+      "title": "University of Idaho Robotics Flourish at North Idaho College",
+      "excerpt": "Since relocating to North Idaho College's Hedlund Building, the university's robotics program is teaching students to write software and preparing them for careers in fields such as manufacturing and cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/26fb46c/2147483647/strip/true/crop/1168x609+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb3%2F2a%2Fb551756f42647015fcf63a4856b6%2Funiversity-of-idaho.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
+      "publishedDateTime": "2021-09-07T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets.md",
+      "title": "Xilinx Showcases Powerful Adaptable Platform Solutions For Data Center, Medical, Robotics And Other Key Markets",
+      "excerpt": "It’s obvious, beyond the complementary product line synergies, why AMD was so interested in pursuing Xilinx for acquisition. This company has done more for demystifying the FPGA (Field Programmable Gate Array) and adaptive computing than many of its competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6137affbbaab67e32c274bcc%2F0x0.jpg",
+          "width": 1000,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
+      "publishedDateTime": "2021-09-07T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-everything-ai-and-robotics-at-techcrunch-disrupt-2021.md",
       "title": "Everything AI and robotics at TechCrunch Disrupt 2021",
       "excerpt": "AI is everywhere in tech, and you can bet it will be a vital topic at TechCrunch Disrupt 2021 on 21-23. It’s the driving force behind just about everything from rockets, robotics and customer service to deep science and autonomous vehicles.",
@@ -1302,111 +1398,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics.md",
-      "title": "We underestimated IoT security. Let’s not make that mistake with robotics.",
-      "excerpt": "Even if placed behind a firewall, inadequately secured robots may not be safe. We’ve already seen malware that breaches isolated networks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
-      "originalUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/agility-robotics-digit.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
-      "publishedDateTime": "2021-08-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-inside-boston-dynamics-project-to-create-humanoid-robots.md",
-      "title": "Inside Boston Dynamics’ project to create humanoid robots",
-      "excerpt": "Atlas is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, backflips, and dancing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
-      "originalUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Boston-Dynamic-Atlas-Parkour1-e1629834411758.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
-      "publishedDateTime": "2021-08-27T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

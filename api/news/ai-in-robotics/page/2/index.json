@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-28-we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics.md",
+      "title": "We underestimated IoT security. Let’s not make that mistake with robotics.",
+      "excerpt": "Even if placed behind a firewall, inadequately secured robots may not be safe. We’ve already seen malware that breaches isolated networks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
+      "originalUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/agility-robotics-digit.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
+      "publishedDateTime": "2021-08-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-inside-boston-dynamics-project-to-create-humanoid-robots.md",
+      "title": "Inside Boston Dynamics’ project to create humanoid robots",
+      "excerpt": "Atlas is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, backflips, and dancing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
+      "originalUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Boston-Dynamic-Atlas-Parkour1-e1629834411758.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
+      "publishedDateTime": "2021-08-27T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-did-tesla-just-confirm-that-the-robot-takeover-is-here.md",
       "title": "Did Tesla Just Confirm That the Robot Takeover Is Here?",
       "excerpt": "Rather, we’re investing in the small tech startup that’s developing the advanced underlying robotics and AI technology which will power this Automation Economy. We think this tiny stock could ...",
@@ -1338,83 +1443,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-22-break-the-cycle-of-yesterdays-logic-in-organizational-change-and-agile-adoption.md",
-      "title": "Break the Cycle of Yesterday's Logic in Organizational Change and Agile Adoption",
-      "excerpt": "Topics discussed include deep learning, edge deployment of machine learning algorithms, commercial robot platforms ... could lead into a newborn mind set. Sadly, that is a false bias which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/yesterdays-logic-change/",
-      "originalUrl": "https://www.infoq.com/articles/yesterdays-logic-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/yesterdays-logic-change/en/headerimage/header+%2839%29-1629446490745.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-4-robotics-stocks-to-watch-this-week.md",
-      "title": "4 Robotics Stocks To Watch This Week",
-      "excerpt": "Check Out These Top Robotics Stock Amid The Increasing Interest In Automation. Robotic stocks often elicit a sense of excitement among investors. To a certain extent, investing in",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
-      "originalUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
-      "publishedDateTime": "2021-08-21T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

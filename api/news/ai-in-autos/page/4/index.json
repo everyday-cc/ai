@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-08-19-waymo-begins-work-on-dedicated-texas-hub-for-self-driving-trucks.md",
-      "title": "Waymo begins work on dedicated Texas hub for self-driving trucks",
-      "excerpt": "Alphabet-owned Waymo is looking to gain a strong foothold in the nascent autonomous freight industry, today announcing plans to build a dedicated hub for its self-driving trucks in the state of Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
-      "originalUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/6981b2a/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fb3%2Faf7f948749be8c11427aabf027e8%2Fryder-waymo.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
-      "publishedDateTime": "2021-08-18T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-19-nvidia-forecast-beats-expectations-but-talks-on-40-bln-arm-deal-take-longer-than-expected.md",
       "title": "Nvidia forecast beats expectations, but talks on $40 bln Arm deal take longer than expected",
       "excerpt": "The disclosure came as Nvidia, the world's biggest maker of graphics chips for gamers and artificial intelligence chips ... Alphabet Inc's Waymo has started taking a few San Franciscans on rides ...",
@@ -1365,6 +1313,49 @@
       "provider": {
         "name": "The Hustle",
         "domain": "thehustle.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-engineering-students-makes-driverless-car-using-ai-maharashtra.md",
+      "title": "Engineering Students Makes Driverless Car Using AI: Maharashtra",
+      "excerpt": "Maharashtra`s Pune-based engineering students of a private university have developed a Driverless autonomous electric four-wheeler with the help of Artificial Intelligence. They mentioned the use for reducing accidents and deaths caused by human errors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "originalUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nyoooz.com/uploads/nyoooz-images/maxresdefault49.jpg",
+          "width": 800,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "cdnAmpWebUrl": "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "publishedDateTime": "2021-08-12T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nyoooz.com",
+        "domain": "nyoooz.com",
         "images": null,
         "publishers": null,
         "authors": null

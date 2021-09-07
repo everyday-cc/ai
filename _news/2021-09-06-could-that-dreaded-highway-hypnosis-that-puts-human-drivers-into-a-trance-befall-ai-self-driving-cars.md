@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreade
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Cars Are Here and the Leaders May Surprise You"
+    excerpt: "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ:TSLA) is not yet one of those launching fully autonomous vehicles,"
+    publishedDateTime: 2021-09-07T18:37:00Z
+    webUrl: "https://www.fool.com/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://media.ycharts.com/charts/124f6c79b50814347bec4e2f03880437.png"
+        width: 720
+        height: 449
+        isCached: true
+  - title: "Self-Driving Cars Doing The Tango With Those Heroic School Crossing Guards"
+    excerpt: "School crossing guards are daily heroes, and it will be important that self-driving cars can be devised to work hand-in-hand with them."
+    publishedDateTime: 2021-09-03T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602357e93d2febddf0f0dcb7%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D1632%26cropY1%3D28%26cropY2%3D1091"
+        width: 1200
+        height: 946
+        isCached: true
   - title: "Self-Driving Cars Are Here and the Leaders May Surprise You"
     excerpt: "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ: TSLA) is not yet one of those launching fully autonomous vehicles,"
     publishedDateTime: 2021-09-07T14:37:00Z
@@ -57,6 +89,20 @@ related:
       - url: "https://lh3.googleusercontent.com/NdKtAOZuz1MhJdP2-QURVWOcdzXU-WM5QvsqGy6ms8NvgD_piFTPgv3vlFrOs8vwo5s4nizhCJcML6IcFZONRYLLLp4dtqk3VA=s1000"
         width: 1000
         height: 666
+        isCached: true
+  - title: "CVS – Self-Driving Cars Are Here and the Leaders May Surprise You"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-07T17:19:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_cvs/cvs-self-driving-cars-are-here-and-the-leaders-may-surprise-you/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631035169_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "85kUbGWMBOHI2NkzIFIH74fqwzbixDCDCqGwsmmrllGuZt+1QtLAmcbeNg/vzfKOTVZKGTdlqXpHlXl5Y5FRUgZIsRFCM9t2ns6uV40Wa71b7Wva20bek+UEJxO4MDQss9XBvxHbF/Auo/tvi2diP7XaCnr6YUxd6G2n5Swk5UKOT8lpbd1gCX8k+S5XLHjLjK0B16xZaT5WDPmu0fFfVo3K11j5EnU4joEFYwPSwOGL5ciEvPKlQyVSkgZmfzwiP/4JCxdmkCwZdMtiMi2n1VJ7SYpVUYtbCaMQ/B+45VStQgHzQwK7xGJ/+HDq09U8prIh2Acblu030QHmgtrQ+75wJpWaJit+BHtmtcPoP+0MWkKlCltAunSmRzPtOgWhf4VGg3X9tEMo1/nlaRU6L4C19VD6R4GO9BWkBLjbUH+AdMYofJqQzuFSE69ZneP78SbrBrYTkdphJrUZ0nt4xbexAmPaetTSIk2YYycC/QAMjiLg2QGYhxc+Xhqf/aZB/awzIj8/MpRuJ56mI9fBAQ==;FLpLGnZkMNz3767G5Nf4Pg=="

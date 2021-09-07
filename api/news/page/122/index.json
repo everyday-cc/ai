@@ -2,6 +2,152 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2021-06-10-vivaldis-launching-an-email-client-rss-reader-and-translation-tool.md",
+      "title": "Vivaldi’s launching an email client, RSS reader, and translation tool",
+      "excerpt": "Vivaldi is launching new tools, including an email client, a calander app, a feed reader, and a translation tool with its browser update.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
+      "originalUrl": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FVivaldi-4.0.jpg&signature=bd279527fe8dfcc5dbcafe44f09b2916",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy.md",
+      "title": "The future of AI in finance is here: Reducing the cost of accuracy",
+      "excerpt": "Finance professionals are no longer willing to endure painstaking manual reviews and the threat of inaccurate data in forecasts and plans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1169108502.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy/amp/",
+      "publishedDateTime": "2021-06-09T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-google-seeking-chief-of-staff-for-health-division-8-more-positions.md",
+      "title": "Google seeking chief of staff for health division, 8 more positions",
+      "excerpt": "Google recently posted several job openings related to its health business. Nine positions the company recently posted: Director's chief of staff, Google Health: will work alongside Google's chief ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/google-seeking-chief-of-staff-for-health-division-8-more-positions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-343511/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "publishedDateTime": "2021-06-08T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-humanoid-robot-sophia-sells-12-second-video-nft-for-almost-700000.md",
       "title": "Humanoid Robot Sophia Sells 12 Second Video NFT for Almost $700,000",
       "excerpt": "Take, for instance, celebrity humanoid robot Sophia, who — or, uh, “which”? — just sold a digital artwork as a non-fungible token (NFT) for $688,888, Reuters reports. Sophia teamed up ...",

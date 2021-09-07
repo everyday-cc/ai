@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-university-of-idaho-robotics-flourish-at-north-idaho-college.md",
+      "title": "University of Idaho Robotics Flourish at North Idaho College",
+      "excerpt": "Since relocating to North Idaho College's Hedlund Building, the university's robotics program is teaching students to write software and preparing them for careers in fields such as manufacturing and cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/26fb46c/2147483647/strip/true/crop/1168x609+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb3%2F2a%2Fb551756f42647015fcf63a4856b6%2Funiversity-of-idaho.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
+      "publishedDateTime": "2021-09-07T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-large-language-models-arent-always-more-complex.md",
+      "title": "Large language models aren’t always more complex",
+      "excerpt": "Research suggests that large language models don't necessarily perform better than their smaller, better-tuned counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/",
+      "originalUrl": "https://venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/amp/",
+      "publishedDateTime": "2021-09-07T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-dell-technologies-brings-ai-to-the-edge.md",
+      "title": "Dell Technologies Brings AI To The Edge",
+      "excerpt": "Senior Analyst, Storage & Data, Steve McDowell, dives in as he recently had the opportunity to spend time with the edge and AI teams at Dell Technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6137b7eaa277f5b45b08efda%2F0x0.jpg",
+          "width": 796,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/amp/",
+      "publishedDateTime": "2021-09-07T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets.md",
+      "title": "Xilinx Showcases Powerful Adaptable Platform Solutions For Data Center, Medical, Robotics And Other Key Markets",
+      "excerpt": "It’s obvious, beyond the complementary product line synergies, why AMD was so interested in pursuing Xilinx for acquisition. This company has done more for demystifying the FPGA (Field Programmable Gate Array) and adaptive computing than many of its competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6137affbbaab67e32c274bcc%2F0x0.jpg",
+          "width": 1000,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
+      "publishedDateTime": "2021-09-07T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-self-driving-cars-are-here-and-the-leaders-may-surprise-you.md",
+      "title": "Self-Driving Cars Are Here and the Leaders May Surprise You",
+      "excerpt": "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ:TSLA) is not yet one of those launching fully autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/",
+      "originalUrl": "https://www.fool.com/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/124f6c79b50814347bec4e2f03880437.png",
+          "width": 720,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/",
+      "publishedDateTime": "2021-09-07T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-announcing-the-amazon-s3-plugin-for-pytorch.md",
       "title": "Announcing the Amazon S3 plugin for PyTorch",
       "excerpt": "Amazon S3 plugin for PyTorch is an open-source library which is built to be used with the deep learning framework PyTorch for streaming data from Amazon Simple Storage Service (Amazon S3). With this feature available in PyTorch Deep Learning Containers, you can take advantage of using data from S3 buckets",
@@ -217,7 +468,7 @@
       "originalUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -300,6 +551,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-why-ai-will-never-replace-managers.md",
+      "title": "Why AI Will Never Replace Managers",
+      "excerpt": "Computers are overtaking humans at thinking fast and slow. But they can't match our ability to think really slow--which is crucial to innovation and adaptation.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/09/why-ai-will-never-replace-managers",
+      "originalUrl": "https://hbr.org/2021/09/why-ai-will-never-replace-managers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/09/Sep21_07_1221901616.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/09/why-ai-will-never-replace-managers",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/why-ai-will-never-replace-managers",
+      "publishedDateTime": "2021-09-07T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -904,309 +1197,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-why-coders-love-the-ai-that-could-put-them-out-of-a-job.md",
-      "title": "Why coders love the AI that could put them out of a job",
-      "excerpt": "As a programmer, far from seeing the tool as risking her job she likes the idea of having AI to support her with \"the more boring parts\" of coding, like checking over complicated",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-57914432",
-      "originalUrl": "https://www.bbc.com/news/business-57914432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6736/production/_119522462_ai.janineluk-herpicture.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-57914432.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57914432.amp",
-      "publishedDateTime": "2021-09-06T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google.md",
-      "title": "Google's Newest Nest Cam Is a Solid Security Camera If You're All In With Google",
-      "excerpt": "You no longer need a subscription to get a Nest cam's best features, but you're also sacrificing some freedom to commit to Google.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
-      "originalUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655954f657b2763e4d3b212bd0751a0d.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
-      "publishedDateTime": "2021-09-06T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars.md",
-      "title": "Could That Dreaded Highway Hypnosis That Puts Human Drivers Into A Trance Befall AI Self-Driving Cars?",
-      "excerpt": "Highway hypnosis is said to befall human drivers, so the apparent question is whether AI self-driving cars could suffer likewise. Or is highway hypnosis a fictional aliment and merely a myth? See the scoop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f71e2337464fd52c091f01%2F0x0.jpg%3FcropX1%3D313%26cropX2%3D4817%26cropY1%3D233%26cropY2%3D3235",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-09-06T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-colby-brings-on-leading-researcher-to-direct-new-ai-institute.md",
-      "title": "Colby Brings On Leading Researcher To Direct New AI Institute",
-      "excerpt": "Stent was part of a project that led to several AI applications, including the Siri voice assistant on the iPhone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute",
-      "originalUrl": "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/4430736/2147483647/strip/true/crop/488x301+0+175/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F09%2Fd931f40340a5affbf92b6e924974%2Famanda-stent-488x650.jpeg",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true",
-      "cdnAmpWebUrl": "https://www-mainepublic-org.cdn.ampproject.org/c/s/www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true",
-      "publishedDateTime": "2021-09-06T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Maine Public",
-        "domain": "mainepublic.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-argo-ai-and-volkswagen-show-off-self-driving-vehicle.md",
-      "title": "Argo AI and Volkswagen show off self-driving vehicle",
-      "excerpt": "Argo AI -- the autonomous car venture backed by Volkswagen and Ford -- is gearing up for the 2021 IAA Mobility event in Munich, where it",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "originalUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-06-image-11.jpg",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "publishedDateTime": "2021-09-06T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-eager-for-ai-first-you-have-to-train-it.md",
-      "title": "Eager for AI? First you have to train it",
-      "excerpt": "Artificial intelligence can do little fresh out of the box. Few organizations understand how complex and lengthy the training process is.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
-      "originalUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/07/untitled-design16.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
-      "publishedDateTime": "2021-09-06T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

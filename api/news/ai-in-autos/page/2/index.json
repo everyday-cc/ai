@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-08-27-4-top-autonomous-vehicle-stocks-to-watch-before-september-2021.md",
-      "title": "4 Top Autonomous Vehicle Stocks To Watch Before September 2021",
-      "excerpt": "Recently, Baidu has been pushing forward with its ... But what some may not be aware of is, Alphabet also has a self-driving car project that was started more than a decade ago with the goal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
-      "publishedDateTime": "2021-08-27T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-27-good-to-know-headlines-self-driving-taxis-and-flamin-hot-cheetos-flavored-mountain-dew.md",
       "title": "‘Good to Know’ headlines: Self-driving taxis and Flamin’ Hot Cheetos flavored Mountain Dew",
       "excerpt": "NBC News' Vicky Nguyen reports on a new app that is set to offer self-driving taxis, logging into virtual meetings using A.I., and Mountain Dew’s new Flamin’ Hot Cheetos inspired drink.",
@@ -1412,6 +1378,60 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications.md",
+      "title": "Tesla Is Developing A Robot. If Combined With Neuralink, It May Have Revolutionary Healthcare Applications",
+      "excerpt": "Last week, during Tesla’s much anticipated “AI Day,” an event meant to showcase the company’s revolutionary strides in artificial intelligence technology, Musk announced the next frontier for the company: developing the Tesla Bot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61230c3d88806ceaeee3c8cd%2F0x0.jpg",
+          "width": 1200,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
+      "publishedDateTime": "2021-08-22T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     }
   ],

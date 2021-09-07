@@ -197,24 +197,33 @@
     {
       "path": "_news/2021-09-01-aws-announces-general-availability-of-amazon-managed-grafana.md",
       "title": "AWS Announces General Availability of Amazon Managed Grafana",
-      "excerpt": "NTT DATA Services, Area52, and Tech Mahindra among the customers and partners using Amazon Managed Grafana Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Grafana,",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Grafana, a fully managed data visualization service that enables customers to instantly query,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210831006079/aws-announces-general-availability-of-amazon-managed-grafana",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210831006079/aws-announces-general-availability-of-amazon-managed-grafana",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-31T15:30:00-07:00",
+      "publishedDateTime": "2021-08-31T20:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

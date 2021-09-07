@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-22-break-the-cycle-of-yesterdays-logic-in-organizational-change-and-agile-adoption.md",
+      "title": "Break the Cycle of Yesterday's Logic in Organizational Change and Agile Adoption",
+      "excerpt": "Topics discussed include deep learning, edge deployment of machine learning algorithms, commercial robot platforms ... could lead into a newborn mind set. Sadly, that is a false bias which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/yesterdays-logic-change/",
+      "originalUrl": "https://www.infoq.com/articles/yesterdays-logic-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/yesterdays-logic-change/en/headerimage/header+%2839%29-1629446490745.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-4-robotics-stocks-to-watch-this-week.md",
+      "title": "4 Robotics Stocks To Watch This Week",
+      "excerpt": "Check Out These Top Robotics Stock Amid The Increasing Interest In Automation. Robotic stocks often elicit a sense of excitement among investors. To a certain extent, investing in",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
+      "originalUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
+      "publishedDateTime": "2021-08-21T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-elon-musk-unveils-plan-for-humanoid-robot-prototype.md",
       "title": "Elon Musk Unveils Plan for Humanoid Robot Prototype",
       "excerpt": "Elon Musk said Tesla will debut a humanoid robot prototype called the Tesla Bot. Its purpose will be to perform physical labor. Musk suggested humans will be replaced in the workforce of the future.",
@@ -1314,92 +1391,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system.md",
-      "title": "FedEx Deploys new AI-Robotics E-Commerce Fulfilment System",
-      "excerpt": "FedEx to scale up “encouraging” trial of new RPSi system from Berkshire Grey, which is AI-enabled and autonomously sorts thousands of packages a day",
-      "sourceUrl": null,
-      "webUrl": "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system",
-      "originalUrl": "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://supplychaindigital.com/sites/default/files/styles/og_image/public/image/FedEx%20Delivery%20Van%20with%20Berkshire%20Grey%20Package%20Sortation%20System%20Foreground2.png?itok=svWe6DZ6",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Digital",
-        "domain": "supplychaindigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup.md",
-      "title": "Dalhousie University’s AI robotics team wins gold in RoboCup",
-      "excerpt": "The Dalhousie University's AI robotics team, CYRUS, has become the first Canadian team to win gold in the international RoboCup competition. Team CYRUS, led by research assistant Nader Zare and PhD student Mahtab Sarvmaili,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "originalUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/GettyImages-637794534.jpg",
-          "width": 836,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "publishedDateTime": "2021-08-12T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
         "images": null,
         "publishers": null,
         "authors": null

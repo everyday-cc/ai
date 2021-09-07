@@ -2,6 +2,145 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-07-23-is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation.md",
+      "title": "Is Artificial Intelligence The New Logistics Technology For Organ Transportation?",
+      "excerpt": "Twenty people die each day because they do not receive their lifesaving organs on time. Can AI and drones make a real change?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f9f44dc600c230ca922553%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/23/is-artificial-intelligence-the-new-logistics-technology-for-organ-transportation/amp/",
+      "publishedDateTime": "2021-07-23T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-voice-recognition-expands-across-healthcare-and-transportation.md",
+      "title": "Voice Recognition Expands Across Healthcare and Transportation",
+      "excerpt": "Voice recognition has gained momentum within key application areas like digital banking, automotive control, healthcare, and consumer electronics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcetoday.com/industries/article/21170454/voice-recognition-expands-across-healthcare-and-transportation",
+      "originalUrl": "https://www.sourcetoday.com/industries/article/21170454/voice-recognition-expands-across-healthcare-and-transportation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.sourcetoday.com/files/base/ebm/sourcetoday/image/2021/07/Voice_recognition_promo.60c0c0cb43e4c.60fae3addc405.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sourcetoday",
+        "domain": "sourcetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-robots-take-the-wheel-lyft-to-offer-driverless-rides-in-austin-next-year.md",
+      "title": "Robots take the wheel: Lyft to offer driverless rides in Austin next year",
+      "excerpt": "Austin will be one of the first markets to offer autonomous ride-hailing options through a partnership between Lyft, Ford and Argo AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "originalUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/def4af00-1044-45e0-8c46-e92a92bca497-Lyft-Argo-Ford_AV_Escape_Hybrid_02.jpg?auto=webp&crop=7359,4140,x0,y376&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.statesman.com/amp/8058042002",
+      "cdnAmpWebUrl": "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002",
+      "publishedDateTime": "2021-07-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-how-an-ai-entrepreneur-deals-with-dirty-real-world-data.md",
       "title": "How an AI entrepreneur deals with dirty real-world data",
       "excerpt": "All the sessions from Transform 2021 are available on-demand now. Watch now. Women in the AI field are making research breakthroughs, spearheading vital ethical discussions, and inspiring the next generation of AI professionals.",
@@ -1028,128 +1167,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure.md",
-      "title": "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure",
-      "excerpt": "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure",
-      "originalUrl": "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-the-future-of-online-testing-lies-in-ai.md",
-      "title": "The future of online testing lies in AI",
-      "excerpt": "In addition to facial, object, or sound recognition, some modern AI proctoring solutions can do even more exciting and advanced things. A good example would be the analysis of the eye and mouth movements, which can detect when the examinee has a book or ...",
-      "sourceUrl": null,
-      "webUrl": "https://praguemonitor.com/columnists/born-digital/22/07/2021/the-future-of-online-testing-lies-in-ai/",
-      "originalUrl": "https://praguemonitor.com/columnists/born-digital/22/07/2021/the-future-of-online-testing-lies-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://praguemonitor.com/wp-content/uploads/2021/07/mometrix-test-prep-zUDfUREDH1o-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prague Daily Monitor",
-        "domain": "praguemonitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-study-gene-therapy-may-protect-against-vision-loss-from-glaucoma-diabetes.md",
-      "title": "Study: Gene therapy may protect against vision loss from glaucoma, diabetes",
-      "excerpt": "A new form of gene therapy may help prevent vision loss caused by diabetic retinopathy and glaucoma, according to a study published Thursday by the journal Cell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
-      "originalUrl": "https://www.upi.com/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/1131626965438/2021/1/8678551491ec528750efc72fc88df1f0/v1.5/Study-Gene-therapy-may-protect-against-vision-loss-from-glaucoma-diabetes.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
-      "publishedDateTime": "2021-07-22T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

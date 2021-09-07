@@ -9,8 +9,8 @@ ampWebUrl: "https://buffalonews.com/news/local/education/parents-lawsuit-over-lo
 cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Buffalo News
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lockport school security-related litigation ends"
-    excerpt: "According to the law firm, since NYCLU's ultimate objective was to force the shutdown of the district's Aegis system — the software system that enabled facial and object recognition through surveillance cameras in school buildings — the district faced ..."
-    publishedDateTime: 2021-09-03T02:21:00Z
-    webUrl: "https://www.lockportjournal.com/news/local_news/lockport-school-security-related-litigation-ends/article_4726719a-d291-5d6b-b9d4-1f85f4dfeb62.html"
-    type: article
-    provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 41
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/5/bb/5bb1e53c-8718-560c-b134-ff68528cd62b/613188afda9b7.image.jpg?resize=800%2C534"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Lawsuit over face biometrics in school security system ruled no longer relevant"
     excerpt: "A state law signed in December 2020 invalidated the approval of Lockport School District’s face biometrics system by the state Education Department."
     publishedDateTime: 2021-09-07T16:45:00Z

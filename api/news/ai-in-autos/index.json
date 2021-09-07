@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-self-driving-cars-are-here-and-the-leaders-may-surprise-you.md",
+      "title": "Self-Driving Cars Are Here and the Leaders May Surprise You",
+      "excerpt": "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ:TSLA) is not yet one of those launching fully autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/",
+      "originalUrl": "https://www.fool.com/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/124f6c79b50814347bec4e2f03880437.png",
+          "width": 720,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/07/self-driving-cars-are-here-and-the-leaders-may-sur/",
+      "publishedDateTime": "2021-09-07T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-tesla-tsla-full-self-driving-beta-software-has-leaked.md",
       "title": "Tesla (TSLA) Full Self-Driving Beta software has leaked",
       "excerpt": "Beta software has leaked, and it’s being passed around in the Tesla hacking community. Fortunately, it’s not for any nefarious reason. As of now, Tesla’s FSD Beta software is only being tested internally and as part of the automaker’s “early access program,",
@@ -34,58 +86,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars.md",
-      "title": "Could That Dreaded Highway Hypnosis That Puts Human Drivers Into A Trance Befall AI Self-Driving Cars?",
-      "excerpt": "Highway hypnosis is said to befall human drivers, so the apparent question is whether AI self-driving cars could suffer likewise. Or is highway hypnosis a fictional aliment and merely a myth? See the scoop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f71e2337464fd52c091f01%2F0x0.jpg%3FcropX1%3D313%26cropX2%3D4817%26cropY1%3D233%26cropY2%3D3235",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/06/could-that-dreaded-highway-hypnosis-that-puts-human-drivers-into-a-trance-befall-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-09-06T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -285,58 +285,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards.md",
-      "title": "Self-Driving Cars Doing The Tango With Those Heroic School Crossing Guards",
-      "excerpt": "School crossing guards are daily heroes, and it will be important that self-driving cars can be devised to work hand-in-hand with them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602357e93d2febddf0f0dcb7%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D1632%26cropY1%3D28%26cropY2%3D1091",
-          "width": 1200,
-          "height": 946,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/",
-      "publishedDateTime": "2021-09-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1451,6 +1399,40 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-4-top-autonomous-vehicle-stocks-to-watch-before-september-2021.md",
+      "title": "4 Top Autonomous Vehicle Stocks To Watch Before September 2021",
+      "excerpt": "Recently, Baidu has been pushing forward with its ... But what some may not be aware of is, Alphabet also has a self-driving car project that was started more than a decade ago with the goal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
+      "originalUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-autonomous-vehicle-stocks-to-watch-before-september-2021-2021-08-27?amp",
+      "publishedDateTime": "2021-08-27T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

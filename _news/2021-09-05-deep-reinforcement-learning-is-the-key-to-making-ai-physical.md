@@ -75,6 +75,22 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Deep Learning to Predict Breast Cancer Risk"
+    excerpt: "Deep learning, a type of artificial intelligence (AI) helps differentiate between the mammograms of women who will later develop breast cancer."
+    publishedDateTime: 2021-09-07T18:28:00Z
+    webUrl: "https://www.medindia.net/news/deep-learning-to-predict-breast-cancer-risk-203197-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/deep-learning-to-predict-breast-cancer-risk-203197-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/deep-learning-to-predict-breast-cancer-risk-203197-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/breast-cancer-4.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "jjGluWlWjfWxfJNgbX6tna/4ihWfaktAa/8VYDVQcJeu8Oh7RKmT+dVrwr7gX+xcW1J+wl2jsjFo8cLkhpE4lQniM1S5EYaA6bQzbqkveFfN0t1lFmdxkaKKaH7icGT0rwGsq9QnRmVlcWbjT0scnyV0edC0BRxQu79d9lyIf8hgDELJdIhhqZTpWXwx4zZIcXRKouWcC/xY1fUbaRaeyhrgHMVF9QfFCZY+Md6MIjl+D0k1GGGYJii5ko3zqljHx9ZoYpSxsu7A/yqSEL04KP5vJEs3lT+tnMeeTJZkCOyoCgHaBu5BubkdBo9zB/eIRNMYTeNKGbanhUseN80C2t/0uRMSs/lqe0esneiME6pfW5jhQembpGb8WTAbYtrWZd4/0K61/z7gswJbvEctKJpqJSY3Ci3TQW62d4Y+x6CzDjF8apn+WGIRG3J5b7Hedc5C/WtEHFexgD3+zulXve8zCrhM9AIIbXL/oqGlEu6CauN60lcttRSbNL6s5BhcT5iPklZs+BNrEjDYpF0j6g==;7cEP4FR72BBfwOuDipnc8g=="
 ---

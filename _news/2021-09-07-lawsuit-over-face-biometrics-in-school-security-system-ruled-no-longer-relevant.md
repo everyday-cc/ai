@@ -42,20 +42,6 @@ related:
         width: 1024
         height: 759
         isCached: true
-  - title: "Lockport school security-related litigation ends"
-    excerpt: "According to the law firm, since NYCLU's ultimate objective was to force the shutdown of the district's Aegis system — the software system that enabled facial and object recognition through surveillance cameras in school buildings — the district faced ..."
-    publishedDateTime: 2021-09-03T02:21:00Z
-    webUrl: "https://www.lockportjournal.com/news/local_news/lockport-school-security-related-litigation-ends/article_4726719a-d291-5d6b-b9d4-1f85f4dfeb62.html"
-    type: article
-    provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 41
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/5/bb/5bb1e53c-8718-560c-b134-ff68528cd62b/613188afda9b7.image.jpg?resize=800%2C534"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "EbRzOPv+uZgGmojQnk3CoWGeysTtS3+lEBqJzspvwozj9kNhsuJNTcmkiNl3ZGMOYiwxAmzQPpvbg1n46FMnV9gIBOGZ2JT6HYVPXHz6DXlhs9wPRg3SJ5hjMifoIm5uoj02n0krzRWqxEmpy7YX3k8Pxfh/DadSUM9JtdM6M2cxbbTvuOiOmfCh33y53lx8Gz0T0m14TgzNmSNkxWN2UCxvRzBmD3+ltjorBQKftMV93UC1RjCyEXkofOfVguQ8UQUEHEh3B0AREPwBBqwduxD6u502t0RnrDfNattE4SbWkis76HRshAdplZo8YszTUWyn1Iwv0OdobehAckrB1HFGZV4dPCop/ZI79RY6OoE=;OIvnuTuertjbQIYYl0ZHKw=="
 ---

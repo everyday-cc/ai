@@ -2,22 +2,22 @@
 category: news
 title: "Machine vision: MVTec launches MERLIC 5 and adds deep learning to easy-to-use software"
 excerpt: "User-friendly deep learning features • Greater flexibility, thanks to new licensing model • Release date: October 7, 2021"
-publishedDateTime: 2021-09-07T12:51:00Z
-originalUrl: "https://www.manufacturingtomorrow.com/content.php?post=17525"
-webUrl: "https://www.manufacturingtomorrow.com/content.php?post=17525"
+publishedDateTime: 2021-09-07T12:45:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=17417"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=17417"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: Manufacturing
-  domain: manufacturingtomorrow.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "sfBtl1nVtdbz4vVmmGxDEqdlDkSjnVo2HVUpUmsX7wQM29N1nwkJ95K8rYbZpYcLWjx5bVD4uUiKhmbP4S3iwqCsOh82hzmXzFjy6vREFmumLLNoaDsAWdeF6uco4vgdyLoUT6KW7mvYt/u8ZZ/FtGmYqPKJ4s2iHneJh7CzmE/y7yUHT+0ROG2GJLxC/NxuJ2xeDUzwmn8gACxiF7Tb7wgle8OkZ8hQhu/QNYQPwCQRMLlf2qU90wk2JgifbVvk2KFBq25Wvb5Vg+f5VzTCwifloyaznkYFFtVaOJn5z6nZEXD9S7v1VYeixv7eLayOlsfqDg2xiQE+9Dq/l2CVFgfDKij40ZRM14Pg3lDHOFY=;wobEj/iM/9x2U6nmGKnnGQ=="
+secured: "1hQuDIISPZNcUDYLhq3TkhZu2ZP11nGJ+jYkPq4zSw7oGgiH9lWkuVaxwlVHKi7E//cWDdrlfy/yLHpuPSoZSDCfPu8AoofMQxYM8zgUtE0VU1yCj1mPmttsywHQYlSRI7h2UZH8MASJJJxCN8ByFS5/GzPoeCXVvbDvEhuXuwpva23NngBT5iow74WjsRqVzLzEm9/MnGkLkcVMyUIWjaylA6FQmhHtqwBxpr/beDTZoi5xr/rD7FCzlQv+4OBTS9D6ygE2Q1Qc5Jj1q0p1qQ+vC/3hNsKOQ7v8cCsi0bRgOo+OYyzUTzGS9ecMYpG9Ffef5gqckfZsXwij61aAiFD6FYRUDsItXOUriY4xhlI=;9gLwfetOM+2Kp7SAT/NB7w=="
 ---
 

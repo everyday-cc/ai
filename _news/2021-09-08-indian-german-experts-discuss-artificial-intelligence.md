@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-07T17:11:00Z
 originalUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
 webUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 related:
   - title: "VW’s Self-Driving Partner Closing In on German Public Road Tests"

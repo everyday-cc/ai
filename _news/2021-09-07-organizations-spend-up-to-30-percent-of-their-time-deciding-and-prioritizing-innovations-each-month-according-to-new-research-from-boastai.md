@@ -1,40 +1,23 @@
 ---
 category: news
 title: "Organizations Spend Up To 30 Percent of Their Time Deciding and Prioritizing Innovations Each Month, According to New Research from Boast.AI"
-excerpt: "Boast.AI ®, the fast-growth FinTech platform that helps companies identify, claim and finance R&D tax credits and government incentives, today announced key findings from its custom research into the innovation management practices of founders,"
-publishedDateTime: 2021-09-07T16:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/organizations-spend-up-to-30-percent-of-their-time-deciding-and-prioritizing-innovations-each-month-according-to-new-research-from-boast-ai-1030784913"
-webUrl: "https://markets.businessinsider.com/news/stocks/organizations-spend-up-to-30-percent-of-their-time-deciding-and-prioritizing-innovations-each-month-according-to-new-research-from-boast-ai-1030784913"
+excerpt: "According to Forrester, companies that lead in innovation grow 260% faster than companies that do not. Boast.AI's new research reveals that 85 percent of business leaders say investing in innovation is very important or extremely important,"
+publishedDateTime: 2021-09-07T16:26:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-organizations-spend-up-30-percent-their-time-deciding-/2021/09/07/9444038.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-organizations-spend-up-30-percent-their-time-deciding-/2021/09/07/9444038.htm"
 type: article
-quality: 14
-heat: -1
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Artificial Intelligence For Automating Recruitment Flow Is Surging Integrated Talent Management Market Demand"
-    excerpt: "In the past few years, talent management has become an integral part of every organization, due to the increasing concerns of companies in acquiring top talents to cater to their business needs. There has been a growth in social recruiting,"
-    publishedDateTime: 2021-09-06T15:09:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-for-automating-recruitment-flow-is-surging-integrated-talent-management-market-demand/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-for-automating-recruitment-flow-is-surging-integrated-talent-management-market-demand/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-for-automating-recruitment-flow-is-surging-integrated-talent-management-market-demand/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 20
-
-secured: "oIfDDsnQYuO7ajrQnEoD8D6wRzep96mB2BGjKMqO28LAnZoJGavq7piwCU8ZQJKDRakWD3edDdQ8jXFQmWhf3Cn4FTsWt7ldPiu4EDpphGBFeh1fXU12z1OwK19HeMa9khBwjVe9xZh6p+MW7Ctp2wFk3tdmgrH4KXCAwt2ICpR5iIkcxwjftsadp7cKWwyBIxpr0Hhwk9JcyRUfjhpFyGm3deYz2i2ebvnq1tqGjMepQluka3CNj4mscutecSa88feGVlj+k4Ubv8JFfW5/808GH7o0/iuEHwCDzD4AsbBhp1r5CmtNF97/hT4uB0CoY8lMgaBmHk3e45v9TAOcrLkEecXyvA39XtBdGybKPFk=;2bt1SNTuBWYXILu6ExslTA=="
+secured: "sXsB1HFGK2+QTUigh5f/1PsATg1EzEu3LaGlr/4ZxqeQYOaTJYH9HQQVoV2o4BW+k0rqJkezgi7nToUhTVeLbSQh7Dk/hg5N8ICuMTY1RQH0JozWf6PnU8ZxSNiDWXO6U5F6kkPl3Ww34tUYdTm2s4DooK0cZzlfXNFKhUgvCeNrSCNOSymS0H8fumpOIXcb25aMJ31HuMhaUInPJfh0S/HSZ5Q/vM8lWEE1YbI5WszCegRLZapehIvSaJ3Eb+M23wUHn5Vm5yrnaYv7s8o4rU5R2z/IFiUNi3b+tTMmmPCAed0Pip96gBKJtHSSnxAeS94EyiNHXNFZgU0O1ZpWvyyyLFIEkEEBtrFEGVpQpi4=;4gXT/yHtAI1wfxJPfNkEOQ=="
 ---
 

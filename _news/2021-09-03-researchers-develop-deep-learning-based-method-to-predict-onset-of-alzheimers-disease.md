@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210903/Researchers-develop-d
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210903/Researchers-develop-deep-learning-based-method-to-predict-onset-of-Alzheimere28099s-disease.aspx"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Researchers develop a machine learning-based screening tool for genetic syndromes in children"
-    excerpt: "With an average accuracy of 88%, a deep learning technology offers rapid genetic screening that could accelerate the diagnosis of genetic syndromes, recommending further investigation or referral to a specialist in seconds,"
-    publishedDateTime: 2021-09-03T02:37:00Z
-    webUrl: "https://www.news-medical.net/news/20210902/Researchers-develop-a-machine-learning-based-screening-tool-for-genetic-syndromes-in-children.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210902/Researchers-develop-a-machine-learning-based-screening-tool-for-genetic-syndromes-in-children.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210902/Researchers-develop-a-machine-learning-based-screening-tool-for-genetic-syndromes-in-children.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Children_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Machine Learning Tool Detects Genetic Syndromes in Children"
-    excerpt: "Children’s National Hospital researchers developed a machine learning tool that offers rapid genetic screening, potentially accelerating the diagnosis of genetic syndromes in children."
-    publishedDateTime: 2021-09-06T13:32:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-detects-genetic-syndromes-in-children"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Data_funnel.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "MVf8xWCSK03y+/9lP0LNfgHvUpHYsnFt/Fr74if/b+jr3XBlgnsWy7LJdH3FEhGukr0VDpBEhClVTyLHWbgxRLN7V8JHBPnkBvvnVKvWzCB3Gtj4Mzt/6MM+WNrgixBGhPcuiufa5/Ag3zM/ugUMXlK/vvby8J5sIeDbWRdr3q+OhjjtLLlh8G+3esXa6u1Di7wqMPrjbsry8Bk7QE+OUxjWPSv6D2hVpY7WTB8Wk3IBrALt0qTpQa3yi0DHGtp3cGTYCE3PJko9dnm9tI/AFqsk3/6KKnGWBjkulaJZ2EjLgM76hlcBsTZyevozqvrUh+PmOPctant67Rc9ILGxwM7g2/uhR5jrnEtCde0IpEc=;EjQhYvl+h75IgE86bzJTyg=="
 ---

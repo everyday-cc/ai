@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets.md",
+      "title": "Xilinx Showcases Powerful Adaptable Platform Solutions For Data Center, Medical, Robotics And Other Key Markets",
+      "excerpt": "It’s obvious, beyond the complementary product line synergies, why AMD was so interested in pursuing Xilinx for acquisition. This company has done more for demystifying the FPGA (Field Programmable Gate Array) and adaptive computing than many of its competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6137affbbaab67e32c274bcc%2F0x0.jpg",
+          "width": 1000,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
+      "publishedDateTime": "2021-09-07T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions.md",
       "title": "4 ways AI, computer vision, and related technologies expand IoT solutions",
       "excerpt": "Intel and Microsoft Azure are working together to help enterprises deploy intelligent IoT technologies and services, including AI’s deep learning abilities, computer vision, and audio or speech capabilities. Adding these capabilities enables solutions to solve more business challenges, uniting two or",
@@ -1369,49 +1422,6 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-accelerators-in-india-microsoft-accelerator-gets-14-startups-for-11th-cohort.md",
-      "title": "Accelerators In India: Microsoft Accelerator Gets 14 Startups For 11th Cohort",
-      "excerpt": "The startups will also adopt Microsoft Azure, to make use of its advanced cloud services in areas such as big data, IoT, advanced analytics and cognitive services. This time around, the Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/microsoft-accelerator-11-startups/",
-      "originalUrl": "https://inc42.com/buzz/microsoft-accelerator-11-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2017/08/MS-Accelerator_11th-cohort.jpg",
-          "width": 1000,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/microsoft-accelerator-11-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/microsoft-accelerator-11-startups/amp/",
-      "publishedDateTime": "2021-08-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null

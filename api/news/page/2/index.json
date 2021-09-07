@@ -2,6 +2,257 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-07-why-coders-love-the-ai-that-could-put-them-out-of-a-job.md",
+      "title": "Why coders love the AI that could put them out of a job",
+      "excerpt": "As a programmer, far from seeing the tool as risking her job she likes the idea of having AI to support her with \"the more boring parts\" of coding, like checking over complicated",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-57914432",
+      "originalUrl": "https://www.bbc.com/news/business-57914432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6736/production/_119522462_ai.janineluk-herpicture.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-57914432.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57914432.amp",
+      "publishedDateTime": "2021-09-06T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google.md",
+      "title": "Google's Newest Nest Cam Is a Solid Security Camera If You're All In With Google",
+      "excerpt": "You no longer need a subscription to get a Nest cam's best features, but you're also sacrificing some freedom to commit to Google.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
+      "originalUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655954f657b2763e4d3b212bd0751a0d.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
+      "publishedDateTime": "2021-09-06T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-colby-brings-on-leading-researcher-to-direct-new-ai-institute.md",
+      "title": "Colby Brings On Leading Researcher To Direct New AI Institute",
+      "excerpt": "Stent was part of a project that led to several AI applications, including the Siri voice assistant on the iPhone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute",
+      "originalUrl": "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/4430736/2147483647/strip/true/crop/488x301+0+175/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F09%2Fd931f40340a5affbf92b6e924974%2Famanda-stent-488x650.jpeg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true",
+      "cdnAmpWebUrl": "https://www-mainepublic-org.cdn.ampproject.org/c/s/www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true",
+      "publishedDateTime": "2021-09-06T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maine Public",
+        "domain": "mainepublic.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-argo-ai-and-volkswagen-show-off-self-driving-vehicle.md",
+      "title": "Argo AI and Volkswagen show off self-driving vehicle",
+      "excerpt": "Argo AI -- the autonomous car venture backed by Volkswagen and Ford -- is gearing up for the 2021 IAA Mobility event in Munich, where it",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "originalUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-06-image-11.jpg",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "publishedDateTime": "2021-09-06T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-eager-for-ai-first-you-have-to-train-it.md",
+      "title": "Eager for AI? First you have to train it",
+      "excerpt": "Artificial intelligence can do little fresh out of the box. Few organizations understand how complex and lengthy the training process is.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
+      "originalUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/07/untitled-design16.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
+      "publishedDateTime": "2021-09-06T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-middle-east-companies-training-staff-for-ai-powered-jobs.md",
       "title": "Middle East companies training staff for AI-powered jobs",
       "excerpt": "Around 38% of companies in the UAE, and 45% in Saudi Arabia, are now preparing the workforce for a more automated and AI-powered future.",
@@ -945,229 +1196,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-parents-lawsuit-over-lockport-facial-recognition-system-ends.md",
-      "title": "Parents' lawsuit over Lockport facial recognition system ends",
-      "excerpt": "A judge said the approval was invalidated when former Gov. Andrew M. Cuomo signed a law in December 2020 banning the use of facial recognition technology in schools.",
-      "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
-      "originalUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/45/f4555f2d-8ce6-550b-82e9-417e781ab8b7/5ef133e01db3f.image.jpg?resize=1024%2C759",
-          "width": 1024,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
-      "cdnAmpWebUrl": "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
-      "publishedDateTime": "2021-09-03T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-open-source-powers-ai-yet-policymakers-havent-seemed-to-notice.md",
-      "title": "Open source powers AI, yet policymakers haven't seemed to notice",
-      "excerpt": "Commentary: Open source is driving AI policy without policymakers getting involved, argues a Brookings Institution briefing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
-      "originalUrl": "https://www.techrepublic.com/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
-      "publishedDateTime": "2021-09-03T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-judge-ends-nyclu-suit-against-school-facial-recognition.md",
-      "title": "Judge Ends NYCLU Suit Against School Facial Recognition",
-      "excerpt": "(TNS) — A lawsuit brought by New York Civil Liberties Union last year to prevent Lockport City School District from operating its facial recognition-capable camera surveillance system was made moot by a state judge this week. In June 2020, NYCLU filed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition",
-      "originalUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/ba59e6e/2147483647/strip/true/crop/770x402+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F14%2F03%2F506a237091747e4114b6347d85d7%2Ffacial-21.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition?_amp=true",
-      "publishedDateTime": "2021-09-03T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers.md",
-      "title": "Rank One to campaign for ethical facial recognition commitment from providers",
-      "excerpt": "Rank One Computing declares its intention to take a strong stand on ethics in facial recognition use, in coordination with the Security Industry Association.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers",
-      "originalUrl": "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg",
-          "width": 1800,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-ai-computers-cant-patent-their-own-inventions-yet-a-us-judge-rules.md",
-      "title": "AI computers can’t patent their own inventions — yet — a US judge rules",
-      "excerpt": "Should an artificially intelligent machine be able to patent its own inventions? For a US federal judge, the larger implications of that question were irrelevant. In April 2020, the US Patent and Trademark Office (USPTO) ruled that only “natural persons” could be credited as the inventor of a patent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/ai-computers-can-e2-80-99t-patent-their-own-inventions-e2-80-94-yet-e2-80-94-a-us-judge-rules/ar-AAO4Cwd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Hw9l4d7GJUeQMfW7HdoXKd9SSvg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69814569/jbareham_170215_1460_0001_v2_5_2.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
-      "publishedDateTime": "2021-09-03T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
-        "domain": "theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-06-24-big-techs-car-obsession-is-all-about-taking-eyes-off-the-road.md",
-      "title": "Big Tech’s Car Obsession Is All About Taking Eyes Off the Road",
-      "excerpt": "Apple, Google and others are pushing into autonomous driving for a reason: to free up hours behind the wheel and precious screen time",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-24/big-tech-s-car-obsession-is-all-about-taking-eyes-off-the-road",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-24/big-tech-s-car-obsession-is-all-about-taking-eyes-off-the-road",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iswQJFFIgDr4/v1/1200x683.jpg",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-24-tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper.md",
       "title": "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper",
       "excerpt": "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ...",
@@ -1400,6 +1348,40 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-thirty-tesla-crashes-including-10-deaths-linked-to-assisted-driver-system-are-being-investigated-by-us-safety-agency.md",
+      "title": "THIRTY Tesla crashes including 10 deaths linked to assisted driver system are being investigated by U.S. safety agency",
+      "excerpt": "It does not turn a Tesla into a self-driving car nor does it make a car autonomous. Before enabling Autopilot, driver must ... federal investigators found. The NTSB, in a preliminary report ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2021/06/29/autonomous-car-makers-report-crashes-federal-government/",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-9698801/U-S-safety-agency-says-opened-probes-10-Tesla-crash-deaths-2016.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2021/06/29/autonomous-car-makers-report-crashes-federal-government/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2021/06/29/autonomous-car-makers-report-crashes-federal-government/amp/",
+      "publishedDateTime": "2021-06-17T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],
