@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is Artificial Intelligence Set To Take Over The Art Industry?"
+    excerpt: "So far, AI has only demonstrated an ability to study and understand existing art and to somehow enhance or combine them to produce something new, and in some cases, something better."
+    publishedDateTime: 2021-09-06T23:48:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6136a7177db7c524b9bef9ef%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5148%26cropY1%3D310%26cropY2%3D3206"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Role of Artificial Intelligence in IoT"
     excerpt: "Currently, the business world has changed drastically with the adoption of IoT. It is helping the businesses to gather a lot"
     publishedDateTime: 2021-09-02T10:01:00Z

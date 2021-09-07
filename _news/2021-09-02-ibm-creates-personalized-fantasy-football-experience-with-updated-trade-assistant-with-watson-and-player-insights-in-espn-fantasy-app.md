@@ -48,6 +48,6 @@ related:
       domain: euroweeklynews.com
     quality: 24
 
-secured: "reSmMPVsAM5X/PN8SaON9uh/baA7+CunHdZ+GSY/d6KB0NOCBcA0WEKQ1uftmWkw3vAhqSJ0fQoe7SbZhxBssIH9lGC8k9KqPRfZi98Aq9VGIriu+Tt5hSgTgKVf4s1i5V1zDaT7799I646DOsft7gKihBOP+D1XO/kD7mjKVXjrWRcywMQcecZP5e7eMBrO+/vUpZmZzyUUKlSi+t2H3pwlaD6np69N9aww04NH+s2Cvud5j4A+EEobp0iOLu/RLp/WIJLl2sNeIuoOjZ719mo5cvOXZuPN7brBeK+3xXlztfFFD+L60LfabeMiIUg3kVoytUXRHR7ZifJ7/fDCUzyunzf5HZi564q53qMHZBo=;w6Z3SdJv1b6DiQueJTlZdw=="
+secured: "6xZC/w7eVbepUEZfju0LEWpakaPpmeEscqfgHyj0XO8P/NBnUsZPPVMITFdXJEo4dYtPMm3hQoLlqFDLUPOW34Ti6ciygCzfldMAvTt6Z4QD1TRcKU2fq1RCO7IsbB1tR/rbOe74POEzkdKhJ/AcJdOfY8fZ/tjK2eckWcDVLrDen57OEMH6bSPn6n/IrMdwTi1IYvgEOwvlYMqF1CTjBMNko21+EivjhKnzRs4o9+aZm4dfTquqPXtIDdvfj+4i3O82q4T14E1G2e13I/++XHkF/z6azX1ep7grphXIn403eBO6isxARag/I0gsTypSpheRW9fZnq1+5P/Bq3t4zjodEtQ02mjLuYnnf8HPSQE=;bitXdUGvyxpF5COMINocfg=="
 ---
 

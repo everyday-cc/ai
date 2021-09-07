@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-06-24-infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars.md",
-      "title": "Infineon creates radar sensors to monitor people in self-driving cars",
-      "excerpt": "Infineon Technologies has radar sensors that can monitor the well being of drivers and passengers in self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/",
-      "originalUrl": "https://venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/infineon.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/amp/",
-      "publishedDateTime": "2021-06-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-24-teslas-new-supercomputer-will-drive-autopilot-full-self-driving-features.md",
       "title": "Tesla's new supercomputer will drive autopilot, full self-driving features",
       "excerpt": "Tesla unveiled new images on Sunday of its in-house supercomputer, which will be used to help power the electric vehicle maker's autopilot and full self-driving (FSD) capabilities. ELON MUSK ...",
@@ -1390,6 +1338,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know.md",
+      "title": "Baidu's Low-Cost Robotaxi Apollo Moon Launches: What You Need To Know",
+      "excerpt": "Chinese search engine Baidu, Inc.'s (NASDAQ: BIDU) Apollo self-driving unit has launched a new low-cost robotaxi. What Happened: Baidu, in partnership with BAIC Group's electric vehicle brand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/21/06/21601949/baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know",
+      "originalUrl": "https://www.benzinga.com/news/21/06/21601949/baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/e-hs3_b31ecce.jpg",
+          "width": 3021,
+          "height": 1320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21601949",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601949",
+      "publishedDateTime": "2021-06-17T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

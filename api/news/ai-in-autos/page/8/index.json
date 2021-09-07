@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-through-spac.md",
-      "title": "Self-Driving Startup Aurora to Go Public Through SPAC",
-      "excerpt": "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-370052/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "publishedDateTime": "2021-07-15T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion.md",
       "title": "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion",
       "excerpt": "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023.",
@@ -1363,6 +1311,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026.md",
+      "title": "Europe Artificial Intelligence Chipsets Market by Size, Growth, Opportunity and Forecast to 2026",
+      "excerpt": "Selbyville, Delaware According to the research report titled 'Europe Artificial Intelligence Chipsets Market Size",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026-2021-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-chipsets-market-by-size-growth-opportunity-and-forecast-to-2026-2021-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

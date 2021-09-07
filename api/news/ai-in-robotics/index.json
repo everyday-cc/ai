@@ -53,7 +53,7 @@
       "originalUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -87,50 +87,6 @@
         "Machine Learning",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-top-12-high-growth-artificial-intelligence-stocks.md",
-      "title": "Top 12 High-Growth Artificial Intelligence Stocks",
-      "excerpt": "AI is a large, complex universe covering many industries and technology megatrends. Here are 12 high-growth stocks that harness the power of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/03/top-12-high-growth-artificial-intelligence-stocks/",
-      "publishedDateTime": "2021-09-03T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     },
     {
@@ -1389,6 +1345,58 @@
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley.md",
+      "title": "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley",
+      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "originalUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

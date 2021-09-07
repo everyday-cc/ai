@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovat
 webUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovative-startup-fix?ref=recommender-705042"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Fundamentals, not fiction: This fund wants to help startups scale with AI"
+    excerpt: "By leveraging Liquidity’s proprietary AI-powered data integration tool, the debt fund offers an alternative funding solution that could rewrite how corporate credit works. To find out more about how Mars Growth Capital can help your startup access ..."
+    publishedDateTime: 2021-09-03T06:24:00Z
+    webUrl: "https://www.techinasia.com/fundamentals-fiction-fund-startups-scale-ai?ref=recommender-703566"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 46
 
 secured: "6lRFxKlHlH+PRiIwasPM2uMyZ0dbCuyU3RpAC+LsZV1z/wpJqlgYmLIzREUoNVBoF2FTYG2OyHrLJHOJpnaYgW1PLyXnTNzOJA5Zuir/NBTGHkf5yJskNsDzSyDJ+svTxt8wCGOOo7lVPXH6B4Gn4LEQPzWvByMWprXy5RF2NVBwqRcckmRaQeLfWgjn4TOfGkz/fCg6FiqzyH8IbuIJ+/Eo2aibcae3Unxbnb7D0dTPrEAZCCSTQdrzucQUHMT/m2D+nl+YUdcF6sZi5G3/sg62e2JPWmBAADn163fPj59lnVwwqwMuIf5Xnl3a3Tk9STpHZ2YS2HRDF+2fdA6K61BsqRtJZR9SDIEW4sgSjVZj9sY7P0zCn4FNVlwsK9xZ/84xVidva6qyWwIZAPVBZZQfW9OskqH1cXuqqH9KdOiwKlmKoeymm6jbdqPeYQi66ctAl1tyTKQz85XhcjdsJ4wo4c4NRj4xYx4Ej4E4aDprjPhk0rcRahG29/+tLirU5BwVjCn6gH+sQj3PkT3N/A==;33z4e1zKhkcUcPngjqKQQg=="
 ---
