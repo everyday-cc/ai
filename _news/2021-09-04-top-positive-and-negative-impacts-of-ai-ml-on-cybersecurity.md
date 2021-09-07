@@ -28,7 +28,7 @@ related:
   - title: "Artificial intelligence is the future of cybersecurity"
     excerpt: "Cybercriminals are using artificial intelligence (AI) to evolve the sophistication of attacks at a rapid pace. In response, an increasing number of organisations are also adopting the technology as part of their cybersecurity strategies."
     publishedDateTime: 2021-09-06T07:15:00Z
-    webUrl: "https://www.technologyrecord.com/Article/artificial-intelligence-is-the-future-of-cybersecurity-125678"
+    webUrl: "https://www.technologyrecord.com/Home/artificial-intelligence-is-the-future-of-cybersecurity-125725"
     type: article
     provider:
       name: technologyrecord.com

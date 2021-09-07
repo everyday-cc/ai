@@ -2,19 +2,23 @@
 category: news
 title: "Why coders love the AI that could put them out of a job"
 excerpt: "As a programmer, far from seeing the tool as risking her job she likes the idea of having AI to support her with \"the more boring parts\" of coding, like checking over complicated"
-publishedDateTime: 2021-09-06T23:12:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-57914432"
-webUrl: "https://www.bbc.co.uk/news/business-57914432"
-ampWebUrl: "https://www.bbc.co.uk/news/business-57914432.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57914432.amp"
+publishedDateTime: 2021-09-06T23:11:00Z
+originalUrl: "https://www.bbc.com/news/business-57914432"
+webUrl: "https://www.bbc.com/news/business-57914432"
+ampWebUrl: "https://www.bbc.com/news/business-57914432.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57914432.amp"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -25,6 +29,6 @@ images:
     height: 576
     isCached: true
 
-secured: "MGC7OEpb1uCHmKTQUb/oxy12wnQIo+lQNt/RJuVorAZChQvM/GJ9f/N5X22geotZHi9KtGnJIHPugncV5Saf9oqGW1FlEaGNTmBm9R0XpidNZ/b3SgGVwk188DSuUZ5TyL2n79fx3QeI6/iRRYO7r4MLkPHB0nSNcvomooK3s0J88iF2NQCfixeUdje6fbTgbwEd9xYzRmu671Dn6dDFDfzH7koOI1SUojHgAj0jkAsOPyOHVaR1hzjycJtR5DkcU02EG58LFHryGzU/kNnzJp43Fen6uy5PKeRWU8Ail33IqxxYr1osVCRVdoLfcnI3b4Yop6pcswL3IssT/AHtKoUw91iManMH77QwRh1hZ7s=;Z4OWYoeMZnuuk+ujKXjyOw=="
+secured: "fJgAn7u312PJZFCpKD8YMlxzfdDETuldZWHtoyHKdcF41s9NcYCnmWXXk6BrPgSOFE5zJN6n9LvUgWVCY+YhZFYcpHFNuXQhEr5f4uaFf/C0WRVxvTxUUnXfmv5NU+XCgjq8l+0Uh2fpZyhZ8vNmDH1yNgLIBObxz9YPE3bkB6hf0IVRYQULVP9rAL1ftzLwJqnxZsyYDM+wP9nfbNpqwOGHGSgmQQtFxLiZnHDftCFJq3KD+O4gsb2pH9EnubVLqecNE8YQy3eEG4BtGY6tvFdXW/VPW3gRqQkseCcCdmnFMCr99cMTlCDrnwjHvo6D2ox8pgw6RQU0xjU+mXLFeXMGzkiuXxBwELdu5auONlQ=;aki+CWnlKr9kXWND69BraA=="
 ---
 

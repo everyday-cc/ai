@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self Driving Wheelchair Market Size Insight Report 2021 to 2027 by Manufactures Types, End Users and Regions with COVID-19 Impact Analysis"
-    excerpt: "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Self Driving Wheelchair"
-    publishedDateTime: 2021-09-02T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mobile Artificial Intelligence Market Size, Share, Manufacturing Cost Structure, Revenue and Growth Status | Global Report 2021 to 2026"
     excerpt: "Effective development policies adopted by various companies are creating new standards for competition in the global Mobile Artificial Intelligence market. A report, titled Global Mobile Artificial Intelligence Market Research Report 2021 - Impact of COVID ..."
     publishedDateTime: 2021-09-03T10:17:00Z
@@ -57,20 +43,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Sensors Market 2021: Size, Huge Growth Opportunities, Business Scenario, New Technology Upcoming Trends and Forecast to 2026"
-    excerpt: "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Self-driving Cars Sensors"
-    publishedDateTime: 2021-09-02T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-sensors-market-2021-size-huge-growth-opportunities-business-scenario-new-technology-upcoming-trends-and-forecast-to-2026-2021-09-02"
+  - title: "Global Machine Learning Market (2021 to 2029) – Featuring IBM, SAP and Google Among Others – ResearchAndMarkets.com"
+    excerpt: "The global machine learning market is estimated to grow at a CAGR of 43.3% during the forecast period (2021-2029). The major drivers for machine learning market are proliferation in data generation, technological advancements in machine learning,"
+    publishedDateTime: 2021-09-03T08:51:00Z
+    webUrl: "https://www.financialbuzz.com/global-machine-learning-market-2021-to-2029-featuring-ibm-sap-and-google-among-others-researchandmarkets-com/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
+  - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
+    excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
+    publishedDateTime: 2021-09-03T19:18:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "x9UWLjnnK6Y6eUkqVLsMUxNvU0NBy9S8LGoVyZ2CJ4yN16yGjedAOCOFHgrEDuy9shW2KlYiFnMVaM06zzW0/oqlbZ1aS4r2iUFZ5jBKMZy4drytqL2lfxwKlE1by7mLoWkKHuosiAavgrfb+J/cnzUnc0kNICfNg7EStOVnTxbKDv3qFl9NJpNFuubQ8R11szsqhZgArWzWQrTaNkkOXi6zygahGgx1UiD9T9R+kVlSlTJuArU+noUV4G0TEfkoCFrvhoTZLyopDBA7vu4qU1PaCdzRR9kToWTeQ8O2N2QsZLPN2z6Cp76aPZ0zdpMwWPGOU7L3wAnDHGVPSaqmYOTZaIfUtz3c3sgSUbcFRh4=;VIdNbNZ4A5SYF+8WSI66hw=="
 ---

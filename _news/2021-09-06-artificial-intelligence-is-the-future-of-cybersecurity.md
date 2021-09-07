@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence is the future of cybersecurity"
 excerpt: "Cybercriminals are using artificial intelligence (AI) to evolve the sophistication of attacks at a rapid pace. In response, an increasing number of organisations are also adopting the technology as part of their cybersecurity strategies."
 publishedDateTime: 2021-09-06T07:15:00Z
-originalUrl: "https://www.technologyrecord.com/Article/artificial-intelligence-is-the-future-of-cybersecurity-125678"
-webUrl: "https://www.technologyrecord.com/Article/artificial-intelligence-is-the-future-of-cybersecurity-125678"
+originalUrl: "https://www.technologyrecord.com/Home/artificial-intelligence-is-the-future-of-cybersecurity-125725"
+webUrl: "https://www.technologyrecord.com/Home/artificial-intelligence-is-the-future-of-cybersecurity-125725"
 type: article
 quality: 37
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 720
         isCached: true
 
-secured: "C9JvS/WiF3u2LLXFmNPNUZvbhWQPyaaC1DDXNZGoRMZALJc/kdHhD8V2TQz1UJzm/C3+ScD9d+nRYEzI5/9KOqF7FASTg+bz+R3L17lBdTDHHbDKoA0h1y0p+lzsKEhWW+EATF4uRPGtQlz9DgCUA44smlL9EsnLfoZc2w3lvgRECRhqXEd51nw/MWkwmYffpE2w1umTbi2OGJ675TqQCjh4OcSa02VQuIbyZqrBLatk3bxHK+mUc5R0nHmCrzECfZyvp9s+Osq0glJvaRIytWUdaoTuzeE+JGZMc9b0Zsh+8WyTMf04x4Zi+BfPqXY33dOIHpnB/4vPPtpju65RcaHU2mitEdQ5TpYxYSvH5ecjmPXberkqHAwpKKPqeVHHSkscePtW/jz0FU9sRZK9gt1u9vm+tY2a8mo0WYImgTPRqo/0cRV422Y9r+zBXjnWtUPlx0Xvwq6oMwBIjxWAdc5VHrXHzKffY9hjGx5QX/FTk5Yx5rQa9GA0zL/zWqB/0DxgQdPZfq/Fqh4ezKuNag==;yaq6C8u64RwRevvBzWHDTQ=="
+secured: "8z53A/VLO+2W1T3V4PAQ+JhJK3CfAm0htSpMsIFUQWn8MFCxoNiGVGI6dYIG3fhyXf1aFKl03Gqt+3b7yoqpT9KMg1so5s//c303EXC6VAR1N1cBp81Tjfbv9t026mVVfuVJGV/jnONt8hYFcKinKvrOsCWFGZ6cVJXJdoFiiR7ls9O47g70NNR995IOO5qj9qpOrLEq6M1uldLfTQwrv8OYLUzze+3AbHR+CzLitIK7iS1XWf1Hs45XzLnbV9dK0Hb0fOVrIzNf2ht8u94SbbSovwMXI9xesahrI3sQb7ivF18ideZTlFOe4G1clbCa+MzGG8N22R1X38AC9l93Pf/5vhRdpaefirUds6sz8P4=;pkDMx2Ir9S0g20HsxtduHQ=="
 ---
 

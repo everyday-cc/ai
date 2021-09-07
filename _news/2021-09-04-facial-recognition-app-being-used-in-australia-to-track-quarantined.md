@@ -33,6 +33,22 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Covid Impact on Global Artificial Intelligence in Telecommunication Market 2021 Key Players and Production Information Analysis with Forecast 2026"
+    excerpt: "Global Artificial Intelligence in Telecommunication Market Research Report 2020-2026 thinks about key breakdowns in the Industry with insights about the market drivers and market restrictions. The report illuminates accumulating an all-encompassing rundown of factual investigation for the market scape."
+    publishedDateTime: 2021-09-06T15:04:00Z
+    webUrl: "https://manometcurrent.com/covid-impact-on-global-artificial-intelligence-in-telecommunication-market-2021-key-players-and-production-information-analysis-with-forecast-2026/"
+    ampWebUrl: "https://manometcurrent.com/covid-impact-on-global-artificial-intelligence-in-telecommunication-market-2021-key-players-and-production-information-analysis-with-forecast-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/covid-impact-on-global-artificial-intelligence-in-telecommunication-market-2021-key-players-and-production-information-analysis-with-forecast-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Consumer-Goods-and-Retail-Industry-1-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
 
 secured: "Pe/97blHMk25hRGa+kM2HM6BqP8oboqK7c3WHD9vhJMNfypboG6jUyqGWHnpty9gvLLH+cHyOa6CtcCS4v5GFd3OXc0C1ZmowDxHCcK+5Zxpdrck7EeMaO1PiSsIyNQp82EMdmyTcA6jukolIWMVLNea2cQO6GdTAaV+f9IOVQ+7P+mmZuuxhtzExLt/apV/QV7sTKPgag/Zx624oudBS0wOWUip+lssUf7ySDllqgwcSCkXq9Co4EqrDU5SddBPPqgaIKyaIm65P8nwMaAnFCnhjNp4JWWTLBvOng/IbFxeZW71TEsBUfovxdaso3fFJMLPkWnY/2HxHCbua97adzp3pf71mhKeUgV37oU8FkY=;37Y/kwA0xh0ResMVTYTmxA=="
 ---
