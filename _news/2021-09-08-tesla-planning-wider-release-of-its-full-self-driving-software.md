@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tesla planning wider release of its 'Full Self-Driving' software"
-excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of"
-publishedDateTime: 2021-09-08T09:34:00Z
-originalUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software"
-webUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software"
-ampWebUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
-cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
+excerpt: "Nearly a year after Tesla started testing its controversial Full Self-Driving (FSD) beta software with a select group of customers, the companys CEO Elon Musk said he is aiming for a wider release by the end of September."
+publishedDateTime: 2021-09-08T10:49:00Z
+originalUrl: "https://www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
+webUrl: "https://www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
+ampWebUrl: "https://www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/09/93d79dc915d322b2d64bae9723e52e54.jpg"
-    width: 400
-    height: 300
+  - url: "https://www.sify.com/uploads/tesla_ians_ukvnBpfhdebii.jpeg"
+    width: 745
+    height: 568
     isCached: true
 
 related:
@@ -124,6 +124,6 @@ related:
         height: 702
         isCached: true
 
-secured: "U4aRRKHl9BqT5tn/Y9Jz3IiEus3KYT1lTLFVzagEqL+K7ZBvrFIaV911zNY3IXm0ayaNwDnci112AqkRYD7Srq+wvqZru4Vsw/THzsHIF+5DmonnAfGasl+oGzw39dWEdkVbZUsvT4/+Q+KXtEv4DUrxPDgrE7iIbOIMdsFNuPZQNCsOVKTdDlmWKHOLFLfRMM99MtQx4oSgdrsKjJwLztwwDn14rYtuW76qiz4Tnt7eycCRWMsXOn9XyXMlLRRkiKZLgaybd0ynPimPngLAIO4/X+dJ5q+3oRErx5jNEmnFHQp5N8CVYqY5BpUaqe+er3X/gSlz8ba2xxWmdkLFVVcyEbiZPjGFR7vJgErsB+I=;jpOqWbyEv1YLKTraa7Kt+Q=="
+secured: "mvCVo58PkDJHhbYFBmEqLzxjI1FXCaYVFz4d682HeJYxGAdIjY/vV+TvftKmPcWpglWqA98JpzvEvlW4u8g7l2y6xx3uEEiKy2OxDM/+IXpuJ1Z8nieE6Vq3Msft5pPa7+f4Ax36DDKisED+8zYNU9/mkdXeHseg/YwpVahTDvvrNK0Xs9B8GqdPobsnl7lQlq89CBe5cLJE3SH9Mt9C9wZGk6alGzdgozQa55y9zKckVvtLz08sY5FQma7a7myGNvd9FRqHdIoP0kCowGNnkJOzZ75BXSR1YziW6f2OAITJS6F5h55DcVM/D6LtpC3zV+8EWmaOvAc5boRFpqKjSXTHQrotieMoSuGiFHU3IrI=;R6gtz7QVHsO1YErSiad1fQ=="
 ---
 

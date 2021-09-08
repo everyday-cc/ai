@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "Deep learning method boosts MRI results without new data"
+    excerpt: "A team of researchers from Washington University in St. Louis has found a new deep learning method that can minimize artifacts and other noise in MRI images that come from movement and a short image-acquisition time."
+    publishedDateTime: 2021-09-08T11:25:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/deep-learning-method-boosts-mri-results-without-new-data.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 39
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/25841/rect-01-ulugbekexampleimages-jpgrecord.jpg"
+        width: 400
+        height: 240
+        isCached: true
 
 secured: "/ehhk+1mf/+nMc2Ma9ViKAf+WPpc4i4+aFF62z0WL/rWrxINaW7uQVhXWUFHLGqi0CRi5bdUaGVejTv2xGAjuVVr3Ha9qSL36b1+Ii+UEaIlefotUpdgKjQ0EiwljL4cjULd5YxPhsan7uGwnUEXkCVvWDt0sOqRN7NtLYU9px7nR5DtYHCyv3T8gEUYAhK4kHHjQ2hoB+9XSorJDPsz0gTRjbtcPf/Hx0IPVARE/oJ01xmTg/kwA1aLZQJPT+POfksV5geQharFa2iuuSt7T2KwnxuStdnxcDy3t5fDdGOjOSxSMJs4+e5Pt9T14P+1kuzBkwkYzp2cGyWW+1jKsHz6xiSjBdLcIXgaDHrPu3vxNEvBtYvU0fcw2LK6W4LShqFs7XrDoApkdIlCFapkNlLKmTIQH5YlULP1G3cr6PvHHi+7dYdIVAJ3MdS7C409RQ69lkqgHTZflhV6fZTcGkYUjBCqanzVwe6bdWaElbVJZtSfQImCTwUdJSOscgnEXxcVI2LJX1oe5UqJlPeesA==;QnRdaQcwsT75QR7Oc+VENA=="
 ---

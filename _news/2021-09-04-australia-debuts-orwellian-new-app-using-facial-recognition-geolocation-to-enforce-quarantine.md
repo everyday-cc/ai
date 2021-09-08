@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-usi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial recognition app being used In Australia to track quarantined"
-    excerpt: "The government of South Australia has implemented a new policy requiring Australians to use an app with facial recognition software and geolocation to prove that they are abiding by a 14-day quarantine for travel within the country. While a conservative ..."
-    publishedDateTime: 2021-09-03T17:48:00Z
-    webUrl: "https://www.tigerdroppings.com/rant/politics/facial-recognition-app-being-used-in-australia-to-track-quarantined/98104410/"
-    type: article
-    provider:
-      name: TigerDroppings.com
-      domain: tigerdroppings.com
-    quality: 19
 
 secured: "TrXm5cFy+l+ly0Zf3P+yD2ns86cjX4xkTU1aJcg1SLN/WJIRlY+UDBrcBV0OJM0M1Mmei2XUVuC4z7rKbNorx+rms8BqrPZ5fxxysFis9eG1tVTJkggsJjBHe81CA24KcokPW1DUhDYJwTOS+8TaETH5SeY3f6YAzztt3E/j5N4kva9mllO+DGvd/BqBO37aEGAsCrvSB2tgYabfecG12SVU4/+Rd+acoxJb6GUGBwBCcjCI1SSzho2fJ388qin2rn0mdFgcw1VK5RipSiADN0ViVVVynjCFwd33hpKE03VkpXDvd0ZpwMrMmqgyCtOCkRaQe9D1/2uvF8P5t3JKjnpqlyPZj0qrAvqX8qX28zZQ/PDEnp4IH2zGcm/pf5TKa1RUD4R/6KAYKVsN1r5SAF/xm/qKhccLZdHwyuwZ5RPXixGtgCef7AqjYrVuCV10kQcUw/QloHNZWhWDCZUge8b47Bl09XeTKv5D1267EPshBBh1B4DB+oK1/vfE/CsJv0pvTOFcGY8UGLbEF2SBAQ==;O0bzV9iq8g+RzMVTYSPDNg=="
 ---

@@ -26,34 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Rank One to campaign for ethical facial recognition commitment from providers"
-    excerpt: "Rank One Computing declares its intention to take a strong stand on ethics in facial recognition use, in coordination with the Security Industry Association."
-    publishedDateTime: 2021-09-03T18:35:00Z
-    webUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers"
+  - title: "Self-Propelled Modular Transporter Market Size Report 2021: Market Share, Trends Analysis, Supply and Demand Forecast by Region 2026"
+    excerpt: "Sep 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
+    publishedDateTime: 2021-09-06T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-propelled-modular-transporter-market-size-report-2021-market-share-trends-analysis-supply-and-demand-forecast-by-region-2026-2021-09-06"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 68
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AnyVision to the British Biometrics and Surveillance Camera Commissioner: 'Facial Recognition Apps Should Be Provided to the Police with an Empty Data"
-    excerpt: "AnyVision's Open Letter outlines the principles for fair and ethical use of facial recognition technology by law enforcement in response to the British government's public comment request on the Surveillance Camera Code of PracticeNEW YORK--(BUSINESS WIRE)--#AI--The British government has approached the public to consult on revisions to the Surveillance Camera Code of Practice."
-    publishedDateTime: 2021-09-08T06:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=527165"
+  - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
+    excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
+    publishedDateTime: 2021-09-03T19:18:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: ARN
+      domain: arnnet.com.au
     quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "UUlvBlQjA1DC4QKX2uO0RcPeRwFPk/hUyN3F2Hr2N7bLFVa+oxeEB9FG6Sr1d1rKnnmpi0J7hlOSiN+D0gZbbIFlUaORlbP7IcIKC05RtEGJuYPOqNxBZV11eI1SXT/1qWSYyO8miWZ+WC4rQ+L8Ev0PjxexSjLFEZkeFCTjMvUMmF7UKJN1divDOdHPD+9kVLVpStTRiRvUGV6kId1QxRGDhHMe+b8bu+k8Xe8gp8vRw8RVdIPmrW7pZ4f3vg7lCdGC7M+dkLqVNP/j1Pwbe0Am+5ZJL79zehs5hgZqnZ6jwSCfjaznyz+HDZBQ3Vj9sAK7+guFwZJwtXRfAW739L7h3DnmQsP3T6Py9lI+/kg=;McnE0QRx7F/k8UiAZ0mw2g=="
 ---

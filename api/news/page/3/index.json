@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-05-6-fintech-startups-in-india-that-are-making-use-of-ai-technology.md",
+      "title": "6 Fintech Startups In India That Are Making Use Of AI Technology",
+      "excerpt": "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
+      "originalUrl": "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.goodreturns.in/img/2016/12/07-1438929714-interest-rates-red-14-1481696060.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
+      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
+      "publishedDateTime": "2021-09-05T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodreturns",
+        "domain": "goodreturns.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai.md",
+      "title": "ESPN and IBM unveil new fantasy football trade features with help from Watson AI",
+      "excerpt": "With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages. The Trade Assistant with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/",
+      "originalUrl": "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/",
+      "publishedDateTime": "2021-09-05T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-federal-agencies-are-rapidly-increasing-their-use-of-facial-recognition.md",
+      "title": "Federal agencies are rapidly increasing their use of facial recognition",
+      "excerpt": "The U.S. Government Accountability Office released a report on Aug. 24, 2021, detailing current and planned use of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication",
+      "originalUrl": "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FFR.jpg&signature=edf8bfb4b96e8f3d082fcc901f7f5547",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-3-top-ai-stocks-to-buy-right-now.md",
       "title": "3 Top AI Stocks to Buy Right Now",
       "excerpt": "Anders Bylund (IBM): Good old International Business Machines ... Big Blue sowed the seeds to its Watson AI engine decades ago and has nurtured that asset into a problem-solving system with ...",
@@ -10,7 +148,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -98,6 +236,57 @@
       ]
     },
     {
+      "path": "_news/2021-09-05-judge-says-an-ai-cant-be-an-inventor-on-a-patent-because-its-not-a-person.md",
+      "title": "Judge Says an AI Can’t Be an Inventor on a Patent Because It’s Not a Person",
+      "excerpt": "They can’t even appear as inventors on U.S. patents. U.S. federal judge Leonie Brikema ruled this week that an AI can’t be listed as an inventor on a U.S. patent under current law. The case was brought forward by Stephen Thaler,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641",
+      "originalUrl": "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/37537a3ccad75b9d5a057a42727649ac.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp",
+      "publishedDateTime": "2021-09-04T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-05-the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml.md",
       "title": "The Latest Trends in Artificial Intelligence (AI) and Machine Learning (ML)",
       "excerpt": "Artificial intelligence (AI) contains many subfields, including machine learning (ML), which automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.",
@@ -143,49 +332,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-05-novel-ai-driven-heart-failure-diagnosis.md",
-      "title": "Novel AI-Driven Heart Failure Diagnosis",
-      "excerpt": "Developing an artificial intelligence (AI) based diagnosis for heart failure will identify individuals who are unlikely to receive therapeutic benefit, and can make a more personalised medicine approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm",
-      "originalUrl": "https://www.medindia.net/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/heart-transplant-paradox.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm",
-      "publishedDateTime": "2021-09-04T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-04-facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform.md",
       "title": "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform",
       "excerpt": "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question.",
@@ -194,7 +340,7 @@
       "originalUrl": "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -296,7 +442,7 @@
       "originalUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -347,7 +493,7 @@
       "originalUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -378,6 +524,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-parents-lawsuit-over-lockport-facial-recognition-system-ends.md",
+      "title": "Parents' lawsuit over Lockport facial recognition system ends",
+      "excerpt": "A judge said the approval was invalidated when former Gov. Andrew M. Cuomo signed a law in December 2020 banning the use of facial recognition technology in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
+      "originalUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/45/f4555f2d-8ce6-550b-82e9-417e781ab8b7/5ef133e01db3f.image.jpg?resize=1024%2C759",
+          "width": 1024,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
+      "cdnAmpWebUrl": "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
+      "publishedDateTime": "2021-09-03T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -991,198 +1180,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2.md",
-      "title": "Build machine learning at the edge applications using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2",
-      "excerpt": "Running machine learning (ML) models at the edge can be a powerful enhancement for Internet of Things (IoT) solutions that must perform inference without a constant connection back to the cloud. Although there are numerous ways to train ML models for countless applications, effectively optimizing and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/31/ml2780-image001-whitebckgn-1008x630.png",
-          "width": 1008,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T15:22:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-unsupervised-learning-can-detect-unknown-adversarial-attacks.md",
-      "title": "Unsupervised learning can detect unknown adversarial attacks",
-      "excerpt": "Adversarial attacks are data samples that have been inconspicuously modified to manipulate the behavior of the targeted machine learning model",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/",
-      "originalUrl": "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Adversarial-examples-machine-learning.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/amp/",
-      "publishedDateTime": "2021-09-02T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-elon-musk-tesla-making-a-robot-because-robots-are-coming-anyway.md",
-      "title": "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”",
-      "excerpt": "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
-      "originalUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/09/elon-musk-robots-coming-anyway-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/elon-musk-robots-coming-anyway/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-robots-coming-anyway/amp",
-      "publishedDateTime": "2021-09-02T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-stow-group-acquires-german-startup-raiser-robotics.md",
-      "title": "stow Group acquires German startup Raiser Robotics",
-      "excerpt": "Group acquired a majority stake in Raiser Robotics, a German-startup that has developed and automated storage and retrieval system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/stow-grou-acquires-german-startup-raiser-robotics/",
-      "originalUrl": "https://www.therobotreport.com/stow-grou-acquires-german-startup-raiser-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/DSC_82303.jpg",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

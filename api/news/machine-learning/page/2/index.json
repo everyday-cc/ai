@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-25-ai-training-growing-pains-at-facebook.md",
+      "title": "AI Training Growing Pains at Facebook",
+      "excerpt": "Facebook has to keep digging into ever-lower levels of its architecture to efficiently make use of endlessly growing training data. This has meant",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/",
+      "originalUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_datacenter-racks-woman.jpg",
+          "width": 544,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/25/ai-training-growing-pains-at-facebook/amp/",
+      "publishedDateTime": "2021-08-25T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-in-the-face-of-rising-security-issues-and-hacks-gbcai-makes-the-case-for-machine-learning-and-ai-integration.md",
       "title": "In the Face of Rising Security Issues and Hacks, GBC.AI Makes the Case for Machine Learning and AI Integration",
       "excerpt": "Trustless. The word gets thrown around a lot in the blockchain space. It is one of the principles that decentralized finance is based upon. DeFi, as it was initially envisioned, is supposed to provide users with the ability to interact directly with each other thanks to decentralized technology that eliminates the need for third-party control.",
@@ -1281,59 +1327,6 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker.md",
-      "title": "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker",
-      "excerpt": "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-2440-img1-1260x592.png",
-          "width": 1260,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T10:40:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     }

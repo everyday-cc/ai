@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bias persists in face detection systems from Amazon, Microsoft, and Google"
-    excerpt: "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon."
-    publishedDateTime: 2021-09-03T17:40:00Z
-    webUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/"
-    ampWebUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+  - title: "MDC joins Microsoft AI Business School to develop AI courses"
+    excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"
+    publishedDateTime: 2021-09-08T11:01:00Z
+    webUrl: "https://communitynewspapers.com/kendallgazette/mdc-joins-microsoft-ai-business-school-to-develop-ai-courses/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Miami's Community Newspapers
+      domain: communitynewspapers.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://i2.wp.com/communitynewspapers.com/wp-content/uploads/2021/07/Community-News-LOGO-Blue-min.png?fit=777%2C516&ssl=1"
+        width: 777
+        height: 516
         isCached: true
   - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
     excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
@@ -67,21 +65,7 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
-  - title: "Irish IoT start-up Journey Protector wins €25,000 from Typetec, Microsoft"
-    excerpt: "Journey Protector has received a €25,000 prize from Typetec and Microsoft, and plans to open new offices in three countries."
-    publishedDateTime: 2021-09-07T09:31:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/journey-protector-product-launch-25000-prize"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 38
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/AdobeStock_65931251.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
-secured: "mS3Q01VLHwEuPmn0sZ6bwJmwkhnat6Y8eqQiuvwmh0hDKRNHZ4OQ4HL3VoWcW4FQxAav6djbHoJUgmAbg+/0s/vH/1uQjn482lsaZU8H/L013l6AqtSdmdkT7QKMY2JokSaFE182DANw3aINiffDqsRzGsTTkso2EcY9UBpgh/3Efj0UI1+S07W9VfRQT4mqjY6oMJxuhQCSRCXMs/Ru+BiVfozCU8qrpZo/MMB5R2+jC2whhEIVyta5E+12BF64SQrkTN6xmRS5LtR+nx96IqlveeTuKBbrfQwlw00l3GNRnG5Zt1dO4gcPUR3LalJ8wumViyi4sLLg+2ZiDkcqeCGd48E4mP48CtWrBxG1lj8=;hUW+FAfybCNzM+EiMFUiow=="
+secured: "5JuT85jflSkU7qlI0SYSu1fG3Vekw0voW8grsep3YlBx1yzpTxIAV+ITikgLz16qFZ7SmWn3MGrQ1BlTiKs2Efz07PUP7XIZWM3b64MwEXJMEAGhkvZQhzM72S3tQg7Nf1VgfeHm3xfnMQqp3N5kEsllnTJ2Wg/MBohRzlL7T/dNn1836lmgL04xyjyKFdmsq3pupT7rARso1oOGkqn/fa9CA+WymmPy3bwyG4Mmw2Cg3BztWwl1FDx+nvRXsN0o2RctlQY5ahD9g+ElgrCauwqq5PkY5WtSeOe6H5HKCuonI1JxEqH1kB2IMyxuK0OsmW156/qM+3B/hEBmjf3Qh3rOMJQhnad3VG4PyhfGIBB9q/Y8QUYGQrs3uKunizCT/5T2bEkQpCRBfLtQPxWvT+TfOpO0DtLCdrcDkBq00Nle+zCDivxc5S4/VSnPZKv9oykXYU7Enh5WAgOcX6xAObPCdO8tFSrA9uDIr/XfcjIsPmMK2U0q4ngw2ok5GB5PjMqcOpUZ4vmXrWbg0VCPxA==;rMEI7E3V8OwI7XJ/jme0Vg=="
 ---
 

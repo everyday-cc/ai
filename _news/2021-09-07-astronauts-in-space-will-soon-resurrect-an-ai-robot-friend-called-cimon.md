@@ -9,7 +9,7 @@ ampWebUrl: "https://www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-a
 cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "A robot named CIMON will be brought back to life by ISS astronauts"
+    excerpt: "Astronauts aboard the International Space Station are about to bring a robot back to life named CIMON, as it has a new purpose. Astronauts aboard the International Space Station (ISS) will be bringing a robot named CIMON back to life,"
+    publishedDateTime: 2021-09-08T10:07:00Z
+    webUrl: "https://www.tweaktown.com/news/81507/robot-named-cimon-will-be-brought-back-to-life-by-iss-astronauts/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "iIzz0MiQ+q45fUSYeZfmPqjAKlJcn02b/B/ZxmOFEspxTp9iPzvY7+J2/+/P+aumdO4sF1iwTOhZzbePwHPzVpJmpFFYHPp/vQQiWmzJqCSL2vkFG44VTufCTtNrEIAC3EMd3O4wToOeo494kRQpHKbx40hbLrCWlx1P1EOzMLVCbie94/a80AyrPV+d+2m6xjqruRlRurNfTdPHNI1aE5wwDVQW57z8aLjylLhidWR78GjE5I1cJqAoza5Bh95rpp/id0Vpoos0HkvxxN+ARnRRFQWbB9qjMSpRnA6kI9l8ozK2HhRN7lbZgaYtU7uay0j6vrYZR4y9aPOmEpeViqRnaKwTAHNbrh1FATQUEFs=;n8Z6fask1uPimeXWNNvi9A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intel
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp"
 type: article
 quality: 70
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -153,20 +153,6 @@ related:
       - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2021/09/ba9b2841e7154d13bda18e8455df89e7.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
-    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
-    publishedDateTime: 2021-09-06T03:49:00Z
-    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
-        width: 800
-        height: 455
         isCached: true
   - title: "Facebook apologizes after AI puts ‘primates’ label on video of Black men"
     excerpt: "Facebook users who recently watched a video from a tabloid featuring Black men saw a prompt that asked if they would like to “keep seeing videos about Primates.” The artificial intelligence-powered feature that pushed the message has been disabled."

@@ -21,21 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Bias persists in face detection systems from Amazon, Microsoft, and Google"
-    excerpt: "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon."
-    publishedDateTime: 2021-09-03T17:40:00Z
-    webUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/"
-    ampWebUrl: "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/"
+  - title: "MDC joins Microsoft AI Business School to develop AI courses"
+    excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"
+    publishedDateTime: 2021-09-08T11:01:00Z
+    webUrl: "https://communitynewspapers.com/kendallgazette/mdc-joins-microsoft-ai-business-school-to-develop-ai-courses/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Miami's Community Newspapers
+      domain: communitynewspapers.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://i2.wp.com/communitynewspapers.com/wp-content/uploads/2021/07/Community-News-LOGO-Blue-min.png?fit=777%2C516&ssl=1"
+        width: 777
+        height: 516
         isCached: true
   - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
     excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
@@ -50,20 +48,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/ice-mobility-700x393.2e16d0ba.fill-1200x630.jpg"
         width: 700
         height: 369
-        isCached: true
-  - title: "Irish IoT start-up Journey Protector wins €25,000 from Typetec, Microsoft"
-    excerpt: "Journey Protector has received a €25,000 prize from Typetec and Microsoft, and plans to open new offices in three countries."
-    publishedDateTime: 2021-09-07T09:31:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/journey-protector-product-launch-25000-prize"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 38
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/09/AdobeStock_65931251.jpeg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Microsoft teams up with LX Semicon to develop 3D depth-sensing solution in virtual reality"
     excerpt: "U.S. technology giant Microsoft will collaborate with LX Semicon, a fabless manufacturer in South Korea, to develop a 3D-sensing solution for virtual reality and augmented reality. The solution will be based on 3D time of flight sensors that measure the distance between the sensor and a target object by calculating the time taken for light to bounce back."

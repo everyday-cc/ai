@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Covid Impact on Global Artificial Intelligence in Telecommunication Market 2021 Key Players and Production Information Analysis with Forecast 2026"
+    excerpt: "Global Artificial Intelligence in Telecommunication Market Research Report 2020-2026 thinks about key breakdowns in the Industry with insights about the market drivers and market restrictions. The report illuminates accumulating an all-encompassing rundown of factual investigation for the market scape."
+    publishedDateTime: 2021-09-06T15:04:00Z
+    webUrl: "https://manometcurrent.com/covid-impact-on-global-artificial-intelligence-in-telecommunication-market-2021-key-players-and-production-information-analysis-with-forecast-2026/"
+    ampWebUrl: "https://manometcurrent.com/covid-impact-on-global-artificial-intelligence-in-telecommunication-market-2021-key-players-and-production-information-analysis-with-forecast-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/covid-impact-on-global-artificial-intelligence-in-telecommunication-market-2021-key-players-and-production-information-analysis-with-forecast-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 19
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Consumer-Goods-and-Retail-Industry-1-390x220.png"
+        width: 390
+        height: 220
+        isCached: true
   - title: "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028"
     excerpt: "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv"
     publishedDateTime: 2021-09-03T19:18:00Z

@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Intel CEO predicts chips will be more than 20% of premium vehicle BOM by 2030"
+    excerpt: "At IAA Mobility, during his first in-person keynote since taking the helm of Intel in February, CEO Pat Gelsinger predicted that semiconductors will account for more than 20% of the total premium vehicle bill of materials (BOM) by 2030."
+    publishedDateTime: 2021-09-08T10:12:00Z
+    webUrl: "https://www.greencarcongress.com/2021/09/20210908-intel.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 36
+    images:
+      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef026bdeef1f4f200c-600wi"
+        width: 600
+        height: 338
+        isCached: true
 
-secured: "Sri9wMz4bUTzuluqpB8a88STBrTdVX4K/CX6YoUJv0U6PtDFn7XctE6QdxWEhV2EM9HN2RuqPF4J7+f/SQ2cU678TbY957cRr9F2zdxC1EfpotpTpbxJ9Xjdm1wQ2o9RoDkAiMknVGqXASfBCTlAF3vam8QuYuy/Pca/nvdtt4m7mQOH9mEn/KPYEwdP28JB1UPU87YdkKb5JiZRhpn+2Ufp9QNa4cHBGHsMfZXKscDLAEpHLW1m/bfJNrrfaiGZxe3L+eQCP1w37spYBQ6MAfuPdHB1WaOxaPjx2P6LJAmqoZfMRCc1Ri2lqpYNxhfkw8SU8ivdaDUKyKXqvEaIaAzpQJZuQpmWmYmEbupPCaU=;WZoHQU54iLVwndZDAGGh+g=="
+secured: "IqsV52NmQuL0A8KjnkMyBWgK9QZd47aEuyV4N9AUPU1uwuuZUC2dsNtVlDNbr4PPlssFxdRHnphStix8fuzHahI9Cvho6cfdI9qjkfMFG8Xgzopmmb1UghokxGdfsAxXxIs50HeO+bCDSK/PGOyz7VuIrPuXV4QZ1SMucvCtsE7XFr8eo5LBLmydISCECJmzEp4ja8D+S/TYDM87t/YMBTL+yB0XhcOTYNwEOVnzFr57SNSlJeO7iB/YTtRA2aVPxHVglFSF1B0tCz2B4dz32oul+il2a6nSStwJe26mt8nskyjI8VhvyQfzBvg3GxJK83BReU/hgzE4JAbz4H2cbasU6uld3Qy+jhlZqCUNXGMLNFhwYJt2943VrnK1aqhS3B+Gk+3NqBVPH/7IXy/wxPm0/mQGPECSkMw+pf941c81eGgDnoC5leD2ZhwliIbeqD+sAScUYNp2JbERSSTAXCjkThLPhPZWDiKcW2sFB/JWtRn57jFBgdmhttWYkshn7f+uRuP5dT4k9NYX6NBvgg==;3KNDYhyVw8iCN6wC8RWoJA=="
 ---
 

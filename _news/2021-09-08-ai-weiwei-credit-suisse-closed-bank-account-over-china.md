@@ -3,22 +3,18 @@ category: news
 title: "Ai Weiwei: Credit Suisse closed bank account over China"
 excerpt: "Leading Chinese dissident and artist Ai Weiwei has said he was told by Credit Suisse that his foundation's bank account in Switzerland would be closed over his \"criminal record\" in China. The activist,"
 publishedDateTime: 2021-09-08T09:33:00Z
-originalUrl: "https://www.bbc.com/news/business-58484447"
-webUrl: "https://www.bbc.com/news/business-58484447"
-ampWebUrl: "https://www.bbc.com/news/business-58484447.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-58484447.amp"
+originalUrl: "https://www.bbc.co.uk/news/business-58484447?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/business-58484447?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/business-58484447.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-58484447.amp"
 type: article
-quality: 104
-heat: 124
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -60,6 +56,6 @@ related:
         height: 800
         isCached: true
 
-secured: "ye/SQCObfuqr4v+ruO5Sxq9D51dhDNpl0DKW4iOlPttA984WGShHm6/dlpBkeBikjoV2LDf7gEDHd9uGb+5Exbl0/FeTPyb7Uxknnk+8WlnWrnnR3lSvUsDrh65tE+D7uPRpF/uLe5ElYZCxZjW9aHoFrnGH6129d5g0mUo3JtW53slI9AFiVtvvQGolS2f3HQRxqeQSt7kjKNavoq0kFOzt1sGsUeNB85MjcA6jDoT7ndCL9J6ykc/ImhFJKevy9p0DeFsnRo74kGtU4/52+z9V8hbG4YMJq3wnGnF3C7MxieR9bFTEdBlOMlX8V5TtVCOe4Z2vXxm/wKqIqctysFtG5oP7zt5qgL7BC54PlY0=;hjcAtSOByDa9/8RkXC644g=="
+secured: "zgpCflyXI9f+MJavcr4NhnExuEBz/gPabTG5oSpzJ1bOs1Zd2SO2WJoq+pjopcdnj2GjTtn2I6OltSij9hoKaSsUUOCMxdzhobVg6xpdeybP0PZ+huElvJ9ApvvmhUKGbD0qOIslUI4bWZfQ2u9aEt4c+Bpj2aOhiVK2TpUuK2qNH0nibpXnhduBjRkp2Cq0aoyl7B77cEqKiKUS9yRR2vEHw67sxzggDDUWzTChPmWsLbdI2tJw0k4+kwbm3VufY6xN8pNVxW/QRhTfUDejskCo9L/4L2vyCOypWah9tps67p6NaBd0eef8vzNUCh69ZwaD9DpsCywiOzEHxPZlrNp81GUB0MUEd4luSty15sk=;ZGQDPLr+PIyW6JMayDTBeg=="
 ---
 

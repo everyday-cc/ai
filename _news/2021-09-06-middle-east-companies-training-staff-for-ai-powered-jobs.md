@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.khaleejtimes.com/business/corporate/middle-east-companie
 cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/corporate/middle-east-companies-training-staff-for-ai-powered-jobs"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Khaleej Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Midsize Companies Can Compete in AI"
-    excerpt: "Startups and large corporations are seizing AI opportunities and strengthening their position. But what about midsize companies that often lack access to big data and AI talent? These midsize firms risk being left behind in the age of AI."
-    publishedDateTime: 2021-09-06T12:20:00Z
-    webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai"
-    ampWebUrl: "https://hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/09/Sep21_07_1271186214.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A List of the Top 5 AI-Powered Business Tools for U.S Startups"
     excerpt: "Revealing The Best Five AI Business Tools For Starting Entrepreneurs Most of today’s businesses rely heavily on Artificial Intelligence (AI) powered"
     publishedDateTime: 2021-09-07T07:00:00Z

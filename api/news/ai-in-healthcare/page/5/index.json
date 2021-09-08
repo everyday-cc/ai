@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-07-08-artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development.md",
-      "title": "Artificial Intelligence (AI) Unfolds the New Dimension of Social Development",
-      "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. New, objective approach to assessing the reduction in apparent age after facelift surgery is now possible with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/Computerized-Images.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "publishedDateTime": "2021-07-07T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-sas-best-in-class-in-health-care-payment-integrity-says-aite-group.md",
       "title": "SAS best in class in health care payment integrity, says Aite Group",
       "excerpt": "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS' stability, brand recognition,",
@@ -1294,6 +1251,49 @@
         "AI Hardware",
         "Natural Language Processing",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Healthcare Market Report 2021, Size, Share, Growth, Analysis, Trends and Forecast to 2026",
+      "excerpt": "According to IMARC Group’s latest report, the global artificial intelligence in healthcare market exhibited strong growth during 2015-2020. Looking forward, the market is expected to grow at a CAGR of 42.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/24/artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/06/24/artificial-intelligence-in-healthcare-market-report-2021-size-share-growth-analysis-trends-and-forecast-to-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-in-Healthcare-Market-Blog-Image-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

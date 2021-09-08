@@ -69,15 +69,6 @@ related:
         width: 745
         height: 539
         isCached: true
-  - title: "Facial recognition app being used In Australia to track quarantined"
-    excerpt: "The government of South Australia has implemented a new policy requiring Australians to use an app with facial recognition software and geolocation to prove that they are abiding by a 14-day quarantine for travel within the country. While a conservative ..."
-    publishedDateTime: 2021-09-03T17:48:00Z
-    webUrl: "https://www.tigerdroppings.com/rant/politics/facial-recognition-app-being-used-in-australia-to-track-quarantined/98104410/"
-    type: article
-    provider:
-      name: TigerDroppings.com
-      domain: tigerdroppings.com
-    quality: 19
 
 secured: "BJfsoEIqxVyilVRA6CGM7XLxzqd3sy5rmym4Iudvqam+Y9UOIt/C28w4liSkykFu27XPZWuXqo+0ni2HrNskphJZkEFaWr0go7fd6VKZlRjpU1ZnxjLrQTUOqK0vi40sGPlzs3CCiuebilt9dNRZaFyPuaO3k+umeJBqaEKuFRtGlQKLu8n3io6A1HMFlxjyJiGzonaOuqj/JNywCkCnWvHffdrDmvuAZzvSWAZFw0rCb1Idj+dCi/oN3/MXWvbJkrhGmKQqZMWOr4m5yuMn2uuHi8tZhXg+qABEoSoTXPrSRt12PUNC4ezg6BwhG4USVHCV/jNCcIC24BuDtEpTMCnI4BKOM8UUO8uoZgoSxI4Ua6KR+YPfH9Ta807WUnVv6dbQhJIHEBn2srvoOGfn0Okm03uqejuOKNss5NCS3DckSaxftKMccCg5wwyTMRksQ8aZ0FSPBSQX2RLHzLfRcb1bA/4mxQAKqy7rEiniFwTVBDtB6r3InurCQXpZqBhHoZhimktC2C0SZDdh6hPt2w==;QC0Rp6UkGCHMf9f8S1/6mw=="
 ---

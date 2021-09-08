@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2021/05/03/cad0f4b7-8a61-4f10-8771-acccb9865e9d/thumbnail/770x578/3b171bf8aec675869f79131a1a30ba3f/australia-roads.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "Shaping the Future of IT: AI and AIOps"
+    excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19."
+    publishedDateTime: 2021-09-08T11:07:00Z
+    webUrl: "https://www.bbntimes.com/companies/shaping-the-future-of-it-ai-and-aiops"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_and_AIOps.png"
+        width: 1358
+        height: 600
         isCached: true
 
 secured: "n3wB9RH8JNmCC7Wu+b9k4tU13fNT5phxYxxs0ZcOaduKItIsZiMXBZfilzkWWRVjUCjlM7oyir9M83MdEy0WIqcLQgrR7FhscJwRiwEZ3nTMq3V6k80rw8KyIu52LY9Erhhl8OAXFMrt/8dxhDCSiw/r0WBbZ0X3I8ObjAysJsr0STFL2Oei/f8g2MGG+FsIAv5vZX0lgVv9EwfQxtctNFLKi1vJgyzyX6NYxA/0XlDUJ4Yg+FU46DPPvv2wP5j12JnCZ4kFN5pxiY6PpBxqTBIGNKPf6Ss1ImPhB7wOWT7nHsUrL2u2En7lqamGSV7k/+GWZ9BTLB/9yi9FHzc2X/JXvsqUxkyJu6QrxB9+9NjVXWtp/bZJaD5XbgFwCkLNezbffIOg5nSxYaeXZN9VjWx5zY/GhwAyILZWxBWY6fgH3NQnAQey9GUapRtM8p14Pk6ADbTG/DeihWVfmMGbhkhBtcWZe0ZqC1XU7YVWKOERHBQBxCVn7rDI4DfFVQX5C4kUBRMOy4vzZ0sNo54TUg==;J1MoprdgyNiKfi3Vpdjhpg=="

@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Indian, German experts discuss Artificial Intelligence"
-excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here. Areas such as AI for sustainability,"
-publishedDateTime: 2021-09-07T22:29:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3815897.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3815897.html"
+excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here."
+publishedDateTime: 2021-09-07T17:11:00Z
+originalUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
+webUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
 related:
@@ -73,6 +73,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "TaChaIjryd3P6Rqda0JPnjG1AAndJZvJWAezCvoS0PN8LV0Pwtj6cAsKWwbpwMRRMOl3kO6ilMq9AWdMr6SbbGVzakqDc2yVOpfMbWyidg+PEgfvQcZqvMHLZC4s5dYbTaN9fhlPI/Pl9R5Gmqj/3e6OFh8XwVTPrlXu7obqSQRM6Q2KMQAPpISg8SstcgOiRpOydh8ON3F8y7MQNar5adhg9wWU+cIhf9hc6r/RQ+Y4boK78x69BWAM8ggmPfqGnkfykzKaU7PTfuXZtTkM1TiB8vljWHVmzCdC5Q3PgnJlQYfYIQGyh9i13houu3WivoI6LSA0oVFwV+sfYa1T9OYWyWOoddjIkJEqy4XjI4M=;WPMhCxVxcwrGz8L8ArApZQ=="
+secured: "2hgbdK57u9zQLYxYdP2G5U908iOXiaJ5tJ3+JgfYnMb85F/l0gFsUIMeWfOT7YHD9b1A/s2ZQ+kidIML4EG0fzB/vTgztEhZ7HcEvWTIEwHpUk1FO/3ysF99q3JOl0WdleKlqa8enbmXOytAh5IcP4dCkZedX5kspGedkN3R3awsiYMX2oCgl3k9TUHBcal+Vx/DpWn8XvWU0lDkekQhC6PEOqyAkXV1QKn+36Jw0sxBpAThGDMvHLy6rYmK5ieJukKVnINJTWSUsT8tC4n2Wkif7v6jUviG00nN+SXxzGKDmnVlNbBliXR9dqABLbeJuaESi2GVNRHWQlbQRoaLMudwymqV5pBoQX9HGS+2K+o=;EFDhhbXxd7vqiDgMJuYYiQ=="
 ---
 

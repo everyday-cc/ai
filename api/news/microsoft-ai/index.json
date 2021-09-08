@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-mdc-joins-microsoft-ai-business-school-to-develop-ai-courses.md",
+      "title": "MDC joins Microsoft AI Business School to develop AI courses",
+      "excerpt": "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community",
+      "sourceUrl": null,
+      "webUrl": "https://communitynewspapers.com/kendallgazette/mdc-joins-microsoft-ai-business-school-to-develop-ai-courses/",
+      "originalUrl": "https://communitynewspapers.com/kendallgazette/mdc-joins-microsoft-ai-business-school-to-develop-ai-courses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/communitynewspapers.com/wp-content/uploads/2021/07/Community-News-LOGO-Blue-min.png?fit=777%2C516&ssl=1",
+          "width": 777,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami's Community Newspapers",
+        "domain": "communitynewspapers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets.md",
       "title": "Xilinx Showcases Powerful Adaptable Platform Solutions For Data Center, Medical, Robotics And Other Key Markets",
       "excerpt": "It’s obvious, beyond the complementary product line synergies, why AMD was so interested in pursuing Xilinx for acquisition. This company has done more for demystifying the FPGA (Field Programmable Gate Array) and adaptive computing than many of its competitors.",
@@ -1390,58 +1433,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-data-science-is-one-of-the-fastest-growing-fields-here-are-16-affordable-online-courses-and-certificate-programs-perfect-for-beginners.md",
-      "title": "Data science is one of the fastest growing fields. Here are 16 affordable online courses and certificate programs perfect for beginners.",
-      "excerpt": "Developing AI Applications on Azure LearnQuest is an Apple Authorized Global Training Provider, and this course introduces the concepts of artificial intelligence and machine learning to students ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "originalUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe0c444d366e600180994d7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-science-courses-online?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-science-courses-online?amp",
-      "publishedDateTime": "2021-08-24T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

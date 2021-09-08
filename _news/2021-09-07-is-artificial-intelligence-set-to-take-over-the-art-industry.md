@@ -60,6 +60,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Shaping the Future of IT: AI and AIOps"
+    excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19."
+    publishedDateTime: 2021-09-08T11:07:00Z
+    webUrl: "https://www.bbntimes.com/companies/shaping-the-future-of-it-ai-and-aiops"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_and_AIOps.png"
+        width: 1358
+        height: 600
+        isCached: true
 
 secured: "Ipbj+ERgebtkOADGfWwY13w7W3IojkjlXCC4CF3CsQl1kU/oh7XAV5TBEDyElmZf7z9f5xXdEnnYPUp/sPv2ITLnts3ItWnZXk/5wnWPN2Z4y9Zf13sGJuZda6xxqHz0742gokoadxQyd/Xoi7FpR38lLVlh3w3nJeUmbuG5XTQfeP+4BvjPXJ6ik1cI7rS7iVokyV+rJxchX6CHKHqvnO43p+GLNB2XEsyrxZF8DqDGNQ3wgU7XBdY2lWL6L3DxuZRFkEYYsNMukfcF8aMmXcEM40tws+rucY8lMTtwj7GpaQHQeP+FnQ4lxlBWwwNUxMBQ7+pkxD8PlyFUtbsG3xidts3ER9dWdJnZw6pGlBqcLb+fkuWpdDReZw0tzqvVrsT0JcDoacXAUyvGdStlT3yvegyW9WphJzrQndiX+aJm9OUESvjrJwFFzGvRgCBFbK8bRHWlkM9ChIP7WyBanq0WIs4N6NpNrkBhreQZib2lPcMnvnYpaK/SXT9Ae+ijIAW5TAUJzT246qlV54nxTg==;DkH6C2WC6VMsDPfTEIsWDg=="
 ---

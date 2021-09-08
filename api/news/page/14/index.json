@@ -2,6 +2,212 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-25-microsoft-teams-now-teachers-can-monitor-students-reading-fluency-with-ai.md",
+      "title": "Microsoft Teams: Now teachers can monitor students' reading fluency with AI",
+      "excerpt": "Reading Progress will help teachers build students' confidence and reading fluency at a time when face-to-face contact is less frequent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/25/ff85b97e-6397-4e80-9b0e-d4c6a7f94694/teams-reading-progress.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "publishedDateTime": "2021-08-24T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse.md",
+      "title": "Alethea AI raises $16M in private token sale for intelligent NFTs for the metaverse",
+      "excerpt": "Alethea AI, creator of the \"intelligent NFTs,\" or iNFTs, has raised $16 million in a private token sale to a group of investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/alice.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
+      "publishedDateTime": "2021-08-24T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data.md",
+      "title": "How small and mid-size ecommerce retailers can take advantage of AI — without tech giant-level data",
+      "excerpt": "\"90% of consumers say they expect online shopping to be equal to or better than in-store, but half are experiencing crushing disappointment.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/colleagues-collaborating.GettyImages-1028772240.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/amp/",
+      "publishedDateTime": "2021-08-24T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-watch-san-franciscans-take-a-ride-in-waymos-self-driving-car.md",
+      "title": "Watch San Franciscans take a ride in Waymo’s self-driving car",
+      "excerpt": "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
+      "originalUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dsc_0570.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
+      "publishedDateTime": "2021-08-24T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-artificial-intelligence-ai-chips-market-may-set-new-growth-story-qualcomm-mythic-amd.md",
       "title": "Artificial Intelligence (Ai) Chips Market May Set New Growth Story | Qualcomm, Mythic, AMD",
       "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence Ai Chips Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development landscape",
@@ -1035,196 +1241,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads.md",
-      "title": "Esperanto Delivers Massive AI Processing With Less Than 20W For Data Center Inference Workloads",
-      "excerpt": "The 7nm ET-SoC-1 features 1,088 64-bit in-order cores with vector units referred to as ET-Minions and four high-performance 64-bit out-of-order RISC-V cores referred to as ET-Maxions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125286faeafbcc6b6801db8%2F0x0.jpg",
-          "width": 435,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-esentire-achieves-aws-level-1-managed-security-service-provider-competency-status.md",
-      "title": "eSentire Achieves AWS Level 1 Managed Security Service Provider Competency Status",
-      "excerpt": "(GLOBE NEWSWIRE) -- eSentire, recognized globally as the Authority in Managed Detection and Response (MDR), announced today that it has achieved Amazon Web Services (AWS) Level 1 Managed Security Service Provider (MSSP) Competency status.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-12571e98f7ec23c0ebd3c4de0a0279ec",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-12571e98f7ec23c0ebd3c4de0a0279ec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.md",
-      "title": "Waymo opens self-driving car testing to some San Francisco residents",
-      "excerpt": "Alphabet-owned Waymo is asking San Francisco residents to help test its self-driving cars in the city it hopes will be its second market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents/ar-AANGX1x",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 329,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105242041-GettyImages-938757682.jpg?v=1532563631",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
-      "publishedDateTime": "2021-08-24T09:43:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
-        "domain": "com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis.md",
-      "title": "Israel’s DiA gets $14M to expand AI-driven ultrasound analysis",
-      "excerpt": "Israel-based AI healthtech company, DiA Imaging Analysis, which is using deep learning and machine learning to automate analysis of ultrasound scans, has closed a $14 million Series B round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
-      "originalUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Screenshot-2021-08-24-at-16.55.57.png?w=1024",
-          "width": 1024,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
-      "publishedDateTime": "2021-08-24T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/novel-ai-driven-heart-failure-diag
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medindia
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A New Artificial Intelligence Can Help Diagnose Lung Cancer a Year Early"
-    excerpt: "A team of researchers tested an AI program that could detect lung cancer tumors a whole year early! This could help radiologists save lives."
-    publishedDateTime: 2021-09-07T22:04:00Z
-    webUrl: "https://interestingengineering.com/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early"
-    ampWebUrl: "https://amp.interestingengineering.com/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2xJ5bw9/sizes/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "AI could be used to guide drug therapy for heart failure"
     excerpt: "Beta blockers were unable to improve survival in trials involving patients with heart failure and atrial fibrillation, but an AI finds they can cut mortality in some patients"
     publishedDateTime: 2021-09-06T07:47:00Z

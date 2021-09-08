@@ -92,20 +92,20 @@ related:
         height: 400
         isCached: true
   - title: "Tesla planning wider release of its 'Full Self-Driving' software"
-    excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of"
-    publishedDateTime: 2021-09-08T09:34:00Z
-    webUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software"
-    ampWebUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
+    excerpt: "Nearly a year after Tesla started testing its controversial Full Self-Driving (FSD) beta software with a select group of customers, the companys CEO Elon Musk said he is aiming for a wider release by the end of September."
+    publishedDateTime: 2021-09-08T10:49:00Z
+    webUrl: "https://www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
+    ampWebUrl: "https://www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: Sify.com
+      domain: sify.com
     quality: 59
     images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/09/93d79dc915d322b2d64bae9723e52e54.jpg"
-        width: 400
-        height: 300
+      - url: "https://www.sify.com/uploads/tesla_ians_ukvnBpfhdebii.jpeg"
+        width: 745
+        height: 568
         isCached: true
   - title: "Tesla planning wider release of its 'Full Self-Driving' software, says CEO Elon Musk"
     excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of customers, the company's CEO Elon Musk said he is aiming for a wider release by the end of September."

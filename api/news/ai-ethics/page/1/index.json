@@ -97,49 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-06-middle-east-companies-training-staff-for-ai-powered-jobs.md",
-      "title": "Middle East companies training staff for AI-powered jobs",
-      "excerpt": "Around 38% of companies in the UAE, and 45% in Saudi Arabia, are now preparing the workforce for a more automated and AI-powered future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/business/corporate/middle-east-companies-training-staff-for-ai-powered-jobs",
-      "originalUrl": "https://www.khaleejtimes.com/business/corporate/middle-east-companies-training-staff-for-ai-powered-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210906/ARTICLE/210909431/AR/0/AR-210909431.jpg&NCS_modified=20210906153448&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/business/corporate/middle-east-companies-training-staff-for-ai-powered-jobs",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/corporate/middle-east-companies-training-staff-for-ai-powered-jobs",
-      "publishedDateTime": "2021-09-06T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-04-rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers.md",
       "title": "Rank One to campaign for ethical facial recognition commitment from providers",
       "excerpt": "Rank One Computing declares its intention to take a strong stand on ethics in facial recognition use, in coordination with the Security Industry Association.",
@@ -1406,6 +1363,58 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-meet-the-ai-research-pioneer-who-wants-to-redefine-progress.md",
+      "title": "Meet the AI research pioneer who wants to redefine ‘progress’",
+      "excerpt": "Name any AI technology, and Dr. Nuria Oliver, of Telefonica and Vodafone, was likely working on it when it still felt like science fiction.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/amp/",
+      "publishedDateTime": "2021-08-06T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

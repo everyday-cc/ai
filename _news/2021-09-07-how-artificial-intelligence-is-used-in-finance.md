@@ -41,6 +41,22 @@ related:
         width: 463
         height: 231
         isCached: true
+  - title: "AI Is Redefining How We Use Documents In A Digital World"
+    excerpt: "AI-powered intelligent document processing is helping to convert unstructured data in digital documents into structured data that can be fed into downstream applications to automate business processes."
+    publishedDateTime: 2021-09-08T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376154fe77d3ed291e6760%2F0x0.jpg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "When Fintech Meets Healthcare: How can cryptocurrencies and blockchain improve access to healthcare?"
     excerpt: "Cryptocurrencies and blockchain technology are used in a wide array of new applications – including in healthcare. Fintech start-ups are the catalyst for many of these recent market innovations – and they aren’t just focused on the banking and financial services sector."
     publishedDateTime: 2021-09-06T20:46:00Z
