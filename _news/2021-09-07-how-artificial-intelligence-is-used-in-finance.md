@@ -41,6 +41,22 @@ related:
         width: 463
         height: 231
         isCached: true
+  - title: "When Fintech Meets Healthcare: How can cryptocurrencies and blockchain improve access to healthcare?"
+    excerpt: "Cryptocurrencies and blockchain technology are used in a wide array of new applications – including in healthcare. Fintech start-ups are the catalyst for many of these recent market innovations – and they aren’t just focused on the banking and financial services sector."
+    publishedDateTime: 2021-09-06T20:46:00Z
+    webUrl: "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/"
+    ampWebUrl: "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 61
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/09/When-Fintech-Meets-Healthcare.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "The man making antibodies smarter"
     excerpt: "Using artificial intelligence, Biolojic Design founder Prof Yanay Ofran believes he can produce antibodies that are a match for any disease. Prof. Yanay Ofran's amazing story about the pursuit of an antibody that will save the world from disease Shlomit Lan and Gali Weinreb Professor Yanay Ofran,"
     publishedDateTime: 2021-09-05T18:27:00Z

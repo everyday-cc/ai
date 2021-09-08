@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Indian, German Scientific Experts To Enhance Cooperation In Artificial Intelligence"
+    excerpt: "AI is a very active research topic, and efforts should be made so that India and Germany can cooperate and augment the cooperation."
+    publishedDateTime: 2021-09-08T05:27:00Z
+    webUrl: "https://analyticsindiamag.com/indian-german-scientific-experts-to-enhance-cooperation-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Indian-German-Scientific-Experts-To-Enhance-Cooperation-In-Artificial-Intelligence.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "VW’s first electric minibus is a self-driving taxi"
     excerpt: "Volkswagen has unveiled a prototype self-driving version of its upcoming electric microbus, the. The vehicle was showcased during a press briefing by the German automak"
     publishedDateTime: 2021-09-07T11:06:00Z

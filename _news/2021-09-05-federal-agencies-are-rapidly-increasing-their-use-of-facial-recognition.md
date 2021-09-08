@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognitio
 webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.natgeofe.com/n/5a7b78dd-c3a5-4130-a2fd-6a887253f983/STOCK_MZ3820_IMG_9442_Melanie%20Clapham_16x9.jpg?w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "New non-contact facial recognition software monitors a baby’s vital signs"
-    excerpt: "Researchers have designed a computer vision system that can automatically detect a tiny baby's face in a hospital bed and remotely monitor its vital signs from a digital camera with the same accuracy as an electrocardiogram machine."
-    publishedDateTime: 2021-09-03T11:42:00Z
-    webUrl: "https://www.dpaonthenet.net/article/186871/New-non-contact-facial-recognition-software-monitors-a-baby-s-vital-signs.aspx"
-    type: article
-    provider:
-      name: dpaonthenet
-      domain: dpaonthenet.net
-    quality: 38
-    images:
-      - url: "https://www.dpaonthenet.net/global/showimage/Article/197394/"
-        width: 375
-        height: 238
         isCached: true
   - title: "Global facial recognition market expected to grow 12 percent to 2025 – report"
     excerpt: "The substantial growth is expected to be spurred by increasing instances of identity threats, and the necessity of using biometrics to counter them."

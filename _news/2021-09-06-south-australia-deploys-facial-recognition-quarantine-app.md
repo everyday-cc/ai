@@ -41,22 +41,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Australia Introduces ‘Orwellian’ Police-Enforced Facial Recognition COVID App"
-    excerpt: "As the country’s crackdown on coronavirus restrictions continues, parts of Australia are introducing a new facial recognition app to keep tabs on people quarantining. The trial is taking place in South Australia (SA), and is aimed at ensuring people ..."
-    publishedDateTime: 2021-09-03T12:31:00Z
-    webUrl: "https://www.unilad.co.uk/life/australia-introduces-orwellian-police-enforced-facial-recognition-covid-app/"
-    ampWebUrl: "https://www.unilad.co.uk/life/australia-introduces-orwellian-police-enforced-facial-recognition-covid-app/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/life/australia-introduces-orwellian-police-enforced-facial-recognition-covid-app/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 56
-    images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F09%2Ffacialrecognition.jpg"
-        width: 1200
-        height: 619
-        isCached: true
   - title: "NAB keeps a close watch on budding Euro, Australian AI rules"
     excerpt: "NAB is once again looking to Europe - and specifically its work on ‘trustworthy AI’ regulation - as a benchmark for future standards in the development and use of AI and machine learning systems. Like others operating in the space,"
     publishedDateTime: 2021-09-06T19:59:00Z
@@ -70,6 +54,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/nab-522790626.jpg"
         width: 745
         height: 539
+        isCached: true
+  - title: "NSW considering facial recognition technology for home quarantine"
+    excerpt: "The NSW government is considering using facial recognition technology as part of arrangements for home quarantine for returned travellers. This would allow authorities to send a notification to people isolating,"
+    publishedDateTime: 2021-09-08T05:01:00Z
+    webUrl: "https://www.news.com.au/national/nsw-considering-facial-recognition-technology-for-home-quarantine/video/6326dd3fbfcef73d4f21d0e3dd3274b3"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 39
+    images:
+      - url: "https://content.api.news/v3/images/bin/c487120f4abdccdf4988c01701b8a518"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Facial recognition app being used In Australia to track quarantined"
     excerpt: "The government of South Australia has implemented a new policy requiring Australians to use an app with facial recognition software and geolocation to prove that they are abiding by a 14-day quarantine for travel within the country. While a conservative ..."

@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New non-contact facial recognition software monitors a baby’s vital signs"
-    excerpt: "Researchers have designed a computer vision system that can automatically detect a tiny baby's face in a hospital bed and remotely monitor its vital signs from a digital camera with the same accuracy as an electrocardiogram machine."
-    publishedDateTime: 2021-09-03T11:42:00Z
-    webUrl: "https://www.dpaonthenet.net/article/186871/New-non-contact-facial-recognition-software-monitors-a-baby-s-vital-signs.aspx"
-    type: article
-    provider:
-      name: dpaonthenet
-      domain: dpaonthenet.net
-    quality: 38
-    images:
-      - url: "https://www.dpaonthenet.net/global/showimage/Article/197394/"
-        width: 375
-        height: 238
-        isCached: true
 
 secured: "i7qnpYzf1YtvzA1MxbvN9IKmM55j5EX1ET0OchRonQI10iszX4/by6tc0ku1BLmtouvibSzaP2/LqNJ9P35ZPxa0Kr+Tt/XCJjm3HulUCqy+PblW64lyTqIz9olUMaJ2/XyXQCQ6vFFj6MC1kCOuyuZS3vnCXGXWgyAK39MvMW2h5IAlp4Hu5I2aTMHvZlmOT0rMKBVNNqLL2135csAybM1FR/OTFFCCKfoit75Yj1WJYICEmUD89D8LmQxUGjTD+2ElhbEc255FfOII5LoCQcNn4KUudw7rOmYLT2BCXPDSN22bp7hKFbK9gu4WqXUBzBXCI66Rb/CbYgZlUwoRwhaOAXKjVPR2EMAsXNczzWquOPoiTOGZ/QON23c4EQnvZIH1QU7TDR4l7xVfKFUZK2MuQ2ClsE43TWXv45m0C3/NWLgD/JHtKK8KckUx8zyqikRdrYWtaHElpKsJm7l7kLJpy3jrZtxtWC0pR/NIz0q7Cgav2uUuihsKHQcgI+GUZtXByqTRVMOqdudmy4Ii9A==;31m0qFq9+7h5tS2T1Ao8LQ=="
 ---

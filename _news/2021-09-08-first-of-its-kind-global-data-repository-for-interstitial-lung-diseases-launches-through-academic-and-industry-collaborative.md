@@ -1,18 +1,18 @@
 ---
 category: news
 title: "First-of-its-Kind, Global Data Repository for Interstitial Lung Diseases Launches Through Academic and Industry Collaborative"
-excerpt: "The Open Source Imaging Consortium (OSIC) today announced the launch of its global, data-rich repository of anonymized HRCT scans and"
-publishedDateTime: 2021-09-08T00:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/first-of-its-kind-global-data-repository-for-interstitial-lung-diseases-launches-through-academic-and-industry-collaborative-880583966.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/first-of-its-kind-global-data-repository-for-interstitial-lung-diseases-launches-through-academic-and-industry-collaborative-880583966.html"
+excerpt: "The Open Source Imaging Consortium (OSIC) today announced the launch of its global, data-rich repository of anonymized HRCT scans and clinical information regarding interstitial lung diseases (ILDs)."
+publishedDateTime: 2021-09-08T01:00:00Z
+originalUrl: "https://www.newswit.com/en/LImT"
+webUrl: "https://www.newswit.com/en/LImT"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: academy
+  domain: newswit.com
 
 topics:
   - AI in Healthcare
@@ -34,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "y/V+bmX5qeD3rxRLv4IUnYDjxwfBAKP7Ez94BzjMH6yeDOZ5OaFmYiazI/9v/I6GW9Ux6WNiiZJJxNv8JFmJYgdFeo4KXRD6/1UUDG2Um9V4ZqxREb3jHLK5uXQocOSxiByXfZhQWxqLTi4UIyOl7GiszuIwweLGJlJRAtyZIA9TDqIqO+//0hKUN3YYm1xN2R+v/sQ5wn5KPCXEaH7seU23fskkv8r6Rw+djEMT3psUawPnfxgPI1GsuOgmTfEYjFHwalwt1mqLoEHXlpeRZB0/A3Ki/Xs8QR2tga/mT4Wtztl/SDACcJ/29jvaZrDHnhaaxY0LEKn0xn6iylw5x/HUfHQejtevdOzODKKMcNM=;yMy4yjWdzjp01pd+iHiwPA=="
+secured: "RBa3j5F6piIXIh6sh7QD6INrdJySjJFvge3HTO5plGWnQV89V4qTtRb8+A7n8C0yxiQ/MhTu2NLtfWmQ0WjnTq+6YlYmSfK3uXA+8m988wzPFqASdceeKUBVs2kz5VOVb7kyQoh25et4HmBPwRc+nNV0eXlPNsJ11Tu9n2KlSRHfTRggSiqYGBNDY44zC7/X6JFt/GQPQgbsuHiWAtJFDfJjcfnA+EticSmzzPj+O7lpcCCKHFyT3kZ2fm5Ef7jGy1+iWLcZ4px+xYdk97ph/wK2bpdkwt+V2DtEmKjzkOGEMv1fJRU+FhE3WTf5AO+dPUUabo9eT6m5bEFeV0MaMjgzxWIF8JBLJBKF/A3FMfM=;yZkssS074Qal1fFzwiljDg=="
 ---
 

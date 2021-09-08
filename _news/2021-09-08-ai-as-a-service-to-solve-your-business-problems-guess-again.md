@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-busi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
