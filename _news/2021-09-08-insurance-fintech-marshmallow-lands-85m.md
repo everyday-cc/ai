@@ -162,6 +162,15 @@ related:
       name: Mobility Techzone
       domain: mobilitytechzone.com
     quality: 19
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
+    publishedDateTime: 2021-09-08T17:51:00Z
+    webUrl: "https://www.afp.com/en/news/1314/earnix-recognized-top-aifintech100-company-fintech-global-202109080057991"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 19
   - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
     excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"
     publishedDateTime: 2021-09-07T17:15:00Z
@@ -190,6 +199,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "glSuH4UzTretRtx7GrJ73731c80kWFzaAiq3sQiTL+lPWl3UNBicCTVTvkrEZJ6mgc/sAxOBlbj40umNWwO8i35+fb9UtEyO+yPV53JivezBPdfiHjSCdTSUoJw5oMEACnNw376jJTlVYwz8+4fQHxZVMTOs0Z+513epKq1kyGttfswIVxBVlthGfHEhGLfl9TdwFisxa8VWgWxKGlFXdWT3kJXvA3KIknvGnsqHPX5V3lGaMmVL6Dga/V7cJgfDHHZXGwiDwNrTJULlz6lvrZKODEuUnL6xl3KqaAIQtl/VDoYK5uQs80A/1wq1VAOeHwF8QJcMTOKPTgTjVxRzH74taihwctECwNVx2HZfRFI=;08TK/eFBaFR2op/9065O0A=="
+secured: "A4tgumbIaXEaWUQsO1TwYHeB3ZT3d6/f6RHFUMXd77WUhRgGhOAHIPRMHfL5T+Hlxr3sfD5K7/t5wXJDjS05qkmhVw7/9tZbg02k0QHtVQL+FPHtOyr9AbWfroMBxr8riKvSAK8E9ZUdn5E1OH6vp9/97C0bJeDxsN42VdOdayzriHOwtCGrcR9P4TfxyBQmpXaZGvq7px/Nf8bIhiyBq6bcs2jgEb2OmReOH4MYzcmI9Apgt9l3AdFd0ZkmalDtJGH7q9Hj8ljkr/9hXRMpbDkj9ZUE5/1xFbjBymurwxM8pkk5CJAwnKjGVgff9WB3RhS97e8oT51J7WSNMVVBZC6hyHbtBRjdk8TF3Cp8fmlMBy2KBbmEAoycW4uP6KOhWSjows70HdUzzA2Gd7ANUdtEivuLGO3dw2mxVIzCjHLBPmKngubbkfwVOej3aMx+tVoFPYO8SGz/sw8+y1mG7WlQUEwJDmhbhR8LkyX1JJWe4sWmU+EJHCws1txIU/Q1gTCjf1+u9xBNUbYLRwVu7w==;uA/4Eqlm9wc2xwHmLl7kNw=="
 ---
 

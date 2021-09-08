@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 79
+  - title: "Where Watson went wrong"
+    excerpt: "Over the course of three nights in February 2011, IBM’s Watson supercomputer stunned the world by using artificial intelligence to soundly defeat Jeopardy! champions Ken Jennings and Brad Rutter. It was essentially a debutante moment for the technology ..."
+    publishedDateTime: 2021-09-08T17:17:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/features/where-watson-went-wrong/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 41
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2021/09/Glitch-WatsonLogo-6_RGB.jpg"
+        width: 1024
+        height: 766
+        isCached: true
 
 secured: "OiDls4exOc2slsIH+Tpp+VTNdZCF8cZnZV/3wNpuzLUqKi2UPxzt73mSs6m/tH8Cw4cO9qvKcFXdTA40FKXP1OTBNf3aCrnopdVh4Z0MRf2ho4omGZ5RG7yBld8HUOT8H3mWiI51sqimjbvgYA9CPoILtQArllouvTiWTngFL589rwmNz/oJHXHe9Rp+tveO3r9BjNmXuz5BMYpj14wQJ+qN8A2l5B7KxecvBDWWFJQWyaviT1kCbK9N/14dfSWUGc/jQILYqTsX9C1v7SHPLMPnmfuJ9vBCRNCTdKtq1yK2hXvoBt8ZLs6t9G4NZAotqUsiWpKhLScb8R8MWl+OhYtoLyYkeHR6vHrEcqwtXCQ=;6QoSCDRuzGmD1MrTgfE9rg=="
 ---

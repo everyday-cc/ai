@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel CEO believes over 20 percent of premium vehicles' bill of materials will be dedicated to chips by 2030"
+    excerpt: "The predictions presented at IAA Mobility by Pat Gelsinger, Intel's CEO, represent 5x growth over 11 years. Besides the increase of semiconductors to manufacture premium vehicles,"
+    publishedDateTime: 2021-09-08T16:10:00Z
+    webUrl: "https://www.techspot.com/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 70
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-08-image-24.jpg"
+        width: 2093
+        height: 1308
+        isCached: true
   - title: "Intel CEO Predicts Chips Will Be More Than 20% of Premium Vehicle BOM by 2030"
     excerpt: "Intel outlines plans to ramp chip production and help automotive industry customers modernize designs to leverage leading edge silicon. NEWS HIGHLIGHTS Intel CEO"
     publishedDateTime: 2021-09-07T15:45:00Z

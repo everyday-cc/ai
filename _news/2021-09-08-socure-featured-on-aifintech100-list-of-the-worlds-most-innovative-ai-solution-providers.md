@@ -170,6 +170,15 @@ related:
       name: Mobility Techzone
       domain: mobilitytechzone.com
     quality: 19
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
+    publishedDateTime: 2021-09-08T17:51:00Z
+    webUrl: "https://www.afp.com/en/news/1314/earnix-recognized-top-aifintech100-company-fintech-global-202109080057991"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 19
   - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
     excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
     publishedDateTime: 2021-09-08T12:18:00Z

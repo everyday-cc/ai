@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Court ruling: USPTO cannot issue patents to an artificial intelligence"
-    excerpt: "A court in Alexandria, Virginia, ruled that inventions can only be patented under the name of a \"natural person.\" The decision was made against someone who"
-    publishedDateTime: 2021-09-04T00:09:00Z
-    webUrl: "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html"
+  - title: "Judge Says an AI Can’t Be an Inventor on a Patent Because It’s Not a Person"
+    excerpt: "They can’t even appear as inventors on U.S. patents. U.S. federal judge Leonie Brikema ruled this week that an AI can’t be listed as an inventor on a U.S. patent under current law. The case was brought forward by Stephen Thaler,"
+    publishedDateTime: 2021-09-05T05:09:00Z
+    webUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641"
+    ampWebUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 85
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-03-image-42.jpg"
-        width: 2560
-        height: 1696
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/37537a3ccad75b9d5a057a42727649ac.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "kDpimwa5rMpNHwZI1YpMEkR9V2Nz2362rgKQGYV4gwLgCqccXRqJtKOVNG7o1Iazj43KP5LkFTJtJHYMe/0XtQmTfkGRtWFor+V+8ewvvTWGUWXwSsoLF5NLNO8mgwHC5TqxT4Q15upS/6YzlbVl0Z/E0/StrUp2cB/WcFoHpDRPQWjPd/fkeXG8MeAtuZPwl0gqZzPMm1KRgAJDIpuuxoJWHXt+dJApR42XdqjA3FUVC+o8cdmHFSkFluj1ni9ktBK/RjvXr+eIasiXKdLpJgdkfs0WA/O6MIDqws/iXgfmoPlv5fumxpptdfIi/4J5CSewhvlnazxqtlKJs5ZnU+9Ouhh8biW6LSrotdBEBT7baJnoTddFrHDv2zIIXFAz2UR8IeRdZ5E8rsC3DOAhziHvEbzNU7D1hcHDzEOAfi6TY4imj/DHg3A6UkRY3gnq/Sd8Zpivmj/x7nhLyM1xlYAmkJ8nt3SgQjyYSNhq9jV//F7SMhEtLP+Rfd4PGol6bASUbo1FaJqpl8luQBVARg==;qMslxCk6fQPXOrIEvdQBkw=="

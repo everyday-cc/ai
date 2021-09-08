@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-ma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Natural Language Processing in Fintech world"
+    excerpt: "If you are thoughtful about Natural Learning Processing (NLP) integration into your service, here are some thoughts on how to get use of the mainstream natural language programming software with a proven envisioned savings today,"
+    publishedDateTime: 2021-09-08T16:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/20868/natural-language-processing-in-fintech-world"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "Y0ommCsfmxTdzhNLKDarZsDt76poQEbnD9QmcVIzouY5lRXq5l0soPF8z+EN75M+ZDEwKwfzrX3WvB1FN6ijcfRptq51BcWfsPS1uYaplf/3FwsgVdQahWJA6zNn2AKRCh1YAhfpI4WhSi8Z5yVQPeECNncdS+0bNagdEe9EbiADcdIiqXd4MdVSc50ab9T/xgU5uZISwUNDi8YdHOvRhrWtbwVuRGzxxkCk3JsK8Wec36YXHV6fVAhy0uvD/K3eNCB5mJBRTl9eoruOqm02QaBGiSUAoWBDhOweJOCuo3wvmflZG+Dat/xq6xe3OV+nT5ZVOn95N1Lu2Fx/2tlDLqxxE3Dxt00rf3O/8OC5l4+ipqWXwq1CpiYT942riv786/shEvzO4b7geq45SE+aAnTJimBOFK6Tuob9XJ5gXMWiD/Yl/hq2jlg0octfoURwuhaYXQIQutImdGASkhTAz7oAlt+9nUI6azmUUxHr/231hNEf1Cb/gj5/xWXZtre5w/rp18e+KmxiFf5kjWj6kQ==;TjZWt57rmMnHc37SOjsSiA=="
 ---

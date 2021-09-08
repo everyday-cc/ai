@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22830056"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22830056"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel CEO believes over 20 percent of premium vehicles' bill of materials will be dedicated to chips by 2030"
+    excerpt: "The predictions presented at IAA Mobility by Pat Gelsinger, Intel's CEO, represent 5x growth over 11 years. Besides the increase of semiconductors to manufacture premium vehicles,"
+    publishedDateTime: 2021-09-08T16:10:00Z
+    webUrl: "https://www.techspot.com/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 70
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-08-image-24.jpg"
+        width: 2093
+        height: 1308
+        isCached: true
   - title: "IAA2021 – Intel predicts chips will account for 20% of BOM by 2030"
     excerpt: "Intel is predicting semiconductors will account for more than 20% of the total premium vehicle bill of materials (BOM) by...Read"
     publishedDateTime: 2021-09-08T09:51:00Z

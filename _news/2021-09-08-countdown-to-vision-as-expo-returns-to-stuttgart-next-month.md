@@ -3,8 +3,8 @@ category: news
 title: "Countdown to VISION as expo returns to Stuttgart next month"
 excerpt: "With just one month until the VISION Show returns as an in-person conference and exhibition, (5 to 7 October), organizer Messe Stuttgart says it is confident that a “who’s who of the machine vision sector” will be meeting at the expo."
 publishedDateTime: 2021-09-08T14:48:00Z
-originalUrl: "https://optics.org/news/12/9/13"
-webUrl: "https://optics.org/news/12/9/13"
+originalUrl: "https://optics.org/photonex/news/12/9/13"
+webUrl: "https://optics.org/photonex/news/12/9/13"
 type: article
 quality: 24
 heat: 24
@@ -35,6 +35,6 @@ related:
       domain: optics.org
     quality: 4
 
-secured: "jnQyZoeFAXYjNWG6gjJTVYa8N12eBEk3895nf3ta3Tgzweaiposa6FsnPe0scvb1Zv8F3Ia5Ww2zylrPdszWFz7uJnqS3Cgez5cXPW7bFWYIKGbmC+SP7eJHxVnIbMRQ4RxVYNiQDrdAXS5mChkzsnoheZqhhWgXhcN7Al24BhJJQJHIbjuxpfWgDabq1ZwywSM7z/u4NwDMCkoH5MByR1pMGzHJx6qpD1FAIC4U0ZufD1HqLAvAYNsBd6UkYCTcu0LOdByj2oqnGC/Mla0AwXvswxmJwBMYdH8ZjXRbJaX4Ui0weYVd0kMzduuDSzAcBjaeCTww84+lHt5pUwchEGcw2sU+9OSdtQdeHEewOG4=;BpdCdSgosgr4sLlWAL9sIg=="
+secured: "1+5ig2mYkoBzOC78fj1i0gMs+fHtVFJeeZahZCCj/M+dphDbxMH4oGuL5fm98O8VQzSSkXVeAKB4M1cnyehNJkS3aq03vQYLeqI8hjfJdQ2biTYnwyhGa2N/3o56FyJgpuxOWjAnJX4mOgfEHqEpOkEYLZpNCyxKHsMXcj2WZKWB25cXSeCRsuahbnkBMWc8QoFztp/B3BmPntAVKoW7oNmqs7p2CWZ5lVUl/BedPpKItK0PDgJwSQrcCXBTFmIpz3sZyekyWE6xC5SqCN9rqD2VTspwmM9CsQadqo6bF8nM5RrKv51vCGM1oKG9wC/goFFGVXZCVTb+JJzWBG55bggPe9dtpv5dl3cetPozs2A=;QSebssCm0AdZR8p8yOsR9g=="
 ---
 

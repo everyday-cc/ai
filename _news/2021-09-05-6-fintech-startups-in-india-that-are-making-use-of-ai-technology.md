@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -161,6 +161,15 @@ related:
     provider:
       name: Mobility Techzone
       domain: mobilitytechzone.com
+    quality: 19
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
+    publishedDateTime: 2021-09-08T17:51:00Z
+    webUrl: "https://www.afp.com/en/news/1314/earnix-recognized-top-aifintech100-company-fintech-global-202109080057991"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
     quality: 19
   - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
     excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"

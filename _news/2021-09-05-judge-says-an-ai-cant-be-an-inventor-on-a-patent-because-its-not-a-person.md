@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-paten
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Federal court rules Artificial Intelligence cannot be an ‘inventor’ under US patent law"
+    excerpt: "The US District Court for the Eastern District of Virginia on Wednesday ruled that an artificial intelligence (AI) machine cannot be an inventor under the Patent Act. The action was a motion for"
+    publishedDateTime: 2021-09-05T07:38:00Z
+    webUrl: "https://www.jurist.org/news/2021/09/federal-court-rules-artificial-intelligence-cannot-be-an-inventor-under-us-patent-law/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 29
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/09/Artificial_Intelligence_1630841903.jpg"
+        width: 1280
+        height: 427
+        isCached: true
 
 secured: "Oz1gQuV64ducxP7/nYrhI9ar5fGYUoluMMgsViZTw3CXZo0kFSGOCM2Q3mvABS+ZwAoFrbkDBwcVth6fk7OC1s4Ej0o2PFHpFM7yv1CMmE+3LSH0glMVGnxrytf4gj5ETSYu47FiPWCCRjHXrEor+X17J/ckvYZIua7MFwpG33tJN2muVY1tq0mfJ9tn+aoi6FA8JG3Q0kKbc2BPGrPCYZZujuc1qvD7SAEts4Gx+f9ieY9OY1YqBNNlhhHpDtuBy6k88+Vn7T5CriDlDlyf7nfNwLdipgL0HXR9WezvkVUd4us22ig0GVA04ZXC6STLXblynz3zT0QfWDvHuGli3xMtg/QyfhaSHkZHtkfeKGHdml8izHzjH3DE4BbnkEgXkpUiSCn45b/ohOO/QfqGzj4mBonkK/X1Ed1GbOWGpeKVPrqI3fKKhn0cKBmKYlaLRCK5r3j79S6cyimevb7AFozU4sosezp/gsv+4Ic6euG4Jt2tKe3Yy2+rqK4UOBSD8xXC8fjf4oxSKYOy/pzFMg==;tPqktivjOOfWCWEZRjRw4Q=="
 ---

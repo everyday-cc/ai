@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Motorola Solutions Launches the First In-Car Video System Enabled by Artificial Intelligence"
+    excerpt: "Motorola Solutions (NYSE: MSI) today introduced the first AI-enabled in-car video system for law enforcement, the M500. The solution is bringing more powerful capabilities to the police vehicle to enhance awareness and safety while building trust and transparency throughout communities."
+    publishedDateTime: 2021-09-08T17:54:00Z
+    webUrl: "https://newsroom.motorolasolutions.com/news/motorola-solutions-launches-first-in-car-video-system-enabled-by-artificial-intelligence.htm"
+    type: article
+    provider:
+      name: Motorola Solutions
+      domain: motorolasolutions.com
+    quality: 6
+
 secured: "jRyeCdjQypOA2UUt2WCtX0cjozJUbDvEBk0bl5YTn5HUTGEIHGFExreL/16ppOzAW2cIPEPk7dj2gT5+6ad71H1g4BO/pPoV1U6ceJptKVKaVf7irn21dNbbtDEj08NVhlCNU9YjnBQ0MjQFayRfaxTjARYkpucnCKkPeGmBaLqUxOdexUVBWASA0zXy2R3OAuAOwcntip3BzFOrNv3npChSCg7RCgvjS5aWEG5CMIa4uDUj5Bg5IVQiIFaiPckET6RfGJTIIma0fcd/+XyiJ+jLCV7ap1HkjpZjjcdtWfkJ0XoIuJ6A4dVf1O3PIf0y0U+tdm4eeft+Vf++AW+GdME6TApMzbes+ao2DoeYeLE=;yA0c8M+u74cxhODHxNbXEw=="
 ---
 

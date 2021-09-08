@@ -195,6 +195,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-02-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.md",
+      "title": "A Peek into the Future: Applying Artificial Intelligence to PSMA-PET Imaging in Prostate Cancer",
+      "excerpt": "The Clinical Utility of 18F-Fluciclovine PET/CT in Biochemically Recurrent Prostate Cancer: An Academic Center Experience Post FDA Approval - Beyond the Abstract : Ryusuke Nakamot",
+      "sourceUrl": null,
+      "webUrl": "https://www.urotoday.com/newsletter-archive/listid-3/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html",
+      "originalUrl": "https://www.urotoday.com/newsletter-archive/listid-3/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.urotoday.com/images/journal_issues/EU-Vol-5-Issue-4-cover2x.jpg",
+          "width": 472,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UroToday",
+        "domain": "urotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-new-study-ai-in-healthcare-applications-to-witness-burgeoning-demand-during-2021-26.md",
       "title": "New Study: AI in Healthcare Applications to Witness Burgeoning Demand During 2021-26",
       "excerpt": "According to MarkNtel Advisors, the “Global Artificial Intelligence (AI) in Cancer Diagnostic Market” is predicted to",
@@ -1360,59 +1403,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-the-ai-advantages-for-healthcare-and-finance.md",
-      "title": "The AI advantages for healthcare and finance",
-      "excerpt": "By Evan Schuman When senior executives at two of the world’s most highly-regulated verticals—healthcare and finance—explore ways of improving operations, boosting margins and delivering it all with a strong ROI,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/",
-      "originalUrl": "https://techcrunch.com/sponsor/beyond-limits/the-ai-advantages-for-healthcare-and-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1244301434.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

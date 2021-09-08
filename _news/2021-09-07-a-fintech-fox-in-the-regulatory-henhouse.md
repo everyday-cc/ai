@@ -55,6 +55,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Natural Language Processing in Fintech world"
+    excerpt: "If you are thoughtful about Natural Learning Processing (NLP) integration into your service, here are some thoughts on how to get use of the mainstream natural language programming software with a proven envisioned savings today,"
+    publishedDateTime: 2021-09-08T16:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/20868/natural-language-processing-in-fintech-world"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "PYmDETJAcYbnXcTDb7qcWHw24q17MSxiJy2wCvMhX9vf5Ph1kfPl8IDFvpvftLrEq9CXs+Ml+QWcvCFVd5VjUrvDov1BSPX8vmFKzOv+TTmTq/UI/7HIurKZCj6UqInWfPbhbEuZ9aTyizBLUljB5xkIeFyJVLk9+Ic/8BcQsJ4UgcoQRM0OqUQaTZS19tRpaUF2VMpWmB+jBtdjh3AftRbY+Hf3mOSP9Z4Y9NjZ3pJ8HgwRomLqE/+r8+3MrmImSzUtm5IDDmhkGgk+Lz6/PPsaSfx1R/Uueu6Fx4GLolCS4W84A521+a7YOIngdUHi9l8c4xBd+b7uzmpYFl4OD0GX2I84Jj1niTeGh89wqCw=;0hp8a74zpKE9oTF3vnIFkw=="
 ---

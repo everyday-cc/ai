@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcas
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Xilinx Announces New Video, Machine Vision Launches — and the Adaptive Computing Challenge 2021"
+    excerpt: "Field-programmable gate array giant Xilinx has kicked off its Xilinx Adapt 2021 conference with some big announcements for computer vision and video processing work — and has partnered with Hackster on the Adaptive Computing Challenge,"
+    publishedDateTime: 2021-09-08T16:58:00Z
+    webUrl: "https://www.hackster.io/news/xilinx-announces-new-video-machine-vision-launches-and-the-adaptive-computing-challenge-2021-9733ba172dc9"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 12
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1345506/_9wB5MozKWc.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Xilinx Data Center, 5G and Core Vertical Markets in the Spotlight at Xilinx Adapt 2021 Virtual Technology Conference"
     excerpt: "Xilinx Data Center, 5G and Core Vertical Markets in the Spotlight at Xilinx Adapt 2021 Virtual Technology Conference"
     publishedDateTime: 2021-09-07T17:28:00Z

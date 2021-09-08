@@ -3,43 +3,24 @@ category: news
 title: "AWS Announces General Availability of Amazon FSx for NetApp ONTAP"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon FSx for NetApp ONTAP, a new storage service that allows customers to launch and run complete,"
 publishedDateTime: 2021-09-02T15:59:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1"
+originalUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap/article_21e23ee9-4423-5c38-bf11-55a14362b279.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap/article_21e23ee9-4423-5c38-bf11-55a14362b279.html"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+    width: 640
+    height: 336
     isCached: true
 
-related:
-  - title: "AWS Offers New Service that Provides a Complete, Fully Managed Netapp ONTAP File System in the Cloud"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon FSx for NetApp ONTAP, a new storage service that allows customers to launch and run complete, fully managed NetApp ONTAP file systems in the cloud for the first time."
-    publishedDateTime: 2021-09-03T14:16:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/AWS-Offers-New-Service-that-Provides-a-Complete-Fully-Managed-Netapp-ONTAP-File-System-in-the-Cloud-148784.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 26
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "GQfDZhnc8fLTFyMr6Eorm7UInxguiTrZCC8Q0vwlfBxruASez53Bx3o6d/M/BpDuVi29keBn6iqgfDNT7dd7zKrJ/LSyb+UFhSPs8YxjX2Q5e/7lQ2Agbvao64GoA2Ry6qzE8QerbLJVdT/oGCIzLN+qymOd8hUEIa9kGIlPnVuhZfLUummiuBYzMpB755h6ZqTQymSvU5LS+rgmwER6uSz01kUABdcUcqV4fdzMWeFcWIafxU2YVLsIk4S65nVdEthP0uy5jHR9Q1n7BXfepD+nl/bzScz9merbBGYoO8JTH3y7iY+lHxXsWEJVsf8fg7MlF9tyDwa9PN1oHaC88br0t2PAhelLPGovki2fiHw=;Ms0s8Ejvn1nH6d19CTFCyA=="
+secured: "1ohWZo5WYQg7lgr6r6p189Dq/A2KWaokdPDhpypJLHPVobFu6hSQY7Ztm2/3z9HlTnxlndYozyG9RL4uYypWaPd9/qhd/4vRRamNPh4k5WoJGnHbAiMtZvwc8FKlsJVx3q5yB7YyBd3+4n1iGAFlW0pz8DI5HpseoJj1XPs9v/pibjnhalTu9zXQOgF6FRgkp24DnX/c8kEKkrti4lGgoDTdKrCH7wGqVPRqx6p7Hdcb06SFjkBArFp6+QvH7IbV9kepAate7qDaFdjDkCyhIdsKL0jDh+fFPfP8QN7kCVs2u5bb5Q5kK2hdPQtvEzALtp6a6UuMDUaZnBndrUaewHeSe7Ss3SBXcbj2/1vq2QM=;iSBEnzERQw4peLyfIqPhNQ=="
 ---
 
