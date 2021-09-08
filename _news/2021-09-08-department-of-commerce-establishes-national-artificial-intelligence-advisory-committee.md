@@ -7,7 +7,7 @@ originalUrl: "https://www.commerce.gov/news/press-releases/2021/09/department-co
 webUrl: "https://www.commerce.gov/news/press-releases/2021/09/department-commerce-establishes-national-artificial-intelligence"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "US government forms committee to advise on AI competitiveness, ethics"
+    excerpt: "The newly-formed committee will advise the President of AI matters. It's no surprise that artificial intelligence is the future. So much so that the Department of Commerce is forming the National Artificial Intelligence Advisory Committee to focus on a range of issues related to AI."
+    publishedDateTime: 2021-09-08T18:22:00Z
+    webUrl: "https://www.cnet.com/tech/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/orFpM_Oy4mABsx_WzkpE1aobQQE=/1200x630/2019/11/12/d639dcdb-6b23-4be9-8a2a-dfd997c6bc9d/ai-artificial-intelligence-8959.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Midsize Companies Can Compete in AI"
+    excerpt: "Startups and large corporations are seizing AI opportunities and strengthening their position. But what about midsize companies that often lack access to big data and AI talent? These midsize firms risk being left behind in the age of AI."
+    publishedDateTime: 2021-09-06T12:20:00Z
+    webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai"
+    ampWebUrl: "https://hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/09/Sep21_07_1271186214.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Department of Commerce Establishes National Artificial Intelligence Advisory Committee"
     excerpt: "A formal notice describing the National Artificial Intelligence Advisory Committee (NAIAC) and the call for nominations for the committee and its Subcommittee on Artificial Intelligence and Law Enforcement appear in the Federal Register published today."
     publishedDateTime: 2021-09-08T17:11:00Z

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-19-this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity.md",
+      "title": "This Downturn in Baidu Stock Isn’t a Problem, It’s an Opportunity",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips. China’s popular Internet search engine, Baidu (NASDAQ:BIDU), is known as a tech titan. Nevertheless, the resurgen",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19",
+      "originalUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19?amp",
+      "publishedDateTime": "2021-08-19T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect.md",
       "title": "Tesla to Hold AI Day Amid New Scrutiny: What to Expect",
       "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d",
@@ -1343,49 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-google-is-thriving-with-artificial-intelligence.md",
-      "title": "Google Is Thriving With Artificial Intelligence",
-      "excerpt": "Google uses the terms Artificial Intelligence (\"AI\"), Machine Learning ... which owns DeepMind and its self-driving subsidiary Waymo - stands head and shoulders above the rest.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4449189-google-is-thriving-with-artificial-intelligence",
-      "originalUrl": "https://seekingalpha.com/article/4449189-google-is-thriving-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1255079689/medium_image_1255079689.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4449189-google-is-thriving-with-artificial-intelligence",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4449189-google-is-thriving-with-artificial-intelligence",
-      "publishedDateTime": "2021-08-13T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

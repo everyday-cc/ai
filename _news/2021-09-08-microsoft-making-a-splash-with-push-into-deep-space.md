@@ -37,6 +37,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
+    excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
+    publishedDateTime: 2021-09-08T19:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 55
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "MDC joins Microsoft AI Business School to develop AI courses"
     excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"
     publishedDateTime: 2021-09-08T11:01:00Z

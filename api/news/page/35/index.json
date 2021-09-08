@@ -2,6 +2,184 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-08-11-ai-datasets-are-prone-to-mismanagement-study-finds.md",
+      "title": "AI datasets are prone to mismanagement, study finds",
+      "excerpt": "A Princeton study finds that popular AI datasets are prone to mismanagement, and that retractions rarely have the intended effect.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanagement-study-finds/",
+      "originalUrl": "https://venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanagement-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanagement-study-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanagement-study-finds/amp/",
+      "publishedDateTime": "2021-08-11T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-genetec-milestone-systems-and-motorola-solutions-grow-to-become-the-big-3-global-suppliers-of-video-surveillance-software.md",
+      "title": "Genetec, Milestone Systems and Motorola Solutions grow to become the ‘Big 3’ global suppliers of video surveillance software",
+      "excerpt": "In comparison, China is served by domestic suppliers, such as Hikvision, Dahua and ‘AI unicorns’, including SenseTime and Megvii. The report titled, ‘The world market for video surveillance hardware and software’, shows that outside China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sensetime.com/en",
+      "originalUrl": "https://www.sourcesecurity.com/companies/dahua-technology-ltd/news/genetec-milestone-systems-motorola-solutions-global-suppliers-video-surveillance-solutions-co-1151-ga-co-2566-ga-co-3425-ga-co-4261-ga-co-7256-ga-co-14876-ga-co-1582884898-ga-co-1625733339-ga.1628680771.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://oss.sensetime.com/20200624/7ba06842d9f121c223504c25936d0d9a.jpg",
+          "width": 1560,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws.md",
+      "title": "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)",
+      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-how-ai-can-help-to-prevent-accounts-payable-fraud.md",
+      "title": "How AI Can Help To Prevent Accounts Payable Fraud",
+      "excerpt": "There are several common types of AP fraud, but fortunately, there are also steps organizations can take to reduce their risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can-help-to-prevent-accounts-payable-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can-help-to-prevent-accounts-payable-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61128f77ceec061d5060f24d%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can-help-to-prevent-accounts-payable-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can-help-to-prevent-accounts-payable-fraud/amp/",
+      "publishedDateTime": "2021-08-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-how-small-business-owners-can-get-started-with-ai.md",
       "title": "How Small-Business Owners Can Get Started With AI",
       "excerpt": "Started Cybersecurity Titan Websense. As organizations large and small get back to \"business as usual,\" many of us are realizing the \"usual\" looks a little different than it once did — especially on the micro- to small-business scale.",
@@ -985,182 +1163,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-connecting-azure-sql-server-with-azure-machine-learning.md",
-      "title": "Connecting Azure SQL Server with Azure Machine Learning",
-      "excerpt": "Join over 14,000 subscribers and 50,000 readers per month who get the latest updates and expert content from across the community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharepointeurope.com/connecting-azure-sql-server-with-azure-machine-learning/",
-      "originalUrl": "https://www.sharepointeurope.com/connecting-azure-sql-server-with-azure-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://naadispeaks.files.wordpress.com/2021/01/1.png?w=752",
-          "width": 752,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SharePoint",
-        "domain": "sharepointeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services.md",
-      "title": "Massive Growth of Machine Learning in Healthcare Market by 2027 | Oracle, Intel Corporation, IBM Corporation, Amazon Web Services",
-      "excerpt": "Machine learning can also help healthcare organizations meet growing medical demands, improve operations and lower costs. At the bedside, machine learning innovation can help healthcare practitioners detect and treat disease more efficiently and with more ...",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "originalUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Machine-Learning-in-Healthcare.jpg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/massive-growth-of-machine-learning-in-healthcare-market-by-2027-oracle-intel-corporation-ibm-corporation-amazon-web-services/",
-      "publishedDateTime": "2021-08-10T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory.md",
-      "title": "NVIDIA Launches New RTX A2000 GPU With 6GB GDDR6 ECC Memory",
-      "excerpt": "NVIDIA officially launched the RTX A2000, a compact GPU designed for professionals, designed to fit into small form factor desktop PCs. Built upon the GPU brand’s current Ampere architecture, the card was built to handle a wide variety of professional tasks by accelerating AI and ray-tracing in workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/",
-      "originalUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowyat.net/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/",
-      "cdnAmpWebUrl": "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/",
-      "publishedDateTime": "2021-08-10T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lowyat.net",
-        "domain": "lowyat.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-artificial-intelligence-market-investment-analysis.md",
-      "title": "Artificial Intelligence Market Investment Analysis",
-      "excerpt": "The research study provides estimates for Artificial Intelligence Forecast till 2029*. Some of the Leading key Company’s Covered for this Research are IBM Corp., AWS, Microsoft Corp., Intel, Oracle Corp., NEXT IT, JP Morgan, IP soft, INBENTA technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-investment-analysis/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-investment-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://grandmarketanalytics.com/postimage/1341392.jpg",
-          "width": 1132,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-investment-analysis/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-investment-analysis/?amp=1",
-      "publishedDateTime": "2021-08-10T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

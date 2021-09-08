@@ -2,23 +2,20 @@
 category: news
 title: "Clever Digs: IHG Hotels & Resorts and Josh.ai create hotel room of the future"
 excerpt: "IHG Hotels & Resorts – known for venerable brands like InterContinental Hotels & Resorts, Holiday Inn, Crowne Plaza Hotels & Resorts and Hotel Indigo – has designed the hotel room of the future, partnering with Josh."
-publishedDateTime: 2021-09-08T16:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/clever-digs-ihg-hotels-resorts-and-josh-ai-create-hotel-room-of-the-future-1030787997"
-webUrl: "https://markets.businessinsider.com/news/stocks/clever-digs-ihg-hotels-resorts-and-josh-ai-create-hotel-room-of-the-future-1030787997"
+publishedDateTime: 2021-09-08T11:43:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210908aq98921/clever-digs-ihg-hotels-resorts-and-joshai-create-hotel-room-of-the-future"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210908aq98921/clever-digs-ihg-hotels-resorts-and-joshai-create-hotel-room-of-the-future"
 type: article
-quality: 64
-heat: 64
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -27,6 +24,6 @@ images:
     height: 1519
     isCached: true
 
-secured: "dkaaflBaiyx3VmyGsRs/yn5tvq903szunAcg4nerCZ9ZeVE7pZN8vrue3z38rGbKiZMXgGkcgdd+JYYG4NTSlC9n87zvLal2u18Z2HcMvldpJ4+OPgjOnw8prJn6T8uYWR3Vp0aZdCCR6ud1qUMHUsyOGLLOm8hiJ9X5PGvs8f4iKpJ8gqJztoFR1w20vfGa+af0bymdq43ueVQZXxe7w7+nY8Qav2Oe+VkQFENT97QJXo7A1m4jfU3I1UCrAvtXFyOekiv3V9KVcICpvz4cZYDzsXB7xE0bPa16wVvtsE3YYbPlRCYlrvH8KzE0k6vhIPhImGIrbv187uPKU+hQRWvbugHBsVj50E+KPalboTA=;MIa1sllmFBZy6y/yJqyU4Q=="
+secured: "rrxQAiIKl9JEM+B+468R1E7AjcChxEyLExaqaPsZeyh1/mKhZhK5f6uxjlE9XWTrw7+eIkqNjCI+UZAfmVBM+T/N1XnrwMG9P3AWwwktcjnA/wpwBaefNWe44kgBfjgiPsHQwlXpwKo4WfLo1EvSKY5E8eGYWPa47i7j1vyRJnzCUgfgMtgGXYwDMDMJDoi9vrU0ZmbihX2CWXR/BMrpvF8PRz3gyvHRT63P/q3GHWmAkBcSEYcpq3xHFKmSAY1QbsEtPr+4PGBTN1zww4rhirSp69OtAjVjhOElfGDyTVuSYz4GU7ngZcllIPZmH6UR3VcECyMYw/bXibk1E95cWQLqZ8VwpmHs+/WDxPkUNu0=;uXZecOUT+2Y6RV6/C9PUsg=="
 ---
 

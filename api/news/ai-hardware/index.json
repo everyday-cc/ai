@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-synthetic-data-will-feed-ai-hunger.md",
+      "title": "Synthetic Data Will ‘Feed’ AI Hunger",
+      "excerpt": "Synthetic data in the context of AI vision systems refers to annotated images that have been created from computer generated, photo-realistic, 3D environments containing objects, things, people (or anything).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61387564dc9b4ee805f2fe73%2F0x0.jpg",
+          "width": 1200,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/amp/",
+      "publishedDateTime": "2021-09-08T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-intel-ceo-believes-over-20-percent-of-premium-vehicles-bill-of-materials-will-be-dedicated-to-chips-by-2030.md",
       "title": "Intel CEO believes over 20 percent of premium vehicles' bill of materials will be dedicated to chips by 2030",
       "excerpt": "The predictions presented at IAA Mobility by Pat Gelsinger, Intel's CEO, represent 5x growth over 11 years. Besides the increase of semiconductors to manufacture premium vehicles,",
@@ -1372,58 +1424,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai.md",
-      "title": "NVIDIA Now Offers A Comprehensive Platform For Enterprise AI",
-      "excerpt": "NVIDIA has released the full spectrum of AI tools for the Enterprise, extending its reach and confounding competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d7504522a9187778d0853%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
-      "publishedDateTime": "2021-08-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

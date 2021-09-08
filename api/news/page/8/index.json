@@ -2,6 +2,204 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-31-israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations.md",
+      "title": "Israeli AI startup bets on robotic beehives to save global bee populations",
+      "excerpt": "Beewise says round-the-clock monitoring, care for honeybees will make world of difference in protecting pollinators, global food supply and agriculture",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/",
+      "originalUrl": "https://www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/08/Beewise-Founders-left-to-right-Hillel-Schreier-Eliyah-Radzyner-Saar-Safra-Yossi-Surin-Botz-Petersil-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-ai-startup-bets-on-robotic-beehives-to-save-global-bee-populations/amp/",
+      "publishedDateTime": "2021-08-31T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-ibm-openpages-with-watson-wins-red-dot-design-award.md",
+      "title": "IBM OpenPages With Watson Wins Red Dot Design Award",
+      "excerpt": "We are pleased to announce that IBM OpenPages with Watson has won an Interface &#38; User Experience Design award at the 2021 Red Dot Awards. Each year, agencies, designers, and companies all over the world gather to celebrate the best in design, with the Red Dot Award: Brands &#38; Communication Design",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/08/ibm-openpages-with-watson-wins-red-dot-design-award/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/08/ibm-openpages-with-watson-wins-red-dot-design-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/08/Best_UI_Awards_2000x1006_V1.jpg",
+          "width": 2000,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-31T05:00:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-observeai-acquires-scopeai-to-advance-omnichannel-ambitions.md",
+      "title": "Observe.AI acquires ScopeAI to advance omnichannel ambitions",
+      "excerpt": "Observe.AI acquires ScopeAI to set the stage for launching an omnichannel analytics platform for call centers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/31/observe-ai-acquires-scopeai-to-advance-omnichannel-ambitions/",
+      "originalUrl": "https://venturebeat.com/2021/08/31/observe-ai-acquires-scopeai-to-advance-omnichannel-ambitions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Observe.AI-Chat-Transcript-Annotated.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/31/observe-ai-acquires-scopeai-to-advance-omnichannel-ambitions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/31/observe-ai-acquires-scopeai-to-advance-omnichannel-ambitions/amp/",
+      "publishedDateTime": "2021-08-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-tesla-adds-more-jobs-to-build-its-humanoid-robot-hints-at-production-in-texas.md",
+      "title": "Tesla adds more jobs to build its humanoid robot, hints at production in Texas",
+      "excerpt": "Tesla is adding more job postings related to building its humanoid robot: Tesla Bot. One of the new postings even hints at production in Austin, Texas. When Elon Musk announced plans for Tesla Bot, a humanoid robot equipped with artificial intelligence aimed at completing general boring tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/",
+      "originalUrl": "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Screen-Shot-2021-08-19-at-10.17.39-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/amp/",
+      "publishedDateTime": "2021-08-31T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-deserialization-bug-in-tensorflow-machine-learning-framework-allowed-arbitrary-code-execution.md",
       "title": "Deserialization bug in TensorFlow machine learning framework allowed arbitrary code execution",
       "excerpt": "The team behind TensorFlow, Google’s popular open source Python machine learning library, has revoked support for YAML due to an arbitrary code execution vulnerability. YAML is a general-purpose format used to store data and pass objects between processes and applications.",
@@ -973,168 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-microsoft-collaborates-with-invest-india-to-support-11-tech-startups.md",
-      "title": "Microsoft collaborates with Invest India to support 11 tech startups",
-      "excerpt": "As part of this collaboration, the Microsoft for Startups program will work closely with AGNIi Mission that helps startups become enterprise ready. Microsoft India announced its collaboration with Invest India, Government of India’s national investment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/microsoft-collaborates-invest-india-support-11-tech-startups/",
-      "originalUrl": "https://www.dqindia.com/microsoft-collaborates-invest-india-support-11-tech-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2017/03/IoT-startups.jpg",
-          "width": 3000,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/microsoft-collaborates-invest-india-support-11-tech-startups/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-collaborates-invest-india-support-11-tech-startups/amp/",
-      "publishedDateTime": "2021-08-30T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning.md",
-      "title": "Playing catch-up to the early adopters of analytics, AI and machine learning",
-      "excerpt": "Opinion: Early adopters of data analytics, artificial intelligence (AI), and machine learning (ML) tools have found themselves in a position of favour in today’s rapidly accelerating digital world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff",
-      "originalUrl": "https://www.iol.co.za/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e",
-          "width": 410,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/techsperts/playing-catch-up-to-the-early-adopters-of-analytics-ai-and-machine-learning-1863199a-1af1-4958-a27d-31dcb475e9ff",
-      "publishedDateTime": "2021-08-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-zebra-technologies-plans-to-acquire-antuitai-quick-facts.md",
-      "title": "Zebra Technologies Plans To Acquire Antuit.ai - Quick Facts",
-      "excerpt": "Zebra Technologies (ZBRA) announced Monday that it intends to acquire antuit.ai, a provider of artificial intelligence (AI)-powered Software-as-a-Service (SaaS) solutions specific to forecasting and merchandising for the retail and CPG industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30",
-      "originalUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp",
-      "publishedDateTime": "2021-08-30T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-nec-expanding-partnership-with-microsoft-for-digital-transformation-among-customer-base.md",
-      "title": "NEC Expanding Partnership with Microsoft for Digital Transformation Among Customer Base",
-      "excerpt": "NEC is expanding its partnership with Microsoft to help enterprises accelerate their cloud adoptions and digital transformations:",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/cloud/nec-expanding-partnership-microsoft-digital-transformation-among-customer-base/",
-      "originalUrl": "https://www.datamation.com/cloud/nec-expanding-partnership-microsoft-digital-transformation-among-customer-base/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2020/10/Azure.png",
-          "width": 519,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-30T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

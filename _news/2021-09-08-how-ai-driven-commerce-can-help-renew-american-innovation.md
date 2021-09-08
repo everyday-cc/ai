@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/02/iStock-1223789411-1024x557.jpg"
         width: 1024
         height: 557
-        isCached: true
-  - title: "How Midsize Companies Can Compete in AI"
-    excerpt: "Startups and large corporations are seizing AI opportunities and strengthening their position. But what about midsize companies that often lack access to big data and AI talent? These midsize firms risk being left behind in the age of AI."
-    publishedDateTime: 2021-09-06T12:20:00Z
-    webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai"
-    ampWebUrl: "https://hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/09/Sep21_07_1271186214.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "A New Artificial Intelligence Can Help Diagnose Lung Cancer a Year Early"
     excerpt: "A team of researchers tested an AI program that could detect lung cancer tumors a whole year early! This could help radiologists save lives."

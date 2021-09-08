@@ -24,6 +24,22 @@ images:
     height: 467
     isCached: true
 
+related:
+  - title: "New machine-learning approach is better at spotting enzymatic metals in proteins"
+    excerpt: "But Mahomes's impressive stat pales compared with the accuracy of MAHOMES, or Metal Activity Heuristic of Metalloprotein and Enzymatic Sites, a machine-learning model developed at the University of Kansas—and named in the quarterback's honor—that could lead to more effective,"
+    publishedDateTime: 2021-09-08T19:32:00Z
+    webUrl: "https://phys.org/news/2021-09-machine-learning-approach-enzymatic-metals-proteins.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 19
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/new-machine-learning-a-1.jpg"
+        width: 700
+        height: 467
+        isCached: true
+
 secured: "yaDH3W8wHOXASG07VvB4XPINaf4e95RuLoZEk1al3w5XayWKzwjSHdDXzfTRFc3Xgwshcs7ePXcBOIvwOxxFMNGLcJvgMvlZkkSgMxoIVP2LgJyAsgh7jluFa9ojShIGSvwGQfwjwo6DuPRackCnmOxbRWvKn7dXVJOTGLN7Q86L0JqnPGha20HCEEEK89ZXVvx2p9k4dd5Ld0SgLmWojXwSVe+AQrk8QeST8VMOw3LP5YIPx9gnqMFbYXPJEQpskU4P0q+nWb/vz6KeL9zAVU9pIOOjPnLekY9LNudGRVwYR8/ACxsLzowJ5cT8K5kWC2cOWy3HuVw2eDoYQiYuafBjHIYiHbnZ4vcl51ejd7g=;Khb+duo2lxnngM8ChV4CEg=="
 ---
 

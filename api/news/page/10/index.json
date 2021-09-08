@@ -2,6 +2,207 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-28-inside-boston-dynamics-project-to-create-humanoid-robots.md",
+      "title": "Inside Boston Dynamics’ project to create humanoid robots",
+      "excerpt": "Atlas is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, backflips, and dancing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
+      "originalUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Boston-Dynamic-Atlas-Parkour1-e1629834411758.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
+      "publishedDateTime": "2021-08-27T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans.md",
+      "title": "How IBM is using AI to deliver insights and stats to US Open fans",
+      "excerpt": "Tennis lovers are getting a lot of new data insights thanks to IBM's Power Rankings and Match Insights powered by its Watson AI, and business leaders looking for analytics tools should tune in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/30/a89991a4-f68b-4afd-bfca-5741f861acf3/resize/1200x/1c8ef71d7c03da27b6f3bac423df3062/ibm-watson-tennis.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
+      "publishedDateTime": "2021-08-27T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-did-tesla-just-confirm-that-the-robot-takeover-is-here.md",
+      "title": "Did Tesla Just Confirm That the Robot Takeover Is Here?",
+      "excerpt": "Rather, we’re investing in the small tech startup that’s developing the advanced underlying robotics and AI technology which will power this Automation Economy. We think this tiny stock could ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/",
+      "originalUrl": "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/",
+      "publishedDateTime": "2021-08-27T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure.md",
+      "title": "“Worst cloud vulnerability you can imagine” discovered in Microsoft Azure",
+      "excerpt": "Cloud security vendor Wiz announced yesterday that it found a vulnerability in Microsoft Azure's, Cosmos DB, that granted read/write access for every data",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cosmos-db-logo-760x344.png",
+          "width": 760,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-extra-crunch-roundup-pre-pitch-tactics-warby-parker-s-1-israels-fintech-ecosystem.md",
       "title": "Extra Crunch roundup: Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem",
       "excerpt": "Tapping into someone else’s experience is a tried-and-true method, which is why two-time Y Combinator participant Chris Morton wrote a guest post for Extra Crunch with advice for founders hoping to be accepted by the famed accelerator.",
@@ -1020,189 +1221,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-the-free-speech-case-for-facial-recognition-opinion.md",
-      "title": "The Free-Speech Case for Facial Recognition | Opinion",
-      "excerpt": "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
-      "originalUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
-      "publishedDateTime": "2021-08-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-people-are-hiring-out-their-faces-to-become-deepfake-style-marketing-clones.md",
-      "title": "People are hiring out their faces to become deepfake-style marketing clones",
-      "excerpt": "Liri can juggle so many jobs, in multiple countries, because she has hired out her face to Hour One, a startup that uses people’s likenesses to create AI-voiced characters that then appear in marketing and educational videos for organizations around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/",
-      "originalUrl": "https://www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/07/Characters-2-web.png?w=2870",
-          "width": 2870,
-          "height": 1430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/amp/",
-      "publishedDateTime": "2021-08-27T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-china-releases-key-transport-technology-layout-through-2035.md",
-      "title": "China releases key transport technology layout through 2035",
-      "excerpt": "China's Ministry of Transport (MOT) and Ministry of Science and Technology have issued an advisory focusing on problem-solving and self-reliance in key transport technology based on innovation through 2035.",
-      "sourceUrl": null,
-      "webUrl": "https://news.cgtn.com/news/2021-08-27/China-releases-key-transport-technology-layout-through-2035-133MDAZ19QY/index.html",
-      "originalUrl": "https://news.cgtn.com/news/2021-08-27/China-releases-key-transport-technology-layout-through-2035-133MDAZ19QY/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.cgtn.com/news/2021-08-27/China-releases-key-transport-technology-layout-through-2035-133MDAZ19QY/img/8ebd893b91c94f61a54f1d3078a0b5c8/8ebd893b91c94f61a54f1d3078a0b5c8-1920.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-27T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CGTN",
-        "domain": "cgtn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-why-did-teslas-share-price-dip-following-its-ai-day-reveal.md",
-      "title": "Why did Tesla’s share price dip following its AI Day reveal?",
-      "excerpt": "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
-      "originalUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
-      "publishedDateTime": "2021-08-27T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

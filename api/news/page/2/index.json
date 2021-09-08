@@ -2,6 +2,258 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-07-boost-transcription-accuracy-of-class-lectures-with-custom-language-models-for-amazon-transcribe.md",
+      "title": "Boost transcription accuracy of class lectures with custom language models for Amazon Transcribe",
+      "excerpt": "Many universities like transcribing their recorded class lectures and later creating captions out of these transcriptions. Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. Transcribe assists",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T14:14:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-new-deep-learning-method-boosts-mri-results-without-requiring-new-data.md",
+      "title": "New deep learning method boosts MRI results without requiring new data",
+      "excerpt": "When patients undergo an MRI, they are told to lie still because even the slightest movement compromises the quality of the images and can create blurred spots and speckles known as artifacts. Moreover,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/mri.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
+      "publishedDateTime": "2021-09-07T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-ai-as-a-service-to-solve-your-business-problems-guess-again.md",
+      "title": "AI as a service to solve your business problems? Guess again",
+      "excerpt": "The process to train algorithms to detect wear and tear would be different for factories that produce different products; after all, a shoe is not a smartphone is not a bicycle.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/",
+      "originalUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1031459310.jpg?w=1024",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/amp/",
+      "publishedDateTime": "2021-09-07T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-how-ai-in-healthcare-is-making-hospitals-smarter.md",
+      "title": "How AI in healthcare is making hospitals smarter",
+      "excerpt": "The digital solutions that health systems are deploying today—like AI—are effectively steps in their evolution into smart hospitals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9",
+      "originalUrl": "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6137ca892534ab0018533543?width=1200&format=jpeg",
+          "width": 463,
+          "height": 231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9?amp",
+      "publishedDateTime": "2021-09-07T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-fully-customizable-action-space-now-available-on-the-aws-deepracer-console.md",
+      "title": "Fully customizable action space now available on the AWS DeepRacer console",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML) through a global racing league, cloud-based 3D racing simulator, and fully autonomous 1/18th scale race car driven by reinforcement learning. Starting today, the model action space is fully customizable yet simplified with new",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/07/8-5294-Baja-truck.jpg",
+          "width": 800,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T13:20:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-university-of-idaho-robotics-flourish-at-north-idaho-college.md",
       "title": "University of Idaho Robotics Flourish at North Idaho College",
       "excerpt": "Since relocating to North Idaho College's Hedlund Building, the university's robotics program is teaching students to write software and preparing them for careers in fields such as manufacturing and cybersecurity.",
@@ -786,19 +1038,19 @@
     {
       "path": "_news/2021-09-07-astronauts-in-space-will-soon-resurrect-an-ai-robot-friend-called-cimon.md",
       "title": "Astronauts in space will soon resurrect an AI robot friend called CIMON",
-      "excerpt": "The robot, called CIMON-2 (it's short for Crew Interactive Mobile Companion) worked alongside two European astronauts on past missions to the station in recent years and just got",
+      "excerpt": "The AI-powered robot CIMON has received a software update before an upcoming round of more complex experiments at the International Space Station.",
       "sourceUrl": null,
-      "webUrl": "https://www.sundayvision.co.ug/new-missions-for-cimon-space-news/",
+      "webUrl": "https://www.space.com/space-station-ai-robot-cimon-upgrade-for-astronauts",
       "originalUrl": "https://www.msn.com/en-us/news/technology/astronauts-in-space-will-soon-resurrect-an-ai-robot-friend-called-cimon/ar-AAObHf4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 204,
       "tags": null,
       "images": [
         {
-          "url": "https://actualidadaeroespacial.com/wp-content/uploads/2021/09/Nuevas-tareas-para-CIMON-020921.jpg",
+          "url": "https://cdn.mos.cms.futurecdn.net/r7nDQ7LThxRuHp6oMh44Ri-1200-80.jpg",
           "width": 1200,
-          "height": 712,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -806,13 +1058,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts",
+      "cdnAmpWebUrl": "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts",
       "publishedDateTime": "2021-09-07T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "co.ug/new-missions-for-cimon-space-news/",
-        "domain": "co.ug/new-missions-for-cimon-space-news/",
+        "name": "space.com/space-station-ai-robot-cimon-upgrade-for-astronauts",
+        "domain": "space.com/space-station-ai-robot-cimon-upgrade-for-astronauts",
         "images": null,
         "publishers": null,
         "authors": null
@@ -923,49 +1175,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-07-dhl-express-deploys-ai-powered-sorting-robot.md",
-      "title": "DHL Express deploys AI-powered sorting robot",
-      "excerpt": "DHL Express has introduced DHLBot, an AI-powered (artificial intelligence) robotic arm that automates parcel sortation, in Singapore and South Korea amid increasing shipment volumes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aircargoweek.com/dhl-express-deploys-robot/",
-      "originalUrl": "https://www.aircargoweek.com/dhl-express-deploys-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aircargoweek.com/wp-content/uploads/2021/09/thumbnail_Press-image-DHL-Express-deploys-AI-powered-sorting-robot.jpg",
-          "width": 1221,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aircargoweek.com/dhl-express-deploys-robot/amp/",
-      "cdnAmpWebUrl": "https://www-aircargoweek-com.cdn.ampproject.org/c/s/www.aircargoweek.com/dhl-express-deploys-robot/amp/",
-      "publishedDateTime": "2021-09-07T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AIR CARGO WEEK",
-        "domain": "aircargoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-07-ai-focus-shifts-to-small-and-wide-data.md",
       "title": "AI focus shifts to ‘small and wide’ data",
       "excerpt": "A Gartner report finds that companies will increasingly embrace responsible AI while seeking ways to more efficiently deploy AI systems.",
@@ -1015,196 +1224,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-this-edutainment-startup-is-scoring-top-marks-with-home-schoolers.md",
-      "title": "This Edutainment Startup Is Scoring Top Marks With Home-schoolers",
-      "excerpt": "Championing the cause of providing the right exposure to children to various technologies, SP Robotic Works co-founder Sneha Priya, pitches for empowering kids so that they can make the right career c",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/383974",
-      "originalUrl": "https://www.entrepreneur.com/article/383974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630999259-SnehaandPranavanv1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/383974",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/383974",
-      "publishedDateTime": "2021-09-07T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance.md",
-      "title": "MIT Offers Online Course in Data Science, Machine Learning, AI with Placement Assurance",
-      "excerpt": "Massachusetts Institute of Technology (MIT) in collaboration with Indian ed-tech company Hero Vired has launched a full-time integrated programme in data science, machine learning, and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html",
-      "originalUrl": "https://www.news18.com/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/09/mit-163099301116x9.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html",
-      "publishedDateTime": "2021-09-06T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-nitda-trains-178-young-nigerians-on-robotics-emerging-technologies.md",
-      "title": "NITDA trains 178 young Nigerians on robotics, emerging technologies",
-      "excerpt": "Nigeria’s digital literacy has received a boost with the training of 178 young Nigerians in the just-concluded 10-Days Stem Bootcamp for Kids (SB4Kids)",
-      "sourceUrl": null,
-      "webUrl": "https://tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/",
-      "originalUrl": "https://tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tribuneonlineng.com/wp-content/uploads/2020/09/NITDA.jpg",
-          "width": 650,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/amp/",
-      "cdnAmpWebUrl": "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/amp/",
-      "publishedDateTime": "2021-09-06T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nigerian Tribune",
-        "domain": "tribuneonlineng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-laser-powered-robot-weeder-zaps-without-poison.md",
-      "title": "Laser-powered robot weeder zaps without poison",
-      "excerpt": "An autonomous laser-powered weeder is attracting big green from investors. Carbon Robotics recently announced it secured $27 million in Series B financing to help in its quest to eliminate weeds without herbicides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/laser-powered-weeder-zaps-without-poison/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/laser-powered-weeder-zaps-without-poison/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/09/07/430ae2fd-8d74-493b-a0d1-a3081d193045/carbon-robotics.jpg",
-          "width": 1200,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/laser-powered-weeder-zaps-without-poison/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/laser-powered-weeder-zaps-without-poison/",
-      "publishedDateTime": "2021-09-06T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -44,7 +44,7 @@ related:
     provider:
       name: MM&M
       domain: mmm-online.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2021/09/Glitch-WatsonLogo-6_RGB.jpg"
         width: 1024

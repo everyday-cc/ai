@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-why-tesla-apple-google-and-facebook-are-designing-their-own-chips.md",
+      "title": "Why Tesla, Apple, Google And Facebook Are Designing Their Own Chips",
+      "excerpt": "Unsatisfied with the reliance on standard high-demand chips, some of the world’s largest tech firms are developing their own semiconductors.",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/",
+      "originalUrl": "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/09/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1",
+      "publishedDateTime": "2021-09-08T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-announcing-the-amazon-s3-plugin-for-pytorch.md",
       "title": "Announcing the Amazon S3 plugin for PyTorch",
       "excerpt": "Amazon S3 plugin for PyTorch is an open-source library which is built to be used with the deep learning framework PyTorch for streaming data from Amazon Simple Storage Service (Amazon S3). With this feature available in PyTorch Deep Learning Containers, you can take advantage of using data from S3 buckets",
@@ -1306,51 +1350,6 @@
         "Facebook AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence.md",
-      "title": "Top AI & ML Innovations From Allen Institute For Artificial Intelligence",
-      "excerpt": "Over the years, the private research institute and startup incubator has pushed the frontiers of AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
-      "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/Allen_AIM.jpg",
-          "width": 896,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

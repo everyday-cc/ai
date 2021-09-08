@@ -2,6 +2,195 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-07-21-medical-imaging-powered-by-ibm.md",
+      "title": "Medical Imaging, Powered by IBM",
+      "excerpt": "IBM Watson Health and Merge Healthcare are bringing new insights, made possible through artificial intelligence and cognitive computing, to medical imaging. Radiologists are about to get some help with their imaging workload. IBM Watson Health and Merge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
+      "originalUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-ai-is-not-going-to-replace-writers-anytime-soon-but-the-future-might-be-closer-than-you-think.md",
+      "title": "AI Is Not Going To Replace Writers Anytime Soon – But The Future Might Be Closer Than You Think",
+      "excerpt": "Is AI for content creation over-hyped or will all writers eventually be replaced by bots? Businesses don’t necessarily need more content, they need better content that actually performs. AI is doing a lot to help streamline content marketing and management for companies across the board.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/20/ai-is-not-going-to-replace-writers-anytime-soon--but-the-future-might-be-closer-than-you-think/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/20/ai-is-not-going-to-replace-writers-anytime-soon--but-the-future-might-be-closer-than-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60de2619877300216b7b14e8%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/20/ai-is-not-going-to-replace-writers-anytime-soon--but-the-future-might-be-closer-than-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/20/ai-is-not-going-to-replace-writers-anytime-soon--but-the-future-might-be-closer-than-you-think/amp/",
+      "publishedDateTime": "2021-07-20T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-use-amazon-sagemaker-feature-store-in-a-java-environment.md",
+      "title": "Use Amazon SageMaker Feature Store in a Java environment",
+      "excerpt": "Feature engineering is a process of applying transformations on raw data that a machine learning (ML) model can use. As an organization scales, this process is typically repeated by multiple teams that use the same features for different ML solutions. Because of this, organizations are forced to develop",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-feature-store-in-a-java-environment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-feature-store-in-a-java-environment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T15:23:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-freshworks-93-of-it-managers-have-deployed-ai-or-plan-to-soon.md",
       "title": "Freshworks: 93% of IT managers have deployed AI, or plan to soon",
       "excerpt": "AI-powered technology to reduce staff workloads and 39% have already experienced this benefit, according to the survey.",
@@ -988,189 +1177,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-oxya-wins-google-clouds-2020-global-partner-of-the-year-award-sap-specialization-on-google-cloud.md",
-      "title": "oXya Wins Google Cloud's 2020 Global Partner of the Year Award - SAP Specialization on Google Cloud",
-      "excerpt": "JERSEY CITY, N.J., July 20, 2021 /PRNewswire/ -- oXya, a Hitachi Group Company, announces today that it has received the 2020 Google Cloud Global SAP Specialization Partner of the Year",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/oxya-wins-google-clouds-2020-global-partner-of-the-year-award---sap-specialization/article_90220219-b28d-5a77-b73e-9bcb4ecf6e53.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/oxya-wins-google-clouds-2020-global-partner-of-the-year-award---sap-specialization/article_90220219-b28d-5a77-b73e-9bcb4ecf6e53.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning.md",
-      "title": "SoftServe Wins Google Cloud Specialization Partner of the Year Award for Machine Learning",
-      "excerpt": "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. This press release features multimedia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fltimes.com/business/national/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/article_d466f021-3d30-5ab8-903b-e5a35e8442ec.html",
-      "originalUrl": "https://www.fltimes.com/business/national/softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning/article_d466f021-3d30-5ab8-903b-e5a35e8442ec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/4/17/41720ee0-a5cb-5e3a-a8fa-52835b8fd883/60f6f6cd381c7.image.jpg?crop=1388%2C1041%2C302%2C0&resize=840%2C630&order=crop%2Cresize",
-          "width": 840,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finger Lakes Times",
-        "domain": "fltimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-dotmatics-announces-support-for-the-aws-for-health-initiative.md",
-      "title": "Dotmatics Announces Support for the AWS for Health Initiative",
-      "excerpt": "Dotmatics has announced support for the AWS for Health initiative from Amazon Web Services (AWS) to improve laboratory efficiency and accelerate the pace of scientific innovation by facilitating more rapid data access,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
-      "originalUrl": "https://www.technologynetworks.com/informatics/product-news/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
-          "width": 389,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/product-news/amp/dotmatics-announces-support-for-the-aws-for-health-initiative-351111",
-      "publishedDateTime": "2021-07-20T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
-      "title": "Our AI headline experiment continues: Did we break the machine?",
-      "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
-      "originalUrl": "https://arstechnica.com/information-technology/2021/07/our-ai-experiment-continues-did-we-break-the-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-3-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

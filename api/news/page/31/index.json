@@ -2,6 +2,188 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-08-13-global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft.md",
+      "title": "Global Machine Learning Accelerator For Healthcare Report Forecast to 2021-27- Google, IBM, and Microsoft.",
+      "excerpt": "The global Machine Learning Accelerator For Healthcare sector, it is forecasted to achieve a CAGR of xx% by the year end 2027. This growth rate will benefit the sector to achieve USD xx in 2027 , which is in 2020 valued at USD xx billion.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
+      "originalUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-machine-learning-accelerator-for-healthcare-report-forecast-to-2021-27-google-ibm-and-microsoft/?amp=1",
+      "publishedDateTime": "2021-08-13T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-sd-times-open-source-project-of-the-week-codeflare.md",
+      "title": "SD Times Open-Source Project of the Week: CodeFlare",
+      "excerpt": "CodeFlare is IBM’s open-source framework that simplifies the integration and scaling of big data and AI workflows onto the ... research at I.B.M.’s T.J. Watson Research Center, respectively ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/sd-times-open-source-project-of-the-week-codeflare/",
+      "originalUrl": "https://sdtimes.com/ai/sd-times-open-source-project-of-the-week-codeflare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-13-at-8.04.43-AM.png",
+          "width": 1744,
+          "height": 984,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-thirdai-raises-6m-to-democratize-ai-to-any-hardware.md",
+      "title": "ThirdAI raises $6M to democratize AI to any hardware",
+      "excerpt": "ThirdAI is building tools to speed up deep learning technology without the need for hardware like graphics processing units.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/",
+      "originalUrl": "https://techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Anshumali-Shrivastava-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/thirdai-raises-6m-to-democratize-ai-to-any-hardware/amp/",
+      "publishedDateTime": "2021-08-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-ai-in-marketing-use-cases-and-examples-in-content-marketing.md",
+      "title": "AI in Marketing: Use Cases and Examples in Content Marketing",
+      "excerpt": "The use case for analyzing and editing content for grammar, sentiment, tone and style isn't the hottest AI marketing use case. But it’s there. It ranked somewhere in the middle of the pack among 49 use cases presented to marketers in the 2021 State of Marketing AI report by Drift and the Marketing Artificial Intelligence Institute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/8a0777d1f9a94180bb0f83fd59b292ff.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/",
+      "publishedDateTime": "2021-08-13T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-google-is-thriving-with-artificial-intelligence.md",
       "title": "Google Is Thriving With Artificial Intelligence",
       "excerpt": "Google uses the terms Artificial Intelligence (\"AI\"), Machine Learning ... which owns DeepMind and its self-driving subsidiary Waymo - stands head and shoulders above the rest.",
@@ -927,171 +1109,6 @@
         "AWS AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-strain-comparisons-in-inhibitory-discrimination-learning-and-novel-object-recognition-procedures.md",
-      "title": "Strain comparisons in inhibitory discrimination learning and novel object recognition procedures.",
-      "excerpt": "In the present study we compared the performance of albino Wistar and pigmented Lister Hooded rats in appetitive conditioning and recognition memory procedures, specifically within-subjects inhibitory learning (A+/AX-) and novel object recognition (NOR ...",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/34400194",
-      "originalUrl": "https://europepmc.org/article/MED/34400194",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-street-mapping-startup-mapillary-scores-a-mysterious-amazon-rekognition-partnership.md",
-      "title": "Street-mapping startup Mapillary scores a mysterious Amazon Rekognition partnership",
-      "excerpt": "Mapillary, a startup on a mission to “fix” the world’s maps, partnered with Amazon’s machine vision program, Rekognition, to build street-level maps. Starting with a parking app, the Swedish company plans to build a platform that rivals Google’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
-      "originalUrl": "https://thehustle.co/mapillary-amazon-mapping-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehustle.co/wp-content/uploads/2018/09/xxx-31.jpg",
-          "width": 600,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehustle.co/mapillary-amazon-mapping-google/amp/",
-      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/mapillary-amazon-mapping-google/amp/",
-      "publishedDateTime": "2021-08-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hustle",
-        "domain": "thehustle.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-image-recognition-software-market-to-see-huge-growth-by-2026-microsoft-ibm-google-catchoom-technologies.md",
-      "title": "Image Recognition Software Market to See Huge Growth by 2026 | Microsoft, IBM, Google, Catchoom Technologies",
-      "excerpt": "An image recognition software is defined as the computer program that can easily identify places, writing, objects, people as well as actions in images. This software is used in many applications such as scanning & imaging, security & surveillance, image ...",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/image-recognition-software-market-to-see-huge-growth-by-2026-microsoft-ibm-google-catchoom-technologies/",
-      "originalUrl": "https://manometcurrent.com/image-recognition-software-market-to-see-huge-growth-by-2026-microsoft-ibm-google-catchoom-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/image-recognition-software-market-to-see-huge-growth-by-2026-microsoft-ibm-google-catchoom-technologies/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/image-recognition-software-market-to-see-huge-growth-by-2026-microsoft-ibm-google-catchoom-technologies/",
-      "publishedDateTime": "2021-08-12T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping.md",
-      "title": "Many Americans aren't aware they're being tracked with facial recognition while shopping",
-      "excerpt": "Of those surveyed, almost half (40%) were completely unaware that retailers have begun using facial recognition technology in their stores while 60 percent said they knew this tec",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-      "originalUrl": "https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/wa5haFoFrsYgUUAj9vvyXG-1200-80.jpg",
-          "width": 881,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-      "publishedDateTime": "2021-08-12T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

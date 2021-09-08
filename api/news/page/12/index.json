@@ -2,6 +2,212 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-26-ai-voice-synthetic-speech-company-lovo-gets-45m-pre-series-a-funding.md",
+      "title": "AI voice, synthetic speech company LOVO gets $4.5M pre-series A funding",
+      "excerpt": "Voice skins” have become a very popular feature for AI-based voice assistants, to help personalize some of the more anodyne aspects of helpful, yet also kind of bland and robotic, speaking voices you get on services like Alexa.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/",
+      "originalUrl": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Co-Founders-of-LOVO.jpg?w=1024",
+          "width": 1024,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/amp/",
+      "publishedDateTime": "2021-08-26T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-heres-why-your-ai-isnt-providing-real-value.md",
+      "title": "Here’s Why Your AI Isn’t Providing Real Value",
+      "excerpt": "What’s more, a recent Deloitte benchmarking study found that leaders in AI implementation show an average of 4.3% ROI for their projects. What all those facts aren’t showing is that you can’t expect such a level of success just by “plugging AI into your process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6090278bf5c9ff4ba9b3340b%2F0x0.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/amp/",
+      "publishedDateTime": "2021-08-26T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley.md",
+      "title": "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley",
+      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "originalUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-the-business-value-of-synthetic-media-tools.md",
+      "title": "The business value of synthetic media tools",
+      "excerpt": "Platforms that can create synthetic media, or likenesses and voices generated by AI, are growing as the business applications become clear.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/26/the-business-value-of-synthetic-media-tools/",
+      "originalUrl": "https://venturebeat.com/2021/08/26/the-business-value-of-synthetic-media-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes-e1619655593693.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/26/the-business-value-of-synthetic-media-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/26/the-business-value-of-synthetic-media-tools/amp/",
+      "publishedDateTime": "2021-08-26T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-artificial-intelligence-tools-can-help-clinicians-spend-more-time-with-patients.md",
       "title": "Artificial Intelligence Tools Can Help Clinicians Spend More Time with Patients",
       "excerpt": "There is no argument that artificial intelligence (AI) is rapidly transforming how healthcare is delivered in our modern world. One of the many benefits of implementing AI into the care continuum is the ability to save time so that the extra minutes can go into quality time with the patient;",
@@ -126,19 +332,19 @@
     {
       "path": "_news/2021-08-26-speech-and-voice-recognition-market-worth-220-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
       "title": "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deploymen",
+      "excerpt": "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-22-0-billion-by-2026---exclusive-report/article_67539741-fbee-5521-b738-da897b0680d0.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-22-0-billion-by-2026---exclusive-report/article_67539741-fbee-5521-b738-da897b0680d0.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/speech-and-voice-recognition-market-worth-22-0-billion-by-2026--exclusive-report-by-marketsandmarkets-301363483.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
-          "width": 669,
-          "height": 229,
+          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+          "width": 666,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -151,8 +357,8 @@
       "publishedDateTime": "2021-08-26T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -950,204 +1156,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-artificial-intelligence-ai-in-retail-market.md",
-      "title": "Artificial Intelligence (AI) in Retail Market",
-      "excerpt": "The global Artificial Intelligence in the Retail market is forecast to reach USD 18 74 Billion by 2026 according to a new report by The retail industry has witnessed a surge in technological advances over the past",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2368221/artificial-intelligence-ai-in-retail-market-investment",
-      "originalUrl": "https://www.openpr.com/news/2368221/artificial-intelligence-ai-in-retail-market-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U826286763_g.jpg",
-          "width": 800,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2368221/artificial-intelligence-ai-in-retail-market-investment",
-      "publishedDateTime": "2021-08-25T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ai-is-slowly-outperforming-human-written-phishing-emails-and-it-is-a-cause-of-concern.md",
-      "title": "AI Is Slowly Outperforming Human-written Phishing Emails, and It Is a Cause of Concern!",
-      "excerpt": "Every day, millions of phishing emails are sent worldwide by threat actors to lure users into divulging their Personally Identifiable Information or other critical information, such as credit card credentials or bank account details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/381741",
-      "originalUrl": "https://www.entrepreneur.com/article/381741",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629951497-ai-phishing-emailsv12.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381741",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381741",
-      "publishedDateTime": "2021-08-25T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry.md",
-      "title": "Taktile makes it easier to leverage machine learning in the financial industry",
-      "excerpt": "Meet Taktile, a new startup that is working on a machine learning platform for financial services companies. This isn’t the first company that wants to leverage machine learning for financial products.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
-      "originalUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Taktile.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
-      "publishedDateTime": "2021-08-25T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses.md",
-      "title": "iPhone 13 Face ID could work with face masks and foggy glasses",
-      "excerpt": "Just when face recognition was shaping up to be the de facto biometric security system for smartphones, the world was hit with a pandemic that required people to wear masks most of the time. That threw off many face recognition systems, including Apple’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses-25688496/",
-      "originalUrl": "https://www.slashgear.com/iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses-25688496/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/08/face-id-prototype-3.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses-25688496/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses-25688496/amp/",
-      "publishedDateTime": "2021-08-25T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

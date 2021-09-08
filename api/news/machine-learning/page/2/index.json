@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-26-taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry.md",
+      "title": "Taktile makes it easier to leverage machine learning in the financial industry",
+      "excerpt": "Meet Taktile, a new startup that is working on a machine learning platform for financial services companies. This isn’t the first company that wants to leverage machine learning for financial products.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
+      "originalUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Taktile.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
+      "publishedDateTime": "2021-08-25T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change.md",
+      "title": "Avalo uses machine learning to accelerate the adaptation of crops to climate change",
+      "excerpt": "Climate change is affecting farming all over the world, and solutions are seldom simple. But if you could plant crops that resisted the heat, cold, or drought instead of moving a thousand miles away,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change/",
+      "originalUrl": "https://techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/avalo-plants.jpg?w=1024",
+          "width": 1024,
+          "height": 572,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/avalo-uses-machine-learning-to-accelerate-the-adaptation-of-crops-to-climate-change/amp/",
+      "publishedDateTime": "2021-08-25T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-enabling-student-success-what-were-learning-from-distance-and-hybrid-education.md",
       "title": "Enabling Student Success: What We’re Learning From Distance And Hybrid Education",
       "excerpt": "Make online, hybrid, and in-the-classroom Like many parents and guardians, I felt unprepared to take over the day-to-day management of my household’s learning during the pandemic. Despite being involved in online education for over a decade—first as the founding president of Khan Academy,",
@@ -1240,103 +1345,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-metinvest-achieves-blast-furnace-efficiency-with-machine-learning.md",
-      "title": "Metinvest Achieves Blast-Furnace Efficiency with Machine Learning",
-      "excerpt": "Ukraine-headquartered Metinvest, looking to improve the efficiency of its blast furnaces by reducing fuel consumption by controlling the silicon content in its iron, has started a pilot project with Azure Data Factory and Azure Machine Learning and having seen its efficiency improve against benchmarks set by industry leaders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
-      "originalUrl": "https://www.steelguru.com/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/steelguru%2F2021-08%2Fbf7a65a3-0f97-40be-871a-42658d642cc5%2FMachine_Learning.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1192,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
-      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/metinvest-achieves-blast-furnace-efficiency-with-machine-learning",
-      "publishedDateTime": "2021-08-16T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Steel News",
-        "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-trainocate-recognised-as-1-microsoft-learning-partner-worldwide.md",
-      "title": "Trainocate recognised as #1 Microsoft Learning Partner worldwide",
-      "excerpt": "Trainocate Holdings, Asia's largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company to earn the title.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/trainocate-recognised-as-1-microsoft-learning-partner-worldwide-1030736204",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/trainocate-recognised-as-1-microsoft-learning-partner-worldwide-1030736204",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1594909/Zafarullah_Hashim.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -162,13 +162,13 @@ related:
         height: 270
         isCached: true
   - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-    excerpt: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global. Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and bank"
-    publishedDateTime: 2021-09-08T15:44:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/09/08/9445061.htm"
+    excerpt: "\"Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
+    publishedDateTime: 2021-09-08T14:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
   - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
     excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"

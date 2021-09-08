@@ -25,20 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Launches Programming Language for AI Workload Optimization"
-    excerpt: "Concept: San Francisco’s company OpenAI has released Triton, an open source, Python-like programming language that lets researchers write efficient GPU code for AI workloads. OpenAI says that Triton makes it feasible to attain top hardware performance with minimum effort,"
-    publishedDateTime: 2021-09-06T06:41:00Z
-    webUrl: "https://www.retail-insight-network.com/research-reports/openai-launches-programming-language-for-ai-workload-optimization/"
+  - title: "Telkom launches AI technology platform to overcome language barriers in SA"
+    excerpt: "Telkom said Izwe.ai offers transcription and translation across a range of languages, as well as a number of text classification and entity extraction services."
+    publishedDateTime: 2021-09-08T18:00:00Z
+    webUrl: "https://www.iol.co.za/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14"
     type: article
     provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 39
+      name: IOL News
+      domain: iol.co.za
+    quality: 57
     images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/09/shutterstock_600203855.jpg"
-        width: 500
-        height: 334
+      - url: "https://image-prod.iol.co.za/resize/650x366/Telkom-said-Izwe-ai-offers-transcription-and-translation-across-a-range-of-languages-as-well-as-a-number-of-text-classification-and-entity-extraction-services-Picture-Thobile-Mathonsi?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fe4d1dd1-b3b6-508b-89d9-cb723f4100eb&operation=CROP&offset=108x0&resize=1794x1009"
+        width: 650
+        height: 366
         isCached: true
+  - title: "Telkom Launches AI Technology Platform To Overcome Language Barriers In South Africa"
+    excerpt: "A new artificial intelligence (AI) platform has been unveiled by Telkom, in collaboration with Enlabeler, which could have a far-reaching"
+    publishedDateTime: 2021-09-08T10:28:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/09/08/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-south-africa/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 32
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/02/telkom.png"
+        width: 599
+        height: 400
+        isCached: true
+  - title: "Telkom South Africa launches AI voice-to-text platform"
+    excerpt: "Izwe.ai offers transcription and translation across a range of languages, as well as a number of text classification and entity extraction services. Applications include academic and legal transcription; contact centre transcription and analysis ..."
+    publishedDateTime: 2021-09-08T15:23:00Z
+    webUrl: "https://www.telecompaper.com/news/telkom-south-africa-launches-ai-voice-to-text-platform--1396374"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "jKhgzFjknSJ+7fj02pP12f36gppY0eooZXSRNZz5lT2Yjn/n0avABgekbvbqDp9k7/5H6KaPXyY4pe1JvelPxs7yXMrOCPI71zJnmv9t+y1aURK8ihsfSJSzZEBfz2ytOXP6vH+06fSTRKxIFq9NO98TIwoZar2Fb/1D4/hBYyh82JDwfpqo05yPCAzjC3NN8ES88/hCwEC+AZz2Jm42o0XKD3vDIrQQ52gIY60vtyO+k3o5PdB1ttYQ4HFIIRGrI+qhu3/LRgVq0dmlB6303OOeeBaJTDb6wpxEl+2APFD7vBPQXEfpxYCszKgo3GdcxVC5uJGhqu/6QnkTEqXfhWXAr447IVYOc8wWtR2nKDriGvtNfcNFKe77OMSLGhqtmiUsgrHaXUDhaQpjO1Gi2iWfE0lH3hGqQhRtkYgZzYIO3vj2hPcibLLyKqa54gKiMnaJcLlsSp3HFVrDbHBgHWlqpQN//Nx9AWOuYPuRY5GsEpGVBJ7zDwkrugjT9fnAQgIP3SbSzqQLN7Hn0exIDg==;f9kSKKyUBfIvZgnEl1XpSQ=="
 ---

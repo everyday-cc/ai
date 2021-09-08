@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210907005816/en/AnyVision
 webUrl: "https://www.businesswire.com/news/home/20210907005816/en/AnyVision-to-the-British-Biometrics-and-Surveillance-Camera-Commissioner-Facial-Recognition-Apps-Should-Be-Provided-to-the-Police-with-an-Empty-Database"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "AnyVision proposes three ethical facial recognition principles for police"
+    excerpt: "The proposed Surveillance Camera Code of Practice should align with three principles which can support the fair and ethical use of facial recognition by police."
+    publishedDateTime: 2021-09-08T19:53:00Z
+    webUrl: "https://www.biometricupdate.com/202109/anyvision-proposes-three-ethical-facial-recognition-principles-for-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 55
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
 
 secured: "/zE6hq4FC+Y6E48g+kXoQiIiPlpzaRr8Rx9Fghuq/sIybKzr1Yz0eE+x8xit0ySs1Z7R3bs/yZI7cmN44CQhf7bZHvX1tRK/rs/LXncur7fTKvk+QuLA/4bCwELrqaPJk4RxCnSVLLEelnqOPSjfcKQBKb2sMPZEbo1Oz41DhYqoKlzzoB4NuqRIYV0tyqGJ+9SwlsvYNtPaKmoY83Qy39e0tbvAvjtu6GOqGryg4Yn0wokWkfLJAHg3WeCi/Pm0S3JzeMp0Iinkhq6S4gpbi0jyDzKnz2Zi18LrbjJKYcUCXo3naffRvtwU1s2tJxc0GKb6S1sUU3PQqvVj/K91FZf/6ce1qW4Obmymy4fVDy+Gur8llukgizd3ChpwEZ3XLloxesMKD8s4NPEBZ3URAvU8Mplm/9ZuQgZe/mCfXmeJIfzQvzZx44fjJVXIgiOojVdjqF/8SyrBisKt5+ouEoJlWJOtQys8koP/rfXXNBaJ1+n0ZJ/zCQ2IKLGKg2ZipNsjqDigR4KdXmd9QWmtFA==;CeamdF5IkPFQ+gSER8ltzQ=="
 ---

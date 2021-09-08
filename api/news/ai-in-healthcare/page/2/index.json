@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-19-is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim.md",
+      "title": "Is Artificial Intelligence Contributing Positively To Parenting? Weighing The Pros And Cons With Angela J. Kim",
+      "excerpt": "It seems that most discussions about parenting and AI are focused on privacy issues, but there are many other ways in which these two worlds intersect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611dc4227a4a5e566416ca62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1834%26cropY1%3D670%26cropY2%3D2045",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/amp/",
+      "publishedDateTime": "2021-08-18T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-the-ai-advantages-for-healthcare-and-finance.md",
       "title": "The AI advantages for healthcare and finance",
       "excerpt": "By Evan Schuman When senior executives at two of the world’s most highly-regulated verticals—healthcare and finance—explore ways of improving operations, boosting margins and delivering it all with a strong ROI,",
@@ -1300,50 +1353,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-how-the-bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml.md",
-      "title": "How The Bengaluru Based Healthcare Startup HealthPlix Is Leveraging AI and ML",
-      "excerpt": "Sandeep Gudibanda, Co-founder at HealthPlix, explains the technology behind its assistive artificial intelligence-powered EMR software.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
-      "originalUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Untitled-5-copy.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-08T16:45:00Z
 originalUrl: "https://www.finextra.com/blogposting/20868/natural-language-processing-in-fintech-world"
 webUrl: "https://www.finextra.com/blogposting/20868/natural-language-processing-in-fintech-world"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 related:
   - title: "The Massive (Though Less Flashy) Opportunity In FinTech"

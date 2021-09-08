@@ -63,7 +63,7 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 19
+    quality: 21
 
 secured: "DqMZvnCY+JBnmv/7F3aPzmRuoDNhDdjEQX4F2AdT8NIV5w2VPKBUNVXgtr7NnkqwhHZo9H7y7pvzon7X97hojMLVC0Dmj33t4dxtDBh0cBZge/FPV3u0FVGvnUzUl8WYeYLTFtSDBGc5qIGP0dxcUByyQ4MQfuxLoBbITQ9fefx5cSL/UCsFwkJsi4ORr3vfRMTxzQ1tjPlno4s7M4kl2mpHJyFOzW0NqXc13YolTpAt8FzJCqH2rUNZ09oTY53tcWLycsx4JclQhXAWFJjJ/yOJO9PPZAQ552cKXalj4z4gwpZbuisKupzAE41uuld5wsqtBPRBZkAFUpgOnhTI7LhZ1c8MeiV9V6MWtgUl8nI=;j6VeXhJrli8yHBE169epGQ=="
 ---

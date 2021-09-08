@@ -58,22 +58,6 @@ related:
         width: 1024
         height: 557
         isCached: true
-  - title: "How Midsize Companies Can Compete in AI"
-    excerpt: "Startups and large corporations are seizing AI opportunities and strengthening their position. But what about midsize companies that often lack access to big data and AI talent? These midsize firms risk being left behind in the age of AI."
-    publishedDateTime: 2021-09-06T12:20:00Z
-    webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai"
-    ampWebUrl: "https://hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/09/Sep21_07_1271186214.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Ten Top Most Valuable EdTech Start-Ups: A Mix of Chinese, Indian, and American Companies"
     excerpt: "Five American companies are among the ten most valuable EdTech companies in the world, while Indian and Chinese start-ups are ranked first. “The global EdTech is a broad and diverse field that includes not only the hardware and software programs used in remote learning but also the most effective ways of teaching people new knowledge and skills,"
     publishedDateTime: 2021-09-06T06:03:00Z

@@ -30,9 +30,9 @@ related:
   - title: "What you need to know about facial recognition home security cameras"
     excerpt: "As facial recognition technology becomes more prevalent in home security cameras, it's important to understand what it is and how it's used. Here, we break it all down."
     publishedDateTime: 2021-09-08T06:45:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/"
     type: article
     provider:
       name: ZDNet

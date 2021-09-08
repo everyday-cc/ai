@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-25-ai-workshops-explore-our-future-and-how-we-create-it.md",
+      "title": "AI Workshops: Explore Our Future and How We Create It",
+      "excerpt": "Discuss AI is a multi-programme initiative run by the SFI ADAPT Centre for AI-Driven Digital Content Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcu.ie/engineeringandcomputing/news/2021/aug/ai-workshops-explore-our-future-and-how-we-create-it",
+      "originalUrl": "https://www.dcu.ie/engineeringandcomputing/news/2021/aug/ai-workshops-explore-our-future-and-how-we-create-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcu.ie/themes/custom/dcuorange/themeAssets/DCU_logo_stacked_red-Adjusted120w.png",
+          "width": 750,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DCU",
+        "domain": "www.dcu.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks.md",
       "title": "Cerebras prepares for the era of 120 trillion-parameter neural networks",
       "excerpt": "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer.",
@@ -1328,49 +1371,6 @@
         "AWS AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-natural-language-processing-market-2021-analysis-report-share-overview-2021-2027.md",
-      "title": "Natural Language Processing Market 2021 Analysis Report, Share, Overview 2021-2027",
-      "excerpt": "Natural Language Processing (NLP) market is growing tremendously owing to growing application in artificial intelligence and machine learning technology. NLP technology supports computer to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2353924/natural-language-processing-market-2021-analysis-report",
-      "originalUrl": "https://www.openpr.com/news/2353924/natural-language-processing-market-2021-analysis-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U812120683_g.jpg",
-          "width": 800,
-          "height": 463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2353924/natural-language-processing-market-2021-analysis-report",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353924/natural-language-processing-market-2021-analysis-report",
-      "publishedDateTime": "2021-08-12T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

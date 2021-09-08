@@ -20,18 +20,36 @@ topics:
 
 related:
   - title: "Astronauts in space will soon resurrect an AI robot friend called CIMON"
-    excerpt: "The robot, called CIMON-2 (it's short for Crew Interactive Mobile Companion) worked alongside two European astronauts on past missions to the station in recent years and just got"
+    excerpt: "The AI-powered robot CIMON has received a software update before an upcoming round of more complex experiments at the International Space Station."
     publishedDateTime: 2021-09-07T11:00:00Z
-    webUrl: "https://www.sundayvision.co.ug/new-missions-for-cimon-space-news/"
+    webUrl: "https://www.space.com/space-station-ai-robot-cimon-upgrade-for-astronauts"
+    ampWebUrl: "https://www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts"
     type: article
     provider:
-      name: co.ug/new-missions-for-cimon-space-news/
-      domain: co.ug/new-missions-for-cimon-space-news/
-    quality: 154
+      name: space.com/space-station-ai-robot-cimon-upgrade-for-astronauts
+      domain: space.com/space-station-ai-robot-cimon-upgrade-for-astronauts
+    quality: 174
     images:
-      - url: "https://actualidadaeroespacial.com/wp-content/uploads/2021/09/Nuevas-tareas-para-CIMON-020921.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/r7nDQ7LThxRuHp6oMh44Ri-1200-80.jpg"
         width: 1200
-        height: 712
+        height: 675
+        isCached: true
+  - title: "DHL Express deploys AI-powered sorting robot"
+    excerpt: "DHL Express has introduced DHLBot, an AI-powered (artificial intelligence) robotic arm that automates parcel sortation, in Singapore and South Korea amid increasing shipment volumes."
+    publishedDateTime: 2021-09-07T08:21:00Z
+    webUrl: "https://www.aircargoweek.com/dhl-express-deploys-robot/"
+    ampWebUrl: "https://www.aircargoweek.com/dhl-express-deploys-robot/amp/"
+    cdnAmpWebUrl: "https://www-aircargoweek-com.cdn.ampproject.org/c/s/www.aircargoweek.com/dhl-express-deploys-robot/amp/"
+    type: article
+    provider:
+      name: AIR CARGO WEEK
+      domain: aircargoweek.com
+    quality: 74
+    images:
+      - url: "https://www.aircargoweek.com/wp-content/uploads/2021/09/thumbnail_Press-image-DHL-Express-deploys-AI-powered-sorting-robot.jpg"
+        width: 1221
+        height: 813
         isCached: true
   - title: "AI Robot CIMON-2, Stationed at ISS, Gets Upgrade to Make it More Human-like"
     excerpt: "If you have watched Christopher Nolan’s 2014 sci-fi movie Interstellar, you may remember TARS -- the Artificial Intelligence (AI) robot that accompanied the expedition of the group astronauts led by Matthew McConaughey’s character."

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-28-did-tesla-just-confirm-that-the-robot-takeover-is-here.md",
+      "title": "Did Tesla Just Confirm That the Robot Takeover Is Here?",
+      "excerpt": "Rather, we’re investing in the small tech startup that’s developing the advanced underlying robotics and AI technology which will power this Automation Economy. We think this tiny stock could ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/",
+      "originalUrl": "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/",
+      "publishedDateTime": "2021-08-27T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-28-15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors.md",
       "title": "15 Innovative AI Companies Driving Exponential Shifts In Their Respective Sectors",
       "excerpt": "AI-built, AI-fueled, AI-powered, AI-informed: it is pervasive. In the hands of innovators, the disruption of AI of companies worldwide trends in a positive direction, and has the potential to change the world.",
@@ -1370,58 +1414,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-a-secret-weapon-for-self-driving-car-startups-humans.md",
-      "title": "A secret weapon for self-driving car startups: Humans",
-      "excerpt": "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jdx_SBKHpamXIFpgNPetMNtT-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YZTF4GYIYNIVJJBTUP3X3KH4B4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

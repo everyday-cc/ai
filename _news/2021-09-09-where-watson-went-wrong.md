@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-08T17:17:00Z
 originalUrl: "https://www.mmm-online.com/home/channel/features/where-watson-went-wrong/"
 webUrl: "https://www.mmm-online.com/home/channel/features/where-watson-went-wrong/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2021/09/Glitch-WatsonLogo-6_RGB.jpg"
@@ -49,6 +50,6 @@ related:
       domain: zdnet.com
     quality: 79
 
-secured: "ipRN2QDwIJLt5vp8mvkH5wSuxcaFtV+UTIKjui20PtITzDaE/OgYSTTskDyy7TAdUv+xK+toiSfStWyIVS6hT8H7txdE5/aV9i1shfbnFeHia9d9Xcb1yrj+PVpK7p1Iu0RM/LVO346ZgKhLVeWfKwnfj5gkA7GD29dxHpkkBhb+ayroa2/un3X4NJ9ovjlcEC9sw8deOPjq8YPmLR+kAHOGh6tXt/2UnFMXzsS8LV6dqFiGcqPsv98+VWv1LOmE2f14w5Dcz0jPazHe/Zp1iVgHCb7t/YvnA4pVJtia0GylVBJUk7Ga40WBnju+F8Y4PmPcOPhPPVnTlL5/rUTtk0nG/N0TSFbxesZwvS6LmXo=;XTOCel+hMjPYRTYanQO+3g=="
+secured: "okYFIv5efZuUeP6pxk4QmKjRkhvARe2Yr1Yuhmgbj1KIiWzQSW+4qLu9nOP5w0zP6RD2YBHfXZMCCMewdDCNvGcW74P9RnsB1XnRnobKq/fjOzayilPaATfQDJzTJlLL7Iu0eT8hx7Dnj2qzabEGhByGzMgbDOx0x6EHLJLwgy+iYxHsPGgZS0PJ0bz44I1ENlHhkjcLquTV+nbOUg8DTdEAWvtNa8rNK1vB8MEZYKlACHHjVNR7Vkdt6cqa+QZzDNnCBhwmJX0vGzE5lGA9r6/NIirhWx7BNUl4oqvonr1krx42jHnduHPjE724AdwUcfYkV2E4BsGyfQVgCzlCRmcwHzmr7F02Aca8/jLOc578GW+/RWoFoNRZVgac037gfyhKU+cUcO2Tszoc5WXGhFq4qmVRTnm4ZnvSZMdGlW0epTR7leMvxnryTz0I5773sDcztnP5JAy23+6/VnqWrDLfXAAIH/un029auah+vNHGcdo+CMYw9fFEKWmZHcgYlY3gaklj5CLS4JJRB1cVAA==;/4QItDN9ey6lQ77EuqJ8QA=="
 ---
 

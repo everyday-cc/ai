@@ -2,6 +2,201 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-05-companies-need-more-workers-why-do-they-reject-millions-of-resumes.md",
+      "title": "Companies Need More Workers. Why Do They Reject Millions of Résumés?",
+      "excerpt": "Companies are desperate to hire, and yet some workers still can’t seem to find jobs. Here may be one reason why ... do the job they are supposed to do. They also exclude more than 10 million ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008?mod=djemalertNEWS",
+      "originalUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-395991/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "publishedDateTime": "2021-09-04T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform.md",
+      "title": "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform",
+      "excerpt": "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform/ar-AAO5KzT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/03/business/03economy-briefing-facebook/03economy-briefing-facebook-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
+      "publishedDateTime": "2021-09-04T02:22:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/09/03/technology/facebook-ai-race-primates.html",
+        "domain": "com/2021/09/03/technology/facebook-ai-race-primates.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-ai-weekly-an-outline-for-government-regulation-of-ai.md",
+      "title": "AI Weekly: An outline for government regulation of AI",
+      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Governments face a range of policy challenges around AI technologies, many of which are exacerbated by the fact that they lack sufficiently detailed information.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/government_meeting.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
+      "publishedDateTime": "2021-09-04T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-court-ruling-uspto-cannot-issue-patents-to-an-artificial-intelligence.md",
+      "title": "Court ruling: USPTO cannot issue patents to an artificial intelligence",
+      "excerpt": "A court in Alexandria, Virginia, ruled that inventions can only be patented under the name of a \"natural person.\" The decision was made against someone who",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "originalUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-03-image-42.jpg",
+          "width": 2560,
+          "height": 1696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "publishedDateTime": "2021-09-03T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-australia-debuts-orwellian-new-app-using-facial-recognition-geolocation-to-enforce-quarantine.md",
       "title": "Australia debuts 'Orwellian' new app using facial recognition, geolocation to enforce quarantine",
       "excerpt": "The government of South Australia has launched an \"Orwellian\" new COVID-19 quarantine app, complete with facial recognition and geolocation, to enforce 14-day quarantines for travel. The policy actually represents an improvement over the current pandemic restrictions,",
@@ -983,195 +1178,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft.md",
-      "title": "Artificial Intelligence Platforms Market Size 2021 And Forecast to 2028 | Keyplayers – Google, Baidu, Ibm, Microsoft",
-      "excerpt": "In the recently published financial credit Artificial Intelligence Platforms Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg",
-          "width": 300,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?amp=1",
-      "publishedDateTime": "2021-09-02T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world.md",
-      "title": "AI Future: Why The University Of Florida Added 100 AI Faculty And The 22nd Fastest Supercomputer In The World",
-      "excerpt": "The University of Florida recently turned on the eight most powerful supercomputer in higher education and 22nd most powerful supercomputer in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613102a4a1f6214f6dcf0962%2F0x0.jpg",
-          "width": 730,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/amp/",
-      "publishedDateTime": "2021-09-02T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-githubs-ai-programming-assistant-can-introduce-security-flaws.md",
-      "title": "GitHub's AI programming assistant can introduce security flaws",
-      "excerpt": "AI that automatically generates source code to help human programmers complete projects has been found to include bugs or security flaws in up to 40 per cent of the code it outputs",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/",
-      "originalUrl": "https://www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/09/02165118/PRI_197232976.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/amp/",
-      "publishedDateTime": "2021-09-02T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-thinking-through-unintended-consequences-of-ai-implementations.md",
-      "title": "Thinking Through Unintended Consequences (of AI Implementations)",
-      "excerpt": "In the past few years, digital proliferation across organizations has become widespread, as we have seen with sales. Especially after the onset of COVID-19, many sales organizations accelerated their movement on this front.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6130f12bfadcce310ccf0962%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/amp/",
-      "publishedDateTime": "2021-09-02T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

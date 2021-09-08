@@ -168,17 +168,6 @@ related:
         width: 800
         height: 455
         isCached: true
-  - title: "Facebook apologizes after AI puts ‘primates’ label on video of Black men"
-    excerpt: "Facebook users who recently watched a video from a tabloid featuring Black men saw a prompt that asked if they would like to “keep seeing videos about Primates.” The artificial intelligence-powered feature that pushed the message has been disabled."
-    publishedDateTime: 2021-09-04T01:37:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/facebook-apologizes-after-ai-puts-primates-label-on-video-of-black-men/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/facebook-apologizes-after-ai-puts-primates-label-on-video-of-black-men/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facebook-apologizes-after-ai-puts-primates-label-on-video-of-black-men/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 36
 
 secured: "QqwGXOorC7dv65T2q+W5HRo2DOBRXLd2S+GRulYgjdsHIHiIKbtjCXokX4O2RmJHyswHqs6euC6ePzw8nJJ7nLT+N9lJ8ABoAOB5DhP9sEGgDVWl+P1pYNgnHVgI/L2Bwh22IilW0P77dkh4XVs/vKoyk+NrhV53hxv+sVwUgegaQ5ji+eLVsZPaAn/G30p2+m8Ojpl8q89QLsxGvOy7emcFK7ZcBh0Gwu47/4EfTo1swLcBMnf1i1ZLv4m8uuq0fT/kBu5l/gTt5kexIdMYs3oiOmwabOu7PJ6iKkdGWTlIYhUZzswNvOexxLhtgPWLv1nnNtIZDwMcFaHubJDl99f4HCZuvEhYzJITdSnIvjmloPVYZuN0Pa5i7GpEWxgOzeqv2q6X24Xgf6xQZEKfJkR5dHmdVH6yIAJ5SxrH9Kv9LeP1YPZPnSVTk8JtpEafIVwgO8PsfwutsZeZoTA/X4cF6VQD9CJvbd1gQiFk4xt+c8ROBmuPNKMrIG0gAzP6ZxTxIiDihGxxHXj7B2rfIA==;9fTlv2mEy1KKItpVuKAAUA=="
 ---

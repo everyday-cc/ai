@@ -46,6 +46,17 @@ related:
         width: 1200
         height: 560
         isCached: true
+  - title: "2 Leveraged Plays to Take Advantage of AI in the Transportation Sector"
+    excerpt: "A rtificial intelligence (AI) is already revolutionizing the transportation sector, putting a pair of Direxion Investments' leveraged exchange-traded funds (ETFs) on notice for traders to consider. From driverless applications to inter-connectivity between drivers,"
+    publishedDateTime: 2021-09-08T16:13:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "NSW Transport taps into AI and data analytics to improve road safety"
     excerpt: "A method is being developed using AI to help Australian governments improve how safety standards of highways across the country are assessed."
     publishedDateTime: 2021-09-08T03:13:00Z

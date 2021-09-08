@@ -24,22 +24,6 @@ images:
     height: 334
     isCached: true
 
-related:
-  - title: "AJE Launches New AI-Based English-language Translation Service"
-    excerpt: "AJE (American Journal Experts) announces the launch of its Standard Translation service, which combines AJE’s highly advanced artificial intelligence (AI) software and its own US-trained editors to return high-quality technical English-language translations in no more than five business days."
-    publishedDateTime: 2021-09-07T14:50:00Z
-    webUrl: "https://www.stm-publishing.com/aje-launches-new-ai-based-english-language-translation-service/"
-    type: article
-    provider:
-      name: STM Publishing News
-      domain: stm-publishing.com
-    quality: 39
-    images:
-      - url: "https://www.stm-publishing.com/wp-content/uploads/2018/05/aje.png"
-        width: 727
-        height: 468
-        isCached: true
-
 secured: "dC2kQp8mIM58/K0TgySul9EuVYmeKZ/vWpUFiMR6vBMH27AHCMlJnXK8PebA5LlI9bKzAML4VRSqYFjIhca6h86JBOwS1nY6LMKw/IXG0VJCW+otvaYmlU8EsrQvsaHCLg3cYFbEwyN7/gonutv9bHGrPV3Xw3jttMJcIrp0TIOF8KZlX3g62eVMdnsjuKwDrhaISG/0BA4uJg6uQAbYlHvqcCWHMB7/4ytGoFQu5+G4gcfEa3aIMWgT2OAnQbQeZXnSwuTMNOPSMSdgkeKYW0Y5y0y6Un5I1iux/BBlEGSLvleEdKgCGEOOZjtYhiYatz8GD7OzZfJJf0b00cGa1YhLPHIkNhiqcyTn9MbGYGpKSjeisaVsNcy7pHsIek6clK0w0NtMbFx3Sf/vB6xAhfTQElhLzBJqUbGEvkgNQqZA/w3E1YpN8Xu/CRrHY3Ty8j2sP6IHrJbMHnaC01akEfcvqvKOchQaGRAM8unNPzCIXKFzghWHSuQXrXMUyo6gdngmbh7owtMzES/HQrEiTw==;u5WREtLeDqjlwgGSjV2JKg=="
 ---
 

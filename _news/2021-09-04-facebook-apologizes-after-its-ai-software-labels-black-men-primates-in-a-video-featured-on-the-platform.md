@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-prima
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html"
 type: article
 quality: 140
-heat: 240
+heat: 230
 published: true
 
 provider:
@@ -164,18 +164,7 @@ related:
         width: 800
         height: 455
         isCached: true
-  - title: "Facebook apologizes after AI puts ‘primates’ label on video of Black men"
-    excerpt: "Facebook users who recently watched a video from a tabloid featuring Black men saw a prompt that asked if they would like to “keep seeing videos about Primates.” The artificial intelligence-powered feature that pushed the message has been disabled."
-    publishedDateTime: 2021-09-04T01:37:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/facebook-apologizes-after-ai-puts-primates-label-on-video-of-black-men/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/facebook-apologizes-after-ai-puts-primates-label-on-video-of-black-men/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facebook-apologizes-after-ai-puts-primates-label-on-video-of-black-men/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 36
 
-secured: "RKgRDKu9vTtL6CooQfZNpyByxA1kLtjjt5c04ZB8AnHt6NxQvpX1uQg6oa0I6yWR2Qy+WSjq1idm71joy8p8EOjPqeERxrJ8JjIz0ahu2TPyv5BJb2jtDB7ihfoihe4wURAvsQrXGO3u6mSKzvXTqdn4IL3gB85koIjotFk7Nd34ryTOCRveEDvsHyrWy+fQgomwu+mQABl2kxbhU5+2ljk028THMADqWxMBtZFLdeU3K+6Me5cosJLN82XlxDnpLE8bzXvJBcPQvtmeblOrZ4YdAbc99YH87iaj9uNtwLyAC42zDXmoW6aoBECL9mZXm8kPBoXGo9i0nrj9KWVKm1U/gTFKdsivsFoeN22dfUw=;/JDAX0XQroiH54LzU77jRg=="
+secured: "ICaelnfIC09S5/5rjuEkqB9zCgQhYn6A3ZE2ICVYPMC0iwnbP3veBlNiq7PIy202IJjowUA7o939tsnRnHIkXlwPE+6LDs3rEsJ0kkRsbKutxl5mfPEjuGzaEVeNPo6jTGITGbzoNu8D90zu9rIfEy89MO9O215xuadKXaPTewy9GtYfE6JAXjo/02cqCrR2pMu4cbz9eJ0DHGbuo5DeEtB1EP/hSSGkHYWG8rqnIKRXykmRkRjdn5jDAfNFza++EzjzHLsd9JiyDOs4nY3k14QgdLaAkmrOhTM+pUYfAniNDHLH6M/myd9t8Bu1K+0xgDFH6Wlky9MjafC/LId0ohlZg2TGCd1LJp+1PIy55cdRqAsZVZxYtYNY0jttwXlx4bJyWEZUkREBRGZfG//k+UduQLM1mQxcwha7k6aacQF71SnItkAAQkw6D7NYunChQre/W2Kal+VaH2MdWhS9bfZ4PIiSAZFyyxpRv40la/Nz2OXmBuBnFGcocZyFcoJHZg4c4X9tlinBMzKs7qXeNC6LUnVKdUj0Gpn0qMFYRqE=;UeZ8io+tjv0sM3u4wAArHA=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-excerpt: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global. Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and bank"
-publishedDateTime: 2021-09-08T15:44:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/09/08/9445061.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/09/08/9445061.htm"
+excerpt: "\"Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
+publishedDateTime: 2021-09-08T14:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -198,6 +198,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "S1ruIEgdQfP9WBqa7JH046iD3UdtAHw/devBMkNpND2EhzWkY+WrUoa1Zx3K9ifiYPzyw5DsLI+MX3EUXGGZ9tNlGE//GYV2lTS/AYdfi+9KqM/A/jwIFM+11O1xFKdVQSPvrQ7nfQBLhNqQsM4GtBbJJOrHkrveQJ5MX3q8OCUTy3NGdqbPlGA8egp8RhSPZA9piSvEeZ7YNB/E1xXh5BVRUjJvGPbmHEKpzE/gx0Iit9ZREPYiI0dEDi+pUbXrKZwDdTPcWNb70ppxoMLOXWc9MdZVygwuLHEORTiUqU5spie+lh5bi8XkXgh2yIP8GlwHk3o9da7d6aaCY5z27+mUylBA7N6kdYoSkR/+zX4=;UDgeL6qel70QmAxcVcqDMg=="
+secured: "j/xwShLcQjXr+vGIoRBa5h6V6yCi+tHI/7zXwTf7umO/lVSJoqSmWlVmxFcnhGqqQnP34rzwAVNVdR/MqQyE+A5+lTY6dxY3Iqu+d1l6Qsjiw86VL90lJ6GLMdb93f6wR2m4q4DzJ4Y5K3xpDXGCaOJ5c6X+29EGSI7O+gSM8eWPaNII04U2y121XgrxtSTxZ0Jl9DmAaYwG8oKQiN3lJnidIBFrQ9uD8hwlm/hv+wsaWoxCJFOrdRSC74ioSBUbHLwjfsB4VdHrpn6AC9yl2UOw6aWnOzDPBdP7BNA10qL6SeCRAOEopV0KqjejqN9I6/SfDOmo4cEqwwCs+hU/r+7bwTZ4+CpshV8BaZBe54A=;9U+MgqWlaMAs8XZSv18zyA=="
 ---
 

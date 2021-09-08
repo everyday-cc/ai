@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-11-artificial-intelligence-classifies-brain-tumors-with-single-mri-scan.md",
+      "title": "Artificial Intelligence Classifies Brain Tumors With Single MRI Scan",
+      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
+      "originalUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Deep-Learning-Model-Classifies-Brain-Tumors-Single-MRI-Scan-777x849.jpg",
+          "width": 777,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
+      "publishedDateTime": "2021-08-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-oracle-tweaks-mysql-and-boosts-storage-engine.md",
+      "title": "Oracle tweaks MySQL and boosts storage engine",
+      "excerpt": "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "originalUrl": "https://www.techradar.com/sg/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
+      "publishedDateTime": "2021-08-11T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-openai-can-translate-english-into-code-with-its-new-machine-learning-software-codex.md",
       "title": "OpenAI can translate English into code with its new machine learning software Codex",
       "excerpt": "AI research company OpenAI is releasing ... to build simple websites and rudimentary games using natural language, as well as translate between different programming languages and tackle data ...",
@@ -1253,103 +1348,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-tesla-teases-future-products-using-artificial-intelligence-not-related-to-its-electric-vehicle-fleet.md",
-      "title": "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet",
-      "excerpt": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
-      "originalUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-robot-snake-charger.gif?w=1000",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-08-04T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-an-in-progress-automl-survey-focusing-on-practical-systems.md",
-      "title": "An (in-progress) AutoML survey focusing on practical systems.",
-      "excerpt": "This project is a community effort in constructing and maintaining an up-to-date beginner-friendly introduction to AutoML, focusing on practical systems. AutoML is a big field, and continues to grow daily. Hence, we cannot hope to provide a comprehensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/autogoal/survey",
-      "originalUrl": "https://github.com/autogoal/survey",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/205910a7cce0d8f512ed3c9b412872a2d968288b6d7ec3c33ff9e405fcd94af4/autogoal/survey",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,197 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-09-why-tesla-apple-google-and-facebook-are-designing-their-own-chips.md",
+      "title": "Why Tesla, Apple, Google And Facebook Are Designing Their Own Chips",
+      "excerpt": "Unsatisfied with the reliance on standard high-demand chips, some of the world’s largest tech firms are developing their own semiconductors.",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/",
+      "originalUrl": "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/09/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1",
+      "publishedDateTime": "2021-09-08T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says.md",
+      "title": "Machine learning is a great tool for cybersecurity, but be cautious, expert says",
+      "excerpt": "Supervised and unsupervised machine learning are good ways to detect threats. But what's the difference? TechRepublic's Karen Roby spoke with Chris Ford, VP of product for Threat Stack, about supervised and unsupervised machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/08/71859f8e-a1a5-4870-9362-9cb9a8581f7a/thumbnail/1200x675/68c3d582211ee59ed85ef0b8f319e370/20210903-supervisedml-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
+      "publishedDateTime": "2021-09-08T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-us-government-forms-committee-to-advise-on-ai-competitiveness-ethics.md",
+      "title": "US government forms committee to advise on AI competitiveness, ethics",
+      "excerpt": "The newly-formed committee will advise the President of AI matters. It's no surprise that artificial intelligence is the future. So much so that the Department of Commerce is forming the National Artificial Intelligence Advisory Committee to focus on a range of issues related to AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
+      "originalUrl": "https://www.cnet.com/tech/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/orFpM_Oy4mABsx_WzkpE1aobQQE=/1200x630/2019/11/12/d639dcdb-6b23-4be9-8a2a-dfd997c6bc9d/ai-artificial-intelligence-8959.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
+      "publishedDateTime": "2021-09-08T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa.md",
+      "title": "Telkom launches AI technology platform to overcome language barriers in SA",
+      "excerpt": "Telkom said Izwe.ai offers transcription and translation across a range of languages, as well as a number of text classification and entity extraction services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
+      "originalUrl": "https://www.iol.co.za/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/650x366/Telkom-said-Izwe-ai-offers-transcription-and-translation-across-a-range-of-languages-as-well-as-a-number-of-text-classification-and-entity-extraction-services-Picture-Thobile-Mathonsi?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fe4d1dd1-b3b6-508b-89d9-cb723f4100eb&operation=CROP&offset=108x0&resize=1794x1009",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
+      "publishedDateTime": "2021-09-08T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-synthetic-data-will-feed-ai-hunger.md",
       "title": "Synthetic Data Will ‘Feed’ AI Hunger",
       "excerpt": "Synthetic data in the context of AI vision systems refers to annotated images that have been created from computer generated, photo-realistic, 3D environments containing objects, things, people (or anything).",
@@ -10,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -49,7 +240,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -305,7 +497,7 @@
       "originalUrl": "https://theconversation.com/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -433,6 +625,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-machine-learning-predicts-patient-response-to-rheumatoid-arthritis-therapy.md",
+      "title": "Machine Learning Predicts Patient Response to Rheumatoid Arthritis Therapy",
+      "excerpt": "Rheumatoid arthritis treatment may soon be personalized based on new molecular signature models that accurately predicted patient responses to adalimumab and etanercept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
+      "originalUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.practicalpainmanagement.com/sites/default/files/images/2021/09/02/iStock-536845412.jpg",
+          "width": 1287,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.practicalpainmanagement.com/amp/38232",
+      "cdnAmpWebUrl": "https://www-practicalpainmanagement-com.cdn.ampproject.org/c/s/www.practicalpainmanagement.com/amp/38232",
+      "publishedDateTime": "2021-09-08T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Opioid Calculator",
+        "domain": "practicalpainmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -684,7 +920,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -827,8 +1063,8 @@
       "title": "What you need to know about facial recognition home security cameras",
       "excerpt": "As facial recognition technology becomes more prevalent in home security cameras, it's important to understand what it is and how it's used. Here, we break it all down.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
       "featuredContent": null,
       "highlight": null,
       "heat": 96,
@@ -836,8 +1072,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
       "publishedDateTime": "2021-09-07T23:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -959,258 +1195,6 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-boost-transcription-accuracy-of-class-lectures-with-custom-language-models-for-amazon-transcribe.md",
-      "title": "Boost transcription accuracy of class lectures with custom language models for Amazon Transcribe",
-      "excerpt": "Many universities like transcribing their recorded class lectures and later creating captions out of these transcriptions. Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. Transcribe assists",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T14:14:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-new-deep-learning-method-boosts-mri-results-without-requiring-new-data.md",
-      "title": "New deep learning method boosts MRI results without requiring new data",
-      "excerpt": "When patients undergo an MRI, they are told to lie still because even the slightest movement compromises the quality of the images and can create blurred spots and speckles known as artifacts. Moreover,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/mri.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
-      "publishedDateTime": "2021-09-07T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-ai-as-a-service-to-solve-your-business-problems-guess-again.md",
-      "title": "AI as a service to solve your business problems? Guess again",
-      "excerpt": "The process to train algorithms to detect wear and tear would be different for factories that produce different products; after all, a shoe is not a smartphone is not a bicycle.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/",
-      "originalUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1031459310.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/amp/",
-      "publishedDateTime": "2021-09-07T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-how-ai-in-healthcare-is-making-hospitals-smarter.md",
-      "title": "How AI in healthcare is making hospitals smarter",
-      "excerpt": "The digital solutions that health systems are deploying today—like AI—are effectively steps in their evolution into smart hospitals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9",
-      "originalUrl": "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6137ca892534ab0018533543?width=1200&format=jpeg",
-          "width": 463,
-          "height": 231,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9?amp",
-      "publishedDateTime": "2021-09-07T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-fully-customizable-action-space-now-available-on-the-aws-deepracer-console.md",
-      "title": "Fully customizable action space now available on the AWS DeepRacer console",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML) through a global racing league, cloud-based 3D racing simulator, and fully autonomous 1/18th scale race car driven by reinforcement learning. Starting today, the model action space is fully customizable yet simplified with new",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/07/8-5294-Baja-truck.jpg",
-          "width": 800,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T13:20:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

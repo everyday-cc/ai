@@ -1,10 +1,10 @@
 ---
 category: news
 title: "A Peek into the Future: Applying Artificial Intelligence to PSMA-PET Imaging in Prostate Cancer"
-excerpt: "The Clinical Utility of 18F-Fluciclovine PET/CT in Biochemically Recurrent Prostate Cancer: An Academic Center Experience Post FDA Approval - Beyond the Abstract : Ryusuke Nakamot"
+excerpt: "In this educational lecture, Oliver Sartor presents on evaluating treatment assessments and changes, metastasis directed therapy for oligometastatic ... practice,” by discussing the impact of artificial intelligence and prostate cancer imaging."
 publishedDateTime: 2021-09-02T13:10:00Z
-originalUrl: "https://www.urotoday.com/newsletter-archive/listid-3/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html"
-webUrl: "https://www.urotoday.com/newsletter-archive/listid-3/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html"
+originalUrl: "https://www.urotoday.com/newsletter-archive/listid-4/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html"
+webUrl: "https://www.urotoday.com/newsletter-archive/listid-4/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 600
     isCached: true
 
-secured: "SsM5aTK0kFtrsWajizSGBMibb1bu/0lU2+S7vMTzbFifITqGvRUJYratJ6EXMb8lYgfpzNFZxKP+eqWfCl+Y/skxobx7pod6rcpz2ecOWd5HtDfbo8VNiM7RGdWTldprE38EvdiMpg7pfXnH0HndNnqTscIfOHGStyp5qUzhcrXbdc3lF9Q+yMMVkPODkMiWaysG6ICTz68rz/fJxSYJSmGbHiMBE58zl771/AnlJ13OxJBn4tpMHPyuQlcH5NRn5PV9xwsJHCwTAZejINKG7iXMM7PoPo9XJe1pMswE7Wm68QPI0HfS58+WfrZTJ7UoRI8KaKeimGbQ9c+evYtQNoqDcZAc3pOlYjfqCv+yJ6g=;zehq7H46pg9M4bnLlsa92A=="
+secured: "DeJxkBN++AZbvE+R2wC28KUV6L5R1CYj8SRTA2P7SmQ+TM4nIUmuk3Xi0wTcdyC5hRDZ74rWBFJZfubrYj7FM3g0X8kGUV+JmVf0AAwg6UOZ+X9IUAMwm3Buojw84hr8gAbkTkK3C7tk0+w3QcuYyVYoCCsoA4lzPXqjtaM2JwGbYZmiqpWsECK4r+NJ7QecfcSfhf5ohusjSg7GGPHtx/c6duj2wb2qQ8fCGwsOJQmfOG9/Ydc/OH1YYWmb4u03L8CsP3PwrZGw8EwWvDktws7zF+mfEfKySwaZMrVs3ewYFnrhMphCgiVuO7Bxr5JmtntsWy93a5HsrSl8rgqQGPl93orff98CsCmd7C+4Wjc=;f66xmJ5Bo1/EQaXiupaT2Q=="
 ---
 

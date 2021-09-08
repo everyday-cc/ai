@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data
 ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61387564dc9b4ee805f2fe73%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 746
     isCached: true
 
-secured: "bRSC+HtBKeHJFXBx0OXLNg2ZHTfSdtdl+qlzvsMLHXZuJDQ+gXcOLWLT7m1DYnP+oywadlPJFBtqyVpOVx0gMnWSQBO1kCYTu7b4CoQS81wGGgXOxSjm6swCaWso2UWNJ4YmDRmLjabinXpQ2xOrkv+nlM+5bxw5NSnUe41DMbuNvnPgccZyDkAlN2R/qf1qtWvLZPFeUdh88C4hB9+GLK1/A3h2orUAuv0spy5WznwsgZomDLwxRfcBvEBMH98byGZ4Ej5idhHDE7gFK2DiXQ+GIhJPQF/8Bi+B2PTrLOYKCY/H2yY649ZD7fZsfnvek82CTFlO5+1HaBAnNOxUlLOrV12bm7KhzvBP7Y2TFoQ=;ieYXLhdvlDyTdG7HSY9t/A=="
+secured: "B39w9+ysNXxDEN/s9n8QhrHHUCrKXKgVVMWgtbbOViGCoOZOMs5cHZbbcc3BEqSb5sOZ3sXfVNArJweU1p/BUpHH9pPUSh7OSsapPl+tSraSwiPZf9yGErLN9bct+b4NMqvFtpb4wrKhy2qWjBAMEWO9C2Lk8FohNz3W4SRK4Yo7/BNmY0NY8mygnO1Td/CzMf9Mg+pkusg9DGTCfyEca+blLk7hotXjVywdePoTChlWzqIqpDx2aSwbMSCGgkpuucSkfYXiiMYbpmalqtNaL+Lnxeoxi3RR9ZlMR5WwFZKCvzGoMcGFBYHYObOI10rAI9XKVtoA/Iv/J1sIRCgGdykp2X3yLCX3GK6+fk/wputWIssLKpAnOVSmMdWdaDBjPZ80fQeEziCtH9rrfVHKkaYasRCxwZHAOhfuClkFcm93tb7CIQpnkLhROgU8dKDHNQd3QkpChxjsLrjkqr819qUgrmitI0zfsMp5a7lA39Rk3JBiMFe825+lT6DyRsA9/J6scjD9SK4++oC3W/UnFg==;42p8fI2dc1PfQ4Lzsb/UYw=="
 ---
 
