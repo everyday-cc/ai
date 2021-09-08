@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-sof
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/"
 type: article
 quality: 89
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Tesla planning wider release of its 'Full Self-Driving' software"
+    excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of"
+    publishedDateTime: 2021-09-08T09:34:00Z
+    webUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software"
+    ampWebUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/09/93d79dc915d322b2d64bae9723e52e54.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Tesla's 'Full Self-Driving' Software May Open to More Drivers. Should We Worry?"
     excerpt: "Driving\" (FSD) beta software to a limited group of customers to mixed public reception nearly a year ago, but now CEO Elon Musk wants to introduce a wider release before the month is out, according to a recent tweet from the billionaire."
     publishedDateTime: 2021-09-07T20:05:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/1L6o4ALqwP/sizes/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry_resize_md.jpg"
         width: 744
         height: 419
+        isCached: true
+  - title: "Tesla planning wider release of its 'Full Self-Driving' software, says CEO Elon Musk"
+    excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of customers, the company's CEO Elon Musk said he is aiming for a wider release by the end of September."
+    publishedDateTime: 2021-09-08T09:22:00Z
+    webUrl: "https://www.freepressjournal.in/business/tesla-planning-wider-release-of-its-full-self-driving-software"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/tesla-planning-wider-release-of-its-full-self-driving-software"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tesla-planning-wider-release-of-its-full-self-driving-software"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 52
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-02/f0098ad4-8e8f-429d-b230-0618b588b79d/471763092.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 702
         isCached: true
 
 secured: "KvqZpc8rIqvWcl9geERXYPOtjoKrQKABL0lzsEUlrCzjYSG0Oi4cVsYFiHAkMBfvOrdmSWg/CosubOGAtTW2FKV+3wKVcQWSO4zAo4B9AOggjXRPSPtKflTVBYk63ySsrmUd3tywHe3Qd+seuQB7QB+bFKO06AUOzrUS8FfmreWMhzRiGqW32ukToUqTpmArmA1GCyOu9rIPUBQmf4zr2s6pjXH+miCQw6EYmZXwAXyFECE7iuZ7CE7Zvg4fIt4OVtUOHwZ6DTZ13mrc5r3BBe+nzbTOJiCseMMQaCdzvSi0WsjW5bscDK6JeXG1eWsvMcinb1g1+n+Lki/pc779zV24i876SfhU6OQj4cMorRs=;4dE9SSVHiDp9fkgwaNDMRg=="

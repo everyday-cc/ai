@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-08-chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-account.md",
-      "title": "Chinese activist Ai Weiwei says Credit Suisse closing his foundation's bank account",
-      "excerpt": "Chinese dissident and artist Ai Weiwei has said Credit Suisse told him it was closing his foundation's bank account in Switzerland earlier this year citing his \"criminal record\" in China, despite the activist never being convicted of a crime.",
+      "path": "_news/2021-09-08-ai-weiwei-credit-suisse-closed-bank-account-over-china.md",
+      "title": "Ai Weiwei: Credit Suisse closed bank account over China",
+      "excerpt": "Leading Chinese dissident and artist Ai Weiwei has said he was told by Credit Suisse that his foundation's bank account in Switzerland would be closed over his \"criminal record\" in China. The activist,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/",
-      "originalUrl": "https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/",
+      "webUrl": "https://www.bbc.com/news/business-58484447",
+      "originalUrl": "https://www.bbc.com/news/business-58484447",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/I_BS5SfdIYnPVyyfaDDT-E7u1xU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYGTH7NTYBKFJAO2EI2AAHXVSU.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C1CD/production/_120431694_tv070383031.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T10:57:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/business-58484447.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-58484447.amp",
+      "publishedDateTime": "2021-09-08T02:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -55,6 +55,31 @@ related:
         width: 700
         height: 369
         isCached: true
+  - title: "Microsoft making a splash with push into deep space"
+    excerpt: "Artificial intelligence, advanced analytics, machine learning augmented reality are all capabilities in the mix. Through Azure Orbital, Microsoft is building out “ground station as a service” and satellite connectivity both native to the Azure platform ..."
+    publishedDateTime: 2021-09-08T09:16:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/microsoft-making-a-splash-with-push-into-deep-space/news-story/204b27717d17d74d6883680c1dccab84"
+    ampWebUrl: "https://amp.theaustralian.com.au/business/technology/microsoft-making-a-splash-with-push-into-deep-space/news-story/204b27717d17d74d6883680c1dccab84"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/microsoft-making-a-splash-with-push-into-deep-space/news-story/204b27717d17d74d6883680c1dccab84"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
+  - title: "Microsoft teams up with LX Semicon to develop 3D depth-sensing solution in virtual reality"
+    excerpt: "U.S. technology giant Microsoft will collaborate with LX Semicon, a fabless manufacturer in South Korea, to develop a 3D-sensing solution for virtual reality and augmented reality. The solution will be based on 3D time of flight sensors that measure the distance between the sensor and a target object by calculating the time taken for light to bounce back."
+    publishedDateTime: 2021-09-08T04:52:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-teams-up-with-lx-semicon-to-develop-3d-depth-sensing-solution-in-virtual-reality/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 31
+    images:
+      - url: "https://image.ajunews.com/content/image/2021/09/08/20210908111621588194.png"
+        width: 640
+        height: 640
+        isCached: true
 
 secured: "xPc2ggPurBZzpko3haRovDXDaI421EPNg1bTBLJ0KnGAs1D5OjXMADwMr+mGQ8BGwrsuoTCqXhjpjMF7PI3EgnggATz0r140tXbpXXvuhv83jppyC9atM64YRJXbL+8b4wWehohkPZwc5Nn6RfiSc0KR2K6dWITOHGelLRkiswLw7HgOaalXfG/XYQAOliUGJbZ3iZtLajDd9ja4QhXyxA8neB4mIbm5hNw4j2/8eIvx7k1iUeSyVXJqbtXh6wglJ1PPF2dfQ6DgzuExhYB222kOpIoUANiIqFLm3GhZcfDFuSEBpyY6MnzNXSXi2f8LAfSNY598H8tMBpLS/6DIA+jzNlJzRpgdz6BhiFOQRYo=;WxNz/hKs38LXVj3qG+Y5OA=="
 ---

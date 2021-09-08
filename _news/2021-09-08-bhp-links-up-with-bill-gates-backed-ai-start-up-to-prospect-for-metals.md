@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/0059d630-5cb4-411f-a0a6-577faa4d6688"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0059d630-5cb4-411f-a0a6-577faa4d6688"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 500
     height: 281
     isCached: true
+
+related:
+  - title: "BHP will use AI tools developed by a Bill Gates-backed start-up to find new critical metal deposits"
+    excerpt: "The principal investors in KoBold Metals are Breakthrough Energy Ventures, a climate technology fund set up by Bill Gates"
+    publishedDateTime: 2021-09-08T09:12:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/959742/bhp-will-use-ai-tools-developed-by-a-bill-gates-backed-start-up-to-find-new-critical-metal-deposits-959742.html"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/959742"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/959742"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 43
+    images:
+      - url: "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_09/1200z740_1631093066_EV-Car-or-Electric-car-at-charging-station-with-the-power-cable-supply.jpg"
+        width: 1200
+        height: 740
+        isCached: true
 
 secured: "F1/66Dwe1Mb8z6PjXjIA+uD3HF5tpyySrq5DyRFyiTx6s+U/idpr92iJPfkWDRZNWEJ+p7vcDXFOJB2JG13gxx8H2jRXMqt7wa/rU9c/kQpx4mp9jOZz8p66GTsWXfeQgiXpXgZi7/BfDPH+1NRtTPKjvdTTs/iyiYNg7ZWNstQFutG4BKb+wX7/6E2v2J5zcNaLR4YKDo4VWm7NA6FYZM8LZ7QsB9snq04itY3KFfp2OxTBhgREJgPIyLy+LsMIPTNL5ofgjb9KyuLkAjXm20aLIWlhAGqo8bl4TbRJoXCyKsp7Q5fISp3oc1F6ZMyooA2xB9VVHvynsb3nCxwl352IziBOvJC2gkpvtIBU67FYsWQZRvqlMzZQlzaP09wYqiS2wcfBBsafaLoSOFhCoNychQmQV/xEP/btKIOlq9hQ173T2balo4lXrnecaBEwp+Cr9N2L8NReqW6NBp/B1dvszumxbsu+uOD+L+4ponwhGo/yss3tYtyJeWKTC2mWNn9AGUw1mvKOCyJYJ7hPuw==;A+Rkb0q/wLtS/g5OGB/o7g=="
 ---

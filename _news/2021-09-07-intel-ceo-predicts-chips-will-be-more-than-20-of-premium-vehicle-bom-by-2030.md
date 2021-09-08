@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22830056"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22830056"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "IAA2021 – Intel predicts chips will account for 20% of BOM by 2030"
+    excerpt: "Intel is predicting semiconductors will account for more than 20% of the total premium vehicle bill of materials (BOM) by...Read"
+    publishedDateTime: 2021-09-08T09:51:00Z
+    webUrl: "https://www.just-auto.com/news/iaa2021-intel-predicts-chips-will-account-for-20-of-bom-by-2030/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/05/2021-04-13-08-45-intel_cropped_70.jpg"
+        width: 424
+        height: 282
+        isCached: true
 
 secured: "ATEgBntH4ngc/S5TpLLc4q3binaIhPuExtNzHnZKKuECfOAuokI9A+YD9flZRIwZ7cUex7IteOdiwZgVCn8C+NLlM79UpO7FmmIG0TokrN5EEeUdi/YGNDAlH7yJmukEvxNp52HkiAqk41PqExBEA0LrgIwrTtbWdf0d6fQ+FKpfjOIyp/2ItGqdn1FGlhhLrm3+3prqhTkW8VkA1HioxG48Q23mux7PZcu8MSlJdeJhTRMajbzyrYuPaozG0EwlV8xKDMiV60JGq3V8YzHwLIBEZfrpLTShQFMHxftoxKcF8Vz6fS9jlZJA4tpLbv9GLGRQACARlOv9y9H06zkwYvMf96JGRfF16hso8XuQ5aw=;QM0QLxQ581F3EZQTSsQT+A=="
 ---

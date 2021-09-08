@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-08-domestic-tech-accelerates-investment-in-artificial-intelligence.md",
+      "title": "Domestic tech accelerates investment in artificial intelligence",
+      "excerpt": "Artificial intelligence (AI) is now the focus of global technology, with countries spending billions of dollars in research and development (R&D) to be at the forefront of new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.vnp",
+      "originalUrl": "https://en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.vnp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_09_08/domestic_tech_accelerates_investment_in_artificial_intelligence.png",
+          "width": 640,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.amp",
+      "cdnAmpWebUrl": "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.amp",
+      "publishedDateTime": "2021-09-07T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VietnamPlus",
+        "domain": "vietnamplus.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-lumo-labs-backs-autoscriber-to-advance-healthcare-ai-voice-recognition.md",
       "title": "LUMO Labs Backs Autoscriber to Advance Healthcare AI Voice Recognition",
       "excerpt": "LUMO Labs is backing Dutch health-tech startup Autoscriber, which specializes in artificial intelligence (AI)-supported voice recognition software.",
@@ -85,49 +129,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-indian-german-experts-discuss-artificial-intelligence.md",
-      "title": "Indian, German experts discuss Artificial Intelligence",
-      "excerpt": "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/indian-german-experts-discuss-artificial-intelligence",
-      "originalUrl": "https://www.glamsham.com/world/technology/indian-german-experts-discuss-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.glamsham.com/wp-content/uploads/2021/09/2a253c1258143da0dbcb615b6a8e21da.jpg",
-          "width": 400,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.glamsham.com/world/technology/indian-german-experts-discuss-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/indian-german-experts-discuss-artificial-intelligence/amp",
-      "publishedDateTime": "2021-09-07T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,92 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-08-04-intel-expands-college-ai-training-programme-to-11-us-states.md",
+      "title": "Intel expands college AI training programme to 11 US states",
+      "excerpt": "Intel is working with Dell to expand its AI for Workforce Program to 18 additional institutions across 11 US states to help educate the next generation of US technologists, engineers, and inventors. The programme,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816607/itpro/2018/09/students_shutterstock_309525341.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states?amp",
+      "publishedDateTime": "2021-08-04T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-spell-operationalizes-advanced-ai-with-the-first-comprehensive-mlops-platform-for-deep-learning.md",
+      "title": "Spell Operationalizes Advanced AI with the First Comprehensive MLOps Platform for Deep Learning",
+      "excerpt": "Spell, the leader in operationalizing AI for natural language processing (NLP), machine vision, and speech recognition, has launched the world's first cloud-agnostic, end-to-end MLOps platform for deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/04/9423613.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/04/9423613.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs.md",
       "title": "Spell unveils deep learning operations platform to cut AI training costs",
       "excerpt": "Spell takes wraps off deep learning operations (DLOps) platform that promises to reduce cost of building more advanced AI models.",
@@ -1069,93 +1155,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-secure-an-azure-machine-learning-training-environment-with-virtual-networks.md",
-      "title": "Secure an Azure Machine Learning training environment with virtual networks",
-      "excerpt": "In this article, you learn how to secure training environments with a virtual network in Azure Machine Learning. [!TIP] This article is part of a series on securing an Azure Machine Learning workflow. See the other articles in this series: Read the Network ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/machine-learning/how-to-secure-training-vnet.md",
-      "originalUrl": "https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/machine-learning/how-to-secure-training-vnet.md",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/d945cee83f1595d265b7e6ee275e50885eb7b99925589b4b493f0b30b2ff23e5/MicrosoftDocs/azure-docs",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-top-mlops-books-in-2021.md",
-      "title": "Top MLOps Books In 2021",
-      "excerpt": "It will guide you through the process of deploying and querying your models with AWS SageMaker, Microsoft Azure, and Google Cloud. Find it here. In this book, authors Lynn Heidmann and Mark Treveil from Dataiku introduce the data science-ML-AI project ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-mlops-books-in-2021/",
-      "originalUrl": "https://analyticsindiamag.com/top-mlops-books-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Top-Books-On-MLOps-To-Look-Out-For-In-2021-.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

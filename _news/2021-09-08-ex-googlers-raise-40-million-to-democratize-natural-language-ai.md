@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-07T23:57:00Z
 originalUrl: "https://www.fastcompany.com/90670635/ex-googlers-raise-40-million-to-democratize-natural-language-ai"
 webUrl: "https://www.fastcompany.com/90670635/ex-googlers-raise-40-million-to-democratize-natural-language-ai"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-cohere.jpg"
@@ -40,6 +41,6 @@ related:
         height: 800
         isCached: true
 
-secured: "60gH08XULw10zU70iNl06QssmNdV7u8lhK7vabc62on8r79VEFYifm9G1xSROTv40W90Pye2nybVS+FmnHmnIpNxeY/IyycK1Jjv+BpJqgRDErbIhCFNpG6jvYigLSjtLBDP8xZneVfzjUxe4ObOYEq+/JS/cueZ1mHdOrx4w8couxxSaUIh7UF4qqew5z/26S5UHC10jnR2CrBRabb4H7dZfL9YdSOMDggkSUU0KPfKoCyMCoxGx0dNiMAAprL1zCCuy7CZGsy6id5M5MfsIV+7xbltQJVkZPX9I9DgGqH8Z56TvEhrf84L8T9prU6bXvx92RTcTiThHE5sbWVJFirzBEtVPykMxvT7qD9soEM=;0OrqfurJQ4LPaca/o88V6A=="
+secured: "f+3wMTa0jMrdBSeerBtW7f8mmjZJDuvAruINjdoPJjDoc0Fb5Xjkeu4ys2FdqgoXBETtu6ok5Sp89XZRdPTOuCRUL9y3yHHdMRj7kWckqW7j1+MKmrlW1ir6mta0t3dMd71ZX4G1dgRkZV15677RhDW6GQQ66gNahGx9mOEoWKlptClvsRoYhQIQxjQ4JWo0EbpmQ0hz1HNEI+vZoQOXZGXB41kc4IU0Pz1ng4TrcIKqkpf+6RRStkkcQ2ROaiWjTKxPxWZKTUEnd2koqwaxMXXITyB9vrBxi34A5l8Ymy1TglBrCiwwSgJyTlf/94J8p5bXEo/t4bpmGEyEHQf750OhfMwLz2xe5cP63vsqc7zUeW0xAsdjFPWLCmHT4DKOWzTEn5QQurnCn2h5lGMMK7h1FB4OQCINysT6uhKT2HnCdfdv1ZTLm/dDPJ4AvCXPNdter+sw9RGWftO6x+R/Wey24z2jg7ZLv0RPdzoFU2V5MP6HboC0hrEdIts+acOoZIk2rGUfahTlJE27qPVdWQ==;eI9DCilZ8rlfXmOeuh9kBA=="
 ---
 

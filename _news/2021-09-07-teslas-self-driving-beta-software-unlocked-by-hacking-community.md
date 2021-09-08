@@ -75,6 +75,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Tesla planning wider release of its 'Full Self-Driving' software"
+    excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of"
+    publishedDateTime: 2021-09-08T09:34:00Z
+    webUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software"
+    ampWebUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/09/93d79dc915d322b2d64bae9723e52e54.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Tesla's 'Full Self-Driving' Software May Open to More Drivers. Should We Worry?"
     excerpt: "Driving\" (FSD) beta software to a limited group of customers to mixed public reception nearly a year ago, but now CEO Elon Musk wants to introduce a wider release before the month is out, according to a recent tweet from the billionaire."
     publishedDateTime: 2021-09-07T20:05:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/1L6o4ALqwP/sizes/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry_resize_md.jpg"
         width: 744
         height: 419
+        isCached: true
+  - title: "Tesla planning wider release of its 'Full Self-Driving' software, says CEO Elon Musk"
+    excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of customers, the company's CEO Elon Musk said he is aiming for a wider release by the end of September."
+    publishedDateTime: 2021-09-08T09:22:00Z
+    webUrl: "https://www.freepressjournal.in/business/tesla-planning-wider-release-of-its-full-self-driving-software"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/tesla-planning-wider-release-of-its-full-self-driving-software"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tesla-planning-wider-release-of-its-full-self-driving-software"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 52
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-02/f0098ad4-8e8f-429d-b230-0618b588b79d/471763092.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 702
         isCached: true
 
 secured: "h9OgBWnkWLnjJpirLvbwD5vGRojphLkvMA+fmXhcddcHOZAL/Hn/Otu5BoOGtCHO72CSyphPAsPCzD6cg0sriCC7Wu37JN1m5X5OqNzI80QbfY2NypXbxgbGZ3sTbDU4lGYp0d00VLlgQ3Nj+XBsyxEr9MT6hfd5pL+xEV5T5BsEyk+FDrU7kvc/A40X/1PflN5AtV0AShYL2nOCmtVT36FY8pP8e15jkenwXmn4QXGwLl1nb0Hrj8aShXl6HbHuYbMm3S/P0fDSh9WkSTfIdRohXA44sDgMCKWSIuzAm0dGJeS6y53fOdpFOLgW2HjYippQNp7J0JBszAjzOlkuBBsTowwzCxxRFX7LRvQdEHE=;Q36MaIvu8TKuF05tgsdqzA=="

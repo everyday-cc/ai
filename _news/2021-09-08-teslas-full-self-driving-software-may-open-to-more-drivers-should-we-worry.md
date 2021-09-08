@@ -91,6 +91,38 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Tesla planning wider release of its 'Full Self-Driving' software"
+    excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of"
+    publishedDateTime: 2021-09-08T09:34:00Z
+    webUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software"
+    ampWebUrl: "https://www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/tesla-planning-wider-release-of-its-full-self-driving-software/amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/09/93d79dc915d322b2d64bae9723e52e54.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Tesla planning wider release of its 'Full Self-Driving' software, says CEO Elon Musk"
+    excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of customers, the company's CEO Elon Musk said he is aiming for a wider release by the end of September."
+    publishedDateTime: 2021-09-08T09:22:00Z
+    webUrl: "https://www.freepressjournal.in/business/tesla-planning-wider-release-of-its-full-self-driving-software"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/tesla-planning-wider-release-of-its-full-self-driving-software"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tesla-planning-wider-release-of-its-full-self-driving-software"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 52
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-02/f0098ad4-8e8f-429d-b230-0618b588b79d/471763092.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 702
+        isCached: true
 
 secured: "kqMoYS5R6OUOQcjxTywvtFUVSzUqigM/hKm8B11orWMd06S1/yfPCrL67KcK+tlL2ecWi31cHjgqI0XDVVNYYKyGbNawp6drxvN3lVm7sp+EQvnE7nBWXxmuut4NP3pee5FdWbitVyG6HgewxUcHZLmcjvc4Smg1j0ziiBxIAYvcgS1Ya5clfWrsOdvmgz7EKQvVWXcybLAffsOoMv340gfE9HC4bGrrq8SRXLo835IzGrLTOiI4Fd7Ne2WoD5+uzwXeuBwoUzlB5/Gvk+6wFlXZQZvrhHo71B9AFnd6xsObLVEuNJnUvpRwofg3ujUYhGZ6TQwAEdNvgYpWsud9HzKCAkCx0NlC0OAhcZ9XzERzGzBtXHnqxJMYLbSlnPTzs0qz8aGM0d0/BHa75Wji/kz6jNLReJVEv+JRiOtmeet7FRB0f8GcjX2nC70pgnyA8nnswaMNJyQwMZuVG8lMsa7aRHhDDyA3XFqClAmETRX6aikr/dc+DM68k8F3Rc3cF6jkIreQ74UgvhTI89DzFA==;LQDa7DOAzmluQSacohAbOA=="
 ---

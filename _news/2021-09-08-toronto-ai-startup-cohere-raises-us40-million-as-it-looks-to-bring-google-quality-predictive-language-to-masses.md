@@ -33,7 +33,7 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-cohere.jpg"
         width: 1280

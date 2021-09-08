@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-Driving Cars Doing The Tango With Those Heroic School Crossing Guards"
-    excerpt: "School crossing guards are daily heroes, and it will be important that self-driving cars can be devised to work hand-in-hand with them."
-    publishedDateTime: 2021-09-03T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/03/self-driving-cars-doing-the-tango-with-those-heroic-school-crossing-guards/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602357e93d2febddf0f0dcb7%2F0x0.jpg%3FcropX1%3D284%26cropX2%3D1632%26cropY1%3D28%26cropY2%3D1091"
-        width: 1200
-        height: 946
-        isCached: true
   - title: "Self-Driving Cars Are Here and the Leaders May Surprise You"
     excerpt: "Self-driving technology has been advancing quickly over the last decade, and there are now a handful of companies operating fully autonomous commercial vehicles in the market. And it may surprise you to find out that Tesla (NASDAQ: TSLA) is not yet one of those launching fully autonomous vehicles,"
     publishedDateTime: 2021-09-07T14:37:00Z

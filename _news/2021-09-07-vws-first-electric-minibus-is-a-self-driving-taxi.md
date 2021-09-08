@@ -9,7 +9,7 @@ ampWebUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-mi
 cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,43 @@ topics:
   - AI
 
 related:
+  - title: "VW’s Self-Driving Partner Closing In on German Public Road Tests"
+    excerpt: "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany."
+    publishedDateTime: 2021-09-05T20:10:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixMLqLHvG858/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Indian, German Scientific Experts To Enhance Cooperation In Artificial Intelligence"
+    excerpt: "AI is a very active research topic, and efforts should be made so that India and Germany can cooperate and augment the cooperation."
+    publishedDateTime: 2021-09-08T05:27:00Z
+    webUrl: "https://analyticsindiamag.com/indian-german-scientific-experts-to-enhance-cooperation-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 35
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Indian-German-Scientific-Experts-To-Enhance-Cooperation-In-Artificial-Intelligence.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
+  - title: "Indian, German experts discuss Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here. Areas such as AI for sustainability,"
+    publishedDateTime: 2021-09-07T22:29:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3815897.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "Self-driving VW ID.Buzz electric vans start testing ahead of commercial service in 2025"
     excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
     publishedDateTime: 2021-09-07T11:00:00Z
