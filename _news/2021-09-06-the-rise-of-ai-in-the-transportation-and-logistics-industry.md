@@ -56,7 +56,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "NSW Transport taps into AI and data analytics to improve road safety"
     excerpt: "A method is being developed using AI to help Australian governments improve how safety standards of highways across the country are assessed."
     publishedDateTime: 2021-09-08T03:13:00Z

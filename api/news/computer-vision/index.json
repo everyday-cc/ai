@@ -568,6 +568,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-02-ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2.md",
+      "title": "Ambarella Analysts Laud Accelerating Computer Vision Momentum Following Blowout Q2",
+      "excerpt": "Morgan Stanley analyst Joseph Moore maintained an Overweight rating and $137 price target for Ambarella shares. Rosenblatt Securities analyst Kevin Cassidy maintained a Buy rating and increased the price target from $145 to $160.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/09/22765442/ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2",
+      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/09/22765442/ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/camera-3376230_1920_0.jpg?width=720",
+          "width": 720,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-meme-stock-alfis-facial-recognition-ad-technology-fans-privacy-concerns.md",
       "title": "Meme Stock Alfi’s Facial Recognition Ad Technology Fans Privacy Concerns",
       "excerpt": "The artificial intelligence software company uses metrics like age and gender to target highly specific ads to people in public places",
@@ -1389,41 +1432,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-south-america-ai-in-computer-vision-market-advancements-with-373-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation.md",
-      "title": "South America AI in Computer Vision Market Advancements with 37.3% of CAGR by 2027 – Intel Corporation,Microsoft Corporation,Nvidia Corporation",
-      "excerpt": "The AI in computer vision market in SAM is expected to grow from US$ 201.59 million in 2019 to US$ 2,443.57 million by 2027; it is estimated to grow at a CAGR of 37.3% from 2020 to 2027. A report added on the Business Market Insights, titled “South ...",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/",
-      "originalUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/?amp=1",
-      "publishedDateTime": "2021-08-25T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

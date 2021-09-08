@@ -71,7 +71,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "Shaping the Future of IT: AI and AIOps"
     excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19."
     publishedDateTime: 2021-09-08T11:07:00Z

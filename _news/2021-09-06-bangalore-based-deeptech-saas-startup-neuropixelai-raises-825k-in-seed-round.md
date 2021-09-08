@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepTech SaaS StartUp Neuropixel.ai Raises $825k in a Seed Round Led by Inflection Point Ventures"
-    excerpt: "Neuropixel Founders The Bengaluru-based startup works at the intersection of Artificial Intelligence and E-Commerce to transform online"
-    publishedDateTime: 2021-09-06T05:37:00Z
-    webUrl: "https://www.indianweb2.com/2021/09/deeptech-saas-startup-neuropixelai.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 24
-    images:
-      - url: "https://1.bp.blogspot.com/-8Q-h3nLXsKM/YTWouV-_H3I/AAAAAAAAEuw/NRQG-zG9InMrbdBKeOxnhhY4O-xALJ-PACLcBGAsYHQ/s16000/Neuropixel%2BFounders.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Deeptech SaaS startup NeuroPixel.AI raises $825k"
     excerpt: "The Bengaluru-based startup works at the intersection of artificial intelligence and e-commerce to transform online fashion storefronts"
     publishedDateTime: 2021-09-06T07:22:00Z
@@ -76,7 +62,7 @@ related:
     provider:
       name: CIOL
       domain: ciol.com
-    quality: 17
+    quality: 19
 
 secured: "bqX6pFJukkWMreE0jBp20iP8FzmwOl6/PP3ajZ9FuPHQINBUdS5gNNrDvsMVqEpIFky7vv9raASP5CFb1jB6AVW/bDano1ECJ5gFm/fPQOM9VARFMAMK4ffL01HVl3OCHew74hsdEQZkfElT6zAILyzy+pxNGc5Nc0kH+vLg5lJZubdavz+yul4t0mXLWosWH31sxIxzv8rae8N4TRSZHYCV7i6iRd7ejYxFvaDeUR8sS58QxEzsj6kPXd4tPX00Lt4Jj4RTQz2fp1U3nVxNMlyPCMo3JGBsURzYFoFgykYE9P0ZZ3dNNIu6wcwBab048OM7ZSS6nNU6qaxVtaSxfBbLSeFzFsYxXWeC53HJHLWhRUcTj0kJAayvRUUiOAN1agNk4tc0KcoZoHYUOzSlL0VISvXf/cRxMJbEJVB9FBKvUZYpo4Y172IJjRjllUCn+NqUf6qHv/kYL5yK9qsHRKY15bkbqZ+WWBdVx5M91/UKr+ekeR4112HzP4BcbsYE0AZFecqdGfFUBPpwV6EZ3g==;nA7fpHRpppg2mwj5LpifkQ=="
 ---

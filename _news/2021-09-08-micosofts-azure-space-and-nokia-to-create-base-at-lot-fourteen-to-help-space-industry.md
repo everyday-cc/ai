@@ -2,24 +2,22 @@
 category: news
 title: "Micosoft’s Azure Space and Nokia to create base at Lot Fourteen to help space industry"
 excerpt: "The growing space industry in South Australia will have the backing of two of the world’s biggest communications’ companies, Microsoft and Nokia."
-publishedDateTime: 2021-09-08T03:30:00Z
-originalUrl: "https://www.adelaidenow.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29"
-webUrl: "https://www.adelaidenow.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29"
-ampWebUrl: "https://www.adelaidenow.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29?amp"
-cdnAmpWebUrl: "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29?amp"
+publishedDateTime: 2021-09-08T10:28:00Z
+originalUrl: "https://www.cairnspost.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29"
+webUrl: "https://www.cairnspost.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29"
 type: article
-quality: 31
-heat: 31
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Adelaide Now
-  domain: adelaidenow.com.au
+  name: The Cairns Post
+  domain: cairnspost.com.au
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "eZuvaw3htMhSPPxF4hRgLl/e86PHW9T7JsjdjGE3UcMHjacGZW8GXj9KQRLyNrYnjXUCQ5d1O9bb3ou3fk4WvqJz/P5yiB/wghbZTuDuRvLhMvdGCcuJXGJh74lh3UUFv2hG7GM7TXOf4yKU8RrQzUeh8uZ9+9BpblkxAxNOrdsrnve7Zanpb1OWDdVlUjimb8t25O9ZjTHhrCHogOcx/66kdSwuBsur/wnzwgYRyytWIIKhHPTglYwahjLRubRLnoFSpUjSeOVql3NjxDbXd6lRZe+Dh7qHMl1uavwTMCdFbhFCXq6u0P0mBwW5F4tU3oxKwDcQD7z8tfAiT2PgOejJf/kphvuFDuM8OMBxs7/pLdzHJIH+JQPY+tQp+j67J1+AV3/nsYYyPROXA1Y8uDuMHp1W3BmAw1e1+vf1C8h7Xeoj3Svl2A7B5uydckY0NcG8Wu+vTRa6FSpMROloiCKX/5yaqFe6dmlOsVnsuokUAKQtO1x/3C6BzxarE37PJsnYuN91BHj4AW2MllUgKg==;TslqZafBLt+SmxNzbBSbEA=="
+secured: "UoCumzkPr0027qwFL0lXsW4CtzSKmJVbn29+yVuudU8mXqVKc4I7khLQuK5CBZgk1mPoe3e36+DPcw+KhlzAjn6C/PNLGlNh/aWcOmSu+Z/Yj3QbSqFyFYtMtoWezy0Z46BVN8vpfaXtKqMWhL4bfyNwz8vmLzUln20C5sdEQfH5HwmEPABi4GTjV/tACFzoL1vN+kvGL1CDwlzuFMXQcm+eVulLDmE/8Il3U0A9SRVr4B786DDPMZORHNx0kN/2cKBKLafUP9mQ5uie4Ts6BPICfU0kOyHwyQWSJ0CKSIsa7H/0A2jbrBO8w1/Zrxoasr9XesXScN5MJlIpTsdfnSzBAZeCxfXL/Y44bW/WL/jS9qUi2tlVMLhqH7sRZ7sKKWDuJgtMKRkWA0wLlinkpUaEEJYSxP0Ggo/2ZqzRxf4g/ywEkBoED6/kKvI1h8HBQOpa3xIn0SioMahmiPFpqZuQkmo0swL50perf+UkKA6W0VfSGqE3+yr/Gfp1bmAnMnAv2GTZq2mG3ObBsIP7YA==;TJOfz1mMf3BCs2fuGtIRGQ=="
 ---
 

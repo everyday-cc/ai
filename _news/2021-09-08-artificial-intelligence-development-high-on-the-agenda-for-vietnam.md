@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-08T16:00:00Z
 originalUrl: "https://investvine.com/artificial-intelligence-development-high-on-the-agenda-for-vietnam/"
 webUrl: "https://investvine.com/artificial-intelligence-development-high-on-the-agenda-for-vietnam/"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i0.wp.com/investvine.com/wp-content/uploads/2021/09/Robot_artificial-intelligence.jpg?fit=850%2C533&ssl=1"

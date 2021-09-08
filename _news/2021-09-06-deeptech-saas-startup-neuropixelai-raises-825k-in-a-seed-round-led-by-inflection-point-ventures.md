@@ -24,59 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Deeptech SaaS startup NeuroPixel.AI raises $825k in Seed round led by Inflection Point Ventures"
-    excerpt: "Deeptech SaaS startup NeuroPixel.AI has raised $825k in a Seed round led by Inflection Point Ventures, angel investment platform. Other investors in the round include Entrepreneur First, Huddle, Dexter Angels, and Rishaad Currimjee. The funds raised will ..."
-    publishedDateTime: 2021-09-06T05:58:00Z
-    webUrl: "https://www.freepressjournal.in/business/deeptech-saas-startup-neuropixelai-raises-825k-in-seed-round-led-by-inflection-point-ventures"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/deeptech-saas-startup-neuropixelai-raises-825k-in-seed-round-led-by-inflection-point-ventures"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/deeptech-saas-startup-neuropixelai-raises-825k-in-seed-round-led-by-inflection-point-ventures"
+  - title: "AI-driven voice assistant PolyAI raises $14M round led by Khosla Ventures"
+    excerpt: "Conversational AI” startup PolyAI, based out of London, has raised $14 million in a funding round led by Silicon Valley’s Khosla Ventures, with participation from existing investors (Point72 Ventures,"
+    publishedDateTime: 2021-09-08T21:24:00Z
+    webUrl: "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/"
+    ampWebUrl: "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/amp/"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 45
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
     images:
-      - url: "https://images.assettype.com/freepressjournal/2021-09/536fce07-0ba1-4972-9277-628efd990b34/Neuropixel_Founders.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 630
+      - url: "https://i.ytimg.com/vi/tZTO_-nWRHM/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "Inflection Point Ventures leads seed round in NeuroPixel.AI"
-    excerpt: "Deeptech SaaS startup focused on apparel cataloging, NeuroPixel.AI has raised $825k in its seed round led by Inflection Point Ventures."
-    publishedDateTime: 2021-09-06T09:56:00Z
-    webUrl: "https://entrackr.com/2021/09/inflection-point-ventures-leads-seed-round-in-neuropixel-ai/"
-    type: article
-    provider:
-      name: entrackr
-      domain: entrackr.com
-    quality: 37
-    images:
-      - url: "https://entrackr.com/wp-content/uploads/2021/09/Neuro-pixel.ai_.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Bangalore-Based Deeptech SaaS Startup NeuroPixel.AI Raises $825k In Seed Round"
-    excerpt: "The funds raised will be used for scaling up their R&D team to accelerate the transition of their product from beta to production."
-    publishedDateTime: 2021-09-06T06:45:00Z
-    webUrl: "https://analyticsindiamag.com/bangalore-based-deeptech-saas-startup-neuropixel-ai-raises-825k-in-seed-round/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Bangalore-Based-Deeptech-SaaS-Startup-NeuroPixel.AI-Raises-825k-In-Seed-Round.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "Deeptech SaaS startup NeuroPixel.AI raises $825k"
-    excerpt: "The Bengaluru-based startup works at the intersection of artificial intelligence and e-commerce to transform online fashion storefronts"
-    publishedDateTime: 2021-09-06T07:22:00Z
-    webUrl: "https://www.ciol.com/deeptech-saas-startup-neuropixel-ai-raises-825k/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 17
 
 secured: "GkLLddAuyhujl+hDFlPBh6iAu1C9Cjn6+aQOdvlaKCOPZnWC5c5cpYqe7Sgo9atUmHXP7EK3Jz3Y+jGtBAxUhRwnDbFxj76V6oNzMn0BzoH/GDBLV8bxU61SyTe2ZARODsMpwBfZHj8dAJ2Haqs64htpXKPjcbGtdt27o2fyMjf2gZa8yBH0/AUfipKcSvjs0adLyRSVGupXOcDSn3r27QwhWyk4RDpkmAAukSAO0SL51jdNBB+6Tgm67z6S4d467lHLcPALVFC9llONc9s4Ra8fR8+U3tjlRUxCm83ci7rsg0G5bQ7obTgxkA3kqLoXBK3Ka1GQkzNFsecaTnb3L6wPju6q3OIUeUj27px4WiQ6KSS2DLg3uO1mgc7DYna7adH02lUBSfHGABCE6LNuPp4E56aq4CihqudMFaFkkNOdo+qqtz2raCmERSY8M/jexSNTWwiJ/jW0GCAb1Pe5f2wbmsjRzhAV1bcSBtUrfcYsGGS8WkZ9Ik0bI1/w3E5G3cBtcjzlUpkwm1rI4OnAuw==;ngY/Jm8M4mNOlPJu0mODRw=="
 ---

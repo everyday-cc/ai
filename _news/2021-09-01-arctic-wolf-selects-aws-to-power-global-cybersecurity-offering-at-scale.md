@@ -1,45 +1,26 @@
 ---
 category: news
 title: "Arctic Wolf Selects AWS to Power Global Cybersecurity Offering at Scale"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that Arctic Wolf Networks has selected AWS as its primary cloud provider to power the company's innovative, cloud-native security operations platform."
-publishedDateTime: 2021-09-01T13:18:00Z
-originalUrl: "https://www.lelezard.com/en/news-19977858.html"
-webUrl: "https://www.lelezard.com/en/news-19977858.html"
+excerpt: "(NASDAQ: AMZN), announced that Arctic Wolf Networks has selected AWS as its primary cloud provider to power the company’s innovative, cloud-native security operations platform. Arctic Wolf is one of the leading cybersecurity technology innovators in the world."
+publishedDateTime: 2021-09-01T13:01:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/arctic-wolf-selects-aws-to-power-global-cybersecurity-offering-at-scale/article_4cf118d5-9fc8-58d7-ac8f-5b718df04d63.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/arctic-wolf-selects-aws-to-power-global-cybersecurity-offering-at-scale/article_4cf118d5-9fc8-58d7-ac8f-5b718df04d63.html"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "Top Positive and Negative Impacts of AI & ML on Cybersecurity"
-    excerpt: "You might have heard only praise and good things about AI and ML, but that does not mean that they cannot become a bitter enemy to humanity. AI & ML are advanced technologies bound to function under the administrator’s command."
-    publishedDateTime: 2021-09-03T17:04:00Z
-    webUrl: "https://customerthink.com/top-positive-and-negative-impacts-of-ai-ml-on-cybersecurity/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 54
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/security-265130_1280-tech-pixabay.jpg"
-        width: 1279
-        height: 720
-        isCached: true
-
-secured: "cD1DBR6VemJ2blRFXtwv5cvzJNNZGnRIpAAMK6cI1/76lyvfYwDEkqMAy0jVGhGtjtsk/2xQ2yE3TdrCf4AKmaVDEON6CHyAuN48gbNFmRC7JvFMJvJHJz0KZh0s9jLbykZWgMFKv0rhsNgqkj0y6KVPWuPMABj9Qx8/K6o9zwKjBpslwCi4Rp6GSRgj5dvlvH1TGv+lFZoMYCFjiz5heyDz7IIfQD0OxoeeoSL72mzZUPzs+LT41m5tgPlHD3jsZyPEE8mGe0gEG1lqvcL53ZnusLIr8lviNSdqNzprdXl3DaESaSvR/6DDazaZiVkIyGg4XDIO4xG2X9X+WzvB2fRBTB5IYqMU0bWSaznbOEc=;kE/JXB/vd96e+enukgf3zw=="
+secured: "l5eSjmGn9sxAQOXwdtkxFm9pW/lZhVcOe0zx7Gv4PTUyEI3KY4RyL1M/R5EdYuUIoZ/Q+Toa3l7jOdKa+R8ztZjO8sgJVh5zGWftFKHxNFqQ58cHPOUCLj9WH6yhlaE40Lhmz/01uQ2YpI5AyIKZsLGCLcYGx1BgjAozCXvlJhJ4IcoDd9snPDiYzfr+pBbZEzjrucv5t5WUcDU4XtiY24T659PwTkqvjWxdoXSBZ6Buk5CcnhkHDPK4r/kGwcFJPvdkmFDmPqXdUCPmnfXIYL8NoSE5AoShSYwKkLp5yopSsIcXGAgYMWXzQ5pRE04kYpCCWahRg3crahsyMQH71Um41WA6MLsc3AGNRpeQzOk=;BdPsL9pSuGKNrk9auiT0BQ=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Psaki says Taliban government hasn’t earned recognition by global community"
+    excerpt: "White House press secretary Jen Psaki on Wednesday declined to say if the U.S. would validate Afghanistan’s Taliban government, saying it hasn’t earned the respect of the global community."
+    publishedDateTime: 2021-09-08T21:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/8/psaki-says-taliban-government-hasnt-earned-recogni/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/8/psaki-says-taliban-government-hasnt-earned-recogni/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/8/psaki-says-taliban-government-hasnt-earned-recogni/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 42
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/08/Biden_38971.jpg-ef9a3_c0-400-5117-3384_s1200x700.jpg?3d58a1d4722dcf534bcd07ff2d2b1a5edf6edab0"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "qg26ZmHOIU9B1oHON5kNTRNkHIbSit4M4mI3vtvEUbJhRKIJIouneJcNGz+CCTr57Mjadb1xwAdVyfThZ7zrAKmK/AF3tuZ7VizsjkNZ4yzweoJKHc1rI/AmcJ1vOJBz0aTbfPxE1dKLqhU24Tkn5Y5x0Wn/6kSpVuuiYs8OcyfxHuOPTg1/l9uK529Dd+dqjHBbEQB4tiTckjcgCicYrMi+PyXIQFXBcq0YiLQRafk3BBoWbs8KPOZftN8Jq4ykVeDr9TQENN/wtaMRTtnILxgkKp/Qm26kTqLIcVvP0Gmefg5ueiX8edo8ysSeWCyhj0VFynKTv4wDiOjOgoEADIriTtbXm21AMWRNwdUjDdYrOxuvgv+HYSQaFe/ec//Z0Vl8BeU6ksch+Xe1vyDZTdJfWQJoQgwSsqSILKDGbtpeAOAlZFODHNXvDjs8xyq3T0+7i2YYLYLd4YlPqCJe8MMJQ3GMF5SxufFduHSKVFo9Ko+4p8t9MEGx6ny6ayKGelDxnjYLh8CtDNR/X/nN7Q==;Iiz368L28aWHkORM2Gy8zg=="
 ---

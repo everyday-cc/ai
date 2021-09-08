@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Psaki says Taliban government hasn’t earned recognition by global community"
+    excerpt: "White House press secretary Jen Psaki on Wednesday declined to say if the U.S. would validate Afghanistan’s Taliban government, saying it hasn’t earned the respect of the global community."
+    publishedDateTime: 2021-09-08T21:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/sep/8/psaki-says-taliban-government-hasnt-earned-recogni/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/sep/8/psaki-says-taliban-government-hasnt-earned-recogni/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/sep/8/psaki-says-taliban-government-hasnt-earned-recogni/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 42
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/09/08/Biden_38971.jpg-ef9a3_c0-400-5117-3384_s1200x700.jpg?3d58a1d4722dcf534bcd07ff2d2b1a5edf6edab0"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Pak ISI and Chinese proximity to Taliban, queer Quad pitch for Kabul recognition"
     excerpt: "The role played by Pak and UK in cutting out a deal with the Taliban has been noted by India, which is concerned about the group’s projection as a beacon for Sunni Islam."
     publishedDateTime: 2021-09-07T07:36:00Z

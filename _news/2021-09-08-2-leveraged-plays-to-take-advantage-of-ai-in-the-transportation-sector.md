@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-
 ampWebUrl: "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "The Rise Of AI In The Transportation And Logistics Industry"

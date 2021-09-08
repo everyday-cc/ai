@@ -43,6 +43,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Audi’s Grand Sphere Concept is a Luxurious, Roomy Self-Driving Sedan"
+    excerpt: "Audi is unveiling a trio of “Sphere” concept cars that show the company’s future interpretation of electrification and sustainability. The German carmaker already has the Sky Sphere, which is a sleek roadster that can change size and become an autonomous Grand Tourer (with a steering wheel that folds away)."
+    publishedDateTime: 2021-09-08T21:52:00Z
+    webUrl: "https://www.barrons.com/articles/audis-grand-sphere-concept-is-a-luxurious-roomy-self-driving-sedan-01631137976"
+    ampWebUrl: "https://www.barrons.com/amp/articles/audis-grand-sphere-concept-is-a-luxurious-roomy-self-driving-sedan-01631137976"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/audis-grand-sphere-concept-is-a-luxurious-roomy-self-driving-sedan-01631137976"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-397923/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "ztRpXFHZHO5thQ2NIDuwlvbH6EULi+ho+D5p9C87D0aCDYuE7sIJG6T0rC8wXJPdXOlPgjpC7uxzSl39m4fxGLAVfqs6NiMtrVTRZ1FRZddVwxqRVG+fxnsJZaey8bWkCgHqG1C656iE95UVC8MlnYh8uca2sp/3fuUrrdK8im7rmzNLauelZJw9QzA4WsB0MweEM197bQDIi6cy1m7M47BvtS6AW3tr2SwVMEvKkBdM2wpz8vQwb5e4Wojy7cgjgB0fwLA9GfgzH0CMqiv226X61vm7bVYCqjt89UO9Zk64ANiAu2fYqVQ7DR6q5g1imRK44I7zjWBiYLcnp+tGhBEwaQWJcZiK4OpiOKSYQqU=;5KeuTq5adnVDJ5Ox45EtGQ=="
 ---

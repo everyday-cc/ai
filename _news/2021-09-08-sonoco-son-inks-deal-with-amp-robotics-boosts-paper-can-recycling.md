@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-roboti
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08?amp"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/2/2017/09/main-155.jpg"
         width: 472
         height: 354
+        isCached: true
+  - title: "Amp Robotics partners with Sonoco to recycle paper cans"
+    excerpt: "Sonoco, a packaging manufacturer based in Hartsville, South Carolina, has formed a partnership with Amp Robotics, an artificial intelligence (AI) and robotics manufacturer for the waste and recycling industry that’s based in Denver."
+    publishedDateTime: 2021-09-08T21:22:00Z
+    webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-partners-with-sonoco/"
+    type: article
+    provider:
+      name: Waste Today
+      domain: wastetodaymagazine.com
+    quality: 54
+    images:
+      - url: "http://www.wastetodaymagazine.com/fileuploads/image/2021/09/08/ThinkstockPhotos-505620793-merger-puzzle-pieces.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
         isCached: true
 
 secured: "IU2mg/kLUiePGRNp/B8cInAU4KBMfhMBgKNxQcOvfR/Ha6e6ofg1eIa2QEixT6x3qZBrYEPtPCM73p6F4iUTkzkLiuZKwll389eLTO7Um0JUuNKdfzKFbsmkWmPqBDyukRAjyN4r/5m35geQeaSEysiAphb9M2qZ8xhNdTGE/FKXjiWN6i3UGy+K7R3UMyTWVPGak1KmrQ0lDEN8LAAzFc4Tx507Q6zch2pt7gniWtH1SGSPO0qU3NjwDWIRESaFubzg9xYsYwkQb+dOqDXxwQM9lE4xfr3J+lWTKKzoHg3VxoEyRauCblu+kz0UTh7urG2T6ONi7GU4LEgSOdE7TAU83mdsUqb1xe1e5glxIFg=;VSp2wIihjpWe0sLgO2/HEg=="

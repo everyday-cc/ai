@@ -36,7 +36,7 @@ related:
     provider:
       name: techbooky.com
       domain: techbooky.com
-    quality: 61
+    quality: 78
     images:
       - url: "https://techbooky.com/wp-content/uploads/2021/09/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg"
         width: 2122

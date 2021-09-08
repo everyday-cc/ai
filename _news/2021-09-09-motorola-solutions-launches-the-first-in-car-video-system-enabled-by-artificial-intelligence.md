@@ -3,8 +3,8 @@ category: news
 title: "Motorola Solutions Launches the First In-Car Video System Enabled by Artificial Intelligence"
 excerpt: "Motorola Solutions today introduced the first AI-enabled in-car video system for law enforcement, the M500. The solution is bringing more powerful capabilities to the police vehicle to enhance awareness and safety while building trust and transparency throughout communities."
 publishedDateTime: 2021-09-08T18:16:00Z
-originalUrl: "https://www.newswiretoday.com/news/176159/"
-webUrl: "https://www.newswiretoday.com/news/176159/"
+originalUrl: "https://www.newswiretoday.com/news/176159/Motorola-Solutions-Launches-the-First-In-Car-Video-System-Enabled-by-Artificial-Intelligence/"
+webUrl: "https://www.newswiretoday.com/news/176159/Motorola-Solutions-Launches-the-First-In-Car-Video-System-Enabled-by-Artificial-Intelligence/"
 type: article
 quality: 6
 heat: -1
@@ -33,6 +33,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eRooOKNK1RvcHVq/BGQUSEPrON3+IZd3Gw0C1N89QMVj0rpqQ/qsGyikfalB0kkLadHNyRHVFns42gBhwdpjPzfH7l2YBbubXYashKPUD5xnS14mkgQg2KFW7i3gE8j+HUL2YH28cHRuz/cPiStJfNoqGlYBD6J3JDOAFJsC3bFnoE5IP0BUFoLvGt9XnnS5wHhEKess6Ahw6ZpcvBBkA9yxZ/UDkjjrY405/B30KgWSp15NqgH8+0lN68RNVlVVsU/yhwggFwZlv3jkQe1LD78nUnbX+Sj+aSvdMuokpcMSSZc9gxWRuar7YJs+i1eLdpXAxpUGpRuUxb0KaisbzH4eS3VVkGDBYW7ptTYayvZeCqIcQUd9HtB+6QJuCSQpzvhlo3qmVhix2J5hVbPU2W+oKPyRslEF6xEkYxDsCb/v9K/hms9vPeqfAf66zYuCI25i3U5dC+smoJ9At15yBqqP6PH+UvnU5VeSCPMRum5U2f4ef/flMobNzWTEISQHpjfgsKAzUTTLSY9/hgzqpg==;PLbW7zFdwWKgbb8FotH/TQ=="
+secured: "jCxDykmzKgV4xAn1WF2qT3K+qY23tuXHxSUUp2VJDGlyprETE8CXTYZqxWeQH/fTs0KH/NSRo5PqzMcpA6ayOa0rSQ0anHafkzkBqxtz+8N2k3NW2aG7rzB3I25t+xI+SciRRaMsf9vUGB/SBTg64jnpWe6Qoj9v0enxmQDS1Sdq2APAWQPvr/gkG6XghPpyzI5J1kS0pLa8IN6vGGor2JqOf1boc9zijtLgmWAJWgbQyZaallBDpLIHwq3z8cULXUjkphZJtv/hIm2BP/WGHw0o+sB1NI+dZPCIMiWkco42N7eWP/1XikuLsN1yXF7q3LhebVOFboUnbSziPY59fl7HoucSnRiia5NBkIVdxJPTbYyqPHUXPrbB7vd5O9Pn1xKFSa6rw9WzuhFPSQAmSHgbeoK8ZnAkdhFyn7n5afb1zn3bSY42wGmFoxZEGzBABBTohpuS4x2V+wQOS69BGIxmLK2XNNaO92H9iE8R2NC34p5TLkc01gTbjQF0V/0Vi8Yf+QHqHxD4+OhEy+iJ4A==;8kTuVVq1Lcu6eRmWEr07Jw=="
 ---
 

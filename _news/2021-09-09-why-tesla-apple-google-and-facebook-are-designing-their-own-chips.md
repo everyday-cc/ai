@@ -8,8 +8,8 @@ webUrl: "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing
 ampWebUrl: "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1"
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1"
 type: article
-quality: 61
-heat: 81
+quality: 78
+heat: 98
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Facebook AI
   - AI
   - AI in Autos
+  - AI Hardware
 
 images:
   - url: "https://techbooky.com/wp-content/uploads/2021/09/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg"
@@ -57,6 +58,6 @@ related:
         height: 576
         isCached: true
 
-secured: "hJFj9PQdJiU5QvOWJlmG64Hc9VUMgee7ebghKSWxVPAG0Yjmqnici+Zy6vXr09pjxQpa9ZrENclEMcZICOP+ogqpS8Cn2Z66X0Jx5MsJgup6GappHjvc0n+3dAti7xxSZK+jwxdPaNeM4FdWuwJqfdLvm5+ZhaBc2jWy2r7RaQG3qUrn2JCRAXVO3tO8yumHb3SVHWFiqxAyN3MeW22TsKzyoHaJ7vNIVWl96/+N32WxcX1th8+RXj4i087IeB0foLYgjHid86cVDkaSuHTJCnbCyCYAJbDokyOhHPeLtNL/d4mx552MugIcOWUGIZdAkuSWYnC1KKnr3XCPYeqW2ZKyznxfUfirV/bw3qWTiUs=;1rU8VcOvxOyoT95oDOHLYA=="
+secured: "rKwpag7IomfubCYhtSwNldeoujmL64+uRHOrDzcf+nnGxBxiDoBGAQd+ZRONEPx/JkNc6gzSnUE5lEzVz9LdvXrvvBxeXT8BCdbzLpXwSFQf8CFx5cTvr/EwI5RJZIg2rx2nrQrYIO2J5ShINgUrRVdGBsJBlgeW9xKGKgtHWzLMwmpGGojZhO4Yxjk43Nl9lfjc3lF8AeZ931bLM+kzWdTrX49mhbz0WUGbr5ftiOYlUR+ICcQG3DWSs0x15j0AS8RWDHg6zR4gTfGE54zbStdGRZJAu7fOndj6uy3DPnas+aABu3UdHwc9IOXZHQobLFfyPb3Wpb7KmOq8kGHBF3wXtOkyjxpOU0JZs17ygMg9ciSyulQj/tr4ArlKDoDsP9XsiSI+yjixZN5rIa0J6F7R8PTEUhqtw3jOuPInLaZWg4atcDbYZNheT/0EGY6dScv+PJ8OimAVfyX96pNi9m6pwO4eJNKrCxAc0+OmU3H3rikjgmKWl1TTr92ZoVKAm0P5H6YCSHYnx/1ZCRHYbQ==;+LIl0LkRuLnCczaJ+emRhA=="
 ---
 

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Black men identified as \"Primates\" by Facebook's not so intelligent AI"
-    excerpt: "Facebook's AI mistook black men for \"Primates\" in a video on the social media's site. The company has apologized for this \"unacceptable error\" and has acknowledged the tech still needs more work."
-    publishedDateTime: 2021-09-04T03:56:00Z
-    webUrl: "https://www.neowin.net/news/black-men-identified-as-primates-by-facebooks-not-so-intelligent-ai/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 69
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/09/1630734292_black_man_primate_daily_mail_video_(source-_ny_times)_16_by_9_sharpened_story.jpg"
-        width: 760
-        height: 1263
-        isCached: true
   - title: "Facebook AI mislabels video of Black men as 'Primates' content"
     excerpt: "Users who watched a video posted by Daily Mail featuring Black men saw a prompt asking them if they'd like to \"[k]eep seeing videos about Primates.\"."
     publishedDateTime: 2021-09-04T06:17:00Z
@@ -149,6 +135,22 @@ related:
       - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2021/09/ba9b2841e7154d13bda18e8455df89e7.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Facebook accused of discrimination after mechanic and pilot jobs targeted at men"
+    excerpt: "Facebook has been accused of breaching equality laws after its technology was found to favour men when targeting job adverts for male-dominated roles such as mechanics and pilots. The campaign group Global Witness has filed complaints with the Equality and Human Rights Commission (EHRC) and Information Commissioner,"
+    publishedDateTime: 2021-09-08T21:00:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/"
+    ampWebUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 39
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2021/09/08/bailey_trans_NvBQzQNjv4Bq3tjbT9f-vQVs0nBY2CgX4Kcvn4zc4kZ_kIejuHS7L_8.PNG"
+        width: 502
+        height: 314
         isCached: true
   - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
     excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI startup Cohere raises US$40-million for natural language software: Globe and Mail"
+    excerpt: "Cohere Inc., an AI startup co-founded by University of Toronto alumni and backed by some of the university’s most recognized AI luminaries, has raised US$40 million as it readies the launch of technology that could revolutionize how humans converse with machines,"
+    publishedDateTime: 2021-09-08T21:01:00Z
+    webUrl: "https://www.utoronto.ca/news/ai-startup-cohere-raises-us40-million-natural-language-software-globe-and-mail"
+    type: article
+    provider:
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 32
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/IMG_4780-crop.jpg?170241"
+        width: 1140
+        height: 760
+        isCached: true
   - title: "Toronto AI startup Cohere raises US$40-million as it looks to bring Google-quality predictive language to masses"
     excerpt: "Backed by some of the leading experts in the field, AI startup Cohere is preparing to formally launch its technology to help make it easier for humans to talk to machines"
     publishedDateTime: 2021-09-07T17:05:00Z

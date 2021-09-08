@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-16-optical-adversarial-attack-can-change-the-meaning-of-road-signs.md",
+      "title": "Optical Adversarial Attack Can Change the Meaning of Road Signs",
+      "excerpt": "Researchers in the US have developed an adversarial attack against the ability of machine learning systems to correctly interpret what they see – including mission-critical items such as road signs – by shining patterned light onto real world objects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/",
+      "originalUrl": "https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-0_YWBTiB/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/08/OPAD-main.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-object-recognition-and-localization.md",
       "title": "Object recognition and localization",
       "excerpt": "On the EDAN robotic system, we use a combined color and depth camera to sense the environment. A deep-learning based object recognizer first detects all relevant objects in the robot's environment. Then, the position of the object is determined by a ...",
@@ -1263,49 +1306,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-bc-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software.md",
-      "title": "B.C. privacy watchdog investigating federal Liberals over facial recognition software",
-      "excerpt": "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association.",
-      "sourceUrl": null,
-      "webUrl": "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software",
-      "originalUrl": "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/",
-      "cdnAmpWebUrl": "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/",
-      "publishedDateTime": "2021-08-06T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windsor Star",
-        "domain": "windsorstar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

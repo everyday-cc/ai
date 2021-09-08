@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/09/08/vie
 webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/09/08/vietnam-accelerates-investment-in-artificial-intelligence"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: Investvine
       domain: investvine.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://i0.wp.com/investvine.com/wp-content/uploads/2021/09/Robot_artificial-intelligence.jpg?fit=850%2C533&ssl=1"
         width: 850

@@ -27,7 +27,7 @@ related:
   - title: "Motorola Solutions Launches the First In-Car Video System Enabled by Artificial Intelligence"
     excerpt: "Motorola Solutions today introduced the first AI-enabled in-car video system for law enforcement, the M500. The solution is bringing more powerful capabilities to the police vehicle to enhance awareness and safety while building trust and transparency throughout communities."
     publishedDateTime: 2021-09-08T18:16:00Z
-    webUrl: "https://www.newswiretoday.com/news/176159/"
+    webUrl: "https://www.newswiretoday.com/news/176159/Motorola-Solutions-Launches-the-First-In-Car-Video-System-Enabled-by-Artificial-Intelligence/"
     type: article
     provider:
       name: Newswire Today

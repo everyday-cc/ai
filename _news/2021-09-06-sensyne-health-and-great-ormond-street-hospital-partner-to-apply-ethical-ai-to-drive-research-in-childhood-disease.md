@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Sensyne Health and Great Ormond Street Hospital partner to apply ethical AI to drive research in childhood disease"
-excerpt: "Recent developments in Clinical AI and the use of real world data provide an opportunity ... a research platform hosted on Microsoft Azure Cloud which will facilitate safe, efficient data processing by Sensyne and enable immediate commencement of research."
-publishedDateTime: 2021-09-06T09:36:00Z
-originalUrl: "https://www.pharmiweb.com/pwtoday-story/sensyne-health-and-great-ormond-street-hospital-partner-to-apply-ethical-ai-to-drive-research-in-childhood-disease"
-webUrl: "https://www.pharmiweb.com/pwtoday-story/sensyne-health-and-great-ormond-street-hospital-partner-to-apply-ethical-ai-to-drive-research-in-childhood-disease"
+excerpt: "Sensyne Health plc (LSE: SENS) (“Sensyne” or the “Company” or the “Group”), the ethical Clinical AI company, today announces it has signed a five year non-exclusive Strategic Research Agreement (SRA) with Great Ormond Street Hospital for Children NHS Foundation Trust (“GOSH”) to analyse"
+publishedDateTime: 2021-09-06T08:56:00Z
+originalUrl: "https://www.pharmiweb.com/press-release/2021-09-06/sensyne-health-and-great-ormond-street-hospital-partner-to-apply-ethical-ai-to-drive-research-in-childhood-disease"
+webUrl: "https://www.pharmiweb.com/press-release/2021-09-06/sensyne-health-and-great-ormond-street-hospital-partner-to-apply-ethical-ai-to-drive-research-in-childhood-disease"
 type: article
 quality: 34
 heat: 34
@@ -20,11 +20,11 @@ topics:
   - AI Ethics
 
 images:
-  - url: "https://cdn.pharmiweb.com/media/13252/sensyne_300x400.jpg"
-    width: 300
-    height: 400
+  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+    width: 1200
+    height: 448
     isCached: true
 
-secured: "1mqJsksAmt0g4hu+vjnMdnLmnWu16qA5LUT6UjHT60VcpKRe0ys8r+qygzF0MGNFTnRc6R07bixQYgOl4sgQtkNUTuCf4wiEl3Rhc3lYHFCGgxYEkJ9gsfqqTdBYS3u48glnVkQLE+fqPskSvk/vzT31oucRyDZpjS8hWOdMp4dOD9JSsDlj48edDcbOJUZ78ZfT+lF7/PT3l669UMmAymEI443v3N4jjOssadi1YTiL28uuPot6r/jqFp9Lh0QSokAuxOz6Azc/K04gMOjQWgLzf70dHmMAb3UA1JmOZYL6amHqRNYmspHwpCtU29RhVM702lRerP5LCB3NypDZ/CTA84Jek0rmAZc/HySQQv2WVJoYFoYq9yWIy8T5/bNK60/SEmWE5fQ92nUSxUCKtOFBCRWlHuhx7WnUGylFMNSnO+kDxQ/1bVNKSqjhm0VJNctoToIkabaRb5sF2UZ/FU6x/ipycPTF7UYVX6/NA+orNxntdqQ4RM4ALI+04vyE1/kd/ajSEweu4iaeOoBhyw==;THbLFPG44STPC29WzIDIIQ=="
+secured: "g91gl+evrErjqKiXZUlXj2+3kOfl4jjH5Nl5FnRwSYyZ9CmCrj7ktcX0TZ12sc1rfTLCzeubpJsfIPsTNAKnJikVFH0K449O+PKudNEVa8Q+mc8MgXPF/rB8vOeZwak7d8nEkg3NexAM+U7z9zQk0bQOHClnTcZbjF7ARTsB2WgNMPcQHDc/mkO5csL3bFa8Mn/juutiCjNxF3pke94OOginN6QTMmRLwJfulNqnFMtePIZdJgimMQ3OZoEOQJ33ajUYXp679ee7vzElr8u/YJO/re9Ui15ZH5cWh8Uiq4pFVOyhfniwybZCeZ0wFVVFYi+qUVQO49Qt0PQwBo6zB9HSCGZdWSGTRPNptBWecfY=;6JcRhFl09r1aJxrt83pU/g=="
 ---
 
