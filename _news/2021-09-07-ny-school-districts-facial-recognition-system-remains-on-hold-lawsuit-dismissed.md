@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Parents' lawsuit over Lockport facial recognition system ends"
-    excerpt: "A judge said the approval was invalidated when former Gov. Andrew M. Cuomo signed a law in December 2020 banning the use of facial recognition technology in schools."
-    publishedDateTime: 2021-09-03T19:15:00Z
-    webUrl: "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html"
-    ampWebUrl: "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html"
-    cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/45/f4555f2d-8ce6-550b-82e9-417e781ab8b7/5ef133e01db3f.image.jpg?resize=1024%2C759"
-        width: 1024
-        height: 759
-        isCached: true
   - title: "School facial recognition-related lawsuit ended"
     excerpt: "A lawsuit brought by New York Civil Liberties Union last year to prevent Lockport City School District from operating its facial recognition-capable camera surveillance system was made moot by a"
     publishedDateTime: 2021-09-06T19:04:00Z
@@ -57,19 +41,33 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Lawsuit over face biometrics in school security system ruled no longer relevant"
-    excerpt: "A state law signed in December 2020 invalidated the approval of Lockport School District’s face biometrics system by the state Education Department."
-    publishedDateTime: 2021-09-07T16:45:00Z
-    webUrl: "https://www.biometricupdate.com/202109/lawsuit-over-face-biometrics-in-school-security-system-ruled-no-longer-relevant"
+  - title: "Use of body cams, facial recognition for retailer mulled after NZ attack"
+    excerpt: "Suggestions to equip employees with body cams and utilising facial recognition technology have begun floating around in the wake of Friday's attack at an Auckland supermarket, leaving six people stabbed and suspect Ahamed Aathill Mohamed Samsudeen dead."
+    publishedDateTime: 2021-09-07T17:13:00Z
+    webUrl: "https://www.hcamag.com/nz/specialisation/employment-law/use-of-body-cams-facial-recognition-for-retailer-mulled-after-nz-attack/309227"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 53
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/037/0308_637666316280574728.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Image-modifying attacks can be foiled, making facial recognition more reliable — researchers"
+    excerpt: "The researchers were looking for methods of improving gradient regularization in neural network defense that would minimize training computational complexity."
+    publishedDateTime: 2021-09-07T18:47:00Z
+    webUrl: "https://www.biometricupdate.com/202109/image-modifying-attacks-can-be-foiled-making-facial-recognition-more-reliable-researchers"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 37
+    quality: 28
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "KTOBS/YuQYy0u8z0hGbIvChfyRJ8TmMCVxW5Z6jIT/QilDKDSv2GYOYHeUdhLM9oZR7ZQaeGSOD0m3HnixLAjG2o7bH+eQYPwJ6Kacys6R0J5YTiRDFYj/Wxtf+XWaGaIGWAnchiPf4HxBxdsotMWI1jX5JAme4iddZ4zrJWR41FzqsyYQpvaIyxsxngBgtVNbdaRfnW0ijaWxj3iPwjXs7EOeB/7Gr3TL0gzgb+3ueCKwUWlzLL1KPT8acb6BtJeQ6MSlDOBmPkKTY7jdKcNxHXCcW1g3Mrmkv6PAOH3bnD2gIOUmoEeNbSZ86oAnmuVQtHRgpspEY61mXxwNEDj35/qrFQMTwAtRkrU1NyuUQ3N+CIBxgawUs4wZ0EueQi6Bjj0ZmevdkIshhpmnUnZibAqgArBCqjqwrmq1Gpn6RMIR2f/hCtpwRS/uu2kG6Kh6ywaA1n3GT2LW0RS/+Z9M3qrizOJjrCBv4BF/cLV3uJeDZM+N8zMOnFwf5jbq1TWjyRd3euHurvlFNicJm2tg==;jylM/Y/2tWdFrBYHO4ZJzw=="

@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI and Volkswagen show off self-driving vehicle"
-    excerpt: "Argo AI -- the autonomous car venture backed by Volkswagen and Ford -- is gearing up for the 2021 IAA Mobility event in Munich, where it"
-    publishedDateTime: 2021-09-06T14:29:00Z
-    webUrl: "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html"
+  - title: "VW will deploy Argo AI-powered autonomous ID.Buzz vans"
+    excerpt: "Volkswagen announced it will begin testing self-driving, ID.Buzz-based electric shuttles in 2025. Powered by Argo AI, a Pittsburgh-based company the firm holds a stake in, the vans will begin carrying users in Hamburg."
+    publishedDateTime: 2021-09-07T14:12:03Z
+    webUrl: "https://www.autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
+      name: autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/
+      domain: autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/
+    quality: 157
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-06-image-11.jpg"
-        width: 3600
-        height: 2400
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/09/06001634/volkswagen-argo-ai-id-buzz-4.jpg"
+        width: 1062
+        height: 597
         isCached: true
   - title: "Argo AI puts a high-tech spin on Volkswagen’s retro ID.Buzz van"
     excerpt: "Volkswagen will deploy an autonomous version of the electric ID.Buzz van powered by Argo AI's driverless technology."
@@ -62,22 +62,6 @@ related:
       - url: "https://icdn.digitaltrends.com/image/digitaltrends/volkswagen-argo-ai-id-buzz-5.jpg"
         width: 1500
         height: 987
-        isCached: true
-  - title: "Volkswagen, Argo AI Ready Electric Robotaxi Vans For German Test Fleet"
-    excerpt: "The autonomous driving startup's technology is to be part of a commercial robotaxi service in Hamburg operated by MOIA in 2025."
-    publishedDateTime: 2021-09-05T19:00:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61350e3e1665d8968e63a481%2F0x0.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Volkswagen and Argo AI reveal first ID Buzz test vehicle for autonomous driving"
     excerpt: "Volkswagen Commercial Vehicles, a standalone VW brand responsible for the development and sales of light commercial vehicles, and Argo AI, an autonomous driving technology company, unveiled the first version of the ID Buzz AD (Autonomous Driving) on Sunday."
@@ -109,45 +93,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Volkswagen ID.Buzz self-driving prototype forging ahead with public road testing"
-    excerpt: "Volkswagen has teamed up with Argo AI to develop the autonomous ID.Buzz electric vehicle..Volkswagen ID.Buzz self-driving prototype will be showcased at the 2021 IAA Munich auto show."
-    publishedDateTime: 2021-09-06T09:12:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing-41630912480440.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
+  - title: "Self-driving VW ID.Buzz electric vans start testing ahead of commercial service in 2025"
+    excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
+    publishedDateTime: 2021-09-07T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buzz-electric-vans-start-testing-ahead-of-commercial-service-in-2025"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 16
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/09/06/600x338/VW_1630917535414_1630917550377.jpg"
-        width: 600
-        height: 338
+      - url: "https://images.hgmsites.net/hug/volkswagen-id-buzz-ad-self-driving-car-prototype_100805632_h.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Volkswagen CEO: Self-driving cars are the real gamechangers in auto industry"
-    excerpt: "Volkswagen (VOWG_p.DE) head Herbert Diess on Sunday said autonomous cars, not electric vehicles, were the \"real gamechanger\" for the auto industry, which is facing the end of combustion engines in Europe by 2035."
-    publishedDateTime: 2021-09-06T04:07:00Z
-    webUrl: "https://cyprus-mail.com/2021/09/06/volkswagen-ceo-self-driving-cars-gamechangers/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 21
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/09/VW-self-driving.jpg"
-        width: 1500
-        height: 922
-        isCached: true
-  - title: "Argo AI unveils its latest self-driving test vehicle with Volkswagen"
-    excerpt: "Argo AI has hit the road with a new test vehicle as part of its partnership with Volkswagen. It'll be used to help further deploy the company's tech in Germany and elsewhere around the world."
-    publishedDateTime: 2021-09-07T23:31:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2021/09/07/argo-ai-new-self-driving-vehicle-volkswagen.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "/Ok7oLlwrYD6o8KcvsCBbev2vIXkxduoRQsvm00CRkgMnRotQ6p9+tSSeU1A64LJbPLH00tzDpnRJnFdIAL8Al9zq3bP7Oglrq4fPlks6WECeWgXPnPS5eXnSRbcsArEGNwFF3hCFgRiWc45sqwnynyqxlCbUWhym5y4De2KHPCYJesYnQCdq3InR5c0EB9WlMGrJloaKZhnwf3morf6wtVIYnJRwF8aTI1HP/gl/mmUyKQ3fGIJoGGBdg/LejjaxjlyAo5OgzWa7stkf/ag+ouAvtBzFW/eLP9oazNeodpBfggMUZ7WukuH3DAek0P39Z356KJbfRYYQeilaYY8C036dzZvrwVSl6zusVUs1Xnt+jDzcDvN8EGFRrUIivxZ/MoI6wk0MyxE6OG0V1v/mNdzhu0dy2pb9X7pyDt6myYgcL9/BxUseU5SEH8ZpiunKX7B5ajMCMAHN6X1f03ss1Vas3EpdaF7itXQK7S36Jy7kNUpRmTPCN600Z6BhR+omaK6xg/f66nXeGRFn5v57Q==;wegvbAp97QxKOzyn76DqEA=="
 ---

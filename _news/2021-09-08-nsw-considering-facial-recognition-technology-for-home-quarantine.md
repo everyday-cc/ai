@@ -25,49 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Australia debuts 'Orwellian' new app using facial recognition, geolocation to enforce quarantine"
-    excerpt: "The government of South Australia has launched an \"Orwellian\" new COVID-19 quarantine app, complete with facial recognition and geolocation, to enforce 14-day quarantines for travel. The policy actually represents an improvement over the current pandemic restrictions,"
-    publishedDateTime: 2021-09-03T20:10:00Z
-    webUrl: "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine"
-    ampWebUrl: "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp"
+  - title: "Federal agencies are rapidly increasing their use of facial recognition"
+    excerpt: "The U.S. Government Accountability Office released a report on Aug. 24, 2021, detailing current and planned use of facial recognition technology."
+    publishedDateTime: 2021-09-05T13:00:00Z
+    webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 76
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02834334-5d94-481f-9107-cf7509528d96/aa6b228a-b84e-4c99-931b-60e018cf0274/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FFR.jpg&signature=edf8bfb4b96e8f3d082fcc901f7f5547"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "South Australia Deploys Facial Recognition Quarantine App"
-    excerpt: "South Australia has deployed the Quarantine SA home quarantine enforcement app, which some have called \"Orwellian\" because of facial recognition and geolocation"
-    publishedDateTime: 2021-09-06T07:26:00Z
-    webUrl: "https://www.visiontimes.com/2021/09/06/south-australia-facial-recognition-quarantine-app.html"
+  - title: "Using facial recognition on grizzlies, and more advances"
+    excerpt: "A new tool helps identify individual bears, machines turn glass bottles into grains of ‘sand,’ and scientists discover a gene transfer from plant to animal."
+    publishedDateTime: 2021-09-07T13:04:00Z
+    webUrl: "https://www.nationalgeographic.com/magazine/article/using-facial-recognition-on-grizzlies-and-more-advances"
     type: article
     provider:
-      name: visiontimes.com
-      domain: visiontimes.com
+      name: National Geographic news
+      domain: nationalgeographic.com
     quality: 39
     images:
-      - url: "https://img.visiontimes.com/2021/09/GettyImages-1334591569.jpg"
-        width: 1024
-        height: 683
+      - url: "https://i.natgeofe.com/n/5a7b78dd-c3a5-4130-a2fd-6a887253f983/STOCK_MZ3820_IMG_9442_Melanie%20Clapham_16x9.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "NAB keeps a close watch on budding Euro, Australian AI rules"
-    excerpt: "NAB is once again looking to Europe - and specifically its work on ‘trustworthy AI’ regulation - as a benchmark for future standards in the development and use of AI and machine learning systems. Like others operating in the space,"
-    publishedDateTime: 2021-09-06T19:59:00Z
-    webUrl: "https://www.itnews.com.au/news/nab-keeps-a-close-watch-on-budding-euro-australian-ai-rules-569383"
+  - title: "Global facial recognition market expected to grow 12 percent to 2025 – report"
+    excerpt: "The substantial growth is expected to be spurred by increasing instances of identity threats, and the necessity of using biometrics to counter them."
+    publishedDateTime: 2021-09-07T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202109/global-facial-recognition-market-expected-to-grow-12-percent-to-2025-report"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://i.nextmedia.com.au/News/nab-522790626.jpg"
-        width: 745
-        height: 539
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
         isCached: true
 
 secured: "BJfsoEIqxVyilVRA6CGM7XLxzqd3sy5rmym4Iudvqam+Y9UOIt/C28w4liSkykFu27XPZWuXqo+0ni2HrNskphJZkEFaWr0go7fd6VKZlRjpU1ZnxjLrQTUOqK0vi40sGPlzs3CCiuebilt9dNRZaFyPuaO3k+umeJBqaEKuFRtGlQKLu8n3io6A1HMFlxjyJiGzonaOuqj/JNywCkCnWvHffdrDmvuAZzvSWAZFw0rCb1Idj+dCi/oN3/MXWvbJkrhGmKQqZMWOr4m5yuMn2uuHi8tZhXg+qABEoSoTXPrSRt12PUNC4ezg6BwhG4USVHCV/jNCcIC24BuDtEpTMCnI4BKOM8UUO8uoZgoSxI4Ua6KR+YPfH9Ta807WUnVv6dbQhJIHEBn2srvoOGfn0Okm03uqejuOKNss5NCS3DckSaxftKMccCg5wwyTMRksQ8aZ0FSPBSQX2RLHzLfRcb1bA/4mxQAKqy7rEiniFwTVBDtB6r3InurCQXpZqBhHoZhimktC2C0SZDdh6hPt2w==;QC0Rp6UkGCHMf9f8S1/6mw=="

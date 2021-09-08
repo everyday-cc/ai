@@ -52,28 +52,14 @@ related:
       domain: mybroadband.co.za
     quality: 24
   - title: "Indian, German experts discuss Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here."
-    publishedDateTime: 2021-09-07T17:11:00Z
-    webUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
+    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here. Areas such as AI for sustainability,"
+    publishedDateTime: 2021-09-07T22:29:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3815897.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
-  - title: "Self-driving VW ID.Buzz electric vans start testing ahead of commercial service in 2025"
-    excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
-    publishedDateTime: 2021-09-07T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buzz-electric-vans-start-testing-ahead-of-commercial-service-in-2025"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 16
-    images:
-      - url: "https://images.hgmsites.net/hug/volkswagen-id-buzz-ad-self-driving-car-prototype_100805632_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "sR6/dsdeSrooHAkSvIYXF+IwweSE4sRgbLxh18OYsgT//QNXVULULZEoIBYdTJvVhjkikjJMeBQFoJe6RV6Oz6RjgI0v/cuiO2ur7Yn9/EGX9LaVfTpCa5+ZLdKuaG2EJH5iyDhqvSGtA6PJ5RibQCBhK5WRvJsCvdbb6kNLJkITywPq8514CqrZCrkBaQ/rcTaG3d3pVH27Uw+T2N290io6+hxqNZLSNgn0Fsx8WrdllmueDhF/DyUyDFgDA2kds6fZuyTfSsCcm66fndzQ2tUyorpx232IDVehav9MIL7jrppKmc9xwzQNBxz/RM1STN95/aZ7NwFezgrd+GVHRdgaOCkihYTNVH9ZGY+yTk24Gph/15nG4oBaf4SbRCHdPjZPTgOHSUiEdJIGeRqvFQCYdIGnhNVjUNYWicM0/zIQEJedzjLrlw4kJK/meRjXaK8z8MriPQoq6KX8ScuAX5NylgeGzuWitGqBk8xTfjAOBgxkivIm5Jac5uIoTWHqCrSgIWy4o9glpit8xBuUlg==;wkVFVXjAXqnoclw33cnadw=="
 ---

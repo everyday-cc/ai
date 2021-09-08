@@ -3,8 +3,8 @@ category: news
 title: "How Midsize Companies Can Compete in AI"
 excerpt: "Startups and large corporations are seizing AI opportunities and strengthening their position. But what about midsize companies that often lack access to big data and AI talent? These midsize firms risk being left behind in the age of AI."
 publishedDateTime: 2021-09-06T12:20:00Z
-originalUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai?ab=hero-main-text"
-webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai?ab=hero-main-text"
+originalUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai"
+webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai"
 ampWebUrl: "https://hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
 type: article
@@ -74,20 +74,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
-    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
-    publishedDateTime: 2021-09-06T03:49:00Z
-    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
-        width: 800
-        height: 455
-        isCached: true
   - title: "The Ten Top Most Valuable EdTech Start-Ups: A Mix of Chinese, Indian, and American Companies"
     excerpt: "Five American companies are among the ten most valuable EdTech companies in the world, while Indian and Chinese start-ups are ranked first. “The global EdTech is a broad and diverse field that includes not only the hardware and software programs used in remote learning but also the most effective ways of teaching people new knowledge and skills,"
     publishedDateTime: 2021-09-06T06:03:00Z
@@ -105,6 +91,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Q7Lh9BjZ1IJmTsHnhRy7yzueHFJfmBWvN2su0QqpWJ3R29HLzXo+4UMbcIcrMgzftRu5QM3Fk/i8llMUQXrtJrinM+rCfoWpKjmCltKo+YL46Szu5cHd2t5/83xoOZ7kmvPVeE2nAK9WZ7WqPyr9t7Ckf2fOQlkICnNHwEE36jlxxVy29M8qv3JrrCkI6C7jGP6452lCtcJ4e+FJM8Rv5P4UZ0cv96ou0xutAreZBvzYuDAazigLpP3sCQ5lDWGdtRmHDyDIr8YyL0egYelYii8OZurDraJGgR9KpZ7gcJLHb+R9RHSB3piRiC4/GZfjbnqBxfOx9DLFW9+3BriHpzBkJVMDxMo0I4TNYM95glY=;o+CTCc3V0IZWYxAaKLobWg=="
+secured: "JhQcUVIkEYtSi2Rgu+w8xCSrPMhtbrkr6Sp3UJWwecpn3bTOj0FO1HRUPENLIquCWWGDJJ2r3EALKnJSy4NcoBiC4QIMm4ZlW4Lt2jodTZxj5z9ysPjvvZfbiInRrFxd6wzZDKeVqINW+moY1mp04DGuynpBEeFb2wRPL1LE4Bt1jWsCW8X4E6wCMTc0ZL+ZC7hvNfEtJxOIpU6gLCzMK0Bt3wLCnFoO0OJ92Wr1zk4tr+a0yFprMP4njXoAhdNJOqBqSKP4RgMruCzPH0XI0+pLZ8ksFavixsea6VXrG1IMF97G0jpkOfltVcMkqkK8dj8pKVwhmQIfoby82h4cnqN6y2vfEM5DtVU6qH5c86g=;P3QImgWv3pa8x76bdsEsrg=="
 ---
 

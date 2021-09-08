@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "NSW considering facial recognition technology for home quarantine"
+    excerpt: "The NSW government is considering using facial recognition technology as part of arrangements for home quarantine for returned travellers. This would allow authorities to send a notification to people isolating,"
+    publishedDateTime: 2021-09-08T05:01:00Z
+    webUrl: "https://www.news.com.au/national/nsw-considering-facial-recognition-technology-for-home-quarantine/video/6326dd3fbfcef73d4f21d0e3dd3274b3"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 39
+    images:
+      - url: "https://content.api.news/v3/images/bin/c487120f4abdccdf4988c01701b8a518"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Global facial recognition market expected to grow 12 percent to 2025 – report"
     excerpt: "The substantial growth is expected to be spurred by increasing instances of identity threats, and the necessity of using biometrics to counter them."
     publishedDateTime: 2021-09-07T15:40:00Z

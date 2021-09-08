@@ -1,29 +1,23 @@
 ---
 category: news
-title: "AnyVision to the British Biometrics and Surveillance Camera Commissioner: 'Facial Recognition Apps Should Be Provided to the Police with an Empty Data"
-excerpt: "AnyVision's Open Letter outlines the principles for fair and ethical use of facial recognition technology by law enforcement in response to the British government's public comment request on the Surveillance Camera Code of PracticeNEW YORK--(BUSINESS WIRE)--#AI--The British government has approached the public to consult on revisions to the Surveillance Camera Code of Practice."
-publishedDateTime: 2021-09-08T06:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=527165"
-webUrl: "https://us.acrofan.com/detail.php?number=527165"
+title: "AnyVision to the British Biometrics and Surveillance Camera Commissioner: \"Facial Recognition Apps Should Be Provided to the Police with an Empty Database\""
+excerpt: "The British government has approached the public to consult on revisions to the Surveillance Camera Code of Practice. The code is part of the Protecti"
+publishedDateTime: 2021-09-08T10:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210907005816/en/AnyVision-to-the-British-Biometrics-and-Surveillance-Camera-Commissioner-Facial-Recognition-Apps-Should-Be-Provided-to-the-Police-with-an-Empty-Database"
+webUrl: "https://www.businesswire.com/news/home/20210907005816/en/AnyVision-to-the-British-Biometrics-and-Surveillance-Camera-Commissioner-Facial-Recognition-Apps-Should-Be-Provided-to-the-Police-with-an-Empty-Database"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "R1odZFNM4R7zKnVxiLvNMNVxFrsgxhq3e6aVOKNxWD4WpX/JMa4Ih+TIOiX0+whnFF5ZXMl1yKdjCGuNbB3+bbVuavZRQxLwkN/aBEIJNGb58HZwg/R3nevg2Rrb+CQK3YwJEY2t98W9InSQkAPzghywXGOLu9dxMxiSQfqF1LMyUL9gk/apXosqj5/AeNCmmZ2U+wfpi9AL8jjnurDe38j3gcfZv3kX9I8KdvMBFihHYDeGQ/rOr/EjxE4XV3Ps/53SayctlimRfVOv+2497woTwKZijTi7ANlIbplhaP816qxR88uik2craiqa2TVj+VyiMNNiPZxNJSEUvILR7LB48EUC9wSoKuPPsKQjk/o/8BZ1PnfZsqRDQf2q90E6qEPJRJjASQ+CXBiGt91ms3nx9ctJeAAQnn81n1PwSFiUFuLB4CS/myy6JJZ4Cg64hgQWNq+8Ug0ChihZ9EAtkjcQT1V/6D8AK+PnOQwomYcfiEy4aaOR0za3hEyILBYV6JZsmUoyXoG0s4iH5IcIjw==;QOb6SLPA9Km3qKfUuDLoBQ=="
+secured: "/zE6hq4FC+Y6E48g+kXoQiIiPlpzaRr8Rx9Fghuq/sIybKzr1Yz0eE+x8xit0ySs1Z7R3bs/yZI7cmN44CQhf7bZHvX1tRK/rs/LXncur7fTKvk+QuLA/4bCwELrqaPJk4RxCnSVLLEelnqOPSjfcKQBKb2sMPZEbo1Oz41DhYqoKlzzoB4NuqRIYV0tyqGJ+9SwlsvYNtPaKmoY83Qy39e0tbvAvjtu6GOqGryg4Yn0wokWkfLJAHg3WeCi/Pm0S3JzeMp0Iinkhq6S4gpbi0jyDzKnz2Zi18LrbjJKYcUCXo3naffRvtwU1s2tJxc0GKb6S1sUU3PQqvVj/K91FZf/6ce1qW4Obmymy4fVDy+Gur8llukgizd3ChpwEZ3XLloxesMKD8s4NPEBZ3URAvU8Mplm/9ZuQgZe/mCfXmeJIfzQvzZx44fjJVXIgiOojVdjqF/8SyrBisKt5+ouEoJlWJOtQys8koP/rfXXNBaJ1+n0ZJ/zCQ2IKLGKg2ZipNsjqDigR4KdXmd9QWmtFA==;CeamdF5IkPFQ+gSER8ltzQ=="
 ---
 

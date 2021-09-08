@@ -25,54 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "VW’s Self-Driving Partner Closing In on German Public Road Tests"
-    excerpt: "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany."
-    publishedDateTime: 2021-09-05T20:10:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests"
+  - title: "VW will deploy Argo AI-powered autonomous ID.Buzz vans"
+    excerpt: "Volkswagen announced it will begin testing self-driving, ID.Buzz-based electric shuttles in 2025. Powered by Argo AI, a Pittsburgh-based company the firm holds a stake in, the vans will begin carrying users in Hamburg."
+    publishedDateTime: 2021-09-07T14:12:03Z
+    webUrl: "https://www.autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
+      name: autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/
+      domain: autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/
+    quality: 157
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixMLqLHvG858/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/09/06001634/volkswagen-argo-ai-id-buzz-4.jpg"
+        width: 1062
+        height: 597
         isCached: true
-  - title: "Indian, German Scientific Experts To Enhance Cooperation In Artificial Intelligence"
-    excerpt: "AI is a very active research topic, and efforts should be made so that India and Germany can cooperate and augment the cooperation."
-    publishedDateTime: 2021-09-08T05:27:00Z
-    webUrl: "https://analyticsindiamag.com/indian-german-scientific-experts-to-enhance-cooperation-in-artificial-intelligence/"
+  - title: "Argo AI and VW are showing off their self-driving test vehicle"
+    excerpt: "The companies hope to deliver commercial self-driving vehicles to be used for commercial services in Hamburg by 2025. The autonomous ride-pooling services will be run by a VW subsidiary called MOIA, a mobility service provider. Argo AI received the base ..."
+    publishedDateTime: 2021-09-06T11:52:00Z
+    webUrl: "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/"
+    ampWebUrl: "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 35
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Indian-German-Scientific-Experts-To-Enhance-Cooperation-In-Artificial-Intelligence.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/09/id-buzz0ad01.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "VW’s first electric minibus is a self-driving taxi"
-    excerpt: "Volkswagen has unveiled a prototype self-driving version of its upcoming electric microbus, the. The vehicle was showcased during a press briefing by the German automak"
-    publishedDateTime: 2021-09-07T11:06:00Z
-    webUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html"
-    ampWebUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
+  - title: "Argo AI puts a high-tech spin on Volkswagen’s retro ID.Buzz van"
+    excerpt: "Volkswagen will deploy an autonomous version of the electric ID.Buzz van powered by Argo AI's driverless technology."
+    publishedDateTime: 2021-09-06T14:47:00Z
+    webUrl: "https://www.digitaltrends.com/cars/volkswagen-unveils-argo-ai-powered-id-buzz-ad-electric-van/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/volkswagen-unveils-argo-ai-powered-id-buzz-ad-electric-van/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/volkswagen-unveils-argo-ai-powered-id-buzz-ad-electric-van/?amp"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
-  - title: "Indian, German experts discuss Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here."
-    publishedDateTime: 2021-09-07T17:11:00Z
-    webUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/volkswagen-argo-ai-id-buzz-5.jpg"
+        width: 1500
+        height: 987
+        isCached: true
+  - title: "Volkswagen and Argo AI reveal first ID Buzz test vehicle for autonomous driving"
+    excerpt: "Volkswagen Commercial Vehicles, a standalone VW brand responsible for the development and sales of light commercial vehicles, and Argo AI, an autonomous driving technology company, unveiled the first version of the ID Buzz AD (Autonomous Driving) on Sunday."
+    publishedDateTime: 2021-09-06T00:20:00Z
+    webUrl: "https://techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/"
+    ampWebUrl: "https://techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/amp/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/09/IBA_7650.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Argo AI and Volkswagen debut ID. BUZZ AD self-driving van"
+    excerpt: "Argo AI and its partner Volkswagen have debuted the first-generation ID. BUZZ AD self-driving test van at this year’s IAA."
+    publishedDateTime: 2021-09-06T15:45:00Z
+    webUrl: "https://iottechnews.com/news/2021/sep/06/argo-ai-and-volkswagen-debut-id-buzz-ad-self-driving-van/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 39
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/09/IBA_7564-scaled-1.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "kxPx8+rVoUD3RvGM0rBNbAVTyYVtHVRoq6tX/Po/nHiiTjOs7uUThpyNswb4io7T9rsLgy91erBx4VaNLeSbltwtfxDGg/APunymDrE14AYXbN1HLEOpjgSn1SCOW1CZU0v8RGIC+K8SYCF8pUrvAeXXtcDUeltdw18+XDSsVGTbb9eB4kuCTfdElyvdEot5BrAOxVSfNImkL0/Vvw8sowqD4R0E7isiNCCMMAMBFCGIkJALQqukjtrDX/gJWBWEXRsmq5tSe6WoiJoPRW/+l4gA1cuezQWCmlvWsVOFDisKV1qkTdQQUPta1zostKlvXOVdrgvJaQmMut1wfj/CbgVRzAFMo4YmSQa3ZetdcQ/9rAufXz+EX68SSDBfbIm9hbmCMeAlbCepUhdvW/hUazg9wzEFCmravZbvg8tNP2dW8eoSqXNEF4tLFuOi9H3kPipxmAg5EYPrJr5qdvgZZVqjGT+rrHJ+HJNgWbcygAZpLaeOLX8+gyuO2uIyRwrUHST5/NqRDg/VBFultRdZ/Q==;TAeFEtE2R1uQGYycrVJRIQ=="
 ---

@@ -113,20 +113,6 @@ related:
         width: 635
         height: 400
         isCached: true
-  - title: "A Fintech Fox in the Regulatory Henhouse"
-    excerpt: "Apparently, Harris just doesn’t get why regulators have to be so skeptical of the industry all the time—which makes sense, coming from a fintech executive who’s advocated for the industry on both sides of the revolving door."
-    publishedDateTime: 2021-09-07T09:12:00Z
-    webUrl: "https://prospect.org/economy/fintech-fox-in-the-regulatory-henhouse-adrienne-harris/"
-    type: article
-    provider:
-      name: The American Prospect
-      domain: prospect.org
-    quality: 24
-    images:
-      - url: "https://prospect.org/downloads/16799/download/RDP-Harris%20090721.jpg?cb=2bae456d97bd72bb8ecee83656aae636&w=1200"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Financial Institutions are Increasingly Adopting AI for Supporting AML as Fintech Adoption Rises: Report"
     excerpt: "Financial institutions are increasingly adopting AI for supporting AML as global Fintech adoption rises: Report."
     publishedDateTime: 2021-09-05T21:24:00Z
@@ -161,6 +147,29 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 10
+  - title: "Turing Technology Named to AIFinTech100: Identified as Among World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
+    excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's"
+    publishedDateTime: 2021-09-08T13:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/turing-technology-named-to-aifintech100-identified-as-among-worlds-most-innovative-aibased-firms-solving-challenges-in-financial-services-301371362.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "https://mma.prnewswire.com/media/1610262/Turing_logo.jpg?p=facebook"
+        width: 740
+        height: 387
+        isCached: true
+  - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
+    excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
+    publishedDateTime: 2021-09-08T12:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-aifintech100-recognizes-concentric-its-unique-use-artificial-/2021/09/08/9444639.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "P6ZH31O+ENnBcJsHdxMoBv9nhlHDIpyUjtXcFzFDED/d+1QSlnHQPDsExFKs8A6hrLAo3zavxBwAdYOWhlFbF5D55fcTZarDZsmzSg2zkkiOUfFP20G50y3UveRvDqAFuP0cDJycKvMtr+UEN3pjINTmfX14S8jzExi15JKa1vpbxaP3U8VfuIvd3m4rPp8TSna+tQidhATMxY0SLxChplWZq7nVHCX6WDrRaQNhE3HNmv0e0Y/O0MyjefviYTy425LjUQ8jYIYR9wxMRDDEynaNwlCj303QlrXpPOhJSgt1noSITQxX12NZKmpLKNk6GgOQMhFsCiQzB4MnXNP9i7YYKdUXPnln1CqVOjLAUIkqj6SkKapTEcfpMzFFDXk/upOouu+lta9rJ7mcVrIAnE70EJAOVYbEhVmpk6iJyzSR3kfpoPmq/bsUrMPro/C2Ljk6bdGmUEhuqyiNs7tMybQzrxrNwFp/qx7+a3o14Krrd7xnF7E78xBPg1S+g2NoNo3dvfYOpRn93Ja5JPomXA==;Zp5+yK2aVbBznJoLwvYQiA=="
 ---

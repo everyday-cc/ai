@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
         width: 635
         height: 400
         isCached: true
-  - title: "A Fintech Fox in the Regulatory Henhouse"
-    excerpt: "Apparently, Harris just doesn’t get why regulators have to be so skeptical of the industry all the time—which makes sense, coming from a fintech executive who’s advocated for the industry on both sides of the revolving door."
-    publishedDateTime: 2021-09-07T09:12:00Z
-    webUrl: "https://prospect.org/economy/fintech-fox-in-the-regulatory-henhouse-adrienne-harris/"
-    type: article
-    provider:
-      name: The American Prospect
-      domain: prospect.org
-    quality: 24
-    images:
-      - url: "https://prospect.org/downloads/16799/download/RDP-Harris%20090721.jpg?cb=2bae456d97bd72bb8ecee83656aae636&w=1200"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Financial Institutions are Increasingly Adopting AI for Supporting AML as Fintech Adoption Rises: Report"
     excerpt: "Financial institutions are increasingly adopting AI for supporting AML as global Fintech adoption rises: Report."
     publishedDateTime: 2021-09-05T21:24:00Z
@@ -160,6 +146,29 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 10
+  - title: "Turing Technology Named to AIFinTech100: Identified as Among World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
+    excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's"
+    publishedDateTime: 2021-09-08T13:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/turing-technology-named-to-aifintech100-identified-as-among-worlds-most-innovative-aibased-firms-solving-challenges-in-financial-services-301371362.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "https://mma.prnewswire.com/media/1610262/Turing_logo.jpg?p=facebook"
+        width: 740
+        height: 387
+        isCached: true
+  - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
+    excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
+    publishedDateTime: 2021-09-08T12:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-aifintech100-recognizes-concentric-its-unique-use-artificial-/2021/09/08/9444639.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "B34RPM1No9IixYmvPnigSQ7MYXpMLNDGXUT1qhqhENLDA/OwETRh0m6+4Wji57bO02ST85Mc4n6tjpwJMd8LGmYbqE0vJbjf4b1dc2IMVfUyCqK6fXwBBJx6WVmLkUHWhONS40wwpFGN2LiXxOAR04Ahm4/yJt9adOCV82NqoYFTz3694SHRiydWnh4nTPJr1gG/ZDbp6nc4FtIYiKeltyYiKvu39Juiz0/muHRifI9mEThP+uA31HwygzIwg5MUkYWs0W7SDHvFaVxs6bTrxIRy0WUoayA1lgtC8jmvxKstjFogxY9XTBrpx5SmG4fn5w9EDp38o0z7YSQ+TQp1LtxYtaccuB5CzBmAt1gaSEPLTLpRbg3Z1vikU0GCJWGipij+dLzGMB59zOHKNtQobo8aHNZ9kjmUkV3JNJk4cbFR5Buurf1/msH9p98M0DvHqFTdCCo9ZJQoQ7Ef00n/i+P8sse6f7eWqeoPiLlMWJWYGH4wjjvjCn7ksGrTJUfjSUfLpC9TjXW78+MzBpLlAg==;d8LpNLdvSl96fZsdWBBnIg=="
 ---

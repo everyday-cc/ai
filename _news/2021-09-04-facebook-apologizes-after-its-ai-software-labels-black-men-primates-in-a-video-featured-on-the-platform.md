@@ -2,31 +2,27 @@
 category: news
 title: "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform"
 excerpt: "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question."
-publishedDateTime: 2021-09-04T10:47:00Z
-originalUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9"
-webUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9"
-ampWebUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp"
+publishedDateTime: 2021-09-04T09:22:04Z
+originalUrl: "https://www.msn.com/en-us/finance/other/facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform/ar-AAO5KzT"
+webUrl: "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html"
+ampWebUrl: "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html"
 type: article
-quality: 70
-heat: 160
+quality: 140
+heat: 240
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: com/2021/09/03/technology/facebook-ai-race-primates.html
+  domain: com/2021/09/03/technology/facebook-ai-race-primates.html
 
 topics:
   - AI
 
 images:
-  - url: "https://i.insider.com/60187bf96dfbe10018e012e0?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://static01.nyt.com/images/2021/09/03/business/03economy-briefing-facebook/03economy-briefing-facebook-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -154,6 +150,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
+    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
+    publishedDateTime: 2021-09-06T03:49:00Z
+    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 37
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
+        width: 800
+        height: 455
+        isCached: true
   - title: "Facebook apologizes after AI puts ‘primates’ label on video of Black men"
     excerpt: "Facebook users who recently watched a video from a tabloid featuring Black men saw a prompt that asked if they would like to “keep seeing videos about Primates.” The artificial intelligence-powered feature that pushed the message has been disabled."
     publishedDateTime: 2021-09-04T01:37:00Z
@@ -166,6 +176,6 @@ related:
       domain: seattletimes.com
     quality: 36
 
-secured: "n6DCG/zhwThTTl/2cHTfFbZrGHx+mNTnvRgYVTzvYgSHBns1ejP26ub+2L2VpwuK1ygLkY7s5KdAbABKKmMQIAeje+5LUIg5tf3y7JEHfpcCxrkxB75ZEk2Kg8MUyhKcYU5DP5P1qzGlrldhpaPH+mFi/ywPdAbmsWT0VWqiVyO4EsaGpQaSdpM1U6TarkzSxlsTBZ0w6S6bXmUNFSaZ6h9xFNMXaATfU1Oa6NxghHSEmDIMqeb0kBb4jhWZdesHlLtp+KBg5k9sWdJmePVhbgEwyhHwNzRG5q9+iiNAMt16bG1NOXchWxbSYQ/o/b82RLCUv4xmcnAoH0pj16Nd2ydDcGTBBXu+IEVqy49JUVO/RJkZPzYKYEXjO98SgPPAJnSRFB7KNIaSE1HQZG6sjCOcIiPf22PXskB1yqhAVjuqSSgcT5n3KxC67IBgL9oUGXidVsZhUBbUa126DsOnmDdntjCk0qV+GMq6DqTnYtvkXhpxX9xTuBh1Ka8VYIMLjv8BE5vEVdkVxMwYwWay7Q==;quF1lqsaVCJbT3UTgSs6Zw=="
+secured: "RKgRDKu9vTtL6CooQfZNpyByxA1kLtjjt5c04ZB8AnHt6NxQvpX1uQg6oa0I6yWR2Qy+WSjq1idm71joy8p8EOjPqeERxrJ8JjIz0ahu2TPyv5BJb2jtDB7ihfoihe4wURAvsQrXGO3u6mSKzvXTqdn4IL3gB85koIjotFk7Nd34ryTOCRveEDvsHyrWy+fQgomwu+mQABl2kxbhU5+2ljk028THMADqWxMBtZFLdeU3K+6Me5cosJLN82XlxDnpLE8bzXvJBcPQvtmeblOrZ4YdAbc99YH87iaj9uNtwLyAC42zDXmoW6aoBECL9mZXm8kPBoXGo9i0nrj9KWVKm1U/gTFKdsivsFoeN22dfUw=;/JDAX0XQroiH54LzU77jRg=="
 ---
 

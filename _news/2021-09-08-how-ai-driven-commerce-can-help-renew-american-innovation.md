@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -49,7 +49,7 @@ related:
   - title: "How Midsize Companies Can Compete in AI"
     excerpt: "Startups and large corporations are seizing AI opportunities and strengthening their position. But what about midsize companies that often lack access to big data and AI talent? These midsize firms risk being left behind in the age of AI."
     publishedDateTime: 2021-09-06T12:20:00Z
-    webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai?ab=hero-main-text"
+    webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai"
     ampWebUrl: "https://hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
     type: article
@@ -78,20 +78,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
-    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
-    publishedDateTime: 2021-09-06T03:49:00Z
-    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
-        width: 800
-        height: 455
-        isCached: true
   - title: "The Ten Top Most Valuable EdTech Start-Ups: A Mix of Chinese, Indian, and American Companies"
     excerpt: "Five American companies are among the ten most valuable EdTech companies in the world, while Indian and Chinese start-ups are ranked first. “The global EdTech is a broad and diverse field that includes not only the hardware and software programs used in remote learning but also the most effective ways of teaching people new knowledge and skills,"
     publishedDateTime: 2021-09-06T06:03:00Z
@@ -109,6 +95,6 @@ related:
         height: 480
         isCached: true
 
-secured: "E5t731eNKQSDXAUOQ1GcrnxSCea+KwrZBO9d0zaPSG0EfBxuW08+fRkkHdNwxkl2vhgAtcbIK1TSzPByrfGv7bEvY3qSDMSW1Y3lU4l5FeDaoViYlc7Bdb0vPN+pvKTFpvatNMObVncMVybYqwukmvxFi5x7BNJzL07G3lIsiryyIQz88vnS0LgCnkFTtMN4sLd/FYTyYPKoPu4uld9Kw/sj9qWBbEj/aGG1N/7UXxAGknqL9/q1X1o0C29qwSm4O5DksYjONK21x7xC45Al4a0Vm5LSoUqRWtGQlF3dce+CRH7DVh6VR28l0wr5SOIO+OHLO1oVstY1u2x1WsxUVQtu1filEs3bo1kp5WaRiHo=;WBRUG/SbF/jwYWN0NBcz4Q=="
+secured: "hATjs2F6ImlueCJmh9Dcto0VzIgSjG311CfOGQrsTLMdSn3+ZXHU8yrmzYP/VTZbcgg6qblkPIiHQ8bQrz7tq7cNnJ+ybjd/gmGApjxCKpqfGjj5n4dqgePzkvNF2BoGhUzTo5ugvhBMQ6Ey8T0YL6U8Vg9CxdF2saCKfHnyMkKhB1Hg9nvTjHpR8qlZdeZ5SoZxI3UTu9SqY84VGjgpiS5FbFYQyQ+fqh6aEUCCtEyKeNh9bQU2ahZrdtY3hrXZUjQE1pp33Lvy3s95+HbBfNMAxvn+TKZGTU8Z+bYklpN/C9Y3ewVaPG3DkZQypB1TGumkpJgoazIQt2njxPo5EgD8mFVi7dbILDpJkOjTQQtmmFhYkGH1ypNJ4f8+YL9trfEYdlM6NZnPrfORraqkTpUHDuxNnPPj+zwseOaCngx3TI6aZw/6oZzozWtxWO9JtrdEZ7gSofckbDJDGIXklUim+jGZ6nkTo9dQeZz5NQ3sQOeWGmYh7KWox9KAS06s7ea1h/atkgFKaT99WbNL6Q==;WUaTJyLQCFNI2SQUSxzjdQ=="
 ---
 

@@ -74,6 +74,20 @@ related:
         width: 1358
         height: 600
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market by Trends, Dynamic Innovation in Technology, Global Industry Insights by 2028"
+    excerpt: "The market study depicts an extensive analysis of all the players running in the Artificial Intelligence in Healthcare market report based on distribution channels, local network, innovative launches,"
+    publishedDateTime: 2021-09-08T12:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-09-08/artificial-intelligence-in-healthcare-market-by-trends-dynamic-innovation-in-technology-global-ind"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 28
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "Ipbj+ERgebtkOADGfWwY13w7W3IojkjlXCC4CF3CsQl1kU/oh7XAV5TBEDyElmZf7z9f5xXdEnnYPUp/sPv2ITLnts3ItWnZXk/5wnWPN2Z4y9Zf13sGJuZda6xxqHz0742gokoadxQyd/Xoi7FpR38lLVlh3w3nJeUmbuG5XTQfeP+4BvjPXJ6ik1cI7rS7iVokyV+rJxchX6CHKHqvnO43p+GLNB2XEsyrxZF8DqDGNQ3wgU7XBdY2lWL6L3DxuZRFkEYYsNMukfcF8aMmXcEM40tws+rucY8lMTtwj7GpaQHQeP+FnQ4lxlBWwwNUxMBQ7+pkxD8PlyFUtbsG3xidts3ER9dWdJnZw6pGlBqcLb+fkuWpdDReZw0tzqvVrsT0JcDoacXAUyvGdStlT3yvegyW9WphJzrQndiX+aJm9OUESvjrJwFFzGvRgCBFbK8bRHWlkM9ChIP7WyBanq0WIs4N6NpNrkBhreQZib2lPcMnvnYpaK/SXT9Ae+ijIAW5TAUJzT246qlV54nxTg==;DkH6C2WC6VMsDPfTEIsWDg=="
 ---

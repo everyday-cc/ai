@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NSW considering facial recognition technology for home quarantine"
+    excerpt: "The NSW government is considering using facial recognition technology as part of arrangements for home quarantine for returned travellers. This would allow authorities to send a notification to people isolating,"
+    publishedDateTime: 2021-09-08T05:01:00Z
+    webUrl: "https://www.news.com.au/national/nsw-considering-facial-recognition-technology-for-home-quarantine/video/6326dd3fbfcef73d4f21d0e3dd3274b3"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 39
+    images:
+      - url: "https://content.api.news/v3/images/bin/c487120f4abdccdf4988c01701b8a518"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "i7qnpYzf1YtvzA1MxbvN9IKmM55j5EX1ET0OchRonQI10iszX4/by6tc0ku1BLmtouvibSzaP2/LqNJ9P35ZPxa0Kr+Tt/XCJjm3HulUCqy+PblW64lyTqIz9olUMaJ2/XyXQCQ6vFFj6MC1kCOuyuZS3vnCXGXWgyAK39MvMW2h5IAlp4Hu5I2aTMHvZlmOT0rMKBVNNqLL2135csAybM1FR/OTFFCCKfoit75Yj1WJYICEmUD89D8LmQxUGjTD+2ElhbEc255FfOII5LoCQcNn4KUudw7rOmYLT2BCXPDSN22bp7hKFbK9gu4WqXUBzBXCI66Rb/CbYgZlUwoRwhaOAXKjVPR2EMAsXNczzWquOPoiTOGZ/QON23c4EQnvZIH1QU7TDR4l7xVfKFUZK2MuQ2ClsE43TWXv45m0C3/NWLgD/JHtKK8KckUx8zyqikRdrYWtaHElpKsJm7l7kLJpy3jrZtxtWC0pR/NIz0q7Cgav2uUuihsKHQcgI+GUZtXByqTRVMOqdudmy4Ii9A==;31m0qFq9+7h5tS2T1Ao8LQ=="
 ---

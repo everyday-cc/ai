@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-drivi
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -55,28 +55,14 @@ related:
       domain: mybroadband.co.za
     quality: 24
   - title: "Indian, German experts discuss Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here."
-    publishedDateTime: 2021-09-07T17:11:00Z
-    webUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
+    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here. Areas such as AI for sustainability,"
+    publishedDateTime: 2021-09-07T22:29:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3815897.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
-  - title: "Self-driving VW ID.Buzz electric vans start testing ahead of commercial service in 2025"
-    excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
-    publishedDateTime: 2021-09-07T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buzz-electric-vans-start-testing-ahead-of-commercial-service-in-2025"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 16
-    images:
-      - url: "https://images.hgmsites.net/hug/volkswagen-id-buzz-ad-self-driving-car-prototype_100805632_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "hFwcu0GrJpwOq8TlcepA85ReifP/TZlogH0Jp21QWTSqbryHT0d0ZoyoY7Fs7rsTOVoOI7MvFxWuVvtlg7naPDuVecrtkzg/uzVC/OuAvdZWRtsIcj/SgMgnOvJuROVWYLgxp8Vix36+fVrlF3c917JRv7ZRUYO/XvaTgwwOmPfGdwMXj+0KAc9RPTCAt4VQNuUzLwGqMAQ4Hs9IALDWr27jvvxEOVjeEocRnwcRIvlaSlKvMecJTO+Bx9kc1JXFrIwjebEAvh3B3psUPyK+1akbshMJM+9HXiRijVmVm9yrNelyG2h/QuUS5LhMmwFaIBgZYuZa2q82XQ5rvl8PyGddXoLP5vV5KpWTLmM1kiWs1iUpAkvthXapO0JXYyDdn2/nHwwtGStOsIJhf+8+8UEe7zGTN9u7j1Q2UW91CnSVwxXc10ZFuuezfHv9QsGYjUWH1PU+zoWhx9+pz/6eojifvY3AYakqr11Maj8y4aU/j07rZBQWQwrsHfT2sOus9zGDgHJKYf7IK+Pmyzblfw==;9VrOwEhtcuY1zpBo7zYkDA=="
 ---

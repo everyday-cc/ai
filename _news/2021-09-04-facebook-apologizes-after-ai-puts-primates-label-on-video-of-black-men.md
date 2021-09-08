@@ -22,19 +22,19 @@ topics:
 related:
   - title: "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform"
     excerpt: "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question."
-    publishedDateTime: 2021-09-04T10:47:00Z
-    webUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9"
-    ampWebUrl: "https://www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-apologizes-artificial-intelligence-labels-black-men-primates-video-2021-9?amp"
+    publishedDateTime: 2021-09-04T09:22:04Z
+    webUrl: "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
+      name: com/2021/09/03/technology/facebook-ai-race-primates.html
+      domain: com/2021/09/03/technology/facebook-ai-race-primates.html
+    quality: 140
     images:
-      - url: "https://i.insider.com/60187bf96dfbe10018e012e0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static01.nyt.com/images/2021/09/03/business/03economy-briefing-facebook/03economy-briefing-facebook-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Black men identified as \"Primates\" by Facebook's not so intelligent AI"
     excerpt: "Facebook's AI mistook black men for \"Primates\" in a video on the social media's site. The company has apologized for this \"unacceptable error\" and has acknowledged the tech still needs more work."
@@ -159,6 +159,20 @@ related:
       - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2021/09/ba9b2841e7154d13bda18e8455df89e7.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
+    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
+    publishedDateTime: 2021-09-06T03:49:00Z
+    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 37
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
+        width: 800
+        height: 455
         isCached: true
 
 secured: "9w3oMMAdk9nhjQ0uMJIGeR82aCfi71ehKgiFd7nHssRnRPibxVPMTLFMtJhhqkPAigzcE1v8bday+d7P3zG1Z32anI7shGtmcjGTsgTHMKI2cpUq4VW64vTV8NHs1E1OPByiQwOTO08iGblV+EEUwJYBJFokQPmxErWrtJepqW2JWj58mJqqJUu9bCFF2VSWcC+hV9toc4zjEG3/WW7TBfYi6fezQIxreC5JRCVQcR3jRkE2q1JTLROsQ7vaT863FWClSprciO9xj6PKJAg4aLPwuBjNVNzonRbUr4y7ntg7wldpxSoVRnnEhbFEfoNmvO8LiKMo62BouFS4s/wRJaHMAGtXExCSGKu/N9aJ4I7qEFz0L3+WEMhwKxBbeZFInkXAXWPxkZ5rTpLB/UXq6/3YtfWc7YL8tujYV+DwttfD8mnTrdqv3vBkHCHf4irP4sad5mkkbYSZ2ahD9VpeedcaDCqEQ2Xtj05ruk1sxkeVmdnXCq749iA/k/xZ2Wdh5FnnZLSDz+VzylURrkELAg==;9Qz+sbzoLGessgfOCU8ZDA=="

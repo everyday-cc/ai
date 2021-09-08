@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/AI_and_AIOps.png"
         width: 1358
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market by Trends, Dynamic Innovation in Technology, Global Industry Insights by 2028"
+    excerpt: "The market study depicts an extensive analysis of all the players running in the Artificial Intelligence in Healthcare market report based on distribution channels, local network, innovative launches,"
+    publishedDateTime: 2021-09-08T12:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-09-08/artificial-intelligence-in-healthcare-market-by-trends-dynamic-innovation-in-technology-global-ind"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 28
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
 
 secured: "n3wB9RH8JNmCC7Wu+b9k4tU13fNT5phxYxxs0ZcOaduKItIsZiMXBZfilzkWWRVjUCjlM7oyir9M83MdEy0WIqcLQgrR7FhscJwRiwEZ3nTMq3V6k80rw8KyIu52LY9Erhhl8OAXFMrt/8dxhDCSiw/r0WBbZ0X3I8ObjAysJsr0STFL2Oei/f8g2MGG+FsIAv5vZX0lgVv9EwfQxtctNFLKi1vJgyzyX6NYxA/0XlDUJ4Yg+FU46DPPvv2wP5j12JnCZ4kFN5pxiY6PpBxqTBIGNKPf6Ss1ImPhB7wOWT7nHsUrL2u2En7lqamGSV7k/+GWZ9BTLB/9yi9FHzc2X/JXvsqUxkyJu6QrxB9+9NjVXWtp/bZJaD5XbgFwCkLNezbffIOg5nSxYaeXZN9VjWx5zY/GhwAyILZWxBWY6fgH3NQnAQey9GUapRtM8p14Pk6ADbTG/DeihWVfmMGbhkhBtcWZe0ZqC1XU7YVWKOERHBQBxCVn7rDI4DfFVQX5C4kUBRMOy4vzZ0sNo54TUg==;J1MoprdgyNiKfi3Vpdjhpg=="

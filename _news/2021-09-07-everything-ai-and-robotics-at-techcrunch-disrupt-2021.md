@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcru
 ampWebUrl: "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/"
 type: article
-quality: 119
-heat: 119
+quality: 219
+heat: 219
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 504
     isCached: true
 
-secured: "6Kp9xtQcdT96yfcdzD2nXLvhQXddG5wZMl1T7STWpZ/dunPJpiC36ks3A7Wbtq/d27vhUYlVfWxc0ajewOkiFVqVMeSfKZe2+VfesdgyaVueHrMilTFRFox69b5jFYFnYykxQTSL0vhMBHGv0GpWEMLScRyWJBkMXfTL7lgDtClSOwApXn5RxLnoCMHvUg2bcfu3Igk5azAdeGI5ZRV0xSKQDSM1bsqkQnrlrIYS9bY2WHQ4qbADBu9M4ANGgFcM1jpGfwdHnB9HtUO5DbT4TDIVmfPnHw+qpPyKVHIraz5Qyov3uaxcKJjkMJ27FZTVH1XGJwDX4L1gPC91C3Sjz/QZpTZY88CASyIbkgp7VPOG536ZCgizpAfj6HuRGexMETIfl2zf25hhhUZ1qZACgTzGLQsI7g1Ueb6svM2YhYB0elpXsqx2yuBbwdF9eSIPU5Ny+MGpHCmEPzZNWNhQ+4TO+O/hR0efELOePffK0o2ojR6ykXUjL6oluUpm8E+CcAkPffjlhMHT1VcRDof5MQ==;do/5bXb/JYHSLLRT2sYCcg=="
+secured: "pP7r3Ivfugk65MPOjQAn+WaOLM4/d7ZBY8SF/P/4Um7OF5q4qrjKNI8UQdnczoS+s3UX2AdVoEzsi6Cax8hbW4hgA8IEGM9KLdvLxKb5eFvmeyR9EhiqobJL8vBOYRZ/urAxx8RFn1SkNt5zfQMceeGH3rmWUvO25srxC4z9K9v3xGvhgQWChc1RMvdRquSq+izZGb+ThQ8f9TSeDI46i3xDAOyw1bw4NEZC5YF5W2+ilrycfWYiYxn/JC6XXiClX4o7dC1GMS7UtA8jA7BSRC3YGWW/8HaMpCJfLqC/1gICs2tdhju4TuY4fNlIcjLme23JMwZfcQkFVqSaphR/W6zwItnnINyzqs/lUceK621lti44+oXfjMdDRt1KxK7wcpv9lH0p+KWfMIgsYji8vlCP60etKQ4VPjOT0ELi5mrFhFdPeP89r2fg9kUeRMG5UzCJQF34Cw4SqMI29oIVAr3a2WTUBAi0hN+mNmUjFth1Zq4V4r4+8nqkL+yL8PAJi/ZyZ1emlfZ7J8y3lnYJYktN5k6eAVBNjTZoheco4dY=;C7fkqpm+Q0biG8cGngAnFg=="
 ---
 
