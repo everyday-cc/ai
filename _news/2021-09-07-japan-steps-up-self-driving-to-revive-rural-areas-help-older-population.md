@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Japan steps up self-driving to revive rural areas, help elderly"
+    excerpt: "Japan is bolstering its autonomous driving ambitions with a new project to expand the use of self-driving vehicles by 2025."
+    publishedDateTime: 2021-09-08T02:11:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/foreign/2021/09/07/japan-steps-up-self-driving-revive-rural-areas-help-elderly/5765297001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5765297001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5765297001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/08/PDTN/d1074daf-fd9f-431c-b970-f622d037c8d6-Traffic_Ginza_Google.jpg?auto=webp&crop=997,561,x101,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "uIXJJ6pIRZCFh4ESBk1mTlI+GHHOpplg2t+sULdtqBR8r+Ab2y4t2pNsLkfxNjHXeO5INE56ugHdCh5T9X+V88LnPDR3zInReI1PL+8rlH2YRcI8ZIIFQXbrjIlFfNtqnNQEzEN6lbsqR3LCh3zZMhBVpp839v2e8GpeSTxkeVseINADyT11LiPeuu5iePVljteWg4XETSzwp4w+SSwQrJfEQo+D69m/G61oKvtmEJTb+zVkBQxEtb62tDngGcVU0XHRM1L7Aj2shQKAUo4V4HXtZfjSlQhK4iZmblzKPzUK9lBf1R3slDwZOwEai6JaHh6WHUKRM8cuHcw0uZ4wbO1qta0P+bm+rUgeWIrTo7I=;EXpBUL2/9QfANkuR9/HhdA=="
 ---

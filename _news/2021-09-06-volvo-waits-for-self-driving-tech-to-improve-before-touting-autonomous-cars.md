@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Making Zero Autonomous Driving Accidents a Reality"
+    excerpt: "The following is a guest editorial by Dr. Behrooz Rezvani founder and CEO of Neural Propulsions Systems, Inc., a pioneer in autonomous driving and sensing platforms. Most Americans are leery of self-driving vehicles because putting our lives—and the lives of our loved ones—in the hands of artificial intelligence is too big a leap for many right now."
+    publishedDateTime: 2021-09-06T11:00:00Z
+    webUrl: "https://thebrakereport.com/making-zero-autonomous-driving-accidents-a-reality/"
+    type: article
+    provider:
+      name: The BRAKE Report
+      domain: thebrakereport.com
+    quality: 24
+    images:
+      - url: "https://thebrakereport.com/wp-content/uploads/2021/09/Futurecar-e1630678463950.png"
+        width: 700
+        height: 333
+        isCached: true
+
 secured: "WI8NB7q7BjmmwaIWtRDdSZhYChcZP5vTHxkjHbATpDRHCLgFxaLBkr0vZ0HCLc/0mEGpcIbI+F+rPJUuwRUf+OM5LVlkhJNwVg3kgOZXTqJ0PP20D3IbEmL1I9U/LnGK9XWJ00ip/1PY/vu6HM8rKlcMFGQswoJGUmxXczJce6VQ8zgOY54CRoeLHqhdQ0H3MNFHQisq0Rl8F29LNVvI1BZqM+kxjJo2DweSbIGHGczjrx5wPXpssspzh1H1P9Xac1DFefLXE2w7PPD7AWU5D4Iwl2kJYALxPbef+g2chLmVX0nt/v9XUryDqWeRNdUGqR+tymWEZEcBYhmForDaUm64X5+LNoaALKzVOvBtCIGJTFb92sUApnwovc/v18jKNRgBcYDw17qtgk8F7pOPrPoRBPspIwM99tsyjO3gEmkFrKU2jPZLt9FqIrhdeCaKxUaiqDUeFaBbhUXDaoH+cs60k0bColsvPVSLlQ6YnofdpQQAG44pUUdvvwj5nEGa2HZNscUoBUOHoo09Km7MvQ==;OenvISU7GcC4jxdWjxaFUg=="
 ---
 

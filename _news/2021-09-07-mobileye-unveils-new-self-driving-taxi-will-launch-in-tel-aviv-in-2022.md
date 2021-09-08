@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Mobileye self-driving taxis heading to public roads next year"
+    excerpt: "The Intel subsidiary's Mobileye Drive autonomous system will undergo public testing in Germany and Israel in 2022."
+    publishedDateTime: 2021-09-08T15:10:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/mobileye-self-driving-taxis/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/mobileye-self-driving-taxis/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mobileye-self-driving-taxis/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/qg1emt5ienMI7jZgqMbEwRNJ6MI=/2021/09/08/b544ae2e-3a2b-4970-9cc8-8c66a2e33738/mobileye-av-ogi1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "L3blipadvzQ8x23mBE3UuXwk7wDpaibDBHPjI6M7qFtbq+MYWGFNLonZ8JvcBbm6og0QzI+/Kq9BiXS5MFQkAWOsb31YdxZOZe+quF/iaOYcuw+J2uH6rG611ANp2ikR1Z61tWQiPxqFGxYG2T3daCJrxBS0Ls9wuiMVMg4Mbdt3HHItjNWWIJBIFiuCrumoRz6tnj28Z9B+8dfLsJqUti+fO0tsnVfYR5qA847F4WeFxiQ06lBK3BdRXGbBepWuzwUu4X+BMDB4EFS5HKTnsodegFTNueG+NwfmQCbmGkivQB0nJgiAUCEbZXKoRvy10sdAhgks/EDLuxq2lU/Qan0FwwO3+Bl4SVAAcJlxYGEAjY2/raPiyHGkQl6kmt9z+S9UcSKSr12xS68tdjYKyvpoAI5nqTAfPOI9jfETPEbv+WhUo4nhxDt5DgWrlMLzOj2zHPW1FKw1QuD2hWThT5YCAxM+zwLlISlRe01ERtcWwgptfKHohxE57ZMTqGRuu4Et0XQSEpf4gMT3A6GGfg==;PbQsVxd7H5yIcTTRP08y8Q=="
 ---

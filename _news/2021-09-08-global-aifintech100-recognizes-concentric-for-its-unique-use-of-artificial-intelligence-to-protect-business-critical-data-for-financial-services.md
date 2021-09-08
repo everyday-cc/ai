@@ -78,6 +78,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Insurance FinTech Marshmallow Lands $85M"
+    excerpt: "The insurance FinTech Marshmallow reached a valuation of over $1.25 billion to become the U.K.’s newest tech unicorn after an $85 million Series B funding round."
+    publishedDateTime: 2021-09-08T15:49:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/marshmallow-app-457x274.png"
+        width: 457
+        height: 274
+        isCached: true
   - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
     excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
     publishedDateTime: 2021-09-07T13:53:00Z
@@ -145,6 +161,15 @@ related:
         width: 360
         height: 270
         isCached: true
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global. Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and bank"
+    publishedDateTime: 2021-09-08T15:44:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/09/08/9445061.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 19
   - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
     excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"
     publishedDateTime: 2021-09-07T17:15:00Z
@@ -155,19 +180,14 @@ related:
       domain: businesswire.com
     quality: 10
   - title: "Turing Technology Named to AIFinTech100: Identified as Among World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
-    excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's"
-    publishedDateTime: 2021-09-08T13:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/turing-technology-named-to-aifintech100-identified-as-among-worlds-most-innovative-aibased-firms-solving-challenges-in-financial-services-301371362.html"
+    excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
+    publishedDateTime: 2021-09-08T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-turing-technology-named-aifintech100-identified-as-among-worlds-/2021/09/08/9444884.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
-    images:
-      - url: "https://mma.prnewswire.com/media/1610262/Turing_logo.jpg?p=facebook"
-        width: 740
-        height: 387
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Y5arQMiIskm+DEwcDde5ECDymlVlc1nuSeKYyxbzNrZRlEb4XimHHm3TTPsBiBS68fxBxMzDIIygg3rGj+e5SLbTys7YpTpWQiHiEUWHrBje/c9sfwpFM4tkqix5eCQczm72IKUjr3wCaPwT1rwSyXJz49K3LpCR5UWc/oiGanvtCB/fVAcEzthCZF5Qy5ai8GQfZTznurTx/bzo9BJs4Kf7d2kCJd4NwVcAqRlq7HrsGEwFjOZ2aAQhoD+mtW5FKuWogxHBR711OCMB9If7QOYehku6eJZKdqmOrcpmWCW0itod5UMnyogGbVjn1Zlb+ztCBcIlnAc8jUhUrg9WiADMm4bMyuRYmBSSDLTZWEs=;xPLM3NVOqc0TClLs/H2q2A=="
 ---

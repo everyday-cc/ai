@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/"
 type: article
 quality: 165
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mobileye self-driving taxis heading to public roads next year"
+    excerpt: "The Intel subsidiary's Mobileye Drive autonomous system will undergo public testing in Germany and Israel in 2022."
+    publishedDateTime: 2021-09-08T15:10:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/mobileye-self-driving-taxis/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/mobileye-self-driving-taxis/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mobileye-self-driving-taxis/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/qg1emt5ienMI7jZgqMbEwRNJ6MI=/2021/09/08/b544ae2e-3a2b-4970-9cc8-8c66a2e33738/mobileye-av-ogi1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobileye unveils new self-driving taxi, will launch in Tel Aviv in 2022"
     excerpt: "Riders in Germany will be able to access the service via Moovit or Sixt's app ONE, which offers customers worldwide access to more than 200,000 vehicles and 1.5 million drivers."
     publishedDateTime: 2021-09-07T15:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dnaindia.com/business/report-global-investment-bank-and-
 cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,40 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "Global Investment Bank & Capital Trust Announce $68 Million Investment in AI"
+    excerpt: "The Global Investment Bank and Capital Trust team has a proven track record of investing in some of the world's most promising AI startups. The AI Fund will continue to invest in companies that share Global Investment Bank and Capital Trust's vision of making on-device AI a reality."
+    publishedDateTime: 2021-09-08T15:41:00Z
+    webUrl: "https://www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879.html"
+    ampWebUrl: "https://www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 73
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/09/08/1600x900/unnamed_(20)_(1)_1631115538977_1631115564446.jpg"
+        width: 1600
+        height: 898
+        isCached: true
+  - title: "Domestic tech accelerates investment in artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is now the focus of global technology, with countries spending billions of dollars in research and development (R&D) to be at the forefront of new technology."
+    publishedDateTime: 2021-09-08T05:30:00Z
+    webUrl: "https://en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.vnp"
+    ampWebUrl: "https://en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.amp"
+    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.amp"
+    type: article
+    provider:
+      name: VietnamPlus
+      domain: vietnamplus.vn
+    quality: 61
+    images:
+      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_09_08/domestic_tech_accelerates_investment_in_artificial_intelligence.png"
+        width: 640
+        height: 359
+        isCached: true
 
 secured: "wtD6YydZ3CwmNJdHXlc8jmdbRrw2NI4YXkfzigGxT9/YAmMN4OIdP86pnLUoTvdlG6HE0QP6yW6HtSIXX0X9F21/9tcGWDGk+8zvQh2+MwiSU8TD/8hxBGulXfztcrWo000QfMU8ufMgccqx593lH4rGrlIw3jkBSdLmcVc09LFQawdn0DbE/y2V9/WX+rMEdO2g4A7OzLJejsnb8fwDrvAly0OvKUffbIolKtjP1S9vx6M6UDK0k8bYlHDCQoomFy1MyEhcCU/vzn6mRNDO18M6m+SbAUpKdqlP7G7c/ScFkn8O6P5vh3kOvJULtRWGuEXSmwFAjYcY9UTIxe4V87nmiFN+iS/GU99M+BZixQjcYPRKk0kHgg+tOfp0lq31To5x2rhDIZzCRGWJXP2r4pGvKRiC/33hQXOcW/GLMh8N/FkuwfrXh+C63YJN72z3+jROw45LSymUYEvD3i3hFkvjyMwglmmRpfVzEIgyQDO6hgjkoj4tuknqYrAOTJ6jnuMFF75pDIp2YAJaxwuPdg==;+pqW8N6MWpomP1nxMpD87w=="
 ---

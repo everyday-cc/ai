@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-ma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Can FinTech Transform Investment Banking"
+    excerpt: "The traditional investment banking industry has had a hard time adapting legacy technology – but as the digital revolution continues to sweep across finance, the time for transformation has come. FinTech will transform investment banking in many ways,"
+    publishedDateTime: 2021-09-08T15:03:00Z
+    webUrl: "https://www.finextra.com/blogposting/20864/how-can-fintech-transform-investment-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/482ddeb5-216e-421a-a38c-d0be6599b5f6.png"
+        width: 500
+        height: 281
+        isCached: true
   - title: "A Fintech Fox in the Regulatory Henhouse"
     excerpt: "Apparently, Harris just doesn’t get why regulators have to be so skeptical of the industry all the time—which makes sense, coming from a fintech executive who’s advocated for the industry on both sides of the revolving door."
     publishedDateTime: 2021-09-07T09:12:00Z
@@ -46,6 +60,6 @@ related:
         height: 683
         isCached: true
 
-secured: "VPwAWgM8U1pgUZqtT7ySjYS+T/5mrO8A+PdZRsM5eVsDhTQpOfTXgEXh0zYSXnmKSFKLNkYp4LWK9hgeQREym5h2B2tKvLC5mLYdDeldlplAYZwG+SBjwUpeg5d+GsOFRR3IIe0uTyTFDnahXupqyrEZyUG5VDKplThUus1SyrNN+5nkTtSRAAsumrLXLaL5/EK7/wm0VcxE2MLhkJTWli5L7Qk2EcNc6Y91XQMwO5sJ6NIpRP443nM2G5KbISs5z/H/6yHOFHSCUuxJ9dsXPPCK5K/Ec89N1VxO0uEINVEuTqSDuAj1BXzKrTLuK4lLRO1ZTDUWagc57tod4D01SpZXSNP8U0bgEt0UnPh/OTI=;Gy+/ep8vZ9cjD5b//Qmmvg=="
+secured: "Y0ommCsfmxTdzhNLKDarZsDt76poQEbnD9QmcVIzouY5lRXq5l0soPF8z+EN75M+ZDEwKwfzrX3WvB1FN6ijcfRptq51BcWfsPS1uYaplf/3FwsgVdQahWJA6zNn2AKRCh1YAhfpI4WhSi8Z5yVQPeECNncdS+0bNagdEe9EbiADcdIiqXd4MdVSc50ab9T/xgU5uZISwUNDi8YdHOvRhrWtbwVuRGzxxkCk3JsK8Wec36YXHV6fVAhy0uvD/K3eNCB5mJBRTl9eoruOqm02QaBGiSUAoWBDhOweJOCuo3wvmflZG+Dat/xq6xe3OV+nT5ZVOn95N1Lu2Fx/2tlDLqxxE3Dxt00rf3O/8OC5l4+ipqWXwq1CpiYT942riv786/shEvzO4b7geq45SE+aAnTJimBOFK6Tuob9XJ5gXMWiD/Yl/hq2jlg0octfoURwuhaYXQIQutImdGASkhTAz7oAlt+9nUI6azmUUxHr/231hNEf1Cb/gj5/xWXZtre5w/rp18e+KmxiFf5kjWj6kQ==;TjZWt57rmMnHc37SOjsSiA=="
 ---
 

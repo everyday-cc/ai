@@ -84,6 +84,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Insurance FinTech Marshmallow Lands $85M"
+    excerpt: "The insurance FinTech Marshmallow reached a valuation of over $1.25 billion to become the U.K.’s newest tech unicorn after an $85 million Series B funding round."
+    publishedDateTime: 2021-09-08T15:49:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/marshmallow-app-457x274.png"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Logiq, Reliq Health Tech, AI/ML Innovations and ESE Entertainment. Emerging Leaders in E-Sports, HealthTech, E-Commerce and AdTech"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-09-05T23:29:00Z
@@ -137,6 +153,15 @@ related:
         width: 360
         height: 270
         isCached: true
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global. Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and bank"
+    publishedDateTime: 2021-09-08T15:44:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/09/08/9445061.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 19
   - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
     excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"
     publishedDateTime: 2021-09-07T17:15:00Z
@@ -146,24 +171,19 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 10
-  - title: "Turing Technology Named to AIFinTech100: Identified as Among World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
-    excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's"
-    publishedDateTime: 2021-09-08T13:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/turing-technology-named-to-aifintech100-identified-as-among-worlds-most-innovative-aibased-firms-solving-challenges-in-financial-services-301371362.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
-    images:
-      - url: "https://mma.prnewswire.com/media/1610262/Turing_logo.jpg?p=facebook"
-        width: 740
-        height: 387
-        isCached: true
   - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
     excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
     publishedDateTime: 2021-09-08T12:18:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-global-aifintech100-recognizes-concentric-its-unique-use-artificial-/2021/09/08/9444639.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Turing Technology Named to AIFinTech100: Identified as Among World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
+    excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
+    publishedDateTime: 2021-09-08T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-turing-technology-named-aifintech100-identified-as-among-worlds-/2021/09/08/9444884.htm"
     type: article
     provider:
       name: TMCnet

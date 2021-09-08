@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Bloomberg
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Japan steps up self-driving to revive rural areas, help elderly"
+    excerpt: "Japan is bolstering its autonomous driving ambitions with a new project to expand the use of self-driving vehicles by 2025."
+    publishedDateTime: 2021-09-08T02:11:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/foreign/2021/09/07/japan-steps-up-self-driving-revive-rural-areas-help-elderly/5765297001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5765297001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5765297001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/09/08/PDTN/d1074daf-fd9f-431c-b970-f622d037c8d6-Traffic_Ginza_Google.jpg?auto=webp&crop=997,561,x101,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Japan steps up self-driving to revive rural areas, help older population"
     excerpt: "The government has earmarked about ¥6 billion ($55 million) for developing autonomous-driving services this fiscal year."
     publishedDateTime: 2021-09-07T05:06:00Z

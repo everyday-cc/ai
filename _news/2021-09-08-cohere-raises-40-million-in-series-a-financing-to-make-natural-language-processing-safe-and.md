@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cohere raises $40 million to make natural language processing more accessible"
+    excerpt: "Toronto-based AI startup Cohere, which provides natural language processing models, has secured $40 million in Series A financing."
+    publishedDateTime: 2021-09-08T14:50:00Z
+    webUrl: "https://betakit.com/cohere-raises-40-million-to-make-natural-language-processing-more-accessible/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 51
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/09/Artificial-intelligence.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Cohere Raises $40 Million in Series A Financing to Make Natural Language Processing Safe and Accessible to Any Business"
     excerpt: "Cohere, a provider of cutting-edge natural language processing (NLP) models, announced today that it has raised $40 million"
     publishedDateTime: 2021-09-07T18:33:00Z

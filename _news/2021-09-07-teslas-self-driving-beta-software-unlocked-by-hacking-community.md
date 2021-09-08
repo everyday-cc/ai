@@ -59,38 +59,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Feds Turn the Heat Up on Tesla's Self-Driving Feature"
-    excerpt: "Due to concerns about self-driving accidents, the National Highway Traffic and Safety Administration has told Telsa to provide a significant amount of data on every car the company has sold over the last seven years."
-    publishedDateTime: 2021-09-03T22:16:00Z
-    webUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature"
-    ampWebUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/8178c13/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcd%2Fbf%2F781c440fda8cf1d7b16e94b883db%2Fshutterstock-284409203.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Tesla planning wider release of its 'Full Self-Driving' software"
-    excerpt: "Nearly a year after Tesla started testing its controversial Full Self-Driving (FSD) beta software with a select group of customers, the companys CEO Elon Musk said he is aiming for a wider release by the end of September."
-    publishedDateTime: 2021-09-08T10:49:00Z
-    webUrl: "https://www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
-    ampWebUrl: "https://www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/tesla_ians_ukvnBpfhdebii.jpeg"
-        width: 745
-        height: 568
-        isCached: true
   - title: "Tesla's 'Full Self-Driving' Software May Open to More Drivers. Should We Worry?"
     excerpt: "Driving\" (FSD) beta software to a limited group of customers to mixed public reception nearly a year ago, but now CEO Elon Musk wants to introduce a wider release before the month is out, according to a recent tweet from the billionaire."
     publishedDateTime: 2021-09-07T20:05:00Z
@@ -123,6 +91,15 @@ related:
         width: 1199
         height: 702
         isCached: true
+  - title: "Tesla planning wider release of its 'Full Self-Driving' software"
+    excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of customers, the company's CEO Elon Musk said he is aiming for a wider release by the end of September."
+    publishedDateTime: 2021-09-08T14:59:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3816288.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "h9OgBWnkWLnjJpirLvbwD5vGRojphLkvMA+fmXhcddcHOZAL/Hn/Otu5BoOGtCHO72CSyphPAsPCzD6cg0sriCC7Wu37JN1m5X5OqNzI80QbfY2NypXbxgbGZ3sTbDU4lGYp0d00VLlgQ3Nj+XBsyxEr9MT6hfd5pL+xEV5T5BsEyk+FDrU7kvc/A40X/1PflN5AtV0AShYL2nOCmtVT36FY8pP8e15jkenwXmn4QXGwLl1nb0Hrj8aShXl6HbHuYbMm3S/P0fDSh9WkSTfIdRohXA44sDgMCKWSIuzAm0dGJeS6y53fOdpFOLgW2HjYippQNp7J0JBszAjzOlkuBBsTowwzCxxRFX7LRvQdEHE=;Q36MaIvu8TKuF05tgsdqzA=="
 ---

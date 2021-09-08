@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Feds Turn the Heat Up on Tesla's Self-Driving Feature"
-    excerpt: "Due to concerns about self-driving accidents, the National Highway Traffic and Safety Administration has told Telsa to provide a significant amount of data on every car the company has sold over the last seven years."
-    publishedDateTime: 2021-09-03T22:16:00Z
-    webUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature"
-    ampWebUrl: "https://www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/feds-turn-the-heat-up-on-teslas-self-driving-feature?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/8178c13/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcd%2Fbf%2F781c440fda8cf1d7b16e94b883db%2Fshutterstock-284409203.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Tesla's Self-Driving Beta Software Unlocked By Hacking Community"
     excerpt: "Tesla Inc (NASDAQ: TSLA) is working towards fully autonomous cars. The company stated that every car it sells today comes with the hardware necessary for full"
     publishedDateTime: 2021-09-07T15:34:00Z
@@ -74,22 +58,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/supercharger_16_0.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Tesla planning wider release of its 'Full Self-Driving' software"
-    excerpt: "Nearly a year after Tesla started testing its controversial Full Self-Driving (FSD) beta software with a select group of customers, the companys CEO Elon Musk said he is aiming for a wider release by the end of September."
-    publishedDateTime: 2021-09-08T10:49:00Z
-    webUrl: "https://www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
-    ampWebUrl: "https://www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/tesla-planning-wider-release-of-its-full-self-driving-software-news-topnews-vjikNyahcfife.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/tesla_ians_ukvnBpfhdebii.jpeg"
-        width: 745
-        height: 568
         isCached: true
   - title: "Tesla's 'Full Self-Driving' Software May Open to More Drivers. Should We Worry?"
     excerpt: "Driving\" (FSD) beta software to a limited group of customers to mixed public reception nearly a year ago, but now CEO Elon Musk wants to introduce a wider release before the month is out, according to a recent tweet from the billionaire."
@@ -123,6 +91,15 @@ related:
         width: 1199
         height: 702
         isCached: true
+  - title: "Tesla planning wider release of its 'Full Self-Driving' software"
+    excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of customers, the company's CEO Elon Musk said he is aiming for a wider release by the end of September."
+    publishedDateTime: 2021-09-08T14:59:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3816288.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "ZnbdoGKQS179nksBXGf/5jxKM4l1VOvsY5O8C/oqSB1jY5CQDXgXma9RNpE+6k4J0LHGavuSNchzcoD/ixFVnoZ+v26fNPpEwF08HR/AcyLYhInqyppWS5px7LCyJk0saSStyvpKUaGoxlEwusCnf/8aD2f46V7XOU/6DncEWXqZDkS1c39h7JKNpncxDX8icH9SD3kF+LvXSE9UcrR0g2/dZigX6oKSMC0v5oE6r+isQBSRbEnEdoxdiAndkPWcpZp49vFR/aBI3H5NF3XtBTXrIlf66ixhgwRtADKFeREVrFFCKmhhHK2b2/lNGdS6OF0/fdTKRq7dq8C43ZQbIXN1IEqkkSdgkKDNoxCv/5ireZl8DXkEB6HIDoY5LRwj/jVMHoFyOu9jqk7V77h1rTbYjsN1xHgYMXlSjJSYiPGaf/gEtFb685fCDbJ/kBW4oVBZwTGPfQmtFK+uHxEUjZBeaSyQY66Ka4z9AC7sOdtBU2n8cImRtwYscKJOcW+iH1hmY5VHkuu5XhA9bFIODw==;UGwB0LJN4KEgO6MaC8TJhg=="
 ---

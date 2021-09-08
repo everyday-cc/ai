@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Turing Technology Named to AIFinTech100: Identified as Among World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
-excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's"
-publishedDateTime: 2021-09-08T13:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/turing-technology-named-to-aifintech100-identified-as-among-worlds-most-innovative-aibased-firms-solving-challenges-in-financial-services-301371362.html"
-webUrl: "https://www.prnewswire.com/news-releases/turing-technology-named-to-aifintech100-identified-as-among-worlds-most-innovative-aibased-firms-solving-challenges-in-financial-services-301371362.html"
+excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
+publishedDateTime: 2021-09-08T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-turing-technology-named-aifintech100-identified-as-among-worlds-/2021/09/08/9444884.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-turing-technology-named-aifintech100-identified-as-among-worlds-/2021/09/08/9444884.htm"
 type: article
-quality: 4
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1610262/Turing_logo.jpg?p=facebook"
-    width: 740
-    height: 387
-    isCached: true
 
 related:
   - title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
@@ -84,6 +78,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Insurance FinTech Marshmallow Lands $85M"
+    excerpt: "The insurance FinTech Marshmallow reached a valuation of over $1.25 billion to become the U.K.’s newest tech unicorn after an $85 million Series B funding round."
+    publishedDateTime: 2021-09-08T15:49:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/marshmallow-app-457x274.png"
+        width: 457
+        height: 274
+        isCached: true
   - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
     excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
     publishedDateTime: 2021-09-07T13:53:00Z
@@ -151,6 +161,15 @@ related:
         width: 360
         height: 270
         isCached: true
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global. Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and bank"
+    publishedDateTime: 2021-09-08T15:44:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/09/08/9445061.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 19
   - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
     excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"
     publishedDateTime: 2021-09-07T17:15:00Z
@@ -170,6 +189,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "avmFzIWKzt56qZHykcAun2WJt9nflVHEc6frl6FDZuRbCUgKmLGRTbEDxtsLslzw5PM5tF+/Iql0IslD3vqQcRjUSleUJdcAlfKgYgqnrCVuJJ5zfAb3kSxFy805d++QgiUDD9DNDydneLtm2ttlResjbq7ft0Ko8yCN0LKPzrGUO06Rz2Gjb5HDbB0JW4cjHSUBmGND7oYNJJs3yd4S6FCU/RzRB+4Qris8qtePE4XU9gCHCPHQLogHHerjOF/vpv7p04aEPlDLL+FpO2Mawnr4+WxNz5BMIv6JIb08hiYSok2/eIFn6IaqdOEAerg8pwLjiqrCfG2WsQIg+nFWdoAdW30p0o56BFmeZrUgUMU=;3o3K0mHvauOqPArsGhqpUA=="
+secured: "lJHjtKQvooizNpcVCBwzKsfnwEOS1TSqa4YqOJm1WhuC4aSb+NnCEQ/SBNw+ebBbA+CYyuaUI9jjaqqgWs8VaQBLfUkRCVoduHkzhd0lNrckbfAK6peEDFk4XeJ6WbMxh0d8Hd8/P+7BYlrFoqMymGWXHtPnlcADtYQ0qo2AH/fD/HZodZP3BylN/KnbMHlam9mCZpA2nLVSLechEtv8x5YElSMExaWCelT5sxEfRkWQU/a1+SQAgCtRV9z9+lkUePrZl0O4ZPSR4D7+2vQ7gAkbNSAiQ/wvVmaqb21aPgydeDYSmrDJRZwToADjRjb8Qs7+OzCixi6/12JBVpDcdYtYgrWyh3E06M7/dKKLJNQ=;CnooTBPrEiGYiE9DJnsHVA=="
 ---
 

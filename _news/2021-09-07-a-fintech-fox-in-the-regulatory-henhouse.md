@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How Can FinTech Transform Investment Banking"
+    excerpt: "The traditional investment banking industry has had a hard time adapting legacy technology – but as the digital revolution continues to sweep across finance, the time for transformation has come. FinTech will transform investment banking in many ways,"
+    publishedDateTime: 2021-09-08T15:03:00Z
+    webUrl: "https://www.finextra.com/blogposting/20864/how-can-fintech-transform-investment-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/482ddeb5-216e-421a-a38c-d0be6599b5f6.png"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "PYmDETJAcYbnXcTDb7qcWHw24q17MSxiJy2wCvMhX9vf5Ph1kfPl8IDFvpvftLrEq9CXs+Ml+QWcvCFVd5VjUrvDov1BSPX8vmFKzOv+TTmTq/UI/7HIurKZCj6UqInWfPbhbEuZ9aTyizBLUljB5xkIeFyJVLk9+Ic/8BcQsJ4UgcoQRM0OqUQaTZS19tRpaUF2VMpWmB+jBtdjh3AftRbY+Hf3mOSP9Z4Y9NjZ3pJ8HgwRomLqE/+r8+3MrmImSzUtm5IDDmhkGgk+Lz6/PPsaSfx1R/Uueu6Fx4GLolCS4W84A521+a7YOIngdUHi9l8c4xBd+b7uzmpYFl4OD0GX2I84Jj1niTeGh89wqCw=;0hp8a74zpKE9oTF3vnIFkw=="
 ---
