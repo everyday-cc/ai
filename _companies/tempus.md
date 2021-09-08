@@ -4,7 +4,7 @@ otherNames:
   - "Tempus Labs"
 overview: "Tempus is a technology company that is building the world’s largest library of molecular and clinical data and an operating system to make that data accessible and useful, in an effort to bring the power of artificial intelligence to healthcare.  We enable physicians to make real time, data driven decisions and deliver personalized care for patients through our interactive analytical and machine learning platform. Our goal is for each patient to benefit from the treatment of others who came before by providing the health care industry with tools that learn as we gather more data. For more information, visit tempus.com and on Twitter (@TempusLabs)."
 type: "profile"
-heat: 41
+heat: 92
 
 website: https://www.tempus.com/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tempuslabs"
   url: "https://www.twitter.com/tempuslabs"
-  followers: 4352
+  followers: 4353
 
 size: 501-1,000 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Vq12pj50s0w"
 
-secured: "fIC093mB9TgwzlNBIKIs+N4jzaCMx3MUXV53v+HNVJSQpbfzp0kilWfQ1ijHwxxQdZsdy4HCVsV9ZALwKm692W8DHIphOr6HZtuLeg76g+3jYELsR15cI3ybbAvcQzKqSJ3MTNWN36X4m64Cmaf1WqSJDco2ieJsoGbtsF0j6Vni6jv/Rk604TGRu+/zThsEvVOAhnwW4a2R0blnvr8LQyfEA9JHWRYb41Aw3g7ouHE9A2edYq53CfOtAVNzGqfk/u8V2ajCTro9tKEsiALU3jxoZPqpL4yMzOxBb8we4+NVIH6otr8RGPTVOc5l40UbR10gz4BZ0EHQWjH1LvinZC+fGW7dEJUw47TlE9Y/hA5FcWaXnFRchX9um/+jcx4SHwgUKfW+ydCmVX5nQcw/kvfy0g86SD1alTZTYgI4BZw=;N2f5U2s7yOxXEzMuzgIKSA=="
+secured: "gr44bPB5vUHdM1vq9n1uzUrdP2HKrqhSCD/2kbh/XfFAZ+ibXfuU/jaNgkIT4ohOmD806hv8+rRrqVpLb/gOkpa5Omam4iIgixTvO99BQn1uyQDcctK8EAPQJOtP5w3IYnI+m8iS7RXmFBdFXfnWu1PtycFXngCYyAZZE8AeU/HNe9Tr5YLz1Sa+hy7LUOSMZP3nF6miDx2G4AQJI60SU3gwwVy8QsU1y6FJbA6vJ6f3Z6LEWnSWRxTyhu4V5LWhAVho37A4h6NpLzjWuRejL2n04f3RNsgE81ozUKXgvpvlw7IkVt/9f088bqSgHPSkWtlXLYz2TgFSLQUV1GwKQP7NKSGxvbn+PuZ80XbhK7rEC83kDpyO1S7e0ZSkvmgTGSjgFKqfH2+m4E/IZXrKVvNLDAfGexYz9+mbRsyax3o=;6+v8falGQ0h1gyx/WiX55g=="
 ---
 
