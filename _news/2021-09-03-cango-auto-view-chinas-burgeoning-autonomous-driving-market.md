@@ -6,9 +6,6 @@ publishedDateTime: 2021-09-03T10:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/cango-auto-view-chinas-burgeoning-autonomous-driving-market-301368989.html"
 webUrl: "https://www.prnewswire.com/news-releases/cango-auto-view-chinas-burgeoning-autonomous-driving-market-301368989.html"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
   name: PR Newswire
@@ -18,6 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "mdE6dXIz6XmFR+dKLmRU6S5VXkFOIw28xmn/Qsz4DOXUCcWEhMws+G6XWRfaabvmGyEBPC6pjjycVnblahpMOsQWfzbmebrjHKpqwolgVIwAH6VmKn1BpGOaLD/vfKTa7AEKseul75jgft/hg30e/JVwCiCzzb5os4kyjOuvE/6SiqFf800dabi6YJVnPFaCrT529TPSsaEoa6cCCF3vwKnanrHqLzabQfWodpHwUVXa4n4yU3a7FBmhacrrB6EyOMH4pdPYX0fpJqoJxSWS2/CQjf3xqQ7sSYO0QoUrFz0EYOJanB2GkBVMNcRIRLVs/hA4sagYazjFbynYVp3drLGhwaTs2Xt8zaT6XpkZlmY=;WtCsgDXZY42E+fedT/RVlg=="
+secured: "MCdC2H76xqZrO0zB79X61x8GcJWLmWw3pq9rThl19u0OxbkfcbW+IdKGPIkUAljSQ1f0faY51uQSS2Io0+6WhO0IIA8cUyiTLh4oboMBzp/4z5iijnmKvhpUt/jVF7rzozmZL3dkCqFqpH+wooUFayh0xkc1wX9FhMuU/17YW4hDquha08W3cQV8YGGvq1B5J3yIMc9oKY2MobdGcdaaefmB6UdrphSJF7fvTeDNBRirlF4Xf9f9TJxPH8jbL3goMU/gyfk5Z7I2/pj/q4hoKP/76exDvwG9A8b6XFbgzaTX2Boestt4fcMOnI1GH2WAz0BLGkeTAXgnhSSRHAEGCVTM23eMer/uFvlc9x1lsKI=;oQx3nwPlVetbsSeGk6QcSQ=="
 ---
 

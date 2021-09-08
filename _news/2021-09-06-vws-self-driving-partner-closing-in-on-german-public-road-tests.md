@@ -48,7 +48,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 19
+    quality: 21
   - title: "Self-driving VW ID.Buzz electric vans start testing ahead of commercial service in 2025"
     excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
     publishedDateTime: 2021-09-07T11:00:00Z

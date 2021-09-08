@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mobile Artificial Intelligence Market Size, Share, Manufacturing Cost Structure, Revenue and Growth Status | Global Report 2021 to 2026"
-    excerpt: "Effective development policies adopted by various companies are creating new standards for competition in the global Mobile Artificial Intelligence market. A report, titled Global Mobile Artificial Intelligence Market Research Report 2021 - Impact of COVID ..."
-    publishedDateTime: 2021-09-03T10:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-size-share-manufacturing-cost-structure-revenue-and-growth-status-global-report-2021-to-2026-2021-09-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Propelled Modular Transporter Market Size Report 2021: Market Share, Trends Analysis, Supply and Demand Forecast by Region 2026"
     excerpt: "Sep 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
     publishedDateTime: 2021-09-06T05:49:00Z

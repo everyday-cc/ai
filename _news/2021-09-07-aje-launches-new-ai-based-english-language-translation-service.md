@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank to offer AI-based, real-time sign language translation"
-    excerpt: "SoftBank will start providing an AI-based sign language translation service as soon as 2024 using a smartphone app that can turn 5,000 signs into Japanese text in one second or less, Nikkei has learned."
-    publishedDateTime: 2021-09-03T09:56:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/SoftBank-to-offer-AI-based-real-time-sign-language-translation"
+  - title: "OpenAI Launches Programming Language for AI Workload Optimization"
+    excerpt: "Concept: San Francisco’s company OpenAI has released Triton, an open source, Python-like programming language that lets researchers write efficient GPU code for AI workloads. OpenAI says that Triton makes it feasible to attain top hardware performance with minimum effort,"
+    publishedDateTime: 2021-09-06T06:41:00Z
+    webUrl: "https://www.retail-insight-network.com/research-reports/openai-launches-programming-language-for-ai-workload-optimization/"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
+      name: Verdict Retail
+      domain: retail-insight-network.com
     quality: 39
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F7%252F1%252F36241707-4-eng-GB%252F%25E2%2598%258520191105_1866.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/09/shutterstock_600203855.jpg"
+        width: 500
+        height: 334
         isCached: true
-  - title: "SoftBank Corp. to Build and Operate Aichi Prefecture's Start-up Support Hub “STATION Ai”"
-    excerpt: "SoftBank Corp.'s corporate page provides information about SoftBank Corp. to Build and Operate Aichi Prefecture's Start-up Support Hub “STATION Ai”."
-    publishedDateTime: 2021-09-07T06:18:00Z
-    webUrl: "https://www.softbank.jp/en/corp/news/press/sbkk/2021/20210907_01/"
-    type: article
-    provider:
-      name: SoftBank
-      domain: softbank.jp
-    quality: 8
 
 secured: "jKhgzFjknSJ+7fj02pP12f36gppY0eooZXSRNZz5lT2Yjn/n0avABgekbvbqDp9k7/5H6KaPXyY4pe1JvelPxs7yXMrOCPI71zJnmv9t+y1aURK8ihsfSJSzZEBfz2ytOXP6vH+06fSTRKxIFq9NO98TIwoZar2Fb/1D4/hBYyh82JDwfpqo05yPCAzjC3NN8ES88/hCwEC+AZz2Jm42o0XKD3vDIrQQ52gIY60vtyO+k3o5PdB1ttYQ4HFIIRGrI+qhu3/LRgVq0dmlB6303OOeeBaJTDb6wpxEl+2APFD7vBPQXEfpxYCszKgo3GdcxVC5uJGhqu/6QnkTEqXfhWXAr447IVYOc8wWtR2nKDriGvtNfcNFKe77OMSLGhqtmiUsgrHaXUDhaQpjO1Gi2iWfE0lH3hGqQhRtkYgZzYIO3vj2hPcibLLyKqa54gKiMnaJcLlsSp3HFVrDbHBgHWlqpQN//Nx9AWOuYPuRY5GsEpGVBJ7zDwkrugjT9fnAQgIP3SbSzqQLN7Hn0exIDg==;f9kSKKyUBfIvZgnEl1XpSQ=="
 ---

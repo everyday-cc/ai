@@ -84,22 +84,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IHS Markit Announces Partnership with FinTech Studios"
-    excerpt: "IHS Markit recently announced a partnership with FinTech Studios to deliver highly relevant market intelligence, research, and analytics within thinkFolio."
-    publishedDateTime: 2021-09-03T09:16:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2015/11/partnership.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Logiq, Reliq Health Tech, AI/ML Innovations and ESE Entertainment. Emerging Leaders in E-Sports, HealthTech, E-Commerce and AdTech"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-09-05T23:29:00Z

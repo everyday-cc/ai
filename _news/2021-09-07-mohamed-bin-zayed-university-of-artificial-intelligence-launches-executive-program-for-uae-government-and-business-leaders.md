@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Mohamed bin Zayed University of Artificial Intelligence launches Executive Program for UAE Government and Business Leaders"
-excerpt: "The Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), the graduate-level, research university focused on artificial intelligence (AI), has launched the MBZUAI Executive Program, designed to help the UAE's government and business elite unlock the potential of AI to ensure smart management,"
-publishedDateTime: 2021-09-07T10:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mohamed-bin-zayed-university-of-artificial-intelligence-launches-executive-program-for-uae-government-and-business-leaders-1030783394"
-webUrl: "https://markets.businessinsider.com/news/stocks/mohamed-bin-zayed-university-of-artificial-intelligence-launches-executive-program-for-uae-government-and-business-leaders-1030783394"
+excerpt: "The Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), the graduate-level, research university focused on"
+publishedDateTime: 2021-09-07T15:10:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/mohamed-bin-zayed-university-of-artificial-intelligence-launches-executive-program-for-uae-government-and-business-leaders-301370143.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/mohamed-bin-zayed-university-of-artificial-intelligence-launches-executive-program-for-uae-government-and-business-leaders-301370143.html"
 type: article
-quality: 43
-heat: 43
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Ethics
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1609473/MBZUAI_Abu_Dhabi_UAE.jpg"
-    width: 400
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1609473/MBZUAI_Abu_Dhabi_UAE.jpg?p=facebook"
+    width: 2210
+    height: 1157
     isCached: true
 
-secured: "aW2NY3S3NzjEfqTS1NDR22dJfqp4jgcyDHspUHE5VvqaVa7SFh4Pmg8OTLoQBk62P4F2KWIjwpDxT4JkuAekYobOLt9f0VbGKzbTFiR42alE9gminzrE3UqDuCKwI6R7THLHrK46xq+5mxSXxFfRQnJ4jDNMV4Cey82154o4OHkx95jynxts7QZxP3NW1yOyvolJSpwZsH+xnfXsS38ii40Rpv8qxl8vCTs286uxMUz8+9TXvL09tCCiUxKvXbGhV2v6mfUCEHjcXwMgK7vUwyFOMxcye62BCnWqmSj8ogyc8SKCtZCBHKBkvOHpCpombcgyL6lYi7FGJLBaks13DmXvOmK0iwm4nFDW5+mskGc=;h6p1ruOYBaJNselo+EhmzA=="
+secured: "m2ION2J9aE5FcM9A+nBk45lSML1fEhsC0ak61Tugf6zWxQLtAl7Z1wGS8R8RgS+6xJ4d/jgEV8YG0yVzHDQSeoU1gTGawGySN1YEsvVHH3zNZm9UU6Na1H75CoKXxjwTdNoPosbJptOJuy6IsU3YypMArawjpPUxL2rsGTi3WzjMGns3vEsEvWNTvikXSVs3sd8AHwtOx9k/ABj16us7XlgBARq0yr7VvmqFFG234xe3c/WjSAcYQDU8qayjpM6u8uM1s4N2WpE+H685hq4FCu9yPWLfwgsXmlu2WzCuuklSzF1MpcVjesot25j//gSVkjZJpgcqwkcKAppSzUfd7FxFDlcQviu7NPZH6/6TVa4=;gOpTrpk6eaKgZ32OthnGBA=="
 ---
 

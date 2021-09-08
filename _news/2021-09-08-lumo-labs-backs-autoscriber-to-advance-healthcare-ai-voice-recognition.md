@@ -8,8 +8,8 @@ webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-back
 ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1746429518-457x274.jpg"
@@ -26,6 +27,6 @@ images:
     height: 274
     isCached: true
 
-secured: "tNff+pnYPvWVMYpkyYe1yOnr9dI/dFnzh4SvXFcH6QyvfGiE3hRJcG/DmrxIqkeXtqwIOiGzT2qv/JRAiGhvBFKdWtR9Hr2kJO697nsuMImV87agNtMFAkPqHlPC4s3pttcyjuBF9vX37z9a/3DEX053Uc92erLzxBmjEsWYWeheJ+bj0Pc/KsSwzsIhFgJRerGb8CSztHE0ZIp3b/kkyNQSIDIXXT8NiHRYsRj+SbC86DbDYtxm2LmRF8MwsZpJw4VWzAmEy7dXucR4kOHhTqFCuVZd+ozoHl8J8wYI1advygxykNPdNzZ/k6t5pUyzxBOP9NRGBk+Ixg0YArfMpf0ufLOFQskh2LHFUjV4dnI=;RpW/Gl5IlHhl//TzcVJBpQ=="
+secured: "fCoRXx6fgLk6kM160dGoW84tXMRficuxcFo6kmvPwFFPxp9zH/+8VkMpr7uzrF8Gwlot3biN/3TvmSY6GA8KUyKlIny719dC4Y77w44jAjFH5MyzZXyl3I0uNvggavKWxqx/9G4ybQoLBPgIGEHlZfs/qA5hHgnjeKWH+EH4Y9b2z5OL3Vvc+QZ81fWj1qKIP4jZI7Hc/HKj9l5n0b5rtuOtWaE26aafFBqBgIxfEFcu5n/UThvQfvoSWP+kxhPFRiEgsq/AKlVIvuBxmQV66UMP0qZIRlGC7eJeT7fof6xGpdqXTXwSrTCoxvUnFPugRRKyTV0+wdBAoJeMF+rNXWVV9/wLo9THR0yi3gdKUPqXTBgSfkIDHIpmhd98cPyDl235GHEcgHPixUBZZz1JSilwSSLvONa0DMRchBM3nMpfEVFMO1i+MoInAM+OLsrD422mshZ7Ijq101i44yU8BqK9iYt7bEOqeryQTLEKdQ0VCuKxV9UxM7ovRxnttWt1AzE7ZOcOMNynNSSox31tqA==;E1g3hMTXfraqJ7AIWBTCOw=="
 ---
 

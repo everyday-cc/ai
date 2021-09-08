@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 560
         isCached: true
+  - title: "NSW Transport taps into AI and data analytics to improve road safety"
+    excerpt: "A method is being developed using AI to help Australian governments improve how safety standards of highways across the country are assessed."
+    publishedDateTime: 2021-09-08T03:13:00Z
+    webUrl: "https://www.zdnet.com/article/nsw-transport-taps-into-ai-and-data-analytics-to-improve-road-safety/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/05/03/cad0f4b7-8a61-4f10-8771-acccb9865e9d/thumbnail/770x578/3b171bf8aec675869f79131a1a30ba3f/australia-roads.jpg"
+        width: 770
+        height: 578
+        isCached: true
 
 secured: "Ipbj+ERgebtkOADGfWwY13w7W3IojkjlXCC4CF3CsQl1kU/oh7XAV5TBEDyElmZf7z9f5xXdEnnYPUp/sPv2ITLnts3ItWnZXk/5wnWPN2Z4y9Zf13sGJuZda6xxqHz0742gokoadxQyd/Xoi7FpR38lLVlh3w3nJeUmbuG5XTQfeP+4BvjPXJ6ik1cI7rS7iVokyV+rJxchX6CHKHqvnO43p+GLNB2XEsyrxZF8DqDGNQ3wgU7XBdY2lWL6L3DxuZRFkEYYsNMukfcF8aMmXcEM40tws+rucY8lMTtwj7GpaQHQeP+FnQ4lxlBWwwNUxMBQ7+pkxD8PlyFUtbsG3xidts3ER9dWdJnZw6pGlBqcLb+fkuWpdDReZw0tzqvVrsT0JcDoacXAUyvGdStlT3yvegyW9WphJzrQndiX+aJm9OUESvjrJwFFzGvRgCBFbK8bRHWlkM9ChIP7WyBanq0WIs4N6NpNrkBhreQZib2lPcMnvnYpaK/SXT9Ae+ijIAW5TAUJzT246qlV54nxTg==;DkH6C2WC6VMsDPfTEIsWDg=="
 ---

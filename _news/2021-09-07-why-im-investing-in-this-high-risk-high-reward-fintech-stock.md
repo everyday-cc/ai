@@ -69,22 +69,6 @@ related:
         width: 1199
         height: 630
         isCached: true
-  - title: "IHS Markit Announces Partnership with FinTech Studios"
-    excerpt: "IHS Markit recently announced a partnership with FinTech Studios to deliver highly relevant market intelligence, research, and analytics within thinkFolio."
-    publishedDateTime: 2021-09-03T09:16:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/ihs-markit-announces-partnership-with-fintech-studios/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2015/11/partnership.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
     excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
     publishedDateTime: 2021-09-07T13:53:00Z
