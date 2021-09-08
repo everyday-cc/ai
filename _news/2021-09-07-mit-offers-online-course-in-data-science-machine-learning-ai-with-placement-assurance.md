@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/mit-offers-online-c
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/mit-offers-online-course-in-data-science-machine-learning-ai-with-placement-assurance-4174001.html"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data science, machine learning, and AI in fitness – now and next"
-    excerpt: "Data science, machine learning, and AI have become critical technologies, penetrating almost every aspect of our lives, including fitness and wellbeing."
-    publishedDateTime: 2021-09-03T07:56:00Z
-    webUrl: "https://dataconomy.com/2021/09/data-science-machine-learning-ai-fitness/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 54
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/09/data-science-machine-learning-ai-fitness.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Hero Vired announces placement assurance for its full-time program in Data Science, Machine Learning, and Artificial Intelligence"
     excerpt: "Hero Vired, India’s premium edtech company for professionals and higher education aspirants, has announced Placement Assurance for all aspirants enrolling in the full-time Integrated Program in Data Science,"
     publishedDateTime: 2021-09-06T10:14:00Z

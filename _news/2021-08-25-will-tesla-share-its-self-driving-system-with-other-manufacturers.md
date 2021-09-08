@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Will Tesla share its self-driving system with other manufacturers?"
-excerpt: "At a recent conference dedicated to artificial intelligence, Elon Musk indicated ... and numerous partnerships forged in recent years by Waymo, the subsidiary of Alphabet (parent company of ..."
-publishedDateTime: 2021-08-25T08:08:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/08/25/will-tesla-share-its-self-driving-system-with-other-manufacturers"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2021/08/25/will-tesla-share-its-self-driving-system-with-other-manufacturers"
+excerpt: "Newcomers to the market could very well turn to Tesla and their technology, which now has a significant track record."
+publishedDateTime: 2021-08-25T09:46:00Z
+originalUrl: "https://www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998"
+webUrl: "https://www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998"
+ampWebUrl: "https://www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998?amp=1"
+cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/will-tesla-share-its-self-driving-system-other-manufacturers-315998?amp=1"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Astro Awani
+  domain: astroawani.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/08/25/1268743.jpg"
-    width: 1240
-    height: 826
+  - url: "https://img.astroawani.com/2021-08/81629873606_TESLA.jpg"
+    width: 590
+    height: 400
     isCached: true
 
-secured: "Ym4yD31cM++LuEqjNoG7eDfVVVH+UiH6OJLG1SN+BJWi/YA2ZjCyqqf6ADK9T2yMUD4eJHZhNGXixVr32lhEHy7okIPF7bU7ohHweZh6jMNCXV7NMwEZishJ48E88xdVogyke8vLslGHYFRH5g/y3iPawJPYMlOSzTXKSYoD5UFM9fViKXgBAgmeSnqR1md4fPvVJTBEHySGcQzRcynewa6JbmzTZzr690Y1gFZZ8acC5xtTDyYGCloY/pVmxIQb8/oKS8gJ0cuvK9xttR9dVnfIsvGkQusKX6zu2NGDPAirBR5ZT+/NNR0kSx1eFzS+xq39hKlHe0gCevQ/h6PCUFFQffuTHEAunuwS7hAHJkRjIu2xEE9wc4bKalq67hH9Ac7BwTCBmd1ykrNdmBCgS0migURR9YckOJpUl8b5CmZ4krdQCSEhpLkDaC/5NXUwufevT+WcPgjcjRQjQWJt+OLdPR+IvQHcL1wWSVsjfsepbO7kxPhfcelF5E5svcJp9ztPJnfnqs5dpwN/xsNpMQ==;8mCYLeFdP66d4S0ZunnHwg=="
+secured: "o7FqGdodFFxK7RqyTuAwCuxcxi5Y6/pEgQRk44CbIpy+deSzbK3LJnV9dZsR0izNfhXe+DvB7oXe5JYqHcvOETq1RhGgUna1hgPldiua12OCMS4Gff7X1r5C0ww46yvI4NsXpnDgTXSsgqqufdOwo2KDjL3D3JUVmD36jUc10xkTqzVFmi1j2vqioUhcAZEekc35y353t9Ee9GSciQYddv+L6IEA0GrZJ7+QTqm/mT4/Ih4w9h5iGuljGSU748qAf+SQdFac+E3bS4yF5ViP7UECciKEMspq6x+ozs8lgY9rf4nN2dqpwn3pwgi1AUvKtbe1Ji/HO2olVB/xruUOuztJnDuEmz6t3AUNaIEwTc4=;I9n2Jy8ySP8mxP8rJ0mbdQ=="
 ---
 

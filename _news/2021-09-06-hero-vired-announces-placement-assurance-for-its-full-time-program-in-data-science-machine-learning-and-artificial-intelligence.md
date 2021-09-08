@@ -44,20 +44,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Data science, machine learning, and AI in fitness – now and next"
-    excerpt: "Data science, machine learning, and AI have become critical technologies, penetrating almost every aspect of our lives, including fitness and wellbeing."
-    publishedDateTime: 2021-09-03T07:56:00Z
-    webUrl: "https://dataconomy.com/2021/09/data-science-machine-learning-ai-fitness/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 54
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/09/data-science-machine-learning-ai-fitness.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "D+rHajtQY3InIBgr7MgOWS7E4w9/7U5Rss/DOwEhZvbdBHd0+pjaI4R9PlhQ2OUxuJOdqmlhfYGMqe03r1pXtatRwKiFHtNFRf17ncas5UaYV8R4x/JYIm3agn3YudLeoRzmzdN5ym8b/36vMh+HqRvoz5bCaQVsqXxVO/OOBWvgPnw1w0rhrUJS+KCPYHS4ZM4gVVyRVPYjs3GP5HX6ATDooP6ZPeVAwcY2mQrarx5yA5QvQkAZRZOYxdQpuJFw+AQhvLCsUezGBQ/j1OveOfiTYQernSJWMXX0V48k3liwoYF0dnT3hd+YgRyqKvnGVFviOo0eZ9d8ouuq1uI9o0XGJL1Aj2tomDDYJmnJQuQ=;9l6MSzU9gydZHGuMixv76g=="
 ---

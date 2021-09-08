@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-07T22:16:00Z
 originalUrl: "https://www.cio.com/article/3632648/how-mastercard-s-nudata-uses-the-power-of-the-cloud-and-machine-learning-to-improve-fraud-detection.html"
 webUrl: "https://www.cio.com/article/3632648/how-mastercard-s-nudata-uses-the-power-of-the-cloud-and-machine-learning-to-improve-fraud-detection.html"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/09/istock-1090870004-100901710-large.jpg?auto=webp"

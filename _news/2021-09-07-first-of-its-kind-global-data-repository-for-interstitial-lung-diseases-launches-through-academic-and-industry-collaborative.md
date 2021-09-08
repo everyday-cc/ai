@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "First-of-its-Kind, Global Data Repository for Interstitial Lung Diseases Launches Through Academic and Industry Collaborative"
+    excerpt: "The Open Source Imaging Consortium (OSIC) today announced the launch of its global, data-rich repository of anonymized HRCT scans and"
+    publishedDateTime: 2021-09-08T00:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/first-of-its-kind-global-data-repository-for-interstitial-lung-diseases-launches-through-academic-and-industry-collaborative-880583966.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+
 secured: "Xyn6vfLRZPI+1FiSkKh5VlLg3UgdX0PGOdwy8DjazAbH1qRJJOHsXHHzuTtZSAPfH/Wp2PoGs40RJa42jmt7p2IMGe5+xHMJqqitOE4YFOq4GhqUkbTdssdAifvn+T8ldWWxcg0SRY2x86B45CQnxBULSMdwhFmxSlRYxtmEn8XH3fM0M84KP4f170kmACuFJDRrlOOZezObvLpB3pDPSkPhCFWTjfvfToUlPwxcG8GM2jixkc7IEyFlJNF4E1hfEuaBkz6LfGeD9k7CE/oubVI/IerHe/G176RTbGjeksSmBxZFgnCENcLuw7kM0PDKGfhoP+QjpttY3bklwVTkiHpQWtfG/AeXoQtbwByhmGs=;FzAQVJRG9oXdjHrGmD9hvw=="
 ---
 

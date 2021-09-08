@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/09/for-patients-to-trust-medical-ai-they-ne
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/for-patients-to-trust-medical-ai-they-need-to-understand-it"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI to predict Covid patients at dire need for ventilators"
-    excerpt: "US researchers have developed an online tool using Artificial Intelligence (AI) to help medical staff quickly determine which Covid-19 patients will need help breathing with a ventilator. The team at Case Western Reserve University developed the tool,"
-    publishedDateTime: 2021-09-03T07:58:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=869664"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
-        isCached: true
 
 secured: "ce0kUrGOPFJTwURECKuhbts4e2I2RUTyQ1M/jAA6xZjeLcM50sn0YdLn4qOF3aiddfQv4UnAYBRrwCI9Xms7RYom5uupkoN6XJWWa1ebrAPDuWN94QizOw7g5AZDaLlwPGLMLF67Wy9yfvL7fl+uBxsk6DwTvyTNxn9kyECklQqUO15osN3CY68Nap3fnZDJXn4gUSiMVU15SYrjuR1RTWYdr1hn7qgipdTznUIu/PoIejwGf2KhToUIbn/H2U39FYzDE6OXzsNFavmRgijsNX8xNq9j8VdCA5xPB658DmC6BSnHD3qv+95j45OlDwZZJNWoEG7lRrhi4G5wbDmm5l9LY0usrGo68XJhikb365+sDn06CDN1ylZaR6CVuAKw7o4RnofDlCv97jUSCiMwAO7ZYJyD8XF1FYJTPzkibNBmO5xzxcqzTjjp9rM1ftd7e8Ayrb+7BKNu5LbeXcNvjBy343PPKUDFkEGmrK6EqJbBroxQtYJfcG1gPeu87/E9C3agPcyCJ5vudC4luoJd6Q==;ZpPunZPMRNdbRYS4un8JZA=="
 ---

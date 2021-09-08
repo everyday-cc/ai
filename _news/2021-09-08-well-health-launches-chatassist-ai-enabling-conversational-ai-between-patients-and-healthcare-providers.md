@@ -9,7 +9,7 @@ ampWebUrl: "https://www.independent.com/2021/09/07/well-health-launches-chatassi
 cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2021/09/07/well-health-launches-chatassist-ai-enabling-conversational-ai-between-patients-and-healthcare-providers/?amp=1"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,23 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Three ways conversational AI could boost productivity"
-    excerpt: "Tired of distractions around the home office? Need some encouragement from the \"boss\"? Artificial intelligence could one day come to the rescue."
-    publishedDateTime: 2021-09-03T08:24:00Z
-    webUrl: "https://www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.html"
-    ampWebUrl: "https://www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3632137/three-ways-conversational-ai-could-boost-productivity.amp.html"
+  - title: "Sansum Clinic Uses ChatAssist AI to Improve Patient-Doctor Communication"
+    excerpt: "Well Health Inc., a SaaS digital health patient communication platform, has launched ChatAssist AI to enable better interaction between healthcare providers and their patients. ChatAssist AI builds on the existing,"
+    publishedDateTime: 2021-09-06T23:34:00Z
+    webUrl: "https://www.noozhawk.com/article/well_healths_chatassist"
+    ampWebUrl: "https://www.noozhawk.com/amp/well_healths_chatassist"
+    cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/well_healths_chatassist"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
+      name: Noozhawk
+      domain: noozhawk.com
+    quality: 56
     images:
-      - url: "https://images.idgesg.net/images/article/2020/01/gettyimages-1064982786-100828145-large.jpg?auto=webp"
-        width: 1200
-        height: 762
+      - url: "https://www.noozhawk.com/images/made/images/uploads/090221-BizHawk-Maison-1-JM_426_284_99_s.jpg"
+        width: 426
+        height: 284
         isCached: true
 
-secured: "Y7xSVfCy9T8W1Y7BRc01fkqD9sclPnf7rC6fKJrW7DzLSTVVbNReqE9sUmrj6Fy/keGZDwmI6DHhDa2y0/hMbP5iDs03EBx9fIgw1mcbZE0q0IyPJwkWE6RnUHRhsNHSzL53bSkJKjuGcOoTQif5ipFoOXDqxwd32dKH1er7a0/JubUQ8EjsXHsOGK4ltKGwTKgZQJCPksroZuSyKmJsbjpv4t8x8UTuZ5wUvFZAJnz6/adfrVpLWbN9T8D6iv6M55SL7S6VF8g+r73+XxJFU3M4Cmq0DZml5aHuio/G5E5iCxOiAPwzJC8GZg2qReYAMtYZyaev+qkfAQYSaxJ+aAY+FL7PKe6n1o+WM+M4Viw=;FqwNbJ9f0HSUuw4ykhc/Cg=="
+secured: "hjsWgFzhpm1ciwu/Ba+KQLpkBfrPhoHV9AImj4he03VOXwkY4EIZuyCA52+p8TU+ZOshAbn9+t4hLW4ncPVXWzVkW29LAqfL7c31FurLaP/yhkgCkNANZEvr9TZDhT368wYrMXeXQY+B5lJwHthKScpIGlM6L/s6dWWBqiKOiMcBg2crtqRG99ui7XtrhmtZvhj4/6mwultokLIjCpAcrZhyZp/NdUZde1ADhPdDr9+K9XpaYnHEywtNP8yeA/W8tZpTH7lBi1rkJRg9XwNbm2SkSMYxZtOPJP4VUWtaN7ZZgHwPx+UsojLVAzaGn8oG/RqvtK68SUQxNI2HeHlQnw/yPwOHUpTMizie1WOMqogwnUP2hORA9S01JIkvKsb3oLsYLyPxzuj93btzoUtDrjpkoKyDrXZk9oILOPdkDOjlDNN9qeNnH/HNEciwRnzy6b+iOmXt7uWWEuY4FN5na6tZ3gl612aMq8ThborT0TGpLXkBO8b25veWk5Y8+DBM2omNqCzYuBud78a1pC+KiA==;ziTMpkTQI2fHvGhii5GhOA=="
 ---
 

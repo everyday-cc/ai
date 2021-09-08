@@ -154,20 +154,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 22
-  - title: "IHS Markit, FinTech Studios partner to deliver real-time market intelligence"
-    excerpt: "IHS Markit has formed an alliance with FinTech Studios to deliver highly-relevant market intelligence, research and"
-    publishedDateTime: 2021-09-03T07:24:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/ihs-markit-fintech-studios-partner-to-deliver-real-time-market-intelligence/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 21
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/02/IHS-Markit-2.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "The new AIFinTech100 is launched to highlight the industry-leading Artificial Intelligence companies driving the future of financial services"
     excerpt: "FinTech Global, the specialist research and intelligence firm, today launches the new AIFinTech100 to list the most innovative companies offering Artificial Intelligence (AL) and Machine Learning (ML) technology solutions to the financial services industry."
     publishedDateTime: 2021-09-06T23:00:00Z
