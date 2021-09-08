@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/singapore-police-patrol-surveillance-ro
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/singapore-police-patrol-surveillance-robots?amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 300
         height: 240
         isCached: true
-  - title: "Singapore isn’t self-reliant for food. This innovative startup wants to fix that"
-    excerpt: "When David Tan started Netatech 13 years ago, he realized that Singapore was not self-reliant when it came to food production, with farms in the city-state supplying less than 10% of the population’s food requirements."
-    publishedDateTime: 2021-09-03T06:15:00Z
-    webUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovative-startup-fix?ref=recommender-705042"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 27
 
 secured: "p++FF0gUpZ6czqbFOY94b0ey0WhCJ9EeBIqIW41FdQU2nGM9ubNu1EbZBjaYXFYnik5M9sfNaJaqzf/vXXw/k/9TpPtCSQrcz1vVW/JFTc/Gngxpq28y4LJYdnlcMXhrw31F0WdC5iGWm7jKh169iL9fUa+GgxdYik1OuNI/bkoPK7NzJfpqPAg7CpOS0Ymv+3gUNAL3U5voVjt7w9cnQ/qOnijxxe1a2Pe7QY0z32F+HIqpFPABbgQbQZJc3TcBOQFHl5j5RcMPfmIc7oyyQqo47OCCs9a8RPvdseRweQGJxciXw+bQBlC9AKaz07zMOHvaqcklxSaknEWr7aJxd7G6bC+XqgdOOqfMjNpI3kUnV9z6NnVBK7X/bJob8e3Wy9BWqFUqugazsRl1u2cVoSCW9+d5LiNaMUgGnL7lxIbRKEOn38XBOyXnRuZcTliZqtuEs3/5qhPCEblyO1TqeOm035J7SVqDriJ+inxWC1YF9XC+Vihhdpd5lTnLqnFSpPXiSJfGYbTczdPYLYDNnw==;qwRSPN10qPkWS0pgavmr3A=="
 ---

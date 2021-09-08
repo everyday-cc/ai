@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Singapore isn’t self-reliant for food. This innovative startup wants to fix that"
-    excerpt: "When David Tan started Netatech 13 years ago, he realized that Singapore was not self-reliant when it came to food production, with farms in the city-state supplying less than 10% of the population’s food requirements."
-    publishedDateTime: 2021-09-03T06:15:00Z
-    webUrl: "https://www.techinasia.com/singapore-isnt-selfreliant-food-innovative-startup-fix?ref=recommender-705042"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 27
 
 secured: "mPD86owGTdMTQmq41EMyYbENOUJE6102CRMEuTiJgP1WrLRc2dBOVYM34LUqLNzaXna4S004w5S3OhedvD+4807zQDBIDRpqnRbmjST3lRbFcUKh/SfkrjggWroQZGp4x+iGP9ZmI29YQr0VNpCs9v51y7MECx8++Ug8xiui/orXZjBAqrPQsMTXvcLZXpgsFR0tu035BG6hziqBbW3mNONwM62FX2bfsdkwrhxs8Y+K31wqvhIhtGIrnrHGHMo5ry7YtZOaPgtcmEdwjo6QKX2QjHd0tOJWYxtYZ+gk+9r0azfTTYDZIYllFuDWz6ZWBQgxCSsXo4Y4wrp+uXTBKywnEcrutPD4/l8UmKfLFoUC9tsCd5pCxZTWEQ7keQlorAReSdbNxQV63Q6DwHhO6Qwu7sPi+NX0lMpkGTJZsnoycH2h/ARzXi4+FRi8OWdcvLXYRyRhoyabL1A396aVQ70A6wm/6UdPtllctJ0kXisiCrOLteMJW00V9ECXwBOm2ai7tjOqs2QHtvMCJutykw==;CgSvSOfWd1ZUu1c9VnOhHw=="
 ---

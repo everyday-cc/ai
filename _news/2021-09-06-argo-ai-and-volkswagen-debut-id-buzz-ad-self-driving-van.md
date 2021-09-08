@@ -135,6 +135,15 @@ related:
         width: 1500
         height: 922
         isCached: true
+  - title: "Argo AI unveils its latest self-driving test vehicle with Volkswagen"
+    excerpt: "Argo AI has hit the road with a new test vehicle as part of its partnership with Volkswagen. It'll be used to help further deploy the company's tech in Germany and elsewhere around the world."
+    publishedDateTime: 2021-09-07T23:31:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2021/09/07/argo-ai-new-self-driving-vehicle-volkswagen.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "PP5ifPmv9eq9Ek2ABf1YJnIfgbYKiRg/1yUS7YUj/MzabvH06+KdqCYh79AFqomL7iNK8F2VR8GXXpxXPtl+TN4YEeDSOSlam+K9M4+L17/C3W67t8SUhqlBKDctNxQfzdxOcLp46zEgF3RbBySl5o1+YTKoKnB/Ww9ACfJK3x6wUj49WuN3E+2oLJQGDpIjE9v56Uj5usF/k+RFfcYGL1lQP2l6D031FtlicySZH3Xh8qtiruQDXWAW0RTAJSPrhuVekZyZ++kHAUiiPRfzbqXs3KyIg5o1kvhIROLfdSIRCaaFWnOI5LiDHXzgE6+3vDxbJiII/wzTthy1t1/5C8R89xN+hMRlkS9xuzrWkZVCieKhjJu0lAayDV43zSqeXsJ+EqeNnZWNSR0+kyWnfcmdLpwV04lvYPGo/FuYdXlg7L9prOOXAV/8TRFLuxwWh/dhpu0HZ6t74g03+Jquk3/UwaEG3Wo0NK6817NlXyJBVEVJtbrQN0sPnIZTRb9obCoSSJmLH33HWHzESRBURA==;LSrgCNVbV+84u8l/zBjAPg=="
 ---

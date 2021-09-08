@@ -51,14 +51,14 @@ related:
       domain: mybroadband.co.za
     quality: 24
   - title: "Indian, German experts discuss Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here."
-    publishedDateTime: 2021-09-07T17:11:00Z
-    webUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
+    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here. Areas such as AI for sustainability,"
+    publishedDateTime: 2021-09-07T22:29:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3815897.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 21
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "kxPx8+rVoUD3RvGM0rBNbAVTyYVtHVRoq6tX/Po/nHiiTjOs7uUThpyNswb4io7T9rsLgy91erBx4VaNLeSbltwtfxDGg/APunymDrE14AYXbN1HLEOpjgSn1SCOW1CZU0v8RGIC+K8SYCF8pUrvAeXXtcDUeltdw18+XDSsVGTbb9eB4kuCTfdElyvdEot5BrAOxVSfNImkL0/Vvw8sowqD4R0E7isiNCCMMAMBFCGIkJALQqukjtrDX/gJWBWEXRsmq5tSe6WoiJoPRW/+l4gA1cuezQWCmlvWsVOFDisKV1qkTdQQUPta1zostKlvXOVdrgvJaQmMut1wfj/CbgVRzAFMo4YmSQa3ZetdcQ/9rAufXz+EX68SSDBfbIm9hbmCMeAlbCepUhdvW/hUazg9wzEFCmravZbvg8tNP2dW8eoSqXNEF4tLFuOi9H3kPipxmAg5EYPrJr5qdvgZZVqjGT+rrHJ+HJNgWbcygAZpLaeOLX8+gyuO2uIyRwrUHST5/NqRDg/VBFultRdZ/Q==;TAeFEtE2R1uQGYycrVJRIQ=="
 ---

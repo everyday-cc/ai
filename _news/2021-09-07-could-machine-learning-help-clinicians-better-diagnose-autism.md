@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Artificial intelligence could help diagnose lung cancer a year earlier"
+    excerpt: "An artificial intelligence (AI) program can spot signs of lung cancer on CT scans a year before they can be diagnosed with existing methods, according to research presented at the European Respiratory Society International Congress."
+    publishedDateTime: 2021-09-07T22:03:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/927387"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d583745c-7c02-415d-a75b-b34c68d94221/Rendition/low-res/Content/Public"
+        width: 700
+        height: 400
+        isCached: true
+
 secured: "DfgKhw1kM/vlNB3JHMk8rPHrPz6ULbGSKUqy3tIwCA/JTCxyWuILvqUhpQ5j3WcI9wfeCBUY4DP+dgw2CQ9HJzEBpHlEoeJ3H2T64GW+MuBcrYd7OqUqREB+OKTP/qYdQFa9+iAAxtQY9tuoXsMUeDI35j2Wn8sQFLyxI6opHeL7MkmQUMUpxoriRbV3ARh3C3qs2zty8wpPIAY+nfFKJLhosUlWuJNaaV8jiM0gOmrHtUoibqgEUgcCPpBEssGhE1p5WpRTjdoXWa49uIyXAwahXWGBnXbfSVdxKmAvv+GgkEuMMoaqhSsM6gYblHE3elNPzRj6CzO5gwJEoayBoeGKBhkjVJ+ZrKjQI0THdOFKZAl/yl+ohVuyb80eCmNOwHO2o7ELMSlgkA0LCIcTpgkXFBg+Ds6BSrUr2/nL7/ewRvy9pBlTMxsHGx6bYYDjNwuwjxB1y1SoNHDrdfte1wjDqN6Xbiq1NDG08wQFNjd5iojOjR7VD87U49mfVBx7zVv0GEc9G/eCPNm2ZOy7/g==;4Ymm06b3yLnpc7q43C5CSQ=="
 ---
 

@@ -75,17 +75,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Afghan women demand rights as Taliban seek recognition"
-    excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new rulers work on forming a government and seeking international recognition."
-    publishedDateTime: 2021-09-03T05:49:00Z
-    webUrl: "https://wtop.com/asia/2021/09/afghan-women-demand-rights-as-taliban-seek-recognition/"
-    ampWebUrl: "https://wtop.com/asia/2021/09/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/asia/2021/09/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 24
 
 secured: "RxaPRUSM/ilZb03oiZ7dm3782g3jPfK22KcHN2KafCcgUKLYeybBWVsRwmegIGYbEhrXr7UzA1zunNOkvpU+x0haSNtlwRQDmdmG9GDpemEJA/a5qmuOmTfqTE+l7y/uE2KmGxs3oRFKhJYD1CGCtnhkZX0HJmUY3uzM4ZrH8FRhrmNdOtq/+kAb2pTNPkkVY+F8ft4TMjQzbgkZnJzApAD9frvB8eu43H+V7qJ/6e7L3FsKy27PxV7SO7X8o9qeacxUsNbnFIxS8WnH5Ga67FYZxGZ1mc2ieZVRcLEyZ/u7I+ZRPh5Z5or6s43aQwxuL9IBM3qjaFfJZDnx6/yODDKcutPTK3S+ycRwNeYsiOc=;SeaVCCfgh7P9bYYif2T7zw=="
 ---

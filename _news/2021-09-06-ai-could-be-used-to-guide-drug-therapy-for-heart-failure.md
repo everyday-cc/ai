@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "A New Artificial Intelligence Can Help Diagnose Lung Cancer a Year Early"
+    excerpt: "A team of researchers tested an AI program that could detect lung cancer tumors a whole year early! This could help radiologists save lives."
+    publishedDateTime: 2021-09-07T22:04:00Z
+    webUrl: "https://interestingengineering.com/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early"
+    ampWebUrl: "https://amp.interestingengineering.com/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2xJ5bw9/sizes/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "GNk5yC2N2FBMaKPhNydshTAmajQXWN7wMk8m7HHZtFEU4S9bNb2hOWpyyKcIvyvdXl/XtP5aVCsbe+AhkCYbPRvamL9ESrxXt/mfvI2PHFNPME0Fl75cEX4oBf90s6hlCFJEgfyvps5z3CHeMJW5kLNMDcwQiz3h1Nl4Q7w5k5nIN1ZmG0hdIPnB64NtAfuzi3CZyLshX1MliCbR2JaQxc/PrQ4U+tXmKQZGhS1qzYr9P5d3ZKiGdgwK4nTmdvAmStylCxTxVQ9BSE8GywhaztW3qEKxTl7narCfoBn+XwBFlXgspUwOvfq0Ny7CvnO3Ly276BHkAhWhwWzgP8DmeI35YPy8k47om+nebm16ck7B0T1BvqwmcI78+wXRKuX0p1Y2ATElGhjzmIA3OnSKxxx2Tcbk4uXrNFnnkjuFLQF4iHcax+Ketsxvy0u8XSRtEdlZxTUZrcOydl2KRzWSNX/hLSJvxVpq2MeCg0Ko5qLqg7s70HGrUBiTntPEauoKlN5cqyifzaoFF+kJ0byLtQ==;Fd0xIpodsf3+9GpJuCHaEg=="
 ---

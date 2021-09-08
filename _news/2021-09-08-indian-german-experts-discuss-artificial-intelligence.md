@@ -1,23 +1,21 @@
 ---
 category: news
 title: "Indian, German experts discuss Artificial Intelligence"
-excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here."
-publishedDateTime: 2021-09-07T17:11:00Z
-originalUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
-webUrl: "https://www.sify.com/news/indian-german-experts-discuss-artificial-intelligence-news-education-vjhrl8giihdih.html"
+excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here. Areas such as AI for sustainability,"
+publishedDateTime: 2021-09-07T22:29:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3815897.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3815897.html"
 type: article
-quality: 21
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI in Robotics
 
 related:
   - title: "VW’s Self-Driving Partner Closing In on German Public Road Tests"
@@ -60,6 +58,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "6+NOpmJDlCkjD1gxoqwY1zAFmZccyby2V72FiK//441DRl+iIh34y8r8reUSOUHr/3ar00ELafyZ0VxzExqA6fTTA6yuG+EL1itw1zlYbJHwSXTN0b2uj94S4czKoNeBc7TnJpNTmbTgZGYuwy/lOSe4xDR2Tl15zxMgIuBzsPlTMYn9ygX4DBhfeUpbkSVtmoenmezFfveqTQy0Je/akBMW9NBILt1+A3TpsOVWNPjiBmdBMxNHSFyYVjYZXGptfLMk4Ou82iQe0pnB0MGlaOdIPgeOXijrd1k22tXt3nhLllVf3sOVu/x2ATjDxHP8X1E/3EvVNsuLf+D1Ks9iQ8LDggKSZDRajHfXY9i4p8E=;eOZLTRiGxMs7/ooOELSfDQ=="
+secured: "0K8ft9Va4RBgzChio3r0wHsSRYZkpFazmFsXCEMWZxWLYSZmsC9iMaw9UdyKQKlf+NzE+aifPNeSV4hAEswtf27JgwKDMZZ2CH2L5vGaOyd8WNd9IsgjeCXGKsUDMeIpzRnUXrYBrApbfCOk0gkQk7lXddsirvtY6zI6moD+dd0M+o1yo9dpWl533BZT1YU/aE2+SZZr3y5EV4wtDaH2HFFg06fmO5kvr9kas/4iEpFp/ir84gnZJiPlVE4ex7DttEB/1uVnBtvZv4iY25QIJW1M8UKmPkldeW5ssYQNO8+QnuSUBwc2MbJbQmd0sH8fFkHDNMmkAH3Z5+O4MvBTinSFk1wrCUoreUWC4NLk6XQ=;VRkEdnpeyGL14za1q0bsSw=="
 ---
 

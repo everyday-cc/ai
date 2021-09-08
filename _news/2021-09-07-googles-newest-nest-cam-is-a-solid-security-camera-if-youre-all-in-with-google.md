@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-came
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:
