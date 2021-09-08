@@ -91,20 +91,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "If you thought a self-driving Tesla was cool, here is a kit to build and program your own self-driving car"
-    excerpt: "This build & code your own AI self-driving car comes with complete components. Learn about microcomputers, electromotors, camera calibration & more!"
-    publishedDateTime: 2021-09-03T14:00:00Z
-    webUrl: "https://thenextweb.com/news/if-you-thought-a-self-driving-tesla-was-cool-here-is-a-kit-to-build-and-program-your-own-self-driving-car"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 51
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-Build-Code-Self-Driving-Car.jpeg&signature=c189a084ee36e4787b851d03217ccbae"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "kqMoYS5R6OUOQcjxTywvtFUVSzUqigM/hKm8B11orWMd06S1/yfPCrL67KcK+tlL2ecWi31cHjgqI0XDVVNYYKyGbNawp6drxvN3lVm7sp+EQvnE7nBWXxmuut4NP3pee5FdWbitVyG6HgewxUcHZLmcjvc4Smg1j0ziiBxIAYvcgS1Ya5clfWrsOdvmgz7EKQvVWXcybLAffsOoMv340gfE9HC4bGrrq8SRXLo835IzGrLTOiI4Fd7Ne2WoD5+uzwXeuBwoUzlB5/Gvk+6wFlXZQZvrhHo71B9AFnd6xsObLVEuNJnUvpRwofg3ujUYhGZ6TQwAEdNvgYpWsud9HzKCAkCx0NlC0OAhcZ9XzERzGzBtXHnqxJMYLbSlnPTzs0qz8aGM0d0/BHa75Wji/kz6jNLReJVEv+JRiOtmeet7FRB0f8GcjX2nC70pgnyA8nnswaMNJyQwMZuVG8lMsa7aRHhDDyA3XFqClAmETRX6aikr/dc+DM68k8F3Rc3cF6jkIreQ74UgvhTI89DzFA==;LQDa7DOAzmluQSacohAbOA=="
 ---

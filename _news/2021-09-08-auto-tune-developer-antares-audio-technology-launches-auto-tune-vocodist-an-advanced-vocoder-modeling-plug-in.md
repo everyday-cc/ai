@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Auto-Tune® developer Antares Audio Technology launches Auto-Tune Vocodist, an advanced vocoder modeling plug-in"
-excerpt: "The vocoder produces one of the most recognizable vocal effects ever made—the original \"robot voice\" made famous on recordings by artists such"
-publishedDateTime: 2021-09-07T18:05:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/auto-tune-developer-antares-audio-technology-launches-auto-tune-vocodist-an-advanced-vocoder-modeling-plug/article_f387547c-679f-530a-b74a-f7ac4cac9ea7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/auto-tune-developer-antares-audio-technology-launches-auto-tune-vocodist-an-advanced-vocoder-modeling-plug/article_f387547c-679f-530a-b74a-f7ac4cac9ea7.html"
+excerpt: "The vocoder produces one of the most recognizable vocal effects ever made—the original “robot voice” made famous on recordings by artists such as Daft Punk, Kraftwerk, and ELO. Auto-Tune Vocodist delivers the same legendary sounds of vintage vocoders in a new plug-in."
+publishedDateTime: 2021-09-07T18:07:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-entertainment-music-audio-technology-d38e802b9a588ad360609af56315c18c"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-entertainment-music-audio-technology-d38e802b9a588ad360609af56315c18c"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/63/063ab827-e930-5933-8af1-c96badb5baa9/6137ad09768b5.image.jpg?resize=1093%2C630"
-    width: 1093
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "KvBEaC6Wl0uyOwmT0RB5Jhn3EBFssZ2hKN+mQVaEPfh56GaVtdzZFaaVf+muyQNsy7KG5IfXyW6zwRrH+8ngwiOnfPR8wCz8ngrHkWWcPXKtmaZjJn4m5+cLcGsCXeVSm38gQr6/K0zFzQet0lUsTfGOP3vbh8aOY1n+QquU3wPOz0P4L/yRJM10Bw1paT3XhKFOaEUPbzVblwvhEYdY2PKVLuSZjgKVwiDE4ukIOuzL5VhL8XxVHdJbfKXtM6rdAWhgnzwYm+YK7JshlpXtbZ/KLu+CCAyO0ig+bMm4LZsuJrZ9rhQcZcMgjhAFp0yThqfVMjqFXcLWtK3WnuOeh2qwjq5SqgXqYZDYCjjPyus=;Kj85OWR2QiS2SU+AcOiIOg=="
+secured: "WrHblyqWgGOeiTS70dQypCc26uIrgTaEDKQHXnOuLx3nYTXjHE4DwqQ+q99ZXJeLCOqtNfvLshqluqZFe6mXCkr5/PrIiG+0NorFHjiX3ajwYLoyWnbL8bIflD5pXt5+yH8fLLMOb8p3tLLhAaUgTyIjccLBQ5WbXrv/8OjujOuuOIXbwfkRWoD1ehj+fkuHfHmvqkq+DvlNXH+WACUVnKEQ7QMgYJKH8GB7SSre9BLRGCIKDd9KqVJaVtu9aue3VKvbbduc2WgsqSVKEkgV8c8cDzGtkb1fU4PYk5r5DheZx9sVCfr9dtM/bKQSIoSpclcidXM4fzVZmOnGSAIs6aWAhwc65NgVpqEFTuy003Q=;97xLcdSqKb2YcDz0O4vB4Q=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Collaboration Overload Is Sinking Productivity"
 excerpt: "Collaborative overload is not just a problem of volume. It has an invisible but equally sinister counterpart in cognitive switching costs created by the diversity of demands. As columnist Jennifer Senior put it in The New York Times,"
 publishedDateTime: 2021-09-07T12:05:00Z
-originalUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity"
-webUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity"
+originalUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity?ab=hero-main-text"
+webUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity?ab=hero-main-text"
 ampWebUrl: "https://hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "LRegqOtzsqyp/qkdj/ra62CN8vmQBsLAn9fCDOPL7XH/FBw3yuQMs5igvkTq2rFEVOqzVYL5MTWrRr14EsPF8iayy+8/b1UisV0UV5UuLEv+JGxPZgjzgRa3mIS/NfYeHzqS30CWem5Ba8kYM2qc+Q6xSLu4JVq3A9Yx79NEDQxp4QOcm0Tqx5Uogzmg7vHr6Qk5z5RHm6MjZl9zZ6eD8yM+dRoabbsL3HeZlJERaNKfplM1ztNz36OjoaSq/277LRAUmoDIeLMCt0fZCStCjUIFHeLydMt74U2XVBOD6BIxR1fLHh/uZhJfV2CBmAe8/9mFs27OkGKcXCRAjZ+ADJPA6hGqfjPWGNov7YdtCeL3X41vlZbSFVvQaW3HxF6ATg509K+RsyedFiDPXsX5YGelvRw/8srhnqqfUDCMUuzFeVKniu3Wrbsk/1UQ3MuPGAmvCwTNiQ0EWdYXmu+Wh4wsbWvw5apf11cj31gJwZE1Zuo8xZ7Pg56dFcTlH8ALp6f4mW6HNgMkVHwHutE8JQ==;k25y2IoUV7e5XqMSTOhupA=="
+secured: "v1eN2GttlDkwe2z7DybuhYH+XvBF5ClaxKXSp2P+YvsE/EJ6yvLRlpKn/AcUb2rXIEx3cUgByok2cr3YC5m05yxGsWEcaexqECamZJKWc/Is0MVkvdKvDdqMatX23cQaypVB6YtdKvhXFJNyJrvULdNdlff/hob38jctFd/Bz1xg/7qj6N3j5XuGZxzAl/aIq7khOD1B3P4zFO+5q4U2ZpjfbmznwUNANxezSkxNSFCrujWGKKNMfLkV65Nf93I2DD2JbDGeBYqfU4zn3etfs1DyoRUzynePy2PPd5CgVaRFuTlLUZIulhnNxbaE8XCwSQuTQU0+3PTeaX+/KfTgyVicci6saeZ/Usegiia70LY=;qt+MgviR4xIz+SLnRB8XEQ=="
 ---
 

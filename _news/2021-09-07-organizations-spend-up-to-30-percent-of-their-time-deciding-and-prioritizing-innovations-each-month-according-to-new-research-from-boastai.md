@@ -2,25 +2,27 @@
 category: news
 title: "Organizations Spend Up To 30 Percent of Their Time Deciding and Prioritizing Innovations Each Month, According to New Research from Boast.AI"
 excerpt: "Boast.AI ®, the fast-growth FinTech platform that helps companies identify, claim and finance R&D tax credits and government incentives, today announced key findings from its custom research into the innovation management practices of founders,"
-publishedDateTime: 2021-09-07T16:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/organizations-spend-up-to-30-percent-of-their-time-deciding-and-prioritizing-innovations-each-month-according-to-new-research-from-boast-ai-1030784913"
-webUrl: "https://markets.businessinsider.com/news/stocks/organizations-spend-up-to-30-percent-of-their-time-deciding-and-prioritizing-innovations-each-month-according-to-new-research-from-boast-ai-1030784913"
+publishedDateTime: 2021-09-07T16:23:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/business-69316b99e449468b6e4432d44d67ff6e"
+webUrl: "https://apnews.com/press-release/PRNewswire/business-69316b99e449468b6e4432d44d67ff6e"
 type: article
-quality: 14
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Artificial Intelligence For Automating Recruitment Flow Is Surging Integrated Talent Management Market Demand"
@@ -35,6 +37,6 @@ related:
       domain: techbullion.com
     quality: 20
 
-secured: "gnlExPSMV5WsMnWwi5llJ+kW2XuqKS/i7vThvsaj7tIFYy9SuoB4dkqjsOqgt8EIrOsmeELXwDs8alU31dw+361Ot0V9bEhpEpL3pfqqWs4/wFbxC7GMPpKAm2RAdzQAk1n4uY7P80+yR+Oq/1PJ98bKqL9NMiDbBfMkvnEiKUK5jICLq0cQeF9XVP6iCklnLbYXiwW+5WuSvhY5f0H15+ch/zVdS9yoezB8UFRr6drLx4T9yFal+7R1/EXFkCmcRR3MzqucSa05H2OePrOZzflPdaHFP1nyIkdBauxLeQbPBkIMPH5ytIrswruczjsk4Ar+M9DtSNGow3hNBPnmHB0aSKLTBiDD+OjpEraChVk=;OHkQefoWY8fxMeH8xlW/bQ=="
+secured: "xsIKqUBGi59hOcY372yEDNTad9enRWAl5KYgh6+guFnLVSkMrKTPIA13G0XoocNNeidezBT4OFqZDvII8C2d8RnZQZoRQE0s8Rdt3ClTjagSCYAjzivNVPVuQrLh7IZMnHVf8NqomhpxDYCRZ/vdlkq4u5z6Rfmg9XVjMc8hPi8uoe8Jy1A2kRLDIbQtOvSS1a5Ayl59agkDRDrut26wiARchygYHn5PP1S0SUmXPO3Hn4HFscdaIkh6F+bhC+0WNkLBbsTR+OmQG5X9vn7/Lld5uLtiOAIfUo5rS3fUqpEt1myxC5bUqCfkvZ4cYD7X/77qaQ7GFVxfdNdc/JhPC9Z+xgnpX6myvULQnbwg8/U=;NgGBtNJMZQQeoBCa3fExEQ=="
 ---
 

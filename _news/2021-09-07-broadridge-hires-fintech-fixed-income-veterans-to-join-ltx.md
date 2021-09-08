@@ -41,6 +41,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Broadridge appoints FinTech veterans Ted Bragg and Jim Kwiatkowski to LTX leadership team"
+    excerpt: "ICAP Securities USA, where he led the expansion of fixed income initiatives to create liquidity sources for fixed income and"
+    publishedDateTime: 2021-09-08T07:36:00Z
+    webUrl: "https://www.leaprate.com/forex/executives/broadridge-appoints-fintech-veterans-ted-bragg-and-jim-kwiatkowski-to-ltx-leadership-team/"
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 0
 
 secured: "VMsqOHKtCPLzctecVSP6MnahwuIbkQR/pQWnBNFtfUe5S01bP7+JsbFAXlXTDiEX5xcUIbpbgu/t6xJQwyGnKZws9CkL4sRjOrPgadFBS3rrLWdnEs7UT7HWB2SMMbeVXpeQgwlSdatVGaGX7Qq7PYDDajckASd/PZ+qcAWuyuYAjkTFzhNymSY5ZwJQZoTvvjGJq1v5OPveUjoPlljBbKQxTY9HnOy43za/yl0XB0Fxvh5UwVj85jLVi4kQyMG4V6BaaYwDB5J8O1jaPQbMdkjODWPpIqLyNSYCPxPLJWpH5BNrH0KnIbjYLYLdOL1yEo50/m6VmjM0XZud5PnYCnmG8my3VN1yXcVuvjyaP1g=;pytBHm+rJ6svMt8SCHVE8Q=="
 ---

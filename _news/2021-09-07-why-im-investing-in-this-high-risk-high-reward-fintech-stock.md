@@ -150,6 +150,15 @@ related:
         width: 360
         height: 270
         isCached: true
+  - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
+    excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"
+    publishedDateTime: 2021-09-07T17:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210907005101/en/Socure-Featured-on-AIFinTech100-List-of-the-World’s-Most-Innovative-AI-Solution-Providers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "6ZgY3v6e8EUBw/TCYLZCCJG55hKmrP3B0wQRxchVXr5hXCWoeB5m+9Ak4+IZ2hSMPFHUhqga8LtKEgx9ageG5CaGOWK2MDAzUz4Dj8G54Yb52pOAfD19NfJeGfIII/ZoAG59044IFRf9dw0ZUUpyoWY31rHJfcbYJUY3vrCpvj9tfpNIhXjfVAi9zIcuG3vgPY8JnKZ14fmFt+RxHbr0K/J9uCkXVF7fkJLL73vkry+SnjOZZ9D8KVYj1egl8fgAHe5DvjUFxyYcmBE9S5uhCP1slx7MBRjnYXd/g9jTcACYCEX72ysjee3D5U2jDnigSy+LltX0Wok04F2uTVMPB+6+bmshyr1SW966BuwHD6I=;sV+Q5Unkf1HsjSuFS7djWg=="
 ---

@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "First-of-its-Kind, Global Data Repository for Interstitial Lung Diseases Launches Through Academic and Industry Collaborative"
-    excerpt: "The highly-anticipated Open Source Imaging Consortium (OSIC) database is driven by global experts in pulmonology, radiology and artificial"
+    excerpt: "The highly-anticipated Open Source Imaging Consortium (OSIC) database is driven by global experts in pulmonology, radiology and artificial intelligence, and is the most diverse and largest for rare fibrotic lung diseases HOLLAND,"
     publishedDateTime: 2021-09-07T15:05:00Z
-    webUrl: "https://www.adnkronos.com/first-of-its-kind-global-data-repository-for-interstitial-lung-diseases-launches-through-academic-and-industry-collaborative_2VzurqWQi84M55OWMuRaud"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-health-lung-disease-artificial-intelligence-026b8117ee6d1096bf009a2732194012"
     type: article
     provider:
-      name: AdnKronos
-      domain: adnkronos.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
     images:
-      - url: "https://www.adnkronos.com/assets/themes/desktop/images/adnkronos-share.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "RBa3j5F6piIXIh6sh7QD6INrdJySjJFvge3HTO5plGWnQV89V4qTtRb8+A7n8C0yxiQ/MhTu2NLtfWmQ0WjnTq+6YlYmSfK3uXA+8m988wzPFqASdceeKUBVs2kz5VOVb7kyQoh25et4HmBPwRc+nNV0eXlPNsJ11Tu9n2KlSRHfTRggSiqYGBNDY44zC7/X6JFt/GQPQgbsuHiWAtJFDfJjcfnA+EticSmzzPj+O7lpcCCKHFyT3kZ2fm5Ef7jGy1+iWLcZ4px+xYdk97ph/wK2bpdkwt+V2DtEmKjzkOGEMv1fJRU+FhE3WTf5AO+dPUUabo9eT6m5bEFeV0MaMjgzxWIF8JBLJBKF/A3FMfM=;yZkssS074Qal1fFzwiljDg=="

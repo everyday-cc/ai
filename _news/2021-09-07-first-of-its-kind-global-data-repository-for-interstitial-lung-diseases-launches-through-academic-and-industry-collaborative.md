@@ -1,27 +1,27 @@
 ---
 category: news
 title: "First-of-its-Kind, Global Data Repository for Interstitial Lung Diseases Launches Through Academic and Industry Collaborative"
-excerpt: "The highly-anticipated Open Source Imaging Consortium (OSIC) database is driven by global experts in pulmonology, radiology and artificial"
+excerpt: "The highly-anticipated Open Source Imaging Consortium (OSIC) database is driven by global experts in pulmonology, radiology and artificial intelligence, and is the most diverse and largest for rare fibrotic lung diseases HOLLAND,"
 publishedDateTime: 2021-09-07T15:05:00Z
-originalUrl: "https://www.adnkronos.com/first-of-its-kind-global-data-repository-for-interstitial-lung-diseases-launches-through-academic-and-industry-collaborative_2VzurqWQi84M55OWMuRaud"
-webUrl: "https://www.adnkronos.com/first-of-its-kind-global-data-repository-for-interstitial-lung-diseases-launches-through-academic-and-industry-collaborative_2VzurqWQi84M55OWMuRaud"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-science-health-lung-disease-artificial-intelligence-026b8117ee6d1096bf009a2732194012"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-health-lung-disease-artificial-intelligence-026b8117ee6d1096bf009a2732194012"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: AdnKronos
-  domain: adnkronos.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.adnkronos.com/assets/themes/desktop/images/adnkronos-share.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: newswit.com
     quality: 0
 
-secured: "Xyn6vfLRZPI+1FiSkKh5VlLg3UgdX0PGOdwy8DjazAbH1qRJJOHsXHHzuTtZSAPfH/Wp2PoGs40RJa42jmt7p2IMGe5+xHMJqqitOE4YFOq4GhqUkbTdssdAifvn+T8ldWWxcg0SRY2x86B45CQnxBULSMdwhFmxSlRYxtmEn8XH3fM0M84KP4f170kmACuFJDRrlOOZezObvLpB3pDPSkPhCFWTjfvfToUlPwxcG8GM2jixkc7IEyFlJNF4E1hfEuaBkz6LfGeD9k7CE/oubVI/IerHe/G176RTbGjeksSmBxZFgnCENcLuw7kM0PDKGfhoP+QjpttY3bklwVTkiHpQWtfG/AeXoQtbwByhmGs=;FzAQVJRG9oXdjHrGmD9hvw=="
+secured: "zoXLThoFZJnxXUkGxfRFhUrHrBrrkCFJMzUNG41WCeU23TpqTLdPukOlIc1sT1Issj/zGtS/r1sKIHGbd31B8WWe0bS/q5OUdw55OG3ycVf0wRWyYIGI+iB2uP+q9uP3yff6I9yYywQs8WbCa+s6l3+7tNqwCIiwtdhrwOWETCLuIxh2oGiGiJ+NdOyZhhNy5Ajlu0u0SGv/98cDjvdqUBCAisuLfdyc5TirIS0dyLhW6/fvoVNY65PVpy4yGMmj/z9LZUeZ03HtVLHMo88Sv/LEecmH8PKdRikmy3wKRQCHRdkekdfJq+MjjEL80PWA0hayCm5dZWc/BNNENDXlTVBnCrKEosaqH/yf3Ych104=;aBqj+5HTePXS+nWRetSBIw=="
 ---
 

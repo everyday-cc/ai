@@ -151,6 +151,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 22
+  - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
+    excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"
+    publishedDateTime: 2021-09-07T17:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210907005101/en/Socure-Featured-on-AIFinTech100-List-of-the-World’s-Most-Innovative-AI-Solution-Providers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "rQrNewexvzYBGeUJtW+BPC/2r+3Cc0mw61IvqVHjSp2n7IKLF/dm0/y+qSloKCIJIZ9h9Zj2EU93LcxezoffuaCHlmWlUyRR4lL8wQvrtLHLaBJBNU473SD4FfU+qOq/MrR01ULObPTT/TJvnkdHmIKfZN3Z10dVbTaXQytuT+rmXLkEjYxVaZJWr05NU+vq1yuAYJVFmvNYF5SYBM7u1ZJVQYytVDJ/RvO9Uj6zf/W7MJqSsKsmCU00pPGMMH3nxslF1aTN+oGEhiAcKjlCroe/UBpyrN+MWcz6T4C9tndZJdkvxhuPexWB8J/Fv9/sLlof3rCBxVTHgD5hmWvO+7/PH1HZbjLUDavIB4w8jfA=;BeaM7eb6ud8RJwZaptbIdg=="
 ---

@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Deeptech SaaS Startup NeuroPixel.AI Raises $825,000 In Seed Round Led By Inflection Point Ventures"
-    excerpt: "The funds raised will be used for scaling up research and development (R&D) team to accelerate the transition of product from beta to production"
-    publishedDateTime: 2021-09-06T09:12:00Z
-    webUrl: "https://www.entrepreneur.com/article/383793"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/383793"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/383793"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 73
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1630919511-NeuropixelFounders11.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Deeptech SaaS startup NeuroPixel.AI raises $825k in Seed round led by Inflection Point Ventures"
     excerpt: "Deeptech SaaS startup NeuroPixel.AI has raised $825k in a Seed round led by Inflection Point Ventures, angel investment platform. Other investors in the round include Entrepreneur First, Huddle, Dexter Angels, and Rishaad Currimjee. The funds raised will ..."
     publishedDateTime: 2021-09-06T05:58:00Z

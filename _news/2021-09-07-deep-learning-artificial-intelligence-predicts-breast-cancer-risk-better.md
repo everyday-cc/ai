@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/deep-learning-artificial-intelligence-predi
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/"
 type: article
 quality: 73
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Deep-Reinforcement-Learning-Is-the-Key-To-Making-AI-Physical.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Can Terrorism Be Predicted With Machine Learning?"
+    excerpt: "A team of researchers at Zhejiang University have developed a ML framework to predict and explain the occurence of terrorism."
+    publishedDateTime: 2021-09-08T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/can-terrorism-be-predicted-with-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/2-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "si4Kpm51SdXFRgnmurJolnIOWgEx2kqHhXgrU1gR2YRIYu72+p3PmSEkmFUUTSNrt1iz1IByi523B3BU925De1l4QLP2olakWB5PxJhuQu5WPm23M/3OEmyku3gEu+7on6obwp2n2pE7WAfrcAQNU6LEbGcA+PA3g+lJUNlMTfZbAYYpV3uSLbc1YdRKs/1jPUjWtOzzoOHLhj4BeOUQG41Glr+bBOYK9IQFbZvWHp0XqlXewA+KKf/lbdIW+qryO4nR16pAyWiKXy2TzNEIGxRVqgJAox/Uil/dPUuj263NA7uCzRSYiJ3qW00MX4JdZ6Se8YfnsmBqQX168/SoqpcPcx7OCxZzU1RQps6eUwDhoz1Pd7YIw1ExRydBIXYz2rMLiCd3e1NU6D85r/+IHJYdoJIiBmeAF1YYu4bk7S+38/Od+VvpBwRHvSfLDZiBZ5LxgfkyG6xrBImFNehqgAThytlUk29itZi4e5HKQ541cFuqvmAAOWkzmhC7zHfnQSKkmKiYnW0uiWtZq+Wa4A==;y/6UNSGpq1ZMkeoW/1yZQA=="

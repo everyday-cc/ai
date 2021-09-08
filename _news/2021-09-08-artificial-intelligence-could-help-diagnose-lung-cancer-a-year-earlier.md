@@ -2,23 +2,25 @@
 category: news
 title: "Artificial intelligence could help diagnose lung cancer a year earlier"
 excerpt: "An artificial intelligence (AI) program can spot signs of lung cancer on CT scans a year before they can be diagnosed with existing methods, according to research presented at the European Respiratory Society International Congress."
-publishedDateTime: 2021-09-07T22:03:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/927387"
-webUrl: "https://www.eurekalert.org/news-releases/927387"
+publishedDateTime: 2021-09-08T07:30:00Z
+originalUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-lung-cancer-year.html"
+webUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-lung-cancer-year.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-lung-cancer-year.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-artificial-intelligence-lung-cancer-year.amp"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d583745c-7c02-415d-a75b-b34c68d94221/Rendition/low-res/Content/Public"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-29.jpg"
     width: 700
     height: 400
     isCached: true
@@ -39,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "w1UZ+Qo8/sZ6cHZ/SwI3KCGZFis+FKg4skfYVr1tyMHe01R6i+E4/5u9gcDPlcqWEEHtKKxvpxitbU3YXkz+/VJZmprpBsEAcPpoYGrtEGpUukLRfEO73lGfh0j9cDJ333JRQwhDKJvhG5EMNalY2BXtPskT4xNdDd5AsgbN4HgHrI4co7vq8YQWPy7xXhooi0G3F4O5urq6ntrhBJ6tgzStr9KKAGtDAuWV6fOR/0TjsQKkzsdkL1iNvp1TqyxRuYykNUYovvdnM3n6Y8VuYxIfW0qs5I20PdF1KsxPZxaGZAI19boDaMllPlfbJIk5WEFU+LlAVbR11Mr4v8tUDEW8w/uFIyfpolJVYF5VWb2xDCZ5SID57bVa6cByYgdrwV46uz+2a4Jpcbui3sVOoyfjbO415Svd7m9HtnmAQLix/Nfqw4E0pjqRwsRbrR09fwXP+WyTrvM9yVmq9h5Be+bhkp/L0t9KAI/APa/3cN48TxbdxBUC5XvXaSLj1xCN8o4XEgWPnQtnv2xpR/Vh7A==;kC/R0ie3vkdXIPJxhSJWnw=="
+secured: "Z8Pyyv1qCRNN6N/eS6x8ns33R1rVn+mVj3rgijGlvIS6ijqqw3cBijHKDoY6aLeGhc+qKncwgRIg2VhUGKfrtPQkGsCJSmrtkuSJy4U4usvOO888t3idY3Y4LtI+bTscLkT7LgIK/xoiNgRFs0ne7pV46jv3tXgsxbHk9rFrnzH+JNYpphY2COF7ImR2YP/GeQ401ymCHqg+PUUtR3Y+fxrBCJnD3fgIpCuwmCzhvntILzVLos6H8SrG9pPxYxLQRgVM2Q9HKE7cLk7CPr3BMnTloEoAEWk7AzJxY/zL/+hm4wW6U2eudrErl9tjZC9kbEN1AfuWfl5mKoKugaivqyc9+88GPlo5E2YjLNO82vw=;yvnOz4Rd7ESUuPZPGR6/3Q=="
 ---
 

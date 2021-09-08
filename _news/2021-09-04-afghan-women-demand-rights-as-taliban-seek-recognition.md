@@ -9,7 +9,7 @@ ampWebUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-
 cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Afghan women protest in Kabul demand rights as Taliban seek recognition"
-    excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new"
-    publishedDateTime: 2021-09-03T14:21:00Z
-    webUrl: "https://english.alarabiya.net/News/world/2021/09/03/Afghan-women-protest-in-Kabul-demand-rights-as-Taliban-seek-recognition"
-    ampWebUrl: "https://english.alarabiya.net/amp/News/world/2021/09/03/Afghan-women-protest-in-Kabul-demand-rights-as-Taliban-seek-recognition"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/world/2021/09/03/Afghan-women-protest-in-Kabul-demand-rights-as-Taliban-seek-recognition"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 44
-    images:
-      - url: "https://vid.alarabiya.net/images/2021/09/03/5e58eb2d-d036-4378-ae2d-289c2ef4d2d9/5e58eb2d-d036-4378-ae2d-289c2ef4d2d9_16x9_600x338.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "WH: No need to rush Taliban gov't recognition"
     excerpt: "White House Press Secretary Jen Psaki stated on Tuesday the United States is not in a rush to recognize the new Afghan government led by the Taliban. Speaking before the president's departure for"
     publishedDateTime: 2021-09-07T15:17:00Z

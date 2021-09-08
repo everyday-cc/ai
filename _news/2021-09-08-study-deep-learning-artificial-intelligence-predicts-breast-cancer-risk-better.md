@@ -99,6 +99,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Can Terrorism Be Predicted With Machine Learning?"
+    excerpt: "A team of researchers at Zhejiang University have developed a ML framework to predict and explain the occurence of terrorism."
+    publishedDateTime: 2021-09-08T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/can-terrorism-be-predicted-with-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/2-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "z5TLyOynFHEKht9RTPCxp8kM/eyZqRWbDLWBGqyi27v3mQHJqXM9i4kjF7/KIZgF/xq3jyeV3I0zjOJ4gRESUzbIaarUsUoQg0D+4GPYBRsYWtESoElbPv+oWDELC1P8QxSh1VXfEE7tLL6Q7hhjl2/DUktmTSeyhbLOAMe2ZiEGX4CDAxZTQT5Ty1FJeshcQgi7tfjbAbNzfVsYnpzgtBBhih+pOs1+uVLdB/nRb/H0IuK1zAXSSzwLFBDckhWT7QzdwWDyz8PsHKiiFTnV/dc0M28gFZeFAoLjCZO6xLaxw8owkG63w7WMIOaaktYMaILCKV83M+1vpH2CHuPJwC4ZedMJwhrcqlgJa8YfUrIOCgEUC15HzNKK9LwNe34cdzNZWHGvkaNGc5Sx1DXsklMNjU+7Jjk+6fUKcW8D8UKGoUcdZRmiujQo1q3/6szwTOTmMK9ERtIOIjkItqRhZyhUmlKy5Ugfzo0ztJ1oRvfJZc05MP11JW+D9ZZFeVBGgK1+Yz+Jww9g209KhvtQIA==;k5w24oaTN197lpHcbwy54w=="
 ---

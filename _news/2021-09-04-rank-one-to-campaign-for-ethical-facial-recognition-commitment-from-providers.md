@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-et
 webUrl: "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Consumer-Goods-and-Retail-Industry-1-390x220.png"
         width: 390
         height: 220
+        isCached: true
+  - title: "AnyVision to the British Biometrics and Surveillance Camera Commissioner: 'Facial Recognition Apps Should Be Provided to the Police with an Empty Data"
+    excerpt: "AnyVision's Open Letter outlines the principles for fair and ethical use of facial recognition technology by law enforcement in response to the British government's public comment request on the Surveillance Camera Code of PracticeNEW YORK--(BUSINESS WIRE)--#AI--The British government has approached the public to consult on revisions to the Surveillance Camera Code of Practice."
+    publishedDateTime: 2021-09-08T06:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=527165"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "HkAQyBQ8J97EFh/rE668RCiZQw/yy3q1Ulx70NE2DjSGYAnxiRjwaL/g90RzfzIkqO5T9UpmAg+b1y50Dv/pafixGkZYi/jkwNdgdaPLvhLYX4qA1e2SfuRk7oucwIch/7GOW71yJhRFX9Ln1jktcoyV2AOFQfjIq+Dr2Dop3ZQinK1FI1mDZyIPlH+drq7LDf4tp950UiZaLPzryH+VqDUNr5uK6SirFPmsS+gdajOQ2OKZGB7QxTmCu4//BXHuge/fH/DiF7we11CKdaW1SeC5Qx0bhmAi/s/6UQYhWzO/NjJQmLlOo5XsZKq7yVPzI8DyEDk5Yxq+CFGeV0gWxj3933WmzDUqC8wbkCyAAZEvWS9gpTp9RhBkyVxjhtHlQ2zjpGrq0Dp6zRT3nRr94gCkXln8UFeGYv/5ksCIZD6v5k3NgnKpxbfLVNOhAdodeWPXYwkcgY/Red5EEU4gn48CDEkMzRq+N1QnaFQpO25ItizvJYBPC/wtVmAJ6Pa1MpI4FOnnNtUmFhAM/rpguA==;VfWTkfUjYvHxnvt4ZWTfWg=="

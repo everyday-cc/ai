@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
         width: 360
         height: 270
         isCached: true
+  - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
+    excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"
+    publishedDateTime: 2021-09-07T17:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210907005101/en/Socure-Featured-on-AIFinTech100-List-of-the-World’s-Most-Innovative-AI-Solution-Providers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "B34RPM1No9IixYmvPnigSQ7MYXpMLNDGXUT1qhqhENLDA/OwETRh0m6+4Wji57bO02ST85Mc4n6tjpwJMd8LGmYbqE0vJbjf4b1dc2IMVfUyCqK6fXwBBJx6WVmLkUHWhONS40wwpFGN2LiXxOAR04Ahm4/yJt9adOCV82NqoYFTz3694SHRiydWnh4nTPJr1gG/ZDbp6nc4FtIYiKeltyYiKvu39Juiz0/muHRifI9mEThP+uA31HwygzIwg5MUkYWs0W7SDHvFaVxs6bTrxIRy0WUoayA1lgtC8jmvxKstjFogxY9XTBrpx5SmG4fn5w9EDp38o0z7YSQ+TQp1LtxYtaccuB5CzBmAt1gaSEPLTLpRbg3Z1vikU0GCJWGipij+dLzGMB59zOHKNtQobo8aHNZ9kjmUkV3JNJk4cbFR5Buurf1/msH9p98M0DvHqFTdCCo9ZJQoQ7Ef00n/i+P8sse6f7eWqeoPiLlMWJWYGH4wjjvjCn7ksGrTJUfjSUfLpC9TjXW78+MzBpLlAg==;d8LpNLdvSl96fZsdWBBnIg=="
 ---

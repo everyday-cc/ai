@@ -40,6 +40,20 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "AnyVision to the British Biometrics and Surveillance Camera Commissioner: 'Facial Recognition Apps Should Be Provided to the Police with an Empty Data"
+    excerpt: "AnyVision's Open Letter outlines the principles for fair and ethical use of facial recognition technology by law enforcement in response to the British government's public comment request on the Surveillance Camera Code of PracticeNEW YORK--(BUSINESS WIRE)--#AI--The British government has approached the public to consult on revisions to the Surveillance Camera Code of Practice."
+    publishedDateTime: 2021-09-08T06:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=527165"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "UUlvBlQjA1DC4QKX2uO0RcPeRwFPk/hUyN3F2Hr2N7bLFVa+oxeEB9FG6Sr1d1rKnnmpi0J7hlOSiN+D0gZbbIFlUaORlbP7IcIKC05RtEGJuYPOqNxBZV11eI1SXT/1qWSYyO8miWZ+WC4rQ+L8Ev0PjxexSjLFEZkeFCTjMvUMmF7UKJN1divDOdHPD+9kVLVpStTRiRvUGV6kId1QxRGDhHMe+b8bu+k8Xe8gp8vRw8RVdIPmrW7pZ4f3vg7lCdGC7M+dkLqVNP/j1Pwbe0Am+5ZJL79zehs5hgZqnZ6jwSCfjaznyz+HDZBQ3Vj9sAK7+guFwZJwtXRfAW739L7h3DnmQsP3T6Py9lI+/kg=;McnE0QRx7F/k8UiAZ0mw2g=="
 ---

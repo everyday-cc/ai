@@ -7,7 +7,7 @@ originalUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=133415"
 webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=133415"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,17 @@ images:
 related:
   - title: "Artificial intelligence could help diagnose lung cancer a year earlier"
     excerpt: "An artificial intelligence (AI) program can spot signs of lung cancer on CT scans a year before they can be diagnosed with existing methods, according to research presented at the European Respiratory Society International Congress."
-    publishedDateTime: 2021-09-07T22:03:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/927387"
+    publishedDateTime: 2021-09-08T07:30:00Z
+    webUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-lung-cancer-year.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-09-artificial-intelligence-lung-cancer-year.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-artificial-intelligence-lung-cancer-year.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d583745c-7c02-415d-a75b-b34c68d94221/Rendition/low-res/Content/Public"
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-29.jpg"
         width: 700
         height: 400
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-sof
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/1L6o4ALqwP/sizes/tesla-full-self-driving-software-open-to-more-drivers-should-we-worry_resize_md.jpg"
         width: 744
         height: 419
-        isCached: true
-  - title: "If you thought a self-driving Tesla was cool, here is a kit to build and program your own self-driving car"
-    excerpt: "This build & code your own AI self-driving car comes with complete components. Learn about microcomputers, electromotors, camera calibration & more!"
-    publishedDateTime: 2021-09-03T14:00:00Z
-    webUrl: "https://thenextweb.com/news/if-you-thought-a-self-driving-tesla-was-cool-here-is-a-kit-to-build-and-program-your-own-self-driving-car"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 51
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-Build-Code-Self-Driving-Car.jpeg&signature=c189a084ee36e4787b851d03217ccbae"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "KvqZpc8rIqvWcl9geERXYPOtjoKrQKABL0lzsEUlrCzjYSG0Oi4cVsYFiHAkMBfvOrdmSWg/CosubOGAtTW2FKV+3wKVcQWSO4zAo4B9AOggjXRPSPtKflTVBYk63ySsrmUd3tywHe3Qd+seuQB7QB+bFKO06AUOzrUS8FfmreWMhzRiGqW32ukToUqTpmArmA1GCyOu9rIPUBQmf4zr2s6pjXH+miCQw6EYmZXwAXyFECE7iuZ7CE7Zvg4fIt4OVtUOHwZ6DTZ13mrc5r3BBe+nzbTOJiCseMMQaCdzvSi0WsjW5bscDK6JeXG1eWsvMcinb1g1+n+Lki/pc779zV24i876SfhU6OQj4cMorRs=;4dE9SSVHiDp9fkgwaNDMRg=="
