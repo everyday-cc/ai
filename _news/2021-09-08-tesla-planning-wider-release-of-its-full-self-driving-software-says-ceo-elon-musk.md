@@ -91,6 +91,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Elon Musk Says Tesla Full Self-Driving Is Almost Ready for Release"
+    excerpt: "Musk says the company is finally set to release the Full Self-Driving (FSD) update for compatible Tesla vehicles in the US, but this isn't the first time he's said that. If it's true this time, the software will begin rolling out at midnight on Sept."
+    publishedDateTime: 2021-09-09T11:29:00Z
+    webUrl: "https://www.extremetech.com/extreme/326781-elon-musk-says-tesla-full-self-driving-is-almost-ready-for-release"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/01/Tesla-Model-S-2021.jpg"
+        width: 1344
+        height: 756
+        isCached: true
   - title: "Tesla planning wider release of its 'Full Self-Driving' software"
     excerpt: "Nearly a year after Tesla started testing its controversial \"Full Self-Driving\" (FSD) beta software with a select group of customers, the company's CEO Elon Musk said he is aiming for a wider release by the end of September."
     publishedDateTime: 2021-09-08T14:59:00Z

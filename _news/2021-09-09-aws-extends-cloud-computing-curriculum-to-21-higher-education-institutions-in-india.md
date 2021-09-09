@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/aws-extends-cloud-computing-curriculum-21-hi
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Extends Cloud Computing & AI Curriculum To 21 Higher Education Institutions"
+    excerpt: "Students will learn about cloud architecture, data analytics, cybersecurity, artificial intelligence, and machine learning."
+    publishedDateTime: 2021-09-09T11:52:00Z
+    webUrl: "https://analyticsindiamag.com/aws-extends-cloud-computing-ai-curriculum-to-21-higher-education-institutions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 67
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/AWS-Adds-Another-21-Higher-Edu.-Institutions-To-Offer-AI-Cloud-Computing-Courses.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "AWS Extends Cloud Computing Curriculum to Students across 21 Higher Education Institutions in India"
     excerpt: "Students in these institutions will learn about cloud architecture, data analytics, cybersecurity, artificial intelligence (AI) and machine learning (ML). In addition to AWS training and learning resources, students will have access to the AWS Management ..."
     publishedDateTime: 2021-09-08T14:14:00Z

@@ -54,50 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-09-money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
-      "title": "Money, mimicry and mind control: Big Tech slams ethics brakes on AI",
-      "excerpt": "But as political and public scrutiny of AI failings grew, Microsoft in 2017 and Google and IBM in 2018 established ethics committees to review new services from the start.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-86058380,imgsize-486248,width-800/86058380.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms",
-      "publishedDateTime": "2021-09-08T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-09-09-this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold.md",
       "title": "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold.",
       "excerpt": "An ETF run by artificial intelligence smiled on U.S. retail plays in September but soured on a few Covid-19 pandemic trades.",
@@ -195,6 +151,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-09-police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well.md",
+      "title": "Police are investing in facial recognition and AI. Not everyone thinks that it's going well",
+      "excerpt": "A panel of experts warns that the growing use of technology in law enforcement agencies is starting a new wave of backlash from citizens and civil society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/09/09/590a4814-9869-4b1d-af78-a0769b53b1da/gettyimages-1199003889.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/",
+      "publishedDateTime": "2021-09-08T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-aws-extends-cloud-computing-curriculum-to-21-higher-education-institutions-in-india.md",
       "title": "AWS extends cloud computing curriculum to 21 higher education institutions in India",
       "excerpt": "Students in these institutions will learn about cloud architecture, data analytics, cybersecurity, artificial intelligence and machine learning.",
@@ -203,7 +211,7 @@
       "originalUrl": "https://www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -236,6 +244,49 @@
         "AWS AI",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-foodpanda-rider-creates-ai-chip-for-hands-free-cycling-so-he-can-eat-while-hustling.md",
+      "title": "Foodpanda Rider Creates AI Chip For Hands-Free Cycling So He Can Eat While Hustling",
+      "excerpt": "After attending a tech convention, delivery rider Lau Jin Ming, 22, designed an AI chip that allows his bike to steer itself.",
+      "sourceUrl": null,
+      "webUrl": "https://mustsharenews.com/delivery-rider-ai-chip/",
+      "originalUrl": "https://mustsharenews.com/delivery-rider-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mustsharenews.com/wp-content/uploads/2021/09/Delivery-Rider-AI-Chip.jpg",
+          "width": 1500,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mustsharenews.com/delivery-rider-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/delivery-rider-ai-chip/amp/",
+      "publishedDateTime": "2021-09-08T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lee",
+        "domain": "mustsharenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -489,6 +540,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-09-money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
+      "title": "Money, mimicry and mind control: Big Tech slams ethics brakes on AI",
+      "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-database-startup-singlestore-raises-80m.md",
       "title": "Database startup SingleStore raises $80M",
       "excerpt": "Database startup SingleStore today announced that it raised $80 million in a series F funding tranche led by Insight Partners, bringing its total raised to over $319 million at a post-money valuation “just shy” of $1 billion.",
@@ -497,7 +600,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -645,7 +748,7 @@
       "originalUrl": "https://www.cnet.com/tech/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -993,7 +1096,7 @@
       "originalUrl": "https://theconversation.com/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1120,101 +1223,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-machine-learning-predicts-patient-response-to-rheumatoid-arthritis-therapy.md",
-      "title": "Machine Learning Predicts Patient Response to Rheumatoid Arthritis Therapy",
-      "excerpt": "Rheumatoid arthritis treatment may soon be personalized based on new molecular signature models that accurately predicted patient responses to adalimumab and etanercept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
-      "originalUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.practicalpainmanagement.com/sites/default/files/images/2021/09/02/iStock-536845412.jpg",
-          "width": 1287,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.practicalpainmanagement.com/amp/38232",
-      "cdnAmpWebUrl": "https://www-practicalpainmanagement-com.cdn.ampproject.org/c/s/www.practicalpainmanagement.com/amp/38232",
-      "publishedDateTime": "2021-09-08T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Opioid Calculator",
-        "domain": "practicalpainmanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-what-the-ai-economy-means-for-cities.md",
-      "title": "What the AI Economy Means for Cities",
-      "excerpt": "In the future, AI may help doctors make better diagnoses and power entirely self-driving vehicles. In this regard, AI is a truly epoch-making advance, considered by experts to be a “general-purpose technology” like the wheel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-bay-area-dominates-race-for-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-bay-area-dominates-race-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBoHcLSm2_Ac/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

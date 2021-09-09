@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/us-government-forms-committee-t
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/09/Sep21_07_1271186214.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Commerce Department Announces National Artificial Intelligence Advisory Committee"
+    excerpt: "The U.S. Department of Commerce announced today that it has established a National Artificial Intelligence (AI) Advisory Committee that will advise the President and other federal agencies on issues surrounding AI."
+    publishedDateTime: 2021-09-09T11:15:00Z
+    webUrl: "https://www.ipwatchdog.com/2021/09/09/commerce-department-announces-national-artificial-intelligence-advisory-committee/id=137387/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 34
+    images:
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2020/01/Depositphotos_8265106_xl-2015-scaled.jpg"
+        width: 2560
+        height: 1168
         isCached: true
   - title: "Department of Commerce Establishes National Artificial Intelligence Advisory Committee"
     excerpt: "A formal notice describing the National Artificial Intelligence Advisory Committee (NAIAC) and the call for nominations for the committee and its Subcommittee on Artificial Intelligence and Law Enforcement appears in the Federal Register published today."

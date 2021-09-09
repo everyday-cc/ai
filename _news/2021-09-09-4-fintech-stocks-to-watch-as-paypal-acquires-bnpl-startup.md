@@ -154,6 +154,34 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "Silicon Valley tech firm expands in PH amid rise in fintech adoption"
+    excerpt: "A Silicon Valley-based fraud detection firm is expanding its global operations to the Philippines, betting on the growth of finance and telecom sectors in the financial technology space."
+    publishedDateTime: 2021-09-09T11:02:00Z
+    webUrl: "https://cnnphilippines.com/business/2021/9/9/fraud-detection-firm-HyperVerge-expands-to-PH.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 24
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2019/12/12/Online-Shopping_CNNPH.jpg/jcr:content/Online-Shopping_CNNPH.jpg"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "The FinTech companies to watch out for in Europe"
+    excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services. FinTech"
+    publishedDateTime: 2021-09-09T10:38:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/the-fintech-companies-to-watch-out-for-in-europe/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/FinTech-India-funding.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Financial Institutions are Increasingly Adopting AI for Supporting AML as Fintech Adoption Rises: Report"
     excerpt: "Financial institutions are increasingly adopting AI for supporting AML as global Fintech adoption rises: Report."
     publishedDateTime: 2021-09-05T21:24:00Z

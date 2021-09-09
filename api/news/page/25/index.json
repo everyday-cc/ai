@@ -2,6 +2,57 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-08-19-mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation.md",
+      "title": "MDBootstrap: 70% of web developers support social benefits to ease AI transformation",
+      "excerpt": "Most developers recognize the danger that AI poses for web development jobs. Most of them agreed that AI transformation is likely to be a cause of widespread unemployment in the i",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/",
+      "originalUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/robot-2301646-e1628227212251.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/18/mdbootstrap-70-of-web-developers-support-social-benefits-to-ease-ai-transformation/amp/",
+      "publishedDateTime": "2021-08-18T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-african-languages-to-get-more-bespoke-scientific-terms.md",
       "title": "African languages to get more bespoke scientific terms",
       "excerpt": "Many words common to science have never been written in African languages. Now, researchers from across Africa are changing that.",
@@ -1126,58 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-democrats-ask-ftc-to-investigate-teslas-self-driving-claims.md",
-      "title": "Democrats ask FTC to investigate Tesla's self-driving claims",
-      "excerpt": "Two Democratic senators asked the Federal Trade Commission to investigate Tesla over the company’s advertising of its Autopilot and Full Self-Driving technology. The letter comes one day after the National Highway Traffic Safety Administration opened a formal investigation into Tesla’s Autopilot system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
-      "originalUrl": "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 424,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1629294162",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html",
-      "publishedDateTime": "2021-08-18T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

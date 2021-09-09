@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Police are investing in facial recognition and AI. Not everyone thinks that it's going well"
+    excerpt: "A panel of experts warns that the growing use of technology in law enforcement agencies is starting a new wave of backlash from citizens and civil society."
+    publishedDateTime: 2021-09-09T04:01:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 94
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/09/09/590a4814-9869-4b1d-af78-a0769b53b1da/gettyimages-1199003889.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Federal agencies are rapidly increasing their use of facial recognition"
     excerpt: "The U.S. Government Accountability Office released a report on Aug. 24, 2021, detailing current and planned use of facial recognition technology."
     publishedDateTime: 2021-09-05T13:00:00Z
@@ -52,20 +68,6 @@ related:
       - url: "https://content.api.news/v3/images/bin/c487120f4abdccdf4988c01701b8a518"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Global facial recognition market expected to grow 12 percent to 2025 – report"
-    excerpt: "The substantial growth is expected to be spurred by increasing instances of identity threats, and the necessity of using biometrics to counter them."
-    publishedDateTime: 2021-09-07T15:40:00Z
-    webUrl: "https://www.biometricupdate.com/202109/global-facial-recognition-market-expected-to-grow-12-percent-to-2025-report"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
         isCached: true
 
 secured: "2gprjGJogxMroHrAAebL7dIwIO/Vgw1oAvedL5s7XdKh1YGRY5Bzrtw9Qzl8eizA+VQKVhEIQ9b62oDS6qnx9Q9AFK2WyJ0VWHloxMSXhLmsSug0QsiwJEdcMohJUoVPmM/xoGH87GRkRpEdol3rTDGidTj3TWBZd8CRp+JYPDd38k9U0hfmnfEiiJmWqZrJZIbo4D2qXMmaCtujA9OutmsAJqBQV4Z3zX5k4cbOiKdeonwwS24yeaO3FZ8qzygqbAHBI/EzYKPYZ/CaVXdgXgRSsmmXa55LIg9Ns/F0Mpn1u7KlS+/cRwvL+t1f8/w28fHG5ypwO+Gc5HM/RuW94U/bC7lSjJAaAt2ZH74ZOHu9oM8m9+jGu3UBvbxBWLnKH3CF5HiCYOHo+JC+MCWZTgH+NOm4lHWkOQHQusKul80cJH+1GaRM9G4m0fC1AAXQifd7I9uDGWKfg3N/ockyJJygUqb+4zrgmsDRdDm5xkQs7ZGL7YYfcLzF53Eosen7H/9Ztg8a1HbWg3/sfA4qnA==;D6F4g9Q/13XoCMfZ2ijVig=="

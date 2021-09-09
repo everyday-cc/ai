@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-08-machine-learning-predicts-patient-response-to-rheumatoid-arthritis-therapy.md",
+      "title": "Machine Learning Predicts Patient Response to Rheumatoid Arthritis Therapy",
+      "excerpt": "Rheumatoid arthritis treatment may soon be personalized based on new molecular signature models that accurately predicted patient responses to adalimumab and etanercept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
+      "originalUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.practicalpainmanagement.com/sites/default/files/images/2021/09/02/iStock-536845412.jpg",
+          "width": 1287,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.practicalpainmanagement.com/amp/38232",
+      "cdnAmpWebUrl": "https://www-practicalpainmanagement-com.cdn.ampproject.org/c/s/www.practicalpainmanagement.com/amp/38232",
+      "publishedDateTime": "2021-09-08T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Opioid Calculator",
+        "domain": "practicalpainmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-what-the-ai-economy-means-for-cities.md",
+      "title": "What the AI Economy Means for Cities",
+      "excerpt": "In the future, AI may help doctors make better diagnoses and power entirely self-driving vehicles. In this regard, AI is a truly epoch-making advance, considered by experts to be a “general-purpose technology” like the wheel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-bay-area-dominates-race-for-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-bay-area-dominates-race-for-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBoHcLSm2_Ac/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-the-massive-though-less-flashy-opportunity-in-fintech.md",
       "title": "The Massive (Though Less Flashy) Opportunity In FinTech",
       "excerpt": "The best value for investors will be unlocked by companies that figure out how to enable the big players to take advantage of the innovation.",
@@ -833,7 +928,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1042,7 +1137,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1133,99 +1228,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-vw-will-deploy-argo-ai-powered-autonomous-idbuzz-vans.md",
-      "title": "VW will deploy Argo AI-powered autonomous ID.Buzz vans",
-      "excerpt": "Volkswagen announced it will begin testing self-driving, ID.Buzz-based electric shuttles in 2025. Powered by Argo AI, a Pittsburgh-based company the firm holds a stake in, the vans will begin carrying users in Hamburg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/vw-will-deploy-argo-ai-powered-autonomous-id-buzz-vans/ar-AAObKqM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/09/06001634/volkswagen-argo-ai-id-buzz-4.jpg",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "publishedDateTime": "2021-09-07T07:12:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-        "domain": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-personalizing-price-with-ai-how-walmart-kroger-do-it.md",
-      "title": "Personalizing Price With AI: How Walmart, Kroger Do It",
-      "excerpt": "In 2020, nearly 60% of retailers said they planned to use artificial intelligence for their pricing strategies by the end of 2021. The results of these efforts, in terms of pricing at the individual level,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
-      "originalUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612fb1dc40ef6a756615be55%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
-      "publishedDateTime": "2021-09-07T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

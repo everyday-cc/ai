@@ -66,6 +66,20 @@ related:
         width: 960
         height: 545
         isCached: true
+  - title: "Drone Analytics Market Worth $45,575.9 Million by 2030, says P&S Intelligence"
+    excerpt: "From $2,815.6 million in 2020, the value of the global drone analytics market will witness a 32.1% CAGR during 2020?2030, to reach $45,575.9 million by 2030, says P&S Intelligence. The major reasons behind the rising demand for such solutions"
+    publishedDateTime: 2021-09-09T08:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-19988528.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "MY5CEQ3EJbJHrW4UimyRaqLQc7hYrEM/SzdpClDlloVmYuIMtJERTvYFY2KlCGm0FlA6NrgDTsKOKLb97jeia5lO7ASTWiqueNbwAYjYgnf9nYhn9BkeBy5mBMXN3YU1P2p71o1Q+soJLtiQ9P/KYS8E7B+x0pvrBehaqcphFSVnoFEKqz21EhubLsBBtH5LUF/oABQ8toJ3s5WWNto+dNE+WDH1WFeCXJkA8YUbje8NS0JiWlP3TcYkEl2ux7bkI4cbB8ncCkI+wXKg4p/gwunGBJHaTV/DoKiTzwTynhg4EiOJrFmf/8UBZVgJzW8MPAMIrRmWTgvgPKisjnR7K7ibVJoLKytbXl3fy+2z9zI=;7SCosUSyxmiKx9gNyEy68g=="
 ---

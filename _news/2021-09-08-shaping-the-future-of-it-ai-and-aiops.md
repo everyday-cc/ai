@@ -82,6 +82,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "The Energy Transition Needs Artificial Intelligence"
+    excerpt: "Long-term modeling of our future energy system will require artificial intelligence functions. Imagine if you will a network of n things, each of which is connected to each other. When n is a small number,"
+    publishedDateTime: 2021-09-09T10:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-09/the-energy-transition-needs-artificial-intelligence"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3R5EMS8GwE/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market by Trends, Dynamic Innovation in Technology, Global Industry Insights by 2028"
     excerpt: "The market study depicts an extensive analysis of all the players running in the Artificial Intelligence in Healthcare market report based on distribution channels, local network, innovative launches,"
     publishedDateTime: 2021-09-08T12:00:00Z

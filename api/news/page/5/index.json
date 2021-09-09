@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-03-can-ai-direct-movies-this-one-just-did.md",
+      "title": "Can AI Direct Movies? This One Just Did",
+      "excerpt": "Federico Fellini has been gone almost 30 years, but a new film premiering at the Venice Film Festival next week was directed with artificial intelligence that can replicate the famed director’s style.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did",
+      "originalUrl": "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01QLL3aCHDw6RVIA953SWTD-1.1630607174.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/can-ai-direct-movies-this-one-just-did?amp=true",
+      "publishedDateTime": "2021-09-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-meet-the-women-making-waves-in-ai-ethics-research-and-entrepreneurship.md",
       "title": "Meet the women making waves in AI ethics, research, and entrepreneurship",
       "excerpt": "We've been chatting with the winners of VentureBeat's Women in AI awards. Here are the conversations, covering ethics, regulation, and more.",
@@ -706,17 +757,17 @@
       "title": "AWS Announces General Availability of Amazon FSx for NetApp ONTAP",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon FSx for NetApp ONTAP, a new storage service that allows customers to launch and run complete,",
       "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap/article_21e23ee9-4423-5c38-bf11-55a14362b279.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap/article_21e23ee9-4423-5c38-bf11-55a14362b279.html",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg",
-          "width": 640,
-          "height": 336,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -729,8 +780,8 @@
       "publishedDateTime": "2021-09-02T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -997,10 +1048,10 @@
     {
       "path": "_news/2021-09-02-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.md",
       "title": "A Peek into the Future: Applying Artificial Intelligence to PSMA-PET Imaging in Prostate Cancer",
-      "excerpt": "In this educational lecture, Oliver Sartor presents on evaluating treatment assessments and changes, metastasis directed therapy for oligometastatic ... practice,” by discussing the impact of artificial intelligence and prostate cancer imaging.",
+      "excerpt": "The Clinical Utility of 18F-Fluciclovine PET/CT in Biochemically Recurrent Prostate Cancer: An Academic Center Experience Post FDA Approval - Beyond the Abstract : Ryusuke Nakamot",
       "sourceUrl": null,
-      "webUrl": "https://www.urotoday.com/newsletter-archive/listid-4/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html",
-      "originalUrl": "https://www.urotoday.com/newsletter-archive/listid-4/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html",
+      "webUrl": "https://www.urotoday.com/newsletter-archive/listid-3/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html",
+      "originalUrl": "https://www.urotoday.com/newsletter-archive/listid-3/mailid-9477-a-peek-into-the-future-applying-artificial-intelligence-to-psma-pet-imaging-in-prostate-cancer.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1120,58 +1171,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-new-study-ai-in-healthcare-applications-to-witness-burgeoning-demand-during-2021-26.md",
-      "title": "New Study: AI in Healthcare Applications to Witness Burgeoning Demand During 2021-26",
-      "excerpt": "According to MarkNtel Advisors, the “Global Artificial Intelligence (AI) in Cancer Diagnostic Market” is predicted to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/new-study-ai-in-healthcare-applications-to-witness-burgeoning-demand-during-2021-26-2021-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/new-study-ai-in-healthcare-applications-to-witness-burgeoning-demand-during-2021-26-2021-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -91,6 +91,20 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Intel’s Mobileye to launch self-driving robotaxi in Germany"
+    excerpt: "Intel's Mobileye, which specializes in developing chips is planning to launch a self-driving robotaxi service in Germany in 2022."
+    publishedDateTime: 2021-09-09T10:28:00Z
+    webUrl: "https://techstory.in/intels-mobileye-to-launch-self-driving-robotaxi-in-germany/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/09/images-47.jpeg"
+        width: 678
+        height: 452
+        isCached: true
 
 secured: "Dql04OEvOf14NRER1T4We6VIZDRR6CkgnjFW/zj0PEBG6tgwXwXtB9JaIHWTJFK6LZYz1dgZd5X8rsdWZ4Mk2vEt4RkFAaIUm6u6Wio7/GWny0NbCaZ2LQlmc/o34txw3Vk8Aihk6LP8MwdY+FPmiNKf10ic90At2Sx3xM+DIsKFqmezhZONUUj4Qgpe/VpxWGwnEm06zwCmxmHgnfgeUg0qvFOsVWIi1E59OR39UgOeeDVuv/DShCwgk2D7uN3dTA4XlcvHDQDqFAC/JodrIFxT5+AoVhWETtba2cvRQo9w4RlqHVjN2miIZESQYZfsaVOVxAEjnEGuw0tzEq//cAWIqzwZe7FEHQWFeL1xBNk=;prPDT13NbhmayAPWSvDCEg=="
 ---

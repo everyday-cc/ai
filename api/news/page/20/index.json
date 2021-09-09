@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-08-23-airrobo-debuted-its-first-robot-vacuum-cleaner-on-amazon-and-aliexpress-simplify-your-life.md",
+      "title": "AIRROBO Debuted its First Robot Vacuum Cleaner on Amazon and AliExpress - Simplify Your Life",
+      "excerpt": "Supported by expertise in AI field for over 10 years, AIRROBO launches the strongest robot vacuum cleanerHONG KONG, Aug. 23, 2021 /PRNewswire/ --",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/airrobo-debuted-its-first-robot-vacuum-cleaner-on-amazon-and-aliexpress-simplify-your-life-1030751335",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/airrobo-debuted-its-first-robot-vacuum-cleaner-on-amazon-and-aliexpress-simplify-your-life-1030751335",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1595831/image_1.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar.md",
       "title": "New Chip Helps Chinese Tech Brand Baidu to Make Level 5 Fully Autonomous 'Robocar'",
       "excerpt": "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet’s autonomous car ... The production of a new second-generation Kunlun chip specialized in calculations and artificial intelligence seems to be part of the solution.",
@@ -1087,49 +1139,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-elon-musk-unveils-plan-for-humanoid-robot-prototype.md",
-      "title": "Elon Musk Unveils Plan for Humanoid Robot Prototype",
-      "excerpt": "Elon Musk said Tesla will debut a humanoid robot prototype called the Tesla Bot. Its purpose will be to perform physical labor. Musk suggested humans will be replaced in the workforce of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype",
-      "originalUrl": "https://www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/6c993e1/2147483647/strip/true/crop/1000x521+0+83/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2Fab%2F03ac32bd487fac26ef4cc011d643%2Fshutterstock-1985005055.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype?_amp=true",
-      "publishedDateTime": "2021-08-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

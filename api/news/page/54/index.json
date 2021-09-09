@@ -2,6 +2,48 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-07-30-beckers-clinical-leadership-infection-control-e-newsletter.md",
+      "title": "Becker's Clinical Leadership & Infection Control E-Newsletter",
+      "excerpt": "To sign up for Becker's Clinical Leadership & Infection Control E-Newsletter or any of our other E-Newsletters, click here. If you are experiencing difficulty receiving our newsletters, you may need to whitelist our new domain. Please visit https://www ...",
+      "sourceUrl": null,
+      "webUrl": "https://fcw.com/articles/2021/08/03/ai-hsgac-workforce-bill.aspx",
+      "originalUrl": "https://www.beckersasc.com/infection-control-e-weeklies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/aigovernment.png",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's ASC",
+        "domain": "beckersasc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-ai-use-cases-are-expanding-and-evolving-in-healthcare.md",
       "title": "AI use cases are expanding and evolving in healthcare",
       "excerpt": "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and",
@@ -1080,50 +1122,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-honeypot-security-technique-can-also-stop-attacks-in-natural-language-processing.md",
-      "title": "Honeypot security technique can also stop attacks in natural language processing",
-      "excerpt": "As online fake news detectors and spam filters become more sophisticated, so do attackers' methods to trick them—including attacks through the \"universal trigger.\" In this learning-based method, an attacker uses a phrase or set of words to fool an indefinite number of inputs.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-honeypot-technique-natural-language.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-honeypot-technique-natural-language.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/cybersecurity.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-honeypot-technique-natural-language.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-honeypot-technique-natural-language.amp",
-      "publishedDateTime": "2021-07-29T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

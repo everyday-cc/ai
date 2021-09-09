@@ -2,6 +2,57 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-08-07-ai-weekly-companies-look-to-scale-up-their-use-of-ai.md",
+      "title": "AI Weekly: Companies look to ‘scale up’ their use of AI",
+      "excerpt": "Companies are looking to 'scale up' their deployments of AI as they look to incorporate machine learning throughout the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
+      "publishedDateTime": "2021-08-06T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-bc-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software.md",
       "title": "B.C. privacy watchdog investigating federal Liberals over facial recognition software",
       "excerpt": "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association.",
@@ -1125,49 +1176,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-fintech-startup-zeni-raises-34-million-from-elevation-capital-others.md",
-      "title": "Fintech startup Zeni raises $34 million from Elevation Capital, others",
-      "excerpt": "As part of the fundraising, Elevation Capitals founder and managing director Ravi Adusumalli will join Zenis board. The fintech startup has now raised a total of $47.5 million, including a $13.5-million Series A in March.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-308227,msid-85091495/snehal-and-swapnil-shinde.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms",
-      "publishedDateTime": "2021-08-05T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

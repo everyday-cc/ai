@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/08/database-startup-singlestore-rais
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "EXCLUSIVE-Singapore's ADVANCE.AI raising $200 mln from Warburg Pincus-led investors - sources"
+    excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
+    publishedDateTime: 2021-09-09T10:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources"
+    ampWebUrl: "https://www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 56
 
 secured: "FT7Sqz+jpyOJ2Ll3orHqSsNk6Vw9TxWyuKBqbN1tt5FqTMLUDCNPGcpoN6gYy2SreCzO9zSvFVLaqCaqM022VmBJWY3FUdqWV7jih+rOCYh0E7Fw8y33qdvsGKa+K/T87RVhzcv1qcWNzaxc/p2PXeEzOA+7oG4G7XU0qxNXr2xhyaZ2/TnomTjNhV9mPIs2mTuruCgg6Bq3qVRI1h4nIQ1QxWbu1hQyvFnuRdydL37PEPqKr3bStce+RxZtfwRtAljtQ51L1zY0SKuFZCE8mgf6qTxOcdQqKKnZhWt84BS4fl4ECb4aGlrwvqkruBtnXW8Qekh/qhRw1fAfDhckrhN/D6z6LFwatJH4zbF/heM=;THIHXpGmQHzQczQdrQSDiQ=="
 ---

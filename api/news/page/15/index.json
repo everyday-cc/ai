@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-25-deep-learning-chipset-market.md",
+      "title": "Deep Learning Chipset market",
+      "excerpt": "The global research report titled Deep Learning Chipset market was published by Absolute Markets Insights. The study elucidates current market statistics, in addition to underlying future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "originalUrl": "https://www.openpr.com/news/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U825568852_g.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "publishedDateTime": "2021-08-25T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market.md",
       "title": "Xiaomi to acquire self-driving startup Deepmotion to enter EV market",
       "excerpt": "Co-founder and Chief Executive Officer Lei Jun is now spearheading a drive to take Xiaomi beyond smartphones, personally leading a project to make electric vehicles.",
@@ -1156,49 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-artificial-intelligence-ai-chips-market-may-set-new-growth-story-qualcomm-mythic-amd.md",
-      "title": "Artificial Intelligence (Ai) Chips Market May Set New Growth Story | Qualcomm, Mythic, AMD",
-      "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence Ai Chips Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development landscape",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "originalUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U825941161_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "publishedDateTime": "2021-08-24T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

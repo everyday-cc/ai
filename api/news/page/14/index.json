@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-26-taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry.md",
+      "title": "Taktile makes it easier to leverage machine learning in the financial industry",
+      "excerpt": "Meet Taktile, a new startup that is working on a machine learning platform for financial services companies. This isn’t the first company that wants to leverage machine learning for financial products.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
+      "originalUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Taktile.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
+      "publishedDateTime": "2021-08-25T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-iphone-13-face-id-could-work-with-face-masks-and-foggy-glasses.md",
       "title": "iPhone 13 Face ID could work with face masks and foggy glasses",
       "excerpt": "Just when face recognition was shaping up to be the de facto biometric security system for smartphones, the world was hit with a pandemic that required people to wear masks most of the time. That threw off many face recognition systems, including Apple’s ...",
@@ -1143,50 +1196,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-deep-learning-chipset-market.md",
-      "title": "Deep Learning Chipset market",
-      "excerpt": "The global research report titled Deep Learning Chipset market was published by Absolute Markets Insights. The study elucidates current market statistics, in addition to underlying future ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2367819/global-deep-learning-chipset-market-2021-to-2030",
-      "originalUrl": "https://www.openpr.com/news/2367819/global-deep-learning-chipset-market-2021-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U825568852_g.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2367819/global-deep-learning-chipset-market-2021-to-2030",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367819/global-deep-learning-chipset-market-2021-to-2030",
-      "publishedDateTime": "2021-08-25T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2021/05/03/cad0f4b7-8a61-4f10-8771-acccb9865e9d/thumbnail/770x578/3b171bf8aec675869f79131a1a30ba3f/australia-roads.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "The Energy Transition Needs Artificial Intelligence"
+    excerpt: "Long-term modeling of our future energy system will require artificial intelligence functions. Imagine if you will a network of n things, each of which is connected to each other. When n is a small number,"
+    publishedDateTime: 2021-09-09T10:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-09/the-energy-transition-needs-artificial-intelligence"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3R5EMS8GwE/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Shaping the Future of IT: AI and AIOps"
     excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19."

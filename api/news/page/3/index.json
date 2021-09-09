@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-07-vw-will-deploy-argo-ai-powered-autonomous-idbuzz-vans.md",
+      "title": "VW will deploy Argo AI-powered autonomous ID.Buzz vans",
+      "excerpt": "Volkswagen announced it will begin testing self-driving, ID.Buzz-based electric shuttles in 2025. Powered by Argo AI, a Pittsburgh-based company the firm holds a stake in, the vans will begin carrying users in Hamburg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/vw-will-deploy-argo-ai-powered-autonomous-id-buzz-vans/ar-AAObKqM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/09/06001634/volkswagen-argo-ai-id-buzz-4.jpg",
+          "width": 1062,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+      "publishedDateTime": "2021-09-07T07:12:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+        "domain": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-personalizing-price-with-ai-how-walmart-kroger-do-it.md",
+      "title": "Personalizing Price With AI: How Walmart, Kroger Do It",
+      "excerpt": "In 2020, nearly 60% of retailers said they planned to use artificial intelligence for their pricing strategies by the end of 2021. The results of these efforts, in terms of pricing at the individual level,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
+      "originalUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612fb1dc40ef6a756615be55%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
+      "publishedDateTime": "2021-09-07T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai.md",
       "title": "To succeed in the metaverse, brands must embrace empathetic CX and humanized AI",
       "excerpt": "Every brand needs to planning how its digital incarnation is going to look, sound, act, and most importantly for brands…feel.",
@@ -156,7 +249,7 @@
       "originalUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1120,83 +1213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech.md",
-      "title": "Veoneer Says Its Products Enable Level 3 Hands-off Self-driving Tech",
-      "excerpt": "The automotive technology company Veoneer Inc. (VNE) said that its products enable level 3 hands-off self-driving tech. During the fall, Mercedes-Benz' DRIVE PILOT system is being introduced with performance from Veoneer's Stereo Vision and Radar products to support level 3 self-driving,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06",
-      "originalUrl": "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06?amp",
-      "publishedDateTime": "2021-09-06T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-workers-fear-robots-and-automation-from-covid-are-here-to-stay-but-they-create-jobs.md",
-      "title": "Workers fear robots and automation from Covid are here to stay. But they create jobs.",
-      "excerpt": "Calls for steps like 'robot taxes' to level the playing field between humans and AI will only hurt the economy — and workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/workers-fear-robots-automation-covid-are-here-stay-they-create-ncna1278433",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/workers-fear-robots-automation-covid-are-here-stay-they-create-ncna1278433",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_35/3503671/210903-think-self-checkout-se-616p.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1278433",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1278433",
-      "publishedDateTime": "2021-09-06T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

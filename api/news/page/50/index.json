@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-08-03-3-ai-writing-tools-european-entrepreneurs-can-use-in-our-digital-age.md",
+      "title": "3 AI Writing Tools European Entrepreneurs Can Use in Our Digital Age",
+      "excerpt": "Many global businesses, small and large, use these platforms to create or edit successful and awe-inspiring copy. ShortlyAI offers one way to help: its contract utilizes a “backdoor” access to OpenAI’s GPT-3,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/376438",
+      "originalUrl": "https://www.entrepreneur.com/article/376438",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625588196-GettyImages-1313070627.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376438",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376438",
+      "publishedDateTime": "2021-08-02T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-three-ways-to-ensure-collaborative-robot-success.md",
       "title": "Three ways to ensure collaborative robot success",
       "excerpt": "Power and force limiting devices work with restrictions on payload and speed to control force. For example, cobot devices from one robotic manufacturer vary in ... workspace with collaborative technology in mind from the beginning.",
@@ -1112,58 +1163,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-levi-strauss-dr-katia-walsh-on-why-diversity-in-ai-and-ml-is-non-negotiable.md",
-      "title": "Levi-Strauss’ Dr. Katia Walsh on why diversity in AI and ML is non-negotiable",
-      "excerpt": "Levi's chief strategy and artificial intelligence officer talks about the power of diversity and using technology for good.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/02/levi-strauss-dr-katia-walsh-on-why-diversity-is-non-negotiable-in-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/08/02/levi-strauss-dr-katia-walsh-on-why-diversity-is-non-negotiable-in-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/2020-Katia-Walsh-HiRes.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/02/levi-strauss-dr-katia-walsh-on-why-diversity-is-non-negotiable-in-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/levi-strauss-dr-katia-walsh-on-why-diversity-is-non-negotiable-in-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-08-02T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

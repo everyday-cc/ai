@@ -42,6 +42,22 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Oyo and Microsoft team up to develop travel tech powered by Microsoft Azure"
+    excerpt: "Microsoft and Oyo have entered into a \"multi-year strategic alliance\" in order to roll out new travel products and technologies."
+    publishedDateTime: 2021-09-09T11:45:00Z
+    webUrl: "https://thetechportal.com/2021/09/09/oyo-and-microsoft-team-up-to-develop-travel-tech-powered-by-microsoft-azure/"
+    ampWebUrl: "https://thetechportal.com/2021/09/09/oyo-and-microsoft-team-up-to-develop-travel-tech-powered-by-microsoft-azure/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/09/09/oyo-and-microsoft-team-up-to-develop-travel-tech-powered-by-microsoft-azure/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 72
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2019/12/Oyo-Logo.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "MDC joins Microsoft AI Business School to develop AI courses"
     excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"
     publishedDateTime: 2021-09-08T11:01:00Z

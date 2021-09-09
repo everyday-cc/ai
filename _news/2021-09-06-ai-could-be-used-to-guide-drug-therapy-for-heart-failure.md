@@ -7,7 +7,7 @@ originalUrl: "https://pharmaphorum.com/news/ai-could-be-used-to-guide-drug-thera
 webUrl: "https://pharmaphorum.com/news/ai-could-be-used-to-guide-drug-therapy-for-heart-failure/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1240
     height: 828
     isCached: true
-
-related:
-  - title: "Novel AI-Driven Heart Failure Diagnosis"
-    excerpt: "Developing an artificial intelligence (AI) based diagnosis for heart failure will identify individuals who are unlikely to receive therapeutic benefit, and can make a more personalised medicine approach."
-    publishedDateTime: 2021-09-04T18:10:00Z
-    webUrl: "https://www.medindia.net/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/novel-ai-driven-heart-failure-diagnosis-203149-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/heart-transplant-paradox.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
 
 secured: "GNk5yC2N2FBMaKPhNydshTAmajQXWN7wMk8m7HHZtFEU4S9bNb2hOWpyyKcIvyvdXl/XtP5aVCsbe+AhkCYbPRvamL9ESrxXt/mfvI2PHFNPME0Fl75cEX4oBf90s6hlCFJEgfyvps5z3CHeMJW5kLNMDcwQiz3h1Nl4Q7w5k5nIN1ZmG0hdIPnB64NtAfuzi3CZyLshX1MliCbR2JaQxc/PrQ4U+tXmKQZGhS1qzYr9P5d3ZKiGdgwK4nTmdvAmStylCxTxVQ9BSE8GywhaztW3qEKxTl7narCfoBn+XwBFlXgspUwOvfq0Ny7CvnO3Ly276BHkAhWhwWzgP8DmeI35YPy8k47om+nebm16ck7B0T1BvqwmcI78+wXRKuX0p1Y2ATElGhjzmIA3OnSKxxx2Tcbk4uXrNFnnkjuFLQF4iHcax+Ketsxvy0u8XSRtEdlZxTUZrcOydl2KRzWSNX/hLSJvxVpq2MeCg0Ko5qLqg7s70HGrUBiTntPEauoKlN5cqyifzaoFF+kJ0byLtQ==;Fd0xIpodsf3+9GpJuCHaEg=="
 ---

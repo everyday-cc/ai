@@ -2,6 +2,59 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-08-11-run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
+      "title": "Run ML inference on AWS Snowball Edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
+      "excerpt": "You can use AWS Snowball Edge devices in locations like cruise ships, oil rigs, and factory floors with limited to no network connectivity for a wide range of machine learning (ML) applications such as surveillance, facial recognition, and industrial inspection. However, given the remote and disconnected",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T14:28:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-an-introduction-to-decision-tree-and-ensemble-methods.md",
       "title": "An Introduction to Decision Tree and Ensemble Methods",
       "excerpt": "For more details check here. Before we get into code, we would spin an Amazon SageMaker Notebook, it’s a fully managed ML compute instance running the Jupyter Notebook App. It manages creating the instance and related resources for us, we are going to ...",
@@ -1054,40 +1107,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws.md",
-      "title": "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)",
-      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

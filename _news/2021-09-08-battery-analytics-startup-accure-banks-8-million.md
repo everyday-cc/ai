@@ -52,6 +52,20 @@ related:
         width: 2698
         height: 1414
         isCached: true
+  - title: "Drone Analytics Market Worth $45,575.9 Million by 2030, says P&S Intelligence"
+    excerpt: "From $2,815.6 million in 2020, the value of the global drone analytics market will witness a 32.1% CAGR during 2020?2030, to reach $45,575.9 million by 2030, says P&S Intelligence. The major reasons behind the rising demand for such solutions"
+    publishedDateTime: 2021-09-09T08:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-19988528.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "AI Government Advisory Firm Sapio Analytics Receives Strategic Funding from Rachit Poddar and Rajesh Gupta"
     excerpt: "Founder of Marwari Catalysts Ventures & Executive Director at Rachit Group, and Rajesh Gupta, Director at Jaybharat"
     publishedDateTime: 2021-09-07T03:30:00Z

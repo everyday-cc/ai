@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-08-11-nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory.md",
+      "title": "NVIDIA Launches New RTX A2000 GPU With 6GB GDDR6 ECC Memory",
+      "excerpt": "NVIDIA officially launched the RTX A2000, a compact GPU designed for professionals, designed to fit into small form factor desktop PCs. Built upon the GPU brand’s current Ampere architecture, the card was built to handle a wide variety of professional tasks by accelerating AI and ray-tracing in workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/",
+      "originalUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lowyat.net/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/",
+      "cdnAmpWebUrl": "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/",
+      "publishedDateTime": "2021-08-10T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lowyat.net",
+        "domain": "lowyat.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-artificial-intelligence-market-investment-analysis.md",
       "title": "Artificial Intelligence Market Investment Analysis",
       "excerpt": "The research study provides estimates for Artificial Intelligence Forecast till 2029*. Some of the Leading key Company’s Covered for this Research are IBM Corp., AWS, Microsoft Corp., Intel, Oracle Corp., NEXT IT, JP Morgan, IP soft, INBENTA technologies ...",
@@ -1086,49 +1129,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-xiaomi-just-unveiled-its-first-robot-dog.md",
-      "title": "Xiaomi Just Unveiled Its First Robot Dog",
-      "excerpt": "Xiaomi today unveiled its open-source four-legged CyberDog that developers can \"build upon\" in order to create their own applications.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "originalUrl": "https://interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Xy6xljzk6r/sizes/cyberdog-1_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "publishedDateTime": "2021-08-10T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
