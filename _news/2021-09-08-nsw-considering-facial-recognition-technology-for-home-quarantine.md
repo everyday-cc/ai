@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "White House wants nominees for AI and facial recognition committees"
+    excerpt: "Those selected to serve will be profiling the state of AI development in the United States and, in particular, development in law enforcement."
+    publishedDateTime: 2021-09-09T17:36:00Z
+    webUrl: "https://www.biometricupdate.com/202109/white-house-wants-nominees-for-ai-and-facial-recognition-committees"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Using facial recognition on grizzlies, and more advances"
     excerpt: "A new tool helps identify individual bears, machines turn glass bottles into grains of ‘sand,’ and scientists discover a gene transfer from plant to animal."
     publishedDateTime: 2021-09-07T13:04:00Z

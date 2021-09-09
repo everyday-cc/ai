@@ -67,22 +67,6 @@ related:
         width: 1199
         height: 630
         isCached: true
-  - title: "5 Indian Companies that are Leading the AI Race"
-    excerpt: "During the pandemic, India reported the highest increase in the use of AI at 45% compared to other major economies. AI has potential to add US$90 bn to the Indian economy by 2025."
-    publishedDateTime: 2021-09-09T13:54:00Z
-    webUrl: "https://www.equitymaster.com/detail.asp?date=09/09/2021&story=4"
-    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=09/09/2021&story=4&title=5-Indian-Companies-that-are-Leading-the-AI-Race"
-    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=09/09/2021&story=4&title=5-Indian-Companies-that-are-Leading-the-AI-Race"
-    type: article
-    provider:
-      name: Equitymaster
-      domain: equitymaster.com
-    quality: 57
-    images:
-      - url: "https://www.eqimg.com/images/2021/06092021-image8-equitymaster.jpg"
-        width: 300
-        height: 245
-        isCached: true
   - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
     excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
     publishedDateTime: 2021-09-07T10:43:00Z
@@ -120,22 +104,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/marshmallow-app-457x274.png"
         width: 457
         height: 274
-        isCached: true
-  - title: "Enova To Virtually Participate in Panel at the JMP Securities Fintech Forum on Artificial Intelligence"
-    excerpt: "Enova International (NYSE:ENVA), a leading financial technology company powered by machine learning and artificial"
-    publishedDateTime: 2021-09-08T20:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/09/n22855404/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intellig"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22855404"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22855404"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
         isCached: true
   - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
     excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
@@ -278,6 +246,15 @@ related:
       name: AFP
       domain: afp.com
     quality: 19
+  - title: "Enova To Virtually Participate in Panel at the JMP Securities Fintech Forum on Artificial Intelligence"
+    excerpt: "will virtually participate in a panel titled \"How AI is Rewiring Risk Analytics\" at the JMP Securities Fintech Forum: Artificial Intelligence on Friday, September 10th, at 12:15 pm Eastern Time. A live audio webcast and archive of the panel will be ..."
+    publishedDateTime: 2021-09-08T22:17:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210908cg99941/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intelligence"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 3
   - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
     excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
     publishedDateTime: 2021-09-08T12:18:00Z

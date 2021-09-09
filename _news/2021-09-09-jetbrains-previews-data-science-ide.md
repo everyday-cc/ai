@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3632873/jetbrains-previews-data-sc
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

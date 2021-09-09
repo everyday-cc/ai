@@ -54,7 +54,21 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 43
+  - title: "Global Artificial Intelligence Market (2021 to 2027) - by Offering, Technology, Deployment Mode, Business Function, Vertical and Region - ResearchAndM"
+    excerpt: "The Artificial Intelligence market size is estimated to grow at a CAGR of 40.1% during the forecast year from 2021 to 2027. The latest report on Artificial Intelligence Market understands market size estimates,"
+    publishedDateTime: 2021-09-09T16:56:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=528538"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
-secured: "MyKWlk2E3315pGqiNB6RfY2vCyw4bgh0wvyJCj2UxHn6GL6LOK8wxkUxLhNFQodKH4pEvFS1JScrZ5j1fDNaHdDMhYcR01pCjw0xqao0DHrOZheaHnHUud/GIicytopbdS8MZ+yWE+j8uHOKsp7Jhy8VodajL+4n5TRQs6g0BvaLoR3bpHQOPDWbKdmD8fMbgx62DJ2ge53Xm5M52Ishg1EcwjOKQCRD8IUM1PJTFYiHUYcPNB+KQTY1tKYO0g+XI4HozZ/O9p6rYkylX53Ta3oodDc0ngL/bDqsdxQ9mCe7/LEcDr+GRhVVTyknXbYAprGLi93g5I0SCm8cGt9gYRkd3MHkl7ZtZCWhCl9DEQU=;tsIvL557zhA1jMowGmSx8w=="
+secured: "n34qOmMzRQ4dL95N4bZOQVRIvyE/fUgP+0n/lRzvFfDT0Z7Lgf1IfbqULz7i8oXJ+UhFK+ToAvm1NxwtiyH5vpg+irbXaLpjV96xnI77GdP+wPCgXpf7BpAFMu597D6A19PxeC7NdGeVmkV4qNfd0gzbhso9Hf9ebM1MDyZJEthdgB1bpufBS7KngzymXfhYCt8uxy/dZO8a3DrP/IdOoe2lkhU6AyHxH08kw67/FjGawyOiXmNSLsWo+P/XVCxhnanDQN+VbWOZHm3bI+KODZUrJpFLtT6EN0UvaXJ5PiLyoxeKeKgz/y/204h0wCXYc3CUQoIGwGvR+ZvFQ7fuurdCfy+5QlV9hLb+OSMHaRtSlKJC/cBpIzkSHVAdua3a31MnT5cTO0EtLtIpuEG7ZrhGENzTxo7sEJMZ3Pr7wiOKH1D9UJGsCKQGf0+jHqsSk4s5VXi9Y1dxfWPuU7s6BTGoCgk/vyiuEdHcLVcDkO1YxDLTK5Lrn7A9ndhTq3c0HxA62T5iUVAc9VRgiz04Yg==;kqEUeX8NmoUC6ObBYPvILg=="
 ---
 

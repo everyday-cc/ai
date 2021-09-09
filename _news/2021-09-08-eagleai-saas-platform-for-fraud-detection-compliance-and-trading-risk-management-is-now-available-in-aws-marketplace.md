@@ -39,7 +39,16 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Upstream Works Assist knowledge management is now available in AWS Marketplace"
+    excerpt: "Upstream Works Software Ltd., a provider of cloud-based omnichannel contact centre solutions, announces that Upstream Works Assist knowledge management is now available in AWS Marketplace. AWS Marketplace is a digital catalogue with thousands of software listings from independent software vendors that makes it easy to find,"
+    publishedDateTime: 2021-09-09T15:44:00Z
+    webUrl: "https://www.journalism.co.uk/press-releases/upstream-works-assist-knowledge-management-is-now-available-in-aws-marketplace-/s66/a856803/"
+    type: article
+    provider:
+      name: Journalism.co.uk
+      domain: journalism.co.uk
+    quality: 30
 
-secured: "x6X0+2GYEAGPnIft7OKNZQivXfiYUG+XLH8eFs12qf+CIMTkHUJ0zjGGMwE49Tfjdrv1QuONP9d28MzRQB9+9LELrQRZdxmx3rz4L8PBrq2BCCilp64i0tBrUrng6g/WyChGeRdVZjhoWV/HGOGUs5WL32h6RITSdW7v+LeQhhcEeS4FA53mPdgCW1fhvjBwrcw1x07JX7ngloR0AnL2ibp8uM3jOl1UVLrH0nw7ssm/Ftks4+lU+9QL/cdHX1tvAJU8BIXNPR7LW2tR42EDOzeDTwziq4KgD//NCDImPqrw9tBc6adJfZp8nYTi2YvY+WEjhP9w4Os3Gu0s7VYKBNSEmJQeVI8javSjGaHVGdQ=;ObMRC1veu1FhSbBLXZSwqQ=="
+secured: "mhGVJXv1wVyHnntNmkJMMWLSuDJIouULwD8b6HlCzjN08mrhbcb2anuqCH9ld6mSHc9GijP1BSaEaGFKFvplHkMGLNqs8GKdpZTmJ3027q2w10budQ0GL5m6bM9UnpW5bfWyZ5BsNQsTrGQYEZ8VfhCudqv9H0dhX6Z8OOma7lKxDJSv7wrgMRG/u3lr13XJg1HQ2nLSx1S8X4HalhihjPkw376STUfHregtz64YvjK50hf4QZSJpDKmVDAMzKK/2esXq8d4XEPSNNRupmOdjUMSRrE/dqXk1p90F66ZEPwbIs9JMfOGg8Mq3bH8ICCKHfxqnFr2bVDbHyPNsKUkMId1SaIA11Q1W5z5vJ/kjK5buIjqGhZuQredDTFbAfpGuJ9bmY0ileQg9NU27dlnGeQUiwGKpXM74LYaFYYys2OzTSzsUIiV4ecXVS3Q7Zc1zx2DMfLRW3RvgDb5jyz7m+wJ98hNcVEzL+Hqek5E1XO+SAcgmgIrMILg/Y98Nsktn8YYpEnPgcO3eTYSsT8xAg==;Jp6oHtoIgNvj+S554s5rCA=="
 ---
 

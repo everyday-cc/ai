@@ -4,19 +4,19 @@
     {
       "path": "_news/2021-09-09-money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
       "title": "Money, mimicry and mind control: Big Tech slams ethics brakes on AI",
-      "excerpt": "But as political and public scrutiny of AI failings grew, Microsoft in 2017 and Google and IBM in 2018 established ethics committees to review new services from the start.",
+      "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to.",
       "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms",
+      "webUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-86058380,imgsize-486248,width-800/86058380.jpg",
-          "width": 800,
-          "height": 600,
+          "url": "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms",
-      "publishedDateTime": "2021-09-08T22:47:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T13:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -54,7 +62,7 @@
       "originalUrl": "https://www.cnet.com/tech/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -106,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {

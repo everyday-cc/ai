@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "White House wants nominees for AI and facial recognition committees"
+    excerpt: "Those selected to serve will be profiling the state of AI development in the United States and, in particular, development in law enforcement."
+    publishedDateTime: 2021-09-09T17:36:00Z
+    webUrl: "https://www.biometricupdate.com/202109/white-house-wants-nominees-for-ai-and-facial-recognition-committees"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "NSW considering facial recognition technology for home quarantine"
     excerpt: "The NSW government is considering using facial recognition technology as part of arrangements for home quarantine for returned travellers. This would allow authorities to send a notification to people isolating,"
     publishedDateTime: 2021-09-08T05:01:00Z

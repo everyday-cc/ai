@@ -79,6 +79,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Making Affordable Robots From iRobot Founder"
+    excerpt: "Rodney Brooks is a co-founder of iRobots and has started other robot companies. Lex Friedman interviewed Rodney about how to make popular robots. iRobot"
+    publishedDateTime: 2021-09-09T16:15:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/Screen-Shot-2021-09-09-at-9.05.36-AM.jpg"
+        width: 1580
+        height: 1006
+        isCached: true
   - title: "What's In Your Roborock Robot Vacuum"
     excerpt: "Like your smartphone, your robot vacuum is also jam-packed with all sorts of technology that make it as good as it is. Roborock is one of those companies"
     publishedDateTime: 2021-09-09T15:00:00Z

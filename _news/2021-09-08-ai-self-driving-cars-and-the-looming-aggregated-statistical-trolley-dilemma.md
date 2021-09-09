@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631035169_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Trucking company Plus adds intriguing sensor to self-driving system"
+    excerpt: "A company called Plus that specializes in developing automated driving for trucks is the latest to evaluate the potential of thermal cameras. The company said Wednesday it is collaborating with Teledyne FLIR on a development project that uses the cameras on its sensor stack for Level 4 automated vehicles."
+    publishedDateTime: 2021-09-09T16:29:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/trucking-company-plus-adds-intriguing-sensor-self-driving-system"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/WYNTKDougField-01_i.jpg"
+        width: 792
+        height: 570
         isCached: true
 
 secured: "E1931putXK1efERFtVljRNAqykYKEEFMytIF6yQiuH95GLs77snsF3rv28JLAr+U68Crn1Uj+CPY1ThshwI0pIr53ro3UDMVBuTjEFCIB8HpCLW8fsMMuGucKd07ZYk0h+YEzQTK8pVQs61TdoWWW+wap+241tXFbQV1DT8mCC7AJqIBkn6BSHejQbXKeHYJBfZWri3dXScl15WBFCDzEmBRB5PLJwEgOTf6DhmBHURpoHxwn/AmMvfBHejJ7Re/UKv27v/NDtJglGbWWYDW5bohw3fTsqLs/IdJFxYPsGCqESyGrBmi2Z3024vZg6xbhfSG9ZIhzh1b1Zq3gEkbMalFNVbbQ/cyrjYZXauHyoLW05cdQk+1cZ39l4LsY/C2d4Y8L6CRjdlxR5bSWQyaj9jA4YesoV0b+FJWJodtz1JljYldGIxa3q0roZRHSbNgD31b/AfNaRPfeYBAfWCju6RNrxxAy/CaC+oVqSEQDybFn8p5fx7QhJxOtBK75cA82o+sNKACUotl/dRTzP0J0w==;yGSbQPyKYQESD2fl7D4oHw=="

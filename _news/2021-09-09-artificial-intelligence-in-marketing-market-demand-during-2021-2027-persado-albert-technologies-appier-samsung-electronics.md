@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2388026/artificial-intelligence-in-market
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2388026/artificial-intelligence-in-marketing-market-demand-during"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://cdn.openpr.com/U/9/U909543870_g.jpg"
         width: 700
         height: 350
+        isCached: true
+  - title: "Global Artificial Intelligence Market (2021 to 2027) - by Offering, Technology, Deployment Mode, Business Function, Vertical and Region - ResearchAndM"
+    excerpt: "The Artificial Intelligence market size is estimated to grow at a CAGR of 40.1% during the forecast year from 2021 to 2027. The latest report on Artificial Intelligence Market understands market size estimates,"
+    publishedDateTime: 2021-09-09T16:56:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=528538"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "5O6R9DH1hMuzvVRhQY4uoXIgPUQUzpVcyaBXOw2UpGTTUWVOKzXBDTGvv+/xcqIOwyvvLl8uLBKUWLQhH7KJdyO/+zqRq4OyTgZJLssHcfHNyIIBGDpjKLybJyNqvVzuOF3NGSAxxErwB1db6O3oX9QeWpCJJgUq03kHTGSrhWgDVIIqtfsKIRUa9fqIWgnGoWL6EE3FdjQbkLl2dX2CNOztAW5xM6KceTeT8C+pxxZaGEKHEz4noFe+v63yJMgF3dSaBSkS30x0m/0ZG9FYQ6PXr4mkhLLUAnA+t1rql/cYmIjiWV3fBDY438gQx3fVaFph3nngF3ztZBW1hOUnRP+uFALccuDuFQ9mtRclAthTpfabq7oUDt1szsnRs8HLPTZaFM5yMhjtPtvpg5lRPLhBGMRG9cTA96ONYVUM0J5wKDymXFqnEwq1KtB6/SxzVa+kKTJOSlim8ywpG8snHD+LDETjwy3QPuHpRtXUwA3schh6rxiMMdDNvXe/izAHwotizNiW2fGKrWQiOacaJQ==;BZQUu/Cw5AR6Xyct3KHj6Q=="

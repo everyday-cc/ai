@@ -2,6 +2,196 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-07-26-alina-allen-on-the-natural-history-of-lean-nafld.md",
+      "title": "Alina Allen on the Natural History of 'Lean' NAFLD",
+      "excerpt": "With little known about how different BMI categories impact disease and survival, Alina M. Allen, MD, and colleagues at the Mayo Clinic in Rochester, Minnesota, conducted a population-based study to compare the natural history of lean,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/aga/lower-gi/93745",
+      "originalUrl": "https://www.medpagetoday.com/aga/lower-gi/93745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot.md",
+      "title": "Peak Fintech Begins Acquisition Process of Banking AI Software Provider Zhongke with Transfer of IP Following Successful Pilot",
+      "excerpt": "PRNewswire/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1581023/Peak_Fintech_Group_Inc__Peak_Fintech_Begins_Acquisition_Process.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-how-will-robots-impact-warehouse-design.md",
+      "title": "How Will Robots Impact Warehouse Design?",
+      "excerpt": "JLL, a leader in real estate services, recently put out a research paper called “The future of global logistics real estate.” New warehouse designs need to incorporate features that take advantage of robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
+      "originalUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60febb9b3be04e96ec8ea197%2F0x0.jpg",
+          "width": 958,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
+      "publishedDateTime": "2021-07-26T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-mac-face-id-prediction-suggests-patience-will-be-required.md",
+      "title": "Mac Face ID prediction suggests patience will be required",
+      "excerpt": "Apple’s Face ID may have been logging us into iPhone and iPad for several years now, but the facial recognition tech looks set to finally be coming to Mac too. While recent Mac models have",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "originalUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/iphone-face-id.jpg",
+          "width": 1440,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "publishedDateTime": "2021-07-26T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-unitypoint-health-des-moines-partners-with-qventus-to-deliver-improved-patient-experience.md",
       "title": "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience",
       "excerpt": "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,",
@@ -954,188 +1144,6 @@
         "AI",
         "IBM AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-data-centers-in-an-ai-and-ml-driven-future.md",
-      "title": "Data Centers in an AI and ML driven future",
-      "excerpt": "Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
-      "originalUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/zzKWX9b7Dxhz2F7QRMVTMC-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
-      "publishedDateTime": "2021-07-25T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-google-linked-waymo-lobbies-uk-on-driverless-car-rules.md",
-      "title": "Google-linked Waymo lobbies UK on driverless car rules",
-      "excerpt": "Waymo, Google’s driverless-car sister company, has warned against the UK imposing strict rules for self-driving vehicles in one of its first interventions in Britain. The company has submitted comments to a Law Commission consultation about how laws for driverless cars should be written,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/07/20/TELEMMGLPICT000263359199_trans_NvBQzQNjv4BqSqlWeRJCmOYHLNW5ZYKToBWt5YgiQRanv7pLYf59i4w.jpeg",
-          "width": 683,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/07/25/google-linked-waymo-lobbies-uk-driverless-car-rules/amp/",
-      "publishedDateTime": "2021-07-25T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-on-a-mission-to-hone-english-skills-of-tribal-students.md",
-      "title": "On a mission to hone English skills of tribal students",
-      "excerpt": "and they in turn help the students master the language,” says K. Srikanth Prabhakar, Secretary, APTWREI Society. The app, ‘EnglishBolo’, delivers online classes, including translation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "originalUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/em2ph2/article35517034.ece/ALTERNATES/LANDSCAPE_615/25vjpg4-tribal",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "publishedDateTime": "2021-07-24T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd.md",
-      "title": "Deep Learning Market Is Booming Worldwide | Advanced Micro Devices, ARM Ltd",
-      "excerpt": "In addition, the study helps venture capitalists in understanding the companies better and make informed better Deep Learning business decisions. Some of the key players in the Deep Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/DDD-5-2-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-24T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

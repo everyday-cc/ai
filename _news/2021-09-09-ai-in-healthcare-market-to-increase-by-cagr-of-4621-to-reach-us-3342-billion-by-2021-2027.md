@@ -53,6 +53,20 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "Global Artificial Intelligence Market (2021 to 2027) - by Offering, Technology, Deployment Mode, Business Function, Vertical and Region - ResearchAndM"
+    excerpt: "The Artificial Intelligence market size is estimated to grow at a CAGR of 40.1% during the forecast year from 2021 to 2027. The latest report on Artificial Intelligence Market understands market size estimates,"
+    publishedDateTime: 2021-09-09T16:56:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=528538"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "0/DDU6q++429bUcZyLO3aq+9eTnIw71B7dtvdFRYIaSXCALOzxnAjAVjA8MEeOR2/XWaUUBq+trpnqXp+SP+MgXDdEnM1m7b8u/83d+9tJytNFKy3BUrxRsSj+WZVFnm66SAHQMCIeQDv+MCJgUvvK+PRIFjHqaoVyc2ObJuLiBXVRSmlPy4G4TixH8ORUl7T9tcoHyxzkC5z5vzIbRDHjqUpl74xzUM0dEtrvgK+EPFTPaHbbJKSDwo+xw9YiFTdKpF20+Xayzjbp2QTLJoG/punxK4Ogs0RT12fvrHz1lQWAzIqczPaTDai4XkeqURw3hNS16ZWaauQFIWQvQPTQTYkp1fNDR/4Xlu1wUrOmQ=;X/Hlj3NZB6hUhk9SFZ0Lng=="
 ---

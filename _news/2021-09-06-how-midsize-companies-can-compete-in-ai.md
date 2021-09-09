@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Commerce Department creates an artificial intelligence committee"
+    excerpt: "The US Department of Commerce has created a committee to advise government decision makers on artificial intelligence (AI)-related issues. The Department said the National Artificial Intelligence Advisory Committee (NAIAC) would advise the president and other federal agencies on the technology."
+    publishedDateTime: 2021-09-09T17:32:00Z
+    webUrl: "https://www.itpro.co.uk/business/policy-legislation/360840/commerce-department-creates-an-artificial-intelligence-committee"
+    ampWebUrl: "https://www.itpro.co.uk/business/policy-legislation/360840/commerce-department-creates-an-artificial-intelligence-committee?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business/policy-legislation/360840/commerce-department-creates-an-artificial-intelligence-committee?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 87
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816887/itpro/2019/04/artificial_intelligence_head_illustration.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Commerce Department Announces National Artificial Intelligence Advisory Committee"
     excerpt: "The U.S. Department of Commerce announced today that it has established a National Artificial Intelligence (AI) Advisory Committee that will advise the President and other federal agencies on issues surrounding AI."
     publishedDateTime: 2021-09-09T11:15:00Z

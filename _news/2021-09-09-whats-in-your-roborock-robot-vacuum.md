@@ -91,6 +91,22 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "Making Affordable Robots From iRobot Founder"
+    excerpt: "Rodney Brooks is a co-founder of iRobots and has started other robot companies. Lex Friedman interviewed Rodney about how to make popular robots. iRobot"
+    publishedDateTime: 2021-09-09T16:15:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/Screen-Shot-2021-09-09-at-9.05.36-AM.jpg"
+        width: 1580
+        height: 1006
+        isCached: true
   - title: "iRobot's Most Thoughtful Robot Vacuum, the Roomba j7+ Identifies Obstacles and Avoids Hazards"
     excerpt: "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3."
     publishedDateTime: 2021-09-08T23:01:00Z
@@ -120,6 +136,6 @@ related:
         height: 1536
         isCached: true
 
-secured: "jyKo6INe2k9PBBChhCMFdUHNDrpG73O5dNj8rq/eTK21p/LtWHJPTVcZ/AiJwwoFDQRYUrtKgsCuqmQUnOnvjhYEDb8iMQPLSNvwvEibpFsKNzs0soTW0UZe9dOpInN7Rb1R6BiRbsn971CgfqaZjU6B7gqsk/0PyJMV6amDPxA1S70e6yClmcr8VYmnNb6NJ4nsRvYnFU8xU6E5cW4+7ICCSsMTH31iTBLMnwiOOD/98qnkjxQPgY+9YgS3KGCbeOXpDrUKcQGsy5awStB5aIDHK0kiKauOLNgMHHifuEMummO89sUfD0JT5SDZe9ahLTwRUwORbZAE5cYRUTO8io+CTWSWSsyzqLEUsfo9U4k=;FQCw/LmEK0As8q5IAFLVww=="
+secured: "+ondsPf/xhvQ/nHMzcjX4iwj5Bf1vhyKQhwMs+hUHOBenXr2QE9yYz9bPMzCkoRGvj/ysflH5SBVozjPs6x2Qr290wQAV7nupmsBHsRVV2LeUh1wIR6mhnvyLFm55zQgXvHHRQB0XXIJAMvaEv3ED5y5OrB+HuzSJGbfIuaOn2TpEKUpDhttscLgnfVSzAi9e4pNTR1JLetcYX3L0GPFdSGHrQ/Lgagj/TWGuw+DkdnoTPwiZfzvAnZ1bptoFFr8PNR2mbrblIjfdwZsAI8eraJtA/xeKDGPg/lzNAhY88REWATPFrOydzRsSxGWq9k1hyzIBTbpdlb7zXZDIzHUXzOTinD3fUxAE3O6QA8bAMtd5GNW0n+Ie5rtKPCnQ0nHO3FqPmHdxfupUsi7yNaWkT3Os6LzrtMuWlZeNvM2SbR4dTBlO0qb67NW96cu9GQ0Ns2Icx0wNc82ZaAIvaTjCcG5ncI5PEDJi3McgBXHRv9l0H7glU0uI8FYhLjSOLOm6kukYjfGXfHSseCjkxi0BA==;jyAmTT+1VZkFst5D35iNVg=="
 ---
 

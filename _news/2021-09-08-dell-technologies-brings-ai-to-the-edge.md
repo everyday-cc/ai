@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/09/07/dell-technologi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

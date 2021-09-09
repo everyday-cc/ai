@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "Making Affordable Robots From iRobot Founder"
+    excerpt: "Rodney Brooks is a co-founder of iRobots and has started other robot companies. Lex Friedman interviewed Rodney about how to make popular robots. iRobot"
+    publishedDateTime: 2021-09-09T16:15:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 59
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/Screen-Shot-2021-09-09-at-9.05.36-AM.jpg"
+        width: 1580
+        height: 1006
+        isCached: true
   - title: "What's In Your Roborock Robot Vacuum"
     excerpt: "Like your smartphone, your robot vacuum is also jam-packed with all sorts of technology that make it as good as it is. Roborock is one of those companies"
     publishedDateTime: 2021-09-09T15:00:00Z
@@ -124,6 +140,6 @@ related:
         height: 1536
         isCached: true
 
-secured: "r8mKvukFyGtUXhkRxP0SS1XcpluO7BIJGFuG8axzeZ3jqCaUaOLzY0v4hVyHvfbhJVagd0fHPudC48AwgyeF5jGerENjBJuprpjV8Dyuq389LDwS3rs87taD0cguiIpwZRIVp9t5sVm8cDb+By1AwbKUSOdaDI4Y/eRkqeLX6CJu3Jgf4wMIzqh8UIQ5pQD1elz0YYc/NPsZc7xxoN22YaZSKSICps3z+/mv5jXUr5sBiLgD9/K5rZqL8jUSTA1RxwusCDqigt06JzoUXFVZl4adLAEc5dqPv1qymdy6n+5r5Nlas0RAb6W5+ldXzoi3gvFv+A+Q0TnNUjWtFIJeTs13wtcYiv4gtxid8YuhGE4=;n/i0BNNwpAsB7wfSDyUH8w=="
+secured: "Eg5Cm61eaz0ppSMNBPiR/9mwAGKJbM00s30fJAKs5/cnHmOh1/x+jy9GN+y0mgHUnr940mVVIsKqhDb4zaFhW6Zy8DVAC2RWtXdh53d0o2FAmSBnwv0eI9v9QmmWHYGau0sJmJrWIJSh9sKJiSvqXxfqdZgYKTCn4P1UALmbEGjHbWf4UrJk8c3KaBO9l/4DfVI8oHWdPHSlK+/VKbgV5leIjH6xDTVfumuqVqvogFNKfoehwcu3BK+WhL8a12gU7+cbsduXEJGwXoXVhMuG513DDm+zYMRE3tipLInepRdR+9pPe3sZcab7F0nROc1cM3YPLqGk3aW6aFk9PiWsrrLcv5/gmwXATlbP2IwCrydBvXOiaWDY+RlffjGFxaPRPxJ8GDP876WLPdoWHb7i/Wj3g0tg//SbQQGWQMy00o6lSivE78J2YxXPjLvraeB/2eVLT3q1toW5C2GeDatCrPLl6qOA1OKRYjOUEeCOVuBkXu6d73lJWI2DyagvXjkdb7XOa4Gma8Tl65ax2ZBNTg==;m1rtMS7wNimrjOXrwnHnqw=="
 ---
 

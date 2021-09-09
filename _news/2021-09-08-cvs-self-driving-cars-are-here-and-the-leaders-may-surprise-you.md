@@ -100,6 +100,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Trucking company Plus adds intriguing sensor to self-driving system"
+    excerpt: "A company called Plus that specializes in developing automated driving for trucks is the latest to evaluate the potential of thermal cameras. The company said Wednesday it is collaborating with Teledyne FLIR on a development project that uses the cameras on its sensor stack for Level 4 automated vehicles."
+    publishedDateTime: 2021-09-09T16:29:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/trucking-company-plus-adds-intriguing-sensor-self-driving-system"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/WYNTKDougField-01_i.jpg"
+        width: 792
+        height: 570
+        isCached: true
 
 secured: "dnZ7k0rHHqoZ3RnY6lxteSZ8VNp3Xbe2G9g0Bopl8bzsf33W+UQnW1vDh1rOGpQrN9So9vcphfbn5G3EetaptfhUQP++QED40+PQVhfKRCj6DwZxymCM8UrcIPRrWj30UJNV6LfSLJYtTG3HGy0a9iIPilZgRU2xNlMKN646kdt7sbcJJI4MAM3ryeklmhz/ettPm+VlhWEHOWkD2LIxM/UfAspY4xpWHNQG+i6gSwPqxoHL7lOQzfe6CcouQzSfREE/d1mZyAfvZAfzSb5OotZa8VqLOQ6fmN3EO7WXUqJjNV6jDtAz0U0JB6kJIlDBe12tq3hqINmJYi1R3iEO1uGJT/53PtoyrDA7dRK54DpOL7BiAF0tSiwaSiwJpjZBBOv7zK5QRrBLVYbYtHif/f++DompL2/nnCNmsqDgHomK5zbXFBdoKQvQDChS+y8vPrFZpwHPtj4/cQoszar0bL5axfKUCvc1UxhUZZN1p5iSQTljuRr6Ic84uxqMUryhxi9i6BQZrGKVlNhnvhfwVA==;2wX9QASAaBIZ7g/MvtMRHQ=="
 ---

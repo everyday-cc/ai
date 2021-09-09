@@ -2,6 +2,197 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-01-7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet.md",
+      "title": "7 Robotics Stocks to Buy for Elon Musk’s Big ‘Tesla Bot’ Bet",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks have been gaining significant traction among buy-and-hold",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-1030773901",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-1030773901",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-doing-the-math-on-cpu-native-ai-inference.md",
+      "title": "Doing The Math On CPU Native AI Inference",
+      "excerpt": "A number of chip companies – importantly Intel and IBM, but also the Arm collective and AMD – have come out recently with new CPU designs that feature",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/",
+      "originalUrl": "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/ab_matrix-cube-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/amp/",
+      "publishedDateTime": "2021-09-01T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car.md",
+      "title": "This Is What Happens When You Honk Your Horn At An AI Self-Driving Car",
+      "excerpt": "Honking a car horn is a dicey proposition, oftentimes illegal, and yet we all still do have and use our car horns. Consider what will happen if you honk your horn at an AI self-driving car. Be in the know,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da43856d09d54f23021650%2F0x0.jpg%3FcropX1%3D162%26cropX2%3D2832%26cropY1%3D0%26cropY2%3D2003",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/amp/",
+      "publishedDateTime": "2021-09-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-fire-up-crunchmatch-today-and-start-networking-with-techcrunch-disrupt-2021-attendees.md",
+      "title": "Fire up CrunchMatch today and start networking with TechCrunch Disrupt 2021 attendees",
+      "excerpt": "You read that right, folks. CrunchMatch, our AI-powered platform that simplifies finding and connecting with the people on your must-meet list, is now open for business. TechCrunch Disrupt 2021 takes place on September 21-23,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/01/fire-up-crunchmatch-today-and-start-networking-with-techcrunch-disrupt-2021-attendees/",
+      "originalUrl": "https://techcrunch.com/2021/09/01/fire-up-crunchmatch-today-and-start-networking-with-techcrunch-disrupt-2021-attendees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/CrunchMatch.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/01/fire-up-crunchmatch-today-and-start-networking-with-techcrunch-disrupt-2021-attendees/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/01/fire-up-crunchmatch-today-and-start-networking-with-techcrunch-disrupt-2021-attendees/amp/",
+      "publishedDateTime": "2021-09-01T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-this-googlers-team-is-making-shopping-more-inclusive.md",
       "title": "This Googler’s team is making shopping more inclusive",
       "excerpt": "There’s a lot to love about online shopping: It’s fast, it’s easy and there are a ton of options to choose from. But there’s one obvious challenge — you can’t try anything on. This is something Google product manager Debbie Biswas noticed, as a tech industry veteran and startup founder herself. “Historically,",
@@ -866,49 +1057,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-01-looking-into-the-future-of-ai-big-data-and-informed-consent.md",
-      "title": "Looking into the future of AI: big data, and informed consent",
-      "excerpt": "We are living in the age of artificial intelligence (AI ... powerful AI algorithms which can aid medical diagnoses, navigate driverless cars, and make criminal sentencing decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.portnews.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
-      "originalUrl": "https://www.portnews.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.portnews.com.au/images/transform/v1/crop/frm/matthew.crossman/9d3d63c6-0806-4c8c-843b-b92df4c9509b.jpg/r0_445_5500_3553_w1200_h678_fmax.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Port Macquarie News",
-        "domain": "portnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-01-voice-and-speech-recognition-market-share-size-trends-demand-growth-and-forecast-2021-2026.md",
       "title": "Voice and Speech Recognition Market Share, Size, Trends, Demand, Growth and Forecast 2021-2026",
       "excerpt": "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\", the global voice and speech recognition market reached a value of US$ 9.",
@@ -1052,137 +1200,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-2017-ai-deep-learning-and-gpus.md",
-      "title": "2017 – AI, Deep Learning, and GPUs",
-      "excerpt": "Armed with huge data sets and increasingly powerful GPUs, neural network architectures got bigger and better, helping to close the human-machine performance gap in two prominent AI workloads: natural language processing (NLP) and computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/",
-      "originalUrl": "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_for_DoD.png",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-31T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-aws-announces-general-availability-of-amazon-managed-grafana.md",
-      "title": "AWS Announces General Availability of Amazon Managed Grafana",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Grafana, a fully managed data visualization service that enables customers to instantly query,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-31T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-the-propelling-impact-of-artificial-intelligence-on-businesses.md",
-      "title": "The Propelling Impact of Artificial Intelligence on Businesses",
-      "excerpt": "Artificial Intelligence (AI) is generally defined as any machine that can do ‘’what a human brain can do’’. Nevertheless, Artificial Intelligence is indubitably still subject to significant limitations in comparison to humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243",
-      "originalUrl": "https://www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/31/propelling-impact-artificial-intelligence-businesses.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/propelling-impact-artificial-intelligence-businesses-3285243?amp=1",
-      "publishedDateTime": "2021-08-31T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
       ]
     }
   ],

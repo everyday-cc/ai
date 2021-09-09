@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-3-traps-companies-should-avoid-in-their-ai-journeys.md",
+      "title": "3 traps companies should avoid in their AI journeys",
+      "excerpt": "The industry is still in the early days of AI adoption, and organizations need to develop an adoption strategy specific to their organization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/",
+      "originalUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-2-e1623874115544.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/amp/",
+      "publishedDateTime": "2021-09-09T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-the-development-of-bundesliga-match-fact-passing-profile-a-deep-dive-into-passing-in-football.md",
+      "title": "The development of Bundesliga Match Fact Passing Profile, a deep dive into passing in football",
+      "excerpt": "This post was authored by Simon Rolfes. Simon played 288 Bundesliga games as a central midfielder, scored 41 goals, and won 26 caps for Germany. Currently, he serves as Sporting Director at Bayer 04 Leverkusen, where he oversees and develops the pro player roster, the scouting department, and the club’s",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/the-development-of-bundesliga-match-fact-passing-profile-a-deep-dive-into-passing-in-football/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/the-development-of-bundesliga-match-fact-passing-profile-a-deep-dive-into-passing-in-football/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/08/4-5730.png",
+          "width": 564,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T09:01:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies.md",
+      "title": "Allianz backs AV8 Ventures’ second fund focused on AI technologies",
+      "excerpt": "AV8 supports entrepreneurs developing artificial intelligence-driven technologies in the areas of health, mobility, enterprise and deep-tech.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/",
+      "originalUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/AV8-TEAM.jpg?w=1024",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/",
+      "publishedDateTime": "2021-09-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-this-ai-makes-sure-your-data-center-is-always-up-and-running.md",
       "title": "This AI Makes Sure Your Data Center Is Always Up And Running",
       "excerpt": "CDS announced Nebula, a machine learning program for predictive maintenance, improving the management of data centers and IT infrastructure",
@@ -61,7 +215,7 @@
       "originalUrl": "https://www.openpr.com/news/2388026/artificial-intelligence-in-marketing-market-demand-during",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -106,7 +260,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepeer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -253,50 +407,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-09-money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
-      "title": "Money, mimicry and mind control: Big Tech slams ethics brakes on AI",
-      "excerpt": "But as political and public scrutiny of AI failings grew, Microsoft in 2017 and Google and IBM in 2018 established ethics committees to review new services from the start.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-86058380,imgsize-486248,width-800/86058380.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms",
-      "publishedDateTime": "2021-09-08T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-09-09-this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold.md",
       "title": "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold.",
       "excerpt": "An ETF run by artificial intelligence smiled on U.S. retail plays in September but soured on a few Covid-19 pandemic trades.",
@@ -349,7 +459,7 @@
       "originalUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -402,7 +512,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -583,7 +693,7 @@
       "originalUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -686,7 +796,7 @@
       "originalUrl": "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -737,7 +847,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -825,6 +935,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-09-money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
+      "title": "Money, mimicry and mind control: Big Tech slams ethics brakes on AI",
+      "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-database-startup-singlestore-raises-80m.md",
       "title": "Database startup SingleStore raises $80M",
       "excerpt": "Database startup SingleStore today announced that it raised $80 million in a series F funding tranche led by Insight Partners, bringing its total raised to over $319 million at a post-money valuation “just shy” of $1 billion.",
@@ -884,7 +1046,7 @@
       "originalUrl": "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -929,7 +1091,7 @@
       "originalUrl": "https://www.techrepublic.com/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -981,7 +1143,7 @@
       "originalUrl": "https://www.cnet.com/tech/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1065,154 +1227,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-synthetic-data-will-feed-ai-hunger.md",
-      "title": "Synthetic Data Will ‘Feed’ AI Hunger",
-      "excerpt": "Synthetic data in the context of AI vision systems refers to annotated images that have been created from computer generated, photo-realistic, 3D environments containing objects, things, people (or anything).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61387564dc9b4ee805f2fe73%2F0x0.jpg",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/amp/",
-      "publishedDateTime": "2021-09-08T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-intel-ceo-believes-over-20-percent-of-premium-vehicles-bill-of-materials-will-be-dedicated-to-chips-by-2030.md",
-      "title": "Intel CEO believes over 20 percent of premium vehicles' bill of materials will be dedicated to chips by 2030",
-      "excerpt": "The predictions presented at IAA Mobility by Pat Gelsinger, Intel's CEO, represent 5x growth over 11 years. Besides the increase of semiconductors to manufacture premium vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
-      "originalUrl": "https://www.techspot.com/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-08-image-24.jpg",
-          "width": 2093,
-          "height": 1308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
-      "publishedDateTime": "2021-09-08T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-global-investment-bank-capital-trust-announce-68-million-investment-in-ai.md",
-      "title": "Global Investment Bank & Capital Trust Announce $68 Million Investment in AI",
-      "excerpt": "The Global Investment Bank and Capital Trust team has a proven track record of investing in some of the world's most promising AI startups. The AI Fund will continue to invest in companies that share Global Investment Bank and Capital Trust's vision of making on-device AI a reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/09/08/1600x900/unnamed_(20)_(1)_1631115538977_1631115564446.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879-amp.html",
-      "publishedDateTime": "2021-09-08T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

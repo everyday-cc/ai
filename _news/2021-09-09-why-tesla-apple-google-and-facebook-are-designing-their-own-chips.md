@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/why-tesla-apple-google-and-facebook-are-design
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1"
 type: article
 quality: 78
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -30,20 +30,20 @@ images:
 
 related:
   - title: "Facebook developing machine learning chip: Report"
-    excerpt: "Facebook's move comes as major technology firms, including Apple Inc Amazon.com Inc and Alphabet Inc's Google, are increasingly ditching traditional s.."
-    publishedDateTime: 2021-09-09T15:43:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/facebook-developing-machine-learning-chip-report/86071342"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/facebook-developing-machine-learning-chip-report/86071342"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/facebook-developing-machine-learning-chip-report/86071342"
+    excerpt: "Facebook's move comes as major technology firms, including Apple Inc Amazon.com Inc and Alphabet Inc's Google, are increasingly ditching traditional silicon providers to design their own chips to save up on costs and boost performance."
+    publishedDateTime: 2021-09-09T15:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/facebook-developing-machine-learning-chip-report/articleshow/86070748.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/facebook-developing-machine-learning-chip-report/amp_articleshow/86070748.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/facebook-developing-machine-learning-chip-report/amp_articleshow/86070748.cms"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
     quality: 76
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-86071342,imgsize-34702,width-800,height-434,overlay-ettelecom/facebook-developing-machine-learning-chip-report.jpg"
-        width: 800
-        height: 434
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34702,msid-86070825/facebook.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Facebook developing machine learning chip"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
@@ -77,6 +77,15 @@ related:
     excerpt: "Facebook Inc (FB.O) is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citin"
     publishedDateTime: 2021-09-09T15:04:00Z
     webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-developing-machine-learning-chip-the-information/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 36
+  - title: "Facebook – Facebook developing machine learning chip"
+    excerpt: "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project. The company has developed another chip for video transcoding to improve the experience of watching recorded and live-streamed videos on its apps,"
+    publishedDateTime: 2021-09-09T16:23:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-developing-machine-learning-chip/"
     type: article
     provider:
       name: fintechzoom

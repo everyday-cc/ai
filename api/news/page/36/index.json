@@ -2,6 +2,169 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-08-11-how-computer-vision-works-and-why-its-plagued-by-bias.md",
+      "title": "How computer vision works — and why it’s plagued by bias",
+      "excerpt": "Computer vision explained. We break down how AI computer vision works, its rise, applications, bias, and challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/",
+      "originalUrl": "https://venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/amp/",
+      "publishedDateTime": "2021-08-11T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer.md",
+      "title": "Can Humor, Laughter & AI Reduce the Stress of Women Living with Cancer?",
+      "excerpt": "It sounds like the opening to a classic joke: “A cancer survivor, a scientist, and a doctor walk into a bar,” but instead it’s a groundbreaking 8-week Mindset and Metastatic Cancer Research Study utilizing artificial intelligence to investigate personalized stress reduction strategies for women with living with advanced cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-covid-spurs-financial-services-uptake-of-new-tech-for-aml.md",
+      "title": "COVID Spurs Financial Services Uptake Of New Tech For AML",
+      "excerpt": "A rise in financial crime sparked by the COVID-19 pandemic has prompted financial companies to accelerate the adoption of artificial intelligence and machine learning technology to boost anti-money laundering defenses,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1411765/covid-spurs-financial-services-uptake-of-new-tech-for-aml",
+      "originalUrl": "https://www.law360.com/articles/1411765/covid-spurs-financial-services-uptake-of-new-tech-for-aml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1411765",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1411765",
+      "publishedDateTime": "2021-08-11T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-deep-learning-model-classifies-brain-tumors-with-single-mri-scan.md",
+      "title": "Deep learning model classifies brain tumors with single MRI scan",
+      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg",
+          "width": 1721,
+          "height": 1881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp",
+      "publishedDateTime": "2021-08-11T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028",
       "excerpt": "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19",
@@ -963,195 +1126,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-unlocking-the-transformational-potential-of-the-cloud.md",
-      "title": "Unlocking The Transformational Potential Of The Cloud",
-      "excerpt": "As we’ve seen with printers, by connecting fleets of devices and enabling them with cloud technology, we can find tangible solutions to longstanding industry challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1200275499%2F0x0.jpg",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/amp/",
-      "publishedDateTime": "2021-08-11T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-oracle-tweaks-mysql-and-boosts-storage-engine.md",
-      "title": "Oracle tweaks MySQL and boosts storage engine",
-      "excerpt": "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/oracle-tweaks-mysql-and-boosts-storage-engine",
-      "originalUrl": "https://www.techradar.com/sg/news/oracle-tweaks-mysql-and-boosts-storage-engine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine",
-      "publishedDateTime": "2021-08-11T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-ai21-labs-makes-language-ai-applications-accessible-to-broader-audience.md",
-      "title": "AI21 Labs Makes Language AI Applications Accessible to Broader Audience",
-      "excerpt": "AI21 Labs, an AI company specializing in Natural Language Processing (NLP), has released Jurassic-1 Jumbo, the world’s largest and most sophisticated language model, to anyone interested in prototyping custom text-based AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/ai21-labs-makes-language-ai-applications-accessible-to-broader-audience/",
-      "originalUrl": "https://www.financialbuzz.com/ai21-labs-makes-language-ai-applications-accessible-to-broader-audience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-mubadala-backs-software-startup-peopleai-in-new-funding-round.md",
-      "title": "Mubadala Backs Software Startup People.ai in New Funding Round",
-      "excerpt": "Sales software startup People.ai has reached a $1.1 billion valuation with a $100 million funding round backed by new investors Mubadala Investment Co. and Akkadian Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCe10WAM32Rk/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-09-scientists-ai-success-startup-companie
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-scientists-ai-success-startup-companies.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "A List of the Top 5 AI-Powered Business Tools for U.S Startups"
+    excerpt: "Revealing The Best Five AI Business Tools For Starting Entrepreneurs Most of today’s businesses rely heavily on Artificial Intelligence (AI) powered"
+    publishedDateTime: 2021-09-07T07:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/a-list-of-the-top-5-ai-powered-business-tools-for-u-s-startups-07-09-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/business-tools.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "How this AI startup is overcoming the challenges of cultural accents"
     excerpt: "US-based artificial intelligence startup, Sanas, has been working to unpick the nuances of accents to make communication easier for people from different backgrounds. That could have huge implications for any marketer who wants to improve customer experience through voice channels by helping both customers and staff be better understood."
     publishedDateTime: 2021-09-05T21:14:00Z

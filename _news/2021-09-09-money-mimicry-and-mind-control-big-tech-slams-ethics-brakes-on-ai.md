@@ -1,30 +1,31 @@
 ---
 category: news
 title: "Money, mimicry and mind control: Big Tech slams ethics brakes on AI"
-excerpt: "But as political and public scrutiny of AI failings grew, Microsoft in 2017 and Google and IBM in 2018 established ethics committees to review new services from the start."
-publishedDateTime: 2021-09-09T05:47:00Z
-originalUrl: "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms"
-webUrl: "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms"
-ampWebUrl: "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms"
-cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms"
+excerpt: "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
+publishedDateTime: 2021-09-08T20:46:00Z
+originalUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
+webUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
 type: article
-quality: 76
-heat: 106
+quality: 84
+heat: 114
 published: true
 
 provider:
-  name: Gadgets Now
-  domain: gadgetsnow.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86058380,imgsize-486248,width-800/86058380.jpg"
-    width: 800
-    height: 600
+  - url: "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -77,6 +78,6 @@ related:
         height: 563
         isCached: true
 
-secured: "YEZU5Pr0UlScj8RVFIt8JZyP7KlblHiQGNfsuIdEF9swjRI+UAgesu6vdE7ruZ5nAn+/GJbQJL2ux+4soa0maDT/6xfEYQdihBrg64vRSov39NZoazxVz5hjhzZQsEJhN/Z5gj0lPLjD0x/HJ6rFJSbxEsVq4D4TwRFM2yk0MQIL/90OIr2yc+/X7t7kAWDmx7UZK0eZNptSW9DflhrbnAH/XDS/D6+vf5fv6gE2h+KfDmcqzQyx+vP4fT1zWh+7GT4Txcto5H2dAHB2qLYSWtUffCxSyZXipKVtSTco7mBxpE1/8jxch7NrOXGITkokk/zwMOp7sud9YtdChnNjc768ow2A7/cs5f1yYHxzAa0=;wzTPXomVAoOQzOdOCiI6cw=="
+secured: "Qb2QKY5yE6iUyKQsVuHJg8v8u1ZKGymwe9DbRSgvpwu6vH9ib86KO5+8oiErRFUWmPcYw2hLbLYnQAXZQQeNK0/K80m50gcH6i5CEjWCMWk0YiFKnJSrvZvzpfzf6DaBLzyIrMN3EPE0zeDQj2BkwpLY2C78C9gTrLV9bMLQ31NhIwQQd/1YNOFSj7egcUd492zcDk7YXA8DA/zlMfX+YNOUbkzWr+oamvPGPAoxDFe6eGLcExrzYR93RaayhIWyPaPDNkei4xYNZJ3wmODFO5/4uqaryUs+OCnUlm4IGOyn4gAksibHQ6UFOtJ/VftTqPkLs7RSA5TcI4G1ZNypOSWI9aoq42q+aLlW+Juz5Mg=;Mx5QQ87ZOcLS1Q6YP/RQRg=="
 ---
 

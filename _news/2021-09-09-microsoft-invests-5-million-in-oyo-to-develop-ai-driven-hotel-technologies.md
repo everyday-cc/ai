@@ -74,18 +74,18 @@ related:
         height: 480
         isCached: true
   - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
-    publishedDateTime: 2021-09-09T14:55:00Z
-    webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+    excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
+    publishedDateTime: 2021-09-08T19:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
     type: article
     provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 55
     images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
-        width: 754
-        height: 424
+      - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "MDC joins Microsoft AI Business School to develop AI courses"
     excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"
@@ -144,6 +144,6 @@ related:
         height: 640
         isCached: true
 
-secured: "kKcN7fsjHHSH+FmMpb3zQpH+0cY99ORSGpqj0dOvRbQ+9BIvb1H3BMUTRdhw4yj6nkrXYPhROXe0M24fvuJ8yVuxa1MVzlZRH+xM42v3Wm3YxsD6t8Cx2zaf5HBIutOlt4boLVSKVs2ISmj6NOURD8uoW68SNg3IasJj6Nn45Kja2y/7vUBrgom5tJ5yXVmS0eFey+eZsGhAmzVv9fy5eUJmMBLPajEMVdfJqZ5irXEYulOkqvhZIMk9TrX3yclH2Uxp/RihszO91E/13sRRjJ/9M7BVo6A6j9FTpKAUo2x9QvTL0+6e++8g3tGG6uygbtIkLVG7BbbKRxDn58AVIenGVLipYV5XIbd7MiniL+U=;gEHCIQbJAjlRR1OVyMvcAA=="
+secured: "OphNtD5QI0WgQVyaeexHpuW7PaKbhE4shhTCBmKlJqNVUCNFFHUqdFMcD5qL8aRffHy7UvfKQg6/NsDXZ9ShHbtCcaZ7/b+g/LSDJYlx7Q/XPHkgfXW34vyPgOm7QIRPlAXC+v9+ouSeNJPaTEGw68GrC0qbLPiwBj/4hCbW5sB/ZY5151lLDOmGI+cJruBClA3+4cedz35Um4Ck1sfedx5nOv6WGoGg0TAJ2v0wg5ucsjgjDYDDdUTktVzkC11nlBlj/VdE1Dd8llJIDaeSZdq83ipW/Q7/pDxt6k7NL/PSyb3MR3fQrhDXbzwr3JaFQVnrEqVKB20NbXMoqEZtxaZm79x7fLJWllSwjgDQD0Exy0x+m78A8KTU+DP+Sqgprnhaajsp00+PlBdogcYfhpDdwyUWSZymiMuzX2uTh8x9nmK+3+gzmCCn7bFAIxtAK4T92qwz0JhWGEZGUzrZ8vKddNXlnbq8s7diwrLc/kmwv0PQo9k3B9Zv/2pqIR9W3I1rx3E5DOy1nz9/J5dIRw==;jwZC9w1MjI7LFPCfHCij9Q=="
 ---
 

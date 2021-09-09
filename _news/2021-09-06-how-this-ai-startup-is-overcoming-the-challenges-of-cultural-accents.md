@@ -40,6 +40,20 @@ related:
         width: 2000
         height: 1099
         isCached: true
+  - title: "A List of the Top 5 AI-Powered Business Tools for U.S Startups"
+    excerpt: "Revealing The Best Five AI Business Tools For Starting Entrepreneurs Most of today’s businesses rely heavily on Artificial Intelligence (AI) powered"
+    publishedDateTime: 2021-09-07T07:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/a-list-of-the-top-5-ai-powered-business-tools-for-u-s-startups-07-09-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/business-tools.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "70Gnm32aFGtaX8AY36K6qmPWBGu9gNZaQKU+ztRqjp9xOYQmh0s6ByIQZpg/POya60ULOLxgl/IGYfWNfwqhr4SCtursySUrxcGEEBDEUqe93z6nyjoblR9xwNAZDqQZWNsaBM0jDaPwHDGBjn2bB74didmwSeroy2m5hR3HW1l65LCK//HU45xITMCm0LILPcdkbhjmOI0pMpURBYiC+zA3xCO0/ph1g2rkSU5W2aH4H0/wcohAavvZrNa/f0KWvc9cbJWf3U/um60yClk0uN+SHKNZlMrNRk+IYWNEQ4HJenRuWHYQTgvPRJPl7yL6Ev0lCpBdqco+1ZuI30SznETMeB4J3OMlcjBsKMQnIQY=;g+q4HTl+UI/CpOepwaF2RQ=="
 ---

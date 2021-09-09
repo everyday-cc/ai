@@ -88,18 +88,18 @@ related:
         height: 480
         isCached: true
   - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
-    publishedDateTime: 2021-09-09T14:55:00Z
-    webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+    excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
+    publishedDateTime: 2021-09-08T19:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
     type: article
     provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 55
     images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
-        width: 754
-        height: 424
+      - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
     excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."

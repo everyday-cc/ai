@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/singapore-police-patrol-surveillance-ro
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/singapore-police-patrol-surveillance-robots?amp"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

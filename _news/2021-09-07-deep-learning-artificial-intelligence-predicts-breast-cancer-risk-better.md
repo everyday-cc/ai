@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/deep-learning-artificial-intelligence-predi
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/"
 type: article
 quality: 73
-heat: 134
+heat: 133
 published: true
 
 provider:

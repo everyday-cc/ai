@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 560
         isCached: true
+  - title: "16 Business And Industry Functions Being Transformed By AI"
+    excerpt: "AI is helping companies protect employees and customers, maintain their stock, develop new products and services and more."
+    publishedDateTime: 2021-09-09T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/09/16-business-and-industry-functions-being-transformed-by-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/09/16-business-and-industry-functions-being-transformed-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/09/16-business-and-industry-functions-being-transformed-by-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a103c8afd32342a619370%2F0x0.jpg"
+        width: 1200
+        height: 562
+        isCached: true
   - title: "2 Leveraged Plays to Take Advantage of AI in the Transportation Sector"
     excerpt: "A rtificial intelligence (AI) is already revolutionizing the transportation sector, putting a pair of Direxion Investments' leveraged exchange-traded funds (ETFs) on notice for traders to consider. From driverless applications to inter-connectivity between drivers,"
     publishedDateTime: 2021-09-08T16:13:00Z

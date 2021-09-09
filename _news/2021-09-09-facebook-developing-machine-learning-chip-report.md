@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Facebook developing machine learning chip: Report"
-excerpt: "Facebook's move comes as major technology firms, including Apple Inc Amazon.com Inc and Alphabet Inc's Google, are increasingly ditching traditional s.."
-publishedDateTime: 2021-09-09T15:43:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/facebook-developing-machine-learning-chip-report/86071342"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/facebook-developing-machine-learning-chip-report/86071342"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/facebook-developing-machine-learning-chip-report/86071342"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/facebook-developing-machine-learning-chip-report/86071342"
+excerpt: "Facebook's move comes as major technology firms, including Apple Inc Amazon.com Inc and Alphabet Inc's Google, are increasingly ditching traditional silicon providers to design their own chips to save up on costs and boost performance."
+publishedDateTime: 2021-09-09T15:30:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/facebook-developing-machine-learning-chip-report/articleshow/86070748.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/facebook-developing-machine-learning-chip-report/articleshow/86070748.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/facebook-developing-machine-learning-chip-report/amp_articleshow/86070748.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/facebook-developing-machine-learning-chip-report/amp_articleshow/86070748.cms"
 type: article
 quality: 76
 heat: -1
@@ -22,9 +22,9 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-86071342,imgsize-34702,width-800,height-434,overlay-ettelecom/facebook-developing-machine-learning-chip-report.jpg"
-    width: 800
-    height: 434
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34702,msid-86070825/facebook.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -81,6 +81,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 36
+  - title: "Facebook – Facebook developing machine learning chip"
+    excerpt: "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project. The company has developed another chip for video transcoding to improve the experience of watching recorded and live-streamed videos on its apps,"
+    publishedDateTime: 2021-09-09T16:23:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-developing-machine-learning-chip/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 36
   - title: "Facebook’s Recent Mishap Is A Grim Reminder Of Big Tech’s Bias Problem"
     excerpt: "The Facebook mishap is not a one-off incident. It is a fundamental problem that has been plaguing the AI and tech community at large."
     publishedDateTime: 2021-09-07T07:30:00Z
@@ -96,6 +105,6 @@ related:
         height: 576
         isCached: true
 
-secured: "ZG4kex/ONv0XEBelbE0vSPBf1qITYk3P5IOtopw6Sy23Ci+UwVUaS4UBgUFjM0G7peU8lISzUzS0YekN33WhVjnVNA52yWgpLEz/p1BJOnnaexhedJaN64LTjfwSxqRqDl7i2+IVUicjJS+XE1ljp9BtkEPZRrzJTZmWzOD4rW2rn0yMMiRs/gk7IBY/9uQe/kv5dymVKkfjsK+xP6+o8USwpGFd6+sy/byBqn9cCVaBPDr9FcA24GziPbnt3UMXtGHPeTk9arEMXzylKu7rPCes+xHWiM66KcwQrB/Pq+jdnsi/tswu5ZL9OHOt+YArahOP5RLYsD201Mqg3yUGQdbYdpw0KMoQ4a2gff167fM=;5tknUtSkFG79RIzy6puKzw=="
+secured: "Or/b8RgnFJQN1mO7vkyjlitwP5NkXRKZMYMVVeCEcWIYWB4rapY7CQIPYpCBFvIxSfz/ddTb7mG5oOjAyNE6ZkD7UT23RESAeaAAcXVV6UlQfwrxjSj8qY6opdf48wUuZyQFxxTkj/NeAM9O19NQKDfZ0P08c+5I2afKTi5asOXyp5rjdJPTJH2foSRhhapXQKpFss/b8brCtRBWJcBO4UyeEtx4K/S5pRRkkAYQtefMOmPVhMIIDsGx9WhNyO9GjrxkggDJyt6anWLBWoEw0z3vBiY8l6QxgXYi85UOv1+2WJUvuCoTJgYqjv5T2ofaML3x3iGyWU8hLDvz0yeqTEh8feIRD0KTr5wqNe2UwaA=;WElNOUzRK0AAgCD411xDgA=="
 ---
 

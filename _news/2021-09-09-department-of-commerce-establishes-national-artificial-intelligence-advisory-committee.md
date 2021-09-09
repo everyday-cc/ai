@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Commerce Department creates an artificial intelligence committee"
+    excerpt: "The US Department of Commerce has created a committee to advise government decision makers on artificial intelligence (AI)-related issues. The Department said the National Artificial Intelligence Advisory Committee (NAIAC) would advise the president and other federal agencies on the technology."
+    publishedDateTime: 2021-09-09T17:32:00Z
+    webUrl: "https://www.itpro.co.uk/business/policy-legislation/360840/commerce-department-creates-an-artificial-intelligence-committee"
+    ampWebUrl: "https://www.itpro.co.uk/business/policy-legislation/360840/commerce-department-creates-an-artificial-intelligence-committee?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business/policy-legislation/360840/commerce-department-creates-an-artificial-intelligence-committee?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 87
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816887/itpro/2019/04/artificial_intelligence_head_illustration.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "How Midsize Companies Can Compete in AI"
     excerpt: "Startups and large corporations are seizing AI opportunities and strengthening their position. But what about midsize companies that often lack access to big data and AI talent? These midsize firms risk being left behind in the age of AI."
     publishedDateTime: 2021-09-06T12:20:00Z
@@ -85,6 +101,6 @@ related:
         height: 341
         isCached: true
 
-secured: "fDj1/bIWzafKpnp4dz/78WXB9vtbmt/CXe5OgLBLQEXEDRXaakSNvo81CqjZkhNjqUG1CG7xBcTA5IXyBCKsC/V7zfJGbRVJYhpE2PpEkWyfQcF7jR70xLB6qcFEeSA6y1LPgzbWVucZ1CpFSnMpOr+EVZ00rGnR4pi9IJVEDu90PlbJqzjvES78n6wZ/cScQ5BRxaG0LTk8buKdCXIgfG38IVU0ZM2GbmAtD6234luE7gbRz5X3XdBhVUfuTFAE0EmkIzeyczXlblPBdiXLnddwfg1lRxB9qbiBc2aN5+0EfYSeHBOG0ELftTOR6g7hi6KX4L9SxIBU0f1AF7g9gpOJjRk2A8Z9wo+rBa8d3qU=;gWQsKWCHtg9cgzneCDEm5g=="
+secured: "1Ozwf+iWPZt2dojwMTiEDCoLhUkMdM4effIAtXt3fwWuvn9S8tarDQDLr9rSilTwSeSFefEWtj+Wdr/3DRDt/VS1p7GdV/X6oT6jjGffmHDKW3L7MYjVDBhwc28OmEk7V9ApXEo6oiMlEkLfF6pdY13ZkLuZqtXHcDxbDolvuoiDwY3ly6UIZwKlNSqk67DRBK8FQhKoFMHUZWNYqk++LliCfYVdEs3GbCw6pGgq5D0HvuzT2V5J9kWCzL687/KVHo7b911LXpObvf5pxUcSD4RQw6e6D99bB81YP7cYbgd1SmOrxTTTKRYaE5gcx+PrywhYfGGoS8dU+tB/KIUQBqQ08mgxnUcenK7oGx2yQFxW3lw9tLNUslyohcXUuR4xWRdnpD1eCEZ6nzQPGIEOpYqHxyRJ/1N+F2p7A5rhdyjjQjSEY8EQQjyQrdFeslFPfEgko81ivEIhRdGgOPwTthTRH5PWZJfcTgW+JyIcZBDUOVc0NWdXijP5D423N1cPtGo3dCC/uqb6biw/QGuXzQ==;ejUt+unyS8P17Is9v5UaMg=="
 ---
 

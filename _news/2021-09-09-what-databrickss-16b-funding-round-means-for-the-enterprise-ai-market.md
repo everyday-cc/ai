@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-rou
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 89
 published: true
 
 provider:
