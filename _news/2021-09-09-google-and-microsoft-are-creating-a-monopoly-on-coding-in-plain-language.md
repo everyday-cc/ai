@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Google and Microsoft are creating a monopoly on coding in plain language"
-excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
-publishedDateTime: 2021-09-08T19:16:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
-webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
+publishedDateTime: 2021-09-09T14:55:00Z
+originalUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Canadian Manufacturing
+  domain: canadianmanufacturing.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
+    width: 754
+    height: 424
     isCached: true
 
 related:
@@ -41,22 +41,6 @@ related:
       - url: "https://images.theconversation.com/files/419875/original/file-20210907-22-krsb6e.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
         width: 320
         height: 213
-        isCached: true
-  - title: "Microsoft invests $5 million in Oyo to develop AI-driven hotel technologies"
-    excerpt: "Oyo carries a valuation of $9.6 billion after Microsoft's investment, third in the country behind Byju’s and Paytm. The startup is due to file IPO documents in the coming weeks."
-    publishedDateTime: 2021-09-09T08:04:00Z
-    webUrl: "https://theprint.in/economy/microsoft-invests-5-million-in-oyo-to-develop-ai-driven-hotel-technologies/730787/"
-    ampWebUrl: "https://theprint.in/economy/microsoft-invests-5-million-in-oyo-to-develop-ai-driven-hotel-technologies/730787/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/economy/microsoft-invests-5-million-in-oyo-to-develop-ai-driven-hotel-technologies/730787/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 72
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2021/09/378054371-scaled-e1631187932870.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Oyo and Microsoft team up to develop travel tech powered by Microsoft Azure"
     excerpt: "Microsoft and Oyo have entered into a \"multi-year strategic alliance\" in order to roll out new travel products and technologies."
@@ -145,6 +129,6 @@ related:
         height: 640
         isCached: true
 
-secured: "zKgwbA+aEudZkWL16pEvUYjm368qjg/DxHvlscHe2dqZAb0459u2QUTSPRLQVcx79ps+LZqiZ9c6s57uselDis/ZwcRkzXYY1bOhst1tDgoLbwa3ihFQaqdZEOTG8EnZ+2RlMwYcCIxBeVrEzXQdG6XyfL0rGU9TObBAcXCYlIdv1gwU1N2PwAKeLrodNG7SiBFssThvjcElnirFoElYWlRO9in4SBSjjy+TM9BWhjmX5NC67docPptEzLyummq8TZYxVU3HR+RKRJMQylI/VBspUnVYIx+hxdOJ2bTrnPwueCfmqgU3BcVhXmoB+D747AN8Igq+WqcH3SxIcAd+HhnKEdQp81X8AE9smI4Mors=;Zdscd5QNS0Gu91k1tf/KFA=="
+secured: "yVKF9Wb+gRPUsg0h521/S2jZNu39xi2kGuXrChp7Y8mak0qp/bNURtlL7UNy/nh0sVYAMXVzJa1cwdPPKQFDQNy1BJieb3tIRlq7WN1YV6sS6KwXH2KnKlOatMIlYjY7YkP0H/srMFJ97GDKEipITBzzVOJ7Mmp4vQqitFT7pQ3w3pB+08cIi5qPqWLDP/pMAL8J7ZtheSpb9yJ8X9C5WS41lBGsBPOQ3/+ILOBhedgHB4yTew6Lhl+2TwiWnj+NxBDMhWfeePEQ8St0JW4feB5Hl3avnj+9DMlQAy6RWVtayCaMVAFDT9g3AS/Jy1Iff3HwGAiQzJc/jxdmOm2AB5XVlqm+3hvPGfc6O4AZ6VU=;ArrPrHkTI6P8ryWnu2MVKA=="
 ---
 

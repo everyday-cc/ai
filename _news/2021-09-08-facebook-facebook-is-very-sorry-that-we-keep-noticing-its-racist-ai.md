@@ -19,6 +19,52 @@ topics:
   - AI
 
 related:
+  - title: "Facebook developing machine learning chip - The Information"
+    excerpt: "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project."
+    publishedDateTime: 2021-09-09T18:28:00Z
+    webUrl: "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://www.reuters.com/resizer/d0h2VGieUoa8rWcphU5zvwQoS_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2JN4NFPXBJGPJNAA2A7ECHILE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Why Tesla, Apple, Google And Facebook Are Designing Their Own Chips"
+    excerpt: "Unsatisfied with the reliance on standard high-demand chips, some of the world’s largest tech firms are developing their own semiconductors."
+    publishedDateTime: 2021-09-08T19:19:00Z
+    webUrl: "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/"
+    ampWebUrl: "https://techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 78
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/09/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg"
+        width: 2122
+        height: 1412
+        isCached: true
+  - title: "Facebook developing machine learning chip: Report"
+    excerpt: "Facebook's move comes as major technology firms, including Apple Inc Amazon.com Inc and Alphabet Inc's Google, are increasingly ditching traditional silicon providers to design their own chips to save up on costs and boost performance."
+    publishedDateTime: 2021-09-09T15:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/facebook-developing-machine-learning-chip-report/articleshow/86070748.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/facebook-developing-machine-learning-chip-report/amp_articleshow/86070748.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/facebook-developing-machine-learning-chip-report/amp_articleshow/86070748.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34702,msid-86070825/facebook.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
     excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
     publishedDateTime: 2021-09-05T09:38:00Z
@@ -35,69 +81,81 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Facebook Apologises After AI Labels Black Men in Video as “Primates”"
-    excerpt: "A video on ubiquitous social media platform Facebook titled “White man calls cops on black men at marina”, published by UK tabloid Daily Mail, included an automated prompt by the social network, asking users if they would like to “Keep seeing videos about Primates?"
-    publishedDateTime: 2021-09-06T11:07:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/?amp"
+  - title: "Facebook developing machine learning chip"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-09-09T15:16:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/facebook-developing-machine-learning-chip/"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 56
     images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Facebook-Privacy.jpg"
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/c988d15dee7aa013c7d364ee90b7c2b8.jpeg"
         width: 800
-        height: 520
+        height: 531
         isCached: true
-  - title: "Facebook apologises after black men branded 'primates' by its AI system"
-    excerpt: "Facebook has apologised after users who watched a video featuring black men were asked if they would like to \"keep seeing videos about primates\". The New York Times reported the social media platform said it was sorry for \"an unacceptable error\" and was looking at ways to ensure it never happened again."
-    publishedDateTime: 2021-09-06T00:13:00Z
-    webUrl: "https://www.newshub.co.nz/home/technology/2021/09/facebook-apologises-after-black-men-branded-primates-by-its-ai-system.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/technology/2021/09/facebook-apologises-after-black-men-branded-primates-by-its-ai-system.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2021/09/facebook-apologises-after-black-men-branded-primates-by-its-ai-system.amp.html"
+  - title: "Facebook developing machine learning chip"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-09-09T18:01:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/facebook-developing-machine-learning-chip-2/"
     type: article
     provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 59
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 56
     images:
-      - url: "https://www.newshub.co.nz/home/technology/2021/09/facebook-apologises-after-black-men-branded-primates-by-its-ai-system/_jcr_content/par/image.dynimg.768.q75.jpg/v1630886939825/gettyimages_facebook-ai-racism-sexism_060921_1120x640.jpg"
-        width: 768
-        height: 438
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631210481_c988d15dee7aa013c7d364ee90b7c2b8.jpeg"
+        width: 800
+        height: 531
         isCached: true
-  - title: "Facebook's AI Thought a Video of a Black Man Was 'About Primates'"
-    excerpt: "Facebook's AI has made an 'unacceptable' error, the company says. But the AI knows nothing. It just learns what it is told about the world as it exists."
-    publishedDateTime: 2021-09-07T16:13:00Z
-    webUrl: "https://interestingengineering.com/facebooks-ai-thought-a-video-of-a-black-man-was-about-primates"
-    ampWebUrl: "https://amp.interestingengineering.com/facebooks-ai-thought-a-video-of-a-black-man-was-about-primates"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-ai-thought-a-video-of-a-black-man-was-about-primates"
+  - title: "Facebook accused of discrimination after mechanic and pilot jobs targeted at men"
+    excerpt: "Facebook has been accused of breaching equality laws after its technology was found to favour men when targeting job adverts for male-dominated roles such as mechanics and pilots. The campaign group Global Witness has filed complaints with the Equality and Human Rights Commission (EHRC) and Information Commissioner,"
+    publishedDateTime: 2021-09-08T21:00:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/"
+    ampWebUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 59
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 39
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/bM6AApNl67/sizes/fb-dislike-1_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://www.telegraph.co.uk/content/dam/business/2021/09/08/bailey_trans_NvBQzQNjv4Bq3tjbT9f-vQVs0nBY2CgX4Kcvn4zc4kZ_kIejuHS7L_8.PNG"
+        width: 502
+        height: 314
         isCached: true
-  - title: "When Facebook’s AI Labeled ‘Primates’ in a Video of Black Men"
-    excerpt: "The recent incident involving Facebook’s AI putting the ‘primate’ label on a video featuring black men is objectionable and offensive. Afterward, Facebook apologized for the incident, calling it an “unacceptable error."
-    publishedDateTime: 2021-09-07T05:55:00Z
-    webUrl: "https://fossbytes.com/facebooks-ai-labelled-primates-on-video-of-black-men/"
-    ampWebUrl: "https://fossbytes.com/facebooks-ai-labelled-primates-on-video-of-black-men/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/facebooks-ai-labelled-primates-on-video-of-black-men/amp/"
+  - title: "Facebook – Facebook developing machine learning chip – The Information"
+    excerpt: "Facebook Inc (FB.O) is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citin"
+    publishedDateTime: 2021-09-09T15:04:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-developing-machine-learning-chip-the-information/"
     type: article
     provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 36
+  - title: "Facebook – Facebook developing machine learning chip"
+    excerpt: "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project. The company has developed another chip for video transcoding to improve the experience of watching recorded and live-streamed videos on its apps,"
+    publishedDateTime: 2021-09-09T16:23:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-developing-machine-learning-chip/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 36
+  - title: "Facebook Researcher’s New Algorithm Ushers New Paradigm Of Image Recognition"
+    excerpt: "The researchers designed VICReg to avoid the collapse problem, which is handled more inefficiently in the case of contrastive methods."
+    publishedDateTime: 2021-09-06T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-ai-algorithm-image-recognition-vicreg/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 21
     images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/09/When-Facebooks-AI-Labelled-Primates-On-A-Video-Of-Black-Men.jpg"
-        width: 1200
-        height: 675
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/object-detection-.png"
+        width: 512
+        height: 288
         isCached: true
 
 secured: "QWPviVSOdZcigtv3bL5at61OtXMnMDjj8xZ4iJRMhTu26ajlaisupYMsw6WwHsixpoR263q8ozAEb4Wu4M5K9ascr9NOoEmsrLTFHVci6S76lUO70fkhqKKDb8QJ/j6JvGPCp+bDpFy0UfqmDasLYrfA4OyrJ4weOqOkrMAt1hjWqdGcX83h24Ue2QQVy3UuKm8DOuabYQWK9GLCtIYG9Z/D7Kb9JsB3+hoETdYwRxHGQqt0LfIDeWye7TY7MUJepZ7foKnm4FYauwSpPwV4fz4og36zgaf+DWog/8QBuJP5DIegf4PWEtODYpl8S+dRENRV4/lVjxsi+Tofsz5aahypZJ1H7T22c43FyoM9qIA=;q9xPlEdLSQWwHiXm+nlIfA=="

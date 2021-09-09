@@ -50,6 +50,20 @@ related:
         width: 2698
         height: 1414
         isCached: true
+  - title: "TulsaLabs to Develop Personalized Health Analytics Utilizing Artificial Intelligence"
+    excerpt: "Health data analytics, also known as clinical data analytics, involves the extrapolation of actionable insights from sets of patient data, typically collected from electronic devi"
+    publishedDateTime: 2021-09-09T18:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-media-software-artificial-intelligence-106f7f6b7dd9237fba5d36f40dd306a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Battery analytics startup Accure banks $8 million"
     excerpt: "Aachen, Germany-based battery analytics company Accure has received $8 million in a Series A funding round. The software and AI-driven solution assists manufacturers and operators in monitoring the overall health"
     publishedDateTime: 2021-09-08T13:54:00Z

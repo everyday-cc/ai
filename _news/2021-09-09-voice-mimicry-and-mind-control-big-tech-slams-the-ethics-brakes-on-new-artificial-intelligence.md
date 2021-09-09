@@ -30,12 +30,12 @@ related:
   - title: "Money, mimicry and mind control: Big Tech slams ethics brakes on AI"
     excerpt: "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
     publishedDateTime: 2021-09-08T20:46:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
+    webUrl: "https://www.reuters.com/technology/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 84
+    quality: 184
     images:
       - url: "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg"
         width: 1200

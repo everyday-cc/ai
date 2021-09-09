@@ -2,15 +2,67 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think.md",
+      "title": "Gartner: AI is moving fast and will be ready for prime time sooner than you think",
+      "excerpt": "Companies have two to three years to lay the groundwork for successful use of generative AI, synthetic data and orchestration platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/09/29d4406a-7712-4b65-8dd4-817123216bcd/resize/1200x/5081b29b2f5108111e249f873b3feda0/gartner-hype-cycle-for-artificial-intelligence-2021.jpg",
+          "width": 1200,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
+      "publishedDateTime": "2021-09-09T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
       "title": "Money, mimicry and mind control: Big Tech slams ethics brakes on AI",
       "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
+      "webUrl": "https://www.reuters.com/technology/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
       "originalUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -33,7 +85,7 @@
         "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +101,8 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -208,49 +260,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-facebooks-ai-put-primates-label-on-videos-depicting-black-men.md",
-      "title": "Facebook’s AI put ‘primates’ label on videos depicting black men",
-      "excerpt": "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men-11630830158252.html",
-      "originalUrl": "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men-11630830158252.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/09/05/600x338/2021-08-20T082648Z_2_LYNXMPEH7J0E5_RTROPTP_3_AFGHANISTAN-CONFLICT-SOCIALMEDIA_1629701868385_1630830249254.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html",
-      "publishedDateTime": "2021-09-05T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

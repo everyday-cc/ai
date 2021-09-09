@@ -38,6 +38,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "TulsaLabs to Develop Personalized Health Analytics Utilizing Artificial Intelligence"
+    excerpt: "Health data analytics, also known as clinical data analytics, involves the extrapolation of actionable insights from sets of patient data, typically collected from electronic devi"
+    publishedDateTime: 2021-09-09T18:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-media-software-artificial-intelligence-106f7f6b7dd9237fba5d36f40dd306a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "MEDIA ADVISORY: Virtual Event Invitation - Winning on the Racetrack and for the Planet with AI and Advanced Analytics"
     excerpt: "Join Genpact and Envision Virgin Racing for a behind-the-scenes virtual experience on how digital innovation and analytics deliver insights to"
     publishedDateTime: 2021-09-09T13:15:00Z

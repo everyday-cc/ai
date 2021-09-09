@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 720
     height: 387
     isCached: true
+
+related:
+  - title: "Top 12 High-Growth Artificial Intelligence Stocks -- Part II"
+    excerpt: "If you are new to this video series, it covers the top 12 artificial intelligence stocks focused on growth and disruptive innovation. I have done my best to find the highest-growth companies in a variety of sectors with disruptive growth trends."
+    publishedDateTime: 2021-09-08T19:00:00Z
+    webUrl: "https://www.fool.com/investing/2021/09/08/top-12-high-growth-artificial-intelligence-stocks/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/09/08/top-12-high-growth-artificial-intelligence-stocks/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/08/top-12-high-growth-artificial-intelligence-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
 
 secured: "M3VMdTVZc1SX5uVlxC5TQdTPZWvxakPqfkE04fXIoMakv68U+GaG43UN4F1RUASkpCUXmP40uHdKIglnUeFyVx1qS/7nRpoAw/BbKFyoBolaszKY3rjNimFYR9vbo0+mPczKwClLScmjjY59CnBd4jN0y5AP9OxAiPeumTr2g8HLeaZc6KQ/evIFE76sNRxL6Yh4G61i88f/42Bh2KpbxkMmrCwYJ07Nj7lqx34gYroPF+9BJDCXgL3ZOf6KfvS6BKDCoVmDNEm3qMZ0zlD7VG0AL0MU/b6f8OyFStRhTMShSGFQKly7SYj/ejnGDiY2tElIAGEvFiMmY8o35UZu2MKGFVbW2mSnfwQX+bNw5Qc=;ynJiRPLCqvMVDTfgFoRM2Q=="
 ---

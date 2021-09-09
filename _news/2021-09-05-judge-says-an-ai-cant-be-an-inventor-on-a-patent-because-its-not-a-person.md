@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-paten
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Update on Artificial Intelligence: Court Rules that AI Cannot Qualify As “Inventor”"
+    excerpt: "Striking a blow to patent applicants seeking to assert inventorship by artificial intelligence (“AI”) systems, the U.S. District Court for the Eastern District of Virginia ruled on Septemb"
+    publishedDateTime: 2021-09-09T18:05:00Z
+    webUrl: "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor"
+    ampWebUrl: "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 66
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Federal court rules Artificial Intelligence cannot be an ‘inventor’ under US patent law"
     excerpt: "The US District Court for the Eastern District of Virginia on Wednesday ruled that an artificial intelligence (AI) machine cannot be an inventor under the Patent Act. The action was a motion for"
     publishedDateTime: 2021-09-05T07:38:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-la
 cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: IT News Africa
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
-    excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
-    publishedDateTime: 2021-09-05T09:38:00Z
-    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men-11630830158252.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/09/05/600x338/2021-08-20T082648Z_2_LYNXMPEH7J0E5_RTROPTP_3_AFGHANISTAN-CONFLICT-SOCIALMEDIA_1629701868385_1630830249254.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Facebook apologises after black men branded 'primates' by its AI system"
     excerpt: "Facebook has apologised after users who watched a video featuring black men were asked if they would like to \"keep seeing videos about primates\". The New York Times reported the social media platform said it was sorry for \"an unacceptable error\" and was looking at ways to ensure it never happened again."
     publishedDateTime: 2021-09-06T00:13:00Z
@@ -91,15 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook – Facebook is very sorry that we keep noticing its racist AI"
-    excerpt: "Together with an amazing line-up of experts, we will explore the future of AI during TNW Conference 2021. Secure your ticket now! Facebook’s issuing apologies for its AI‘s bigotry again. This time, users watching a video of a Black man were asked it they were interested in more content on “primates."
-    publishedDateTime: 2021-09-07T21:28:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-very-sorry-that-we-keep-noticing-its-racist-ai/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 19
 
 secured: "Rixzy+G7mmRgMGjJmBH6jIJYkfOmM0FsC4QosaoEzI1FXWFbPDiY0VVwBTyVNYQes+uczjTyTxYwKTw5s+Pr60jmgc4S6rhPSfP+OfjXT49s8iGcAJEpaKeWuPWB++Vsvg5ausBz68gh02VvluuMFejWqfA4g1fsfFy4dLcIOWZIvGSefqAHhqn8BDMmf1PohN5q2VWvsbhcvHvdF8Ln0nlDxOtQmV5fq36vRF7AjUtoo6nqjVDpj32lcukG85O95EDd8ue2HBdUu9PmzXWXnQf3kKEmdSEUSrgTG6OF+1ZVQJl39K7DTWcZLZY03r58bwJQHWnB7+/LtSGQbPmp0mpLmxsxnrSK2MGwYJhbHLKh4MTWMHuAKKAPlkfdyFCXhvMrSCWlt1RNl4gMoB8Tal27mWda4fsnE/NsKj5B41HJVyvZcHpyPcMUKgTgLp+Tpzom4asohLPv87oxVkiKj60E4T0FetxQe3mLdaMmYFcbQ0L7XcF7H2vcGoNneJ+aGUEh2FgtdqTa79BXtM9DFw==;opOZyutlQs0mwcdDTB4uYg=="
 ---

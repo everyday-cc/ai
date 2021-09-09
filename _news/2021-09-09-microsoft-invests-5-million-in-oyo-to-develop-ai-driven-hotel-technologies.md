@@ -27,121 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation."
-    publishedDateTime: 2021-09-08T15:27:00Z
-    webUrl: "https://theconversation.com/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258"
-    ampWebUrl: "https://theconversation.com/amp/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258"
+  - title: "Biobest Makes Investment in Robotics and Artificial Intelligence"
+    excerpt: "Along with Biobest’s $10 million investment in ecoation, the companies are also joining forces to develop new IPM-related technologies."
+    publishedDateTime: 2021-09-09T18:24:00Z
+    webUrl: "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/"
+    ampWebUrl: "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp"
+    cdnAmpWebUrl: "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 75
+      name: Greenhouse Grower
+      domain: greenhousegrower.com
+    quality: 89
     images:
-      - url: "https://images.theconversation.com/files/419875/original/file-20210907-22-krsb6e.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
+      - url: "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2021/07/Ecoation-OKO-Platform.jpg"
+        width: 896
+        height: 504
         isCached: true
-  - title: "Oyo and Microsoft team up to develop travel tech powered by Microsoft Azure"
-    excerpt: "Microsoft and Oyo have entered into a \"multi-year strategic alliance\" in order to roll out new travel products and technologies."
-    publishedDateTime: 2021-09-09T11:45:00Z
-    webUrl: "https://thetechportal.com/2021/09/09/oyo-and-microsoft-team-up-to-develop-travel-tech-powered-by-microsoft-azure/"
-    ampWebUrl: "https://thetechportal.com/2021/09/09/oyo-and-microsoft-team-up-to-develop-travel-tech-powered-by-microsoft-azure/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/09/09/oyo-and-microsoft-team-up-to-develop-travel-tech-powered-by-microsoft-azure/?amp"
+  - title: "Global Investment Bank & Capital Trust Announce $68 Million Investment in AI"
+    excerpt: "The Global Investment Bank and Capital Trust team has a proven track record of investing in some of the world's most promising AI startups. The AI Fund will continue to invest in companies that share Global Investment Bank and Capital Trust's vision of making on-device AI a reality."
+    publishedDateTime: 2021-09-08T15:41:00Z
+    webUrl: "https://www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879.html"
+    ampWebUrl: "https://www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879-amp.html"
     type: article
     provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 72
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 73
     images:
-      - url: "https://thetechportal.com/wp-content/uploads/2019/12/Oyo-Logo.jpg"
-        width: 760
-        height: 443
+      - url: "https://images.hindustantimes.com/img/2021/09/08/1600x900/unnamed_(20)_(1)_1631115538977_1631115564446.jpg"
+        width: 1600
+        height: 898
         isCached: true
-  - title: "Dynatrace Software Intelligence Platform Available on Microsoft Azure"
-    excerpt: "Dynatrace and Microsoft announced today they have expanded their strategic collaboration to help the world's leading organizations accelerate innovation and tame cloud complexity. As part of this, the Dynatrace® Software Intelligence Platform will"
-    publishedDateTime: 2021-09-09T12:17:00Z
-    webUrl: "https://www.lelezard.com/en/news-19989101.html"
+  - title: "Domestic tech accelerates investment in artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is now the focus of global technology, with countries spending billions of dollars in research and development (R&D) to be at the forefront of new technology."
+    publishedDateTime: 2021-09-08T05:30:00Z
+    webUrl: "https://en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.vnp"
+    ampWebUrl: "https://en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.amp"
+    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/domestic-tech-accelerates-investment-in-artificial-intelligence/207629.amp"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 69
+      name: VietnamPlus
+      domain: vietnamplus.vn
+    quality: 61
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_09_08/domestic_tech_accelerates_investment_in_artificial_intelligence.png"
         width: 640
-        height: 480
+        height: 359
         isCached: true
-  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
-    publishedDateTime: 2021-09-08T19:16:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+  - title: "Vietnam accelerates investment in artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is now the focus of global technology, with countries spending billions of dollars in research and development (R&D) to be at the forefront of new technology."
+    publishedDateTime: 2021-09-08T04:37:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/09/08/vietnam-accelerates-investment-in-artificial-intelligence"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 55
+      name: The Star
+      domain: thestar.com.my
+    quality: 41
     images:
-      - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "MDC joins Microsoft AI Business School to develop AI courses"
-    excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"
-    publishedDateTime: 2021-09-08T11:01:00Z
-    webUrl: "https://communitynewspapers.com/kendallgazette/mdc-joins-microsoft-ai-business-school-to-develop-ai-courses/"
-    type: article
-    provider:
-      name: Miami's Community Newspapers
-      domain: communitynewspapers.com
-    quality: 54
-    images:
-      - url: "https://i2.wp.com/communitynewspapers.com/wp-content/uploads/2021/07/Community-News-LOGO-Blue-min.png?fit=777%2C516&ssl=1"
-        width: 777
-        height: 516
-        isCached: true
-  - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
-    excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
-    publishedDateTime: 2021-09-06T10:14:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/verizon-launches-private-mobile-edge-cloud-computing-service-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 49
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ice-mobility-700x393.2e16d0ba.fill-1200x630.jpg"
-        width: 700
-        height: 369
-        isCached: true
-  - title: "Tips & Tricks - how to get the most out of the new Microsoft Start experience"
-    excerpt: "You've probably heard of Microsoft Start, and we'll now explain some of our favorite tips and tricks for the experience."
-    publishedDateTime: 2021-09-08T14:53:00Z
-    webUrl: "https://www.onmsft.com/feature/microsoft-start-tips-and-tricks"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 36
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/09/Microsoft-Start-in-Edge.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft teams up with LX Semicon to develop 3D depth-sensing solution in virtual reality"
-    excerpt: "U.S. technology giant Microsoft will collaborate with LX Semicon, a fabless manufacturer in South Korea, to develop a 3D-sensing solution for virtual reality and augmented reality. The solution will be based on 3D time of flight sensors that measure the distance between the sensor and a target object by calculating the time taken for light to bounce back."
-    publishedDateTime: 2021-09-08T04:52:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-teams-up-with-lx-semicon-to-develop-3d-depth-sensing-solution-in-virtual-reality/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 31
-    images:
-      - url: "https://image.ajunews.com/content/image/2021/09/08/20210908111621588194.png"
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/08/1286002.png"
         width: 640
-        height: 640
+        height: 359
         isCached: true
 
 secured: "OphNtD5QI0WgQVyaeexHpuW7PaKbhE4shhTCBmKlJqNVUCNFFHUqdFMcD5qL8aRffHy7UvfKQg6/NsDXZ9ShHbtCcaZ7/b+g/LSDJYlx7Q/XPHkgfXW34vyPgOm7QIRPlAXC+v9+ouSeNJPaTEGw68GrC0qbLPiwBj/4hCbW5sB/ZY5151lLDOmGI+cJruBClA3+4cedz35Um4Ck1sfedx5nOv6WGoGg0TAJ2v0wg5ucsjgjDYDDdUTktVzkC11nlBlj/VdE1Dd8llJIDaeSZdq83ipW/Q7/pDxt6k7NL/PSyb3MR3fQrhDXbzwr3JaFQVnrEqVKB20NbXMoqEZtxaZm79x7fLJWllSwjgDQD0Exy0x+m78A8KTU+DP+Sqgprnhaajsp00+PlBdogcYfhpDdwyUWSZymiMuzX2uTh8x9nmK+3+gzmCCn7bFAIxtAK4T92qwz0JhWGEZGUzrZ8vKddNXlnbq8s7diwrLc/kmwv0PQo9k3B9Zv/2pqIR9W3I1rx3E5DOy1nz9/J5dIRw==;jwZC9w1MjI7LFPCfHCij9Q=="

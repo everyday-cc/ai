@@ -4,23 +4,23 @@ title: "Money, mimicry and mind control: Big Tech slams ethics brakes on AI"
 excerpt: "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
 publishedDateTime: 2021-09-08T20:46:00Z
 originalUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
-webUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
+webUrl: "https://www.reuters.com/technology/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
 type: article
-quality: 84
-heat: 114
+quality: 184
+heat: 214
 published: true
 
 provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg"
@@ -78,6 +78,6 @@ related:
         height: 563
         isCached: true
 
-secured: "Qb2QKY5yE6iUyKQsVuHJg8v8u1ZKGymwe9DbRSgvpwu6vH9ib86KO5+8oiErRFUWmPcYw2hLbLYnQAXZQQeNK0/K80m50gcH6i5CEjWCMWk0YiFKnJSrvZvzpfzf6DaBLzyIrMN3EPE0zeDQj2BkwpLY2C78C9gTrLV9bMLQ31NhIwQQd/1YNOFSj7egcUd492zcDk7YXA8DA/zlMfX+YNOUbkzWr+oamvPGPAoxDFe6eGLcExrzYR93RaayhIWyPaPDNkei4xYNZJ3wmODFO5/4uqaryUs+OCnUlm4IGOyn4gAksibHQ6UFOtJ/VftTqPkLs7RSA5TcI4G1ZNypOSWI9aoq42q+aLlW+Juz5Mg=;Mx5QQ87ZOcLS1Q6YP/RQRg=="
+secured: "3qRB0o83gk8MzAN85pIHteLtQfjkmg2V7JVLQK9x5oHuB8let2EQW/pGhBDHJsm/ja2Ec4uqJh8k+kwdJyRmlca7cIZS38pg494V/KJCK/0374AUUZV6ISqEfN0E+EK7oNoFW4CEn0UDBvgIfDmk4T3mSUJeujhYTWC8KOORq31hGFq7Jzy3DGKKY+VGAxZHz8pYgnw9JA7zyecXvFIE9V+f24M5EoE3vVajP7RIXpOIPPvkgv75SeDJF4UDdHp/PTw3VVlHUrqa3TefgENObYb+vj6f17FUxzaml68jiJTQcnNmyQ9xSAwIAbeh7nxVwwNzznNCfjT1IXjAAAxIe+JGSDdFlBVEI5RqXorhAXo=;K2jhpp+g7xYgtY4KewAu0w=="
 ---
 

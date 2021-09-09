@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-09T17:36:00Z
 originalUrl: "https://www.biometricupdate.com/202109/white-house-wants-nominees-for-ai-and-facial-recognition-committees"
 webUrl: "https://www.biometricupdate.com/202109/white-house-wants-nominees-for-ai-and-facial-recognition-committees"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Ethics
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
@@ -84,6 +85,6 @@ related:
         height: 720
         isCached: true
 
-secured: "7NmE3vFXc7mIsHDbyVzw23ocOxjuARvrwXDQfa8ww8xjPvjltyhbXwXA2r3GjqB8SDCEJ11vnEPBth4oFn08ST9qCVvwlg+gwLWNTa/WUdbsJqZAEhgAuyPfMy2Vo2KqXb5MLq1zr6eiTplA9RccpwIycEOBQ6GvdN1ZFFPd+yNFA65eSxNn2EDGxUiLTHzokrGLvlmT42RUo8PzY6tcnx4xnaRwKpDU+J4KCgOtBGIoXkwX1V1RlvaOjH2sYxdIBqjONEt9UgT5J4vqDRa4AtpBOpHGqiJ/W2FbAzWquo3YzM/CbKX9rUD/4tdVRNUsj6ykhaY2n8tolkyPJ/0D+nM3Pyun8uSQleJYK+O5scA=;0M+Z8UY2uhiZO0dGgtvokA=="
+secured: "UOalY5vct8dKHW/j91MdUGnSdPhw7V5fKbmJIq2e7hRJJpPCjq8zl6CTdVLH85RV5AofNUy98xLquodyscFBQd0ZQx6pHAVtTtiOU6EM8E8dmMkrT6uASl7SCI3KhARpsA8GdzIxo3r2SSlpo3tAXg1krKMonVmS7Ds0/8FybCElF16p08Sb+bGdmlPSD3cFiKpZUnqH+pBTrY9TSehn7Qh650R0ellSgaO5Jf4c9PsHsyGHkej86blV5GI3h79ExowppvUjcmfjnd2KLth/dZRSE5DA3FiyFeO+4UU19bi8pLASjXcpDuHxNpN0sKD0pM5N75IEGY6UTBZEO9IgqK47Bb/Ql9oP6VIcd0K4PIVFN4hc8Wwgp4pxinH0ETSEX/65gjY0Yy76QSa5SSzVMBukeWmhUOAzmAGvQobzLA+PUwhcNz7Bc/+4YbY8QBKyJP1SL6YdfopQDcgkCaAAiOVKlcMjdXpaf/YXrcspYF3AWOnugJAGZvenTZNVYzxQBKOMNNrBbxWawlH5Shmdww==;JLVYan3hUWqwfRGF3kKSyw=="
 ---
 

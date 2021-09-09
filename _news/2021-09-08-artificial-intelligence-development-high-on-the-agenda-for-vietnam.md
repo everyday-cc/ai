@@ -25,22 +25,6 @@ images:
     height: 533
     isCached: true
 
-related:
-  - title: "Vietnam accelerates investment in artificial intelligence"
-    excerpt: "Artificial intelligence (AI) is now the focus of global technology, with countries spending billions of dollars in research and development (R&D) to be at the forefront of new technology."
-    publishedDateTime: 2021-09-08T04:37:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/09/08/vietnam-accelerates-investment-in-artificial-intelligence"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 41
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/08/1286002.png"
-        width: 640
-        height: 359
-        isCached: true
-
 secured: "RSop2z7tHYK6XK1TY3azO8TM8QQvxXesCjvheE/yelQQhW4wu9wuggw5lqqx/05rwQeCjHKoPGCF8J6Fs8hjEDrrCXMgxcJIyxiyNqrTyNs8OWD9CezvDXjnH+BuQBbBsShFndCLp5HLQ5QV1FMgHFDE4tHtpc78sBagHZYTZrsSdqnuT5yXaD5v++3ybtO8ML+5i8TEJSbtBHAY1mfnJ0/kMA4F0oYqa1wOkCoq2XL2jXlkOVnwQ3BdUcT8o62Sfad0Rjli6qHQmeid/2l9rbzqWBIYsvjF18fejBCClnBWfsMlQO5f+2qU1cpwygg0BJzgLhVIUmIwqKnuCvtQHXvaXEbDxH3/Az2LxVQB6N8p2ERe26YRdhjbeK2VeV3IuoESEGqESDLHACtpoFc6cIe5VgWtpBr+V8WCfHye4X66GvkXjlEa6H+BSo+dIx/9SNWUmTSDHtvUCOvxFHZYkuJ5pbMh/RsYu9C+wc+FvVnFa1W2a6e80bsAiYp59ooF+fsVDfQKnnWTO71DExSWKg==;POVoD92GLX4qzEItW05EvA=="
 ---
 

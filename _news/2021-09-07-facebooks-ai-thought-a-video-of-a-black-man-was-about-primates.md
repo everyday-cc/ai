@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
-    excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
-    publishedDateTime: 2021-09-05T09:38:00Z
-    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men-11630830158252.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/09/05/600x338/2021-08-20T082648Z_2_LYNXMPEH7J0E5_RTROPTP_3_AFGHANISTAN-CONFLICT-SOCIALMEDIA_1629701868385_1630830249254.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Facebook Apologises After AI Labels Black Men in Video as “Primates”"
     excerpt: "A video on ubiquitous social media platform Facebook titled “White man calls cops on black men at marina”, published by UK tabloid Daily Mail, included an automated prompt by the social network, asking users if they would like to “Keep seeing videos about Primates?"
     publishedDateTime: 2021-09-06T11:07:00Z
@@ -91,15 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook – Facebook is very sorry that we keep noticing its racist AI"
-    excerpt: "Together with an amazing line-up of experts, we will explore the future of AI during TNW Conference 2021. Secure your ticket now! Facebook’s issuing apologies for its AI‘s bigotry again. This time, users watching a video of a Black man were asked it they were interested in more content on “primates."
-    publishedDateTime: 2021-09-07T21:28:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-very-sorry-that-we-keep-noticing-its-racist-ai/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 19
 
 secured: "Fg6H3fLQoQWl14MXtdWG5hFSLuSdXkoYo9D6rlEOwMVlUxFl6Gvx6K2MmdVeAvQVEdNemwFZ5ilcs1IE16YfdRmNkes3Km5H1cebxbMxb2v5qPQrhMFWNOrq9Kh+ewIE/3yHF60Pd2G3I8eX5FIfXC10UNsfcYPkHtJ7dia2zOf2QEidg3H+1W48HpZdp2aaBiQja8s6QFX9yEVm674PIVtAMDM4HA7aGgKbcbgffqvmbZO/kLqYykc9vwBWlEky6wWq+14F13QtV9Dpa2U0Fmd11TvaSl23URv/LrzngpiquvIFZcRhcrqv+ToLHBStuH+O6LKcCy+gJs4G29e6QWAuS7NFobteusJuafifw4v3CwfAA+FqINTXmA6AuviONGwDDJ6Ska7QNhmLBpwSlWeV4lI95grA1Ve/spNHnQuN0YOw4MMnHjPgYCl89GAHGD1dyZDt8czFgJXCy4DdSwuMhWupRgBQGuBT5WzgLfcttnzd3rRxz8mPzRVXfdT7OS8ni8ZUoVeaDEgfojMsHQ==;YR3AU69a8cMUZIYxQ0khVA=="
 ---

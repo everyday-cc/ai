@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook developing machine learning chip - The Information"
+    excerpt: "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project."
+    publishedDateTime: 2021-09-09T18:28:00Z
+    webUrl: "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
+    images:
+      - url: "https://www.reuters.com/resizer/d0h2VGieUoa8rWcphU5zvwQoS_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2JN4NFPXBJGPJNAA2A7ECHILE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Why Tesla, Apple, Google And Facebook Are Designing Their Own Chips"
     excerpt: "Unsatisfied with the reliance on standard high-demand chips, some of the world’s largest tech firms are developing their own semiconductors."
     publishedDateTime: 2021-09-08T19:19:00Z
@@ -58,19 +72,51 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Amazon, Tesla Are Among the Companies Moving More Chip Development In-House"
-    excerpt: "See: GM Plans To Halt Production Due to Chip Shortage Starting Labor Day Find: Tesla ’s Musk Calls Chip Shortage ‘Problematic’ Amid Fierce Chinese EV Competition Apple, Amazon, Facebook, Tesla and Baidu are among the names looking to reduce their reliance on third-party chip suppliers by bringing certain parts of the chip development process in-house,"
-    publishedDateTime: 2021-09-07T15:00:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amazon-nasdaq-amzn/amazon-tesla-are-among-the-companies-moving-more-chip-development-in-house/"
+  - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
+    excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
+    publishedDateTime: 2021-09-05T09:38:00Z
+    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men-11630830158252.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/09/05/600x338/2021-08-20T082648Z_2_LYNXMPEH7J0E5_RTROPTP_3_AFGHANISTAN-CONFLICT-SOCIALMEDIA_1629701868385_1630830249254.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Facebook developing machine learning chip"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-09-09T18:01:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/facebook-developing-machine-learning-chip-2/"
     type: article
     provider:
       name: fintechzoom
       domain: fintechzoom.com
-    quality: 54
+    quality: 56
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/ligjE2inqmQicFi09WJiIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://s.yimg.com/uu/api/res/1.2/sOc48gZBX48OiZRS5u8qhw--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/gobankingrates_644/9b23574deee2d97eb67ed851baf90a09"
-        width: 960
-        height: 640
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631210481_c988d15dee7aa013c7d364ee90b7c2b8.jpeg"
+        width: 800
+        height: 531
+        isCached: true
+  - title: "Facebook accused of discrimination after mechanic and pilot jobs targeted at men"
+    excerpt: "Facebook has been accused of breaching equality laws after its technology was found to favour men when targeting job adverts for male-dominated roles such as mechanics and pilots. The campaign group Global Witness has filed complaints with the Equality and Human Rights Commission (EHRC) and Information Commissioner,"
+    publishedDateTime: 2021-09-08T21:00:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/"
+    ampWebUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 39
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2021/09/08/bailey_trans_NvBQzQNjv4Bq3tjbT9f-vQVs0nBY2CgX4Kcvn4zc4kZ_kIejuHS7L_8.PNG"
+        width: 502
+        height: 314
         isCached: true
   - title: "Facebook – Facebook developing machine learning chip – The Information"
     excerpt: "Facebook Inc (FB.O) is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citin"
@@ -90,20 +136,29 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 36
-  - title: "Facebook’s Recent Mishap Is A Grim Reminder Of Big Tech’s Bias Problem"
-    excerpt: "The Facebook mishap is not a one-off incident. It is a fundamental problem that has been plaguing the AI and tech community at large."
-    publishedDateTime: 2021-09-07T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebooks-recent-mishap-is-a-grim-reminder-of-big-techs-bias-problem/"
+  - title: "Facebook Researcher’s New Algorithm Ushers New Paradigm Of Image Recognition"
+    excerpt: "The researchers designed VICReg to avoid the collapse problem, which is handled more inefficiently in the case of contrastive methods."
+    publishedDateTime: 2021-09-06T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-ai-algorithm-image-recognition-vicreg/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 24
+    quality: 21
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Facebook_AIM-1024x576.gif"
-        width: 1024
-        height: 576
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/object-detection-.png"
+        width: 512
+        height: 288
         isCached: true
+  - title: "Facebook – Facebook is very sorry that we keep noticing its racist AI"
+    excerpt: "Together with an amazing line-up of experts, we will explore the future of AI during TNW Conference 2021. Secure your ticket now! Facebook’s issuing apologies for its AI‘s bigotry again. This time, users watching a video of a Black man were asked it they were interested in more content on “primates."
+    publishedDateTime: 2021-09-07T21:28:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-very-sorry-that-we-keep-noticing-its-racist-ai/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 19
 
 secured: "qWfRCL9G+8UbrL+ZjF+wMAEqz3C+Rs1MsHzh+fF8WISW1HCMnP1gM4/Ap1NK//y98LhFxk1Dbfkjoff5QAfFnyMgeS/Ed0df+qopAmZgcId4qoh5n+yYG6CaUYCeA7nxVlPyk0WHApCjXAoPJSDEpNKEt6NorTUOlHEIV59YehCABA6ojGoh3Y/GcHm/t9FL3u64z8ppmQ5UlYzlbYZadx13gVpWhrUFn66RheGxjT6A4rguTHCwj/epK+0Qu3AknKzBgoVYO0Jm21NnkeNhwG7yqBajI1xrsIbRgqeDz8pC9+IjOAoKf4EwX3GVVK7xvyi5+JxzpegJ+rScmJnq4rAZ7qfGPWb4B67KDp0rTbk65l8NH6sXf6FOL9GA0qyXXyf9FTmdhHPCcHuntTeR7pnEU6wT+d4v+mRr0/LtiOjjo1zPWBjKoE8bGUWi12NYDK2RatYc5G+oQqfuC94/j+UNTzvEZnZKMEKo7F4Nl3NtksBmDiZJiNPNWyu9dXyrS1UKgi8bz9VFZz3n2gSQ/g==;TrDteQPTto4x7OlPylD3Rg=="
 ---

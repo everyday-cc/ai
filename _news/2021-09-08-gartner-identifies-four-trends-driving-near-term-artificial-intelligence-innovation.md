@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/gartner-identifies-four-tre
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/gartner-identifies-four-trends-driving-near-term-artificial-intelligence-innovation"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gartner: AI is moving fast and will be ready for prime time sooner than you think"
+    excerpt: "Companies have two to three years to lay the groundwork for successful use of generative AI, synthetic data and orchestration platforms."
+    publishedDateTime: 2021-09-09T19:17:00Z
+    webUrl: "https://www.techrepublic.com/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/09/09/29d4406a-7712-4b65-8dd4-817123216bcd/resize/1200x/5081b29b2f5108111e249f873b3feda0/gartner-hype-cycle-for-artificial-intelligence-2021.jpg"
+        width: 1200
+        height: 817
+        isCached: true
   - title: "Gartner identifies four trends driving near-term AI innovation"
     excerpt: "Gartner has released its Hype Cycle for Artificial Intelligence, 2021, and identified four trends driving near-term AI innovation"
     publishedDateTime: 2021-09-07T09:58:00Z

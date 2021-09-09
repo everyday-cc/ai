@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/the-development-of-b
 webUrl: "https://aws.amazon.com/blogs/machine-learning/the-development-of-bundesliga-match-fact-passing-profile-a-deep-dive-into-passing-in-football/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
+    excerpt: "Shot Efficiency and Passing Profile bring the total number of advanced statistics to eight, using AWS machine learning and analytics to give fans deeper insights into the game"
+    publishedDateTime: 2021-09-09T17:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/09/b22872678/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-seaso"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22872678"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22872678"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021-22 European Football Season"
     excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany's top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 - 22 season."
     publishedDateTime: 2021-09-09T17:53:00Z
