@@ -2,7 +2,7 @@
 name: "AI Companies for Cancer Treatment"
 overview: "Here is a list of AI companies focusing on cancer discovery and treatment."
 type: "collection"
-heat: 60
+heat: 85
 
 
 query: item.tags contains 'Cancer'

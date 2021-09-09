@@ -2,7 +2,7 @@
 name: "Slyce"
 overview: "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment."
 type: "profile"
-heat: 64
+heat: 58
 
 website: https://slyce.it/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "slyceit"
   url: "https://twitter.com/slyceit"
-  followers: 1569
+  followers: 1570
 
 angelList:
   url: "https://angel.co/company/slyce"
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "YkX3Mb5yhs0k22cFdkQKTYIKeYJoZb+Tc05qgNnA0mcVUr7P44bWdhbe2ZABhVwyOsRyjTUQwE9C08E7SL2Or4kiDc6vAGh02q2RPnsPKHEqbXgbDWI0SBdhiEkmYDJajxs8puJ1DRa6LVploFcw8xmq5KzrUmkLskp5s/6hn2qCS8lCmPDDgI5XSgEWo+NExUoHWRMZdITuFv/TcAj8toepStUeXCWloCurEPT/fOBXDptI/G5a5w6wJys/ixRI1H4Hn5t3dIz/5YF1iW7gHr3iY6EHe61DcOh0GU5iUwD3tcAFau8RTJtHdzkUWOueYYniBGZTQXQhZrTl9srpox63HTugQrkq0q/+tXn76/ZSQex0O0S8EOhx/T9kzyRJHXGbDQr35hclRyCY8ul8THe/cdkr57ZCF/dI75jdPAM=;o8ElfCfLfXMMpH+csOddVg=="
+secured: "0DamK4yGwn3h6yu92An9wLu/T2GXoZ1uCEIge8mtHEec4BpCsNHaDRwXnZIv41B+SoHvWOpUpr0fChNelDjpJd2dTSLHbdMDYpFwzADB4A+plLgSDem6hwHc5sGdN1Bu25Sts1CLNjZlW6T54RFry2V+ab5LAhhn613q2FiBg63rCFj09TxzFX6XY6rtuYuaTWQum53jn95Q93vj2eo3KieOdeBiFs+YRIcQ2mDeJbYXvWrBsA1YBOfQDP6zOdywZIfE/P/Us/fvESUxoZwf41XdI2uw6bYJXEpdkeWRLYZ5BmCjcr0C7MmnQvuD43lcuc0FHtf3pOhFfSpjbnX31W1uM382R9We+Fg8Dvw33b80+rhTCQ/tKkRZecsV9R8FeaHQEZV8xpMWQe6V9ZPrEcijETvY93KQM2MtwPKl92g=;2D/Yarz/HjsNeg0sjopqNw=="
 ---
 

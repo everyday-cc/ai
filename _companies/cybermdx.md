@@ -2,7 +2,7 @@
 name: "CyberMDX"
 overview: "Using advanced network mapping and management technology, CyberMDX adds layers of protection and operations-improving cyber insights to healthcare organizations. "
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://www.cybermdx.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "CyberMDX"
   url: "https://twitter.com/CyberMDX"
-  followers: 1188
+  followers: 1187
 
 size: 51-200 employees
 yearFounded: 2016
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "CyberMDX"
 
-secured: "HY6EuRaDmI+KTJMsvYhAAiIliSr2iWJqbFjNeOzYql1zTg3r6JCINBeUrvzr4DSg7Zh5ETT06tXwu6dOEQxDYExHmQjLIIY6LGJbPugzkpw1C61h5JLzjpVtnItxsVkdUZ8nT8juj0AFeeeV9t8OA+E24SD2CP2NgKk/pYLIxfb4ft+tF4GTZNEZ9LIHwXrBSruS2QDMUOsmzK3/xXIZeWYO+H67q1LAsJ77ue8vQdEQfl+47BpoHUlv4043h2OVe16MigM0X2Pl60kCs8wdUWSFE9XJfcz4Li5bN5oz8tfhBteVAwEF+JR/gQMZ+R91YDgLa+uBRevNPp6V5Ey1Kl/FzEqKKUnVB/9nsn2HeJVWRBJo32m+8rawVA+4bEIsEW+jnnA54mGnwia979uvKqdzd90SmSRTgYZC3fiS5Hg=;EDSU62kPRGrD4de6o56Y9A=="
+secured: "HKzo857zI3R9uDAPhRmuuJE7vRylmz1Dn4VGynLn69yASsPZ+w5CTMkGVToFDKvSDEedkrYuolzTMgO+uLVc8mu3GjiQQ2atEizWJN+IU5HHH4C2duCglh07RD2WKwcLkvIKJ3dBSUS0ianx8XZimVEKdR0bjlTIcYkLjObHD1Qi2/SbSTCFlDLgGJ00SMLBkZ9eMKnamKI7hKSt32YfjmbhyEbaQADNtu+qZZtUpPT/wUjnHaXDyh7JmwCMKJA143EmD9uJBXGSN05wqSt4u8oIRAw6JAcKsd4/FRbwNvqh1zq2yS7MJfpkalmQf4Uzt3phxDEolj6WTRroVFTOrUm1qXXuPwKcA5f+oKpAmm9FD0ZuSXi0saVGQBkO8ZHlfrtPfgVVGABi4L4t37AheH9c5z2oRzGO+j5v01mQxzg=;UwygAeEcKy2yQwx1inxDtg=="
 ---
 
