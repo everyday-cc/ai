@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Singapore startup plays up esports potential in Southeast Asia"
+    excerpt: "Esports can grow to become a lucrative industry in Southeast Asia, but the ecosystem and business models must first be developed, says Impunity Esports CEO."
+    publishedDateTime: 2021-09-09T01:35:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-startup-plays-up-esports-potential-in-southeast-asia/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-startup-plays-up-esports-potential-in-southeast-asia/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-startup-plays-up-esports-potential-in-southeast-asia/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
 
 secured: "mPD86owGTdMTQmq41EMyYbENOUJE6102CRMEuTiJgP1WrLRc2dBOVYM34LUqLNzaXna4S004w5S3OhedvD+4807zQDBIDRpqnRbmjST3lRbFcUKh/SfkrjggWroQZGp4x+iGP9ZmI29YQr0VNpCs9v51y7MECx8++Ug8xiui/orXZjBAqrPQsMTXvcLZXpgsFR0tu035BG6hziqBbW3mNONwM62FX2bfsdkwrhxs8Y+K31wqvhIhtGIrnrHGHMo5ry7YtZOaPgtcmEdwjo6QKX2QjHd0tOJWYxtYZ+gk+9r0azfTTYDZIYllFuDWz6ZWBQgxCSsXo4Y4wrp+uXTBKywnEcrutPD4/l8UmKfLFoUC9tsCd5pCxZTWEQ7keQlorAReSdbNxQV63Q6DwHhO6Qwu7sPi+NX0lMpkGTJZsnoycH2h/ARzXi4+FRi8OWdcvLXYRyRhoyabL1A396aVQ70A6wm/6UdPtllctJ0kXisiCrOLteMJW00V9ECXwBOm2ai7tjOqs2QHtvMCJutykw==;CgSvSOfWd1ZUu1c9VnOhHw=="
 ---

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Mobileye self-driving taxis heading to public roads next year"
-excerpt: "The Intel subsidiary's Mobileye Drive autonomous system will undergo public testing in Germany and Israel in 2022."
-publishedDateTime: 2021-09-08T15:10:00Z
-originalUrl: "https://www.cnet.com/roadshow/news/mobileye-self-driving-taxis/"
-webUrl: "https://www.cnet.com/roadshow/news/mobileye-self-driving-taxis/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/mobileye-self-driving-taxis/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mobileye-self-driving-taxis/"
+title: "Intel announces self-driving taxi service for Munich and Tel Aviv"
+excerpt: "Intel announced the news at the 2021 IAA Mobility event in Munich. Intel's automated driving subsidiary Mobileye revealed the new six-passenger autonomous vehicle it'll use for"
+publishedDateTime: 2021-09-09T00:18:00Z
+originalUrl: "https://www.techspot.com/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
+webUrl: "https://www.techspot.com/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
+ampWebUrl: "https://www.techspot.com/amp/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
+  name: TechSpot
+  domain: techspot.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.cnet.com/a/img/qg1emt5ienMI7jZgqMbEwRNJ6MI=/2021/09/08/b544ae2e-3a2b-4970-9cc8-8c66a2e33738/mobileye-av-ogi1.jpg"
-    width: 1200
-    height: 630
+  - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-08-image-19.jpg"
+    width: 2000
+    height: 1605
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Intel announces self-driving taxi service for Munich and Tel Aviv"
-    excerpt: "Intel announced the news at the 2021 IAA Mobility event in Munich. Intel's automated driving subsidiary Mobileye revealed the new six-passenger autonomous vehicle it'll use for"
-    publishedDateTime: 2021-09-09T00:18:00Z
-    webUrl: "https://www.techspot.com/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
+  - title: "Mobileye self-driving taxis heading to public roads next year"
+    excerpt: "The Intel subsidiary's Mobileye Drive autonomous system will undergo public testing in Germany and Israel in 2022."
+    publishedDateTime: 2021-09-08T15:10:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/mobileye-self-driving-taxis/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/mobileye-self-driving-taxis/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mobileye-self-driving-taxis/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
+      name: CNET
+      domain: cnet.com
     quality: 74
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-08-image-19.jpg"
-        width: 2000
-        height: 1605
+      - url: "https://www.cnet.com/a/img/qg1emt5ienMI7jZgqMbEwRNJ6MI=/2021/09/08/b544ae2e-3a2b-4970-9cc8-8c66a2e33738/mobileye-av-ogi1.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Mobileye unveils new self-driving taxi, will launch in Tel Aviv in 2022"
     excerpt: "Riders in Germany will be able to access the service via Moovit or Sixt's app ONE, which offers customers worldwide access to more than 200,000 vehicles and 1.5 million drivers."
@@ -80,6 +80,6 @@ related:
         height: 428
         isCached: true
 
-secured: "vP3NmYknRcw+wZEHieEnea4U2UitEeMqM2dUdimLBcDfFPmpfQ6Hnid/xGaqjHbg1LE4/7WHmilrl2i80DA09KJx7vZjI0X9azJm//WZmKGID6dBYN8v2UJSjKVexSVNq5hrCOA54xJ0jeJ9ZF7LDFWE+n6qElbXIVgBTnUUqoHOvNHdP0fOgUd+5VIbT5Tzqwm6ZM35wX0oKpxhKPAbFMyPK7V5K28Agx9R4N47sjYg5wLKHjVBms2uyRbIAUrrlK28cp3KDG5GVhbwew1/ev6k6Rk03c8gTt5Zb219DJCoydiLdJh4CdzMvGFSCZdiE36233YLuIYZ7kTLpVP9De6gYKOe79Pu1trlWHnz7ec=;1QK6XUJ7MXedzHopx/DB6g=="
+secured: "gYsZflqfSZd8gKkH/CpIKwhKzB7Y98020jcBYxbuJOq7N7Gd6VOaa2SdsxCAhoOyQeDrOkXgT7a1NLFsjHvdtX1Tj6dkDqk6u7II2IahZmr9o8QzgmwOdVYJIfcG4mWdA7VBk6RPzOhLruRCQoYfJ/HDfmiJPz6QbfI3K+8fC4XS8CWj3rQSRlg5prCapGOPd/b1jr1oazeXxvpUoQHITB6LMl5LCADqkIAIlYzFOmICisqq0x+SD4BCr7V7tonHk61G5qcaBuW1yPQinM2pntLd7rxkFizTnK38gv9MtSWjRzgxuo5WpnRTopKTXHHa2lEKnAclok7Taq16TEIPzFEMPz8GEN0mPCy7WVI7zZE=;SJZIDZboblmE02YzNcHHWQ=="
 ---
 

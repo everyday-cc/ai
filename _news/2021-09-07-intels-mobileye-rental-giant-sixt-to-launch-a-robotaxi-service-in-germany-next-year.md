@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/"
 type: article
 quality: 165
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.cnet.com/a/img/qg1emt5ienMI7jZgqMbEwRNJ6MI=/2021/09/08/b544ae2e-3a2b-4970-9cc8-8c66a2e33738/mobileye-av-ogi1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Intel announces self-driving taxi service for Munich and Tel Aviv"
+    excerpt: "Intel announced the news at the 2021 IAA Mobility event in Munich. Intel's automated driving subsidiary Mobileye revealed the new six-passenger autonomous vehicle it'll use for"
+    publishedDateTime: 2021-09-09T00:18:00Z
+    webUrl: "https://www.techspot.com/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91164-intel-announces-self-driving-taxi-service-munich-tel.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-08-image-19.jpg"
+        width: 2000
+        height: 1605
         isCached: true
   - title: "Mobileye unveils new self-driving taxi, will launch in Tel Aviv in 2022"
     excerpt: "Riders in Germany will be able to access the service via Moovit or Sixt's app ONE, which offers customers worldwide access to more than 200,000 vehicles and 1.5 million drivers."

@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/singapore-police-patrol-surveillance-ro
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/singapore-police-patrol-surveillance-robots?amp"
 type: article
 quality: 89
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore startup plays up esports potential in Southeast Asia"
+    excerpt: "Esports can grow to become a lucrative industry in Southeast Asia, but the ecosystem and business models must first be developed, says Impunity Esports CEO."
+    publishedDateTime: 2021-09-09T01:35:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-startup-plays-up-esports-potential-in-southeast-asia/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-startup-plays-up-esports-potential-in-southeast-asia/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-startup-plays-up-esports-potential-in-southeast-asia/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
   - title: "Singapore scientists develop AI-powered system to diagnose glaucoma using eye images"
     excerpt: "Scientists from NTU Singapore, in collaboration with clinicians at Tan Tock Seng Hospital in Singapore, have developed a novel method that uses artificial intelligence (AI) to screen for glaucoma, a group of eye diseases that can cause vision loss and blindness through damage to the optic nerve at the back of the eye."
     publishedDateTime: 2021-09-07T15:21:00Z

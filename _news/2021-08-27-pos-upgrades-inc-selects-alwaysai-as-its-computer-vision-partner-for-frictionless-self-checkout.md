@@ -1,26 +1,26 @@
 ---
 category: news
 title: "POS Upgrades, Inc. Selects alwaysAI® as Its Computer Vision Partner for Frictionless Self-Checkout"
-excerpt: "PRNewswire/ -- (POSU), a leader in innovative payment solutions, and computer vision platform leader, alwaysAI®, have announced a strategic partnership to bring turnkey,"
-publishedDateTime: 2021-08-27T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/pos-upgrades-inc-selects-alwaysai-as-its-computer-vision-partner-for-frictionless-self-checkout/article_f61c8a27-3242-5d9b-99b8-76c66d062a86.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/pos-upgrades-inc-selects-alwaysai-as-its-computer-vision-partner-for-frictionless-self-checkout/article_f61c8a27-3242-5d9b-99b8-76c66d062a86.html"
+excerpt: "POS Upgrades (POSU), a leader in innovative payment solutions, and computer vision platform leader, alwaysAI ®, have announced a strategic partnership to bring turnkey, high-performance visual recognition systems for food and other items at the point-of-sale to POSU's customers."
+publishedDateTime: 2021-08-27T13:19:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-pos-upgrades-inc-selects-alwaysaireg-as-its-computer-/2021/08/27/9438710.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pos-upgrades-inc-selects-alwaysaireg-as-its-computer-/2021/08/27/9438710.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/7e/f7e9d197-17fc-5158-a267-ebd8b8d108df/6128e256a2dba.image.jpg?resize=1121%2C630"
-    width: 1121
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1603027/alwaysAI_POS_Upgrades.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "R501q20u4kH8BlDNltS4bSb5TvQahME41eRumthkq09n0plaOdFDkCdO+Z7cjoDa3RlnBj0QG6SjaDvMl+3ylKdzjlg6BGMIpA4nxw1sGJHZhKN4ovg71r/SNZ25hOfynI6HXHBCB4vTd3owzB08RXm0uguUwobUdg5AdFeUIWPZf9xkR5pumIATyPTvTrjHzDvhKl4BagcMKFxs6DhoFcICVYcMaaLMH/weVdwR+twldWV5D2yboPpFB+AECOzkS+MFngEhuFfUK3mbiilSXmcHTdPFrYuhsTauvG1G/aQAan8X/TWJ2k1fsdvXIb5ZSHjnWcDItjrPonmrkGY328eTCRq5uEwJMxcaYV/1hj4=;QsxeprDpdyd38m1OYU5REQ=="
+secured: "PU4FVLvQn6CwPmZY0q4wcxVtCykW42IKc5CxXBAwIPr2pSIr6mykUj4AHZV4nBQbKy5Rw9MeJLWs1eLmrq5q1m7Sqk5AYRTTZdlq9LMDqYkQFy7bIWC4MTKQ2d07jFbkGn76hEVsw1lTe1dUv1knQz2YHarOHrV3SFu6EZDHPpWlr7ohYLp40L8DV0Me4LvwGVVoop/8qsrNC0hatlRA7g9lJ1tsBApAvPsvHz6gaAFmZfzs81FF/iJUMp8sEN9IpQJFeahDSXL9I+QjlcR//PD+IfX6YKSz+UGrEXhVbKEh7a7S7y2y5OPf/YNSpGi4MNfKMgaTFKUX2u+7DiIX3kqnYXihVDxTTQa8c2VMMCU=;u7LXDfth1ACM2WgsSjtSDQ=="
 ---
 

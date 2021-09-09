@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg"
@@ -78,6 +78,6 @@ related:
         height: 563
         isCached: true
 
-secured: "d5AfwHriXaef9S/vTiq5XEV/KDYftxe50VOoGO4mO5W+EN3P9lQa82eLpspioRnqj0B6PNSAhVJA5z4aHL42zpNXjnr+0TBiil1aJhTPpzWdJSxU5BDle7dey02atI7X/xSWZyD2fRoSt3BzEouqtliJ+hY2X1LUdQd03BNQfFbk4mppIOwd+qtxlnLhwpiuHS/Pdw39AQJi9D5mIFPP+hLHr0eobe4YXsYmtw47V0RKz744/fallaaCu7YD0E22Pi7p1lYzm7zPGMFXWZ1Z7k3p5NBlkMOukTd7sIHvHFbKlJ/33FCrTN9YWYDJhXmJscc/6At46ecyqawkgeO2TM8IE7MUT44Z0XRdftpegrY=;dKKYTvq5Y4WW4tyjSWcqZw=="
+secured: "X1kfe5MB4ILXCXH6Ps2hGTkXZo12i7d/sYy5TYcww3bcaG/EY3MVQnKykwr1/axj+zickQnGo3Pa3KHznR+cE5ySz1wzwEAj1goBpss/5iWECM5rD87PYBBr0waLHgZODG3rrx9dI3YMWKJ/hv70Fh5/Fhf/5+TWa6OuMMxMvu0pirVSNgJ4lGrgy0oFxn1CNKHyaxTjrW8nuDwpyKaDzVctCdzCNZp+OekPeBweCpTaCkPiRQRlEHx4+2bgC9xgtZVvq8P1+RutripVVfwF18A3pBNhUUeHH46sW25xJFpFmstpWvHfoqA1364XtYB+ytfTj5eM0wtWWoXknpZMM54DnzzEYFBvdVqcgRPxVRk=;/aE96dahP2pIGiTkp1ZFyw=="
 ---
 

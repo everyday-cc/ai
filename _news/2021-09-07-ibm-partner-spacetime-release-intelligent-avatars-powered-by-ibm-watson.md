@@ -3,10 +3,10 @@ category: news
 title: "IBM Partner SPACETIME release Intelligent Avatars powered by IBM Watson"
 excerpt: "Local IBM artificial intelligence partner SPACETIME today announced the release of a new “plug and play” avatar-based virtual assistant (chatbot). Powered by IBM’s world-leading Watson artificial intelligence,"
 publishedDateTime: 2021-09-06T20:33:00Z
-originalUrl: "https://www.scoop.co.nz/stories/BU2109/S00141/ibm-partner-spacetime-release-intelligent-avatars-powered-by-ibm-watson.htm"
-webUrl: "https://www.scoop.co.nz/stories/BU2109/S00141/ibm-partner-spacetime-release-intelligent-avatars-powered-by-ibm-watson.htm"
-ampWebUrl: "https://m.scoop.co.nz/stories/BU2109/S00141/ibm-partner-spacetime-release-intelligent-avatars-powered-by-ibm-watson.htm"
-cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2109/S00141/ibm-partner-spacetime-release-intelligent-avatars-powered-by-ibm-watson.htm"
+originalUrl: "https://www.scoop.co.nz/stories/BU2109/S00141/ibm-partner-spacetime-release-intelligent-avatars.htm"
+webUrl: "https://www.scoop.co.nz/stories/BU2109/S00141/ibm-partner-spacetime-release-intelligent-avatars.htm"
+ampWebUrl: "https://m.scoop.co.nz/stories/BU2109/S00141/ibm-partner-spacetime-release-intelligent-avatars.htm"
+cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2109/S00141/ibm-partner-spacetime-release-intelligent-avatars.htm"
 type: article
 quality: 39
 heat: 39
@@ -20,6 +20,6 @@ topics:
   - IBM AI
   - AI
 
-secured: "3N+M8wraF2fzHUQ8FWabwW4NPktIAPBYdQmhcDeS1oaQlWiL4meSU2YAdXOVmX2clYd67VdBD4wcVWT1M428W+1EUNhnlnIciu1ZkbBPOo83swfODl5Fii15M1nINVPKquQkj2v7HMc28fjDZaSsMN69e8hZxOXWdxMopyxYvzaV/eUi1iueAeCncjmMv9KBhFMdv2jM1uyVExx8L/SZNdpj+p5FLDrl0obt85rKkqYWVV2W5cH0wGZhKx+AS0wT1Oum3m3fShdsHpYTPLkgzafoLfwVRkvAdpAeDgJGu/AEly0CaiZF2mKWEuEjp7jj8eOQgyAo0pkeDTTCez0NvGGjjhCq6YzfzcZLCRpiJrs=;o8xCeXEJTq7zAfjg4qNdng=="
+secured: "zcwXR7Fs7QmW6UrTgFFFimAek4o5xd7ewwxMl2atRiCbU9W8R8Uq9TqJzKWbFfAuJPWAG6qpJsI3pNk2SnEQP3jzkGcpm/dXj98nuTsOS6mLXFmBQMDSQfB6AIqE7VFBITou2C8zpR4zMkRmB1aDjW0x4wFs/c7acdBkFLV3kdG6+gOkC1FdonZ+FY2mxsPjbCy3Mhw3+oZ5eA5KsnaCzPBMGZkB1QhP2eKsnF5zyhT5x0YQUSXxpnDjs0ik0mVi7R9TSVeX+72w4Yz2ol9rPZBeWhe4BMkrebDuFQDYrmROzcelRM+UEDgOujIjvqg5NDJyIA4b7Z7a1Q6xWJSxiVbXHumUiEt9VghKYxCz0x0=;6AbK+M7cT2BMvfFgCd5C9w=="
 ---
 
