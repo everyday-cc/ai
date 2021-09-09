@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/why-tesla-apple-google-and-facebook-are-design
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-tesla-apple-google-and-facebook-are-designing-their-own-chips/?amp=1"
 type: article
 quality: 78
-heat: 99
+heat: 100
 published: true
 
 provider:

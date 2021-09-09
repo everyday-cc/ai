@@ -75,6 +75,22 @@ related:
         width: 2000
         height: 1605
         isCached: true
+  - title: "Intel Enter Self-Driving Taxi Market; Service To Kick Off Next Year In Munich And Tel Aviv"
+    excerpt: "Intel officially pulled back the veil on its self-driving taxi service during the 2021 IAA Mobility event. The event, which is held annually in the city of Munich, also saw the brand launching a brand new car called AVKIT58 made by Mobileye,"
+    publishedDateTime: 2021-09-08T20:30:00Z
+    webUrl: "https://www.lowyat.net/2021/252323/intel-enter-self-driving-taxi-market-service-to-kick-off-next-year-in-munich-and-tel-aviv/"
+    ampWebUrl: "https://www.lowyat.net/2021/252323/intel-enter-self-driving-taxi-market-service-to-kick-off-next-year-in-munich-and-tel-aviv/?fbclid=IwAR1f4ZXXKui1Lf1CYZ9CfCN56Z8c16IiwPRdW_6_muojPrZO2t_ixqOqhmU&amp"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/252323/intel-enter-self-driving-taxi-market-service-to-kick-off-next-year-in-munich-and-tel-aviv/?fbclid=IwAR1f4ZXXKui1Lf1CYZ9CfCN56Z8c16IiwPRdW_6_muojPrZO2t_ixqOqhmU&amp"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 34
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/09/Intel-Moovit-car.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "L3blipadvzQ8x23mBE3UuXwk7wDpaibDBHPjI6M7qFtbq+MYWGFNLonZ8JvcBbm6og0QzI+/Kq9BiXS5MFQkAWOsb31YdxZOZe+quF/iaOYcuw+J2uH6rG611ANp2ikR1Z61tWQiPxqFGxYG2T3daCJrxBS0Ls9wuiMVMg4Mbdt3HHItjNWWIJBIFiuCrumoRz6tnj28Z9B+8dfLsJqUti+fO0tsnVfYR5qA847F4WeFxiQ06lBK3BdRXGbBepWuzwUu4X+BMDB4EFS5HKTnsodegFTNueG+NwfmQCbmGkivQB0nJgiAUCEbZXKoRvy10sdAhgks/EDLuxq2lU/Qan0FwwO3+Bl4SVAAcJlxYGEAjY2/raPiyHGkQl6kmt9z+S9UcSKSr12xS68tdjYKyvpoAI5nqTAfPOI9jfETPEbv+WhUo4nhxDt5DgWrlMLzOj2zHPW1FKw1QuD2hWThT5YCAxM+zwLlISlRe01ERtcWwgptfKHohxE57ZMTqGRuu4Et0XQSEpf4gMT3A6GGfg==;PbQsVxd7H5yIcTTRP08y8Q=="
 ---

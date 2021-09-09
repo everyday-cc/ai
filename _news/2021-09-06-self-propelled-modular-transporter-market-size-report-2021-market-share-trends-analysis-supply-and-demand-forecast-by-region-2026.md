@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Voice and Speech Recognition Market Size, Share, Trends, Outlook, Future Growth and Forecast 2021-2026"
+    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market reached a value of US$ 9."
+    publishedDateTime: 2021-09-09T04:49:00Z
+    webUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 23
   - title: "Covid Impact on Global Artificial Intelligence in Telecommunication Market 2021 Key Players and Production Information Analysis with Forecast 2026"
     excerpt: "Global Artificial Intelligence in Telecommunication Market Research Report 2020-2026 thinks about key breakdowns in the Industry with insights about the market drivers and market restrictions. The report illuminates accumulating an all-encompassing rundown of factual investigation for the market scape."
     publishedDateTime: 2021-09-06T15:04:00Z

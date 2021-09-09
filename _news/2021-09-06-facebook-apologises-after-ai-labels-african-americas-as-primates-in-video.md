@@ -73,6 +73,17 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "TCS wins contract from South American airline Avianca"
+    excerpt: "TCS will modernize Avianca's IT infrastructure and build a new future-ready cloud-based digital core on Microsoft ... TCS is an IT services, consulting and business solutions organization. TCS offers a consulting-led, cognitive powered, integrated ..."
+    publishedDateTime: 2021-09-09T03:20:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tcs-wins-contract-from-south-american-airline-avianca-121090900141_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-wins-contract-from-south-american-airline-avianca-121090900141_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-wins-contract-from-south-american-airline-avianca-121090900141_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "The Ten Top Most Valuable EdTech Start-Ups: A Mix of Chinese, Indian, and American Companies"
     excerpt: "Five American companies are among the ten most valuable EdTech companies in the world, while Indian and Chinese start-ups are ranked first. “The global EdTech is a broad and diverse field that includes not only the hardware and software programs used in remote learning but also the most effective ways of teaching people new knowledge and skills,"
     publishedDateTime: 2021-09-06T06:03:00Z
@@ -89,6 +100,15 @@ related:
         width: 860
         height: 480
         isCached: true
+  - title: "American Airlines – TCS wins contract from South American airline Avianca"
+    excerpt: "Tata Consultancy Services (TCS) has been selected by Avianca, one of the leading airlines in South America, as a strategic partner in its cloud transformation journey. TCS will modernize Avianca’s IT infrastructure and build a new future-ready cloud-based digital core on Microsoft Azure."
+    publishedDateTime: 2021-09-09T03:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_american-airlines/american-airlines-tcs-wins-contract-from-south-american-airline-avianca/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 18
 
 secured: "u1MMiw0aHhzB/afyH6+BxtlJGTvbadxjK08f0SFGLCCtQXUO0OzvT4sxV3y+tjW4B72UzxUvNoQ+cF0RtftQFKc/6rmx1YXDwNzEKEQLPn9V/odyQ76rW51oDx3nty1xLzIwPcgMnYnWPyePNxzNREWJ5wyFrFpeOngyhdUtW2ceElmlODHCyN6xDxhUs2bR029KTdWqfzQi0K7dbJN15A2zDznLMJ2MUPx/YZCRDJFsjB9g+c+DkzNdFYT9gUAmBGhxH18LuF20+n7SewWRa5xSnYs35GoenOg/vKGxJeKgFRYECbnQu0I925a9Va/0zS5PHMdNPG7j6a+eyvU9PzCd6puSowZPodL1kIY+k2s=;E+A6piHDminxKHC/S6HQaA=="
 ---

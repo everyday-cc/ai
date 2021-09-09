@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice and Speech Recognition Market Size, Share, Trends, Outlook, Future Growth and Forecast 2021-2026"
+    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market reached a value of US$ 9."
+    publishedDateTime: 2021-09-09T04:49:00Z
+    webUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 23
 
 secured: "UUlvBlQjA1DC4QKX2uO0RcPeRwFPk/hUyN3F2Hr2N7bLFVa+oxeEB9FG6Sr1d1rKnnmpi0J7hlOSiN+D0gZbbIFlUaORlbP7IcIKC05RtEGJuYPOqNxBZV11eI1SXT/1qWSYyO8miWZ+WC4rQ+L8Ev0PjxexSjLFEZkeFCTjMvUMmF7UKJN1divDOdHPD+9kVLVpStTRiRvUGV6kId1QxRGDhHMe+b8bu+k8Xe8gp8vRw8RVdIPmrW7pZ4f3vg7lCdGC7M+dkLqVNP/j1Pwbe0Am+5ZJL79zehs5hgZqnZ6jwSCfjaznyz+HDZBQ3Vj9sAK7+guFwZJwtXRfAW739L7h3DnmQsP3T6Py9lI+/kg=;McnE0QRx7F/k8UiAZ0mw2g=="
 ---

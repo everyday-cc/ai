@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/"
 type: article
 quality: 165
-heat: 195
+heat: 205
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/482852"
         width: 640
         height: 428
+        isCached: true
+  - title: "Intel Enter Self-Driving Taxi Market; Service To Kick Off Next Year In Munich And Tel Aviv"
+    excerpt: "Intel officially pulled back the veil on its self-driving taxi service during the 2021 IAA Mobility event. The event, which is held annually in the city of Munich, also saw the brand launching a brand new car called AVKIT58 made by Mobileye,"
+    publishedDateTime: 2021-09-08T20:30:00Z
+    webUrl: "https://www.lowyat.net/2021/252323/intel-enter-self-driving-taxi-market-service-to-kick-off-next-year-in-munich-and-tel-aviv/"
+    ampWebUrl: "https://www.lowyat.net/2021/252323/intel-enter-self-driving-taxi-market-service-to-kick-off-next-year-in-munich-and-tel-aviv/?fbclid=IwAR1f4ZXXKui1Lf1CYZ9CfCN56Z8c16IiwPRdW_6_muojPrZO2t_ixqOqhmU&amp"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/252323/intel-enter-self-driving-taxi-market-service-to-kick-off-next-year-in-munich-and-tel-aviv/?fbclid=IwAR1f4ZXXKui1Lf1CYZ9CfCN56Z8c16IiwPRdW_6_muojPrZO2t_ixqOqhmU&amp"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 34
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/09/Intel-Moovit-car.jpg"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "9D9UQYTua2TAGaBjPoAzQMHjYl+8OHHx0Z6TsG+K98Qe/iEoMU95zGtT7EXKdjTdR4+luQzrVuogvw2Fg0YX/hJp61KnxmOHT70cBgKQKiUF+nj6gosvtYXSS0O2TKvsNBxSmFe/wtvZt9Sa4ZZea1UDuaKTcDLpXpXYE3tbAAZIEoywrtpFsBfVhJ1fcbzkatABla/x6EZl0TV/qSmtKuh0uPabOK3sVGn/rVXPF3MYP+u4FYBh4gzF3/e0WqKpdToJzQ085zgpXfJOzp6jWpNlhp2HRlPXh5dathfbKUuImYZuEU2c9banKQLvwnWTpV4nSM6RVn9qC6wIkD/EWfOxGf+z2c59ZyJ9la68vXyXucGQBxFLpBNJtTAi71PYxe4DG18yIK8v/Hz33tdHR0+11DsEl6uB/VU1UoJgb+lp/nDy4EuiCE2Da8bP4npDjZAgoOgpCw0eIpZLqlrJwBPuKkpXMcJRo4dsplSB3UIVMNzinRmMXi1IsAQ3MgBlwUAYkDj+PP2dkI/8Emp1iQ9Ua4dtN6nJqTAVmmCQMjI=;PcHyAQmN1apIxW/rFmHIrg=="

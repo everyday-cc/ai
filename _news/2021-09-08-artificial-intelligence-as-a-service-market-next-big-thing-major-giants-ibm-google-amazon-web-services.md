@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-08T15:10:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/271064206/artificial-intelligence-as-a-service-market-next-big-thing--major-giants-ibm-google-amazon-web-services"
 webUrl: "https://www.bignewsnetwork.com/news/271064206/artificial-intelligence-as-a-service-market-next-big-thing--major-giants-ibm-google-amazon-web-services"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://cdn.bignewsnetwork.com/cus1631092284818.jpg"

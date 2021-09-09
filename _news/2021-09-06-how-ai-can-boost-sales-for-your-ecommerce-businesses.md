@@ -59,6 +59,17 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "TCS wins contract from South American airline Avianca"
+    excerpt: "TCS will modernize Avianca's IT infrastructure and build a new future-ready cloud-based digital core on Microsoft ... TCS is an IT services, consulting and business solutions organization. TCS offers a consulting-led, cognitive powered, integrated ..."
+    publishedDateTime: 2021-09-09T03:20:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tcs-wins-contract-from-south-american-airline-avianca-121090900141_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-wins-contract-from-south-american-airline-avianca-121090900141_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-wins-contract-from-south-american-airline-avianca-121090900141_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
     excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
     publishedDateTime: 2021-09-06T03:49:00Z
@@ -89,6 +100,15 @@ related:
         width: 860
         height: 480
         isCached: true
+  - title: "American Airlines – TCS wins contract from South American airline Avianca"
+    excerpt: "Tata Consultancy Services (TCS) has been selected by Avianca, one of the leading airlines in South America, as a strategic partner in its cloud transformation journey. TCS will modernize Avianca’s IT infrastructure and build a new future-ready cloud-based digital core on Microsoft Azure."
+    publishedDateTime: 2021-09-09T03:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_american-airlines/american-airlines-tcs-wins-contract-from-south-american-airline-avianca/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 18
 
 secured: "wjpLdMMKHPGFoQNejjU5LCgqTVLvXCyKJ5slrnhoNRVjr2AEj3P0vyIaEiyAmfEsH+j19RTMqGch1vAp5VVMeKoDjuN9wMs0oAUDoiKhVqIEVPDx/uQ2RXN7dYFwsh481viRZtDZ1yZXxCenmx8+syYoHT4FbSuw76I1uYJfDC5slchOnHyQhPI4FhikEsPVCejCHFbTWCFcGha/vhCVWq+P+6DGpfv51ZnFmxH/H52pUG0yAoX7bA5m9A6xd4cJxuTQ9bK299DudOZyOQUJnSksXT3xPGce/r/SDfNCrQsQpv3F+IzEeK6zzHTwpo7SIvXWD3W1LqxHdPqQD36SQGlvSTtM2sydZQuT1wxsf6xDOikFp0zBg41xin0VSZsTC1wUoUa0wK4vpPuB5u3HdFuzxH9OioAnafck2Zi9u82+VJVeIA9UNfUcvE8oxpomzTGL9GdRTzBIV79zlNktdAGWlZM3lt5yJV0IjQivCy7k9L6oIz0vtBvyNDq24Y6hCuqou2lsB835UoGgA7Zrzg==;7LG9Z2txdCWpQlRCM/JBdA=="
 ---

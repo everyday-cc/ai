@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-dis
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Researcher’s New Algorithm Ushers New Paradigm Of Image Recognition"
-    excerpt: "The researchers designed VICReg to avoid the collapse problem, which is handled more inefficiently in the case of contrastive methods."
-    publishedDateTime: 2021-09-06T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-algorithm-image-recognition-vicreg/"
+  - title: "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold."
+    excerpt: "An ETF run by artificial intelligence smiled on U.S. retail plays in September but soured on a few Covid-19 pandemic trades."
+    publishedDateTime: 2021-09-09T04:02:00Z
+    webUrl: "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
+    ampWebUrl: "https://www.barrons.com/amp/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 21
+      name: Barron's
+      domain: barrons.com
+    quality: 51
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/object-detection-.png"
-        width: 512
-        height: 288
+      - url: "https://images.barrons.com/im-378016/social"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "Facebook – This Robot Trader Turned Bullish on Amazon, Facebook, and Nvidia. What It Sold."
+    excerpt: "The artificial intelligence scans the market and uses its predictive ... Write to Jack Denton at [email protected] Facebook – This Robot Trader Turned Bullish on Amazon, Facebook, and Nvidia. What It Sold. Tags: Facebook – This Robot Trader Turned ..."
+    publishedDateTime: 2021-09-09T05:35:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-this-robot-trader-turned-bullish-on-amazon-facebook-and-nvidia-what-it-sold/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 9
 
 secured: "6WW3bI7ZwHkClwyjXKv/gckDdZdlVrttScxlwKhb6a1OLsKwWPkE6/ypHxGLHffTUnkBqpKJftxML2vYoy/Gycq5SafrVUf8hnUPa5qevrql8nW6RGpvMQtXgVCVJtSwUwEf23Ycj0BX0uUDv27OfYHnkM2ehNJgSewqVaKrXveXEoPjFA4QxeGT4JxV/gtV1koqyzAB8cEI+eBGx430/lsPwW+iD3yUoo3Q/QImhdQKUB9zc06LH1C/R84TJNHnsNS4beVQ3p6wARVusoCkTE5X5Ct/oewZkBuyMxM4g0Dg80u2bD0Dudi0D7ieWxiFx318/EqKYz54D+q+SceTlzdFcIsPnwnd5hfwiqoL2bwLbCRcvxbIEAWwhNIrrdu8pmt3s3l9hfcj8nZm43KJEqOtNQFjl/hUhY6EMLCCnY6aXhGOC6JHnkordFl4z2zjwWV2FrzJuQ336R5/dMdOaEmEWqBBwM1qyMcJ2UqToQvPlIuv2caHlwsPZRyoq+U8SyJhIbvydH5jjcHTyYnSpw==;ZR1eeRcbsYE/dex5KZeasQ=="
 ---

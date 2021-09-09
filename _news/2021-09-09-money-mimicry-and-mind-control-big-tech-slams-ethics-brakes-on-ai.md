@@ -1,31 +1,30 @@
 ---
 category: news
 title: "Money, mimicry and mind control: Big Tech slams ethics brakes on AI"
-excerpt: "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
-publishedDateTime: 2021-09-08T20:46:00Z
-originalUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
-webUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
+excerpt: "But as political and public scrutiny of AI failings grew, Microsoft in 2017 and Google and IBM in 2018 established ethics committees to review new services from the start."
+publishedDateTime: 2021-09-09T05:47:00Z
+originalUrl: "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms"
+webUrl: "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms"
+ampWebUrl: "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms"
+cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms"
 type: article
-quality: 84
-heat: 114
+quality: 76
+heat: 106
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gadgets Now
+  domain: gadgetsnow.com
 
 topics:
+  - Microsoft AI
   - AI
   - AI Ethics
 
 images:
-  - url: "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg"
-    width: 1200
-    height: 628
+  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86058380,imgsize-486248,width-800/86058380.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -78,6 +77,6 @@ related:
         height: 563
         isCached: true
 
-secured: "izO2WL8OqRm8/DrU5h5povYzkXhKatwQdnPBtSDpV9fvxm3f1VwRXa1wF3ufd5IinSmSdp9+VkrsIYLcBraT9H4szE0jQcT0w/ek5l2rQGpPXZu3rWgzq5q0Y61qU1o6JC60OHlodaOJTXquIkFL55B8RncXg2hxbm7q/hdLIuFbM/J+YPij/whVQYkoPVuiAHxRZMLzk5tQ1Ch9xyY6S6p1mz9AwGOWA+rNveeEiGW2XW10xY7iMLgvxZyB9ySYmoqBHSmeypIQehc5m3uLBgPt+7U+Ryi56GAD+u0riYFy+6qfvFPoJoQfN/WzVXn/ID23axkmkzhFJWU19xmJ5MOQVcY51BW+DXZwILBM3JUfSa/0/WTbOQCLrMmdIe4Nv34iwIp/sV4tnKcaD3Sw/jVwL6wgAu7e66MyuE4RhNHaUyhPRm50Cy1E0OoWTPZzEWoCUC9RZ+URbb+dTA+cPq+Jslq8EVElA7z6xJFfpSBUSKyjanSgps7/Kzm469OCmYhbrUZc1S+4B6lRlq7XaA==;Kz9y3p7hmy/eF30gQySLyw=="
+secured: "rAF5jyP3psI31j24vH45Ym3VOcwdjM7hjGjpmcL9wRMEmRJcoyUPT4BQfxV8BviNuajVyHrINHYrtaoXtmMHyR8KQmKQIP6PfQ7hXpHXMlTg1ZqivOe64YUdJaiM2GH7SSmVhlJPEQqfOp6Pv1AGSkb8wAyfVE/22CbXvlK0/bQMDMORb09BeFLRX0B6IY0Lj6oZp/AmKSelov8ZABClFcbfuqhcnjunblhVL6e8oeoDCi6iZcmKAnb705xJhqkMJ06b5UoIeneuYFNIONx2CveMWQhGKaegkFo+4Is6ak2tieLT+D7JIgbx0tM4wCDQuCzKAvK82vPEZ7AQL++MSlXO8jyZH0TQcmgirr5d1a0=;TpLqTF0+FP/SLxDhpA1JuQ=="
 ---
 
