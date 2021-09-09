@@ -15,11 +15,11 @@ website: https://t.co/Z06UY9gVRv
 twitter:
   username: jmgduarte
   url: https://twitter.com/jmgduarte
-  followers: 315
+  followers: 316
 
 googleScholar:
   url: https://scholar.google.com/citations?user=GTtW9H0AAAAJ
-  citations: 146027
+  citations: 146154
 
 topics:
   - AI
