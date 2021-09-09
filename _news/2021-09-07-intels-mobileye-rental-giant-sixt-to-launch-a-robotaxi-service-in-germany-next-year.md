@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/"
 type: article
 quality: 165
-heat: 215
+heat: 225
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/09/images-47.jpeg"
         width: 678
         height: 452
+        isCached: true
+  - title: "Mobileye To Launch Pilot For Self-Driving Taxis In Munich, Tel Aviv In 2022"
+    excerpt: "Mobileye said it will launch the autonomous vehicle pilot in collaboration with international mobility service provider Sixt SE."
+    publishedDateTime: 2021-09-09T12:43:00Z
+    webUrl: "https://nocamels.com/2021/09/mobileye-launch-autonomous-robotaxis-munich-2022/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 22
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/09/robotaxi1.jpg"
+        width: 1200
+        height: 899
         isCached: true
 
 secured: "9D9UQYTua2TAGaBjPoAzQMHjYl+8OHHx0Z6TsG+K98Qe/iEoMU95zGtT7EXKdjTdR4+luQzrVuogvw2Fg0YX/hJp61KnxmOHT70cBgKQKiUF+nj6gosvtYXSS0O2TKvsNBxSmFe/wtvZt9Sa4ZZea1UDuaKTcDLpXpXYE3tbAAZIEoywrtpFsBfVhJ1fcbzkatABla/x6EZl0TV/qSmtKuh0uPabOK3sVGn/rVXPF3MYP+u4FYBh4gzF3/e0WqKpdToJzQ085zgpXfJOzp6jWpNlhp2HRlPXh5dathfbKUuImYZuEU2c9banKQLvwnWTpV4nSM6RVn9qC6wIkD/EWfOxGf+z2c59ZyJ9la68vXyXucGQBxFLpBNJtTAi71PYxe4DG18yIK8v/Hz33tdHR0+11DsEl6uB/VU1UoJgb+lp/nDy4EuiCE2Da8bP4npDjZAgoOgpCw0eIpZLqlrJwBPuKkpXMcJRo4dsplSB3UIVMNzinRmMXi1IsAQ3MgBlwUAYkDj+PP2dkI/8Emp1iQ9Ua4dtN6nJqTAVmmCQMjI=;PcHyAQmN1apIxW/rFmHIrg=="

@@ -74,6 +74,15 @@ related:
       name: Adelaide Now
       domain: adelaidenow.com.au
     quality: 31
+  - title: "Microsoft’s Azure Space and Nokia to create base at Lot Fourteen to help space industry"
+    excerpt: "The growing space industry in South Australia will have the backing of two of the world’s biggest communications’ companies, Microsoft and Nokia."
+    publishedDateTime: 2021-09-08T10:59:00Z
+    webUrl: "https://www.dailytelegraph.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 26
 
 secured: "WgfakORz3PvMMVAgS2UmzvBN7m9n0q0Y/SbI7gSSlnfo+3OWLowTX+vC8TlEaAUzrDU133ewsDVfBwCh8ljMwmhNhObcIOQPo3aRQq0kZs6cACJpjwxozQGSNL9f1rUa5/eHE4p2WwS8M3TiKo9xRdx/UMfBI4Ug9TMHnBebVWLPtt4/+xpycBaN70HPXy/iOE+66pqe6D1NCgQdFXj/roDicOQLZQi4gozBBn048XTCe05FL3ggcKVrwjtJV4Pk3NFmwIrNxPiTENswHc1n5pZqmXozDX3BGcNivXj5X4sJEL5xqF49wzpQRKDyhhrClpVtmCVUt0p0W6sLobvdLtddjuLqZs1sMoqygD0LQyw=;mCJhkKmDNPq+rB/+VVuQrw=="
 ---

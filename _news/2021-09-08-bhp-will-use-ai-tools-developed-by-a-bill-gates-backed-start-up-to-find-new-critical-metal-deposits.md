@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "BHP inks exploration deal with Gates and Bezos-backed KoBold"
+    excerpt: "The world’s largest miner will use artificial intelligence tools developed by KoBold Metals, a start-up backed by a coalition of billionaires."
+    publishedDateTime: 2021-09-08T10:55:00Z
+    webUrl: "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/"
+    type: article
+    provider:
+      name: Mining
+      domain: mining.com
+    quality: 122
+    images:
+      - url: "https://www.mining.com/wp-content/uploads/2021/09/ai-in-mining.jpeg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "BHP links up with Bill Gates-backed AI start-up to prospect for metals"
     excerpt: "BHP has struck a deal to use artificial intelligence tools developed by a Bill Gates-backed start-up to find new deposits of metals needed for batteries and clean energy. The world’s biggest miner and Silicon Valley-based KoBold Metals will jointly fund exploration using data processing technology to help predict the location of mineral deposits,"
     publishedDateTime: 2021-09-08T05:00:00Z

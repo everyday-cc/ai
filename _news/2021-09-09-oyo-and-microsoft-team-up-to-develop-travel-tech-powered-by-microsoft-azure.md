@@ -43,6 +43,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Dynatrace Software Intelligence Platform Available on Microsoft Azure"
+    excerpt: "Dynatrace and Microsoft announced today they have expanded their strategic collaboration to help the world's leading organizations accelerate innovation and tame cloud complexity. As part of this, the Dynatrace® Software Intelligence Platform will"
+    publishedDateTime: 2021-09-09T12:17:00Z
+    webUrl: "https://www.lelezard.com/en/news-19989101.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 69
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Google and Microsoft are creating a monopoly on coding in plain language"
     excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
     publishedDateTime: 2021-09-08T19:16:00Z
@@ -114,6 +128,6 @@ related:
         height: 640
         isCached: true
 
-secured: "Q54stuQI9VwPsIutnFNVqIVVMB4WVBKIoIBsE2gQeFPezcIrnt5O+nAGNf9vd75sYnm6GAJOHmXPmDL1mxmuax3aEXTA5973yAyT2sEo5jyJS+HrB1KXO7YuK3ww6Q/8iDCrtDhWY4Fp7GBC01EKC1A9YoDjxVjtLZ64I4DeIF2X9hfF/k/YBu8xSfGlEiWuuaxTeXvAjyMbybC6pE4FIzHusZeyLGDtTN1q/4CL4Y/EveKSo336uPg0bv4szCiBB5tlfDNLx3ZJCwvQIBsWri6RipMy3vXt6kQqxbacgtd4vxpLGFzM6o31zNGqe1xfjHQvABI4ZrUUiHkPCpEbbhx5hwsVH1phEQh6VmEWHNo=;eLzf3XA04NAc6fxSjvRdZw=="
+secured: "Ug/+oiV6IUdYB3/NqOUXfrgUQ6yIs2WUzuVvXUK0rhAtknJHhnVw3ssuo2YVYvmitJSv+hP6N7uEfONhI3ZvUyj728x6ExEKiQSl7XCTq1/WggRAWI7F2OTjiRcIFF8brh7Gocii8FayXSb1sCUxasqLwfMzvVlntiZEkWuJ9brl6qhFQSg5h4LM/dGROqmSfEgwni83Cv/0KgkLPAq9dDGP+tzgtnt7nKfUj/i17/KAaEB27P9McL+Lo0+Clqps+O2SMiMXkToEXLZ/6LVL1Lm19KIZP6xPKm317Pyb3yiJXoZ9Xk5TH/85ABgBv4suZsPM3z2zZRCqJNifUBtD7+9nqvWp1po62mM6xvdJdL2gtcKuO+yhp05RteX4MSYkzPn5VEpAT5Rd6NAOLtzToZBZUY4y7xm0LGzRFZT3Dx477TbKQjNShR0S24rX8cZlKYkS2aNAhxKyvTgvXY5WviBjKfglomZ5BymPXVYx1zZ1aWieZe+SdSvAFChzkQBW1SrQ1PJbIAChxgdQn0jeeg==;Se8iBA057d4t5UaPggvIbA=="
 ---
 

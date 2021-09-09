@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Best Ways AI Is Revolutionizing Healthcare Industry in 21st Century"
+    excerpt: "This article features best ways of AI revolutionizing the healthcare industry in the 21st century. The blend of artificial intelligence and robotics in healthcare is useful for the betterment of global society."
+    publishedDateTime: 2021-09-09T13:37:00Z
+    webUrl: "https://www.analyticsinsight.net/best-ways-ai-is-revolutionizing-healthcare-industry-in-21st-century/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Best-Ways-AI-Is-Revolutionizing-Healthcare-Industry-in-21st-Century.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "The man making antibodies smarter"
     excerpt: "Using artificial intelligence, Biolojic Design founder Prof Yanay Ofran believes he can produce antibodies that are a match for any disease. Prof. Yanay Ofran's amazing story about the pursuit of an antibody that will save the world from disease Shlomit Lan and Gali Weinreb Professor Yanay Ofran,"
     publishedDateTime: 2021-09-05T18:27:00Z

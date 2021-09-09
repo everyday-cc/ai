@@ -73,6 +73,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "Microsoft’s Azure Space and Nokia to create base at Lot Fourteen to help space industry"
+    excerpt: "The growing space industry in South Australia will have the backing of two of the world’s biggest communications’ companies, Microsoft and Nokia."
+    publishedDateTime: 2021-09-08T10:59:00Z
+    webUrl: "https://www.dailytelegraph.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 26
 
 secured: "nf8BsxLO2kj6LapbXOC18BTwn98odKi8Fu8C13r2me+F7vnv9isXHTX2bwik9VAFr2bC9ZoI/hhlZHC7VO6Df5re9TfeCzynua87LMAGpxDJwMSUxxCzz8el5AISCt+4WD0uFDMxdOXE3gKrFDNFRyTEK+/e4fOtOEwQnBL6whWOd0VUe9qgGS2aDmMcYJb9rQLGgLf3CCH2Ui0HHPULQZ3l6Dcd8sreRz7YPfYr/C+Ndo2rrREsBKUQvT/Dm5GzhazPmP1TOyBuesc8c9GwzVtDVpMBPe/ZcRLnj5z08ZU0j60Xa9HxwAmiDzHJna4XBa8oJEGueZEHD4cZ4qsWOotAPA4zwe5GrG/nHyx7vgRY+ZdIHNTZv9ACLgfn2r2332AAYKU/JbSv4UJmR5IMY+FYgHZi8bRGwIRzIGBv1A4eqj01UysAH2H1nZyc8QKCMixhwqS0ePVP3rymkoibl0trOg871Xw1PcmacfXGQMs94foq8DfERIcHNiC5WHhBJ0PymeiWFR0MsmvuwUZ91w==;g3Dc04X7YjSmjVK6eehBdg=="
 ---

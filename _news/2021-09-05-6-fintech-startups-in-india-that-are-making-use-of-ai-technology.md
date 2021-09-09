@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2021-09/7c7bd66a-1853-4e5f-9878-bf9af8cf76c8/Meghna_Suryakumar__Founder_and_CEO_Crediwatch.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1199
         height: 630
+        isCached: true
+  - title: "5 Indian Companies that are Leading the AI Race"
+    excerpt: "During the pandemic, India reported the highest increase in the use of AI at 45% compared to other major economies. AI has potential to add US$90 bn to the Indian economy by 2025."
+    publishedDateTime: 2021-09-09T13:54:00Z
+    webUrl: "https://www.equitymaster.com/detail.asp?date=09/09/2021&story=4"
+    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=09/09/2021&story=4&title=5-Indian-Companies-that-are-Leading-the-AI-Race"
+    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=09/09/2021&story=4&title=5-Indian-Companies-that-are-Leading-the-AI-Race"
+    type: article
+    provider:
+      name: Equitymaster
+      domain: equitymaster.com
+    quality: 57
+    images:
+      - url: "https://www.eqimg.com/images/2021/06092021-image8-equitymaster.jpg"
+        width: 300
+        height: 245
         isCached: true
   - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
     excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."

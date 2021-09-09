@@ -38,6 +38,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "MEDIA ADVISORY: Virtual Event Invitation - Winning on the Racetrack and for the Planet with AI and Advanced Analytics"
+    excerpt: "Join Genpact and Envision Virgin Racing for a behind-the-scenes virtual experience on how digital innovation and analytics deliver insights to"
+    publishedDateTime: 2021-09-09T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/media-advisory-virtual-event-invitation-winning-on-the-racetrack-and-for-the-planet-with-ai-and-advanced-analytics-1030790172"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
   - title: "Battery analytics startup Accure banks $8 million"
     excerpt: "Aachen, Germany-based battery analytics company Accure has received $8 million in a Series A funding round. The software and AI-driven solution assists manufacturers and operators in monitoring the overall health"
     publishedDateTime: 2021-09-08T13:54:00Z
@@ -80,6 +89,15 @@ related:
         width: 512
         height: 301
         isCached: true
+  - title: "InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics"
+    excerpt: "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, announced today it has completed the acquisition of Lexalytics®, the leading provider of cloud and on-premise natural language processing (NLP),"
+    publishedDateTime: 2021-09-09T13:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inmoment-completes-acquisition-lexalytics-leader-pioneer-structured-unstructured-/2021/09/09/9446019.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "jVxVuiOqA010FhWbP3HplCiYK8zw3GZKE6smwJPoI01m1hWP8gap9oY2XtgfKEwzHZ8teatSZgs/Haz31WpN65FH5W/8dlk1dxcO8S7IJYz7Hh9uhMamML0h59G+odmv/eg+y4rGmVqKiGSQAz88qUm180qR37c4xiSnzuL1KKU5lT0t2334Qya2mUyIUE8gw05Z8W/vV+ev9h++6e8mL6tacIl7zYkc3MHTpa5ssigQqUOoIPnFIn/k01yGB28H67ALyCP2Anam+U+WP/D4fBR6BEWms+0c5SMghMH0CRE1TIdAIQPEtNiThWeEO1+Zc5vCB0MG/sNGsIKKVts2oaY77vH6kWEMLIOkj7IJuj0=;Pwbb+9oNvLiouM4fXQWkIw=="
 ---

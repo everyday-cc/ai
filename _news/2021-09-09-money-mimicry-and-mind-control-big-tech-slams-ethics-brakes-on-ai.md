@@ -4,23 +4,23 @@ title: "Money, mimicry and mind control: Big Tech slams ethics brakes on AI"
 excerpt: "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
 publishedDateTime: 2021-09-08T20:46:00Z
 originalUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
-webUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
+webUrl: "https://www.reuters.com/technology/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
 type: article
-quality: 84
-heat: 114
+quality: 184
+heat: 214
 published: true
 
 provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg"
@@ -78,6 +78,6 @@ related:
         height: 563
         isCached: true
 
-secured: "uvb9ho/DkSueBqrjEbo1bUaY13Hz2v2Qg4kv71YAIGuDHh4u2PoqRPAbaDCk/FgFnvxJQE4V+8GQUrbbjuAiUSslmuEdTgT/IlRsE8vrhK/8aUzGkWxnFM1myRM5dFM5Dud1PhkBoTAGPwGiDaF9uAm94v/Ib9/Zy7MMCoEpkEzkyRz/+LKyoBj+ZNsYTeVgPCO5eyDJuGTV3CftsvS1nq6AkrB1AUrZJjofx0I8E70zyG8VkK8PJFLxBhWU5goDWXWOh20LIFQzcfAgCgiy9ugOk5mB58IRRiKVLHFW+PhIFO5AGwEuPo3hXbom4XjRBXXQSLiNzFdy7cdbvl1WGctLsKkfXj7CqYhQaXSxQ/Q=;WZNGWQTtzXWOCnHhrdYhBw=="
+secured: "o9i9S89KUDZYJsSIVvCvYDjXB9YP65PQzyppbRlLrUApJUn2ZDa3BofhWPR1y3WNYNbqwAUij3xQ2WVW80enof/jhrJYEN+de7IzVtmNZQXbPehE7z8VOHhY4mqjFMUcXMI77PtAbJwiKFAxtf+usuioWQmVkRYUcx3aP0xNOwZIOodv8Fn5eeKSnBIBJ0xON8UiOIdRpZy2E7h28erDXyS1jNhIC5K700aIzK0yzyJ5pYwhEdIOYwXFzAFBimg2kLt768z5d5PdRG+fhZtVwlsTPwVqv4Xbs2XrulaDWS9YAOATDipqTPfk2uJGyHRjOH8tvpbedvRehGNFps+/954WfZQjMH9U3Ro3zboKz70=;JihsOajnb44HfbhAgfCSsg=="
 ---
 

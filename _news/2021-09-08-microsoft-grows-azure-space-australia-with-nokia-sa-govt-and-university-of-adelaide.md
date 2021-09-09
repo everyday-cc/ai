@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/microsoft-austral
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/"
 type: article
 quality: 112
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
       name: Adelaide Now
       domain: adelaidenow.com.au
     quality: 31
+  - title: "Microsoft’s Azure Space and Nokia to create base at Lot Fourteen to help space industry"
+    excerpt: "The growing space industry in South Australia will have the backing of two of the world’s biggest communications’ companies, Microsoft and Nokia."
+    publishedDateTime: 2021-09-08T10:59:00Z
+    webUrl: "https://www.dailytelegraph.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 26
 
 secured: "LLX42fYLPPvLHOkKSE5ETNtI9gYz+w99642yMUm6vPUTnOF3kht6lK1TS4J0krnwrIArM1z5x9Wo+/tjgw6BGR0oRjfuk9/Jd4F9ZvRmaiTFjcHKM0Tp2r2ciHo3bvLM+z/j8DateSZv3jey0fotF8ezUus3DDtLQky3oKsJWVqnWVEzp29lxqu1fiYmVLHufqyqzifR4yi/aDgMsGRHzTkkiOc6MlKyz/Iu+ON4xg6L3m014mNEXf/Al5TkNiB/6Q49UDRA9LZwvuzJZ04vk6VA0MsgzNThYRxB7DBjiD9aQ//oF5Wftg4m9hqWWWe3K6hP3Z/z/+zEdhQKSIJpvA+rgn5Ai3p+QFlABHdixbI=;EL1+OkqqoIK6Js9TYVqnYA=="
 ---

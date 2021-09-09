@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/google-and-microsoft-are-creating-a-
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258"
 type: article
 quality: 75
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2019/12/Oyo-Logo.jpg"
         width: 760
         height: 443
+        isCached: true
+  - title: "Dynatrace Software Intelligence Platform Available on Microsoft Azure"
+    excerpt: "Dynatrace and Microsoft announced today they have expanded their strategic collaboration to help the world's leading organizations accelerate innovation and tame cloud complexity. As part of this, the Dynatrace® Software Intelligence Platform will"
+    publishedDateTime: 2021-09-09T12:17:00Z
+    webUrl: "https://www.lelezard.com/en/news-19989101.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 69
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Google and Microsoft are creating a monopoly on coding in plain language"
     excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"

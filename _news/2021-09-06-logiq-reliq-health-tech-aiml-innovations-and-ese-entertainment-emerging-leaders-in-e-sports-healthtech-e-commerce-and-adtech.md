@@ -74,6 +74,22 @@ related:
         width: 1199
         height: 630
         isCached: true
+  - title: "5 Indian Companies that are Leading the AI Race"
+    excerpt: "During the pandemic, India reported the highest increase in the use of AI at 45% compared to other major economies. AI has potential to add US$90 bn to the Indian economy by 2025."
+    publishedDateTime: 2021-09-09T13:54:00Z
+    webUrl: "https://www.equitymaster.com/detail.asp?date=09/09/2021&story=4"
+    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=09/09/2021&story=4&title=5-Indian-Companies-that-are-Leading-the-AI-Race"
+    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=09/09/2021&story=4&title=5-Indian-Companies-that-are-Leading-the-AI-Race"
+    type: article
+    provider:
+      name: Equitymaster
+      domain: equitymaster.com
+    quality: 57
+    images:
+      - url: "https://www.eqimg.com/images/2021/06092021-image8-equitymaster.jpg"
+        width: 300
+        height: 245
+        isCached: true
   - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
     excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
     publishedDateTime: 2021-09-07T10:43:00Z

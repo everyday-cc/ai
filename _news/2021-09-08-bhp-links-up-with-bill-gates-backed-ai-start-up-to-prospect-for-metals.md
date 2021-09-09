@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/0059d630-5cb4-411f-a0a6-577faa4d6688"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0059d630-5cb4-411f-a0a6-577faa4d6688"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "BHP inks exploration deal with Gates and Bezos-backed KoBold"
+    excerpt: "The world’s largest miner will use artificial intelligence tools developed by KoBold Metals, a start-up backed by a coalition of billionaires."
+    publishedDateTime: 2021-09-08T10:55:00Z
+    webUrl: "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/"
+    type: article
+    provider:
+      name: Mining
+      domain: mining.com
+    quality: 122
+    images:
+      - url: "https://www.mining.com/wp-content/uploads/2021/09/ai-in-mining.jpeg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "BHP will use AI tools developed by a Bill Gates-backed start-up to find new critical metal deposits"
     excerpt: "The principal investors in KoBold Metals are Breakthrough Energy Ventures, a climate technology fund set up by Bill Gates"
     publishedDateTime: 2021-09-08T09:12:00Z

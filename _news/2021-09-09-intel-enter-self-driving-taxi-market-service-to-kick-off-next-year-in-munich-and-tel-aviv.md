@@ -105,6 +105,20 @@ related:
         width: 678
         height: 452
         isCached: true
+  - title: "Mobileye To Launch Pilot For Self-Driving Taxis In Munich, Tel Aviv In 2022"
+    excerpt: "Mobileye said it will launch the autonomous vehicle pilot in collaboration with international mobility service provider Sixt SE."
+    publishedDateTime: 2021-09-09T12:43:00Z
+    webUrl: "https://nocamels.com/2021/09/mobileye-launch-autonomous-robotaxis-munich-2022/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 22
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/09/robotaxi1.jpg"
+        width: 1200
+        height: 899
+        isCached: true
 
 secured: "Dql04OEvOf14NRER1T4We6VIZDRR6CkgnjFW/zj0PEBG6tgwXwXtB9JaIHWTJFK6LZYz1dgZd5X8rsdWZ4Mk2vEt4RkFAaIUm6u6Wio7/GWny0NbCaZ2LQlmc/o34txw3Vk8Aihk6LP8MwdY+FPmiNKf10ic90At2Sx3xM+DIsKFqmezhZONUUj4Qgpe/VpxWGwnEm06zwCmxmHgnfgeUg0qvFOsVWIi1E59OR39UgOeeDVuv/DShCwgk2D7uN3dTA4XlcvHDQDqFAC/JodrIFxT5+AoVhWETtba2cvRQo9w4RlqHVjN2miIZESQYZfsaVOVxAEjnEGuw0tzEq//cAWIqzwZe7FEHQWFeL1xBNk=;prPDT13NbhmayAPWSvDCEg=="
 ---

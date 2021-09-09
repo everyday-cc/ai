@@ -53,7 +53,7 @@
       "originalUrl": "https://theconversation.com/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -86,49 +86,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-cohere-raises-40-million-to-make-natural-language-processing-more-accessible.md",
-      "title": "Cohere raises $40 million to make natural language processing more accessible",
-      "excerpt": "Toronto-based AI startup Cohere, which provides natural language processing models, has secured $40 million in Series A financing.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/cohere-raises-40-million-to-make-natural-language-processing-more-accessible/",
-      "originalUrl": "https://betakit.com/cohere-raises-40-million-to-make-natural-language-processing-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2021/09/Artificial-intelligence.jpg",
-          "width": 1050,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -281,6 +238,40 @@
       ]
     },
     {
+      "path": "_news/2021-09-08-cohere-raises-40-million-in-series-a-financing-to-make-natural-language-processing-safe-and.md",
+      "title": "Cohere Raises $40 Million in Series A Financing to Make Natural Language Processing Safe and ...",
+      "excerpt": "Cohere, a provider of cutting-edge natural language processing (NLP) models, announced today that it has raised $40 million in series A financing led by Index Ventures with participation from Section 32,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globenewswire.com/news-release/2021/09/07/2292856/0/en/Cohere-Raises-40-Million-in-Series-A-Financing-to-Make-Natural-Language-Processing-Safe-and-Accessible-to-Any-Business.html",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-canada-toronto-7db11d1e127439bf34d702a79d657681",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-salesforces-codet5-system-can-understand-and-generate-code.md",
       "title": "Salesforce’s CodeT5 system can understand and generate code",
       "excerpt": "To demonstrate the model’s usefulness, the researchers built an AI-powered coding assistant for Apex, Salesforce’s proprietary programming language with Java-like syntax, that lets developers ...",
@@ -289,7 +280,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/07/salesforces-codet5-system-can-understand-and-generate-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
