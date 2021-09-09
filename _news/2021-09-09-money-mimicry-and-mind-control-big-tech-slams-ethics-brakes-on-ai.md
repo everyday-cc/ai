@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-con
 webUrl: "https://www.reuters.com/technology/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
 type: article
 quality: 184
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -76,6 +76,34 @@ related:
       - url: "https://static.euronews.com/articles/stories/06/04/31/32/1000x563_cmsv2_742d25eb-8baa-59c1-9e18-a351a5a2d3ec-6043132.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Why Big Tech has slammed ethics brakes on AI"
+    excerpt: "Google’s cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to. It turned down the client’s idea"
+    publishedDateTime: 2021-09-09T16:37:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2021/09/09/why-big-tech-has-slammed-ethics-brakes-on-ai"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 54
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/9/9/tracy-pizzo.ashx?h=450&w=750&hash=E3AEB5B9AAD78514A24DD6BE3A60BC09"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "Big Tech slams ethics brakes on AI"
+    excerpt: "Google’s cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
+    publishedDateTime: 2021-09-09T19:24:00Z
+    webUrl: "https://www.gulf-times.com/story/700133/Big-Tech-slams-ethics-brakes-on-AI"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 54
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/920219222433804757712.jpg"
+        width: 620
+        height: 355
         isCached: true
 
 secured: "3qRB0o83gk8MzAN85pIHteLtQfjkmg2V7JVLQK9x5oHuB8let2EQW/pGhBDHJsm/ja2Ec4uqJh8k+kwdJyRmlca7cIZS38pg494V/KJCK/0374AUUZV6ISqEfN0E+EK7oNoFW4CEn0UDBvgIfDmk4T3mSUJeujhYTWC8KOORq31hGFq7Jzy3DGKKY+VGAxZHz8pYgnw9JA7zyecXvFIE9V+f24M5EoE3vVajP7RIXpOIPPvkgv75SeDJF4UDdHp/PTw3VVlHUrqa3TefgENObYb+vj6f17FUxzaml68jiJTQcnNmyQ9xSAwIAbeh7nxVwwNzznNCfjT1IXjAAAxIe+JGSDdFlBVEI5RqXorhAXo=;K2jhpp+g7xYgtY4KewAu0w=="

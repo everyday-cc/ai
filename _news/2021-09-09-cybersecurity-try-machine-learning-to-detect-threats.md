@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Pillsbury Report Explores the Benefits and Risks of AI in Cybersecurity"
+    excerpt: "Pillsbury has published a new research report that seeks to illuminate the important role artificial intelligence stands to play in defending against cyberattacks and data leaks. Titled \"Artificial Intelligence & Cybersecurity: Balancing Innovation,"
+    publishedDateTime: 2021-09-09T20:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-pillsbury-report-explores-the-benefits-and-risks-of-ai-in-cybersecurity-1030791330"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/262200/pillsbury_logo__400x240_.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Artificial intelligence is the future of cybersecurity"
     excerpt: "Cybercriminals are using artificial intelligence (AI) to evolve the sophistication of attacks at a rapid pace. In response, an increasing number of organisations are also adopting the technology as part of their cybersecurity strategies."
     publishedDateTime: 2021-09-06T07:15:00Z

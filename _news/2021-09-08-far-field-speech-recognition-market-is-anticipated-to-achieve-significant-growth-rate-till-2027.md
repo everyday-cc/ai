@@ -41,6 +41,20 @@ related:
         width: 1100
         height: 734
         isCached: true
+  - title: "Automatic Speech Recognition Market Research Report by Size, Share, Trend, Revenue, Opportunities, Demand and Geographical Forecast 2027"
+    excerpt: "Sep 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Automatic Speech"
+    publishedDateTime: 2021-09-08T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-research-report-by-size-share-trend-revenue-opportunities-demand-and-geographical-forecast-2027-2021-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice and Speech Recognition Market Size, Share, Trends, Outlook, Future Growth and Forecast 2021-2026"
     excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market reached a value of US$ 9."
     publishedDateTime: 2021-09-09T04:49:00Z

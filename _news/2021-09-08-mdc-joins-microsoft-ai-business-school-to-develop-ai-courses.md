@@ -72,18 +72,32 @@ related:
         height: 480
         isCached: true
   - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
-    publishedDateTime: 2021-09-09T14:55:00Z
-    webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+    excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
+    publishedDateTime: 2021-09-08T19:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
     type: article
     provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 55
     images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
-        width: 754
-        height: 424
+      - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Microsoft Teams With SoftBank-Backed Oyo on AI-Driven Hotel Tech"
+    excerpt: "Hospitality startup Oyo Hotels entered a multiyear alliance with Microsoft Corp. to develop new travel technologies enabled by the U.S. firm’s Azure cloud infrastructure and artificial intelligence. The work will focus on improving the digital capabilities of small and medium hotels as well as home-stays and Microsoft has made an investment in Oyo,"
+    publishedDateTime: 2021-09-09T20:00:00Z
+    webUrl: "https://www.bloombergquint.com/business/microsoft-teams-with-softbank-backed-oyo-on-ai-driven-hotel-tech"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
     excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing.md",
+      "title": "UK dials up the spin on data reform, claiming ‘simplified’ rules will drive ‘responsible’ data-sharing",
+      "excerpt": "The UK government has announced a consultation on plans to shake up the national data protection regime, as it looks at how to diverge from European Union rules following Brexit. It’s also a year since the UK published a national data strategy in which said it wanted pandemic levels of",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/",
+      "originalUrl": "https://techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-930848198.jpg?w=1000",
+          "width": 1000,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/amp/",
+      "publishedDateTime": "2021-09-09T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-this-googlers-team-is-making-shopping-more-inclusive.md",
       "title": "This Googler’s team is making shopping more inclusive",
       "excerpt": "There’s a lot to love about online shopping: It’s fast, it’s easy and there are a ton of options to choose from. But there’s one obvious challenge — you can’t try anything on. This is something Google product manager Debbie Biswas noticed, as a tech industry veteran and startup founder herself. “Historically,",
@@ -1395,49 +1447,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-deepmind-stel-n-wetenskap-presedent.md",
-      "title": "DeepMind stel ’n wetenskap-presedent",
-      "excerpt": "Subscribe for full access to all our share and unit trust data tools, our award-winning articles, and support quality journalism in the process. A monthly subscription is charged pro rata, based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/deepmind-stel-n-wetenskap-presedent/",
-      "originalUrl": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/deepmind-stel-n-wetenskap-presedent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.moneyweb.co.za/wp-content/uploads/2017/07/shutterstock_525972979.jpg",
-          "width": 1000,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Moneyweb",
-        "domain": "moneyweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

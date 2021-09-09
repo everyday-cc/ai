@@ -2,14 +2,14 @@
 category: news
 title: "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold."
 excerpt: "An ETF run by artificial intelligence smiled on U.S. retail plays in September but soured on a few Covid-19 pandemic trades."
-publishedDateTime: 2021-09-09T04:02:00Z
-originalUrl: "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
-webUrl: "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
-ampWebUrl: "https://www.barrons.com/amp/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
+publishedDateTime: 2021-09-09T15:47:00Z
+originalUrl: "https://www.barrons.com/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900?refsec=funds"
+webUrl: "https://www.barrons.com/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900?refsec=funds"
+ampWebUrl: "https://www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900"
 type: article
-quality: 51
-heat: 61
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -17,9 +17,8 @@ provider:
   domain: barrons.com
 
 topics:
-  - Facebook AI
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://images.barrons.com/im-378016/social"
@@ -38,6 +37,6 @@ related:
       domain: fintechzoom.com
     quality: 9
 
-secured: "yqATaI7wFbY5FnOzprrg3L+iqVIgBePeSerBEKgVlGPxRR/5p803/iqFSl5pxpx3xEvueFabA1lpWtxwEvkYgXvKsUg5k9m9CrwRq4MUMpM905iw+IxM/39IBjJOrPW8npbpSyi0emHt18FKRtjVWtyr3xf7KpwhDrZ0iR/4BCdbjfcLcWu6nlGrZWRd9U7QvaVPKfvRZm+B8EXScIS3pbDZ0BbN8APHf78FCLBiD/8HrG19dPWB8d1cJ1/fLqFTIZpQUdMHJ2YYBEBhRMsQqROwGOopAvuDsGtE6mi/SYmQMu+ghFDNprmqcnJtvIu+rwSmsVKZezXtvnRTVhpWpqZ2ZsK7OMkbrClDU+xv6SgaIHFhMJFEfz0/SUuQDGKLJ+6vz40ukwSryXl7HkFDma46V/Q5h/OWbG84M0GNtE5Lf4dIN5Yhsh3Y58V6qb8/jh6tqAGAhnyflcjH1/BrwgvukPHxe0Qwq1EH9DKBswCKqWoyx4qJS11t44a3Pt5b6bsyrreXvBA+fERyFaifcA==;IzaLv8d7jds7su9G3xBR+w=="
+secured: "TIYk78CLwKt1jiwurxmQkebxEhi9Jq+/oJ65k5khL61jtBRr/vhnbLqGz1w3qKHUgMpsdFnQgG8QHq52s7MevjY+Gl9wnlClVtexwfLinsPGfne8fLYGLKe7muT10LxFFDshCRLRDqGdWXVjqKZn/8o7KPtIHIFdJZ2aLpXm7I1wOm91+7dNxwH5xaKEl5SDajxQDtHajClCikTFHpNPgm6fPENFvo8Uc7KM58p5QZIW5+IKz5ITvcQLXddEX5ZJ/PKj1Nmzb5ntOHMR+K85XIubK811H2xdhpyeu+Cc0gF44LrjQHOrdG2J6FfqPn8lw7S+6/Bde0zcO4ze8u/Ky3yz6HR5xKnpvWPy2eQ48Mc=;tIq3qIBYqB3p/uqSwnOTlw=="
 ---
 

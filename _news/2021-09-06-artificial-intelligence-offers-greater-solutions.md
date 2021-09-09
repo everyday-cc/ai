@@ -38,6 +38,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "After Some Success, Companies Seek Ways to Accelerate AI Adoption"
+    excerpt: "which is a Gold Cloud partner with Microsoft Azure. One suggestion is to identify the best use cases and begin with those. “AI and machine learning efforts are best directed at specific use cases, and it may require engaging a broader ecosystem to ..."
+    publishedDateTime: 2021-09-09T20:23:00Z
+    webUrl: "https://www.aitrends.com/ai-adoption/after-some-success-companies-seek-ways-to-accelerate-ai-adoption/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-10AIAdoptionRoadMap-2.jpeg"
+        width: 550
+        height: 367
+        isCached: true
   - title: "Yo-Kai Express uses IoT and AI to remove barriers to gourmet food"
     excerpt: "After 12 years as an engineer and salesperson in the semiconductor industry, Andy Lin founded Yo-Kai Express, a food technology startup. Lin has integrated Internet-of-Things (IoT) technology, modular supply chain management,"
     publishedDateTime: 2021-09-09T06:06:00Z

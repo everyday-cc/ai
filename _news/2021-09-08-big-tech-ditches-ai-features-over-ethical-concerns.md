@@ -73,6 +73,34 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Why Big Tech has slammed ethics brakes on AI"
+    excerpt: "Google’s cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to. It turned down the client’s idea"
+    publishedDateTime: 2021-09-09T16:37:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2021/09/09/why-big-tech-has-slammed-ethics-brakes-on-ai"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 54
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/9/9/tracy-pizzo.ashx?h=450&w=750&hash=E3AEB5B9AAD78514A24DD6BE3A60BC09"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "Big Tech slams ethics brakes on AI"
+    excerpt: "Google’s cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
+    publishedDateTime: 2021-09-09T19:24:00Z
+    webUrl: "https://www.gulf-times.com/story/700133/Big-Tech-slams-ethics-brakes-on-AI"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 54
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/920219222433804757712.jpg"
+        width: 620
+        height: 355
+        isCached: true
 
 secured: "Rsy1GH1Y6OanxALYFGcehUUIOnTIqKy/Tq3YoZwd2mgB+3DtwTp6ODkGlVRr62MS1Fv6FO8d7xyQRbRGQiYKFjPVbtxmmHOG7vKvp6eCQanGK7bsIz6DEbA92iXZbyatbKemU4oNXIBIWgmCQJGddcUzseOV/udaTRStrZxFCf0B3FfYtY6SZv8uXTexwreL8rEIe3Eowfuw08yaFQ7FO/F1rQM1i6ejdRzihepx83Wy2VctkIB/di43GYj2yrjV0xoP8VCSeh/u5UIkA60eVe4w6IIZu3YXTsK8WwH+nn5Rjy/oQHAr7WwS1AGS43C4bvz3uDRdoQkmHkq2VXlvmcX7yx05U2lv7XGM2b94RBg=;aJ1zIP7GXLitJRVs3zuPUw=="
 ---

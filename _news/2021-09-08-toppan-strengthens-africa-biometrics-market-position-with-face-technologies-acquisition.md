@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/toppan-strengthens-africa-b
 webUrl: "https://www.biometricupdate.com/202109/toppan-strengthens-africa-biometrics-market-position-with-face-technologies-acquisition"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fingerprint and face biometrics coming to more laptops"
-    excerpt: "Google and Antmicro to work on Chromebook Human Presence Sensor, USPTO publishes Apple integrated bio-sensor patent, FPC biometrics unveiled in new Dell laptops"
-    publishedDateTime: 2021-09-09T19:27:00Z
-    webUrl: "https://www.biometricupdate.com/202109/fingerprint-and-face-biometrics-coming-to-more-laptops"
+  - title: "Toppan Gravity Acquires the Government Identity Solutions Provider Face Technologies to Gain a Strong Foothold in Africa"
+    excerpt: "Toppan Gravity Acquires the Government Identity Solutions Provider Face Technologies to Gain a Strong Foothold in Africa"
+    publishedDateTime: 2021-09-07T10:08:00Z
+    webUrl: "https://whattheythink.com/news/107441-toppan-gravity-acquires-government-identity-solutions-provider-face-technologies-gain-strong-foothold-africa/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
+      name: WhatTheyThink
+      domain: whattheythink.com
+    quality: 14
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/25142807/Typing-Biometrics-Keystroke-Dynamics.jpg"
+      - url: "https://d3impqwjfkw0cn.cloudfront.net/img/opengraph-default-whattheythink.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
 
 secured: "kdn8FKHbVh/zGAn+0RQUi4vJD84KX0jwv32CMNgWybnPddLQfhdFaKoxVnY0rqu6lZaW78EtrXp0cnwRGjrk07zCpLWr2bTcA5oLeDVjBaLBOX6NkXl25Ywf1gKDcPC2UozfZ/7NWPZN5myf8n8VQh52n5vWgyfiH9JgBFL/S7X1kQlIX2GxT8/dK1Ou2qOsEnzttmViPvOI73b2PkzDT5QR4oSmBPJiaQ6wFGbPvuSrEjB8OWEfyeLNIfi1oMh4ryPKQV3vIzDfU7DV9XYHbWYqLA1Qs6Q+2/RrGPCIuDo/SiMtqiTv+BFMbTa5AxGzMfaMpujfLKxfIRlXXdXPu0mfBHY8jON8rpwTu6+30qU=;06stoZCMWj2qMdLG/LaUlA=="

@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-03-ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world.md",
+      "title": "AI Future: Why The University Of Florida Added 100 AI Faculty And The 22nd Fastest Supercomputer In The World",
+      "excerpt": "The University of Florida recently turned on the eight most powerful supercomputer in higher education and 22nd most powerful supercomputer in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613102a4a1f6214f6dcf0962%2F0x0.jpg",
+          "width": 730,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/amp/",
+      "publishedDateTime": "2021-09-02T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-githubs-ai-programming-assistant-can-introduce-security-flaws.md",
+      "title": "GitHub's AI programming assistant can introduce security flaws",
+      "excerpt": "AI that automatically generates source code to help human programmers complete projects has been found to include bugs or security flaws in up to 40 per cent of the code it outputs",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/",
+      "originalUrl": "https://www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/09/02165118/PRI_197232976.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/amp/",
+      "publishedDateTime": "2021-09-02T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-thinking-through-unintended-consequences-of-ai-implementations.md",
+      "title": "Thinking Through Unintended Consequences (of AI Implementations)",
+      "excerpt": "In the past few years, digital proliferation across organizations has become widespread, as we have seen with sales. Especially after the onset of COVID-19, many sales organizations accelerated their movement on this front.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6130f12bfadcce310ccf0962%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/amp/",
+      "publishedDateTime": "2021-09-02T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap.md",
       "title": "AWS Announces General Availability of Amazon FSx for NetApp ONTAP",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon FSx for NetApp ONTAP, a new storage service that allows customers to launch and run complete,",
@@ -383,19 +529,19 @@
     {
       "path": "_news/2021-09-02-ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-player-insights-in-espn-fantasy-app.md",
       "title": "IBM Creates Personalized Fantasy Football Experience with Updated Trade Assistant with Watson and Player Insights in ESPN Fantasy App",
-      "excerpt": "Trade Assistant with IBM Watson was initially introduced to reduce the complexities of fantasy football trades by using AI to suggest trades and to assess the fairness and value of a proposed trade. Now within the app, fantasy players can personalize their ...",
+      "excerpt": "customized experience powered by IBM Watson artificial intelligence (AI) technology in the ESPN Fantasy App designed to make the game more engaging for fantasy football players. New this year ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/02/ibm-creates-personalized-fantasy-football-experience-with-updated-trade",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/02/ibm-creates-personalized-fantasy-football-experience-with-updated-trade",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-player-insights-in-espn-fantasy-app-301368046.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-player-insights-in-espn-fantasy-app-301368046.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -405,11 +551,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T05:04:00-07:00",
+      "publishedDateTime": "2021-09-02T05:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1069,143 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-what-you-need-to-know-about-this-self-driving-truck-start-ups-ipo.md",
-      "title": "What You Need to Know About This Self-Driving Truck Start-up's IPO",
-      "excerpt": "Self-driving start-ups are racing to go public, hoping to ride the success of next-generation automotive IPOs like XPeng (NYSE: XPEV) and NIO (NYSE: NIO). But investors don't seem too excited. TuSimple Holdings ( NASDAQ:TSP) -- which went public in April -- has already dropped 15% below its IPO price.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
-      "originalUrl": "https://www.fool.com/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F641215%2Fgettyimages-trucks.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
-      "publishedDateTime": "2021-09-01T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-the-case-for-artificial-intelligence-in-recruiting-it-talent.md",
-      "title": "The Case for Artificial Intelligence in Recruiting IT Talent",
-      "excerpt": "More AI tools are becoming available to help recruit and hire new technology staff. They take some of the burden off management to find the right people and also reduce bias in the process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent",
-      "originalUrl": "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/93d9cbb/2147483647/strip/true/crop/6000x3129+0+436/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdb%2F9b%2F44fc45d24b5b9f92241cff803deb%2Fvirtual-ai-hiring.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/the-case-for-artificial-intelligence-in-recruiting-it-talent?_amp=true",
-      "publishedDateTime": "2021-09-01T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-carbon-robotics-closes-27-million-in-series-b-financing-round.md",
-      "title": "Carbon Robotics closes $27 Million in Series B financing round",
-      "excerpt": "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/",
-      "originalUrl": "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/Carbon-Robotics-robot2-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

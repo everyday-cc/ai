@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Google and Microsoft are creating a monopoly on coding in plain language"
-excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
-publishedDateTime: 2021-09-09T14:55:00Z
-originalUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
-webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
+publishedDateTime: 2021-09-08T19:16:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Canadian Manufacturing
-  domain: canadianmanufacturing.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
-    width: 754
-    height: 424
+  - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -86,6 +86,20 @@ related:
         width: 777
         height: 516
         isCached: true
+  - title: "Microsoft Teams With SoftBank-Backed Oyo on AI-Driven Hotel Tech"
+    excerpt: "Hospitality startup Oyo Hotels entered a multiyear alliance with Microsoft Corp. to develop new travel technologies enabled by the U.S. firm’s Azure cloud infrastructure and artificial intelligence. The work will focus on improving the digital capabilities of small and medium hotels as well as home-stays and Microsoft has made an investment in Oyo,"
+    publishedDateTime: 2021-09-09T20:00:00Z
+    webUrl: "https://www.bloombergquint.com/business/microsoft-teams-with-softbank-backed-oyo-on-ai-driven-hotel-tech"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
     excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
     publishedDateTime: 2021-09-06T10:14:00Z
@@ -129,6 +143,6 @@ related:
         height: 640
         isCached: true
 
-secured: "yVKF9Wb+gRPUsg0h521/S2jZNu39xi2kGuXrChp7Y8mak0qp/bNURtlL7UNy/nh0sVYAMXVzJa1cwdPPKQFDQNy1BJieb3tIRlq7WN1YV6sS6KwXH2KnKlOatMIlYjY7YkP0H/srMFJ97GDKEipITBzzVOJ7Mmp4vQqitFT7pQ3w3pB+08cIi5qPqWLDP/pMAL8J7ZtheSpb9yJ8X9C5WS41lBGsBPOQ3/+ILOBhedgHB4yTew6Lhl+2TwiWnj+NxBDMhWfeePEQ8St0JW4feB5Hl3avnj+9DMlQAy6RWVtayCaMVAFDT9g3AS/Jy1Iff3HwGAiQzJc/jxdmOm2AB5XVlqm+3hvPGfc6O4AZ6VU=;ArrPrHkTI6P8ryWnu2MVKA=="
+secured: "QfTXvlikKYM9wULdjHHkGYdv/1LpYe9l2p2z08o0Q973TtOOFnjn63rfLJvk4eR3WGRCqaeIOmTeiqKvCjY5A5xFvE8oQNPIMSZOcT3JEmul9r3xF0lbBxDIib0i4O12pUKd3iCTh4iko9PzxuWCnaRXrejRubAjzOH/ECGdWn6HW1+eqCzWQVG3yBUUFD1J6MUNKLQcsszy27GjPQl0tSWiShMi68+L3+PBofpa6JLzrUStowZZBBH6Q7Df/BfQKHk8nnbGJ5XbTH6JqeV/tJv+A9QAZId3n6XuhIx2FVK8g3Pm9LqW+je8o/zWqlLNjZ1aj5gDuqHPV+zGaEQcoxMrq/1C3QDcNnudTcxJL1k=;M+orhVLLEn1xfmuKoFRd9Q=="
 ---
 

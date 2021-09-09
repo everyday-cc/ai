@@ -54,6 +54,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "New Pillsbury Report Explores the Benefits and Risks of AI in Cybersecurity"
+    excerpt: "Pillsbury has published a new research report that seeks to illuminate the important role artificial intelligence stands to play in defending against cyberattacks and data leaks. Titled \"Artificial Intelligence & Cybersecurity: Balancing Innovation,"
+    publishedDateTime: 2021-09-09T20:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-pillsbury-report-explores-the-benefits-and-risks-of-ai-in-cybersecurity-1030791330"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/262200/pillsbury_logo__400x240_.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Artificial Intelligence-based Cybersecurity Industry Market to Witness Huge Growth by 2028 | FireEye, Inc., Palo Alto Networks"
     excerpt: "A new business intelligence report released by JCMR with Global Artificial Intelligence-based Cybersecurity Industry Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
     publishedDateTime: 2021-09-09T15:31:00Z

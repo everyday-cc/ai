@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-25-these-robots-can-move-your-couch.md",
+      "title": "These robots can move your couch",
+      "excerpt": "To train robots how to work independently but cooperatively, researchers at the University of Cincinnati gave them a relatable task: Move a couch.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/these-robots-can-move.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-robots-couch.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-couch.amp",
+      "publishedDateTime": "2021-08-24T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-killer-robots-get-real-itll-be-easier-for-ai-to-just-erase-our-minds-and-steal-our-bodies.md",
       "title": "Killer robots? Get real. It’ll be easier for AI to just erase our minds and steal our bodies",
       "excerpt": "But robots are just computers that move. The human brain contains a region called the basal ganglia. It’s typically associated with motor control ... deem the “mind-body connection.”",
@@ -1386,58 +1429,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-knee-replacement-robot-does-custom-implants.md",
-      "title": "Knee replacement robot does custom implants",
-      "excerpt": "Personalized medicine is transforming treatment, but joint replacement is still a largely off-the-shelf affair. A startup combining artificial intelligence, robotics, and 3D printing wants to change that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/knee-replacement-robot-does-custom-implants/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/knee-replacement-robot-does-custom-implants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/17/3affa5e0-7748-4ba8-8069-cda35717b3e0/knee-replacement-monogram.jpg",
-          "width": 1559,
-          "height": 991,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/knee-replacement-robot-does-custom-implants/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/knee-replacement-robot-does-custom-implants/",
-      "publishedDateTime": "2021-08-16T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

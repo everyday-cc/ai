@@ -61,7 +61,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -107,19 +107,19 @@
     {
       "path": "_news/2021-09-02-ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-player-insights-in-espn-fantasy-app.md",
       "title": "IBM Creates Personalized Fantasy Football Experience with Updated Trade Assistant with Watson and Player Insights in ESPN Fantasy App",
-      "excerpt": "Trade Assistant with IBM Watson was initially introduced to reduce the complexities of fantasy football trades by using AI to suggest trades and to assess the fairness and value of a proposed trade. Now within the app, fantasy players can personalize their ...",
+      "excerpt": "customized experience powered by IBM Watson artificial intelligence (AI) technology in the ESPN Fantasy App designed to make the game more engaging for fantasy football players. New this year ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/02/ibm-creates-personalized-fantasy-football-experience-with-updated-trade",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/02/ibm-creates-personalized-fantasy-football-experience-with-updated-trade",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-player-insights-in-espn-fantasy-app-301368046.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-player-insights-in-espn-fantasy-app-301368046.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,11 +129,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T05:04:00-07:00",
+      "publishedDateTime": "2021-09-02T05:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

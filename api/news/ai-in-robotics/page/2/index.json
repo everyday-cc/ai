@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-01-bit-mesra-engineering-student-nominated-as-co-founder-in-robotics-startup.md",
+      "title": "BIT Mesra Engineering Student Nominated As Co-Founder In Robotics Startup",
+      "excerpt": "Mesra, Ranchi, Engineering Student Miss Manvi Ridhi has been nominated as Co-Founder in an Indian Robotics Start up ‘Innogress Robotics’. Manvi Ridhi is a Final Year Electrical and Electronics",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/bit-mesra-engineering-student-nominated-as-co-founder-in-robotics-startup/",
+      "originalUrl": "https://indiaeducationdiary.in/bit-mesra-engineering-student-nominated-as-co-founder-in-robotics-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/09/Manvi-Ridhi-BIT-Mesra.jpg",
+          "width": 645,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/bit-mesra-engineering-student-nominated-as-co-founder-in-robotics-startup/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bit-mesra-engineering-student-nominated-as-co-founder-in-robotics-startup/",
+      "publishedDateTime": "2021-09-01T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-carbon-robotics-raises-27m-for-its-ai-powered-weed-destroying-machine-used-by-farmers.md",
       "title": "Carbon Robotics raises $27M for its AI-powered weed destroying machine used by farmers",
       "excerpt": "Investors are putting more cash behind the self-driving weed-zapping machines made by Carbon Robotics that are attracting attention from farmers across the world. The Seattle-based startup just",
@@ -1379,49 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-these-robots-can-move-your-couch.md",
-      "title": "These robots can move your couch",
-      "excerpt": "To train robots how to work independently but cooperatively, researchers at the University of Cincinnati gave them a relatable task: Move a couch.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/these-robots-can-move.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-robots-couch.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-couch.amp",
-      "publishedDateTime": "2021-08-24T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

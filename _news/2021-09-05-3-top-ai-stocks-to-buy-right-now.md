@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
+    quality: 69
+  - title: "4 Top Artificial Intelligence Stocks To Watch In September 2021"
+    excerpt: "Are these Top Artificial Intelligence Stocks On Your Watchlist This Month? For investors looking to invest in booming fields in the tech trade, artificial intelligence (AI) stocks are a viable play. Namely,"
+    publishedDateTime: 2021-09-09T20:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 69
 
 secured: "M3VMdTVZc1SX5uVlxC5TQdTPZWvxakPqfkE04fXIoMakv68U+GaG43UN4F1RUASkpCUXmP40uHdKIglnUeFyVx1qS/7nRpoAw/BbKFyoBolaszKY3rjNimFYR9vbo0+mPczKwClLScmjjY59CnBd4jN0y5AP9OxAiPeumTr2g8HLeaZc6KQ/evIFE76sNRxL6Yh4G61i88f/42Bh2KpbxkMmrCwYJ07Nj7lqx34gYroPF+9BJDCXgL3ZOf6KfvS6BKDCoVmDNEm3qMZ0zlD7VG0AL0MU/b6f8OyFStRhTMShSGFQKly7SYj/ejnGDiY2tElIAGEvFiMmY8o35UZu2MKGFVbW2mSnfwQX+bNw5Qc=;ynJiRPLCqvMVDTfgFoRM2Q=="

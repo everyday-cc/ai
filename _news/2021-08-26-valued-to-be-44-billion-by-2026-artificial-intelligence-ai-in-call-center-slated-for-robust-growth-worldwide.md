@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide"
-excerpt: "May 2021 Executive Pool: 133887 Companies: 367 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica; Creative Vir"
-publishedDateTime: 2021-08-26T14:40:00Z
-originalUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
-webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/08/26/9437856.htm"
+excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\"."
+publishedDateTime: 2021-08-26T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-valued-be-44-billion-2026-artificial-intelligence-ai-/2021/08/26/9437856.htm"
 type: article
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -21,6 +21,6 @@ images:
     height: 252
     isCached: true
 
-secured: "7skSg8oOCHvtEIrdwdngG8lfw2/NAQdISnHfG3ua8kj3LWHPrqjwQYp1FENm0bLbpYo70X6fPoql/ZaxdBzgmcfv40NbBi3WI8wJG41wzVxHdvaiDxPQckEI3rWK595YR3y23tKqjCOZh1MvWX4kWvWVx9LVRZo6SCf96Zfb5iDXTepalPNKkWjzUiz9Ksh20Ltbf+n/JUEPAyAj6BcVgokcvNnSb6zMwdQTCewskgJVGT20HfmKI8Mg9OrKG2nEvyxxWXCNegNaAIanfS/4U3nK0SRL7oFgKtDbcYigvWy0Sg1qXQCbGBcjeIASkBSsiGIiVp4TJckX7XNS3mUKceiqCqh+bzgLCfms3u+uK88=;8ESKN7qFwoejBKhAJkuyJQ=="
+secured: "CAsJDjHlLotir18sF2sETeFcLdos1/ZsKSqRUfUe2nf5QkuXoJ43TX7V47Dq9EpnxqzO+Ksszjds7cyHGrn0ChhxmHynm63l0W4CCeEf4y6Wi5mFKLbX4SFK1APhs7elgHnE/1X0TmlOZUkE+GPWiAe021rqJ3oK3yoC3k8aGb3rSNrlpRFeZB8VvoNNujSAPKs8KLldt8ZZ+KJ2ZyylJyIn2j82Dzxi4VyYM7MNLxIyRvkY8xptH7bu44NDYTGwsgDpp2yWRxPUsh+DOOHqhnbQvJnhJ7IquCDM0GGlYJ8GeT6tg3POtQ644/N1VLpmCKQByLRZe1YIIE8FoKushIxOHMNf+vYXP4J3i7yRFBM=;05zeZqNRtS6cuA9Bza4Brg=="
 ---
 

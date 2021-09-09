@@ -2,6 +2,152 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-27-toyota-halts-all-self-driving-e-palette-vehicles-after-olympic-village-accident.md",
+      "title": "Toyota Halts All Self-Driving E-Palette Vehicles After Olympic Village Accident",
+      "excerpt": "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident-2021-08-27/",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2021-08-27/toyota-halts-all-self-driving-e-pallete-vehicles-after-olympic-village-accident",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 548,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MTYMDEF6VFN53GRUIWFU3RHLR4.jpg",
+          "width": 4384,
+          "height": 2958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-he-built-a-robot-to-prove-a-point-about-refugees.md",
+      "title": "He Built a Robot to Prove a Point About Refugees",
+      "excerpt": "As Afghans flee the Taliban, the experiences of a fellow countryman, Saidullah Karimi, warn of tough times ahead, but also carry a message of hope.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/27/world/27karimi-profile01/27karimi-profile01-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.amp.html",
+      "publishedDateTime": "2021-08-27T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai.md",
+      "title": "Cerebras Upgrades Trillion-Transistor Chip to Train ‘Brain-Scale’ AI",
+      "excerpt": "Cerebras has outlined a series of innovations that mean its latest chip can train a neural network with up to 120 trillion parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/",
+      "originalUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/08/cerebras-chip-AI.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/",
+      "publishedDateTime": "2021-08-27T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-improve-your-marketing-content-with-ai-generated-copy-from-writesonic.md",
       "title": "Improve your marketing content with AI-generated copy from Writesonic",
       "excerpt": "Let your computer do the work of a copywriter with this AI-generated copywriter. Save time and money to get the marketing copy your business needs.",
@@ -1014,144 +1160,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says.md",
-      "title": "US federal agencies plan to increase facial recognition use, GAO report says",
-      "excerpt": "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gao.gov/products/gao-21-526",
-      "originalUrl": "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA",
-          "width": 1400,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at-birmingham.md",
-      "title": "Caris Precision Oncology Alliance Welcomes The ONeal Comprehensive Cancer Center at University of Alabama at Birmingham",
-      "excerpt": "The O’Neal Comprehensive Cancer Center at UAB is Alabama’s only cancer center designated by the National Cancer Institute and is at the forefront of improving cancer prevention, diagnosis and treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/caris-precision-oncology-alliance-welcomes-oneal-comprehensive-cancer-center-university-alabama",
-      "originalUrl": "https://www.pressreleasepoint.com/caris-precision-oncology-alliance-welcomes-oneal-comprehensive-cancer-center-university-alabama",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service.md",
-      "title": "Zendesk acquires AI automation startup Cleverly to advance customer service",
-      "excerpt": "Zendesk is looking to grow its customer service capabilities, and today it announced the acquisition of early-stage artificial intelligence startup Cleverly. Financial terms of the deal are not being publicly disclosed at this time and Cleverly has not been entirely public about the size of its",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173385998.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/",
-      "publishedDateTime": "2021-08-26T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

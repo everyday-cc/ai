@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-57914432.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57914432.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "More AI Developers Focused on Engineering the Bias Out of AI"
+    excerpt: "More AI frameworks and toolkits are available to help developers engineer the bias out of datasets on which AI systems rely."
+    publishedDateTime: 2021-09-09T21:42:00Z
+    webUrl: "https://www.aitrends.com/software-development-2/more-ai-developers-focused-on-engineering-the-bias-out-of-ai/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 37
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-10DataDiversity-2.jpeg"
+        width: 550
+        height: 366
+        isCached: true
 
 secured: "MdwBkZRrn01A3yhO2WMmn0bjUGAgBQzcrWJv8yy3MgUb3+BPTo5SwlesJxp6hNHEZ7pSyjqeqeVHeUu5b4LCURQopVWJBfeIHM6jmtHVfcKVwq++Lhh+BaTQAlhMFlcXdMmsWXA9qxmcCKOZsTT5yTRrcvVxTicJ1GqVc5+7OV3Oiu75igCXXaOjOJdDVUhRUVNRntWi/d281janEEvO62sEIXx6sIr8etHrhqOp3b2GRojByEux0tGmJtjkfLyAGTRb2hhOsqLsZSpX57Dxv5qdK8a1Ct/qrNS4gH0xWPTPKcx0fDQPWoW/G+d7nspzfjeIyNWZ+EQHFPzykSQefgYekoZ+Rh4jDgsmtCygAw5DuN4xuO2ZYvfNTVpGYH4ag2HBUdSdgO8+xXThURG8ow6acnNvvZDXpYt9eb52ArsP2h+G1fFha3cGpCKmNbJIAX4+mx2RDX0gwRJGuyldvV1lrdD2fw8ZswR7rKUNs+3BM9aqG1dxgMNOmZJgJiT3sG3LhIuIifdbZJdvOWvcjg==;EpLAVMi1gKN9S4zShdfiZA=="
 ---

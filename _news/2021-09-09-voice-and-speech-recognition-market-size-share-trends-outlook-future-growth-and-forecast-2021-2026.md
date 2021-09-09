@@ -51,6 +51,20 @@ related:
         width: 1100
         height: 734
         isCached: true
+  - title: "Automatic Speech Recognition Market Research Report by Size, Share, Trend, Revenue, Opportunities, Demand and Geographical Forecast 2027"
+    excerpt: "Sep 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Automatic Speech"
+    publishedDateTime: 2021-09-08T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-research-report-by-size-share-trend-revenue-opportunities-demand-and-geographical-forecast-2027-2021-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "M/Bgl4SuSTpN5CjkHMksMvlVo0+WwYlZVvX8xgaHRV/1EdooFsVZgSvJSiP1gJlp1Upis/GICP8Oz70YBQf5ENO10CjQ8yXIytnkFPnVX05hrym/u4iOxh/DBI1I1CA6e2nQjEDkEXeZJhSXNGY3HHRsq15chiaIADSVnqaqU3xdFhjwDxJyc7q2lOwk49HH9bnLLOgzHLfwNac6qgzjymKZPbv8Au6koGWgjfrabOU9HkmL4yhjDv7VVAvWSZsr6ORurnEYUzai1d1ZsRjd2Mg1/EXW6UonuzRxckSyOyzLYqI3YJuDg0UhL7HIEjKsjlqLDQ9u808oARjjfNGsZTMvFantpfyh7btbRH0W/ii/Q4Yb0JYTZRckMZkFPk7yO1chbBb6gFnl/LurXkp1DZs62i4r6/ms/G7D5M7m9yX0GK02J9FDzJI6isj0fvAri5AMDRjoU3v8IReGlYy8tN9HNmXJThKL7EtQT5HGdGoYXlOy0M4xK60aGGKgmwP2CYUjte5wb47pLuFI/1XNKg==;9aYfjZWiDRkhgcV5p5OIUg=="
 ---

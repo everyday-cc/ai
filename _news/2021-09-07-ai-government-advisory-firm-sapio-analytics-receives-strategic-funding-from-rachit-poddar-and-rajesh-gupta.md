@@ -118,6 +118,20 @@ related:
         height: 256
         isCached: true
   - title: "InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics"
+    excerpt: "Lexalytics’ engine enables companies to listen to and drive improvements based on all types of structured and unstructured data, connects seamlessly to hundreds of data sources and partners, and solidifies InMoment’s position as the leader of experience improvement South Jordan,"
+    publishedDateTime: 2021-09-09T19:09:00Z
+    webUrl: "https://customerthink.com/inmoment-completes-acquisition-of-lexalytics-the-leader-and-pioneer-of-structured-and-unstructured-data-analytics/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 2
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
+        width: 1280
+        height: 1280
+        isCached: true
+  - title: "InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics"
     excerpt: "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, announced today it has completed the acquisition of Lexalytics®, the leading provider of cloud and on-premise natural language processing (NLP),"
     publishedDateTime: 2021-09-09T13:26:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-inmoment-completes-acquisition-lexalytics-leader-pioneer-structured-unstructured-/2021/09/09/9446019.htm"

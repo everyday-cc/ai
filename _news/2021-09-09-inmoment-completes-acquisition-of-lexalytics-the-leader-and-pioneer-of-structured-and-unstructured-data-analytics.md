@@ -126,6 +126,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics"
+    excerpt: "Lexalytics’ engine enables companies to listen to and drive improvements based on all types of structured and unstructured data, connects seamlessly to hundreds of data sources and partners, and solidifies InMoment’s position as the leader of experience improvement South Jordan,"
+    publishedDateTime: 2021-09-09T19:09:00Z
+    webUrl: "https://customerthink.com/inmoment-completes-acquisition-of-lexalytics-the-leader-and-pioneer-of-structured-and-unstructured-data-analytics/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 2
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
+        width: 1280
+        height: 1280
+        isCached: true
 
 secured: "vlds4lqfmS17G62aZNEfH2HdfYHh4BpIFiVeYJSTLVFZaX0s/GjBYc8DvL8rodudMnM1HxdCXgdNq1GAAkQ5S1fPtqLcBsPheJ1/+8UEPfDWQcZ7QZ0Djv21aQ6+SCmRDWUKpu7w+5t7+4WxvLuDpwUnI8/LkeZupzjkandBk0a2qfup72TvXByDvNZoZt+XXksIT+KId/UMVJXW+0+ZOTmNL9P14T9Lk34TOCYotPEstuNdqRuHwh8nVH2gZbO/qmmknNIwiOYB3857tXUx/5F2JYrLZbrtwyz1INSJ1v0lUfCZnJmm6cvnbm313Mxomw61Bhf+R5iDS9MZLDAhoR7LtCJIcN/5V8Mn2wOGcSI=;QMKqLUwO4dTiwq0RmQypMA=="
 ---

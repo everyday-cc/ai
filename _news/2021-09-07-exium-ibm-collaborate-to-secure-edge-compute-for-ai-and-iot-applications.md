@@ -38,6 +38,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "After Some Success, Companies Seek Ways to Accelerate AI Adoption"
+    excerpt: "which is a Gold Cloud partner with Microsoft Azure. One suggestion is to identify the best use cases and begin with those. “AI and machine learning efforts are best directed at specific use cases, and it may require engaging a broader ecosystem to ..."
+    publishedDateTime: 2021-09-09T20:23:00Z
+    webUrl: "https://www.aitrends.com/ai-adoption/after-some-success-companies-seek-ways-to-accelerate-ai-adoption/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-10AIAdoptionRoadMap-2.jpeg"
+        width: 550
+        height: 367
+        isCached: true
   - title: "Artificial Intelligence offers greater solutions"
     excerpt: "The ability of artificial intelligence (AI) to process a huge amount of data makes it an important enabler in ultimately helping humans drive better outcomes. “We see customers struggling with this,” said US-based software firm ServiceNow’s IT Transformation Solution Lead for Asia,"
     publishedDateTime: 2021-09-06T00:40:00Z
