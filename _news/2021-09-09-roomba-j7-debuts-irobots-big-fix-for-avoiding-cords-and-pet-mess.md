@@ -47,6 +47,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "iRobot's Most Thoughtful Robot Vacuum, the Roomba j7+ Identifies Obstacles and Avoids Hazards"
+    excerpt: "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3."
+    publishedDateTime: 2021-09-08T23:01:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210909aq92298/irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 28
+    images:
+      - url: "https://www.multivu.com/players/English/8917451-irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence/image/PetWaste_1630535359137-HR.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "iRobot Introduces Roomba® j7+ Robot Vacuum with Genius(TM) 3.0 Home Intelligence - Clean the Way You Want, So You Can Human"
     excerpt: "Robots should clean your home exactly how you want them to, understanding your specific instructions and unique preferences. iRobot Corp. (NASDAQ: IRBT), a leader in consumer robots, today is giving customers even more control over their clean with the Roomba ® j7+ robot vacuum and new features powered by iRobot Genius™ 3."
     publishedDateTime: 2021-09-09T04:06:00Z
@@ -62,6 +76,6 @@ related:
         height: 1536
         isCached: true
 
-secured: "P0460g+EpejNFlY6SEt8k3+d16DrfUQAcM/y4tPKvwe8IF323kzfQ4kzkSdr2G7lCRsqu5LdzFNUDskyvupER4IN3GU8/ft96yxGw2xOo3jU7wrGpGb5EceYSTuuGtvC022ybeBVHz6rDvo+WmE7V1BIE8eLxIDXEpCNkjqxYJwAeIWhHEgWtVMqNE7+dkBFiimC4/YORX4kEsnCG9h4ncaTC9HOPQTjy/yt5hFH6NaenWnOPPszbHh2+qPSPwaslfKj2pvkWSidZ23wdfU5U8fm5phT/s51pdCwWEhru26YZ6WjUcIquvFZwn4ceeD4635Yw7W3cBs6XuLCY2kJ5scWiuUSEgoSreWOi/5yHNo=;3Wxl2hVYexjGNZnf+8HkDQ=="
+secured: "qGCKiwtE8j164CjyfeEUPHr4zrnTZY9Ph2cK80i4pDRqWZnZxZrYOhEC43jgl/wpWkDX4ju8gdMuJaM+C63OtJAuRfg5y8yx5S1749pCdS9aYRJ1nqhzr4IgL5oJfhztzQVW37H0VlVNmh0hRxwK2zTlym7dColnx0UiPNDIg5IN6yzd9BrQ/g0AKHQ8loCNhSde3g1b/XKjqXbP3UeBEzocfNvc5+qVUJkiIzd7qFB9N7oGHTwiDQOyLr+dNJhif0zH6KcDQet5lUPRGG4NFmXByOdS585RngxGUkIepoA0Z1audXWxbEVR3wwqFiF1FtifYHxqQTRePymEuzmbSWnX0elCxTkRSzVAhgr8AqmKGBwDxYvwEs+U2eAktdP+rT8RoUzSBNBhvPuXgR0uqjbIWsPPI7SyCVs8+VGxEw7x1p7NIje2UMNODDIA/sez9nFBa8ktfFlkcomlnVw+e91K5ZZ0ik7ITD0PWguMy00PQ7tansFWj7yvhf4GzuVaiBiPjpCkUihc4c/Bk2dm+w==;+XuHbIPdBsJIvgQa/4zt9g=="
 ---
 

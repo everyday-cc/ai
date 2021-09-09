@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
-excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
-publishedDateTime: 2021-09-07T10:43:00Z
-originalUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07"
-webUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07"
-ampWebUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+title: "Redefining fintech: How Israel became a global leader in financial technology"
+excerpt: "In 2020, the country’s position in the Global Fintech Rankings was 12th, making its climb to 3rd place the most profound move among the list’s top 16 nations in 2021. Tel Aviv also rose from 18th to 5th within the fintech hub rankings."
+publishedDateTime: 2021-09-09T07:04:00Z
+originalUrl: "https://blogs.timesofisrael.com/redefining-fintech-how-israel-became-a-global-leader-in-financial-technology/"
+webUrl: "https://blogs.timesofisrael.com/redefining-fintech-how-israel-became-a-global-leader-in-financial-technology/"
 type: article
-quality: 54
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Times of Israel
+  domain: timesofisrael.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://static.timesofisrael.com/blogs/uploads/2021/09/Fintech-Israel.jpg"
+    width: 1800
+    height: 1200
+    isCached: true
 
 related:
   - title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
@@ -69,6 +73,17 @@ related:
         width: 1199
         height: 630
         isCached: true
+  - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
+    excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
+    publishedDateTime: 2021-09-07T10:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "4 Fintech Stocks To Watch As Paypal Acquires BNPL Startup"
     excerpt: "Hot Fintech Stocks To Watch Right Now Amid PayPal’s Acquisition. Fintech is taking the world by storm and this would naturally highlight fintech stocks in the stock market. The"
     publishedDateTime: 2021-09-08T17:54:00Z
@@ -165,20 +180,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 22
-  - title: "Redefining fintech: How Israel became a global leader in financial technology"
-    excerpt: "In 2020, the country’s position in the Global Fintech Rankings was 12th, making its climb to 3rd place the most profound move among the list’s top 16 nations in 2021. Tel Aviv also rose from 18th to 5th within the fintech hub rankings."
-    publishedDateTime: 2021-09-09T07:04:00Z
-    webUrl: "https://blogs.timesofisrael.com/redefining-fintech-how-israel-became-a-global-leader-in-financial-technology/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 21
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/2021/09/Fintech-Israel.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "The new AIFinTech100 is launched to highlight the industry-leading Artificial Intelligence companies driving the future of financial services"
     excerpt: "FinTech Global, the specialist research and intelligence firm, today launches the new AIFinTech100 to list the most innovative companies offering Artificial Intelligence (AL) and Machine Learning (ML) technology solutions to the financial services industry."
     publishedDateTime: 2021-09-06T23:00:00Z
@@ -239,6 +240,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "6ZgY3v6e8EUBw/TCYLZCCJG55hKmrP3B0wQRxchVXr5hXCWoeB5m+9Ak4+IZ2hSMPFHUhqga8LtKEgx9ageG5CaGOWK2MDAzUz4Dj8G54Yb52pOAfD19NfJeGfIII/ZoAG59044IFRf9dw0ZUUpyoWY31rHJfcbYJUY3vrCpvj9tfpNIhXjfVAi9zIcuG3vgPY8JnKZ14fmFt+RxHbr0K/J9uCkXVF7fkJLL73vkry+SnjOZZ9D8KVYj1egl8fgAHe5DvjUFxyYcmBE9S5uhCP1slx7MBRjnYXd/g9jTcACYCEX72ysjee3D5U2jDnigSy+LltX0Wok04F2uTVMPB+6+bmshyr1SW966BuwHD6I=;sV+Q5Unkf1HsjSuFS7djWg=="
+secured: "Cutj6r7jiGAdQ8KnBig8q5b+6//eraqluujYn8VoKUe93W84eGAK8Hdipq5Jrzls4QBG4l3kNRJFYxq3DMgtJ8Xaf8mq/AOEkxuiuwSRR2VO9AWhvZO0/1dyZkowD4MNOUE9lROc3JC+CksKhr7pcqibSy0BXU6vTKmS1I8B8+LGQQ8nGkZSYz5IjvJNe1hjoyDHdBHV/ZrEM7N9NZD24ylzcyco/D7hZyv1jamqneTIJcvo0OCJ1H9KaNsRH5Ghu06W6LKuCBEQZtdSz3LUwbg71Py0hlwXw2LrIm6w4zC1oFNxpOxChJu7aAVr0NwOlEutGFqleBHJwKVPZ/AWqyw+zj1AvDKkA/CJrF+vqag=;bmlZf7ufCZGs6JD2qqU9Zw=="
 ---
 

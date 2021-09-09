@@ -9,7 +9,7 @@ ampWebUrl: "https://mb.com.ph/2021/09/07/silicon-valley-ai-firm-expands-to-ph/?a
 cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/09/07/silicon-valley-ai-firm-expands-to-ph/?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1000
     height: 1000
     isCached: true
+
+related:
+  - title: "Google’s artificial intelligence to help a financial firm"
+    excerpt: "Google’s cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to. It turned down the client’s idea a"
+    publishedDateTime: 2021-09-09T07:28:00Z
+    webUrl: "https://www.fijitimes.com/el-salvador-president-gets-hands-on-to-fix-bitcoin-rollout-glitches-2/"
+    type: article
+    provider:
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 37
+    images:
+      - url: "https://www.fijitimes.com/wp-content/uploads/2021/09/15.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "ayhKkoPkiDjviIUSFz2vsXwnTyOydvr6WDNscq5YudIkqS6xlflDQfd0J/wG1Db4+BEUyV8GPEBujzUBPfHGVDBhUBnQEGVdLiA0fe3GWnPEBWYmdQ/Ua28OwM3eQAG3CRi2H+cWhqevjsFrIuk8eox15ZoOi0BAOOQfVO6jyR+n1CxmgDlufIGtrlK/Axt0/FPCyJJxMGU9htH9aOVrx3d9XhB226AOqesFLBwIKz8e90vXGk4MNs7tARhxA0zBO/nVMTVovIqNPsn8vyl5aZl3OZrkH/t0zXUPZUIRP9zc1+074ewrN6NXYyTH18kOa5XCNDi+kGBSdyipUHrtM5GICr5cxoGSOGWXGfqmWCA=;u5pdFRbcmGA1YS97sq2eoA=="
 ---

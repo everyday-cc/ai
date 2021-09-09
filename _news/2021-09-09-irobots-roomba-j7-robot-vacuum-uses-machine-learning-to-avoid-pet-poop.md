@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true"
 type: article
 quality: 105
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
         width: 1440
         height: 809
         isCached: true
+  - title: "iRobot's Most Thoughtful Robot Vacuum, the Roomba j7+ Identifies Obstacles and Avoids Hazards"
+    excerpt: "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3."
+    publishedDateTime: 2021-09-08T23:01:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210909aq92298/irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 28
+    images:
+      - url: "https://www.multivu.com/players/English/8917451-irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence/image/PetWaste_1630535359137-HR.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "iRobot Introduces Roomba® j7+ Robot Vacuum with Genius(TM) 3.0 Home Intelligence - Clean the Way You Want, So You Can Human"
     excerpt: "Robots should clean your home exactly how you want them to, understanding your specific instructions and unique preferences. iRobot Corp. (NASDAQ: IRBT), a leader in consumer robots, today is giving customers even more control over their clean with the Roomba ® j7+ robot vacuum and new features powered by iRobot Genius™ 3."
     publishedDateTime: 2021-09-09T04:06:00Z
@@ -63,6 +77,6 @@ related:
         height: 1536
         isCached: true
 
-secured: "uKshsLNJLQwxHtwWux0aekMpy/WO2y0efGSuSFGi8d/HE7rxzGwkkt5JFMBixLZEBtB7Y9C/W/7xTc0bTDO5BHvsQSr7JfiF+Mcr+qVBiMB8nZQ7Q9FddooUPxUA3/V5hJ5e7C9vJHSKPCM5nEE93gULHfvvwYr+3wfrI5is9f2Bdbct4UtG/W+yvvttOHf7ZPMJfdiCA6mnftrQTYsF9ZMsBiJ49la7NB0UDAIhiUiP3jsqfcejr5U7nWS3tm/6cINng1vbJveqMYqO8+0BochRm+iK7VCi8Wn6++l0MDp6PMi6zeSQJ1FBwXJsGQzI4pn9VTTUQti2SeAWf0f5wi7WA/4ig1/U6nN3lQsOE1w=;HHCs9uQ/wAFCwWuDSbf8QQ=="
+secured: "tEKXVH2uBV0TMbFIJd450b9KFhlljlnayWKyrSICLd/kfQE0/zE19vJzkOQlgAFo1QThlRVcKDOwokusBgcTI+JKKTHblL4lFTAXrbvhczLYq83QK4T1TLia9rktRGlDb+fSLDQWZgpvUxXbk8vpMyz5oAQYdjKKCSHJo5x3M29Q23MxQBr9TAidbK3s2zLzwxRyu4W9Ntky9ZUSryH0xORBU0eTM7e8ZYH8ixgytPrUzEY0O8HqJDHQgPga7G1ZHAqTnq8DbhOiVNro794OHZOqJ1xKLLaMoBMsSdpdF45wvkFtG6sGlQXu30EJj01hDPeHA1hoDo7XpHKDzNOvh8FjqaXh/6blfKqJ27+57VrOu0lNlm96Xq8UqePVWxeCWL8U20+w/WCXPRnMXdRa6zOCDBoxdbDDmPnjpE67CU6iye9Dpm1XR3QZe3ZsqTWKqQzSAi2KQhHOjZNftTS4mlZReN+hObVNM1aHTW4g1i2OgoIfhVAqAkEz8264ZjS2nbLdrxCh5HNnPbDeJsqMMg==;sDTQ3PoAO3mLN/UlgEDxVQ=="
 ---
 

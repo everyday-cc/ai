@@ -180,6 +180,20 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 22
+  - title: "Redefining fintech: How Israel became a global leader in financial technology"
+    excerpt: "In 2020, the country’s position in the Global Fintech Rankings was 12th, making its climb to 3rd place the most profound move among the list’s top 16 nations in 2021. Tel Aviv also rose from 18th to 5th within the fintech hub rankings."
+    publishedDateTime: 2021-09-09T07:04:00Z
+    webUrl: "https://blogs.timesofisrael.com/redefining-fintech-how-israel-became-a-global-leader-in-financial-technology/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 21
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2021/09/Fintech-Israel.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
     excerpt: "\"Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
     publishedDateTime: 2021-09-08T14:14:00Z

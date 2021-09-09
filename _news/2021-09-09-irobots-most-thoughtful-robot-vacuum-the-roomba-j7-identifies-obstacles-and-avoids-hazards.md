@@ -1,18 +1,18 @@
 ---
 category: news
-title: "iRobot Introduces Roomba® j7+ Robot Vacuum with Genius(TM) 3.0 Home Intelligence - Clean the Way You Want, So You Can Human"
-excerpt: "Robots should clean your home exactly how you want them to, understanding your specific instructions and unique preferences. iRobot Corp. (NASDAQ: IRBT), a leader in consumer robots, today is giving customers even more control over their clean with the Roomba ® j7+ robot vacuum and new features powered by iRobot Genius™ 3."
-publishedDateTime: 2021-09-09T04:06:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/09/09/irobot-introduces-roomba-xae-j7-robot-vacuum-with-genius-tm-3-0-home"
-webUrl: "https://stockhouse.com/news/press-releases/2021/09/09/irobot-introduces-roomba-xae-j7-robot-vacuum-with-genius-tm-3-0-home"
+title: "iRobot's Most Thoughtful Robot Vacuum, the Roomba j7+ Identifies Obstacles and Avoids Hazards"
+excerpt: "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3."
+publishedDateTime: 2021-09-08T23:01:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210909aq92298/irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210909aq92298/irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human"
 type: article
-quality: 13
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Robotics
@@ -57,21 +57,21 @@ related:
         width: 1440
         height: 809
         isCached: true
-  - title: "iRobot's Most Thoughtful Robot Vacuum, the Roomba j7+ Identifies Obstacles and Avoids Hazards"
-    excerpt: "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3."
-    publishedDateTime: 2021-09-08T23:01:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210909aq92298/irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human"
+  - title: "iRobot Introduces Roomba® j7+ Robot Vacuum with Genius(TM) 3.0 Home Intelligence - Clean the Way You Want, So You Can Human"
+    excerpt: "Robots should clean your home exactly how you want them to, understanding your specific instructions and unique preferences. iRobot Corp. (NASDAQ: IRBT), a leader in consumer robots, today is giving customers even more control over their clean with the Roomba ® j7+ robot vacuum and new features powered by iRobot Genius™ 3."
+    publishedDateTime: 2021-09-09T04:06:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/09/09/irobot-introduces-roomba-xae-j7-robot-vacuum-with-genius-tm-3-0-home"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 28
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 13
     images:
       - url: "https://www.multivu.com/players/English/8917451-irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence/image/PetWaste_1630535359137-HR.jpg"
         width: 2048
         height: 1536
         isCached: true
 
-secured: "MzsCyhgR3Z4TTf5k+SEJkzFVIjmKYK+ggYtfT1jHeo8C74QXXaQlCiEC89TPA/g2DIcOeHGUkvG4DYj7pjBO1l5N+oplocij1priifRZv6REgvhjo5fPcDh15Llhvm9VD/w+pK7A/O4dx/1HvMYAEHgGqS/80Z0H18q79iQFhSO7b6Ar1SAx9XwoRNEDE9hSuQF4MqD/06Akb1DS67DjwievoEk9QUtDgc0WPKCXonJ4mgd6wFs/b/sPtNupiXRC45VUPICEfJZwTfaaIxmYPBjo0nESGaVlpBhDM8GFpAcmPQoY/eNiv9E+M3UzI/UVBsGVtDw9mliUm3R+hQSm8Si6tROax7wU9w9+4y4XccE=;f7elEh6Zo7C3zKPPW/5Vig=="
+secured: "G2jlT9Si2RjuWn7keiJ5ARtuebEzMhg+3t6TN5pAPA8AVGYE8WXp5UMSkXQd24kJAami+wO7MjpSZFxCSMDz0S0AceN1pM6CiRJtTnIceRxl2iPhrDCrBPRQTwKn8foKaDT/bFfoEqZj7hemIWt7G140flLLSnBFlra3vbXQoVwkC+wZPrl8cfZ6o0Q9uUIdY3+SJ1V2Y3KLpJSB3m942aU1UeMkI8LjhXyszMtHRhSxRk0B/yUYTfQ6cfn5H3u2P6Kfel1ydrPjPdjegW0nXT5XY7rGmwhu3V1WkSHLrGZ65W1zgcukD8c0ulb9nN5ithEpfL80cINOoZmRJvpSFOM8tXkiutjpC7iD+efunNk=;H0BfQE5cjCKL70CSFlDJLw=="
 ---
 

@@ -152,6 +152,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-27-federated-reconstruction-for-matrix-factorization.md",
+      "title": "Federated Reconstruction for Matrix Factorization",
+      "excerpt": "We begin by motivating partially local federated learning for matrix factorization. We describe Federated Reconstruction, a practical algorithm for partially local federated learning at scale. We prepare the MovieLens 1M dataset,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_reconstruction_for_matrix_factorization?hl=ca",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_reconstruction_for_matrix_factorization?hl=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ca",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown.md",
       "title": "Google is pulling the plug on Streams, the clinical app developed by DeepMind, following health division shutdown",
       "excerpt": "Google is shutting down Streams, a mobile app designed to help clinicians track patients' conditions, two years after acquiring it from portfolio firm DeepMind. The decision to take Streams ...",
@@ -1375,49 +1427,6 @@
       "provider": {
         "name": "Moneyweb",
         "domain": "moneyweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box.md",
-      "title": "Google DeepMind - Improving the interpretability of medical imaging’s “Black Box”",
-      "excerpt": "Type out all lyrics, even if it’s a chorus that’s repeated throughout the song The Section Header button breaks up song sections. Highlight the text then click the link Use Bold and Italics ...",
-      "sourceUrl": null,
-      "webUrl": "https://genius.com/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
-      "originalUrl": "https://genius.com/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://assets.genius.com/images/sharing_fallback.png?1628811342",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://genius.com/amp/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
-      "cdnAmpWebUrl": "https://genius-com.cdn.ampproject.org/c/s/genius.com/amp/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
-      "publishedDateTime": "2021-08-02T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Genius",
-        "domain": "genius.com",
         "images": null,
         "publishers": null,
         "authors": null
