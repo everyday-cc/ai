@@ -77,6 +77,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 79
+  - title: "IBM adds new features to Watson Assistant"
+    excerpt: "The US-based technology firm said that the new capabilities added to Watson Assistant would make it easier for businesses to create enhanced customer service experiences across phone, web, SMS and any other messaging platforms."
+    publishedDateTime: 2021-09-09T14:26:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/articleshow/86069285.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/amp_articleshow/86069285.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/amp_articleshow/86069285.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-11180,msid-86069399/ibm-getty.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "IBM Watson Launches New AI and Automation Features"
     excerpt: "IBM has launched new AI and automation capabilities in IBM Watson Assistant designed to make it easier for businesses to create enhanced customer service experi"
     publishedDateTime: 2021-09-09T13:07:00Z
@@ -90,20 +106,6 @@ related:
       - url: "https://technuter.com/wp-content/uploads/2014/09/IBM-Client-Centre-in-Delhi.jpg"
         width: 300
         height: 240
-        isCached: true
-  - title: "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service"
-    excerpt: "IBM (NYSE: IBM ) today announced the launch of new AI and automation capabilities in IBM Watson Assistant designed to make it easier fo"
-    publishedDateTime: 2021-09-09T12:29:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-health-coronavirus-pandemic-a87aef1a955d6ba9f1dbb49a3e76a385"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 43
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Where Watson went wrong"
     excerpt: "Over the course of three nights in February 2011, IBM’s Watson supercomputer stunned the world by using artificial intelligence to soundly defeat Jeopardy! champions Ken Jennings and Brad Rutter. It was essentially a debutante moment for the technology ..."
@@ -119,7 +121,49 @@ related:
         width: 1024
         height: 766
         isCached: true
+  - title: "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service"
+    excerpt: "IBM (NYSE: IBM) today announced the launch of new AI and automation capabilities in IBM Watson Assistant designed to make it easier"
+    publishedDateTime: 2021-09-09T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1611508/Watson_Assistant_Search_Skill.jpg?p=facebook"
+        width: 3108
+        height: 1625
+        isCached: true
+  - title: "CVS – IBM launches Watson Assistant capabilities for call center automation"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-09T13:36:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_cvs/cvs-ibm-launches-watson-assistant-capabilities-for-call-center-automation/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 37
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/IBM2-e1616161913403.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "IntelePeer’s Atmosphere CPaaS Solution is Now Available in IBM Watson Assistant Designed to Create Enhanced Contact Center Experiences"
+    excerpt: "IntelePeer, a leading Communications Platform-as-a-Service (CPaaS) provider, announces its omni-channel Atmosphere CPaaS solution is now available within IBM Watson Assistant to help businesses easily extend their AI-powered virtual assistants with voice capabilities,"
+    publishedDateTime: 2021-09-09T12:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-san-mateo-a4c96d5610d64d83ac378cc7b5d95fcf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "sgOZGb3AJO5DFyCqusi0I1S3XUg24/heKQTLI8+sK/KiuSoO70iFrifk982+yVm5GJkI1gQMSFhy7kTPHqmwXpfdifomgnWq3SIAgKmKpaU3r8zfECaHBEvNmr8pgKnZc7HJ4Xg4LVIy3pGPL5sRtHifkN1cfmUgID02hgZfISs3EPnqVq7mHJXqJsdfJJncPt8sPN/3hjgsNlOOzUaq18fG7hR23qx0psPPxvU7IpUOC2aP0nz3ET08e3yUXpwuUBBrCD5LgkEKqW07xGoZJEqWnBuiCmN/dN7MFLejEu4NvvrpYbWRak+P69Ys9fVeUxvF4YqzxVelu8UoIDoj1VMc3VE2MGbvdGhmYqdnNKQ=;s0/aHOri3a137sJFUon1GQ=="
+secured: "UaoBSwVla5r+r5Z7QQAcKJydYZg9ahNwRknPDQnofdXQu/oeZUG1TAp9dtyknLgMV1f+hrbx3uh5TyXHe84jUqBzH5EGfKil5CuP3H7SdqmygqwxdCKivo71sgp0CjHtJkN3m1xCmU/olfzX6E7rZRirKYtVm4kW3CicA9aYNNHrJMnJXHQKWJIpwpt+kByt++o3hnYQnKEcTB+H9bsE0914JKw5yysCh1DEJkAn7qgWm7QQqr+cTKKhaKqNEoVaP+Hl7p3SljYw9ainBbIlCqqYK90urGMvzAF15Yit07ChaG7a/ZsHINpe++YrV8QxpctCzKwixYAW7jmdX9xuQoVT/oqiTIQk6Nr8mTPJ9bp+bZOJ1VRaUvSM/mYvZs1dWI+nmmk7ObdchxfpG5x/1FP+8X5t2b9xyHprFzOZiaTqnCWTfUsJ5/PsxFCm+QZLtom3kG0i9D72lfHijPtv0tCcBiqp24B4sowtJaE8/CQX6vswzoW9veYSf7v0p3z74tdEipt4KNVVzXHAcPZcRA==;4y3zkcYwBvKh0W5YAGFtLQ=="
 ---
 

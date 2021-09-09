@@ -1,27 +1,27 @@
 ---
 category: news
 title: "EagleAi SaaS Platform for Fraud detection, Compliance, and Trading Risk Management is now available in AWS Marketplace"
-excerpt: "EagleAi LLC, a provider of advanced Risk Management solutions using Artificial Intelligence and Machine Learning, announced today that"
+excerpt: "EagleAi LLC, a provider of advanced Risk Management solutions using Artificial Intelligence and Machine Learning, announced today that EagleAi Trading Risk, Fraud Risk,"
 publishedDateTime: 2021-09-08T11:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/eagleai-saas-platform-for-fraud-detection-compliance-and-trading-risk-management-is-now-available-in-aws-marketplace-301370924.html"
-webUrl: "https://www.prnewswire.com/news-releases/eagleai-saas-platform-for-fraud-detection-compliance-and-trading-risk-management-is-now-available-in-aws-marketplace-301370924.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/eagleai-saas-platform-for-fraud-detection-compliance-and-trading-risk-management-is-now-available-in/article_d5d622bb-272d-534c-af49-5aee371615c8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/eagleai-saas-platform-for-fraud-detection-compliance-and-trading-risk-management-is-now-available-in/article_d5d622bb-272d-534c-af49-5aee371615c8.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1610357/eagleailogo_Logo.jpg?p=facebook"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/c3/ec35379d-07d8-503e-a655-91cb282a2458/61389f143302f.image.jpg?resize=703%2C492"
     width: 703
-    height: 367
+    height: 492
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "wcbgFDp7ZC1Hys661hPSSwraHMoJyLuxtXRQfc2lpLiW7w5Cc8APppygUN5FmVe776Wq8U1+AyVqP6lPQ4vblOjB1aqZhrjoV6EFW9/MnCmGaGzLsR5YRNSu50tdEXBRy4m3uuGLCe7r9ClNcDOJ/TY7xcji/9GX8iJSUu3H8PCTpldapWqD+AagRA6vEKeaGONRTYJyS4bcHQ2pTzRYBJHXMfPhzcwJxxLAduF5IWVytzQT50QPvHP2wfqrEOvg/pDVC0zHjnY4nLDYDzE7k8ejnc9NsDxB9t7Wmd3s1TKifVIffblBS5rKH60x7dkGxIWwl4IIVEEz8S8ZJvsQ8AtHfVfKtr8+oYCuneOnSatNF8d98/su7EmhpbqXwQEZ2pgrdw9dmN6gHnF/72GStD2W1CgfjRK0FYqVmdVwkYy3/yoO/0GnMe3wgrSUDJQnDWNq/qkhJmapkZ6ONrMQ9XXvAp9MtVrH6r4dqGj2BexM443M8Wimle4WoV3j/oReaIDai312MppS7BP3HMcPOA==;dbI0CoiMEUm7iNeJxgjWOQ=="
+secured: "x6X0+2GYEAGPnIft7OKNZQivXfiYUG+XLH8eFs12qf+CIMTkHUJ0zjGGMwE49Tfjdrv1QuONP9d28MzRQB9+9LELrQRZdxmx3rz4L8PBrq2BCCilp64i0tBrUrng6g/WyChGeRdVZjhoWV/HGOGUs5WL32h6RITSdW7v+LeQhhcEeS4FA53mPdgCW1fhvjBwrcw1x07JX7ngloR0AnL2ibp8uM3jOl1UVLrH0nw7ssm/Ftks4+lU+9QL/cdHX1tvAJU8BIXNPR7LW2tR42EDOzeDTwziq4KgD//NCDImPqrw9tBc6adJfZp8nYTi2YvY+WEjhP9w4Os3Gu0s7VYKBNSEmJQeVI8javSjGaHVGdQ=;ObMRC1veu1FhSbBLXZSwqQ=="
 ---
 

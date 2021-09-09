@@ -63,6 +63,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "If someone can make a robot that can avoid wires, it’s iRobot. Here’s why."
+    excerpt: "The newest iRobot Roomba can avoid obstacles, but that comes as no surprise given the company's history and work in the robot vacuum field."
+    publishedDateTime: 2021-09-09T15:06:00Z
+    webUrl: "https://www.digitaltrends.com/home/if-anyone-can-make-robot-that-avoids-wires-irobot/"
+    ampWebUrl: "https://www.digitaltrends.com/home/if-anyone-can-make-robot-that-avoids-wires-irobot/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/if-anyone-can-make-robot-that-avoids-wires-irobot/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/irobot-roomba-692-lifestyle-3-of-3.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "What's In Your Roborock Robot Vacuum"
+    excerpt: "Like your smartphone, your robot vacuum is also jam-packed with all sorts of technology that make it as good as it is. Roborock is one of those companies"
+    publishedDateTime: 2021-09-09T15:00:00Z
+    webUrl: "https://www.androidheadlines.com/technology-inside-your-roborock-robot-vacuum"
+    ampWebUrl: "https://www.androidheadlines.com/technology-inside-your-roborock-robot-vacuum?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/technology-inside-your-roborock-robot-vacuum?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/03/Roborock-S7-AM-AH-1-1.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "iRobot's Most Thoughtful Robot Vacuum, the Roomba j7+ Identifies Obstacles and Avoids Hazards"
     excerpt: "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3."
     publishedDateTime: 2021-09-08T23:01:00Z

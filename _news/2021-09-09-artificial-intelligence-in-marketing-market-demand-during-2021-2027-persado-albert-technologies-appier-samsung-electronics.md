@@ -8,9 +8,9 @@ webUrl: "https://www.openpr.com/news/2388026/artificial-intelligence-in-marketin
 ampWebUrl: "https://www.openpr.com/amp/2388026/artificial-intelligence-in-marketing-market-demand-during"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2388026/artificial-intelligence-in-marketing-market-demand-during"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 50
+heat: 70
+published: true
 
 provider:
   name: openpr.com
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI in Marketing
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://cdn.openpr.com/U/9/U909431026_g.jpg"
@@ -39,7 +40,23 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 43
+  - title: "The Global AI in IoT Market is expected to grow at a CAGR of 24.59% during the forecast period, 2021–2026."
+    excerpt: "AI in IoT Market 2021 Technologies such as Artificial Intelligence AI and Internet of Things IoT are embedded in networks to instigate innovative technology solutions The improved intelligence performance of applications and devices aids the framing of better business decisions"
+    publishedDateTime: 2021-09-09T15:33:00Z
+    webUrl: "https://www.openpr.com/news/2388435/the-global-ai-in-iot-market-is-expected-to-grow-at-a-cagr-of-24-59"
+    ampWebUrl: "https://www.openpr.com/amp/2388435/the-global-ai-in-iot-market-is-expected-to-grow-at-a-cagr-of-24-59"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2388435/the-global-ai-in-iot-market-is-expected-to-grow-at-a-cagr-of-24-59"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/U/9/U909543870_g.jpg"
+        width: 700
+        height: 350
+        isCached: true
 
-secured: "BA2URGpd9fUqhiN2Sx4UP+Zm3M6sGzjFc/t9hv2o0VmnbGQO184xC3HGzpAdVpJeAgplC4b2Qder7lB9/+eNDcVITTQbD/Un6zO/gIPf7EfSnYqeWetj49NVhy8nzVljRL8Ohm3ERt9cq8RHUgzXXqeJCkS4A3u4HJLnp4zbd0juftMY/f8X2Pa37QCPIvX9hxO2EA71liUy/LEvY31clxmpJm3/6UlAN4to3mqbLg6lwQtfxfcEz1Xnjeju6Q9BKeRY6kqKTDx8XGU62mhG24erjgNabCvDjUFamx0qpNy836eaUsHwtCUBdQgdlEiM7H11Fr9hl16tfw4iu5dWd0Jiea7K3aYK8pBPbru1TWw=;nW8jiB6fnkt9LxPH9WwYLQ=="
+secured: "5O6R9DH1hMuzvVRhQY4uoXIgPUQUzpVcyaBXOw2UpGTTUWVOKzXBDTGvv+/xcqIOwyvvLl8uLBKUWLQhH7KJdyO/+zqRq4OyTgZJLssHcfHNyIIBGDpjKLybJyNqvVzuOF3NGSAxxErwB1db6O3oX9QeWpCJJgUq03kHTGSrhWgDVIIqtfsKIRUa9fqIWgnGoWL6EE3FdjQbkLl2dX2CNOztAW5xM6KceTeT8C+pxxZaGEKHEz4noFe+v63yJMgF3dSaBSkS30x0m/0ZG9FYQ6PXr4mkhLLUAnA+t1rql/cYmIjiWV3fBDY438gQx3fVaFph3nngF3ztZBW1hOUnRP+uFALccuDuFQ9mtRclAthTpfabq7oUDt1szsnRs8HLPTZaFM5yMhjtPtvpg5lRPLhBGMRG9cTA96ONYVUM0J5wKDymXFqnEwq1KtB6/SxzVa+kKTJOSlim8ywpG8snHD+LDETjwy3QPuHpRtXUwA3schh6rxiMMdDNvXe/izAHwotizNiW2fGKrWQiOacaJQ==;BZQUu/Cw5AR6Xyct3KHj6Q=="
 ---
 

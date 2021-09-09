@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Google and Microsoft are creating a monopoly on coding in plain language"
-excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
-publishedDateTime: 2021-09-08T19:16:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
-webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
+publishedDateTime: 2021-09-09T14:55:00Z
+originalUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Canadian Manufacturing
+  domain: canadianmanufacturing.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
+    width: 754
+    height: 424
     isCached: true
 
 related:
@@ -41,6 +41,22 @@ related:
       - url: "https://images.theconversation.com/files/419875/original/file-20210907-22-krsb6e.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
         width: 320
         height: 213
+        isCached: true
+  - title: "Microsoft invests $5 million in Oyo to develop AI-driven hotel technologies"
+    excerpt: "Oyo carries a valuation of $9.6 billion after Microsoft's investment, third in the country behind Byju’s and Paytm. The startup is due to file IPO documents in the coming weeks."
+    publishedDateTime: 2021-09-09T08:04:00Z
+    webUrl: "https://theprint.in/economy/microsoft-invests-5-million-in-oyo-to-develop-ai-driven-hotel-technologies/730787/"
+    ampWebUrl: "https://theprint.in/economy/microsoft-invests-5-million-in-oyo-to-develop-ai-driven-hotel-technologies/730787/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/economy/microsoft-invests-5-million-in-oyo-to-develop-ai-driven-hotel-technologies/730787/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 72
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2021/09/378054371-scaled-e1631187932870.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Oyo and Microsoft team up to develop travel tech powered by Microsoft Azure"
     excerpt: "Microsoft and Oyo have entered into a \"multi-year strategic alliance\" in order to roll out new travel products and technologies."
@@ -129,6 +145,6 @@ related:
         height: 640
         isCached: true
 
-secured: "siKZ4ydbPqGZgWAzUXA61UPRUxTsj3oewN8R8yFR6jIBNEtTVoMenHFCRMJTMTvVxsM7DhTI3CZQr041d0ovoOIPzXRd/wXj3ppmICODe4saszCOUND0V9SUHcyh9C+nACBNUmGtfRxttnTxErc5h6fWuU04DkF6nIVDppqUyQRuGsEnDzHyt1nv1KZVNU40tBjqfPP2/jtPwItcB2RSiztISoMpzBXtJlCuQscJEoRDQ6r1dNNdmnm52AtxyMYq2USYbD2dG1eyVGG8D0uEoI0nl/IvyYVZY7Zd+q0aFvD/3kYOGIl8pTS+FjjLNA+dHJX/Pi0Mmz0sz00Mu2dCaauFDkrKxxAXs6y4hEcCdejxCZrk6WbsWOEQmcNnzwNHazj8j8uMATtgDGkJE7+dBZoT2s8QM6cI2IGjZ5U/riGMPu1rP4QrzDlSDgVouyQxaJU9dU06tqUgi97NZzBTY3+Q+u/2x7B3AVnUUCGNf6zMgM6wtamIWrDF2YB1UhHCDO/ngG4ZUw9D+FVDImtAbg==;YOR7DZo8rkY77p2fTyL0cQ=="
+secured: "0gI6GpymtlO7DHaSotTPihVrkkjHRwlQ1uyxyBpkCEngLeK0OI8ucFfoS6RUXdgW6ypb/srRUmGgIEvTJ63qfowTbK415QD7lkoVmVy4DRl6c7v5GBr7xxCyuGq9E5O2b8Iq7L7yp8b2NwcsXAFTQsL5jAhDO4R1Al3uPTXDZsYGu3SGPBherPobkMkOW4cuhyvAGyB+xjv0rOarlPY3yursdQpxWnR79GV/7+lbbdnHYXAXFKYAHQUx6BcQCTw7NdXHijuLqusn1gcb4KUAwTmbqFNaWfsYITGBoNysLYmwfgLtJ442Y+26M6t9fz0RsWKfaGSN86aNHaAv09uF3A2jzuNpdQ/PjauCpOYaebA=;DK08Tfns8unkfCCGLgQGyw=="
 ---
 

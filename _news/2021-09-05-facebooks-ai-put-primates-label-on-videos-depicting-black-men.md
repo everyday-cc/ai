@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-la
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -90,22 +90,6 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2021/09/When-Facebooks-AI-Labelled-Primates-On-A-Video-Of-Black-Men.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facebook sorry for ‘primates’ label on video of Black men"
-    excerpt: "Facebook has apologized for putting a “primates” label on a video of Black men, according to a reportin the New York Times. The newspaper said the video was posted by a"
-    publishedDateTime: 2021-09-04T21:40:00Z
-    webUrl: "https://www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/"
-    ampWebUrl: "https://www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/amp/"
-    cdnAmpWebUrl: "https://www-pahomepage-com.cdn.ampproject.org/c/s/www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/amp/"
-    type: article
-    provider:
-      name: WYOU
-      domain: pahomepage.com
-    quality: 44
-    images:
-      - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2021/09/ba9b2841e7154d13bda18e8455df89e7.jpg?w=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Facebook – Facebook is very sorry that we keep noticing its racist AI"
     excerpt: "Together with an amazing line-up of experts, we will explore the future of AI during TNW Conference 2021. Secure your ticket now! Facebook’s issuing apologies for its AI‘s bigotry again. This time, users watching a video of a Black man were asked it they were interested in more content on “primates."

@@ -41,6 +41,22 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Microsoft invests $5 million in Oyo to develop AI-driven hotel technologies"
+    excerpt: "Oyo carries a valuation of $9.6 billion after Microsoft's investment, third in the country behind Byju’s and Paytm. The startup is due to file IPO documents in the coming weeks."
+    publishedDateTime: 2021-09-09T08:04:00Z
+    webUrl: "https://theprint.in/economy/microsoft-invests-5-million-in-oyo-to-develop-ai-driven-hotel-technologies/730787/"
+    ampWebUrl: "https://theprint.in/economy/microsoft-invests-5-million-in-oyo-to-develop-ai-driven-hotel-technologies/730787/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/economy/microsoft-invests-5-million-in-oyo-to-develop-ai-driven-hotel-technologies/730787/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 72
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2021/09/378054371-scaled-e1631187932870.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Oyo and Microsoft team up to develop travel tech powered by Microsoft Azure"
     excerpt: "Microsoft and Oyo have entered into a \"multi-year strategic alliance\" in order to roll out new travel products and technologies."
     publishedDateTime: 2021-09-09T11:45:00Z
@@ -58,18 +74,18 @@ related:
         height: 443
         isCached: true
   - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
-    publishedDateTime: 2021-09-08T19:16:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+    excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
+    publishedDateTime: 2021-09-09T14:55:00Z
+    webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
     quality: 55
     images:
-      - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
+        width: 754
+        height: 424
         isCached: true
   - title: "MDC joins Microsoft AI Business School to develop AI courses"
     excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"

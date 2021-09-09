@@ -105,6 +105,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Bavarians Will Get to Ride in Intel’s Self-Driving Robotaxis at Over 80 Mph"
+    excerpt: "Intel’s subsidiary Mobileye recently revealed its all-electric, self-driving robotaxis, at the IAA Mobility event in Munich. This was no random presentation though, as the company plans to introduce its autonomous taxis in the Bavarian city starting next year."
+    publishedDateTime: 2021-09-09T13:59:00Z
+    webUrl: "https://www.autoevolution.com/news/bavarians-will-get-to-ride-in-intels-self-driving-robotaxis-at-over-80-mph-169024.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 22
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/bavarians-will-get-to-ride-in-intels-self-driving-robotaxis-at-over-80-mph-169024_1.jpg"
+        width: 2003
+        height: 1080
+        isCached: true
   - title: "Mobileye To Launch Pilot For Self-Driving Taxis In Munich, Tel Aviv In 2022"
     excerpt: "Mobileye said it will launch the autonomous vehicle pilot in collaboration with international mobility service provider Sixt SE."
     publishedDateTime: 2021-09-09T12:43:00Z

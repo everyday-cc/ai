@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Global LegalTech Artificial Intelligence Market Analysis of Key Players, End User, Demand and Consumption By 2027"
-    excerpt: "LegalTech Artificial Intelligence The report curated by Zion Market Research on the Global LegalTech Artificial Intelligence Market Research Report Covers Future Trends Size Share Past Present Data and Deep Analysis And Forecast 2021 2027 is the finest fabrication of expertise"
-    publishedDateTime: 2021-09-09T08:21:00Z
-    webUrl: "https://www.openpr.com/news/2387174/global-legaltech-artificial-intelligence-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2387174/global-legaltech-artificial-intelligence-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2387174/global-legaltech-artificial-intelligence-market-analysis"
+  - title: "What AI analysis of 100 million social media interactions can teach product managers"
+    excerpt: "Researchers from Hong Kong University of Science and Technology and University of Maryland at College Park published a new paper in the Journal of Marketing that examines product-markets from the perspective of consumers' perceptions of brands instead of from purchase data."
+    publishedDateTime: 2021-09-09T14:31:00Z
+    webUrl: "https://phys.org/news/2021-09-ai-analysis-million-social-media.html"
+    ampWebUrl: "https://phys.org/news/2021-09-ai-analysis-million-social-media.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-ai-analysis-million-social-media.amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
+      name: Phys.org
+      domain: phys.org
+    quality: 50
     images:
-      - url: "https://cdn.openpr.com/U/9/U909589956_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Self-Propelled Modular Transporter Market Size Report 2021: Market Share, Trends Analysis, Supply and Demand Forecast by Region 2026"
-    excerpt: "Sep 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
-    publishedDateTime: 2021-09-06T05:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-propelled-modular-transporter-market-size-report-2021-market-share-trends-analysis-supply-and-demand-forecast-by-region-2026-2021-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/socialmedia.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "UUlvBlQjA1DC4QKX2uO0RcPeRwFPk/hUyN3F2Hr2N7bLFVa+oxeEB9FG6Sr1d1rKnnmpi0J7hlOSiN+D0gZbbIFlUaORlbP7IcIKC05RtEGJuYPOqNxBZV11eI1SXT/1qWSYyO8miWZ+WC4rQ+L8Ev0PjxexSjLFEZkeFCTjMvUMmF7UKJN1divDOdHPD+9kVLVpStTRiRvUGV6kId1QxRGDhHMe+b8bu+k8Xe8gp8vRw8RVdIPmrW7pZ4f3vg7lCdGC7M+dkLqVNP/j1Pwbe0Am+5ZJL79zehs5hgZqnZ6jwSCfjaznyz+HDZBQ3Vj9sAK7+guFwZJwtXRfAW739L7h3DnmQsP3T6Py9lI+/kg=;McnE0QRx7F/k8UiAZ0mw2g=="

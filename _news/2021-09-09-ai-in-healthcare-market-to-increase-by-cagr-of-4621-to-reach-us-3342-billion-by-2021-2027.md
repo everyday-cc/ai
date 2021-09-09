@@ -31,11 +31,27 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://cdn.openpr.com/U/9/U909431026_g.jpg"
         width: 577
         height: 378
+        isCached: true
+  - title: "The Global AI in IoT Market is expected to grow at a CAGR of 24.59% during the forecast period, 2021–2026."
+    excerpt: "AI in IoT Market 2021 Technologies such as Artificial Intelligence AI and Internet of Things IoT are embedded in networks to instigate innovative technology solutions The improved intelligence performance of applications and devices aids the framing of better business decisions"
+    publishedDateTime: 2021-09-09T15:33:00Z
+    webUrl: "https://www.openpr.com/news/2388435/the-global-ai-in-iot-market-is-expected-to-grow-at-a-cagr-of-24-59"
+    ampWebUrl: "https://www.openpr.com/amp/2388435/the-global-ai-in-iot-market-is-expected-to-grow-at-a-cagr-of-24-59"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2388435/the-global-ai-in-iot-market-is-expected-to-grow-at-a-cagr-of-24-59"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/U/9/U909543870_g.jpg"
+        width: 700
+        height: 350
         isCached: true
 
 secured: "0/DDU6q++429bUcZyLO3aq+9eTnIw71B7dtvdFRYIaSXCALOzxnAjAVjA8MEeOR2/XWaUUBq+trpnqXp+SP+MgXDdEnM1m7b8u/83d+9tJytNFKy3BUrxRsSj+WZVFnm66SAHQMCIeQDv+MCJgUvvK+PRIFjHqaoVyc2ObJuLiBXVRSmlPy4G4TixH8ORUl7T9tcoHyxzkC5z5vzIbRDHjqUpl74xzUM0dEtrvgK+EPFTPaHbbJKSDwo+xw9YiFTdKpF20+Xayzjbp2QTLJoG/punxK4Ogs0RT12fvrHz1lQWAzIqczPaTDai4XkeqURw3hNS16ZWaauQFIWQvQPTQTYkp1fNDR/4Xlu1wUrOmQ=;X/Hlj3NZB6hUhk9SFZ0Lng=="

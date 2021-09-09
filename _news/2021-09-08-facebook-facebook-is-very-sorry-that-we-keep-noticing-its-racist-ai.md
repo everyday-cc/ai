@@ -99,22 +99,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook sorry for ‘primates’ label on video of Black men"
-    excerpt: "Facebook has apologized for putting a “primates” label on a video of Black men, according to a reportin the New York Times. The newspaper said the video was posted by a"
-    publishedDateTime: 2021-09-04T21:40:00Z
-    webUrl: "https://www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/"
-    ampWebUrl: "https://www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/amp/"
-    cdnAmpWebUrl: "https://www-pahomepage-com.cdn.ampproject.org/c/s/www.pahomepage.com/news/technology/facebook-sorry-for-primates-label-on-video-of-black-men/amp/"
-    type: article
-    provider:
-      name: WYOU
-      domain: pahomepage.com
-    quality: 44
-    images:
-      - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2021/09/ba9b2841e7154d13bda18e8455df89e7.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "QWPviVSOdZcigtv3bL5at61OtXMnMDjj8xZ4iJRMhTu26ajlaisupYMsw6WwHsixpoR263q8ozAEb4Wu4M5K9ascr9NOoEmsrLTFHVci6S76lUO70fkhqKKDb8QJ/j6JvGPCp+bDpFy0UfqmDasLYrfA4OyrJ4weOqOkrMAt1hjWqdGcX83h24Ue2QQVy3UuKm8DOuabYQWK9GLCtIYG9Z/D7Kb9JsB3+hoETdYwRxHGQqt0LfIDeWye7TY7MUJepZ7foKnm4FYauwSpPwV4fz4og36zgaf+DWog/8QBuJP5DIegf4PWEtODYpl8S+dRENRV4/lVjxsi+Tofsz5aahypZJ1H7T22c43FyoM9qIA=;q9xPlEdLSQWwHiXm+nlIfA=="
 ---

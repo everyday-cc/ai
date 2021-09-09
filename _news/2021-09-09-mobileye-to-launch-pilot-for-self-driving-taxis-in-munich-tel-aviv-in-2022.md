@@ -119,7 +119,21 @@ related:
         width: 678
         height: 452
         isCached: true
+  - title: "Bavarians Will Get to Ride in Intel’s Self-Driving Robotaxis at Over 80 Mph"
+    excerpt: "Intel’s subsidiary Mobileye recently revealed its all-electric, self-driving robotaxis, at the IAA Mobility event in Munich. This was no random presentation though, as the company plans to introduce its autonomous taxis in the Bavarian city starting next year."
+    publishedDateTime: 2021-09-09T13:59:00Z
+    webUrl: "https://www.autoevolution.com/news/bavarians-will-get-to-ride-in-intels-self-driving-robotaxis-at-over-80-mph-169024.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 22
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/bavarians-will-get-to-ride-in-intels-self-driving-robotaxis-at-over-80-mph-169024_1.jpg"
+        width: 2003
+        height: 1080
+        isCached: true
 
-secured: "vTPQUlrQ6CyPjapvg32Wtbns5jp9n2rHPsES11IhnvSzMkhzHS0LKluWoAycRRtUROs7TtZarkz+z4348cRRSfzCEpqIo5X80o5z6WWPrOJKQdSAi0JH5Rc0MVjL3/eiCvAjkOigFeBYi+mXomlTWsWURLjsjLqG2irb1GNWFiYmVD0GoDFPRXh+5drfVkrQrUfyc+sYQlinUrSTVeNk4O9YSRoW92+nJwiWqVa+b3Gpok5XFhXvwjh5GrpB1/wuGRk1iYXHMnmrV1PjKaBbF2etq9NftQuGHNzBkQo5Q5xERbW6CRZPhCCDc8/QnolQsJIsg5KtpxlxFoCz2KtrjPD+oF8OiZ8MbzFlHYsy7RM=;NZPqdqsVYyDf9dL/TLKZ3g=="
+secured: "WCZ34T5Vdi1p8ZTDsNv3jvuudLW+FxVgSqjNcpA/yB9kO8WfBZzDfIol89uzxdG+nBzs/gfd8ghc1PbQBmhLfyaFjnjzxkmkGheWmqO4ckhFFud52jaPcK2k/XdMQDw/TbNuug0VkI2/mYjVPZZFosfqY0cSsprrqlnHsedTX2QvYCvQ7/bTl5Ov0FeuxPe1ajdZluLUbjH5ptWXh/zNu63pX6dZP0raR3bI1Zc2EQBE+dvHfQBD7VQcxVQv4UfWPzda+/4+0nWfKdnR41R073HAZdsBBVPs1dq9z0DzD2L2p5Moddff0RigeRF/o0bLkBTwtBDmAlmkrenj6gsBYbhikyhqSschkkh7yDybnSKlP8JiakIiiTwM65keEij91as07jNIIgExd/UIMxqmsRqDF65c0kzrVuxDQKQsB4Y5GFRtzb6cyeIxdPY6CbfAkRLmhgjOnrGiZwn7puPkvFdWkJHlwqDgECRurlhF8+HyLT7lO6QmnnXsTl+LmVd22G+hdyTJ1P6jPd2P9UpiNQ==;525nvO9pql50w8aKqJh/3w=="
 ---
 

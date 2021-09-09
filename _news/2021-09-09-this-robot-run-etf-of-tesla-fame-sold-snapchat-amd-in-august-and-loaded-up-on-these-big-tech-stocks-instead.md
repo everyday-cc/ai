@@ -1,22 +1,20 @@
 ---
 category: news
 title: "This Robot-Run ETF Of Tesla Fame Sold Snapchat, AMD In August And Loaded Up On These Big Tech Stocks Instead"
-excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, bought into Amazon.com Inc. (NASDAQ: AMZN), Facebook Inc. (NASDAQ:"
-publishedDateTime: 2021-09-09T10:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/etf/this-robot-run-etf-of-tesla-fame-sold-snapchat-amd-in-august-and-loaded-up-on-these-big-tech-stocks-instead-1030789419"
-webUrl: "https://markets.businessinsider.com/news/etf/this-robot-run-etf-of-tesla-fame-sold-snapchat-amd-in-august-and-loaded-up-on-these-big-tech-stocks-instead-1030789419"
+excerpt: "The ETF’s latest portfolio, after rebalancing in August, showed that the fund has sold major chunks of its holdings, or entirely divested in, chipmaker Advanced Micro Devices Inc. (NASDAQ: AMD ), Snapchat parent Snap Inc."
+publishedDateTime: 2021-09-09T14:04:00Z
+originalUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/09/22860674/this-robot-run-etf-of-tesla-fame-sold-snapchat-amd-in-august-and-loaded-up-on-these-big-"
+webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/09/22860674/this-robot-run-etf-of-tesla-fame-sold-snapchat-amd-in-august-and-loaded-up-on-these-big-"
+ampWebUrl: "https://www.benzinga.com/amp/content/22860674"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22860674"
 type: article
-quality: 67
-heat: 67
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
@@ -24,11 +22,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/lucrezia-carnelos-wq9vup_njr4-unsplash_6.jpg"
-    width: 1024
-    height: 768
+  - url: "https://www.benzinga.com/files/images/story/2012/lucrezia-carnelos-wq9vup_njr4-unsplash_6.jpg"
+    width: 6240
+    height: 4160
     isCached: true
 
-secured: "1hKi4eqghFBdQLI0qHRkBnd46dbWzHdv6YbZgTXwbVOikuHTgIe+LC+XTmlvyS7wz1/V4rlVsOFlbQYFbqFXrUrcYG48vRkPSDDWqXd72CBxRAm4/k0Z4cLEJEYHfiqE3+4UKDCc0rQlyG+fPdk7bK9ZBf7+eKn5xeCCzbatl0Uy11vuNHvmFDjDsvSXSflTDfp5Uj9U7kwK7Q6SsM19S5uOFI5MBAXPnQVROhOVp/I6TbVoM0/xacuMbCgRQLmyBHys+1Mb1zOPt8yjWo4qYgw+MITtvrDmgYll1EbiTUhh2BHsVgtO+T0jf6MVnRw++SDQOsKCF4UMYDFqSkDDmVXqevxyvCGoQgyeGQUaakVrpm4BZgXhUuoZyBZzLbG8Bq9gsPrMBOrtVlsyvduG6UC6zliHmbP/dXEpzK2M66wCbYjvtFqcTnbBbJIyoik4yP6PoZappF+ukECG8ntqp26RrM8ka3U1gNBP4y7uwCKqPpax51WKYoPro9DFtvJLHTKCHhTrnW1QHi3uY77mSA==;uGXXvPD2QnxtnV/7Blgaeg=="
+secured: "c86GJG82DSH2adgTSevCjB+77vBnHHHgpglQp/jUBiMQy6/F4OtRcuqNAYFz2j3COY39CByK/0xP2XdLXe6iXUuTMv7CkhDoWBUTNn2Z9xq4Y8X2N2sy2CYTwgPj+b9jnMHK0P//IchPkg1Ue8HI3g0D2ZO0zbe46ei4JeTEZEdFVOcMN8pmdJ8kRqXmHHqd1ntm3TTV162rRRYuPN/CMS1+7fPXJE4oG2sUWZUla3IZVpMkRoGrMMq+kOWRKXoq7AIjkmnhuLMp5EwNlIgfywmeF2SXk0GpWDMyfEwdgDigvt7IGHk6jLLlks30Oba3IsW6HEJyLnBEnzHKZfiXyNJHyUMfKV+5ZvCw0SJ2QLk=;ufg8lGr0wV5Zb8h5HCGOkA=="
 ---
 

@@ -72,18 +72,18 @@ related:
         height: 341
         isCached: true
   - title: "Department of Commerce Establishes National Artificial Intelligence Advisory Committee"
-    excerpt: "A formal notice describing the National Artificial Intelligence Advisory Committee (NAIAC) and the call for nominations for the committee and its Subcommittee on Artificial Intelligence and Law Enforcement appear in the Federal Register published today."
-    publishedDateTime: 2021-09-08T17:11:00Z
-    webUrl: "https://www.nist.gov/news-events/news/2021/09/department-commerce-establishes-national-artificial-intelligence-advisory"
+    excerpt: "Trustworthy data, standards, and integration of machine learning and AI in applications are critical for the successful deployment of new technologies and the identification and mitigation of sources of algorithmic bias. U.S. Secretary of Commerce Gina ..."
+    publishedDateTime: 2021-09-09T14:35:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/department-of-commerce-establishes-national-artificial-intelligence-advisory-committee/"
     type: article
     provider:
-      name: National Institute of Standards & Technology
-      domain: nist.gov
+      name: Homeland Security Today
+      domain: hstoday.us
     quality: 29
     images:
-      - url: "https://www.nist.gov/sites/default/files/images/2017/05/12/composite2.jpg"
-        width: 3900
-        height: 2323
+      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-1.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "xhlxZBvhAcbnpHBEHzKMEfOpncp35WuYGIw1v9iBEM5uXeCFDrtCPdGcS4SU1up0viAoUjJMozOkSd7Oes2n4M9psxrfspTP4gFWM6loMh2sPkMDusKqgfCeXfO+Yxjxj5UHV9pRV3/SBxApnsoXJDAVptmkd4fbnTw7+QL48FSd62ydqrTUCveXcxrhRn7u0YmbTwsQ08zoDJOFFI4VJ6e7ktCD4OzkDFOYZvxGtzVzxcl3UZcn+4SknP1G2b7VcGnOFFoIGv6tkeOxyuxFw4+kVN8j4ye/6qgdk73pm/D6lSX8LK4WYTvnF2yfoc7ENUg0QHOKJ/87/+QPeiyUKr6U+4vUeWAp1dABvcWX779yBlarILweQmafi3Hycgt6PdutgbwmwqqBj/MCgK+bfFFXMqeq8jJLIs+w5BffTKbhlluejxBQ1N6ETQEyikwmw4mwC/kxu3EHNAUJuGoIRYrEm8DE7oh7xufpxWdXckCDjiDICSxBdNklmCM6aHUYJq9/LkYxF8dH8oDHbVqBQQ==;XFldbmqye7xWdi/f3xX8NQ=="

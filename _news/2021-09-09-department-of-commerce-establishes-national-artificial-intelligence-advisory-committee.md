@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Department of Commerce Establishes National Artificial Intelligence Advisory Committee"
-excerpt: "A formal notice describing the National Artificial Intelligence Advisory Committee (NAIAC) and the call for nominations for the committee and its Subcommittee on Artificial Intelligence and Law Enforcement appear in the Federal Register published today."
-publishedDateTime: 2021-09-08T17:11:00Z
-originalUrl: "https://www.nist.gov/news-events/news/2021/09/department-commerce-establishes-national-artificial-intelligence-advisory"
-webUrl: "https://www.nist.gov/news-events/news/2021/09/department-commerce-establishes-national-artificial-intelligence-advisory"
+excerpt: "Trustworthy data, standards, and integration of machine learning and AI in applications are critical for the successful deployment of new technologies and the identification and mitigation of sources of algorithmic bias. U.S. Secretary of Commerce Gina ..."
+publishedDateTime: 2021-09-09T14:35:00Z
+originalUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/department-of-commerce-establishes-national-artificial-intelligence-advisory-committee/"
+webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/department-of-commerce-establishes-national-artificial-intelligence-advisory-committee/"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: National Institute of Standards & Technology
-  domain: nist.gov
+  name: Homeland Security Today
+  domain: hstoday.us
 
 topics:
   - AI
 
 images:
-  - url: "https://www.nist.gov/sites/default/files/images/2017/05/12/composite2.jpg"
-    width: 3900
-    height: 2323
+  - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-1.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -85,6 +85,6 @@ related:
         height: 341
         isCached: true
 
-secured: "l8fzm4KzBQL9a4uTmvm4UuMJ8joOgIlmz4fKKGlVnacoqMiOkFpQudkmwiVgzlVhQZ0ASFoJOoBNZCbtj+h6cWOVooFRf0Eg9NSumlhZvqgXHLimZvjWu8KVAEFXzBc4lz2ordQxyYMhsjLpiVXI3dBkvafuvDKo8yOsqjCe1F3P8ba1lSnYBh7L1mbuGX/7tp2C1v2xeGQhu3xvEbnM0Yh6toc5PIMsUDtjT3EjkO3KnfAnOtSABazZLM57iNwGY28eEgna3UrRHO+cc2AZ9/7BgrVtfqKw947X+Afqd2RJKVXFHeNXD/geiS/hJq5UY5M/frhd8uZQqVn+IbRMbWQRYLcbERPPuXI4JwHe3sCYZr2dkvhS3J8rp+0QtRGR3FP9GiVXMozf8vJM9n9doBC2tkVGA17mzhPDEPUL9826lVS0sfrzFnNyoJdVcGzdsHTjGoaSY8Y4Y2kXc2uDSslYGBkleydXvczO8g/Xa8GmI/Hd+cnZwsKzZT1CAqkxI2IkWu/aIAVmfSLHu8ozTg==;MDkdOW3rF4jeHjk/P9tWuA=="
+secured: "fDj1/bIWzafKpnp4dz/78WXB9vtbmt/CXe5OgLBLQEXEDRXaakSNvo81CqjZkhNjqUG1CG7xBcTA5IXyBCKsC/V7zfJGbRVJYhpE2PpEkWyfQcF7jR70xLB6qcFEeSA6y1LPgzbWVucZ1CpFSnMpOr+EVZ00rGnR4pi9IJVEDu90PlbJqzjvES78n6wZ/cScQ5BRxaG0LTk8buKdCXIgfG38IVU0ZM2GbmAtD6234luE7gbRz5X3XdBhVUfuTFAE0EmkIzeyczXlblPBdiXLnddwfg1lRxB9qbiBc2aN5+0EfYSeHBOG0ELftTOR6g7hi6KX4L9SxIBU0f1AF7g9gpOJjRk2A8Z9wo+rBa8d3qU=;gWQsKWCHtg9cgzneCDEm5g=="
 ---
 

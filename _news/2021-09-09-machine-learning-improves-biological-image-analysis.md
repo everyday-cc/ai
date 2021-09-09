@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Machine learning improves biological image analysis"
-excerpt: "Machine learning improves biological ... International team of researchers develops algorithm that accelerates super-resolution microscopy Prof. Dr. Jakob Macke University of Tübingen Cluster of Excellence \"Machine Learning in Science\" jakob."
-publishedDateTime: 2021-09-09T11:21:00Z
-originalUrl: "https://idw-online.de/de/news775452"
-webUrl: "https://idw-online.de/de/news775452"
+excerpt: "Scientists use super-resolution microscopy to study previously undiscovered cellular worlds, revealing nanometer-scale details inside cells. This method revolutionized light microscopy and earned its inventors the 2014 Nobel Prize in Chemistry."
+publishedDateTime: 2021-09-09T14:10:00Z
+originalUrl: "https://techxplore.com/news/2021-09-machine-biological-image-analysis.html"
+webUrl: "https://techxplore.com/news/2021-09-machine-biological-image-analysis.html"
+ampWebUrl: "https://techxplore.com/news/2021-09-machine-biological-image-analysis.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-machine-biological-image-analysis.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: idw
-  domain: idw-online.de
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://files.idw-online.de/corona_idw.png"
-    width: 615
-    height: 284
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-impro-5.jpg"
+    width: 1500
+    height: 938
     isCached: true
 
-secured: "eoHWsI7LAR7E6Wvwp8pM6xQNXg854Nfp0vzaHN9VQRYULDeT95WzQR3klU8J+HnnZU5CyHs55U3EJynCemKvvi5hIRLHu4yDa1NkHdPg5T/7CyoUcglur3NynA394KSJ9Z6lVdDaV36iP0CL5e1JG7VRtMRWB+OSWtyHycR5Za78Ly7d6+3bw1nxtEagqixTqxuz6As7m+95gUqMTyRADMdxiKD1LhBOqR2XWLbNU/UyopVMRW+LuKifyZ6+yab4Euq/JQkO6HvPL+j9Jml/suXVD8HZCykHZ+uj51MSZQDJgQCY2bVdwbMgLcjNhCAOcyuxmO2F5pS3CIVb611YiRuOO4tRmts3QhLD3ilo8Dg=;ZFEBFX2h1hlwes2xR7Rx/w=="
+secured: "XWfuNzTHabXR9uzwqWRv+1gk6Z06bNCFUEBFPFVPf3Bq783ILnGcz5Pw93aw29Gt4JXwCxPimFosCjbYzeoGeV7Zg1UqjBkaRt4tYye+28bUFyxdih+o/Te95ZappZRZGGHWvlLypkUR9+WCf1REx2d3fpvvAWqNTf9p+qHbqrgaMLCdi6lnH/NtnB5T+UoLfKGsNWI/39SXe/lMo4GDsB1FOlie3mf5pPfVs4PFujE89rkqnRuFfz+ru0q/1EPo7EVcR8PpJ2kejJPA6C7yPiBKdDdQR1DognFbrVp8J1RgBQ+BALZCymmfmiPNEdCwogyPW0/kirOPuAlw0PZCssOPH5wNW5aBok48OhTBCHk=;2j/2qWuc+6DMbKYCnO5a2A=="
 ---
 

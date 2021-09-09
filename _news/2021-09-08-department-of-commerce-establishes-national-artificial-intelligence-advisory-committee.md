@@ -72,18 +72,18 @@ related:
         height: 1168
         isCached: true
   - title: "Department of Commerce Establishes National Artificial Intelligence Advisory Committee"
-    excerpt: "A formal notice describing the National Artificial Intelligence Advisory Committee (NAIAC) and the call for nominations for the committee and its Subcommittee on Artificial Intelligence and Law Enforcement appear in the Federal Register published today."
-    publishedDateTime: 2021-09-08T17:11:00Z
-    webUrl: "https://www.nist.gov/news-events/news/2021/09/department-commerce-establishes-national-artificial-intelligence-advisory"
+    excerpt: "Trustworthy data, standards, and integration of machine learning and AI in applications are critical for the successful deployment of new technologies and the identification and mitigation of sources of algorithmic bias. U.S. Secretary of Commerce Gina ..."
+    publishedDateTime: 2021-09-09T14:35:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/department-of-commerce-establishes-national-artificial-intelligence-advisory-committee/"
     type: article
     provider:
-      name: National Institute of Standards & Technology
-      domain: nist.gov
+      name: Homeland Security Today
+      domain: hstoday.us
     quality: 29
     images:
-      - url: "https://www.nist.gov/sites/default/files/images/2017/05/12/composite2.jpg"
-        width: 3900
-        height: 2323
+      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-1.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "Pm/L5Cc5bPDaeQf7bopbAbjo1NtFEop6lAfMxOOzRtpX6Iz8iDt3A6xyY53mtsvt0OtvQLXEWjj4V8lZ38HHN1AghlsNb9jtix7NuB0TjsypCFXp8FqF1z2HYT7MTypmaK4vbTFhjy4tRTbOs4Z3ufaxxY51trTzGLwak/0YJDrhQX/b2xPqdpPS4lQgjyRfU2jqyEF6HJBMrGg/b3n7MvsCHs5MzXkY1g2aSIceiUd9lgRO7r8Wq41E2+ulGp5IyWEupwtE0lsdg7zM1Ghu1lq5RM1MhQ9aWNr5evzubja4lt7H7FRWSrYCRXhPX5NkkjBmNG0KoozXCb7khuY5yZU9CunsNXSKG5hzfHh/5So=;b8NElXdsuD6DmkBB+Cns4g=="
