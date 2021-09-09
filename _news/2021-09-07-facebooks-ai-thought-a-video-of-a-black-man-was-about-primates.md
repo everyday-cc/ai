@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform"
-    excerpt: "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question."
-    publishedDateTime: 2021-09-04T09:22:04Z
-    webUrl: "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html"
-    ampWebUrl: "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html"
-    type: article
-    provider:
-      name: com/2021/09/03/technology/facebook-ai-race-primates.html
-      domain: com/2021/09/03/technology/facebook-ai-race-primates.html
-    quality: 140
-    images:
-      - url: "https://static01.nyt.com/images/2021/09/03/business/03economy-briefing-facebook/03economy-briefing-facebook-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
     excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
     publishedDateTime: 2021-09-05T09:38:00Z
@@ -123,36 +107,15 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Facebook accused of discrimination after mechanic and pilot jobs targeted at men"
-    excerpt: "Facebook has been accused of breaching equality laws after its technology was found to favour men when targeting job adverts for male-dominated roles such as mechanics and pilots. The campaign group Global Witness has filed complaints with the Equality and Human Rights Commission (EHRC) and Information Commissioner,"
-    publishedDateTime: 2021-09-08T21:00:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/"
-    ampWebUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
+  - title: "Facebook – Facebook is very sorry that we keep noticing its racist AI"
+    excerpt: "Together with an amazing line-up of experts, we will explore the future of AI during TNW Conference 2021. Secure your ticket now! Facebook’s issuing apologies for its AI‘s bigotry again. This time, users watching a video of a Black man were asked it they were interested in more content on “primates."
+    publishedDateTime: 2021-09-07T21:28:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-very-sorry-that-we-keep-noticing-its-racist-ai/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 39
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/business/2021/09/08/bailey_trans_NvBQzQNjv4Bq3tjbT9f-vQVs0nBY2CgX4Kcvn4zc4kZ_kIejuHS7L_8.PNG"
-        width: 502
-        height: 314
-        isCached: true
-  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
-    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
-    publishedDateTime: 2021-09-06T03:49:00Z
-    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
-        width: 800
-        height: 455
-        isCached: true
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 19
 
 secured: "Fg6H3fLQoQWl14MXtdWG5hFSLuSdXkoYo9D6rlEOwMVlUxFl6Gvx6K2MmdVeAvQVEdNemwFZ5ilcs1IE16YfdRmNkes3Km5H1cebxbMxb2v5qPQrhMFWNOrq9Kh+ewIE/3yHF60Pd2G3I8eX5FIfXC10UNsfcYPkHtJ7dia2zOf2QEidg3H+1W48HpZdp2aaBiQja8s6QFX9yEVm674PIVtAMDM4HA7aGgKbcbgffqvmbZO/kLqYykc9vwBWlEky6wWq+14F13QtV9Dpa2U0Fmd11TvaSl23URv/LrzngpiquvIFZcRhcrqv+ToLHBStuH+O6LKcCy+gJs4G29e6QWAuS7NFobteusJuafifw4v3CwfAA+FqINTXmA6AuviONGwDDJ6Ska7QNhmLBpwSlWeV4lI95grA1Ve/spNHnQuN0YOw4MMnHjPgYCl89GAHGD1dyZDt8czFgJXCy4DdSwuMhWupRgBQGuBT5WzgLfcttnzd3rRxz8mPzRVXfdT7OS8ni8ZUoVeaDEgfojMsHQ==;YR3AU69a8cMUZIYxQ0khVA=="
 ---

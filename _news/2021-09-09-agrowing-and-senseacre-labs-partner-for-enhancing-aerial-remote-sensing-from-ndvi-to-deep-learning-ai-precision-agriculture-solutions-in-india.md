@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Agrowing and Senseacre Labs partner for enhancing aerial remote sensing from NDVI to Deep Learning AI Precision Agriculture\" solutions in India"
-excerpt: "MADHAPUR, India and RISHON LEZION, Israel, Sept. 9, 2021 /PRNewswire-PRWeb/ -- Senseacre Labs, selected as one of the ten most promising drone technologies companies in India"
+excerpt: "Senseacre Labs of India Agrowing of Israel enter a collaboration to enhance aerial precision agriculture in India with the next level of deep learning and artificial"
 publishedDateTime: 2021-09-08T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/09/n22856780/agrowing-and-senseacre-labs-partner-for-enhancing-aerial-remote-sensing-from-ndvi-to-deep-learning"
-webUrl: "https://www.benzinga.com/pressreleases/21/09/n22856780/agrowing-and-senseacre-labs-partner-for-enhancing-aerial-remote-sensing-from-ndvi-to-deep-learning"
-ampWebUrl: "https://www.benzinga.com/amp/content/22856780"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22856780"
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/p22856810/agrowing-and-senseacre-labs-partner-for-enhancing-aerial-remote-sensing-from-ndvi-to-deep-learning"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/p22856810/agrowing-and-senseacre-labs-partner-for-enhancing-aerial-remote-sensing-from-ndvi-to-deep-learning"
+ampWebUrl: "https://www.benzinga.com/amp/content/22856810"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22856810"
 type: article
 quality: 38
 heat: 38
@@ -26,6 +26,6 @@ images:
     height: 600
     isCached: true
 
-secured: "JGWMq4Xaa0CI6/C8JKhgO0Gs8iL693db0YUxcw7lK+pKtD2wjm9+sVsiJMrWxVfX7TtdMFr4D6l/SS3iydcoS+YO7VHQEiNQ1h2q5+rUKjzFKq0tw/iADaWysLpAZP3+rV6qrSDg/cAKCRPuad9fsi0qy6adrxZDGdWdVSbrsfYdxvXlvXTSYRi3Bv6dOW9GtUJkYUD5dJMDlVowynKUJKLNvkXFCpjqNuZwafnBKXIMp28yv8WTRU5zBaPVquM/XODjB7j+pFlitSyg5jTGbmCYDLWI4x8JX5WtoxKPd4eqMpqqbPi4xV7ifFY8TPV1zgYnUoW3qGkRwME4VB/WrTJxI/u9hxLP5InmisjOnl4=;yBMx92SOOFpywSVMLwgxfg=="
+secured: "j1YYII9CIQF1oX3ZkSVh5ZAo6prSouwx5b7hrkA4JYBqVWDuVGFlunyzpfVfYt34Og/Smo986TjkyOXACLCs27x4iRT1lbvvSPgUXaaSmjnH/g7KXwMADnbbfPleAK9N64r6Lxqb4ARDco99+TJvavK8lzdikV4tafe4hufCxZGgBPTaXdE921s1PoAhW0+AH4K9+0D0z54MFKSBi+jTgYTKlEkAbKa3yoGvEaiOtAPNQoiDti8wnLQgfbOjKFlKHlAEQ7CgPSL49XL+VsJl1UW/hd8UEhuWVz88HACzj6i26xUSMEFfgduVfJWXZZqTSUgU56DQjPLhX4rs8uJRar1ZRPbzEG+Mt+QzB/FeObo=;6Go7/tGMjOC8hyUOieYTEg=="
 ---
 

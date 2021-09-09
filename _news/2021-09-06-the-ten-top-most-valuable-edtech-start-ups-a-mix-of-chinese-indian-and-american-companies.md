@@ -74,6 +74,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
+    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
+    publishedDateTime: 2021-09-06T03:49:00Z
+    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 37
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
+        width: 800
+        height: 455
+        isCached: true
 
 secured: "5FT8Zv2Od9GfolM/lNZxF9/niL8NAVPMkC9JMMU88GkRGJ50C7WWDqZ/9CkttebpDzBzDD7EFDG1LkdZF5I2VRtT2orWQxPZ3Tm3HNIaz0nTYxcAJ1eqc5m1PG4g1BrSvXof0+Z8QKBaxZmCwRQZo9RiZs2mTSZz8DrHCr3RZ9WC+7bsePcfQuEPSy97t3hXFuTzkaJJBcLBwvEtgWzA3rGSOeHlfpAbCwHt+ty4I287TyuImF45rCiIQI5nxr2H8iFsrayXW6MCj9vNk4jgH2bViGwAdQUKqwwU4ZXawYw7tpPjWD4FujSkNwORI77/2lnaBTth58qG6OgB7IoVArnlQRCCOYIe+8aT9e6JXVEum855i21zflDHfkT5MZsB4dj77fvRZQh2RA70aDCfH6E+WwNaZs/JasRamamAdeRimQW5IKJrk1PZHx30XG+LhEcv/Cw7Tm3i+5P5QMg/RqR4IsHxyjED4NvfFlxT6EbRWK0GaRUsm3XRKL21e+AmlfH5KzrTDTRrFUE+JeZP0w==;By3aGd4Mojre8eTEtRyeRg=="
 ---

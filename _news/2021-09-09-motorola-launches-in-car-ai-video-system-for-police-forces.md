@@ -29,14 +29,19 @@ images:
 
 related:
   - title: "Motorola Solutions Launches the First In-Car Video System Enabled by Artificial Intelligence"
-    excerpt: "MSI ( News - Alert)) today introduced the first AI-enabled in-car video system for law enforcement, the M500. The solution is bringing more powerful capabilities to the police vehicle to enhance awareness and safety while building trust and transparency throughout communities."
-    publishedDateTime: 2021-09-08T13:19:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-motorola-solutions-launches-first-in-car-video-system-/2021/09/08/9444824.htm"
+    excerpt: "Motorola Solutions (NYSE: MSI) today introduced the first AI-enabled in-car video system for law enforcement, the M500. The solution is bringing more powerful capabilities to the police vehicle to enhance awareness and safety while building trust and transparency throughout communities."
+    publishedDateTime: 2021-09-08T13:02:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_06691b36-d727-5c09-8396-bfb5aab49ed1.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Daily News
+      domain: galvnews.com
+    quality: 26
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/a/58/a588cfed-0ffd-5c08-a456-cdfcb0664738/6138b7c233baa.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Motorola Solutions Launches the First In-Car Video System Enabled by Artificial Intelligence"
     excerpt: "Motorola Solutions today introduced the first AI-enabled in-car video system for law enforcement, the M500. The solution is bringing more powerful capabilities to the police vehicle to enhance awareness and safety while building trust and transparency throughout communities."
     publishedDateTime: 2021-09-08T18:16:00Z
@@ -47,6 +52,6 @@ related:
       domain: newswiretoday.com
     quality: 6
 
-secured: "CKsh+xe7xY9TrHnvjVoTjLGg59qkxCJMtslz7HiY28zoXeMmXV3nVXwexcRm+D0A7Uh/s5JsaCPCFWxw75d4ofvChUCzzS2Qp0JCbeoBglspaHIFkwPKhGUsub0t/hdjo1SamP3/O+ly9qd3OGvMm7FaoL2gZBOlAdNBPJ9fNPxKyXV1aGyK9mBLtlqS+D/vcf+viaJbGs+xmNiFNGr5gO90JTvMmUrPIYtx8FVtGHP0nAAvuRbziEbCrceGhughaF/S1vyFqszLUqSFVbfMfNdguhl7SmQivt4JrJ35ZHLDdHhNpSM1GbtQ/ZAjIk9bt2cXvxQf2nf9fwZUYQH6jmSv69K3MBi8hIdveqI8WPw=;lKnQqLHr5jOU37lexEhWgw=="
+secured: "xhweFdNUELRt/N/8bfBTyjDZT+3jvD+5K1x4EEq3ULm9y5ecVTiSwgQeMyoZxt9/ab0F8A0ZGcpFNespW7ffXBgJpZDbjrbeeioQ78HERhnKpW1pKQp7GBw96vB12bcetmXh6o/mJr+aFFK1aq5o7X00fHC+l2fs0qzVxukMA9La+UGstkz0kNoVMadjl2tXvVhihAErjO5sGrlW57Zn+Pzo72NHJ5x3AL6IUnNtrCvbbWOWG5KG85tBzc0OKwbAhYuE726Hg0gUCr9UewgpgBiu9mcWdKeAlQW3wF/AHegia8g/zrMekqUdOd8/JUJ90jPfjddU4N5tIWivSHIOBoDIugQHqbeS4se1ryxdiXgklIM4a1i31vqAT8nxQWMX7GdTYH7AeqHBy7x9pDYF/z+mj6XLwHg72QxRangQ49+EQ8hZ//lrD7D8UtJ01k0HOr56vl0XOlOCRWy9lbT/MR5mWtFZ8vMbbhslTUnEIO1fReC81oLMtZo+MT7gTGgZ1XYQu1RHzkCJsc+djarafA==;cxLAMtnzRFyLnkl3P9E2rQ=="
 ---
 

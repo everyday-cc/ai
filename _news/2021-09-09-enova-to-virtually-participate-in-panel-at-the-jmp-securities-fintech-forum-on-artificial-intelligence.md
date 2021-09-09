@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Enova To Virtually Participate in Panel at the JMP Securities Fintech Forum on Artificial Intelligence"
-excerpt: "CHICAGO, Sept. 8, 2021 /PRNewswire/ -- Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced that Joe DeCosmo, Chief Analytics and Technology Officer ..."
-publishedDateTime: 2021-09-08T22:17:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210908cg99941/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intelligence"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210908cg99941/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intelligence"
+excerpt: "Enova International (NYSE:ENVA), a leading financial technology company powered by machine learning and artificial"
+publishedDateTime: 2021-09-08T20:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/n22855404/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intellig"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/n22855404/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intellig"
+ampWebUrl: "https://www.benzinga.com/amp/content/22855404"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22855404"
 type: article
-quality: 3
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-  - AI in Finance
+
+images:
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
@@ -218,6 +225,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "0T2H7BOnD/f2BtljKrjqM0yc5yzu1X/KkiItGbsVwazjjlVmMRpgPp2+08YhYTG5FBIEbQOsM6Byp/IQuD96RxRbgJGLtpgpi9bwQZo+mt0fyHgiefeJFlGlvAtjSoW9tXd1uhiH5bkG2NvRUUFayDfScAPIwtAMXbDizLx18jOhrBREqvzE3vPwc7UmOmm+B+T32UMft9iz6DesZcEfOVsNOPQsFB/huTukPq9EdxEeR7jz0RQKwkiIdNecvHD9vxTTB2qIkAxATIMOZxkm6pujdC5uDG34CrF2lZjuzWPho7rFzt2TgE8RZzmRXhlnCySaGMgHf8XW8uPY3qADSEUe0Ud8W7gsKFURTt4bvSQ=;SetNfTJltunsZwArBBJ2/Q=="
+secured: "NAbMzqw5+vUJ0BiuiIfOsuV85cYmLnhDrwItKRqlQfr7DUfHtO/MlqDjYDq/9N4rdevzOyYgXYLeSPy4CsyvY9PB+2kq414CPOTad6f3i9N11QV6rAH6DbgReIAsKQxSCzzPlrixM8lEkiEf0Xqi+KD3g1kKdR2dkU9qDM2IdB0KPvrES68RcE0D0C+FmkflYZz5zpTHSR/ZjinfVf6VNiwFRGvfyWYDXJEJ1wsmJx0fHyaMVKZgd8URw368udF1soFWozi4BWod3A4LkOjeHrwKRD5XS+U0apDYnCNMlvQIZQ5jJb5Bh+xbAWW5C25MYvDzux8ruwubKoTXmyx21C9KkG8ZNuB4N5qu9LGAEOY=;SRfnQNcuvb03P0SpjSKyhw=="
 ---
 

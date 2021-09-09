@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Broadridge Financial Solutions Appoints Fintech-focused Fixed Income Specialists"
+    excerpt: "Broadridge Financial reveals that Ted Bragg, Jim Kwiatkowski have joined LTX, a Broadridge firm providing an online trading platform."
+    publishedDateTime: 2021-09-09T02:15:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/180058-broadridge-financial-solutions-appoints-fintech-focused-fixed-income-specialists/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/180058-broadridge-financial-solutions-appoints-fintech-focused-fixed-income-specialists/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/180058-broadridge-financial-solutions-appoints-fintech-focused-fixed-income-specialists/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Corporate-Bond-Security-Pacific-Railroad-1865-300x224.jpeg"
+        width: 300
+        height: 224
+        isCached: true
   - title: "Broadridge/LTX hires fintech fixed income veterans"
     excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that Ted Bragg and Jim Kwiatkowski have joined LTX, a Broadridge company offering a new AI-driven digital trading platform for corporate bonds."
     publishedDateTime: 2021-09-07T20:07:00Z

@@ -97,6 +97,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Enova To Virtually Participate in Panel at the JMP Securities Fintech Forum on Artificial Intelligence"
+    excerpt: "Enova International (NYSE:ENVA), a leading financial technology company powered by machine learning and artificial"
+    publishedDateTime: 2021-09-08T20:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/09/n22855404/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intellig"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22855404"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22855404"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
     excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
     publishedDateTime: 2021-09-07T13:53:00Z
@@ -191,15 +207,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 10
-  - title: "Enova To Virtually Participate in Panel at the JMP Securities Fintech Forum on Artificial Intelligence"
-    excerpt: "CHICAGO, Sept. 8, 2021 /PRNewswire/ -- Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced that Joe DeCosmo, Chief Analytics and Technology Officer ..."
-    publishedDateTime: 2021-09-08T22:17:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210908cg99941/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intelligence"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 3
   - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
     excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
     publishedDateTime: 2021-09-08T12:18:00Z

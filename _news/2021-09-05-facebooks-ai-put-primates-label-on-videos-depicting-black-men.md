@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-la
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Mint
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform"
-    excerpt: "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question."
-    publishedDateTime: 2021-09-04T09:22:04Z
-    webUrl: "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html"
-    ampWebUrl: "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html"
-    type: article
-    provider:
-      name: com/2021/09/03/technology/facebook-ai-race-primates.html
-      domain: com/2021/09/03/technology/facebook-ai-race-primates.html
-    quality: 140
-    images:
-      - url: "https://static01.nyt.com/images/2021/09/03/business/03economy-briefing-facebook/03economy-briefing-facebook-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Facebook Apologises After AI Labels Black Men in Video as “Primates”"
     excerpt: "A video on ubiquitous social media platform Facebook titled “White man calls cops on black men at marina”, published by UK tabloid Daily Mail, included an automated prompt by the social network, asking users if they would like to “Keep seeing videos about Primates?"
     publishedDateTime: 2021-09-06T11:07:00Z
@@ -123,36 +107,15 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Facebook accused of discrimination after mechanic and pilot jobs targeted at men"
-    excerpt: "Facebook has been accused of breaching equality laws after its technology was found to favour men when targeting job adverts for male-dominated roles such as mechanics and pilots. The campaign group Global Witness has filed complaints with the Equality and Human Rights Commission (EHRC) and Information Commissioner,"
-    publishedDateTime: 2021-09-08T21:00:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/"
-    ampWebUrl: "https://www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/business/2021/09/08/facebook-accused-discrimination-mechanic-pilot-jobs-targeted/amp/"
+  - title: "Facebook – Facebook is very sorry that we keep noticing its racist AI"
+    excerpt: "Together with an amazing line-up of experts, we will explore the future of AI during TNW Conference 2021. Secure your ticket now! Facebook’s issuing apologies for its AI‘s bigotry again. This time, users watching a video of a Black man were asked it they were interested in more content on “primates."
+    publishedDateTime: 2021-09-07T21:28:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-very-sorry-that-we-keep-noticing-its-racist-ai/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 39
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/business/2021/09/08/bailey_trans_NvBQzQNjv4Bq3tjbT9f-vQVs0nBY2CgX4Kcvn4zc4kZ_kIejuHS7L_8.PNG"
-        width: 502
-        height: 314
-        isCached: true
-  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
-    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
-    publishedDateTime: 2021-09-06T03:49:00Z
-    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
-        width: 800
-        height: 455
-        isCached: true
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 19
 
 secured: "oEnHrBkQ4PpfV9iVZKbdM/V31pmvG2zijCvcVTJp/MyMHTaeo/xpgca0TEHO7pQ6c2prNFYU4xksceYlLnDrevdhawntw1qYYX76ikWN0rj0abqNbUGK8ab/kFfjg5xGOIPLNYg6dSwa6m3ixBvFxwJ3bZXnx1cDJCtCVeWI5pgQqPEm8+g0xsReaowvhqC4HtS4GWDUawLs0Ertc0xnEwwSeXuuTDqX1UBfkwPjdiDRfonWEidXvJZ4hg/a+GEp7mvHzd4Ytbz7Np+jdAZNBTqG4kuCMkinrVyO2bsC/rHw9HiX7lOJvUZmNruUIwd095MzIFH4fe0iuWXnHhAgnlgN69Q5O0iFMzC6hQwmK+/yIIB0bZBWJCBSjzdCKmSdRPf7KATCbg4KBQ9MqOwsOJ3PpUi92R5lw9c1qe00Euu2zehDaoOhAjZmTWEDycBsrEdpUgq8RBZW2LgRN5kRqu8pBrz7X5AkjaJkE9N1HYYTkgYnZVCnsVgrhLEIiQpM21tSOeO6DPNlovtueTcIzA==;3MRyRdyUMFsKwXnE4Nmiuw=="
 ---
