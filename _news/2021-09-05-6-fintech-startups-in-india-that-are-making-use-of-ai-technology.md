@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 199
+heat: 219
 published: true
 
 provider:
@@ -65,6 +65,17 @@ related:
     webUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07"
     ampWebUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "4 Fintech Stocks To Watch As Paypal Acquires BNPL Startup"
+    excerpt: "Hot Fintech Stocks To Watch Right Now Amid PayPal’s Acquisition. Fintech is taking the world by storm and this would naturally highlight fintech stocks in the stock market. The"
+    publishedDateTime: 2021-09-08T17:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-fintech-stocks-to-watch-as-paypal-acquires-bnpl-startup-2021-09-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-fintech-stocks-to-watch-as-paypal-acquires-bnpl-startup-2021-09-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-fintech-stocks-to-watch-as-paypal-acquires-bnpl-startup-2021-09-08?amp"
     type: article
     provider:
       name: Nasdaq
@@ -180,6 +191,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 10
+  - title: "Enova To Virtually Participate in Panel at the JMP Securities Fintech Forum on Artificial Intelligence"
+    excerpt: "CHICAGO, Sept. 8, 2021 /PRNewswire/ -- Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced that Joe DeCosmo, Chief Analytics and Technology Officer ..."
+    publishedDateTime: 2021-09-08T22:17:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210908cg99941/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intelligence"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 3
   - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
     excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
     publishedDateTime: 2021-09-08T12:18:00Z

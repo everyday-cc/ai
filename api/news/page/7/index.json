@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-01-vmwares-new-tanzu-platform-aims-to-unify-kubernetes-development.md",
+      "title": "VMware’s new Tanzu platform aims to unify Kubernetes development",
+      "excerpt": "The beta release of TAP promises to abstract the complexity of Kubernetes for enterprise developers at all stages of their cloud-native journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/11/creative-thinking-thinkstock-100528932-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.amp.html",
+      "publishedDateTime": "2021-09-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-voice-ai-company-skit-secures-23-mn-in-series-b-round-from-westbridge-capital.md",
+      "title": "Voice AI Company Skit Secures $23 Mn In Series B Round From WestBridge Capital",
+      "excerpt": "The fresh capital will help enhance the company’s voice technology, developing personalized solutions while making strategic headway in global markets, like the US",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/382879",
+      "originalUrl": "https://www.entrepreneur.com/article/382879",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630496482-SourabhLandAkshayRv1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/382879",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382879",
+      "publishedDateTime": "2021-09-01T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-meet-the-entrepreneur-teaching-computers-to-understand-human-emotions.md",
       "title": "Meet the entrepreneur teaching computers to understand human emotions",
       "excerpt": "They store and process vast amounts of data in the blink of an eye, translate language instantaneously ... Specializing in \"Emotion AI,\" a subsect of artificial intelligence, Kaliouby wants ...",
@@ -985,6 +1089,40 @@
       ]
     },
     {
+      "path": "_news/2021-08-31-how-emerging-technology-is-changing-the-data-privacy-landscape.md",
+      "title": "How Emerging Technology is Changing the Data Privacy Landscape",
+      "excerpt": "Although there are many different emerging technologies, we’ll focus on Blockchain Technology, Artificial Intelligence (AI), and Zero Trust Architecture. Blockchain is undoubtedly one of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/emerging-technology-changing-data-privacy-landscape/",
+      "originalUrl": "https://www.ciol.com/emerging-technology-changing-data-privacy-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/emerging-technology-changing-data-privacy-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/emerging-technology-changing-data-privacy-landscape/amp/",
+      "publishedDateTime": "2021-08-31T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-open-finance-is-all-set-to-become-the-next-frontier-in-fintech.md",
       "title": "Open Finance Is All Set To Become The Next Frontier In Fintech",
       "excerpt": "Open Finance is not just considered to be an extension but the next big step in the fintech journey. Over the past decade, Fintech companies have",
@@ -1033,145 +1171,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-android-12-adds-ai-and-machine-learning-with-private-compute-core-but-keeps-your-data-secure.md",
-      "title": "Android 12 adds AI and machine learning with Private Compute Core but keeps your data secure",
-      "excerpt": "Android 12 is bringing a new feature to strengthen the security of data used by machine learning. Jack Wallen explains Private Compute Core.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/android-12-adds-ai-and-machine-learning-with-private-compute-core-but-keeps-your-data-secure/",
-      "originalUrl": "https://www.techrepublic.com/article/android-12-adds-ai-and-machine-learning-with-private-compute-core-but-keeps-your-data-secure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/31/4a826739-91ff-4b35-b5b2-73edab44aa9f/resize/1200x/e0b2cf40181ddb8622b98b47a8f55867/pcca.jpg",
-          "width": 1200,
-          "height": 2602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/android-12-adds-ai-and-machine-learning-with-private-compute-core-but-keeps-your-data-secure/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/android-12-adds-ai-and-machine-learning-with-private-compute-core-but-keeps-your-data-secure/",
-      "publishedDateTime": "2021-08-31T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-why-businesses-benefit-from-building-ethical-ai.md",
-      "title": "Why Businesses Benefit From Building Ethical AI",
-      "excerpt": "Compatible Artificial Intelligence (CHAI) Throughout the pandemic, many businesses have turned to artificial intelligence at",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31",
-      "originalUrl": "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-businesses-benefit-from-building-ethical-ai-2021-08-31?amp",
-      "publishedDateTime": "2021-08-31T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-the-dods-slingshot-past-jedi-to-multi-cloud.md",
-      "title": "The DoD’s Slingshot Past JEDI To Multi-Cloud",
-      "excerpt": "The canceled DoD/Microsoft arrangement most likely is the end of single-source vendor contracts in the information technology space. At this time, we are now moving towards an era of multi-cloud across the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emilsayegh/2021/08/31/the-dods-slingshot-past-jedi-to-multi-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/emilsayegh/2021/08/31/the-dods-slingshot-past-jedi-to-multi-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611bdd6cde0a526658e8e75b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emilsayegh/2021/08/31/the-dods-slingshot-past-jedi-to-multi-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2021/08/31/the-dods-slingshot-past-jedi-to-multi-cloud/amp/",
-      "publishedDateTime": "2021-08-31T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

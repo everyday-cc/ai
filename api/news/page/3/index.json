@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-07-singapore-has-safety-patrol-robots-now-this-should-be-fine.md",
+      "title": "Singapore has safety patrol robots now! This should be fine.",
+      "excerpt": "Singapore has started testing patrol robots that provide surveillance in pedestrian areas, working with the city-state's police force.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/singapore-police-patrol-surveillance-robots",
+      "originalUrl": "https://mashable.com/article/singapore-police-patrol-surveillance-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/0700hA1x6jKi99YlGCe3tFO/hero-image.fill.size_1200x675.v1631015706.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/singapore-police-patrol-surveillance-robots?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/singapore-police-patrol-surveillance-robots?amp",
+      "publishedDateTime": "2021-09-07T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-ai-or-rpa-which-is-the-true-automation-game-changer.md",
+      "title": "AI Or RPA: Which Is The True Automation Game-Changer?",
+      "excerpt": "With AI advancing at such a rapid pace, organizations can now skip RPA and combine AI with application programming interfaces (APIs) to achieve more holistic automation that requires less maintenance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda45bb02ecda00061c10ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/amp/",
+      "publishedDateTime": "2021-09-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-astronauts-in-space-will-soon-resurrect-an-ai-robot-friend-called-cimon.md",
       "title": "Astronauts in space will soon resurrect an AI robot friend called CIMON",
       "excerpt": "The AI-powered robot CIMON has received a software update before an upcoming round of more complex experiments at the International Space Station.",
@@ -339,7 +433,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/laser-powered-weeder-zaps-without-poison/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -486,7 +580,7 @@
       "originalUrl": "https://www.bbc.com/news/business-57914432",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -537,7 +631,7 @@
       "originalUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -633,7 +727,7 @@
       "originalUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -685,7 +779,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1072,7 +1166,7 @@
       "originalUrl": "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1103,101 +1197,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai.md",
-      "title": "ESPN and IBM unveil new fantasy football trade features with help from Watson AI",
-      "excerpt": "With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages. The Trade Assistant with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/",
-      "originalUrl": "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/",
-      "publishedDateTime": "2021-09-05T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-federal-agencies-are-rapidly-increasing-their-use-of-facial-recognition.md",
-      "title": "Federal agencies are rapidly increasing their use of facial recognition",
-      "excerpt": "The U.S. Government Accountability Office released a report on Aug. 24, 2021, detailing current and planned use of facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication",
-      "originalUrl": "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FFR.jpg&signature=edf8bfb4b96e8f3d082fcc901f7f5547",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

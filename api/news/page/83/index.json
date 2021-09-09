@@ -2,6 +2,185 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2021-07-09-oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai.md",
+      "title": "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai",
+      "excerpt": "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (\"OneConnect\" or \"the Company\"), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the (WAIC 2021) held in Shanghai from July 8-10,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1560742/OneConnect_at_World_Artificial_Intelligence_Conference_2021.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change.md",
+      "title": "Cell Therapy Technologies Global Market Report 2021: COVID-19 Growth And Change",
+      "excerpt": "Reportlinker.com announces the release of the report \"Cell Therapy Technologies Global Market Report 2021: COVID-19 Growth",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/g21910556/cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/g21910556/cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot.md",
+      "title": "CBA turns focus on applying responsible AI following national ethics framework pilot",
+      "excerpt": "Commonwealth Bank of Australia (CBA) has revealed that testing the federal government's artificial intelligence (AI) ethics principles during the creation and design of its Commbank app feature Bill Sense gave insight into how the bank could apply ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
+      "originalUrl": "https://www.zdnet.com/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cba-turns-focus-on-applying-responsible-ai-following-national-ethics-framework-pilot/",
+      "publishedDateTime": "2021-07-08T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-intel-exec-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-in-ai.md",
+      "title": "Intel exec Huma Abidi on the urgent need for diversity and inclusion in AI",
+      "excerpt": "Intel's Huma Abidi talks about her DE&I initiatives both in her private life and as part of Intel's ongoing efforts across the company.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/HumaA-DSC04128-2021-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/intels-huma-abidi-on-the-urgent-need-for-diversity-and-inclusion-initiatives-in-ai/amp/",
+      "publishedDateTime": "2021-07-08T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-using-video-feeds-from-public-traffic-cameras-and-computer-vision-to-analyze-social-distancing-and-travel-patterns-during-the-covid-19-pandemic.md",
       "title": "Using Video Feeds from Public Traffic Cameras and Computer Vision to Analyze Social Distancing and Travel Patterns during the COVID-19 Pandemic",
       "excerpt": "For USDOT specific COVID-19 resources, please visit our page. Researchers at the Connected Cities for Smart Mobility towards Accessible and Reliable Transportation (C2SMART) University Transportation Center (UTC),",
@@ -944,178 +1123,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-developers-have-a-moral-duty-to-create-ethical-ai.md",
-      "title": "Developers have a moral duty to create ethical AI",
-      "excerpt": "Developers of artificial intelligence (AI), machine learning (ML ... “Training, bias awareness, policies upon deployment, adherence to law, rules, regulations and ethics are key ingredients. “Developers must work with the human to create a product ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI",
-      "originalUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI?amp=1",
-      "publishedDateTime": "2021-07-08T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology.md",
-      "title": "Maine Becomes First State To Pass Broad Government Ban on Facial Recognition Technology",
-      "excerpt": "Maine's new law is both the strongest and broadest in scope as of yet. The new bill bans the use of facial recognition technology across all levels of state government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/",
-      "originalUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/07/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/maine-becomes-first-state-to-pass-broad-government-ban-on-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-07-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias.md",
-      "title": "OpenAI warns AI behind GitHub’s Copilot may be susceptible to bias",
-      "excerpt": "Take our AI survey to find out ... While Codex was trained on Microsoft Azure, which OpenAI notes purchases carbon credits and sources “significant amounts of renewable energy,” the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
-      "originalUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/08/openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias/amp/",
-      "publishedDateTime": "2021-07-08T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-aria-exchange-announces-exclusive-fan-engagement-nft-partnership-with-the-major-league-baseball-players-alumni-association.md",
-      "title": "ARIA Exchange Announces Exclusive Fan Engagement NFT Partnership with the Major League Baseball Players Alumni Association",
-      "excerpt": "ARIA Exchange is setting a new standard for NFTs by leveraging advanced augmented reality, triggered by patent-pending facial, image and object recognition that activates experiences from any ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210708005245/en/ARIA-Exchange-Announces-Exclusive-Fan-Engagement-NFT-Partnership-with-the-Major-League-Baseball-Players-Alumni-Association",
-      "originalUrl": "https://www.businesswire.com/news/home/20210708005245/en/ARIA-Exchange-Announces-Exclusive-Fan-Engagement-NFT-Partnership-with-the-Major-League-Baseball-Players-Alumni-Association",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/laser-powered-weeder-zaps-without-poison/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

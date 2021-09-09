@@ -69,17 +69,6 @@ related:
         width: 777
         height: 516
         isCached: true
-  - title: "Microsoft, Australian Institute for Machine Learning, to process data in space"
-    excerpt: "Microsoft and the Australian Institute for Machine Learning have signed a deal that will radically change how satellite data is handled in space."
-    publishedDateTime: 2021-09-08T13:30:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/microsoft-australian-institute-for-machine-learning-to-process-data-in-space/news-story/167074a2202019262d2267c9b8f41102"
-    ampWebUrl: "https://amp.theaustralian.com.au/business/technology/microsoft-australian-institute-for-machine-learning-to-process-data-in-space/news-story/167074a2202019262d2267c9b8f41102"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/microsoft-australian-institute-for-machine-learning-to-process-data-in-space/news-story/167074a2202019262d2267c9b8f41102"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 52
   - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
     excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
     publishedDateTime: 2021-09-06T10:14:00Z
@@ -94,31 +83,6 @@ related:
         width: 700
         height: 369
         isCached: true
-  - title: "Microsoft boosts Australian space investment"
-    excerpt: "Microsoft has boosted its investment in Australia’s space sector through Azure Space, integrating its cloud solutions with a range of partners tackling spaced-based technologies."
-    publishedDateTime: 2021-09-08T14:11:00Z
-    webUrl: "https://www.arnnet.com.au/article/691131/microsoft-boosts-australian-space-investment/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/lynn-mcdonald-picture.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Microsoft making a splash with push into deep space"
-    excerpt: "Artificial intelligence, advanced analytics, machine learning augmented reality are all capabilities in the mix. Through Azure Orbital, Microsoft is building out “ground station as a service” and satellite connectivity both native to the Azure platform ..."
-    publishedDateTime: 2021-09-08T09:16:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/microsoft-making-a-splash-with-push-into-deep-space/news-story/204b27717d17d74d6883680c1dccab84"
-    ampWebUrl: "https://amp.theaustralian.com.au/business/technology/microsoft-making-a-splash-with-push-into-deep-space/news-story/204b27717d17d74d6883680c1dccab84"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/microsoft-making-a-splash-with-push-into-deep-space/news-story/204b27717d17d74d6883680c1dccab84"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "Microsoft teams up with LX Semicon to develop 3D depth-sensing solution in virtual reality"
     excerpt: "U.S. technology giant Microsoft will collaborate with LX Semicon, a fabless manufacturer in South Korea, to develop a 3D-sensing solution for virtual reality and augmented reality. The solution will be based on 3D time of flight sensors that measure the distance between the sensor and a target object by calculating the time taken for light to bounce back."
     publishedDateTime: 2021-09-08T04:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.teletrader.com/amp/news/details/56323917"
 cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56323917"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Afghan women demand rights as Taliban seek recognition"
-    excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new rulers work"
-    publishedDateTime: 2021-09-04T05:50:00Z
-    webUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/"
-    ampWebUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 44
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246339754606.jpg?w=1024&#038;h=732"
-        width: 1024
-        height: 732
-        isCached: true
   - title: "Psaki says Taliban government hasn’t earned recognition by global community"
     excerpt: "White House press secretary Jen Psaki on Wednesday declined to say if the U.S. would validate Afghanistan’s Taliban government, saying it hasn’t earned the respect of the global community."
     publishedDateTime: 2021-09-08T21:40:00Z

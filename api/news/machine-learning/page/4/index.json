@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-11-how-etsy-crafts-aiml-cost-optimization-balance.md",
+      "title": "How Etsy Crafts AI/ML Cost, Optimization Balance",
+      "excerpt": "Much has changed at online retail giant, Etsy, since 2015 when we talked to the company’s senior VP of technical operations about their adherence to their",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/",
+      "originalUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/shutterstock_1456290809.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/11/how-etsy-crafts-ai-ml-cost-innovation-balance/amp/",
+      "publishedDateTime": "2021-08-11T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-deep-learning-model-classifies-brain-tumors-with-single-mri-scan.md",
       "title": "Deep learning model classifies brain tumors with single MRI scan",
       "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
@@ -1305,49 +1348,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-deep-learning-market-over-long-term-evolution-in-nearby-future.md",
-      "title": "Deep Learning Market Over Long Term Evolution in Nearby Future",
-      "excerpt": "Pune, Maharashtra, India, August 5 2021 (Wiredrelease) MarketResearch.Biz –:Marketresearch.biz recently introduced a new title on “Global Deep Learning Market: Industry Analysis, Size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-over-long-term-evolution-in-nearby-future",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-over-long-term-evolution-in-nearby-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Joe-Biden-White-House-AFP-1K-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

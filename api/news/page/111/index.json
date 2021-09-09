@@ -2,6 +2,195 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2021-06-20-candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai.md",
+      "title": "Candy Shop Slaughter is a video game concept creatd by AI",
+      "excerpt": "Elevate your enterprise data technology and strategy at Transform 2021. It is possible for artificial intelligence to create a video game. Contrary to popular opinion and hopes for humanity, an AI came up with the basic design for a video game called Candy Shop Slaughter.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/",
+      "originalUrl": "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/candy-shop-cover.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/amp/",
+      "publishedDateTime": "2021-06-20T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-bert-preprocessing-with-tf-text.md",
+      "title": "BERT Preprocessing with TF Text",
+      "excerpt": "Text preprocessing is the end-to-end transformation of raw text into a model’s integer inputs. NLP models are often accompanied by several hundreds (if not thousands) of lines of Python code for preprocessing text. Text preprocessing is often a challenge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/text/guide/bert_preprocessing_guide?hl=lv",
+      "originalUrl": "https://www.tensorflow.org/text/guide/bert_preprocessing_guide?hl=lv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=lv",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-20T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-finclude-joins-growing-ecosystem-of-partners-supporting-the-ibm-cloud-for-financial-services.md",
+      "title": "Finclude Joins Growing Ecosystem of Partners Supporting the IBM Cloud for Financial Services",
+      "excerpt": "Finclude, an Ireland-based start-up that provides credit scoring and affordability profiles using machine learning technology, today announced it has joined IBM’s (NYSE: IBM) growing ecosystem of more than 100 Global Systems Integrators (GSIs),",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/fintech-startups/finclude-joins-growing-ecosystem-partners-supporting-ibm-cloud-financial",
+      "originalUrl": "https://financialit.net/news/fintech-startups/finclude-joins-growing-ecosystem-partners-supporting-ibm-cloud-financial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/sbyufgcw67et92763etqiwu829.png",
+          "width": 776,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-ai-in-fashion-market-impact-and-recovery-analysis-ibm-google-facebook-adobe-oracle.md",
+      "title": "Ai In Fashion Market Impact and Recovery Analysis| IBM, Google, Facebook, Adobe, Oracle",
+      "excerpt": "Ai In Fashion Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has been looked upon is done considering both, the existing top players and the upcoming competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/20/ai-in-fashion-market-impact-and-recovery-analysis-ibm-google-facebook-adobe-oracle/",
+      "originalUrl": "https://ksusentinel.com/2021/06/20/ai-in-fashion-market-impact-and-recovery-analysis-ibm-google-facebook-adobe-oracle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/A2Z-Market-Research-2-54-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-20T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-india-gears-up-for-robot-campaigners-in-2022-assembly-polls.md",
       "title": "India gears up for robot campaigners in 2022 Assembly polls",
       "excerpt": "As mass public gatherings remain an obvious danger in India amid the lethal Covid-19 waves, you may see humanoid robots performing campaigning on behalf of political leaders in the 2022",
@@ -952,215 +1141,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws.md",
-      "title": "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS",
-      "excerpt": "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-baidu-to-deploy-1000-budget-robotaxis-on-chinese-roads-as-it-seeks-ways-to-monetise-autonomous-driving-technology.md",
-      "title": "Baidu to deploy 1,000 budget robotaxis on Chinese roads as it seeks ways to monetise autonomous driving technology",
-      "excerpt": "Baidu’s autonomous driving unit has partnered with the luxury electric vehicle brand of BAIC Group to bring fifth generation Apollo Moon robotaxis to Chinese roads, cutting the cost of the vehicles by two thirds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3137776/baidu-deploy-1000-budget-robotaxis-chinese-roads-it-seeks-ways",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3137776/baidu-deploy-1000-budget-robotaxis-chinese-roads-it-seeks-ways",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/18/e0d7ad32-b330-4ef8-9f46-0d8030629df2_1b3cc3ef.jpg?itok=mgp8ZqYp&v=1624012155",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3137776/baidu-deploy-1000-budget-robotaxis-chinese-roads-it-seeks-ways",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137776/baidu-deploy-1000-budget-robotaxis-chinese-roads-it-seeks-ways",
-      "publishedDateTime": "2021-06-18T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-self-driving-cars-are-a-no-go-so-lets-all-pretend-flying-cars-are-coming.md",
-      "title": "Self-driving cars are a no-go, so let’s all pretend flying cars are coming",
-      "excerpt": "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming",
-      "originalUrl": "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-tesla-rival-xpeng-gets-self-driving-parking-assist-but-it-needs-to-be-trained-for-specific-parking-spots.md",
-      "title": "Tesla rival Xpeng gets self-driving parking assist, but it needs to be trained for specific parking spots",
-      "excerpt": "Xpeng’s P7 is getting a software update with Valet Parking Assist as it tries to catch up with rivals like Tesla, whose autonomous summon feature has received regulatory scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/18/7699694b-c909-4b2c-9733-fcfbe357198f_8cb3e1bc.jpg?itok=k6YXIHFB&v=1623999945",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
-      "publishedDateTime": "2021-06-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

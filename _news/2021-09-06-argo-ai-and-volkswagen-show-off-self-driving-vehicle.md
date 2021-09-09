@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html"
 type: article
 quality: 89
-heat: 129
+heat: 130
 published: true
 
 provider:

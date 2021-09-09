@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-02-meet-emma-the-ai-robot-masseuse-practicing-ancient-wellness-therapies.md",
+      "title": "Meet 'EMMA': The AI robot masseuse practicing ancient wellness therapies",
+      "excerpt": "Developed by Singapore-based startup AiTreat, \"EMMA\" is a robot masseuse that uses sensors and 3D vision to deliver deep tissue massages and traditional Chinese medicine (TCM) therapies.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210827144954-01-emma-robot-masseuse-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "publishedDateTime": "2021-09-01T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2.md",
+      "title": "Ambarella Analysts Laud Accelerating Computer Vision Momentum Following Blowout Q2",
+      "excerpt": "Morgan Stanley analyst Joseph Moore maintained an Overweight rating and $137 price target for Ambarella shares. Rosenblatt Securities analyst Kevin Cassidy maintained a Buy rating and increased the price target from $145 to $160.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2-1030774303",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2-1030774303",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/camera-3376230_1920_0.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-seoul-robotics-launches-3d-perception-software-with-deep-learning.md",
       "title": "Seoul Robotics launches 3D perception software with deep learning",
       "excerpt": "Deep learning is at the heart of the new software, allowing Seoul Robotics to improve the perception accuracy of autonomous mobile robots.",
@@ -1096,110 +1200,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-vmwares-new-tanzu-platform-aims-to-unify-kubernetes-development.md",
-      "title": "VMware’s new Tanzu platform aims to unify Kubernetes development",
-      "excerpt": "The beta release of TAP promises to abstract the complexity of Kubernetes for enterprise developers at all stages of their cloud-native journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.html",
-      "originalUrl": "https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/11/creative-thinking-thinkstock-100528932-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3631384/vmware-s-new-tanzu-platform-aims-to-unify-kubernetes-development.amp.html",
-      "publishedDateTime": "2021-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-voice-ai-company-skit-secures-23-mn-in-series-b-round-from-westbridge-capital.md",
-      "title": "Voice AI Company Skit Secures $23 Mn In Series B Round From WestBridge Capital",
-      "excerpt": "The fresh capital will help enhance the company’s voice technology, developing personalized solutions while making strategic headway in global markets, like the US",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/382879",
-      "originalUrl": "https://www.entrepreneur.com/article/382879",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630496482-SourabhLandAkshayRv1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/382879",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382879",
-      "publishedDateTime": "2021-09-01T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-25-bodoai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data.md",
+      "title": "Bodo.ai secures $14M, aims to make Python better at handling large-scale data",
+      "excerpt": "Bodo.ai, a parallel compute platform for data workloads, is developing a compiler to make Python portable and efficient across multiple hardware platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/25/bodo-ai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data/",
+      "originalUrl": "https://techcrunch.com/2021/08/25/bodo-ai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-960937636.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/25/bodo-ai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/bodo-ai-secures-14m-aims-to-make-python-better-at-handling-large-scale-data/amp/",
+      "publishedDateTime": "2021-08-25T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-ai-workshops-explore-our-future-and-how-we-create-it.md",
       "title": "AI Workshops: Explore Our Future and How We Create It",
       "excerpt": "Discuss AI is a multi-programme initiative run by the SFI ADAPT Centre for AI-Driven Digital Content Technology",
@@ -1327,50 +1379,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-aws-announces-amazon-transcribe-call-analytics-api-for-conversation-insights.md",
-      "title": "AWS Announces Amazon Transcribe Call Analytics API for Conversation Insights",
-      "excerpt": "AWS announced Amazon Transcribe Call Analytics, a new feature of Amazon Transcribe. AWS customers can extract valuable insights from customer conversations like customer and agent sentiment, and conversation characteristics such as non-talk time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/",
-      "originalUrl": "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/08/amazon-transcribe-call-analytics/en/headerimage/header+%2811%29-1628764462998.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

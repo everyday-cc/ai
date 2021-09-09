@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-image
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.amp"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:

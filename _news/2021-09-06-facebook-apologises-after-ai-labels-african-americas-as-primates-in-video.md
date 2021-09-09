@@ -41,20 +41,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Facebook AI mislabels video of Black men as 'Primates' content"
-    excerpt: "Users who watched a video posted by Daily Mail featuring Black men saw a prompt asking them if they'd like to \"[k]eep seeing videos about Primates.\"."
-    publishedDateTime: 2021-09-04T06:17:00Z
-    webUrl: "https://www.engadget.com/facebook-ai-mislabels-video-black-men-primates-044255703.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/61d84470-0d2f-11ec-b7ff-aec40b61b306"
-        width: 5122
-        height: 3415
-        isCached: true
   - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
     excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
     publishedDateTime: 2021-09-05T09:38:00Z

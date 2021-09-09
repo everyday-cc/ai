@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Afghan women demand rights as Taliban seek recognition"
-    excerpt: "A small group of Afghan women protested near the presidential palace in Kabul on Friday, demanding equal rights from the Taliban as Afghanistan’s new rulers work"
-    publishedDateTime: 2021-09-04T05:50:00Z
-    webUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/"
-    ampWebUrl: "https://www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/09/03/afghan-women-demand-rights-as-taliban-seek-recognition/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 44
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/09/AP21246339754606.jpg?w=1024&#038;h=732"
-        width: 1024
-        height: 732
-        isCached: true
   - title: "WH: No need to rush Taliban gov't recognition"
     excerpt: "White House Press Secretary Jen Psaki stated on Tuesday the United States is not in a rush to recognize the new Afghan government led by the Taliban. Speaking before the president's departure for"
     publishedDateTime: 2021-09-07T15:17:00Z
@@ -76,6 +60,6 @@ related:
         height: 900
         isCached: true
 
-secured: "mZ0c+rD/0b51KA1P/TFzL744KO0WmR5srzDncyQWKDSRKhdNiN43se9VZzaiQgr5MLgKbymAQFahbRjMe7XDwTDItDYqDywzvr06ESCzlSAPuW0Vn9j3m2hBMTqpJ/jHq4+3XmWMceNe1oh5rVgpjE+0Z/N6CnATvVH6WhSV7/02VcOqfFnnIoE+f3y2rR+EdgOfPKw+Y9naA0SZuidMb8YtcVTb/vBf2IjxDJ9epZKnLEinFCxPxiqF/S5k/NthrtEhVAsXFI0zKGgDUR7ka6Lct5JgJltyT63QRPt37Wjp9GkyANRuhbHt7GSuM+xk+By7PGK8+DuhNHeED6OdHugtUER55NbGCl1lr8mHEZo=;/yr86wvLmBqjL9qmi/8/Tw=="
+secured: "uOuItv869edTxrhvCwwwL7sxpg5ULC1pffSeHjXh7fsazfu6DPiEw/eK3BuYoDIZ+ctl078yhaETiRDwtVpvgNFFQw/45wVDjaMNOze2hVMRGhHcPGs4GEcgWeOlXX2BdU2p1Bt+I+pNFq3ESCOrKSMUgXgj1jVC5Fv3Yj5B0rIl21o11n1DrdqOFyDQO20mu+L53t3YnaIFhs3DO2RWGDvjFq7QKm2ELoHD5aRFUqXAdG1/cBcK8hwWfPhko8Okoe3aT15iMEE1sV5TeGxY/AyUjTtaONV5RgH1rIbB6W/a7xFvB6MMJ/QZ+K5HN0uefhVh5oFzgMTO8jj3KQGe8LuFzyXgs6CGy8gPQmX6ymyk93y+TlpT8+yh52ZkclPP3qY5SJesTahkA2Ct27hGN9Xo9aj8ReGWg1ai8I/zlJ5DXQE8QWQb89d+4ZUyBztjYMxjGhV9H2j1ER7x9awEapNifkUFr8PZaAk0UznXoYFgxBeYSMtMAnsEqSk31V2JDsMIzsctvD1M7tWGwRTTTA==;qSxahtQ5Fkxai+FoxMg5/g=="
 ---
 

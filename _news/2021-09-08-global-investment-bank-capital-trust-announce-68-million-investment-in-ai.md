@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/brand-post/global-investment-bank-cap
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/global-investment-bank-capital-trust-announce-68-million-investment-in-ai-101631115353879-amp.html"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Investment Bank and Capital Trust Announce $68 Million Investment Fund in Artificial Intelligence"
-    excerpt: "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to $68 million in startups transforming artificial intelligence. The fund will prioritise startups that share the vision of on-device AI becoming more powerful and widespread,"
-    publishedDateTime: 2021-09-04T06:38:00Z
-    webUrl: "https://www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540"
-    ampWebUrl: "https://www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp"
-    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/business/report-global-investment-bank-and-capital-trust-announce-68-million-investment-fund-in-artificial-intelligence-2909540/amp"
-    type: article
-    provider:
-      name: DNA India
-      domain: dnaindia.com
-    quality: 61
-    images:
-      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/09/04/994538-gib.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Domestic tech accelerates investment in artificial intelligence"
     excerpt: "Artificial intelligence (AI) is now the focus of global technology, with countries spending billions of dollars in research and development (R&D) to be at the forefront of new technology."
     publishedDateTime: 2021-09-08T05:30:00Z

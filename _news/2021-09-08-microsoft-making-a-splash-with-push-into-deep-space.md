@@ -21,49 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation."
-    publishedDateTime: 2021-09-08T15:27:00Z
-    webUrl: "https://theconversation.com/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258"
-    ampWebUrl: "https://theconversation.com/amp/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258"
+  - title: "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide"
+    excerpt: "Azure Space Australia will be focused on building space and satellite solutions that leverage cloud, 5G technology, AI, and analytics."
+    publishedDateTime: 2021-09-08T05:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 75
+      name: ZDNet
+      domain: zdnet.com
+    quality: 112
     images:
-      - url: "https://images.theconversation.com/files/419875/original/file-20210907-22-krsb6e.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
-    publishedDateTime: 2021-09-08T19:16:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 55
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "MDC joins Microsoft AI Business School to develop AI courses"
-    excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"
-    publishedDateTime: 2021-09-08T11:01:00Z
-    webUrl: "https://communitynewspapers.com/kendallgazette/mdc-joins-microsoft-ai-business-school-to-develop-ai-courses/"
-    type: article
-    provider:
-      name: Miami's Community Newspapers
-      domain: communitynewspapers.com
-    quality: 54
-    images:
-      - url: "https://i2.wp.com/communitynewspapers.com/wp-content/uploads/2021/07/Community-News-LOGO-Blue-min.png?fit=777%2C516&ssl=1"
-        width: 777
-        height: 516
+      - url: "https://www.zdnet.com/a/hub/i/2021/09/07/c3bacc60-39aa-4bae-b0b8-02b219f987e2/azure-satellite-diagram-1000x563.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Microsoft, Australian Institute for Machine Learning, to process data in space"
     excerpt: "Microsoft and the Australian Institute for Machine Learning have signed a deal that will radically change how satellite data is handled in space."
@@ -76,20 +48,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 52
-  - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
-    excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
-    publishedDateTime: 2021-09-06T10:14:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/verizon-launches-private-mobile-edge-cloud-computing-service-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 49
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ice-mobility-700x393.2e16d0ba.fill-1200x630.jpg"
-        width: 700
-        height: 369
-        isCached: true
   - title: "Microsoft boosts Australian space investment"
     excerpt: "Microsoft has boosted its investment in Australia’s space sector through Azure Space, integrating its cloud solutions with a range of partners tackling spaced-based technologies."
     publishedDateTime: 2021-09-08T14:11:00Z
@@ -104,34 +62,17 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Tips & Tricks - how to get the most out of the new Microsoft Start experience"
-    excerpt: "You've probably heard of Microsoft Start, and we'll now explain some of our favorite tips and tricks for the experience."
-    publishedDateTime: 2021-09-08T14:53:00Z
-    webUrl: "https://www.onmsft.com/feature/microsoft-start-tips-and-tricks"
+  - title: "Micosoft’s Azure Space and Nokia to create base at Lot Fourteen to help space industry"
+    excerpt: "The growing space industry in South Australia will have the backing of two of the world’s biggest communications’ companies, Microsoft and Nokia."
+    publishedDateTime: 2021-09-08T03:30:00Z
+    webUrl: "https://www.adelaidenow.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29"
+    ampWebUrl: "https://www.adelaidenow.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29?amp"
+    cdnAmpWebUrl: "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/south-australia/micosofts-azure-space-and-nokia-to-create-base-at-lot-fourteen-to-help-space-industry/news-story/d391716e9c54dcc7c933788210aa7e29?amp"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 36
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/09/Microsoft-Start-in-Edge.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft teams up with LX Semicon to develop 3D depth-sensing solution in virtual reality"
-    excerpt: "U.S. technology giant Microsoft will collaborate with LX Semicon, a fabless manufacturer in South Korea, to develop a 3D-sensing solution for virtual reality and augmented reality. The solution will be based on 3D time of flight sensors that measure the distance between the sensor and a target object by calculating the time taken for light to bounce back."
-    publishedDateTime: 2021-09-08T04:52:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-teams-up-with-lx-semicon-to-develop-3d-depth-sensing-solution-in-virtual-reality/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
+      name: Adelaide Now
+      domain: adelaidenow.com.au
     quality: 31
-    images:
-      - url: "https://image.ajunews.com/content/image/2021/09/08/20210908111621588194.png"
-        width: 640
-        height: 640
-        isCached: true
 
 secured: "8fqztVklD6Pm6gAnwM6tiZEb/wI7AvkT58CnXip8+8TK1SNZ0BHo7roSGjhccaJl57g0QPNZ6wh99P3ixvtw0HT1BwNVigandw/52py4nOIaVu47ph+wTyTiRzq0XV77WfsUuunezlORr+ZyaDtYdh1VnRJfvaGII3sTmTw57m+cHLdHC4hNg14NIRoT0id2QBDGugLU3qbb2AviyDj83Int5StPtXKx4ej0X8kJsMp/zzEM7ibF+jWMuMAacEpqb+oTtvknXgHLE+2MepVfM3/SMjyXJN5ieLuUqifA9NadYls2g5wYxedoZkq1n4cqasBbSn32JpFZM6vUj/63NYGTJfY1IzqhU6lpQ1m/zLwYCCiVbRjTi5Awrx4H7hxLZv4uBqMvEBsgcRoRAZWJXUPgGIQxllAev1NBH6nFGRs6ftYX7xZVTgB6ZrAK69fGb4OiHQk2GjDVgF1hjnL6IR0NQ7ffylE2yLI6idgUMQSdW/IXgTbJQNmLkxz/7DhdhwSYAEbYrZSWAVPp0dahpg==;toUIT16Qvqwb1LOk703otA=="
 ---

@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-01-jevois-pro-deep-learning-open-source-ai-camera.md",
+      "title": "JeVois-Pro deep learning open source AI camera",
+      "excerpt": "If you are interested in learning more about deep learning a new open source smart camera has been launched via Kickstarter called the JeVois-Pro. The artificial intelligent camera runs powerful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/deep-learning-camera-01-07-2021/",
+      "originalUrl": "https://www.geeky-gadgets.com/deep-learning-camera-01-07-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/07/JeVois-Pro-deep-learning-smart-camera.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-researchers-turn-to-machine-learning-to-predict-when-immunotherapy-will-be-effective.md",
       "title": "Researchers turn to machine learning to predict when immunotherapy will be effective",
       "excerpt": "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains.",
@@ -1336,58 +1379,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks.md",
-      "title": "Deep Instinct: AI, deep learning tools can help prevent cyberattacks",
-      "excerpt": "In Deep Instinct's Voice of SecOps report, 86% of respondents said tools driven by AI, ML, and deep learning would help fight cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/",
-      "originalUrl": "https://venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/GettyImages-874781132-e1618738014241.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/amp/",
-      "publishedDateTime": "2021-06-23T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

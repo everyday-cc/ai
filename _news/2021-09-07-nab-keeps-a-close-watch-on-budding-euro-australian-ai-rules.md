@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "South Australia facial recognition trial: Covid app blasted by Fox and Breitbart criticised over lack of safeguards"
-    excerpt: "NSW Council for Civil Liberties wants a moratorium on the use of biometrics and facial recognition"
-    publishedDateTime: 2021-09-04T06:34:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2021/sep/04/south-australia-facial-recognition-trial-covid-app-blasted-by-fox-and-breitbart-criticised-over-lack-of-safeguards"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2021/sep/04/south-australia-facial-recognition-trial-covid-app-blasted-by-fox-and-breitbart-criticised-over-lack-of-safeguards"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/sep/04/south-australia-facial-recognition-trial-covid-app-blasted-by-fox-and-breitbart-criticised-over-lack-of-safeguards"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/5b5388b8602eb0377e12e1986427217a6b7c115f/0_182_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4daaa37e95453e55d04b06b8715b1514"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "QrW96+jaQqy32unt+kyJBPbLQIrzr8N1zFL9aDrj4IeGYDys/pVr5BeCdr9OG6Dgt65woIDoRGfyS8xV9JjikAPVq0V1tKEQRWVSQXE7AZN60+7ZdxjPGA61UFKugkNxo1oVV3fWTCLi/UfIUnWqa3QlBWyXqOUnRryErKMuncZlPBXPbrpdQYeZ1FZLLX1OoU/uIB4jMDtmBVj8ipE/AhAWVuefNKVJUwZwdMK794XmabEPVcc5vEsPoEzgo8kXYnrT31Uc1Fb4TOMBTaHUr09HrDif9Pex4vcrcIdpYg+BLML/Z6LbE36qB7Ab5fI5lkLL2eo4DjG3FGg3NaLEACTRBRvG2m0f6q7lHikebGTwv0yLy3fEJgY089vOxj2f5w1+vOYladDM9hPQiPoiyEhBWNcGI3rDD47AvewDk/JXx9g+grBe89lVyiWc9FyKzzKPo3pSOnnfHPeEzZ3W392MRckz43KeMneXDDV+twyMExkAOFS45zn4W3pa8G3b/QLVgZJW3Ta6bz6TfemSuw==;0sujVFczK0gTiQc8DlZ6gg=="
 ---

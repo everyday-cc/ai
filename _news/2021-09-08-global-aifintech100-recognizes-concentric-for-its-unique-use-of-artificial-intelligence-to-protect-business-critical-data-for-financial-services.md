@@ -78,6 +78,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "4 Fintech Stocks To Watch As Paypal Acquires BNPL Startup"
+    excerpt: "Hot Fintech Stocks To Watch Right Now Amid PayPal’s Acquisition. Fintech is taking the world by storm and this would naturally highlight fintech stocks in the stock market. The"
+    publishedDateTime: 2021-09-08T17:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-fintech-stocks-to-watch-as-paypal-acquires-bnpl-startup-2021-09-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-fintech-stocks-to-watch-as-paypal-acquires-bnpl-startup-2021-09-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-fintech-stocks-to-watch-as-paypal-acquires-bnpl-startup-2021-09-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Insurance FinTech Marshmallow Lands $85M"
     excerpt: "The insurance FinTech Marshmallow reached a valuation of over $1.25 billion to become the U.K.’s newest tech unicorn after an $85 million Series B funding round."
     publishedDateTime: 2021-09-08T15:49:00Z
@@ -188,6 +199,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 10
+  - title: "Enova To Virtually Participate in Panel at the JMP Securities Fintech Forum on Artificial Intelligence"
+    excerpt: "CHICAGO, Sept. 8, 2021 /PRNewswire/ -- Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced that Joe DeCosmo, Chief Analytics and Technology Officer ..."
+    publishedDateTime: 2021-09-08T22:17:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210908cg99941/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intelligence"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 3
   - title: "Turing Technology Named to AIFinTech100: Identified as Among World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
     excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
     publishedDateTime: 2021-09-08T13:10:00Z

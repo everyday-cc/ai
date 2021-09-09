@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-22-tag-archives-listening-to-inner-voice.md",
+      "title": "Tag Archives: Listening to Inner Voice",
+      "excerpt": "The first thing that I signed up for after getting my second Moderna vaccine was a self-defense workshop for women held outdoors in a public park. While I’ve missed going to the gym and seeing friends play live music, my mind has been on the other ways in which life has changed during the pandemic. My nervous system has been on high alert since the Atlanta spa shootings in March. Concerned friends suggested that I take a class with a women-led dojo that quietly organized a self-defense class based on local demand and word of mouth. For the past four months, the media has been dominated by images of Asian women, who look like me, under constant attack. We are bludgeoned by hammers, stabbed at bus stops, beaten on the street, punched in the face. Here in Seattle’s Chinatown-International District, a local Japanese high school teacher’s face was bashed beyond recognition by an assailant using rocks hidden inside a sock. When I got to my class, our instructor, or cefu, said that 80% of attacks are enacted by someone the victim knows. She said the chances of being attacked with a weapon are also relatively low — it’s those assaults that make it into the news, skewing public perception. I took this information in, thinking of the cell phone and security camera video footage that seems to pop up on my Twitter feed at least once a week, documenting horrible crimes against Asian women. I resisted the urge to raise my hand in protest.",
+      "sourceUrl": null,
+      "webUrl": "https://southseattleemerald.com/tag/listening-to-inner-voice/",
+      "originalUrl": "https://southseattleemerald.com/tag/listening-to-inner-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/southseattleemerald.com/wp-content/uploads/2020/04/1484590_408127306007964_9075529672973271797_n.png?fit=360%2C360&ssl=1",
+          "width": 360,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://southseattleemerald.com/tag/listening-to-inner-voice/?amp",
+      "cdnAmpWebUrl": "https://southseattleemerald-com.cdn.ampproject.org/c/s/southseattleemerald.com/tag/listening-to-inner-voice/?amp",
+      "publishedDateTime": "2021-07-22T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South Seattle Emerald",
+        "domain": "southseattleemerald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-ai-firm-deepmind-puts-database-of-the-building-blocks-of-life-online.md",
       "title": "AI firm DeepMind puts database of the building blocks of life online",
       "excerpt": "AlphaFold program’s prediction of nearly 20,000 human protein structures now free for researchers",
@@ -1405,58 +1448,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-nordstrom-cto-on-ai-powered-analytics-and-consumer-insights.md",
-      "title": "Nordstrom CTO on AI-powered analytics and consumer insights",
-      "excerpt": "Reflecting on the start of this project ... is key to the platform architecture process. With more than 100 AI models leveraged daily at Nordstrom, an end user will indirectly see the benefit ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
-      "originalUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/09/nordstrom-mike-kalasnik-flickr.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/nordstrom-cto-on-ai-powered-analytics-and-consumer-insights/amp/",
-      "publishedDateTime": "2021-07-13T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

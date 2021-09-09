@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-24-2-big-revelations-from-teslas-ai-day-event.md",
+      "title": "2 Big Revelations From Tesla's AI Day Event",
+      "excerpt": "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F640331%2F0x0-bardessono_napa_raw-43-hdr-1-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
+      "publishedDateTime": "2021-08-23T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-a-secret-weapon-for-self-driving-car-startups-humans.md",
       "title": "A secret weapon for self-driving car startups: Humans",
       "excerpt": "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators.",
@@ -1369,58 +1421,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars.md",
-      "title": "City Leaders: Here’s Why Urban Tourism Could Skyrocket Due To AI Self-Driving Cars",
-      "excerpt": "Tourism is significant to the economic wellbeing of cities, and we might see a boon in urban tourism due to the advent of AI-based true self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c144d2530a533d7e1f280%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1534%26cropY1%3D29%26cropY2%3D892",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

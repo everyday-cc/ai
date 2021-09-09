@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-02-build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2.md",
+      "title": "Build machine learning at the edge applications using Amazon SageMaker Edge Manager and AWS IoT Greengrass V2",
+      "excerpt": "Running machine learning (ML) models at the edge can be a powerful enhancement for Internet of Things (IoT) solutions that must perform inference without a constant connection back to the cloud. Although there are numerous ways to train ML models for countless applications, effectively optimizing and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-machine-learning-at-the-edge-applications-using-amazon-sagemaker-edge-manager-and-aws-iot-greengrass-v2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/31/ml2780-image001-whitebckgn-1008x630.png",
+          "width": 1008,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T15:22:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-unsupervised-learning-can-detect-unknown-adversarial-attacks.md",
+      "title": "Unsupervised learning can detect unknown adversarial attacks",
+      "excerpt": "Adversarial attacks are data samples that have been inconspicuously modified to manipulate the behavior of the targeted machine learning model",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/",
+      "originalUrl": "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Adversarial-examples-machine-learning.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/02/unsupervised-learning-can-detect-unknown-adversarial-attacks/amp/",
+      "publishedDateTime": "2021-09-02T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-elon-musk-tesla-making-a-robot-because-robots-are-coming-anyway.md",
       "title": "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”",
       "excerpt": "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war.",
@@ -1104,101 +1209,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-meet-emma-the-ai-robot-masseuse-practicing-ancient-wellness-therapies.md",
-      "title": "Meet 'EMMA': The AI robot masseuse practicing ancient wellness therapies",
-      "excerpt": "Developed by Singapore-based startup AiTreat, \"EMMA\" is a robot masseuse that uses sensors and 3D vision to deliver deep tissue massages and traditional Chinese medicine (TCM) therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210827144954-01-emma-robot-masseuse-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
-      "publishedDateTime": "2021-09-01T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2.md",
-      "title": "Ambarella Analysts Laud Accelerating Computer Vision Momentum Following Blowout Q2",
-      "excerpt": "Morgan Stanley analyst Joseph Moore maintained an Overweight rating and $137 price target for Ambarella shares. Rosenblatt Securities analyst Kevin Cassidy maintained a Buy rating and increased the price target from $145 to $160.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/09/22765442/ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/09/22765442/ambarella-analysts-laud-accelerating-computer-vision-momentum-following-blowout-q2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/camera-3376230_1920_0.jpg?width=720",
-          "width": 720,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

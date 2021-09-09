@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-20-introduction-to-the-symposium-on-limitations-of-the-behavioral-turn-in-international-law.md",
+      "title": "Introduction to the Symposium on Limitations of the Behavioral Turn in International Law",
+      "excerpt": "Behavioral Assumptions in Rationalist and Constructivist Approaches to International Law How Insights from Cognitive Research and Behavioral Economics Can Inform Rationalist and Constructivist Approaches to International Law Methodological and Normative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/introduction-to-the-symposium-on-limitations-of-the-behavioral-turn-in-international-law/E9A9C9BA81522AAE5EC90B2344FAB66D",
+      "originalUrl": "https://www.cambridge.org/core/journals/american-journal-of-international-law/article/introduction-to-the-symposium-on-limitations-of-the-behavioral-turn-in-international-law/E9A9C9BA81522AAE5EC90B2344FAB66D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-ai-in-fashion-market-size-2021-is-booming-worldwide-microsoft-ibm-google-aws-sap-facebook.md",
       "title": "AI in Fashion Market Size 2021 is Booming Worldwide| Microsoft , Ibm , Google , Aws , Sap , Facebook",
       "excerpt": "The Global AI in Fashion Market Report provides extensive insight into key strategic and market development studies, along with dominant market opportunities during the forecast period to 2023. AI in Fashion market growth and segment details market demand,",
@@ -1279,59 +1313,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing.md",
-      "title": "Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing",
-      "excerpt": "As AI is making its way into more companies, the board and senior executives need to mitigate the risk of their AI-based systems. One area of risk includes the reputational, regulatory, and legal risks of AI-led ethical decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/07/11/google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/07/11/google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e206390862dfc89cf2cba4%2F0x0.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/07/11/google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/07/11/google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/amp/",
-      "publishedDateTime": "2021-07-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

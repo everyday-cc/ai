@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbctv18.com/technology/big-tech-ditches-ai-features-ove
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/big-tech-ditches-ai-features-over-ethical-concerns-10662461.htm/amp"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: cnbctv18
@@ -28,6 +28,20 @@ images:
 
 related:
   - title: "Money, mimicry and mind control: Big Tech slams ethics brakes on AI"
+    excerpt: "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
+    publishedDateTime: 2021-09-08T20:46:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Money, mimicry and mind control: Big Tech slams ethics brakes on AI"
     excerpt: "Google’s cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
     publishedDateTime: 2021-09-08T14:25:00Z
     webUrl: "https://nypost.com/2021/09/08/big-tech-slams-ethics-brakes-on-ai/"
@@ -42,6 +56,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/09/Tech-2.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Voice mimicry and mind control: Big Tech slams the ethics brakes on new Artificial Intelligence"
+    excerpt: "IBM told Reuters its AI Ethics Board has begun discussing how to police an emerging frontier: implants and wearables that wire computers to brains."
+    publishedDateTime: 2021-09-08T17:30:00Z
+    webUrl: "https://www.euronews.com/next/2021/09/08/voice-mimicry-and-mind-control-big-tech-slams-the-ethics-brakes-on-new-artificial-intellig"
+    ampWebUrl: "https://www.euronews.com/next/amp/2021/09/08/voice-mimicry-and-mind-control-big-tech-slams-the-ethics-brakes-on-new-artificial-intellig"
+    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/09/08/voice-mimicry-and-mind-control-big-tech-slams-the-ethics-brakes-on-new-artificial-intellig"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 62
+    images:
+      - url: "https://static.euronews.com/articles/stories/06/04/31/32/1000x563_cmsv2_742d25eb-8baa-59c1-9e18-a351a5a2d3ec-6043132.jpg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "Rsy1GH1Y6OanxALYFGcehUUIOnTIqKy/Tq3YoZwd2mgB+3DtwTp6ODkGlVRr62MS1Fv6FO8d7xyQRbRGQiYKFjPVbtxmmHOG7vKvp6eCQanGK7bsIz6DEbA92iXZbyatbKemU4oNXIBIWgmCQJGddcUzseOV/udaTRStrZxFCf0B3FfYtY6SZv8uXTexwreL8rEIe3Eowfuw08yaFQ7FO/F1rQM1i6ejdRzihepx83Wy2VctkIB/di43GYj2yrjV0xoP8VCSeh/u5UIkA60eVe4w6IIZu3YXTsK8WwH+nn5Rjy/oQHAr7WwS1AGS43C4bvz3uDRdoQkmHkq2VXlvmcX7yx05U2lv7XGM2b94RBg=;aJ1zIP7GXLitJRVs3zuPUw=="

@@ -2,6 +2,203 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-07-22-clearview-ai-raises-30-million-from-investors-despite-legal-troubles.md",
+      "title": "Clearview AI raises $30 million from investors despite legal troubles.",
+      "excerpt": "The facial-recognition start-up closed a Series B financing round. It faces multiple lawsuits challenging its business model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/21/technology/oakImage-1626890988521/oakImage-1626890988521-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/21/technology/clearview-ai-valuation.amp.html",
+      "publishedDateTime": "2021-07-21T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-artificial-intelligence-as-a-service-aiaas-market.md",
+      "title": "Artificial Intelligence as a Service (AIaaS) Market",
+      "excerpt": "The Artificial Intelligence as a Service AIaaS Market size is estimated to grow from USD XX Billion in 2020 to USD 59 6 Billion by 2027 growing at a CAGR of 51 2 during the forecast year from 2021 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
+      "originalUrl": "https://www.openpr.com/news/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U721205866_g.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
+      "publishedDateTime": "2021-07-21T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
+      "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
+      "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "originalUrl": "https://www.techradar.com/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "publishedDateTime": "2021-07-21T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai.md",
+      "title": "Kohl’s CTO on empowering people and optimizing supply chain with AI",
+      "excerpt": "AI can make decisions to manage inventory, but it doesn't always make intuitive decisions, Kohl's CTO said at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/kohls.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/kohls-cto-on-empowering-people-and-optimizing-supply-chain-with-ai/amp/",
+      "publishedDateTime": "2021-07-21T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-modelling-perception-with-artificial-neural-networks.md",
       "title": "Modelling Perception with Artificial Neural Networks",
       "excerpt": "The drive behind this change has been the increasing availability of neural network models. With contributions from experts in the field, this book provides a complete survey of artificial neural networks. The book opens with two broad, introductory level ...",
@@ -969,198 +1166,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-three-reasons-to-use-ai-when-choosing-cre-locations-for-a-retail-business.md",
-      "title": "Three Reasons To Use AI When Choosing CRE Locations For A Retail Business",
-      "excerpt": "The placement of your commercial real estate locations can be the difference between patrons visiting your business or the competitor across the street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f6ded2ce2922235c08e4ba%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/amp/",
-      "publishedDateTime": "2021-07-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-microsoft-azure-sentinel-vs-darktrace-enterprise-immune-system-whos-on-top-in-ai-security.md",
-      "title": "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?",
-      "excerpt": "Microsoft uses AI to operate a traditional SIEM, but Darktrace takes a very different approach to threat hunting",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrace-ai-security",
-      "originalUrl": "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrace-ai-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/535962a/99c600ff-a243-4757-83a2-08a8bf82b2f8/2/Darktrace-vs-Microsoft-370x229.png",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence.md",
-      "title": "Top AI & ML Innovations From Allen Institute For Artificial Intelligence",
-      "excerpt": "Over the years, the private research institute and startup incubator has pushed the frontiers of AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
-      "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/Allen_AIM.jpg",
-          "width": 896,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-chinese-driverless-car-start-up-weride-makes-first-acquisition-as-competition-ramps-up.md",
-      "title": "Chinese driverless car start-up WeRide makes first acquisition as competition ramps up",
-      "excerpt": "Chinese driverless car start-up WeRide has made its first acquisition, an autonomous trucking firm called MoonX, as it looks to commercialize self-driving tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106913345-1626761042533-WeRide_robotaxi_.jpeg?v=1626761714",
-          "width": 7952,
-          "height": 5304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
-      "publishedDateTime": "2021-07-20T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
