@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lec
 webUrl: "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 768
     height: 385
     isCached: true
+
+related:
+  - title: "Startup partners with Telkom to launch translation platform for SA languages"
+    excerpt: "Telkom has partnered with SA startup Enlabeler to launch an AI platform that translates speech into text and provides transcription services for local languages."
+    publishedDateTime: 2021-09-09T09:46:00Z
+    webUrl: "https://ventureburn.com/2021/09/startup-partners-with-telkom-to-launch-translation-platform-for-sa-languages/"
+    ampWebUrl: "https://ventureburn.com/2021/09/startup-partners-with-telkom-to-launch-translation-platform-for-sa-languages/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2021/09/startup-partners-with-telkom-to-launch-translation-platform-for-sa-languages/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 41
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2021/09/izwe-ai-transcription-translation-south-africa-enlabeler.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "f5drbQsAHL1oH0elXh+dSZ7sbgtZSN/BFrhF8clo6nDXIhhkAg6HOl85LnXoEtM19ilUaxDA0UrKAZIh06gYefZf5Ax6n+55xvh6NNAkqggulw44PZ7f/42X/ENnDIf2DXj+SDpDBJj3+seEuFBAql5xBHVp8nBBnubdBNDE76avrAemLBX9v1pBspI5vbirxPMoihHB5roMyZg2QElWkzfD7UV8old7Igr6yQv0E5ZpDTl0tgXQhJOnjB8NJwpaLX67gs9RyRio6ialIz7LMeBOUIqn3elLGaVGmLenl2LinJRU6Zml7RoFC1A6vH9tnPuMqDzG2qgLxvoJRohHNU1YehyyzpWlrHxpQ6yYZhk=;7G04am4lcybYCI/wE32huA=="
 ---

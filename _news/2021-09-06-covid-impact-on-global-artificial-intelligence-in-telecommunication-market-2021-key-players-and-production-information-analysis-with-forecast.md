@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global LegalTech Artificial Intelligence Market Analysis of Key Players, End User, Demand and Consumption By 2027"
+    excerpt: "LegalTech Artificial Intelligence The report curated by Zion Market Research on the Global LegalTech Artificial Intelligence Market Research Report Covers Future Trends Size Share Past Present Data and Deep Analysis And Forecast 2021 2027 is the finest fabrication of expertise"
+    publishedDateTime: 2021-09-09T08:21:00Z
+    webUrl: "https://www.openpr.com/news/2387174/global-legaltech-artificial-intelligence-market-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2387174/global-legaltech-artificial-intelligence-market-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2387174/global-legaltech-artificial-intelligence-market-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+    images:
+      - url: "https://cdn.openpr.com/U/9/U909589956_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Self-Propelled Modular Transporter Market Size Report 2021: Market Share, Trends Analysis, Supply and Demand Forecast by Region 2026"
     excerpt: "Sep 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
     publishedDateTime: 2021-09-06T05:49:00Z
@@ -40,17 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market Size, Share, Trends, Outlook, Future Growth and Forecast 2021-2026"
-    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market reached a value of US$ 9."
-    publishedDateTime: 2021-09-09T04:49:00Z
-    webUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 23
 
 secured: "UUlvBlQjA1DC4QKX2uO0RcPeRwFPk/hUyN3F2Hr2N7bLFVa+oxeEB9FG6Sr1d1rKnnmpi0J7hlOSiN+D0gZbbIFlUaORlbP7IcIKC05RtEGJuYPOqNxBZV11eI1SXT/1qWSYyO8miWZ+WC4rQ+L8Ev0PjxexSjLFEZkeFCTjMvUMmF7UKJN1divDOdHPD+9kVLVpStTRiRvUGV6kId1QxRGDhHMe+b8bu+k8Xe8gp8vRw8RVdIPmrW7pZ4f3vg7lCdGC7M+dkLqVNP/j1Pwbe0Am+5ZJL79zehs5hgZqnZ6jwSCfjaznyz+HDZBQ3Vj9sAK7+guFwZJwtXRfAW739L7h3DnmQsP3T6Py9lI+/kg=;McnE0QRx7F/k8UiAZ0mw2g=="
 ---

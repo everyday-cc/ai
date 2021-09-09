@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Money, mimicry and mind control: Big Tech slams ethics brakes on AI"
-    excerpt: "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to."
-    publishedDateTime: 2021-09-08T20:46:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/"
+    excerpt: "But as political and public scrutiny of AI failings grew, Microsoft in 2017 and Google and IBM in 2018 established ethics committees to review new services from the start."
+    publishedDateTime: 2021-09-09T05:47:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/articleshow/86058380.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai/amp_articleshow/86058380.cms"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 76
     images:
-      - url: "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg"
-        width: 1200
-        height: 628
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86058380,imgsize-486248,width-800/86058380.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Big Tech ditches AI features over ethical concerns"
     excerpt: "Companies like Google, Microsoft and IBM have recently blocked new AI features over fears of perpetrating cultural and racial biases. They say they welcome clear regulation on the use of AI but the rules should be flexible enough to keep up with innovation and the new dilemmas it creates."

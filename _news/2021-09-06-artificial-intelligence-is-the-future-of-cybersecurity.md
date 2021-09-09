@@ -43,7 +43,7 @@ related:
   - title: "Cybersecurity: Try machine learning to detect threats"
     excerpt: "Making predictions about data is the next frontier in terms of identifying risk in your infrastructure, expert says. But is it right for your organization? Ping Identity CEO explains how identity and access management is replacing the password 23:41 ..."
     publishedDateTime: 2021-09-08T18:07:00Z
-    webUrl: "https://www.techrepublic.com/index.php/videos/cybersecurity-try-machine-learning-to-detect-threats/"
+    webUrl: "https://www.techrepublic.com/index.php/recent/index.php/videos/cybersecurity-try-machine-learning-to-detect-threats/"
     type: article
     provider:
       name: TechRepublic

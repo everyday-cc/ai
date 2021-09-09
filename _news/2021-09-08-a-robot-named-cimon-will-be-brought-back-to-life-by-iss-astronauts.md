@@ -67,6 +67,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Space station robot gets an update"
+    excerpt: "Making him a little more intelligent A robot called CIMON-2 (short for Crew Interactive Mobile Companion) has received a software update that will enable it to perform more complex tasks with a new human crewmate later this year."
+    publishedDateTime: 2021-09-09T09:47:00Z
+    webUrl: "https://www.fudzilla.com/news/53505-space-station-robot-gets-an-update"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/2936af1508170e1732abe7ed02731ba7_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "q/xB3w3sqRbWsJD2fJJYvaZRq994l1yVyhaes1z1k6yldlDUtkUTpLxFBZDExnlp2UGhuDEEkqU0MyJw0wG/l/rY1oFNM8L3EjLQWlKZpSyYLzKicOP1A4QypyqBgIM4hQjsSeTOafiOfRpbmvP/SZBSLoUG6GMSstvbddNc81yKFuNbxaVY45/De34JepT/M0CiMW764ZKXAtKExtsPZfwdMsJQsOKefvSXAizUnT4POf8BRlQqVheVENLhOKvp/fDj1FvXRGC3c7gu1by+F9R/BZ9RYY17fSTC36R07Hv6u7SvAd3Ewgx28i+13NejBWmUHxhaTphnD0rA1ISdetwq41rgOwpvgWQQcuLVxRI=;KXLamdOIEa9XQ070acg+5Q=="
 ---

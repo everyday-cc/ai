@@ -9,7 +9,7 @@ ampWebUrl: "https://www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-a
 cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts"
 type: article
 quality: 174
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/09/cimon-2-163110769516x9.png"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Space station robot gets an update"
+    excerpt: "Making him a little more intelligent A robot called CIMON-2 (short for Crew Interactive Mobile Companion) has received a software update that will enable it to perform more complex tasks with a new human crewmate later this year."
+    publishedDateTime: 2021-09-09T09:47:00Z
+    webUrl: "https://www.fudzilla.com/news/53505-space-station-robot-gets-an-update"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/2936af1508170e1732abe7ed02731ba7_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "A robot named CIMON will be brought back to life by ISS astronauts"
     excerpt: "Astronauts aboard the International Space Station are about to bring a robot back to life named CIMON, as it has a new purpose. Astronauts aboard the International Space Station (ISS) will be bringing a robot named CIMON back to life,"

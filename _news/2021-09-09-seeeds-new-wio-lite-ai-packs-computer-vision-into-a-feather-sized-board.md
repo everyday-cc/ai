@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-08T22:11:00Z
 originalUrl: "https://www.hackster.io/news/seeed-s-new-wio-lite-ai-packs-computer-vision-into-a-feather-sized-board-30a1eb8b08b3"
 webUrl: "https://www.hackster.io/news/seeed-s-new-wio-lite-ai-packs-computer-vision-into-a-feather-sized-board-30a1eb8b08b3"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://hackster.imgix.net/uploads/attachments/1345629/_tISkHKETYD.blob?auto=compress%2Cformat&w=600&h=450&fit=min"

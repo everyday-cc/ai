@@ -59,6 +59,20 @@ related:
         width: 1221
         height: 813
         isCached: true
+  - title: "Space station robot gets an update"
+    excerpt: "Making him a little more intelligent A robot called CIMON-2 (short for Crew Interactive Mobile Companion) has received a software update that will enable it to perform more complex tasks with a new human crewmate later this year."
+    publishedDateTime: 2021-09-09T09:47:00Z
+    webUrl: "https://www.fudzilla.com/news/53505-space-station-robot-gets-an-update"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/2936af1508170e1732abe7ed02731ba7_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "A robot named CIMON will be brought back to life by ISS astronauts"
     excerpt: "Astronauts aboard the International Space Station are about to bring a robot back to life named CIMON, as it has a new purpose. Astronauts aboard the International Space Station (ISS) will be bringing a robot named CIMON back to life,"
     publishedDateTime: 2021-09-08T10:07:00Z

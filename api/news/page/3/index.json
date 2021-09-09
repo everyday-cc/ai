@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-07-to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai.md",
+      "title": "To succeed in the metaverse, brands must embrace empathetic CX and humanized AI",
+      "excerpt": "Every brand needs to planning how its digital incarnation is going to look, sound, act, and most importantly for brands…feel.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/",
+      "originalUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-01-at-9.44.44-AM.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/amp/",
+      "publishedDateTime": "2021-09-07T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-everything-ai-and-robotics-at-techcrunch-disrupt-2021.md",
       "title": "Everything AI and robotics at TechCrunch Disrupt 2021",
       "excerpt": "AI is everywhere in tech, and you can bet it will be a vital topic at TechCrunch Disrupt 2021 on 21-23. It’s the driving force behind just about everything from rockets, robotics and customer service to deep science and autonomous vehicles.",
@@ -293,7 +344,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/technology/astronauts-in-space-will-soon-resurrect-an-ai-robot-friend-called-cimon/ar-AAObHf4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -379,7 +430,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -811,49 +862,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-colby-brings-on-leading-researcher-to-direct-new-ai-institute.md",
-      "title": "Colby Brings On Leading Researcher To Direct New AI Institute",
-      "excerpt": "Stent was part of a project that led to several AI applications, including the Siri voice assistant on the iPhone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute",
-      "originalUrl": "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/4430736/2147483647/strip/true/crop/488x301+0+175/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F09%2Fd931f40340a5affbf92b6e924974%2Famanda-stent-488x650.jpeg",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true",
-      "cdnAmpWebUrl": "https://www-mainepublic-org.cdn.ampproject.org/c/s/www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true",
-      "publishedDateTime": "2021-09-06T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Maine Public",
-        "domain": "mainepublic.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

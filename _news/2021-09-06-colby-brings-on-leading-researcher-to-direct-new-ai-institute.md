@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading
 cdnAmpWebUrl: "https://www-mainepublic-org.cdn.ampproject.org/c/s/www.mainepublic.org/maine/2021-09-06/colby-brings-on-leading-researcher-to-direct-new-ai-institute?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Maine Public
@@ -43,15 +43,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Colby's Institute for Artificial Intelligence Names Director"
-    excerpt: "The nation’s first small liberal arts college to create an institute devoted to artificial intelligence now has a director."
-    publishedDateTime: 2021-09-04T15:55:00Z
-    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2021-09-04/colbys-institute-for-artificial-intelligence-names-director"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "sOYXQTfDjtdpF8RK+aS6kqNM41Db9XGTpnxmXTglLyHLbqGXNO6hCFn9mMMg6kvcWF9aLMTiPNm6g9Dh9S8/duZWV2xoyck2r4FFotbI9r+845Q/YQt5y+fzfhWOtzVeQ+A8VeEoG6ZEqhNCf2+FSBGYKF3tX2gHCc7rfVU2GwQCR+Ltdj6Uc+OI5N3B7KTn3XAkNX8HeCLtPDM/tr/okKDJm93t6EwLKwaVfOYGFj3kQbOFjVyfE/1Jt1xgB+3y6FTCCqk7sa5PEKzhCLbogJaDMvnmpb6MxhbLXzi1xgzg36fBFrUwYlRw7QIhKLHHtWFVULG6j6nxeGCp1xDDoCuQ/G0+3Scl9D9c6gNyZds=;gNKf/+3cyAuxh9mBXFw6dg=="
 ---

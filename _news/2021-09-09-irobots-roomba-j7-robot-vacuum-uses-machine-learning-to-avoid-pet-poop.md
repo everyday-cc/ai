@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true"
 type: article
 quality: 105
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "The new Roomba J7+ fixes one of the biggest issues with robot vacuums"
+    excerpt: "This is where the best robot vacuums come in useful. You can outsource the chore to an appliance that makes its own way around your home, collecting dust and dirt from your floors and leaving you free to enjoy a well-earned rest."
+    publishedDateTime: 2021-09-09T09:45:00Z
+    webUrl: "https://www.techradar.com/news/the-new-roomba-j7-fixes-one-of-the-biggest-issues-with-robot-vacuums"
+    ampWebUrl: "https://www.techradar.com/amp/news/the-new-roomba-j7-fixes-one-of-the-biggest-issues-with-robot-vacuums"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-new-roomba-j7-fixes-one-of-the-biggest-issues-with-robot-vacuums"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ghTnzhvy3b2bD59gaQrvAT-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Roomba j7+ debuts iRobot’s big fix for avoiding cords and pet mess"
     excerpt: "Robot is launching a new Roomba, and a new brain for its domestic robots, aiming to make domestic help in the modern smart home both smarter and more reliable. The Roomba j7+ will be the first"
     publishedDateTime: 2021-09-09T04:01:00Z

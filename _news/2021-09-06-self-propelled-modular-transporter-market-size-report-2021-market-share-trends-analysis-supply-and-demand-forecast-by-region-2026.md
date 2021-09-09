@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-propelled-modular-t
 webUrl: "https://www.marketwatch.com/press-release/self-propelled-modular-transporter-market-size-report-2021-market-share-trends-analysis-supply-and-demand-forecast-by-region-2026-2021-09-06"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -29,17 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Market Size, Share, Trends, Outlook, Future Growth and Forecast 2021-2026"
-    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market reached a value of US$ 9."
-    publishedDateTime: 2021-09-09T04:49:00Z
-    webUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/voice-and-speech-recognition-market-size-share-trends-outlook-future-growth-and-forecast-2021-2026/"
+  - title: "Global LegalTech Artificial Intelligence Market Analysis of Key Players, End User, Demand and Consumption By 2027"
+    excerpt: "LegalTech Artificial Intelligence The report curated by Zion Market Research on the Global LegalTech Artificial Intelligence Market Research Report Covers Future Trends Size Share Past Present Data and Deep Analysis And Forecast 2021 2027 is the finest fabrication of expertise"
+    publishedDateTime: 2021-09-09T08:21:00Z
+    webUrl: "https://www.openpr.com/news/2387174/global-legaltech-artificial-intelligence-market-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2387174/global-legaltech-artificial-intelligence-market-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2387174/global-legaltech-artificial-intelligence-market-analysis"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 23
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+    images:
+      - url: "https://cdn.openpr.com/U/9/U909589956_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Covid Impact on Global Artificial Intelligence in Telecommunication Market 2021 Key Players and Production Information Analysis with Forecast 2026"
     excerpt: "Global Artificial Intelligence in Telecommunication Market Research Report 2020-2026 thinks about key breakdowns in the Industry with insights about the market drivers and market restrictions. The report illuminates accumulating an all-encompassing rundown of factual investigation for the market scape."
     publishedDateTime: 2021-09-06T15:04:00Z

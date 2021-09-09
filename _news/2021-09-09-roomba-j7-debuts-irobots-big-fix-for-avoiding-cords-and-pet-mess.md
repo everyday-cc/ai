@@ -47,6 +47,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "The new Roomba J7+ fixes one of the biggest issues with robot vacuums"
+    excerpt: "This is where the best robot vacuums come in useful. You can outsource the chore to an appliance that makes its own way around your home, collecting dust and dirt from your floors and leaving you free to enjoy a well-earned rest."
+    publishedDateTime: 2021-09-09T09:45:00Z
+    webUrl: "https://www.techradar.com/news/the-new-roomba-j7-fixes-one-of-the-biggest-issues-with-robot-vacuums"
+    ampWebUrl: "https://www.techradar.com/amp/news/the-new-roomba-j7-fixes-one-of-the-biggest-issues-with-robot-vacuums"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-new-roomba-j7-fixes-one-of-the-biggest-issues-with-robot-vacuums"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ghTnzhvy3b2bD59gaQrvAT-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "iRobot's Most Thoughtful Robot Vacuum, the Roomba j7+ Identifies Obstacles and Avoids Hazards"
     excerpt: "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3."
     publishedDateTime: 2021-09-08T23:01:00Z

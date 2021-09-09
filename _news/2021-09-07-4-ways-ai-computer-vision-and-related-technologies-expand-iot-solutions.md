@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-rel
 webUrl: "https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/"
 type: article
 quality: 105
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/09/06/1282937.jpg"
         width: 1240
         height: 697
+        isCached: true
+  - title: "Yo-Kai Express uses IoT and AI to remove barriers to gourmet food"
+    excerpt: "After 12 years as an engineer and salesperson in the semiconductor industry, Andy Lin founded Yo-Kai Express, a food technology startup. Lin has integrated Internet-of-Things (IoT) technology, modular supply chain management,"
+    publishedDateTime: 2021-09-09T06:06:00Z
+    webUrl: "https://www.digitimes.com/news/a20210907PD214.html&chid=11"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20210907PD214_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Exium, IBM Collaborate to Secure Edge Compute for AI and IoT Applications"
     excerpt: "Exium, a 5G security company, announced that it is collaborating with IBM to help clients adopt an edge computing strategy"

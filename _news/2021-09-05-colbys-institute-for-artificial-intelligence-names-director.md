@@ -42,15 +42,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "Colby's Institute for Artificial Intelligence Names Director"
-    excerpt: "The nation’s first small liberal arts college to create an institute devoted to artificial intelligence now has a director."
-    publishedDateTime: 2021-09-04T15:55:00Z
-    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2021-09-04/colbys-institute-for-artificial-intelligence-names-director"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "nu11sSHLQXjMcgV7UtZrdt+Fm5m/5LSROolEonT199QbXY5cvBC46Nne3fhaw1DLz3RETsKERu3j/26l9j9Zbft19Eof+PJMyjatmhLr8q4D4sfVVZ2rvou6fcoXq1k5ZZ0gBedyTs0jgYPYWbppmbekPT6yXxv35mjbpWUvYHIwiCf+17Xw8AWis4qRBAhQoHSrHAfSPI87sXK5R+xARgWz93fbqknxjVxeH2D50sIrDEu0TYWGYBimPffCUeWk+stJGnpxKs9xpXwF2wUu+cAibHZeQLFvKsV4Dnf8qyHPjgYUWWyQZa6ip0k29EfX9Hr+gsoH5xa9lBrMZZucnXNxUf9RYpBrS3zKBaJvyy+ykGP+1sVG3bzl/pMF3WwxZ0qePCoqIk+HNlGqGbpUrYfbW1pyc5NR/+XHzOlfJfQkzVzJQ81uWUeYNRWD0/bfs6+SmISS1taGlfVQFqqyCgAPzcCTZlxmnufz3hk2A29xY9UWtDhFSU8ioOeKjUFqYgPTeQyrOoSZu22RnY2jtw==;TXV2wuaNfQAwrP8IuDcAfg=="
 ---

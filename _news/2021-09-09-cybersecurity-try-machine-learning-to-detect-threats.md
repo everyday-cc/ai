@@ -3,8 +3,8 @@ category: news
 title: "Cybersecurity: Try machine learning to detect threats"
 excerpt: "Making predictions about data is the next frontier in terms of identifying risk in your infrastructure, expert says. But is it right for your organization? Ping Identity CEO explains how identity and access management is replacing the password 23:41 ..."
 publishedDateTime: 2021-09-08T18:07:00Z
-originalUrl: "https://www.techrepublic.com/index.php/videos/cybersecurity-try-machine-learning-to-detect-threats/"
-webUrl: "https://www.techrepublic.com/index.php/videos/cybersecurity-try-machine-learning-to-detect-threats/"
+originalUrl: "https://www.techrepublic.com/index.php/recent/index.php/videos/cybersecurity-try-machine-learning-to-detect-threats/"
+webUrl: "https://www.techrepublic.com/index.php/recent/index.php/videos/cybersecurity-try-machine-learning-to-detect-threats/"
 type: article
 quality: 69
 heat: -1
@@ -60,6 +60,6 @@ related:
         height: 443
         isCached: true
 
-secured: "5yNmDxZJk7tAleWA6OsIJCC6bQWh0PxQfVNOXdatC4cyIoUfXY21dDbtg/HWAPXrnna3ujpGhbgRaz2fyRF1eEco8Cl9MrVvysaEGxjgdJWP9E31A8Qf0n2keGm6stK1xf0koTdfHdaC8J9DGHgP5VrG1bKoNtjIxS4aIsVPGpvhJVZRlrmmCuVgMZaNYGjHailXCHIP5izdMNnwrhLUoa4S/o1AZBpy2DlnaaswJdsefy8UiyswzI3hKsSP2vxp68at12irL/AL+StnkkwON8Gf/ggVc++s6bZLGGUd/WQMMxRahqC0hJahwqLUqkkJ4FY982Xcsr1iGxFJivLaGa8T/t48i0iuBNcZFiJhcUUdwJY5icB/NrcCychqqbyyR/U7GWF/qyBphLVLPXTYsOIE2WfzREKBkO1yCzvsivLOrxRdYSf7Jd06YZadNwr/vJLM+IeuPsYZY0Y2CzYQVU6MLmLcXPbXZQuDDM38Q8KMX6i0lIQIgb4xZRroxKkkEh8uNwxhYstYT+Hqmp/l4g==;GeS9nZsuRk3/SYTAJ+pjPQ=="
+secured: "CoUU/4P+fdGLV7oG9gZY5F7oGTBmut7DfHHzZQLjwivodYrWsbdHmWg+dA3rapEVQY1zq8ZRvt47Pa0izfTzTC4PAGJReEEPNfR7RV74yYpPh1mUTktyH/MJfCpCS9bY5Pu5Ret4StrV5YPKBGSTC8ZUK9vAvVvVwsRCux4JNfzFdSOkCpjCobmSkfmEy1QZ7cNonFWqXRPMjULq7ev6p/U17fPMbryDCnHOukIq6tszlAG9suQbZ8nSP9U7blxC1lODh2KnEeNmySE5wScg4GimUI3zqN/G0uqOHEfCy3PyAC0I7Uc00Hajs/d4OYBT5NbN4Ns7EK6U4jBCzJbipg/0e0nMt1PjrQqLtjgM0YM=;af+d86KLMza9aM58mSoW5w=="
 ---
 
