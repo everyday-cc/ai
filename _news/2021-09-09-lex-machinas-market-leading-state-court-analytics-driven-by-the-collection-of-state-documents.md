@@ -25,122 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "How to achieve data supremacy using analytics and machine learning"
-    excerpt: "With consumer behaviour heavily weighted towards speed and convenience, retailers need a renewed focus on the customer journey, says Andy MacInnes, chief technology officer at Appsbroker."
-    publishedDateTime: 2021-09-09T05:00:00Z
-    webUrl: "https://www.retail-week.com/retail-voice/how-to-achieve-data-supremacy-using-analytics-and-machine-learning/7040274.article"
+  - title: "Introducing the Next Gen Stats Decision Guide: A new analytics tool for fourth down, two-point conversions"
+    excerpt: "Next Gen Stats introduces a new tool that will take the analytics on fourth down and two-point conversions to the next level. With the help of tracking technology, fans will have the opportunity of knowing the optimal decision BEFORE THE PLAY."
+    publishedDateTime: 2021-09-07T19:08:00Z
+    webUrl: "https://www.nfl.com/news/introducing-the-next-gen-stats-decision-guide-a-new-analytics-tool-for-fourth-do"
+    ampWebUrl: "https://www.nfl.com/_amp/introducing-the-next-gen-stats-decision-guide-a-new-analytics-tool-for-fourth-do"
+    cdnAmpWebUrl: "https://www-nfl-com.cdn.ampproject.org/c/s/www.nfl.com/_amp/introducing-the-next-gen-stats-decision-guide-a-new-analytics-tool-for-fourth-do"
     type: article
     provider:
-      name: Retail Week
-      domain: retail-week.com
-    quality: 39
+      name: NFL
+      domain: nfl.com
+    quality: 26
     images:
-      - url: "https://d53bpfpeyyyn7.cloudfront.net/Pictures/1024x536/6/4/2/3094642_dataanalytics_972944.jpg"
-        width: 1024
-        height: 536
+      - url: "https://static.www.nfl.com/image/private/t_editorial_landscape_8_desktop_mobile/league/sybnujhxbyf6or1f3dqh.png"
+        width: 824
+        height: 464
         isCached: true
-  - title: "Pearson Acquires Leading AI Analytics Company Faethm"
-    excerpt: "Pearson, the world's leading learning company, today announced that it has acquired the groundbreaking workforce AI and predictive"
-    publishedDateTime: 2021-09-07T17:55:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pearson-acquires-leading-ai-analytics-company-faethm-301370557.html"
+  - title: "Gig Guide: Recognition for Simmons, new Human Rights Commissioner"
+    excerpt: "A leading Australian quantum physicist has been awarded one of the world’s moist prestigious science prizes, while a critic of the Australian Human Rights Commission has been appointed as its next Commissioner by the federal government."
+    publishedDateTime: 2021-09-06T03:54:00Z
+    webUrl: "https://www.innovationaus.com/gig-guide-recognition-for-simmons-new-human-rights-commissioner/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/617186/Pearson_Logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
-  - title: "TulsaLabs to Develop Personalized Health Analytics Utilizing Artificial Intelligence"
-    excerpt: "Health data analytics, also known as clinical data analytics, involves the extrapolation of actionable insights from sets of patient data, typically collected from electronic devi"
-    publishedDateTime: 2021-09-09T18:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-media-software-artificial-intelligence-106f7f6b7dd9237fba5d36f40dd306a9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "MEDIA ADVISORY: Virtual Event Invitation - Winning on the Racetrack and for the Planet with AI and Advanced Analytics"
-    excerpt: "Join Genpact and Envision Virgin Racing for a behind-the-scenes virtual experience on how digital innovation and analytics deliver insights to"
-    publishedDateTime: 2021-09-09T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/media-advisory-virtual-event-invitation-winning-on-the-racetrack-and-for-the-planet-with-ai-and-advanced-analytics-1030790172"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Innovation
+      domain: innovationaus.com
     quality: 24
-  - title: "Battery analytics startup Accure banks $8 million"
-    excerpt: "Aachen, Germany-based battery analytics company Accure has received $8 million in a Series A funding round. The software and AI-driven solution assists manufacturers and operators in monitoring the overall health"
-    publishedDateTime: 2021-09-08T13:54:00Z
-    webUrl: "https://tech.eu/brief/battery-analytics-startup-accure-banks-8-million/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 22
     images:
-      - url: "https://tech.eu/wp-content/uploads/2021/09/battttttery-1.png"
-        width: 960
-        height: 545
+      - url: "https://www.innovationaus.com/wp-content/uploads/2019/09/Michelle-Simmons-800x600-2.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Drone Analytics Market Worth $45,575.9 Million by 2030, says P&S Intelligence"
-    excerpt: "From $2,815.6 million in 2020, the value of the global drone analytics market will witness a 32.1% CAGR during 2020?2030, to reach $45,575.9 million by 2030, says P&S Intelligence. The major reasons behind the rising demand for such solutions"
-    publishedDateTime: 2021-09-09T08:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-19988528.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AI Government Advisory Firm Sapio Analytics Receives Strategic Funding from Rachit Poddar and Rajesh Gupta"
-    excerpt: "Founder of Marwari Catalysts Ventures & Executive Director at Rachit Group, and Rajesh Gupta, Director at Jaybharat"
-    publishedDateTime: 2021-09-07T03:30:00Z
-    webUrl: "https://www.indianweb2.com/2021/09/ai-government-advisory-firm-sapio.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 19
-    images:
-      - url: "https://1.bp.blogspot.com/-1sk5cgt57wQ/YTZNoRouoyI/AAAAAAAAEwg/i45rKsf9pvU_GJtPiJOY1lNVyrvohUzGQCLcBGAsYHQ/s16000/sapio_analytics_.webp"
-        width: 512
-        height: 301
-        isCached: true
-  - title: "InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics"
-    excerpt: "Lexalytics’ engine enables companies to listen to and drive improvements based on all types of structured and unstructured data, connects seamlessly to hundreds of data sources and partners, and solidifies InMoment’s position as the leader of experience improvement South Jordan,"
-    publishedDateTime: 2021-09-09T19:09:00Z
-    webUrl: "https://customerthink.com/inmoment-completes-acquisition-of-lexalytics-the-leader-and-pioneer-of-structured-and-unstructured-data-analytics/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 2
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
-        width: 1280
-        height: 1280
-        isCached: true
-  - title: "InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics"
-    excerpt: "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, announced today it has completed the acquisition of Lexalytics®, the leading provider of cloud and on-premise natural language processing (NLP),"
-    publishedDateTime: 2021-09-09T13:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-inmoment-completes-acquisition-lexalytics-leader-pioneer-structured-unstructured-/2021/09/09/9446019.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Qzs4czGIfyU0w+FMSL4aku/UrmVn6DA1XNbkFHpn5nLdqLs6x1zqcbZe4f+bukpkb9tcVU19b+IW1eftT5YZhJzqkZRfldQK56s7uBY+dtgivGEu8Nzt3vBJSjypNf/fPDRhF4qiXQ48lSpsgy23T+nACfLBjN7cJl3uJhB56pX6tYpRnhaIaE19uC99BkGcGFKjBosec9n+KeVZkt/Sp6XjVHIwUzMBo11RwaY7zIMQkAJVHpji13A/Dznh/4fSOdTtietHZErGd278gNhl6k+zrgBqqaWYGMka5sdDAltQwi28wFAziS8AIw07LxJEI5dXcBXeoRXmhoLq73Evg4OzrmxQjrXOgE5SDm5Xjjo=;DtMI7Q+E9TWu+ps3PRGiGQ=="
 ---

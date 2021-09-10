@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "NSW Transport taps into AI and data analytics to improve road safety"
+    excerpt: "A method is being developed using AI to help Australian governments improve how safety standards of highways across the country are assessed."
+    publishedDateTime: 2021-09-08T03:13:00Z
+    webUrl: "https://www.zdnet.com/article/nsw-transport-taps-into-ai-and-data-analytics-to-improve-road-safety/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/05/03/cad0f4b7-8a61-4f10-8771-acccb9865e9d/thumbnail/770x578/3b171bf8aec675869f79131a1a30ba3f/australia-roads.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "How to achieve data supremacy using analytics and machine learning"
     excerpt: "With consumer behaviour heavily weighted towards speed and convenience, retailers need a renewed focus on the customer journey, says Andy MacInnes, chief technology officer at Appsbroker."
     publishedDateTime: 2021-09-09T05:00:00Z
@@ -102,20 +116,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents"
-    excerpt: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents. Sep 09, 2021 11:15 AM ET. Legal Newswire POWERED BY LAW.COM . Lex Machina, a LexisN"
-    publishedDateTime: 2021-09-09T15:15:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?news=c3pDaHNWQ2ppajQ4NkUycVhJY21xUT09"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 12
-    images:
-      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
-        width: 256
-        height: 256
         isCached: true
   - title: "InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics"
     excerpt: "Lexalytics’ engine enables companies to listen to and drive improvements based on all types of structured and unstructured data, connects seamlessly to hundreds of data sources and partners, and solidifies InMoment’s position as the leader of experience improvement South Jordan,"

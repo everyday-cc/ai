@@ -86,6 +86,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "That Viral Video Of The Young Deer That Did A Smackdown Of A Hawk That Was Attacking A Rabbit Provides Intrepid Insights For AI Self-Driving Cars"
+    excerpt: "A viral video about a deer, a hawk, and a rabbit provides fodder for thinking about AI and especially the advent of AI-based true self-driving cars. Here's the saga."
+    publishedDateTime: 2021-09-10T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/10/that-viral-video-of-the-young-deer-that-did-a-smackdown-of-a-hawk-that-was-attacking-a-rabbit-provides-intrepid-insights-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/10/that-viral-video-of-the-young-deer-that-did-a-smackdown-of-a-hawk-that-was-attacking-a-rabbit-provides-intrepid-insights-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/10/that-viral-video-of-the-young-deer-that-did-a-smackdown-of-a-hawk-that-was-attacking-a-rabbit-provides-intrepid-insights-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 52
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61106083d6fad342ad5a536a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2578%26cropY1%3D224%26cropY2%3D1675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CVS – Self-Driving Cars Are Here and the Leaders May Surprise You"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-09-07T17:19:00Z

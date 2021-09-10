@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Celebrity spotting: Amazon improves facial recognition for famous people"
-excerpt: "Facial recognition AI used by police on the public remains a contentious issue, but Amazon is pressing ahead with its Rekognition technology for identifying celebrities in images and video."
-publishedDateTime: 2021-08-27T15:38:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2025/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-webUrl: "https://www.zdnet.com/index.php/category/2025/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2025/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2025/index.php/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+excerpt: "Facial recognition AI used by police on the public remains a contentious issue, but Amazon is pressing ahead with its Rekognition technology for identifying celebrities in images and video. In May, Amazon extended its one-year ban from June 2020 on US ..."
+publishedDateTime: 2021-08-27T10:51:00Z
+originalUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+webUrl: "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/"
 type: article
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "WUXhTBSiu95WzzYYZG5vwHeQkWCYeC7ooYlhDqfkDNPa9cMqwm5WhYM+M2REFyOqXdslUPLuZDtxoyHHDh1o/GJ9IiXoSAoSUnRKGmRPaSfzFMnJQP7GuSe0q4e3zuvU5w99+Bs13W7uBWkItabYQ9kUAEcR0KxRTT+09QkhixRLj5dEr7Q3sbrloOX0Urp+35tHVbT1TuP3VgEGfgKThlp9r4uqjnAR1f2olKpRkhtIaym/XHtgSHekZ/l30Y7CBcmK9f2+n/gYQje+Rq0EsM9JGNEbWoD8nrSuBbSnq8j4TVvFI/0Yy3wEeaTI27X9AAT3W9KhVaknY26ZRQ2Ma6HER7ktSmvoI2a0IJr+Toc=;3qyIRSo5Ajzf4W6tLukzxw=="
+secured: "YN2Vc9WFgu9RoWqEGbrkWATfKkddKwNMWpPZ1RElSnVQCmOZJ1JpxHyy38d6geiSx361vyxoqry2Bil3hXeeoKgZwT8bUyTP3KFiLZCJVdYNQ8S4/yGrpTwXKObEIXpSsDoYy4dnaWASgyuWkM8lGWkbhNAIzWcWmxTtAzmzdcnsHIEVA9bkfjvj/V4LDepMJS703KaInetYZOcWwj/uk/rXohbTfs9FLf3l5TfcnWrFmIXeRVHHSA2XbGZ4tjddkvSCqcDwetKlX8Ix6eRU7kYTjlfZK93DVwlEcvOuP50IbUYZbgS/jo3mjqjZJVEYn7hEYA6a0iSQ/yt/4d8Tp4p4bXsxOb08lYlLRavLYPM=;0t2ofPadVGgbxSa1j7/Jgg=="
 ---
 

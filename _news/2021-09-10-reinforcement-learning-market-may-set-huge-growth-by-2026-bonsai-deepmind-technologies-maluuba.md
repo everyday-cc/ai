@@ -8,8 +8,8 @@ webUrl: "https://manometcurrent.com/reinforcement-learning-market-may-set-huge-g
 ampWebUrl: "https://manometcurrent.com/reinforcement-learning-market-may-set-huge-growth-by-2026-bonsai-deepmind-technologies-maluuba/?amp=1"
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/reinforcement-learning-market-may-set-huge-growth-by-2026-bonsai-deepmind-technologies-maluuba/?amp=1"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: -1
 published: false
 
 provider:
@@ -19,12 +19,31 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Market-Research-3-7-390x220.jpg"
     width: 390
     height: 220
     isCached: true
+
+related:
+  - title: "DeepMind aims to marry deep learning and classic algorithms"
+    excerpt: "If successful, DeepMind's goal to bridge deep learning and classical computer science could revolutionize AI and software as we know them."
+    publishedDateTime: 2021-09-10T15:20:00Z
+    webUrl: "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/"
+    ampWebUrl: "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1262867852-e1631215030724.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "AnOE/E48ohmBwARoD7Ii4klqCJ4U9MC9WoVMlV0/zoiDmo+WJXeKtjM8Cu8mqFczi4QkHz3/6BpSCW1Mjf8+cxJ1f0VVU7+1Og2Zn/F4Fb35UTpaVWq1oJ+q/WyvNngHANua5HYzO6g2fpIEr7D0LJj8CPkU63L+TJ3BfGXtUemPIXhZ0V2H1t9SV3ya+UtxCYJuaFGvSXvDNj7rhgBlP0z6gIhif5nqGLzHNL3iFInjpX08s6Z/VKZ1mGDychPbEFZRVqkJPR416daLqdAtyQtCG7phuAuoWVCh3wNgklrJGagI7N+aNMEIiGaqXz0pIjviEceBebyso6uUq2S1ZlS29/WNFJfOgD0etrxeWHA=;Fp547o8OYgzazBHI5pLD2Q=="
 ---

@@ -25,17 +25,6 @@ images:
     height: 387
     isCached: true
 
-related:
-  - title: "Harnessing Artificial Intelligence to Accelerate the Energy Transition"
-    excerpt: "The efforts to decarbonize the global energy system are leading to an increasingly integrated and electrified energy system, with much more interaction between the power, transport, industry and b. ."
-    publishedDateTime: 2021-09-06T04:09:00Z
-    webUrl: "https://electricenergyonline.com/article/energy/category/white-papers/93/916255/harnessing-artificial-intelligence-to-accelerate-the-energy-transition.html"
-    type: article
-    provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 17
-
 secured: "/zsHgMprDrcslkcJwxUCtVA6EHharffwAMHy2CQYxpkKC69JLybwmJeptMJvdNDHeBQiq1k8P7h0ZQyBvLAWEOU9IId3JHMP3tW9bdBliZ4jCC297eqp5M+9QBtHT2pt19kO1hanqfYj1ox3P/Lyp2IrLQjgSdvxbFewwc8lBl/Dl+kB7+R53Vxk/KMI9I4BZMwapavHJB7GUWEAwTfIAmQnrOT2rYmhT7y/gE+SdOSmYljP9GQETZE8akZ7yPAKVpPkIdDXOcyAp6JPdMyT31evOdHDIEEk3SZTbufp4C0D8Ey92Y6Es1h255SOFZl0CYwUWCrHM6kfKKtnPKVt1hh6MhOS6bDu89+6Ey4Viqp/A/LSq+EPryHJqdCciLnIQPxpa8jxVWGuLTTkJoqrEodgNHw6aIrfvkfqA8RgX3ZrG/nRmyxXDCwxWb7PZj/ChGu/lsgWrKvMSwEDifErmhoUkeNaJbhuvC2mPtqpSjNMHw8clAzxNdp3vgDErRaoIE1njY9lzvN2mHRivH7QyA==;DEnONU7p308qmxZ+4evtYA=="
 ---
 

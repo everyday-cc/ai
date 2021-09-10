@@ -38,7 +38,7 @@ related:
     provider:
       name: The Indian Express
       domain: indianexpress.com
-    quality: 137
+    quality: 141
     images:
       - url: "https://openai.com/content/images/2021/09/codex-og-image-color.png"
         width: 1600

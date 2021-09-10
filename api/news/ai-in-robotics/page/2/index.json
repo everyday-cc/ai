@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-02-meet-emma-the-ai-robot-masseuse-practicing-ancient-wellness-therapies.md",
+      "title": "Meet 'EMMA': The AI robot masseuse practicing ancient wellness therapies",
+      "excerpt": "Developed by Singapore-based startup AiTreat, \"EMMA\" is a robot masseuse that uses sensors and 3D vision to deliver deep tissue massages and traditional Chinese medicine (TCM) therapies.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210827144954-01-emma-robot-masseuse-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "publishedDateTime": "2021-09-01T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-seoul-robotics-launches-3d-perception-software-with-deep-learning.md",
       "title": "Seoul Robotics launches 3D perception software with deep learning",
       "excerpt": "Deep learning is at the heart of the new software, allowing Seoul Robotics to improve the perception accuracy of autonomous mobile robots.",
@@ -1344,59 +1396,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-could-this-robot-actually-be-your-marketing-writer.md",
-      "title": "Could This Robot Actually Be Your Marketing Writer?",
-      "excerpt": "Because while scores of humans debated its content, it turned out most of the words weren’t actually written by a human at all. They were penned by a new artificial intelligence model called GPT-3, and posted by Liam Porr,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379745",
-      "originalUrl": "https://www.entrepreneur.com/article/379745",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629321559-ent21-sept-bigidea.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379745",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379745",
-      "publishedDateTime": "2021-08-26T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

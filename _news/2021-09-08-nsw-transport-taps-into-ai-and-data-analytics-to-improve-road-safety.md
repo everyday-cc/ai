@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/article/nsw-transport-taps-into-ai-and-data-
 webUrl: "https://www.zdnet.com/article/nsw-transport-taps-into-ai-and-data-analytics-to-improve-road-safety/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: ZDNet
@@ -29,93 +29,122 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise Of AI In The Transportation And Logistics Industry"
-    excerpt: "The Rise Of AI In The Transportation And Logistics Industry is discussed, and profiling Purolator for its AI and digital transformation leadership."
-    publishedDateTime: 2021-09-05T21:30:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/"
+  - title: "How to achieve data supremacy using analytics and machine learning"
+    excerpt: "With consumer behaviour heavily weighted towards speed and convenience, retailers need a renewed focus on the customer journey, says Andy MacInnes, chief technology officer at Appsbroker."
+    publishedDateTime: 2021-09-09T05:00:00Z
+    webUrl: "https://www.retail-week.com/retail-voice/how-to-achieve-data-supremacy-using-analytics-and-machine-learning/7040274.article"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Retail Week
+      domain: retail-week.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613533df794a3c6a17add20a%2F0x0.jpg"
-        width: 1200
-        height: 560
+      - url: "https://d53bpfpeyyyn7.cloudfront.net/Pictures/1024x536/6/4/2/3094642_dataanalytics_972944.jpg"
+        width: 1024
+        height: 536
         isCached: true
-  - title: "Is Artificial Intelligence Set To Take Over The Art Industry?"
-    excerpt: "So far, AI has only demonstrated an ability to study and understand existing art and to somehow enhance or combine them to produce something new, and in some cases, something better."
-    publishedDateTime: 2021-09-06T23:48:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/amp/"
+  - title: "Pearson Acquires Leading AI Analytics Company Faethm"
+    excerpt: "Pearson, the world's leading learning company, today announced that it has acquired the groundbreaking workforce AI and predictive"
+    publishedDateTime: 2021-09-07T17:55:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/pearson-acquires-leading-ai-analytics-company-faethm-301370557.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6136a7177db7c524b9bef9ef%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5148%26cropY1%3D310%26cropY2%3D3206"
-        width: 1200
-        height: 675
+      - url: "https://mma.prnewswire.com/media/617186/Pearson_Logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
-  - title: "16 Business And Industry Functions Being Transformed By AI"
-    excerpt: "AI is helping companies protect employees and customers, maintain their stock, develop new products and services and more."
-    publishedDateTime: 2021-09-09T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/09/16-business-and-industry-functions-being-transformed-by-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/09/16-business-and-industry-functions-being-transformed-by-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/09/16-business-and-industry-functions-being-transformed-by-ai/amp/"
+  - title: "TulsaLabs to Develop Personalized Health Analytics Utilizing Artificial Intelligence"
+    excerpt: "Health data analytics, also known as clinical data analytics, involves the extrapolation of actionable insights from sets of patient data, typically collected from electronic devi"
+    publishedDateTime: 2021-09-09T18:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-media-software-artificial-intelligence-106f7f6b7dd9237fba5d36f40dd306a9"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a103c8afd32342a619370%2F0x0.jpg"
-        width: 1200
-        height: 562
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "2 Leveraged Plays to Take Advantage of AI in the Transportation Sector"
-    excerpt: "A rtificial intelligence (AI) is already revolutionizing the transportation sector, putting a pair of Direxion Investments' leveraged exchange-traded funds (ETFs) on notice for traders to consider. From driverless applications to inter-connectivity between drivers,"
-    publishedDateTime: 2021-09-08T16:13:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp"
+  - title: "MEDIA ADVISORY: Virtual Event Invitation - Winning on the Racetrack and for the Planet with AI and Advanced Analytics"
+    excerpt: "Join Genpact and Envision Virgin Racing for a behind-the-scenes virtual experience on how digital innovation and analytics deliver insights to"
+    publishedDateTime: 2021-09-09T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/media-advisory-virtual-event-invitation-winning-on-the-racetrack-and-for-the-planet-with-ai-and-advanced-analytics-1030790172"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
-  - title: "The Energy Transition Needs Artificial Intelligence"
-    excerpt: "Long-term modeling of our future energy system will require artificial intelligence functions. Imagine if you will a network of n things, each of which is connected to each other. When n is a small number,"
-    publishedDateTime: 2021-09-09T10:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-09/the-energy-transition-needs-artificial-intelligence"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
+  - title: "Battery analytics startup Accure banks $8 million"
+    excerpt: "Aachen, Germany-based battery analytics company Accure has received $8 million in a Series A funding round. The software and AI-driven solution assists manufacturers and operators in monitoring the overall health"
+    publishedDateTime: 2021-09-08T13:54:00Z
+    webUrl: "https://tech.eu/brief/battery-analytics-startup-accure-banks-8-million/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
+      name: Tech.eu
+      domain: tech.eu
+    quality: 22
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV3R5EMS8GwE/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://tech.eu/wp-content/uploads/2021/09/battttttery-1.png"
+        width: 960
+        height: 545
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market by Trends, Dynamic Innovation in Technology, Global Industry Insights by 2028"
-    excerpt: "The market study depicts an extensive analysis of all the players running in the Artificial Intelligence in Healthcare market report based on distribution channels, local network, innovative launches,"
-    publishedDateTime: 2021-09-08T12:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-09-08/artificial-intelligence-in-healthcare-market-by-trends-dynamic-innovation-in-technology-global-ind"
+  - title: "Drone Analytics Market Worth $45,575.9 Million by 2030, says P&S Intelligence"
+    excerpt: "From $2,815.6 million in 2020, the value of the global drone analytics market will witness a 32.1% CAGR during 2020?2030, to reach $45,575.9 million by 2030, says P&S Intelligence. The major reasons behind the rising demand for such solutions"
+    publishedDateTime: 2021-09-09T08:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-19988528.html"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 28
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
+  - title: "AI Government Advisory Firm Sapio Analytics Receives Strategic Funding from Rachit Poddar and Rajesh Gupta"
+    excerpt: "Founder of Marwari Catalysts Ventures & Executive Director at Rachit Group, and Rajesh Gupta, Director at Jaybharat"
+    publishedDateTime: 2021-09-07T03:30:00Z
+    webUrl: "https://www.indianweb2.com/2021/09/ai-government-advisory-firm-sapio.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 19
+    images:
+      - url: "https://1.bp.blogspot.com/-1sk5cgt57wQ/YTZNoRouoyI/AAAAAAAAEwg/i45rKsf9pvU_GJtPiJOY1lNVyrvohUzGQCLcBGAsYHQ/s16000/sapio_analytics_.webp"
+        width: 512
+        height: 301
+        isCached: true
+  - title: "InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics"
+    excerpt: "Lexalytics’ engine enables companies to listen to and drive improvements based on all types of structured and unstructured data, connects seamlessly to hundreds of data sources and partners, and solidifies InMoment’s position as the leader of experience improvement South Jordan,"
+    publishedDateTime: 2021-09-09T19:09:00Z
+    webUrl: "https://customerthink.com/inmoment-completes-acquisition-of-lexalytics-the-leader-and-pioneer-of-structured-and-unstructured-data-analytics/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 2
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
+        width: 1280
+        height: 1280
+        isCached: true
+  - title: "InMoment Completes Acquisition of Lexalytics, the Leader and Pioneer of Structured and Unstructured Data Analytics"
+    excerpt: "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, announced today it has completed the acquisition of Lexalytics®, the leading provider of cloud and on-premise natural language processing (NLP),"
+    publishedDateTime: 2021-09-09T13:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inmoment-completes-acquisition-lexalytics-leader-pioneer-structured-unstructured-/2021/09/09/9446019.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "BxQFNEl8W5/PBPTmEl0z38Bf2CP9Vi74wvoOONlropTPqBQNnjeGx2EUK2OX/TOnDFwsPrpLxYMUjzC2SRigeuqq4mNbaWDI6ZzgscKjTQU3sQwRwf2U7WnCnr9gjxr6rXpmy62VVAmj+WBZZKZboTZfPDSJPQJfFteROqj2mE65dNUlqqiWG9QqpsCLC5YdSxmtWOxabNYf6FooKiL0OK3JQMohK7t+RdTwwxHy38U4l+DNqgdoNhGmiNsHItRVy49GlTjeaipduid1mOlZa1OvVZjvtDM1KSG7x2FYOKcfBR5d+SQRGzO5JVKJY/Nk7Elw91n2yqN1Xc7D/f9uX5wuY3h6V8m7nMloobWvFT8=;qJEm/FNcPjZwxZZUL8tJew=="
 ---

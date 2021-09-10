@@ -41,6 +41,20 @@ related:
         width: 824
         height: 464
         isCached: true
+  - title: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents"
+    excerpt: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents. Sep 09, 2021 11:15 AM ET. Legal Newswire POWERED BY LAW.COM . Lex Machina, a LexisN"
+    publishedDateTime: 2021-09-09T15:15:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?news=c3pDaHNWQ2ppajQ4NkUycVhJY21xUT09"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 12
+    images:
+      - url: "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "PsZg+651ucMS/2Bus+/gAb6L8r66Hz76URBuo+Uewz0YyttJ3QHtAalIYqcXOga4mzNOBZYCaBKoVso7n0ejp3koN5tngesR46KfrpjomdOf8UM1dMi6/FxnQNNZoonqD3Nfd4/R1tJ6K/C8psJw9+oWxMJDqDUCsW4V1hDcnP7a5NTVLWSA++fphNTiCIhzOkIAAWHvrgbUwAehXsTQoo96U4VWOaB1cFeEcNR+dlwoe51hdZiTx9H7ECKJmnV3QCvo9rS4Cy9W64McQEVOD1uhQMmQ63QAVyd5k0qc1uBFOArAIYGj4wNPG1aFBwE1jmSWQHxLABZDZ3oeoFUnOI8veZ1X/Bzhy8e8nHWGboQ=;ItnDkPIW3wMXf9zgwwByNw=="
 ---

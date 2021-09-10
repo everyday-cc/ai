@@ -208,6 +208,20 @@ related:
         width: 2560
         height: 1650
         isCached: true
+  - title: "Will Facebook’s first generation smart glasses be a success?"
+    excerpt: "Facebook’s first-generation smart glasses are a cautious move to test the waters before rivals such as Apple enter the market. While Facebook’s product will likely be similar to Snap’s Spectacles 3, the company must deliver compelling audio and video experiences if it is to make waves in the consumer smart glasses market,"
+    publishedDateTime: 2021-09-10T14:50:00Z
+    webUrl: "https://www.techdigest.tv/2021/09/will-facebooks-first-generation-smart-glasses-be-a-success.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 24
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2021/09/Screenshot-2021-09-10-at-11.33.55.png"
+        width: 1472
+        height: 917
+        isCached: true
   - title: "Facebook Researcher’s New Algorithm Ushers New Paradigm Of Image Recognition"
     excerpt: "The researchers designed VICReg to avoid the collapse problem, which is handled more inefficiently in the case of contrastive methods."
     publishedDateTime: 2021-09-06T06:30:00Z

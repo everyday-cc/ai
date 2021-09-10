@@ -9,8 +9,8 @@ ampWebUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industr
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
 type: article
 quality: 59
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: techbooky.com
@@ -27,186 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
-    excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
-    publishedDateTime: 2021-09-07T10:43:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+  - title: "Is Artificial Intelligence Set To Take Over The Art Industry?"
+    excerpt: "So far, AI has only demonstrated an ability to study and understand existing art and to somehow enhance or combine them to produce something new, and in some cases, something better."
+    publishedDateTime: 2021-09-06T23:48:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Broadridge Hires FinTech Fixed Income Veterans to Join LTX"
-    excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that Ted Bragg and Jim Kwiatkowski have"
-    publishedDateTime: 2021-09-07T12:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/09/n22823331/broadridge-hires-fintech-fixed-income-veterans-to-join-ltx"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22823331"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22823331"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6136a7177db7c524b9bef9ef%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5148%26cropY1%3D310%26cropY2%3D3206"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Insurance FinTech Marshmallow Lands $85M"
-    excerpt: "The insurance FinTech Marshmallow reached a valuation of over $1.25 billion to become the U.K.’s newest tech unicorn after an $85 million Series B funding round."
-    publishedDateTime: 2021-09-08T15:49:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
+  - title: "Retail Set to Overtake Banking in AI Spending"
+    excerpt: "The continuing e-commerce surge is among the factors driving the sector to invest more in the technology."
+    publishedDateTime: 2021-09-07T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/retail-set-to-overtake-banking-in-ai-spending-11631007001"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/marshmallow-app-457x274.png"
-        width: 457
-        height: 274
+      - url: "https://images.wsj.net/im-396252/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-    excerpt: "Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and banks, has been recognized as one of the leading AI solution developers in financial services by FinTech Global,"
-    publishedDateTime: 2021-09-08T14:11:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4a5ff55dc3ff4f0cac09fa874a6ede89"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Broadridge Financial Solutions Appoints Fintech-focused Fixed Income Specialists"
-    excerpt: "Broadridge Financial reveals that Ted Bragg, Jim Kwiatkowski have joined LTX, a Broadridge firm providing an online trading platform."
-    publishedDateTime: 2021-09-09T02:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/09/180058-broadridge-financial-solutions-appoints-fintech-focused-fixed-income-specialists/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/180058-broadridge-financial-solutions-appoints-fintech-focused-fixed-income-specialists/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/180058-broadridge-financial-solutions-appoints-fintech-focused-fixed-income-specialists/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Corporate-Bond-Security-Pacific-Railroad-1865-300x224.jpeg"
-        width: 300
-        height: 224
-        isCached: true
-  - title: "Broadridge/LTX hires fintech fixed income veterans"
-    excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that Ted Bragg and Jim Kwiatkowski have joined LTX, a Broadridge company offering a new AI-driven digital trading platform for corporate bonds."
-    publishedDateTime: 2021-09-07T20:07:00Z
-    webUrl: "https://www.finextra.com/pressarticle/89180/broadridgeltx-hires-fintech-fixed-income-veterans"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "10 Fintech Stocks Redditors are Buying"
-    excerpt: "Financial technology companies have outperformed the wider banking sector in the past few years, registering growth numbers that have left even market experts stunned."
-    publishedDateTime: 2021-09-09T13:23:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-fintech-stocks-redditors-are-buying-977243/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 24
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/06/24102100/clay-banks-Ox6SW103KtM-unsplash.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
-  - title: "Silicon Valley tech firm expands in PH amid rise in fintech adoption"
-    excerpt: "A Silicon Valley-based fraud detection firm is expanding its global operations to the Philippines, betting on the growth of finance and telecom sectors in the financial technology space."
-    publishedDateTime: 2021-09-09T11:02:00Z
-    webUrl: "https://cnnphilippines.com/business/2021/9/9/fraud-detection-firm-HyperVerge-expands-to-PH.html"
-    type: article
-    provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
-    quality: 24
-    images:
-      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2019/12/12/Online-Shopping_CNNPH.jpg/jcr:content/Online-Shopping_CNNPH.jpg"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "The FinTech companies to watch out for in Europe"
-    excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services. FinTech"
-    publishedDateTime: 2021-09-09T10:38:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/the-fintech-companies-to-watch-out-for-in-europe/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/FinTech-India-funding.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Redefining fintech: How Israel became a global leader in financial technology"
-    excerpt: "In 2020, the country’s position in the Global Fintech Rankings was 12th, making its climb to 3rd place the most profound move among the list’s top 16 nations in 2021. Tel Aviv also rose from 18th to 5th within the fintech hub rankings."
-    publishedDateTime: 2021-09-09T07:04:00Z
-    webUrl: "https://blogs.timesofisrael.com/redefining-fintech-how-israel-became-a-global-leader-in-financial-technology/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 21
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/2021/09/Fintech-Israel.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "Fintech investor Chrysalis appoints industry veteran Margaret O’Connor to board"
-    excerpt: "O’Connor was a founding member of Mastercard Asia Pacific and currently holds a number of board positions in Africa-centric companies."
-    publishedDateTime: 2021-09-06T09:34:00Z
-    webUrl: "https://www.altfi.com/article/8290_fintech-investor-chrysalis-appoints-industry-veteran-margaret-oconnor-to-board"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 20
-    images:
-      - url: "https://www.altfi.com/images/featured/fintech-investor-chrysalis-appoints-industry-veteran-margaret-oconnor-to-board.jpg"
-        width: 1200
-        height: 719
-        isCached: true
-  - title: "The new AIFinTech100 is launched to highlight the industry-leading Artificial Intelligence companies driving the future of financial services"
-    excerpt: "FinTech Global, the specialist research and intelligence firm, today launches the new AIFinTech100 to list the most innovative companies offering Artificial Intelligence (AL) and Machine Learning (ML) technology solutions to the financial services industry."
-    publishedDateTime: 2021-09-06T23:00:00Z
-    webUrl: "https://pressat.co.uk/releases/the-new-aifintech100-is-launched-to-highlight-the-industry-leading-artificial-intelligence-companies-driving-the-future-of-financial-services-2c3ddfca5431735dcab1277aacf1de42/"
-    type: article
-    provider:
-      name: pressat.co.uk
-      domain: pressat.co.uk
-    quality: 19
-    images:
-      - url: "https://pressat.co.uk/media/cache/360x270-b592d7ca94627364a13c8253d397f286.png"
-        width: 360
-        height: 270
-        isCached: true
-  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-    excerpt: "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
-    publishedDateTime: 2021-09-08T17:51:00Z
-    webUrl: "https://www.afp.com/en/news/1314/earnix-recognized-top-aifintech100-company-fintech-global-202109080057991"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 19
 
 secured: "rkczdqxBbSvZqcwxct8kDhY0Cn+mEPMx7cK8N0RoM84sp5Bn3rgUgEIslp945V/spIbjcVgyOWQeQ59gzHfH3wI0qBRpRvTzwuHWg0GX+uDhd9ACR/VtNB0ZNu8SjhIEQ2g+6f25HhE4jf0Z/S7dwrtHcCN2GSkWJK3dro4CSyqFwHrWgIy6FUOPm111T/GPiyzk3NTzkYqhzg9pn1LZM2Tk2MLM3ZQ2g0JAcwUrrJfJcG3qDTgV3qAUlOw2x7kaI7tntt3kOmMJQT1EII//y99QUCf2ihsRWNMWCSm4/qusGCe4LQL8vPumLaKGoV+AO4HM3d6ppOu/H7JOSsOoWyMFx8F73piZQ3shS2lRutsVd/VON2Ev6jM4i5+UQHAef2RVU1fe7CJ3Q6dpGwT2wN+kPSW9hx3/xCVO1FZR5kq3nB2DRrae+RzEwyoAyoC5963eE3ynIc0KnsqUL2vTeEt6OO6Lq3FHuBex+N0TV37dexsR4slyspRm3nTnKknlMb8bQjDrNNoRI65sAlbX3A==;FD3pnFHt7rcoNREcmpWBfw=="
 ---

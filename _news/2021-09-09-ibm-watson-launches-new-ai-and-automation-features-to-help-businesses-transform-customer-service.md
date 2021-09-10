@@ -55,17 +55,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ESPN and IBM unveil new fantasy football trade features with help from Watson AI"
-    excerpt: "With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages. The Trade Assistant with ..."
-    publishedDateTime: 2021-09-05T23:01:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
+  - title: "IBM Focuses on AI Business, Adds New Features to Watson"
+    excerpt: "... Business Machines Corporation IBM recently announced the addition of new functionalities to IBM Watson Assistant. This will enhance Artificial Intelligence (AI)-powered automation offerings and make it easier for businesses to create enhanced customer ..."
+    publishedDateTime: 2021-09-10T15:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2021-09-10"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2021-09-10?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-business-adds-new-features-to-watson-2021-09-10?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "IBM Watson launches new AI and automation features for CX transformation"
     excerpt: "New IBM Watson Assistant features designed to help businesses more quickly set up a voice agent with IntelePeer and enable more seamless hand-offs to live agents."
     publishedDateTime: 2021-09-10T02:33:00Z

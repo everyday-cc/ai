@@ -115,6 +115,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
+    excerpt: "CodeNet is an attempt to do for Artificial Intelligence (AI) coding what ImageNet did for computer vision: it is a dataset of over 14 million code samples, covering 50 programming languages, intended to solve 4,"
+    publishedDateTime: 2021-09-10T14:52:00Z
+    webUrl: "https://www.ept.ca/2021/09/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 55
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2021/07/EPT_SEPT2021_ISSUU_COV-ml-300x400.jpg"
+        width: 300
+        height: 400
+        isCached: true
   - title: "Microsoft Teams With SoftBank-Backed Oyo on AI-Driven Hotel Tech"
     excerpt: "Hospitality startup Oyo Hotels entered a multiyear alliance with Microsoft Corp. to develop new travel technologies enabled by the U.S. firm’s Azure cloud infrastructure and artificial intelligence. The work will focus on improving the digital capabilities of small and medium hotels as well as home-stays and Microsoft has made an investment in Oyo,"
     publishedDateTime: 2021-09-09T20:00:00Z

@@ -2,17 +2,17 @@
 category: news
 title: "Little Rock City Director Erma Hendrix, known as an unflinching voice for her ward, dies at 91"
 excerpt: "Little Rock City Director Erma Hendrix, who represented the city's downtown core for more than a decade and was known as an unflinching voice for Ward 1, died Wednesday at the age of 91."
-publishedDateTime: 2021-09-10T11:53:00Z
-originalUrl: "https://www.nwaonline.com/news/2021/sep/10/little-rock-city-director-erma-hendrix-known-as/"
-webUrl: "https://www.nwaonline.com/news/2021/sep/10/little-rock-city-director-erma-hendrix-known-as/"
+publishedDateTime: 2021-09-10T08:45:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/sep/10/little-rock-city-director-erma-hendrix-known-as/"
+webUrl: "https://www.arkansasonline.com/news/2021/sep/10/little-rock-city-director-erma-hendrix-known-as/"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Natural Language Processing
@@ -24,6 +24,6 @@ images:
     height: 349
     isCached: true
 
-secured: "nLEHyyqejHQ++SYKnTbmLM4ssiEbPucuN3GD7Ipn4Vmqt5ct0q92apdGS4S+AdST3lNtORIJDoP0JolNe9UHfqLiJ/cHu4CkWbrlMLio9XGveQlNcLMWrdcZtk2xeYA/e0NxisZKNCDY6TommrFLT6coHVM4INYEjoW2lRszdpGkPju73pSAiBKk/+s8xHnpBSExTKj1eVF09HJ+7r/QbRLV02RO8Wt2N59a3IRFy2wXfcRM0wFLeOaorqENDTQtEpHM2Pdl4o3foBFsuZAyPLWX9h4qZB1fihMwdXvyQb8Rpr/IWg/cimIF/tFjskBBlGAdLpwtZ87HkSHuswZlBwq4s2f03fSGmLfCDw6tLFJ8II/unZPQRw+TQgGJSe1YEKmaJqnuY163FhBRgBck0VHU2X4EZuQsO6ZvRgvGYvPaGjfgwCYgkMoMPeRKz57FF//3WznoPqxiakT+fspNOaGRI8qqGKYLkEmHnglB33sK01qO+zVoz9sx+ieNzg6p14GibyMShtbyF5EVldgcgA==;iyyv5DYp9iueKUm0iQ5S9A=="
+secured: "3ZDmPG9evJDZUsnFOw2Z//vlyPd0xYXL4RjCuKqW1nfZN/pk6BESlXuwfSFIHEgCouxN3UaHQo6rMJUVbhUj+pde6+xStcmLRTq59sv6Z+AvkweEnej1p6FAkvRJ3zGPIu0jDE6yHcHriL4Rf2l1e9cTEyckOCUl8z7TpxYEC5/D8Vf3eetBbkgKSr13ifSnHnbuZO/DJIvJSyzdcivrRtS+yqguaOsc3R0IeSiEaWWvnV7wqaa+Fln6kovvrT6fD+NShHpkWCBdIfvC3ERqVXNAC1CcqCh/nUxoQQE4NzYsz4Gxus2yez79VK9DGKBRPNKh+DlHAdPbpY17y878e1HJOdEpguV3Vd220S2rWDg=;2gz8B/N2j/rTAGe4gg9gBA=="
 ---
 

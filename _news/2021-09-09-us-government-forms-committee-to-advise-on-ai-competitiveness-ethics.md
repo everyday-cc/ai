@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/us-government-forms-committee-t
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-1.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "NIST: Department Of Commerce Establishes National Artificial Intelligence Advisory Committee"
+    excerpt: "U.S. Secretary of Commerce Gina Raimondo has announced that the Commerce Department has established a high-level committee to advise the President and other federal agencies on a range of issues related to artificial intelligence (AI)."
+    publishedDateTime: 2021-09-10T15:21:00Z
+    webUrl: "https://ladailypost.com/nist-department-of-commerce-establishes-national-artificial-intelligence-advisory-committee/"
+    type: article
+    provider:
+      name: Los Alamos Daily Post
+      domain: ladailypost.com
+    quality: 26
+    images:
+      - url: "https://u2j2m2n8.rocketcdn.me/wp-content/uploads/2021/09/AI-Graphic-09-10-21.jpg"
+        width: 625
+        height: 362
         isCached: true
 
 secured: "zc2Lato4oN8jS7BT8iVsL+M/Zrssb9lCwKgbJfFs/Fh9PifIDeN+3gjUDMv69IHdlcKg0ntQ0CcLLY8eGZgAtW6MHcQ8ATEj14mKdjENwMBrmIaetnpFkPxzpeMXEM7uGwH3gQYW8Y4zqwTp08qs3h57xnYKZ2R+2+qK9jOqoNPM1jmTcJiVtIlzl+YE2ay7IfsmJGjlnj6pDPBjYkJUqjFBtuREV2bF0HzeGcSKoWv70Ui6uOyiJWL+KTXDXe0ED4na4zChPIkR2LyBy4U3balTp53BxhUuzAeqx0d2eQ6EjuqFIgW+nm8MvEAYtJHbvHno5xa2Hh3IgznRIWCauAOLTSbfgh2v8KQ12ycNfiHe24POwhp2Eqzm3osGSdLBrCfqyd9Q19NjziO1lIKAL7xX+4QITXzUjFTYmqTTMbTY2YQd8zDPlrZwL+RG1Df1QI9S3ORQ3LC8N8JBfMUcAZ3Bcs+4c7k2ciUzMIivRXMvd8yLCrp52KzoUU3VwU1fSK3tNU8QzeE/YX5j6IGXzg==;lbxooRzGPpR1p7r4aXnK0Q=="

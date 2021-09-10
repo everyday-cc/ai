@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-10T11:21:00Z
 originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai-can-now-write-its-own-computer-code-thats-good-news-for-humans-7501040/"
 webUrl: "https://openai.com/blog/openai-codex/"
 type: article
-quality: 137
+quality: 141
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://openai.com/content/images/2021/09/codex-og-image-color.png"
@@ -41,6 +43,6 @@ related:
         height: 549
         isCached: true
 
-secured: "Uhl10C+ow2uA6YsIJURrR4I+xwX9EzCr0/6WY6vcJH+RB3KIUQNCkTiAviXW8G6DMk097smxWRyL8waq1ZkzV4Az3h785ZJcx9d2784bOZbbCCzNF64SNSD8DZ4l/LSwlHKqVhtGOEht/sdKvwKNx+BFNzM8BgIMGydlBBvzEsVYeKP7GQgOdBUpBFd3lUBwsiYhmzFTNX4bhHFIS0G6O3T/OW8kHgqZz/TxiRe8c7fOh5iMZ8Lyfe7Nkz0gCgbEJDIn9jpVhw7WiH1IQ7HLKEuBJMPCOCcW+yXXnMRmubu5JsMNngh1xvzWEJ6XH8pfj9G/CWJDLT28X7QnV+ycPbz5iVbcNSDy/HSWRtD3pmg=;KUfrYZfZPxmz0eCMjrdxGw=="
+secured: "2OzfAHMcL7YYMSGkUT5c5wIhxy/BJYLUgU/yVLWS0WbgEkoTOs4V4F34wCtkXmaI1Vj42Fxwcadbwdg+hj0Q6rXh+19gPNpA8qrGUfH1rl1weYtvmcMLxuORgf7HLwRUHGdsQ8jLcYM25zK7noibITJjPWAQ/x4ofFaCaMSQkiZ+LLnlkv+S8iRTcI4vc9X0Py7xt7YS7RevpXNbcD3pI+chC/yuSw0vGsjzuGt+GoMUP204n64etucWh5GJs7gzGPDUoIwQ9g5D7qMZj2EqoqaU/5TYvZiTU3nBPXwPmkh2F2qB9G3YaD73O0QU3S352CbJtizNUMvGBf64MzyZiwjZlA/OikeWlYbzXT9FFE9hAqxbnZGYSLHqjI/EsbK0ZRmVkgyMbLqM97miB5VfGD8kbP06hyLQZEgBEbw9/fHaF2EV6RDbe932DyU56gQjKoL1gs7EcBt51KXyXxhVn5zgBW/ZfFH1RTPqfb2KPvEbMS3jiSF3kC+6pSW2ZidQz7d7bDfQofKXfnfcDRrhQ2Br1CaUBsz8FW0UKgL5rIo=;SdFe/218TD8YyPiXGTn79w=="
 ---
 

@@ -101,6 +101,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
+    excerpt: "CodeNet is an attempt to do for Artificial Intelligence (AI) coding what ImageNet did for computer vision: it is a dataset of over 14 million code samples, covering 50 programming languages, intended to solve 4,"
+    publishedDateTime: 2021-09-10T14:52:00Z
+    webUrl: "https://www.ept.ca/2021/09/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 55
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2021/07/EPT_SEPT2021_ISSUU_COV-ml-300x400.jpg"
+        width: 300
+        height: 400
+        isCached: true
   - title: "MDC joins Microsoft AI Business School to develop AI courses"
     excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"
     publishedDateTime: 2021-09-08T11:01:00Z

@@ -100,6 +100,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "NIST: Department Of Commerce Establishes National Artificial Intelligence Advisory Committee"
+    excerpt: "U.S. Secretary of Commerce Gina Raimondo has announced that the Commerce Department has established a high-level committee to advise the President and other federal agencies on a range of issues related to artificial intelligence (AI)."
+    publishedDateTime: 2021-09-10T15:21:00Z
+    webUrl: "https://ladailypost.com/nist-department-of-commerce-establishes-national-artificial-intelligence-advisory-committee/"
+    type: article
+    provider:
+      name: Los Alamos Daily Post
+      domain: ladailypost.com
+    quality: 26
+    images:
+      - url: "https://u2j2m2n8.rocketcdn.me/wp-content/uploads/2021/09/AI-Graphic-09-10-21.jpg"
+        width: 625
+        height: 362
+        isCached: true
 
 secured: "vH/jXXZahU0TzEOfWOL4vRtlIC7NlAKT2udFfEdsa9j1AzfjEX368XRIilEp8alYu2upn7L4ZO+xiI9/5n1J/JpaUE3zqLwT0KGRTkrZtzAhRNTJopspweHVb5tWKfbLJoDSiJ5+8dTl9L5nA92079sb8o8FtP+AMkDSCqqtX24lS+WtCpuRRJuVKFglHMpPRfCxw9ZeytvclkdlG6TXn66qCEHOfojB96qv7ZRFH3xZhsbeQxzBRr2YsPv/z4bcDk3/C1fZSamv8cOsv2Tyc4GXMU+dNlOZFfx3caMZ/u00LRcljecP8bYqIJol2goAPNpMFyORyPAMRigY0Op53ZAHy18taTdiBs5n3Nt2qPmSCCXxvgk25YEX/88L+yXok891rThhcX6NjsjZ2k1my0b2CDNDb1ORxqKsFvcyZTj45UrNr1sjrY+zU9ERfNsIag+2/NsY6LtSkPGx7pT1NcPTx4Mn7pu9uIkca+UAsUzt2jGmGe3u5wLDs+BZ4B1gn3PW+skKJLUV7H2KasVWiw==;UJ5eLuRRRYsqapZBn3lL9w=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
-excerpt: "Business Wire India Today, Amazon Web Services (AWS), an Amazon.com , Inc. company (NASDAQ: AMZN), and the German"
-publishedDateTime: 2021-09-10T06:22:00Z
-originalUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
-webUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
+excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 – 22 season."
+publishedDateTime: 2021-09-10T05:00:00Z
+originalUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
+webUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
 type: article
-quality: 25
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: indianweb2.com
-  domain: indianweb2.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://lh6.googleusercontent.com/proxy/22N99HSpQApw3WDlEPkWXuGF04hH1q5ieicjgf7uWr9IhnsOAZ31HUPL9wPQa9n_ghHdxcKBpV3MQY6O7CpwgWv3S7sTYeIvFnJUkWBvQeVDygN3ShxtmJ5MbqePRh6lMhJbD4rZ3o_r5D5dLhys"
-    width: 480
-    height: 480
-    isCached: true
 
 related:
   - title: "AWS bringing two new advanced statistics to German Bundesliga broadcasts for upcoming season"
@@ -81,6 +75,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "QokwjQQta6AbFlXFzP3s573G7ruPuND2qcF/SsToNoSuhJ+9l+JmQQz0DSg3LyBzOcjpa9cOQYpfmy59hGD2N16Kul8z1Rm83TwVMWa5bMLFhjsMdPx+DSeEn67A3uTzFsUDWBNctVwwO1QZI0Lfuhove0HSyn9Bg3lzAUXoeicQw3gYUoe5+NaaJhc2a1SWDsq87/tRC5ASfTUpy3aeM2VRk7+fs2cqr6hZBpWGqpGXe0ngxdw5Z+lU0SbyqrQFv/LobX3gYcnhP42a2DFciI1Se1wLX6knhiA1Lgu4gKGVBC5x6gG39+Yel4Nvx0YyJl+IK/M8cDLwooH3VSpda8jI3F6LhGk1eNjT8y/l2ow=;Xr24cXOjPlZXFWJkuo6klA=="
+secured: "1E6xT+Lt6DS5HWa1agfHCqvxaJWBiZ/yaI4ANcPYWN4BX6RBxHOwmG5eIXuTEYyg9AdBazgRoeZhz/sC/bU30bzEMy9+t5fb0bhiITEvtQcluOeuTFrqeEQwxyTQaA8L3XvunL0iZR7/l20hxsA59UZ6cAJw0G2pbdsSQ2QAARR0+x91GwHJ/uZ7Z/imXo+Afl4y+sZKXX68pGZBSWBls8bnLB/Uce/mcLNLNoxR4y0WSYKyKuPj2JL+11qGH/X4MXrxx76yCBhM7PhYNP6crpdWZKHO/EWrKShZYKw6lUTwVnlzsF3QM8yBkfb7TRJ/7qzymut3VrikVsDf03MIaqduCbTMJB6IGpjzACU/CJni09hpWupXKuxMSnf4595HnXzKiKg9MW8lx9DdwHqUWePmI53l5TgGPcs117ckbe08jyBaXP/KhXUiaQyhFtDK7A9L8bWfnaKisuv8T5cFnCGaojgQkjzS8D8WDf9cZIPqb6Q8Qj/Zufthw0ce2VGupbZM+S/ebqCKdGFtwbv8SQ==;GqwTYS63TFsGk5MsDPCkbQ=="
 ---
 

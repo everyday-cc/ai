@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1099
         isCached: true
-  - title: "How this AI startup is overcoming the challenges of cultural accents"
-    excerpt: "US-based artificial intelligence startup, Sanas, has been working to unpick the nuances of accents to make communication easier for people from different backgrounds. That could have huge implications for any marketer who wants to improve customer experience through voice channels by helping both customers and staff be better understood."
-    publishedDateTime: 2021-09-05T21:14:00Z
-    webUrl: "https://www.cmo.com.au/article/691050/how-ai-startup-overcoming-challenges-cultural-accents/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 37
-    images:
-      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/dreamstime_m_109924597_conversation.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "VSfoqs5IrEVMWPgOdtWwisMJBJQxeQj/Ghpd+C0UTGekm1rVtMGn9yffvHo48LpvScH/wQWLxJef74kq0TEx3c0obOdEArajwDx/IdG1Fo2M9mfhaVHok6s5X994DOOLRJjeO1lmM5ayWumDgBjWchGlWMQITZIG+JjGF9oQF1DDaKftsJbJ3DmFKxAL9nHbAcK19wjbVG7FX0lxuj9VLt48FXpjlTCdHHt2slo01/5rPQiDRhqqu3SGLU6T+dj8nuGs0NHcpZEDnAXwWb2jFg0iIPeWzRCdBv28IiuGGyXeHQ9NUVNZLLfu/olPzh25FCNi3Tvat9ALxhdtzUKwq1+ucNqqrdyLv3eRUwAdNzs=;BP2BwgIn8bkcPyD/LV5bcg=="
 ---
