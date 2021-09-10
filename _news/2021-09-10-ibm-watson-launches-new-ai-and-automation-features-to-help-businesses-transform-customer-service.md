@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 471
         isCached: true
+  - title: "IBM adds new features to Watson Assistant"
+    excerpt: "IBM has announced several enhancements to Watson Assistant, enabling businesses to provide better customer service across touchpoints. New features, including artificial intelligence (AI ..."
+    publishedDateTime: 2021-09-09T16:06:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360836/ibm-adds-new-features-to-watson-assistant"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360836/ibm-adds-new-features-to-watson-assistant?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/360836/ibm-adds-new-features-to-watson-assistant?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815441/itpro/2/72/ibm.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "IBM launches Watson Assistant capabilities for call center automation"
     excerpt: "IBM launched new call center automation capabilities via its Watson Assistant platform, which leverages AI and natural language processing."
     publishedDateTime: 2021-09-09T12:00:00Z
@@ -83,22 +99,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-Datascience.jpg"
         width: 850
         height: 400
-        isCached: true
-  - title: "IBM adds new features to Watson Assistant"
-    excerpt: "The US-based technology firm said that the new capabilities added to Watson Assistant would make it easier for businesses to create enhanced customer service experiences across phone, web, SMS and any other messaging platforms."
-    publishedDateTime: 2021-09-09T14:26:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/articleshow/86069285.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/amp_articleshow/86069285.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/amp_articleshow/86069285.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-11180,msid-86069399/ibm-getty.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "CVS – IBM Watson Assistant Gains 3 New AI Features"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."

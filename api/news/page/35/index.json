@@ -2,6 +2,83 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-08-13-ai-architectures-must-change.md",
+      "title": "AI Architectures Must Change",
+      "excerpt": "Today, AI is the focus of many researchers ... “In 1997 we had Deep Blue beating Kasperov, in 2011, IBM Watson playing Jeopardy, and in 2016, Alpha Go went against Lee Sedol and won. Those are great achievements. But the question is, at what cost?",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/ai-architectures-must-change/",
+      "originalUrl": "https://semiengineering.com/ai-architectures-must-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/2018/08/BB_Picture1_Architectures_for_AI.png",
+          "width": 974,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-ai-natural-language-processing-and-the-battle-for-unstructured-data.md",
+      "title": "AI: Natural Language Processing and the Battle for Unstructured Data",
+      "excerpt": "Increasingly banks are turning to the field of natural language processing (NLP) and machine learning to extract valuable information from voice, documents, and audio to boost productivity on trading desks. It’s all part of a broader push to gain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tradersmagazine.com/departments/buyside/ai-natural-language-processing-and-the-battle-for-unstructured-data/",
+      "originalUrl": "https://www.tradersmagazine.com/departments/buyside/ai-natural-language-processing-and-the-battle-for-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Traders Magazine",
+        "domain": "tradersmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-anthony-levandowski-wants-to-start-a-futuristic-religion-seriously.md",
       "title": "Anthony Levandowski wants to start a futuristic religion… seriously",
       "excerpt": "The former Google/Uber exec notoriously known for self-driving cars says he is dead-serious about starting a groundbreaking religion in the Bay Area — the deity of which will be highly advanced artificial intelligence ... between Waymo and Uber, after ...",
@@ -1019,85 +1096,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc.md",
-      "title": "Robotics Startup Miko Raises $28 Mn In Series B Round led by IIFL AMC",
-      "excerpt": "Miko has raised $28 Mn in Series B funding led by IIFL AMC, Mankind Pharma Family Office, Aroa Ventures, and a clutch of global investors",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/",
-      "originalUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/amp/",
-      "publishedDateTime": "2021-08-12T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-tensorflow-with-sagemaker-on-pycharm.md",
-      "title": "TensorFlow with SageMaker on Pycharm",
-      "excerpt": "Amazon SageMaker is a fully managed machine learning service. With SageMaker, data scientists and developers can quickly and easily build and train machine learning models, and then directly deploy them into a production-ready hosted environment.",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/cuiIRISA/tensorflow-sagemaker-on-pycharm",
-      "originalUrl": "https://github.com/cuiIRISA/tensorflow-sagemaker-on-pycharm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/e5ec5167890468b13dc4d9605fad637bbfc0da92cc1285e4cb07019d33ffe4c6/cuiIRISA/tensorflow-sagemaker-on-pycharm",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

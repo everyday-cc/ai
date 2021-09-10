@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/09/06/600x338/VW_1630917535414_1630917550377.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Volkswagen CEO: Self-driving cars are the real gamechangers in auto industry"
-    excerpt: "Volkswagen (VOWG_p.DE) head Herbert Diess on Sunday said autonomous cars, not electric vehicles, were the \"real gamechanger\" for the auto industry, which is facing the end of combustion engines in Europe by 2035."
-    publishedDateTime: 2021-09-06T04:07:00Z
-    webUrl: "https://cyprus-mail.com/2021/09/06/volkswagen-ceo-self-driving-cars-gamechangers/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 21
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/09/VW-self-driving.jpg"
-        width: 1500
-        height: 922
         isCached: true
   - title: "Argo AI unveils its latest self-driving test vehicle with Volkswagen"
     excerpt: "Argo AI has hit the road with a new test vehicle as part of its partnership with Volkswagen. It'll be used to help further deploy the company's tech in Germany and elsewhere around the world."

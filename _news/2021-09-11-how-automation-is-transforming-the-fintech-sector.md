@@ -100,6 +100,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and banks, has been recognized as one of the leading AI solution developers in financial services by FinTech Global,"
+    publishedDateTime: 2021-09-08T14:11:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4a5ff55dc3ff4f0cac09fa874a6ede89"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Broadridge Financial Solutions Appoints Fintech-focused Fixed Income Specialists"
     excerpt: "Broadridge Financial reveals that Ted Bragg, Jim Kwiatkowski have joined LTX, a Broadridge firm providing an online trading platform."
     publishedDateTime: 2021-09-09T02:15:00Z
@@ -229,15 +243,6 @@ related:
         height: 270
         isCached: true
   - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-    excerpt: "\"Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
-    publishedDateTime: 2021-09-08T14:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
     excerpt: "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
     publishedDateTime: 2021-09-08T17:51:00Z
     webUrl: "https://www.afp.com/en/news/1314/earnix-recognized-top-aifintech100-company-fintech-global-202109080057991"
@@ -247,6 +252,6 @@ related:
       domain: afp.com
     quality: 19
 
-secured: "1zWR85GJarBySx7L1NvV49W/CoWeFSjpaFl3eEFLXW80jHQvxbRi0UlMiPTTTb266LnoCagcMcmcub/fMxjMdHoS18zuHqAsA6u7kca9Gd1RDQGsQr+DL2lvXxJ64MoIR4kB+QpoafsJVfIwPnRdlpIkw1Aisru6/e720tQJiWfB6O8i+NeaZjqm+Z9/p8K/wBAzgldH4EdnqJcNqn1RiCNtc9Ph+lR9lnZ0pB/YplGWCPKRJbJf2LZwjGtp3fdFf0T7wSnOINl/GTUMCWUg88D78FDGscZo+qQ2hH2yHl4tJMOyixfa5GN55MmCzxfuN64pnL1DBpnbA3JrW6R0Dv8jDt2CsAVvd7rk60I3Nkc=;Fsda1hbjYjRtVIia6kWtbQ=="
+secured: "YvK7Mn5tnWzDFpLWYsaIhZdi5JuJigbzFcNQ/k+dcbn4e+7a3ICQZ1/p88BEXENAerJB+dlFXe+sKUUCN2oWM5Ph+Z+eaXYuWGWfp2GXEwnIknO1IlMHSlTxi75AFeR2sWsA3SrV12CLwh1worlExWlNR5ZHHgHyoatGa0WPlpS3a4EAVcIcJWMhN06bJUBhwjgNpYBMhqYNtto0iYt2c0zZoNKI//jTkWRwC/PuHlhOkRCujGT9nsVbNRBCrsszppwiYKGiteXhNyZqE4Gtknm4Oa9q2cOA33dVyMrTUPoAilVTGrby/GQCHCsCitTsP0HjOIq1OxY+eQtE+0+AYOntKZwu9kaw5UZGy6175rkAxsbkAi6dai+cqLpaBFNkeQgLO5agIraafYq7hV7su9C0wmcyUrNXkOdlJfKgeYyTaBgcU7MVBlRUaEjSUkJns8h54fY4O8QQp8c4VXgl3BZCRO4LXUXC9HfdRaAbGKYHNJ3OvmP2DiKu03v0YxpEb6cBrq0JVFl2j1TwpO2Fmg==;VQHiaHk7t/csu9sl+YfATA=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "IBM adds new features to Watson Assistant"
-excerpt: "The US-based technology firm said that the new capabilities added to Watson Assistant would make it easier for businesses to create enhanced customer service experiences across phone, web, SMS and any other messaging platforms."
-publishedDateTime: 2021-09-09T14:26:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/articleshow/86069285.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/articleshow/86069285.cms"
-ampWebUrl: "https://m.economictimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/amp_articleshow/86069285.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/ibm-adds-new-features-to-watson-assistant/amp_articleshow/86069285.cms"
+excerpt: "IBM has announced several enhancements to Watson Assistant, enabling businesses to provide better customer service across touchpoints. New features, including artificial intelligence (AI ..."
+publishedDateTime: 2021-09-09T16:06:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360836/ibm-adds-new-features-to-watson-assistant"
+webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360836/ibm-adds-new-features-to-watson-assistant"
+ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360836/ibm-adds-new-features-to-watson-assistant?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/360836/ibm-adds-new-features-to-watson-assistant?amp"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-11180,msid-86069399/ibm-getty.jpg"
-    width: 600
-    height: 450
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815441/itpro/2/72/ibm.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -241,6 +245,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ti/opH95QUBiAJoW69woRbTLs+fF/e3ohQFXuN2+BvCeQivQEkY1lg7Iu9pMP3oUoPrTQZp0Rbl2Si3bPwircGwre1m9nic1RChNjFgBJt5yWmRRXRTmc0GcvmudKWpLFg+5UaTPZWNLqLIN+LThN0EdxFoVo8YWoXspXMqUMG7koh2IGb82TEsLjCE3u2UmIu48G0yiiTP8MTmAKwjpdnrHG+BUsO6PbnrC/vfP4s5HeSQJz/1ov9b1pzqafHvFDvPHPxVo8IEd2baCv+wGy2dcpWt+0Oe2oWRrR4Es027VTHw2Eu4axDnfL5Qg8gYkIchuuay+Z8xRaMTE7etlX2iOM6DOoGdqS4blkq21GZfQxyFRZZt062rZdHCY6OI0H7D4A8WDcllrsaKLU6sDAHGOPnxS4RPSqMB2tabow//Vhgg/KZapna+GNw6WvvRm4qx8G2kyIlYslWcdRxaJxRxZs885hRkOxSN5T0lJRQQfnsKad6+0hFE416X+i9FTFCdo1w9sFGiMmhOspMYChA==;u65b5AvjBM6pApi489nNQw=="
+secured: "rVLioYHu7gbvl54ouHXCVThpHEaf1O0BIP/TKkvmqUwkmeBiHhnycWOXt/+czRlzwQ0SdhhHWSDRxMGEG5/IZvuSzCbanwG4aDdqL4oBthsPkwlbo/+Evu8L71oZBg4RWha3lYp7+msKdhJOZ5VM2arL9FIOzoPYc0egbRI0r4BOHHO4xqjTaYjK8opF8Q0jES12lGtszC94lAYOqT2nOKONRlLJULA5hDfvx3e1b9gOl5kIB0XvudjSazrT8Ju/+iJXfd6o4haplCgemj48z0BnoOtAz6u7+zsezNKmmxDa63tW71OuhazHB/doEECBXZSxWz/15fyUGPN6W8aX8UyWi1CW8dt8POIhgwy/KjY=;d6ipYZnhwHbRBjRbe5d/2w=="
 ---
 

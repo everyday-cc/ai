@@ -9,7 +9,7 @@ ampWebUrl: "https://thedriven.io/2021/09/10/apple-turns-to-apple-watch-chief-to-
 cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/09/10/apple-turns-to-apple-watch-chief-to-lead-self-driving-electric-car-project/amp/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "VW’s first electric minibus is a self-driving taxi"
-    excerpt: "Volkswagen has unveiled a prototype self-driving version of its upcoming electric microbus, the. The vehicle was showcased during a press briefing by the German automak"
-    publishedDateTime: 2021-09-07T11:06:00Z
-    webUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html"
-    ampWebUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
+  - title: "Apple Taps Watch Head for Self-Driving Car Project"
+    excerpt: "Apple has asked the head of its smartwatch efforts to lead its self-driving car program. Kevin Lynch will take over following the departure of Doug Field."
+    publishedDateTime: 2021-09-10T20:28:00Z
+    webUrl: "https://www.pymnts.com/personnel/2021/apple-taps-watch-head-for-self-driving-car-project/"
+    ampWebUrl: "https://www.pymnts.com/personnel/2021/apple-taps-watch-head-for-self-driving-car-project/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/personnel/2021/apple-taps-watch-head-for-self-driving-car-project/amp/"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/apple-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Developing self-driving pods for commercial delivery"
     excerpt: "Oxbotica and AppliedEV are joining forces to develop self-driving, multi-purpose electric vehicles (EVs) in a step toward commercial driverless autonomy. The project will take Oxbotica’s autonomous software and integrate it into AppliedEV’s programmable and configurable EV platform."
     publishedDateTime: 2021-09-09T13:07:00Z

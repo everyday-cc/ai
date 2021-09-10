@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Department of Commerce Establishes AI Advisory Committee"
+    excerpt: "ethics, standards, education, security and economic competitiveness. IAPP's Fennessy tells ISMG that the formation of this group \"recognizes that privacy and security are integral to the U.S. being a leader in the development of trustworthy AI.\""
+    publishedDateTime: 2021-09-10T21:10:00Z
+    webUrl: "https://www.govinfosecurity.com/department-commerce-establishes-ai-advisory-committee-a-17512"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/department-commerce-establishes-ai-advisory-committee-showcase_image-7-a-17512.jpg"
+        width: 860
+        height: 520
+        isCached: true
   - title: "Commerce Department Announces National Artificial Intelligence Advisory Committee"
     excerpt: "The U.S. Department of Commerce announced today that it has established a National Artificial Intelligence (AI) Advisory Committee that will advise the President and other federal agencies on issues surrounding AI."
     publishedDateTime: 2021-09-09T11:15:00Z

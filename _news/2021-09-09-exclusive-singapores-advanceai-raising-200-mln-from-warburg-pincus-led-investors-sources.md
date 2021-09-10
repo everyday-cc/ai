@@ -44,22 +44,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Exclusive-Singapore's ADVANCE.AI raising $200 million from Warburg Pincus-led investors - sources"
-    excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
-    publishedDateTime: 2021-09-09T14:15:00Z
-    webUrl: "https://www.reuters.com/article/singapore-advance-ai-funding-exclusive-idUSKBN2G50X6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2G50X6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2G50X6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210909&t=2&i=1574303528&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH880LW"
-        width: 780
-        height: 545
-        isCached: true
 
 secured: "LZByTgfMd7cJ/A0FCQ9jCQeHpMyVf6A7L5XKidUpeyfFPTdZj23d+q6vhbNJt2eeIictvoZt9L5R1c15X1INJAIFWhGVWwDat95URwrRvv4QZHJ+CnMTJSu3XVH2wpqolP8ykdkQkJBjkOAYHreq7qawBBzpRrBAEYZMxJGM/xeAocfACkpEFtSjvU957olhYrwNdZBx4Q7PQ0FfLGF68SO1Rgu0T9RkkxdRB9t0mi1I/zRosqG0iaJSXhVdCqYmgDNX8mDUTn5iKZt3jt6pbThSqw2cM3e1UBXSVDMXxQQhFMZg55AxOQnVAt0j1/d9HK5ngQbt1ng58Ey79p+QzR433q9UyPXfc8s+OR7BmqU=;q7/tkIMGe0D6sEBUei7C3A=="
 ---

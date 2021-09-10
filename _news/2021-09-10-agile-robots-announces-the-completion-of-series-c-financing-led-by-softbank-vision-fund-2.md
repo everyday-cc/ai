@@ -2,17 +2,21 @@
 category: news
 title: "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2"
 excerpt: "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,"
-publishedDateTime: 2021-09-10T12:56:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=17434"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=17434"
+publishedDateTime: 2021-09-10T04:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2-1030791596"
+webUrl: "https://markets.businessinsider.com/news/stocks/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2-1030791596"
 type: article
-quality: 10
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -48,6 +52,6 @@ related:
         height: 480
         isCached: true
 
-secured: "u1fh3j6SXL905F8Do/iuMlIVztgb0Y0+Xg3AhKeA1GelHOC18nYlnEJFFq8pdGIvIUrzLg1vWhAvSRHRZMJQOIekV1U0Ca5ieFgw2HG2NSdaYSjnjjSjr0LRL7XGusmrc8qqAYdwKI7YuD+r/+RcdKcd+X6JLuCmcHbcjk+19q6jXVReli5pSr2KQYnMV6zFENaobr9wBiku52e5yCdDnagYLV026qRInEkHZ6OlKfexkrsQVMvoGYwcaDYuk+/39ZBYGwTWRm34l87XIqYoa3C9LCU5TCCSRvTeJyFtokmklaVauojyNIoIF77eRdwWUZ2MOELYpMsmAdzA3ZDPeOH2Z5g8ha+CT+sAfPz5Kmw=;WM0nf/xfdJXJqUhogmYAcg=="
+secured: "5iIyr164W7QvSY2jDqalskH1N/fpuMlUujhegHbctpcggmOee/X73NeE79cB6idDhQiZv/L+sntNwPYgxEiesqKVXgCCdUlmsjlvghZnD4y1TNUiRWX5gmf113hnIncbGzQ+cHAVsLD1CK6eAKgbl8ZtqiYwP0yLfqp3L+4K97s809HoI/4ryxSAihOcQ6wTo07bjGLud4lV9aTYpHd+w4SMuEtGDp+ijfiH+sqzJ51TCWb+MTuAJPpKX+x6zF6vnNQ7+LH7WbNR45jHaUhUEkdCb8TwA0ioRR7neDUf8eT8KrfPwM/4syI2n2bPoZ6NUicMTEwJuhArBCeOKLRAwB6U6AZwFkwnpazlcIb1n0OHUMrAV6CGHBycNz0FF480Nf3lqCXLc6CXfAyNjyPAz/3Dv42+pWeR9DDsqesIpwY69AOkvB+RTkopr0aKELqzDCo20zuj2/C086t02RxHs4ZE3/7ptKtE9Rav4aw1d044XWvgb04u67mGVMIfIr4FBV/3vSV/kPrH0+nc34suKg==;KOwK4aXsv/UMtroeRojbUg=="
 ---
 

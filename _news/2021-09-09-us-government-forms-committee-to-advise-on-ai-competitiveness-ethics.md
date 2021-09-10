@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/us-government-forms-committee-t
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/09/Sep21_07_1271186214.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Department of Commerce Establishes AI Advisory Committee"
+    excerpt: "ethics, standards, education, security and economic competitiveness. IAPP's Fennessy tells ISMG that the formation of this group \"recognizes that privacy and security are integral to the U.S. being a leader in the development of trustworthy AI.\""
+    publishedDateTime: 2021-09-10T21:10:00Z
+    webUrl: "https://www.govinfosecurity.com/department-commerce-establishes-ai-advisory-committee-a-17512"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/department-commerce-establishes-ai-advisory-committee-showcase_image-7-a-17512.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "Commerce Department Announces National Artificial Intelligence Advisory Committee"
     excerpt: "The U.S. Department of Commerce announced today that it has established a National Artificial Intelligence (AI) Advisory Committee that will advise the President and other federal agencies on issues surrounding AI."

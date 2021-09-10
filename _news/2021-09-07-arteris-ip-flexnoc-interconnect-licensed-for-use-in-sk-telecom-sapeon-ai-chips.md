@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Arteris IP FlexNoC Interconnect Licensed for Use in SK Telecom SAPEON AI Chips"
-excerpt: "Arteris IP today announced that South Korean telecommunications operator SK Telecom will use the Arteris IP FlexNoC interconnect IP in its next-generation SAPEON artificial intelligence (AI) systems-on-chip (SoCs)."
-publishedDateTime: 2021-09-07T13:52:00Z
-originalUrl: "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html"
-webUrl: "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html"
+title: "Arteris® IP FlexNoC® Interconnect Licensed for Use in SK Telecom SAPEON AI Chips"
+excerpt: "Arteris IP, a leading provider of network-on-chip (NoC) interconnect and other intellectual property (IP) technology that manages the on-chip communications in system-on-chip (SoC) semiconductor devices,"
+publishedDateTime: 2021-09-07T12:40:00Z
+originalUrl: "https://www.lelezard.com/en/news-19984119.html"
+webUrl: "https://www.lelezard.com/en/news-19984119.html"
 type: article
-quality: 30
-heat: 30
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "Dr7KxBQMcZ5YnGVL7kpUnlM50il0P8rptNDivBNfc5m9V1Ixfwc8yk+hJlLGPpCTWse0/dLiB0jfYeQHOL4IDO+OPfL5xrmLc8BYyGSQlvkC7cnfnLEBaWoiexEcB5VapoScUy9iEU2tRn9IkxrWvygC79AsUfZo5cGzC778f2glRzkfVfh7h31VefMYDwdIJpfM+v9Q0A8vAYwJqPUJX03YfklpqOnJbK0vHqVJxu47pl+9VBZa5DNPBg2uuFquOEFs8P/r+PpSXAWLEmTLLuzUEirojd1bA8Se5bwjnEpDVUOVdLNbhxQbwRc9opndzjpwgeZim5VRWRs75EPU7I3n3YiVjqyqF4qrO331oi0=;3iheD0YmUgDJRd4zcDGSsA=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "BnU5VfY0EnGAw91TjOqvT4+8IN3IxKlG3yLIDp1hDi/RqQFrOMvXtk9sXMXnon3GfdwGcXB2qUq+WsqdPlQW9kC+evkoA+D+etOgekMM7JerhoqVyNW35J5V8MNwHOTFFnW7PdlG9FOJkLlZMwiF9lRtUpUx5ILmD6lY/UTOrrBd+NliW3Lt70r5YUvvM0AgtMF0pn3kWp7tW99QW8W0MDb7U/sZUAY+zE7Xd/8DiuVSIh+6X16MLJvXGFedHU2q6ccpHYMGWP4ZSKd7vxDelo6b6l59mC92ShP5aN9dTs1JR+MBQtF33I5oDp4tW113USda7qSi+rJxvwS5ZmlTSu8Y6tHTQanaCsPL4FSi7Ko=;3G0dmv9xnWQnMRu08urEhQ=="
 ---
 

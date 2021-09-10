@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Managed Grafana"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Grafana, a fully managed data visualization service that enables customers to instantly query,"
-publishedDateTime: 2021-09-01T03:31:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-1bb2dcd7457a4b2190241546443e1cbc"
+excerpt: "NTT DATA Services, Area52, and Tech Mahindra among the customers and partners using Amazon Managed Grafana Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Managed Grafana,"
+publishedDateTime: 2021-08-31T22:30:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210831006079/aws-announces-general-availability-of-amazon-managed-grafana"
+webUrl: "https://www.morningstar.com/news/business-wire/20210831006079/aws-announces-general-availability-of-amazon-managed-grafana"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "uGmTD2RLOOvTprG3KYs/Yw0CgcyCiMVlMNL4AOvFyNieTesf88c1U7lQUmVxBfOcKSO/bYcyIpJ057wDIx3P1sUHfcjXE2+LkLArPaybAUFBacYLYWGUW8t3slCQy/1zY0Wo8EaJJrczvj/BY6uZPt7NF/kYzFYj/9N3XQghfqAIbTMfsNihjlvHq+BXU0TTBt/HUh4TtAwC4RP+JVlMSJvUal1l2SLZjfWbnqx3CqIxAF5GbWW67mf15ynUAYoupoqkTgC6tidQGmBrqgAm62Hv+Db1atcIFZENMJ6uMgnjsyHtiRpkOGwsr22pTuPlM/okbaOoq2LZhflKvyQz+aAJgnK1G7KJ7JMPh83+yIs=;1/XbFW0cfASjQon/pJb6YA=="
+secured: "GMoVD3MMV7drUyT4A+H6S48vD1kxemtaJvSWPHjMxze37VTF3EZMDMjO6FtWiQzoT0KCp5Fxen8RD5OSsTBjrKVGe+cEKG+WWvqU8bmcR4JujYxhjC3ErtDIgfx1Ppv7BLXFoSlCvGBnipjzpNyvpDXt8N8HpZAsfaOsOymFPx427gvo535zjQnpLNONgjsYaWqbJo8htSwoWeKiV7FaeqsfpC9bPeHP1vYvLikwCUes0qLrGufpQ/unQpTUaUR46KPZZ53EyTRQVweopEbH6Na2RolkrWkuEj96cbmquG4iJK9IJPsN51Ea2F5411Ko2dU7nxxp68PV3qP8+P202nxAGGxvO7Uph/QRQG1fG2U=;kBAXmJolH6cmQZqo64WS3w=="
 ---
 

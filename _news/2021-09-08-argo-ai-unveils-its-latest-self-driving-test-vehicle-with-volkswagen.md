@@ -51,20 +51,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Volkswagen CEO: Self-driving cars are the real gamechangers in auto industry"
-    excerpt: "Volkswagen (VOWG_p.DE) head Herbert Diess on Sunday said autonomous cars, not electric vehicles, were the \"real gamechanger\" for the auto industry, which is facing the end of combustion engines in Europe by 2035."
-    publishedDateTime: 2021-09-06T04:07:00Z
-    webUrl: "https://cyprus-mail.com/2021/09/06/volkswagen-ceo-self-driving-cars-gamechangers/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 21
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2021/09/VW-self-driving.jpg"
-        width: 1500
-        height: 922
-        isCached: true
 
 secured: "BuGEQ5cw1sHhJkZAc2988c1k5fEH1OwfUv8w+WSP2OeNSIgKXHMqW0pod/zduXj7DK7ceAtC4SHzL/S062uPH9hS+4+J2Mv9UdqBhkvOu7rmdPzTQb63USsQq3c3ChUwJ9SzD+mAn3WpVqVdVgVuUzQmnOq1KaTDU0nVw20AxzAM/zblU3BnLIMTaHvXtBvvtGOAmtp7xbZip6iy30aijz7dycZocb2U6BLcwZ92VOJWp1t18QVk30TxabLLsXVidKfCN77yPrg4DEjScFWqhFkzY4vpByc9VQbWiHT6So0Q3p42JBxKidPVuIxqVzlUVWlcppIiCU717a9mHpk0yAFYfTQoCEVrwpL338MloOaQPjjBd/uRv0uiKSWhMxRsF2+MxZY3jcB4drnYfnTXX6NkaFYVCDd2xyY63q9KimZnAe4iklF9hLAcFSZNWw25nn0CQBvuAYJwTiLEI0af1haRkUony1+f87EcrzKcIXPQY0pPQW+OhBjJIeLkRVyGPzmG8Z0MQbA+B9bK7bYdnw==;PjSqi11Z+/Y5M7lYuo1j4A=="
 ---

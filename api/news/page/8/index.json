@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-02-the-time-a-human-driven-car-ran-over-an-autonomous-robot.md",
+      "title": "The time a human-driven car ran over an autonomous robot",
+      "excerpt": "Insurance companies aren’t always the easiest to deal with, and it’s hard to imagine they’re prepared to respond when someone runs into a robot. Last September, a Frisco, TX woman said a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tiktok.com/@rach.ipsa/video/7002765870946651398?referer_url=https%3A%2F%2Fwww.theverge.com%2F&referer_video_id=7002765870946651398&refer=embed",
+      "originalUrl": "https://www.theverge.com/2021/9/1/22652980/starship-delivery-robot-kentucky-car-accident",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/28a452484f614058b877171b76f24d58_1630458487~tplv-tiktok-play.jpeg?x-expires=1630785600&x-signature=JxYgAWFhWHuVhovjJCl2UHaBEPQ%3D",
+          "width": 540,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-meet-emma-the-ai-robot-masseuse-practicing-ancient-wellness-therapies.md",
       "title": "Meet 'EMMA': The AI robot masseuse practicing ancient wellness therapies",
       "excerpt": "Developed by Singapore-based startup AiTreat, \"EMMA\" is a robot masseuse that uses sensors and 3D vision to deliver deep tissue massages and traditional Chinese medicine (TCM) therapies.",
@@ -1129,58 +1181,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-meme-stock-alfis-facial-recognition-ad-technology-fans-privacy-concerns.md",
-      "title": "Meme Stock Alfi’s Facial Recognition Ad Technology Fans Privacy Concerns",
-      "excerpt": "The artificial intelligence software company uses metrics like age and gender to target highly specific ads to people in public places",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-01/meme-stock-alfi-s-facial-recognition-ad-technology-fans-privacy-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imggzt7KessE/v1/-999x-999.gif",
-          "width": 800,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

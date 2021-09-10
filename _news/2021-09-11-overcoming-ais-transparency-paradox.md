@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais
 ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613bb5a4c74dee7c980110ff%2F0x0.jpg"
@@ -46,16 +47,7 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Harnessing Artificial Intelligence to Accelerate the Energy Transition"
-    excerpt: "The efforts to decarbonize the global energy system are leading to an increasingly integrated and electrified energy system, with much more interaction between the power, transport, industry and b. ."
-    publishedDateTime: 2021-09-06T04:09:00Z
-    webUrl: "https://electricenergyonline.com/article/energy/category/white-papers/93/916255/harnessing-artificial-intelligence-to-accelerate-the-energy-transition.html"
-    type: article
-    provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 17
 
-secured: "kOsYSSRrsOVazWC4uW7HdjmYhbWMBEbP11rAivoHbpRqmBPnzAwaSIMjF+pyp2iDdrudu+hAmiAtTqApMeRu5ZbS6TYhaP8o4wYyvbuVdwMk6M+Q9VHoPXHz5ZleMhmALbo+X8ugsIXh6+1FM+Q+Jgr6/aAns+THrFqe22e/F+cMHW+o7z51sSfzdmbl9cdIW+Oo/oVBzkAOe2biaHx23X36AQ88nP7ZN4D8MeRY7nNd2RoIYgRpFhmJGADmZ2P6Z+/bOhwS3diWq04KtsME+RbyPWVuQ2gz7wMn6e0K3XJEo++mQgJOdnCRZsFx0IC+UrCVng+4mOT7ZaALJ53T8HcgOu6OdUnC444pWChb+kw=;JPPhsUYVDMl9qDinwEZq4A=="
+secured: "zfTG6HJLAmuevpX684omeSWq2aUmUNiauP10zt1BbIEndEQ3LkHqhw1Ur/h7cYQNkoLg8RyTN86fmGVGqF8vWj71iK1jWRobIfd13tD5xeQ3kcKPPnoeEKKfBV04oHAv/XpneFNp7nFYKVGh+C98nFYJjTBmmLKwijPeJPgWahy+4UCK4VwP3nEaRrg7JIH/5LOTQ8Mc3K0i0lUHVnEVTYzq1bcXDxxabmIGPg45dbI4fry5/SkLGAmLcfT0vQDinOePjr7OVTP94y6M+4tj6C0QYMzKLi9yclOC5qd2LpnS5CGeOkahSLGiBJxEKw/xbQfqCSCKooh4KqooZdllvga+2odO8P5Db3el613J5SQp1D3YtWKKhjYEO+CuRvH9S8RltvdxogJRimZBSaD4cpewKEHHlkPHMR54Bx7pJzipRnOknlqFGXXyIEd56JektI51k2Lf469xRoQvn9dSVnr+MX7IKtoqRpDVzwC8sIw04nr2hb9yJXgPd7mqNnWprc5tRx718HVBAeiKoz23TA==;0vMt6RPHajbExK6CCwmTJw=="
 ---
 

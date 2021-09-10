@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Exclusive-Singapore’s ADVANCE.AI raising $200 million from Warburg Pincus-led investors – sources"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-09T11:11:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/exclusive-singapores-advance-ai-raising-200-million-from-warburg-pincus-led-investors-sources/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 26
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631179002_rcom-default.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eUu92ebonBOBqJmsr1W+EKJS2Va25Tv5WFxD4v2LDoHbp+RpFIOBrwLH/07lSD9ex9kDKciDVn7Se55QoYS/y/NnCYWq44nda13yBnCuNd4zM6vREXefgOt5ncaACYpXDR6KFr4SuW6/13Xj7jqy1vPvhnBKCUKEToN5gWdS1VeuowEZlczZgSaAuuhYHtjEclzG548dDELFv0e+d6pX+do+ZCIibtEHI0414v0LFktnkTSyTCqQz0EhTLFTUomarax5+6E3lBIE0Sx0myDD+VMHzLU9aAxPeMIQbKoU16xwt7sxb35zMAlRRFAZx0lH4ait+9Q/B5mXNJ5jLXdI/qU3ZQkcXnn0fG1MadjEbqB1k3GT9bQuHUJPSFkQOa4bNBz9v5zsAIx8TOnXlCnipvM+HF3A3Lsnau37ipiZB4/oTqkQF1/rvztX4wK8S9fwRrDu8H2QMyXMIXm/g1clxnSC8IQxZeqVa7nBMWg5IEWqMDryswr56fYgy8CEc/YYTjEMyI+fexYRpZauY8k25A==;lddXs31j/mbQBXV84Ks20A=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Taps Watch Head for Self-Driving Car Project"
+    excerpt: "Apple has asked the head of its smartwatch efforts to lead its self-driving car program. Kevin Lynch will take over following the departure of Doug Field."
+    publishedDateTime: 2021-09-10T20:28:00Z
+    webUrl: "https://www.pymnts.com/personnel/2021/apple-taps-watch-head-for-self-driving-car-project/"
+    ampWebUrl: "https://www.pymnts.com/personnel/2021/apple-taps-watch-head-for-self-driving-car-project/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/personnel/2021/apple-taps-watch-head-for-self-driving-car-project/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/apple-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Apple turns to Apple Watch chief to lead self-driving electric car project"
     excerpt: "The Apple injects self-driving electric car project with new talent, assigning Apple Watch software executive to lead after the previous lead left to join Ford."
     publishedDateTime: 2021-09-10T03:19:00Z
@@ -41,17 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VW’s first electric minibus is a self-driving taxi"
-    excerpt: "Volkswagen has unveiled a prototype self-driving version of its upcoming electric microbus, the. The vehicle was showcased during a press briefing by the German automak"
-    publishedDateTime: 2021-09-07T11:06:00Z
-    webUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html"
-    ampWebUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
   - title: "Apple appoints watch maker to oversee self-driving car vapourware"
     excerpt: "Because the iWatch is the same thing as a car right? Fruity cargo-cult Apple has shown it is serious about getting its much hyped, never seen self driving car project completed, by hiring the bloke who was in charge of making the iWatch a thing to take over."
     publishedDateTime: 2021-09-10T10:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
-  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
-    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
-    publishedDateTime: 2021-09-06T03:49:00Z
-    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
-        width: 800
-        height: 455
-        isCached: true
   - title: "The Ten Top Most Valuable EdTech Start-Ups: A Mix of Chinese, Indian, and American Companies"
     excerpt: "Five American companies are among the ten most valuable EdTech companies in the world, while Indian and Chinese start-ups are ranked first. “The global EdTech is a broad and diverse field that includes not only the hardware and software programs used in remote learning but also the most effective ways of teaching people new knowledge and skills,"
     publishedDateTime: 2021-09-06T06:03:00Z

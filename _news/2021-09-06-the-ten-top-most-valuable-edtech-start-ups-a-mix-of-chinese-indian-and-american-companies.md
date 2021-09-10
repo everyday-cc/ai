@@ -69,20 +69,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
-  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
-    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
-    publishedDateTime: 2021-09-06T03:49:00Z
-    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
-        width: 800
-        height: 455
-        isCached: true
   - title: "American Airlines – TCS wins contract from South American airline Avianca"
     excerpt: "Tata Consultancy Services (TCS) has been selected by Avianca, one of the leading airlines in South America, as a strategic partner in its cloud transformation journey. TCS will modernize Avianca’s IT infrastructure and build a new future-ready cloud-based digital core on Microsoft Azure."
     publishedDateTime: 2021-09-09T03:22:00Z
