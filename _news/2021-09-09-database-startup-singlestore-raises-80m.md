@@ -46,17 +46,20 @@ related:
         width: 780
         height: 545
         isCached: true
-  - title: "EXCLUSIVE-Singapore's ADVANCE.AI raising $200 mln from Warburg Pincus-led investors - sources"
+  - title: "EXCLUSIVE Singapore's ADVANCE.AI raising $200 mln from Warburg Pincus-led investors - sources"
     excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
-    publishedDateTime: 2021-09-09T10:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources"
-    ampWebUrl: "https://www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources?amp"
+    publishedDateTime: 2021-09-09T09:26:00Z
+    webUrl: "https://www.reuters.com/technology/exclusive-singapores-advanceai-raising-200-mln-warburg-pincus-led-investors-2021-09-09/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Reuters
+      domain: reuters.com
     quality: 56
+    images:
+      - url: "https://www.reuters.com/resizer/5dMKpECeAZlPEyItJUDn_0zM9t8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWMBCSSZ4RLPZLSCEP54O3A62I.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "FT7Sqz+jpyOJ2Ll3orHqSsNk6Vw9TxWyuKBqbN1tt5FqTMLUDCNPGcpoN6gYy2SreCzO9zSvFVLaqCaqM022VmBJWY3FUdqWV7jih+rOCYh0E7Fw8y33qdvsGKa+K/T87RVhzcv1qcWNzaxc/p2PXeEzOA+7oG4G7XU0qxNXr2xhyaZ2/TnomTjNhV9mPIs2mTuruCgg6Bq3qVRI1h4nIQ1QxWbu1hQyvFnuRdydL37PEPqKr3bStce+RxZtfwRtAljtQ51L1zY0SKuFZCE8mgf6qTxOcdQqKKnZhWt84BS4fl4ECb4aGlrwvqkruBtnXW8Qekh/qhRw1fAfDhckrhN/D6z6LFwatJH4zbF/heM=;THIHXpGmQHzQczQdrQSDiQ=="
 ---

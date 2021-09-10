@@ -132,6 +132,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Using thermal cameras with self-driving technology"
+    excerpt: "Self-driving truck vendor Plus is collaborating on a development project to explore how thermal cameras can be used to augment its Level 4 autonomous driving technology. Plus is working with Teledyne FLIR,"
+    publishedDateTime: 2021-09-10T12:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17168/using-thermal-cameras-with-self-driving-technology"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "85kUbGWMBOHI2NkzIFIH74fqwzbixDCDCqGwsmmrllGuZt+1QtLAmcbeNg/vzfKOTVZKGTdlqXpHlXl5Y5FRUgZIsRFCM9t2ns6uV40Wa71b7Wva20bek+UEJxO4MDQss9XBvxHbF/Auo/tvi2diP7XaCnr6YUxd6G2n5Swk5UKOT8lpbd1gCX8k+S5XLHjLjK0B16xZaT5WDPmu0fFfVo3K11j5EnU4joEFYwPSwOGL5ciEvPKlQyVSkgZmfzwiP/4JCxdmkCwZdMtiMi2n1VJ7SYpVUYtbCaMQ/B+45VStQgHzQwK7xGJ/+HDq09U8prIh2Acblu030QHmgtrQ+75wJpWaJit+BHtmtcPoP+0MWkKlCltAunSmRzPtOgWhf4VGg3X9tEMo1/nlaRU6L4C19VD6R4GO9BWkBLjbUH+AdMYofJqQzuFSE69ZneP78SbrBrYTkdphJrUZ0nt4xbexAmPaetTSIk2YYycC/QAMjiLg2QGYhxc+Xhqf/aZB/awzIj8/MpRuJ56mI9fBAQ==;FLpLGnZkMNz3767G5Nf4Pg=="
 ---

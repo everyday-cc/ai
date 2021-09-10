@@ -1,23 +1,31 @@
 ---
 category: news
-title: "EXCLUSIVE-Singapore's ADVANCE.AI raising $200 mln from Warburg Pincus-led investors - sources"
+title: "EXCLUSIVE Singapore's ADVANCE.AI raising $200 mln from Warburg Pincus-led investors - sources"
 excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
-publishedDateTime: 2021-09-09T10:17:00Z
-originalUrl: "https://www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources"
-webUrl: "https://www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources"
-ampWebUrl: "https://www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-singapores-advance.ai-raising-%24200-mln-from-warburg-pincus-led-investors-sources?amp"
+publishedDateTime: 2021-09-09T09:26:00Z
+originalUrl: "https://www.reuters.com/technology/exclusive-singapores-advanceai-raising-200-mln-warburg-pincus-led-investors-2021-09-09/"
+webUrl: "https://www.reuters.com/technology/exclusive-singapores-advanceai-raising-200-mln-warburg-pincus-led-investors-2021-09-09/"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/5dMKpECeAZlPEyItJUDn_0zM9t8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWMBCSSZ4RLPZLSCEP54O3A62I.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Database startup SingleStore raises $80M"
@@ -53,6 +61,6 @@ related:
         height: 545
         isCached: true
 
-secured: "XRQdGWwvjd4OIxyyPWtaIGkPkqho/L1eaJ1Be3Gm+cHOnI1hiYgkOzAJiyv1FoVsqqACF/bMYIruGh6CdW3Pk2NeW+KwZB+WsyTUdkZGtAXFUp0L3BuEwsL6RZrZvtVY5LEdmWUplEtAypeOqQzca4YimXmxNlZO/emr6BWDnK57KoZxExmIFhdCJvF/FvfhIlIKKGpvrPzSRDCtAmyD0HtQGRdO9XJAreFiBp8KJ8Fn6I5V9pu29VfctIXZT2DQHgpIsOeCLtGK3F1SqjZxqfGXjnZjdCLDnONGaFB6BIR+knMe9Uh4ELpVbzgysEvWUwl0G6nceHKCkFK+llKuKAxLyorMdRa40Z7YsYwWMWc=;uytrb7iiAg9lzGp6aYDn3w=="
+secured: "LZByTgfMd7cJ/A0FCQ9jCQeHpMyVf6A7L5XKidUpeyfFPTdZj23d+q6vhbNJt2eeIictvoZt9L5R1c15X1INJAIFWhGVWwDat95URwrRvv4QZHJ+CnMTJSu3XVH2wpqolP8ykdkQkJBjkOAYHreq7qawBBzpRrBAEYZMxJGM/xeAocfACkpEFtSjvU957olhYrwNdZBx4Q7PQ0FfLGF68SO1Rgu0T9RkkxdRB9t0mi1I/zRosqG0iaJSXhVdCqYmgDNX8mDUTn5iKZt3jt6pbThSqw2cM3e1UBXSVDMXxQQhFMZg55AxOQnVAt0j1/d9HK5ngQbt1ng58Ey79p+QzR433q9UyPXfc8s+OR7BmqU=;q7/tkIMGe0D6sEBUei7C3A=="
 ---
 

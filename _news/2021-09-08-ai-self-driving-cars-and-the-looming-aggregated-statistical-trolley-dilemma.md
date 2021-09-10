@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Using thermal cameras with self-driving technology"
+    excerpt: "Self-driving truck vendor Plus is collaborating on a development project to explore how thermal cameras can be used to augment its Level 4 autonomous driving technology. Plus is working with Teledyne FLIR,"
+    publishedDateTime: 2021-09-10T12:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17168/using-thermal-cameras-with-self-driving-technology"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "E1931putXK1efERFtVljRNAqykYKEEFMytIF6yQiuH95GLs77snsF3rv28JLAr+U68Crn1Uj+CPY1ThshwI0pIr53ro3UDMVBuTjEFCIB8HpCLW8fsMMuGucKd07ZYk0h+YEzQTK8pVQs61TdoWWW+wap+241tXFbQV1DT8mCC7AJqIBkn6BSHejQbXKeHYJBfZWri3dXScl15WBFCDzEmBRB5PLJwEgOTf6DhmBHURpoHxwn/AmMvfBHejJ7Re/UKv27v/NDtJglGbWWYDW5bohw3fTsqLs/IdJFxYPsGCqESyGrBmi2Z3024vZg6xbhfSG9ZIhzh1b1Zq3gEkbMalFNVbbQ/cyrjYZXauHyoLW05cdQk+1cZ39l4LsY/C2d4Y8L6CRjdlxR5bSWQyaj9jA4YesoV0b+FJWJodtz1JljYldGIxa3q0roZRHSbNgD31b/AfNaRPfeYBAfWCju6RNrxxAy/CaC+oVqSEQDybFn8p5fx7QhJxOtBK75cA82o+sNKACUotl/dRTzP0J0w==;yGSbQPyKYQESD2fl7D4oHw=="
 ---

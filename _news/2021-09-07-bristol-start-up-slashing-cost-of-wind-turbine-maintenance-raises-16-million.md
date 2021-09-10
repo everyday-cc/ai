@@ -22,7 +22,7 @@ related:
   - title: "Green robotics start-up raises £1.6m"
     excerpt: "A green robotics company slashing the cost of maintaining wind turbines is flying high after securing £1.6million in its latest funding round. Perceptual Robotics uses autonomous drones to map turbines,"
     publishedDateTime: 2021-09-10T05:03:00Z
-    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/green-robotics-start-up-raises-16m/"
+    webUrl: "https://www.angelnews.co.uk/blog/venture-capital/green-robotics-start-up-raises-16m/"
     type: article
     provider:
       name: angelnews.co.uk

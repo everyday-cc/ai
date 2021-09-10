@@ -41,6 +41,22 @@ related:
         width: 750
         height: 414
         isCached: true
+  - title: "Autonomous vehicle start-up Aurora names Pittsburgh as site of its corporate HQ"
+    excerpt: "Google, Uber, and Tesla executives, announced on Sept. 9 that it has named Pittsburgh as the site of its official corporate headquarters. “With its incredible universities and focus on innovation, Pittsburgh has been home to Aurora since we were founded and we’re committed to continued growth right here in this community,"
+    publishedDateTime: 2021-09-10T13:04:00Z
+    webUrl: "https://www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372"
+    ampWebUrl: "https://www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372&media=AMP+HTML"
+    cdnAmpWebUrl: "https://www-pghcitypaper-com.cdn.ampproject.org/c/s/www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372&media=AMP+HTML"
+    type: article
+    provider:
+      name: Pittsburgh City Paper
+      domain: pghcitypaper.com
+    quality: 38
+    images:
+      - url: "https://media1.fdncms.com/pittsburgh/imager/u/original/20170376/aurora-image-768x424.png"
+        width: 768
+        height: 424
+        isCached: true
   - title: "Self-driving Company Aurora Confirms Its Commitment to Pittsburgh, Donating $65k to Fund Local STEM-projects"
     excerpt: "Today the self-driving company Aurora announced it will continue to expand its presence in Pittsburgh, naming the city as its official corporate headquarters. To mark this moment, Aurora is making a $65,"
     publishedDateTime: 2021-09-09T15:02:00Z

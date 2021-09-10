@@ -4,12 +4,10 @@ title: "AI can now write its own computer code. That’s good news for humans."
 excerpt: "As soon as Tom Smith got his hands on Codex — a new artificial intelligence technology that writes its own computer programs — he gave it a job interview."
 publishedDateTime: 2021-09-10T11:21:00Z
 originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai-can-now-write-its-own-computer-code-thats-good-news-for-humans-7501040/"
-webUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai-can-now-write-its-own-computer-code-thats-good-news-for-humans-7501040/"
-ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai-can-now-write-its-own-computer-code-thats-good-news-for-humans-7501040/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ai-can-now-write-its-own-computer-code-thats-good-news-for-humans-7501040/lite/"
+webUrl: "https://openai.com/blog/openai-codex/"
 type: article
-quality: 59
-heat: 69
+quality: 137
+heat: -1
 published: false
 
 provider:
@@ -17,33 +15,32 @@ provider:
   domain: indianexpress.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://images.indianexpress.com/2021/09/AI-SELF-CODING-2.jpg"
-    width: 1200
-    height: 667
+  - url: "https://openai.com/content/images/2021/09/codex-og-image-color.png"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
-  - title: "Rank and File | Artificial intelligence comes to the fore in computer chess"
-    excerpt: "Championship tournaments for computer chess engines moved from onsite competition to online well before many human tournaments made the move last year in"
-    publishedDateTime: 2021-09-08T18:50:00Z
-    webUrl: "https://evanstonroundtable.com/2021/09/08/rank-and-file-ai-chess/"
-    ampWebUrl: "https://evanstonroundtable.com/2021/09/08/rank-and-file-ai-chess/"
-    cdnAmpWebUrl: "https://evanstonroundtable-com.cdn.ampproject.org/c/s/evanstonroundtable.com/2021/09/08/rank-and-file-ai-chess/"
+  - title: "A.I. Can Now Write Its Own Computer Code. That’s Good News for Humans."
+    excerpt: "A new technology called Codex generates programs in 12 coding languages and even translates between them. But it is not a threat to professional programmers."
+    publishedDateTime: 2021-09-09T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/09/09/technology/codex-artificial-intelligence-coding.html"
+    ampWebUrl: "https://www.nytimes.com/2021/09/09/technology/codex-artificial-intelligence-coding.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/09/technology/codex-artificial-intelligence-coding.amp.html"
     type: article
     provider:
-      name: Evanston RoundTable
-      domain: evanstonroundtable.com
-    quality: 55
+      name: New York Times
+      domain: nytimes.com
+    quality: 172
     images:
-      - url: "https://evanstonroundtable.com/wp-content/uploads/2021/08/Platnick-Xu-Move-16.jpg"
-        width: 501
-        height: 511
+      - url: "https://static01.nyt.com/images/2021/08/31/autossell/00codex-video1/00codex-video1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
-secured: "Nfu9D2JZ9+iSrESmhHkHIVWbTUoG3S6cFTQ5mQ56NcIuSxOPA+uHa56TVFKzxQO1HwCbqZmqw0RMPlzpwcwrT8N/8gxoaXCPowVNWNpPbBXfYlzfXpMu8P7KtzJbVWb2hvj4cq1JcvpokxR/gEs7pjYcLnIv0oUu5z822C6H8+MRe75KBYxGA9/3Nontf4bI/vxC5N+C+aY+M5vqp2jP23xzCkIfHEf+yp2zEELKnF5suOv4mEU2CmYhLBV3C/WxfmLDFU6Ac5nKwU4YEkoiodXTyO9Fd0qzaIgq+IyEON4JU60xl8Bsx29sIevKLzlnFzVpKXDZUm7fcj/F39fQfO07AX3qFMaPSjAhwy+kXbw=;QtuxN5LIXzs4+qoYBGisLA=="
+secured: "Uhl10C+ow2uA6YsIJURrR4I+xwX9EzCr0/6WY6vcJH+RB3KIUQNCkTiAviXW8G6DMk097smxWRyL8waq1ZkzV4Az3h785ZJcx9d2784bOZbbCCzNF64SNSD8DZ4l/LSwlHKqVhtGOEht/sdKvwKNx+BFNzM8BgIMGydlBBvzEsVYeKP7GQgOdBUpBFd3lUBwsiYhmzFTNX4bhHFIS0G6O3T/OW8kHgqZz/TxiRe8c7fOh5iMZ8Lyfe7Nkz0gCgbEJDIn9jpVhw7WiH1IQ7HLKEuBJMPCOCcW+yXXnMRmubu5JsMNngh1xvzWEJ6XH8pfj9G/CWJDLT28X7QnV+ycPbz5iVbcNSDy/HSWRtD3pmg=;KUfrYZfZPxmz0eCMjrdxGw=="
 ---
 

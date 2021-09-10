@@ -19,19 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "VW’s Self-Driving Partner Closing In on German Public Road Tests"
-    excerpt: "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany."
-    publishedDateTime: 2021-09-05T20:10:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests"
+  - title: "Indian, German Scientific Experts Discuss Artificial Intelligence And Its Implementation"
+    excerpt: "Indian and German scientific experts discussed five selected thematic areas of mutual interest related to artificial intelligence (AI) and its implementation at a joint virtual workshop, the Department of Science and Technology said on Tuesday."
+    publishedDateTime: 2021-09-08T01:12:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 52
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixMLqLHvG858/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+  - title: "Bharatiya, German experts discuss Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Bharatiya and German scientific experts here. Areas such as AI for sustainability, healthcare, autonomous robotics ..."
+    publishedDateTime: 2021-09-09T16:00:00Z
+    webUrl: "https://hindupost.in/science-technology/bharatiya-german-experts-discuss-artificial-intelligence/"
+    type: article
+    provider:
+      name: hindupost.in
+      domain: hindupost.in
+    quality: 39
+    images:
+      - url: "https://hindupost.in/wp-content/uploads/2021/04/artificial-intelligence.png"
+        width: 777
+        height: 437
         isCached: true
   - title: "Indian, German Scientific Experts To Enhance Cooperation In Artificial Intelligence"
     excerpt: "AI is a very active research topic, and efforts should be made so that India and Germany can cooperate and augment the cooperation."
@@ -47,17 +63,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "VW’s first electric minibus is a self-driving taxi"
-    excerpt: "Volkswagen has unveiled a prototype self-driving version of its upcoming electric microbus, the. The vehicle was showcased during a press briefing by the German automak"
-    publishedDateTime: 2021-09-07T11:06:00Z
-    webUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html"
-    ampWebUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
 
 secured: "qh/vXWBpLTDHJR2ey8H+HX7wVGdkmGn67PUtX92rVtQpRfKGT8wkPTFXoY2Bv9hwLiRiJ9udOtXf6t4ptiTRMCJE7Z0YdkdYLzbLaFQr98LxSyPz6uAYy53eTudhk6LaBG306dNqmicSGN6krSdhaLKhBB0qAlwLH+lQOgWhkU4f9DV9wlPz5xVkvrYAetnug6KbYgsfCbcNkMcEUqDLsTXubf4iS/2TtrErrpH8Wgcum7LjluChC9E4bRDqhtcl6lJ2UF+H398mKCj6k8EjzdZwoOQTqIsKdTYlLjf9+devKE6WfW/FFwkEpLFN8gQ5FKkuu/dHNcYRPrWgwmGp2XehlhOBa9hRddHTEQj1AeQ=;OtreyQE8RlDje6zmvW1qog=="
 ---

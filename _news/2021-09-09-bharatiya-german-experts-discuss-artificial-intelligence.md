@@ -41,6 +41,29 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "Indian, German Scientific Experts To Enhance Cooperation In Artificial Intelligence"
+    excerpt: "AI is a very active research topic, and efforts should be made so that India and Germany can cooperate and augment the cooperation."
+    publishedDateTime: 2021-09-08T05:27:00Z
+    webUrl: "https://analyticsindiamag.com/indian-german-scientific-experts-to-enhance-cooperation-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 35
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Indian-German-Scientific-Experts-To-Enhance-Cooperation-In-Artificial-Intelligence.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
+  - title: "Indian, German experts discuss Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) and its implementation were among the five selected thematic areas of mutual interest discussed by the Indian and German scientific experts here. Areas such as AI for sustainability,"
+    publishedDateTime: 2021-09-07T22:29:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210908/3815897.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "D1+aGHf5jGN0cwAuPz4XtFIh1h/Gug9BgVuU2UlFdUSYf1zIxVvodoIbUTk9uPJIrNF+iaA9FAlxX2a6CyZoOK5/K3obvBifjNCpX4D6wqb9PE91ir4VlnXy3PCaqcmz2rKV9PODG/l50M/e29RRibT2Pp1nyu5DXCk6vH9TA8uXAYlC9DXJOURg0Lzgvd/sHzs1k2Mml6HJRPnCkWUdY63zcqHWGci+14hraUmm5BXSNGNm98Y0TeuVEk+v/6EVGHDbJX/3oGtUmcLWn+jQyPIs8Oj+1NTToKytB969i746uKEksRNCw1WLEPHnB4mb0DuAclxM8UN/rPNMwEIolzlVypD8tt6uDb3JlqLDSVWybKqowfFiSfrP/0u4+Gz9nAK/1Cx3r2gFUZTXKF+ZSawRg/VbkIn6qiGqhyRl2MD+YO+cytEQJjYdx9z/rfwJO7QL1FW3zXIsnB1RxC21+98AAl+j2FwjBWFfVGaBBuQL3KpnUAuOFDUQ712DY0fRNi5Qe7mNnJFAiu9icjxnJQ==;ggo/+v/clagGQ8grK3ysXw=="
 ---

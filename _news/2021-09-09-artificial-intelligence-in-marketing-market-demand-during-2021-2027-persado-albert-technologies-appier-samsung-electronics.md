@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2388026/artificial-intelligence-in-market
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2388026/artificial-intelligence-in-marketing-market-demand-during"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       - url: "https://cdn.openpr.com/U/9/U909543870_g.jpg"
         width: 700
         height: 350
+        isCached: true
+  - title: "AI Camera Market is Projected to Reach USD 15.0 Billion by 2026, Growing at a CAGR of 11.8% During 2021-2026"
+    excerpt: "According to Blueweave consulting, the global AI Camera market worth USD 7.3 billion in 2020, and is further projected to reach USD 15.0 billion by 2026, growing at a CAGR of 11.8% during 2021-2026 (forecast period)."
+    publishedDateTime: 2021-09-09T11:55:00Z
+    webUrl: "https://manometcurrent.com/ai-camera-market-is-projected-to-reach-usd-15-0-billion-by-2026-growing-at-a-cagr-of-11-8-during-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/ai-camera-market-is-projected-to-reach-usd-15-0-billion-by-2026-growing-at-a-cagr-of-11-8-during-2021-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-camera-market-is-projected-to-reach-usd-15-0-billion-by-2026-growing-at-a-cagr-of-11-8-during-2021-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 40
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Market-Research-5-390x220.png"
+        width: 390
+        height: 220
         isCached: true
   - title: "Global Artificial Intelligence Market (2021 to 2027) - by Offering, Technology, Deployment Mode, Business Function, Vertical and Region - ResearchAndM"
     excerpt: "The Artificial Intelligence market size is estimated to grow at a CAGR of 40.1% during the forecast year from 2021 to 2027. The latest report on Artificial Intelligence Market understands market size estimates,"

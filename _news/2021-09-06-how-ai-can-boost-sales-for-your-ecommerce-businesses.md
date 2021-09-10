@@ -27,88 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-Driven Commerce Can Help Renew American Innovation"
-    excerpt: "AI can strengthen market research by providing a more objective analysis, which can help product teams avoid the biases that affect human researchers."
-    publishedDateTime: 2021-09-08T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/amp/"
+  - title: "Communism and sitcoms inspire AI ethics at Salesforce"
+    excerpt: "Salesforce VP Yakaira Núñez's experiences taught her that it's important to consider your non-target audience in your AI roadmap."
+    publishedDateTime: 2021-09-10T13:10:00Z
+    webUrl: "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/"
+    ampWebUrl: "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613787adb10c04cef61e6760%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/Women-in-AI-Awards-1.png?w=1200&strip=all"
         width: 1200
-        height: 606
+        height: 600
         isCached: true
-  - title: "A New Artificial Intelligence Can Help Diagnose Lung Cancer a Year Early"
-    excerpt: "A team of researchers tested an AI program that could detect lung cancer tumors a whole year early! This could help radiologists save lives."
-    publishedDateTime: 2021-09-07T22:04:00Z
-    webUrl: "https://interestingengineering.com/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early"
-    ampWebUrl: "https://amp.interestingengineering.com/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early"
+  - title: "Salesforce’s CodeT5 system can understand and generate code"
+    excerpt: "To demonstrate the model’s usefulness, the researchers built an AI-powered coding assistant for Apex, Salesforce’s proprietary programming language with Java-like syntax, that lets developers ..."
+    publishedDateTime: 2021-09-07T14:58:00Z
+    webUrl: "https://venturebeat.com/2021/09/07/salesforces-codet5-system-can-understand-and-generate-code/"
+    ampWebUrl: "https://venturebeat.com/2021/09/07/salesforces-codet5-system-can-understand-and-generate-code/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/salesforces-codet5-system-can-understand-and-generate-code/amp/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2xJ5bw9/sizes/new-artificial-intelligence-diagnoses-lung-cancer-a-year-early_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "TCS wins contract from South American airline Avianca"
-    excerpt: "TCS will modernize Avianca's IT infrastructure and build a new future-ready cloud-based digital core on Microsoft ... TCS is an IT services, consulting and business solutions organization. TCS offers a consulting-led, cognitive powered, integrated ..."
-    publishedDateTime: 2021-09-09T03:20:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/tcs-wins-contract-from-south-american-airline-avianca-121090900141_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-wins-contract-from-south-american-airline-avianca-121090900141_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-wins-contract-from-south-american-airline-avianca-121090900141_1.html"
+  - title: "Salesforce Service Cloud introduces AI-powered workflows, Slack integration and conversation mining"
+    excerpt: "Salesforce has announced a swathe of updates to its Service Cloud, which it believes will help companies connect their customer service operations - from DevOps teams, through the contact center, all the way to the customer engagement layer."
+    publishedDateTime: 2021-09-09T13:01:00Z
+    webUrl: "https://diginomica.com/salesforce-service-cloud-introduces-ai-powered-workflows-slack-integration-and-conversation-mining"
+    ampWebUrl: "https://diginomica.com/salesforce-service-cloud-introduces-ai-powered-workflows-slack-integration-and-conversation-mining?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/salesforce-service-cloud-introduces-ai-powered-workflows-slack-integration-and-conversation-mining?amp"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
-  - title: "Facebook apologises after AI labels African Americas as 'primates' in video"
-    excerpt: "A Facebook video showed an altercation between African Americans and some police officers. Users were subsequently asked if they would like to keep seeing videos about primates, media reports said."
-    publishedDateTime: 2021-09-06T03:49:00Z
-    webUrl: "https://www.marketing-interactive.com/facebook-apologises-after-ai-labels-african-americas-as-primates-in-video"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
+      name: Diginomica
+      domain: diginomica.com
+    quality: 43
     images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/123rf-facebook_mobile_2020.jpg"
-        width: 800
-        height: 455
+      - url: "https://diginomica.com/sites/default/files/images/2021-03/shutterstock_1696642561.png"
+        width: 740
+        height: 450
         isCached: true
-  - title: "The Ten Top Most Valuable EdTech Start-Ups: A Mix of Chinese, Indian, and American Companies"
-    excerpt: "Five American companies are among the ten most valuable EdTech companies in the world, while Indian and Chinese start-ups are ranked first. “The global EdTech is a broad and diverse field that includes not only the hardware and software programs used in remote learning but also the most effective ways of teaching people new knowledge and skills,"
-    publishedDateTime: 2021-09-06T06:03:00Z
-    webUrl: "https://iblnews.org/the-ten-top-most-valuable-edtech-start-ups-a-mix-of-chinese-indian-and-american-companies/"
-    ampWebUrl: "https://iblnews.org/the-ten-top-most-valuable-edtech-start-ups-a-mix-of-chinese-indian-and-american-companies/amp/"
-    cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/the-ten-top-most-valuable-edtech-start-ups-a-mix-of-chinese-indian-and-american-companies/amp/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 31
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2021/09/topedtechplatforms.jpg"
-        width: 860
-        height: 480
-        isCached: true
-  - title: "American Airlines – TCS wins contract from South American airline Avianca"
-    excerpt: "Tata Consultancy Services (TCS) has been selected by Avianca, one of the leading airlines in South America, as a strategic partner in its cloud transformation journey. TCS will modernize Avianca’s IT infrastructure and build a new future-ready cloud-based digital core on Microsoft Azure."
-    publishedDateTime: 2021-09-09T03:22:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_american-airlines/american-airlines-tcs-wins-contract-from-south-american-airline-avianca/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 18
 
 secured: "wjpLdMMKHPGFoQNejjU5LCgqTVLvXCyKJ5slrnhoNRVjr2AEj3P0vyIaEiyAmfEsH+j19RTMqGch1vAp5VVMeKoDjuN9wMs0oAUDoiKhVqIEVPDx/uQ2RXN7dYFwsh481viRZtDZ1yZXxCenmx8+syYoHT4FbSuw76I1uYJfDC5slchOnHyQhPI4FhikEsPVCejCHFbTWCFcGha/vhCVWq+P+6DGpfv51ZnFmxH/H52pUG0yAoX7bA5m9A6xd4cJxuTQ9bK299DudOZyOQUJnSksXT3xPGce/r/SDfNCrQsQpv3F+IzEeK6zzHTwpo7SIvXWD3W1LqxHdPqQD36SQGlvSTtM2sydZQuT1wxsf6xDOikFp0zBg41xin0VSZsTC1wUoUa0wK4vpPuB5u3HdFuzxH9OioAnafck2Zi9u82+VJVeIA9UNfUcvE8oxpomzTGL9GdRTzBIV79zlNktdAGWlZM3lt5yJV0IjQivCy7k9L6oIz0vtBvyNDq24Y6hCuqou2lsB835UoGgA7Zrzg==;7LG9Z2txdCWpQlRCM/JBdA=="
 ---

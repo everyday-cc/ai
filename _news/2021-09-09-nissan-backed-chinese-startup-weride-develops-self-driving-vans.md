@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-09-09/nissan
 webUrl: "https://money.usnews.com/investing/news/articles/2021-09-09/nissan-backed-chinese-startup-weride-develops-self-driving-vans"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Nissan-backed Chinese startup WeRide will develop self-driving delivery vans"
-    excerpt: "WeRide will jointly develop the vans with JMC, in which Ford has a stake, and delivery company ZTO. A pilot test will take place near the airport in Guangzhou city."
-    publishedDateTime: 2021-09-09T07:55:00Z
-    webUrl: "https://europe.autonews.com/automakers/nissan-backed-chinese-startup-weride-will-develop-self-driving-delivery-vans"
+  - title: "China’s WeRide unveils Robovan, its first electric, autonomous cargo van"
+    excerpt: "Chinese autonomous driving company WeRide has unveiled its first cargo van, the vessel upon which it will self-drive into the world of urban logistics. WeRide will work with Chinese automobile manufacturer Jiangling Motors (JMC) and Chinese express delivery company ZTO Express to commercialize its"
+    publishedDateTime: 2021-09-09T06:30:00Z
+    webUrl: "https://techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/"
+    ampWebUrl: "https://techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/amp/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 171
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/WeRide%20bus%20China%20web.jpg"
-        width: 800
-        height: 600
+      - url: "https://techcrunch.com/wp-content/uploads/2021/09/WeRide-Robovan-Chinas-first-L4-self-driving-cargo-van-2-1.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "kua79iA9fhObtKuR3+PsjpPoM4WpZ2Rspn19av2fglpmBMuiylSEA0UOwTZCJlK2vGTebZOiBwXO3NUY9He8g4hRkCRlMTw1kN0G/XcuL+3iaZ2742vRXsQ0yYzZz/sta0GLPdY/sWIzRywgfOt1OHs3oSqu25hJxD0tMyHhfbWDAeYcTMq/3sc/q9GQWEU2wTRpMUql3H1xSCvvAVdOj4EbS0826wShp37gWaGbicqzxkwD0duwUjnmZiOV9SUa/MgjmjpzwFGgpBMQG7YePYL/TGZS2JG/XBYl1I5ff6Q3guPm1vz2vwStXV/LWAhhhXDjoyVJl4NmZUKsfSViDmtesPZFVtkNMweoIau/MyhGIRI+fzey60KR8dsDNvKhim7MSsNqjrueL1U19bu7Byh2qPYto1SglL9VMcsYTycjlHgtR3WiAIiNLvtwNPN4JlEqH/q5RLLWcZNQCUY+zClm5gLJSHC5IYHNAKqyDrVA1m9SjOJlQphTesiHxmy08EK8zfmmU66LQCecnvBTWw==;9HYzKF6IgLLzZikTBBAtFQ=="

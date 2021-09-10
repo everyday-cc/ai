@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fun
 ampWebUrl: "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 678
     isCached: true
 
-secured: "ienTYIBipTfAfl3zBBV+Oz3ypj0VNB54DZAc4s1WLPhzc+BZEnN8y9Bj857binCRHji0FletD5HEcury0dqkNaD9VL0pqoZnyUZNNOPNlYSyOp2Jw6SBrUxN1vaNWwfZTOQpxDMKBq4Ygy/1RM0vusosqKITB+JLdl2MLLqqmo2quEYamIBDq9CTfZtg7LS7mxskKxiqY6C1imHkJkU+4qBmdChcZXvyUOboT87XU56yFfMsV18i4mHc9TkpnJZzAN6zLdaEg9QJq9klZDMEqKXvLJQmnhL0ISNDtdAElxB2S0Svp76EfDRD2UTFkEQnz8onurt8NQOt8iuO1ls7+A7Se7yfe/sAbNCePP8Ktho=;C3h1/MMn8Wmtr2omitLQUw=="
+secured: "cieFSTA2Zm2242ClfIkNb5pyFi4dL6QuOaCYyOHlvYwqMYARVBwyo54Z/LFm+65xse71guk9ErpStCQZconokdsLaO+Dbd+Pzl0HUugybtZWt5IkaFWpbqFE4TaQ2Z+lozUpqUCLAynw6USZJc1HlrXtX2ZoITkBhA5lj0+CLn46UGBuMfzqashCqHMQ2OBFKo7aQ6ahplBZ5kbSi1yEOO3uFAGTMnf6dGuVqhTbyfGpeLvZ56GYD98WLY9D7kHd/l883aJXMthyAeZUQcrU0zjFBo/v89oU3cwO2yFJY7gq+WLttu8nRzktySb7TNFgILzhM+g65p7WxB0Sgz4GcHMCmfOpJQzPX1H0AKxj8Ti3NSxqMLouKJ9a0Dj5uYn3QB0SACL5WmbfDS9TDMujFIXLsDFEDoVpvKhaq1WxKpRUK1/ZzJCIjWTa0GuftDieVGRXNI8kYG+95QcdMNAEBFY30R9YJj8zhiEqoGYzo87nuFhHkUB8V5QD3l+uZyjvNY1IDOpUmt3Xp95QId6iB/IuLbkXLBLcDX7eQwPRFes=;gbICb/7b4mgbFRkDdCgZUg=="
 ---
 

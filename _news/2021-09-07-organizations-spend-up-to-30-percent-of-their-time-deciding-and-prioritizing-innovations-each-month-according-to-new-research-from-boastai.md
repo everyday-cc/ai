@@ -25,17 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence For Automating Recruitment Flow Is Surging Integrated Talent Management Market Demand"
-    excerpt: "In the past few years, talent management has become an integral part of every organization, due to the increasing concerns of companies in acquiring top talents to cater to their business needs. There has been a growth in social recruiting,"
-    publishedDateTime: 2021-09-06T15:09:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-for-automating-recruitment-flow-is-surging-integrated-talent-management-market-demand/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-for-automating-recruitment-flow-is-surging-integrated-talent-management-market-demand/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-for-automating-recruitment-flow-is-surging-integrated-talent-management-market-demand/amp/"
+  - title: "Riiid research papers demonstrate technology advancement and pioneership in the field of AI for education"
+    excerpt: "Riiid, a leading AI for education company and a member of Born2Global Centre, announced that six papers by its researchers have been accepted this year at top global AI and EdTech conferences, including International Learning Analytics and Knowledge Conference (LAK),"
+    publishedDateTime: 2021-09-10T12:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/riiid-research-papers-demonstrate-technology-advancement-and-pioneership-in-the-field-of-ai-for-education-1030792564"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 20
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Sber Opens Registration for International AI Journey Conference"
+    excerpt: "This year’s Artificial Intelligence Journey 2021, an AI/DS online conference and a key event of Russia’s Year of Science and Technology, will be held on November 10–12, 2021. As was the case last year,"
+    publishedDateTime: 2021-09-10T11:31:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/sber-opens-registration-international-ai-journey-conference"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/tdygsbjzd.jpg"
+        width: 512
+        height: 288
+        isCached: true
 
 secured: "xsIKqUBGi59hOcY372yEDNTad9enRWAl5KYgh6+guFnLVSkMrKTPIA13G0XoocNNeidezBT4OFqZDvII8C2d8RnZQZoRQE0s8Rdt3ClTjagSCYAjzivNVPVuQrLh7IZMnHVf8NqomhpxDYCRZ/vdlkq4u5z6Rfmg9XVjMc8hPi8uoe8Jy1A2kRLDIbQtOvSS1a5Ayl59agkDRDrut26wiARchygYHn5PP1S0SUmXPO3Hn4HFscdaIkh6F+bhC+0WNkLBbsTR+OmQG5X9vn7/Lld5uLtiOAIfUo5rS3fUqpEt1myxC5bUqCfkvZ4cYD7X/77qaQ7GFVxfdNdc/JhPC9Z+xgnpX6myvULQnbwg8/U=;NgGBtNJMZQQeoBCa3fExEQ=="
 ---

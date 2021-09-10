@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VW’s first electric minibus is a self-driving taxi"
+    excerpt: "Volkswagen has unveiled a prototype self-driving version of its upcoming electric microbus, the. The vehicle was showcased during a press briefing by the German automak"
+    publishedDateTime: 2021-09-07T11:06:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/412890-vws-first-electric-minibus-is-a-self-driving-taxi.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
   - title: "Developing self-driving pods for commercial delivery"
     excerpt: "Oxbotica and AppliedEV are joining forces to develop self-driving, multi-purpose electric vehicles (EVs) in a step toward commercial driverless autonomy. The project will take Oxbotica’s autonomous software and integrate it into AppliedEV’s programmable and configurable EV platform."
     publishedDateTime: 2021-09-09T13:07:00Z
@@ -93,6 +104,6 @@ related:
       domain: telecompaper.com
     quality: 4
 
-secured: "FikbedJnEtJqmtZWNL17x6M9hAWXzDt0DxLQgdXzg3kLFNltp4hKJ7LTREtjLPc75w4uMyt/5rqJYOwtxpUVvpzgFrjDrO0gjNphz8glpjtHOJV2ukN54LrsU/nfNsIFpG0kjeFRAuC2MLpyHqVpOhR0tVBzKnFyN/fF5pmCM3CZDs4eHfrzYe74WjPmBEKXIzDQyw1YAecjX/PRmjAwm/ORooyGdHz5Alcq5jQSs9uJ3bRhyEOBJ9bY15BbFeoHoHYWinDF+FOrYh9Vlw8HzRuUmaguLXjYkjbZocfYXe4qo+tlCGxuReqHn8Pyei3kbSvLX5PRofK2v1YcopBmZAfAQLv52y/1263tI7ErUpk=;X2iukLibZzTMfWQpOxTZSQ=="
+secured: "RHvZ/u/EoMSSGni93rxlAs3sKyDIqSa4Hf5Y6USefq2VvKt/1sZu+N1NWyuoL+U2CHIwjUid7FwOl4a+ILcbwtJK+NZ0OY962x5IWQV78xPYr7wkV3YNE5gsKh+YkTPh3tyTc820waBw5qleUrxSA4OHedSsa9YSRrMnEM1Y07rtgV7dyp6zzTLfxVNic+C0HgMaB1EKuY7wRXAsFCu4wOv00x3Cjx6GI/kWBRZiDJEeDuWk7wgFUlErY+OSDVqxduyxVHoKp57GId5P5vBJZxsoBQDrBW2GS0Sl/svi6MJs0OmMcq25wYPa3FRdJJ/nBCxbdDtLxQAJ/Yd+eEbWI6KarRbxbvj1i7u3Cnqtewv7azSDZdGIUukuho5aXo5OpKiRBa0VAwBfIWRWAhlhlW06dSr7mQQKX5VrdxEK+XzGpuZSxd3DwQgWtUjJ1Zj3uuRqikDQiXmRZE2Pskc0Hu/kYZNILezSREONMgpERR574Y2hmEHG0ANuoZiyhMmuv38W0ogzqxWm8c1W1uF+FQ==;uoGH8bLLrfewA0JUaiezFA=="
 ---
 

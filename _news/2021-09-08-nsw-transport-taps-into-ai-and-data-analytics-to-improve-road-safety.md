@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Shaping the Future of IT: AI and AIOps"
-    excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19."
-    publishedDateTime: 2021-09-08T11:07:00Z
-    webUrl: "https://www.bbntimes.com/companies/shaping-the-future-of-it-ai-and-aiops"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_and_AIOps.png"
-        width: 1358
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market by Trends, Dynamic Innovation in Technology, Global Industry Insights by 2028"
     excerpt: "The market study depicts an extensive analysis of all the players running in the Artificial Intelligence in Healthcare market report based on distribution channels, local network, innovative launches,"
     publishedDateTime: 2021-09-08T12:00:00Z
