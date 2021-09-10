@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/singapore-police-patrol-surveillance-ro
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/singapore-police-patrol-surveillance-robots?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Xavier is a little robot that monitors the movements of pedestrians in Singapore"
+    excerpt: "In Singapore, a little robot named Xavier crisscrosses city streets, watching for the slightest infraction among pedestrians."
+    publishedDateTime: 2021-09-10T08:00:00Z
+    webUrl: "https://www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/"
+    ampWebUrl: "https://www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/amp/"
+    cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/amp/"
+    type: article
+    provider:
+      name: Prestige Online
+      domain: prestigeonline.com
+    quality: 54
+    images:
+      - url: "https://d2eohwa6gpdg50.cloudfront.net/wp-content/uploads/sites/5/2021/09/09143455/xavier_at_toa_p.b3a51093639.original.jpg"
+        width: 1151
+        height: 648
+        isCached: true
   - title: "Singapore startup plays up esports potential in Southeast Asia"
     excerpt: "Esports can grow to become a lucrative industry in Southeast Asia, but the ecosystem and business models must first be developed, says Impunity Esports CEO."
     publishedDateTime: 2021-09-09T01:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/facebook-developing-machine-lea
 webUrl: "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/"
 type: article
 quality: 88
-heat: 208
+heat: 218
 published: true
 
 provider:
@@ -155,6 +155,17 @@ related:
         width: 502
         height: 314
         isCached: true
+  - title: "Facebook developing in-house machine learning chips"
+    excerpt: "Facebook is designing a range of chips focussed on machine learning workloads such as content recommendations and video transcoding, The Information reported yesterday. The social media company joins the likes of Google and Apple in the move away from chip suppliers to save on costs and increase server performance."
+    publishedDateTime: 2021-09-10T08:45:00Z
+    webUrl: "https://mybroadband.co.za/news/hardware/413458-facebook-developing-in-house-machine-learning-chips.html"
+    ampWebUrl: "https://mybroadband.co.za/news/hardware/413458-facebook-developing-in-house-machine-learning-chips.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/hardware/413458-facebook-developing-in-house-machine-learning-chips.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
   - title: "Facebook – Facebook developing machine learning chip – The Information"
     excerpt: "Facebook Inc (FB.O) is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citin"
     publishedDateTime: 2021-09-09T15:04:00Z

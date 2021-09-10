@@ -157,6 +157,20 @@ related:
         width: 700
         height: 369
         isCached: true
+  - title: "Microsoft And Oyo Collaborates To Develop Next-Gen Hotel Technologies"
+    excerpt: "The American tech giant Microsoft and Indian company Oyo have established a multi-year strategic agreement to collaborate on the development of next-generation travel and hospital"
+    publishedDateTime: 2021-09-10T09:24:00Z
+    webUrl: "https://swarajyamag.com/technology/microsoft-and-oyo-collaborates-to-develop-next-gen-hotel-technologies"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2021-09%2Ff349e1f0-f10b-4623-8fc2-55c7d13dee63%2FOyo_Microsoft_Image.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft teams up with LX Semicon to develop 3D depth-sensing solution in virtual reality"
     excerpt: "U.S. technology giant Microsoft will collaborate with LX Semicon, a fabless manufacturer in South Korea, to develop a 3D-sensing solution for virtual reality and augmented reality. The solution will be based on 3D time of flight sensors that measure the distance between the sensor and a target object by calculating the time taken for light to bounce back."
     publishedDateTime: 2021-09-08T04:52:00Z

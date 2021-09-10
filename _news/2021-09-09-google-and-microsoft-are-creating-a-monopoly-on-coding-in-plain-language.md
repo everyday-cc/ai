@@ -144,6 +144,20 @@ related:
         width: 700
         height: 369
         isCached: true
+  - title: "Microsoft And Oyo Collaborates To Develop Next-Gen Hotel Technologies"
+    excerpt: "The American tech giant Microsoft and Indian company Oyo have established a multi-year strategic agreement to collaborate on the development of next-generation travel and hospital"
+    publishedDateTime: 2021-09-10T09:24:00Z
+    webUrl: "https://swarajyamag.com/technology/microsoft-and-oyo-collaborates-to-develop-next-gen-hotel-technologies"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2021-09%2Ff349e1f0-f10b-4623-8fc2-55c7d13dee63%2FOyo_Microsoft_Image.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tips & Tricks - how to get the most out of the new Microsoft Start experience"
     excerpt: "You've probably heard of Microsoft Start, and we'll now explain some of our favorite tips and tricks for the experience."
     publishedDateTime: 2021-09-08T14:53:00Z
@@ -173,6 +187,6 @@ related:
         height: 640
         isCached: true
 
-secured: "8/R9fBui1ReAQjGITSSjekduhLo91TpssrjWX0MljKGuE636R9PBj/UWORzKCVsMKafZhzzkF/JC0eazpdjcv04w2BP4lpbLiA9FEP2a2aDQBYO8GVGo6PuT29TDwZpuu5fx6FpI8xX2u/bU0ZY6nZMbThyhACLgr0N4eZ01tNfn0j1Nt8QJxqGCg4kH26t5V1n9X1bOlgoB2pRks/IDAAfu4+AbwDExMUvM21zhceKDm1P6dDpAZOV6gPa8VPU59vWtKpkiAjmOzTDy1pLW1bPWRTisFmAfo4yqhr76dyAFjk+vDHqRKkDzQpljslWUKtd2EB3hwakpXsq5gldQ4s37uo5I/+NXdQ5CfSNJDJE=;ef84a+UNiqGXT0lnNw3pCQ=="
+secured: "6gmsCIupMviLUZoR2i307YjMvTaJInlshNj1GiyB42++CUUb33CymRAp0Yjp2Pn6hFBC9S6mmvTWf+LhP3a6IiuLFF1039OtFalabdTyOrt4rYYum9+a+DJiETZSWEHHZ0zSSWJQrCFjm9g5LhfIopigkUUEwMFM8hdRGnqNcxo3UTwJat2VEDmPHqg79UIva/hK32dbzzNfG7Gfa4LQ9ZtjH8q1HcfGNZNh9il4MLjD3i6MgwZzABtgLJsw0gv5/AtyvPUbcE8m7wN4L7WeFu/shKLsaAE1Zt4qJ3LIPtfiJCtmgpwUo8BKfzPnUa0iYJA48xliEurDnEVgEavPh3vZj+R4tEAcWeYP+BUfFNauOSc8K52AEy6BJqjlQzSyMzfOxqKqxSSQs8wGMn6MrlfUNi7iLmwKmNDFQHgGtfkaBvJcxpwkIy+OIshWcoPombxoNmOyLiUtj6AFkjmDzIuiHUnlrc1z98wTnV1zGEyF9JMTirRq+x26QYAcoWlEWJrlL87P19SaIIATi0VVzg==;ZOCX2ktM9oKNPbKub7EqEg=="
 ---
 

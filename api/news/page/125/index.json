@@ -2,6 +2,40 @@
   "page": 125,
   "value": [
     {
+      "path": "_news/2021-06-11-5-reasons-why-your-chatbot-needs-natural-language-processing.md",
+      "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
+      "excerpt": "NLP based chatbots can help elevate customer experience to the next level With the advent and rise of chatbots, we are starting to see them utilise artificial intelligence — especially ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/",
+      "originalUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
+      "publishedDateTime": "2021-06-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
       "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
       "excerpt": "A short film featuring Cozmo. Cozmo implements AI for a lot of its functionality—particularly object recognition and machine vision for finding its cubes and recognizing people. But the emphasis is on using AI to give Cozmo the ability to convey ...",
@@ -1097,48 +1131,6 @@
       "provider": {
         "name": "Fox Business",
         "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-xiao-i-a-leading-cognitive-intelligence-enterprise-in-china-has-asked-a-shanghai-court-to-stop-production-of-apples-iphone-13.md",
-      "title": "Xiao-i, a leading cognitive intelligence enterprise in China, has asked a Shanghai Court to Stop Production of Apple's iPhone 13",
-      "excerpt": "At the height of Apple's iPhone 13 production, it's being reported today that a Chinese artificial intelligence firm has asked a Shanghai court to stop the production and sale of Apple’s iPhone in the country over a patent dispute over Apple's",
-      "sourceUrl": null,
-      "webUrl": "https://www.patentlyapple.com/patently-apple/2021/09/xiao-i-a-leading-cognitive-intelligence-enterprise-in-china-has-asked-a-shanghai-court-to-stop-production-of-apples-iphone.html",
-      "originalUrl": "https://www.patentlyapple.com/patently-apple/2021/09/xiao-i-a-leading-cognitive-intelligence-enterprise-in-china-has-asked-a-shanghai-court-to-stop-production-of-apples-iphone.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.patentlyapple.com/.a/6a0120a5580826970c02788047121a200d-600wi",
-          "width": 600,
-          "height": 345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patently Apple",
-        "domain": "patentlyapple.com",
         "images": null,
         "publishers": null,
         "authors": null

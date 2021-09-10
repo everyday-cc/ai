@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft And Oyo Collaborates To Develop Next-Gen Hotel Technologies"
+    excerpt: "The American tech giant Microsoft and Indian company Oyo have established a multi-year strategic agreement to collaborate on the development of next-generation travel and hospital"
+    publishedDateTime: 2021-09-10T09:24:00Z
+    webUrl: "https://swarajyamag.com/technology/microsoft-and-oyo-collaborates-to-develop-next-gen-hotel-technologies"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2021-09%2Ff349e1f0-f10b-4623-8fc2-55c7d13dee63%2FOyo_Microsoft_Image.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tips & Tricks - how to get the most out of the new Microsoft Start experience"
     excerpt: "You've probably heard of Microsoft Start, and we'll now explain some of our favorite tips and tricks for the experience."
     publishedDateTime: 2021-09-08T14:53:00Z

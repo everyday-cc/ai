@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Xavier is a little robot that monitors the movements of pedestrians in Singapore"
+    excerpt: "In Singapore, a little robot named Xavier crisscrosses city streets, watching for the slightest infraction among pedestrians."
+    publishedDateTime: 2021-09-10T08:00:00Z
+    webUrl: "https://www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/"
+    ampWebUrl: "https://www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/amp/"
+    cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/amp/"
+    type: article
+    provider:
+      name: Prestige Online
+      domain: prestigeonline.com
+    quality: 54
+    images:
+      - url: "https://d2eohwa6gpdg50.cloudfront.net/wp-content/uploads/sites/5/2021/09/09143455/xavier_at_toa_p.b3a51093639.original.jpg"
+        width: 1151
+        height: 648
+        isCached: true
   - title: "Singapore scientists develop AI-powered system to diagnose glaucoma using eye images"
     excerpt: "Scientists from NTU Singapore, in collaboration with clinicians at Tan Tock Seng Hospital in Singapore, have developed a novel method that uses artificial intelligence (AI) to screen for glaucoma, a group of eye diseases that can cause vision loss and blindness through damage to the optic nerve at the back of the eye."
     publishedDateTime: 2021-09-07T15:21:00Z

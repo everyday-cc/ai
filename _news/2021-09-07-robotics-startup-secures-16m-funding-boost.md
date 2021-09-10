@@ -7,7 +7,7 @@ originalUrl: "https://www.bristol247.com/business/news-business/robotics-startup
 webUrl: "https://www.bristol247.com/business/news-business/robotics-startup-secures-1-6m-funding-boost/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Green robotics start-up raises £1.6m"
+    excerpt: "A green robotics company slashing the cost of maintaining wind turbines is flying high after securing £1.6million in its latest funding round. Perceptual Robotics uses autonomous drones to map turbines,"
+    publishedDateTime: 2021-09-10T05:03:00Z
+    webUrl: "https://www.angelnews.co.uk/blog/venture-capital/green-robotics-start-up-raises-16m/"
+    type: article
+    provider:
+      name: angelnews.co.uk
+      domain: angelnews.co.uk
+    quality: 69
+    images:
+      - url: "https://www.angelnews.co.uk/an2017/images/Perceptual_Robotics_.png"
+        width: 920
+        height: 700
+        isCached: true
   - title: "Bristol start-up slashing cost of wind turbine maintenance raises £1.6 million"
     excerpt: "A Bristol robotics company slashing the cost of maintaining wind turbines is flying high after securing £1.6 million in its latest funding round."
     publishedDateTime: 2021-09-07T14:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/07/large-language-models-arent-alway
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

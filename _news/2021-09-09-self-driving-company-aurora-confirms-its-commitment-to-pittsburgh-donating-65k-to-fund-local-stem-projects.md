@@ -3,8 +3,8 @@ category: news
 title: "Self-driving Company Aurora Confirms Its Commitment to Pittsburgh, Donating $65k to Fund Local STEM-projects"
 excerpt: "Today the self-driving company Aurora announced it will continue to expand its presence in Pittsburgh, naming the city as its official corporate headquarters. To mark this moment, Aurora is making a $65,"
 publishedDateTime: 2021-09-09T15:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-pittsburgh-philanthropy-aurora-29f8e123488444d0b4c421bce80de4e1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-pittsburgh-philanthropy-aurora-29f8e123488444d0b4c421bce80de4e1"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-philanthropy-aurora-29f8e123488444d0b4c421bce80de4e1"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-philanthropy-aurora-29f8e123488444d0b4c421bce80de4e1"
 type: article
 quality: 5
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Vfw/mJEE0S7k5QLVkrbnMKpHWoaG+/S/qhekC25khDMMX5eY1pdW2NexYiCakk7R/AAaYcpSbAeEUjLgEwUqLEV4QgkhAZC1qzVDqjlKUGJc2+ftEoXD5FersPCpzDnlTBfw354kOmmPxUbmsSAOTTIYB01tyVQtMhMCeq0qpnPFXVFDL7+R2ZhUz/3CadGpMJDDI6fE+mQ8smAY5fHJW7CgC7hygqIcsmchORyD9zfP/TsqlRpKrp+DmQ/ds73l6UtmCy5VN7ZeMqApryZYrVelfc1cqmUzskWlJ4P0aGZErX8GMkwArdAe7eBV6aXI98aFZyK8VZBWjEuitclzY2HreknxGg7mTys3BFQ10yU=;c0ZkQaCda2f1bm7jnNNehA=="
+secured: "DoCEIbVyLh6AJ2jIqQ+2flNViVuurpqqaQIXxrwoGbcG+ufPPuv1czpVaXrttUkU8iTiWVk4ABDEeM6h4cmB8vH/T/Q4blXFv40V+0Ngiazqe/zgtkpPWJrmBilgcl87UTKIZP0dPkENanv8AiDKFb6Dy9xdGa4iaVwsceLT04LgWYIKImEkzc0t4l8L0OowP8vrGJuo3O6bSYibmz/OY7JiWH/9wyBmXFnE+a2eJ5GS5/nKrit2MK5BVpO1aeI4FqpIrjdq6F/wmJ9v+c+/FTTiyqUFsGwleQcYdgA79i49nNEdQV00PU3inBy9sinuablcq/ZZB62rWeW5cGGALitC0KFED7aTYvMmn4SCujM=;R7U2UFWp2ZIK+wlHHYv6tw=="
 ---
 

@@ -114,6 +114,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "CVS – IBM Watson Assistant Gains 3 New AI Features"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-10T09:29:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_cvs/cvs-ibm-watson-assistant-gains-3-new-ai-features/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 56
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/ibm-campus-1.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
   - title: "IBM Watson Launches New AI And Automation Features For Better Services"
     excerpt: "The announcement includes collaboration with IntelePeer, a Communications Platform-as-a-Service provider, to set up and test a voice agent."
     publishedDateTime: 2021-09-09T13:39:00Z
@@ -183,6 +197,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1611508/Watson_Assistant_Search_Skill.jpg?p=facebook"
         width: 3108
         height: 1625
+        isCached: true
+  - title: "IBM adds new features to Watson Assistant"
+    excerpt: "IBM has announced several enhancements to Watson Assistant, enabling businesses to provide better customer service across touchpoints. New features, including artificial intelligence (AI) and automation capabilities,"
+    publishedDateTime: 2021-09-10T09:09:00Z
+    webUrl: "https://www.techcentral.ie/ibm-adds-new-features-to-watson-assistant/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2018/03/IBM_logo_2018.jpg"
+        width: 617
+        height: 350
         isCached: true
   - title: "CVS – IBM launches Watson Assistant capabilities for call center automation"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."

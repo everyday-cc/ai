@@ -1,0 +1,74 @@
+---
+category: news
+title: "Xavier is a little robot that monitors the movements of pedestrians in Singapore"
+excerpt: "In Singapore, a little robot named Xavier crisscrosses city streets, watching for the slightest infraction among pedestrians."
+publishedDateTime: 2021-09-10T08:00:00Z
+originalUrl: "https://www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/"
+webUrl: "https://www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/"
+ampWebUrl: "https://www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/amp/"
+cdnAmpWebUrl: "https://www-prestigeonline-com.cdn.ampproject.org/c/s/www.prestigeonline.com/my/pursuits/tech/xavier-is-a-little-robot-that-monitors-the-movements-of-pedestrians-in-singapore/amp/"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Prestige Online
+  domain: prestigeonline.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://d2eohwa6gpdg50.cloudfront.net/wp-content/uploads/sites/5/2021/09/09143455/xavier_at_toa_p.b3a51093639.original.jpg"
+    width: 1151
+    height: 648
+    isCached: true
+
+related:
+  - title: "Singapore has safety patrol robots now! This should be fine."
+    excerpt: "Singapore has started testing patrol robots that provide surveillance in pedestrian areas, working with the city-state's police force."
+    publishedDateTime: 2021-09-07T11:15:00Z
+    webUrl: "https://mashable.com/article/singapore-police-patrol-surveillance-robots"
+    ampWebUrl: "https://mashable.com/article/singapore-police-patrol-surveillance-robots?amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/singapore-police-patrol-surveillance-robots?amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/0700hA1x6jKi99YlGCe3tFO/hero-image.fill.size_1200x675.v1631015706.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Singapore startup plays up esports potential in Southeast Asia"
+    excerpt: "Esports can grow to become a lucrative industry in Southeast Asia, but the ecosystem and business models must first be developed, says Impunity Esports CEO."
+    publishedDateTime: 2021-09-09T01:35:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-startup-plays-up-esports-potential-in-southeast-asia/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-startup-plays-up-esports-potential-in-southeast-asia/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-startup-plays-up-esports-potential-in-southeast-asia/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
+  - title: "Singapore scientists develop AI-powered system to diagnose glaucoma using eye images"
+    excerpt: "Scientists from NTU Singapore, in collaboration with clinicians at Tan Tock Seng Hospital in Singapore, have developed a novel method that uses artificial intelligence (AI) to screen for glaucoma, a group of eye diseases that can cause vision loss and blindness through damage to the optic nerve at the back of the eye."
+    publishedDateTime: 2021-09-07T15:21:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/927549"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 30
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/84ab3881-82b8-4d2e-b530-a71050ba251e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 240
+        isCached: true
+
+secured: "jreJf/n8soAQGH5FpCT1cevUbbSdddRPzBQaajrSv1QFfgQsSK2+hQV4hj7tmHM8SQ5+g/g8Nq1+WQXP9bmQb3V6NryDu7o84zQssH6Izy1LrH5vz1ynbZJfUsgPL0Hz5Wd4l8ylyDUJEYAh8WIGs78q1JCRDyqrI+zF56xtTHd++CrkvLWc7OtEAw6Gf/qO0XTtvSHLZHjbG7e3wRga/Al67WHeSI9uvGL6mz0uWc45M6a9269hEJovkfO0n22AoNbWnOqqtT8epiFXJz5Wo3qPWcAlG6FzFQ8c1Hz19boK1jXPWS20Nf798fyf4+N2C4Tt48z0Oo8WWcYqWdQjkkbjV+ArdcRE7YL8Px7jRVw=;acFjwTtYwhykL24kEBnnGw=="
+---
+

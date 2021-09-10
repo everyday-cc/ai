@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "Singapore AI startup Advance.ai to enter unicorn club with new $200m round"
-    excerpt: "Advance.ai has landed Warburg Pincus as the lead investor of the fundraise. Using AI-driven technology, the startup offers digital identity verification, fraud detection, and credit scoring, among other services. Currently present in Southeast Asia and ..."
-    publishedDateTime: 2021-09-10T01:24:00Z
-    webUrl: "https://www.techinasia.com/singapores-advanceai-enter-unicorn-club-200m?ref=recommender-705626"
+    excerpt: "Singapore-headquartered tech startup Advance.ai is raising about US$200 million in a funding round that will propel it into a small group of Southeast Asia unicorns,” said a Reuters report, citing sources."
+    publishedDateTime: 2021-09-09T23:35:00Z
+    webUrl: "https://www.techinasia.com/singapores-advanceai-enter-unicorn-club-200m?comments=true"
     type: article
     provider:
       name: Techinasia

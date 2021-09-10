@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

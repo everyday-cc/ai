@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-excerpt: "\"Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
-publishedDateTime: 2021-09-08T14:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
+excerpt: "Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and banks, has been recognized as one of the leading AI solution developers in financial services by FinTech Global,"
+publishedDateTime: 2021-09-08T14:11:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4a5ff55dc3ff4f0cac09fa874a6ede89"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4a5ff55dc3ff4f0cac09fa874a6ede89"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "9 Reasons Why Fintech Will Take Over The Banking Industry"
@@ -202,6 +208,6 @@ related:
       domain: afp.com
     quality: 19
 
-secured: "WjeKKl+FyiQWkJHfd2wa3kykVEwmoJXUxB3q3AVjhUozPYTg9UFdjsrFgZekALYX3IPiFXsdoTsRvfQyqzzACXi25w7zTafJrfd8xBAp8zB5blfbP+XsJuT3rK5MruR/gFF+nbTKVlm2LqiSQPSRE1EwNwTa6EkR8oSYGTtR8miXSKNxoBizSyYA3/F2hz5YqBMcwFTnnwVU5jyUz99meN8f/DCyFMupqJOKbsr0Iku5fUd18sgaTave19TpyEkVkheXW3NGMmd/+QOb4cOZdyib/DI8nu6x3fsQ9iC9zTyhBpYR5wq+Awza81cqXQR+t9WIn0J6tmYdKhUBvsNjGHcdE40HDObr98YNZrG29eY=;93qGqkTio6syH5Bz2kSQ5w=="
+secured: "DIKkD1CbiKDYQchWVxC4ImlDatccvG4yD9Kf06ykNkli5+unyvG1BDFghSNxAMGDSYw4B3mgqvIJ6hmpzojhKtxecbR1lATIFJUGQFo525Yqz9QqbvnoQxa2h1r/8gmtUXV/VUtJhKl1wbC0ETSgAiwwyN4cVjbxRqU7IafR6PDhgy7Hh/F9kMVkY9VcrTROsEM3myekFFYUAuMeevkMbztkzVY3qdupsFbtkRGWL+AYeU/tczTXbKm6f5j1OvkSawXYdvcD9oOEdu1bX5VhQjCesurdoKgX4xmsSl0oAW1owRLhh88Zyls5ygxclEzOIKAq7PxprcjGBoEE8W28eYVBYheZMcSNJ15zXVhA5Pw=;PlLSOo0M3fT5AEEQpJkvww=="
 ---
 

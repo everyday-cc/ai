@@ -44,7 +44,7 @@ related:
   - title: "Self-driving Company Aurora Confirms Its Commitment to Pittsburgh, Donating $65k to Fund Local STEM-projects"
     excerpt: "Today the self-driving company Aurora announced it will continue to expand its presence in Pittsburgh, naming the city as its official corporate headquarters. To mark this moment, Aurora is making a $65,"
     publishedDateTime: 2021-09-09T15:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-pittsburgh-philanthropy-aurora-29f8e123488444d0b4c421bce80de4e1"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-philanthropy-aurora-29f8e123488444d0b4c421bce80de4e1"
     type: article
     provider:
       name: Associated Press

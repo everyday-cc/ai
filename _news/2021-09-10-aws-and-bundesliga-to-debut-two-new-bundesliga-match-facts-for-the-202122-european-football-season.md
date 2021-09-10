@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
-excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 – 22 season."
-publishedDateTime: 2021-09-10T05:00:00Z
-originalUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
-webUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
+excerpt: "Business Wire India Today, Amazon Web Services (AWS), an Amazon.com , Inc. company (NASDAQ: AMZN), and the German"
+publishedDateTime: 2021-09-10T06:22:00Z
+originalUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
+webUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
 type: article
-quality: 5
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: indianweb2.com
+  domain: indianweb2.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://lh6.googleusercontent.com/proxy/22N99HSpQApw3WDlEPkWXuGF04hH1q5ieicjgf7uWr9IhnsOAZ31HUPL9wPQa9n_ghHdxcKBpV3MQY6O7CpwgWv3S7sTYeIvFnJUkWBvQeVDygN3ShxtmJ5MbqePRh6lMhJbD4rZ3o_r5D5dLhys"
+    width: 480
+    height: 480
+    isCached: true
 
 related:
   - title: "The development of Bundesliga Match Fact Passing Profile, a deep dive into passing in football"
@@ -33,6 +39,22 @@ related:
         width: 564
         height: 381
         isCached: true
+  - title: "DFL and AWS to Debut Two New Bundesliga Match Facts for the 2021-22 Season"
+    excerpt: "Shot Efficiency and Passing Profile bring the total number of advanced statistics to eight, using AWS machine learning and analytics to give fans deeper insights into the action on the pitch."
+    publishedDateTime: 2021-09-10T09:03:00Z
+    webUrl: "https://www.bundesliga.com/en/bundesliga/news/dfl-and-aws-to-debut-two-new-match-facts-for-the-2021-22-season-17237"
+    ampWebUrl: "https://amp.bundesliga.com/en/bundesliga/news/dfl-and-aws-to-debut-two-new-match-facts-for-the-2021-22-season-17237"
+    cdnAmpWebUrl: "https://amp-bundesliga-com.cdn.ampproject.org/c/s/amp.bundesliga.com/en/bundesliga/news/dfl-and-aws-to-debut-two-new-match-facts-for-the-2021-22-season-17237"
+    type: article
+    provider:
+      name: Bundesliga
+      domain: bundesliga.com
+    quality: 57
+    images:
+      - url: "https://img.bundesliga.com/tachyon/sites/2/2021/09/BMFTemplates_ShotEf_Player_Table_HD.jpg?crop=58px,0px,1351px,1080px&fit=720"
+        width: 720
+        height: 576
+        isCached: true
   - title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021-22 European Football Season"
     excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany's top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 - 22 season."
     publishedDateTime: 2021-09-09T17:53:00Z
@@ -43,6 +65,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "/QyK5GwlAexo8uKg114cBQus60KOMDc6L/PsKfGSCKyRVLGpwuIrwaeKLtG5scD8u3z7kvzWXX2RqK83T/dsQ765J6gAA9FNHdyoAdwodju4HKLUk3FQ0ooOTErB2FPJhHl3q3YRjsfq+4ObUfvTEX/m8JrPTvHeiDXLCRNZUsSONj6Wn+weQPNXsBBQFrGIALNz89rDmG5qF23Sx4uwGhck29W1z12KT3S5JSkV7HXYS6sLKjgF78sKEza8iuFnuhA/q+6kkgM19n99gtnkBLa3sPsqCPMabcILqF8c7MIes6wO1/wfWzto3YkzTzt+z9vtvyH+68YXk+Gpg7guLHwIlgRwMqv5/aIawvnSaJGq4qStlVETCaAjYUJBm+5Ua4TSw309bSOOEIJPYqJgXDPRk8k82xgZV3ZPG6H4T+QpMBZujjmY+kObdG2r+WiYzSXKdx/SSZemOzjsvfK8zAW7V4+ODZty7sGXZsxnrgjXQoS4q/Ny6gdmDfm5Hi7IHzCKxujI2jE7s5+3PYNQ1g==;yGv74rdZ+dvf6MJZqmJxQg=="
+secured: "/crW6A39mKxzTXTiO7euveBbbzZPdTylESCeIFurM/ao2UinzXWTP6oM8D2otiQ33YgS8fBNY3YV2JfAibz93ZlWjCkRbjwLezenL8OSbcIBs7YeUZd0z4kKIM9O6vn3njXyZTA9b50t9XZbE244eIMxUT+VSdxzg4VPrWX13rHnUvD1F78RegDl9P7KREzEnGVmtgvd+0SqGjnX2hCqlikYcnB8xAKH9B/llynV+foSwtgsqqfRD3695j7Anx6Uev1C3HBmVDYlQKcSC3z9wpFrw96RzYTiAxlD5N+Rgc6FULhSqmUlbs9dc60FKt8cU0g9HUXo0p8EveBwF+pZiC7N+xUGJXQL0VaapY0JWJg=;4BMCnNRYfO/u7rZu/+tQyg=="
 ---
 
