@@ -28,9 +28,9 @@ related:
   - title: "The best voice assistant"
     excerpt: "Whether your voice assistant is the hub of your smart home, or simply a smartphone-based helper that tells you if it's raining, the best assistants streamline your relationship with technology."
     publishedDateTime: 2021-09-09T06:59:00Z
-    webUrl: "https://www.zdnet.com/article/the-best-voice-assistant/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-best-voice-assistant/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-best-voice-assistant/"
+    webUrl: "https://www.zdnet.com/index.php/article/the-best-voice-assistant/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/the-best-voice-assistant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/the-best-voice-assistant/"
     type: article
     provider:
       name: ZDNet

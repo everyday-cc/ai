@@ -256,26 +256,35 @@
       ]
     },
     {
-      "path": "_news/2021-09-07-why-im-investing-in-this-high-risk-high-reward-fintech-stock.md",
-      "title": "Why I'm Investing in This High-Risk, High-Reward Fintech Stock",
-      "excerpt": "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential.",
+      "path": "_news/2021-09-07-9-reasons-why-fintech-will-take-over-the-banking-industry.md",
+      "title": "9 Reasons Why Fintech Will Take Over The Banking Industry",
+      "excerpt": "The introduction of Fintech or financial technology was back in the 1950s when credit cards came into existence. Next, internet",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07",
-      "originalUrl": "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07",
+      "webUrl": "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/",
+      "originalUrl": "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 219,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/09/what-is-fintech.jpeg",
+          "width": 990,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp",
-      "publishedDateTime": "2021-09-07T03:43:00-07:00",
+      "ampWebUrl": "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1",
+      "publishedDateTime": "2021-09-07T09:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -298,7 +307,7 @@
       "originalUrl": "https://www.freepressjournal.in/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -894,10 +903,10 @@
     {
       "path": "_news/2021-08-24-pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa.md",
       "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
-      "excerpt": "the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was ...",
+      "excerpt": "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was led by Octopus Ventures and comes less than a year after its $3 million seed round.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436286.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436286.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -907,21 +916,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T07:48:00-07:00",
+      "publishedDateTime": "2021-08-24T08:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

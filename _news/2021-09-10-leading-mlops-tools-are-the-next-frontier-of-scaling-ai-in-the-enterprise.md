@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/AI_and_AIOps.png"
         width: 1358
         height: 600
-        isCached: true
-  - title: "Using Artificial Intelligence in violin making"
-    excerpt: "In the September 2021 issue, Sebastian Gonzalez investigates artificial intelligence (AI) software to examine violin forms"
-    publishedDateTime: 2021-09-10T10:14:00Z
-    webUrl: "https://www.thestrad.com/lutherie/using-artificial-intelligence-in-violin-making/13624.article"
-    type: article
-    provider:
-      name: The Strad
-      domain: thestrad.com
-    quality: 39
-    images:
-      - url: "https://dnan0fzjxntrj.cloudfront.net/Pictures/1024x536/0/7/8/23078_22516_figure2thicknessviolin2_310275_125716.png"
-        width: 780
-        height: 347
         isCached: true
 
 secured: "wh+A+4qQqXWKrG6dtZNZSz7nRn/p5J8g3ilZlrYTlYyhNt6BkZ6R3JVxCGGZKmPGNY+Jk4nkYAXoHSkpSftOFsViLOIxP+1+RNKGdRSuXH6s6gM+Wpt+EUllgCG+ZeQiDFn+7gaPi3DxEjJ0X3vsPu3S3pJlCM+Pjs46NeW87lG3319p65zauujeqGiFRAFxS2EcLq1iisaAvsMcxCHH0YS4C5v/9hSXuZgMjUrBLlY8MBeWVopt3H766slbSSJVHQ//j6TvNelVvUG3UfrElfYnr0b336oec4F5gc87QxDUKaS6mRaL0ByXIDDGrbJKNAWDB/sx0X6BD7vWBmn3Rz+I3fyThoXyrAVaIhExtFx21AgnCfh4G61yixfte0IRdm+e5555tyhnzLo1Ir+ddN2jSHA8KmHF5OIL0pW0np6qYdPuMkkEhznYX0FKaDMuuyrTHRuqnEKWTk69fe6QDbyo55WFLJtKQ1XtQoVL9UnGETcM7fjY0aH04s9Eh6BFotk1CZAlTH7Y8Uz9Hobp6g==;JRYOyuSL8cRW/29XTOrluQ=="

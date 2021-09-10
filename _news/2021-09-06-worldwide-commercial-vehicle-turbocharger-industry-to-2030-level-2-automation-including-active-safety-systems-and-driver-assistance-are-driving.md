@@ -36,15 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Veoneer products enable level 3 hands-off self-driving tech"
-    excerpt: "(NYSE: VNE) and (SSE: VNE SDB), is proud contributor to the Highly Automated Driving solution in the Mercedes-Benz S-class, equipped to offer level 3 hands-off self-driving tech. During the fall, Mercedes-Benz' DRIVE PILOT system is being introduced with greater performance from Veoneer's Stereo Vision and Radar products to support level 3 self-driving."
-    publishedDateTime: 2021-09-06T01:57:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210906io96790/veoneer-products-enable-level-3-hands-off-self-driving-tech"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "xQA3K8Gv8qHEvzIfyBrie5o/SbMRLxXxp/0i+2GwU7ZzB1lB2RfdkSo8Fy18x7Md6nX6GLrqWavQ+IN5UaZXn89aIzOHqVGZ+VbZf5fwz1I2c8o2cUiRVkpolDhZV+84zhyY7rh5yuges5HLQELKXasaVE+B9aC7yZDnbLNkHJnX73F0/m7XwMv/GEu2Dqo844eanl/80VQMXELiiSfyXBsyhvjqy0fCw448qySxIg+8I3jhK1yDQvBEgW5TdlIKdo4uqgal3RLHEEhzxxVokMd2kxdDkrBVdNTTfwAEVYPQno3BmkLoq/8CmfHC8DEQrcaFd+S99zFBcS4oVo7MkIkrg/csJCx8rPZa0D1yawag+2GUh9sud26dKi3svuYo1RZoowOB9KsP2JyeTqdWdoNfK1fulpU4fzRZ8dycZzu9EEgJMUFamgJ1XXNTL5aD60B2ax5CIMM2jhcFqNhymGu9837PEtFxoIuYKlHare0oLWB3seo3K9+JCgHbICamxAx/BOVs905UP9XNPm+v5Q==;2lN336KHQVU4nozqIK2lmg=="
 ---

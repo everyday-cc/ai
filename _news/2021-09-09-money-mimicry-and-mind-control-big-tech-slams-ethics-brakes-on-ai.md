@@ -14,7 +14,7 @@ provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -106,6 +106,6 @@ related:
         height: 355
         isCached: true
 
-secured: "3qRB0o83gk8MzAN85pIHteLtQfjkmg2V7JVLQK9x5oHuB8let2EQW/pGhBDHJsm/ja2Ec4uqJh8k+kwdJyRmlca7cIZS38pg494V/KJCK/0374AUUZV6ISqEfN0E+EK7oNoFW4CEn0UDBvgIfDmk4T3mSUJeujhYTWC8KOORq31hGFq7Jzy3DGKKY+VGAxZHz8pYgnw9JA7zyecXvFIE9V+f24M5EoE3vVajP7RIXpOIPPvkgv75SeDJF4UDdHp/PTw3VVlHUrqa3TefgENObYb+vj6f17FUxzaml68jiJTQcnNmyQ9xSAwIAbeh7nxVwwNzznNCfjT1IXjAAAxIe+JGSDdFlBVEI5RqXorhAXo=;K2jhpp+g7xYgtY4KewAu0w=="
+secured: "bMFX1cpkEEuI9fltJylgZx8TEiTj2OVs2+1KlJQuM7tppSs6lmvEmS/LAKeZsU011Zp8u+un3FEA4g6W7/+gLoTcBLmExWXg+1GnaKdEFZrp4c6kcSawRtpOCXjUjtGsQNu0o47QKIaZI3t51tI5DVRJl/hVb4i7oOVxCP6nnHxjJlIwBjPDxNLIPsRFiVn4eanH3Yv8xQdEMrSAbTwaLF0gL1F2AxwTEN67djy+GzrLNXLdRcLD5B/YbyCwCfYknAIBjl46rHT/DJckjgqUH0onplwk0QGNaOc8Pc5kTV+a0uxxTFpgFY81UnZQnEJCugE2l7G2ILAkZ8mf9ASbLgJookpC7qXbQ1+gcbp2taYbeLEmrRUbpmTlllIGfS6MyzfFBvDSep5XaaB6rdLMhR2Ihl3DbvcShnx81SHg9SHz+9xKsiEP1wOSkB+Sg+anPyArFtAgKcfsRl0kt47SKDU3VOv5GYUV3qYQxyTiK5mqDnUFRwoUqziDrTIs/mNWzF1bmMg1u7IRiJzCX+c4zbdrX+edWltk+xICs55Ko7k=;Kdxxnp++b+il2xahYJr8YQ=="
 ---
 

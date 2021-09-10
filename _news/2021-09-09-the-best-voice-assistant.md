@@ -3,10 +3,10 @@ category: news
 title: "The best voice assistant"
 excerpt: "Whether your voice assistant is the hub of your smart home, or simply a smartphone-based helper that tells you if it's raining, the best assistants streamline your relationship with technology."
 publishedDateTime: 2021-09-09T06:59:00Z
-originalUrl: "https://www.zdnet.com/article/the-best-voice-assistant/"
-webUrl: "https://www.zdnet.com/article/the-best-voice-assistant/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/the-best-voice-assistant/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-best-voice-assistant/"
+originalUrl: "https://www.zdnet.com/index.php/article/the-best-voice-assistant/"
+webUrl: "https://www.zdnet.com/index.php/article/the-best-voice-assistant/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/the-best-voice-assistant/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/the-best-voice-assistant/"
 type: article
 quality: 74
 heat: 84
@@ -46,6 +46,6 @@ related:
         height: 300
         isCached: true
 
-secured: "hWGL9lQ0N3K+qnRHvUMiiRnOOv+7wPCpZ/beNBxs9HfBCVPhexx60cIVpfKSBc0w8oBQDm1t73n7O+6nQPEi6ymNRPQW320qe+9vm5JWE6kkmTlbXN4yjuoBA12zbpxTHWr8UdSpzDZ5BrBzDOLfoWMApSq3zc+zGS9TAdftcvmX5PnUER0RPQX5MGsnQjp9I4G75p+j3wdiePPe4O7zVl1bBplM7LwMjhz2ORvWowwB5ilDBzv7eHBM/ppJV3QfI6VXnsBLi6J0+q4NabtMT+vsqVf1MRY44JXlwqXiYAiUsx15jpAg5csmJSc+ha5+1Kckr0+JEID3Yrmik5BehgIEQw9mQtdIEcZYoYXhrpNK0V+PfKCqGw5UO+aBSQlvyOUdTF4WgKF+oXWfcQZKNWuCUsMdfE7b5Pnx78kNdqyM706/ipyuvVbQhA3kpKiVXY83FeK518XkoyWtgnC8HpWjaCPYIVWSVm+LBloiHEeokaCeHAPDSFRu17hjfDrFroBhsmKFaA0wWII2/g0b7Q==;5c9slaccZbNlFWLGfJl7LQ=="
+secured: "UGJOquTXskujaxFvqBFSpQIx8xbWJL1KBEMo6wzVuOEpxXfsM68NtEd/NB7nLYUE8Lk/sXi30WAUsOYHGTu/a8g2jbeaXfxDh/jI820Tp0Oo8btNl+o+h65e58bjvfo1rctprMjh2DowQEyW9vpTjWgF4v20b2Vi09ysCpmLwlE4JdSB+FV1iWMC+64xXlNPwL4rpJBs5otG2DVxpV6iiuiwwqh+F0QtWU6S1CqsMC0Qm0L9X4J4Dt9WGZOQrEiu0xBkNO34kmad6mFq4J72+ipFh40jpxFgXoJdOm6Pozc4GPnqPQjvO1diQt6awjzzkR8+7y38vc74MkU179SnqZcda3wJNnCrZn243aCi+Aw=;fZ/l6n+szlD1dWkz566wTA=="
 ---
 

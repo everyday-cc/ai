@@ -64,7 +64,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://mma.prnewswire.com/media/262200/pillsbury_logo__400x240_.jpg"
         width: 400

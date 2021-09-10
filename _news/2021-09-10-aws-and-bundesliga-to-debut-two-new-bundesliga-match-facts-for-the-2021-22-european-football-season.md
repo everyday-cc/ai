@@ -80,19 +80,14 @@ related:
         height: 1080
         isCached: true
   - title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
-    excerpt: "Business Wire India Today, Amazon Web Services (AWS), an Amazon.com , Inc. company (NASDAQ: AMZN), and the German"
-    publishedDateTime: 2021-09-10T06:22:00Z
-    webUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
+    excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 – 22 season."
+    publishedDateTime: 2021-09-10T05:00:00Z
+    webUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 25
-    images:
-      - url: "https://lh6.googleusercontent.com/proxy/22N99HSpQApw3WDlEPkWXuGF04hH1q5ieicjgf7uWr9IhnsOAZ31HUPL9wPQa9n_ghHdxcKBpV3MQY6O7CpwgWv3S7sTYeIvFnJUkWBvQeVDygN3ShxtmJ5MbqePRh6lMhJbD4rZ3o_r5D5dLhys"
-        width: 480
-        height: 480
-        isCached: true
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 5
 
 secured: "/Q16MNqbnS+Pvsi4w6zFUSu6G8xW4zroIrewLQEHLG6+JQY3sGm0WJoOwRwwgD5RG4AcZnguHkcJ163ztww7YeljcNBxZphH9HwyLK+xrk33kzef08R2IzqSdDpe9mvBEKH+6kWEU66RKiuRiA9X3Gas+a8oSeVUaknBwhvsiMotZKmtMUA2FnQXSHt0Q4mZ25ZCHrNlFIeWS0LgB2p213BNvEYKOmbc8pqnKBCt3xrMbWm08iYarhgxVD65aYoJG78SJb1uKv801OWvnOMGJgVFB2sJAyuOeH2df7CEdNTMDYcmA2BALn0RyuKJ7tJ/UOQx27F7W5/4yg/8OLvZgPe5oEZmzs1Z854c/3/OcDlL8XtLemB7oyLxMBqct8WRjSJe/pKqUUe+s0IR5hXV5kNommA82b+4I+xacPIF5Ab0V4t6xvbZLxYc7exM3y53kJgBZTqHJJvNLN6EYCcYIut/RCvzVw4+qpcF6ULLHuW4Cja06seTFqDnrw2R82RU43TgZftbR4OKrbzpifcTrw==;cB0eI6DLaqc6n5bf8RYzxw=="
 ---

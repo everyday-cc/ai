@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-10T13:07:00Z
 originalUrl: "https://www.stltoday.com/business/subscriber/nicklaus-st-louis-won-t-lead-the-artificial-intelligence-revolution-but-it-can-be-a/article_653345cd-9573-5717-bda5-2170230b1b39.html"
 webUrl: "https://www.stltoday.com/business/subscriber/nicklaus-st-louis-won-t-lead-the-artificial-intelligence-revolution-but-it-can-be-a/article_653345cd-9573-5717-bda5-2170230b1b39.html"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/53/653345cd-9573-5717-bda5-2170230b1b39/613b529ac5a97.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"

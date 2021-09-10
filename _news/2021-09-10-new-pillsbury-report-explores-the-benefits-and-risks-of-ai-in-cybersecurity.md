@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-09T20:52:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/new-pillsbury-report-explores-the-benefits-and-risks-of-ai-in-cybersecurity-1030791330"
 webUrl: "https://markets.businessinsider.com/news/stocks/new-pillsbury-report-explores-the-benefits-and-risks-of-ai-in-cybersecurity-1030791330"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://mma.prnewswire.com/media/262200/pillsbury_logo__400x240_.jpg"

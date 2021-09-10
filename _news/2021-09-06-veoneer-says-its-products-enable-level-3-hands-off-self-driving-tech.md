@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-lev
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06?amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Nasdaq
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Veoneer products enable level 3 hands-off self-driving tech"
-    excerpt: "(NYSE: VNE) and (SSE: VNE SDB), is proud contributor to the Highly Automated Driving solution in the Mercedes-Benz S-class, equipped to offer level 3 hands-off self-driving tech. During the fall, Mercedes-Benz' DRIVE PILOT system is being introduced with greater performance from Veoneer's Stereo Vision and Radar products to support level 3 self-driving."
-    publishedDateTime: 2021-09-06T01:57:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210906io96790/veoneer-products-enable-level-3-hands-off-self-driving-tech"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
   - title: "Worldwide Commercial Vehicle Turbocharger Industry to 2030 - Level 2 Automation Including Active Safety Systems and Driver Assistance are Driving Grow"
     excerpt: "Artificial intelligence (AI ... Veoneer products enable level 3 hands-off self-driving tech Sabio Group Unveils New Brand and Website To Mark Next Stage.. [Car Culture]Ebay Motors Powers 2021 HOT ROD Drag.. [General]Soaring Eagle Announces Extraordinar.."
     publishedDateTime: 2021-09-06T09:00:00Z

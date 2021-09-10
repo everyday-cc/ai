@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202109/1233563.shtml"
 webUrl: "https://www.globaltimes.cn/page/202109/1233563.shtml"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Agile Robots closes $220M Series C funding"
+    excerpt: "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach."
+    publishedDateTime: 2021-09-10T18:47:00Z
+    webUrl: "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2"
     excerpt: "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,"
     publishedDateTime: 2021-09-10T12:56:00Z

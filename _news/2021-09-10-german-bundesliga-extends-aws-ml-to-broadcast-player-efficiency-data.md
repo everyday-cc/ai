@@ -72,20 +72,6 @@ related:
         width: 720
         height: 576
         isCached: true
-  - title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
-    excerpt: "Business Wire India Today, Amazon Web Services (AWS), an Amazon.com , Inc. company (NASDAQ: AMZN), and the German"
-    publishedDateTime: 2021-09-10T06:22:00Z
-    webUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 25
-    images:
-      - url: "https://lh6.googleusercontent.com/proxy/22N99HSpQApw3WDlEPkWXuGF04hH1q5ieicjgf7uWr9IhnsOAZ31HUPL9wPQa9n_ghHdxcKBpV3MQY6O7CpwgWv3S7sTYeIvFnJUkWBvQeVDygN3ShxtmJ5MbqePRh6lMhJbD4rZ3o_r5D5dLhys"
-        width: 480
-        height: 480
-        isCached: true
   - title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021-22 European Football Season"
     excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany's top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 - 22 season."
     publishedDateTime: 2021-09-09T17:53:00Z
@@ -95,7 +81,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 5
+  - title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
+    excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 – 22 season."
+    publishedDateTime: 2021-09-10T05:00:00Z
+    webUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 5
 
-secured: "man7Rw6/AeCMOnAju9FbZH0P/28pupTWVkrsLRiEmQC8iaeyRS5mO2t451ll+2IVEHKYeIDpZgs0TTpmfYx0aoTa4qbI0/CUNT9LWjBZdTR8+hZYFJcmBu0C6xF+D7LkzWCKQCxa6wCH7XdEbTqSBjgrEWj2nmUQC6ZxlsKwLTTFMwbzf3kUxY4oHLoC071b0dnkqleH09evdnWHzeDtWZYuIdfOFo9j//NGzvcUYuedS6t85MaLP/x7m6INrfplItYxS+HUuF8uDurgaE8ubvogi6cuAwWncV4RgH+/XGzonAY2JHqmmIFFPvgSKmp9WDy10PUsJUPi3PUxY/gPQkXc5cTwTBq7BEMBo3WPcBk=;FP6SdxJzfzPnAmpXWNS+TA=="
+secured: "E9flb/lR+4NrGOLQl8eDrak1kdu9xob/jCJzL8bXxAKPRLBjGKd3/DmYlKrRPnCEf/m/H0hVqQxc0Ykl5BfP71lBPBLKlXEONengisQc/t1x4Xco3b50P4SCidqfRQJDvlRK92zc1PwlE+SRPWNC0APUIMM7RwgOmMi+cLz8ERIJErtDQx4ZMrYbz4OFh8v2GkUPwLJH7dQ4C5Pd5J28b8uW6cc5D4u6xQteUEEM5T3odSlatR9S/vSSOjfCMULSqdX9sGVCLBBsZqwBTCtEvm0D3KmIrEUlQtXlJta3RsYpau809XG5mSPYn36Jd5CmOXcVDokDcnY4jbgfK7XboQKZjkmNY2+jNlPft86DvMLcqvzr2IE07nolW8Iwa4d+GgiUMPuQjcwCu7gt9qUgFj9Dw4oAaYMNCaRF3gSAQ2Bn46OfG6AGA/Vqq56W0fM++ul6WBthDIVz0mMksYuLwfoHjtMCoEbXN3dmlBZCddAdUSQDMPnkJ0IR8Un0gp9zE30V+goX6xza6AxtMS4pJA==;YPhT4tHIVcE7LPYOJ2KgCA=="
 ---
 

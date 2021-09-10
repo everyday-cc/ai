@@ -73,20 +73,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Best Ways AI Is Revolutionizing Healthcare Industry in 21st Century"
-    excerpt: "This article features best ways of AI revolutionizing the healthcare industry in the 21st century. The blend of artificial intelligence and robotics in healthcare is useful for the betterment of global society."
-    publishedDateTime: 2021-09-09T13:37:00Z
-    webUrl: "https://www.analyticsinsight.net/best-ways-ai-is-revolutionizing-healthcare-industry-in-21st-century/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Best-Ways-AI-Is-Revolutionizing-Healthcare-Industry-in-21st-Century.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "yZC4fnS9FFFp0rDuGXM21ZVi+pQSMQ+FLCRlnabmOreRT4jTr/CleaRs65KZAlcaniQu/1gzarItGuAlyveVpoRL9JLDBTivH0n5T2yHfQV+kvNEE+o59V5Ik6evzrcRgJ8cT52HGMxpKeHNMysv7+Vk0OFLZyFLreB5w2ZKzZqUa+0PjRjLfKwdMytm0pWtHCMkA5ICp4LaEHmKE8TnQK61++5C5voBbWZFzalK0oppxBoAHqJj1I7KrMo7NU7pQkiOYT3TbUEN35TtlkCq1oKWzB2WJa8hDXdS4F2t4GumzJpCvgm6rmIEDvTrsbuscgaxfQqtHFTe+M9i/ILWpGENZ50+LiOzrlsty9R+CW+IRtVa0BKuNhFa7ejfCvUzd4AE2+u6fpZ9Nox7KOxQrQ6PtSr/ZhCmYQn8BgreApBcJtpK+/dWwWGmb/oQsKnxhmI3gnOk/6O+TJH1YiLGiwdfdqQvvc3d+vJ/+6XG/ig/PJ9gwlROjhvvTT0nXVNv5m511vKevGS6DX59SN4Arw==;VRCk1oleKIz9+NHnVXf8sA=="
 ---

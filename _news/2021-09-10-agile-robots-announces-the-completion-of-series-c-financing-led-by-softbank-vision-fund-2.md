@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Agile Robots closes $220M Series C funding"
+    excerpt: "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach."
+    publishedDateTime: 2021-09-10T18:47:00Z
+    webUrl: "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Agile Robots collects $220 million in Series C financing with Softbank"
     excerpt: "With the DLR as its technical backbone and the core concept of \"artificial intelligence (AI) empowerment\", the company is committed to develop the deep integration and innovation of AI and robotics and expanding the application of robotics in more fields."
     publishedDateTime: 2021-09-07T09:23:00Z

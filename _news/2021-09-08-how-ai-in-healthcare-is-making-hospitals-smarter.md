@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9?amp"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://m.smedata.sk/api-media/media/image/spectator/3/72/7281863/7281863_1200x.jpg?rev=3"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Best Ways AI Is Revolutionizing Healthcare Industry in 21st Century"
-    excerpt: "This article features best ways of AI revolutionizing the healthcare industry in the 21st century. The blend of artificial intelligence and robotics in healthcare is useful for the betterment of global society."
-    publishedDateTime: 2021-09-09T13:37:00Z
-    webUrl: "https://www.analyticsinsight.net/best-ways-ai-is-revolutionizing-healthcare-industry-in-21st-century/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Best-Ways-AI-Is-Revolutionizing-Healthcare-Industry-in-21st-Century.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "sp0zjvLMv/S2sCxvhrsxmOh1NS24/o7J6zuxvpJgpB+NyuZ/tfYTlcdsn+ScSb+f0hE9oUUFVeN+ZSDTETC7gnTzvDc6PzrrHbaYnMoz/oP4hMz5ILZzgUzznh1I5Ro/tg6Rxcf21Kh9NL4HGdgpiZSEGHvRMQn0a24xNXYgbhYvjnDL1ax94fIOIXKkdWvC0PDhCkbIRU+/LGS8XdKlD5QD3COwayY7ky+XGl4PoCk7SlmPlYb3t67+QiP9Md7nXgvgcp3vmhCMPMTVzSQ4XXZHHcRrDHl5f4L1TxGX1mEHgIv9sm9nhvuO5sBjtBKHGwtUnIzR5y68cCZiQ6J9AoQpuIbBuOV3aFmGKIbVZVEdrBb7Ic8o7oNzhB8xdD0uWg6ei1vintLQJS4SmtrS0ztU266YQ9C5ICEkOC/eyK2kPWcMRrPudrNZ9tehVu4zBlhFUPDoo0Hy31k6WqiLOAwET6mtgyXV0EpPZADiKpibUbKeCOujS/n256Enz7Da9bZohiQjkaC37llrWuN7VA==;KNx5kqXh8yU7WHee3NG1pg=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/06/is-artificial-intelligence-set-to-take-over-the-art-industry/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,35 +30,65 @@ images:
     isCached: true
 
 related:
-  - title: "Retail Set to Overtake Banking in AI Spending"
-    excerpt: "The continuing e-commerce surge is among the factors driving the sector to invest more in the technology."
-    publishedDateTime: 2021-09-07T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/retail-set-to-overtake-banking-in-ai-spending-11631007001"
+  - title: "In the US, the AI Industry Risks Becoming Winner-Take-Most"
+    excerpt: "A new study warns that the American AI industry is highly concentrated in the San Francisco Bay Area and that this could prove to be a weakness in the long run. The Bay leads all other regions of the country in AI research and investment activity,"
+    publishedDateTime: 2021-09-08T11:00:00Z
+    webUrl: "https://www.brookings.edu/research/the-geography-of-ai/"
+    ampWebUrl: "https://www.brookings.edu/research/the-geography-of-ai/?amp"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-geography-of-ai/?amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: brookings.edu/research/the-geography-of-ai/
+      domain: brookings.edu/research/the-geography-of-ai/
+    quality: 157
     images:
-      - url: "https://images.wsj.net/im-396252/social"
-        width: 1280
-        height: 640
+      - url: "https://www.brookings.edu/wp-content/uploads/2021/08/shutterstock_1201834804.jpeg"
+        width: 5555
+        height: 3125
         isCached: true
-  - title: "9 Reasons Why Fintech Will Take Over The Banking Industry"
-    excerpt: "The introduction of Fintech or financial technology was back in the 1950s when credit cards came into existence. Next, internet"
-    publishedDateTime: 2021-09-07T16:24:00Z
-    webUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/"
-    ampWebUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
+  - title: "16 Business And Industry Functions Being Transformed By AI"
+    excerpt: "AI is helping companies protect employees and customers, maintain their stock, develop new products and services and more."
+    publishedDateTime: 2021-09-09T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/09/16-business-and-industry-functions-being-transformed-by-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/09/16-business-and-industry-functions-being-transformed-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/09/16-business-and-industry-functions-being-transformed-by-ai/amp/"
     type: article
     provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techbooky.com/wp-content/uploads/2021/09/what-is-fintech.jpeg"
-        width: 990
-        height: 556
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a103c8afd32342a619370%2F0x0.jpg"
+        width: 1200
+        height: 562
+        isCached: true
+  - title: "Best Ways AI Is Revolutionizing Healthcare Industry in 21st Century"
+    excerpt: "This article features best ways of AI revolutionizing the healthcare industry in the 21st century. The blend of artificial intelligence and robotics in healthcare is useful for the betterment of global society."
+    publishedDateTime: 2021-09-09T13:37:00Z
+    webUrl: "https://www.analyticsinsight.net/best-ways-ai-is-revolutionizing-healthcare-industry-in-21st-century/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Best-Ways-AI-Is-Revolutionizing-Healthcare-Industry-in-21st-Century.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Using Artificial Intelligence in violin making"
+    excerpt: "In the September 2021 issue, Sebastian Gonzalez investigates artificial intelligence (AI) software to examine violin forms"
+    publishedDateTime: 2021-09-10T10:14:00Z
+    webUrl: "https://www.thestrad.com/lutherie/using-artificial-intelligence-in-violin-making/13624.article"
+    type: article
+    provider:
+      name: The Strad
+      domain: thestrad.com
+    quality: 39
+    images:
+      - url: "https://dnan0fzjxntrj.cloudfront.net/Pictures/1024x536/0/7/8/23078_22516_figure2thicknessviolin2_310275_125716.png"
+        width: 780
+        height: 347
         isCached: true
 
 secured: "Ipbj+ERgebtkOADGfWwY13w7W3IojkjlXCC4CF3CsQl1kU/oh7XAV5TBEDyElmZf7z9f5xXdEnnYPUp/sPv2ITLnts3ItWnZXk/5wnWPN2Z4y9Zf13sGJuZda6xxqHz0742gokoadxQyd/Xoi7FpR38lLVlh3w3nJeUmbuG5XTQfeP+4BvjPXJ6ik1cI7rS7iVokyV+rJxchX6CHKHqvnO43p+GLNB2XEsyrxZF8DqDGNQ3wgU7XBdY2lWL6L3DxuZRFkEYYsNMukfcF8aMmXcEM40tws+rucY8lMTtwj7GpaQHQeP+FnQ4lxlBWwwNUxMBQ7+pkxD8PlyFUtbsG3xidts3ER9dWdJnZw6pGlBqcLb+fkuWpdDReZw0tzqvVrsT0JcDoacXAUyvGdStlT3yvegyW9WphJzrQndiX+aJm9OUESvjrJwFFzGvRgCBFbK8bRHWlkM9ChIP7WyBanq0WIs4N6NpNrkBhreQZib2lPcMnvnYpaK/SXT9Ae+ijIAW5TAUJzT246qlV54nxTg==;DkH6C2WC6VMsDPfTEIsWDg=="

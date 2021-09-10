@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Microsoft combines federal team with Azure cloud unit"
+    excerpt: "Microsoft is set to combine its U.S. federal arm with its Azure cloud team and create a new subsidiary as part of a reorganization of the technology giant’s U.S. public sector operation. In an email to staff Wednesday,"
+    publishedDateTime: 2021-09-10T19:05:00Z
+    webUrl: "https://www.fedscoop.com/microsoft-combines-federal-team-with-azure-cloud-unit/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
   - title: "Microsoft, Australian Institute for Machine Learning, to process data in space"
     excerpt: "Microsoft and the Australian Institute for Machine Learning have signed a deal that will radically change how satellite data is handled in space."
     publishedDateTime: 2021-09-08T13:30:00Z
