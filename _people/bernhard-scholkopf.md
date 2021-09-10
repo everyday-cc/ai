@@ -2,7 +2,7 @@
 name: "Bernhard Schölkopf"
 bio: "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar"
 type: "profile"
-heat: 102
+heat: 65
 
 affiliation:
   name: tuebingen.mpg.de
@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: bschoelkopf
   url: https://twitter.com/bschoelkopf
-  followers: 7574
+  followers: 7572
 
 googleScholar:
   url: https://scholar.google.com/citations?user=DZ-fHPgAAAAJ
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Bernhard Schölkopf"
 
-secured: "kLIrJstC63ejTEli1zoB7eb3GZUBCnShmDCPq/9U3pxwe6MuSRIJ4V+PwIc2Wx6xnsbEtYwLXfkduRdExu6XGOjPP6UIHD1ZiJZf7D4X8sgpvP1rSF7laWmlNSqQwr15hNeN5Kqspj+XPQl4MMxmWb31zWnh5r5lOEGtvAvPbtWHDVtU6VbDAZS+6RaOrzEkj4DBKe/7vKyKVGA9gU/TkKg4T9E16Fa2f0Sdfz6Qu3YkT7Y3VxWxR2gUh9pbQwMbW3xpjfjJWpLc9ZUEETAJZuzo5i1eZ47UFbd5l3O3Gn/cSj/UE58PjgHoJ/pvo4aeKOYaqjORA31uLTkJiiY07OZQ18ETCOjMkE64Ts4Bxu5tcKc0j28alSouvSD3YinejVPcREcBlXXKJnR0aMLGIQHL5zYqeQOKN6YRmW2oeOc=;Bl4beqQ4E1DS1V8Mh/O4Yg=="
+secured: "YDxJTZdsQUQiPsaRaihfMIHfthfZCCV0e4/fgnMksFJ2VswyyAwVjNEU3ofNUFJ0tEkl8UC7Nk2g3NMgyQH7AzFbdpeF6beZZZklPlnk0P7BqzO8PXalkcabto47kBjigXPWMEmbRd8Yj412QTOwVQc9E3y3YHTA/6vgnMSc5MTubgUXWAmYfmRfYftivGEd8Zm4AmYUPwNQtyFZX0eLXas3tV+o/rDE5fsd1Py/c15ZBzBemS7sX5wallJ5jUWuYVOdbOt6MWKHrB/jvXsaw2jxYMnPCiPvFtYgJIGX3Jn4zIfPGsVP1HYvYNCkXg11J3DqSOuMAAwkXyhbj64/tmUXjk99OkZPerc7DQc18MzGUkAdLTOkkClinBGxhojtmhl9HFaq0JfIgo1M+SHSwOfwiBLBHCTTB1Aa63RBWyk=;jVpa+pTlyteqPOmTooCl3w=="
 ---
 
