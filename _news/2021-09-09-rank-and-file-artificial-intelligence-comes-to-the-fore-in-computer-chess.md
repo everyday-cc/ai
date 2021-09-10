@@ -9,7 +9,7 @@ ampWebUrl: "https://evanstonroundtable.com/2021/09/08/rank-and-file-ai-chess/"
 cdnAmpWebUrl: "https://evanstonroundtable-com.cdn.ampproject.org/c/s/evanstonroundtable.com/2021/09/08/rank-and-file-ai-chess/"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 501
     height: 511
     isCached: true
+
+related:
+  - title: "AI can now write its own computer code. That’s good news for humans."
+    excerpt: "As soon as Tom Smith got his hands on Codex — a new artificial intelligence technology that writes its own computer programs — he gave it a job interview."
+    publishedDateTime: 2021-09-10T11:21:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai-can-now-write-its-own-computer-code-thats-good-news-for-humans-7501040/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai-can-now-write-its-own-computer-code-thats-good-news-for-humans-7501040/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ai-can-now-write-its-own-computer-code-thats-good-news-for-humans-7501040/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2021/09/AI-SELF-CODING-2.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "0a7iKVEKQvzacVjaZQ/Fq159L40rU6WVioEaQuyS8Y3gv3JDT+QR8XW6ubfsAr6Q/InZfBZAQ4+rejD+eKcUB4d2OLRyzax8V+f5AFIkeG8IOkyCKFef0EQo6SvlXxEhlb+EdzxRqSTEIhnnZcMxT27hKgEyQ6gyGiiEpcR2qF4eGTdYoto+7yOUq9z6puAjX9eFXzhFAzbpmbMd9jVM2wHxcdteXp5UJkaYSZSD1vapDB9KSt/b0z1PFunMuhoEhXZo2b5M6kunSQMhpoddbpRBPm/zhQ8+t6k+xuMxUnEi6d49zQ+dCNI3hBo499T9hiOhmFGy2aLWFTl2QuKCNKpc7nrbryc6sir42LI57b69DiqAk5Xf353taV8NC80mxvkFWDwl4DJ0a4YWQvkHPymADV/zxEjtigh6HIxIywmvz3mujXwvwyZA/ANVYfOfVko7ppGkMF17S4yJVqQNv9FzrakoX4Lh9lD/0fgfeHmHFTZEPBYwsXKLtREvKhJQiVscB1uVmybycxS4n35XKQ==;mfGWIvPC0H+J9eOsdXS8iQ=="
 ---

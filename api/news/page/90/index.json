@@ -2,6 +2,126 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2021-07-06-protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money.md",
+      "title": "Protenus and UC Davis Health Present at HIMSS21 on Leveraging Artificial Intelligence to Reduce Risk and Save Money",
+      "excerpt": "Healthcare organizations across the U.S. are struggling to protect their patients and workforce from unnecessary harm, as health data breaches and clinical drug diversion remain a constant threat, especially during the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-cyberlinks-facial-recognition-technology-partners-with-asus-edge-computing-single-board-computers-to-create-smart-iotaiot-applications.md",
+      "title": "CyberLink's Facial Recognition Technology Partners with ASUS Edge Computing Single-board Computers to Create Smart IoT/AIoT Applications",
+      "excerpt": "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced a partnership with ASUS, by integrating its FaceMe® AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "originalUrl": "https://www.businesswire.com/news/home/20210706005212/en/CyberLinks-Facial-Recognition-Technology-Partners-with-ASUS-Edge-Computing-Single-board-Computers-to-Create-Smart-IoTAIoT-Applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-chinese-scholars-want-a-voice-but-must-beware-being-counterproductive.md",
+      "title": "Chinese scholars want a voice, but must beware being counterproductive",
+      "excerpt": "Some say a Chinese theory of international relations is needed to frame China’s thinking, but justifying a party-state system may be difficult internationally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "originalUrl": "https://www.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2021/07/06/7dc6bc4a-de2a-11eb-9efd-49da69ae692d_image_hires_204833.jpg?itok=6wSAw6Bv&v=1625575720",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3140066/chinese-scholars-want-voice-must-beware-being",
+      "publishedDateTime": "2021-07-06T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-boosting-online-grocery-sales-and-enhancing-merchandising-through-ai.md",
       "title": "Boosting Online Grocery Sales And Enhancing Merchandising Through AI",
       "excerpt": "If you’re trying to find an AI-driven inventory management solution that’s right for you, make sure the system you choose can keep up with customer demand in real time and can integrate seamlessly with your current POS system.",
@@ -983,143 +1103,6 @@
         "Microsoft AI",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.md",
-      "title": "Scientists take mind-controlled robot for a stroll (video)",
-      "excerpt": "What if you could control a robot -- wait, don't answer yet -- with your mind? Pretty great, right? That's what the Virtual Embodiment and Robotic Re-embodiment (VERE) group is working on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2012-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.html",
-      "originalUrl": "https://www.engadget.com/2012-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/.3bO_b82yaQWyeezytpmKQ--~B/aD0zMzc7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/07/mind-robot-israel-overlays.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
-      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
-      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
-          "width": 1314,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones.md",
-      "title": "AI bot trolls politicians with how much time they're looking at phones",
-      "excerpt": "Sure, we've all snuck a look at our phones in dull meetings. But if you're working on the taxpayer's dime, you'd better be ready for artificial intelligence to call you out for gawping at the black mirror in the legislature when you should be,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/flemish-politicians-ai-phone-use",
-      "originalUrl": "https://mashable.com/article/flemish-politicians-ai-phone-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/06Nv8svnO4f4pd21gJgLeAE/hero-image.fill.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-05T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

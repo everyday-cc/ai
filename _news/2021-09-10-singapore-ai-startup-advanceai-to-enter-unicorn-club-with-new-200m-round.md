@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Singapore AI startup Advance.ai to enter unicorn club with new $200m round"
-excerpt: "Singapore-headquartered tech startup Advance.ai is raising about US$200 million in a funding round that will propel it into a small group of Southeast Asia unicorns,” said a Reuters report, citing sources."
-publishedDateTime: 2021-09-09T23:35:00Z
-originalUrl: "https://www.techinasia.com/singapores-advanceai-enter-unicorn-club-200m?comments=true"
-webUrl: "https://www.techinasia.com/singapores-advanceai-enter-unicorn-club-200m?comments=true"
+excerpt: "Advance.ai has landed Warburg Pincus as the lead investor of the fundraise. Using AI-driven technology, the startup offers digital identity verification, fraud detection, and credit scoring, among other services. Currently present in Southeast Asia and ..."
+publishedDateTime: 2021-09-10T01:24:00Z
+originalUrl: "https://www.techinasia.com/singapores-advanceai-enter-unicorn-club-200m?ref=recommender-705626"
+webUrl: "https://www.techinasia.com/singapores-advanceai-enter-unicorn-club-200m?ref=recommender-705626"
 type: article
 quality: 45
 heat: -1
@@ -67,6 +67,6 @@ related:
         height: 628
         isCached: true
 
-secured: "bcU0S2kxCkqzI99q5Zk3C6c2YSXzv/0DoLjmF//5nfIcLPSFukLf9gCnreKGBaaNQLXPJYBokFz1Ggny1t2QYQ27gm0dXIthdl7pCZiyOwgdjhz2YJx7zoFRxiEbnQ8hGMQUaTeafNVYmU0ARuvhj7IleCZsEZYWsvth2lVfc9fjsUouSeQFYiOQd7YuOxrAv1eB8EzV2LAQIkSfgxMDwlkiWkNRUsJDXQ0GSdpsMazZUBtqBB4XydIW9VyjE4AwA3GLSH4ikY1KSBN/NeewSNSL/D4qx01hUNseOaugxIlVeM/55Uft4Nm/UBKzktP+R+kU2y3J5COmmajVKGgySooBChIcwnYoM98yT++PT6VMJLDKiDsz7uHjBqBqHVzyg7Px1rLU6fUzQCAo86ULl2NRiQsDmAYcf46h7z/vOgPr7MR716Gfy6NUMScVtE0TOTuSvyXvoe+KR3J9W7874+n1ngMTT2oqrWo8bBgwgyLr/3CWk9bwz7GBnAMzdGGUsdPta90e4oCWwVUPKw/LCA==;Y3bEr6voj4UV3/JkKcu4VQ=="
+secured: "xEAVOdu2vr/aSS7Ki7NBZdVyxXQWsJZ4MbE4d8CwvFY1Tuh7wDvf+OhKVlVyBTiZAgIOTAcbm28zUE86dET2FnI1i3KRwX06lG2cs6cBEib4X/F9QrCcvdxc9FQGHQbGRRxySajQrcTtzP6JcHua2/DSXza+diF5/grsJPw8CkZiRUzFTnLCUfQ8WqwssZ+4H2dtFL4xaMsohBCepUc5hvA9qSISVTirxZ0+uxtK5oFAFHcED828pdA7Emp31TtwTrq7YRTUtt28V+nEzrNjCiw3dpeeal+c1JsElbLreKGc5crV2Xou43QS0S9SbVu4wTpq2POaKQGNvxRCr0nJza04IzSsdgkmDjpp5rTj27iALSuzPPefmLrpfLFoq3s09EfR2hk2AcSXP7enP+2M4YfkRB45PM1xY03t6rtDCEHkWO94sx0oE9/T9DyMzvMfAWmlyHhulrHM+2tcqLlHlLF0UiRxbn8ux6jvbyX8DYLRcntMALu61YQ7yGlbwyRAYIhHChgGyONyZLE64RHM0w==;RU7LfcftzKKeFNkZIa3J6w=="
 ---
 

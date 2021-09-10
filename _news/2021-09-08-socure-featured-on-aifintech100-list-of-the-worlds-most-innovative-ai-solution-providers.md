@@ -74,6 +74,15 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "Crediwatch named in 100 most innovative AI fintech companies"
+    excerpt: "The AIFinTech100 list helps executives in financial services to locate business model that are most likely to have a lasting impact on the industry"
+    publishedDateTime: 2021-09-10T11:02:00Z
+    webUrl: "https://www.ciol.com/crediwatch-named-100-innovative-ai-fintech-companies/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 19
   - title: "Enova To Virtually Participate in Panel at the JMP Securities Fintech Forum on Artificial Intelligence"
     excerpt: "will virtually participate in a panel titled \"How AI is Rewiring Risk Analytics\" at the JMP Securities Fintech Forum: Artificial Intelligence on Friday, September 10th, at 12:15 pm Eastern Time. A live audio webcast and archive of the panel will be ..."
     publishedDateTime: 2021-09-08T22:17:00Z

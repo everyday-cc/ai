@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How Companies Can Get the Most Value Out of their Data"
+    excerpt: "Most organizations know that there’s huge value in using business analytics to parse their data. But many are just starting to see how much more they can get by applying machine learning (ML)"
+    publishedDateTime: 2021-09-10T00:00:00Z
+    webUrl: "https://www.geekwire.com/sponsor-post/companies-can-get-value-data/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 54
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/09/bigstock-Digital-Marketing-Concept-In-F-381005381-630x419.jpg"
+        width: 630
+        height: 419
+        isCached: true
 
 secured: "HtNj3AwDiWrwGbJ8dYJNevDJ+T09552YlXgen6e1FsnvOS2+jTxRKfPJHmY0lFw0JWUtihAxUcA1tW0DAHVjJUrOof6E6M7Pycl8tG2YRF2ZnjHGv4H5TL269qLIKjQZObANJGiRGL03DK+aZk74eSupi2rsrAjoSrUd0vwKV/RtWjrPuGTCGutE7nFJji6m9ixkk6Lf8/x0ObPYnjYQeQYOA4duLz6g9iBkX68eXLtaYVIg/7e0FKSbachk0DSF1xpril2oNVaGljjK4iTTaAHaYRkF1ACGkghginhWPGmCjiJCSQh9fk7wjT0ZvdEjb7s4+KT7WopriaM0+w2MMwlzzAKCcJrbdjZjvQCJJT5G697m9LgU2mRJ2CJrYtwbkqdGJPWQ4Y9ubIzTEXxHA52SR7dZMgFpivMPf76k/NcltjBgARFR88luQkpXrSqqMhMnlQh83/4QAl9P577nXG0Pl/B4LEvteMbNhTCg+GbjDtUm8pmILbLJHLaNRC7AN9Nhqw4/3bKxP4vhWsMpsA==;ePd6Xji4Ba59n+ewP8y8+w=="
 ---

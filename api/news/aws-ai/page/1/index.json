@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-09-09-the-development-of-bundesliga-match-fact-passing-profile-a-deep-dive-into-passing-in-football.md",
-      "title": "The development of Bundesliga Match Fact Passing Profile, a deep dive into passing in football",
-      "excerpt": "This post was authored by Simon Rolfes. Simon played 288 Bundesliga games as a central midfielder, scored 41 goals, and won 26 caps for Germany. Currently, he serves as Sporting Director at Bayer 04 Leverkusen, where he oversees and develops the pro player roster, the scouting department, and the club’s",
+      "path": "_news/2021-09-10-aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season.md",
+      "title": "AWS bringing two new advanced statistics to German Bundesliga broadcasts for upcoming season",
+      "excerpt": "Amazon Web Services is rolling out two new Match Facts for the German Bundesliga during the 2021–22 season, bringing new advanced statistics to the game broadcasts and the official Bundesliga app. The two new statistics -- Shot Efficiency and Passing Profile -- will provide fans with deeper insights into the number of goals a player or team should have scored based on the quality of their chances as well as information on the pass quality of a player or an entire team.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/the-development-of-bundesliga-match-fact-passing-profile-a-deep-dive-into-passing-in-football/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/the-development-of-bundesliga-match-fact-passing-profile-a-deep-dive-into-passing-in-football/",
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/08/4-5730.png",
-          "width": 564,
-          "height": 381,
+          "url": "https://www.zdnet.com/a/hub/i/2021/09/10/2f3deb22-3626-4413-b5b9-0f5b2bf4a2ac/bmf-passprofiles-2clubs-5.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T09:01:39-07:00",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
+      "publishedDateTime": "2021-09-09T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {

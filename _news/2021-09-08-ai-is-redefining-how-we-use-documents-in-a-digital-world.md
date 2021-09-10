@@ -91,19 +91,19 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "The man making antibodies smarter"
-    excerpt: "Using artificial intelligence, Biolojic Design founder Prof Yanay Ofran believes he can produce antibodies that are a match for any disease. Prof. Yanay Ofran's amazing story about the pursuit of an antibody that will save the world from disease Shlomit Lan and Gali Weinreb Professor Yanay Ofran,"
-    publishedDateTime: 2021-09-05T18:27:00Z
-    webUrl: "https://en.globes.co.il/en/article-The-man-making-antibodies-smarter-1001384147"
+  - title: "Using Artificial Intelligence in violin making"
+    excerpt: "In the September 2021 issue, Sebastian Gonzalez investigates artificial intelligence (AI) software to examine violin forms"
+    publishedDateTime: 2021-09-10T10:14:00Z
+    webUrl: "https://www.thestrad.com/lutherie/using-artificial-intelligence-in-violin-making/13624.article"
     type: article
     provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 24
+      name: The Strad
+      domain: thestrad.com
+    quality: 39
     images:
-      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1629825125/direct/%D7%99%D7%A0%D7%90%D7%99_%D7%A2%D7%95%D7%A4%D7%A8%D7%9F_12_EIZ_3259_o9atnl.jpg"
-        width: 800
-        height: 392
+      - url: "https://dnan0fzjxntrj.cloudfront.net/Pictures/1024x536/0/7/8/23078_22516_figure2thicknessviolin2_310275_125716.png"
+        width: 780
+        height: 347
         isCached: true
 
 secured: "XaKuN/4ULHbFQJAHd8+YZ5kithEyNKcORfvYwNDqmXj+oUwJF3eUPI+1pBXWN9OXjBtxuatas+tY37vrORMtF4bs9nlqeu4BwoTyczPkM7S31HieAyKHQjTMMpFY/cOhJMBbxMmce8iUmqWXeNuy765OyBtRnsSmXf9HgCurTxJpZZ4XUcIUU4pyIoMy5koxzTJ+pIx6tC/P/GhjqnrmZ8wdZmreuUyYCR0Lk3wTpOwqyjkW3KuyM5OGyQmxIUhHopKnijkKxo8QlPGDb3bdJSby3r7fh8cHmpjDf2iMUNK1m/ib2CEykkwwyyrWmPBSAce/Aaxk5XICsYP1Tvxv3qU1yHqxDim4/NjO3jXmXwkjDijdGa11PyjWYpcWUixzn3nGoAQbhlnAOZsqX+aKel1Qf4S+/xwnwlK7AmmbvpkV4HqnaEtMSLk9jbq5NMlr7cy7DXZNfFpkGa0Vyj23MY7gUhxtADghgVF5LP0JklPXqXtu/RZgzSCuYCpXLzcxb2j8W8cp6dEuISzjOLrElg==;h9IzxUGN1zq4lUg4RxjtlA=="

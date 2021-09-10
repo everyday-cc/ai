@@ -87,19 +87,19 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "The man making antibodies smarter"
-    excerpt: "Using artificial intelligence, Biolojic Design founder Prof Yanay Ofran believes he can produce antibodies that are a match for any disease. Prof. Yanay Ofran's amazing story about the pursuit of an antibody that will save the world from disease Shlomit Lan and Gali Weinreb Professor Yanay Ofran,"
-    publishedDateTime: 2021-09-05T18:27:00Z
-    webUrl: "https://en.globes.co.il/en/article-The-man-making-antibodies-smarter-1001384147"
+  - title: "Using Artificial Intelligence in violin making"
+    excerpt: "In the September 2021 issue, Sebastian Gonzalez investigates artificial intelligence (AI) software to examine violin forms"
+    publishedDateTime: 2021-09-10T10:14:00Z
+    webUrl: "https://www.thestrad.com/lutherie/using-artificial-intelligence-in-violin-making/13624.article"
     type: article
     provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 24
+      name: The Strad
+      domain: thestrad.com
+    quality: 39
     images:
-      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1629825125/direct/%D7%99%D7%A0%D7%90%D7%99_%D7%A2%D7%95%D7%A4%D7%A8%D7%9F_12_EIZ_3259_o9atnl.jpg"
-        width: 800
-        height: 392
+      - url: "https://dnan0fzjxntrj.cloudfront.net/Pictures/1024x536/0/7/8/23078_22516_figure2thicknessviolin2_310275_125716.png"
+        width: 780
+        height: 347
         isCached: true
 
 secured: "BbnTNCb4ZE4tVc/kS636RhHLJIKZeipWhXPciWCQnp6YF1n/a2V3yPu/o1GoJnT6UtwzS6hEp0c+7+GxnKt8kW2b1CZQKTRd+G7zCwZndQIQySrfFKwzKRfbsPAITrkk8h0Qr/CNQuOVskTW5RMFUlNSNnWU0A6G48pJ7JAJuKOspTmNtOw0+zzXP5dowD6inIvkKGUx00f2Bu+XR2oWEMvHw0d+4DH1E8X+EaQeXotfAHkQfW9jSu8xno9aHcxlygOQMsvc2/5/050R5Q64U0oMtNjGM+A+dOEqcqNR8mdtb4Ht4Kf1pZcDfoGD7BnHP2e3+HtBnEic3tP9406qu9dY53RG5S7LTYO3Y4OLdLk=;5qIEs9f7T3yGEriwWLYX6g=="

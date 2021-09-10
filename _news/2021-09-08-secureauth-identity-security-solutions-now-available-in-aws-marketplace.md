@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "EagleAi SaaS Platform for Fraud detection, Compliance, and Trading Risk Management is now available in AWS Marketplace"
-    excerpt: "EagleAi LLC, a provider of advanced Risk Management solutions using Artificial Intelligence and Machine Learning, announced today that EagleAi Trading Risk, Fraud Risk,"
+    excerpt: "EagleAi LLC, a provider of advanced Risk Management solutions using Artificial Intelligence and Machine Learning, announced today that"
     publishedDateTime: 2021-09-08T11:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/eagleai-saas-platform-for-fraud-detection-compliance-and-trading-risk-management-is-now-available-in/article_d5d622bb-272d-534c-af49-5aee371615c8.html"
+    webUrl: "https://www.prnewswire.com/news-releases/eagleai-saas-platform-for-fraud-detection-compliance-and-trading-risk-management-is-now-available-in-aws-marketplace-301370924.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 30
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/c3/ec35379d-07d8-503e-a655-91cb282a2458/61389f143302f.image.jpg?resize=703%2C492"
+      - url: "https://mma.prnewswire.com/media/1610357/eagleailogo_Logo.jpg?p=facebook"
         width: 703
-        height: 492
+        height: 367
         isCached: true
   - title: "Upstream Works Assist knowledge management is now available in AWS Marketplace"
     excerpt: "Upstream Works Software Ltd., a provider of cloud-based omnichannel contact centre solutions, announces that Upstream Works Assist knowledge management is now available in AWS Marketplace. AWS Marketplace is a digital catalogue with thousands of software listings from independent software vendors that makes it easy to find,"

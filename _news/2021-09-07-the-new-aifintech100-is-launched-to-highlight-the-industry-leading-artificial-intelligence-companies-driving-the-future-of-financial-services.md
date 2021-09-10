@@ -84,20 +84,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-    excerpt: "Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and banks, has been recognized as one of the leading AI solution developers in financial services by FinTech Global,"
-    publishedDateTime: 2021-09-08T14:11:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4a5ff55dc3ff4f0cac09fa874a6ede89"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Broadridge Financial Solutions Appoints Fintech-focused Fixed Income Specialists"
     excerpt: "Broadridge Financial reveals that Ted Bragg, Jim Kwiatkowski have joined LTX, a Broadridge firm providing an online trading platform."
     publishedDateTime: 2021-09-09T02:15:00Z
@@ -198,6 +184,15 @@ related:
         width: 1200
         height: 719
         isCached: true
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "\"Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
+    publishedDateTime: 2021-09-08T14:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
     excerpt: "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
     publishedDateTime: 2021-09-08T17:51:00Z

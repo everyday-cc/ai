@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-26-better-together-striking-the-balance-between-artificial-and-human-intelligence.md",
+      "title": "Better Together: Striking The Balance Between Artificial And Human Intelligence",
+      "excerpt": "The past decade saw artificial intelligence (AI) advance by leaps and bounds. From the birth of Alexa to its application in vaccine development, AI has radically altered our personal and professional lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049320a6efcb28d45029f3c%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/amp/",
+      "publishedDateTime": "2021-08-26T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valleya.md",
       "title": "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ",
       "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
@@ -1365,59 +1417,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-tesla-ai-day-might-rely-on-one-more-thing-moment-to-be-impactful.md",
-      "title": "Tesla AI Day might rely on ‘one more thing’ moment to be impactful",
-      "excerpt": "Tesla is holding its ‘AI Day’ today and the automaker might have to rely on a ‘one more thing’ moment for the presentation to be impactful and move the needle. Over the last few years, Tesla started holding events,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/",
-      "originalUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-snake-charger.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/",
-      "publishedDateTime": "2021-08-19T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

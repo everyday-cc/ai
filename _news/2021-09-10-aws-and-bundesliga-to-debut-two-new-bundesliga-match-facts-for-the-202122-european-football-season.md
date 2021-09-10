@@ -1,30 +1,40 @@
 ---
 category: news
 title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
-excerpt: "Business Wire India Today, Amazon Web Services (AWS), an Amazon.com , Inc. company (NASDAQ: AMZN), and the German"
-publishedDateTime: 2021-09-10T06:22:00Z
-originalUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
-webUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
+excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 – 22 season."
+publishedDateTime: 2021-09-10T05:00:00Z
+originalUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
+webUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
 type: article
-quality: 25
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: indianweb2.com
-  domain: indianweb2.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://lh6.googleusercontent.com/proxy/22N99HSpQApw3WDlEPkWXuGF04hH1q5ieicjgf7uWr9IhnsOAZ31HUPL9wPQa9n_ghHdxcKBpV3MQY6O7CpwgWv3S7sTYeIvFnJUkWBvQeVDygN3ShxtmJ5MbqePRh6lMhJbD4rZ3o_r5D5dLhys"
-    width: 480
-    height: 480
-    isCached: true
-
 related:
+  - title: "AWS bringing two new advanced statistics to German Bundesliga broadcasts for upcoming season"
+    excerpt: "Amazon Web Services is rolling out two new Match Facts for the German Bundesliga during the 2021–22 season, bringing new advanced statistics to the game broadcasts and the official Bundesliga app. The two new statistics -- Shot Efficiency and Passing Profile -- will provide fans with deeper insights into the number of goals a player or team should have scored based on the quality of their chances as well as information on the pass quality of a player or an entire team."
+    publishedDateTime: 2021-09-10T04:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/09/10/2f3deb22-3626-4413-b5b9-0f5b2bf4a2ac/bmf-passprofiles-2clubs-5.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The development of Bundesliga Match Fact Passing Profile, a deep dive into passing in football"
     excerpt: "This post was authored by Simon Rolfes. Simon played 288 Bundesliga games as a central midfielder, scored 41 goals, and won 26 caps for Germany. Currently, he serves as Sporting Director at Bayer 04 Leverkusen, where he oversees and develops the pro player roster, the scouting department, and the club’s"
     publishedDateTime: 2021-09-09T16:01:39Z
@@ -65,6 +75,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "/crW6A39mKxzTXTiO7euveBbbzZPdTylESCeIFurM/ao2UinzXWTP6oM8D2otiQ33YgS8fBNY3YV2JfAibz93ZlWjCkRbjwLezenL8OSbcIBs7YeUZd0z4kKIM9O6vn3njXyZTA9b50t9XZbE244eIMxUT+VSdxzg4VPrWX13rHnUvD1F78RegDl9P7KREzEnGVmtgvd+0SqGjnX2hCqlikYcnB8xAKH9B/llynV+foSwtgsqqfRD3695j7Anx6Uev1C3HBmVDYlQKcSC3z9wpFrw96RzYTiAxlD5N+Rgc6FULhSqmUlbs9dc60FKt8cU0g9HUXo0p8EveBwF+pZiC7N+xUGJXQL0VaapY0JWJg=;4BMCnNRYfO/u7rZu/+tQyg=="
+secured: "lKre3/eB4eiA8gUzedCDJmARSJkJgZUKXk9XQ/OWt3xBzz6bKMj/exoK2c5/v/+CL9cJUCSHKgCe+43ZZRXWNRZUu6EfBLetCYworT9BUVn4J01XWlOtx9FfNmwTC6yYU813++TLWH2lWAevCO4WgS3YxlOq9akUAJHHVTp/WR/cmSys6ANNsWCUpMA0TEiE+IIP32O4w9kz0pLuqKAE+3tvQvVcsL6LQQ8kaoTNBpbyTCy7ezNOqcbGERpvazmTx4c6+jtq/qyo0jY6RcnJ3AZHyAB4FRsCDEU9cfVme8r8WolO2ZrjyPGBxzCMM6XlAB8M4toDWuyIpwyidA4nH2XoERbO1BEkPhOkT/xbY69Ei1ib4pm0CP5cakUWCzMf3BGtsgTvS5gIYX+UoDTaYRnvwtwytki/6ZggroFbikx1uWYvafwEmsn3xVd557ztpKgV8tqcLfE5loDnFzvdk9AOvEIO6QAm9HHZ2TJKsYSWPiPTrNLaiJxBD27GbQTqiRvbTR8aH8zXZCuo4ohX2Q==;YwbisRkxFqFYDIK7B9pLCw=="
 ---
 

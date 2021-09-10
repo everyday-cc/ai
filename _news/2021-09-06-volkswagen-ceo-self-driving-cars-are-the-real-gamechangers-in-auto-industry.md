@@ -41,22 +41,6 @@ related:
         width: 3600
         height: 2400
         isCached: true
-  - title: "Volkswagen, Argo AI Ready Electric Robotaxi Vans For German Test Fleet"
-    excerpt: "The autonomous driving startup's technology is to be part of a commercial robotaxi service in Hamburg operated by MOIA in 2025."
-    publishedDateTime: 2021-09-05T19:00:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/09/05/volkswagen-argo-ai-ready-electric-robotaxi-vans-for-german-test-fleet/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61350e3e1665d8968e63a481%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Volkswagen ID.Buzz self-driving prototype forging ahead with public road testing"
     excerpt: "Volkswagen has teamed up with Argo AI to develop the autonomous ID.Buzz electric vehicle..Volkswagen ID.Buzz self-driving prototype will be showcased at the 2021 IAA Munich auto show."
     publishedDateTime: 2021-09-06T09:12:00Z

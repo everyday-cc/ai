@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple appoints watch maker to oversee self-driving car vapourware"
+    excerpt: "Because the iWatch is the same thing as a car right? Fruity cargo-cult Apple has shown it is serious about getting its much hyped, never seen self driving car project completed, by hiring the bloke who was in charge of making the iWatch a thing to take over."
+    publishedDateTime: 2021-09-10T10:19:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/53513-apple-appoints-watch-maker-to-oversee-self-driving-car-vapourware"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d5670f28e3bb647b68735115f8787ac1_L.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Apple Watch Chief Now in Charge of Self-Driving Car Project: Report"
     excerpt: "According to Bloomberg, Apple’s self-driving car project has a new leader, as Kevin Lynch has taken over, according to unnamed sources familiar with the matter. Lynch is known for being the chief of the Apple Watch, but he is now the manager of the car ..."
     publishedDateTime: 2021-09-09T19:43:00Z
@@ -69,6 +83,15 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Apple appoints head for self-driving car project - report"
+    excerpt: "Apple has appointed Kevin Lynch to head its self-driving car project after the departure of Doug Field for Ford Motor, Bloomberg reported, citing sources. Lynch joined Apple in 2013 from Adobe to run the company's smartwatch and health initiatives."
+    publishedDateTime: 2021-09-10T10:17:00Z
+    webUrl: "https://www.telecompaper.com/news/apple-appoints-head-for-self-driving-car-project-report--1396705"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "AwieHwCmkOYlwW7wuTNU05gbnByAwVKtt18YmKEDDiy9F45VXoFvo3L2CBIQGaOVGyofvD4Nq0I7JGaZmRy/xHMdxfGVZ90Qm7HKkxVvW7ozR9nv/nACSi3dl5iwrvtkMKU3IrkRgqskfvEkiKnnbf9mm+1JrB+WN82bQxgBF2P93jNSGXzIgr+o5Qit61h7aAB5Ke55/ZkqMnFJKs3jeF0/Ntr1THYlzSKvmAVwTmU4WFkpmf4avFW9ZSePD6oZ6OpIlKpMAlhmNPrc0nqF2ccoL/auSBIIWn9Xa9IDwBQOE8YLaVAbZHy2i42Ncq29ikzPBErUa9waUr6FSKW4zQ2IXfMSyanJ42f1lhKW7MXOngU7+eU1DNfxdhnusKWZYzmGvZgeRMTy78k3kSc1V+terg3gwP02gcDylEwekwZsHp1u47lfZ1qff5y8bcx6Phqm2wvzMwqZUzCMZpDeC646XCEgNIwFDOpuyzAOk+eOAogzzwKQIykUcLA/Ig6ihlucUtFbFt/h5L0KQvV3oQ==;cs/xgYGmtC92Jbc78bTyNw=="
 ---

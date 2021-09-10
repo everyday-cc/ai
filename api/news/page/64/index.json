@@ -2,6 +2,145 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-07-23-robots-take-the-wheel-lyft-to-offer-driverless-rides-in-austin-next-year.md",
+      "title": "Robots take the wheel: Lyft to offer driverless rides in Austin next year",
+      "excerpt": "Austin will be one of the first markets to offer autonomous ride-hailing options through a partnership between Lyft, Ford and Argo AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "originalUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/def4af00-1044-45e0-8c46-e92a92bca497-Lyft-Argo-Ford_AV_Escape_Hybrid_02.jpg?auto=webp&crop=7359,4140,x0,y376&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.statesman.com/amp/8058042002",
+      "cdnAmpWebUrl": "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002",
+      "publishedDateTime": "2021-07-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-how-an-ai-entrepreneur-deals-with-dirty-real-world-data.md",
+      "title": "How an AI entrepreneur deals with dirty real-world data",
+      "excerpt": "All the sessions from Transform 2021 are available on-demand now. Watch now. Women in the AI field are making research breakthroughs, spearheading vital ethical discussions, and inspiring the next generation of AI professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with-dirty-real-world-data/",
+      "originalUrl": "https://venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with-dirty-real-world-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with-dirty-real-world-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with-dirty-real-world-data/amp/",
+      "publishedDateTime": "2021-07-23T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
+      "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2038016",
+      "originalUrl": "https://www.channelnewsasia.com/business/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2038016",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--wpGt0NQs--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg?itok=4jDRqfE1",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-scientist-computer-vision-the-hague.md",
       "title": "Scientist Computer Vision | The Hague",
       "excerpt": "How do you want to contribute to tomorrow's world? How big can your impact be? Come and work at TNO and envision it. The selection process comprises two interview rounds. In a final meeting we will discuss the terms of employment and your tailored benefits ...",
@@ -1010,155 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-study-gene-therapy-may-protect-against-vision-loss-from-glaucoma-diabetes.md",
-      "title": "Study: Gene therapy may protect against vision loss from glaucoma, diabetes",
-      "excerpt": "A new form of gene therapy may help prevent vision loss caused by diabetic retinopathy and glaucoma, according to a study published Thursday by the journal Cell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
-      "originalUrl": "https://www.upi.com/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/1131626965438/2021/1/8678551491ec528750efc72fc88df1f0/v1.5/Study-Gene-therapy-may-protect-against-vision-loss-from-glaucoma-diabetes.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/07/22/glaucoma-diabetic-retinopathy-gene-therapy-study/1131626965438/",
-      "publishedDateTime": "2021-07-22T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-federal-judge-forces-accused-capitol-rioter-to-unlock-laptop-with-face-recognition.md",
-      "title": "Federal Judge Forces Accused Capitol Rioter to Unlock Laptop With Face Recognition",
-      "excerpt": "U.S. courts are split on whether forced device unlocks violate the Fifth Amendment, and the Supreme Court has yet to step in.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314",
-      "originalUrl": "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cff617cd180a45a85c61699a0883cecd.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp",
-      "publishedDateTime": "2021-07-22T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-deepminds-protein-mapping-breakthrough-is-awesome-but-it-sure-as-heck-isnt-free.md",
-      "title": "DeepMind’s protein-mapping breakthrough is awesome, but it sure as heck isn’t free",
-      "excerpt": "DeepMind just released a protein-mapping system to the general public that could be one of the biggest breakthroughs in decades. But at what cost?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-protein-folding-breakthrough-ai-isnt-free",
-      "originalUrl": "https://thenextweb.com/news/deepmind-protein-folding-breakthrough-ai-isnt-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fpichaiscience.jpg&signature=38050f2f9369c452930e1b34c7d9a994",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

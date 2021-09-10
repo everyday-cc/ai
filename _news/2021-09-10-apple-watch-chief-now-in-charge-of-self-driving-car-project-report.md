@@ -55,6 +55,20 @@ related:
         width: 752
         height: 484
         isCached: true
+  - title: "Apple appoints watch maker to oversee self-driving car vapourware"
+    excerpt: "Because the iWatch is the same thing as a car right? Fruity cargo-cult Apple has shown it is serious about getting its much hyped, never seen self driving car project completed, by hiring the bloke who was in charge of making the iWatch a thing to take over."
+    publishedDateTime: 2021-09-10T10:19:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/53513-apple-appoints-watch-maker-to-oversee-self-driving-car-vapourware"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d5670f28e3bb647b68735115f8787ac1_L.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Apple's next big thing in doubt as chief of self-driving car project exits"
     excerpt: "The abrupt departure of Apple Inc.’s top automotive executive imperils its efforts to develop a self-driving car, a project that’s been seen as one of the tech giant’s biggest bets. Doug Field, a Tesla Inc."
     publishedDateTime: 2021-09-08T02:33:00Z
@@ -69,6 +83,15 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Apple appoints head for self-driving car project - report"
+    excerpt: "Apple has appointed Kevin Lynch to head its self-driving car project after the departure of Doug Field for Ford Motor, Bloomberg reported, citing sources. Lynch joined Apple in 2013 from Adobe to run the company's smartwatch and health initiatives."
+    publishedDateTime: 2021-09-10T10:17:00Z
+    webUrl: "https://www.telecompaper.com/news/apple-appoints-head-for-self-driving-car-project-report--1396705"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "BM27mqagY4UgEKcKw4xCLHPsP0WpjsMrMgwLVSpFucDAEKlzN+A5NsXq29UQ0f/jue/FGzRawlmxzoHbcxSyUUZHzYBj+KDQstb7U8ZzInMOuTTsXxO9PTqnglCN6ORWPdw/mI0fzzTNzH3wtECuqn3QoYLPdY3xZYikPscLmu1Iw6u/tbxY5vQFmRE4/oUcLG2sIPumNFXs4UgPOm49vrGodgl7NCW0LR4Foaka0mjEw22ZrRf7ln1VyEeT7Hg9eLzIy8SN8itIZmEgJZhHEfTCzzlhZfLbCyOREdiPoaumLN/vtVAY1uKeJj7gfiQ+qbvFDCraC/8lgrLesL2hmzPBEP1qy++lZHPt539uh2o=;w/FzdoNb/i7sxMDq0I7xHQ=="
 ---

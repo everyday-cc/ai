@@ -133,6 +133,20 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Facebook is developing in-house AI chips for video transcoding, recommendations"
+    excerpt: "Facebook is developing its own suite of machine learning chips to handle common workloads on its social media platforms. The Information reports that one chip processes machine learning for tasks such as recommending content to users,"
+    publishedDateTime: 2021-09-10T11:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/facebook-is-developing-in-house-ai-chips-for-video-transcoding-recommendations/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 50
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Facebook_green.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook accused of discrimination after mechanic and pilot jobs targeted at men"
     excerpt: "Facebook has been accused of breaching equality laws after its technology was found to favour men when targeting job adverts for male-dominated roles such as mechanics and pilots. The campaign group Global Witness has filed complaints with the Equality and Human Rights Commission (EHRC) and Information Commissioner,"
     publishedDateTime: 2021-09-08T21:00:00Z
@@ -178,6 +192,20 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 36
+  - title: "Facebook is developing custom chips for its data centers"
+    excerpt: "Facebook is developing a suite of custom chips for its data centers to power ML tasks, including the algorithm that handles content recommendations."
+    publishedDateTime: 2021-09-10T11:50:00Z
+    webUrl: "https://techhq.com/2021/09/facebook-is-developing-custom-chips-for-its-data-centers/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 24
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/09/000_UV06J-scaled.jpg"
+        width: 2560
+        height: 1650
+        isCached: true
   - title: "Facebook Researcher’s New Algorithm Ushers New Paradigm Of Image Recognition"
     excerpt: "The researchers designed VICReg to avoid the collapse problem, which is handled more inefficiently in the case of contrastive methods."
     publishedDateTime: 2021-09-06T06:30:00Z
@@ -200,6 +228,15 @@ related:
     provider:
       name: fintechzoom
       domain: fintechzoom.com
+    quality: 19
+  - title: "Facebook developing machine learning chips - report"
+    excerpt: "Facebook is developing a chip that would power machine learning for tasks such as recommending content to users, The Information reported, citing sources familiar with the project. Another in-house chip designed by Facebook aims to improve the quality of watching recorded and livestreamed videos for users of its apps through video transcoding,"
+    publishedDateTime: 2021-09-10T10:10:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-developing-machine-learning-chips-report--1396704"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
 
 secured: "L4JOP3tR3qcj74oK3pwa7gZS0u4o6jDsrYWTbQn9W5V9qB6TU26KYkF8ZzWZPoOoCyvrpJj+Fh0KgVxzseiEdD0H9NQ0/gef/X2XvvepOywPXN40EZQvv1K9+gmqxx54P4IxRkjPDUvfIK3d6tPd2QFUnDMFMeA9CqRzvCHgQfQXOxXS0k+xSabm043H724vTdhPPVtNER+g85BfQfR2s8/JI3Mr0+rW+txN+R/tpJbHpw7utVmxa4JVvwW2Er/0brXCnoVgdIYIX4kFiSDf0/HPzpl9i569kgXP/g33u+LQr1i1UpkrDYKJz8gAeMTwbGZWfMayLhTqS7MFyR98uTFEZzK9S1vmyv6bL9r08X4=;T75pN6Ir3Pnl5V7oI5Itmg=="

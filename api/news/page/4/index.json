@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-07-everything-ai-and-robotics-at-techcrunch-disrupt-2021.md",
+      "title": "Everything AI and robotics at TechCrunch Disrupt 2021",
+      "excerpt": "AI is everywhere in tech, and you can bet it will be a vital topic at TechCrunch Disrupt 2021 on 21-23. It’s the driving force behind just about everything from rockets, robotics and customer service to deep science and autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
+      "originalUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Disrupt-Robotics.png?w=1024",
+          "width": 1024,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
+      "publishedDateTime": "2021-09-07T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better.md",
+      "title": "Deep Learning Artificial Intelligence Predicts Breast Cancer Risk Better",
+      "excerpt": "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/",
+      "originalUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Mammogram-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/",
+      "publishedDateTime": "2021-09-07T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-tesla-tsla-full-self-driving-beta-software-has-leaked.md",
       "title": "Tesla (TSLA) Full Self-Driving Beta software has leaked",
       "excerpt": "Beta software has leaked, and it’s being passed around in the Tesla hacking community. Fortunately, it’s not for any nefarious reason. As of now, Tesla’s FSD Beta software is only being tested internally and as part of the automaker’s “early access program,",
@@ -241,7 +336,7 @@
       "originalUrl": "https://www.freepressjournal.in/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -709,6 +804,48 @@
       ]
     },
     {
+      "path": "_news/2021-09-07-why-coders-love-the-ai-that-could-put-them-out-of-a-job.md",
+      "title": "Why coders love the AI that could put them out of a job",
+      "excerpt": "As a programmer, far from seeing the tool as risking her job she likes the idea of having AI to support her with \"the more boring parts\" of coding, like checking over complicated",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-57914432",
+      "originalUrl": "https://www.bbc.co.uk/news/business-57914432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6736/production/_119522462_ai.janineluk-herpicture.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-57914432.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57914432.amp",
+      "publishedDateTime": "2021-09-06T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google.md",
       "title": "Google's Newest Nest Cam Is a Solid Security Camera If You're All In With Google",
       "excerpt": "You no longer need a subscription to get a Nest cam's best features, but you're also sacrificing some freedom to commit to Google.",
@@ -770,7 +907,7 @@
       "originalUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1052,134 +1189,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-sequoia-china-backed-ai-startup-aibee-is-said-to-seek-new-funds.md",
-      "title": "Sequoia China-Backed AI Startup Aibee Is Said to Seek New Funds",
-      "excerpt": "Aibee, a Chinese artificial intelligence startup, is planning a funding round to raise about $100 million, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-06/sequoia-china-backed-ai-startup-aibee-is-said-to-seek-new-funds",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-06/sequoia-china-backed-ai-startup-aibee-is-said-to-seek-new-funds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ithqPe8fy19U/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-06T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech.md",
-      "title": "Veoneer Says Its Products Enable Level 3 Hands-off Self-driving Tech",
-      "excerpt": "The automotive technology company Veoneer Inc. (VNE) said that its products enable level 3 hands-off self-driving tech. During the fall, Mercedes-Benz' DRIVE PILOT system is being introduced with performance from Veoneer's Stereo Vision and Radar products to support level 3 self-driving,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06",
-      "originalUrl": "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/veoneer-says-its-products-enable-level-3-hands-off-self-driving-tech-2021-09-06?amp",
-      "publishedDateTime": "2021-09-06T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-workers-fear-robots-and-automation-from-covid-are-here-to-stay-but-they-create-jobs.md",
-      "title": "Workers fear robots and automation from Covid are here to stay. But they create jobs.",
-      "excerpt": "Calls for steps like 'robot taxes' to level the playing field between humans and AI will only hurt the economy — and workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/workers-fear-robots-automation-covid-are-here-stay-they-create-ncna1278433",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/workers-fear-robots-automation-covid-are-here-stay-they-create-ncna1278433",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_35/3503671/210903-think-self-checkout-se-616p.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1278433",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1278433",
-      "publishedDateTime": "2021-09-06T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

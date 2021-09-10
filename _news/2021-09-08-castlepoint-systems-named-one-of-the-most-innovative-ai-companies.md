@@ -66,6 +66,15 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "Crediwatch named in 100 most innovative AI fintech companies"
+    excerpt: "The AIFinTech100 list helps executives in financial services to locate business model that are most likely to have a lasting impact on the industry"
+    publishedDateTime: 2021-09-10T11:02:00Z
+    webUrl: "https://www.ciol.com/crediwatch-named-100-innovative-ai-fintech-companies/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 19
   - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
     excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"
     publishedDateTime: 2021-09-07T17:15:00Z

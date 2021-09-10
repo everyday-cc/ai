@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-57914432.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57914432.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BBC
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Companies Can Get the Most Value Out of their Data"
+    excerpt: "Most organizations know that there’s huge value in using business analytics to parse their data. But many are just starting to see how much more they can get by applying machine learning (ML)"
+    publishedDateTime: 2021-09-10T00:00:00Z
+    webUrl: "https://www.geekwire.com/sponsor-post/companies-can-get-value-data/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 54
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/09/bigstock-Digital-Marketing-Concept-In-F-381005381-630x419.jpg"
+        width: 630
+        height: 419
+        isCached: true
   - title: "More AI Developers Focused on Engineering the Bias Out of AI"
     excerpt: "More AI frameworks and toolkits are available to help developers engineer the bias out of datasets on which AI systems rely."
     publishedDateTime: 2021-09-09T21:42:00Z
