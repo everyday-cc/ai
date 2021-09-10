@@ -3,24 +3,24 @@ category: news
 title: "AWS Announces General Availability of Amazon FSx for NetApp ONTAP"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon FSx for NetApp ONTAP, a new storage service that allows customers to launch and run complete,"
 publishedDateTime: 2021-09-02T15:59:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1"
+originalUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap/article_21e23ee9-4423-5c38-bf11-55a14362b279.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap/article_21e23ee9-4423-5c38-bf11-55a14362b279.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+    width: 640
+    height: 336
     isCached: true
 
-secured: "H8gI7/1QeAdHL9qBohicg7dL40QWewHMRU96Utr6YWyzrmeOlMtIPFWY6nkuZE+3nP7QleETb3MtvZFk4uyGX31D+gIzZVafb9LlDWXor5sUEVbR7KKu7eczrxkY41XqyHra3fo6yaRoQiA011qeBdqFE+mLxigMBX1FVS9RVIX7+Plv9ktSTTyj1AM0PcjRS87uvaiT5dr4mUrUiuGbl+qUjUX20bFIrxHRvyjG5L/zsC45NKGk28KXh16SX2yiTXGWINZ6VZr7kv4KMZyV1Q/jNmuwtEPxCk322YmkNpxCkRNMRUV21lYTZCfx3VYo+VCxNtd4vr8OnZ2RenXua34FjMJzAllEYlpoEbe8Jk4=;DSTK6+9wTo0I7dE8rjwViA=="
+secured: "boB6A/bR+GRbSvE84rDnvLFET9gQy+qpsZrut0zoNCBvAk073S8uBAbeoY00OUbPCZJVYl4k8w6qCUWltH3PwjDv+BAyuosna7UsJt2NOmQKFsOjqZ5K6cs/u2VAyNjKGQcN/Q7ktzzxLrHJibrb32w95dCoMBnvPF9d2JAHvyWRPtS3oaQJbUC2NrehNZ4WO/InijBP6HmF7qp9oXzDxb28pEvaQbRkjgBUEH6DdGHiFRxsotZ2T7U+tX+twczdveKIsl5y1Eb/XHGVNFxZS+tkkD0OFD5K/H+PHt3KVArTBA7P4aShnuPxDjtgpLDUQl0G1FDfRsYMwS+fg8vveTheSxSPncLRexKXokEj1dc=;CBUPvUXv5/jO8AXMgIw5kw=="
 ---
 

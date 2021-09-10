@@ -50,6 +50,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 45
+  - title: "EXCLUSIVE Singapore’s ADVANCE.AI raising $200 mln from Warburg Pincus-led investors – sources"
+    excerpt: "ADVANCE.AI caters to more than 1,000 clients in its key sectors such as banking, e-commerce, fintech and retail. As the COVID-19 pandemic boosts consumers’ and companies’ adoption of digital platforms, rapidly-growing fintech and e-commerce startups ..."
+    publishedDateTime: 2021-09-10T04:34:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/exclusive-singapores-advance-ai-raising-200-mln-from-warburg-pincus-led-investors-sources/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 28
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/WWMBCSSZ4RLPZLSCEP54O3A62I.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "oxfC80cfGsGKkHGJBIhEWv2CzH/qIWasRjIak3Tj/K5YzBsX5LTfFz6P1gxsUw/HwmjPRryC4EDpQeK/IklWq82Q3kdtY696uYxI/Odp0vkkkgRgD5QanMNy+wnxroGMQXiJ+hiDbfDLUahNvbqM7+cfvF5jxH5XKrt8O6Pwrx3vw7HRnatg3QEwHWIpPG/g+KlBcQpRN+l/Hh6fb5a2oQj9cfsjNmZSSAiKoyMBkq2f7meeLL+aoXYL0zgEPpJpoIzrCnQM5kHIIw7v9sWwZnWpvJBYzdlFPUzVMHCpv3CpBRfTPixMkic8Dmmb8mbvS/9bRDmxBEFyhWgMtjb061UTbQKJccsnqMFk2yW8XBAxYmpHUnvi25Nae6h6I2OU0oP/mjSJ0rgbDUi6y1nZ85nCquvLszkq6h1vvy0kIXvDNZGSZPtooTJLhNrWTOPyCgdWy8ZGVBXCLiO/kEATLvUf8qointcx2KpHIxJxzgAjA0sgzCIwP4PZCLsVQcNYPKEzNyuzXCHf3D9iXe1QWA==;bxL/G+soZDklTElRqa+02Q=="
 ---

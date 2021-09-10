@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202109/1233563.shtml"
 webUrl: "https://www.globaltimes.cn/page/202109/1233563.shtml"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2"
-    excerpt: "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment"
-    publishedDateTime: 2021-09-10T03:52:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2-301373152.html"
+    excerpt: "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,"
+    publishedDateTime: 2021-09-10T04:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2-1030791596"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1612533/AGILE_ROBOTS_announces_completion_Series_C_financing_led_SoftBank_Vision.jpg?p=facebook"
-        width: 1268
-        height: 664
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
 
 secured: "M7skfVUxHz0jo0PQwJyCi7kcJkxJg/BiScbWZPUrIoVDPeND9rYs0jLk05xnsVTHkHsApOIUkba39xOmSMSHUTRNkYNpR6tzHCMs7Jf1RTiJQdJ1O3mokKRaF2vl0w1nxZha/Apusg8U2RKZBRaoboLUuQtDvfDROJN9V1MZ0QHV/FCEyaGzJc+ceauYLBjJXW1AUhAC4aL4jbGre9b89MBPPKHuS61wAeZMjKMWSkplTsp2/BnW1S+dTf7sPdWWRXK2UewjPBuZZQVvV+JJ8fmlnbutS2MXf5ugBOPlzOwy4z+PRcMZ9EN4XUdTtCrGJ1FQDinxsLxcCcRU52yMElvDkoN3t7VAEJIrptscvPo=;szDcSouASNDlHQqOU28U1g=="
 ---

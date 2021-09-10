@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Collaboration Overload Is Sinking Productivity"
-excerpt: "And, on a more dubious front, one global services organization implemented ... the inefficiencies and subsequent cognitive switching costs of always-on cultures and 2) the personal motivations ..."
-publishedDateTime: 2021-09-07T14:04:00Z
-originalUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity"
-webUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity"
+excerpt: "Collaborative overload is not just a problem of volume. It has an invisible but equally sinister counterpart in cognitive switching costs created by the diversity of demands. As columnist Jennifer Senior put it in The New York Times,"
+publishedDateTime: 2021-09-07T12:05:00Z
+originalUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity?ab=hero-main-text"
+webUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity?ab=hero-main-text"
 ampWebUrl: "https://hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "FhsBs117iyjHFPpXFWvXcipeq2eZcRn42wNLiAdnwpMM84exNUUpW5BtHRZxmxfX+6CcDELpbt1JjctYuY1cg7j+C0b4SQ/0B5Jrp13Xc+DDL9fXDrMvvwtb96Qvf13jGWd7YfJtOWh0XO96Sn6RIZ6IP9Bl1Pred80LUY5sunwzzKxSJfYXWd6FAXuZEHZeOj8eboNkqfFZRxsFWVlw7Kfo/KkQwkQP01f8gVaGC0kmV+yjD5E/VsbOifOeKOvpCqXc00RdKfCLw/5SXb9zBhoCcfkNc5aKtoibdGQts6/pIHKLkVmB2/xPVCNe0cjA38KWdSD2tDIZxmdLw28+sHzK/4lR3KYeZdx4AlRxNpY=;v+3b6zc4XdesLUlkraZ/DQ=="
+secured: "FfrvTSTlcWtFN1PWIg8K7UeW401IdBKUvIXuu9iOQLDRH/K4p1r0PiM9VXgV4hdP8uRny2YK1ICAY94mzaveAMx8GlolDfBUS3EgitAlSJFkr34Jo31ktSpoVgWSXo/7OTxqcu352DsXrOoSPeXYgoUI6APBQEltXrW8GZrquiSQgp15S4B++H2KNtTr8SgfHeXpWd4a5eTSSTHpEbwTzQqIgHI88iqIC76hO2SHu7jx1oidloI6v8BYAPTB+ppU0CfRZX0R73x/LaBxgR69Yz8A03UQqU6fKvvMuc/yOaqFJMxhXd+9WYlwrNv/3VaWNnBCoWm1OlydXSXntk9d9FgblkQwSr+vgW+8evd2eOo=;oLrHHazfr1WfYfcBME1weg=="
 ---
 

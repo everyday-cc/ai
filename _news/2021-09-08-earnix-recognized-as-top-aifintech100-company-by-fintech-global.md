@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-excerpt: "Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and banks, has been recognized as one of the leading AI solution developers in financial services by FinTech Global,"
-publishedDateTime: 2021-09-08T14:11:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4a5ff55dc3ff4f0cac09fa874a6ede89"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4a5ff55dc3ff4f0cac09fa874a6ede89"
+excerpt: "\"Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
+publishedDateTime: 2021-09-08T14:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
@@ -266,6 +260,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "/2Jcdl3BQjqs1a5G9W65TYcrrqUtdQ/j/x0CKkGPo5tFkkyYPuDpNtv0yHQNIyZeWbHvdp5/fIooeu9/tVBvOxigs9Yhzcjx+BJqQpUjDjd7WgNfhP5AWyodVUicpFMxsHjSvdjXoxevlQJmmnSFpit7THnCCNL0u/4m8k8H+HPI/16gyTVvu2USO+qN1LIfaG1dP6ZJ+4ynapOV8R6qq1IcefEkXNbuFj1uxqqkdXetsA4D+X08JWjOo4d/n10dqhGcrTVYMP812ba522hujA4JSnqFwwiZ1TE0e3P/TqmIGft6TBlWuBbzVV+jHjKOlL0AdF21nurD6qwNS3ZR6jOUFVtc6O65TC0M/EuV1Wg=;X82VkfBLH+E/70lSYb5/lQ=="
+secured: "WjeKKl+FyiQWkJHfd2wa3kykVEwmoJXUxB3q3AVjhUozPYTg9UFdjsrFgZekALYX3IPiFXsdoTsRvfQyqzzACXi25w7zTafJrfd8xBAp8zB5blfbP+XsJuT3rK5MruR/gFF+nbTKVlm2LqiSQPSRE1EwNwTa6EkR8oSYGTtR8miXSKNxoBizSyYA3/F2hz5YqBMcwFTnnwVU5jyUz99meN8f/DCyFMupqJOKbsr0Iku5fUd18sgaTave19TpyEkVkheXW3NGMmd/+QOb4cOZdyib/DI8nu6x3fsQ9iC9zTyhBpYR5wq+Awza81cqXQR+t9WIn0J6tmYdKhUBvsNjGHcdE40HDObr98YNZrG29eY=;93qGqkTio6syH5Bz2kSQ5w=="
 ---
 

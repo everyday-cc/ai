@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Federal agencies are rapidly increasing their use of facial recognition"
-    excerpt: "The U.S. Government Accountability Office released a report on Aug. 24, 2021, detailing current and planned use of facial recognition technology."
-    publishedDateTime: 2021-09-05T13:00:00Z
-    webUrl: "https://thenextweb.com/news/federal-agencies-use-facial-recognition-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FFR.jpg&signature=edf8bfb4b96e8f3d082fcc901f7f5547"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "White House wants nominees for AI and facial recognition committees"
     excerpt: "Those selected to serve will be profiling the state of AI development in the United States and, in particular, development in law enforcement."
     publishedDateTime: 2021-09-09T17:36:00Z

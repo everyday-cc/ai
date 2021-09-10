@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Nasdaq
@@ -22,33 +22,33 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "3 Top AI Stocks to Buy Right Now"
-    excerpt: "Anders Bylund (IBM): Good old International Business Machines ... Big Blue sowed the seeds to its Watson AI engine decades ago and has nurtured that asset into a problem-solving system with ..."
-    publishedDateTime: 2021-09-05T11:24:00Z
-    webUrl: "https://www.fool.com/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/"
+  - title: "Best Tech Stocks To Watch This Week? 4 To Know"
+    excerpt: "Do You Have These Top Tech Stocks On Your Watchlist This Month? While investors search for hot stocks to buy during this four-day trading week, tech stocks continue to gain tracti"
+    publishedDateTime: 2021-09-06T13:31:00Z
+    webUrl: "https://www.nasdaq.com/articles/best-tech-stocks-to-watch-this-week-4-to-know-2021-09-06"
+    ampWebUrl: "https://www.nasdaq.com/articles/best-tech-stocks-to-watch-this-week-4-to-know-2021-09-06?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-tech-stocks-to-watch-this-week-4-to-know-2021-09-06?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Proko-Wall Veteran Recognition Ceremony, Saturday, September 11"
+    excerpt: "There’s a community picnic this Saturday that will honor our active Military and Veterans, police, and first responders. Carl with Proko-Wall Funeral Home spoke to Local 5 Live with"
+    publishedDateTime: 2021-09-06T15:34:00Z
+    webUrl: "https://www.wearegreenbay.com/local5live/proko-wall-veteran-recognition-ceremony-saturday-september-11/"
+    ampWebUrl: "https://www.wearegreenbay.com/local5live/proko-wall-veteran-recognition-ceremony-saturday-september-11/amp/"
+    cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/local5live/proko-wall-veteran-recognition-ceremony-saturday-september-11/amp/"
+    type: article
+    provider:
+      name: We Are Green Bay
+      domain: wearegreenbay.com
+    quality: 44
     images:
-      - url: "https://media.ycharts.com/charts/1cc036e0dce93765f10e22528a16dc3a.png"
-        width: 720
-        height: 387
+      - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2021/09/CC7806F8C089410D839F468F6CDEC829.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Top 12 High-Growth Artificial Intelligence Stocks -- Part II"
-    excerpt: "If you are new to this video series, it covers the top 12 artificial intelligence stocks focused on growth and disruptive innovation. I have done my best to find the highest-growth companies in a variety of sectors with disruptive growth trends."
-    publishedDateTime: 2021-09-08T19:00:00Z
-    webUrl: "https://www.fool.com/investing/2021/09/08/top-12-high-growth-artificial-intelligence-stocks/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/09/08/top-12-high-growth-artificial-intelligence-stocks/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/08/top-12-high-growth-artificial-intelligence-stocks/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
 
 secured: "WQ+/h/yZF5kAapfVEi7LBdd6wnVw9tvzFDgOYNPLeCihDgavn9lownbAAgfAwKs2vHiXhZ/zjchjZNu/dak6CL3oobldRdN9RU+5b94xCrb2PC4QXpxWUZkK2UL6ZgplRxNXjzA2SPPdEuU9+VSOF1LRqZirr9hXF6WZx1I5jEWT1drT3irToLR9j0SYMZO6z6e9LtNuj8tCibpeEYdy2Z5VhuWL3nhMzAkfhqUtly1x7p2n1+uZn80KFFoZaqqqPwNr3BEEX4axepXuhOr9U7QfAbDXxnVvdViA+g+HcMxMr+gIOTx9oGDoe1NTTISISWC5iB9WhAihlra6HbYasXZhRQhlIfZ35Tb+Fq4PaH0=;q6Kh83Q4cVwB5HQZAlEnAA=="
 ---

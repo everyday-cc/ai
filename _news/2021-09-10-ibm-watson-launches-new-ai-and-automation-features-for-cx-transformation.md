@@ -123,6 +123,20 @@ related:
         width: 300
         height: 240
         isCached: true
+  - title: "IBM adds new AI features to Watson Assistant"
+    excerpt: "IBM said new artificial intelligence and automation capabilities in its Watson Assistant tool would improve businesses’ customer service experiences across multiple channels. Th"
+    publishedDateTime: 2021-09-10T02:10:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-adds-new-ai-features-to-watson-assistant-569689"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_watson20121227071906.png"
+        width: 525
+        height: 352
+        isCached: true
   - title: "IBM Watson Assistant Gains 3 New AI Features"
     excerpt: "The IBM Watson Assistant virtual assistant gained an IntelePeer add-on, a short-answer retrieval feature and a capability to give human customer service agents call transcripts at handoffs."
     publishedDateTime: 2021-09-09T21:54:00Z
@@ -194,6 +208,6 @@ related:
         height: 450
         isCached: true
 
-secured: "GPjm9chbNRvw4xmL2IlE9bYNOzCjvc71agc6FUpREbmbUpePPFwcldjTV57Uwcql5H/vmVpfp+8QYFz8pHn/4CV4NyY/nlKof3ZAw4Va7S1yLFtb3iDosDvaTODct5QReXl0W4cd5Gi0cOMiv8IZnjg9hd0ZkLWDsx+zozLEdH+wb8HQSni4WWyjWwZNJcdOZhh/EyHo1FmLvjN1PK9LvMIQ8uDCAF5N1zNP/YPCDnKEV6I7gFK5m0BI+oaMnzUanuU6L/SKn952L5FqsHvG86wixHdXi8Vucrg/Xg7hdK3QAnp2PTQdqrJU8/P0YBBuxC9ngb/i7cGaeuunffPIk0h9AWaXoLcGGgHQPBVYDvk=;euLHH5ZHCYYbKBhDLQhERA=="
+secured: "ZAi/ru3P88OlVpg3ATTrWzaMqbdpsTcbS7m3+4IGIgmPdC/wInXnRdPio3M/EmiIy0jAgcPy86GVf+Vj7tp7R2W1ZvEfJwpl4zpqCB1ajHxujGQE6cv3GulIK9vVAi+wueWfbOIGfoCMC++PpLxzIs4W7ZE5VtjznWad1iZpZDxz7yghpl4CZj6F7MAiPtPkVGLDXA/sJN3j4xgF7AaeMsmTa/mMYI9CxEMDHL/+GKsyPjU6xVGyHr5MmpdILZ29ojaphqH3gE9PkYuGPUBvjizRr1U4U885+fiItbPjnty2c1ush8NWLWvmHTdt9S/od65kVNFOuk7pKMWsC/GggcIPzgFnGS1magNfIA47vhkK/j6C7VrDP9lRNRDlGSiVIdeU3VVE9bm5BxvwxXdQk+Ez7mtcCsFWB8+VldGhhKU5TBuCCJxaqwqrY7Ww6kuNT9nrAEuiCnTlX9AFg5bRRF3sjy7hgVZlBMq4WI0LJLz65Y7M+gtYIC3Wo324B4IvvCZIzvKKiyP5jDdxiIZCQg==;mcW4qdXMdvwpK9lX35IIFg=="
 ---
 

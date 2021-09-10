@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/best-tech-stocks-to-watch-this-week-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-tech-stocks-to-watch-this-week-4-to-know-2021-09-06?amp"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,35 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "4 Top Artificial Intelligence Stocks To Watch In September 2021"
+    excerpt: "Are these Top Artificial Intelligence Stocks On Your Watchlist This Month? For investors looking to invest in booming fields in the tech trade, artificial intelligence (AI) stocks are a viable play. Namely,"
+    publishedDateTime: 2021-09-09T20:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 71
+  - title: "Proko-Wall Veteran Recognition Ceremony, Saturday, September 11"
+    excerpt: "There’s a community picnic this Saturday that will honor our active Military and Veterans, police, and first responders. Carl with Proko-Wall Funeral Home spoke to Local 5 Live with"
+    publishedDateTime: 2021-09-06T15:34:00Z
+    webUrl: "https://www.wearegreenbay.com/local5live/proko-wall-veteran-recognition-ceremony-saturday-september-11/"
+    ampWebUrl: "https://www.wearegreenbay.com/local5live/proko-wall-veteran-recognition-ceremony-saturday-september-11/amp/"
+    cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/local5live/proko-wall-veteran-recognition-ceremony-saturday-september-11/amp/"
+    type: article
+    provider:
+      name: We Are Green Bay
+      domain: wearegreenbay.com
+    quality: 44
+    images:
+      - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2021/09/CC7806F8C089410D839F468F6CDEC829.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "c+xKrbItaoVgGeLqtTx+x4cW5vztJTXYRTpf0ABQtAMzz3PVPHHJs0W/TYEmRWxKQ6UjDR4pc4Gkw6rVRQ/2KErzg6CqIvFQDbh6GO3yauZMSpbWzMFjxhrm8Qefk7nDuclgep9XZI1+ZxBUdlSrpoKadlSLjGWix+T1WcMWubTC0sLJbhjuK+ltTWtsiRftI5ccKKIg3Mx0AgIAv1aOHg+bUgMd32i4NE73KfIoqWofjOxas3e6HJsvwRGS9SaBTI5vRuU4x2t1r0rU0P/bp+LXNwgFJEyXl14PEFAXytwfeOIL1s0K1Y2Qy+8F2GafX4mKbklK2HPpkHmISHWtRQ745vv6mP+ybSsFdJx9EQw=;svl2epdLxSthx3yWub/jdw=="
 ---

@@ -137,6 +137,20 @@ related:
         width: 300
         height: 240
         isCached: true
+  - title: "IBM adds new AI features to Watson Assistant"
+    excerpt: "IBM said new artificial intelligence and automation capabilities in its Watson Assistant tool would improve businesses’ customer service experiences across multiple channels. Th"
+    publishedDateTime: 2021-09-10T02:10:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-adds-new-ai-features-to-watson-assistant-569689"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_watson20121227071906.png"
+        width: 525
+        height: 352
+        isCached: true
   - title: "IBM Watson Assistant Gains 3 New AI Features"
     excerpt: "The IBM Watson Assistant virtual assistant gained an IntelePeer add-on, a short-answer retrieval feature and a capability to give human customer service agents call transcripts at handoffs."
     publishedDateTime: 2021-09-09T21:54:00Z

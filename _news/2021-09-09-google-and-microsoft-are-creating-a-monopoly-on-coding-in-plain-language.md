@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Google and Microsoft are creating a monopoly on coding in plain language"
-excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
-publishedDateTime: 2021-09-08T19:16:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
-webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
+publishedDateTime: 2021-09-09T14:55:00Z
+originalUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Canadian Manufacturing
+  domain: canadianmanufacturing.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
+    width: 754
+    height: 424
     isCached: true
 
 related:
@@ -157,6 +157,6 @@ related:
         height: 640
         isCached: true
 
-secured: "V9PfQ6CAlzf8YGN/3XFTeU5WSKQcuzmxx7ZPqSMQEQMwlIPqOnYmrr7ANfmGlpHh9kbPqSxtuZUEppeXeQVVPLii4P+9XXlySrzvzO+furIv4XDPnuJ5EQOPpjggTfq4OEX9gU7HXqkU0L9pzGv2bweTok4v56Bjxbz2LKiQ4Lrto5G6VoroyPafThtjI5suCqJCXU6Mvm5e/UXDPqX+2lVLVfdFJtjscd1iVv9CgUnn17jXRsAfjwPlA67v+CEVDFPADPGKoaGcBl8qiPldtYdErSRJH2JA7Q/RQiwuTvvmdIX2jyq0l1eRGhMG2hGRWDVMbyI2mOkC3AlaDtptdvo5SE3c4zfEDHbmn+HO9Q2CfP4yqU/Gug9azd1DTKZbnCya1iQSWyIcWkxKCdfY7N04LNKhL6rSA84eyUhoGxJUcubU4xvRqaGDdIuOJzhr5roErPVh/O34Je4VMW5r7S8A+k6O25NlXKkuuCy/e6A9iVU9l+joujHvvgulffnIz8/+f5e+um5xz9kCiwU3IA==;CCDCO9hAXNEdnGhivp8wuA=="
+secured: "Q8RDSchregDhcQ7utiwTePiEJaf42GxynN22BDBftcjD94KNvaUedPW5nDW5DBGCOVhnREpfegjBkgjQPh9wpQCHMqcW3dqZsCgUiXR6dkfNYLvTEvGtB9ZJpX3FuzZBCPRtfB6CBdm4ACcScHQecrh7qW7AeYARHCWTZIiSUPFO5XibF3JCg9/CEx9B4u0z4EGvMgSHgf3fJNS/0ZjnkTMGm2bi10g+72qru5LHl2kEbPrCSGGDr4DJ8NZrydOrwyzdUkOyVnkKAet+m750zo9t//b7Pfld5hHFid5B+gvuAQorZ6Qc2mUYmrTp9eCeYAvyUuipHAyJyCaM3CbOjHjS5RzdN2g30Upx0JJR4/k=;lVit8IHZZHG2m2iS0Zsegg=="
 ---
 

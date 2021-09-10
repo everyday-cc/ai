@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-s
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "EXCLUSIVE Singapore’s ADVANCE.AI raising $200 mln from Warburg Pincus-led investors – sources"
+    excerpt: "ADVANCE.AI caters to more than 1,000 clients in its key sectors such as banking, e-commerce, fintech and retail. As the COVID-19 pandemic boosts consumers’ and companies’ adoption of digital platforms, rapidly-growing fintech and e-commerce startups ..."
+    publishedDateTime: 2021-09-10T04:34:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/exclusive-singapores-advance-ai-raising-200-mln-from-warburg-pincus-led-investors-sources/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 28
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/WWMBCSSZ4RLPZLSCEP54O3A62I.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "3p6lgpbMSOetX21SXw63v8TwVqRGh80PV8173OnxmzSbrDKPVvQJp8R8o9V1A3t8lSJG5cHT2pTxV3++YsJ2b8Sgl2adYF7LZ2V3dQnp4MpiskljplgVkfrGQGeYy7S7uGZaYSBQWwFlE2+Yruxv2ZBqp0wgyaId6pqcqjW6E88SKlV6MPUyDUd7tmPdrdyl6RvpXeQEY2A62Ql65Anw0dnP9Q+1srMcjQqNQ89jkqnJI55JF05Ppj7KSFGXJtwpzHEHBg/WAo6U+kQLgJkEo2l54K2hk/MnED9DHXQnkjkpnWHq2Hm56NvUG9rgBlpLma2LBWuSctT4eOho49fCeV7z8G3URsVpBX0u1kmY5ezT89ILSPa9iP1kru/W6fpvJ/7PN+5ID7T2oJMlRlhzuuY6GyxpeYb3bn1GXrlB6+XM8vvtavyPBlolG9vQd+DurQqBRalwR8SVgeCVmmcZtcssDcSes8toXJFDGMtoKjUqTmPpTzaWb1kqM0IRE14uqkuSID5r2pEyqJ4ryTue5A==;mubDtiMlj9JPkhVOBTKi4A=="

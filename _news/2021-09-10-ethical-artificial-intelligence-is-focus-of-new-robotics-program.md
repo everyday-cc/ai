@@ -7,7 +7,7 @@ originalUrl: "https://cns.utexas.edu/news/ethical-artificial-intelligence-is-foc
 webUrl: "https://cns.utexas.edu/news/ethical-artificial-intelligence-is-focus-of-new-robotics-program"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

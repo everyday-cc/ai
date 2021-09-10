@@ -3,8 +3,8 @@ category: news
 title: "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools"
 excerpt: "Add to Calendar 09/03/2021 2:30 pm 09/03/2021 3:30 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of Hazard Identification and Reduction (EXHR) will participate in an ASTM technology task group teleconference to discuss the drowning sensor detection systems in residential swimming pools."
 publishedDateTime: 2021-09-03T00:00:00Z
-originalUrl: "https://www.cpsc.gov/zhT-CN/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=id"
-webUrl: "https://www.cpsc.gov/zhT-CN/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=id"
+originalUrl: "https://www.cpsc.gov/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools"
+webUrl: "https://www.cpsc.gov/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "3jYC8jhtAeFJ23V7iOG4U7th7G/g5h3Wze6WtKq4GzPPF611p309YgJXBj1+sZJVPNYOd1j9JSs/AN2VJ7c3NbG3/gekMQZiOPK0yG+EyRFQzb3IQ2DpCZKAzuyzTn+cOskzMYSOVWPUAPz8l8IZGQd7lE0+4q5OsGRIuuGuVyZziWei0WxFit2xDKX4iuYIGGAxncU5xXIP7ZEMb6VlK3Whmpl1g8UEZSs5v++I/m1Ya6RT+5gHPh5PExedsP8FffYq17GuUbEvA7yLlUeUePoH83lX7dNDX0/qfnGrjXhLmPyYIrCVIQ/jwHloaU+pBd+bIl+0QN98dDfSzPcaCjksnwqKfq3DahiRbLZiQm8=;lI5QF3HyIVobOeOgw4t76Q=="
+secured: "CWLE7VqOzmV+jPevl9sJKR0iLQ1XonVvh81gr6o7tH31GoM1jxe4z547o+MtdKkypAvLMdu24afiYxLa83yIzC+CnvtnFb5PUifjbgRnaCnW+zldOQRWiKmjYzePG/+KQLT8j8Q0573VRZT/KzNix78VC2lGsHhx8F6jgZv92YAE7WqGVFtl4a4Yi21yh7ICcMZDHxdK94iNUitCCNJJgPkXtPLfMTAW50hY9uNykmRjrTfoPCamw7RL5SvMmoozq37/Er3eFbgjuPfPoUVLBUMf8sH4C85EriGxOCxUC9r8JkfkkZL9oSsuLXLRjkHkfCnH3SCMM1t4QrC+bWr8Kmq6JWI734SNLrG5zbZuJEE=;XIhtR1jMBTaGgFmGe552rg=="
 ---
 
