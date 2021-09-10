@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/gartner-ai-is-moving
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/"
 type: article
 quality: 84
-heat: 106
+heat: 107
 published: true
 
 provider:

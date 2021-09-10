@@ -7,7 +7,7 @@ originalUrl: "https://www.manmonthly.com.au/news/microsoft-explores-machine-lear
 webUrl: "https://www.manmonthly.com.au/news/microsoft-explores-machine-learning-space-aiml/"
 type: article
 quality: 86
-heat: 176
+heat: 177
 published: true
 
 provider:
@@ -157,6 +157,6 @@ related:
         height: 640
         isCached: true
 
-secured: "b4+6TX2OSxxxi2TRTC51ho9wl5fqH6ZTpkv5A5FB+fJO77GdG23AOgD01hAP8D+fGpUTlKjQ+jirNpi2VEVQNHprvgDYnNnsSuzBBbD56Vzj3/+KDCJKNFQfCXVWdkpwDtlojJBqFM50vBeZ/rg/Q67BPMoBQZL93pCCwYddr0RdCEX6cJ8Os3wzYwh47t0gmUh6jjzjnfumLx04nRaNddv88CIXBovw3EmTGt28KQmpKd1YXX7tvf575pvhHpimhNSvQ0ogARm4tK/+zSrl1JZBjnenmaVCV3dYc9wct5Jr6l1feyUKaBS5UJJP7CyvpMvASm6/avJCnkZjtiLx8nedxs6GgwLJdrtuonrx+Ps=;6k3zAFdOOLeShMTa4rN0sg=="
+secured: "vPKgqhVHktLPk6SlBsg/bqDkNQUSKWZdctWoiqkWKFIPqGN9X+5OtfWfwHQKg6zRdy3F8F0p+WlsoXJv8VhD+P1g27Ipefzph7d5n9QMVgMMPct0aFS4R119rfLU5uwKOX1r9bpJHuWYKYhqiq5+UAUtHo369ZprNFFvmXExFYWThQnAmRZhVxiiMtM/Z4473FOnNl+N6eweYTb0/pjbu1BbeSMCb09+hOPQoJHx0HtXVYODoAZYuzeecAN+Wv21Ah7mNeHnXO6eMIgJhonCOt47Q59ljFtuoB+hSU1i93eqv3HOFJ8OQNcDn9kUarlZbQO8uc6DW5YYE8R2L8gk139EiN0MaAzp0DcwQXnOQA+tQEjftN5qgY/skMvcDx4g2Kkeylg6BfdI6zwsmzg9LrPt2ih5UBWZuclA76DSXPt/jUrwxjltGWnPpS/FE07M2pp8Rw7TD8sAdjkDzNZeol/OBYq/M6+gNeJmovL+ZN8Hbm4zlEDvsl5gP1zlOfDXhWnJbonmRiyWQ8/0RZvOcA==;Ba65oWKd4LYvGTlPCORHeQ=="
 ---
 

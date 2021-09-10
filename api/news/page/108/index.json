@@ -2,6 +2,282 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-rare-diseases.md",
+      "title": "DeepMind wants to use its AI to cure rare diseases",
+      "excerpt": "DeepMind solved one of biology's biggest challenges. Now it's working on using its AI to find drugs to target rare diseases",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter",
+      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-salesforce-expands-partnership-with-aws.md",
+      "title": "Salesforce Expands Partnership with AWS",
+      "excerpt": "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln.md",
+      "title": "Self-driving startup WeRide deepens ties with Nissan, raises $310 mln",
+      "excerpt": "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with Nissan Motor (7201.T) on autonomous driving technology for the China market as it raised $310 million at a $3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
+      "originalUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/PQEZhlnyJcMI6mHQvEbGTKewuZo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QAA7N6S7OFLDNPSGWINOQW3PWY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-how-artificial-intelligence-can-change-higher-education.md",
+      "title": "How Artificial Intelligence Can Change Higher Education",
+      "excerpt": "On the day I met Sebastian Thrun in Palo Alto, the State of California legalized self-driving cars ... “Introduction to Artificial Intelligence,” to the world via the Internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-can-change-higher-education-136983766/",
+      "originalUrl": "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-can-change-higher-education-136983766/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbs-prod.si-cdn.com/PUUG-k0Swjd79eB5SmXUdUMDf3E=/fit-in/1600x0/https://public-media.si-cdn.com/filer/Ingenuity-Awards-Sebastian-Thrun-631.jpg",
+          "width": 631,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smithsonian Magazine",
+        "domain": "smithsonianmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-cloud-gpu-market-and-ai-trends-and-analysis-2020.md",
+      "title": "Cloud GPU Market And AI: Trends And Analysis 2020",
+      "excerpt": "And, AI will be one of the top workloads that drives ... according to a report by MarketsandMarkets. The demand for Cloud GPU instances in the compute infrastructure market is majorly driven ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/",
+      "originalUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2019/06/cloud-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/amp/",
+      "publishedDateTime": "2021-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-how-ai-powers-mobile-innovation.md",
+      "title": "How AI Powers Mobile Innovation",
+      "excerpt": "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/",
+      "originalUrl": "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world.md",
       "title": "OECD.AI: Paving The Way Towards Sustainable, Trustworthy And Responsible AI World",
       "excerpt": "How do we ensure that AI is trustworthy and its benefits are shared by all? From the measurement of AI trends and developments to the direction and impact of national and regional AI policies and initiatives,",
@@ -888,282 +1164,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-techsees-ai-can-recognize-devices-and-guide-users-through-setup.md",
-      "title": "TechSee’s AI can recognize devices and guide users through setup",
-      "excerpt": "TechSee's new Eve Cortex platform leverages AI, machine learning, and augmented reality to help users set up new devices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/7e1ce4cc-8904-40cd-80e7-f3717fd0d695-e1603126551920.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/amp/",
-      "publishedDateTime": "2021-06-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-why-passengers-might-actually-feel-safe-in-zoox-self-driving-cars.md",
-      "title": "Why passengers might actually feel safe in Zoox self-driving cars",
-      "excerpt": "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "originalUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F06%252F22%252Fb6%252F97f23c8d2b0b494ca93c0fba0bfdd904.d0444.png%252F1200x630.png?signature=M8Ny3AboNS1Jj-wHe25Nffvr8E8=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "publishedDateTime": "2021-06-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-hpe-acquires-determined-ai-to-ramp-up-machine-learning-development.md",
-      "title": "HPE acquires Determined AI to ramp up machine learning development",
-      "excerpt": "The deal will see HPE merge Determined AI’s machine learning platform with its high-performance computing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
-      "originalUrl": "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup.md",
-      "title": "Five Questions To Ask Before Raising A Series A For Your Robotics Startup",
-      "excerpt": "As a founder of a robotics startup, how do you successfully access venture capital, and more specifically, how can you raise a series A at a fair valuation with favorable terms?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0fbf12f7551babaf08109%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D966%26cropY1%3D56%26cropY2%3D599",
-          "width": 966,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/amp/",
-      "publishedDateTime": "2021-06-22T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack.md",
-      "title": "Nvidia Jetson chips make IoT devices vulnerable to attack",
-      "excerpt": "Nvidia has patched several vulnerabilities in its Jetson system-on-module (SOM) series chips that hackers could have exploited to escalate privileges and mount denial-of-service (DoS) attacks. The products affected by the vulnerabilities include the Jetson TX1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/vulnerability/359961/nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack",
-      "originalUrl": "https://www.itpro.co.uk/security/vulnerability/359961/nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1597916170/Nvidia_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/vulnerability/359961/nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/vulnerability/359961/nvidia-jetson-chips-make-iot-devices-vulnerable-to-attack?amp",
-      "publishedDateTime": "2021-06-22T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft.md",
-      "title": "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure",
-      "excerpt": "SAN FRANCISCO, June 22, 2021 /PRNewswire/ -- Primer, an artificial intelligence (AI) company ... and natively supported within Microsoft Azure, enabling rapid deployment for Azure customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true"
 type: article
 quality: 105
-heat: 176
+heat: 175
 published: true
 
 provider:

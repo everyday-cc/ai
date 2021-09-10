@@ -2,6 +2,85 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-01-7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet.md",
+      "title": "7 Robotics Stocks to Buy for Elon Musk’s Big ‘Tesla Bot’ Bet",
+      "excerpt": "Robotics stocks have been gaining significant traction among buy-and-hold investors lately. This is not surprising, as we’re seeing rising demand for robotics from a variety of segments — from electric vehicles (EV) and e-commerce groups to electronics names and the oil industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01",
+      "originalUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01?amp",
+      "publishedDateTime": "2021-09-01T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai.md",
+      "title": "Global Investment Bank, Capital Trust announce $68 mn investment fund in AI",
+      "excerpt": "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to $68 million in startups transforming artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/14/full/1610640588-3918.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "publishedDateTime": "2021-09-01T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-this-is-the-cheapest-robot-vacuum-youll-find-today.md",
       "title": "This is the cheapest robot vacuum you’ll find today",
       "excerpt": "If you need help in keeping your floor clean, take advantage of this offer from Walmart that drops the price of the IonVac SmartClean 2000 robot vacuum to $97.",
@@ -136,6 +215,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-auburn-universitys-robotic-dog-advancing-research-teaching-outreach-as-part-of-cutting-edge-construction-technology-evolution.md",
+      "title": "Auburn University's robotic dog advancing research, teaching, outreach as part of cutting-edge construction technology evolution",
+      "excerpt": "Aside from Auburn University's beloved mascot Aubie, perhaps nothing draws a crowd on campus these days more than the university's coolest",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/auburn-universitys-robotic-dog-advancing-research-teaching-outreach-as-part-of-cutting-edge-construction-technology-evolution-301366458.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/auburn-universitys-robotic-dog-advancing-research-teaching-outreach-as-part-of-cutting-edge-construction-technology-evolution-301366458.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1605834/Mac_story_slider.jpg?p=facebook",
+          "width": 2508,
+          "height": 1313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-31T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -369,6 +491,49 @@
       "provider": {
         "name": "The Sentinel",
         "domain": "sentinelassam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-31-tobi-2-robot-smartwatch-review-a-kids-device-that-brings-its-game-face.md",
+      "title": "Tobi 2 Robot Smartwatch review: A kids’ device that brings its game face",
+      "excerpt": "The colorful Tobi 2 Robot Smartwatch brings its game face to motivate movement and promote learning for kids. Read our expert review today!",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/reviews/tobi-2-kids-smartwatch/",
+      "originalUrl": "https://www.popsci.com/reviews/tobi-2-kids-smartwatch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/08/26/Tobi-2-Robot-smartwatch-crazy-face-1024x688.jpg",
+          "width": 1024,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -752,6 +917,49 @@
       "provider": {
         "name": "KSDK",
         "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-from-milking-machines-to-restaurant-servers-robots-contribute-to-the-superabundance-of-northwest-foods.md",
+      "title": "From milking machines to restaurant servers, robots contribute to the superabundance of Northwest foods",
+      "excerpt": "Tech and food have gone together since our ancient ancestors made stone hand axes, and technological developments have been fundamental to the project of feeding humanity since the agricultural revolution millennia ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.opb.org/article/2021/08/27/pacific-northwest-food-robotic-milking-machines-robot-restaurant-servers/",
+      "originalUrl": "https://www.opb.org/article/2021/08/27/pacific-northwest-food-robotic-milking-machines-robot-restaurant-servers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3ac64bsgpdzxx.cloudfront.net/08-27-2021/t_4c9bad0c206d4ba48f81b667090d0397_name_Superabundant_Ep__4_Thumbnail_6.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.opb.org/article/2021/08/27/pacific-northwest-food-robotic-milking-machines-robot-restaurant-servers/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2021/08/27/pacific-northwest-food-robotic-milking-machines-robot-restaurant-servers/?outputType=amp",
+      "publishedDateTime": "2021-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OPB",
+        "domain": "opb.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1197,242 +1405,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics.md",
-      "title": "Velodyne Lidar Announces Multi-Year Sales Agreement with Renu Robotics",
-      "excerpt": "Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) today announced a multi-year agreement to provide its Puck™ lidar sensors to Renu Robotics, an industry leader in autonomous vegetation management systems. Renu Robotics’ Renubot,",
-      "sourceUrl": null,
-      "webUrl": "https://gisuser.com/2021/08/velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics/",
-      "originalUrl": "https://gisuser.com/2021/08/velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gisuser.com",
-        "domain": "gisuser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds.md",
-      "title": "Even experts are too quick to rely on AI explanations, study finds",
-      "excerpt": "According to a new study, even simple explanations given by AI systems are enough to mislead even experts into trusting the systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/25/even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/08/25/even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1628527067120.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/25/even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds/amp/",
-      "publishedDateTime": "2021-08-25T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-joondalup-supports-push-to-become-centre-for-artificial-intelligence-and-robotics.md",
-      "title": "Joondalup supports push to become centre for artificial intelligence and robotics",
-      "excerpt": "A major Perth council wants to become Australia’s first urban centre for artificial intelligence and robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
-      "originalUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.perthnow.com.au/publication/C-3759113/76e2e6c6694853bac73137e934cad47d6de4a2db-16x9-x0y198w2756h1550.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
-      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
-      "publishedDateTime": "2021-08-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Perth Now",
-        "domain": "perthnow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-agritech-robotics-startup-tartansense-raises-5-mn-in-series-a-funding.md",
-      "title": "Agritech robotics startup TartanSense raises $5 mn in Series-A funding",
-      "excerpt": "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms prune expenses and improve incomes",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/25/full/1629891980-9154.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html",
-      "publishedDateTime": "2021-08-25T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-tesla-starts-hiring-roboticists-for-its-tesla-bot-humanoid-robot-project.md",
-      "title": "Tesla starts hiring roboticists for its ‘Tesla Bot’ humanoid robot project",
-      "excerpt": "Tesla has started to hire roboticists to build its recently announced ‘Tesla Bot’, a humanoid robot to become a new vehicle for its AI technology. When Elon Musk explained the rationale behind Tesla Bot,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/",
-      "originalUrl": "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Screen-Shot-2021-08-19-at-10.17.39-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/25/tesla-starts-hiring-roboticists-tesla-bot-humanoid-robot-project/amp/",
-      "publishedDateTime": "2021-08-25T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

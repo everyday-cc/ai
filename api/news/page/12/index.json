@@ -2,6 +2,246 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-28-making-virtual-learning-real.md",
+      "title": "Making Virtual Learning Real",
+      "excerpt": "Universities have deployed virtual labs, educational digital twins and machine learning to innovate online education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/",
+      "originalUrl": "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128e5695e7579e33ef2390e%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mungchiang/2021/08/27/making-virtual-learning-real/amp/",
+      "publishedDateTime": "2021-08-27T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-us-agencies-increasing-use-of-facial-recognition-tech.md",
+      "title": "US Agencies Increasing Use of Facial Recognition Tech",
+      "excerpt": "At least 10 U.S. government agencies are planning to increase the use of facial recognition technologies by 2023, according to a GAO report. The growing utilization",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcareinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393",
+      "originalUrl": "https://www.healthcareinfosecurity.com/us-agencies-increasing-use-facial-recognition-tech-a-17393",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/us-agencies-increasing-use-facial-recognition-tech-showcase_image-2-a-17393.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcareinfosecurity.com",
+        "domain": "healthcareinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-army-wants-to-install-facial-recognition-video-analytics-at-child-development-centers.md",
+      "title": "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers",
+      "excerpt": "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process.md",
+      "title": "Key Ways Artificial Intelligence Can Improve Recruiting In The Hiring Process",
+      "excerpt": "A number of companies have turned to AI to improve their recruiting—a task that once required hours of sorting through resumes, calling applicants and scheduling interviews to find the perfect candidate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128f2a81a40fb7e8b49f13e%2F0x0.jpg",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/",
+      "publishedDateTime": "2021-08-27T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-a-new-ai-technology-might-help-detect-gastric-cancer.md",
+      "title": "A New AI Technology Might Help Detect Gastric Cancer",
+      "excerpt": "Each year, one million patients around the globe are diagnosed with stomach cancer. Can a new cancer-detecting AI help save lives?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/",
+      "originalUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612914d1b76e70fd4b9d34e3%2F0x0.jpg",
+          "width": 1128,
+          "height": 752,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/",
+      "publishedDateTime": "2021-08-27T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open.md",
       "title": "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open",
       "excerpt": "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information ...",
@@ -531,19 +771,19 @@
     {
       "path": "_news/2021-08-27-pos-upgrades-inc-selects-alwaysai-as-its-computer-vision-partner-for-frictionless-self-checkout.md",
       "title": "POS Upgrades, Inc. Selects alwaysAI® as Its Computer Vision Partner for Frictionless Self-Checkout",
-      "excerpt": "POS Upgrades (POSU), a leader in innovative payment solutions, and computer vision platform leader, alwaysAI ®, have announced a strategic partnership to bring turnkey, high-performance visual recognition systems for food and other items at the point-of-sale to POSU's customers.",
+      "excerpt": "PRNewswire/ -- (POSU), a leader in innovative payment solutions, and computer vision platform leader, alwaysAI®, have announced a strategic partnership to bring turnkey,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-pos-upgrades-inc-selects-alwaysaireg-as-its-computer-/2021/08/27/9438710.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-pos-upgrades-inc-selects-alwaysaireg-as-its-computer-/2021/08/27/9438710.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/pos-upgrades-inc-selects-alwaysai-as-its-computer-vision-partner-for-frictionless-self-checkout/article_f61c8a27-3242-5d9b-99b8-76c66d062a86.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/pos-upgrades-inc-selects-alwaysai-as-its-computer-vision-partner-for-frictionless-self-checkout/article_f61c8a27-3242-5d9b-99b8-76c66d062a86.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1603027/alwaysAI_POS_Upgrades.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/7e/f7e9d197-17fc-5158-a267-ebd8b8d108df/6128e256a2dba.image.jpg?resize=1121%2C630",
+          "width": 1121,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -553,11 +793,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-27T06:19:00-07:00",
+      "publishedDateTime": "2021-08-27T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -568,6 +808,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-from-milking-machines-to-restaurant-servers-robots-contribute-to-the-superabundance-of-northwest-foods.md",
+      "title": "From milking machines to restaurant servers, robots contribute to the superabundance of Northwest foods",
+      "excerpt": "Tech and food have gone together since our ancient ancestors made stone hand axes, and technological developments have been fundamental to the project of feeding humanity since the agricultural revolution millennia ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.opb.org/article/2021/08/27/pacific-northwest-food-robotic-milking-machines-robot-restaurant-servers/",
+      "originalUrl": "https://www.opb.org/article/2021/08/27/pacific-northwest-food-robotic-milking-machines-robot-restaurant-servers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3ac64bsgpdzxx.cloudfront.net/08-27-2021/t_4c9bad0c206d4ba48f81b667090d0397_name_Superabundant_Ep__4_Thumbnail_6.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.opb.org/article/2021/08/27/pacific-northwest-food-robotic-milking-machines-robot-restaurant-servers/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2021/08/27/pacific-northwest-food-robotic-milking-machines-robot-restaurant-servers/?outputType=amp",
+      "publishedDateTime": "2021-08-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OPB",
+        "domain": "opb.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -881,284 +1164,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco.md",
-      "title": "Waymo launches rider testing for self-driving cars in San Francisco",
-      "excerpt": "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
-      "originalUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
-      "publishedDateTime": "2021-08-26T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRON4",
-        "domain": "kron4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-meet-the-voice-behind-mg-astors-ai-assistant.md",
-      "title": "Meet the voice behind MG Astor's AI assistant",
-      "excerpt": "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming",
-      "sourceUrl": null,
-      "webUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
-      "originalUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
-      "cdnAmpWebUrl": "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
-      "publishedDateTime": "2021-08-26T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Team-BHP.com",
-        "domain": "team-bhp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-heres-why-nvidia-will-surpass-apples-valuation-in-5-years.md",
-      "title": "Here’s Why Nvidia Will Surpass Apple’s Valuation In 5 Years",
-      "excerpt": "Nvidia can surpass Apple by capitalizing on the artificial intelligence economy, which will add an estimated $15 trillion to GDP. This is compared to the mobile economy that brought us gains in Apple,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128578a1e2398ca70cb5238%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
-      "publishedDateTime": "2021-08-26T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-celebrity-spotting-amazon-improves-facial-recognition-for-famous-people.md",
-      "title": "Celebrity spotting: Amazon improves facial recognition for famous people",
-      "excerpt": "Amazon promises its Rekognition machine-learning tech will save hours of humans tagging photos and videos of celebrities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
-      "originalUrl": "https://www.zdnet.com/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/27/0edfb3a5-a400-465b-86f8-f06782fe711e/amazon-rekognition-wener-vogels.jpg",
-          "width": 1054,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
-      "publishedDateTime": "2021-08-26T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-intel-launches-ai-for-workforce-program-for-students-in-18-community-colleges.md",
-      "title": "Intel Launches AI for Workforce Program for Students in 18 Community Colleges",
-      "excerpt": "Intel is announcing a major expansion of its Intel® AI for Workforce Program to help educate the next generation of U.S. technologists, engineers and inventors — and to help them land careers in their chosen fields,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html",
-      "originalUrl": "https://www.csrwire.com/press_releases/727521-intel-launches-ai-workforce-program-students-18-community-colleges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/KBbLN4sf9GD_tgm4GcWd0Q--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/91a4aa364fb2d6461843611c01aa0c2b",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSR Wire",
-        "domain": "csrwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-baidu-cash-position-reflects-50-of-market-cap.md",
-      "title": "Baidu: Cash Position Reflects ~50% Of Market Cap",
-      "excerpt": "Baidu's cash and cash equivalents position ... and global leadership in AI (artificial intelligence), including self-driving technology through Apollo (robotaxis, robobuses, etc.). We are one ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "originalUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168330221/medium_image_1168330221.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "publishedDateTime": "2021-08-26T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

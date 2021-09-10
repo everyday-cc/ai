@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive-Singapore's ADVANCE.AI raising $200 million from Warburg Pincus-led investors - sources"
-    excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
-    publishedDateTime: 2021-09-09T14:15:00Z
-    webUrl: "https://www.reuters.com/article/singapore-advance-ai-funding-exclusive-idUSKBN2G50X6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2G50X6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2G50X6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210909&t=2&i=1574303528&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH880LW"
-        width: 780
-        height: 545
-        isCached: true
   - title: "EXCLUSIVE-Singapore's ADVANCE.AI raising $200 mln from Warburg Pincus-led investors - sources"
     excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
     publishedDateTime: 2021-09-09T10:17:00Z
@@ -57,6 +41,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
+  - title: "Exclusive-Singapore's ADVANCE.AI Raising $200 Million From Warburg Pincus-Led Investors - Sources"
+    excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
+    publishedDateTime: 2021-09-09T10:15:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-09-09/exclusive-singapores-advanceai-raising-200-million-from-warburg-pincus-led-investors-sources"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "FT7Sqz+jpyOJ2Ll3orHqSsNk6Vw9TxWyuKBqbN1tt5FqTMLUDCNPGcpoN6gYy2SreCzO9zSvFVLaqCaqM022VmBJWY3FUdqWV7jih+rOCYh0E7Fw8y33qdvsGKa+K/T87RVhzcv1qcWNzaxc/p2PXeEzOA+7oG4G7XU0qxNXr2xhyaZ2/TnomTjNhV9mPIs2mTuruCgg6Bq3qVRI1h4nIQ1QxWbu1hQyvFnuRdydL37PEPqKr3bStce+RxZtfwRtAljtQ51L1zY0SKuFZCE8mgf6qTxOcdQqKKnZhWt84BS4fl4ECb4aGlrwvqkruBtnXW8Qekh/qhRw1fAfDhckrhN/D6z6LFwatJH4zbF/heM=;THIHXpGmQHzQczQdrQSDiQ=="
 ---

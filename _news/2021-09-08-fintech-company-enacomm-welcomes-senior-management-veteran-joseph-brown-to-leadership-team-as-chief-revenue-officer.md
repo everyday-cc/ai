@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "FinTech company ENACOMM welcomes senior management veteran Joseph Brown to leadership team as Chief Revenue Officer"
+    excerpt: "FinTech company ENACOMM is accelerating its strong growth with the hire of Joseph Brown—a seasoned technology leader with global experience—as Chief Revenue Officer. Brown has held high-level executive management positions in major corporations and led start-ups."
+    publishedDateTime: 2021-09-08T20:05:00Z
+    webUrl: "https://www.cuinsight.com/press-release/fintech-company-enacomm-welcomes-senior-management-veteran-joseph-brown-to-leadership-team-as-chief-revenue-officer"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 2
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/09/unnamed-5.jpg"
+        width: 268
+        height: 262
+        isCached: true
+
 secured: "6LRmzXBTNah61dF1olF/3xQrQY7ndrwaMjjn4Wtd02IBCLUSafSrEYKyU+aD/7vjxZh6DZ+veAY539w3WU51NEHviQ4MeDDQzsCBwnO4ergQb3rkkVsZVChKgHfIpgNTCf3JQTeun6mk/1oXrdjxcSMHIphTiCt8pcDDKJq2VPNyGpHBFqo896eqI7cecbXwkklPMpHxdguWO2Xg/P4PJRn4O9254RdFjM2DxGw+U4P2LgobhxjyJ7/ejSW8fIQLNyDoI0Smi0VJFlBEq7xNAQCMmyc4QUSoNQ4MbnO9XGAGlvxTb2p48SnxveQrbzGRMermbbpwC3LOhPUfGa0hMQou0yKw/whn5W1vMxai448=;RGxjodMCyubm9Z2mTVEhOw=="
 ---
 

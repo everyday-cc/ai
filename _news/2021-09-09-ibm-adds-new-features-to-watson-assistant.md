@@ -79,6 +79,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 79
+  - title: "IBM Watson launches new AI and automation features for CX transformation"
+    excerpt: "New IBM Watson Assistant features designed to help businesses more quickly set up a voice agent with IntelePeer and enable more seamless hand-offs to live agents."
+    publishedDateTime: 2021-09-10T02:33:00Z
+    webUrl: "https://www.dqindia.com/ibm-watson-launches-new-ai-automation-features-cx-transformation/"
+    ampWebUrl: "https://www.dqindia.com/ibm-watson-launches-new-ai-automation-features-cx-transformation/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-watson-launches-new-ai-automation-features-cx-transformation/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 73
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-Datascience.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "IBM Watson Launches New AI And Automation Features For Better Services"
     excerpt: "The announcement includes collaboration with IntelePeer, a Communications Platform-as-a-Service provider, to set up and test a voice agent."
     publishedDateTime: 2021-09-09T13:39:00Z

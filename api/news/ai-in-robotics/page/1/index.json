@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-finally-a-robot-vacuum-with-ai-that-can-sniff-out-and-avoid-dog-poop.md",
+      "title": "Finally! A robot vacuum with AI that can sniff out (and avoid) dog poop",
+      "excerpt": "They’re finally going there…so to speak. In what may be the biggest boon to animal lovers since pet food in a can, rolling robot vacuum maker iRobot has come up with an AI-assisted way for its newest model to tell the difference between pet poop and regular floor clutter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop",
+      "originalUrl": "https://www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/gettyimages-587079173.jpg",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop?amp",
+      "publishedDateTime": "2021-09-09T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-ethical-artificial-intelligence-is-focus-of-new-robotics-program.md",
       "title": "Ethical Artificial Intelligence is Focus of New Robotics Program",
       "excerpt": "Ethics will be at the forefront of robotics education thanks to a new University of Texas at Austin program that will train tomorrow's technologists to understand the positive — and potentially negative — implications of their creations.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://cns.utexas.edu/news/ethical-artificial-intelligence-is-focus-of-new-robotics-program",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -194,7 +237,7 @@
       "originalUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -977,6 +1020,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-03-rpa-robotic-process-automation-can-it-help-with-mainframe-modernization.md",
+      "title": "RPA (Robotic Process Automation): Can It Help With Mainframe Modernization?",
+      "excerpt": "RPA (Robotic Process Automation) has proven to be effective in automating tedious and repetitive processes for traditional IT environments. The ROI (Return on Investment) has generally been quick and the technology can be a stepping stone to other modernization efforts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61324debbf3bb134fb5b41cb%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/amp/",
+      "publishedDateTime": "2021-09-03T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-elon-musk-tesla-making-a-robot-because-robots-are-coming-anyway.md",
       "title": "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”",
       "excerpt": "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war.",
@@ -1304,94 +1399,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet.md",
-      "title": "7 Robotics Stocks to Buy for Elon Musk’s Big ‘Tesla Bot’ Bet",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks have been gaining significant traction among buy-and-hold",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-1030773901",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-1030773901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai.md",
-      "title": "Global Investment Bank, Capital Trust announce $68 mn investment fund in AI",
-      "excerpt": "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to $68 million in startups transforming artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/14/full/1610640588-3918.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
-      "publishedDateTime": "2021-09-01T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

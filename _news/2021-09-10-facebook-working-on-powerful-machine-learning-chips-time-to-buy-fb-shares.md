@@ -73,21 +73,21 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Facebook’s AI put ‘primates’ label on videos depicting black men"
-    excerpt: "The company called it an unacceptable error and said that it knows that its AI is not perfect and there’s still progress to make"
-    publishedDateTime: 2021-09-05T09:38:00Z
-    webUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men-11630830158252.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebooks-ai-put-primates-label-on-videos-depicting-black-men/amp-11630830158252.html"
+  - title: "Facebook developing machine learning chip: Report"
+    excerpt: "Facebook's move comes as major technology firms, including Apple Inc Amazon.com Inc and Alphabet Inc's Google, are increasingly ditching traditional s.."
+    publishedDateTime: 2021-09-10T02:41:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/facebook-developing-machine-learning-chip-report/86072325"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/facebook-developing-machine-learning-chip-report/86072325"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/facebook-developing-machine-learning-chip-report/86072325"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
     images:
-      - url: "https://images.livemint.com/img/2021/09/05/600x338/2021-08-20T082648Z_2_LYNXMPEH7J0E5_RTROPTP_3_AFGHANISTAN-CONFLICT-SOCIALMEDIA_1629701868385_1630830249254.JPG"
-        width: 600
-        height: 338
+      - url: "https://etimg.etb2bimg.com/thumb/msid-86072325,imgsize-34702,width-800,height-434,overlay-etcio/facebook-developing-machine-learning-chip-report.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "Facebook developing machine learning chip"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"

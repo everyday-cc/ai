@@ -2,6 +2,251 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-19-is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim.md",
+      "title": "Is Artificial Intelligence Contributing Positively To Parenting? Weighing The Pros And Cons With Angela J. Kim",
+      "excerpt": "It seems that most discussions about parenting and AI are focused on privacy issues, but there are many other ways in which these two worlds intersect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611dc4227a4a5e566416ca62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1834%26cropY1%3D670%26cropY2%3D2045",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/amp/",
+      "publishedDateTime": "2021-08-18T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics.md",
+      "title": "Artificial Intelligence (AI) Robots Market to Set Phenomenal Growth from 2021 to 2026 | ABB, Alphabet, Amazon, Asustek Computer, Blue Frog Robotics",
+      "excerpt": "Robots Market was valued USD xxxx unit in 2020 and is expected to reach USD xxxx Unit by the year 2025, growing at a CAGR of xx% globally. Global  (AI) Robots Market Overview: Global  (AI) Robots Market Report 2020 comes with the extensive industry analysis of development components,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/PR-01-Automotive-and-Transport-27.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-robots-market-to-set-phenomenal-growth-from-2021-to-2026-abb-alphabet-amazon-asustek-computer-blue-frog-robotics/",
+      "publishedDateTime": "2021-08-18T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-startup-that-develops-ai-pumped-robotic-arms-raises-37-million.md",
+      "title": "Startup That Develops AI-Pumped Robotic Arms Raises $37 Million",
+      "excerpt": "Rapid Robotics’ Series B was led by Kleiner Perkins and Tiger Global, and comes as labor and parts shortages are hitting the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957",
+      "originalUrl": "https://www.wsj.com/articles/startup-that-develops-ai-pumped-robotic-arms-raises-37-million-11629311957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-387697/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-bill-smart-brings-technical-expertise-in-robotics-and-ai-to-discussions-about-regulation.md",
+      "title": "Bill Smart Brings Technical Expertise in Robotics and AI to Discussions about Regulation",
+      "excerpt": "Bill Smart builds robots and researches human-robot interactions. He is also very interested in the policies that guide and regulate technology. Sometimes, he says, policymakers, like other members of the public,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation",
+      "originalUrl": "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aaas.org/sites/default/files/styles/large/public/2021-08/smart_0219-6-1200x628_440X440.jpg?itok=bhxYTxx1",
+          "width": 440,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AAAS",
+        "domain": "aaas.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-meet-the-self-driving-brains-inside-volkswagen-and-ford.md",
+      "title": "Meet the self-driving brains inside Volkswagen and Ford",
+      "excerpt": "Argo AI CEO Bryan Salesky on a new partnership with Lyft and setting realistic expectations for self-driving cars Today I’m talking to Bryan Salesky, the co-founder and CEO of Argo AI, a startup that’s trying to build the tech stack for self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "originalUrl": "https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/lFSsTemb8UgU8HixrqnmF7Z3krA=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69735919/VRG_ILLO_Decoder_ARGO_AI_s.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "publishedDateTime": "2021-08-17T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier.md",
       "title": "Industry Expo To Feature Seven Well-Tech Trends to Make Your Home Healthier",
       "excerpt": "Ian Bryant, CEDIA’s director of strategic partnerships, dates the industry’s heightened interest in “well-tech,” (also called well tech and welltech to describe technology created to support wellness),",
@@ -1128,239 +1373,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-yumi-a-robot-for-you-and-me.md",
-      "title": "YuMi -- a Robot for You and Me",
-      "excerpt": "In order to be of maximum use, YuMi has flexible hands, a parts-feeding system, camera-based part location sensors, and state-of-the-art robot control. The robot is capable ... We designed YuMi with that in mind.\" YuMi was designed to collaborate side ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/yumi-robot-you-and-me",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/yumi-robot-you-and-me",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/ABB-YuMi-%281%29.jpg",
-          "width": 500,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-the-best-robot-vacuums-for-hardwood-floors.md",
-      "title": "The best robot vacuums for hardwood floors",
-      "excerpt": "Robot vacuums are a great match for hardwood flooring, but some models do better than others. These are the best robovacs and smart features for your hardwood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/eufy-robovac-1-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp",
-      "publishedDateTime": "2021-08-10T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy.md",
-      "title": "Xiaomi CyberDog is an unexpectedly affordable open-source robot puppy",
-      "excerpt": "Xiaomi is getting in on the robot business, with the new Xiaomi CyberDog revealed to take on Boston Dynamics but at a fraction of the cost. Announced today alongside the Xiaomi Mix 4 smartphone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy-10686041/",
-      "originalUrl": "https://www.slashgear.com/xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy-10686041/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/08/CyberDog_06.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy-10686041/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy-10686041/amp/",
-      "publishedDateTime": "2021-08-10T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-zebra-concludes-fetch-robotics-acquisition.md",
-      "title": "Zebra Concludes Fetch Robotics Acquisition",
-      "excerpt": "Zebra Technologies announced Tuesday (Aug. 10) it has completed its acquisition of the cloud-driven autonomous mobile robot (AMR) startup Fetch Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Zebra-Technologies-Fetch-Robotics-acquisition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/amp/",
-      "publishedDateTime": "2021-08-10T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-xiaomi-just-unveiled-its-first-robot-dog.md",
-      "title": "Xiaomi Just Unveiled Its First Robot Dog",
-      "excerpt": "Xiaomi today unveiled its open-source four-legged CyberDog that developers can \"build upon\" in order to create their own applications.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "originalUrl": "https://interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Xy6xljzk6r/sizes/cyberdog-1_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
-      "publishedDateTime": "2021-08-10T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
         "images": null,
         "publishers": null,
         "authors": null

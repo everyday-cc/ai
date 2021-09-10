@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Intelligent Document Processing (IDP) in P&C Insurance"
-excerpt: "Singularity Systems Inc., a global provider of artificial intelligence (AI) solutions for intelligent document processing and"
-publishedDateTime: 2021-09-09T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/intelligent-document-processing-idp-in-pc-insurance-301372490.html"
-webUrl: "https://www.prnewswire.com/news-releases/intelligent-document-processing-idp-in-pc-insurance-301372490.html"
+excerpt: "\"Our Singu̇AI platform combines four technologies - Computer Vision, Natural Language Processing (NLP), Optical Character Recognition (OCR), and Auto Machine Learning (AutoML) – to provide the ..."
+publishedDateTime: 2021-09-09T14:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/intelligent-document-processing-idp-in-p-c-insurance-1030790434"
+webUrl: "https://markets.businessinsider.com/news/stocks/intelligent-document-processing-idp-in-p-c-insurance-1030790434"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1492218/Singularity_Systems_Logo.jpg?p=facebook"
-    width: 2091
-    height: 1094
+  - url: "https://mma.prnewswire.com/media/1492218/Singularity_Systems_Logo.jpg"
+    width: 316
+    height: 400
     isCached: true
 
-secured: "YLA6WCuapvd2W8FdzOoLhMLi6lySxG8p6VzxiZ/9zF8gQD1Opead5SJDi3cjraIaFT18GOKbBiomyVSp0zzyAU+L0YIEezeCBA38zyzysE7+eZvwinkmDSgdUTy3+6+TK4p8WdVkLdtr7bx8AWmhu37SAcRHNe3NLDgAodWPMrHDb/yuBD3vEP6nmRctlpAtlm7JBTTW6Ei1vAy2eZpkGKehUjck4g6z3pMsQhTLGOjzTmex/sDWP1VIUWzTiih76XJS6k9JJQBqrHiHIBL/jST/J/ThLLRI/msVqx9muYUes9lgJ+9PfIsE536xOdBPK+ijhkdlumdFFODRdxm0zjBlSmcHkLL4OjmOVP0VWqY=;8lc9cYOAwC+3tfwvfcvNzw=="
+secured: "BV5PFXQrmJSnUxQXkJID9kwhcyuDurVTSOYoh5ESgkZf0YDG9+Ht/U8HeJYZ7v5lgSWKAg01oreODKMvk5DFy6mH8yI6pHMfg3b28ikOPNB874ZHyQe+qgWMNJLqarKokuwprCmjfdQLWxDOPGUd2Xcq0gOfaRJ2Q6BeKOEMjfSjHEeeGYAEeJldVgOt8iV/DSAIAzKmbAm0WqAbOOa+KOaJJALU3MhS9/6ei1Ph2vhrFPt1WAS2zQnXV5L3X+aLuMU6zyCskvPlDTnY9pLos0tPRefwAc6JruYeX3VO8MZJWOS762+Q7UTeU6lfZ+p/ASocFN16aC+oQOVDuLgQCCmYkWfzd4azwK+Oo6Xsb+s=;rEXhJZH8JwysfESHoSVSJg=="
 ---
 

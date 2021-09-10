@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-07-singapore-has-safety-patrol-robots-now-this-should-be-fine.md",
+      "title": "Singapore has safety patrol robots now! This should be fine.",
+      "excerpt": "Singapore has started testing patrol robots that provide surveillance in pedestrian areas, working with the city-state's police force.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/singapore-police-patrol-surveillance-robots",
+      "originalUrl": "https://mashable.com/article/singapore-police-patrol-surveillance-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/0700hA1x6jKi99YlGCe3tFO/hero-image.fill.size_1200x675.v1631015706.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/singapore-police-patrol-surveillance-robots?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/singapore-police-patrol-surveillance-robots?amp",
+      "publishedDateTime": "2021-09-07T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-ai-or-rpa-which-is-the-true-automation-game-changer.md",
+      "title": "AI Or RPA: Which Is The True Automation Game-Changer?",
+      "excerpt": "With AI advancing at such a rapid pace, organizations can now skip RPA and combine AI with application programming interfaces (APIs) to achieve more holistic automation that requires less maintenance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda45bb02ecda00061c10ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/amp/",
+      "publishedDateTime": "2021-09-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-astronauts-in-space-will-soon-resurrect-an-ai-robot-friend-called-cimon.md",
       "title": "Astronauts in space will soon resurrect an AI robot friend called CIMON",
       "excerpt": "The AI-powered robot CIMON has received a software update before an upcoming round of more complex experiments at the International Space Station.",
@@ -1096,102 +1190,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-3-top-ai-stocks-to-buy-right-now.md",
-      "title": "3 Top AI Stocks to Buy Right Now",
-      "excerpt": "Anders Bylund (IBM): Good old International Business Machines ... Big Blue sowed the seeds to its Watson AI engine decades ago and has nurtured that asset into a problem-solving system with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
-      "originalUrl": "https://www.fool.com/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/1cc036e0dce93765f10e22528a16dc3a.png",
-          "width": 720,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
-      "publishedDateTime": "2021-09-05T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway.md",
-      "title": "Elon Musk Says Tesla Is Making A Robot Because ‘Robots Are Coming Anyway’",
-      "excerpt": "Advertisement Artificial intelligence is coming for us all; this is a prediction or a warning as you like to term it is up to you. He has been on this narrative for years. “I’ve been banging this AI drum for a decade,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/",
-      "originalUrl": "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/09/elon-musk-robots-coming-anyway.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/",
-      "publishedDateTime": "2021-09-05T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

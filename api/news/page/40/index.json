@@ -2,6 +2,262 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-08-10-nimbleboxai-raises-1-mn-seed-funding-led-by-venture-catalysts.md",
+      "title": "NimbleBox.ai Raises $1 Mn Seed Funding Led By Venture Catalysts",
+      "excerpt": "The funding will be utilized to deliver the company’s fast-moving product development roadmap, customer base expansion and hiring drive",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379813",
+      "originalUrl": "https://www.entrepreneur.com/article/379813",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628586139-joel-rohland-C1r9pODhfQ4-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379813",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379813",
+      "publishedDateTime": "2021-08-10T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-teslas-strength-in-patent-numbers-leaves-rivals-in-dust.md",
+      "title": "Tesla’s strength in patent numbers leaves rivals in dust",
+      "excerpt": "In 2018, Tesla applied for a patent for a steering system that will allow the car to be operated via touch screen. A vehicle can be controlled by making swiping or clicking gestures on the flat interface,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2021/08/10/teslas-strength-in-patent-numbers-leaves-rivals-in-dust/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2021/08/10/teslas-strength-in-patent-numbers-leaves-rivals-in-dust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-logitech-scribe-review-ai-camera-brings-analogue-whiteboards-into-video-meetings.md",
+      "title": "Logitech Scribe review: AI camera brings analogue whiteboards into video meetings",
+      "excerpt": "Hybrid working and teaching, with a mixture of in-room and remote participants, is here to stay, and Logitech's Scribe provides a usable way of bringing analogue whiteboards into the digital fold. It's not inexpensive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/",
+      "originalUrl": "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/09/d81ef24f-a2f1-49d8-9318-a8be0945cf41/logitech-scribe-camera.jpg",
+          "width": 770,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/",
+      "publishedDateTime": "2021-08-10T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade.md",
+      "title": "Artificial Intelligence and Robotics are the major investment trends that will define the decade",
+      "excerpt": "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major investment trends that will dominate the market in the coming decade.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
+      "originalUrl": "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/08/10/Continental-Group_17b2ef55253_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
+      "publishedDateTime": "2021-08-10T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa.md",
+      "title": "Global Cloud Computing Market Revenue, Business Strategies ,Trend Analysis Development Forecast 2027|AWS, Salesforce, Rackspace, VMware, SPA",
+      "excerpt": "Global Cloud Computing Market was valued at USD 275.22 billion in 2019 which is expected to reach USD 625.45 billion by 2027 at a CAGR 18.8%. The recent report titled Cloud Computing Market Size, Status and Forecast 2021-2027” provided by Qualiket Research,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa/",
+      "originalUrl": "https://manometcurrent.com/global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-cloud-computing-market-revenue-business-strategies-trend-analysis-development-forecast-2027aws-salesforce-rackspace-vmware-spa/",
+      "publishedDateTime": "2021-08-10T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-china-overtakes-us-in-ai-research.md",
+      "title": "China overtakes US in AI research",
+      "excerpt": "China topped the U.S. for the first time in terms of the number of times an academic article on AI is cited by others, a measure of the quality of a study. Until recently, the U.S. had been far ahead of other countries in AI research.",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Spotlight/Datawatch/China-overtakes-US-in-AI-research",
+      "originalUrl": "https://asia.nikkei.com/Spotlight/Datawatch/China-overtakes-US-in-AI-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F1%252F4%252F5%252F35765419-1-eng-GB%252F%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2583%259B%25E3%2582%2599%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2599%25202%25404x-100.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-united-arab-bank-announces-participation-in-nationwide-sca-fintech-megathon-2021.md",
       "title": "United Arab Bank Announces Participation In Nationwide Sca Fintech Megathon 2021",
       "excerpt": "United Arab Bank announced its participation in a first of its kind nation-wide Fintech Megathon, SCA Fintech Megathon 2021, launched by Emirates Securi",
@@ -882,278 +1138,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-exact-symbolic-artificial-intelligence-for-faster-better-assessment-of-ai-fairness.md",
-      "title": "Exact symbolic artificial intelligence for faster, better assessment of AI fairness",
-      "excerpt": "A new domain-specific artificial intelligence programming language developed at MIT allows for error-free, exact, automatic solutions to hard AI problems — and it’s thousands of times faster than alternatives.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/exact-symbolic-artificial-intelligence-faster-better-assessment-ai-fairness-0809",
-      "originalUrl": "https://news.mit.edu/2021/exact-symbolic-artificial-intelligence-faster-better-assessment-ai-fairness-0809",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202108/scale.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-ais-real-effect-on-jobs-its-complicated.md",
-      "title": "AI’s real effect on jobs? It’s complicated",
-      "excerpt": "This article is part of a VB special issue. Read the full series: Automation and jobs in the new normal. To some, AI is a job killer. To others, it is a job enhancer. But like every other form of labor development since the first farmer hitched an ox to a plow and displaced a",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/09/ais-real-effect-on-jobs-its-complicated/",
-      "originalUrl": "https://venturebeat.com/2021/08/09/ais-real-effect-on-jobs-its-complicated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/startup-849804_1920-e1628271844907.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/09/ais-real-effect-on-jobs-its-complicated/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/ais-real-effect-on-jobs-its-complicated/amp/",
-      "publishedDateTime": "2021-08-09T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-us-parents-are-packing-their-kids-off-to-hundreds-of-ai-summer-camps.md",
-      "title": "US parents are packing their kids off to hundreds of AI summer camps",
-      "excerpt": "Artificial intelligence has become so ingrained in the economy that parents are packing their kids off to hundreds of AI summer camps across the US to learn how to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-summer-camps/",
-      "originalUrl": "https://qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-summer-camps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/08/2019-04-18T112849Z_1_LYNXNPEF3H0OY_RTROPTP_4_UK-BRITAIN-VIDEOGAMES-GIRLS-e1628526569697.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-summer-camps/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-summer-camps/amp/",
-      "publishedDateTime": "2021-08-09T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-collaboration-focuses-on-multimodal-ai-design.md",
-      "title": "Collaboration focuses on multimodal AI design",
-      "excerpt": "Together, they bring always-on functionality with quick voice-triggered activation from standby mode to perform object recognition, facial recognition, and other vision-based tasks. The multimodal architecture allows the creation of contactless user ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.edn.com/collaboration-focuses-on-multimodal-ai-design/",
-      "originalUrl": "https://www.edn.com/collaboration-focuses-on-multimodal-ai-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EDN",
-        "domain": "edn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-south-africa-awards-ai-invented-patent-in-a-world-first.md",
-      "title": "South Africa Awards AI-Invented Patent In a World First",
-      "excerpt": "South Africa’s patent office has granted the world's first patent for a creation generated by an AI inventor, DABUS.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
-      "originalUrl": "https://interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/AzwkVgWP6b/sizes/south-africa-awards-ai-invented-patent-in-a-world-first_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
-      "publishedDateTime": "2021-08-09T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-ai-data-warehousing-leader-pyramart-announces-new-integration-with-snowflake.md",
-      "title": "AI Data Warehousing Leader Pyramart Announces New Integration with Snowflake",
-      "excerpt": "Pyramart LLC, a leading Artificial Intelligence Data Warehousing (AIDW) company, has partnered with data-platform-in-the-cloud company Snowflake, providing better ways to house and manage data warehouses easily and automatically.",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterpriseai.news/2021/08/09/ai-data-warehousing-leader-pyramart-announces-new-integration-with-cloud-data-platform-snowflake/",
-      "originalUrl": "https://www.enterpriseai.news/2021/08/09/ai-data-warehousing-leader-pyramart-announces-new-integration-with-cloud-data-platform-snowflake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterpriseai.news/wp-content/uploads/2019/03/EAI2-01-fb.png",
-          "width": 1598,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterpriseai",
-        "domain": "enterpriseai.news",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

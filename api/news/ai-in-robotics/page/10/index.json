@@ -2,6 +2,230 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-02-zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings.md",
+      "title": "Zebra (ZBRA) to Buy Fetch Robotics, Enhance Product Offerings",
+      "excerpt": "Zebra Technologies Corporation ZBRA recently announced its intention to buy Fetch Robotics, Inc., a leading developer of autonomous mobile robots (AMRs) for $290 million. It’s worth noting that Zebra already owns 5% of Fetch Robotics and the latest announcement is related to the acquisition of the remaining 95% of the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02",
+      "originalUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02?amp",
+      "publishedDateTime": "2021-07-02T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-are-you-thirsty-this-ai-enabled-robot-can-bring-beer-to-holiday-parties.md",
+      "title": "‘Are you thirsty?’ This AI-enabled robot can bring beer to holiday parties",
+      "excerpt": "Heineken says its autonomous robot can hold up to 12 cans of beer, will follow you down the sidewalk and has a friendly AI personality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJQJRE4CONFJFF2GYV7TCPMRBE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
+      "publishedDateTime": "2021-07-01T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-amazon-plans-to-build-delivery-robot-tech-in-finland.md",
+      "title": "Amazon plans to build delivery robot tech in Finland",
+      "excerpt": "Amazon announced Thursday that it plans to develop new technology for its autonomous delivery vehicles in Helsinki, Finland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105695322-1548263648288amazon-scout.jpg?v=1548263696",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
+      "publishedDateTime": "2021-07-01T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-after-an-84m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment.md",
+      "title": "After an $8.4M raise, strawberry-picking robotics startup Traptic begins commercial deployment",
+      "excerpt": "We first covered Traptic back in 2019, when it appeared as a Battlefield finalist on stage at Disrupt SF. Today, the South Bay robotics startup is announcing some major progress. For starters, it began commercial deployment of its strawberry-picking mobile robot early this month.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/",
+      "originalUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZPmsvnouJ9w/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/amp/",
+      "publishedDateTime": "2021-07-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-accel-robotics-claims-successful-deployment-in-san-diego.md",
+      "title": "Accel Robotics Claims Successful Deployment In San Diego",
+      "excerpt": "San Diego-based Accel Robotics, which develops automated checkout systems designed for retail stores, claims it is seeing growth and success at its first rollout of \"Valet Market\", an automated store its has deployed ata a luxury,",
+      "sourceUrl": null,
+      "webUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
+      "originalUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.socaltech.com/images/story/valetmarket21b.jpg",
+          "width": 330,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SocalTech",
+        "domain": "socaltech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-zebra-technologies-to-acquire-fetch-robotics.md",
       "title": "Zebra Technologies to Acquire Fetch Robotics",
       "excerpt": "Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it intends to acquire Fetch Robotics, a pioneer in on-demand automation.",
@@ -1134,251 +1358,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-american-robotics-and-scientific-applications-research-associates-sara-partner-to-further-advance-fully-autonomous-drone-operations-in-us.md",
-      "title": "American Robotics and Scientific Applications & Research Associates (SARA) Partner to Further Advance Fully-Autonomous Drone Operations in U.S. Nation",
-      "excerpt": "SARA’s unique aircraft detection technology enables American Robotics’ Scout System drones to maintain a safe distance from other aircraft at all times. MARLBOROUGH, Mass. & CYPRESS, Calif.--(BUSINESS WIRE)--#AcousticSensor--American Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=490577",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=490577",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics.md",
-      "title": "BMW i Ventures invests in autonomous truck technology company Kodiak Robotics",
-      "excerpt": "BMW’s Silicon Valley-based venture capital arm is investing in Kodiak Robotics, a company that develops autonomous trucking technology.  Kodiak will use the funds to build out a safety case for its self-driving tech stack so it can more quickly commercialize.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/",
-      "originalUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Kodiak-Final-10-small.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/amp/",
-      "publishedDateTime": "2021-06-24T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-pitney-bowes-to-deploy-ambi-robotics-ai-powered-robots-in-us-to-support-global-ecommerce-network.md",
-      "title": "Pitney Bowes to Deploy Ambi Robotics AI-Powered Robots in US to Support Global Ecommerce Network",
-      "excerpt": "Pitney Bowes Inc., a global technology company providing commerce solutions that power billions of transactions in the areas of ecommerce, shipping, mailing, and financial services, today announced plans to deploy AmbiSort robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/ap/ap-business/pitney-bowes-to-deploy-ambi-robotics-ai-powered-robots-in-us-to-support-global-ecommerce/article_c4486991-c52a-5cba-bff2-cd9d8993a47e.html",
-      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/pitney-bowes-to-deploy-ambi-robotics-ai-powered-robots-in-us-to-support-global-ecommerce/article_c4486991-c52a-5cba-bff2-cd9d8993a47e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/09/109d77c8-a482-585a-9b1e-617b0cd75580/60d482491c452.image.jpg?resize=1055%2C630",
-          "width": 1055,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-be-human-first-the-robot-proof-human-trifecta.md",
-      "title": "Be Human First: The Robot-Proof Human Trifecta",
-      "excerpt": "The \"human trifecta\" refers to having a liberal arts foundation and building on it with design thinking and entrepreneurial mindsets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d358a5882e2674341bfd4c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/amp/",
-      "publishedDateTime": "2021-06-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025.md",
-      "title": "At CAGR of 45.4% Artificial Intelligence Chip Market Size is Projected to Reach $91.19 Billion by 2025",
-      "excerpt": "Heavy inflow of investments in AI startups, rise in demand for smart cities & smart homes, and emergence of quantum computing would propel the growth of the global artificial intelligence chip market Allied Market Research published a report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

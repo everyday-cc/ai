@@ -2,6 +2,232 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-14-compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market.md",
+      "title": "Compliance with Safety Regulations Becomes Key Proposition in Medical Robotics Market",
+      "excerpt": "Robots have enormous potential in medical and healthcare applications, as is evident in the swift pace of penetration in the sector. Per a projection by the International Federation of Robots (IFR), the medical robotics spawn a multibillion dollars market.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/",
+      "originalUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/07/ai-5899612_1920.jpg",
+          "width": 1267,
+          "height": 912,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/compliance-with-safety-regulations-becomes-key-proposition-in-medical-robotics-market-2/amp/",
+      "publishedDateTime": "2021-07-14T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-festo-advances-robot-programming-with-ai.md",
+      "title": "Festo advances robot programming with AI",
+      "excerpt": "Festo partners with several international companies and universities to develop FLAIROP - Federated Learning for Robot Picking",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
+      "originalUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/festo-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-humanoid-robot-keeps-getting-fired-from-his-jobs.md",
+      "title": "Humanoid Robot Keeps Getting Fired From His Jobs",
+      "excerpt": "Pepper was fired. The company ended its lease of the robot and ... botched its job at a nursing home and gave baseball fans a creepy feeling, some people are saying the humanoid itself will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "originalUrl": "https://www.wsj.com/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-367980/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "publishedDateTime": "2021-07-13T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-locomotive-system-makes-robots-multi-terrain.md",
+      "title": "Locomotive System Makes Robots Multi-Terrain",
+      "excerpt": "Called Rapid Motor Adaptation (RMA), the new locomotive system allows four-legged robots to traverse a variety of terrain types.",
+      "sourceUrl": null,
+      "webUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/",
+      "originalUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wir-en.s3.amazonaws.com/wp-content/uploads/2021/07/rma-300x210.png",
+          "width": 300,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/amp/",
+      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/locomotive-system-makes-robots-multi-terrain/amp/",
+      "publishedDateTime": "2021-07-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "worldindustrialreporter.com",
+        "domain": "worldindustrialreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-robotics-artificial-intelligence-innovation-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript.md",
+      "title": "Robotics, Artificial Intelligence, Innovation & How The Technology Space Is Evolving The ETF Marketplace (Podcast Transcript)",
+      "excerpt": "ROBO Global provides their outlook on the future of robotics and artificial intelligence. Breakdown of ROBO Global's ETFs: (ROBO), (HTEC), and (THNQ).",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1179697528/medium_image_1179697528.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4438876-robotics-artificial-intelligence-innovation-and-how-the-technology-space-is-evolving-the-etf-marketplace-podcast-transcript",
+      "publishedDateTime": "2021-07-12T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
@@ -1206,230 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings.md",
-      "title": "Zebra (ZBRA) to Buy Fetch Robotics, Enhance Product Offerings",
-      "excerpt": "Zebra Technologies Corporation ZBRA recently announced its intention to buy Fetch Robotics, Inc., a leading developer of autonomous mobile robots (AMRs) for $290 million. It’s worth noting that Zebra already owns 5% of Fetch Robotics and the latest announcement is related to the acquisition of the remaining 95% of the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02",
-      "originalUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02?amp",
-      "publishedDateTime": "2021-07-02T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-are-you-thirsty-this-ai-enabled-robot-can-bring-beer-to-holiday-parties.md",
-      "title": "‘Are you thirsty?’ This AI-enabled robot can bring beer to holiday parties",
-      "excerpt": "Heineken says its autonomous robot can hold up to 12 cans of beer, will follow you down the sidewalk and has a friendly AI personality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJQJRE4CONFJFF2GYV7TCPMRBE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/07/01/beer-cooler-robot/?outputType=amp",
-      "publishedDateTime": "2021-07-01T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-amazon-plans-to-build-delivery-robot-tech-in-finland.md",
-      "title": "Amazon plans to build delivery robot tech in Finland",
-      "excerpt": "Amazon announced Thursday that it plans to develop new technology for its autonomous delivery vehicles in Helsinki, Finland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105695322-1548263648288amazon-scout.jpg?v=1548263696",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/amazon-plans-to-build-scout-delivery-robot-tech-in-finland.html",
-      "publishedDateTime": "2021-07-01T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-after-an-84m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment.md",
-      "title": "After an $8.4M raise, strawberry-picking robotics startup Traptic begins commercial deployment",
-      "excerpt": "We first covered Traptic back in 2019, when it appeared as a Battlefield finalist on stage at Disrupt SF. Today, the South Bay robotics startup is announcing some major progress. For starters, it began commercial deployment of its strawberry-picking mobile robot early this month.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/",
-      "originalUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZPmsvnouJ9w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/01/after-8-4m-raise-strawberry-picking-robotics-startup-traptic-begins-commercial-deployment/amp/",
-      "publishedDateTime": "2021-07-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-accel-robotics-claims-successful-deployment-in-san-diego.md",
-      "title": "Accel Robotics Claims Successful Deployment In San Diego",
-      "excerpt": "San Diego-based Accel Robotics, which develops automated checkout systems designed for retail stores, claims it is seeing growth and success at its first rollout of \"Valet Market\", an automated store its has deployed ata a luxury,",
-      "sourceUrl": null,
-      "webUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
-      "originalUrl": "https://www.socaltech.com/accel_robotics_claims_successful_deployment_in_san_diego/s-0081447.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.socaltech.com/images/story/valetmarket21b.jpg",
-          "width": 330,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SocalTech",
-        "domain": "socaltech.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

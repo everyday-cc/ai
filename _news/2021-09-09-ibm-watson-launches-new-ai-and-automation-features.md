@@ -77,6 +77,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 79
+  - title: "IBM Watson launches new AI and automation features for CX transformation"
+    excerpt: "New IBM Watson Assistant features designed to help businesses more quickly set up a voice agent with IntelePeer and enable more seamless hand-offs to live agents."
+    publishedDateTime: 2021-09-10T02:33:00Z
+    webUrl: "https://www.dqindia.com/ibm-watson-launches-new-ai-automation-features-cx-transformation/"
+    ampWebUrl: "https://www.dqindia.com/ibm-watson-launches-new-ai-automation-features-cx-transformation/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-watson-launches-new-ai-automation-features-cx-transformation/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 73
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-Datascience.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "IBM adds new features to Watson Assistant"
     excerpt: "The US-based technology firm said that the new capabilities added to Watson Assistant would make it easier for businesses to create enhanced customer service experiences across phone, web, SMS and any other messaging platforms."
     publishedDateTime: 2021-09-09T14:26:00Z
@@ -178,6 +194,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SJoXBhJhkGxqzgEhJDyYdpO1Y9YDh40n7U3uhG/PyGaSpjrNUcwIBrCPPpBrJ105Oa73fKSL+v2TUIJ2RLR8Vv2b3RyVgFwwKcGbF9g0ncvK1oWJFiPdtSLyDygJwJ/pc+YyrQyvgV8f6bB5HGLgbH5oo76EnwiF5Y3RdL0TA1BKCUAo/ACn6dMNBuJ54uvOexrx3oAGv9mRlQpyc2plloho6h7OfubfnKx5NmHqcWqF7LoZV6/+36OnE0ct0xZ7Jh5kdd8sRFmqjOFPRv/UXtoK3bNF8ctdYw8OzL6jtBxMWkm5ao/1g3JYf1K1rmbPG4xRWGb2menNkhqz9MV/9SSNGIhCbQDxZxsW6qbifUY=;PjT9pwl6lxXaxVkeUvd2Ng=="
+secured: "P5CroRJE9noXE1Y32KpC7CCwwOvi6IHWS9Ipuo9VzlWfG8JGk4gD1P6fS7TDP6wNp9zXiRLmZ3mGdanPg/FibVlxMOpG3uG+ehiNtHzZy1qXy9gOtlYr4y9a1uHUuBPWtI1iptWacR0c2gU7ZAUfThuHj7jg8Pk9mvLn6xlCQRCf88+8zpEIXuFYjJveRwxIUXx5BaLpM7oSMUP+CZYES9esMZ00FNBxyVq9SAN5ERlEQF3kyDC2NrMJu0IEfAcf8t6vfIWU+yTcwsmdrw9FOyrCd2THRf9bIRdDjdnEgbQ5Iu7iYOflE3bRzH985MiVE4nP+EX0WxtcieOEbFi+ZStllb5/CldW8gt6F+1nwhRF6UhMH8rXoLs8TenwUOJjGaGzNiTcIOreRxc8We17e0f+cHl5z26cmJutacGZZ+LtnJ4u4waLJBJP7QockJjmYEmByQ7PQUvKCXr50bP0ZrIe+JwaiW9Xh+f8UiZ2iYMVWf11IsaeyQKZqz5Jjr3vKfMsrRfFAHYxD/RKatHXEQ==;a6b/zFgvSKeTmuxDcDbB2Q=="
 ---
 
