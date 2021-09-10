@@ -21,15 +21,15 @@ topics:
 related:
   - title: "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold."
     excerpt: "An ETF run by artificial intelligence smiled on U.S. retail plays in September but soured on a few Covid-19 pandemic trades."
-    publishedDateTime: 2021-09-09T15:47:00Z
-    webUrl: "https://www.barrons.com/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900?refsec=funds"
+    publishedDateTime: 2021-09-09T08:02:00Z
+    webUrl: "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
     ampWebUrl: "https://www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://images.barrons.com/im-378016/social"
         width: 1280

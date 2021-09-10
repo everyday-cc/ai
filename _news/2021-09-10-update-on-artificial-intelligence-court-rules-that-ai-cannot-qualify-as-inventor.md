@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/update-artificial-intelligence-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: The National Law Review
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Judge Says an AI Can’t Be an Inventor on a Patent Because It’s Not a Person"
-    excerpt: "They can’t even appear as inventors on U.S. patents. U.S. federal judge Leonie Brikema ruled this week that an AI can’t be listed as an inventor on a U.S. patent under current law. The case was brought forward by Stephen Thaler,"
-    publishedDateTime: 2021-09-05T05:09:00Z
-    webUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641"
-    ampWebUrl: "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp"
+  - title: "Funny AI: Review of AI in Cartoons and Comic Strips"
+    excerpt: "The themes of cartoons about AI are typically based on fears of humans about losing jobs to AI and robots and becoming superseded."
+    publishedDateTime: 2021-09-09T20:35:00Z
+    webUrl: "https://www.aitrends.com/ai-in-creative-arts/funny-ai-review-of-ai-in-cartoons-and-comic-strips/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 85
+      name: aitrends
+      domain: aitrends.com
+    quality: 39
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/37537a3ccad75b9d5a057a42727649ac.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-10TimEliottCartoon-1.jpeg"
+        width: 550
+        height: 263
         isCached: true
   - title: "Federal court rules Artificial Intelligence cannot be an ‘inventor’ under US patent law"
     excerpt: "The US District Court for the Eastern District of Virginia on Wednesday ruled that an artificial intelligence (AI) machine cannot be an inventor under the Patent Act. The action was a motion for"

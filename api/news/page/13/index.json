@@ -2,6 +2,241 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-27-ibm-ai-platform-watson-to-help-indian-companies-keep-user-data-safe-from-breaches.md",
+      "title": "IBM AI Platform Watson To Help Indian Companies Keep User Data Safe From Breaches",
+      "excerpt": "IBM is trying to turn this into a business opportunity. The New York-based tech giant has started providing its artificial intelligence (AI) platform Watson to detect, assess and resolve issues of ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/ibm-watson-takes-a-step-to-protect-indian-users-data-as-data-breach-reaches-india-cybersecurity/",
+      "originalUrl": "https://inc42.com/buzz/ibm-watson-takes-a-step-to-protect-indian-users-data-as-data-breach-reaches-india-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/ibm-watson-takes-a-step-to-protect-indian-users-data-as-data-breach-reaches-india-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ibm-watson-takes-a-step-to-protect-indian-users-data-as-data-breach-reaches-india-cybersecurity/amp/",
+      "publishedDateTime": "2021-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-improving-the-software-engineering-lifecycle-with-artificial-intelligence.md",
+      "title": "Improving the software engineering lifecycle with artificial intelligence",
+      "excerpt": "This unique compendium covers applications of state-of-the-art AI techniques to the key areas of software engineering. This reference text will benefit researchers, academics, professionals, and postgraduate students in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/926709",
+      "originalUrl": "https://www.eurekalert.org/news-releases/926709",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0f39c8e9-5352-4acf-b445-a2d3b6ff9ad3/Rendition/low-res/Content/Public",
+          "width": 470,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet.md",
+      "title": "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet",
+      "excerpt": "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
+      "originalUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/cruise-solar.png?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
+      "publishedDateTime": "2021-08-26T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-xiaoice-robot-users-have-ended-up-in-therapy-for-falling-in-love-with-their-artificial-intelligence.md",
+      "title": "XiaoIce robot users have ended up in therapy for falling in love with their Artificial Intelligence",
+      "excerpt": "XiaoIce \"will never betray me, he will always be there,\" says a female user who needed psychological therapy after falling in love with her virtual assistant with Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/381966",
+      "originalUrl": "https://www.entrepreneur.com/article/381966",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630009190-Ago26XiaoIceamorrobotinteligenciaartificialenamorarparejavirtualnovionovia.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381966",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381966",
+      "publishedDateTime": "2021-08-26T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-recognize-celebrities-in-images-and-videos-using-amazon-rekognition.md",
+      "title": "Recognize celebrities in images and videos using Amazon Rekognition",
+      "excerpt": "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg",
+          "width": 1645,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T15:13:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says.md",
       "title": "US federal agencies plan to increase facial recognition use, GAO report says",
       "excerpt": "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition.",
@@ -902,238 +1137,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-mits-mind-controlled-prosthetic-hand-slips-on-like-a-glove.md",
-      "title": "MIT’s mind-controlled prosthetic hand slips on like a glove",
-      "excerpt": "Unlike most robots—which are built from hard metals ... in your arm muscles through electromyography, or EMG. While mind-controlled limbs might still seem like the stuff of sci-fi, Zhao says ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90669263/mits-mind-controlled-prosthetic-hand-slips-on-like-a-glove",
-      "originalUrl": "https://www.fastcompany.com/90669263/mits-mind-controlled-prosthetic-hand-slips-on-like-a-glove",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/poster-MIT-neuroprosthetic-glove.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-aumni-raises-50m-in-series-b-funding.md",
-      "title": "Aumni Raises $50M in Series B Funding",
-      "excerpt": "Aumni, a Salt Lake City UT-based investment analytics platform, raised $50M in Series B funding. The round was led by J.P. Morgan with participation from Pelion Venture Partners, WndrCo, Citadel Securities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/08/aumni-raises-50m-in-series-b-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/08/aumni-raises-50m-in-series-b-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/08/aumni.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-could-this-robot-actually-be-your-marketing-writer.md",
-      "title": "Could This Robot Actually Be Your Marketing Writer?",
-      "excerpt": "Because while scores of humans debated its content, it turned out most of the words weren’t actually written by a human at all. They were penned by a new artificial intelligence model called GPT-3, and posted by Liam Porr,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379745",
-      "originalUrl": "https://www.entrepreneur.com/article/379745",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629321559-ent21-sept-bigidea.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379745",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379745",
-      "publishedDateTime": "2021-08-26T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-for-the-6th-time-ta-digital-appears-on-the-inc-5000-list-of-americas-fastest-growing-companies.md",
-      "title": "For the 6th Time, TA Digital Appears on the Inc. 5000 List of America's Fastest-Growing Companies",
-      "excerpt": "Today Inc. magazine revealed that TA Digital is No. 2,854 on its annual Inc. 5000 list, the most prestigious ranking of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22673992/for-the-6th-time-ta-digital-appears-on-the-inc-5000-list-of-americas-fastest-growing-companies",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22673992/for-the-6th-time-ta-digital-appears-on-the-inc-5000-list-of-americas-fastest-growing-companies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22673992",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22673992",
-      "publishedDateTime": "2021-08-26T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-bringing-people-back-to-life-with-the-power-of-ai-chatbots.md",
-      "title": "Bringing People Back To Life With The Power Of AI Chatbots",
-      "excerpt": "Gary Fowler is a serial AI entrepreneur with 17 startups and an IPO. He is CEO and co-founder of GSDVS.com and Yva.ai. In the reality we live in, people live their lives and then leave — for good, never to cross the line and return to the world again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6126b209cfc56d1e7361035c%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/08/26/bringing-people-back-to-life-with-the-power-of-ai-chatbots/amp/",
-      "publishedDateTime": "2021-08-26T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

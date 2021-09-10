@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepeer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -109,17 +109,17 @@
       "title": "IBM Creates Personalized Fantasy Football Experience with Updated Trade Assistant with Watson and Player Insights in ESPN Fantasy App",
       "excerpt": "customized experience powered by IBM Watson artificial intelligence (AI) technology in the ESPN Fantasy App designed to make the game more engaging for fantasy football players. New this year ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-player-insights-in-espn-fantasy-app-301368046.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-player-insights-in-espn-fantasy-app-301368046.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22776985/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22776985/ibm-creates-personalized-fantasy-football-experience-with-updated-trade-assistant-with-watson-and-",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -127,13 +127,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T05:01:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22776985",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22776985",
+      "publishedDateTime": "2021-09-02T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

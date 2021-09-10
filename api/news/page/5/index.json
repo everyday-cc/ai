@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-05-the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml.md",
+      "title": "The Latest Trends in Artificial Intelligence (AI) and Machine Learning (ML)",
+      "excerpt": "Artificial intelligence (AI) contains many subfields, including machine learning (ML), which automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
+      "originalUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Trends_2021-min.jpg",
+          "width": 1600,
+          "height": 1035,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-04T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-companies-need-more-workers-why-do-they-reject-millions-of-resumes.md",
+      "title": "Companies Need More Workers. Why Do They Reject Millions of Résumés?",
+      "excerpt": "Companies are desperate to hire, and yet some workers still can’t seem to find jobs. Here may be one reason why ... do the job they are supposed to do. They also exclude more than 10 million ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008?mod=djemalertNEWS",
+      "originalUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-395991/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "publishedDateTime": "2021-09-04T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform.md",
+      "title": "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform",
+      "excerpt": "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform/ar-AAO5KzT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/03/business/03economy-briefing-facebook/03economy-briefing-facebook-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
+      "publishedDateTime": "2021-09-04T02:22:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/09/03/technology/facebook-ai-race-primates.html",
+        "domain": "com/2021/09/03/technology/facebook-ai-race-primates.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-ai-weekly-an-outline-for-government-regulation-of-ai.md",
       "title": "AI Weekly: An outline for government regulation of AI",
       "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Governments face a range of policy challenges around AI technologies, many of which are exacerbated by the fact that they lack sufficiently detailed information.",
@@ -727,10 +865,10 @@
     {
       "path": "_news/2021-09-03-cango-auto-view-chinas-burgeoning-autonomous-driving-market.md",
       "title": "CANGO Auto View: China's Burgeoning Autonomous Driving Market",
-      "excerpt": "Prior to this, Baidu Apollo unveiled Apollo Lite, its closed-loop solution for pure visual self-driving on urban roads. According to the company, this is the only L4 pure visual perception ...",
+      "excerpt": "Apollo has accumulated L4 autonomous driving test mileage of 10 million kilometers. Prior to this, Baidu Apollo unveiled Apollo Lite, its closed-loop solution for pure visual self-driving on urban roads. According to the company, this is the only L4 pure ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cango-auto-view-chinas-burgeoning-autonomous-driving-market-301368989.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cango-auto-view-chinas-burgeoning-autonomous-driving-market-301368989.html",
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -740,11 +878,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T03:00:00-07:00",
+      "publishedDateTime": "2021-09-03T03:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1034,144 +1172,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr.md",
-      "title": "Mumbai: 470 CCTV cameras with face recognition to help fight crime on WR",
-      "excerpt": "The CCTV cameras on the Western Railway will now be used to fight crime too. 2,600 cameras have been installed on the line. Of these, 470 are equipped with facial recognition technology. The Mumbai police,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "originalUrl": "https://www.freepressjournal.in/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-09/3a83ca25-dfe1-4fa8-992e-b2ae2191686d/DADAR_15AUG21_BLSONI_01.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "publishedDateTime": "2021-09-02T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-microsoft-helps-protect-amazon-rainforest-with-ai-project.md",
-      "title": "Microsoft helps protect Amazon rainforest with AI project",
-      "excerpt": "Microsoft has partnered with environmental groups to create an artificial intelligence (AI) -based tool that could help to stop deforestation in the Amazon rainforest. The tool, called PrevisIA, uses machine learning to spot possible trends in forest conversion from deforestation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project",
-      "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630606098/itpro/shutterstock_amazon_rainforest.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp",
-      "publishedDateTime": "2021-09-02T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft.md",
-      "title": "Artificial Intelligence Platforms Market Size 2021 And Forecast to 2028 | Keyplayers – Google, Baidu, Ibm, Microsoft",
-      "excerpt": "In the recently published financial credit Artificial Intelligence Platforms Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg",
-          "width": 300,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?amp=1",
-      "publishedDateTime": "2021-09-02T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

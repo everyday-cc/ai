@@ -2,14 +2,14 @@
 category: news
 title: "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold."
 excerpt: "An ETF run by artificial intelligence smiled on U.S. retail plays in September but soured on a few Covid-19 pandemic trades."
-publishedDateTime: 2021-09-09T15:47:00Z
-originalUrl: "https://www.barrons.com/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900?refsec=funds"
-webUrl: "https://www.barrons.com/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900?refsec=funds"
+publishedDateTime: 2021-09-09T08:02:00Z
+originalUrl: "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
+webUrl: "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900"
 ampWebUrl: "https://www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -17,8 +17,9 @@ provider:
   domain: barrons.com
 
 topics:
-  - AI in Robotics
+  - Facebook AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.barrons.com/im-378016/social"
@@ -37,6 +38,6 @@ related:
       domain: fintechzoom.com
     quality: 9
 
-secured: "TIYk78CLwKt1jiwurxmQkebxEhi9Jq+/oJ65k5khL61jtBRr/vhnbLqGz1w3qKHUgMpsdFnQgG8QHq52s7MevjY+Gl9wnlClVtexwfLinsPGfne8fLYGLKe7muT10LxFFDshCRLRDqGdWXVjqKZn/8o7KPtIHIFdJZ2aLpXm7I1wOm91+7dNxwH5xaKEl5SDajxQDtHajClCikTFHpNPgm6fPENFvo8Uc7KM58p5QZIW5+IKz5ITvcQLXddEX5ZJ/PKj1Nmzb5ntOHMR+K85XIubK811H2xdhpyeu+Cc0gF44LrjQHOrdG2J6FfqPn8lw7S+6/Bde0zcO4ze8u/Ky3yz6HR5xKnpvWPy2eQ48Mc=;tIq3qIBYqB3p/uqSwnOTlw=="
+secured: "R8DeHvIvLwla04zFcvxMgA8GMI8jvofp7YHpIT53RVB4Gi5IvKuuVjUF2tQH4tdmFVpnFVWdCoqOqtHvRvYds7m1HVwK3efdDsXn3gkrUDjJCXgh9V9QehM8GI3t7fR0zJ+BziOvO3uaiS6ibQXV3vMs9wPAtJUPSCK/8Mf0LUbrYu18dNZfLceY67B5beH6xfiA8xMJDHWYbhrxj19/kjHNzAOrVL4B6/Idi6KMIcu4t3KkpVi/aQlZi1QF2mTBY4HQAxLoaR+dvI6wnnnXt2dwpnbnsJXoCc8Nz+0+3mBEJ/R1JkawkXOKU0ZVjvzEE7LJ4E6lejsLOZ1zmPEv6MKsdQewvupU1+xpgBzsncA=;0m1AfP2nf0zuElsoXaOe6A=="
 ---
 

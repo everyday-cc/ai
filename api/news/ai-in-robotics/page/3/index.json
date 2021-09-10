@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-25-can-robots-evolve-into-machines-of-loving-grace.md",
+      "title": "Can Robots Evolve Into Machines of Loving Grace?",
+      "excerpt": "Brautigan’s poem had been on my mind for some time before the robots arrived ... and enabled it to saccade from one place to another. Like the insect robots, Cog lacked central control and was instead programmed with a series of basic drives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
+      "originalUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6124188e1dbee11ab8eb98cb/master/pass/(Final)%20WIRED_Cybernetic%20Meadow.jpg",
+          "width": 4950,
+          "height": 3350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
+      "publishedDateTime": "2021-08-24T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-these-robots-can-move-your-couch.md",
       "title": "These robots can move your couch",
       "excerpt": "To train robots how to work independently but cooperatively, researchers at the University of Cincinnati gave them a relatable task: Move a couch.",
@@ -1376,59 +1428,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-qualcomm-readies-5g-and-ai-drone-platform.md",
-      "title": "Qualcomm readies 5G and AI drone platform",
-      "excerpt": "Qualcomm is unveiling its QRB5165 processor platform that enables aerial drones to tap both 5G and AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/",
-      "originalUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/qualcomm-drone-Flight-RB5-Image-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/",
-      "publishedDateTime": "2021-08-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

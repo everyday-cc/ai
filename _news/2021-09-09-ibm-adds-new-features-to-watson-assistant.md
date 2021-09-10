@@ -107,6 +107,20 @@ related:
         width: 300
         height: 240
         isCached: true
+  - title: "IBM Watson Assistant Gains 3 New AI Features"
+    excerpt: "The IBM Watson Assistant virtual assistant gained an IntelePeer add-on, a short-answer retrieval feature and a capability to give human customer service agents call transcripts at handoffs."
+    publishedDateTime: 2021-09-09T21:54:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-watson-assistant-gains-3-new-ai-features"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026d-13306f38969e-a549eb0f0a0f-1000/ibm-campus-1.jpg"
+        width: 1500
+        height: 1126
+        isCached: true
   - title: "Where Watson went wrong"
     excerpt: "Over the course of three nights in February 2011, IBM’s Watson supercomputer stunned the world by using artificial intelligence to soundly defeat Jeopardy! champions Ken Jennings and Brad Rutter. It was essentially a debutante moment for the technology ..."
     publishedDateTime: 2021-09-08T17:17:00Z

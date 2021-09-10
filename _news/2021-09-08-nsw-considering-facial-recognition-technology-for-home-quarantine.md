@@ -77,7 +77,7 @@ related:
     provider:
       name: National Geographic news
       domain: nationalgeographic.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://i.natgeofe.com/n/5a7b78dd-c3a5-4130-a2fd-6a887253f983/STOCK_MZ3820_IMG_9442_Melanie%20Clapham_16x9.jpg?w=1200"
         width: 1200

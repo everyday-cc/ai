@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 secured: "9/QWbD9f84CVp0o8roodp8FM4vGhWB2PkEOO7K7uHQL+0xQMtpwIr0qJh5qYHO9iHiAsYxZAdObSBEn9JDdsMhjQBzwNySqxoACq+fxU6p9cIf8tsJF85Ja783SugRaEUNw69L8UTeBMzmuPnUtDqUac/qz/244AHJ+fsQE4uqcSyNRbIXoFVuBCV1Uaod76TIhyL0xQxsFItPExM8nC1gg7C6QbVroZKHvlkwK2TA0/NIA60Fkp5MnbZC761m9ZlHx54PciFUN1S2gJxlYdltt3VbAfYyksZknxm/koxc72QQPhJKkNIeASOAQ+JTtztXd1cJokjX87LVU7jt51FeCQzWqd/sY/yobH88GxWLM=;Q6ITzVTWK4Q8DHRoVoOGpA=="
 ---

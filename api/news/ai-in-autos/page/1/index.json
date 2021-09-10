@@ -10,7 +10,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/09/09/russias-yandex-to-start-tests-for-self-driving-taxis-in-moscow/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -448,10 +448,10 @@
     {
       "path": "_news/2021-09-03-cango-auto-view-chinas-burgeoning-autonomous-driving-market.md",
       "title": "CANGO Auto View: China's Burgeoning Autonomous Driving Market",
-      "excerpt": "Prior to this, Baidu Apollo unveiled Apollo Lite, its closed-loop solution for pure visual self-driving on urban roads. According to the company, this is the only L4 pure visual perception ...",
+      "excerpt": "Apollo has accumulated L4 autonomous driving test mileage of 10 million kilometers. Prior to this, Baidu Apollo unveiled Apollo Lite, its closed-loop solution for pure visual self-driving on urban roads. According to the company, this is the only L4 pure ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cango-auto-view-chinas-burgeoning-autonomous-driving-market-301368989.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cango-auto-view-chinas-burgeoning-autonomous-driving-market-301368989.html",
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -461,11 +461,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T03:00:00-07:00",
+      "publishedDateTime": "2021-09-03T03:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -884,15 +884,15 @@
       "title": "Looking into the future of AI: big data, and informed consent",
       "excerpt": "We are living in the age of artificial intelligence (AI ... powerful AI algorithms which can aid medical diagnoses, navigate driverless cars, and make criminal sentencing decisions.",
       "sourceUrl": null,
-      "webUrl": "https://www.goulburnpost.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
-      "originalUrl": "https://www.goulburnpost.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
+      "webUrl": "https://www.portnews.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
+      "originalUrl": "https://www.portnews.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.goulburnpost.com.au/images/transform/v1/crop/frm/matthew.crossman/9d3d63c6-0806-4c8c-843b-b92df4c9509b.jpg/r0_445_5500_3553_w1200_h678_fmax.jpg",
+          "url": "https://www.portnews.com.au/images/transform/v1/crop/frm/matthew.crossman/9d3d63c6-0806-4c8c-843b-b92df4c9509b.jpg/r0_445_5500_3553_w1200_h678_fmax.jpg",
           "width": 1200,
           "height": 678,
           "title": null,
@@ -904,11 +904,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-31T17:40:00-07:00",
+      "publishedDateTime": "2021-09-01T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Goulburn Post",
-        "domain": "goulburnpost.com.au",
+        "name": "Port Macquarie News",
+        "domain": "portnews.com.au",
         "images": null,
         "publishers": null,
         "authors": null

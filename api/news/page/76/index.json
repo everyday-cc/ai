@@ -2,6 +2,240 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2021-07-15-in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "IN-D Identity Verification Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "IN-D.ai customers will benefit from the scalability and reliability of the Azure cloud platform, with streamlined deployment and management. “Companies have found it tough to balance a seamless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html",
+      "originalUrl": "https://www.businesswireindia.com/in-d-identity-verification-now-available-in-the-microsoft-azure-marketplace-73975.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.businesswireindia.com/Uploads/companyLogo/INDLogo_14634.jpg",
+          "width": 1892,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life.md",
+      "title": "Smart Cities: How Facial Recognition Can Facilitate The Safe Return To Urban Life",
+      "excerpt": "When deployed correctly and used to its highest potential, facial recognition technology can help facilitate safe interactions and support a flourishing economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ef458fb64fa807a6922555%2F0x0.jpg",
+          "width": 1200,
+          "height": 873,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/amp/",
+      "publishedDateTime": "2021-07-15T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform.md",
+      "title": "Kenya’s AIfluence closes $1M for its AI-powered influencer marketing platform",
+      "excerpt": "Influencer marketing is one of the fastest-growing and one of the most impactful media channels today. There’s a growing ad-blocking movement and key demographics are spending less time in front of TVs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
+      "originalUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2014/12/influencer.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/kenyas-aifluence-closes-1m-for-its-ai-powered-influencer-marketing-platform/amp/",
+      "publishedDateTime": "2021-07-15T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-unlocking-value-with-privacy-preserving-machine-learning.md",
+      "title": "Unlocking Value With Privacy-Preserving Machine Learning",
+      "excerpt": "To address this unprecedented need, machine learning (ML) is proving to be a powerful tool for uncovering the value locked within data. However, with power comes responsibility, and in order to leverage ML effectively,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
+      "originalUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/07/unlocking-value-with-privacy-preserving-machine-learning_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
+      "publishedDateTime": "2021-07-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-rajnath-singh-launches-artificial-intelligence-based-grievance-analysis-app.md",
+      "title": "Rajnath Singh Launches Artificial Intelligence-Based Grievance Analysis App",
+      "excerpt": "With the launch of an artificial intelligence (AI) based grievance analysis application called CPGRAMS, Defence Minister Rajnath Singh on Thursday said the country is moving towards citizen-centric reforms with scientific knowledge and technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "originalUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-12/al8qqheo_rajnath-singh-650_625x300_30_December_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/rajnath-singh-launches-ai-based-grievance-analysis-app-2487325?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-07-15T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-insights-on-the-31-billion-robotics-global-market-to-2025-impact-analysis-of-covid-19.md",
       "title": "Insights on the $31 Billion Robotics Global Market to 2025 - Impact Analysis of COVID-19",
       "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double digit CAGR over the forecast period of 2021 - 2025. The adoption of robots across a wide range of industries including manufacturing,",
@@ -878,245 +1112,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-defense-secretary-austin-calls-for-ethical-ai-development.md",
-      "title": "Defense Secretary Austin calls for ethical AI development",
-      "excerpt": "The U.S. military will develop artificial intelligence ethically and responsibly, Defense Secretary Lloyd Austin said in remarks on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
-      "originalUrl": "https://www.upi.com/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/6571626285709/2021/1/16262864692568/v1.5/Defense-Secretary-Austin-calls-for-ethical-AI-development.jpg",
-          "width": 382,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
-      "publishedDateTime": "2021-07-14T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-google-ceo-says-artificial-intelligence-will-be-mankinds-greatest-discovery.md",
-      "title": "Google CEO Says Artificial Intelligence Will Be Mankind's Greatest Discovery",
-      "excerpt": "Sundar Pichai compared artificial intelligence to the discovery of fire and electricity in an interview with the BBC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/377330",
-      "originalUrl": "https://www.entrepreneur.com/article/377330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626297217-sundar-pichai-4542.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377330",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377330",
-      "publishedDateTime": "2021-07-14T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-toyotas-woven-planet-acquires-hd-mapping-startup-carmera.md",
-      "title": "Toyota’s Woven Planet acquires HD mapping startup Carmera",
-      "excerpt": "Woven Planet Holdings — an entity created by Toyota to invest in, develop and eventually bring future of transportation technologies like automated driving to market — has acquired HD mapping startup Carmera for an undisclosed amount.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
-      "originalUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/Cobra_Tokyo_PoC_animated.gif",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
-      "publishedDateTime": "2021-07-14T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-ibm-chief-data-scientist-makes-the-case-for-building-ai-factories.md",
-      "title": "IBM chief data scientist makes the case for building AI factories",
-      "excerpt": "IBM chief data scientist John Thomas makes the case for building AI factories to increase adoption of best data science practices at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/japanai-e1598883828258.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/amp/",
-      "publishedDateTime": "2021-07-14T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-holly-herndon-releases-ai-deepfake-tool-that-lets-others-make-music-with-her-voice.md",
-      "title": "Holly Herndon Releases AI Deepfake Tool That Lets Others Make Music With Her Voice",
-      "excerpt": "W]e think we have found a way to allow people to perform through my voice, reduce confusion by establishing official approval, and invite everyone to benefit from the proceeds generated",
-      "sourceUrl": null,
-      "webUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/",
-      "originalUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2021/07/602ce97df0ac5c08e9c98d5578bbe38e54167b86.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/holly-herndon-ai-deepfake-tool-1197200/amp/",
-      "publishedDateTime": "2021-07-14T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/facebook-developing-machine-lea
 webUrl: "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/"
 type: article
 quality: 86
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://images.livemint.com/img/2021/09/05/600x338/2021-08-20T082648Z_2_LYNXMPEH7J0E5_RTROPTP_3_AFGHANISTAN-CONFLICT-SOCIALMEDIA_1629701868385_1630830249254.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Facebook working on powerful machine learning chips: time to buy FB shares?"
+    excerpt: "Mastercard Inc (NYSE:MA) shares on Thursday edged slightly higher after announcing plans to purchase a crypto intelligence firm."
+    publishedDateTime: 2021-09-09T20:26:00Z
+    webUrl: "https://invezz.com/news/2021/09/09/facebook-working-on-powerful-machine-learning-chips-time-to-buy-fb-shares/"
+    ampWebUrl: "https://invezz.com/news/2021/09/09/facebook-working-on-powerful-machine-learning-chips-time-to-buy-fb-shares/?amp"
+    cdnAmpWebUrl: "https://invezz-com.cdn.ampproject.org/c/s/invezz.com/news/2021/09/09/facebook-working-on-powerful-machine-learning-chips-time-to-buy-fb-shares/?amp"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 57
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2021/09/facebook-inc-shares.jpg"
+        width: 848
+        height: 565
         isCached: true
   - title: "Facebook developing machine learning chip"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"

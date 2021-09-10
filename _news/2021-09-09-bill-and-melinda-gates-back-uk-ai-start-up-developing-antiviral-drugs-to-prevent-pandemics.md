@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/09/09/bill-and-melinda-gates-back-uk-a
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: CNBC
@@ -28,6 +28,22 @@ images:
     width: 3384
     height: 2218
     isCached: true
+
+related:
+  - title: "AI startup inks $70M deal with Gates Foundation to develop COVID-19 treatment"
+    excerpt: "The Bill & Melinda Gates Foundation and artificial intelligence company Exscientia are partnering to develop a COVID-19 treatment using AI software, CNBC reported Sept. 9. Four details: The Gates Foundation and Exscientia said Sept."
+    publishedDateTime: 2021-09-09T21:49:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-startup-inks-70m-deal-with-gates-foundation-to-develop-covid-19-treatment.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "2vukQV376TRg4oDhwVdwe5kOZFwaHbS5+2k+nM3mP/0RfyNhEpdpleQPojYnY221dH4Rgxzby32JPW7JZ7z2wzda4mLMT7DtyomN46tzTxZvjoxsThxvt5zFRB6Q280Vxl9i8VLEedCQHIbJDtFG96EjdfjXI6r5hihwHCjN0eLBekonIX6pRh1j0iodwtHud5fSXmJlt+ijJw7Vyy/m4HMpsPKbKVqDOKrGZIcgnheQjcQJblfCdlTi09WttENaUJoXuMdBaVS4Ktb0oI8OfseYY4nKYmhkOpojnnh1dYowdVd5uKtSQYkEeS7kApPBMjJ/KTkTJPVEoydt23sgxn3zmu4dEx63p7Smx1dyGUA=;0jdQ+//cWvp0JcbfGMTMzQ=="
 ---

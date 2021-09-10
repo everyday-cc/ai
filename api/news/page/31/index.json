@@ -2,6 +2,232 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-08-16-leveraging-on-fintech-to-solve-the-creditworthiness-issues-among-msmes-in-india.md",
+      "title": "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India",
+      "excerpt": "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/380301",
+      "originalUrl": "https://www.entrepreneur.com/article/380301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380301",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301",
+      "publishedDateTime": "2021-08-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics.md",
+      "title": "Mobilicom launches world-first AI-based 360° Cybersecurity Suite for drones, robotics",
+      "excerpt": "First-ever AI-based 360° drone cybersecurity system that can detect, prevent, and respond to multiple cyber threats in real-time without requiring an operator• Designed specifically for industrial and commercial drones,",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2021/08/mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics/",
+      "originalUrl": "https://www.suasnews.com/2021/08/mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.suasnews.com/wp-content/uploads/2018/11/skyhopper-gcs.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-single-mri-scan-can-classify-brain-tumours-using-deep-learning-model.md",
+      "title": "Single MRI scan can classify brain tumours using deep learning model",
+      "excerpt": "According to a recent study, a new deep learning model can help classify a brain tumour as one of six common types, using a single 3D MRI scan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "originalUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/MRI-56baa4073df78c0b136bb6bc.jpg?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "publishedDateTime": "2021-08-15T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-artificial-intelligence-in-retail-market-sizesharerecent-study-by-2027microsoft-nvidia-amazon-web-services.md",
+      "title": "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services",
+      "excerpt": "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "originalUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U816958276_g.jpg",
+          "width": 800,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "publishedDateTime": "2021-08-15T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare.md",
+      "title": "Google's DeepMind and the NHS: A glimpse of what AI means for the future of healthcare",
+      "excerpt": "Take the agreements between Google subsidiary DeepMind and the likes of Moorfields Eye Hospital and University College London Hospitals (UCLH) Trust: both pave the way for a future where the routine work of reading scans is done by an algorithm rather than ...",
+      "sourceUrl": null,
+      "webUrl": "https://thearabianpost.com/googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare/",
+      "originalUrl": "https://thearabianpost.com/googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thearabianpost.com/wp-content/uploads/2020/07/Advertise-on-arabian-post-1.gif",
+          "width": 375,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thearabianpost.com",
+        "domain": "thearabianpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-ready-to-build-your-own-house-terrascope-uses-ai-to-sort-through-rural-property-for-sale.md",
       "title": "Ready to build your own house? Terrascope uses AI to sort through rural property for sale",
       "excerpt": "Terrascope co-founder Kehan Zhou talks about shopping for rural land with the help of machine learning technology.",
@@ -922,222 +1148,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-europeans-pull-together-to-lead-av-safety-push.md",
-      "title": "Europeans pull together to lead AV safety push",
-      "excerpt": "Rather than tackling autonomous vehicle safety issue individually, a number of European companies and organizations have united in a cooperative effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/technology/europeans-pull-together-lead-av-safety-push",
-      "originalUrl": "https://www.autonews.com/technology/europeans-pull-together-lead-av-safety-push",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/width_280/public/HUDI-01_i.jpg",
-          "width": 265,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-union-bank-awarri-unveil-next-robotics-legend-programme.md",
-      "title": "Union Bank, Awarri unveil Next Robotics Legend programme",
-      "excerpt": "Union Bank has announced the call for entries into the 2021 Next Robotics Legend programme, as part of initiatives under its Edu360 umbrella. Introduced in 2020, the programme was designed to identify and train young inventors in Artificial Intelligence (AI) and Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/",
-      "originalUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialwatchngr.com/wp-content/uploads/2016/07/union-bank-logo.jpg",
-          "width": 499,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/amp/",
-      "cdnAmpWebUrl": "https://www-financialwatchngr-com.cdn.ampproject.org/c/s/www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/amp/",
-      "publishedDateTime": "2021-08-13T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FINANCIAL WATCH NIGERIA",
-        "domain": "financialwatchngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data.md",
-      "title": "Lawmakers ask Amazon what it plans to do with palm print biometric data",
-      "excerpt": "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_apple-stock/lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_apple-stock/lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechzoom.com/wp-content/uploads/2021/08/1628905460_734fe028b08a216fc0352dd35eb54935.jpeg",
-          "width": 1892,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out paid driverless taxi service in Beijing",
-      "excerpt": "BEIJING (AP) — Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience. “I would recommend people ...",
-      "sourceUrl": null,
-      "webUrl": "https://accesswdun.com/article/2021/5/1001811",
-      "originalUrl": "https://accesswdun.com/article/2021/5/1001811",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://binaryapi.ap.org/dacbbcc8fdee407a886411a4b2db2efc/preview.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Access WDUN",
-        "domain": "accesswdun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-real-time-object-detection-for-59.md",
-      "title": "Real Time Object Detection For $59",
-      "excerpt": "Pretty impressive. We’ve seen dedicated object recognition systems at this price point, but the Jetson has a lot of flexibility. We were excited to see the Jetson Nano and with 128 cores and a ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/03/26/real-time-object-detection-for-59/",
-      "originalUrl": "https://hackaday.com/2021/03/26/real-time-object-detection-for-59/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/08/PXL_20210808_223956559.MP_-e1629865805319_thumbnail.png?w=600&#038;h=600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

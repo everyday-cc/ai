@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-07T13:04:00Z
 originalUrl: "https://www.nationalgeographic.com/magazine/article/using-facial-recognition-on-grizzlies-and-more-advances"
 webUrl: "https://www.nationalgeographic.com/magazine/article/using-facial-recognition-on-grizzlies-and-more-advances"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.natgeofe.com/n/5a7b78dd-c3a5-4130-a2fd-6a887253f983/STOCK_MZ3820_IMG_9442_Melanie%20Clapham_16x9.jpg?w=1200"

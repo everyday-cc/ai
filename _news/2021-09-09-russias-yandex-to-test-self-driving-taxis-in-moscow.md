@@ -39,6 +39,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Apple Appoints Watch Maestro To Take Over Self-Driving Car Project"
+    excerpt: "Apple has put one of its main players, smartwatch software executive Kevin Lynch, to take over its troubled self-driving car project. This follows Doug Field’s defection to Ford, the latest in a long line of false starts for the company in its efforts to get up a thriving team to pilot its self-driving car"
+    publishedDateTime: 2021-09-09T23:23:00Z
+    webUrl: "https://www.channelnews.com.au/apple-appoints-watch-maestro-to-take-over-self-driving-car-project/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 24
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2021/09/Screen-Shot-2021-09-10-at-9.18.41-am.png"
+        width: 1294
+        height: 840
+        isCached: true
 
 secured: "jss8WPtXD42EPgLZwMsRWhL67D2eZDgvIyXHjhWQ8ypWbe6qf6OTdCSP0vbA+ZrDgPyPfqPuc1kGOjENr2FA75aeXfDmKJo0H6o+1yBTWZ9IsV/R73PdfBgqOIAUNM14UYmJmlMeW/s7UDZgPdnF6UXuoqAdvq09G9xMnpx0e0MOf0u83is/KtafzKYI0c6v5KtxJVYcb3bhuarCYtCLBCINoIz9xCAX75ighvi1rhNTnaIsI8C3siNc2F6nmuo8zHKx/5OTPI0aavLjQgCOwoFPbd3HqDMHCgri8qqzHV2gldcNTLAAVAEqJ/aYqrEsp4xOWn1SLnp2sdtaHiUK4Dp5HWA36HfnpQRxs8lyVYI=;HqC+guzVBOcNFYkb93+9QQ=="
 ---

@@ -2,6 +2,239 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-08-24-onsolve-wins-security-todays-2021-new-product-of-the-year-award-for-artificial-intelligence.md",
+      "title": "OnSolve Wins Security Today's 2021 New Product of the Year Award for Artificial Intelligence",
+      "excerpt": "OnSolve, a leading critical event management provider for enterprises, SMB organizations, and government entities, today announced that it has been awarded Security Today's 2021 New Product of the Year Award in the Artificial Intelligence category.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/onsolve-wins-security-today-s-2021-new-product-of-the-year-award-for-artificial-intelligence-1030755066",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/onsolve-wins-security-today-s-2021-new-product-of-the-year-award-for-artificial-intelligence-1030755066",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1600179/2021_Security_Today_NPOY_Winner.jpg",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales.md",
+      "title": "Perfect Corp. Pairs With Avon On AR- And AI-Based Sales",
+      "excerpt": "Perfect Corp.'s partnership with Avon México will integrate AR and AI via facial analysis technology in its YouCam Makeup app for more personalized experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Avon-Perfect-Corp-457x274.jpeg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales/amp/",
+      "publishedDateTime": "2021-08-24T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026.md",
+      "title": "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026",
+      "excerpt": "Companies: 42 - Players covered include Amazon Web Services, Inc.; Apple, Inc.; Attivio, Inc.; Baidu, Inc.; BMC Software, Inc.; Clarifai, Inc.; CognitiveScale; Expert ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/6e/c6eb5c17-d1e6-5ef2-96fa-20aca81f3dca/61250288de397.image.jpg?resize=747%2C630",
+          "width": 747,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa.md",
+      "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
+      "excerpt": "the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-elon-musk-says-teslas-latest-beta-self-driving-software-is-not-great.md",
+      "title": "Elon Musk says Tesla's latest beta self-driving software is ‘not great’",
+      "excerpt": "Musk's critical tweet on Monday came just days after he touted Tesla's prowess with autonomous systems and components for them at an event called Tesla AI Day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html",
+      "originalUrl": "https://www.cnbc.com/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106926722-16288599482021-08-13t130517z_209345700_rc2b4p9pcfbm_rtrmadp_0_tesla-germany.jpeg?v=1628859989",
+          "width": 3500,
+          "height": 2575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html",
+      "publishedDateTime": "2021-08-24T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-samsung-will-spend-205-billion-in-strategic-plan-to-conquer-semiconductors-robotics-and-more.md",
       "title": "Samsung will spend $205 billion in strategic plan to conquer semiconductors, robotics, and more",
       "excerpt": "Samsung today announced it will invest no less than 240 trillion won ($206 billion) over the next three years in order to expand its presence in",
@@ -965,229 +1198,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-ai-enabled-e-commerce-solutions-market-forecast-to-2026.md",
-      "title": "AI Enabled E-Commerce Solutions Market - Forecast to 2026",
-      "excerpt": "According to a new market research report published by Global Market Estimates the AI Enabled E Commerce Solutions Market will grow with a CAGR value of around 40 percent over the forecast period Browse TOC on Global AI Enabled E",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "originalUrl": "https://www.openpr.com/news/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U824327631_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2364893/ai-enabled-e-commerce-solutions-market-forecast-to-2026",
-      "publishedDateTime": "2021-08-24T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-could-ai-designed-chips-herald-a-revolution-in-compute.md",
-      "title": "Could AI-designed chips herald a revolution in compute?",
-      "excerpt": "Microprocessors have come a long way from the days of the humble Intel 8008. In their nearly 50 years of existence, microprocessors have grown vastly more powerful, efficient, capable of handling even quantum computing simulations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanherald.com/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "originalUrl": "https://www.deccanherald.com/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/08/24/silicon-wafer-istock-968465-1617129572-1022986-1629796766.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanherald.com/amp/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "cdnAmpWebUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/technology/could-ai-designed-chips-herald-a-revolution-in-compute-1022986.html",
-      "publishedDateTime": "2021-08-24T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Herald",
-        "domain": "deccanherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-samsung-unveils-advanced-ai-memory-chips.md",
-      "title": "Samsung unveils advanced AI memory chips",
-      "excerpt": "By Baek Byung-yeul Samsung Electronics is extending its technology leadership in the memory chip sector, as the chip titan has unveiled new memory chips featuring artificial intel",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?WA",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?WA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202108/1c42dfb5b5aa4a22942002c3dad99aa1.jpg",
-          "width": 980,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
-      "publishedDateTime": "2021-08-23T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-the-use-of-facial-recognition-by-the-delhi-police-could-make-systemic-biases-against-muslims-worse.md",
-      "title": "The use of facial recognition by the Delhi police could make systemic biases against Muslims worse",
-      "excerpt": "The Delhi police have been equipping their control room vehicles with facial recognition systems, and have already made at least 42 arrests with the help of this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/",
-      "originalUrl": "https://qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/08/2014-08-14T120000Z_1489987094_GM1EA8E1EM401_RTRMADP_3_INDIA-ANNIVERSARY-1-e1629695916520.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/amp/",
-      "publishedDateTime": "2021-08-23T21:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-google-offers-free-online-course-on-machine-learning-check-important-details.md",
-      "title": "Google Offers Free Online Course on Machine Learning, Check Important Details",
-      "excerpt": "Google has offered a free online course on machine learning that can be completed in 15 hours featuring a series of lessons with video lecture",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/",
-      "originalUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/google-offers-free-online-course-machine-learning-check-important-details/amp/",
-      "publishedDateTime": "2021-08-23T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

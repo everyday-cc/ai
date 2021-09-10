@@ -8,8 +8,8 @@ webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/commerce-departme
 ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/commerce-department-launches-ai-board-seeks-candidates/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/commerce-department-launches-ai-board-seeks-candidates/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_744658807-457x274.jpg"
@@ -26,6 +27,6 @@ images:
     height: 274
     isCached: true
 
-secured: "djOr1QqkeddGeGIjli7Vn4nKofteGZ8komFhcqzi4FLwNPJ2KjSxLav7NubVRBnw0dW4Kd7WaJdAmSdg6bAW9GTnEMY63SbbEZihHbqiRIZ0gedWrzZ7AS2ccYIops6cvC4qhUf2S/tl24iixamsfO3Jt2fQaS0gibLQ0PNmxNIIq9qlT5tt3D9uTKg9/QBpS9nb9CPmaNHNwJ9EkZ2IkEwqmeEfgPETdisS4uvtCJapDIagW2u1XSsBeTb9HFN/1cI8+yEa+2+wf7f00yQ9vI8uJXKZqwqeIp06NKkwFPCLIOAte1+9VV0bXl+UI1MMaHeq456rxNuIXxQSw6Q7VVOWvS2pHDvPZdFQqweFHko=;/v7SiUzMjgvQ0mYA7Iq6aQ=="
+secured: "qB41bRXK1bhSCD+yASnR1fqdPK+3ZPifAvf1hmD2TB6gWJB5zfPTGyLctEMwopUKBltmWApyipWuMLRUwxFUK100QGGzLEqmLAS7L23wPUdWtPq3SSXYxGFccUts52t3pDz/Box9d5z6gVIlX04FNpovBSTwwUJJnTmcyq71hAEz7NycAyIC+PAjkXlOsvszzljl83OuXhUY6PYz5LDFWJ03AybILK2lQNGcfbPfY03YkXKFz+tSncj2uR12/v4TTDD0MvAumNe3BW462yIKYdcjCxooZX9otU2tDkB5cN0ytSt/sQcQu26yJXCXPxqpHEzwW5/pVVaH1uV5WKhua9yioEs0AmRwxn74Zp6/K8DpMzca2uyo6mDxs8y2Qn3SvYECEbTVcxHB39Sg2cxgDN2WwOjXgmwzdnrvinm/t5GUtqweILsMP8VUBMCEILpEJCI25L1+8LF/rASHD66df/NF/bx14xkbYMxn0DJ2yb3SdcKjaHYtXlYJDWTraxEPnrmPAc9ph573Lmqt1k17UA==;ipDZn1mS4BJn4AH0/H61HQ=="
 ---
 
