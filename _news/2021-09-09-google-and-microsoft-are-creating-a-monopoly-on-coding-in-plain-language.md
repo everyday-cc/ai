@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Google and Microsoft are creating a monopoly on coding in plain language"
-excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
-publishedDateTime: 2021-09-09T14:55:00Z
-originalUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
-webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
+publishedDateTime: 2021-09-08T19:16:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Canadian Manufacturing
-  domain: canadianmanufacturing.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
-    width: 754
-    height: 424
+  - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -85,6 +85,22 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Microsoft to teach Artificial Intelligence to students of Madhya Pradesh schools"
+    excerpt: "Microsoft to teach Artificial Intelligence to students of Madhya Pradesh schools - An MoU has been signed between global tech giant Microsoft and the State Board of Open School Education, Bhopal, for teaching AI to students."
+    publishedDateTime: 2021-09-10T07:37:00Z
+    webUrl: "https://www.dnaindia.com/education/report-microsoft-to-teach-artificial-intelligence-to-students-of-madhya-pradesh-schools-2910501"
+    ampWebUrl: "https://www.dnaindia.com/education/report-microsoft-to-teach-artificial-intelligence-to-students-of-madhya-pradesh-schools-2910501/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/education/report-microsoft-to-teach-artificial-intelligence-to-students-of-madhya-pradesh-schools-2910501/amp"
+    type: article
+    provider:
+      name: DNA India
+      domain: dnaindia.com
+    quality: 69
+    images:
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/09/10/995554-artificial-intellegence-reuters.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "MDC joins Microsoft AI Business School to develop AI courses"
     excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"
@@ -157,6 +173,6 @@ related:
         height: 640
         isCached: true
 
-secured: "Q8RDSchregDhcQ7utiwTePiEJaf42GxynN22BDBftcjD94KNvaUedPW5nDW5DBGCOVhnREpfegjBkgjQPh9wpQCHMqcW3dqZsCgUiXR6dkfNYLvTEvGtB9ZJpX3FuzZBCPRtfB6CBdm4ACcScHQecrh7qW7AeYARHCWTZIiSUPFO5XibF3JCg9/CEx9B4u0z4EGvMgSHgf3fJNS/0ZjnkTMGm2bi10g+72qru5LHl2kEbPrCSGGDr4DJ8NZrydOrwyzdUkOyVnkKAet+m750zo9t//b7Pfld5hHFid5B+gvuAQorZ6Qc2mUYmrTp9eCeYAvyUuipHAyJyCaM3CbOjHjS5RzdN2g30Upx0JJR4/k=;lVit8IHZZHG2m2iS0Zsegg=="
+secured: "8/R9fBui1ReAQjGITSSjekduhLo91TpssrjWX0MljKGuE636R9PBj/UWORzKCVsMKafZhzzkF/JC0eazpdjcv04w2BP4lpbLiA9FEP2a2aDQBYO8GVGo6PuT29TDwZpuu5fx6FpI8xX2u/bU0ZY6nZMbThyhACLgr0N4eZ01tNfn0j1Nt8QJxqGCg4kH26t5V1n9X1bOlgoB2pRks/IDAAfu4+AbwDExMUvM21zhceKDm1P6dDpAZOV6gPa8VPU59vWtKpkiAjmOzTDy1pLW1bPWRTisFmAfo4yqhr76dyAFjk+vDHqRKkDzQpljslWUKtd2EB3hwakpXsq5gldQ4s37uo5I/+NXdQ5CfSNJDJE=;ef84a+UNiqGXT0lnNw3pCQ=="
 ---
 

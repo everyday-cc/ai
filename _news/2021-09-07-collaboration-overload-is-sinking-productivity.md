@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Collaboration Overload Is Sinking Productivity"
-excerpt: "Collaborative overload is not just a problem of volume. It has an invisible but equally sinister counterpart in cognitive switching costs created by the diversity of demands. As columnist Jennifer Senior put it in The New York Times,"
-publishedDateTime: 2021-09-07T12:05:00Z
-originalUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity?ab=hero-main-text"
-webUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity?ab=hero-main-text"
+excerpt: "And, on a more dubious front, one global services organization implemented ... the inefficiencies and subsequent cognitive switching costs of always-on cultures and 2) the personal motivations ..."
+publishedDateTime: 2021-09-07T14:04:00Z
+originalUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity"
+webUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity"
 ampWebUrl: "https://hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "FfrvTSTlcWtFN1PWIg8K7UeW401IdBKUvIXuu9iOQLDRH/K4p1r0PiM9VXgV4hdP8uRny2YK1ICAY94mzaveAMx8GlolDfBUS3EgitAlSJFkr34Jo31ktSpoVgWSXo/7OTxqcu352DsXrOoSPeXYgoUI6APBQEltXrW8GZrquiSQgp15S4B++H2KNtTr8SgfHeXpWd4a5eTSSTHpEbwTzQqIgHI88iqIC76hO2SHu7jx1oidloI6v8BYAPTB+ppU0CfRZX0R73x/LaBxgR69Yz8A03UQqU6fKvvMuc/yOaqFJMxhXd+9WYlwrNv/3VaWNnBCoWm1OlydXSXntk9d9FgblkQwSr+vgW+8evd2eOo=;oLrHHazfr1WfYfcBME1weg=="
+secured: "nbXzXRdRfemfrKXiNo/pMfeRTinpocgRjlyVNI0Q1MnK01a7Fy6C/ejdU7QPYJHTNuuNyHyOKTps9jY4uAJPdSPnNheCUkRhbPLuozYEwTllxekKVxabPDOSnwcQPETXYXtsMAMQfUA7id3gR2DnHN6hqtBKQUiPueyiUIxOMfPWkpHJskv6RciXQvOIyLjLsRO1hrFsOwpRVcyxIMeGBUPgKUfwT6C4Lo7qctPJ3V95wMZDuv0btWltC98D76SwlYxhMYxGNTbLmJhqntyZCeHe03fCxEzpHosX1oQtzx2Ce/X20Jxen907+jP8QQrsWvzAzvqppSZviw0L+kORyM4cdjSPLDOlRKROZRZDt4c=;R4DvmYPZ40xY/MOYRVccGA=="
 ---
 

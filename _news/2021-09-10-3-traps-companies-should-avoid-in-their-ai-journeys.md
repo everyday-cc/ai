@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

@@ -126,6 +126,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Voice Command, Wireless Syncing: Ray-Ban, Facebook Debut Smart Shades"
+    excerpt: "Ban Stories\" shades can take pictures and video upon the wearer's voice commands, and the frames can connect wirelessly to Facebook's platform through an app."
+    publishedDateTime: 2021-09-10T06:31:00Z
+    webUrl: "https://www.ndtv.com/world-news/voice-command-wireless-syncing-ray-ban-facebook-debut-smart-shades-2536182"
+    ampWebUrl: "https://www.ndtv.com/world-news/voice-command-wireless-syncing-ray-ban-facebook-debut-smart-shades-2536182?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/voice-command-wireless-syncing-ray-ban-facebook-debut-smart-shades-2536182?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 44
+    images:
+      - url: "https://c.ndtvimg.com/2021-09/7tlej4d_ray-ban-facebook_625x300_10_September_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Facebook accused of discrimination after mechanic and pilot jobs targeted at men"
     excerpt: "Facebook has been accused of breaching equality laws after its technology was found to favour men when targeting job adverts for male-dominated roles such as mechanics and pilots. The campaign group Global Witness has filed complaints with the Equality and Human Rights Commission (EHRC) and Information Commissioner,"
     publishedDateTime: 2021-09-08T21:00:00Z

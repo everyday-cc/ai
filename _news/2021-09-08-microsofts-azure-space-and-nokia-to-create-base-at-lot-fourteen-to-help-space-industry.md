@@ -49,7 +49,7 @@ related:
   - title: "Microsoft boosts Australian space investment"
     excerpt: "Microsoft has boosted its investment in Australia’s space sector through Azure Space, integrating its cloud solutions with a range of partners tackling spaced-based technologies."
     publishedDateTime: 2021-09-08T14:11:00Z
-    webUrl: "https://www.arnnet.com.au/article/691131/microsoft-boosts-australian-space-investment/"
+    webUrl: "https://www.arnnet.com.au/article/691131/microsoft-boosts-australian-space-investment/?fp=2&fpid=1"
     type: article
     provider:
       name: ARN

@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-b
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-bay-area-dominates-race-for-ai"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Bloomberg
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Artificial intelligence for autonomous driving in winter conditions"
-    excerpt: "There have been many recent advancements in the field of autonomous driving in the past decade. Part of these developments is due to the success of machine learning techniques to train classification algorithms that allow vehicles to recognize and locate themselves in their surroundings,"
-    publishedDateTime: 2021-09-05T13:57:00Z
-    webUrl: "https://www.usherbrooke.ca/research/inventory-of-research-projects/projet/616/"
-    type: article
-    provider:
-      name: Université de Sherbrooke
-      domain: usherbrooke.ca
-    quality: 37
-    images:
-      - url: "https://www.usherbrooke.ca/sari/w975/research/fileadmin/templates/research/images/random_accueil/accueil-recherche_.jpg"
-        width: 975
-        height: 662
-        isCached: true
 
 secured: "nOjhgtK9YZ24mwiFvzJXmQPNFOVgLWmS7RzWo/Rmqv/wG6WYVCOAmQlRA1XcXBb92wHIaICac7GDWoqIptpnuZMjufDoP0xeKH9b4nZFJCq0+h1/hUNQ/Y+fR+0PtL9bpIrFAjoQm6MSfBwiDsaWvuD1h2gdpVhmJaa4pzcaHL2r0NXv85Lk7RacIjMwC1A92/NJnA2BDKAKFqzKSzvZZirizag7SJzaOpgAPrSGodDTNj6T7DnamqiCKbUT0MU6iLmEg3zUSh4NhNZ78z+wJwrEwGEUwZlF+keAczVadfZGC6KTrePmCwGZA/kZhEH0g2rkbMbaTWYrh5f6jXk2KsBDPHH+jyMvVxEWVwngpmN8PIlw3g6U5zp6MjiFS+5y+e9izZis+XJWsEsFHqE3+wt/SezB8E8J71Cr5dw9Canu1kYcZF2xaI7bZ36Y+PN4iOwiOivtcfBwLZZiazHe+qRHDau3mxD9I/+yTiIoyINvQM210GPYBujF7lo6IHQ6xPoIPS6xcYQ5E7VYEgarJg==;4rdFdB469lN52M9TwvB4ZA=="
 ---

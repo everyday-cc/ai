@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/motorola-launches-in-car-ai-video-syst
 webUrl: "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

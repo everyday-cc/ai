@@ -2,17 +2,17 @@
 category: news
 title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
 excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 – 22 season."
-publishedDateTime: 2021-09-10T01:42:00Z
-originalUrl: "https://www.afp.com/en/news/1315/aws-and-bundesliga-debut-two-new-bundesliga-match-facts-2021-22-european-football-season-202109090059381"
-webUrl: "https://www.afp.com/en/news/1315/aws-and-bundesliga-debut-two-new-bundesliga-match-facts-2021-22-european-football-season-202109090059381"
+publishedDateTime: 2021-09-10T05:00:00Z
+originalUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
+webUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AWS AI
@@ -43,6 +43,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "0Qgu+Zbl/Bl4Glok8ikQERDc6ADjGdIWfh3OCwe3130hhy1KoISm/KYJDxZEFH7a/4GbqP0xZNFJjskw48LLbTr+n8QTefZGXb2E7XptmlTepAm3AxuPxDr7sD4YsXeh9zvdqF/6+89VCMY6uiM+Xo9p+Jdgg9JcTN4KRch0R2cdf6Mg6S0uKOFzAY54ZOfGEF/jvtMd/ubggXbc5HhHWjnZ23pAux58GfH5dXZWspMCHqoEDJUnng2A2bs2LdgANfdXk7cVfOCKS7QECOFosR7HhVcbLG8heV3qmZCtdVNPcBQ4Pnbiy1QdkZEjcHRpEWtoIX5S6EdyQAmvZRw1Kvvrz2nmvFqii8p2Kbmnslck/aUg+PQDLlIkibQ14nlenoAUpY5a3GJDRRWQ5WbwVU10p42Mrzsae/LrdV1O6zOAJtTgELoqHX1ANf+T6sQjNRbInlEJw9oy7XIQr3+kYtTs9rA9PPYnUtpFVHAquCViyTezqGczaufVBUXb5J7Zvg7w85t28Tfom/xncSfp9g==;q/b3Mb2/8bPDoQd/52mxIA=="
+secured: "/QyK5GwlAexo8uKg114cBQus60KOMDc6L/PsKfGSCKyRVLGpwuIrwaeKLtG5scD8u3z7kvzWXX2RqK83T/dsQ765J6gAA9FNHdyoAdwodju4HKLUk3FQ0ooOTErB2FPJhHl3q3YRjsfq+4ObUfvTEX/m8JrPTvHeiDXLCRNZUsSONj6Wn+weQPNXsBBQFrGIALNz89rDmG5qF23Sx4uwGhck29W1z12KT3S5JSkV7HXYS6sLKjgF78sKEza8iuFnuhA/q+6kkgM19n99gtnkBLa3sPsqCPMabcILqF8c7MIes6wO1/wfWzto3YkzTzt+z9vtvyH+68YXk+Gpg7guLHwIlgRwMqv5/aIawvnSaJGq4qStlVETCaAjYUJBm+5Ua4TSw309bSOOEIJPYqJgXDPRk8k82xgZV3ZPG6H4T+QpMBZujjmY+kObdG2r+WiYzSXKdx/SSZemOzjsvfK8zAW7V4+ODZty7sGXZsxnrgjXQoS4q/Ny6gdmDfm5Hi7IHzCKxujI2jE7s5+3PYNQ1g==;yGv74rdZ+dvf6MJZqmJxQg=="
 ---
 

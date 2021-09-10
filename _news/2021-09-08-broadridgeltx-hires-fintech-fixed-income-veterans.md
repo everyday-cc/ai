@@ -25,6 +25,33 @@ images:
     isCached: true
 
 related:
+  - title: "9 Reasons Why Fintech Will Take Over The Banking Industry"
+    excerpt: "The introduction of Fintech or financial technology was back in the 1950s when credit cards came into existence. Next, internet"
+    publishedDateTime: 2021-09-07T16:24:00Z
+    webUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/"
+    ampWebUrl: "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://techbooky.com/wp-content/uploads/2021/09/what-is-fintech.jpeg"
+        width: 990
+        height: 556
+        isCached: true
+  - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
+    excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
+    publishedDateTime: 2021-09-07T10:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-im-investing-in-this-high-risk-high-reward-fintech-stock-2021-09-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Broadridge Hires FinTech Fixed Income Veterans to Join LTX"
     excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that Ted Bragg and Jim Kwiatkowski have"
     publishedDateTime: 2021-09-07T12:00:00Z
@@ -40,6 +67,22 @@ related:
       - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Insurance FinTech Marshmallow Lands $85M"
+    excerpt: "The insurance FinTech Marshmallow reached a valuation of over $1.25 billion to become the U.K.’s newest tech unicorn after an $85 million Series B funding round."
+    publishedDateTime: 2021-09-08T15:49:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/insurance-fintech-marshmallow-lands-85m/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/marshmallow-app-457x274.png"
+        width: 457
+        height: 274
         isCached: true
   - title: "Broadridge Financial Solutions Appoints Fintech-focused Fixed Income Specialists"
     excerpt: "Broadridge Financial reveals that Ted Bragg, Jim Kwiatkowski have joined LTX, a Broadridge firm providing an online trading platform."
@@ -57,15 +100,108 @@ related:
         width: 300
         height: 224
         isCached: true
-  - title: "Broadridge appoints FinTech veterans Ted Bragg and Jim Kwiatkowski to LTX leadership team"
-    excerpt: "ICAP Securities USA, where he led the expansion of fixed income initiatives to create liquidity sources for fixed income and"
-    publishedDateTime: 2021-09-08T07:36:00Z
-    webUrl: "https://www.leaprate.com/forex/executives/broadridge-appoints-fintech-veterans-ted-bragg-and-jim-kwiatkowski-to-ltx-leadership-team/"
+  - title: "10 Fintech Stocks Redditors are Buying"
+    excerpt: "Financial technology companies have outperformed the wider banking sector in the past few years, registering growth numbers that have left even market experts stunned."
+    publishedDateTime: 2021-09-09T13:23:00Z
+    webUrl: "https://www.insidermonkey.com/blog/10-fintech-stocks-redditors-are-buying-977243/"
     type: article
     provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 0
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 24
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/06/24102100/clay-banks-Ox6SW103KtM-unsplash.jpg"
+        width: 1920
+        height: 1281
+        isCached: true
+  - title: "Silicon Valley tech firm expands in PH amid rise in fintech adoption"
+    excerpt: "A Silicon Valley-based fraud detection firm is expanding its global operations to the Philippines, betting on the growth of finance and telecom sectors in the financial technology space."
+    publishedDateTime: 2021-09-09T11:02:00Z
+    webUrl: "https://cnnphilippines.com/business/2021/9/9/fraud-detection-firm-HyperVerge-expands-to-PH.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 24
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2019/12/12/Online-Shopping_CNNPH.jpg/jcr:content/Online-Shopping_CNNPH.jpg"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "The FinTech companies to watch out for in Europe"
+    excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services. FinTech"
+    publishedDateTime: 2021-09-09T10:38:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/the-fintech-companies-to-watch-out-for-in-europe/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/FinTech-India-funding.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Redefining fintech: How Israel became a global leader in financial technology"
+    excerpt: "In 2020, the country’s position in the Global Fintech Rankings was 12th, making its climb to 3rd place the most profound move among the list’s top 16 nations in 2021. Tel Aviv also rose from 18th to 5th within the fintech hub rankings."
+    publishedDateTime: 2021-09-09T07:04:00Z
+    webUrl: "https://blogs.timesofisrael.com/redefining-fintech-how-israel-became-a-global-leader-in-financial-technology/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 21
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2021/09/Fintech-Israel.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
+  - title: "Fintech investor Chrysalis appoints industry veteran Margaret O’Connor to board"
+    excerpt: "O’Connor was a founding member of Mastercard Asia Pacific and currently holds a number of board positions in Africa-centric companies."
+    publishedDateTime: 2021-09-06T09:34:00Z
+    webUrl: "https://www.altfi.com/article/8290_fintech-investor-chrysalis-appoints-industry-veteran-margaret-oconnor-to-board"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 20
+    images:
+      - url: "https://www.altfi.com/images/featured/fintech-investor-chrysalis-appoints-industry-veteran-margaret-oconnor-to-board.jpg"
+        width: 1200
+        height: 719
+        isCached: true
+  - title: "The new AIFinTech100 is launched to highlight the industry-leading Artificial Intelligence companies driving the future of financial services"
+    excerpt: "FinTech Global, the specialist research and intelligence firm, today launches the new AIFinTech100 to list the most innovative companies offering Artificial Intelligence (AL) and Machine Learning (ML) technology solutions to the financial services industry."
+    publishedDateTime: 2021-09-06T23:00:00Z
+    webUrl: "https://pressat.co.uk/releases/the-new-aifintech100-is-launched-to-highlight-the-industry-leading-artificial-intelligence-companies-driving-the-future-of-financial-services-2c3ddfca5431735dcab1277aacf1de42/"
+    type: article
+    provider:
+      name: pressat.co.uk
+      domain: pressat.co.uk
+    quality: 19
+    images:
+      - url: "https://pressat.co.uk/media/cache/360x270-b592d7ca94627364a13c8253d397f286.png"
+        width: 360
+        height: 270
+        isCached: true
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "\"Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
+    publishedDateTime: 2021-09-08T14:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-earnix-recognized-as-top-aifintech100-company-fintech-global-/2021/09/08/9445061.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
+    excerpt: "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
+    publishedDateTime: 2021-09-08T17:51:00Z
+    webUrl: "https://www.afp.com/en/news/1314/earnix-recognized-top-aifintech100-company-fintech-global-202109080057991"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 19
 
 secured: "w5Ij3l5InOQfaGxlk3LAoJEw1jIgVmCQQ9D1/OIrZSR2R4ktPXCAO+bZBZvSMCpGJAbV8Ev+mJGo6zTg75Cvt+8vGHr32airKxo86gMUW++REPXsVDgmVbcRlkP7rxDdeeQgcuawqGhOyJqNBCdr6WaTjQ6lyUOmry/H0+BmnnkoW/d/GNgYd33dGhTTLZitJLKoe06F/btZKANzGynj9Bd/Cph2o/MxwC+IUxzMG6g9UvyQVLRPrGN1Pn5q8H9WLqMlKYDiQ5fLjO36mCA9iR15Y3bLDeF5UcA8qeCVbVdZ4gm1nUDbAE6/4JIISZk4VYyMf6GND3b7ydFmK0nhaOyo2b6agESTLNuQRt83Uc4=;IzORp83M8LfQotADbgWtQQ=="
 ---

@@ -86,19 +86,35 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
-    publishedDateTime: 2021-09-09T14:55:00Z
-    webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+  - title: "Microsoft to teach Artificial Intelligence to students of Madhya Pradesh schools"
+    excerpt: "Microsoft to teach Artificial Intelligence to students of Madhya Pradesh schools - An MoU has been signed between global tech giant Microsoft and the State Board of Open School Education, Bhopal, for teaching AI to students."
+    publishedDateTime: 2021-09-10T07:37:00Z
+    webUrl: "https://www.dnaindia.com/education/report-microsoft-to-teach-artificial-intelligence-to-students-of-madhya-pradesh-schools-2910501"
+    ampWebUrl: "https://www.dnaindia.com/education/report-microsoft-to-teach-artificial-intelligence-to-students-of-madhya-pradesh-schools-2910501/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/education/report-microsoft-to-teach-artificial-intelligence-to-students-of-madhya-pradesh-schools-2910501/amp"
     type: article
     provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
+      name: DNA India
+      domain: dnaindia.com
+    quality: 69
+    images:
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/09/10/995554-artificial-intellegence-reuters.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Google and Microsoft are creating a monopoly on coding in plain language"
+    excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
+    publishedDateTime: 2021-09-08T19:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 55
     images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
-        width: 754
-        height: 424
+      - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "MDC joins Microsoft AI Business School to develop AI courses"
     excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"

@@ -133,6 +133,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Voice Command, Wireless Syncing: Ray-Ban, Facebook Debut Smart Shades"
+    excerpt: "Ban Stories\" shades can take pictures and video upon the wearer's voice commands, and the frames can connect wirelessly to Facebook's platform through an app."
+    publishedDateTime: 2021-09-10T06:31:00Z
+    webUrl: "https://www.ndtv.com/world-news/voice-command-wireless-syncing-ray-ban-facebook-debut-smart-shades-2536182"
+    ampWebUrl: "https://www.ndtv.com/world-news/voice-command-wireless-syncing-ray-ban-facebook-debut-smart-shades-2536182?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/voice-command-wireless-syncing-ray-ban-facebook-debut-smart-shades-2536182?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 44
+    images:
+      - url: "https://c.ndtvimg.com/2021-09/7tlej4d_ray-ban-facebook_625x300_10_September_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Facebook – Facebook developing machine learning chip – The Information"
     excerpt: "Facebook Inc (FB.O) is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citin"
     publishedDateTime: 2021-09-09T15:04:00Z

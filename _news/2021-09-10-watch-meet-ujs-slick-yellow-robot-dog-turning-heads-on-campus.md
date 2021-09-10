@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/news/south-africa/2021-09-09-watch-m
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/south-africa/2021-09-09-watch-meet-ujs-slick-yellow-robot-dog-turning-heads-on-campus/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1000
     height: 555
     isCached: true
+
+related:
+  - title: "UJ unveils four-legged, animal-mimicking robot with artificial intelligence"
+    excerpt: "UJ is the first institution to have such a robot. According to the university, it was positioning itself to drive the Fourth Industrial Revolution (4IR) and engraining AI innovations into its processes at the university and the continent of Africa at large."
+    publishedDateTime: 2021-09-10T07:36:00Z
+    webUrl: "https://www.iol.co.za/technology/uj-unveils-four-legged-animal-mimicking-robot-with-artificial-intelligence-00b6f4b5-860a-40b5-a3a5-84a764eabd06"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 52
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/WATCH-UJ-unveils-robot-dog-with-artificial-intelligence?source=https://sp.rmbl.ws/s8/6/U/z/8/o/Uz8oc.4Wpjb.1.jpg"
+        width: 650
+        height: 366
+        isCached: true
 
 secured: "zOo/LwMF5ewFpdgD5SLIZjlAOMG6e4nZ6bZbXtk6uO64Yn+40dh7hk43xg3iNmhBfH32I2RLZVF3jEYp5wjVgzIMN86AftOpCdxKdeRmYW1bjaycq/JNpOI0TtcP5Nor3AwiLsNsPbGKOrfsP9CbpBR3scoeSJzHmnJedpRC7bZ3BnDo/xRYPJKOuwk9HIPfVqpFDJtGDc9oglKpu0vy+LDN76V93ieuEUcf5nRSHNzq0yf4cxnWlcsbmlnx+x6QYuAzjZqHX+hw8Npv8zfJSWPxhdCcvRgk+3kYfh8Rs9jKIZt6wUo5D9HLwP6yucoNmP0ILBFu+ahDam/M36mOmTPw3UXM5Otu7Q6vSX9cM78=;AoMFMKGCcIaf8Pn94DXn5Q=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Microsoft boosts Australian space investment"
 excerpt: "Microsoft has boosted its investment in Australia’s space sector through Azure Space, integrating its cloud solutions with a range of partners tackling spaced-based technologies."
 publishedDateTime: 2021-09-08T14:11:00Z
-originalUrl: "https://www.arnnet.com.au/article/691131/microsoft-boosts-australian-space-investment/"
-webUrl: "https://www.arnnet.com.au/article/691131/microsoft-boosts-australian-space-investment/"
+originalUrl: "https://www.arnnet.com.au/article/691131/microsoft-boosts-australian-space-investment/?fp=2&fpid=1"
+webUrl: "https://www.arnnet.com.au/article/691131/microsoft-boosts-australian-space-investment/?fp=2&fpid=1"
 type: article
 quality: 39
 heat: -1
@@ -84,6 +84,6 @@ related:
       domain: dailytelegraph.com.au
     quality: 26
 
-secured: "WgfakORz3PvMMVAgS2UmzvBN7m9n0q0Y/SbI7gSSlnfo+3OWLowTX+vC8TlEaAUzrDU133ewsDVfBwCh8ljMwmhNhObcIOQPo3aRQq0kZs6cACJpjwxozQGSNL9f1rUa5/eHE4p2WwS8M3TiKo9xRdx/UMfBI4Ug9TMHnBebVWLPtt4/+xpycBaN70HPXy/iOE+66pqe6D1NCgQdFXj/roDicOQLZQi4gozBBn048XTCe05FL3ggcKVrwjtJV4Pk3NFmwIrNxPiTENswHc1n5pZqmXozDX3BGcNivXj5X4sJEL5xqF49wzpQRKDyhhrClpVtmCVUt0p0W6sLobvdLtddjuLqZs1sMoqygD0LQyw=;mCJhkKmDNPq+rB/+VVuQrw=="
+secured: "0md6DCgMLksS0qMX/SsWhuI+o6jWREGmq6vzNJNe+vDtHUuaa3UBMZBqdgwwDDKcg8DMy/wSEJV/0vKGxo6Fi/R3NhnwqzxJ6HbKrjHaVLD61+UhUMCNvlhFevLWpsntHPzwcaryKgPwknOKGzgBTFKh1ys01E4JWQDjcgWfwIm0uhUBUitK6KBLDvoMEZFzPQiQY0nstkdyPnGf3CRg8EWo6lGfi9frNt4ptqjdB4axsB2rWN4mzDDImL2xGu1EUmmzrwmqzRq+MjMBHvN+ZatdxWp776a9kPEjTl5Za3xkyboX7qQe1sRXSK6przLqQRA+XkC4A0k8ck1ofkx1Q7eZBxOHXph058lHZAXhrxQ=;qXrZGMMALLwY7McDCiwfaw=="
 ---
 

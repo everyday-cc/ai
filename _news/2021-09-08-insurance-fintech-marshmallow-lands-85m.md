@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "6 Fintech Startups In India That Are Making Use Of AI Technology"
-    excerpt: "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2."
-    publishedDateTime: 2021-09-05T13:05:00Z
-    webUrl: "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
-    type: article
-    provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 59
-    images:
-      - url: "https://www.goodreturns.in/img/2016/12/07-1438929714-interest-rates-red-14-1481696060.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "9 Reasons Why Fintech Will Take Over The Banking Industry"
     excerpt: "The introduction of Fintech or financial technology was back in the 1950s when credit cards came into existence. Next, internet"
     publishedDateTime: 2021-09-07T16:24:00Z
@@ -59,22 +43,6 @@ related:
         width: 990
         height: 556
         isCached: true
-  - title: "Crediwatch named to list of 100 most innovative AI fintech companies"
-    excerpt: "Crediwatch, a Bangalore-based ‘data-insights-as-a-service’ platform, has been selected to be part of the AIFinTech100, an annual list of 100 of the world’s most innovative AI solution providers for financial services selected by a panel of industry experts and analysts."
-    publishedDateTime: 2021-09-07T09:39:00Z
-    webUrl: "https://www.freepressjournal.in/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 59
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-09/7c7bd66a-1853-4e5f-9878-bf9af8cf76c8/Meghna_Suryakumar__Founder_and_CEO_Crediwatch.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 630
-        isCached: true
   - title: "Why I'm Investing in This High-Risk, High-Reward Fintech Stock"
     excerpt: "While investing in this space will undoubtedly come with risk as well as scrutiny from regulators and investors, I do like OppFi's mission and strategic plan so far, and believe the stock has huge potential."
     publishedDateTime: 2021-09-07T10:43:00Z
@@ -86,44 +54,51 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "4 Fintech Stocks To Watch As Paypal Acquires BNPL Startup"
-    excerpt: "Hot Fintech Stocks To Watch Right Now Amid PayPal’s Acquisition. Fintech is taking the world by storm and this would naturally highlight fintech stocks in the stock market. The"
-    publishedDateTime: 2021-09-08T17:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-fintech-stocks-to-watch-as-paypal-acquires-bnpl-startup-2021-09-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-fintech-stocks-to-watch-as-paypal-acquires-bnpl-startup-2021-09-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-fintech-stocks-to-watch-as-paypal-acquires-bnpl-startup-2021-09-08?amp"
+  - title: "Broadridge Hires FinTech Fixed Income Veterans to Join LTX"
+    excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that Ted Bragg and Jim Kwiatkowski have"
+    publishedDateTime: 2021-09-07T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/09/n22823331/broadridge-hires-fintech-fixed-income-veterans-to-join-ltx"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22823331"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22823331"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
-    excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
-    publishedDateTime: 2021-09-07T13:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-global-aifintech100-recognises-the-tech-companies-using-artificial-intelligence-to-transform-financial-services-301370320.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/1609590/FinTech_Global_100_List.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
-  - title: "Logiq, Reliq Health Tech, AI/ML Innovations and ESE Entertainment. Emerging Leaders in E-Sports, HealthTech, E-Commerce and AdTech"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-09-05T23:29:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/logiq-reliq-health-tech-ai-ml-innovations-and-ese-entertainment-emerging-leaders-in-e-sports-healthtech-e-commerce-and-adtech/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 26
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/yahoo_default_logo-1200x1200.png"
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
         width: 1200
-        height: 1200
+        height: 600
+        isCached: true
+  - title: "Broadridge Financial Solutions Appoints Fintech-focused Fixed Income Specialists"
+    excerpt: "Broadridge Financial reveals that Ted Bragg, Jim Kwiatkowski have joined LTX, a Broadridge firm providing an online trading platform."
+    publishedDateTime: 2021-09-09T02:15:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/180058-broadridge-financial-solutions-appoints-fintech-focused-fixed-income-specialists/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/180058-broadridge-financial-solutions-appoints-fintech-focused-fixed-income-specialists/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/180058-broadridge-financial-solutions-appoints-fintech-focused-fixed-income-specialists/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Corporate-Bond-Security-Pacific-Railroad-1865-300x224.jpeg"
+        width: 300
+        height: 224
+        isCached: true
+  - title: "Broadridge/LTX hires fintech fixed income veterans"
+    excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that Ted Bragg and Jim Kwiatkowski have joined LTX, a Broadridge company offering a new AI-driven digital trading platform for corporate bonds."
+    publishedDateTime: 2021-09-07T20:07:00Z
+    webUrl: "https://www.finextra.com/pressarticle/89180/broadridgeltx-hires-fintech-fixed-income-veterans"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "10 Fintech Stocks Redditors are Buying"
     excerpt: "Financial technology companies have outperformed the wider banking sector in the past few years, registering growth numbers that have left even market experts stunned."
@@ -167,17 +142,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Financial Institutions are Increasingly Adopting AI for Supporting AML as Fintech Adoption Rises: Report"
-    excerpt: "Financial institutions are increasingly adopting AI for supporting AML as global Fintech adoption rises: Report."
-    publishedDateTime: 2021-09-05T21:24:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/179981-financial-institutions-are-increasingly-adopting-ai-for-supporting-aml-as-fintech-adoption-rises-report/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 22
   - title: "Redefining fintech: How Israel became a global leader in financial technology"
     excerpt: "In 2020, the country’s position in the Global Fintech Rankings was 12th, making its climb to 3rd place the most profound move among the list’s top 16 nations in 2021. Tel Aviv also rose from 18th to 5th within the fintech hub rankings."
     publishedDateTime: 2021-09-09T07:04:00Z
@@ -191,6 +155,20 @@ related:
       - url: "https://static.timesofisrael.com/blogs/uploads/2021/09/Fintech-Israel.jpg"
         width: 1800
         height: 1200
+        isCached: true
+  - title: "Fintech investor Chrysalis appoints industry veteran Margaret O’Connor to board"
+    excerpt: "O’Connor was a founding member of Mastercard Asia Pacific and currently holds a number of board positions in Africa-centric companies."
+    publishedDateTime: 2021-09-06T09:34:00Z
+    webUrl: "https://www.altfi.com/article/8290_fintech-investor-chrysalis-appoints-industry-veteran-margaret-oconnor-to-board"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 20
+    images:
+      - url: "https://www.altfi.com/images/featured/fintech-investor-chrysalis-appoints-industry-veteran-margaret-oconnor-to-board.jpg"
+        width: 1200
+        height: 719
         isCached: true
   - title: "The new AIFinTech100 is launched to highlight the industry-leading Artificial Intelligence companies driving the future of financial services"
     excerpt: "FinTech Global, the specialist research and intelligence firm, today launches the new AIFinTech100 to list the most innovative companies offering Artificial Intelligence (AL) and Machine Learning (ML) technology solutions to the financial services industry."
@@ -224,42 +202,6 @@ related:
       name: AFP
       domain: afp.com
     quality: 19
-  - title: "Socure Featured on AIFinTech100 List of the World’s Most Innovative AI Solution Providers"
-    excerpt: "Socure, the leading provider of digital identity verification and fraud solutions, today announced that FinTech Global has named the company as one of"
-    publishedDateTime: 2021-09-07T17:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210907005101/en/Socure-Featured-on-AIFinTech100-List-of-the-World’s-Most-Innovative-AI-Solution-Providers"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 10
-  - title: "Enova To Virtually Participate in Panel at the JMP Securities Fintech Forum on Artificial Intelligence"
-    excerpt: "will virtually participate in a panel titled \"How AI is Rewiring Risk Analytics\" at the JMP Securities Fintech Forum: Artificial Intelligence on Friday, September 10th, at 12:15 pm Eastern Time. A live audio webcast and archive of the panel will be ..."
-    publishedDateTime: 2021-09-08T22:17:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210908cg99941/enova-to-virtually-participate-in-panel-at-the-jmp-securities-fintech-forum-on-artificial-intelligence"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 3
-  - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
-    excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
-    publishedDateTime: 2021-09-08T12:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-aifintech100-recognizes-concentric-its-unique-use-artificial-/2021/09/08/9444639.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Turing Technology Named to AIFinTech100: Identified as Among World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
-    excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
-    publishedDateTime: 2021-09-08T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-turing-technology-named-aifintech100-identified-as-among-worlds-/2021/09/08/9444884.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "A4tgumbIaXEaWUQsO1TwYHeB3ZT3d6/f6RHFUMXd77WUhRgGhOAHIPRMHfL5T+Hlxr3sfD5K7/t5wXJDjS05qkmhVw7/9tZbg02k0QHtVQL+FPHtOyr9AbWfroMBxr8riKvSAK8E9ZUdn5E1OH6vp9/97C0bJeDxsN42VdOdayzriHOwtCGrcR9P4TfxyBQmpXaZGvq7px/Nf8bIhiyBq6bcs2jgEb2OmReOH4MYzcmI9Apgt9l3AdFd0ZkmalDtJGH7q9Hj8ljkr/9hXRMpbDkj9ZUE5/1xFbjBymurwxM8pkk5CJAwnKjGVgff9WB3RhS97e8oT51J7WSNMVVBZC6hyHbtBRjdk8TF3Cp8fmlMBy2KBbmEAoycW4uP6KOhWSjows70HdUzzA2Gd7ANUdtEivuLGO3dw2mxVIzCjHLBPmKngubbkfwVOej3aMx+tVoFPYO8SGz/sw8+y1mG7WlQUEwJDmhbhR8LkyX1JJWe4sWmU+EJHCws1txIU/Q1gTCjf1+u9xBNUbYLRwVu7w==;uA/4Eqlm9wc2xwHmLl7kNw=="
 ---

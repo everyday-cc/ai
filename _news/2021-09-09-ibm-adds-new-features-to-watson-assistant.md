@@ -59,17 +59,6 @@ related:
         isCached: true
   - title: "ESPN and IBM unveil new fantasy football trade features with help from Watson AI"
     excerpt: "With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages. The Trade Assistant with ..."
-    publishedDateTime: 2021-09-05T13:05:00Z
-    webUrl: "https://www.zdnet.com/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-  - title: "ESPN and IBM unveil new fantasy football trade features with help from Watson AI"
-    excerpt: "With the 2021 NFL season just one week away, ESPN and IBM have announced a slate of new features designed to help fantasy football players create better trade packages. The Trade Assistant with ..."
     publishedDateTime: 2021-09-05T23:01:00Z
     webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
     ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/espn-and-ibm-unveil-new-fantasy-football-trade-features-with-help-from-watson-ai/"
@@ -94,6 +83,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-Datascience.jpg"
         width: 850
         height: 400
+        isCached: true
+  - title: "IBM Watson launches new AI and automation features to help businesses transform customer service"
+    excerpt: "New IBM Watson Assistant features designed to help businesses more quickly set up a voice agent with IntelePeer and enable more seamless hand-offs to .."
+    publishedDateTime: 2021-09-10T02:41:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/enterprise-services-and-applications/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service/86068383"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/enterprise-services-and-applications/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service/86068383"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/enterprise-services-and-applications/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service/86068383"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 61
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-86068383,imgsize-255808,width-800,height-434,overlay-etcio/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "IBM Watson Launches New AI And Automation Features For Better Services"
     excerpt: "The announcement includes collaboration with IntelePeer, a Communications Platform-as-a-Service provider, to set up and test a voice agent."

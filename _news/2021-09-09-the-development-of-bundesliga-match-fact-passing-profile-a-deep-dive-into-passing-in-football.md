@@ -40,12 +40,12 @@ related:
     quality: 5
   - title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
     excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 – 22 season."
-    publishedDateTime: 2021-09-10T01:42:00Z
-    webUrl: "https://www.afp.com/en/news/1315/aws-and-bundesliga-debut-two-new-bundesliga-match-facts-2021-22-european-football-season-202109090059381"
+    publishedDateTime: 2021-09-10T05:00:00Z
+    webUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
     type: article
     provider:
-      name: AFP
-      domain: afp.com
+      name: Business Wire
+      domain: businesswireindia.com
     quality: 5
 
 secured: "tjBjWnl1HGSV3gPitFsYYiEz7OFmCQjMJz9lzjrQmYPHk0Tlp52JacJCnHYZyZHWUPcWoSDjkyJLrX46QqRKUkFtjYqKKDXgNMWTO9bRx2RIEI8FmBfHFjyp1UOS/PJRmG15BAQHPzDTwfI/XlfLpZDOraqm0RD4QVwgw7y9YxiPB0KQ7P4kV2LcQfBN5xcZCqKMonOnO1edHSNgvPEAeLVN6lLN7qwP39vvLQScozU1CwO7ICscPMoamSF/9rT+5Bx+ponaFChIybVTic0ybo2Zjrvl+Hc1XiAO6JQmLwPildWM9CuRCAyrb3h41ACHo3WWJ6T0DOlxv3IfbfCp1XAennaQhbdGJCYfwU+UUAg=;EzZIbGhT8LhcTOFX1u8PjQ=="
