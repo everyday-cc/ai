@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomou
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/"
 type: article
 quality: 157
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://icdn.digitaltrends.com/image/digitaltrends/volkswagen-argo-ai-id-buzz-5.jpg"
         width: 1500
         height: 987
-        isCached: true
-  - title: "Volkswagen and Argo AI reveal first ID Buzz test vehicle for autonomous driving"
-    excerpt: "Volkswagen Commercial Vehicles, a standalone VW brand responsible for the development and sales of light commercial vehicles, and Argo AI, an autonomous driving technology company, unveiled the first version of the ID Buzz AD (Autonomous Driving) on Sunday."
-    publishedDateTime: 2021-09-06T00:20:00Z
-    webUrl: "https://techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/"
-    ampWebUrl: "https://techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/05/volkswagen-and-argo-ai-reveal-first-id-buzz-test-vehicle-for-autonomous-driving/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/IBA_7650.jpg?w=1024"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Argo AI and Volkswagen debut ID. BUZZ AD self-driving van"
     excerpt: "Argo AI and its partner Volkswagen have debuted the first-generation ID. BUZZ AD self-driving test van at this year’s IAA."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9?amp"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Best-Ways-AI-Is-Revolutionizing-Healthcare-Industry-in-21st-Century.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Using Artificial Intelligence in violin making"
-    excerpt: "In the September 2021 issue, Sebastian Gonzalez investigates artificial intelligence (AI) software to examine violin forms"
-    publishedDateTime: 2021-09-10T10:14:00Z
-    webUrl: "https://www.thestrad.com/lutherie/using-artificial-intelligence-in-violin-making/13624.article"
-    type: article
-    provider:
-      name: The Strad
-      domain: thestrad.com
-    quality: 39
-    images:
-      - url: "https://dnan0fzjxntrj.cloudfront.net/Pictures/1024x536/0/7/8/23078_22516_figure2thicknessviolin2_310275_125716.png"
-        width: 780
-        height: 347
         isCached: true
 
 secured: "sp0zjvLMv/S2sCxvhrsxmOh1NS24/o7J6zuxvpJgpB+NyuZ/tfYTlcdsn+ScSb+f0hE9oUUFVeN+ZSDTETC7gnTzvDc6PzrrHbaYnMoz/oP4hMz5ILZzgUzznh1I5Ro/tg6Rxcf21Kh9NL4HGdgpiZSEGHvRMQn0a24xNXYgbhYvjnDL1ax94fIOIXKkdWvC0PDhCkbIRU+/LGS8XdKlD5QD3COwayY7ky+XGl4PoCk7SlmPlYb3t67+QiP9Md7nXgvgcp3vmhCMPMTVzSQ4XXZHHcRrDHl5f4L1TxGX1mEHgIv9sm9nhvuO5sBjtBKHGwtUnIzR5y68cCZiQ6J9AoQpuIbBuOV3aFmGKIbVZVEdrBb7Ic8o7oNzhB8xdD0uWg6ei1vintLQJS4SmtrS0ztU266YQ9C5ICEkOC/eyK2kPWcMRrPudrNZ9tehVu4zBlhFUPDoo0Hy31k6WqiLOAwET6mtgyXV0EpPZADiKpibUbKeCOujS/n256Enz7Da9bZohiQjkaC37llrWuN7VA==;KNx5kqXh8yU7WHee3NG1pg=="

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/datarobot-announces-citizen-data-sci
 webUrl: "https://analyticsindiamag.com/datarobot-announces-citizen-data-scientists-professional-certification-heres-how-to-apply/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2240
     height: 1260
     isCached: true
+
+related:
+  - title: "DataRobot CEO Dan Wright coming to TC Sessions: SaaS to discuss role of data in machine learning"
+    excerpt: "Just about every company is sitting on vast amounts of data, which they can use to their advantage if they can just learn how to harness it. Data is actually the fuel for machine learning models, and with the proper tools,"
+    publishedDateTime: 2021-09-10T16:12:00Z
+    webUrl: "https://techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/"
+    ampWebUrl: "https://techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/10/datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 76
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/09/datarobot_wp.png?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "Zs4hItMJjJM37UOxb2QzmWWRng+JmMwcSd21rFf2pCTgKs/TPTvxERuvvXDt8iU8gV7cTb3CEXBvVhsrhAANIddzs8wJy2tsmdixcA/3wasvTHGuj92hVZKzq3FuaXARefWXebMIksRB8GqYtI5cKBBJ6okJoCgsFv8x7futZep31BHMIEwJ80MNb67Y+n/g5aySMUv/KA8IVxmuoORBwULlYHYHOYwNNrrNKIP+u6HZ09dpdWf29+01gM69jVPBue7jdE2PlAFw74hAveJthVGUb7cxcN7tbKFTKxupEY0UdEVS9xf2FsTznmIq4YC02bYsK1ENXgIknk43TQ0R7S+VOCCOC+yKAFpEcwBBpYUadlmpmBOak83+QBZut41fRQ13r6qi9Gc1jYp+5FwRuNJdtNDmyR6dQjWmOH3bFSz60mNh4FBQ2MYwkOYRp4/qXyHIHdwRQH9ax2oA0S31PPvVQOq9T8lQEtvLrNYsnOO5ebGSUaKELi4ksR/AkobmOta1taxHZ63NaAKAVDFWdQ==;s42C1GunU1vo7lMErQGAHg=="
 ---

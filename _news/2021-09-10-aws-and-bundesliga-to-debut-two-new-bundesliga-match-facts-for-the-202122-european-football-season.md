@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
-excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 – 22 season."
-publishedDateTime: 2021-09-10T05:00:00Z
-originalUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
-webUrl: "https://www.businesswireindia.com/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-season-74835.html"
+excerpt: "Business Wire India Today, Amazon Web Services (AWS), an Amazon.com , Inc. company (NASDAQ: AMZN), and the German"
+publishedDateTime: 2021-09-10T06:22:00Z
+originalUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
+webUrl: "https://www.indianweb2.com/2021/09/aws-and-bundesliga-to-debut-two-new.html"
 type: article
-quality: 5
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: indianweb2.com
+  domain: indianweb2.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://lh6.googleusercontent.com/proxy/22N99HSpQApw3WDlEPkWXuGF04hH1q5ieicjgf7uWr9IhnsOAZ31HUPL9wPQa9n_ghHdxcKBpV3MQY6O7CpwgWv3S7sTYeIvFnJUkWBvQeVDygN3ShxtmJ5MbqePRh6lMhJbD4rZ3o_r5D5dLhys"
+    width: 480
+    height: 480
+    isCached: true
 
 related:
   - title: "AWS bringing two new advanced statistics to German Bundesliga broadcasts for upcoming season"
@@ -65,6 +71,20 @@ related:
         width: 720
         height: 576
         isCached: true
+  - title: "German Bundesliga extends AWS ML to broadcast player efficiency data"
+    excerpt: "Bundesliga uses AWS machine learning and analytics to give fans deeper insights into the game of football, now adding shot efficiency and passing profile to its match facts to be broadcast for the 2021-22 season."
+    publishedDateTime: 2021-09-10T16:58:00Z
+    webUrl: "https://www.embedded.com/german-bundesliga-extends-aws-ml-to-broadcast-player-efficiency-data/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 56
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/09/Bundesliga-Match-facts-PassProfiles.jpg"
+        width: 1080
+        height: 1080
+        isCached: true
   - title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021-22 European Football Season"
     excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany's top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 - 22 season."
     publishedDateTime: 2021-09-09T17:53:00Z
@@ -75,6 +95,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "1E6xT+Lt6DS5HWa1agfHCqvxaJWBiZ/yaI4ANcPYWN4BX6RBxHOwmG5eIXuTEYyg9AdBazgRoeZhz/sC/bU30bzEMy9+t5fb0bhiITEvtQcluOeuTFrqeEQwxyTQaA8L3XvunL0iZR7/l20hxsA59UZ6cAJw0G2pbdsSQ2QAARR0+x91GwHJ/uZ7Z/imXo+Afl4y+sZKXX68pGZBSWBls8bnLB/Uce/mcLNLNoxR4y0WSYKyKuPj2JL+11qGH/X4MXrxx76yCBhM7PhYNP6crpdWZKHO/EWrKShZYKw6lUTwVnlzsF3QM8yBkfb7TRJ/7qzymut3VrikVsDf03MIaqduCbTMJB6IGpjzACU/CJni09hpWupXKuxMSnf4595HnXzKiKg9MW8lx9DdwHqUWePmI53l5TgGPcs117ckbe08jyBaXP/KhXUiaQyhFtDK7A9L8bWfnaKisuv8T5cFnCGaojgQkjzS8D8WDf9cZIPqb6Q8Qj/Zufthw0ce2VGupbZM+S/ebqCKdGFtwbv8SQ==;GqwTYS63TFsGk5MsDPCkbQ=="
+secured: "RGCD3zNUZajVh+Klu1OkroNKjUxP5zsHkr8r2gOBUTqn8KgBskNbr9mV6J8n8bvc3svWMWi2o+g+/UNXEDfkejLVFcCRYXBKE1bW02hNhQt49JBFWvDj1JsvmOj1XlC7BFe+S3BZCYo81gpFjR16kwQ9j1bdcJOSeb82XDGibcJzwyL63udNzg3UGKEOdGhRCnmCF+unb4SN1Ksj+YvzgBGsIDTToULd5dg0jO2xlEWPt7mZnePMWK+FnqBrOfeI2+38c+/BS6lRLsFhzIMo3YbHaifAK5Yp/Xy8PMJxX2ly/u9hUXYkFJi/2tlcKKu6VcYSI5EtEbMoM2S2qy3JqSbPEGOIVWuBMAPmuNBkLlw=;xC3kS8qtKJp8pvBubOQlyw=="
 ---
 

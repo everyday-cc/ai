@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202109/ethics-panels-reject-and-de
 webUrl: "https://www.biometricupdate.com/202109/ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/25142807/Typing-Biometrics-Keystroke-Dynamics.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "University researchers say voice biometrics can tell identical twins apart"
+    excerpt: "Muscle use, emotion and psychological intent lead to differences between identical twins detectable by anti-spoofing voice biometric tools notes a new study."
+    publishedDateTime: 2021-09-10T17:26:00Z
+    webUrl: "https://www.biometricupdate.com/202109/university-researchers-say-voice-biometrics-can-tell-identical-twins-apart"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
+        width: 1040
+        height: 585
         isCached: true
 
 secured: "1Oi0OXxryuL+IgOZWudD8RivCh0Eu7cfXt7LtRvJFBY1w9vD4yzd6mgNSQmNz/S37zOrwNTP8d4Aio4qL4wGgvh4G1nEkzTzB+dxqImxF5LY/zdKZWGKxMG9823pCPO+BOwvlrZKWl0vBz6LFE5JxG7ho1S9AwVMrAopsJTTzxoAS6hRxOjm6n/hC/afwT/sT1+tFvDa6AO3B+ZZq/hECTueRyrIsoEH3J5pfocDP0YroQyMj2arYHgpuqgDFJek3dxMonIATk7IaBBJyXCN1h9D35RapWC4zxdNdH3w2yHgkHKq7zB1hA5lRM4GMIAmX2gpI1eSugNNhbwGkGckXBbZi564bTgMyODsshNWFSywumsgY/bLkPZOCya3bz/H8vari+JZwzIE4gC2cvI0TYr4VtVZHp+NgZN6cAzJLUAzCPc/bRo2BcDfpdm3YkiEeUm7ojb7A1ys6QXq1UiWiyQAdcSVAKck0uFz4Rlqtd+Z+W5om42HxW5UTIp1CrP0ojbRLgGyV2T4hBqQcG7rIA==;u+/qOJFZMHQkVKsHiDx2AQ=="

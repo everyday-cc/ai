@@ -88,20 +88,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Using Artificial Intelligence in violin making"
-    excerpt: "In the September 2021 issue, Sebastian Gonzalez investigates artificial intelligence (AI) software to examine violin forms"
-    publishedDateTime: 2021-09-10T10:14:00Z
-    webUrl: "https://www.thestrad.com/lutherie/using-artificial-intelligence-in-violin-making/13624.article"
-    type: article
-    provider:
-      name: The Strad
-      domain: thestrad.com
-    quality: 39
-    images:
-      - url: "https://dnan0fzjxntrj.cloudfront.net/Pictures/1024x536/0/7/8/23078_22516_figure2thicknessviolin2_310275_125716.png"
-        width: 780
-        height: 347
-        isCached: true
 
 secured: "PVyB2AMAXTRs0olV7oJkmYwg0/ayLfRoi+KmUuWnk4NFnDNSFSwn2ZofdTKxeQzj0z+dSJ5ybdTegdRY5EGioj2xzQt8kETnzw7LjnDfFJZ5UA9GwcLMUGhjUGkxYtt1g49mrbSxGcUWQZ5P4hsKBaDzPITM73BBMWmTIYRo0oloS6e+fRWfNeBi/KP3PdooESPdQUifjurxevVqhvhnDfXGeo+/1XV1EIp/oOeyVTYaJBy/nuQ9dlztAI72M/WdpUrtfpOhxVjZpgzMwNBnr2YxUOsJ1ulJ0RnYGCJMiVLzVcg3SacUFfCdiUmKSOPvE6Gr024ouJvyMvjWXdTfFE0H9EQ3tC0kUDBDAM7nk8/hE0vO9HZaCzW1WZlooIpeDok+dmlnmUT8YHjkaMS3LERCbBWCwgo/uWw99NkQr3FeYL2iwCifqQqplT2mN1deLL8QkjPcpjBAUobH9rRUVZd6jfXzCKcrGgoToxCx9QGeak7djJyJFx4/9sJUn6wWd/9TDmCF9UPBQ7ZL+Tt81Q==;9ZCQQX9/xSgY0L4CfAlB8w=="
 ---

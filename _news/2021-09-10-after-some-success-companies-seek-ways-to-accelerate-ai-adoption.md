@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Artificial Intelligence offers greater solutions"
-    excerpt: "The ability of artificial intelligence (AI) to process a huge amount of data makes it an important enabler in ultimately helping humans drive better outcomes. “We see customers struggling with this,” said US-based software firm ServiceNow’s IT Transformation Solution Lead for Asia,"
-    publishedDateTime: 2021-09-06T00:40:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/09/06/artificial-intelligence-offers-greater-solutions"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/09/06/1282937.jpg"
-        width: 1240
-        height: 697
-        isCached: true
   - title: "Yo-Kai Express uses IoT and AI to remove barriers to gourmet food"
     excerpt: "After 12 years as an engineer and salesperson in the semiconductor industry, Andy Lin founded Yo-Kai Express, a food technology startup. Lin has integrated Internet-of-Things (IoT) technology, modular supply chain management,"
     publishedDateTime: 2021-09-09T06:06:00Z

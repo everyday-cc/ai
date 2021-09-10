@@ -39,6 +39,20 @@ related:
         width: 1080
         height: 511
         isCached: true
+  - title: "University researchers say voice biometrics can tell identical twins apart"
+    excerpt: "Muscle use, emotion and psychological intent lead to differences between identical twins detectable by anti-spoofing voice biometric tools notes a new study."
+    publishedDateTime: 2021-09-10T17:26:00Z
+    webUrl: "https://www.biometricupdate.com/202109/university-researchers-say-voice-biometrics-can-tell-identical-twins-apart"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
+        width: 1040
+        height: 585
+        isCached: true
 
 secured: "dxY877IArFA6BRd469bCsriQ8kzisCtLBwAMgfEQG7lcCwOyapAjNUSYCIX1nJXuPT0NQ4uNH9pwrbxnDq4HUdYNZPNVzeRSV1bKSpO8cmBdJN53lRsfjRng4qv6mX8ic5a9FT90TIN1nwVKkm+GTZ8LwETuDNRYRyBZi6jMdUqlptWUS26dNXlMAo9stGTKD3w8jGt+i4Q2Xju8yDQpEIirJX5bDPtKyELbGFTdgiflqBOFuS5EmfL09omcdBWy6Eww8G8ZRRmw5TlXnTKgUqTn9nV2TDNNxWlpFRk/qN5CX593U7MZWDZWGjGgDbkPeofawb7N1+i9+GmiSYjkfwTLZufDBp/RKoJrgzXwSmAa95IC7oCBD8BElU09P9bMcO5X9q+bkbo3YFeywtoAUgVkE/pqYS7ssYCbYDs8HakV6UFzt1JGUJFDJECmU66Sdeyg4trNbdyTTIYahO9yQGu2NS9yCXJm2p2nzYqQGVuP5eI1jPsJXysyFqPzHUmknnO5MD1P1tU6GLNtDCxesw==;4baT7kncCltppLUc1Io4uw=="
 ---

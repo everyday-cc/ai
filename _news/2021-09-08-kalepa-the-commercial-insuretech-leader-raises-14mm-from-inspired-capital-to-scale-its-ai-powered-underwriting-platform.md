@@ -26,6 +26,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Insurtech Nuon develops AI platform to improve insurers' pricing and profits"
+    excerpt: "The start-up has secured pre-seed investment and bolstered its leadership to execute its go-to-market strategy."
+    publishedDateTime: 2021-09-10T16:16:00Z
+    webUrl: "https://www.intelligentinsurer.com/news/insurtech-nuon-develops-ai-platform-to-improve-insurers-pricing-and-profits-26896"
+    type: article
+    provider:
+      name: Intelligent Insurer
+      domain: intelligentinsurer.com
+    quality: 14
+
 secured: "g7SKALOqHeCZvstlO47yjC48fPgJNvbiE5vPxF9UKHVcUsSAa3d8I/ifPlPrFxORsWBPHsACT6y4jXcXdG02Y+Wxp7ChmcyFt07wUndBOqE633W6nwLfQV8WAPSKxSU6snp8sU1O2/LRmHNsmeOcuVE5Pcz90qN4kdFfmKl8H2spTY9q8xmomdRGZePKf91MQztVIjYUsiFzmXSF5YpfR6e1TuE/dhwvujAovJFBbsxn8I4AqlnX0LEykP4LTprVU88fIPopH+sXYGVeR5vImban3YMbe199526HCg0RhvjfrL5DeZ6YiIB9sc0pnqD2em0U/APjBijJEDM169gRVSovqgMMECuX+jbIkScgMp8=;ElUOIJ5wJHWrZ5dAY/j15A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepe
 webUrl: "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepeer/"
 type: article
 quality: 110
-heat: 260
+heat: 261
 published: true
 
 provider:

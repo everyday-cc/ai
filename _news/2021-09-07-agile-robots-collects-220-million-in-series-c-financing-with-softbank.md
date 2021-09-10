@@ -28,7 +28,7 @@ related:
   - title: "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2"
     excerpt: "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,"
     publishedDateTime: 2021-09-10T12:56:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/09/10/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2/17434/"
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17434"
     type: article
     provider:
       name: Robotics Tomorrow

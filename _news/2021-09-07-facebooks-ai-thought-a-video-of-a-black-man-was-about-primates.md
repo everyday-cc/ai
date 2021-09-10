@@ -43,22 +43,6 @@ related:
         width: 800
         height: 520
         isCached: true
-  - title: "Facebook apologises after black men branded 'primates' by its AI system"
-    excerpt: "Facebook has apologised after users who watched a video featuring black men were asked if they would like to \"keep seeing videos about primates\". The New York Times reported the social media platform said it was sorry for \"an unacceptable error\" and was looking at ways to ensure it never happened again."
-    publishedDateTime: 2021-09-06T00:13:00Z
-    webUrl: "https://www.newshub.co.nz/home/technology/2021/09/facebook-apologises-after-black-men-branded-primates-by-its-ai-system.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/technology/2021/09/facebook-apologises-after-black-men-branded-primates-by-its-ai-system.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2021/09/facebook-apologises-after-black-men-branded-primates-by-its-ai-system.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 59
-    images:
-      - url: "https://www.newshub.co.nz/home/technology/2021/09/facebook-apologises-after-black-men-branded-primates-by-its-ai-system/_jcr_content/par/image.dynimg.768.q75.jpg/v1630886939825/gettyimages_facebook-ai-racism-sexism_060921_1120x640.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "When Facebook’s AI Labeled ‘Primates’ in a Video of Black Men"
     excerpt: "The recent incident involving Facebook’s AI putting the ‘primate’ label on a video featuring black men is objectionable and offensive. Afterward, Facebook apologized for the incident, calling it an “unacceptable error."
     publishedDateTime: 2021-09-07T05:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/09/09/bill-and-melinda-gates-back-uk-a
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html"
 type: article
 quality: 61
-heat: 72
+heat: 71
 published: true
 
 provider:
