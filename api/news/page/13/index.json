@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-27-google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown.md",
+      "title": "Google is pulling the plug on Streams, the clinical app developed by DeepMind, following health division shutdown",
+      "excerpt": "Google is shutting down Streams, a mobile app designed to help clinicians track patients' conditions, two years after acquiring it from portfolio firm DeepMind. The decision to take Streams ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
+      "originalUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6128ada680be940019b9ecac?width=1200&format=jpeg",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
+      "publishedDateTime": "2021-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-ibm-ai-platform-watson-to-help-indian-companies-keep-user-data-safe-from-breaches.md",
       "title": "IBM AI Platform Watson To Help Indian Companies Keep User Data Safe From Breaches",
       "excerpt": "IBM is trying to turn this into a business opportunity. The New York-based tech giant has started providing its artificial intelligence (AI) platform Watson to detect, assess and resolve issues of ...",
@@ -1085,58 +1137,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027.md",
-      "title": "Asia Pacific Artificial Intelligence In Healthcare Market Size, Analysis, Competitive Strategies and Forecasts to 2027",
-      "excerpt": "The market research report an in-depth study of the present as well as the future market needs of the Asia Pacific Artificial Intelligence (Ai) In Healthcare Market size. The research report serves as a comprehensive guide for new entrants to the Asia Pacific Artificial Intelligence (Ai) In Healthcare market size.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027-2021-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027-2021-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

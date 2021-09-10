@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-17-industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier.md",
+      "title": "Industry Expo To Feature Seven Well-Tech Trends to Make Your Home Healthier",
+      "excerpt": "Ian Bryant, CEDIA’s director of strategic partnerships, dates the industry’s heightened interest in “well-tech,” (also called well tech and welltech to describe technology created to support wellness),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/",
+      "originalUrl": "https://www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5bfdc2f80c7e7ce0b23b1e%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiegold/2021/08/17/industry-expo-to-feature-seven-well-tech-trends-to-make-your-home-healthier/amp/",
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-qualcomm-readies-5g-and-ai-drone-platform.md",
       "title": "Qualcomm readies 5G and AI drone platform",
       "excerpt": "Qualcomm is unveiling its QRB5165 processor platform that enables aerial drones to tap both 5G and AI technologies.",
@@ -1310,58 +1362,6 @@
         "name": "Interesting Engineering",
         "domain": "interestingengineering.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-three-considerations-to-keep-in-mind-before-investing-in-ai.md",
-      "title": "Three Considerations To Keep In Mind Before Investing In AI",
-      "excerpt": "There are some concrete steps you should take as a company leader to ensure you're investing in the AI solution that's right for your organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611197e7a1fc8d3b4e5a536a%2F0x0.jpg",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/",
-      "publishedDateTime": "2021-08-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

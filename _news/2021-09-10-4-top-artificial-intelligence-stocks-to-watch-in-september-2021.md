@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to
 ampWebUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
 
 related:
   - title: "3 Top AI Stocks to Buy Right Now"

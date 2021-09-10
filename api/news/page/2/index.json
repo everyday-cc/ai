@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-09-motorola-launches-in-car-ai-video-system-for-police-forces.md",
+      "title": "Motorola launches in-car AI video system for police forces",
+      "excerpt": "Motorola has made the M500 camera available for pre-order. It automatically captures footage from the backseat of police cars to ensure any incidents are caught on tape for a later review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/",
+      "originalUrl": "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631150137_m500_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-what-databrickss-16b-funding-round-means-for-the-enterprise-ai-market.md",
       "title": "What Databricks’s $1.6B funding round means for the enterprise AI market",
       "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! The latest winner of the growing interest in enterprise AI is Databricks, a startup that has just secured $1.",
@@ -555,50 +606,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language.md",
-      "title": "Google and Microsoft are creating a monopoly on coding in plain language",
-      "excerpt": "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258",
-      "originalUrl": "https://theconversation.com/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/419875/original/file-20210907-22-krsb6e.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258",
-      "publishedDateTime": "2021-09-08T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {

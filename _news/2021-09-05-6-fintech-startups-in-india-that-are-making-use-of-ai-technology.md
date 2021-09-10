@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fin
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html"
 type: article
 quality: 59
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/09/yahoo_default_logo-1200x1200.png"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "A Comprehensive Guide to Fintech ETFs"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-09-05T07:26:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/a-comprehensive-guide-to-fintech-etfs/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 24
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/71db9e3c1e83b4edc3bba506d8c34d01.jpeg"
-        width: 635
-        height: 400
         isCached: true
   - title: "10 Fintech Stocks Redditors are Buying"
     excerpt: "Financial technology companies have outperformed the wider banking sector in the past few years, registering growth numbers that have left even market experts stunned."

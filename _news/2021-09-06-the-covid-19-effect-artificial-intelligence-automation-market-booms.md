@@ -9,8 +9,8 @@ ampWebUrl: "https://techbooky.com/the-covid-19-effect-artificial-intelligence-au
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techbooky.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microscopy plus AI equals rapid COVID-19 detection: study"
+    excerpt: "Beckman researchers paired microscopy with artificial intelligence to develop a COVID-19 test that's fast, accurate, and cost-effective. All we need to do is say \"ahh.\""
+    publishedDateTime: 2021-09-09T20:07:00Z
+    webUrl: "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.html"
+    ampWebUrl: "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/microscopy-plus-ai-equ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Valencia crushed Covid with AI"
     excerpt: "By leveraging algorithms and unorthodox data sources, an MIT researcher has made Valencia a Covid-19 data pioneer"
     publishedDateTime: 2021-09-08T05:00:00Z

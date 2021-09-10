@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-08-13-colorado-standardized-test-scores-reveal-deep-learning-loss-from-pandemic-creates-a-sense-of-urgency.md",
+      "title": "Colorado Standardized Test Scores Reveal Deep Learning Loss From Pandemic: ‘Creates A Sense Of Urgency’",
+      "excerpt": "It's been no secret that students have fallen behind during the constraints of the pandemic, but state standardized test score data paints a clearer picture of just how severe that learning loss may have been.",
+      "sourceUrl": null,
+      "webUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
+      "originalUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://denver.cbslocal.com/wp-content/uploads/sites/15909806/2021/08/STATE-TESTING-DATA-5PKG.transfer_frame_1349.jpeg?w=420",
+          "width": 420,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
+      "cdnAmpWebUrl": "https://denver-cbslocal-com.cdn.ampproject.org/c/s/denver.cbslocal.com/2021/08/13/covid-standardized-test-scores-learning-loss/?amp",
+      "publishedDateTime": "2021-08-13T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-facial-recognition-market-to-lift-up-industry-growth-during-the-forecast-period-from-2020-2027-key-players-crossmatch-keylemon-nec-3m.md",
       "title": "Facial Recognition Market To Lift Up Industry Growth During The Forecast Period From 2020 – 2027, Key Players – Crossmatch , Keylemon, NEC, 3M.",
       "excerpt": "To receive a sample copy, please click here: visit @  Market by Application Emotion Recognition Attendance Tracking and Monitoring Access Control Law Enforcement Others The deadly COVID-19 outbreak has significantly slowed the growth and development of the international market industry.",
@@ -1050,58 +1093,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide.md",
-      "title": "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide",
-      "excerpt": "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

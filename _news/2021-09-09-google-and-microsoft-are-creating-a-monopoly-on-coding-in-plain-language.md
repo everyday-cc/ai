@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Google and Microsoft are creating a monopoly on coding in plain language"
-excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
-publishedDateTime: 2021-09-09T14:55:00Z
-originalUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
-webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
+publishedDateTime: 2021-09-08T19:16:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
+webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Canadian Manufacturing
-  domain: canadianmanufacturing.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
@@ -20,12 +20,26 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
-    width: 754
-    height: 424
+  - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
+  - title: "Microsoft explores machine learning in space with AIML"
+    excerpt: "Microsoft joins the University of Adelaide’s Australian Institute for Machine Learning (AIML) to explore how machine learning can be used in space."
+    publishedDateTime: 2021-09-10T00:00:00Z
+    webUrl: "https://www.manmonthly.com.au/news/microsoft-explores-machine-learning-space-aiml/"
+    type: article
+    provider:
+      name: Manufacturers' Monthly
+      domain: manmonthly.com.au
+    quality: 86
+    images:
+      - url: "https://www.manmonthly.com.au/wp-content/uploads/2021/09/07DCC2B9-4F08-47CF-98F8-1AFBAEE55EDB_1_201_a.jpeg"
+        width: 1200
+        height: 536
+        isCached: true
   - title: "Google and Microsoft are creating a monopoly on coding in plain language"
     excerpt: "Natural language coding means that people won’t need to learn specialized coding languages to write programs or design websites. But large corporations will control the means of translation."
     publishedDateTime: 2021-09-08T15:27:00Z
@@ -143,6 +157,6 @@ related:
         height: 640
         isCached: true
 
-secured: "0h41lJW8wdlXPW3Ev3dvnzEC0MKKWknKb+WhZcH/W0hNdbIqfh/JGtDKy2Hj/Mu/tt0O8rCrO5DhrbVxRYmmR93IjRscf9FlD+GjIL+YP9/hku+rHMTX3tlq6Jnjii2tvvPF8PIx9XhUaOCbe9Msj38wjBbbo2SNQwrIX36ZtRGzLWhSPVRSbXUXYm1YfJGeldOvfg3+IMlSiXLF2HVwx9j+uJWbuCsABDwUsXv0DJ+UneLVlR7UYUYfc/zt2Zb1/9EBLeU38zEJdrtvAibHqvdKqZqn8akqZf3te5pnvN2CwC3ER0/WIf+/7WDz5p+mau2BT3zfdAcunNcOgpyOK+8r/uwEXg4GdeyAXYfOD+E=;GixLoA95uvH28jV0UGYCeQ=="
+secured: "9nMpsVaVY3UHt9n3ni6s3LZ2vAClvTX7i47uFr7lxPtU46YVeCGnfBHabmURhQ8cufNiSxvmUY2wTRpr0iFEfzOa1r7dDes0LL4ny6ma+fXcc4GjNC2le23wXA0I89TJG9vSwvpb9Hw8aoHoUZbsHGF3jDh1jLMeejFYOSlWMumo98oSF/m/v5nACivKZUfkbUTR4NbvijhAuolXgjet3iQADB74F9j55ZprUqpOpEp0xpf+7puTtHFSTirgBtG9Mvls7EhePjNOCc8RMR2U3X+wtPcLdhQo+n52AHHll0bmARWX2imgK1eNBsR8NJjfcSTAfwXcghJB1hkE9dFtqwEHDFVOlRq998JHLMzTl4s=;jCe13e2coU9Qzkwi9nMotw=="
 ---
 

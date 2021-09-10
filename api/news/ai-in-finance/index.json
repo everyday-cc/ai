@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-10-facebook-developing-machine-learning-chip-the-information.md",
+      "title": "Facebook developing machine learning chip - The Information",
+      "excerpt": "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
+      "originalUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/d0h2VGieUoa8rWcphU5zvwQoS_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2JN4NFPXBJGPJNAA2A7ECHILE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-singapore-tech-startup-advanceai-snags-200m-in-funding-round.md",
       "title": "Singapore Tech Startup ADVANCE.AI Snags $200M in Funding Round",
       "excerpt": "ADVANCE.AI is expected to raise roughly $200 million in a funding round that will put the tech startup in exclusive company as a southeastern Asia unicorn.",
@@ -253,7 +307,7 @@
       "originalUrl": "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -763,10 +817,10 @@
     {
       "path": "_news/2021-08-24-pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa.md",
       "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
-      "excerpt": "the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was ...",
+      "excerpt": "Pngme, the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was led by Octopus Ventures and comes less than a year after its $3 million seed round.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436286.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2021/08/24/9436286.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -776,21 +830,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T07:48:00-07:00",
+      "publishedDateTime": "2021-08-24T08:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1322,41 +1367,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all.md",
-      "title": "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All",
-      "excerpt": "He founded MOLOCO with the vision of making sophisticated machine learning algorithms available as a cloud service to a wide variety of businesses, industries and use cases. MOLOCO Cloud is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

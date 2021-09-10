@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/update-artificial-intelligence-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-10TimEliottCartoon-1.jpeg"
         width: 550
         height: 263
-        isCached: true
-  - title: "Federal court rules Artificial Intelligence cannot be an ‘inventor’ under US patent law"
-    excerpt: "The US District Court for the Eastern District of Virginia on Wednesday ruled that an artificial intelligence (AI) machine cannot be an inventor under the Patent Act. The action was a motion for"
-    publishedDateTime: 2021-09-05T07:38:00Z
-    webUrl: "https://www.jurist.org/news/2021/09/federal-court-rules-artificial-intelligence-cannot-be-an-inventor-under-us-patent-law/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 29
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/09/Artificial_Intelligence_1630841903.jpg"
-        width: 1280
-        height: 427
         isCached: true
 
 secured: "gagU1vZKV+wChXNSGIbUtPRSlsNnxMKeN3x0iFXXHk8V8zmPdu5XkCki2AT1VolsASYq4uXSWw6ZEQCxK9QeYhPMgOetsXxZeUQqAfkMb52mRAAlG2XnuVbwiIVUIQbxiNm8dqjRlVrJMg9IUqstD72I6AumfQap2xW14lOS9FawdGGBID7vk30CCKlaEcJlV7V2PCJT3OrQKBjr/jchMzhH9w+wRsq/3VvW8NRJjkF7orK4QCHxC8BgXBx06QtRVyEucVlAuAZgDvlk+e8jn16zv7ZYNXrKKvIUku5hKNR+D0+WG24F46y2Z7yt3n5Bn3Se+uqPFjSp+J3j6GX5TIRDVO2b3nUdJNyvPBe5wV4vHK9awjoWSGMTUqPaCHXlA7R/hH16J6UgBIB3RRu00W0ID6vect1q9MWC3NlnIW7brgQrUSm+hpfQQr3dzrIciaNti58TQsaHb44n92tZQIKQX7mU/94gn17fQL0am95xRckewY8vdVjFkPBlYN1OozA+BUJ34inD5sqThY1JSw==;7iIamc4ATrPXLXPmOxdtFw=="

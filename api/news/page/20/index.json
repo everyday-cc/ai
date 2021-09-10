@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-08-24-ai-roi-computer-vision.md",
+      "title": "AI ROI: Computer Vision",
+      "excerpt": "Computer vision is now a reality. Get immediate business value like improved quality and reduced losses from the practical AI deployment platform, Chooch AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
+      "originalUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-a-secret-weapon-for-self-driving-car-startups-humans.md",
       "title": "A secret weapon for self-driving car startups: Humans",
       "excerpt": "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators.",
@@ -1166,49 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-opensource-gui-tool-for-opencv-and-deeplearning.md",
-      "title": "OpenSource GUI Tool For OpenCV And DeepLearning",
-      "excerpt": "AI and Deep Learning for computer vision projects has come to the masses. This can be attributed partly to the community projects that help ease the pain for newbies. [Abhishek] contributes one ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
-      "originalUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/02/monkai_feat.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

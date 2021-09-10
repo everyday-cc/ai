@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/google-and-microsoft-are-creating-a-
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language-166258"
 type: article
 quality: 75
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Conversation
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft explores machine learning in space with AIML"
+    excerpt: "Microsoft joins the University of Adelaide’s Australian Institute for Machine Learning (AIML) to explore how machine learning can be used in space."
+    publishedDateTime: 2021-09-10T00:00:00Z
+    webUrl: "https://www.manmonthly.com.au/news/microsoft-explores-machine-learning-space-aiml/"
+    type: article
+    provider:
+      name: Manufacturers' Monthly
+      domain: manmonthly.com.au
+    quality: 86
+    images:
+      - url: "https://www.manmonthly.com.au/wp-content/uploads/2021/09/07DCC2B9-4F08-47CF-98F8-1AFBAEE55EDB_1_201_a.jpeg"
+        width: 1200
+        height: 536
+        isCached: true
   - title: "Oyo and Microsoft team up to develop travel tech powered by Microsoft Azure"
     excerpt: "Microsoft and Oyo have entered into a \"multi-year strategic alliance\" in order to roll out new travel products and technologies."
     publishedDateTime: 2021-09-09T11:45:00Z
@@ -59,18 +73,18 @@ related:
         height: 480
         isCached: true
   - title: "Google and Microsoft are creating a monopoly on coding in plain language"
-    excerpt: "Dominance by these platform corporations makes it harder for new competitors, even if they have a stronger or more ethical product."
-    publishedDateTime: 2021-09-09T14:55:00Z
-    webUrl: "https://www.canadianmanufacturing.com/features/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language/"
+    excerpt: "Sometimes major shifts happen virtually unnoticed On May 5 IBM announced Project CodeNet to very little media or academic attention CodeNet is a"
+    publishedDateTime: 2021-09-08T19:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271068139/google-and-microsoft-are-creating-a-monopoly-on-coding-in-plain-language"
     type: article
     provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 55
     images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/09/file-20210907-26-19sf7le.jpg"
-        width: 754
-        height: 424
+      - url: "https://cdn.bignewsnetwork.com/cvr1631126347.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "MDC joins Microsoft AI Business School to develop AI courses"
     excerpt: "Miami Dade College (MDC) has announced a collaboration with Microsoft AI Business School to develop applied AI courses for degree-seeking students, C-level working professionals and the community"

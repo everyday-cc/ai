@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ladbible.com/entertainment/tv-and-film-adrian-dunbar-tea
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/entertainment/tv-and-film-adrian-dunbar-teases-line-of-duty-return-during-nta-acceptance-speech-20210909.amp.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Martin Compston teases Line of Duty return during winner's speech at NTAs"
+    excerpt: "Scotsman Martin Compston, who played DI Steve Arnott in the hugely successful BBC One show, sent fans wild with a cryptic clue during his acceptance speech"
+    publishedDateTime: 2021-09-10T01:55:00Z
+    webUrl: "https://www.mirror.co.uk/tv/tv-news/martin-compston-teases-line-duty-24951492"
+    ampWebUrl: "https://www.mirror.co.uk/tv/tv-news/martin-compston-teases-line-duty-24951492.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tv/tv-news/martin-compston-teases-line-duty-24951492.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 43
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article24951467.ece/ALTERNATES/s615/0_Martin-Compston-teases-Line-of-Duty-return-during-winners-speech-at-NTAs.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Line of Duty star Adrian Dunbar teases show 'may be back' in NTAs speech"
     excerpt: "Adrian Dunbar hinted at a new series Line of Duty star Adrian Dunbar hinted the show could return for another series at tonight's National Television Awards. The police drama won the award for returning drama,"
     publishedDateTime: 2021-09-09T21:00:00Z

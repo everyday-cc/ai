@@ -2,6 +2,110 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-08-24-a-rare-military-tech-unicorn-looks-past-afghanistan-war.md",
+      "title": "A Rare Military Tech Unicorn Looks Past Afghanistan War",
+      "excerpt": "Shield AI initially made drones to protect ground troops, but it has raised $210 million to expand to larger aircraft in more complicated situations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7qI4DSMYKl8/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai.md",
+      "title": "NVIDIA Now Offers A Comprehensive Platform For Enterprise AI",
+      "excerpt": "NVIDIA has released the full spectrum of AI tools for the Enterprise, extending its reach and confounding competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d7504522a9187778d0853%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
+      "publishedDateTime": "2021-08-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-onsolve-wins-security-todays-2021-new-product-of-the-year-award-for-artificial-intelligence.md",
       "title": "OnSolve Wins Security Today's 2021 New Product of the Year Award for Artificial Intelligence",
       "excerpt": "OnSolve, a leading critical event management provider for enterprises, SMB organizations, and government entities, today announced that it has been awarded Security Today's 2021 New Product of the Year Award in the Artificial Intelligence category.",
@@ -136,49 +240,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa.md",
-      "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
-      "excerpt": "the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -1155,49 +1216,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation.md",
-      "title": "Baidu's AI Voice Assistant Xiaodu Closes Funding at $5.1 Billion Valuation",
-      "excerpt": "Chinese tech giant Baidu Inc said on Tuesday its artificial intelligence (AI) voice assistant Xiaodu Technology has closed Series B financing at a $5.1 billion valuation. This comes in the midst of a regulatory crackdown on the tech industry by the Chinese authorities that has led to an upheaval in many sectors including as e-commerce,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-24/baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation?context=amp",
-      "publishedDateTime": "2021-08-24T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

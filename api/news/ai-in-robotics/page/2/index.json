@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-01-this-is-the-cheapest-robot-vacuum-youll-find-today.md",
+      "title": "This is the cheapest robot vacuum you’ll find today",
+      "excerpt": "If you need help in keeping your floor clean, take advantage of this offer from Walmart that drops the price of the IonVac SmartClean 2000 robot vacuum to $97.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/",
+      "originalUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ion-smrtclean2000-images_2.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/?amp",
+      "publishedDateTime": "2021-09-01T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-bit-mesra-engineering-student-nominated-as-co-founder-in-robotics-startup.md",
       "title": "BIT Mesra Engineering Student Nominated As Co-Founder In Robotics Startup",
       "excerpt": "Mesra, Ranchi, Engineering Student Miss Manvi Ridhi has been nominated as Co-Founder in an Indian Robotics Start up ‘Innogress Robotics’. Manvi Ridhi is a Final Year Electrical and Electronics",
@@ -1381,58 +1433,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-agritech-robotics-startup-tartansense-raises-5-mn-in-series-a-round.md",
-      "title": "Agritech Robotics Startup TartanSense Raises $5 Mn In Series A Round",
-      "excerpt": "The company builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms reduce their expenditures and improve their incomes",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/381428",
-      "originalUrl": "https://www.entrepreneur.com/article/381428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629886004-tartansenseteampic.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381428",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381428",
-      "publishedDateTime": "2021-08-25T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Martin Compston teases Line of Duty return during winner's speech at NTAs"
+    excerpt: "Scotsman Martin Compston, who played DI Steve Arnott in the hugely successful BBC One show, sent fans wild with a cryptic clue during his acceptance speech"
+    publishedDateTime: 2021-09-10T01:55:00Z
+    webUrl: "https://www.mirror.co.uk/tv/tv-news/martin-compston-teases-line-duty-24951492"
+    ampWebUrl: "https://www.mirror.co.uk/tv/tv-news/martin-compston-teases-line-duty-24951492.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/tv/tv-news/martin-compston-teases-line-duty-24951492.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 43
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article24951467.ece/ALTERNATES/s615/0_Martin-Compston-teases-Line-of-Duty-return-during-winners-speech-at-NTAs.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Adrian Dunbar Teases Line Of Duty Return During National Television Awards Acceptance Speech"
     excerpt: "Adrian Dunbar played Superintendent Ted Hastings on Line of Duty, and was drafted in to receive the Special Recognition award"
     publishedDateTime: 2021-09-09T21:40:00Z

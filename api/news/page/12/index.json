@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-27-ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open.md",
+      "title": "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open",
+      "excerpt": "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/27/b9ce487a-48ab-430b-9889-61dc0b4c6291/match-insights-example-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "publishedDateTime": "2021-08-27T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-expanding-human-robot-collaboration-in-manufacturing-by-training-ai-to-detect-human-intention.md",
       "title": "Expanding human-robot collaboration in manufacturing by training AI to detect human intention",
       "excerpt": "Machines and robots undoubtedly make life easier. They carry out jobs with precision and speed, and, unlike humans, they do not require breaks as they are never tired.",
@@ -1107,58 +1159,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown.md",
-      "title": "Google is pulling the plug on Streams, the clinical app developed by DeepMind, following health division shutdown",
-      "excerpt": "Google is shutting down Streams, a mobile app designed to help clinicians track patients' conditions, two years after acquiring it from portfolio firm DeepMind. The decision to take Streams ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
-      "originalUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6128ada680be940019b9ecac?width=1200&format=jpeg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
-      "publishedDateTime": "2021-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

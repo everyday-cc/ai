@@ -30,9 +30,9 @@ related:
   - title: "Looks like Intel Alchemist's top GPU is definitely headed to laptops"
     excerpt: "Twitter user Benchleaks spotted benchmark scores for an \"Intel Xe\" GPU this week, and a closer look at the specs makes it evident that we are looking at an Intel Alchemist GPU for laptops. This confirms that you are going to be able to get Intel's high-end GPU on a gaming laptop,"
     publishedDateTime: 2021-09-09T16:15:00Z
-    webUrl: "https://www.pcgamer.com/uk/looks-like-intel-alchemists-top-gpu-is-definitely-headed-to-laptops/"
-    ampWebUrl: "https://www.pcgamer.com/uk/amp/looks-like-intel-alchemists-top-gpu-is-definitely-headed-to-laptops/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/looks-like-intel-alchemists-top-gpu-is-definitely-headed-to-laptops/"
+    webUrl: "https://www.pcgamer.com/looks-like-intel-alchemists-top-gpu-is-definitely-headed-to-laptops/"
+    ampWebUrl: "https://www.pcgamer.com/amp/looks-like-intel-alchemists-top-gpu-is-definitely-headed-to-laptops/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/looks-like-intel-alchemists-top-gpu-is-definitely-headed-to-laptops/"
     type: article
     provider:
       name: PC Gamer

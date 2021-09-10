@@ -802,6 +802,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-06-the-covid-19-effect-artificial-intelligence-automation-market-booms.md",
+      "title": "The COVID-19 Effect: Artificial Intelligence Automation Market Booms",
+      "excerpt": "In Johannes words: “The robots escaped the manufacturing sector and went ... who take care of the sick and elderly among others are those now replaced with Artificial Intelligence Technology. A 2020 survey by the World Economic Forum, a non-profit ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/",
+      "originalUrl": "https://techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/09/AI-Inline-Inspection.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/?amp=1",
+      "publishedDateTime": "2021-09-06T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-workers-fear-robots-and-automation-from-covid-are-here-to-stay-but-they-create-jobs.md",
       "title": "Workers fear robots and automation from Covid are here to stay. But they create jobs.",
       "excerpt": "Calls for steps like 'robot taxes' to level the playing field between humans and AI will only hurt the economy — and workers.",
@@ -1349,58 +1392,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-this-is-the-cheapest-robot-vacuum-youll-find-today.md",
-      "title": "This is the cheapest robot vacuum you’ll find today",
-      "excerpt": "If you need help in keeping your floor clean, take advantage of this offer from Walmart that drops the price of the IonVac SmartClean 2000 robot vacuum to $97.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ion-smrtclean2000-images_2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/ionvac-smartclean-2000-robot-vacuum-deal-walmart-september-2021/?amp",
-      "publishedDateTime": "2021-09-01T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -1,25 +1,33 @@
 ---
 category: news
-title: "Exclusive-Singapore's ADVANCE.AI Raising $200 Million From Warburg Pincus-Led Investors - Sources"
+title: "Exclusive-Singapore's ADVANCE.AI raising $200 million from Warburg Pincus-led investors - sources"
 excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
-publishedDateTime: 2021-09-09T10:15:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-09-09/exclusive-singapores-advanceai-raising-200-million-from-warburg-pincus-led-investors-sources"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-09-09/exclusive-singapores-advanceai-raising-200-million-from-warburg-pincus-led-investors-sources"
+publishedDateTime: 2021-09-09T14:15:00Z
+originalUrl: "https://www.reuters.com/article/singapore-advance-ai-funding-exclusive-idUSKBN2G50X6"
+webUrl: "https://www.reuters.com/article/singapore-advance-ai-funding-exclusive-idUSKBN2G50X6"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2G50X6"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2G50X6"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210909&t=2&i=1574303528&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH880LW"
+    width: 780
+    height: 545
+    isCached: true
 
 related:
   - title: "Database startup SingleStore raises $80M"
@@ -50,6 +58,6 @@ related:
       domain: nasdaq.com
     quality: 56
 
-secured: "ZeLi2mvyG4ItkSRBRDxHkXfWE0HhPDhEkpPmBeRrCuN0G1s65HfJ+avhaHinPHcUrjOveZ/NvNek28k7Tp7Zj03cRYPrwGbuIse7Iv89xIzEm9V3wjxF+LpT5Lps1KI8Lvmr9HaWatX5GK3SYRdBAWEUpqv6nznaUbp9I1f0Y+S8kxKvqD13xtt+Y6so0SvO/Svp0EQtfPtCAz5K85S1Bg0k70XHIPWte2f/0LVieuflpyJcrowjc6w+w8WnanJl7hnp0q3V3KEH0X/q7ZQloCh9XzI9q2sjRI2rY45AlbNIBihdM6VfZ8RjYo9982qLvGHXuQBurxaJ6QTSUHN2BL35RUJT+MANcbG0PdY9/Q+bK3hSq3/y5mJHNAlzbgpMhg9rJyykcuy8QodcwQTpPgsNS5eW88Kc+nI5sTQhkHBmFGeyNrdUyXlrWcfHVxwj1MBV0xL/sFvwVjx3isEo0RGJkAZtQoOFEahAwXtDoRjxx4NvfJliHbMsLQRwyukf4HslLQCSM9+X85UCBeGvcQ==;PtPF8pb4gdrKdZgAYiM/4g=="
+secured: "T/OxXnXeifkqRzLnFtThbykRSOFq9PYDHEmgcEZe0UVpzBGL4MQOkxUIPBZ1qqp7InTfgs2qx3Fzr23tyx7KOyi3LsAGtj3V4C6xqrlDkQMr+FvW//I6yt29ZsMgcMO5jeDSSY6HEcZwXnIjVK/XDcob4ovgDKgE9dccfwt17Y4Zi0p16PQJv3A72jHzWUIdIcS3FkFg/p2r66Qxi7HVeZr7Ipa5LZG8DmH5JWn1lVgI4U2D+nnhR88RIT8FM4NYjxvYrXiSepa76jpDt1Opk8YWOCbjckhJmcB76nqIEfMrH+r3Bw0F5eixnakvLbbBUZyZBbele3wbCe4Mix9ngJGgbRte+PoYv1ukDSVInvs=;DiKb6Xm0xmjgaSiSJ6eOhw=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cybersecurity: Try machine learning to detect threats"
-excerpt: "Making predictions about data is the next frontier in terms of identifying risk in your infrastructure, expert says. But is it right for your organization? Ping Identity CEO explains how identity and access management is replacing the password 23:41 ..."
+excerpt: "Making predictions about data is the next frontier in terms of identifying risk in your infrastructure, expert says. But is it right for your organization?"
 publishedDateTime: 2021-09-08T18:07:00Z
-originalUrl: "https://www.techrepublic.com/index.php/recent/index.php/videos/cybersecurity-try-machine-learning-to-detect-threats/"
-webUrl: "https://www.techrepublic.com/index.php/recent/index.php/videos/cybersecurity-try-machine-learning-to-detect-threats/"
+originalUrl: "https://www.techrepublic.com/videos/cybersecurity-try-machine-learning-to-detect-threats/"
+webUrl: "https://www.techrepublic.com/videos/cybersecurity-try-machine-learning-to-detect-threats/"
 type: article
 quality: 69
 heat: -1
@@ -90,6 +90,6 @@ related:
         height: 220
         isCached: true
 
-secured: "5DIczihGoCZ1sPnC1NNF70agnchSm1uFr21DdqNpNpwN0Lt1Ncs1qqHkVjuNUeqr5oju648LR7Rvxjv/FvO7m95DQeUE/LktkPBe/jqDscZAEOucuS+b7OATLWERhnuMgaEVdZlZTm1DeWohCQDSKPIVPiSUtOLQvWFkQgQ4MmmX7MyBmRBti6jkmkU26L6GfVT022DMSJKqv8bygCmrU7oElwQRkQl6BjksHnQXtpaTeW5uM2+4IDiEYTzYMgNmdab+yOf4gmxyGdXfv7ji+4Hf9D4DAT7QfogGcXdiP4Bgufe46T5I8LxCUbOhd0lov2WxKn0VzEwR6If/62UTWv26/Iy+VxTmyqxsV+w8LrLhqxOYdxL/60l0w7ILhEzUXOfCKkUMd4ho1Dk3wS41448EUdMAtcX8W0S37Ag8yaA4kh7VCDFiCbyRWpLjrQX/AQoFzAkOsXXVLF9+rhfGtN6BRaXyAVk00/Ihge6ILv5n1szX7ANxzTo/8A8731/wT/jCGbwHMCytN6IVK76dhg==;F4TQ40Ewt1VouNB49GjBJw=="
+secured: "G47Y5AynE20oNWXWduaGp4KsftyVsj3ipG4nlwY+aTEilPhP+g1XWmyW8gMHGDMMiZEAr4y9pjvBpCtT643bCwVWRIqHqPMGumdOHpKPXUTW3Mr8fLvYoqm8JrDHiCAxpzuFIqa4FECrDfspMGhAQRbBYoNpt+gcaWV2seZL4luJmjvHHXkC2czqx2ftLbc57omwDchSC+a4YDAkBlc6YlhZxPDgkdHzgYXRTqKUI4T5dtn0CAuwdop5YUNrr46GYPRZ+64tgD3NxBipuZ+bUbJZf66h1AxK/rlpa6M7Qb5ookaYNhrL7i9pF+T2ELG18fhGYKnsv5U0BxqyVfbgYCMhhLdA+FcWDEZoTe7uccY=;6qoTzBqcf6ws29qpAr4D4Q=="
 ---
 

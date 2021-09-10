@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-12-spell-introduces-mlops-for-deep-learning.md",
+      "title": "Spell introduces MLOps for deep learning",
+      "excerpt": "Deep learning model development and management drives special requirements, especially around the provisioning of hardware. Spell introduced a machine learning operations (MLOps) platform last week that caters to these very needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
+      "originalUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
+      "publishedDateTime": "2021-08-11T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-stashfin-is-improving-fraud-detection-in-india-with-machine-learning-and-ai.md",
       "title": "StashFin is improving fraud detection in India with machine learning and AI",
       "excerpt": "Fraud detection is something the financial services industry can't afford to take lightly. From retail to consumer banking, to fintech and insurance",
@@ -1326,50 +1369,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-how-the-bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml.md",
-      "title": "How The Bengaluru Based Healthcare Startup HealthPlix Is Leveraging AI and ML",
-      "excerpt": "Sandeep Gudibanda, Co-founder at HealthPlix, explains the technology behind its assistive artificial intelligence-powered EMR software.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
-      "originalUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Untitled-5-copy.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

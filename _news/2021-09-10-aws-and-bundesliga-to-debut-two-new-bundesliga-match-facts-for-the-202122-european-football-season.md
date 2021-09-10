@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AWS and Bundesliga to Debut Two New Bundesliga Match Facts for the 2021–22 European Football Season"
-excerpt: "Shot Efficiency and Passing Profile bring the total number of advanced statistics to eight, using AWS machine learning and analytics to give fans deeper insights into the game"
-publishedDateTime: 2021-09-09T17:32:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/09/b22872678/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-seaso"
-webUrl: "https://www.benzinga.com/pressreleases/21/09/b22872678/aws-and-bundesliga-to-debut-two-new-bundesliga-match-facts-for-the-2021-22-european-football-seaso"
-ampWebUrl: "https://www.benzinga.com/amp/content/22872678"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22872678"
+excerpt: "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced two new Bundesliga Match Facts powered by AWS that will premier as graphics during broadcasts and in the official Bundesliga app during the 2021 – 22 season."
+publishedDateTime: 2021-09-10T01:42:00Z
+originalUrl: "https://www.afp.com/en/news/1315/aws-and-bundesliga-debut-two-new-bundesliga-match-facts-2021-22-european-football-season-202109090059381"
+webUrl: "https://www.afp.com/en/news/1315/aws-and-bundesliga-debut-two-new-bundesliga-match-facts-2021-22-european-football-season-202109090059381"
 type: article
-quality: 45
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: AFP
+  domain: afp.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "The development of Bundesliga Match Fact Passing Profile, a deep dive into passing in football"
@@ -51,6 +43,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "939EGnkMwVHsNOOcBf/RLv4rtRvy4qBygjQC1UeK6gTGGk/KXuD+SzUAWCW0Tb4dp/oG3NtiCIu4j4wTq9HjEOT8yqI8EQ4Q3YIR1o+6PzKusMnTAh6iAYdgboVa3XpoL+ql7HTR+9TcDzCFX0tUdvCrF9jkXj2/2yXwRzsz3qDLm9hbiLAsWSzM9xL8C5ZLeEJhljWyVPtaHt7Xf3Tp2wiergK5IEGwrpIZp7SK069x+GAQzNlHRmJpkEAOSvEMziGFt/aVkcbKYC9JUt1Tg7hB4FB6i7Fnprd1ujV2a8yGwZbToD0f5tREh+sD/5DA8v4BgY2h6yjObvOUNoErbwErxBbERP6cdQ66eKlYarW11xpoF0fCh4E2D+hJSBl8MW3CKpDeA685hhySk52XgQH+1xZj0miPDkS2wvnMmvCmnGvzRNPync85o6gJoJs3LqaBn4TDZJglJHG6dfejSicL8ee02v8VvboKXpLezjRa2/jHSWrcEAs6M16y7wXtYfQ7Z7G9hretn7tFjV9zwQ==;AYRZyBzCk6eF602z6ITXvw=="
+secured: "0Qgu+Zbl/Bl4Glok8ikQERDc6ADjGdIWfh3OCwe3130hhy1KoISm/KYJDxZEFH7a/4GbqP0xZNFJjskw48LLbTr+n8QTefZGXb2E7XptmlTepAm3AxuPxDr7sD4YsXeh9zvdqF/6+89VCMY6uiM+Xo9p+Jdgg9JcTN4KRch0R2cdf6Mg6S0uKOFzAY54ZOfGEF/jvtMd/ubggXbc5HhHWjnZ23pAux58GfH5dXZWspMCHqoEDJUnng2A2bs2LdgANfdXk7cVfOCKS7QECOFosR7HhVcbLG8heV3qmZCtdVNPcBQ4Pnbiy1QdkZEjcHRpEWtoIX5S6EdyQAmvZRw1Kvvrz2nmvFqii8p2Kbmnslck/aUg+PQDLlIkibQ14nlenoAUpY5a3GJDRRWQ5WbwVU10p42Mrzsae/LrdV1O6zOAJtTgELoqHX1ANf+T6sQjNRbInlEJw9oy7XIQr3+kYtTs9rA9PPYnUtpFVHAquCViyTezqGczaufVBUXb5J7Zvg7w85t28Tfom/xncSfp9g==;q/b3Mb2/8bPDoQd/52mxIA=="
 ---
 
