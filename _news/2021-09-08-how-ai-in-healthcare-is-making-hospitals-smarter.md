@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/how-ai-in-healthcare-makes-hospitals
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-in-healthcare-makes-hospitals-smart-2021-9?amp"
 type: article
 quality: 104
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,51 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Redefining How We Use Documents In A Digital World"
-    excerpt: "AI-powered intelligent document processing is helping to convert unstructured data in digital documents into structured data that can be fed into downstream applications to automate business processes."
-    publishedDateTime: 2021-09-08T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/"
+  - title: "AWS StartUP Webinar Recap - Applying AI and ML to Healthcare data"
+    excerpt: "The mid-layer is Amazon SageMaker, which provides developers and data scientists with the ability to build, train and deploy ML models at scale. The bottom layer – of ML frameworks and ..."
+    publishedDateTime: 2021-09-09T11:24:00Z
+    webUrl: "https://yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp"
+    ampWebUrl: "https://yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Your Story
+      domain: yourstory.com
+    quality: 108
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376154fe77d3ed291e6760%2F0x0.jpg"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "When Fintech Meets Healthcare: How can cryptocurrencies and blockchain improve access to healthcare?"
-    excerpt: "Cryptocurrencies and blockchain technology are used in a wide array of new applications – including in healthcare. Fintech start-ups are the catalyst for many of these recent market innovations – and they aren’t just focused on the banking and financial services sector."
-    publishedDateTime: 2021-09-06T20:46:00Z
-    webUrl: "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/"
-    ampWebUrl: "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 61
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/When-Fintech-Meets-Healthcare.jpg"
-        width: 700
+      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagezbqr-1631180683490.jpg "
+        width: 800
         height: 400
-        isCached: true
-  - title: "How artificial intelligence is used in finance"
-    excerpt: "\"Artificial intelligence is everywhere,\" we learn from the media, but is it actually everywhere? I get this question in my lectures practically all the time. For this reason, I decided to start a new blog series called \"Applied Artificial Intelligence\"."
-    publishedDateTime: 2021-09-07T08:10:00Z
-    webUrl: "https://spectator.sme.sk/c/22733662/how-artificial-intelligence-is-used-in-finance.html"
-    type: article
-    provider:
-      name: SME
-      domain: spectator.sme.sk
-    quality: 54
-    images:
-      - url: "https://m.smedata.sk/api-media/media/image/spectator/3/72/7281863/7281863_1200x.jpg?rev=3"
-        width: 1200
-        height: 799
         isCached: true
 
 secured: "sp0zjvLMv/S2sCxvhrsxmOh1NS24/o7J6zuxvpJgpB+NyuZ/tfYTlcdsn+ScSb+f0hE9oUUFVeN+ZSDTETC7gnTzvDc6PzrrHbaYnMoz/oP4hMz5ILZzgUzznh1I5Ro/tg6Rxcf21Kh9NL4HGdgpiZSEGHvRMQn0a24xNXYgbhYvjnDL1ax94fIOIXKkdWvC0PDhCkbIRU+/LGS8XdKlD5QD3COwayY7ky+XGl4PoCk7SlmPlYb3t67+QiP9Md7nXgvgcp3vmhCMPMTVzSQ4XXZHHcRrDHl5f4L1TxGX1mEHgIv9sm9nhvuO5sBjtBKHGwtUnIzR5y68cCZiQ6J9AoQpuIbBuOV3aFmGKIbVZVEdrBb7Ic8o7oNzhB8xdD0uWg6ei1vintLQJS4SmtrS0ztU266YQ9C5ICEkOC/eyK2kPWcMRrPudrNZ9tehVu4zBlhFUPDoo0Hy31k6WqiLOAwET6mtgyXV0EpPZADiKpibUbKeCOujS/n256Enz7Da9bZohiQjkaC37llrWuN7VA==;KNx5kqXh8yU7WHee3NG1pg=="

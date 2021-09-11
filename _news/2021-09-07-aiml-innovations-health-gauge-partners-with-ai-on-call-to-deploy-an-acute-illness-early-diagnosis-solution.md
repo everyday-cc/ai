@@ -36,6 +36,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI and 5G will power the next wave of innovation"
+    excerpt: "Here are four real-world examples of where the combination of AI and 5G connectivity is reshaping industries. By Zeus Kerravala | September 10, 2021 -- 22:54 GMT (15:54 PDT) | Topic: 5G In the next 10 years,"
+    publishedDateTime: 2021-09-10T05:54:00Z
+    webUrl: "https://www.zdnet.com/article/how-ai-and-5g-will-power-the-next-wave-of-innovation/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-and-5g-will-power-the-next-wave-of-innovation/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-5g-will-power-the-next-wave-of-innovation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "pcVVZmIJjZ8ITCB2fSo6rSQ0ELqaXsbNMM6fCUfpt2MTSzZFi0hgjaq5G9AWjrdnjggtAt3z8xNeTFez5TIQTyl3eepLniXJtf/2HlLPMoAL7EUhHr6PzAg+GxE3Gmwi3izp5HXCpIwJf6dInA+d9KD7dPAeSUErCmHcKQGm/PclRNFMKM8+jm0DJoX6D/Bjqq31tdB6K3oM50XKkDa2IdRTtcJ8rPnLBFsjAL/5KYURzGuf7O5d7F5hFpLhAblp+3Ow9f/YCBpF6staTp/rgnK1LWeJFEXFdzWQF/2tYcgP8DXdpUIVOxWJhnlZRMM+aCI91RBj5tkcA9DIHZMPtPH7d33g8mc1yEJp4gnw7zs=;h/d+2mMlaA0gm1EAec+Knw=="
 ---

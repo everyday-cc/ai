@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and 5G will power the next wave of innovation"
+    excerpt: "Here are four real-world examples of where the combination of AI and 5G connectivity is reshaping industries. By Zeus Kerravala | September 10, 2021 -- 22:54 GMT (15:54 PDT) | Topic: 5G In the next 10 years,"
+    publishedDateTime: 2021-09-10T05:54:00Z
+    webUrl: "https://www.zdnet.com/article/how-ai-and-5g-will-power-the-next-wave-of-innovation/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-and-5g-will-power-the-next-wave-of-innovation/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-5g-will-power-the-next-wave-of-innovation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "AI/ML Innovations' Health Gauge Partners with AI-on-Call to Deploy an Acute Illness Early Diagnosis Solution"
     excerpt: "HG's smartwatch solution and AI-driven cloud platform combine with AI-on-Call's novel protocols and algorithms to improve the timely capture of requisite health data, support the rapid identification and prioritization of at-risk patients for sepsis and acute illness,"
     publishedDateTime: 2021-09-07T13:07:00Z

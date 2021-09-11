@@ -100,20 +100,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-    excerpt: "Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and banks, has been recognized as one of the leading AI solution developers in financial services by FinTech Global,"
-    publishedDateTime: 2021-09-08T14:11:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4a5ff55dc3ff4f0cac09fa874a6ede89"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Broadridge Financial Solutions Appoints Fintech-focused Fixed Income Specialists"
     excerpt: "Broadridge Financial reveals that Ted Bragg, Jim Kwiatkowski have joined LTX, a Broadridge firm providing an online trading platform."
     publishedDateTime: 2021-09-09T02:15:00Z
@@ -200,20 +186,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "How Automation is Transforming the Fintech Sector"
-    excerpt: "Advanced automation tools like AI, ML, NLP and smart contracts are transforming fintech by providing methodologies for handling and interpreting large datasets"
-    publishedDateTime: 2021-09-10T17:22:00Z
-    webUrl: "https://www.finsmes.com/2021/09/how-automation-is-transforming-the-fintech-sector.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/austin-distel-EMPZ7yRZoGw-unsplash-1.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Fintech investor Chrysalis appoints industry veteran Margaret O’Connor to board"
     excerpt: "O’Connor was a founding member of Mastercard Asia Pacific and currently holds a number of board positions in Africa-centric companies."
     publishedDateTime: 2021-09-06T09:34:00Z
@@ -242,15 +214,6 @@ related:
         width: 360
         height: 270
         isCached: true
-  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-    excerpt: "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
-    publishedDateTime: 2021-09-08T17:51:00Z
-    webUrl: "https://www.afp.com/en/news/1314/earnix-recognized-top-aifintech100-company-fintech-global-202109080057991"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 19
 
 secured: "Cutj6r7jiGAdQ8KnBig8q5b+6//eraqluujYn8VoKUe93W84eGAK8Hdipq5Jrzls4QBG4l3kNRJFYxq3DMgtJ8Xaf8mq/AOEkxuiuwSRR2VO9AWhvZO0/1dyZkowD4MNOUE9lROc3JC+CksKhr7pcqibSy0BXU6vTKmS1I8B8+LGQQ8nGkZSYz5IjvJNe1hjoyDHdBHV/ZrEM7N9NZD24ylzcyco/D7hZyv1jamqneTIJcvo0OCJ1H9KaNsRH5Ghu06W6LKuCBEQZtdSz3LUwbg71Py0hlwXw2LrIm6w4zC1oFNxpOxChJu7aAVr0NwOlEutGFqleBHJwKVPZ/AWqyw+zj1AvDKkA/CJrF+vqag=;bmlZf7ufCZGs6JD2qqU9Zw=="
 ---

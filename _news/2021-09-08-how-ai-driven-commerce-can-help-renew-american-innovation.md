@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
-  - title: "The Ten Top Most Valuable EdTech Start-Ups: A Mix of Chinese, Indian, and American Companies"
-    excerpt: "Five American companies are among the ten most valuable EdTech companies in the world, while Indian and Chinese start-ups are ranked first. “The global EdTech is a broad and diverse field that includes not only the hardware and software programs used in remote learning but also the most effective ways of teaching people new knowledge and skills,"
-    publishedDateTime: 2021-09-06T06:03:00Z
-    webUrl: "https://iblnews.org/the-ten-top-most-valuable-edtech-start-ups-a-mix-of-chinese-indian-and-american-companies/"
-    ampWebUrl: "https://iblnews.org/the-ten-top-most-valuable-edtech-start-ups-a-mix-of-chinese-indian-and-american-companies/amp/"
-    cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/the-ten-top-most-valuable-edtech-start-ups-a-mix-of-chinese-indian-and-american-companies/amp/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 31
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2021/09/topedtechplatforms.jpg"
-        width: 860
-        height: 480
-        isCached: true
   - title: "American Airlines – TCS wins contract from South American airline Avianca"
     excerpt: "Tata Consultancy Services (TCS) has been selected by Avianca, one of the leading airlines in South America, as a strategic partner in its cloud transformation journey. TCS will modernize Avianca’s IT infrastructure and build a new future-ready cloud-based digital core on Microsoft Azure."
     publishedDateTime: 2021-09-09T03:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot-warships-just-fired-their-first-missiles/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

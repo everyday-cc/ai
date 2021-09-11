@@ -62,22 +62,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
-  - title: "The Ten Top Most Valuable EdTech Start-Ups: A Mix of Chinese, Indian, and American Companies"
-    excerpt: "Five American companies are among the ten most valuable EdTech companies in the world, while Indian and Chinese start-ups are ranked first. “The global EdTech is a broad and diverse field that includes not only the hardware and software programs used in remote learning but also the most effective ways of teaching people new knowledge and skills,"
-    publishedDateTime: 2021-09-06T06:03:00Z
-    webUrl: "https://iblnews.org/the-ten-top-most-valuable-edtech-start-ups-a-mix-of-chinese-indian-and-american-companies/"
-    ampWebUrl: "https://iblnews.org/the-ten-top-most-valuable-edtech-start-ups-a-mix-of-chinese-indian-and-american-companies/amp/"
-    cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/the-ten-top-most-valuable-edtech-start-ups-a-mix-of-chinese-indian-and-american-companies/amp/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 31
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2021/09/topedtechplatforms.jpg"
-        width: 860
-        height: 480
-        isCached: true
   - title: "Lantheus Announces Presentation at the 2021 American Urological Association (AUA) Annual Meeting"
     excerpt: "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to find,"
     publishedDateTime: 2021-09-10T12:34:00Z

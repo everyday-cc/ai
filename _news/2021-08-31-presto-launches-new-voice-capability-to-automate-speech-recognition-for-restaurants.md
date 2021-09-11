@@ -2,19 +2,25 @@
 category: news
 title: "Presto Launches New Voice Capability to Automate Speech Recognition for Restaurants"
 excerpt: "Presto, the leading provider of enterprise-grade restaurant technologies, has launched Presto Voice to automate speech recognition for restaurants. In the face of the ongoing labor shortage, restaurants can use Presto Voice to effectively scale operations."
-publishedDateTime: 2021-08-31T14:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-presto-launches-new-voice-capability-automate-speech-recognition-/2021/08/31/9440313.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-presto-launches-new-voice-capability-automate-speech-recognition-/2021/08/31/9440313.htm"
+publishedDateTime: 2021-08-31T14:32:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-92e4bdba2f50417dbafd7f0d76c39e46"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-92e4bdba2f50417dbafd7f0d76c39e46"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "83E/STqvwj46RfuLm/bHxVPDVKGqPmwIB7HwYg8pIf6EgWXSDctACKpgvC1RzwU7L/8V4o6ukjgVki7qBcUAqyoMK5ju6uzteabVMDTrZCA2vzOfxzqmP6Lt00bSekm6/aac7lUhjkB+PhN1JJt7v/LLQfoFbHEq4Bnd+XEyWHNvGkvIOHjwhbo24YgkmBvDQEFkVjB8XPnkz7jHHTc6ZaBszhww0ym6oLvYJakcNDcoTa3aR2ClJeGRCJq8nE7nKjkYmfwtDXza0Q2d3nWMNC5EJRQdlGGe9c2RfLlUQBnDzV+y9BWDCQ0kgSPbXmZh1VJMRyMzIpnll2DEuWctIrhkmh07yNxSzovEn2V4MgY=;Uou9XyCsqybte2S7/Tj3hQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "RWqH9m9AP/9lqtLSabR/c2QGgYpQYSm0S8hqY4S6/5E9+ABXE9o+sUrG8W6PWFoNhzQk9YY4gFtoI4S+lpWT0Tl1maTfFB6PrdmUPH+XjNm8r9KmTD0PIRyQQfRodlzAyGIJkg9PRL5LG9MyDrC9seH4B0835Zm6vbXMvjZyT5jSoX+N5GrfQwM/yJlvb028LdBnj/oRFWhHg2UK6nk144vCD80N6bIVIO6DVAYWcRXKEJvsalb6ODSbGB6XwWN+Pyqabf9qftXWPh1YDmB5xcYwQTBOjIir31VBo//e44WVC8muyKsa98aym3NGuBWRUZJxW7FZcLJwiSo8LIN250BvHC/zr5TtF9AdSbyorRc=;Q3mArDGSXg+B18Mfal7jCQ=="
 ---
 

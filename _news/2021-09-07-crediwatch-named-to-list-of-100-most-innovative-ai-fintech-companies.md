@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/crediwatch-named-to-lis
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies"
 type: article
 quality: 59
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
         width: 375
         height: 281
         isCached: true
-  - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
-    excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
-    publishedDateTime: 2021-09-07T13:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-global-aifintech100-recognises-the-tech-companies-using-artificial-intelligence-to-transform-financial-services-301370320.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/1609590/FinTech_Global_100_List.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "Crediwatch named in 100 most innovative AI fintech companies"
     excerpt: "The AIFinTech100 list helps executives in financial services to locate business model that are most likely to have a lasting impact on the industry"
     publishedDateTime: 2021-09-10T11:02:00Z
@@ -93,15 +79,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 3
-  - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
-    excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
-    publishedDateTime: 2021-09-08T12:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-aifintech100-recognizes-concentric-its-unique-use-artificial-/2021/09/08/9444639.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Turing Technology Named to AIFinTech100: Identified as Among World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
     excerpt: "Turing Technology is pleased to announce that it has been named to the AIFinTech100 – a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
     publishedDateTime: 2021-09-08T13:10:00Z

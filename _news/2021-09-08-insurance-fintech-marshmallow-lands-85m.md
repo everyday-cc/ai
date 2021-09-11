@@ -86,20 +86,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-    excerpt: "Earnix, a global provider of advanced rating, pricing, and product personalization solutions for insurers and banks, has been recognized as one of the leading AI solution developers in financial services by FinTech Global,"
-    publishedDateTime: 2021-09-08T14:11:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-4a5ff55dc3ff4f0cac09fa874a6ede89"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Broadridge Financial Solutions Appoints Fintech-focused Fixed Income Specialists"
     excerpt: "Broadridge Financial reveals that Ted Bragg, Jim Kwiatkowski have joined LTX, a Broadridge firm providing an online trading platform."
     publishedDateTime: 2021-09-09T02:15:00Z
@@ -186,20 +172,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "How Automation is Transforming the Fintech Sector"
-    excerpt: "Advanced automation tools like AI, ML, NLP and smart contracts are transforming fintech by providing methodologies for handling and interpreting large datasets"
-    publishedDateTime: 2021-09-10T17:22:00Z
-    webUrl: "https://www.finsmes.com/2021/09/how-automation-is-transforming-the-fintech-sector.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/austin-distel-EMPZ7yRZoGw-unsplash-1.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Redefining fintech: How Israel became a global leader in financial technology"
     excerpt: "In 2020, the country’s position in the Global Fintech Rankings was 12th, making its climb to 3rd place the most profound move among the list’s top 16 nations in 2021. Tel Aviv also rose from 18th to 5th within the fintech hub rankings."
     publishedDateTime: 2021-09-09T07:04:00Z
@@ -242,15 +214,6 @@ related:
         width: 360
         height: 270
         isCached: true
-  - title: "Earnix Recognized As Top AIFinTech100 Company by Fintech Global"
-    excerpt: "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about."
-    publishedDateTime: 2021-09-08T17:51:00Z
-    webUrl: "https://www.afp.com/en/news/1314/earnix-recognized-top-aifintech100-company-fintech-global-202109080057991"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 19
 
 secured: "A4tgumbIaXEaWUQsO1TwYHeB3ZT3d6/f6RHFUMXd77WUhRgGhOAHIPRMHfL5T+Hlxr3sfD5K7/t5wXJDjS05qkmhVw7/9tZbg02k0QHtVQL+FPHtOyr9AbWfroMBxr8riKvSAK8E9ZUdn5E1OH6vp9/97C0bJeDxsN42VdOdayzriHOwtCGrcR9P4TfxyBQmpXaZGvq7px/Nf8bIhiyBq6bcs2jgEb2OmReOH4MYzcmI9Apgt9l3AdFd0ZkmalDtJGH7q9Hj8ljkr/9hXRMpbDkj9ZUE5/1xFbjBymurwxM8pkk5CJAwnKjGVgff9WB3RhS97e8oT51J7WSNMVVBZC6hyHbtBRjdk8TF3Cp8fmlMBy2KBbmEAoycW4uP6KOhWSjows70HdUzzA2Gd7ANUdtEivuLGO3dw2mxVIzCjHLBPmKngubbkfwVOej3aMx+tVoFPYO8SGz/sw8+y1mG7WlQUEwJDmhbhR8LkyX1JJWe4sWmU+EJHCws1txIU/Q1gTCjf1+u9xBNUbYLRwVu7w==;uA/4Eqlm9wc2xwHmLl7kNw=="
 ---

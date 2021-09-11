@@ -228,20 +228,6 @@ related:
         width: 1472
         height: 917
         isCached: true
-  - title: "Facebook Researcher’s New Algorithm Ushers New Paradigm Of Image Recognition"
-    excerpt: "The researchers designed VICReg to avoid the collapse problem, which is handled more inefficiently in the case of contrastive methods."
-    publishedDateTime: 2021-09-06T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-algorithm-image-recognition-vicreg/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 21
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/object-detection-.png"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Facebook developing machine learning chips - report"
     excerpt: "Facebook is developing a chip that would power machine learning for tasks such as recommending content to users, The Information reported, citing sources familiar with the project. Another in-house chip designed by Facebook aims to improve the quality of watching recorded and livestreamed videos for users of its apps through video transcoding,"
     publishedDateTime: 2021-09-10T10:10:00Z

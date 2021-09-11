@@ -60,20 +60,6 @@ related:
         width: 375
         height: 281
         isCached: true
-  - title: "New Global AIFinTech100 Recognises the Tech Companies Using Artificial Intelligence To Transform Financial Services"
-    excerpt: "The use of AI and data analytics has grown hugely over the last few years as financial institutions look to unlock new revenue"
-    publishedDateTime: 2021-09-07T13:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-global-aifintech100-recognises-the-tech-companies-using-artificial-intelligence-to-transform-financial-services-301370320.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/1609590/FinTech_Global_100_List.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "Crediwatch named in 100 most innovative AI fintech companies"
     excerpt: "The AIFinTech100 list helps executives in financial services to locate business model that are most likely to have a lasting impact on the industry"
     publishedDateTime: 2021-09-10T11:02:00Z
@@ -101,15 +87,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 3
-  - title: "Global AIFinTech100 Recognizes Concentric for Its Unique Use of Artificial Intelligence to Protect Business-Critical Data for Financial Services Firms"
-    excerpt: "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it was named to the Global AIFinTech100 list as one of the world's most innovative solution providers developing artificial intelligence (AI) and machine learning technologies to solve challenges or improve efficiency in financial services."
-    publishedDateTime: 2021-09-08T12:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-aifintech100-recognizes-concentric-its-unique-use-artificial-/2021/09/08/9444639.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "lJHjtKQvooizNpcVCBwzKsfnwEOS1TSqa4YqOJm1WhuC4aSb+NnCEQ/SBNw+ebBbA+CYyuaUI9jjaqqgWs8VaQBLfUkRCVoduHkzhd0lNrckbfAK6peEDFk4XeJ6WbMxh0d8Hd8/P+7BYlrFoqMymGWXHtPnlcADtYQ0qo2AH/fD/HZodZP3BylN/KnbMHlam9mCZpA2nLVSLechEtv8x5YElSMExaWCelT5sxEfRkWQU/a1+SQAgCtRV9z9+lkUePrZl0O4ZPSR4D7+2vQ7gAkbNSAiQ/wvVmaqb21aPgydeDYSmrDJRZwToADjRjb8Qs7+OzCixi6/12JBVpDcdYtYgrWyh3E06M7/dKKLJNQ=;CnooTBPrEiGYiE9DJnsHVA=="
 ---

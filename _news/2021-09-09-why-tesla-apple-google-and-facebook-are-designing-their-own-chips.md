@@ -222,20 +222,6 @@ related:
         width: 1472
         height: 917
         isCached: true
-  - title: "Facebook Researcher’s New Algorithm Ushers New Paradigm Of Image Recognition"
-    excerpt: "The researchers designed VICReg to avoid the collapse problem, which is handled more inefficiently in the case of contrastive methods."
-    publishedDateTime: 2021-09-06T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-algorithm-image-recognition-vicreg/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 21
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/object-detection-.png"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Facebook – Facebook is very sorry that we keep noticing its racist AI"
     excerpt: "Together with an amazing line-up of experts, we will explore the future of AI during TNW Conference 2021. Secure your ticket now! Facebook’s issuing apologies for its AI‘s bigotry again. This time, users watching a video of a Black man were asked it they were interested in more content on “primates."
     publishedDateTime: 2021-09-07T21:28:00Z
