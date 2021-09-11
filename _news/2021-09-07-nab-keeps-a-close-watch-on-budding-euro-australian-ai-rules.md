@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/nab-keeps-a-close-watch-on-budding-
 webUrl: "https://www.itnews.com.au/news/nab-keeps-a-close-watch-on-budding-euro-australian-ai-rules-569383"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "South Australia Deploys Facial Recognition Quarantine App"
-    excerpt: "South Australia has deployed the Quarantine SA home quarantine enforcement app, which some have called \"Orwellian\" because of facial recognition and geolocation"
-    publishedDateTime: 2021-09-06T07:26:00Z
-    webUrl: "https://www.visiontimes.com/2021/09/06/south-australia-facial-recognition-quarantine-app.html"
+  - title: "New Zealand AI insights startup Yabble raises $3 million for Australian expansion"
+    excerpt: "New Zealand data insights startup Yabble has raised NZ$3 million (A$2.9m) as it looks to expand into Australia and then the US."
+    publishedDateTime: 2021-09-08T07:35:00Z
+    webUrl: "https://www.startupdaily.net/2021/09/new-zealand-ai-insights-startup-yabble-raises-3-million-for-australian-expansion/"
     type: article
     provider:
-      name: visiontimes.com
-      domain: visiontimes.com
-    quality: 39
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 32
     images:
-      - url: "https://img.visiontimes.com/2021/09/GettyImages-1334591569.jpg"
-        width: 1024
-        height: 683
+      - url: "https://389739-1225869-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/09/Kath-Rach-Shot-scaled-e1631083985221.jpg"
+        width: 770
+        height: 533
+        isCached: true
+  - title: "K-12 dealmaking: Pearson Acquires Australian AI Company; Panorama Raises $60 Million"
+    excerpt: "The education software platform Panorama raised $60 million in a Series C round of funding, and Pearson snapped up an Australian A.I.-focused company."
+    publishedDateTime: 2021-09-09T19:08:00Z
+    webUrl: "https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-pearson-acquires-australian-ai-company-panorama-raises-60-million/"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 30
+    images:
+      - url: "https://marketbrief.edweek.org/wp-content/uploads/2021/08/MB-artificial-intelligence-1220028784-880x587.jpg"
+        width: 880
+        height: 587
         isCached: true
 
 secured: "QrW96+jaQqy32unt+kyJBPbLQIrzr8N1zFL9aDrj4IeGYDys/pVr5BeCdr9OG6Dgt65woIDoRGfyS8xV9JjikAPVq0V1tKEQRWVSQXE7AZN60+7ZdxjPGA61UFKugkNxo1oVV3fWTCLi/UfIUnWqa3QlBWyXqOUnRryErKMuncZlPBXPbrpdQYeZ1FZLLX1OoU/uIB4jMDtmBVj8ipE/AhAWVuefNKVJUwZwdMK794XmabEPVcc5vEsPoEzgo8kXYnrT31Uc1Fb4TOMBTaHUr09HrDif9Pex4vcrcIdpYg+BLML/Z6LbE36qB7Ab5fI5lkLL2eo4DjG3FGg3NaLEACTRBRvG2m0f6q7lHikebGTwv0yLy3fEJgY089vOxj2f5w1+vOYladDM9hPQiPoiyEhBWNcGI3rDD47AvewDk/JXx9g+grBe89lVyiWc9FyKzzKPo3pSOnnfHPeEzZ3W392MRckz43KeMneXDDV+twyMExkAOFS45zn4W3pa8G3b/QLVgZJW3Ta6bz6TfemSuw==;0sujVFczK0gTiQc8DlZ6gg=="

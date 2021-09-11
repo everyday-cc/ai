@@ -7,7 +7,7 @@ originalUrl: "https://www.startupdaily.net/2021/09/new-zealand-ai-insights-start
 webUrl: "https://www.startupdaily.net/2021/09/new-zealand-ai-insights-startup-yabble-raises-3-million-for-australian-expansion/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "NAB keeps a close watch on budding Euro, Australian AI rules"
+    excerpt: "NAB is once again looking to Europe - and specifically its work on ‘trustworthy AI’ regulation - as a benchmark for future standards in the development and use of AI and machine learning systems. Like others operating in the space,"
+    publishedDateTime: 2021-09-06T19:59:00Z
+    webUrl: "https://www.itnews.com.au/news/nab-keeps-a-close-watch-on-budding-euro-australian-ai-rules-569383"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/nab-522790626.jpg"
+        width: 745
+        height: 539
+        isCached: true
   - title: "K-12 dealmaking: Pearson Acquires Australian AI Company; Panorama Raises $60 Million"
     excerpt: "The education software platform Panorama raised $60 million in a Series C round of funding, and Pearson snapped up an Australian A.I.-focused company."
     publishedDateTime: 2021-09-09T19:08:00Z

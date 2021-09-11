@@ -45,7 +45,7 @@ related:
   - title: "Ai Weiwei: Credit Suisse closed bank account over China"
     excerpt: "Leading Chinese dissident and artist Ai Weiwei has said he was told by Credit Suisse that his foundation's bank account in Switzerland would be closed over his \"criminal record\" in China. The activist,"
     publishedDateTime: 2021-09-08T09:33:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-58484447?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/business-58484447.amp"
     ampWebUrl: "https://www.bbc.co.uk/news/business-58484447.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-58484447.amp"
     type: article

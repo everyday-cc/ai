@@ -1,24 +1,29 @@
 ---
 category: news
 title: "GrAI Matter Labs to Showcase Life-Ready AI at AI Hardware Summit 2021"
-excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, today announced the showcase of its GrAI VIP - Vision Inference Processor (News - Alert) platform with Life-Ready AI for robotics applications at the upcoming AI Hardware Summit 2021."
-publishedDateTime: 2021-09-10T15:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-grai-matter-labs-showcase-life-ready-ai-ai-/2021/09/10/9446834.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-grai-matter-labs-showcase-life-ready-ai-ai-/2021/09/10/9446834.htm"
+excerpt: "GrAI Matter Labs, a pioneer of brain-inspired ultra-low latency computing, today announced the showcase of its GrAI VIP - Vision Inference Processor platform with Life-Ready AI for robotics applications at the upcoming AI Hardware Summit 2021."
+publishedDateTime: 2021-09-10T15:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/grai-matter-labs-to-showcase-life-ready-ai-at-ai-hardware-summit-2021/article_a2cd8141-7e27-5676-afd3-11f7d175360f.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/grai-matter-labs-to-showcase-life-ready-ai-at-ai-hardware-summit-2021/article_a2cd8141-7e27-5676-afd3-11f7d175360f.html"
 type: article
-quality: 21
-heat: 21
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
-  - AI Hardware
-  - AI
   - AI in Robotics
+  - AI
 
-secured: "sqTNmRaYSzuGkmnIuF2yU623PLtmf3mJKLi/DhjjrrXdP2hm4roXXf9GiI9aI41gn1PgVKHYSeC4s4pe5Z4PqHF1FNP/QpMrHcKFfRJZmuxWyNCbWle99cqSAJsxq4UCYT5SXzFz9zHQI4jnvo6WoHn+JrR4Ek/+aL763q/FtOB/QqhbfGxin7QjZ8KTALWC4P8X5yflzUEl0p+HbsZIUh0XCy6R+oYWwcz2ktkct7eiCEZ+qyy7OKM1yU3Ya8ATjH9U+wMgkxXh1m4SKFPjQ13KGFkdsIuXDb9rzT7pLWuUGPqEoTrgkEdF5ogXWIY6xFrqzv4axrmwe+0W5DjNPtkHnAsgrktHvj9zmo7BdDo=;ieZyfLyOR7wmuLek78HuAQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "21ZXr0bVafHCQVOg21s9LWY1Gno4/qVSF/+VFcNblFJZW5HKU3hu/gc0qvAfpFagcDRsKP1GU49nsUQAZmnzF64dAmZ9iHyEKDarzPVBvFRRb4fcOdraHpX8be5wyH+353WB2P8CeiX/TixUrHYDhvD/vX2JeRRf0aIKvdXEK4lhNL1NcSpHCNn4VgoGux/V/23lM0ZEDdtQkGdDM5gfpQ/4wFU2Wu/6+kGJrcUSE1HVE4+dWuXvMSbs7h4nth8B+5Mgoi1hkbBFiUm1QMdPcwO8MVrPCnZPaXO4s2KTeuCJbolOmuDtOWdYxkdzIS+4vFRKVf1fSGsaY4h0rI6NWwfQ2vaChjaBOvR9FtKn+Qw=;f/iRpB5qUTvuan69qmO2/A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -34,6 +34,20 @@ images:
     isCached: true
 
 related:
+  - title: "Zillow – Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-11T00:07:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_zillow/zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 52
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg"
+        width: 1200
+        height: 754
+        isCached: true
   - title: "Shaping the Future of IT: AI and AIOps"
     excerpt: "AI and AIOps are transforming the future of work and IT Operations respectively and this pace is only set to accelerate given the pace of digital transformation and the catalyst of COVID-19."
     publishedDateTime: 2021-09-08T11:07:00Z

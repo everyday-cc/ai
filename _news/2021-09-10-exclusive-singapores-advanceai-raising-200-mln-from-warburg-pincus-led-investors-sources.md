@@ -42,9 +42,9 @@ related:
         height: 274
         isCached: true
   - title: "Singapore AI startup Advance.ai to enter unicorn club with new $200m round"
-    excerpt: "Advance.ai has landed Warburg Pincus as the lead investor of the fundraise. Using AI-driven technology, the startup offers digital identity verification, fraud detection, and credit scoring, among other services. Currently present in Southeast Asia and ..."
-    publishedDateTime: 2021-09-10T01:24:00Z
-    webUrl: "https://www.techinasia.com/singapores-advanceai-enter-unicorn-club-200m?ref=recommender-705626"
+    excerpt: "Singapore-headquartered tech startup Advance.ai is raising about US$200 million in a funding round that will propel it into a small group of Southeast Asia unicorns,” said a Reuters report, citing sources."
+    publishedDateTime: 2021-09-09T23:35:00Z
+    webUrl: "https://www.techinasia.com/singapores-advanceai-enter-unicorn-club-200m?comments=true"
     type: article
     provider:
       name: Techinasia
@@ -63,20 +63,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Exclusive-Singapore’s ADVANCE.AI raising $200 million from Warburg Pincus-led investors – sources"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-09-09T11:11:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/exclusive-singapores-advance-ai-raising-200-million-from-warburg-pincus-led-investors-sources/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 26
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631179002_rcom-default.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "Q0OnN/X3IYqucw3FCXhiW7T0ACjrzOxHARHpDn8TPhFayfHT/jIxYNENMRsjIr/Bmp/R9Z4G5CT1eMqzt6arLczZt2Ypoo54OikO51lbVd3G2A0/kLsh5jwkiWyEnfETtqg8x/elWy4jHOGT9pjuLnTgvoOqfcH3WLTIlnbkowLVR9FfJ1ybzupgWG4ch7JSur/tYrWxbi10gpOW54MJB2TKViOUhUVx34LJJ8aX2lbXd85DBYEHtGCnOVlKD0Qvh4IQvMZDyCKlQ+30Pf62Ehotc9DNEaPTuXABEwQMlrz/InH0xtVTawYEPM6Jo6Utp5g9ZSYizviDCdMbzu+8hLDgcI/4UFCGNMfrrS635yg=;f9wI7fXaG7LCmh6rAvfxQQ=="

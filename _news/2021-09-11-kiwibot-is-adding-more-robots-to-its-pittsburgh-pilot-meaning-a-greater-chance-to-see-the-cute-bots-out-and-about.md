@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Autonomous vehicle start-up Aurora names Pittsburgh as site of its corporate HQ"
-excerpt: "Google, Uber, and Tesla executives, announced on Sept. 9 that it has named Pittsburgh as the site of its official corporate headquarters. “With its incredible universities and focus on innovation, Pittsburgh has been home to Aurora since we were founded and we’re committed to continued growth right here in this community,"
-publishedDateTime: 2021-09-10T13:04:00Z
-originalUrl: "https://www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372"
-webUrl: "https://www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372"
-ampWebUrl: "https://www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372&media=AMP+HTML"
-cdnAmpWebUrl: "https://www-pghcitypaper-com.cdn.ampproject.org/c/s/www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372&media=AMP+HTML"
+title: "Kiwibot is adding more robots to its Pittsburgh pilot, meaning a greater chance to see the cute bots out and about"
+excerpt: "The semiautonomous robots are part of a Bloomfield-based pilot program for the company that has the potential to bring them here permanently."
+publishedDateTime: 2021-09-10T20:58:00Z
+originalUrl: "https://technical.ly/pittsburgh/2021/09/10/kiwibot-robots-pilot/"
+webUrl: "https://technical.ly/pittsburgh/2021/09/10/kiwibot-robots-pilot/"
 type: article
-quality: 38
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Pittsburgh City Paper
-  domain: pghcitypaper.com
+  name: Technical
+  domain: technical.ly
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://media1.fdncms.com/pittsburgh/imager/u/original/20170376/aurora-image-768x424.png"
-    width: 768
-    height: 424
+  - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2021/09/DSC_4996-2062-scaled-e1631304900337.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -42,6 +41,22 @@ related:
         width: 750
         height: 414
         isCached: true
+  - title: "Autonomous vehicle start-up Aurora names Pittsburgh as site of its corporate HQ"
+    excerpt: "Google, Uber, and Tesla executives, announced on Sept. 9 that it has named Pittsburgh as the site of its official corporate headquarters. “With its incredible universities and focus on innovation, Pittsburgh has been home to Aurora since we were founded and we’re committed to continued growth right here in this community,"
+    publishedDateTime: 2021-09-10T13:04:00Z
+    webUrl: "https://www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372"
+    ampWebUrl: "https://www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372&media=AMP+HTML"
+    cdnAmpWebUrl: "https://www-pghcitypaper-com.cdn.ampproject.org/c/s/www.pghcitypaper.com/pittsburgh/autonomous-vehicle-start-up-aurora-names-pittsburgh-as-site-of-its-corporate-hq/Content?oid=20170372&media=AMP+HTML"
+    type: article
+    provider:
+      name: Pittsburgh City Paper
+      domain: pghcitypaper.com
+    quality: 38
+    images:
+      - url: "https://media1.fdncms.com/pittsburgh/imager/u/original/20170376/aurora-image-768x424.png"
+        width: 768
+        height: 424
+        isCached: true
   - title: "Self-Driving Tech Company Aurora Names Pittsburgh As Official Corporate Headquarters"
     excerpt: "Self-driving technology startup Aurora announced Thursday that Pittsburgh will be its official corporate headquarters. The company has had significant presences in both Pittsburgh and Mountain View, California."
     publishedDateTime: 2021-09-09T15:00:00Z
@@ -55,20 +70,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/4be8bba/2147483647/strip/true/crop/3709x1947+0+226/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2F26%2Fd56b61204a2eac3df5a634af91fc%2Faurora-truck-pacifica.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Kiwibot is adding more robots to its Pittsburgh pilot, meaning a greater chance to see the cute bots out and about"
-    excerpt: "The semiautonomous robots are part of a Bloomfield-based pilot program for the company that has the potential to bring them here permanently."
-    publishedDateTime: 2021-09-10T20:58:00Z
-    webUrl: "https://technical.ly/pittsburgh/2021/09/10/kiwibot-robots-pilot/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 17
-    images:
-      - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2021/09/DSC_4996-2062-scaled-e1631304900337.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Self-driving Company Aurora Confirms Its Commitment to Pittsburgh, Donating $65k to Fund Local STEM-projects"
     excerpt: "Today the self-driving company Aurora announced it will continue to expand its presence in Pittsburgh, naming the city as its official corporate headquarters. To mark this moment, Aurora is making a $65,"
@@ -85,6 +86,6 @@ related:
         height: 450
         isCached: true
 
-secured: "FN5rTrc1+t2XL3syBHSKSXBQjVP5lxZ7JNz4pJp406HSFXhqUJ16PDe/fZ9e0nSwHL1LR1kltspLfXdv1etoh4QqMehONQQ1XKnPiBsuWDulSjDVhfQFQdaYMMD/+egPajpRkVEVz4QQEDC9+ou99oEbIQd01+shx9bJQSeDy35KTeNDtkcWFjRYozF+bah3aXbT5a7x+Va77zONLIWJdSIe/s1w7NqnN/ZI6bWrOdEzRGShPAtRfKcoze6NxE85ED1SWIk5hmL5GaN1VhQSC5qCVxjUWTQP4WRKxAE6AvyH0w5yKJvVqvXZa5o0byfDwBVsOaZeK9dgBI7JP1y3k1JF/3vuA3Mab1VhuzR37jI=;dh4n3X1wAaZpq24U9hBDNQ=="
+secured: "Hok/bkmVaqRzzQA19701MB3+Aw1VCdZehVx8o7FDkctjVPiadp1wamJbCLqxIHkwsAjXC53H/NZO42SNXbxpJ67HB/5moGRlq2D7M25OIWzq84hh/eo7qUgSLO/fBS9QyEDy2OvmaIUf4lrxskX9qaOucCVZJTqQ5Cyg4UOELmxby+ce6oPkBn9g7u4J0qimJwo1tRQJdannirJIjBB4LqYMONJDv1lrrOsIgapo5VjBrwg0Suz8fCXoCt3puw5bfAjtcddJ3xtKGlFFfc9odjUYnCChPPEsn7rU2qfZTuHRjVLfCkWrgvKd+AHEnPbFaSR/F+pKlIbmSpvIWSaRPfmX21nN7dfhFWTagnadUKs=;I8VKKE5p/UskI8dL0yqprA=="
 ---
 

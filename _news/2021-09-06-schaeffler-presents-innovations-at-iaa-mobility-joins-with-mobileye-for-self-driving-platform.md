@@ -20,17 +20,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "PRESS RELEASE: Schaeffler AG: Schaeffler and Mobileye to Industrialize Self-Driving Shuttles"
-    excerpt: "Miscellaneous Schaeffler AG: Schaeffler and Mobileye to Industrialize Self-Driving Shuttles 2021-09-06 / 10:01 The"
-    publishedDateTime: 2021-09-06T08:01:00Z
-    webUrl: "https://www.finanztreff.de/news/press-release-schaeffler-ag-schaeffler-and-mobileye-to-industrialize-self-driving-shuttles/26003236"
-    type: article
-    provider:
-      name: Finanztreff
-      domain: finanztreff.de
-    quality: 0
-
 secured: "qF+euq+jeOU1EhsMnbyrSR8sQBBZu1o/nMb6EEjTS+Yp0zTaVSZmTt5EPKJseM2YZzrwAX0wcxTfyK8XMiq3sapl4s30AcR1aSEcLL39XdvTFZuI5lhxqsg5suS3w7DiHUeGh7DdEJCW4I4kaGpdC7JGXhP5pKvOLMN2g4iS9rRS/dj/gaQCHEZc+743y7nI6Fw86iy45JccPL1ffwqfnBy1NjO+4mo/nQN81Er7alu4xrgKR2Rif/CP2+jm52WrURFqO742M4FZnB7H3wQrPxO566zdU1TFCaCg0fEQd3A+FU3yZMqv/Y2FLYJ5RHBRo7E2PRFQkpsq0FsalMsUGc6oY3PZ7z06GIpFafz+TqY=;J1D63N/ERRaaP8wAqVlH5A=="
 ---
 

@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kiwibot is adding more robots to its Pittsburgh pilot, meaning a greater chance to see the cute bots out and about"
+    excerpt: "The semiautonomous robots are part of a Bloomfield-based pilot program for the company that has the potential to bring them here permanently."
+    publishedDateTime: 2021-09-10T20:58:00Z
+    webUrl: "https://technical.ly/pittsburgh/2021/09/10/kiwibot-robots-pilot/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 17
+    images:
+      - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2021/09/DSC_4996-2062-scaled-e1631304900337.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "DoCEIbVyLh6AJ2jIqQ+2flNViVuurpqqaQIXxrwoGbcG+ufPPuv1czpVaXrttUkU8iTiWVk4ABDEeM6h4cmB8vH/T/Q4blXFv40V+0Ngiazqe/zgtkpPWJrmBilgcl87UTKIZP0dPkENanv8AiDKFb6Dy9xdGa4iaVwsceLT04LgWYIKImEkzc0t4l8L0OowP8vrGJuo3O6bSYibmz/OY7JiWH/9wyBmXFnE+a2eJ5GS5/nKrit2MK5BVpO1aeI4FqpIrjdq6F/wmJ9v+c+/FTTiyqUFsGwleQcYdgA79i49nNEdQV00PU3inBy9sinuablcq/ZZB62rWeW5cGGALitC0KFED7aTYvMmn4SCujM=;R7U2UFWp2ZIK+wlHHYv6tw=="
 ---

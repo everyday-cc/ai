@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Zillow – Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-09-11T00:07:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_zillow/zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 52
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg"
+        width: 1200
+        height: 754
+        isCached: true
 
 secured: "xGcBQnUJQbJesUS6/+LoUBTVYIuSmd1Bg3OXrrX8B+K7rHDj0kKGcFa/a9YwK0IKRLenDNfoIh5k1pmFQI/Tk0LiePd3EwTX85pAUSB+gRk++4/Dw86jsJ+q3fiDNjz3YyMqYTufIGfVkUu15q0SmXupu1prKn7G5O+WA6eGbkHkns4UNrr8axKjh8NcwB9FQ02oghA4AUiM74zPvOLYWwo2djyo0S9J4qPnzxyPiQwUfmPxcByqfxbeb54tH5hN6kpvgkVwXmFelJ91kiI47Bqb8Z5c7idjsfCac2PWUn2YpQUNoORmVpYaXLxQ0tAwQJEjd10/qURcrenlauxjoPJ/Yw6zDMZtDmzFw9Eupj8=;C2m2rkrbfRCroQawvlaJ9w=="
 ---

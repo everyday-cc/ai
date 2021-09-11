@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "NAB keeps a close watch on budding Euro, Australian AI rules"
+    excerpt: "NAB is once again looking to Europe - and specifically its work on ‘trustworthy AI’ regulation - as a benchmark for future standards in the development and use of AI and machine learning systems. Like others operating in the space,"
+    publishedDateTime: 2021-09-06T19:59:00Z
+    webUrl: "https://www.itnews.com.au/news/nab-keeps-a-close-watch-on-budding-euro-australian-ai-rules-569383"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/nab-522790626.jpg"
+        width: 745
+        height: 539
+        isCached: true
   - title: "New Zealand AI insights startup Yabble raises $3 million for Australian expansion"
     excerpt: "New Zealand data insights startup Yabble has raised NZ$3 million (A$2.9m) as it looks to expand into Australia and then the US."
     publishedDateTime: 2021-09-08T07:35:00Z

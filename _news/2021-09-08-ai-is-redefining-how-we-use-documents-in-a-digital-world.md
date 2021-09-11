@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-rede
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "How Artificial Intelligence is Transforming The Future of Digital Ads"
+    excerpt: "We cordially invite you to an exclusive fireside chat session to explore deeper insights into Indonesia's business and digital industry"
+    publishedDateTime: 2021-09-11T01:24:00Z
+    webUrl: "https://www.eventbrite.sg/e/how-artificial-intelligence-is-transforming-the-future-of-digital-ads-tickets-170270978079"
+    type: article
+    provider:
+      name: Eventbrite
+      domain: eventbrite.sg
+    quality: 17
 
 secured: "XaKuN/4ULHbFQJAHd8+YZ5kithEyNKcORfvYwNDqmXj+oUwJF3eUPI+1pBXWN9OXjBtxuatas+tY37vrORMtF4bs9nlqeu4BwoTyczPkM7S31HieAyKHQjTMMpFY/cOhJMBbxMmce8iUmqWXeNuy765OyBtRnsSmXf9HgCurTxJpZZ4XUcIUU4pyIoMy5koxzTJ+pIx6tC/P/GhjqnrmZ8wdZmreuUyYCR0Lk3wTpOwqyjkW3KuyM5OGyQmxIUhHopKnijkKxo8QlPGDb3bdJSby3r7fh8cHmpjDf2iMUNK1m/ib2CEykkwwyyrWmPBSAce/Aaxk5XICsYP1Tvxv3qU1yHqxDim4/NjO3jXmXwkjDijdGa11PyjWYpcWUixzn3nGoAQbhlnAOZsqX+aKel1Qf4S+/xwnwlK7AmmbvpkV4HqnaEtMSLk9jbq5NMlr7cy7DXZNfFpkGa0Vyj23MY7gUhxtADghgVF5LP0JklPXqXtu/RZgzSCuYCpXLzcxb2j8W8cp6dEuISzjOLrElg==;h9IzxUGN1zq4lUg4RxjtlA=="
 ---

@@ -59,20 +59,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Artificial intelligence is the future of cybersecurity"
-    excerpt: "Cybercriminals are using artificial intelligence (AI) to evolve the sophistication of attacks at a rapid pace. In response, an increasing number of organisations are also adopting the technology as part of their cybersecurity strategies."
-    publishedDateTime: 2021-09-06T07:15:00Z
-    webUrl: "https://www.technologyrecord.com/Article/artificial-intelligence-is-the-future-of-cybersecurity-125678"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 37
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10487/img-Pixabay_werner-moser_security_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Artificial Intelligence-based Cybersecurity Industry Market to Witness Huge Growth by 2028 | FireEye, Inc., Palo Alto Networks"
     excerpt: "A new business intelligence report released by JCMR with Global Artificial Intelligence-based Cybersecurity Industry Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
     publishedDateTime: 2021-09-09T15:31:00Z
