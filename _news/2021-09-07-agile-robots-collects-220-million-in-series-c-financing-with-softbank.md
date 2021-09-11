@@ -41,13 +41,13 @@ related:
         isCached: true
   - title: "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2"
     excerpt: "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,"
-    publishedDateTime: 2021-09-10T04:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2-1030791596"
+    publishedDateTime: 2021-09-10T12:56:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/09/10/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2/17434/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 10
 
 secured: "M7skfVUxHz0jo0PQwJyCi7kcJkxJg/BiScbWZPUrIoVDPeND9rYs0jLk05xnsVTHkHsApOIUkba39xOmSMSHUTRNkYNpR6tzHCMs7Jf1RTiJQdJ1O3mokKRaF2vl0w1nxZha/Apusg8U2RKZBRaoboLUuQtDvfDROJN9V1MZ0QHV/FCEyaGzJc+ceauYLBjJXW1AUhAC4aL4jbGre9b89MBPPKHuS61wAeZMjKMWSkplTsp2/BnW1S+dTf7sPdWWRXK2UewjPBuZZQVvV+JJ8fmlnbutS2MXf5ugBOPlzOwy4z+PRcMZ9EN4XUdTtCrGJ1FQDinxsLxcCcRU52yMElvDkoN3t7VAEJIrptscvPo=;szDcSouASNDlHQqOU28U1g=="
 ---

@@ -2,26 +2,87 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-03-centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai.md",
+      "title": "Centaur Labs Gets $15 Million To Improve Data For Healthcare AI",
+      "excerpt": "Centaur Labs harnesses collective human intelligence to improve the quality of medical data used by AI systems in healthcare applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61313372817d4e51c946dbcd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/03/centaur-labs-gets-15-million-to-improve-data-for-healthcare-ai/amp/",
+      "publishedDateTime": "2021-09-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-cango-auto-view-chinas-burgeoning-autonomous-driving-market.md",
       "title": "CANGO Auto View: China's Burgeoning Autonomous Driving Market",
-      "excerpt": "Apollo has accumulated L4 autonomous driving test mileage of 10 million kilometers. Prior to this, Baidu Apollo unveiled Apollo Lite, its closed-loop solution for pure visual self-driving on urban roads. According to the company, this is the only L4 pure ...",
+      "excerpt": "SHANGHAI, Sept. 3, 2021 /PRNewswire/ -- With the evolving landscape of the global automotive industry, Cango Inc. (NYSE: CANG) (\"Cango\" or the \"Company\") is issuing a bi-monthly industry insight ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market",
+      "webUrl": "https://www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market",
+      "originalUrl": "https://www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/pr-newswire_500_4_242.jpg?itok=FXRIfh4z",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T03:03:00-07:00",
+      "ampWebUrl": "https://www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market?amp",
+      "publishedDateTime": "2021-09-03T04:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +101,8 @@
       "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
       "excerpt": "Add to Calendar 09/03/2021 2:30 pm 09/03/2021 3:30 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of Hazard Identification and Reduction (EXHR) will participate in an ASTM technology task group teleconference to discuss the drowning sensor detection systems in residential swimming pools.",
       "sourceUrl": null,
-      "webUrl": "https://www.cpsc.gov/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools",
-      "originalUrl": "https://www.cpsc.gov/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools",
+      "webUrl": "https://www.cpsc.gov/zhT-CN/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=id",
+      "originalUrl": "https://www.cpsc.gov/zhT-CN/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=id",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1111,58 +1172,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis.md",
-      "title": "Self Driving Wheelchair Market Size Insight Report 2021 to 2027 by Manufactures Types, End Users and Regions with COVID-19 Impact Analysis",
-      "excerpt": "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Self Driving Wheelchair",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

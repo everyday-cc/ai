@@ -2,21 +2,17 @@
 category: news
 title: "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2"
 excerpt: "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,"
-publishedDateTime: 2021-09-10T04:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2-1030791596"
-webUrl: "https://markets.businessinsider.com/news/stocks/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2-1030791596"
+publishedDateTime: 2021-09-10T12:56:00Z
+originalUrl: "https://www.roboticstomorrow.com/news/2021/09/10/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2/17434/"
+webUrl: "https://www.roboticstomorrow.com/news/2021/09/10/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2/17434/"
 type: article
-quality: 40
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
@@ -52,6 +48,6 @@ related:
         height: 480
         isCached: true
 
-secured: "5iIyr164W7QvSY2jDqalskH1N/fpuMlUujhegHbctpcggmOee/X73NeE79cB6idDhQiZv/L+sntNwPYgxEiesqKVXgCCdUlmsjlvghZnD4y1TNUiRWX5gmf113hnIncbGzQ+cHAVsLD1CK6eAKgbl8ZtqiYwP0yLfqp3L+4K97s809HoI/4ryxSAihOcQ6wTo07bjGLud4lV9aTYpHd+w4SMuEtGDp+ijfiH+sqzJ51TCWb+MTuAJPpKX+x6zF6vnNQ7+LH7WbNR45jHaUhUEkdCb8TwA0ioRR7neDUf8eT8KrfPwM/4syI2n2bPoZ6NUicMTEwJuhArBCeOKLRAwB6U6AZwFkwnpazlcIb1n0OHUMrAV6CGHBycNz0FF480Nf3lqCXLc6CXfAyNjyPAz/3Dv42+pWeR9DDsqesIpwY69AOkvB+RTkopr0aKELqzDCo20zuj2/C086t02RxHs4ZE3/7ptKtE9Rav4aw1d044XWvgb04u67mGVMIfIr4FBV/3vSV/kPrH0+nc34suKg==;KOwK4aXsv/UMtroeRojbUg=="
+secured: "RljZpaF3yQXs/BVjfWZfG/+65OpiWylG8G+w7DF22XmyfXmfGVJQ/wovdH8b0wIUcftOaX3hN8zkGJYA5b2LClGHWV8A1Gs4JiAuq0jsPGtAtacKw+Bd+eEmq3aXQA68RjcIDJxexlmUD4LIMlZXP24ADuzwSBHxKwKIwOGzST6bVvOSVDcr0Pmp8L4g7Q2qYek6pE+4ekJbQQ+Eg1T6MqZo5JTtp7VkqjpAtE9lhlDP/rFxsyKPNRfXuK3q4JX/SsaCHt7NpwaUgC9yKbKgTa02yYLk0HLU66lFCrEIMGH/w/z7SPKVIPd3dGL1dyxi9TdqeAEY3HVGlK7PJw+Y8QbUstySoqAGPtcyTJEZ0ek=;gumn/SERkolkn93gFWopig=="
 ---
 

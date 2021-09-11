@@ -450,7 +450,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/10/communism-and-sitcoms-inspire-ai-ethics-at-salesforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1163,21 +1163,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-10-gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think.md",
-      "title": "Gartner: AI is moving fast and will be ready for prime time sooner than you think",
-      "excerpt": "Companies have two to three years to lay the groundwork for successful use of generative AI, synthetic data and orchestration platforms.",
+      "path": "_news/2021-09-10-microscopy-plus-ai-equals-rapid-covid-19-detection-study.md",
+      "title": "Microscopy plus AI equals rapid COVID-19 detection: study",
+      "excerpt": "Beckman researchers paired microscopy with artificial intelligence to develop a COVID-19 test that's fast, accurate, and cost-effective. All we need to do is say \"ahh.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
+      "webUrl": "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.html",
+      "originalUrl": "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/09/29d4406a-7712-4b65-8dd4-817123216bcd/resize/1200x/5081b29b2f5108111e249f873b3feda0/gartner-hype-cycle-for-artificial-intelligence-2021.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/microscopy-plus-ai-equ.jpg",
           "width": 1200,
-          "height": 817,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1185,23 +1185,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "publishedDateTime": "2021-09-09T12:17:00-07:00",
+      "ampWebUrl": "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp",
+      "publishedDateTime": "2021-09-09T13:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1210,7 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

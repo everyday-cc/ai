@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/facebooks-ai-thought-a-video-
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-ai-thought-a-video-of-a-black-man-was-about-primates"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Apologises After AI Labels Black Men in Video as “Primates”"
-    excerpt: "A video on ubiquitous social media platform Facebook titled “White man calls cops on black men at marina”, published by UK tabloid Daily Mail, included an automated prompt by the social network, asking users if they would like to “Keep seeing videos about Primates?"
-    publishedDateTime: 2021-09-06T11:07:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Facebook-Privacy.jpg"
-        width: 800
-        height: 520
-        isCached: true
   - title: "When Facebook’s AI Labeled ‘Primates’ in a Video of Black Men"
     excerpt: "The recent incident involving Facebook’s AI putting the ‘primate’ label on a video featuring black men is objectionable and offensive. Afterward, Facebook apologized for the incident, calling it an “unacceptable error."
     publishedDateTime: 2021-09-07T05:55:00Z

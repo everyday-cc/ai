@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The COVID-19 Effect: Artificial Intelligence Automation Market Booms"
-    excerpt: "In Johannes words: “The robots escaped the manufacturing sector and went ... who take care of the sick and elderly among others are those now replaced with Artificial Intelligence Technology. A 2020 survey by the World Economic Forum, a non-profit ..."
-    publishedDateTime: 2021-09-06T12:58:00Z
-    webUrl: "https://techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/"
-    ampWebUrl: "https://techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/?amp=1"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 59
-    images:
-      - url: "https://techbooky.com/wp-content/uploads/2021/09/AI-Inline-Inspection.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Microscopy plus AI equals rapid COVID-19 detection: study"
     excerpt: "Beckman researchers paired microscopy with artificial intelligence to develop a COVID-19 test that's fast, accurate, and cost-effective. All we need to do is say \"ahh.\""
     publishedDateTime: 2021-09-09T20:07:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/microscopy-plus-ai-equ.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Artificial Intelligence Predicts Ventilator Need of COVID-19 Patients"
+    excerpt: "Researchers have developed an artificial intelligence tool that can predict if a COVID-19 patient will need help breathing with a ventilator."
+    publishedDateTime: 2021-09-08T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-predicts-ventilator-need-of-covid-19-patients"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2020-03-16-CDC-coronavirus-visualization.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "5/VItr7J+sk/hajoTyytZY14NE35lg3/ZSJUb52mESUWbpvLEvRcuf0c8/WZpZZAyM3JivyuOKSDwzbwo5/ljENALCGWI9+LmdNpWggjNqguN6zuP0YfFX3bc62vCL1S2ENnMbF7xQj2/Dc7X2jZ4ANPrq5TovvXMew/ML4N2pvigyJOSoa4xj1nChtvrjgfmrs06agh/NxFpEJjkYJIauPzeI/9GghK8FTG589Gi+a4Q+966MtBnkf3neMvzUKZLsVvnt7OvMkix/d8pnnRguzND4kAVxuFc6pHJTGwNf/6ePBupSqAsGf0K89+856PrqbZb2JYNZIWi6a5lxR0FZSWWVxBab++vHTOY7QwTJWEd9CSTE4gp+0hWaBgldyUUxnsI2pbYDR/tQ9ElWnZ++TjydE3FAagj7zrLxz5ivjFjjI+jl0o4fLnv7waIzhysWBp3xrG+TDLzdqZZmbaBiRXpN0HK5yvj6DttwBCEv+u/phq5RYjCkRKej3ZsNqPRYeLuGNikTVB503RMmOmsQ==;N4MXv2VRImauesdrSz7JhQ=="

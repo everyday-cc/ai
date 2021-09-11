@@ -1,66 +1,84 @@
 ---
 category: news
-title: "Exclusive-Singapore's ADVANCE.AI raising $200 million from Warburg Pincus-led investors - sources"
-excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
-publishedDateTime: 2021-09-09T14:15:00Z
-originalUrl: "https://www.reuters.com/article/singapore-advance-ai-funding-exclusive-idUSKBN2G50X6"
-webUrl: "https://www.reuters.com/article/singapore-advance-ai-funding-exclusive-idUSKBN2G50X6"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2G50X6"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2G50X6"
+title: "Exclusive-Singapore’s ADVANCE.AI raising $200 million from Warburg Pincus-led investors – sources"
+excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+publishedDateTime: 2021-09-09T11:11:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/exclusive-singapores-advance-ai-raising-200-million-from-warburg-pincus-led-investors-sources/"
+webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/exclusive-singapores-advance-ai-raising-200-million-from-warburg-pincus-led-investors-sources/"
 type: article
-quality: 74
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: fintechzoom
+  domain: fintechzoom.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210909&t=2&i=1574303528&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH880LW"
-    width: 780
-    height: 545
+  - url: "https://fintechzoom.com/wp-content/uploads/2021/09/1631179002_rcom-default.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Database startup SingleStore raises $80M"
-    excerpt: "Database startup SingleStore today announced that it raised $80 million in a series F funding tranche led by Insight Partners, bringing its total raised to over $319 million at a post-money valuation “just shy” of $1 billion."
-    publishedDateTime: 2021-09-08T20:00:00Z
-    webUrl: "https://venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/"
-    ampWebUrl: "https://venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/amp/"
+  - title: "Singapore Tech Startup ADVANCE.AI Snags $200M in Funding Round"
+    excerpt: "ADVANCE.AI is expected to raise roughly $200 million in a funding round that will put the tech startup in exclusive company as a southeastern Asia unicorn."
+    publishedDateTime: 2021-09-09T15:18:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2013/12/hard-disk-drives-miloussk-shutterstock.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/ADVANCE.AI-funding-identity-verification-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "EXCLUSIVE Singapore's ADVANCE.AI raising $200 mln from Warburg Pincus-led investors - sources"
-    excerpt: "Singapore-headquartered tech startup ADVANCE.AI is raising about $200 million in a funding round that will propel it into a small group of Southeast Asia unicorns - unlisted companies valued at $1 billion or more,"
-    publishedDateTime: 2021-09-09T09:26:00Z
-    webUrl: "https://www.reuters.com/technology/exclusive-singapores-advanceai-raising-200-mln-warburg-pincus-led-investors-2021-09-09/"
+  - title: "Singapore AI startup Advance.ai to enter unicorn club with new $200m round"
+    excerpt: "Singapore-headquartered tech startup Advance.ai is raising about US$200 million in a funding round that will propel it into a small group of Southeast Asia unicorns,” said a Reuters report, citing sources."
+    publishedDateTime: 2021-09-09T23:35:00Z
+    webUrl: "https://www.techinasia.com/singapores-advanceai-enter-unicorn-club-200m?comments=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 56
+      name: Techinasia
+      domain: techinasia.com
+    quality: 45
+  - title: "$200M fundraise turns Advance.AI into biometric fraud prevention unicorn"
+    excerpt: "Advance.AI is working to finalize a $200 million funding round that would bestow unicorn status on the Singaporean biometric fraud prevention provider."
+    publishedDateTime: 2021-09-09T22:55:00Z
+    webUrl: "https://www.biometricupdate.com/202109/200m-fundraise-turns-advance-ai-into-biometric-fraud-prevention-unicorn"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
     images:
-      - url: "https://www.reuters.com/resizer/5dMKpECeAZlPEyItJUDn_0zM9t8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWMBCSSZ4RLPZLSCEP54O3A62I.jpg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "EXCLUSIVE Singapore’s ADVANCE.AI raising $200 mln from Warburg Pincus-led investors – sources"
+    excerpt: "ADVANCE.AI caters to more than 1,000 clients in its key sectors such as banking, e-commerce, fintech and retail. As the COVID-19 pandemic boosts consumers’ and companies’ adoption of digital platforms, rapidly-growing fintech and e-commerce startups ..."
+    publishedDateTime: 2021-09-10T04:34:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/exclusive-singapores-advance-ai-raising-200-mln-from-warburg-pincus-led-investors-sources/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 28
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/WWMBCSSZ4RLPZLSCEP54O3A62I.jpg"
         width: 1200
         height: 628
         isCached: true
 
-secured: "gfWTfUhfTvRhOFoiCWs1LdwXao8FaKvPFtDliDJ9kfjFyzNudMpw8LreIX/XDu3pnBT5kK7NZb6N6Hx8/uQMe7hKkgmL/MrLI4vzOx/jLWUnBt2vCmJbf4MFnat8YWaT5d8XGd9G7Bed6gne/JAsCdpH4l+W3vgzHUsFy8VTqh2tB/L8fFPoanFTutxYbkUfFfeDAALvmM4h+EfX7ro7Cr9sZzJA0dpdNtXnoR/XMP+FfJMzqvsrN+YySEPKONFtyE9ltVMyegaf+6OdcF+l3uyOOcdGuthA/H3wQLVqhzs6OQVbtEY7Uxb4nbCprOpvooXdFe+mrQkcvSuW4KuIEYH4nnvCEK0X2Vc6KeNcHnk=;yJB37G/+W8i8rmj2H+7sBA=="
+secured: "b7zrbjeLTytGvd+IjFoeqs5Mb6FbO0QV4eXQa8HX3XrcuLb8Sd4PO814ZXCmB+ROVz4wbzai/n5FqgLJ06Xpoufc5YsEjMUCufugQ9L1n2ymFVbtsYwMXiGxTW04GSHPVWmjrdpSz4At5dtbGtSVCX2JBrhwcpJyELnW1rBf+QvM/FC8J4Aqfjqtyjj3/MfcvjMaKCTMgR5M3ViG5SzkrDEoBr0glbSv2luYrXDX9qkn4xlVjPw8I7FBOqwPeM5gvWVKi/5lFUdtjYbir6tOnjJXPQcL0NJb0+CpWI3EpgBbKjmfmi9nGz1NiEXfD35Sm547CHCwxtar252K6ImIYaO+s40YB7zV3n/WDOkmcTc=;aF51CopNKdAFOn9pK0Wo8Q=="
 ---
 

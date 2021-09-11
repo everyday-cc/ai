@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/motoring/new-models/2021-09-06-new-s
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/new-models/2021-09-06-new-self-driving-audi-grandsphere-is-a-private-jet-for-the-road/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Audi unveils its Grandsphere self-driving luxury car"
-    excerpt: "Audi has offered a preview of its luxury-car future with the unveiling of the Grandsphere concept car at this week’s IAA motor show in Munich. The German carmaker recently announced its intention to stop developing internal-combustion engines by 2026,"
-    publishedDateTime: 2021-09-06T11:53:00Z
-    webUrl: "https://www.businesslive.co.za/bd/life/motoring/2021-09-06-audi-unveils-its-grandsphere-self-driving-luxury-car/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/life/motoring/2021-09-06-audi-unveils-its-grandsphere-self-driving-luxury-car/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/life/motoring/2021-09-06-audi-unveils-its-grandsphere-self-driving-luxury-car/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/V3G5SAEZT3IRHOb1gX-U1e-gT7oXVGLqQd0rW-C2NEtotBb7wGNdkjtN4k1-DtL47WaSurWc5V-RNzz8eLKAnZ8yua3XggCy-JKfe2GlaQS_=s1000"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Audi’s Grand Sphere Concept is a Luxurious, Roomy Self-Driving Sedan"
     excerpt: "Audi is unveiling a trio of “Sphere” concept cars that show the company’s future interpretation of electrification and sustainability. The German carmaker already has the Sky Sphere, which is a sleek roadster that can change size and become an autonomous Grand Tourer (with a steering wheel that folds away)."
     publishedDateTime: 2021-09-08T21:52:00Z

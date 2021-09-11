@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/deep-learning-artificial-intelligence-predi
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/"
 type: article
 quality: 73
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/breast-cancer-4.jpg"
         width: 1200
         height: 1000
+        isCached: true
+  - title: "Researchers use deep learning to predict breast cancer risk"
+    excerpt: "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,"
+    publishedDateTime: 2021-09-11T04:03:00Z
+    webUrl: "https://medicaldialogues.in/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
+    ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 59
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2020/09/12/134429-breast-cancer-survivors.jpg"
+        width: 1500
+        height: 960
         isCached: true
   - title: "Study: Deep learning artificial intelligence predicts breast cancer risk better"
     excerpt: "According to a new study in the journal Radiology, AI-driven deep learning may be better at distinguishing between the mammograms of women who will later develop breast cancer and those"

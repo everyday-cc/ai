@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Study: Deep learning artificial intelligence predicts breast cancer risk better"
-excerpt: "According to a new study in the journal Radiology, AI-driven deep learning may be better at distinguishing between the mammograms of women who will later develop breast cancer and those"
-publishedDateTime: 2021-09-07T20:00:00Z
-originalUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.html"
-webUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.html"
-ampWebUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
+title: "Researchers use deep learning to predict breast cancer risk"
+excerpt: "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,"
+publishedDateTime: 2021-09-11T04:03:00Z
+originalUrl: "https://medicaldialogues.in/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
+webUrl: "https://medicaldialogues.in/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
+ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
+cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
 type: article
-quality: 50
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Daily
+  domain: medicaldialogues.in
 
 topics:
-  - AI
   - Machine Learning
+  - AI
+
+images:
+  - url: "https://medicaldialogues.in/h-upload/2020/09/12/134429-breast-cancer-survivors.jpg"
+    width: 1500
+    height: 960
+    isCached: true
 
 related:
   - title: "Deep Learning Artificial Intelligence Predicts Breast Cancer Risk Better"
@@ -85,22 +91,17 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Researchers use deep learning to predict breast cancer risk"
-    excerpt: "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,"
-    publishedDateTime: 2021-09-11T04:03:00Z
-    webUrl: "https://medicaldialogues.in/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
-    ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/researchers-use-deep-learning-to-predict-breast-cancer-risk-81856"
+  - title: "Study: Deep learning artificial intelligence predicts breast cancer risk better"
+    excerpt: "According to a new study in the journal Radiology, AI-driven deep learning may be better at distinguishing between the mammograms of women who will later develop breast cancer and those"
+    publishedDateTime: 2021-09-07T20:00:00Z
+    webUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.html"
+    ampWebUrl: "https://omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/lifestyles/health-med-fit/study-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/video_8f50782a-4949-5c54-8778-8d54b710054e.amp.html"
     type: article
     provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 59
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2020/09/12/134429-breast-cancer-survivors.jpg"
-        width: 1500
-        height: 960
-        isCached: true
+      name: Omaha.com
+      domain: omaha.com
+    quality: 50
   - title: "Can Terrorism Be Predicted With Machine Learning?"
     excerpt: "A team of researchers at Zhejiang University have developed a ML framework to predict and explain the occurence of terrorism."
     publishedDateTime: 2021-09-08T07:30:00Z
@@ -116,6 +117,6 @@ related:
         height: 900
         isCached: true
 
-secured: "z5TLyOynFHEKht9RTPCxp8kM/eyZqRWbDLWBGqyi27v3mQHJqXM9i4kjF7/KIZgF/xq3jyeV3I0zjOJ4gRESUzbIaarUsUoQg0D+4GPYBRsYWtESoElbPv+oWDELC1P8QxSh1VXfEE7tLL6Q7hhjl2/DUktmTSeyhbLOAMe2ZiEGX4CDAxZTQT5Ty1FJeshcQgi7tfjbAbNzfVsYnpzgtBBhih+pOs1+uVLdB/nRb/H0IuK1zAXSSzwLFBDckhWT7QzdwWDyz8PsHKiiFTnV/dc0M28gFZeFAoLjCZO6xLaxw8owkG63w7WMIOaaktYMaILCKV83M+1vpH2CHuPJwC4ZedMJwhrcqlgJa8YfUrIOCgEUC15HzNKK9LwNe34cdzNZWHGvkaNGc5Sx1DXsklMNjU+7Jjk+6fUKcW8D8UKGoUcdZRmiujQo1q3/6szwTOTmMK9ERtIOIjkItqRhZyhUmlKy5Ugfzo0ztJ1oRvfJZc05MP11JW+D9ZZFeVBGgK1+Yz+Jww9g209KhvtQIA==;k5w24oaTN197lpHcbwy54w=="
+secured: "xEF/uvR1cJR4cMBSChv1l+ypw7ESHvqPSbDLOgUiKZK8KM4I5WhhCSjZ4B7MBBic8rzvLiQmSci5ebtz7xWCQlMzlHc81K0Bhqh4XbND0ZO5jVprRV4/WsQz1akGm2/zQ8beLAty3vHv7yQ18Lup26RVePp18z7TuGGeOO7zRFcZ+c4Q7uSAsSYmYm6H1E1ujIts7vtM1puKh01DiRqYgzUM9fDrx3pgSB94p8RzI4Mota8YFOz0eBcTatqdqFXIcvIxEDF14q1mQbihv9l+68CrSAJEW0WjebqU2NojxWmRQ7bsPtSfkd0gqCA6I5lVm2aDlPLo/GumS7g9u4EIm1FEEjZkUqv4uInUkmmJyag=;itMTfGoB6oXVfDPUE85AzQ=="
 ---
 

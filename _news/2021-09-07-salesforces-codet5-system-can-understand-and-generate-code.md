@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How AI Can Boost Sales for Your eCommerce Businesses"
-    excerpt: "From handling orders to keeping track of your finances, AI technology can help you get more sales and grow your e-commerce business even in a pandemic."
-    publishedDateTime: 2021-09-06T13:00:00Z
-    webUrl: "https://www.blackenterprise.com/how-ai-can-boost-sales-for-your-ecommerce-businesses/"
-    ampWebUrl: "https://www.blackenterprise.com/how-ai-can-boost-sales-for-your-ecommerce-businesses/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/how-ai-can-boost-sales-for-your-ecommerce-businesses/amp/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 74
-    images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/02/iStock-1223789411-1024x557.jpg"
-        width: 1024
-        height: 557
-        isCached: true
   - title: "Salesforce Service Cloud introduces AI-powered workflows, Slack integration and conversation mining"
     excerpt: "Salesforce has announced a swathe of updates to its Service Cloud, which it believes will help companies connect their customer service operations - from DevOps teams, through the contact center, all the way to the customer engagement layer."
     publishedDateTime: 2021-09-09T13:01:00Z

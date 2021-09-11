@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/aws-et-la-bun
 webUrl: "https://www.joplinglobe.com/region/national_business/aws-et-la-bundesliga-lancent-deux-nouvelles-statistiques-bundesliga-match-facts-pour-la-saison-europ/article_c33fe8cd-d2a9-5ff0-8227-218edd7bc8cd.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 630
     height: 630
     isCached: true
+
+related:
+  - title: "AWS und die Bundesliga präsentieren zwei neue Bundesliga Match Facts für die europäische Fußballsaison 2021–22"
+    excerpt: "Passing Profile, one of the new Bundesliga Match Facts powered by AWS for the 21-22 season. (Graphic: Business Wire) Die Bundesliga Match Facts helfen den Zuschauern, differenzierte Aspekte des Spiels besser zu verstehen,"
+    publishedDateTime: 2021-09-11T05:05:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/aws-und-die-bundesliga-pr-sentieren-zwei-neue-bundesliga-match-facts-f-r-die-europ/article_f68d62f3-70e3-5e2c-8f82-b02fa445c47c.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 34
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/a8/6a8c1582-2e5e-5b25-99a8-c10f847b3ff5/613c39f6833c8.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
+        isCached: true
 
 secured: "SERNP+HPy88rYz1Mp7kqMv9MGHY5FrZiWjJioRr3wcuQ6kbHDXYYQvNcanPkaiiU2B8h4t1F45RCtr0my+4PSZJgDMc9T10EacGr8YWQE52Bw3/enOrpOUep6/VoOaLp0u1JK3pHXMVmZNBNgRmyf5S4wRFY5CogfDTyw8I9GqChNBxbNp+SqyQCVz7IMuKQw5olRWp6OLJR6tvoMV1bsNSznfuE0xd0+Q6V12KK3g6ukg7JroTB7+uTUQNzcl9Tn4aKHUTs7kNz3V2VA4CTvenPDEUM6EwVS6HyzggQtKYHWkE2YGm5F/7x9x/KWevsPA8Kk0Dv+uabYv8+qyV9TiBSbGNsQ5yC6rnZk63uazJW1lGm0QODmhvqh08lGAXYoKxUKqpIQyMgMzafBsVnURik8p77E4LzqzlHOscFmNHftQYYf4vagTE2wzevFHGw+svnwYHyeCcukLRs/4Fczx/9dJzm0ys2wwXgCuNrjI2RUjF6nfrcLwrKXCGVLN9vBPJiMRBqDrb2tyW3I7CUBQ==;fx9ixGtYz2hxlfxcb7RQLQ=="
 ---

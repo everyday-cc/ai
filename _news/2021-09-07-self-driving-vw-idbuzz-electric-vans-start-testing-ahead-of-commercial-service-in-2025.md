@@ -41,22 +41,6 @@ related:
         width: 1062
         height: 597
         isCached: true
-  - title: "Argo AI and VW are showing off their self-driving test vehicle"
-    excerpt: "The companies hope to deliver commercial self-driving vehicles to be used for commercial services in Hamburg by 2025. The autonomous ride-pooling services will be run by a VW subsidiary called MOIA, a mobility service provider. Argo AI received the base ..."
-    publishedDateTime: 2021-09-06T11:52:00Z
-    webUrl: "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/"
-    ampWebUrl: "https://www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/argo-ai-and-vw-are-showing-off-their-self-driving-test-vehicle-06689760/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/09/id-buzz0ad01.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Argo AI puts a high-tech spin on Volkswagen’s retro ID.Buzz van"
     excerpt: "Volkswagen will deploy an autonomous version of the electric ID.Buzz van powered by Argo AI's driverless technology."
     publishedDateTime: 2021-09-06T14:47:00Z

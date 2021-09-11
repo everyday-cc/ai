@@ -56,22 +56,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "How Midsize Companies Can Compete in AI"
-    excerpt: "Startups and large corporations are seizing AI opportunities and strengthening their position. But what about midsize companies that often lack access to big data and AI talent? These midsize firms risk being left behind in the age of AI."
-    publishedDateTime: 2021-09-06T12:05:00Z
-    webUrl: "https://hbr.org/2021/09/how-midsize-companies-can-compete-in-ai?ab=hero-main-image"
-    ampWebUrl: "https://hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/how-midsize-companies-can-compete-in-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/09/Sep21_07_1271186214.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Department of Commerce Establishes AI Advisory Committee"
     excerpt: "ethics, standards, education, security and economic competitiveness. IAPP's Fennessy tells ISMG that the formation of this group \"recognizes that privacy and security are integral to the U.S. being a leader in the development of trustworthy AI.\""
     publishedDateTime: 2021-09-10T21:10:00Z

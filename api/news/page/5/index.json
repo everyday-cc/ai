@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-07-ai-powered-system-to-diagnose-glaucoma-using-eye-images.md",
+      "title": "AI-powered system to diagnose glaucoma using eye images",
+      "excerpt": "Scientists from Nanyang Technological University, Singapore (NTU Singapore), in collaboration with clinicians at Tan Tock Seng Hospital (TTSH) in Singapore have developed a novel method that uses artificial intelligence (AI) to screen for glaucoma,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-develop-ai.jpg",
+          "width": 2880,
+          "height": 2304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.amp",
+      "publishedDateTime": "2021-09-07T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-singapore-has-safety-patrol-robots-now-this-should-be-fine.md",
       "title": "Singapore has safety patrol robots now! This should be fine.",
       "excerpt": "Singapore has started testing patrol robots that provide surveillance in pedestrian areas, working with the city-state's police force.",
@@ -1145,58 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-vws-self-driving-partner-closing-in-on-german-public-road-tests.md",
-      "title": "VW’s Self-Driving Partner Closing In on German Public Road Tests",
-      "excerpt": "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixMLqLHvG858/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-05T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

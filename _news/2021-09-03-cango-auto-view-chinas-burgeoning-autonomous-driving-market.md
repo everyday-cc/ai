@@ -1,20 +1,28 @@
 ---
 category: news
 title: "CANGO Auto View: China's Burgeoning Autonomous Driving Market"
-excerpt: "Apollo has accumulated L4 autonomous driving test mileage of 10 million kilometers. Prior to this, Baidu Apollo unveiled Apollo Lite, its closed-loop solution for pure visual self-driving on urban roads. According to the company, this is the only L4 pure ..."
-publishedDateTime: 2021-09-03T10:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market"
-webUrl: "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market"
+excerpt: "SHANGHAI, Sept. 3, 2021 /PRNewswire/ -- With the evolving landscape of the global automotive industry, Cango Inc. (NYSE: CANG) (\"Cango\" or the \"Company\") is issuing a bi-monthly industry insight ..."
+publishedDateTime: 2021-09-03T11:04:00Z
+originalUrl: "https://www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market"
+webUrl: "https://www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market"
+ampWebUrl: "https://www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market?amp"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "8cEJplYl6WLPlQbR7kA/DvTfBbor8ehEtNAux9b+t2NnttYapiorYzaGaSPOlQVCmDlI2ZsvU5GIa+5UI3I527A7WyQgs7vz75mbGDFjElIfZfnfUfzTVTDG9UeB6dByr5jD7Jb8O4qw1lD8N0dcYzAFF8ikqMarXx5OskhD6o5j1HDA0B5vi+o28IIpohjAcfu/BNVc1WXNBcfnt4Jge/NTibJ7QdY3q4ecT4LT601ouofSbTV+kkO5Cyut/821WZGM6LUWgMoN7/kwA3fht0lkscUiUAv5+dHZudOEf2asjRYzWN20g4yjnFN+4O+U/Y6PRlUUaAZ+Ca7VuxkZJbdBNdckQfOtNzrNFtN7PTI=;i6i8CAPXwnhLbwbOmwttDA=="
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/pr-newswire_500_4_242.jpg?itok=FXRIfh4z"
+    width: 763
+    height: 509
+    isCached: true
+
+secured: "oTtYrQkZaPg2MTtBtLrQOZpFsvNj64AKTq6gZqq7sFqlOCpdD28NfP72g2s4CTI5yD97wEgB4+IQtuNzl6RldqBU7505THHqlsFA9oQDiqYxwPubh7qIbCD/epwOEX9TJQIBarY+E0B21M2eMKkEC1frdAh63ERRnC/hdLIqp9aaml3Np7H6EDnogxr4BEUq1I7W8j1Ia/NX5HQkGRi3Mici/+MHacfioHUVE3tYi5efracPTkLeaU7CVSrrrnkZoPp39VnGogOatKgOyQ16uasFPjsKE0uY6+Da2EItH/FIWhiTSw1gSwZS7DnEuXqEW1PbkK0+15eeEuVDIeKyanRwqQ9L5Ro7aZBUho/0lX4=;f5zRBxtXhzAhK8wyVZQILQ=="
 ---
 

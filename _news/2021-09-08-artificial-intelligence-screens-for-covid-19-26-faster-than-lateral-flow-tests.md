@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/diagnostics/news/amp/artificial-i
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/diagnostics/news/amp/artificial-intelligence-screens-for-covid-19-26-faster-than-lateral-flow-tests-353401"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Predicts Ventilator Need of COVID-19 Patients"
-    excerpt: "Researchers have developed an artificial intelligence tool that can predict if a COVID-19 patient will need help breathing with a ventilator."
-    publishedDateTime: 2021-09-08T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-predicts-ventilator-need-of-covid-19-patients"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2020-03-16-CDC-coronavirus-visualization.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "4AeqqavYwieVPZz9f4ga/IkwpMJ9PPe8H9c9fqlmo/GWxRxJZMcYZc7wImNiZ3odHhpJJTdI1Z9PHdGR1s8+4JPtYbCK4sbYQ2Q9N9YfxEQoo6GhHtQ/C4V0IWWu9mARHTImmcHPGKKvqhglaCg0hMS6IwaMxIvMvFGSiBaz4Di2lf7wDVC2lDCd9Y+k4rTVT+jVrCa4BnaxJ1HTBXOBPLw6PdhtTYbH28kDjx2bV4Nn12Xkf66fCZzXdv0xhrEPGu1knd+mvUFHbQEaqvBXRJqhfc5HwjqMRkXp6mfNXjwep0O8/rBP3KbzjplbTWFmSyJCuARYXL91tMIf+DEYTlPibDvBnzYng73jviSTMhKk4cyEWwnruqjbun/zOlp+O87CfILZMmsaEBZXRApVKaeBcqaIbmAqJuGTrJ90wc/uNML4fbVJcveOnZJRLFmaRmEmC5Mo6nt3J8DMU9gRxKxBA8ayV8JwuYyeYAdKpJRovNHn168B5Gk7NwwnsjGy1cYYQsswFw0IOwrxntvGRw==;hiG/oNuRce6nKnP62fyNLA=="
 ---

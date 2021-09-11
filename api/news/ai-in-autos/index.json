@@ -449,24 +449,33 @@
     {
       "path": "_news/2021-09-03-cango-auto-view-chinas-burgeoning-autonomous-driving-market.md",
       "title": "CANGO Auto View: China's Burgeoning Autonomous Driving Market",
-      "excerpt": "Apollo has accumulated L4 autonomous driving test mileage of 10 million kilometers. Prior to this, Baidu Apollo unveiled Apollo Lite, its closed-loop solution for pure visual self-driving on urban roads. According to the company, this is the only L4 pure ...",
+      "excerpt": "SHANGHAI, Sept. 3, 2021 /PRNewswire/ -- With the evolving landscape of the global automotive industry, Cango Inc. (NYSE: CANG) (\"Cango\" or the \"Company\") is issuing a bi-monthly industry insight ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/03/cango-auto-view-china-s-burgeoning-autonomous-driving-market",
+      "webUrl": "https://www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market",
+      "originalUrl": "https://www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2021/pr-newswire_500_4_242.jpg?itok=FXRIfh4z",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T03:03:00-07:00",
+      "ampWebUrl": "https://www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cango-auto-view-chinas-burgeoning-autonomous-driving-market?amp",
+      "publishedDateTime": "2021-09-03T04:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

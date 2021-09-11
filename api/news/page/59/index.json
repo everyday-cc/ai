@@ -2,6 +2,58 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-07-28-brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app.md",
+      "title": "Brain Technologies raises $50M+ for the launch of Natural, a natural language search engine and ‘super app’",
+      "excerpt": "Voice-based and other personal assistant apps — which use natural language and hefty AI engines in the backend to source information to address your various questions, do your e-commerce bidding, or control one electronic device or another in your home — have been around for years,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/",
+      "originalUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/nat_screen_2.png?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/amp/",
+      "publishedDateTime": "2021-07-28T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-joint-artificial-intelligence-center-to-pilot-a-responsible-ai-procurement-process.md",
       "title": "Joint Artificial Intelligence Center to Pilot a Responsible AI Procurement Process",
       "excerpt": "The Department of Defense Joint Artificial Intelligence Center (JAIC) is continuing to operationalize Responsible Artificial Intelligence with the announcement of a pilot of a",
@@ -1105,49 +1157,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-powered-beach-cleanup-robots.md",
-      "title": "AI-Powered Beach Cleanup Robots",
-      "excerpt": "It’s estimated that more than 4.5-trillion cigarette butts are littered across the environment around the world, which is something the",
-      "sourceUrl": null,
-      "webUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "originalUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.trendhunterstatic.com/thumbs/robotic-beach-cleaner.jpeg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "publishedDateTime": "2021-07-27T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrendHunter",
-        "domain": "trendhunter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

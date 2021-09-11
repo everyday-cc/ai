@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Screens for COVID-19 26% Faster Than Lateral Flow Tests"
-    excerpt: "A new artificial intelligence-based screening test for COVID-19 was found to generate a result 26% faster than lateral flow tests. Technology Networks spoke to Dr. Andrew Soltan, NIHR academic clinical fellow and a researcher involved in the study,"
-    publishedDateTime: 2021-09-08T07:54:00Z
-    webUrl: "https://www.technologynetworks.com/diagnostics/news/artificial-intelligence-screens-for-covid-19-26-faster-than-lateral-flow-tests-353401"
-    ampWebUrl: "https://www.technologynetworks.com/diagnostics/news/amp/artificial-intelligence-screens-for-covid-19-26-faster-than-lateral-flow-tests-353401"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/diagnostics/news/amp/artificial-intelligence-screens-for-covid-19-26-faster-than-lateral-flow-tests-353401"
+  - title: "Microscopy plus AI equals rapid COVID-19 detection: study"
+    excerpt: "Beckman researchers paired microscopy with artificial intelligence to develop a COVID-19 test that's fast, accurate, and cost-effective. All we need to do is say \"ahh.\""
+    publishedDateTime: 2021-09-09T20:07:00Z
+    webUrl: "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.html"
+    ampWebUrl: "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp"
     type: article
     provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 55
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/artificial-intelligence-screens-for-covid-19-26-faster-than-lateral-flow-tests-353401.jpg?v=11406714"
-        width: 640
-        height: 360
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/microscopy-plus-ai-equ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Valencia crushed Covid with AI"
+    excerpt: "By leveraging algorithms and unorthodox data sources, an MIT researcher has made Valencia a Covid-19 data pioneer"
+    publishedDateTime: 2021-09-08T05:00:00Z
+    webUrl: "https://www.wired.co.uk/article/valencia-ai-covid-data"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 41
+    images:
+      - url: "https://media.wired.co.uk/photos/61375e5f1d76749c7ec36252/16:9/w_1280,c_limit/0809_valencia.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "rwIANRhT5HVrN9i4Uys1u5qcB9/kYpaHbxTLQ2psQFqLl6mKkb0YlH+NjTNhPNiJjmYzJmoEEzWMQMJ4GqV5NPWJ03VekPptD1yMubpF050PHcxqxl1ctSY1it4xkMW0OYqGEMK+xF7z9lt1HtkwOhOZ8YrPNtlW++RltSs+/Wy8+fp+XDojoYQkyFJUS8F2XvYlohdDNJQEkfXb1YKJoN6KPUTuLMbnZkkHwAt195IPT37/GVxkPu6CrOXcbidg9ujVV/wuEdWW3yGGLJeyq5ApnpgyoLc/0NreGyg8RHxOMsMSAc18BTQHqYpAFAi/E0+MgNDB8VzjSQs9fDiR6Dms+gQ3dW+L9xXTsqBtIok=;QiRj3ZNg+R5StyQEezDucg=="
