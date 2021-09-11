@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen ID.Buzz self-driving prototype forging ahead with public road testing"
-    excerpt: "Volkswagen has teamed up with Argo AI to develop the autonomous ID.Buzz electric vehicle..Volkswagen ID.Buzz self-driving prototype will be showcased at the 2021 IAA Munich auto show."
-    publishedDateTime: 2021-09-06T09:12:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing-41630912480440.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/volkswagen-id-buzz-self-driving-prototype-forging-ahead-with-public-road-testing/amp-41630912480440.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/09/06/600x338/VW_1630917535414_1630917550377.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Argo AI unveils its latest self-driving test vehicle with Volkswagen"
     excerpt: "Argo AI has hit the road with a new test vehicle as part of its partnership with Volkswagen. It'll be used to help further deploy the company's tech in Germany and elsewhere around the world."
     publishedDateTime: 2021-09-07T23:31:00Z

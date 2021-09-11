@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/china/sequoia-china-backed-ai-start
 webUrl: "https://www.bloombergquint.com/china/sequoia-china-backed-ai-startup-aibee-is-said-to-seek-new-funds"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Sequoia China-Backed AI Startup Aibee Is Said to Seek New Funds"
-    excerpt: "Aibee, a Chinese artificial intelligence startup, is planning a funding round to raise about $100 million, according to people familiar with the matter."
-    publishedDateTime: 2021-09-06T09:33:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-06/sequoia-china-backed-ai-startup-aibee-is-said-to-seek-new-funds"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ithqPe8fy19U/v0/1200x900.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "F0WM5wkWluc+PoOxz6ni52pmg64q7sEsK4uD9NmWxan3NlHKyrcAJOgbQyBMok6e98/yGG43G4sM1ipXA0QDGNQTIqtBisODQXcB00xrMSy0hDm5T7y2dWOHQocTwxhfU/YywiwCGCTixRpRlojcMHJ02i2dybtpwcUEaTQL3M9Z0uExSCGcmCol9Y3akpJmfaUMAKPZYeaibDNCUHJ03GzA3emjlEpwVef20IHNl/V3ZXXkcyTqidnsRMZ3OysIPxzePt8XtzH+rGDseaL7wHghynafCdyC7fmo/hCpsn0X2bC3diJgVTQdzxHauOLtfQxYjFmlNQnKTpYB6GnKahdvxbglCiT2t8GFn7sx3Io=;+RvLsxWCgSxyH0TLBWKYgw=="
 ---

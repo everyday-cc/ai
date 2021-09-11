@@ -158,6 +158,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Beyond Trendy: Fintech Themes at FinovateFall"
+    excerpt: "We have 70+ demo companies at this year’s FinovateFall event, taking place September 13 through 15 online and in-person in New York City. These demos, combined with a full lineup of keynotes and panel discussions,"
+    publishedDateTime: 2021-09-10T14:33:00Z
+    webUrl: "https://finovate.com/beyond-trendy-fintech-themes-at-finovatefall/"
+    type: article
+    provider:
+      name: finovate.com
+      domain: finovate.com
+    quality: 24
+    images:
+      - url: "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/sam-moqadam-3KQq6cD_fkE-unsplash-scaled.jpg"
+        width: 2560
+        height: 1849
+        isCached: true
   - title: "5 Reasons I Just Bought ZoomInfo Stock | Fintech Zoom"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
     publishedDateTime: 2021-09-10T19:14:00Z
@@ -185,20 +199,6 @@ related:
       - url: "https://static.timesofisrael.com/blogs/uploads/2021/09/Fintech-Israel.jpg"
         width: 1800
         height: 1200
-        isCached: true
-  - title: "Fintech investor Chrysalis appoints industry veteran Margaret O’Connor to board"
-    excerpt: "O’Connor was a founding member of Mastercard Asia Pacific and currently holds a number of board positions in Africa-centric companies."
-    publishedDateTime: 2021-09-06T09:34:00Z
-    webUrl: "https://www.altfi.com/article/8290_fintech-investor-chrysalis-appoints-industry-veteran-margaret-oconnor-to-board"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 20
-    images:
-      - url: "https://www.altfi.com/images/featured/fintech-investor-chrysalis-appoints-industry-veteran-margaret-oconnor-to-board.jpg"
-        width: 1200
-        height: 719
         isCached: true
   - title: "The new AIFinTech100 is launched to highlight the industry-leading Artificial Intelligence companies driving the future of financial services"
     excerpt: "FinTech Global, the specialist research and intelligence firm, today launches the new AIFinTech100 to list the most innovative companies offering Artificial Intelligence (AL) and Machine Learning (ML) technology solutions to the financial services industry."

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Employing Sentiment Analytics To Address Citizens' Problems"
+    excerpt: "One of the primary roles of any government is to understand the pulse of their people before making decisions and creating policies for them. The use of sentiment analytics with tools such as AI and NLP allows public bodies to understand the issues of their citizens and proactively address them."
+    publishedDateTime: 2021-09-10T14:54:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2021/09/10/employing-sentiment-analytics-to-address-citizens-problems/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/09/10/employing-sentiment-analytics-to-address-citizens-problems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/09/10/employing-sentiment-analytics-to-address-citizens-problems/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612a5fe11444398a55b0da5e%2F0x0.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "How to achieve data supremacy using analytics and machine learning"
     excerpt: "With consumer behaviour heavily weighted towards speed and convenience, retailers need a renewed focus on the customer journey, says Andy MacInnes, chief technology officer at Appsbroker."
     publishedDateTime: 2021-09-09T05:00:00Z
@@ -157,7 +173,7 @@ related:
   - title: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents"
     excerpt: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents. Sep 09, 2021 11:15 AM ET. Legal Newswire POWERED BY LAW.COM . Lex Machina, a LexisN"
     publishedDateTime: 2021-09-09T15:15:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?news=c3pDaHNWQ2ppajQ4NkUycVhJY21xUT09"
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2910937"
     type: article
     provider:
       name: Law

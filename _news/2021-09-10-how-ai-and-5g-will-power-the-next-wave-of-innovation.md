@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI/ML Innovations' Health Gauge Partners with AI-on-Call to Deploy an Acute Illness Early Diagnosis Solution"
-    excerpt: "HG's smartwatch solution and AI-driven cloud platform combine with AI-on-Call's novel protocols and algorithms to improve the timely capture of requisite health data, support the rapid identification and prioritization of at-risk patients for sepsis and acute illness,"
-    publishedDateTime: 2021-09-07T13:07:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/09/07/ai-ml-innovations-health-gauge-partners-with-ai-on-call-to-deploy-an-acute"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
 
 secured: "uBfF8jVGmKohtUeRSPRSPLyCKxWQ9gKlORfkMjFLWxR1nVW6P5jEA9hu2CgFUu7ql9qpm3kkNnejygyyag1zKA+tEtF3JJp62IiZB58qa0GaPTI5qQaC+/izZITk38JIxgZ5pcU+lytEZCJn/AFHa02mW6kdZCbsbr9vS+BXTkFr2XmwSHLAmJAMLjB1f5hq7LBsXN+OiHTNyz4aud8ZvFREzsF7NI/ZDTJVeFYZgn8VxPYDYY6NOPM1Pu2zI7wTQxulwXruCbW5mt+tLVJPSkZCBH6+t1euODh0WheUod1VgurLhGg6m72sedFptSlCnYj99CCCfbyz5M1Ds3EFB5tXhrLbKzSy11KvnMANQKzSc33xhNTolhkCVRTQ+tz15ExMMpdS0vxbuz/0/L0GbX5WSdQXF1Ycj07fsFSOgmE+9P5vmWgGlXHKZYnXjvgJ3rRXowg4mdTm68thrISMhv3yowMwSXe3zSYINs63cbD9vPHx9Keq4WEuwUmbRHyRUmD6ZFQnzxU4glD0VHdzaw==;Qiy/RJbAFgOLLIWJtcXjWA=="
 ---

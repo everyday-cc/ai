@@ -1,53 +1,30 @@
 ---
 category: news
-title: "AI/ML Innovations' Health Gauge Partners with AI-on-Call to Deploy an Acute Illness Early Diagnosis Solution"
-excerpt: "HG's smartwatch solution and AI-driven cloud platform combine with AI-on-Call's novel protocols and algorithms to improve the timely capture of requisite health data, support the rapid identification and prioritization of at-risk patients for sepsis and acute illness,"
-publishedDateTime: 2021-09-07T13:07:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/09/07/ai-ml-innovations-health-gauge-partners-with-ai-on-call-to-deploy-an-acute"
-webUrl: "https://stockhouse.com/news/press-releases/2021/09/07/ai-ml-innovations-health-gauge-partners-with-ai-on-call-to-deploy-an-acute"
+title: "AI/ML Innovations’ Health Gauge Partners with AI-on-Call to Deploy an Acute Illness Early Diagnosis Solution"
+excerpt: "TORONTO, ON / ACCESSWIRE / September 7, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
+publishedDateTime: 2021-09-07T11:31:00Z
+originalUrl: "https://apnews.com/press-release/Accesswire/technology-business-canada-seniors-artificial-intelligence-058e14ce7f7630450ff2994933dbacf1"
+webUrl: "https://apnews.com/press-release/Accesswire/technology-business-canada-seniors-artificial-intelligence-058e14ce7f7630450ff2994933dbacf1"
 type: article
-quality: 17
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-related:
-  - title: "How AI Will Drive The Precision Health Research Revolution Through 2030"
-    excerpt: "Ethical AI will be critical to widespread AI adoption. Algorithms used in care delivery must perform well across diverse patient populations."
-    publishedDateTime: 2021-09-10T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI and 5G will power the next wave of innovation"
-    excerpt: "Here are four real-world examples of where the combination of AI and 5G connectivity is reshaping industries. By Zeus Kerravala | September 10, 2021 -- 22:54 GMT (15:54 PDT) | Topic: 5G In the next 10 years,"
-    publishedDateTime: 2021-09-10T05:54:00Z
-    webUrl: "https://www.zdnet.com/article/how-ai-and-5g-will-power-the-next-wave-of-innovation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-and-5g-will-power-the-next-wave-of-innovation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-5g-will-power-the-next-wave-of-innovation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "pcVVZmIJjZ8ITCB2fSo6rSQ0ELqaXsbNMM6fCUfpt2MTSzZFi0hgjaq5G9AWjrdnjggtAt3z8xNeTFez5TIQTyl3eepLniXJtf/2HlLPMoAL7EUhHr6PzAg+GxE3Gmwi3izp5HXCpIwJf6dInA+d9KD7dPAeSUErCmHcKQGm/PclRNFMKM8+jm0DJoX6D/Bjqq31tdB6K3oM50XKkDa2IdRTtcJ8rPnLBFsjAL/5KYURzGuf7O5d7F5hFpLhAblp+3Ow9f/YCBpF6staTp/rgnK1LWeJFEXFdzWQF/2tYcgP8DXdpUIVOxWJhnlZRMM+aCI91RBj5tkcA9DIHZMPtPH7d33g8mc1yEJp4gnw7zs=;h/d+2mMlaA0gm1EAec+Knw=="
+secured: "E5Pf+oJdtK57W1f/e7VRSew/aGTVegKjyN33H2ZTUiJu3udzREtC3IGaXnQkB9eEhW03PkVHTaGJvYItnkNozkMCFqz6Tvjf84Z3hO9bn9hleFR+u3jOEbwtz9XMjiDbs2KOLzsw2UlVJY0/+C0bs0mY1uoKlkXHOCRJwN4pYD9dj7gv44jRoIZSKmBojK0Y/W4IDYvKljW9bnLK42tblXni9VwMR3FPPDAg9RmHLLsYXDVhjY3rqrmfWn1GEbPwtjoJW4M6y3/SoQi5DHnda176DhG2p/2BGwHbS8B/CbKoxIskSxa6uqlbqC8sLQkg/BmbZJfx/U+k0f5Uv7peAnCgccYblGgppH83DA7Cll0=;xexqnOpXLIaJcxISEbjOwg=="
 ---
 

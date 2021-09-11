@@ -2,39 +2,6 @@
   "page": 111,
   "value": [
     {
-      "path": "_news/2021-06-22-intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-challenges-in-north-america.md",
-      "title": "Intuit Launches New Accelerator for AI-focused Startups to Help Communities Overcome Financial Challenges in North America",
-      "excerpt": "Intuit and Highline Beta launch new accelerator for AI-focused startups to help communities overcome financial challenges in North America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210622005286/en/Intuit-Launches-New-Accelerator-for-AI-focused-Startups-to-Help-Communities-Overcome-Financial-Challenges-in-North-America",
-      "originalUrl": "https://www.businesswire.com/news/home/20210622005286/en/Intuit-Launches-New-Accelerator-for-AI-focused-Startups-to-Help-Communities-Overcome-Financial-Challenges-in-North-America",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-how-ai-can-help-with-your-digital-workflow-transformation-initiatives.md",
       "title": "How AI Can Help With Your Digital Workflow Transformation Initiatives",
       "excerpt": "If organizations want to get further down the road (faster) in their digital transformation journey, they’re going to need fuel. And not just any type will cut it: They need artificial intelligence. Over the last few years,",
@@ -1159,6 +1126,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-earlybirds-explores-why-gov-and-industry-are-investing-in-artificial-intelligence.md",
+      "title": "EarlyBirds Explores Why Gov and Industry Are Investing in Artificial Intelligence",
+      "excerpt": "EarlyBirds, the Australian company that operates the Early Birds Marketplace, a business to business (B2B) open ecosystem that enables innovators, early adopters, and subject matter experts (SMEs) to get together and push for technology advancement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressadvantage.com/story/43974-earlybirds-explores-why-gov-and-industry-are-investing-in-artificial-intelligence",
+      "originalUrl": "https://www.pressadvantage.com/story/43974-earlybirds-explores-why-gov-and-industry-are-investing-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.pressadvantage.com/uploads/organization/9695/EB_logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pressadvantage.com",
+        "domain": "pressadvantage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.manmonthly.com.au/news/microsoft-explores-machine-lear
 webUrl: "https://www.manmonthly.com.au/news/microsoft-explores-machine-learning-space-aiml/"
 type: article
 quality: 86
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -143,20 +143,6 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
-    excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
-    publishedDateTime: 2021-09-06T10:14:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/verizon-launches-private-mobile-edge-cloud-computing-service-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 49
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ice-mobility-700x393.2e16d0ba.fill-1200x630.jpg"
-        width: 700
-        height: 369
         isCached: true
   - title: "Microsoft And Oyo Collaborates To Develop Next-Gen Hotel Technologies"
     excerpt: "The American tech giant Microsoft and Indian company Oyo have established a multi-year strategic agreement to collaborate on the development of next-generation travel and hospital"

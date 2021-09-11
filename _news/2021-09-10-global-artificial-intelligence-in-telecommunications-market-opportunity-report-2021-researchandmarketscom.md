@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22877188"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22877188"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Chipsets Market to Generate Exciting Opportunities in the Industry by 2025"
-    excerpt: "A complete research offering of comprehensive analysis of the market share size recent developments and trends can be availed in this latest report by Big Market Research As per the report the Global Artificial Intelligence Chipsets Market is anticipated to"
-    publishedDateTime: 2021-09-09T14:29:00Z
-    webUrl: "https://www.openpr.com/news/2388354/global-artificial-intelligence-chipsets-market-to-generate"
-    ampWebUrl: "https://www.openpr.com/amp/2388354/global-artificial-intelligence-chipsets-market-to-generate"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2388354/global-artificial-intelligence-chipsets-market-to-generate"
+  - title: "Global Location Intelligence Market Report 2021: Increasingly AI-driven Mapping Services Shifting Competitive Dynamics of Mapping - ResearchAndMarkets"
+    excerpt: "[General]Fosun International Announces 2021 I.. [General]Qudian Inc. to Report Second Quarter.. [Startup]British AI tech firm Kortical beats .. [General]The Indonesian Ministry of Tourism a.. [Automobile]Bicester Heritage-based creatives Ra.. [CES 2021] LG ..."
+    publishedDateTime: 2021-09-08T09:48:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=527236"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://cdn.openpr.com/U/9/U909419779_g.jpg"
-        width: 800
-        height: 385
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "5tAiSH0OJ5cc4/SATmhBSXOR1Cf5dNj/4CynPT+7W/j4iAOA/a8EDtj3q6+JIIBN+3Cgn40poUIr7/gWtgUCcjKAvUw2f81Zl3hNtqfNOxb+7XZkq7tQcz1KHmGhsaHsNFyS4/IdyNYzNKxfZv2QDyP14atOubEqV9t3BMEPE7RHm/jweKmzvw8A6mAFyp4ScaYZjf3GIWvosY8+uJ50S71/ljFKAx51eO1Kkdg73oqX7Wywca1NjDz8eL9/JyqXpwPaNwfVl6XrHrteEnwETBWUEFz5Labu7V9cINUmkNfu5m036DtaDs/XTSGuZVusfQ6JYS1vbWZkuk+6KzBr5Iz4KshZdcYz5QynquPUCWY=;q1aEF59cOHp3jlvWEtz0mA=="

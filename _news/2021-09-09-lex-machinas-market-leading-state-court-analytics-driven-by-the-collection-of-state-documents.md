@@ -3,8 +3,8 @@ category: news
 title: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents"
 excerpt: "Lex Machina's Market-Leading State Court Analytics Driven By The Collection Of State Documents. Sep 09, 2021 11:15 AM ET. Legal Newswire POWERED BY LAW.COM . Lex Machina, a LexisN"
 publishedDateTime: 2021-09-09T15:15:00Z
-originalUrl: "https://www.law.com/legalnewswire/news.php?news=c3pDaHNWQ2ppajQ4NkUycVhJY21xUT09"
-webUrl: "https://www.law.com/legalnewswire/news.php?news=c3pDaHNWQ2ppajQ4NkUycVhJY21xUT09"
+originalUrl: "https://www.law.com/legalnewswire/news.php?id=2910937"
+webUrl: "https://www.law.com/legalnewswire/news.php?id=2910937"
 type: article
 quality: 12
 heat: -1
@@ -40,6 +40,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/databases.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Employing Sentiment Analytics To Address Citizens' Problems"
+    excerpt: "One of the primary roles of any government is to understand the pulse of their people before making decisions and creating policies for them. The use of sentiment analytics with tools such as AI and NLP allows public bodies to understand the issues of their citizens and proactively address them."
+    publishedDateTime: 2021-09-10T14:54:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2021/09/10/employing-sentiment-analytics-to-address-citizens-problems/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2021/09/10/employing-sentiment-analytics-to-address-citizens-problems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/09/10/employing-sentiment-analytics-to-address-citizens-problems/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612a5fe11444398a55b0da5e%2F0x0.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "NSW Transport taps into AI and data analytics to improve road safety"
     excerpt: "A method is being developed using AI to help Australian governments improve how safety standards of highways across the country are assessed."
@@ -202,6 +218,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Qzs4czGIfyU0w+FMSL4aku/UrmVn6DA1XNbkFHpn5nLdqLs6x1zqcbZe4f+bukpkb9tcVU19b+IW1eftT5YZhJzqkZRfldQK56s7uBY+dtgivGEu8Nzt3vBJSjypNf/fPDRhF4qiXQ48lSpsgy23T+nACfLBjN7cJl3uJhB56pX6tYpRnhaIaE19uC99BkGcGFKjBosec9n+KeVZkt/Sp6XjVHIwUzMBo11RwaY7zIMQkAJVHpji13A/Dznh/4fSOdTtietHZErGd278gNhl6k+zrgBqqaWYGMka5sdDAltQwi28wFAziS8AIw07LxJEI5dXcBXeoRXmhoLq73Evg4OzrmxQjrXOgE5SDm5Xjjo=;DtMI7Q+E9TWu+ps3PRGiGQ=="
+secured: "yHqSUldZzFB47B1rPMCpGi5kdrmj2dPL0m+u6SoV4rTcp/OA4U0+UIIN8L4W/Vd8dLcFMenwBCp1oYl7PGBj7DnH7lu2egAKXZGbxSAzOkT2p0nAmw+8oTYszC7XW5TtJqHZ5gBlr3KKL/XrgkgzwPoLO/EALtMbrFLkfPZhVkkETuz7OnvjxbQj22/8qmJrx4J96lQoYxhxIW+ibmB5jhe+mtrvS1vz1kGKUbPVv+jVUYvfZvL0mHKiBqnyEoV9MdhYNYCoiexwnKAtc6SvtmZYzxJxjMxVp+4VnrbSG3sdzLcooUdjtX/1/ub0xFaH8mWf5h6b/tpsoPsiAViGByAzoBbILgxGKtzPjsBoqqo=;9TuLDAMB30Wdf4SjqcBE9Q=="
 ---
 

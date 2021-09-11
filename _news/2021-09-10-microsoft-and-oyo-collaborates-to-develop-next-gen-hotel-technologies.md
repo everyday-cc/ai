@@ -157,20 +157,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Verizon launches private mobile Edge cloud computing service with Microsoft Azure"
-    excerpt: "Verizon has launched an on-premises, private Edge compute solution in partnership with Microsoft Azure. Verizon 5G Edge with Microsoft Azure Stack Edge is a cloud computing platform that brings compute and storage services to the edge of the network at the customer premises."
-    publishedDateTime: 2021-09-06T10:14:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/verizon-launches-private-mobile-edge-cloud-computing-service-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 49
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/ice-mobility-700x393.2e16d0ba.fill-1200x630.jpg"
-        width: 700
-        height: 369
-        isCached: true
   - title: "Tips & Tricks - how to get the most out of the new Microsoft Start experience"
     excerpt: "You've probably heard of Microsoft Start, and we'll now explain some of our favorite tips and tricks for the experience."
     publishedDateTime: 2021-09-08T14:53:00Z
