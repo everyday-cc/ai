@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T20:00:00Z
 originalUrl: "https://venturebeat.com/2021/09/20/ai-could-help-companies-keep-up-with-app-boom/"
 webUrl: "https://venturebeat.com/2021/09/20/ai-could-help-companies-keep-up-with-app-boom/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

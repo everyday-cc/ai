@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T19:58:00Z
 originalUrl: "https://finchannel.com/plant-scientists-will-use-artificial-intelligence-to-make-crops-more-resilient/"
 webUrl: "https://finchannel.com/plant-scientists-will-use-artificial-intelligence-to-make-crops-more-resilient/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Financial

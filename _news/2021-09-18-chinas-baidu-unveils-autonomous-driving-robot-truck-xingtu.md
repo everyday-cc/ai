@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/companies/article/3149206/chinas-baidu
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 582
         height: 388
         isCached: true
+  - title: "Baidu DeepWay unveils autonomous truck"
+    excerpt: "Baidu DeepWay unveils autonomous truck September 18, 2021 by Mai Tao Leave a Comment    DeepWay, a Baidu-backed company, has unve"
+    publishedDateTime: 2021-09-20T06:16:00Z
+    webUrl: "https://menafn.com/1102820421/Baidu-DeepWay-unveils-autonomous-truck&source=29"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
 
 secured: "kX7jFjBrlHOBIfyc+XhXRYQAK8D7F5rs1bX8hbWnndoFhgZHBxLCQTTB9/TyoYmqMcPPr2WWCx+mjfxDio27mlnnatgyFOkUZKcVARczkknNhB6vd4QTx1f3b2q23hNPGPtgfuIdhuJduzQHUkCEcVgQVhKZ1rB3yyGuXF0Oztdilg6h+fHypCIWKLW5Yu4hXyfFxfZBsqBAn4521PXfVGUaywHc/Bj3uAm/SPcfA6+cJ9iS7qiqcC5vyl0DVpHF47Grr6iQEWbXqBy1VD9Lwl5b394Hub7hGNyWrt+m7Zcn5nh/HvmqWyLKLvMCGJQy5WXYZAJGtbg9x2HYNyJ+AfutP7O+9OJFaYht4tStj1mFy1ce0+deVE7Gr9PzxTEVY6kdG/62mdTB3ZMv0hcpMnYzy2AxMYpxwR2/KG+iQRdWXUPLreLfsK0Rjxsonv2K+AeKgUYp2MlpT5rXg/kuwvQgncnCTj+cv2BBgaAQVnzYWDVn7CtxcCCD41fhg3oITVRmeGr5zNAZlesnxI90PA==;wk51XSlb713gL96ltO1+mw=="
 ---

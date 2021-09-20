@@ -55,6 +55,15 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Baidu DeepWay unveils autonomous truck"
+    excerpt: "Baidu DeepWay unveils autonomous truck September 18, 2021 by Mai Tao Leave a Comment    DeepWay, a Baidu-backed company, has unve"
+    publishedDateTime: 2021-09-20T06:16:00Z
+    webUrl: "https://menafn.com/1102820421/Baidu-DeepWay-unveils-autonomous-truck&source=29"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
 
 secured: "J1TiQcNsRPDaf45gX1ZwJ/L0FMHIknQHaZflAPnL/OJVxjt0xtIELhkm8c2ppRhnFvG6HOVma/SarYAUFLFGBJNInmEKi9iT8EPbd6Pzxt+886cUN0XeYwgTE/905KaLLnySSKIS0C1flRg8bRtRpD7D116q/qStWc7GGmJ5yVv3uqyerDhCeMefoqvTK/ZKGe44KYJb2bwpsmoUDBzStvL7sQiRWl++Xu/nEAqjesiP+gmqGDhh5DYt23yQeKYY0qN8mv8NVQspbTf0V3yYlhq1FIXZTu3z+XYTu10cZAzYsW6IxmVDJEXb/FdPI4CcWftM91gf36nwfsrQ0+7RlNjfroVUMlTCkJL0g1kMqA0=;vr7bp9xyCz4Wh9pshBG2Iw=="
 ---

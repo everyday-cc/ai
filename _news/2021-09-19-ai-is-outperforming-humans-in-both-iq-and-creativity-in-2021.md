@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-18T17:41:00Z
 originalUrl: "https://www.wicz.com/story/44759377/ai-is-outperforming-humans-in-both-iq-and-creativity-in-2021"
 webUrl: "https://www.wicz.com/story/44759377/ai-is-outperforming-humans-in-both-iq-and-creativity-in-2021"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: FOX 40 WICZ TV

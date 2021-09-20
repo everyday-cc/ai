@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-20T13:32:00Z
 originalUrl: "https://businessmirror.com.ph/2021/09/20/artificial-intelligence-the-road-to-data-privacy-and-ethics/"
 webUrl: "https://businessmirror.com.ph/2021/09/20/artificial-intelligence-the-road-to-data-privacy-and-ethics/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:

@@ -8,7 +8,7 @@ webUrl: "https://manometcurrent.com/artificial-intelligence-systems-spending-mar
 ampWebUrl: "https://manometcurrent.com/artificial-intelligence-systems-spending-market-revenue-forecast-overview-and-key-companies-analysis-by-2028/?amp=1"
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-systems-spending-market-revenue-forecast-overview-and-key-companies-analysis-by-2028/?amp=1"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 

@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T18:07:00Z
 originalUrl: "https://www.usatoday.com/story/entertainment/2021/09/20/bts-addresses-united-nations-unveils-new-music-video/5786358001/"
 webUrl: "https://www.usatoday.com/story/entertainment/2021/09/20/bts-addresses-united-nations-unveils-new-music-video/5786358001/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: USA Today

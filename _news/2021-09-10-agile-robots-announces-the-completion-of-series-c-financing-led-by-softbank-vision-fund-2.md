@@ -2,52 +2,25 @@
 category: news
 title: "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2"
 excerpt: "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,"
-publishedDateTime: 2021-09-10T12:56:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2021/09/10/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2/17434/"
-webUrl: "https://www.roboticstomorrow.com/news/2021/09/10/agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2/17434/"
+publishedDateTime: 2021-09-10T03:53:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-china-beijing-cb84803ca1add151f0b84e73a4ad8914"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-china-beijing-cb84803ca1add151f0b84e73a4ad8914"
 type: article
-quality: 10
-heat: -1
-published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Agile Robots closes $220M Series C funding"
-    excerpt: "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach."
-    publishedDateTime: 2021-09-10T18:47:00Z
-    webUrl: "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg"
-        width: 770
-        height: 500
-        isCached: true
-  - title: "Agile Robots collects $220 million in Series C financing with Softbank"
-    excerpt: "With the DLR as its technical backbone and the core concept of \"artificial intelligence (AI) empowerment\", the company is committed to develop the deep integration and innovation of AI and robotics and expanding the application of robotics in more fields."
-    publishedDateTime: 2021-09-07T09:23:00Z
-    webUrl: "https://www.globaltimes.cn/page/202109/1233563.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-04-16/da200ede-539b-434e-9b2e-aaed42fdc47e.jpeg"
-        width: 800
-        height: 480
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "RljZpaF3yQXs/BVjfWZfG/+65OpiWylG8G+w7DF22XmyfXmfGVJQ/wovdH8b0wIUcftOaX3hN8zkGJYA5b2LClGHWV8A1Gs4JiAuq0jsPGtAtacKw+Bd+eEmq3aXQA68RjcIDJxexlmUD4LIMlZXP24ADuzwSBHxKwKIwOGzST6bVvOSVDcr0Pmp8L4g7Q2qYek6pE+4ekJbQQ+Eg1T6MqZo5JTtp7VkqjpAtE9lhlDP/rFxsyKPNRfXuK3q4JX/SsaCHt7NpwaUgC9yKbKgTa02yYLk0HLU66lFCrEIMGH/w/z7SPKVIPd3dGL1dyxi9TdqeAEY3HVGlK7PJw+Y8QbUstySoqAGPtcyTJEZ0ek=;gumn/SERkolkn93gFWopig=="
+secured: "xc5uPlICns3UFPQm/6RVsMGLgyRrscqdxb7Q5l+JwC6/7s3iWCzPOxS3s5X+pTsbF3i4fHBnLqGK3JaZ+xn3iG+zI9JY7G2qESxG49e5AHLBiomKzCf7Qq/ViAbB0LD/yrw5HArV2rgp2PKz85710+Pxzzr/hkufiE+URSr5/N7bJYDNqJDg/wQ13FSJWUVuRIPPejrnFRikSizzm3DvxsS0AV3B1upMsanwFiwnq+YXXvP//LKNsD5fFF/jOiMihvahBi4w6/ECmGTGdvHYlYcqCsi8/ZOSyvk5A8YkUbJm2nezvK/f4gcfTOgJrbnszLlHcT9ttizP9TRF2Y+iwvILyXx/PN8EojVhcoE3W1A=;fJQ3ItU6em4+MFB5TAe5qw=="
 ---
 

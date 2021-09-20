@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-16T14:39:00Z
 originalUrl: "https://www.nasdaq.com/articles/5-fintech-stocks-to-watch-as-goldman-acquires-greensky-2021-09-16"
 webUrl: "https://www.nasdaq.com/articles/5-fintech-stocks-to-watch-as-goldman-acquires-greensky-2021-09-16"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

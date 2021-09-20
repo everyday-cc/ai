@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T18:17:00Z
 originalUrl: "https://visualstudiomagazine.com/articles/2021/09/20/dataset-similarity.aspx"
 webUrl: "https://visualstudiomagazine.com/articles/2021/09/20/dataset-similarity.aspx"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Visual Studio Magazine

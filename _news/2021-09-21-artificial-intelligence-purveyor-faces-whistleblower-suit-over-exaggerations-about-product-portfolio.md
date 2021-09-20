@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T18:11:00Z
 originalUrl: "https://www.law.com/njlawjournal/2021/09/20/artificial-intelligence-purveyor-faces-whistleblower-suit-over-exaggerations-about-product-portfolio/"
 webUrl: "https://www.law.com/njlawjournal/2021/09/20/artificial-intelligence-purveyor-faces-whistleblower-suit-over-exaggerations-about-product-portfolio/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Law

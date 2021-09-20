@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T18:50:00Z
 originalUrl: "https://venturebeat.com/2021/09/20/falsehoods-more-likely-with-large-language-models/"
 webUrl: "https://venturebeat.com/2021/09/20/falsehoods-more-likely-with-large-language-models/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

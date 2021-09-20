@@ -47,7 +47,7 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg"
         width: 390

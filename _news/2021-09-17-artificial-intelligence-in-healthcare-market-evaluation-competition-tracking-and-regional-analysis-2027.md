@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI Making Headway in Powerful Healthcare Chatbots"
-    excerpt: "Conversational AI chatbots are now being used widely in healthcare, from helping patients with medical consultations to diet coaching."
-    publishedDateTime: 2021-09-17T15:05:00Z
-    webUrl: "https://www.aitrends.com/bots/conversational-ai-making-headway-in-powerful-healthcare-chatbots/"
+  - title: "Putting the human back into the equation: Personalization and AI-driven digital banking experiences"
+    excerpt: "As more consumers turn to digital tools to manage their finances, banks must be proactive ini creating contextually-relevant experiences ."
+    publishedDateTime: 2021-09-20T20:20:00Z
+    webUrl: "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/"
+    ampWebUrl: "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/"
     type: article
     provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 56
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
     images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/09/9-17HealthcareChatbot-2.jpeg"
-        width: 550
-        height: 366
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-597064809.jpg?w=1200&strip=all"
+        width: 1200
+        height: 618
+        isCached: true
+  - title: "Machine Learning Operationalization Software Market Expected to Develop by 2027 with COVID-19 Analysis | IBM, Microsoft"
+    excerpt: "This Machine Learning Operationalization Software market analysis flashes light on company profiles product specifications capacity and the most importantly market shares for each industry Three most prominent sectors discussed here are product type competition section and end use section It"
+    publishedDateTime: 2021-09-20T14:19:00Z
+    webUrl: "https://www.openpr.com/news/2399442/machine-learning-operationalization-software-market-expected"
+    ampWebUrl: "https://www.openpr.com/amp/2399442/machine-learning-operationalization-software-market-expected"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2399442/machine-learning-operationalization-software-market-expected"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/U/9/U920196179_g.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Machines on a Mission: 10 Fiction-Busting Facts About AI Implementation"
+    excerpt: "Thanks to the evolution of data, cloud and compute power, AI can be implemented with greater ease, for less cost and with fewer resources than ever before. Still, myths and misconceptions about this emerging technology remain."
+    publishedDateTime: 2021-09-20T21:00:00Z
+    webUrl: "https://www.govexec.com/assets/machines-mission-10-fiction-busting-facts.pdf"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 37
+    images:
+      - url: "https://cdn.govexec.com/media/screen_shot_2021-09-20_at_4.25.16_pm.png"
+        width: 1352
+        height: 1750
         isCached: true
 
 secured: "y//g8Np0qpPnV/bVi2Q56GquPLyTsB85wvBcfPzpT77HUSZrtWZN+reL8rwgUOYCKJWh4oylPyWkQTGkIeJJ+EJ1Xmzj3yeNLAeRjLZHXV0P2USwCZUHaGnAlDDPgZXvusgw7uJf+4LSY7A6GL13dC84VRxEVhVbn5VVh6UbbhgtXdobn/yoxFX6Gt+rDuQXaO1K/UkSWACMW7D/jDYrcBl3FHUmAh2vZgbyJSndFnCZJ+Bq2RO8rTjlC7hiZvho1eSPw7qttvWgyw2c1wJYkoujXJo1j1cYhwACVWlJsZL3YXU0+0p29DITrbSN8lIGDwDnlncaW/EPNo8bod2lqrGj33l7/ezdVdBs2rE2utw=;H2BmE8q2UhSoMJdJAY0A6Q=="

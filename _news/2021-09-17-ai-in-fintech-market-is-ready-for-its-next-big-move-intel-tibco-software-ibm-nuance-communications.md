@@ -33,6 +33,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "RPA and AI in Banking Market Likely To Boost Future Growth By 2027 | Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting"
+    excerpt: "The report covers briefly the products or services in the market and their application. The report also provides information on the technological […]"
+    publishedDateTime: 2021-09-20T06:23:00Z
+    webUrl: "https://www.globalbankingandfinance.com/rpa-and-ai-in-banking-market-likely-to-boost-future-growth-by-2027-cognizant-capgemini-accenture-fintech-singapore-the-lab-consulting/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 0
 
 secured: "q9foKyJoZVCW/dTO37RNKKUiSITw3zGtMcnvQ9303mEi2aga/2FR5Ecc9Li1X15AeXZwd/assAuPAt+5UxHFTaXIQGau9hzbxyHuax6RjTrn3+9KZrA9dTIm0PTNyRYUppG7+ntoPydb/No/qlVHNpKpbUdhVk0DQEzQV02/pZahsrhXjCWMP7E4JIFEtwvijW7TNOc470er0obYSRBZ52269Ev216MuhJPe4SGBMrRZhwqJ5A2+2aPZ6IRJVVGG4zLLymECjb+xfc4fdmqCQ83QXcuNT3QO3TZX8XtzbDSBQRt5J7gb5v7FrO9LHa36fJ0qhPXQQ759wCICe4H8G6G/omohYv/T1BW9Qah7NUk=;my/gGTik5UJu3d2bFsnFpw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-16T17:15:00Z
 originalUrl: "https://www.enr.com/articles/52424-tech-startup-togalai-deploys-algorithms-to-automate-2d-takeoffs"
 webUrl: "https://www.enr.com/articles/52424-tech-startup-togalai-deploys-algorithms-to-automate-2d-takeoffs"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Engineering News-Record

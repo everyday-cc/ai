@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Logiq Joins Forces with Novaji Introserve to Offer Home Delivery and Mobile Fintech Services to Millions of Underserved and Unbanked in Nigeria"
-excerpt: "Logiq Joins Forces with Novaji Introserve to Offer Home Delivery and Mobile Fintech Services to Millions of Underserved and Unbanked in Nigeria. NEW YORK, Sept. 20, 2021 (GLOBE NE"
-publishedDateTime: 2021-09-20T15:47:00Z
-originalUrl: "https://www.mobilitytechzone.com/wimax/news/2021/09/20/9452331.htm"
-webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/09/20/9452331.htm"
+excerpt: "As a government-licensed value-added services and fintech provider, Novaji would deploy Logiq’s GoLogiq and PayLogiq platforms to offer home delivery services, mobile digital wallet and point of sale,"
+publishedDateTime: 2021-09-20T14:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-logiq-joins-forces-with-novaji-introserve-offer-home-/2021/09/20/9452331.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-logiq-joins-forces-with-novaji-introserve-offer-home-/2021/09/20/9452331.htm"
 type: article
-quality: 3
-heat: 3
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-    width: 1577
-    height: 1050
-    isCached: true
-
-secured: "1cY81XkpyFVQ2ELdh5fbraV1g5EOmwAolA/5idpMPNFvtbzhiVFmLVtrlZlHvvn8R8tBCK+jvXpz5d50TyIoWppsZ95CxdSyk3bBiSs4N/HUSn6TNHttfH5d5k+OaXrX3h/W3r7ibxBr/e76gAPwyzsn8MvXTr2Q1BNBR8WEhmt5zEEiBuGI7edmL5fUHvnh4+xkvJ48Lz+tJWvErHl0Vs/n564GmTr+Lq7Uw2RL9gr2z1RLL1B8aH+NV7pJdaA6pIAcv+PcXsbS4Z+GMAUObVLa8VO6GQmxA1gGQhUUfz46ACUXXh86dy4PE9Nv9UkFJCGJALYb34Hf0ttxWvqx3NWfRmdgblGXQxOoDMCYQcw=;h+zDcP9OiaNJWVJ3Gp0qdA=="
+secured: "V2A7XsstizfQUpc9aqs67H7glJRI8hDgLhEK/PhTYnpWM0oEUPtpFLzGgzGWKeZLzkqUEqunck/cQ3/YHhUWLGDoT94rm+oHb0jrZQvrQBE4ugXdbYoUBpUEqqS85U09t87YvgxqH5xeb3O++kXUUZs7lbGMWj1WBmWu5urBqtpNsq09rtXevfhiRtSUoj2zmYscZPUJ2zIG5MCKHbWy4PbY2Y0stvyJvxdZXLxJgNeaDoNkHuMmfIl20Glk0TzxFwfgwBfxe0lrIfWmhKA1SxkFRp/W/EySwIH5XLe3C5Tlydy59iuceRHyE4EqkEv+yL7Btxwx7rLVYqQgeQwsU/bEaK6R//3ybq6f6hvYsMQ=;hve2kzp7lAbcYu3zWyl3Rw=="
 ---
 

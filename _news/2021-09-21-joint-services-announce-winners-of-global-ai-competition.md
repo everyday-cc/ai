@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T19:07:00Z
 originalUrl: "https://www.army.mil/article/250419/joint_services_announce_winners_of_global_ai_competition"
 webUrl: "https://www.army.mil/article/250419/joint_services_announce_winners_of_global_ai_competition"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: United States Army

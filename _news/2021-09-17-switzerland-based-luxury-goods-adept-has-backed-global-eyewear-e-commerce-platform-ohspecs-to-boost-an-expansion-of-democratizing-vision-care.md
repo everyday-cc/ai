@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-17T11:07:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/switzerland-based-luxury-goods-adept-has-backed-global-eyewear-e-commerce-platform-ohspecs-to-boost/article_3d51c5e2-ecc9-5018-aa8f-75acc472615c.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/switzerland-based-luxury-goods-adept-has-backed-global-eyewear-e-commerce-platform-ohspecs-to-boost/article_3d51c5e2-ecc9-5018-aa8f-75acc472615c.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

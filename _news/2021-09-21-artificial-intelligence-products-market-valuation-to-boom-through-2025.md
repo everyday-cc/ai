@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T19:02:00Z
 originalUrl: "https://www.openpr.com/news/2399820/artificial-intelligence-products-market-valuation-to-boom"
 webUrl: "https://www.openpr.com/news/2399820/artificial-intelligence-products-market-valuation-to-boom"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: openpr.com

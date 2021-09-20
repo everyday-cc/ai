@@ -6,6 +6,9 @@ publishedDateTime: 2021-09-20T18:44:00Z
 originalUrl: "https://www.business-humanrights.org/en/latest-news/un-human-rights-office-publishes-report-on-artificial-intelligences-human-rights-impact-and-highlights-state-business-responsibilities/"
 webUrl: "https://www.business-humanrights.org/en/latest-news/un-human-rights-office-publishes-report-on-artificial-intelligences-human-rights-impact-and-highlights-state-business-responsibilities/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: 洗護用品和肥皂

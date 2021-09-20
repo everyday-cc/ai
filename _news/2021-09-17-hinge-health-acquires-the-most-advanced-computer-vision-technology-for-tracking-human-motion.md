@@ -1,20 +1,45 @@
 ---
 category: news
 title: "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion"
-excerpt: "Hinge Health, the world's #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch's three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry."
-publishedDateTime: 2021-09-17T11:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm"
+excerpt: "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry."
+publishedDateTime: 2021-09-17T11:02:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html"
 type: article
+quality: 28
+heat: -1
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "iLCDd3YUGKpKJtlzFQi67Mf1ArXxTpE5ZlLp8hYsmD7TL1HXq43ld2gvZ0OGAo056TaWg1cFY4UmjV5F3PmTvl+e/MFdN2j6lrWm/uNVJ2REbfYPBFoFkUDZyr5TJogvTWJ/L4SjecuS9rLKhAlRj4Tvzn8yCFw5cfKuhc+8QWXlTT0l83DlLxCeF6j8B2m3LI432c/Y4zQvJR3uUoVd6NvjDhoqoU+o4TNl1RPSdoeYhbXLqlZTZYjX7bz3YNoupWwi39eXAj9tALS0Khs1hzETDFvK1slvrkgkHZvOjsy88pKowOcUcxi47BVwEgwzeEBBMLHXQQCyl5YJMiq9J8THH7MDU99nOvRaXeXxHajTYIiiGqBnn/hYpSMawNzliBtASwtmWMQNIqGNTKGiRyFJMQejkX6ihrn+COkmdXFoXsbt+/ofxhKFoCeC51YnAzuQHYEIQ9zEhFLnCR8yMh4OOIhkjjsvLvrzqT9yA0+zHfY+W2FBWU1vXD9hF43AZPNeylc1vK5kPLV3zr65Hg==;sEtJDgX2snZpQZgBxs6w1g=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/8/a7/8a781877-c4e2-5795-bc6a-f62b66a436ce/6144795823a4b.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
+    isCached: true
+
+related:
+  - title: "Hinge Health Acquires wrnch Computer Vision Technology"
+    excerpt: "Hinge Health acquires wrnch, it announces. combining computer vision and motion sensors to deliver the most comprehensive and personalized digital physical therapy"
+    publishedDateTime: 2021-09-17T21:04:00Z
+    webUrl: "https://ptproductsonline.com/practice-management/telemedicine/hinge-health-acquires-wrnch-computer-vision-technology/"
+    type: article
+    provider:
+      name: Physical Therapy Products
+      domain: ptproductsonline.com
+    quality: 41
+    images:
+      - url: "https://ptproductsonline.com/wp-content/uploads/2021/06/acquisition3.jpg"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "eySzUNS+II43KiL2YG9ZD9jgaNQtR1lVCmtbWLH1lUshDupfOzV5SzwNPWNQ93Lr3HYbfNbThZjioVpGHs+K5mm0BNaZuVKXN/Cq94xxPoack0CeLi41Qn3chgfQw6m+cn4sXY/OJuN+EuAnVSNwi9Fi9zWtx457BecXpe19F7naKvRWc+2dczgqpdl2bNS+zHgdGK1zPhNeZQPrKKa8N7Ti0Vfl6TTnrZmaMjngQGB14EKgwSMm/o3Ij/a5FDBiuHnCR3/JYuAgMtXDTIew1o1Vj5TQ7jIKzjiFjTucPRXybGtQ8oaAkzJVIQms/+wO7Vv8NZVEoq5CYAxYGvwKg93nEDKqx5abBU7cqBpPlYE=;gCaLF/3skYo91hvLZGfu7w=="
 ---
 
