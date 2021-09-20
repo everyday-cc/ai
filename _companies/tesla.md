@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 578
+heat: 568
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 10924723
+  followers: 10989543
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "4dSUPYQ5ynpWsuGJkyci00U6bqGZ/Yzm21O2i8JfuARZSLIAuvzZL7yfM45595heBmHDWgM1lfvLbCGvqTQdT72Mz1whcYVRz6kPWnFmNPwLC1HLWCfgjtmD8LE9HdUG749jVDTd8iC6msu1gDAfVoGgsGoGiVdyqbD18u7DxqP31d4QH6IaJ5TiWhLhpDESP4DmV01yl8253jlvIjsMXmlhxU/1hGMbtM6CVuKLhqdqskBBNCfJFcIFuA52sG9CBYQotDF6OWeWWsg5zuRjfO/PG7FT5aqTdCNbtIjk0wopo0wX/v255g5EAAn66goR/Vs4f50ov1cJKrycuqOQLMlpeRuPP/jnQzI+BU3oZwtpR27b4J7QBq9GUOLOjPz0ptYH4Obnf8EiFvB1uBr/euNU8ZQvHK80NI6W/TcrF58=;C5xppTwl/+qJt2Ar0UElBA=="
+secured: "TRaPJWSSfpKIwOuHvvB3RnaGspoZ2RBsQVquUmEXAUvONDsIksqxxdkmjaEMrd4PajVYonuxEbWvS3iAbNx1iu1hvyozI+/FpwZ1j0EAPUyhkByelq6MJlUJ1rBrFCnCddhDafcvn6ORMZd7vJCsOUhWK8uh6j4LnpxJoK6VFbhFbqM+ZbfEdnCkZ9SfBJaObCZWM6KiyrW9tUf4XSj4ovAgcOuRXgBVAKUpnzdYfDeZWdPPgBL6758V4uno2ZU02vjyv9H6OOR/05TXS6GZvqm2ZARgtdA8Q+bX1Qj6Axq8uAGZaVX0wuJILiadTp44sQNsVZKnuQjxk5sGc7F4Vrj2jV/NSCtxmcU+F7MeSkaeJ0Uw9DWW5pzdqNpNogJ5e+yFHhQpRQQPRRsN20QNdimWbRzS8/A9zl2l/FxBLks=;g21x3bLKq3bSMcf606kWtg=="
 ---
 

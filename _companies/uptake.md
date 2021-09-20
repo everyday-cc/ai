@@ -2,7 +2,7 @@
 name: "Uptake Technologies"
 overview: "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50"
 type: "profile"
-heat: 58
+heat: 49
 
 website: https://www.uptake.com/
 
@@ -24,12 +24,12 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1414645878527250432/_LOhLblc_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1439964392926351363/R_qYwt3Z_400x400.png"
     width: 400
     height: 400
     isCached: true
     title: "Uptake Technologies"
 
-secured: "OD/bILzFca4YlWV6e2dwKipmULoKoSyQXCKjmJb9A7KTIq6zmf23PV5Iy6/WL+RPZV1Jbxkt4ppwp5f2fN9WRZtQi8RHWlR3ANzy3ZqQy/y3QPzSg2nlfXDOsyaB9afQ/l39oehcm0abOyRD/mlcRmh40R8hi6OahIoaKjiBv4rotynG7VcLRyVBO7vQIjpxUNNH3ZjHcZebJnHdKVh5YssQILfPHCN1qHUSiV4ssQoAFIS4UfMjNhHfcWTaX+DtrnWoNlmjhyEMPal2wW/VNPiYC2mAaglrvAspkZGuTI3SWZEj1LbWK4aOaDf+alh69Q66LaEbeQNZ//nL7bXCpbJ4XMfQipgOpQL9K2zb+e+jpcVh/FgzzJgF1t/hwsf2XvxS2BEURjdxnYzRiW+OuyeGyo9AMozyUUqE/FXQPM8=;OtFsZSnyLo/BRQfFyE6f8Q=="
+secured: "H8Xi0qamGZkpODoCXmHmhmZPV0fo8vtmeB6/CdRXcdtS0bHV/ZRdrrQAHKcnChrNKwiBgN87XEUW+qDeFCDfEpNumgqr2cCQfgW/SmqSWVf0zI9NKKiTPv5NpKRza78YQg8l7/mhHVqbzFN3i7EAFQesZeL4fEKJJAe6tFDX+IHX7iggUzRfPHUlXf1hJISGIdYYgipyBtFm9R+2WhMvl7Mn1lOkslUKn4B1/9r7VyUBAKlEgQTsLnrj0q2WGSS7CClqAL64aHPxyMiEs6h38MPedioP3vA9WzPXdOZH5I8OGP79zamXzc+1HM9Z/fUMR+y2pwlblDdPr+3g3lSg5Fl0Kw3rwM4RiSxw2FoxK7/Nx8LMMDmIXim+FC+ofy6uRQO8d5QE6cJK6UU3WUiNBQ8gCQ3ZIZG9oA6nnWmhapw=;EcKjGtQWBkA6AQNpvFCIlQ=="
 ---
 

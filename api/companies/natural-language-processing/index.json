@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 59583
+        "followers": 60515
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -42,62 +42,13 @@
           "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
         }
       ],
-      "heat": 278,
+      "heat": 274,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Hugging Face",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/grammarly.md",
-      "title": "Grammarly",
-      "excerpt": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/grammarly/index.json",
-      "webUrl": "https://everyday.cc/ai/company/grammarly/",
-      "type": "profile",
-      "name": "Grammarly",
-      "overview": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
-      "website": "http://grammarly.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/grammarly",
-        "followers": 23828
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/grammarly"
-      },
-      "twitter": {
-        "username": "grammarly",
-        "url": "https://twitter.com/grammarly",
-        "followers": 203364
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
-        }
-      ],
-      "heat": 253,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410678214947598336/dsD06UBM_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Grammarly",
           "isCached": true
         }
       ],
@@ -123,7 +74,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 21383
+        "followers": 22221
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -143,13 +94,62 @@
           "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
         }
       ],
-      "heat": 225,
+      "heat": 262,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1410973316152713221/EzAAH_y9_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Algolia",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/grammarly.md",
+      "title": "Grammarly",
+      "excerpt": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/grammarly/index.json",
+      "webUrl": "https://everyday.cc/ai/company/grammarly/",
+      "type": "profile",
+      "name": "Grammarly",
+      "overview": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
+      "website": "http://grammarly.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/grammarly",
+        "followers": 23828
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/grammarly"
+      },
+      "twitter": {
+        "username": "grammarly",
+        "url": "https://twitter.com/grammarly",
+        "followers": 203742
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
+        }
+      ],
+      "heat": 206,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410678214947598336/dsD06UBM_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Grammarly",
           "isCached": true
         }
       ],
@@ -175,7 +175,7 @@
       "twitter": {
         "username": "lingochamp",
         "url": "https://twitter.com/lingochamp",
-        "followers": 903
+        "followers": 944
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2012,
@@ -192,7 +192,7 @@
           "url": "https://www.youtube.com/watch?v=GF8KvuIJUvg"
         }
       ],
-      "heat": 110,
+      "heat": 92,
       "tags": [
         "Speech Recognition"
       ],
@@ -230,7 +230,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 10775
+        "followers": 10810
       },
       "yearFounded": 0,
       "locations": [
@@ -248,7 +248,7 @@
           "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
         }
       ],
-      "heat": 83,
+      "heat": 87,
       "tags": [
         "Natural Language Generation"
       ],
@@ -258,6 +258,55 @@
           "width": 400,
           "height": 400,
           "title": "DeepL",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kadaxis.md",
+      "title": "Kadaxis",
+      "excerpt": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kadaxis/index.json",
+      "webUrl": "https://everyday.cc/ai/company/kadaxis/",
+      "type": "profile",
+      "name": "Kadaxis",
+      "overview": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
+      "website": "https://kadaxis.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kadaxis",
+        "followers": 50
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kadaxis"
+      },
+      "twitter": {
+        "username": "kadaxis",
+        "url": "https://twitter.com/kadaxis",
+        "followers": 28835
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "New York, NY",
+        "New York, New York"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ELoLhZNxb0"
+        }
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000400606775/857c753a4104fa5ecb94afd6f6e2a5bc_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Kadaxis",
           "isCached": true
         }
       ],
@@ -283,7 +332,7 @@
       "twitter": {
         "username": "gong_io",
         "url": "https://twitter.com/gong_io",
-        "followers": 6498
+        "followers": 6507
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -304,7 +353,7 @@
           "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
         }
       ],
-      "heat": 83,
+      "heat": 62,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1414670158837149697/m2ufE7W8_400x400.jpg",
@@ -312,64 +361,6 @@
           "height": 400,
           "title": "Gong.io",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/narrativescience.md",
-      "title": "Narrative Science",
-      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrativescience/index.json",
-      "webUrl": "https://everyday.cc/ai/company/narrativescience/",
-      "type": "profile",
-      "name": "Narrative Science",
-      "overview": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
-      "website": "https://narrativescience.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/narrative-science/",
-        "followers": 6514
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative-science"
-      },
-      "twitter": {
-        "username": "narrativesci",
-        "url": "https://twitter.com/narrativesci",
-        "followers": 7252
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Chicago, IL",
-        "Chicago, Illinois"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ],
-      "heat": 77,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Narrative Science",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -394,7 +385,7 @@
       "twitter": {
         "username": "taskus",
         "url": "https://twitter.com/taskus",
-        "followers": 4430
+        "followers": 4436
       },
       "size": "10,001+ employees",
       "yearFounded": 2008,
@@ -411,7 +402,7 @@
           "url": "https://www.youtube.com/watch?v=W1V6Id1VrqU"
         }
       ],
-      "heat": 77,
+      "heat": 62,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1339767351122612224/frWCbdlU_400x400.jpg",
@@ -443,7 +434,7 @@
       "twitter": {
         "username": "definedcrowd",
         "url": "https://www.twitter.com/definedcrowd",
-        "followers": 1831
+        "followers": 1835
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -459,7 +450,7 @@
         "Machine Learning",
         "Natural Language Processing"
       ],
-      "heat": 71,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1410626979230064652/JylQhy_m_400x400.jpg",
@@ -474,224 +465,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/enlitic.md",
-      "title": "Enlitic",
-      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
-      "webUrl": "https://everyday.cc/ai/company/enlitic/",
-      "type": "profile",
-      "name": "Enlitic",
-      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "website": "https://www.enlitic.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/enlitic/",
-        "followers": 3397
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/enlitic"
-      },
-      "twitter": {
-        "username": "enlitic",
-        "url": "https://twitter.com/enlitic",
-        "followers": 4676
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Computer Vision",
-        "Natural Language Processing"
-      ],
-      "heat": 71,
-      "tags": [
-        "Image Recognition",
-        "Cancer"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Enlitic",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/verbit.ai.md",
-      "title": "Verbit",
-      "excerpt": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/verbit.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/verbit.ai/",
-      "type": "profile",
-      "name": "Verbit",
-      "overview": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
-      "website": "https://verbit.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/verbit/",
-        "followers": 6214
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/verbit-ai"
-      },
-      "twitter": {
-        "username": "verbit_",
-        "url": "https://twitter.com/verbit_",
-        "followers": 1083
-      },
-      "size": "51-200 employees",
-      "yearFounded": 0,
-      "locations": [
-        "United States",
-        "New York, NY",
-        "New York, New York"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=C8AG8eTC8D0"
-        }
-      ],
-      "heat": 71,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1088376194125496325/KHgCHYZ5_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Verbit",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/observe.ai.md",
-      "title": "Observe.AI",
-      "excerpt": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/observe.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/observe.ai/",
-      "type": "profile",
-      "name": "Observe.AI",
-      "overview": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
-      "website": "https://observe.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/observe-ai"
-      },
-      "twitter": {
-        "username": "observeai",
-        "url": "https://twitter.com/observeai",
-        "followers": 727
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=sQwbipcFPYg"
-        }
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1420855210755330050/GcIPxskU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Observe.AI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/persado.md",
-      "title": "Persado",
-      "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/persado/index.json",
-      "webUrl": "https://everyday.cc/ai/company/persado/",
-      "type": "profile",
-      "name": "Persado",
-      "overview": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
-      "website": "https://www.persado.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/persado",
-        "followers": 13074
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/persado"
-      },
-      "twitter": {
-        "username": "persado",
-        "url": "https://www.twitter.com/persado",
-        "followers": 5199
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Fremont, CA",
-        "New York, NY",
-        "New York, New York"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Ig4B5roBgao"
-        }
-      ],
-      "heat": 65,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1359197249838874628/avr1lbZ-_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Persado",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -716,7 +489,7 @@
       "twitter": {
         "username": "SoundHoundInc",
         "url": "https://twitter.com/SoundHoundInc",
-        "followers": 579
+        "followers": 584
       },
       "yearFounded": 0,
       "locations": [
@@ -731,7 +504,7 @@
           "url": "https://www.youtube.com/watch?v=VBfhwS3Dr3M"
         }
       ],
-      "heat": 65,
+      "heat": 57,
       "tags": [
         "Speech Recognition"
       ],
@@ -747,29 +520,85 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/lilt.md",
-      "title": "Lilt",
-      "excerpt": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lilt/index.json",
-      "webUrl": "https://everyday.cc/ai/company/lilt/",
+      "path": "_companies/verbit.ai.md",
+      "title": "Verbit",
+      "excerpt": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/verbit.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/verbit.ai/",
       "type": "profile",
-      "name": "Lilt",
-      "overview": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
-      "website": "https://lilt.com/",
+      "name": "Verbit",
+      "overview": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
+      "website": "https://verbit.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/lilthq/",
-        "followers": 2681
+        "url": "https://www.linkedin.com/company/verbit/",
+        "followers": 6214
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lilt"
+        "url": "https://www.crunchbase.com/organization/verbit-ai"
       },
       "twitter": {
-        "username": "lilthq",
-        "url": "https://twitter.com/lilthq",
-        "followers": 5756
+        "username": "verbit_",
+        "url": "https://twitter.com/verbit_",
+        "followers": 1088
       },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
+      "size": "51-200 employees",
+      "yearFounded": 0,
+      "locations": [
+        "United States",
+        "New York, NY",
+        "New York, New York"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=C8AG8eTC8D0"
+        }
+      ],
+      "heat": 56,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1088376194125496325/KHgCHYZ5_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verbit",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/enlitic.md",
+      "title": "Enlitic",
+      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
+      "webUrl": "https://everyday.cc/ai/company/enlitic/",
+      "type": "profile",
+      "name": "Enlitic",
+      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
+      "website": "https://www.enlitic.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/enlitic/",
+        "followers": 3397
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/enlitic"
+      },
+      "twitter": {
+        "username": "enlitic",
+        "url": "https://twitter.com/enlitic",
+        "followers": 4679
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
       "locations": [
         "San Francisco, CA",
         "San Francisco, California"
@@ -779,19 +608,25 @@
       },
       "topics": [
         "AI",
+        "AI in Healthcare",
+        "Computer Vision",
         "Natural Language Processing"
       ],
-      "heat": 58,
+      "heat": 55,
+      "tags": [
+        "Image Recognition",
+        "Cancer"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1047884762436788224/Qw9V6EjW_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Lilt",
+          "title": "Enlitic",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGCR2u9hpuFNQ/company-logo_200_200/0?e=1594857600&v=beta&t=nS4hm-ccE5SHhkOzP7HZ5deOv04vGZON7lH6nno0j4c",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -820,7 +655,7 @@
       "twitter": {
         "username": "NarrativaAI",
         "url": "https://twitter.com/NarrativaAI",
-        "followers": 1055
+        "followers": 1059
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
@@ -840,7 +675,7 @@
           "url": "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
         }
       ],
-      "heat": 58,
+      "heat": 55,
       "tags": [
         "Natural Language Generation"
       ],
@@ -856,31 +691,25 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/reply.ai.md",
-      "title": "Reply.ai",
-      "excerpt": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/reply.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/reply.ai/",
+      "path": "_companies/observe.ai.md",
+      "title": "Observe.AI",
+      "excerpt": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/observe.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/observe.ai/",
       "type": "profile",
-      "name": "Reply.ai",
-      "overview": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
-      "website": "https://www.reply.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/10652705",
-        "followers": 519
-      },
+      "name": "Observe.AI",
+      "overview": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
+      "website": "https://observe.ai/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/reply-ai"
+        "url": "https://www.crunchbase.com/organization/observe-ai"
       },
       "twitter": {
-        "username": "replydotai",
-        "url": "https://twitter.com/replydotai",
-        "followers": 1499
+        "username": "observeai",
+        "url": "https://twitter.com/observeai",
+        "followers": 731
       },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
+      "yearFounded": 0,
       "locations": [
-        "New York, NY",
         "New York, NY"
       ],
       "funding": {
@@ -892,17 +721,73 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=m4FgFkrL0wI"
+          "url": "https://www.youtube.com/watch?v=sQwbipcFPYg"
         }
       ],
-      "heat": 58,
+      "heat": 55,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/878286404245221376/FGxul5AM_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1420855210755330050/GcIPxskU_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Reply.ai",
+          "title": "Observe.AI",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/armorblox.md",
+      "title": "Deep 6 AI",
+      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/armorblox/index.json",
+      "webUrl": "https://everyday.cc/ai/company/armorblox/",
+      "type": "profile",
+      "name": "Deep 6 AI",
+      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
+      "website": "https://www.armorblox.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/deep-6-ai/",
+        "followers": 2942
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/armorblox"
+      },
+      "twitter": {
+        "username": "armorblox",
+        "url": "https://twitter.com/armorblox",
+        "followers": 347
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Cupertino, CA",
+        "Pasadena, CA",
+        "Pasadena, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1412921976675516416/H1nnCwR5_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Deep 6 AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -927,7 +812,7 @@
       "twitter": {
         "username": "SukiHQ",
         "url": "https://www.twitter.com/SukiHQ",
-        "followers": 1629
+        "followers": 1631
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -944,7 +829,7 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 58,
+      "heat": 53,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
@@ -964,32 +849,138 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/twiggle.md",
-      "title": "Twiggle",
-      "excerpt": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/twiggle/index.json",
-      "webUrl": "https://everyday.cc/ai/company/twiggle/",
+      "path": "_companies/lilt.md",
+      "title": "Lilt",
+      "excerpt": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lilt/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lilt/",
       "type": "profile",
-      "name": "Twiggle",
-      "overview": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
-      "website": "https://www.twiggle.com/",
+      "name": "Lilt",
+      "overview": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
+      "website": "https://lilt.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/twiggle/",
-        "followers": 1707
+        "url": "https://www.linkedin.com/company/lilthq/",
+        "followers": 2681
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/twiggle"
+        "url": "https://www.crunchbase.com/organization/lilt"
       },
       "twitter": {
-        "username": "twiggle_com",
-        "url": "https://twitter.com/twiggle_com",
-        "followers": 301
+        "username": "lilthq",
+        "url": "https://twitter.com/lilthq",
+        "followers": 5754
       },
-      "size": "51-200 employees",
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1047884762436788224/Qw9V6EjW_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lilt",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGCR2u9hpuFNQ/company-logo_200_200/0?e=1594857600&v=beta&t=nS4hm-ccE5SHhkOzP7HZ5deOv04vGZON7lH6nno0j4c",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/reply.ai.md",
+      "title": "Reply.ai",
+      "excerpt": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/reply.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/reply.ai/",
+      "type": "profile",
+      "name": "Reply.ai",
+      "overview": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
+      "website": "https://www.reply.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/10652705",
+        "followers": 519
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/reply-ai"
+      },
+      "twitter": {
+        "username": "replydotai",
+        "url": "https://twitter.com/replydotai",
+        "followers": 1501
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "New York, NY",
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=m4FgFkrL0wI"
+        }
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/878286404245221376/FGxul5AM_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Reply.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/trint.md",
+      "title": "Trint",
+      "excerpt": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/trint/index.json",
+      "webUrl": "https://everyday.cc/ai/company/trint/",
+      "type": "profile",
+      "name": "Trint",
+      "overview": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
+      "website": "https://www.trint.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/trint/",
+        "followers": 3523
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/trint"
+      },
+      "twitter": {
+        "username": "trinthq",
+        "url": "https://twitter.com/trinthq",
+        "followers": 1927
+      },
+      "size": "11-50 employees",
       "yearFounded": 2014,
       "locations": [
-        "Tel Aviv-Yafo, Israel",
-        "Tel Aviv, Tel Aviv"
+        "London",
+        "London, Greater London"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -1000,48 +991,91 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=6qXk_fYvETY"
+          "url": "https://www.youtube.com/watch?v=CP-0vxaBKbo"
         }
       ],
-      "heat": 58,
+      "heat": 52,
+      "tags": [
+        "Speech Recognition"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/814412371963899904/aVyGZY7g_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1262996074635177987/ROGSdua4_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Twiggle",
+          "title": "Trint",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/agolo.md",
-      "title": "Agolo",
-      "excerpt": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/agolo/index.json",
-      "webUrl": "https://everyday.cc/ai/company/agolo/",
+      "path": "_companies/insightengines.md",
+      "title": "Insight Engines",
+      "excerpt": "Research discovery with artificial intelligence - for academia and chemical research.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/insightengines/index.json",
+      "webUrl": "https://everyday.cc/ai/company/insightengines/",
       "type": "profile",
-      "name": "Agolo",
-      "overview": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
-      "website": "http://www.agolo.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/agolo",
-        "followers": 953
-      },
+      "name": "Insight Engines",
+      "overview": "Research discovery with artificial intelligence - for academia and chemical research.",
+      "website": "https://insightengines.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/agolo"
+        "url": "https://www.crunchbase.com/organization/insight-engines-inc"
       },
       "twitter": {
-        "username": "agolo",
-        "url": "https://twitter.com/agolo",
-        "followers": 750
+        "username": "insightengines",
+        "url": "https://twitter.com/insightengines",
+        "followers": 230
       },
-      "size": "11-50 employees",
-      "yearFounded": 2013,
+      "yearFounded": 0,
       "locations": [
-        "New York, NY",
-        "New York, NY"
+        "Norway"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=iD4tlJ-ECZo"
+        }
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/778092205093322752/BNor8pkI_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Insight Engines",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lighttag.io.md",
+      "title": "LightTag",
+      "excerpt": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lighttag.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lighttag.io/",
+      "type": "profile",
+      "name": "LightTag",
+      "overview": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
+      "website": "https://www.lighttag.io/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lighttag"
+      },
+      "twitter": {
+        "username": "LabeledData",
+        "url": "https://twitter.com/LabeledData",
+        "followers": 162
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA"
       ],
       "topics": [
         "AI",
@@ -1049,16 +1083,68 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=rijPqvv1xSc"
+          "url": "https://www.youtube.com/watch?v=dA2uo9sGIj8"
         }
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/588095780126208000/n336QMMR_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1306917715408543750/b4hTeZ27_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Agolo",
+          "title": "LightTag",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/signal-ai.md",
+      "title": "Signal AI",
+      "excerpt": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/signal-ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/signal-ai/",
+      "type": "profile",
+      "name": "Signal AI",
+      "overview": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
+      "website": "http://www.signal-ai.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/signal-artificial-intelligence/",
+        "followers": 6492
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/signal-media-ltd"
+      },
+      "twitter": {
+        "username": "SignalHQ",
+        "url": "https://twitter.com/SignalHQ",
+        "followers": 2567
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "London, UK",
+        "London, England"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=QWC7T-G_reQ"
+        }
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1403020094465314821/BHOPDK40_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Signal AI",
           "isCached": true
         }
       ],
@@ -1307,49 +1393,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/botanic.io.md",
-      "title": "Botanic.io",
-      "excerpt": "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/botanic.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/botanic.io/",
-      "type": "profile",
-      "name": "Botanic.io",
-      "overview": "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content.",
-      "website": "https://botanic.io",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/botanic"
-      },
-      "twitter": {
-        "username": "botanic_io",
-        "url": "https://www.twitter.com/botanic_io",
-        "followers": 568
-      },
-      "yearFounded": 0,
-      "locations": [
-        "CA, USA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-RfVBN3nfRs"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/879878141384073217/mLv_w8vA_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Botanic.io",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/cinnamon.is.md",
       "title": "Cinnamon",
       "excerpt": "",
@@ -1454,53 +1497,6 @@
         }
       ],
       "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/hibrainy.md",
-      "title": "HiBrainy",
-      "excerpt": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/hibrainy/index.json",
-      "webUrl": "https://everyday.cc/ai/company/hibrainy/",
-      "type": "profile",
-      "name": "HiBrainy",
-      "overview": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
-      "website": "https://hibrainy.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/hibrainy/",
-        "followers": 164
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/hibrainy"
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Paris, France",
-        "Paris, Île-de-France"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=El38XJxRoRo"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/716759222969434112/NeRM_ewU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "HiBrainy",
-          "isCached": false
-        }
-      ],
       "content": "\r\n"
     }
   ],

@@ -4,46 +4,100 @@
   "page": 11,
   "value": [
     {
-      "path": "_companies/tamr.md",
-      "title": "Tamr",
-      "excerpt": "With a co-founding team led by Andy Palmer (founding CEO of Vertica) and Mike Stonebraker (Turing Award winner) and backed by investors including NEA, Google Ventures, and GE Ventures, Tamr is transforming how companies get value from their data.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tamr/index.json",
-      "webUrl": "https://everyday.cc/ai/company/tamr/",
+      "path": "_companies/wrappup.ai.md",
+      "title": "Wrappup",
+      "excerpt": "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wrappup.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/wrappup.ai/",
       "type": "profile",
-      "name": "Tamr",
-      "overview": "With a co-founding team led by Andy Palmer (founding CEO of Vertica) and Mike Stonebraker (Turing Award winner) and backed by investors including NEA, Google Ventures, and GE Ventures, Tamr is transforming how companies get value from their data.",
-      "website": "https://www.tamr.com/",
+      "name": "Wrappup",
+      "overview": "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe",
+      "website": "http://www.wrappup.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/2965831",
-        "followers": 7178
+        "url": "https://www.linkedin.com/company/wrappup",
+        "followers": 271
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tamr"
+        "url": "https://www.crunchbase.com/organization/wrappup"
       },
       "twitter": {
-        "username": "Tamr_Inc",
-        "url": "https://twitter.com/Tamr_Inc",
-        "followers": 3892
+        "username": "justwrappup",
+        "url": "https://twitter.com/justwrappup",
+        "followers": 445
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "United States"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wovsuTYqnC8"
+        }
+      ],
+      "heat": 46,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/646582005182803969/XdyDLY2T_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Wrappup",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/dominodatalab.md",
+      "title": "Domino Data Lab",
+      "excerpt": "We’re building the platform that enables thousands of data scientists to develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/dominodatalab/index.json",
+      "webUrl": "https://everyday.cc/ai/company/dominodatalab/",
+      "type": "profile",
+      "name": "Domino Data Lab",
+      "overview": "We’re building the platform that enables thousands of data scientists to develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next.",
+      "website": "https://www.dominodatalab.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/domino-data-lab",
+        "followers": 5793
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/domino-data-lab"
+      },
+      "twitter": {
+        "username": "dominodatalab",
+        "url": "https://twitter.com/dominodatalab",
+        "followers": 8528
       },
       "size": "51-200 employees",
-      "yearFounded": 2012,
+      "yearFounded": 2013,
       "locations": [
-        "Cambridge, MA"
+        "San Francisco, CA"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI"
       ],
-      "heat": 41,
+      "heat": 45,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1281275496009957379/UT9JIIAZ_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1412642641611788289/bQiW_08H_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Tamr",
+          "title": "Domino Data Lab",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFRR5uqmHw6xw/company-logo_200_200/0?e=1594857600&v=beta&t=5-SYSbx3S70_n7pkiM3apQZdoXchS80h1IjjBLfrzvY",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGEcVhweiL2g/company-logo_200_200/0?e=1594857600&v=beta&t=Ap6sV08X_M6m1o0w3Pw7u3GrChibAf3mqehIiI2wNsY",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -53,122 +107,85 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/trint.md",
-      "title": "Trint",
-      "excerpt": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/trint/index.json",
-      "webUrl": "https://everyday.cc/ai/company/trint/",
+      "path": "_companies/fundbox.md",
+      "title": "Fundbox",
+      "excerpt": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fundbox/index.json",
+      "webUrl": "https://everyday.cc/ai/company/fundbox/",
       "type": "profile",
-      "name": "Trint",
-      "overview": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
-      "website": "https://www.trint.com",
+      "name": "Fundbox",
+      "overview": "Fundbox is a leading technology platform focused on disrupting the $21 trillion B2B commerce market by building the world’s first B2B payment and credit network. With Fundbox, sellers (of all sizes) can quickly increase average order volumes (AOV) and improve close rates by offering more competitive net terms and payment plans to their SMB buyers. With heavy investments in machine learning and the ability to quickly analyze the transactional data of SMB’s, Fundbox is reimagining B2B payments and credit products in new category-defining ways.",
+      "website": "https://fundbox.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/trint/",
-        "followers": 3523
+        "url": "https://www.linkedin.com/company/fundbox",
+        "followers": 10859
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/trint"
+        "url": "https://www.crunchbase.com/organization/fundbox"
       },
       "twitter": {
-        "username": "trinthq",
-        "url": "https://twitter.com/trinthq",
-        "followers": 1925
+        "username": "fundbox",
+        "url": "https://twitter.com/fundbox",
+        "followers": 7910
       },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
+      "size": "51-200 employees",
+      "yearFounded": 2013,
       "locations": [
-        "London",
-        "London, Greater London"
+        "San Francisco, CA"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "AI in Finance"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=CP-0vxaBKbo"
-        }
-      ],
-      "heat": 41,
+      "heat": 45,
       "tags": [
-        "Speech Recognition"
+        "FinTech"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1262996074635177987/ROGSdua4_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1410673429359960069/Xzua6Ceq_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Trint",
+          "title": "Fundbox",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF0d3rUa1KHJw/company-logo_200_200/0?e=1594857600&v=beta&t=K8TBAi1tgbJYEGm742QFrnsRuv0x-84YVtHE8bUjI9g",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/vectra.ai.md",
-      "title": "Vectra",
-      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/vectra.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/vectra.ai/",
+      "path": "_companies/luminouscomputing.md",
+      "title": "Luminous Computing",
+      "excerpt": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/luminouscomputing/index.json",
+      "webUrl": "https://everyday.cc/ai/company/luminouscomputing/",
       "type": "profile",
-      "name": "Vectra",
-      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "website": "https://vectra.ai",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vectra-networks"
-      },
-      "twitter": {
-        "username": "Vectra_AI",
-        "url": "https://twitter.com/Vectra_AI",
-        "followers": 2669
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Vectra",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/vian.ai.md",
-      "title": "Vianai",
-      "excerpt": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/vian.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/vian.ai/",
-      "type": "profile",
-      "name": "Vianai",
-      "overview": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
-      "website": "https://www.vian.ai",
+      "name": "Luminous Computing",
+      "overview": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
+      "website": "https://www.luminouscomputing.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/vianai/",
-        "followers": 2550
+        "url": "https://www.linkedin.com/company/luminous-computing",
+        "followers": 421
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vianai"
+        "url": "https://www.crunchbase.com/organization/luminous-computing"
       },
       "twitter": {
-        "username": "VianaiSystems",
-        "url": "https://twitter.com/VianaiSystems",
-        "followers": 630
+        "username": "LuminousAI",
+        "url": "https://twitter.com/LuminousAI",
+        "followers": 1101
       },
-      "size": "11-50 employees",
-      "yearFounded": 2019,
+      "size": "2-10 employees",
+      "yearFounded": 2018,
       "locations": [
         "Palo Alto, CA"
       ],
@@ -176,151 +193,100 @@
         "status": "Seed"
       },
       "topics": [
-        "AI"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1171969525803184128/cFAPYNRR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Vianai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/voicebox.md",
-      "title": "VoiceBox Technologies",
-      "excerpt": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voicebox/index.json",
-      "webUrl": "https://everyday.cc/ai/company/voicebox/",
-      "type": "profile",
-      "name": "VoiceBox Technologies",
-      "overview": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
-      "website": "http://www.voicebox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/voicebox-technologies",
-        "followers": 1385
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/voicebox-technologies"
-      },
-      "twitter": {
-        "username": "VoiceBox_Tech",
-        "url": "https://twitter.com/VoiceBox_Tech",
-        "followers": 746
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2001,
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "topics": [
         "AI",
-        "Natural Language Processing"
+        "AI Hardware"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
+          "url": "https://www.youtube.com/watch?v=mzAX5DS3xYw"
         }
       ],
-      "heat": 41,
+      "heat": 45,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/845362901527379968/9U43aLaV_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1135642952003227648/xfBlggxy_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "VoiceBox Technologies",
+          "title": "Luminous Computing",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHcbIuYidU8Eg/company-logo_200_200/0?e=1594857600&v=beta&t=iEiUdkXFnltxhJGJWcyw0iQBvirv81o4Zv-BUivoLNI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/automatedinsights.md",
-      "title": "Automated Insights",
-      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/automatedinsights/index.json",
-      "webUrl": "https://everyday.cc/ai/company/automatedinsights/",
+      "path": "_companies/6sense.md",
+      "title": "6sense",
+      "excerpt": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/6sense/index.json",
+      "webUrl": "https://everyday.cc/ai/company/6sense/",
       "type": "profile",
-      "name": "Automated Insights",
-      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "website": "https://automatedinsights.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2708220",
-        "followers": 3336
-      },
+      "name": "6sense",
+      "overview": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "website": "https://www.6sense.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/automated-insights"
+        "url": "https://www.crunchbase.com/organization/6sense"
       },
       "twitter": {
-        "username": "AInsights",
-        "url": "https://twitter.com/AInsights",
-        "followers": 4631
+        "username": "6senseInc",
+        "url": "https://twitter.com/6senseInc",
+        "followers": 18774
       },
-      "size": "51-200 employees",
-      "yearFounded": 2007,
+      "yearFounded": 0,
       "locations": [
-        "San Francisco, CA",
-        "Durham, NC"
+        "San Francisco"
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "AI in Marketing"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ziizj6u1f6M"
-        }
-      ],
-      "heat": 31,
-      "tags": [
-        "Natural Language Generation"
-      ],
+      "heat": 44,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1158846406498668545/zDApgLbP_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1412466382369955846/jLx9I3SB_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Automated Insights",
+          "title": "6sense",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/biofourmis.md",
-      "title": "Biofourmis",
-      "excerpt": "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/biofourmis/index.json",
-      "webUrl": "https://everyday.cc/ai/company/biofourmis/",
+      "path": "_companies/infermedica.md",
+      "title": "Infermedica",
+      "excerpt": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/infermedica/index.json",
+      "webUrl": "https://everyday.cc/ai/company/infermedica/",
       "type": "profile",
-      "name": "Biofourmis",
-      "overview": "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain.",
-      "website": "http://www.biofourmis.com/",
+      "name": "Infermedica",
+      "overview": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
+      "website": "https://infermedica.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/biofourmis/",
-        "followers": 4137
+        "url": "https://www.linkedin.com/company/infermedica",
+        "followers": 1399
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/biofourmis-pte-ltd"
+        "url": "https://www.crunchbase.com/organization/infermedica"
       },
       "twitter": {
-        "username": "biofourmis",
-        "url": "https://twitter.com/biofourmis",
-        "followers": 814
+        "username": "infermedica",
+        "url": "https://twitter.com/infermedica",
+        "followers": 2627
       },
       "size": "51-200 employees",
-      "yearFounded": 2015,
+      "yearFounded": 2012,
       "locations": [
-        "Singapore, Singapore",
-        "Boston, MA",
-        "Boston, Massachusetts"
+        "Wrocław, Lower Silesia"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
@@ -328,24 +294,587 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=ui5HSwZJcvw"
+          "url": "https://www.youtube.com/watch?v=p8YcZnbiB2U"
         }
       ],
-      "heat": 31,
+      "heat": 44,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1262823251643977730/41pmXE41_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1143811617425186816/xjFXIamj_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Biofourmis",
+          "title": "Infermedica",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEpYGJwOi05CA/company-logo_200_200/0?e=1594857600&v=beta&t=knev6GUHkP2EPBLuHT2modcQRTosoG1rFvWV_S0cbvE",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFSZao-2Qp3Qg/company-logo_200_200/0?e=1594857600&v=beta&t=mAsp0thYED-zbD9zjMYxf7v7J24YGU9PTIh4UQ6dVno",
           "width": 400,
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mythic-ai.md",
+      "title": "Mythic",
+      "excerpt": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mythic-ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mythic-ai/",
+      "type": "profile",
+      "name": "Mythic",
+      "overview": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
+      "website": "https://www.mythic-ai.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/isocline",
+        "followers": 214
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/isocline"
+      },
+      "twitter": {
+        "username": "mythicinc",
+        "url": "https://twitter.com/mythicinc",
+        "followers": 823
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Austin, TX",
+        "Austin, TX"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=q59k-4c-hbk"
+        }
+      ],
+      "heat": 44,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mythic",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/socure.md",
+      "title": "Socure",
+      "excerpt": "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/socure/index.json",
+      "webUrl": "https://everyday.cc/ai/company/socure/",
+      "type": "profile",
+      "name": "Socure",
+      "overview": "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market.",
+      "website": "https://www.socure.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/socure",
+        "followers": 4096
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/socure"
+      },
+      "twitter": {
+        "username": "socureme",
+        "url": "https://twitter.com/socureme",
+        "followers": 6965
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "New York, NY",
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Machine Learning",
+        "AI in Finance"
+      ],
+      "heat": 44,
+      "tags": [
+        "FinTech",
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410652005442412546/hvkEaWDP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Socure",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXFhTs-POYFA/company-logo_200_200/0?e=1594857600&v=beta&t=8nQZUu_J4aQyL9WTxtza5GwWcumb2YhXPUhfWeMP91c",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/narrativescience.md",
+      "title": "Narrative Science",
+      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrativescience/index.json",
+      "webUrl": "https://everyday.cc/ai/company/narrativescience/",
+      "type": "profile",
+      "name": "Narrative Science",
+      "overview": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
+      "website": "https://narrativescience.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/narrative-science/",
+        "followers": 6514
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/narrative-science"
+      },
+      "twitter": {
+        "username": "narrativesci",
+        "url": "https://twitter.com/narrativesci",
+        "followers": 7249
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Chicago, IL",
+        "Chicago, Illinois"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "heat": 42,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Narrative Science",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sophiagenetics.md",
+      "title": "Sophia Genetics",
+      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sophiagenetics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sophiagenetics/",
+      "type": "profile",
+      "name": "Sophia Genetics",
+      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "website": "https://www.sophiagenetics.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/sophiagenetics/",
+        "followers": 25618
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sophia-genetics"
+      },
+      "twitter": {
+        "username": "sophiagenetics",
+        "url": "https://twitter.com/sophiagenetics",
+        "followers": 21833
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Switzerland",
+        "Saint Sulpice"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1400903436854571012/wx96H1fl_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sophia Genetics",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/algorithmia.md",
+      "title": "Algorithmia",
+      "excerpt": "AI-powered business insights. Complete research in record time. Find what others miss.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/algorithmia/index.json",
+      "webUrl": "https://everyday.cc/ai/company/algorithmia/",
+      "type": "profile",
+      "name": "Algorithmia",
+      "overview": "AI-powered business insights. Complete research in record time. Find what others miss.",
+      "website": "https://www.algorithmia.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/algorithmia-inc",
+        "followers": 4610
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/algorithmia"
+      },
+      "twitter": {
+        "username": "Algorithmia",
+        "url": "https://twitter.com/Algorithmia",
+        "followers": 6434
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1425206369058115584/PP3Ixk7T_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Algorithmia",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHrwkW4z_etGw/company-logo_200_200/0?e=1594857600&v=beta&t=hKazn3Lt5xBOxcQSv87GE-YLoCATQrf2gCbI5mw7m8k",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sentifi.md",
+      "title": "Sentifi",
+      "excerpt": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentifi/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sentifi/",
+      "type": "profile",
+      "name": "Sentifi",
+      "overview": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
+      "website": "https://parashift.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/sentifi/",
+        "followers": 11489
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sentifi"
+      },
+      "twitter": {
+        "username": "sentifi",
+        "url": "https://twitter.com/sentifi",
+        "followers": 4794
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Zurich, Switzerland",
+        "Zurich, Zurich"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 39,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1145902565151739905/KRRXTq0L_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sentifi",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/skychain.global.md",
+      "title": "Skychain Global",
+      "excerpt": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/skychain.global/index.json",
+      "webUrl": "https://everyday.cc/ai/company/skychain.global/",
+      "type": "profile",
+      "name": "Skychain Global",
+      "overview": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
+      "website": "https://skychain.global",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/skychain-global"
+      },
+      "twitter": {
+        "username": "skychainglobal",
+        "url": "https://twitter.com/skychainglobal",
+        "followers": 2576
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=npQklriczNA"
+        }
+      ],
+      "heat": 39,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Skychain Global",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/dialogflow.md",
+      "title": "Dialogflow",
+      "excerpt": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/dialogflow/index.json",
+      "webUrl": "https://everyday.cc/ai/company/dialogflow/",
+      "type": "profile",
+      "name": "Dialogflow",
+      "otherNames": [
+        "Speaktoit",
+        "Api.ai"
+      ],
+      "overview": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "website": "https://dialogflow.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/1443713/",
+        "followers": 3083
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/api-ai"
+      },
+      "twitter": {
+        "username": "Dialogflow",
+        "url": "https://twitter.com/Dialogflow",
+        "followers": 12083
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ADD-rvsS5z4"
+        }
+      ],
+      "heat": 36,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Dialogflow",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/chorus.ai.md",
+      "title": "Chorus.ai",
+      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/chorus.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/chorus.ai/",
+      "type": "profile",
+      "name": "Chorus.ai",
+      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "website": "https://www.chorus.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/chorus-ai"
+      },
+      "twitter": {
+        "username": "chorus_ai",
+        "url": "https://twitter.com/chorus_ai",
+        "followers": 6858
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco and Tel Aviv"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 33,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1412921886367903748/SCz3jsjN_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Chorus.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/knewton.md",
+      "title": "Knewton",
+      "excerpt": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/knewton/index.json",
+      "webUrl": "https://everyday.cc/ai/company/knewton/",
+      "type": "profile",
+      "name": "Knewton",
+      "overview": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
+      "website": "https://www.knewton.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/knewton"
+      },
+      "twitter": {
+        "username": "Knewton",
+        "url": "https://twitter.com/Knewton",
+        "followers": 14354
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Hoboken, NJ"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 33,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1224388356089491457/7ucoRe_G_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Knewton",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/narrative.md",
+      "title": "Narrative",
+      "excerpt": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrative/index.json",
+      "webUrl": "https://everyday.cc/ai/company/narrative/",
+      "type": "profile",
+      "name": "Narrative",
+      "otherNames": [
+        "Third Dot AB",
+        "memoto",
+        "Narrative AB",
+        "Narrative Clip"
+      ],
+      "overview": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
+      "website": "http://getnarrative.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/narrative-ab-narrative-clip-/",
+        "followers": 469
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/narrative"
+      },
+      "twitter": {
+        "username": "getnarrative",
+        "url": "https://twitter.com/getnarrative",
+        "followers": 23543
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Stockholm"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 31,
+      "tags": [
+        "Image Recognition",
+        "Wearables"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000542288111/9f0de099c28730e017ddaf26b60a048a_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Narrative",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -370,7 +899,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 12599
+        "followers": 12582
       },
       "size": "201-500 employees",
       "yearFounded": 2007,
@@ -391,7 +920,7 @@
           "url": "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
         }
       ],
-      "heat": 31,
+      "heat": 24,
       "tags": [
         "Natural Language Generation"
       ],
@@ -407,427 +936,51 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/knewton.md",
-      "title": "Knewton",
-      "excerpt": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/knewton/index.json",
-      "webUrl": "https://everyday.cc/ai/company/knewton/",
+      "path": "_companies/affectiva.md",
+      "title": "Affectiva",
+      "excerpt": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/affectiva/index.json",
+      "webUrl": "https://everyday.cc/ai/company/affectiva/",
       "type": "profile",
-      "name": "Knewton",
-      "overview": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
-      "website": "https://www.knewton.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/knewton"
-      },
-      "twitter": {
-        "username": "Knewton",
-        "url": "https://twitter.com/Knewton",
-        "followers": 14364
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Hoboken, NJ"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1224388356089491457/7ucoRe_G_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Knewton",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/leapmind.io.md",
-      "title": "LeapMind",
-      "excerpt": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/leapmind.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/leapmind.io/",
-      "type": "profile",
-      "name": "LeapMind",
-      "overview": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
-      "website": "http://leapmind.io/",
+      "name": "Affectiva",
+      "overview": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
+      "website": "https://www.affectiva.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/leapmind-inc/",
-        "followers": 1026
+        "url": "https://www.linkedin.com/company/722122",
+        "followers": 17739
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/leap-mind"
+        "url": "https://www.crunchbase.com/organization/affectiva"
       },
       "twitter": {
-        "username": "leapmind_inc",
-        "url": "https://twitter.com/leapmind_inc",
-        "followers": 900
+        "username": "affectiva",
+        "url": "https://twitter.com/affectiva",
+        "followers": 11601
       },
       "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Tokyo, Japan",
-        "Shibuya-ku, Tokyo"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=IsTf6hB0bGo"
-        }
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1240580034902908931/E1foW3iy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "LeapMind",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/standard.ai.md",
-      "title": "Standard Cognition",
-      "excerpt": "Improving the retail checkout experience, by removing it entirely.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/standard.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/standard.ai/",
-      "type": "profile",
-      "name": "Standard Cognition",
-      "overview": "Improving the retail checkout experience, by removing it entirely.",
-      "website": "https://standard.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/standardcognition.com/",
-        "followers": 1839
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/standard-cognition"
-      },
-      "twitter": {
-        "username": "standardAI",
-        "url": "https://twitter.com/standardAI",
-        "followers": 2285
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1361741262500499457/du-nxobl_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Standard Cognition",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGD1HiVkL1Q9Q/company-logo_200_200/0?e=1594857600&v=beta&t=fQvHGsSn2fKXmK6P-OI6KBsL5VJXKRisCtTgAPpfVQU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/zendrive.md",
-      "title": "Zendrive",
-      "excerpt": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zendrive/index.json",
-      "webUrl": "https://everyday.cc/ai/company/zendrive/",
-      "type": "profile",
-      "name": "Zendrive",
-      "overview": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
-      "website": "http://www.zendrive.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/zendrive/",
-        "followers": 8236
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zendrive"
-      },
-      "twitter": {
-        "username": "zendrive",
-        "url": "https://twitter.com/zendrive",
-        "followers": 2106
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/695044843081306113/N-YxharB_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Zendrive",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1594857600&v=beta&t=lsBBVcy1Et43wBr46LmGm3YwJfbrCzc8QMvVMp5E8AA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/casetext.md",
-      "title": "Casetext",
-      "excerpt": "Casetext, the most widely used A.I. legal research technology, has been adopted across the legal market from the largest Am Law100 law firms to solo practices. Its award-winning technology offers both conventional search functionality and its CARA A.I. powered contextual search, focuses on the context of your research to help you find on-point authorities faster. Founded by a team of former litigators from top law firms, as well as Ph.D. data scientists and leading A.I. engineers, Casetext helps legal researchers find the best cases, faster, including many that they would otherwise miss. For more information, visit www.casetext.com or contact our team at contact@casetext.com.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/casetext/index.json",
-      "webUrl": "https://everyday.cc/ai/company/casetext/",
-      "type": "profile",
-      "name": "Casetext",
-      "overview": "Casetext, the most widely used A.I. legal research technology, has been adopted across the legal market from the largest Am Law100 law firms to solo practices. Its award-winning technology offers both conventional search functionality and its CARA A.I. powered contextual search, focuses on the context of your research to help you find on-point authorities faster. Founded by a team of former litigators from top law firms, as well as Ph.D. data scientists and leading A.I. engineers, Casetext helps legal researchers find the best cases, faster, including many that they would otherwise miss. For more information, visit www.casetext.com or contact our team at contact@casetext.com.",
-      "website": "https://www.casetext.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/casetext",
-        "followers": 1569
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/casetext"
-      },
-      "twitter": {
-        "username": "casetext",
-        "url": "https://twitter.com/casetext",
-        "followers": 5716
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 19,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/732990695212883968/5jqQ8YCM_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Casetext",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGqo7kE92p8lQ/company-logo_200_200/0?e=1594857600&v=beta&t=QAxbj2FiDekS3sJOM3nLO0YH-CVMPmTShIHKMXiZmPc",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/freedomrobotics.ai.md",
-      "title": "Freedom Robotics",
-      "excerpt": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/freedomrobotics.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/freedomrobotics.ai/",
-      "type": "profile",
-      "name": "Freedom Robotics",
-      "overview": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "website": "https://www.freedomrobotics.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/freedomrobotics/",
-        "followers": 277
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/freedom-robotics"
-      },
-      "twitter": {
-        "username": "FRDMROBOTICS",
-        "url": "https://twitter.com/FRDMROBOTICS",
-        "followers": 521
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 19,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1153450184526852097/B_tcgtrN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Freedom Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEicfD2VUSuFQ/company-logo_200_200/0?e=1594857600&v=beta&t=OUFYSMVpyrQOq1KKei-sPYD-i7j1l-CfIeVlQb2Tics",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/gumgum.md",
-      "title": "GumGum",
-      "excerpt": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gumgum/index.json",
-      "webUrl": "https://everyday.cc/ai/company/gumgum/",
-      "type": "profile",
-      "name": "GumGum",
-      "overview": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
-      "website": "https://gumgum.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gumgum/",
-        "followers": 12380
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gumgum"
-      },
-      "twitter": {
-        "username": "GumGum",
-        "url": "https://twitter.com/GumGum",
-        "followers": 3541
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "Santa Monica, CA",
-        "Santa Monica, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "videos": [
-        {
-          "url": "https://vimeo.com/179087754",
-          "thumbnail": {
-            "url": "https://i.vimeocdn.com/video/586908314_640.jpg",
-            "width": 640,
-            "height": 360,
-            "title": "GumGum",
-            "isCached": false
-          }
-        }
-      ],
-      "heat": 19,
-      "tags": [
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410732127629582336/OUtagr1b_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "GumGum",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEwptMmUu9nXQ/company-logo_200_200/0?e=1594857600&v=beta&t=Xi6UgpRhfMCgxqTtgb-d10wcID3x2wVB716aIQU53TI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/kabbage.md",
-      "title": "Kabbage",
-      "excerpt": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kabbage/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kabbage/",
-      "type": "profile",
-      "name": "Kabbage",
-      "overview": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
-      "website": "https://www.kabbage.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/kabbage-inc/",
-        "followers": 31904
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kabbage"
-      },
-      "twitter": {
-        "username": "KabbageInc",
-        "url": "https://twitter.com/KabbageInc",
-        "followers": 26829
-      },
-      "size": "501-1,000 employees",
       "yearFounded": 2009,
       "locations": [
-        "Atlanta, Georgia"
+        "Boston, MA",
+        "Boston, Massachusetts"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Machine Learning"
+        "AI in Healthcare"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=VnqoE8kOHkI"
-        }
-      ],
-      "heat": 19,
+      "heat": 20,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1280148929808646144/rFMnY8_q_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Kabbage",
+          "title": "Affectiva",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHdgG2Rpte8yg/company-logo_200_200/0?e=1594857600&v=beta&t=ltljFWKLor6yxVPpeeyIWSkDtHiamTxXwAvV9QrJYFE",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -895,150 +1048,59 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/kairos.md",
-      "title": "Kairos AR",
-      "excerpt": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kairos/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kairos/",
+      "path": "_companies/kabbage.md",
+      "title": "Kabbage",
+      "excerpt": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kabbage/index.json",
+      "webUrl": "https://everyday.cc/ai/company/kabbage/",
       "type": "profile",
-      "name": "Kairos AR",
-      "overview": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
-      "website": "https://www.kairos.com",
+      "name": "Kabbage",
+      "overview": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
+      "website": "https://www.kabbage.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/kairos-ar-inc-/",
-        "followers": 1759
+        "url": "https://www.linkedin.com/company/kabbage-inc/",
+        "followers": 31904
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kairos-ar"
+        "url": "https://www.crunchbase.com/organization/kabbage"
       },
       "twitter": {
-        "username": "LoveKairos",
-        "url": "https://twitter.com/LoveKairos",
-        "followers": 4473
+        "username": "KabbageInc",
+        "url": "https://twitter.com/KabbageInc",
+        "followers": 26815
       },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
+      "size": "501-1,000 employees",
+      "yearFounded": 2009,
       "locations": [
-        "Miami, FL",
-        "Miami, Florida"
+        "Atlanta, Georgia"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
-        "Computer Vision"
+        "Machine Learning"
       ],
-      "heat": 4,
-      "tags": [
-        "Image Recognition"
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VnqoE8kOHkI"
+        }
       ],
+      "heat": 14,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1105124141915693057/yO91xNJ9_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Kairos AR",
+          "title": "Kabbage",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFySTcbir1LkQ/company-logo_200_200/0?e=1594857600&v=beta&t=IqLGUTXpEX1kxuQDjgzd2EH85UuboYiYnyeizEzRPMQ",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4",
           "width": 400,
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/rossintelligence.md",
-      "title": "ROSS Intelligence",
-      "excerpt": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rossintelligence/index.json",
-      "webUrl": "https://everyday.cc/ai/company/rossintelligence/",
-      "type": "profile",
-      "name": "ROSS Intelligence",
-      "overview": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
-      "website": "https://rossintelligence.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/5385357/",
-        "followers": 3215
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ross-intelligence"
-      },
-      "twitter": {
-        "username": "ROSSIntel",
-        "url": "https://twitter.com/ROSSIntel",
-        "followers": 5380
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
-        }
-      ],
-      "heat": 4,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1174312638328840192/ErbzJaM6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "ROSS Intelligence",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/skychain.global.md",
-      "title": "Skychain Global",
-      "excerpt": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/skychain.global/index.json",
-      "webUrl": "https://everyday.cc/ai/company/skychain.global/",
-      "type": "profile",
-      "name": "Skychain Global",
-      "overview": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
-      "website": "https://skychain.global",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skychain-global"
-      },
-      "twitter": {
-        "username": "skychainglobal",
-        "url": "https://twitter.com/skychainglobal",
-        "followers": 2581
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=npQklriczNA"
-        }
-      ],
-      "heat": 4,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Skychain Global",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1123,7 +1185,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 51593
+        "followers": 51497
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1158,103 +1220,61 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/kadaxis.md",
-      "title": "Kadaxis",
-      "excerpt": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kadaxis/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kadaxis/",
+      "path": "_companies/cleo.md",
+      "title": "Cleo",
+      "excerpt": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cleo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cleo/",
       "type": "profile",
-      "name": "Kadaxis",
-      "overview": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
-      "website": "https://kadaxis.com/",
+      "name": "Cleo",
+      "otherNames": [
+        "Cleo AI",
+        "Cleo AI Ltd."
+      ],
+      "overview": "Banking is boring... and broken. That's why we made Cleo. She's helped over 1.7 million people in the US, Canada and UK feel better about their money. We launched in 2016, are a fast-growing start-up, backed by the founders of Skype, Transferwise and Zoopla.",
+      "website": "https://www.meetcleo.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/kadaxis",
-        "followers": 50
+        "url": "https://www.linkedin.com/company/cleo-ai/",
+        "followers": 3154
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kadaxis"
+        "url": "https://www.crunchbase.com/organization/cleo-ai"
       },
       "twitter": {
-        "username": "kadaxis",
-        "url": "https://twitter.com/kadaxis",
-        "followers": 28824
+        "username": "meet_cleo",
+        "url": "https://twitter.com/meet_cleo",
+        "followers": 16684
       },
-      "size": "2-10 employees",
-      "yearFounded": 2013,
+      "size": "11-50 employees",
+      "yearFounded": 2016,
       "locations": [
-        "New York, NY",
-        "New York, New York"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=3ELoLhZNxb0"
-        }
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/378800000400606775/857c753a4104fa5ecb94afd6f6e2a5bc_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Kadaxis",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/textio.md",
-      "title": "Textio",
-      "excerpt": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/textio/index.json",
-      "webUrl": "https://everyday.cc/ai/company/textio/",
-      "type": "profile",
-      "name": "Textio",
-      "overview": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
-      "website": "https://textio.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/textio",
-        "followers": 13867
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/textio"
-      },
-      "twitter": {
-        "username": "textio",
-        "url": "https://twitter.com/textio",
-        "followers": 8167
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Seattle",
-        "Seattle, WA",
-        "Seattle, Washington"
+        "London, England"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
-        }
+        "AI in Finance"
       ],
       "heat": 0,
+      "tags": [
+        "FinTech"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1411371007969955843/Octh013m_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Textio",
+          "title": "Cleo",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPlVkqxacimg/company-logo_200_200/0?e=1594857600&v=beta&t=dp1HbwyP3rEk4mwgXaWDQ4npbOuaDbx2Uc52t6f69xk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"

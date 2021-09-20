@@ -2,7 +2,7 @@
 name: "Brainomix"
 overview: "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases."
 type: "profile"
-heat: 58
+heat: 56
 
 website: http://www.brainomix.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "brainomix"
   url: "https://www.twitter.com/brainomix"
-  followers: 965
+  followers: 970
 
 size: 11-50 employees
 yearFounded: 2010
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=S2eI-YOtTZg"
 
-secured: "LVemVDfhWGqJv08YjZXeue2c/bkAPNi4+H5sY0l865XeGXcsFEYjF/hM9zIgFDcDiNdjklSl5MPk2JCySRf7DkpQdaAwRRYn9mpPoYLLYDkesczXTwsbDyc7B6voFiUtx4L3U7cn1enfkaSlupIWnUaUq5fhRUOhlsMmKJboHDi8+QxOjwGVuMt6FRnSeb4OmHm4fSfDW+sdzG7Tc9mf1OImojdNTs9gxScaANp9Zr1OA4tOxzsBK9EO7SZ5stDIjPS1qHuNKbtM8NmG9NO4YUqjp8UO+lJI/sI5B+iJS8OnOMyCzTxkLXBUBbYuJWlJ+m/cd+laXlrd3tL0XniHz+gie8Q3NIZYzFJFmmhPH94It/KqrvvNT3kQI3NOsYojja2j6HnInDutqUaY2STD/g==;ZMPKMd8Rz0UrjY12qPhqLw=="
+secured: "evT0Ng739+1x0EQMJlhl6KIaSk9Za2y7EGpHPWpT6sw0jakel1KnOin6ZGT5F3pxNTcFX1pNBqed97n8aW4/klaC1E3bICXxgWCRTLdXHnBv3DKi1zSX7yoglTb8gQv+1JZ8huaj6Ly8ow11ESAmV6BuPQMGtOSFMzMwyKq1A1sCf0HauFEF9gaJ5JCRcY+37msIiSiqq1spqi5qOQYnc9M6UnpxJbuZdqu9b158l76hcbqgiOBeAuvSaBYW4lehzcX1IvcGq66UweCM8bt3PknjOHp5Xk1cF+EwHmHJvJc+Y92aHphMJgwPcT7oOlcJWsLV29Ww8zqVBi8FUD66T3Q+fI3eUpETnKbwb9vCrmMisLnvWok/cqO4Zu0wkeVRRgKyNs7RVK9vT7EF2ME/Ag==;dDKNfj1QeSzsYtHbhq9QEg=="
 ---
 

@@ -23,7 +23,7 @@
       "twitter": {
         "username": "realtime_i",
         "url": "https://twitter.com/realtime_i",
-        "followers": 1098
+        "followers": 1097
       },
       "size": "2-10 employees",
       "yearFounded": 2016,
@@ -42,7 +42,7 @@
           "url": "https://www.youtube.com/watch?v=hVK2Lbb2IQ0"
         }
       ],
-      "heat": 41,
+      "heat": 49,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1371841664722014211/CTdioH-N_400x400.png",
@@ -55,54 +55,48 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/freedomrobotics.ai.md",
-      "title": "Freedom Robotics",
-      "excerpt": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/freedomrobotics.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/freedomrobotics.ai/",
+      "path": "_companies/softbankrobotics.md",
+      "title": "SoftBank Robotics",
+      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/softbankrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/softbankrobotics/",
       "type": "profile",
-      "name": "Freedom Robotics",
-      "overview": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "website": "https://www.freedomrobotics.ai/",
+      "name": "SoftBank Robotics",
+      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "website": "https://www.softbankrobotics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/freedomrobotics/",
-        "followers": 277
+        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
+        "followers": 426
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/freedom-robotics"
+        "url": "https://www.crunchbase.com/organization/softbank-robotics"
       },
       "twitter": {
-        "username": "FRDMROBOTICS",
-        "url": "https://twitter.com/FRDMROBOTICS",
-        "followers": 521
+        "username": "sbreurope",
+        "url": "https://twitter.com/sbreurope",
+        "followers": 16603
       },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
+      "yearFounded": 0,
       "locations": [
-        "San Francisco, CA"
+        "Tokyo, Tokyo"
       ],
-      "funding": {
-        "status": "Seed"
-      },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
-      "heat": 19,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
+        }
+      ],
+      "heat": 49,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1153450184526852097/B_tcgtrN_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1407644568405917696/WeCkT4jo_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Freedom Robotics",
+          "title": "SoftBank Robotics",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEicfD2VUSuFQ/company-logo_200_200/0?e=1594857600&v=beta&t=OUFYSMVpyrQOq1KKei-sPYD-i7j1l-CfIeVlQb2Tics",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

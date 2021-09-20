@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 10924723
+        "followers": 10989543
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 578,
+      "heat": 568,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -51,56 +51,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFpB9xyi5w8IQ/company-logo_200_200/0?e=1594857600&v=beta&t=Oj-Sjz-EElHRTxrM7MPI1mE5A8YMb76WfHQZ0T7GgmA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/amazon.md",
-      "title": "Amazon",
-      "excerpt": "Amazon Web Services (AWS) has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/amazon/index.json",
-      "webUrl": "https://everyday.cc/ai/company/amazon/",
-      "type": "profile",
-      "name": "Amazon",
-      "overview": "Amazon Web Services (AWS) has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics.",
-      "website": "https://aws.amazon.com/machine-learning/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/amazon/",
-        "followers": 12143964
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/amazon"
-      },
-      "twitter": {
-        "username": "amazon",
-        "url": "https://twitter.com/amazon",
-        "followers": 3843159
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1994,
-      "locations": [
-        "Seattle, WA"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ],
-      "heat": 474,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Amazon",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFdwVGpSOHmgw/company-logo_200_200/0?e=1594857600&v=beta&t=uOHinTrtIcaXJqnZhSqS2wK04UT7r10x-8VmbrCmIUU",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -132,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9664988
+        "followers": 9689577
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -146,7 +96,7 @@
         "AI",
         "Microsoft AI"
       ],
-      "heat": 462,
+      "heat": 498,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1381589380112916487/iiri9xKk_400x400.jpg",
@@ -159,54 +109,47 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/capital.md",
-      "title": "Capital.Com",
-      "excerpt": "We are on a mission to make the world of finance more accessible, engaging and useful.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/capital/index.json",
-      "webUrl": "https://everyday.cc/ai/company/capital/",
+      "path": "_companies/amazon.md",
+      "title": "Amazon",
+      "excerpt": "Amazon Web Services (AWS) has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/amazon/index.json",
+      "webUrl": "https://everyday.cc/ai/company/amazon/",
       "type": "profile",
-      "name": "Capital.Com",
-      "overview": "We are on a mission to make the world of finance more accessible, engaging and useful.",
-      "website": "https://capital.com/",
+      "name": "Amazon",
+      "overview": "Amazon Web Services (AWS) has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics.",
+      "website": "https://aws.amazon.com/machine-learning/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/capital.com/",
-        "followers": 1024
+        "url": "https://www.linkedin.com/company/amazon/",
+        "followers": 12143964
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/capital-com"
+        "url": "https://www.crunchbase.com/organization/amazon"
       },
       "twitter": {
-        "username": "capitalcom",
-        "url": "https://twitter.com/capitalcom",
-        "followers": 39125
+        "username": "amazon",
+        "url": "https://twitter.com/amazon",
+        "followers": 3864127
       },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
+      "size": "10,001+ employees",
+      "yearFounded": 1994,
       "locations": [
-        "London, UK",
-        "London, London"
+        "Seattle, WA"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
-        "AI in Finance"
+        "AWS AI"
       ],
-      "heat": 396,
-      "tags": [
-        "FinTech"
-      ],
+      "heat": 489,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1009095085143752704/v6-UR8NH_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Capital.Com",
+          "title": "Amazon",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQERtmHIEj-vtw/company-logo_200_200/0?e=1594857600&v=beta&t=FZ45s-Nq5GivuT7DPhps6laDuaGvY8VhEX6NcH2RiOI",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFdwVGpSOHmgw/company-logo_200_200/0?e=1594857600&v=beta&t=uOHinTrtIcaXJqnZhSqS2wK04UT7r10x-8VmbrCmIUU",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -244,7 +187,7 @@
             "AI Hardware",
             "Computer Vision"
           ],
-          "heat": 230,
+          "heat": 197,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -274,7 +217,7 @@
             "AI",
             "Google AI"
           ],
-          "heat": 325,
+          "heat": 326,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
@@ -296,7 +239,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 246,
+          "heat": 338,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
@@ -319,7 +262,7 @@
             "AI",
             "AWS AI"
           ],
-          "heat": 474,
+          "heat": 489,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -339,7 +282,7 @@
         }
       ],
       "size": 10,
-      "heat": 390,
+      "heat": 405,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -352,87 +295,99 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/appannie.md",
-      "title": "App Annie",
-      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/appannie/index.json",
-      "webUrl": "https://everyday.cc/ai/company/appannie/",
+      "path": "_companies/capital.md",
+      "title": "Capital.Com",
+      "excerpt": "We are on a mission to make the world of finance more accessible, engaging and useful.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/capital/index.json",
+      "webUrl": "https://everyday.cc/ai/company/capital/",
       "type": "profile",
-      "name": "App Annie",
-      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "website": "https://www.appannie.com/",
+      "name": "Capital.Com",
+      "overview": "We are on a mission to make the world of finance more accessible, engaging and useful.",
+      "website": "https://capital.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/capital.com/",
+        "followers": 1024
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/app-annie"
+        "url": "https://www.crunchbase.com/organization/capital-com"
       },
       "twitter": {
-        "username": "appannie",
-        "url": "https://twitter.com/appannie",
-        "followers": 144208
+        "username": "capitalcom",
+        "url": "https://twitter.com/capitalcom",
+        "followers": 42043
       },
-      "yearFounded": 0,
+      "size": "51-200 employees",
+      "yearFounded": 2016,
       "locations": [
-        "San Francisco, CA"
+        "London, UK",
+        "London, London"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Marketing"
+        "AI in Finance"
       ],
-      "heat": 367,
+      "heat": 350,
+      "tags": [
+        "FinTech"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1009095085143752704/v6-UR8NH_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "App Annie",
+          "title": "Capital.Com",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQERtmHIEj-vtw/company-logo_200_200/0?e=1594857600&v=beta&t=FZ45s-Nq5GivuT7DPhps6laDuaGvY8VhEX6NcH2RiOI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/openai.md",
-      "title": "OpenAI",
-      "excerpt": "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/openai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/openai/",
+      "path": "_companies/salesforce.md",
+      "title": "Salesforce",
+      "excerpt": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/salesforce/index.json",
+      "webUrl": "https://everyday.cc/ai/company/salesforce/",
       "type": "profile",
-      "name": "OpenAI",
-      "overview": "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence.",
-      "website": "https://openai.com/",
+      "name": "Salesforce",
+      "overview": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
+      "website": "https://www.salesforce.com/products/platform/solutions/ai-services/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/openai/",
-        "followers": 35107
+        "url": "https://www.linkedin.com/company/salesforce/",
+        "followers": 1879543
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/openai"
+        "url": "https://www.crunchbase.com/organization/salesforce"
       },
       "twitter": {
-        "username": "OpenAI",
-        "url": "https://twitter.com/OpenAI",
-        "followers": 599739
+        "username": "salesforce",
+        "url": "https://twitter.com/salesforce",
+        "followers": 549580
       },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
+      "size": "10,001+ employees",
+      "yearFounded": 1999,
       "locations": [
         "San Francisco, CA"
       ],
-      "funding": {
-        "status": "Corporate Round"
-      },
       "topics": [
-        "AI",
-        "Computer Vision"
+        "AI"
       ],
-      "heat": 329,
-      "tags": [
-        "Non-profit"
-      ],
+      "heat": 338,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1002240475556823040/lb_Q04CY_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "OpenAI",
+          "title": "Salesforce",
           "isCached": true
         }
       ],
@@ -458,7 +413,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1617412
+        "followers": 1619681
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -472,13 +427,292 @@
         "AI",
         "Google AI"
       ],
-      "heat": 325,
+      "heat": 326,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Google",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/openai.md",
+      "title": "OpenAI",
+      "excerpt": "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/openai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/openai/",
+      "type": "profile",
+      "name": "OpenAI",
+      "overview": "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence.",
+      "website": "https://openai.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/openai/",
+        "followers": 35107
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/openai"
+      },
+      "twitter": {
+        "username": "OpenAI",
+        "url": "https://twitter.com/OpenAI",
+        "followers": 601871
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Corporate Round"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 323,
+      "tags": [
+        "Non-profit"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1002240475556823040/lb_Q04CY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "OpenAI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/collections/ai-companies-in-san-francisco.md",
+      "title": "San Francisco AI Companies",
+      "excerpt": "List of AI companies in San Francisco.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-companies-in-san-francisco/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collections/ai-companies-in-san-francisco/",
+      "type": "collection",
+      "name": "San Francisco AI Companies",
+      "overview": "List of AI companies in San Francisco.",
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Affirm",
+          "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+          "type": "profile",
+          "name": "Affirm",
+          "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 154,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Affirm",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Algolia",
+          "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+          "type": "profile",
+          "name": "Algolia",
+          "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ],
+          "heat": 262,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1410973316152713221/EzAAH_y9_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Algolia",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Anki",
+          "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
+          "type": "profile",
+          "name": "Anki",
+          "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 0,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Anki",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "App Annie",
+          "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+          "type": "profile",
+          "name": "App Annie",
+          "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Marketing"
+          ],
+          "heat": 305,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "App Annie",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 41,
+      "heat": 314,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Affirm",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/ada.md",
+      "title": "Ada Health",
+      "excerpt": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ada/index.json",
+      "webUrl": "https://everyday.cc/ai/company/ada/",
+      "type": "profile",
+      "name": "Ada Health",
+      "overview": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
+      "website": "https://ada.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ada-health",
+        "followers": 8484
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/adahealth"
+      },
+      "twitter": {
+        "username": "adahealth",
+        "url": "https://twitter.com/adahealth",
+        "followers": 26125
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Berlin, Berlin"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"
+        }
+      ],
+      "heat": 306,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/822034097702928384/sBXKrudm_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Ada Health",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGZBwMMCCXb0A/company-logo_200_200/0?e=1594857600&v=beta&t=Bern1o2aAmybykAlzfwA_HLoxywKAwIJODF5fbqiOro",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/appannie.md",
+      "title": "App Annie",
+      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/appannie/index.json",
+      "webUrl": "https://everyday.cc/ai/company/appannie/",
+      "type": "profile",
+      "name": "App Annie",
+      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "website": "https://www.appannie.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/app-annie"
+      },
+      "twitter": {
+        "username": "appannie",
+        "url": "https://twitter.com/appannie",
+        "followers": 145722
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 305,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "App Annie",
           "isCached": true
         }
       ],
@@ -532,64 +766,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/ada.md",
-      "title": "Ada Health",
-      "excerpt": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ada/index.json",
-      "webUrl": "https://everyday.cc/ai/company/ada/",
-      "type": "profile",
-      "name": "Ada Health",
-      "overview": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
-      "website": "https://ada.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/ada-health",
-        "followers": 8484
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/adahealth"
-      },
-      "twitter": {
-        "username": "adahealth",
-        "url": "https://twitter.com/adahealth",
-        "followers": 24458
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Berlin, Berlin"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"
-        }
-      ],
-      "heat": 292,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/822034097702928384/sBXKrudm_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Ada Health",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGZBwMMCCXb0A/company-logo_200_200/0?e=1594857600&v=beta&t=Bern1o2aAmybykAlzfwA_HLoxywKAwIJODF5fbqiOro",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/facebook.md",
       "title": "Facebook",
       "excerpt": "Our mission is to give people the power to build community and bring the world closer together.",
@@ -609,7 +785,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 153034
+        "followers": 154182
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -623,7 +799,7 @@
         "AI",
         "Facebook AI"
       ],
-      "heat": 288,
+      "heat": 291,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1396953660018630658/wlmRTSpz_400x400.jpg",
@@ -662,7 +838,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 59583
+        "followers": 60515
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -681,7 +857,7 @@
           "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
         }
       ],
-      "heat": 278,
+      "heat": 274,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
@@ -694,134 +870,98 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collections/ai-companies-in-san-francisco.md",
-      "title": "San Francisco AI Companies",
-      "excerpt": "List of AI companies in San Francisco.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-companies-in-san-francisco/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collections/ai-companies-in-san-francisco/",
-      "type": "collection",
-      "name": "San Francisco AI Companies",
-      "overview": "List of AI companies in San Francisco.",
-      "yearFounded": 0,
-      "topics": [
-        "AI"
+      "path": "_companies/algolia.md",
+      "title": "Algolia",
+      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/algolia/index.json",
+      "webUrl": "https://everyday.cc/ai/company/algolia/",
+      "type": "profile",
+      "name": "Algolia",
+      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "website": "https://www.algolia.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/algolia",
+        "followers": 12683
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/algolia"
+      },
+      "twitter": {
+        "username": "algolia",
+        "url": "https://twitter.com/algolia",
+        "followers": 22221
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
-      "topItems": [
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
         {
-          "path": "",
-          "title": "Affirm",
-          "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
-          "type": "profile",
-          "name": "Affirm",
-          "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 153,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Affirm",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Algolia",
-          "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-          "type": "profile",
-          "name": "Algolia",
-          "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ],
-          "heat": 225,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1410973316152713221/EzAAH_y9_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Algolia",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Anki",
-          "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-          "type": "profile",
-          "name": "Anki",
-          "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Anki",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "App Annie",
-          "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-          "type": "profile",
-          "name": "App Annie",
-          "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Marketing"
-          ],
-          "heat": 367,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "App Annie",
-              "isCached": true
-            }
-          ]
+          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
         }
       ],
-      "size": 41,
-      "heat": 270,
+      "heat": 262,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1410973316152713221/EzAAH_y9_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Affirm",
+          "title": "Algolia",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/cisco.md",
+      "title": "Cisco",
+      "excerpt": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cisco/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cisco/",
+      "type": "profile",
+      "name": "Cisco",
+      "overview": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
+      "website": "https://www.cisco.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cisco/",
+        "followers": 2993527
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cisco"
+      },
+      "twitter": {
+        "username": "cisco",
+        "url": "https://twitter.com/cisco",
+        "followers": 717639
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1984,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "funding": {
+        "status": "IPO"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "heat": 253,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1412866365162020865/zaWIpruc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Cisco",
           "isCached": true
         }
       ],
@@ -843,7 +983,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1063090
+        "followers": 1063856
       },
       "yearFounded": 0,
       "locations": [
@@ -853,7 +993,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 255,
+      "heat": 249,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
@@ -885,7 +1025,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 203364
+        "followers": 203742
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -902,55 +1042,13 @@
           "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
         }
       ],
-      "heat": 253,
+      "heat": 206,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1410678214947598336/dsD06UBM_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Grammarly",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/salesforce.md",
-      "title": "Salesforce",
-      "excerpt": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/salesforce/index.json",
-      "webUrl": "https://everyday.cc/ai/company/salesforce/",
-      "type": "profile",
-      "name": "Salesforce",
-      "overview": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
-      "website": "https://www.salesforce.com/products/platform/solutions/ai-services/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/salesforce/",
-        "followers": 1879543
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/salesforce"
-      },
-      "twitter": {
-        "username": "salesforce",
-        "url": "https://twitter.com/salesforce",
-        "followers": 546932
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1999,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 246,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Salesforce",
           "isCached": true
         }
       ],
@@ -976,7 +1074,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 75716
+        "followers": 76022
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -993,7 +1091,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 230,
+      "heat": 197,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -1012,58 +1110,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/algolia.md",
-      "title": "Algolia",
-      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/algolia/index.json",
-      "webUrl": "https://everyday.cc/ai/company/algolia/",
-      "type": "profile",
-      "name": "Algolia",
-      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
-      "website": "https://www.algolia.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/algolia",
-        "followers": 12683
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/algolia"
-      },
-      "twitter": {
-        "username": "algolia",
-        "url": "https://twitter.com/algolia",
-        "followers": 21383
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
-        }
-      ],
-      "heat": 225,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410973316152713221/EzAAH_y9_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Algolia",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1088,7 +1134,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 65573
+        "followers": 65835
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1103,7 +1149,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 201,
+      "heat": 182,
       "tags": [
         "Open Source"
       ],
@@ -1145,7 +1191,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 31825
+        "followers": 32091
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -1155,7 +1201,7 @@
       "topics": [
         "AI"
       ],
-      "heat": 192,
+      "heat": 182,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1397133852246646784/Z4XI4oyC_400x400.jpg",
@@ -1168,101 +1214,47 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/cisco.md",
-      "title": "Cisco",
-      "excerpt": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cisco/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cisco/",
+      "path": "_companies/argo.ai.md",
+      "title": "Argo AI",
+      "excerpt": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/argo.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/argo.ai/",
       "type": "profile",
-      "name": "Cisco",
-      "overview": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
-      "website": "https://www.cisco.com/",
+      "name": "Argo AI",
+      "overview": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
+      "website": "https://argo.ai",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/cisco/",
-        "followers": 2993527
+        "url": "https://www.linkedin.com/company/argo-ai/",
+        "followers": 23051
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cisco"
+        "url": "https://www.crunchbase.com/organization/argo-ai"
       },
       "twitter": {
-        "username": "cisco",
-        "url": "https://twitter.com/cisco",
-        "followers": 716877
+        "username": "argoai",
+        "url": "https://twitter.com/argoai",
+        "followers": 6918
       },
-      "size": "10,001+ employees",
-      "yearFounded": 1984,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "funding": {
-        "status": "IPO"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "heat": 189,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1412866365162020865/zaWIpruc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Cisco",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aurora.tech.md",
-      "title": "Aurora",
-      "excerpt": "Aurora works at the intersection of rigorous engineering and applied machine learning to address one of the most challenging, important, and interesting opportunities of our generation: transforming the way people and goods move.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aurora.tech/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aurora.tech/",
-      "type": "profile",
-      "name": "Aurora",
-      "overview": "Aurora works at the intersection of rigorous engineering and applied machine learning to address one of the most challenging, important, and interesting opportunities of our generation: transforming the way people and goods move.",
-      "website": "https://aurora.tech/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/aurora-inc./",
-        "followers": 21206
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aurora-6292"
-      },
-      "twitter": {
-        "username": "aurora_inno",
-        "url": "https://twitter.com/aurora_inno",
-        "followers": 11014
-      },
-      "size": "201-500 employees",
+      "size": "501-1,000 employees",
       "yearFounded": 2016,
       "locations": [
-        "Palo Alto, CA",
-        "Palo Alto, California"
+        "Pittsburgh, PA",
+        "Pittsburgh, Pennsylvania"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Autos"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=4J742uB60NY"
-        }
-      ],
-      "heat": 176,
+      "heat": 168,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1410627461721821192/sPS0s8xu_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Aurora",
+          "title": "Argo AI",
           "isCached": true
         }
       ],
@@ -1292,7 +1284,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 68647
+        "followers": 68798
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1306,7 +1298,7 @@
         "AI in Autos",
         "Google AI"
       ],
-      "heat": 168,
+      "heat": 156,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg",
@@ -1317,116 +1309,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/0?e=1594857600&v=beta&t=2gmVWfRzWXm_TA0O51VpuiSa3HylZVVKIOwJAVaqLD4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/upstart.md",
-      "title": "Upstart",
-      "excerpt": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/upstart/index.json",
-      "webUrl": "https://everyday.cc/ai/company/upstart/",
-      "type": "profile",
-      "name": "Upstart",
-      "overview": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
-      "website": "https://www.upstart.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/upstart-network",
-        "followers": 13116
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/upstart"
-      },
-      "twitter": {
-        "username": "Upstart",
-        "url": "https://twitter.com/Upstart",
-        "followers": 11828
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 164,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Upstart",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_200_200/0?e=1594857600&v=beta&t=ONJh0s-94jz3Jo4zprPNTdk0Q4nxzkwAP5hBFmQ76rI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sentinelone.md",
-      "title": "SentinelOne",
-      "excerpt": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentinelone/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sentinelone/",
-      "type": "profile",
-      "name": "SentinelOne",
-      "overview": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
-      "website": "https://www.sentinelone.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2886771",
-        "followers": 28543
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sentinel"
-      },
-      "twitter": {
-        "username": "SentinelOne",
-        "url": "https://twitter.com/SentinelOne",
-        "followers": 13571
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 163,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1195190599214780416/5D8xm_lm_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "SentinelOne",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEw-a3g3SOsvg/company-logo_200_200/0?e=1594857600&v=beta&t=FR07UQ27QgcTP7P7FjmDc6SmAQnvsU76Xj9Swb0HMIU",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1455,7 +1337,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 12907
+        "followers": 13042
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1475,7 +1357,7 @@
           "url": "https://www.youtube.com/watch?v=Ex1KJSLIoKU"
         }
       ],
-      "heat": 153,
+      "heat": 154,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
@@ -1486,107 +1368,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/twilio.md",
-      "title": "Twilio",
-      "excerpt": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/twilio/index.json",
-      "webUrl": "https://everyday.cc/ai/company/twilio/",
-      "type": "profile",
-      "name": "Twilio",
-      "overview": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
-      "website": "https://www.twilio.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/twilio-inc-/",
-        "followers": 64799
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/twilio"
-      },
-      "twitter": {
-        "username": "twilio",
-        "url": "https://twitter.com/twilio",
-        "followers": 80159
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2008,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 147,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410624514443169793/HSCyvRCZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Twilio",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/ubtrobot.md",
-      "title": "UBTech Robotics",
-      "excerpt": "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ubtrobot/index.json",
-      "webUrl": "https://everyday.cc/ai/company/ubtrobot/",
-      "type": "profile",
-      "name": "UBTech Robotics",
-      "overview": "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube.",
-      "website": "https://ubtrobot.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/ubtech-robotics/",
-        "followers": 16275
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ubtech"
-      },
-      "twitter": {
-        "username": "ubtechrobotics",
-        "url": "https://twitter.com/ubtechrobotics",
-        "followers": 83321
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Shenzhen, Guangdong"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=gOpQlk8afzs"
-        }
-      ],
-      "heat": 142,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1112250977103441926/hz90Ld4q_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "UBTech Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHh_PP4bpXcmw/company-logo_200_200/0?e=1594857600&v=beta&t=tSlz81LKeil-9jIvrcwGOWw_jZaH_bap7tZRkqHrI4E",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1618,7 +1399,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 11047
+        "followers": 11198
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1634,7 +1415,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 140,
+      "heat": 153,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
@@ -1652,6 +1433,211 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/twilio.md",
+      "title": "Twilio",
+      "excerpt": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/twilio/index.json",
+      "webUrl": "https://everyday.cc/ai/company/twilio/",
+      "type": "profile",
+      "name": "Twilio",
+      "overview": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
+      "website": "https://www.twilio.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/twilio-inc-/",
+        "followers": 64799
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/twilio"
+      },
+      "twitter": {
+        "username": "twilio",
+        "url": "https://twitter.com/twilio",
+        "followers": 80273
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2008,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410624514443169793/HSCyvRCZ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Twilio",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/baidu.md",
+      "title": "Baidu",
+      "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/baidu/index.json",
+      "webUrl": "https://everyday.cc/ai/company/baidu/",
+      "type": "profile",
+      "name": "Baidu",
+      "overview": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "website": "http://ai.baidu.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/baidu-inc/",
+        "followers": 209798
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/baidu"
+      },
+      "twitter": {
+        "username": "BaiduResearch",
+        "url": "https://twitter.com/BaiduResearch",
+        "followers": 55747
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 2000,
+      "locations": [
+        "Beijing"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 133,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/938436175366209536/BdWf35Wt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Baidu",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1594857600&v=beta&t=rv-BLIGYTnAtAPcouS-hsXcM5b7Bb7dAYmS5MBR9p8Q",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sentinelone.md",
+      "title": "SentinelOne",
+      "excerpt": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentinelone/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sentinelone/",
+      "type": "profile",
+      "name": "SentinelOne",
+      "overview": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
+      "website": "https://www.sentinelone.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2886771",
+        "followers": 28543
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sentinel"
+      },
+      "twitter": {
+        "username": "SentinelOne",
+        "url": "https://twitter.com/SentinelOne",
+        "followers": 13667
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 127,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1195190599214780416/5D8xm_lm_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "SentinelOne",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEw-a3g3SOsvg/company-logo_200_200/0?e=1594857600&v=beta&t=FR07UQ27QgcTP7P7FjmDc6SmAQnvsU76Xj9Swb0HMIU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/upstart.md",
+      "title": "Upstart",
+      "excerpt": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/upstart/index.json",
+      "webUrl": "https://everyday.cc/ai/company/upstart/",
+      "type": "profile",
+      "name": "Upstart",
+      "overview": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
+      "website": "https://www.upstart.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/upstart-network",
+        "followers": 13116
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/upstart"
+      },
+      "twitter": {
+        "username": "Upstart",
+        "url": "https://twitter.com/Upstart",
+        "followers": 11905
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Mateo, CA",
+        "San Mateo, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 123,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Upstart",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_200_200/0?e=1594857600&v=beta&t=ONJh0s-94jz3Jo4zprPNTdk0Q4nxzkwAP5hBFmQ76rI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1680,7 +1666,7 @@
       "twitter": {
         "username": "RethinkRobotics",
         "url": "https://twitter.com/RethinkRobotics",
-        "followers": 32661
+        "followers": 32734
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1699,7 +1685,7 @@
           "url": "https://www.youtube.com/watch?v=DSy-NXSldz0"
         }
       ],
-      "heat": 135,
+      "heat": 121,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg",

@@ -4,29 +4,132 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/insightengines.md",
-      "title": "Insight Engines",
-      "excerpt": "Research discovery with artificial intelligence - for academia and chemical research.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/insightengines/index.json",
-      "webUrl": "https://everyday.cc/ai/company/insightengines/",
+      "path": "_companies/hibrainy.md",
+      "title": "HiBrainy",
+      "excerpt": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/hibrainy/index.json",
+      "webUrl": "https://everyday.cc/ai/company/hibrainy/",
       "type": "profile",
-      "name": "Insight Engines",
-      "overview": "Research discovery with artificial intelligence - for academia and chemical research.",
-      "website": "https://insightengines.com/",
+      "name": "HiBrainy",
+      "overview": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
+      "website": "https://hibrainy.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/hibrainy/",
+        "followers": 164
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/insight-engines-inc"
+        "url": "https://www.crunchbase.com/organization/hibrainy"
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Paris, France",
+        "Paris, Île-de-France"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=El38XJxRoRo"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/716759222969434112/NeRM_ewU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "HiBrainy",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/invoca.md",
+      "title": "Invoca",
+      "excerpt": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/invoca/index.json",
+      "webUrl": "https://everyday.cc/ai/company/invoca/",
+      "type": "profile",
+      "name": "Invoca",
+      "overview": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
+      "website": "https://www.invoca.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/invoca-com/",
+        "followers": 8022
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/invoca"
       },
       "twitter": {
-        "username": "insightengines",
-        "url": "https://twitter.com/insightengines",
-        "followers": 229
+        "username": "Invoca",
+        "url": "https://twitter.com/Invoca",
+        "followers": 4442
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2008,
+      "locations": [
+        "Santa Barbara, CA",
+        "Santa Barbara, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=NLLaC8pNKY8"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410447114690125835/J6gF3Aqg_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Invoca",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/iris.ai.md",
+      "title": "Iris.ai",
+      "excerpt": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/iris.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/iris.ai/",
+      "type": "profile",
+      "name": "Iris.ai",
+      "overview": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
+      "website": "https://iris.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/iris-ai"
+      },
+      "twitter": {
+        "username": "theirisai",
+        "url": "https://twitter.com/theirisai",
+        "followers": 2918
       },
       "yearFounded": 0,
       "locations": [
-        "Norway"
+        "London, England"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
@@ -34,16 +137,16 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=iD4tlJ-ECZo"
+          "url": "https://www.youtube.com/watch?v=rgmchbwHKHE"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/778092205093322752/BNor8pkI_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/695689454300872704/Kc3D5Y6I_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Insight Engines",
+          "title": "Iris.ai",
           "isCached": true
         }
       ],
@@ -69,7 +172,7 @@
       "twitter": {
         "username": "JustAIglobal",
         "url": "https://twitter.com/JustAIglobal",
-        "followers": 1088
+        "followers": 1087
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -135,49 +238,6 @@
           "height": 400,
           "title": "Klarity",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/lighttag.io.md",
-      "title": "LightTag",
-      "excerpt": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lighttag.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/lighttag.io/",
-      "type": "profile",
-      "name": "LightTag",
-      "overview": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
-      "website": "https://www.lighttag.io/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lighttag"
-      },
-      "twitter": {
-        "username": "LabeledData",
-        "url": "https://twitter.com/LabeledData",
-        "followers": 161
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=dA2uo9sGIj8"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1306917715408543750/b4hTeZ27_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "LightTag",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -282,35 +342,35 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/signal-ai.md",
-      "title": "Signal AI",
-      "excerpt": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/signal-ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/signal-ai/",
+      "path": "_companies/rossintelligence.md",
+      "title": "ROSS Intelligence",
+      "excerpt": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rossintelligence/index.json",
+      "webUrl": "https://everyday.cc/ai/company/rossintelligence/",
       "type": "profile",
-      "name": "Signal AI",
-      "overview": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "website": "http://www.signal-ai.com/",
+      "name": "ROSS Intelligence",
+      "overview": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
+      "website": "https://rossintelligence.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/signal-artificial-intelligence/",
-        "followers": 6492
+        "url": "https://www.linkedin.com/company/5385357/",
+        "followers": 3215
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/signal-media-ltd"
+        "url": "https://www.crunchbase.com/organization/ross-intelligence"
       },
       "twitter": {
-        "username": "SignalHQ",
-        "url": "https://twitter.com/SignalHQ",
-        "followers": 2566
+        "username": "ROSSIntel",
+        "url": "https://twitter.com/ROSSIntel",
+        "followers": 5379
       },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
+      "size": "11-50 employees",
+      "yearFounded": 2014,
       "locations": [
-        "London, UK",
-        "London, England"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
@@ -318,16 +378,16 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=QWC7T-G_reQ"
+          "url": "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1403020094465314821/BHOPDK40_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1174312638328840192/ErbzJaM6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Signal AI",
+          "title": "ROSS Intelligence",
           "isCached": true
         }
       ],
@@ -375,55 +435,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/speechmatics.md",
-      "title": "Speechmatics",
-      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/speechmatics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/speechmatics/",
-      "type": "profile",
-      "name": "Speechmatics",
-      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "website": "https://www.speechmatics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/speechmatics/",
-        "followers": 2744
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/speechmatics"
-      },
-      "twitter": {
-        "username": "Speechmatics",
-        "url": "https://twitter.com/Speechmatics",
-        "followers": 1321
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "Cambridge"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1413124127582560256/3M6wR86C_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Speechmatics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/taiger.md",
       "title": "Taiger",
       "excerpt": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
@@ -443,7 +454,7 @@
       "twitter": {
         "username": "Taiger_CO",
         "url": "https://twitter.com/Taiger_CO",
-        "followers": 551
+        "followers": 550
       },
       "size": "51-200 employees",
       "yearFounded": 2009,
@@ -477,89 +488,83 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/winterlightlabs.md",
-      "title": "Winterlight Labs",
-      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/winterlightlabs/index.json",
-      "webUrl": "https://everyday.cc/ai/company/winterlightlabs/",
+      "path": "_companies/twiggle.md",
+      "title": "Twiggle",
+      "excerpt": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/twiggle/index.json",
+      "webUrl": "https://everyday.cc/ai/company/twiggle/",
       "type": "profile",
-      "name": "Winterlight Labs",
-      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "website": "https://winterlightlabs.com/",
+      "name": "Twiggle",
+      "overview": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
+      "website": "https://www.twiggle.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/winterlight-labs/",
-        "followers": 553
+        "url": "https://www.linkedin.com/company/twiggle/",
+        "followers": 1707
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/winterlight"
+        "url": "https://www.crunchbase.com/organization/twiggle"
       },
       "twitter": {
-        "username": "winterlightlabs",
-        "url": "https://twitter.com/winterlightlabs",
-        "followers": 831
+        "username": "twiggle_com",
+        "url": "https://twitter.com/twiggle_com",
+        "followers": 301
       },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
+      "size": "51-200 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Toronto, Ontario"
+        "Tel Aviv-Yafo, Israel",
+        "Tel Aviv, Tel Aviv"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing",
-        "Machine Learning",
-        "AI in Healthcare"
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=6qXk_fYvETY"
+        }
       ],
       "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/814412371963899904/aVyGZY7g_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Winterlight Labs",
+          "title": "Twiggle",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/wrappup.ai.md",
-      "title": "Wrappup",
-      "excerpt": "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wrappup.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/wrappup.ai/",
+      "path": "_companies/voicebox.md",
+      "title": "VoiceBox Technologies",
+      "excerpt": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voicebox/index.json",
+      "webUrl": "https://everyday.cc/ai/company/voicebox/",
       "type": "profile",
-      "name": "Wrappup",
-      "overview": "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe",
-      "website": "http://www.wrappup.ai/",
+      "name": "VoiceBox Technologies",
+      "overview": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
+      "website": "http://www.voicebox.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/wrappup",
-        "followers": 271
+        "url": "https://www.linkedin.com/company/voicebox-technologies",
+        "followers": 1385
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/wrappup"
+        "url": "https://www.crunchbase.com/organization/voicebox-technologies"
       },
       "twitter": {
-        "username": "justwrappup",
-        "url": "https://twitter.com/justwrappup",
-        "followers": 448
+        "username": "VoiceBox_Tech",
+        "url": "https://twitter.com/VoiceBox_Tech",
+        "followers": 746
       },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
+      "size": "201-500 employees",
+      "yearFounded": 2001,
       "locations": [
-        "United States"
+        "Bellevue, WA"
       ],
       "topics": [
         "AI",
@@ -567,19 +572,16 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=wovsuTYqnC8"
+          "url": "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
         }
       ],
       "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/646582005182803969/XdyDLY2T_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/845362901527379968/9U43aLaV_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Wrappup",
+          "title": "VoiceBox Technologies",
           "isCached": true
         }
       ],
@@ -640,33 +642,295 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/armorblox.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/armorblox/index.json",
-      "webUrl": "https://everyday.cc/ai/company/armorblox/",
+      "path": "_companies/botanic.io.md",
+      "title": "Botanic.io",
+      "excerpt": "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/botanic.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/botanic.io/",
       "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "website": "https://www.armorblox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2942
-      },
+      "name": "Botanic.io",
+      "overview": "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content.",
+      "website": "https://botanic.io",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/armorblox"
+        "url": "https://www.crunchbase.com/organization/botanic"
       },
       "twitter": {
-        "username": "armorblox",
-        "url": "https://twitter.com/armorblox",
-        "followers": 344
+        "username": "botanic_io",
+        "url": "https://www.twitter.com/botanic_io",
+        "followers": 567
+      },
+      "yearFounded": 0,
+      "locations": [
+        "CA, USA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-RfVBN3nfRs"
+        }
+      ],
+      "heat": 49,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/879878141384073217/mLv_w8vA_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Botanic.io",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/notable.md",
+      "title": "Notable",
+      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/notable/index.json",
+      "webUrl": "https://everyday.cc/ai/company/notable/",
+      "type": "profile",
+      "name": "Notable",
+      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "website": "http://notablehealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/notablehealth/",
+        "followers": 760
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/notable"
+      },
+      "twitter": {
+        "username": "notablehealth",
+        "url": "https://twitter.com/notablehealth",
+        "followers": 287
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
       "locations": [
-        "Cupertino, CA",
-        "Pasadena, CA",
-        "Pasadena, California"
+        "San Mateo, CA",
+        "San Mateo, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ],
+      "heat": 49,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1037421685069242369/f9VitPKO_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Notable",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/persado.md",
+      "title": "Persado",
+      "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/persado/index.json",
+      "webUrl": "https://everyday.cc/ai/company/persado/",
+      "type": "profile",
+      "name": "Persado",
+      "overview": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
+      "website": "https://www.persado.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/persado",
+        "followers": 13074
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/persado"
+      },
+      "twitter": {
+        "username": "persado",
+        "url": "https://www.twitter.com/persado",
+        "followers": 5198
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Fremont, CA",
+        "New York, NY",
+        "New York, New York"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Ig4B5roBgao"
+        }
+      ],
+      "heat": 49,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1359197249838874628/avr1lbZ-_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Persado",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tact.ai.md",
+      "title": "Tact.ai",
+      "excerpt": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tact.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/tact.ai/",
+      "type": "profile",
+      "name": "Tact.ai",
+      "overview": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
+      "website": "https://tact.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/tact.ai",
+        "followers": 3096
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tactile"
+      },
+      "twitter": {
+        "username": "tact_ai",
+        "url": "https://twitter.com/tact_ai",
+        "followers": 1284
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Redwood City, CA",
+        "Redwood City, CA",
+        "Sunnyvale, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=HntmBF0px3A"
+        }
+      ],
+      "heat": 49,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410509538978013184/L2-aJGlS_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Tact.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/textio.md",
+      "title": "Textio",
+      "excerpt": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/textio/index.json",
+      "webUrl": "https://everyday.cc/ai/company/textio/",
+      "type": "profile",
+      "name": "Textio",
+      "overview": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
+      "website": "https://textio.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/textio",
+        "followers": 13867
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/textio"
+      },
+      "twitter": {
+        "username": "textio",
+        "url": "https://twitter.com/textio",
+        "followers": 8166
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Seattle",
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
+        }
+      ],
+      "heat": 49,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1411371007969955843/Octh013m_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Textio",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/winterlightlabs.md",
+      "title": "Winterlight Labs",
+      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/winterlightlabs/index.json",
+      "webUrl": "https://everyday.cc/ai/company/winterlightlabs/",
+      "type": "profile",
+      "name": "Winterlight Labs",
+      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "website": "https://winterlightlabs.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/winterlight-labs/",
+        "followers": 553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/winterlight"
+      },
+      "twitter": {
+        "username": "winterlightlabs",
+        "url": "https://twitter.com/winterlightlabs",
+        "followers": 830
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Toronto, Ontario"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -674,19 +938,385 @@
       "topics": [
         "AI",
         "Natural Language Processing",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Healthcare"
       ],
-      "heat": 41,
+      "heat": 49,
+      "tags": [
+        "Speech Recognition"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1412921976675516416/H1nnCwR5_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Deep 6 AI",
+          "title": "Winterlight Labs",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/agolo.md",
+      "title": "Agolo",
+      "excerpt": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/agolo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/agolo/",
+      "type": "profile",
+      "name": "Agolo",
+      "overview": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
+      "website": "http://www.agolo.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/agolo",
+        "followers": 953
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/agolo"
+      },
+      "twitter": {
+        "username": "agolo",
+        "url": "https://twitter.com/agolo",
+        "followers": 748
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "New York, NY",
+        "New York, NY"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=rijPqvv1xSc"
+        }
+      ],
+      "heat": 48,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/588095780126208000/n336QMMR_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Agolo",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/semanticmachines.md",
+      "title": "Semantic Machines",
+      "excerpt": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/semanticmachines/index.json",
+      "webUrl": "https://everyday.cc/ai/company/semanticmachines/",
+      "type": "profile",
+      "name": "Semantic Machines",
+      "overview": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
+      "website": "http://www.semanticmachines.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/semantic-machines/",
+        "followers": 0
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/semantic-machines"
+      },
+      "twitter": {
+        "username": "semmachines",
+        "url": "https://twitter.com/semmachines",
+        "followers": 455
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Boston and Berkeley"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=DxrJWSi_IWo"
+        }
+      ],
+      "heat": 48,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/624298774974828544/YC-qPtib_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Semantic Machines",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/speechmatics.md",
+      "title": "Speechmatics",
+      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/speechmatics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/speechmatics/",
+      "type": "profile",
+      "name": "Speechmatics",
+      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "website": "https://www.speechmatics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/speechmatics/",
+        "followers": 2744
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/speechmatics"
+      },
+      "twitter": {
+        "username": "Speechmatics",
+        "url": "https://twitter.com/Speechmatics",
+        "followers": 1320
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "Cambridge"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 48,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1413124127582560256/3M6wR86C_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Speechmatics",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/automatedinsights.md",
+      "title": "Automated Insights",
+      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/automatedinsights/index.json",
+      "webUrl": "https://everyday.cc/ai/company/automatedinsights/",
+      "type": "profile",
+      "name": "Automated Insights",
+      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "website": "https://automatedinsights.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2708220",
+        "followers": 3336
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/automated-insights"
+      },
+      "twitter": {
+        "username": "AInsights",
+        "url": "https://twitter.com/AInsights",
+        "followers": 4627
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2007,
+      "locations": [
+        "San Francisco, CA",
+        "Durham, NC"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ziizj6u1f6M"
+        }
+      ],
+      "heat": 46,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1158846406498668545/zDApgLbP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Automated Insights",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lexmachina.md",
+      "title": "Lex Machina",
+      "excerpt": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lexmachina/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lexmachina/",
+      "type": "profile",
+      "name": "Lex Machina",
+      "overview": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
+      "website": "https://lexmachina.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/732353",
+        "followers": 2484
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lex-machina"
+      },
+      "twitter": {
+        "username": "lexmachina",
+        "url": "https://twitter.com/lexmachina",
+        "followers": 5312
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=6Hg_SXrumV4"
+        }
+      ],
+      "heat": 46,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1286777045360377857/aqKDO9by_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lex Machina",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVs0DaphlwZQ/company-logo_200_200/0?e=1594857600&v=beta&t=DOQKNW1nIiylXeJvYR6Z6Y5rxBF2tzD7JIQ2Yg47g7c",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/wrappup.ai.md",
+      "title": "Wrappup",
+      "excerpt": "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wrappup.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/wrappup.ai/",
+      "type": "profile",
+      "name": "Wrappup",
+      "overview": "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe",
+      "website": "http://www.wrappup.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/wrappup",
+        "followers": 271
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/wrappup"
+      },
+      "twitter": {
+        "username": "justwrappup",
+        "url": "https://twitter.com/justwrappup",
+        "followers": 445
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "United States"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wovsuTYqnC8"
+        }
+      ],
+      "heat": 46,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/646582005182803969/XdyDLY2T_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Wrappup",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/narrativescience.md",
+      "title": "Narrative Science",
+      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrativescience/index.json",
+      "webUrl": "https://everyday.cc/ai/company/narrativescience/",
+      "type": "profile",
+      "name": "Narrative Science",
+      "overview": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
+      "website": "https://narrativescience.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/narrative-science/",
+        "followers": 6514
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/narrative-science"
+      },
+      "twitter": {
+        "username": "narrativesci",
+        "url": "https://twitter.com/narrativesci",
+        "followers": 7249
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Chicago, IL",
+        "Chicago, Illinois"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "heat": 42,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Narrative Science",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -719,7 +1349,7 @@
       "twitter": {
         "username": "Dialogflow",
         "url": "https://twitter.com/Dialogflow",
-        "followers": 12088
+        "followers": 12083
       },
       "size": "11-50 employees",
       "yearFounded": 2010,
@@ -736,7 +1366,7 @@
           "url": "https://www.youtube.com/watch?v=ADD-rvsS5z4"
         }
       ],
-      "heat": 41,
+      "heat": 36,
       "tags": [
         "Speech Recognition"
       ],
@@ -746,478 +1376,6 @@
           "width": 400,
           "height": 400,
           "title": "Dialogflow",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/invoca.md",
-      "title": "Invoca",
-      "excerpt": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/invoca/index.json",
-      "webUrl": "https://everyday.cc/ai/company/invoca/",
-      "type": "profile",
-      "name": "Invoca",
-      "overview": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
-      "website": "https://www.invoca.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/invoca-com/",
-        "followers": 8022
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/invoca"
-      },
-      "twitter": {
-        "username": "Invoca",
-        "url": "https://twitter.com/Invoca",
-        "followers": 4442
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2008,
-      "locations": [
-        "Santa Barbara, CA",
-        "Santa Barbara, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=NLLaC8pNKY8"
-        }
-      ],
-      "heat": 41,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410447114690125835/J6gF3Aqg_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Invoca",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/iris.ai.md",
-      "title": "Iris.ai",
-      "excerpt": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/iris.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/iris.ai/",
-      "type": "profile",
-      "name": "Iris.ai",
-      "overview": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
-      "website": "https://iris.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/iris-ai"
-      },
-      "twitter": {
-        "username": "theirisai",
-        "url": "https://twitter.com/theirisai",
-        "followers": 2918
-      },
-      "yearFounded": 0,
-      "locations": [
-        "London, England"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=rgmchbwHKHE"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/695689454300872704/Kc3D5Y6I_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Iris.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/lexmachina.md",
-      "title": "Lex Machina",
-      "excerpt": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lexmachina/index.json",
-      "webUrl": "https://everyday.cc/ai/company/lexmachina/",
-      "type": "profile",
-      "name": "Lex Machina",
-      "overview": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
-      "website": "https://lexmachina.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/732353",
-        "followers": 2484
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lex-machina"
-      },
-      "twitter": {
-        "username": "lexmachina",
-        "url": "https://twitter.com/lexmachina",
-        "followers": 5317
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=6Hg_SXrumV4"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1286777045360377857/aqKDO9by_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Lex Machina",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVs0DaphlwZQ/company-logo_200_200/0?e=1594857600&v=beta&t=DOQKNW1nIiylXeJvYR6Z6Y5rxBF2tzD7JIQ2Yg47g7c",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/notable.md",
-      "title": "Notable",
-      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/notable/index.json",
-      "webUrl": "https://everyday.cc/ai/company/notable/",
-      "type": "profile",
-      "name": "Notable",
-      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "website": "http://notablehealth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/notablehealth/",
-        "followers": 760
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/notable"
-      },
-      "twitter": {
-        "username": "notablehealth",
-        "url": "https://twitter.com/notablehealth",
-        "followers": 288
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
-      ],
-      "heat": 41,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1037421685069242369/f9VitPKO_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Notable",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/semanticmachines.md",
-      "title": "Semantic Machines",
-      "excerpt": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/semanticmachines/index.json",
-      "webUrl": "https://everyday.cc/ai/company/semanticmachines/",
-      "type": "profile",
-      "name": "Semantic Machines",
-      "overview": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
-      "website": "http://www.semanticmachines.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/semantic-machines/",
-        "followers": 0
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/semantic-machines"
-      },
-      "twitter": {
-        "username": "semmachines",
-        "url": "https://twitter.com/semmachines",
-        "followers": 456
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Boston and Berkeley"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=DxrJWSi_IWo"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/624298774974828544/YC-qPtib_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Semantic Machines",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tact.ai.md",
-      "title": "Tact.ai",
-      "excerpt": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tact.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/tact.ai/",
-      "type": "profile",
-      "name": "Tact.ai",
-      "overview": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
-      "website": "https://tact.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/tact.ai",
-        "followers": 3096
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tactile"
-      },
-      "twitter": {
-        "username": "tact_ai",
-        "url": "https://twitter.com/tact_ai",
-        "followers": 1285
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Redwood City, CA",
-        "Redwood City, CA",
-        "Sunnyvale, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=HntmBF0px3A"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410509538978013184/L2-aJGlS_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Tact.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/trint.md",
-      "title": "Trint",
-      "excerpt": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/trint/index.json",
-      "webUrl": "https://everyday.cc/ai/company/trint/",
-      "type": "profile",
-      "name": "Trint",
-      "overview": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
-      "website": "https://www.trint.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/trint/",
-        "followers": 3523
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/trint"
-      },
-      "twitter": {
-        "username": "trinthq",
-        "url": "https://twitter.com/trinthq",
-        "followers": 1925
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "London",
-        "London, Greater London"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=CP-0vxaBKbo"
-        }
-      ],
-      "heat": 41,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1262996074635177987/ROGSdua4_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Trint",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/voicebox.md",
-      "title": "VoiceBox Technologies",
-      "excerpt": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voicebox/index.json",
-      "webUrl": "https://everyday.cc/ai/company/voicebox/",
-      "type": "profile",
-      "name": "VoiceBox Technologies",
-      "overview": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
-      "website": "http://www.voicebox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/voicebox-technologies",
-        "followers": 1385
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/voicebox-technologies"
-      },
-      "twitter": {
-        "username": "VoiceBox_Tech",
-        "url": "https://twitter.com/VoiceBox_Tech",
-        "followers": 746
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2001,
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/845362901527379968/9U43aLaV_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "VoiceBox Technologies",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/automatedinsights.md",
-      "title": "Automated Insights",
-      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/automatedinsights/index.json",
-      "webUrl": "https://everyday.cc/ai/company/automatedinsights/",
-      "type": "profile",
-      "name": "Automated Insights",
-      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "website": "https://automatedinsights.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2708220",
-        "followers": 3336
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/automated-insights"
-      },
-      "twitter": {
-        "username": "AInsights",
-        "url": "https://twitter.com/AInsights",
-        "followers": 4631
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "San Francisco, CA",
-        "Durham, NC"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ziizj6u1f6M"
-        }
-      ],
-      "heat": 31,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1158846406498668545/zDApgLbP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Automated Insights",
           "isCached": true
         }
       ],
@@ -1243,7 +1401,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 12599
+        "followers": 12582
       },
       "size": "201-500 employees",
       "yearFounded": 2007,
@@ -1264,7 +1422,7 @@
           "url": "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
         }
       ],
-      "heat": 31,
+      "heat": 24,
       "tags": [
         "Natural Language Generation"
       ],
@@ -1274,58 +1432,6 @@
           "width": 400,
           "height": 400,
           "title": "Conversica",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/rossintelligence.md",
-      "title": "ROSS Intelligence",
-      "excerpt": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rossintelligence/index.json",
-      "webUrl": "https://everyday.cc/ai/company/rossintelligence/",
-      "type": "profile",
-      "name": "ROSS Intelligence",
-      "overview": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
-      "website": "https://rossintelligence.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/5385357/",
-        "followers": 3215
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ross-intelligence"
-      },
-      "twitter": {
-        "username": "ROSSIntel",
-        "url": "https://twitter.com/ROSSIntel",
-        "followers": 5380
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
-        }
-      ],
-      "heat": 4,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1174312638328840192/ErbzJaM6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "ROSS Intelligence",
           "isCached": true
         }
       ],
@@ -1358,7 +1464,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 51593
+        "followers": 51497
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1387,108 +1493,6 @@
           "width": 400,
           "height": 400,
           "title": "Mobvoi",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/kadaxis.md",
-      "title": "Kadaxis",
-      "excerpt": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kadaxis/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kadaxis/",
-      "type": "profile",
-      "name": "Kadaxis",
-      "overview": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
-      "website": "https://kadaxis.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/kadaxis",
-        "followers": 50
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kadaxis"
-      },
-      "twitter": {
-        "username": "kadaxis",
-        "url": "https://twitter.com/kadaxis",
-        "followers": 28824
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "New York, NY",
-        "New York, New York"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=3ELoLhZNxb0"
-        }
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/378800000400606775/857c753a4104fa5ecb94afd6f6e2a5bc_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Kadaxis",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/textio.md",
-      "title": "Textio",
-      "excerpt": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/textio/index.json",
-      "webUrl": "https://everyday.cc/ai/company/textio/",
-      "type": "profile",
-      "name": "Textio",
-      "overview": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
-      "website": "https://textio.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/textio",
-        "followers": 13867
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/textio"
-      },
-      "twitter": {
-        "username": "textio",
-        "url": "https://twitter.com/textio",
-        "followers": 8167
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Seattle",
-        "Seattle, WA",
-        "Seattle, Washington"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
-        }
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1411371007969955843/Octh013m_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Textio",
           "isCached": true
         }
       ],

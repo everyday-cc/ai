@@ -2,7 +2,7 @@
 name: "Deep 6 AI"
 overview: "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss."
 type: "profile"
-heat: 41
+heat: 53
 
 website: https://www.armorblox.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "armorblox"
   url: "https://twitter.com/armorblox"
-  followers: 344
+  followers: 347
 
 size: 11-50 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "ivw+KrLlmnAoPpj0u71C00InZ635ZQX5SVRu6jexylq0jArUXmdLyP0av3h7G2wudb79ps+bfPiP+B9YYd4xMBY3xa7K0YhE21gW9RgU+bpEjOO414T2bRB9r435k84iGeo9a8ALIun91YEZ3MjBaLA/tfkZRKyngNI8PnfvoWVJmnZkgxS+0uCCTp9XVLIvhMWzhgmG8bArYByCk/C2dRhbWzWIEGMKvbLn523kciQb0MWByPfv5ptbgryZWelKXblri+W4Mgd8qCTl1sW704UN0IDlbU7cpH/Ugi767v+DZtkQ9uiXvQUkqDCEUHiKKEVhNn2LMUVI053Cz+iRX59ko9kuA1cyTMqBiA9NMjrMy+VgUb6Ogw+UtZWYB8fRngyaNsA+F5I1o5vJJBHRjA==;1NcmiYEOYA/scNPpiOPFRQ=="
+secured: "no8r3Z3OXGtrHXg9CFPf8zzq9QbETBt0UwMTVuSKEKvEEMJqXDvNisf4yD+faSYDLr/iWoNuEU97AtGHYRRLEsiceu3H4OpiHRSqA/mD0WWlW/Nfesa4ryKN4PCZp3yyu/VIaXdipTYTfyvaKrNdxXlxPtEOad0uahm6eM5PpzfVI9NYtkqAGyrwKfv5RE/2C1gvsnMn2Crl+GcfqNnijTKplR4R+1oPcbcfKf2pGruIWhwvq5GePBBuKW3DxCGRa4Z6C1WTm/qsyrKXZfaypXQhc4VzkYVktSSA6d9hn74/gvoFU0U/HpaRMIIVGjJbpM0IVBTjcobkcUOXjKiGWpBPvg0FobdJBmecx8dFEsUanPcmIdyDfqonFlQf8UkasdLwSHpgJBAR2AGeDgJsgQ==;beeZZADu+HczdBXWJrJwBg=="
 ---
 

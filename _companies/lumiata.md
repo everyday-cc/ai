@@ -2,7 +2,7 @@
 name: "Lumiata"
 overview: "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital."
 type: "profile"
-heat: 50
+heat: 52
 
 website: http://www.lumiata.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Lumiata"
   url: "https://twitter.com/Lumiata"
-  followers: 1089
+  followers: 1090
 
 size: 11-50 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1uxjtyJdxbU"
 
-secured: "AKsSpwNmCNG09+AaNWFtBzCEjxWuniptTguXsuqrCWRzolgRWnfqstjV8FLdMuxMkxpbX1c4LX9Slr2C3zbq0VWrN9IWqGzbALDMrjaXmhwwAQ2rmj4HLbLfh6645ywJEH1jT1OZ+uhP9HmGNJqQ5UsKZr9i0gvOm6SPKNhw7Te2/jt59rW40asLOnc8x3lwyLsmfYOnJRsUNq2nJkSKXHamzsPEARxv9kAA9ep57R+wcgIRgITeLKvrB+/4SRz/rUpst/MXNSH1pZhyKzZFvAJ5qflZYqGWm/R8TBub6b4FgkbPkQ8NVqXM/mCOShqNZ5SEdtPloLDe0bcepKD8y1ewUeT4XCFIREIqDv1RVL9L5E7K+4IcEXXzrUn5eTdzwkMhtyDpY4LInUJxTrjz0mJtb27OEupX/+W7xcIsBVA=;fhFAK4K8hmCsEoHWAEjVRQ=="
+secured: "hSwzg3WIH8wA9ypEBDXj+WRH+mzxY2A0UftmcCdTaEiSEezX1RJ7nPtRp1II+Pmlo5HwEP3RxykERxP8+gd54oe2oJzw9ruaJwoqM1mDeeA3QRl7ZXvLAdNb2IRKNBtvsJ3vmf1dacpV0/bp7K9XluWgj5Kcb80tUlpIgWzI5JgB9ENB6iU4cRUXOip1lNOMWEeAuhNxZePMHtJFEY1+aPis9xoGNTS/bGzwz3fd+FC+GTalWym7C1DCZpdp04P4h9kEkPPb23VQU3uzULiEv8Vnr66LL7RQ4MpLJW8DX5U1DJx1NJ0iuOmQdO5R3Mle5pGUbtxPVmcSVbLFBCTgPa7LR6eKgYAb+5S/HCuyUR8QbdtJ7rMjUHwgl6m7CD5S9GOzdMgCAC5LD4hmXYHHX3F0mVYAA/n6GR/7QDLuSkM=;8oy+rQ27qrbY/Fyjb27+Ew=="
 ---
 

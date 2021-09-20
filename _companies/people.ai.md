@@ -2,7 +2,7 @@
 name: "people.ai"
 overview: "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity."
 type: "profile"
-heat: 88
+heat: 53
 
 website: https://people.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ppl_ai"
   url: "https://twitter.com/ppl_ai"
-  followers: 1617
+  followers: 1619
 
 size: 51-200 employees
 yearFounded: 2016
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "8r/LHsJb4so2Up+IrQgb/kE81AyWXbXFz4ke/HMiWv4afSitpMk2NAh0MpPgr5pEGGQrDuxoS8kj38KFwlJ3FTwDX6Mu4ZTPvS/grzSwAwz7njJi/4n5PTb0FEkdJsuFMT7I2Gq0fhMj/YV6ikSfDLUFDSc7oaakyUky+FtzfjTcS1y9Gj/FsSsN0zeu8rHqnb4HG84N/sIF7HXSt2gxQg551o9jfy871GE5LimInJvL70XKpnAcNISBBUYpKZE9x6eAbqdPj33VXG8+h/dh5XeRp1vBEVjTWC7LT2Fd4W3bMgvh1ExcTVeXzXw1bm7II0n3OnRpd+x5oy1zhNpElq4inIMf5GubmIJFwagqZZqyZgGz50KbNR0MoycbTxwK9lDSguE6aE1OxFx6vENYRuSf59fmCruVO6bR1x11NrI=;3v5VA4owMwruDgnEy8pgug=="
+secured: "H3UyqWafMEpyWjegX8bfflgqseXtyAUJqfVI1yTnkd8FwUXQ9qfz1HcMehIPdPcPnC0mv94u1Oke2GZSP8iOn2yBt4GOXfIurSUQZI0tUiXl8qrBg24woQmaDvrBNbC5rPsItcpWU7v+lvGUbYu3g5anyut6SfOIO6NJyO81HA251Nj5LqB0LsE9fuf8VDZRHHuqMgp+Rw6xH1YcmEGZ9uQYVYZejJ158IeDh4lwqd7OORKhaxxptftAYQ0bNTWixAixHSXklR/lp1hnRw9J+tMcVlybbbwXVv6dxqBBIxWihKgehz1Az+XS/KD3RFGkt3VakOUSVXg74CUhZo5MiArLREeP86lsSMKsLF4no+FV+1pR5FOVbxyx7c4BFllAlgPvq3CGmHva3OCcbXzwD4b8JWOXz6GV0BPstkl8R9Q=;tPzb2Ngqw22qxuk4VDogUw=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Insight Engines"
 overview: "Research discovery with artificial intelligence - for academia and chemical research."
 type: "profile"
-heat: 50
+heat: 51
 
 website: https://insightengines.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "insightengines"
   url: "https://twitter.com/insightengines"
-  followers: 229
+  followers: 230
 
 locations:
   - Norway
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=iD4tlJ-ECZo"
 
-secured: "aNjMcJgLFLFnrfmiWy6qN8DYgrRU+93oIXbDgdF5Klnuu5yidoESlXvFw/vGO4pT1cBBfbbmJabvNkqWvrHoiaoauTFlmT+J159wKEAzrbNiF81El2awpm4KjJrcNzhlzU9+/qbalnddEOarEaTYXcwMU94Rnxiq6ENAl9jpWlFZOZvOrM5g5KrMjueA+Ad07hevg1V/mROhZ1Uh+jBWXT8q7FP44r8Le/+wIPnhvW1BlbVMw41yMUhA+O5I65jt2UpAvW7RbP8DfVVLDJfhxVVq7wIlPDE3DZxdJh0P4BDhH7a4W1nT8SkPDzatEKxvLk+qAYTYTSCKpiPEFtaMwKx/Cl420OZfnpAfraZVbQQoqnQVrfGCRSTRDpqVaxnrVksMSLIywkwXGeK2DfTumQ==;I/I6/t/o5UFSC8l+9vcitA=="
+secured: "xInvqKA945bno+JAOMtoFu6BweybCFuwZkj+o/51mGaqWt8uAnX+TAUkSiFghbFG1XGqJSrmAtatqlykgVGZJSnim0VTNrHHqPCJgXIR4N4g2t5k5Hf5FT/1DLL0nhDkdh/zKk6CSqEHukfX2c+wtkx4dab1PBuhn6uxVNSttgyg0XkwFZ8bPcHUCcOdqgcrUprdpDLMetfxm2360VdbjBotNHYvA3rRPhr4kUwYNSs9Az0kk6DIdYpnS2XsPMjDCHan+BpdX54Pn3B4zvwcby9tRz1D1VT3aBBjxdi4GOxsXzfNgWh3fnkUBNoea46JB1YfC5wg0wE9focUcaTucwJgWDS1ZKAHuCV2UpCZ0+3T0Cy93W+zCwDsP5mc87ENQUIwFFKvozWTJ0avWxuagg==;agTkwtKVcPy0dNaJSB6FeQ=="
 ---
 
