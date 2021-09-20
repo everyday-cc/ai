@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.openpr.com/U/9/U920196179_g.jpg"
@@ -27,6 +28,6 @@ images:
     height: 470
     isCached: true
 
-secured: "u3wQ7p0oDDJih+k00HA/8aDaqv64ieY0Nk7HO+FzERVz0GfI5Xwn11gsXGPcW+BO1z4g2/5YGr1/Uq+Sjs6nhRZmwiw0pa8g7Xb5CzeeMf5qOJpEAyNGeiRAFM9F84OJW8+G37tbE9y1TVT3J2LCF4pqnLrtQVHOwzf0chNQZ5DQHvXzNCJzsfsaIgumT8CwvoUbUVwn51K0szwZZ/4O9uE37MXJve25TNfc0d1VCrvDSZS1FL9e3UP9Vq2ht3J91vgZ3PJ/EurZrCNKD1U1dJdfTf2nCqtsjgPt9n/x9TltMePAVkF9UyYwSGIcKuqQ1Sb4NNSIhkd/lmO/xH4symcsfMHs8pC74sNaOyC6ZtA=;ie1YWxaHeFxW8225keAmSA=="
+secured: "RXslE/qm9zl8N/RArixxdgR0c9juc2BSRR+S1uR5pWXvJ54honkCX27VqWQdceAP0kzharci9Qr6c8h7uGc0jMrQqjdzneWQzK6JDqL9SoDPZ/IfK8yeFaSGaCZfBOtQudcydpXnIHdCoQXBStHzonm6KWmQYfH1MVjnTK2xR0YaajCcTEDZmQYTTp+KGRovRxEFPO0yCL4+NbJviAVbop8tRbAWcs68ikfdhnMjFFyi8uYMIeW2L235hPzppVp1fG7w/l6BICVOOKXNeyHU14uvnc4N+htwYepe3p4cHA/Nz3snuAPRBGiVPt/BS3lCbC9kDbAlCLi9AOVrOQwugDiw7GPuWpZlYK+CNbdv8Gd9XRf67Tldj1AwXkAXAESDPiXfxJ4YAM/k822WN6PBEorXyUfa6IGtnY8LHmWcvQlqPelJZZoS6xdcczc0a46Btp4I0aCyO3GtaVVASUt5IZ5n6XIXeagfgYrejFExd+h2xK8a44LR4guODvniIvKxeaAshCUK0Te7MKimRlfBJA==;iZwH3nT5o9jBAEFLo+ADyQ=="
 ---
 

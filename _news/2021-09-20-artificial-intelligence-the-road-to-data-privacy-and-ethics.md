@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/Column-box-Integrity-Initiative2.jpg"

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg"
@@ -95,6 +96,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "jfdLqrBAxMGVKrt4o8ySRCp2TiiVJ3JrETgebgAcaFjq6wGvLec31Afa4OEf1VXB5aAxIA0B4EtqvDcn9nRykmzALB7BfU8m0DVMuxUDwF1HQX5Rsd60sDNTTFPJOmqlcalOAn+bW+KoZ/SlK7jLRW9RZfJRE/APxjScUJYBGjBDe9+Xsi5XtsqmrjXPVv7kuju6AObFuzlo83JCBZYqRGqc7a9eLLKtKGQWe9yAuwlVLqL2GE0ua8JasaIqrsS40x/63P/lqy1lsF/fzCyZz6MZMGx0GyogpLYvCID6iLsTp75grvcvJ4R2B9emmtHswQtfQNtWM73ysQBKICFdSZ8/4T+I+Ow64SVlENr+zLY=;/dd3LizARpBqY8KJKS71kQ=="
+secured: "1E1x1mrSVuAE7FyIpxuhfN3ncUmvY24jpMHHqHHbp7jICIBP2t6aak6HjwVozQR+OSouc+b07ijfxFP9utX0HsnRFkC41KuILgS26Fl2xBiIYWXUuJAHqOHnC9+SZURXFZNlqeA8oEjFvtaCUgdl4hQ0mH3hTm9YD2PsXBrK2wNFBBdCg2Fyii7e3HdZTdIx002hXYQg5SsBWYc34qwXqQLqHQI+I7Orbte0K/Ydqt2jmVRb2xWlQ5XGKu9XxZ2lvIzTEq9+e6FRCWDCnOSU2U1JI/1NnZpEE8g/YxDJkziVEYxA6QVBjIAwTPtjyxLWnycix9QuVO1JCIM6CuTZkUAhAzr18OwzGqbO0NiXbkURxqkx4vt13JYC4E3FP2wW7L2J+RpyG6drwAQnjKmsOeaT8bTOs7QzCE7NoB20+UXGouWnrDgdjzJ9lOc+uvcv1m0QB98RWNJqbo+2c5mS3bWGXUsRdvz64b6HnoLare2r+OjJJZpC0RjM5hpx2ee6b1O4Q8Xz1qXewcWyhVtosQ==;5ECcqPu/91ody7QaoCYfyA=="
 ---
 
