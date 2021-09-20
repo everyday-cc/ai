@@ -2,150 +2,21 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2021-08-19-readspeaker-named-a-2021-speech-industry-award-winner-by-speech-technology-magazine.md",
-      "title": "ReadSpeaker Named a 2021 Speech Industry Award Winner by Speech Technology Magazine",
-      "excerpt": "ReadSpeaker, the most trusted, independent digital voice partner for global businesses, today announced that it was named a Speech Technology Magazine’s 2021 Speech Industry Award winner. ReadSpeaker was selected as a result of the company’s ongoing commitment to delivering industry-leading text-to-speech (TTS) solutions,",
+      "path": "_news/2021-08-24-build-conversation-flows-with-multi-valued-slots-in-amazon-lex.md",
+      "title": "Build conversation flows with multi-valued slots in Amazon Lex",
+      "excerpt": "Multiple pieces of information are often required to complete a task or to process a query. For example, when talking to an insurance agent, a caller might ask, “Can you provide me quotes for home, auto, and boat?” The agent recognizes this as a list of policy types before continuing with the conversation.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-0695b677a7544b35bd94132602da90e9",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-0695b677a7544b35bd94132602da90e9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-intel-xess-is-alchemists-answer-to-dlss-and-fsr-and-can-work-on-anyones-gpu.md",
-      "title": "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU",
-      "excerpt": "Intel has announced that its upcoming lineup of gaming graphics cards, now known as Intel Alchemist, will support a frame rate boosting technology called (XeSS). That bit you might have known already,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/intel-xess-xe-super-sampling/",
-      "originalUrl": "https://www.pcgamer.com/intel-xess-xe-super-sampling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8fgPWdA2DDMJtR4gfRM8ef-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/intel-xess-xe-super-sampling/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xess-xe-super-sampling/",
-      "publishedDateTime": "2021-08-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-tmmi-expands-into-artificial-intelligence-in-co-development-agreement-with-codebaby-inc.md",
-      "title": "TMMI Expands Into Artificial Intelligence In Co-Development Agreement With CodeBaby, Inc.",
-      "excerpt": "Total Multimedia - TMM, Inc. (“TMMI” or the “Company”) (OTC PNK: TMMI). Web site:  TMMI’s Co-Development agreement with virtual character pioneer, CodeBaby, Inc. will propel the Company’s growth into diverse markets through the integration of several new technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years.md",
-      "title": "Intel takes the lid off its biggest chip designs for the coming years",
-      "excerpt": "Intel's top chip architects touted the designs at Intel Architecture Day 2021 in the hopes of instilling confidence in its leadership.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/",
-      "originalUrl": "https://venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversation-flows-with-multi-valued-slots-in-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversation-flows-with-multi-valued-slots-in-amazon-lex/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 754,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/18/ml-4158-image003_new.png",
+          "width": 347,
+          "height": 441,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -153,120 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/amp/",
-      "publishedDateTime": "2021-08-19T06:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T11:43:44-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-intels-arc-gaming-gpu-price-specs-and-availability.md",
-      "title": "Intel's Arc gaming GPU: Price, specs and availability",
-      "excerpt": "Intel Arc GPUs will face off against AMD and Nvidia rivals with hardware ray tracing and other key features. Read all about them here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
-      "originalUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/03/intel-xe-gpu-tease-100791559-large.jpg?auto=webp",
-          "width": 1199,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3629402/intels-arc-gaming-gpu-price-specs-and-availability.amp.html",
-      "publishedDateTime": "2021-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect.md",
-      "title": "Tesla to Hold AI Day Amid New Scrutiny: What to Expect",
-      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
-      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-387824?width=700&height=557",
-          "width": 700,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "publishedDateTime": "2021-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -283,25 +50,25 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2021-08-19-how-this-technologist-is-using-beauty-as-a-tool-to-disrupt-facial-recognition.md",
-      "title": "How this technologist is using beauty as a tool to disrupt facial recognition",
-      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
+      "path": "_news/2021-08-25-esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads.md",
+      "title": "Esperanto Delivers Massive AI Processing With Less Than 20W For Data Center Inference Workloads",
+      "excerpt": "The 7nm ET-SoC-1 features 1,088 64-bit in-order cores with vector units referred to as ET-Minions and four high-performance 64-bit out-of-order RISC-V cores referred to as ET-Maxions.",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "originalUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/08/24/esperanto-delivers-massive-ai-processing-with-less-than-20w-for-data-center-inference-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png",
-          "width": 1200,
-          "height": 675,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6125286faeafbcc6b6801db8%2F0x0.jpg",
+          "width": 435,
+          "height": 353,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -311,822 +78,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe.md",
-      "title": "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\"",
-      "excerpt": "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe \" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1597273/Sentiance_Award.jpg",
-          "width": 400,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidus-kunlun-ii-ai-chips-enter-mass-production.md",
-      "title": "Baidu's Kunlun II AI chips enter mass production",
-      "excerpt": "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg",
-          "width": 400,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-meet-the-designer-who-makes-high-tech-nail-art-and-fights-facial-recognition-with-flowers.md",
-      "title": "Meet the designer who makes high-tech nail art and fights facial recognition with flowers",
-      "excerpt": "She also strategically applies makeup to combat facial recognition software. Based in North Carolina, McDonald is the co-founder of Blink Blink Creative Circuit Kits, which makes gender inclusive ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
-      "originalUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/05DJAH5r01nPj2qk8Bpg729/hero-image.fill.size_1200x675.v1628106617.png",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-call-center-automation-startup-balto-secures-37m.md",
-      "title": "Call center automation startup Balto secures $37M",
-      "excerpt": "Balto, a call center automation startup based in St. Louis, has raised $37 million in series B funding for its agent coaching AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/",
-      "originalUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_344231354-e1628723101457.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/",
-      "publishedDateTime": "2021-08-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-pinterest-introduces-a-computer-vision-powered-hair-pattern-search.md",
-      "title": "Pinterest Introduces a Computer Vision-Powered Hair Pattern Search",
-      "excerpt": "Pinterest this week rolled out hair pattern search, a \"first-of-its-kind\" technology created with pinners of color in mind. Using computer vision-powered object detection, the feature enables users to refine hair searches by six different patterns: protective,",
-      "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
-      "originalUrl": "https://in.pcmag.com/social-media/144365/pinterest-introduces-a-computer-vision-powered-hair-pattern-search",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/p/pinterest-/pinterest-introduces-a-computer-vision-powered-hair-pattern_aj3c.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-tesla-ai-day-might-rely-on-one-more-thing-moment-to-be-impactful.md",
-      "title": "Tesla AI Day might rely on ‘one more thing’ moment to be impactful",
-      "excerpt": "Tesla is holding its ‘AI Day’ today and the automaker might have to rely on a ‘one more thing’ moment for the presentation to be impactful and move the needle. Over the last few years, Tesla started holding events,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/",
-      "originalUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-snake-charger.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/",
-      "publishedDateTime": "2021-08-19T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-dow-selloff-nvidia-tesla-ai-day-robinhood-5-things-you-must-know-thursday.md",
-      "title": "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday",
-      "excerpt": "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ...",
-      "sourceUrl": null,
-      "webUrl": "https://thestreet.com/markets/5-things-you-must-know-before-market-opens-thursday-081921",
-      "originalUrl": "https://thestreet.com/markets/5-things-you-must-know-before-market-opens-thursday-081921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcyMzQxNzA2MTY1OTIxNzMy/13-wells-fargo-roman-tiraspolsky--shutterstock.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/5-things-you-must-know-before-market-opens-thursday-081921",
-      "publishedDateTime": "2021-08-19T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-machine-learning-transforming-the-lending-industry.md",
-      "title": "Machine learning: Transforming the lending industry",
-      "excerpt": "Machine learning algorithms are capable of delving into petabytes of data to comprehend the specific needs of individual customers",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/",
-      "originalUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/machine-learning-5290464_640.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/machine-learning-transforming-lending-industry/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/machine-learning-transforming-lending-industry/amp/",
-      "publishedDateTime": "2021-08-19T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-seeking-global-recognition-taliban-take-a-new-approach-making-nice.md",
-      "title": "Seeking Global Recognition, Taliban Take a New Approach: Making Nice",
-      "excerpt": "The group’s head-spinning claims of moderation follow a common playbook for rebel-held governments, with mixed lessons for Afghanistan’s future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/18/world/18int-afghan2/18int-afghan2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.amp.html",
-      "publishedDateTime": "2021-08-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-waymo-begins-work-on-dedicated-texas-hub-for-self-driving-trucks.md",
-      "title": "Waymo begins work on dedicated Texas hub for self-driving trucks",
-      "excerpt": "Alphabet-owned Waymo is looking to gain a strong foothold in the nascent autonomous freight industry, today announcing plans to build a dedicated hub for its self-driving trucks in the state of Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
-      "originalUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/6981b2a/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fb3%2Faf7f948749be8c11427aabf027e8%2Fryder-waymo.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/waymo-dedicated-texas-hub-self-driving-trucks/?amp=true",
-      "publishedDateTime": "2021-08-18T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security.md",
-      "title": "Smart robots taming our lands for cultivation is a better stake at food security",
-      "excerpt": "As we look through the shimmering research agricultural fields under several agricultural engineering Universities, we may be able find robots navigating its field by sending out numerous laser pulses to scan the environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theindianwire.com/environment/smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security-319240/",
-      "originalUrl": "https://www.theindianwire.com/environment/smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security-319240/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theindianwire.com/wp-content/uploads/2021/08/agricultural-mapping-system-DJI.jpg",
-          "width": 1000,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theindianwire.com/environment/smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security-319240/amp/",
-      "cdnAmpWebUrl": "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/environment/smart-robots-taming-our-lands-for-cultivation-is-a-better-stake-at-food-security-319240/amp/",
-      "publishedDateTime": "2021-08-18T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Wire",
-        "domain": "theindianwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production.md",
-      "title": "Baidu says 2nd-gen Kunlun AI chips enter mass production",
-      "excerpt": "BEIJING, Aug 18 (Reuters) - Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
-      "originalUrl": "https://www.reuters.com/article/us-baidu-semiconductors/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production-idUSKBN2FJ0GK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210818&t=2&i=1572224486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH7H07S",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FJ0GK",
-      "publishedDateTime": "2021-08-18T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan.md",
-      "title": "Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan",
-      "excerpt": "Amazon has rolled out India’s first celebrity voice feature on Alexa with the nation’s biggest movie star Amitabh Bachchan as the company makes a push to lure more users in the world’s second-most populated nation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
-      "originalUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-102146713.jpg?w=1024",
-          "width": 1024,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/amazon-rolls-out-indias-first-celebrity-voice-on-alexa-with-amitabh-bachchan/amp/",
-      "publishedDateTime": "2021-08-18T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-how-ai-powered-tech-landed-a-man-in-jail-with-scant-evidence.md",
-      "title": "How AI-Powered Tech Landed a Man in Jail With Scant Evidence",
-      "excerpt": "Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren, how he used to braid her hair, anything to jar him back to his world outside the concrete walls of Cook County Jail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-19/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-19/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHqdz8muF3jc/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-nvidia-forecast-beats-expectations-but-talks-on-40-bln-arm-deal-take-longer-than-expected.md",
-      "title": "Nvidia forecast beats expectations, but talks on $40 bln Arm deal take longer than expected",
-      "excerpt": "The disclosure came as Nvidia, the world's biggest maker of graphics chips for gamers and artificial intelligence chips ... Alphabet Inc's Waymo has started taking a few San Franciscans on rides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/nvidia-forecasts-third-quarter-revenue-above-estimates-2021-08-18/",
-      "originalUrl": "https://www.reuters.com/technology/nvidia-forecasts-third-quarter-revenue-above-estimates-2021-08-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidu-robocar-signals-next-stage-of-auto-tech.md",
-      "title": "Baidu robocar signals next stage of auto tech",
-      "excerpt": "Robin Li (right), co-founder and CEO of Baidu, experiences the interior of a self-driving robocar. [Photo provided to China Daily] Chinese internet search giant Baidu Inc on Wednesday unveiled its first level 5 self-driving robocar with no steering wheel ...",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202108/19/WS611db208a310efa1bd669b7b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202108/19/611db208a310efa1e3b6c550.jpeg",
-          "width": 711,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim.md",
-      "title": "Is Artificial Intelligence Contributing Positively To Parenting? Weighing The Pros And Cons With Angela J. Kim",
-      "excerpt": "It seems that most discussions about parenting and AI are focused on privacy issues, but there are many other ways in which these two worlds intersect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611dc4227a4a5e566416ca62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1834%26cropY1%3D670%26cropY2%3D2045",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/18/is-artificial-intelligence-contributing-positively-to-parenting-weighing-the-pros-and-cons-with-angela-j-kim/amp/",
-      "publishedDateTime": "2021-08-18T19:44:00-07:00",
+      "publishedDateTime": "2021-08-24T10:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1149,27 +101,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-08-19-ai-firm-yitu-said-to-mull-hong-kong-ipo-after-shanghai-plan-halt.md",
-      "title": "AI Firm Yitu Said to Mull Hong Kong IPO After Shanghai Plan Halt",
-      "excerpt": "Chinese artificial intelligence company Yitu Technology is considering an initial public offering in Hong Kong after a tightening regulatory scrutiny stalled an earlier attempt to list in Shanghai, people familiar with the matter said.",
+      "path": "_news/2021-08-25-esentire-achieves-aws-level-1-managed-security-service-provider-competency-status.md",
+      "title": "eSentire Achieves AWS Level 1 Managed Security Service Provider Competency Status",
+      "excerpt": "(GLOBE NEWSWIRE) -- eSentire, recognized globally as the Authority in Managed Detection and Response (MDR), announced today that it has achieved Amazon Web Services (AWS) Level 1 Managed Security Service Provider (MSSP) Competency status.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-19/ai-firm-yitu-said-to-mull-hong-kong-ipo-after-shanghai-plan-halt",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-19/ai-firm-yitu-said-to-mull-hong-kong-ipo-after-shanghai-plan-halt",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-12571e98f7ec23c0ebd3c4de0a0279ec",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-12571e98f7ec23c0ebd3c4de0a0279ec",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioSo1Zz2K1CQ/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1179,7 +130,283 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-18T19:35:00-07:00",
+      "publishedDateTime": "2021-08-24T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.md",
+      "title": "Waymo opens self-driving car testing to some San Francisco residents",
+      "excerpt": "Alphabet-owned Waymo is asking San Francisco residents to help test its self-driving cars in the city it hopes will be its second market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents/ar-AANGX1x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 329,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105242041-GettyImages-938757682.jpg?v=1532563631",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
+      "publishedDateTime": "2021-08-24T09:43:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
+        "domain": "com/2021/08/24/waymo-opens-self-driving-car-testing-to-some-san-francisco-residents.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis.md",
+      "title": "Israel’s DiA gets $14M to expand AI-driven ultrasound analysis",
+      "excerpt": "Israel-based AI healthtech company, DiA Imaging Analysis, which is using deep learning and machine learning to automate analysis of ultrasound scans, has closed a $14 million Series B round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
+      "originalUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Screenshot-2021-08-24-at-16.55.57.png?w=1024",
+          "width": 1024,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/israels-dia-gets-14m-to-expand-ai-driven-ultrasound-analysis/amp/",
+      "publishedDateTime": "2021-08-24T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-esperanto-launches-ai-accelerator-with-over-1000-risc-v-cores.md",
+      "title": "Esperanto Launches AI Accelerator With Over 1000 RISC-V Cores",
+      "excerpt": "Accelerating ML Recommendation with over a thousand RISC-V Processors, the Esperanto ET-SoC-1 is the highest performance commercial RISC-V chip to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fd70be384d73d2f2ce2ad%2F0x0.jpg",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/esperanto-launches-with-1000-core-risc-v-ai-accelerator/amp/",
+      "publishedDateTime": "2021-08-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-applying-artificial-intelligence-to-paint-shop-robots.md",
+      "title": "Applying Artificial Intelligence to Paint Shop Robots",
+      "excerpt": "Dürr expands it use of artificial intelligence to help automotive paint shops incorporate robots into existing operations for quality and plant availability applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
+      "originalUrl": "https://www.automationworld.com/analytics/article/21627143/artificial-intelligence-for-paint-shop-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/08/image004.6125130446ab6.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 646,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78c.md",
+      "title": "Mynd Integrated Solutions acquires Artificial Intelligence Platform Move78(c)",
+      "excerpt": "Mynd Integrated Solutions, one of the leading Finance & Accounting (F & A) and HR outsourcing partners for businesses, awarded by NASSCOM in the AI & ML category, has acquired Move78(c)[?] platform fr",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/24/full/20210824204718.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mynd-integrated-solutions-acquires-artificial-intelligence-platform-move78-c-121082401358_1.html",
+      "publishedDateTime": "2021-08-24T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-a-rare-military-tech-unicorn-looks-past-afghanistan-war.md",
+      "title": "A Rare Military Tech Unicorn Looks Past Afghanistan War",
+      "excerpt": "Shield AI initially made drones to protect ground troops, but it has raised $210 million to expand to larger aircraft in more complicated situations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-24/afghanistan-war-turns-u-s-military-drone-startup-shield-into-unicorn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7qI4DSMYKl8/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Bloomberg",
@@ -1202,7 +429,777 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai.md",
+      "title": "NVIDIA Now Offers A Comprehensive Platform For Enterprise AI",
+      "excerpt": "NVIDIA has released the full spectrum of AI tools for the Enterprise, extending its reach and confounding competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d7504522a9187778d0853%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/nvidia-now-offers-a-comprehensive-platform-for-enterprise-ai/amp/",
+      "publishedDateTime": "2021-08-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-onsolve-wins-security-todays-2021-new-product-of-the-year-award-for-artificial-intelligence.md",
+      "title": "OnSolve Wins Security Today's 2021 New Product of the Year Award for Artificial Intelligence",
+      "excerpt": "OnSolve, a leading critical event management provider for enterprises, SMB organizations, and government entities, today announced that it has been awarded Security Today's 2021 New Product of the Year Award in the Artificial Intelligence category.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/onsolve-wins-security-today-s-2021-new-product-of-the-year-award-for-artificial-intelligence-1030755066",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/onsolve-wins-security-today-s-2021-new-product-of-the-year-award-for-artificial-intelligence-1030755066",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1600179/2021_Security_Today_NPOY_Winner.jpg",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales.md",
+      "title": "Perfect Corp. Pairs With Avon On AR- And AI-Based Sales",
+      "excerpt": "Perfect Corp.'s partnership with Avon México will integrate AR and AI via facial analysis technology in its YouCam Makeup app for more personalized experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Avon-Perfect-Corp-457x274.jpeg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/perfect-corp-pairs-with-avon-on-ar-and-ai-based-sales/amp/",
+      "publishedDateTime": "2021-08-24T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026.md",
+      "title": "Global Industry Analysts Predicts the World Cognitive Services Market to Reach $29 Billion by 2026",
+      "excerpt": "Companies: 42 - Players covered include Amazon Web Services, Inc.; Apple, Inc.; Attivio, Inc.; Baidu, Inc.; BMC Software, Inc.; Clarifai, Inc.; CognitiveScale; Expert ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-industry-analysts-predicts-the-world-cognitive-services-market-to-reach-29-billion-by-2026/article_9c385638-fa60-5a72-b426-af194d05e231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/6e/c6eb5c17-d1e6-5ef2-96fa-20aca81f3dca/61250288de397.image.jpg?resize=747%2C630",
+          "width": 747,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa.md",
+      "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
+      "excerpt": "the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-elon-musk-says-teslas-latest-beta-self-driving-software-is-not-great.md",
+      "title": "Elon Musk says Tesla's latest beta self-driving software is ‘not great’",
+      "excerpt": "Musk's critical tweet on Monday came just days after he touted Tesla's prowess with autonomous systems and components for them at an event called Tesla AI Day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html",
+      "originalUrl": "https://www.cnbc.com/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106926722-16288599482021-08-13t130517z_209345700_rc2b4p9pcfbm_rtrmadp_0_tesla-germany.jpeg?v=1628859989",
+          "width": 3500,
+          "height": 2575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/23/elon-musk-says-tesla-fsd-beta-9point2-software-is-not-great.html",
+      "publishedDateTime": "2021-08-24T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-samsung-will-spend-205-billion-in-strategic-plan-to-conquer-semiconductors-robotics-and-more.md",
+      "title": "Samsung will spend $205 billion in strategic plan to conquer semiconductors, robotics, and more",
+      "excerpt": "Samsung today announced it will invest no less than 240 trillion won ($206 billion) over the next three years in order to expand its presence in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90921-samsung-spend-205-billion-strategic-plan-conquer-semiconductors.html",
+      "originalUrl": "https://www.techspot.com/news/90921-samsung-spend-205-billion-strategic-plan-conquer-semiconductors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-24-image-10.jpg",
+          "width": 3200,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90921-samsung-spend-205-billion-strategic-plan-conquer-semiconductors.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90921-samsung-spend-205-billion-strategic-plan-conquer-semiconductors.html",
+      "publishedDateTime": "2021-08-24T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-nest-doorbell-battery-review.md",
+      "title": "Nest Doorbell (battery) Review",
+      "excerpt": "Beyond the smart object recognition, you get a catch-all option to record all motion. That’s good for security, but if you’re running your doorbell on battery mode it will reduce battery life ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.trustedreviews.com/reviews/nest-doorbell-battery",
+      "originalUrl": "https://www.trustedreviews.com/reviews/nest-doorbell-battery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/08/Nest-Doorbell-battery-1.jpg",
+          "width": 1920,
+          "height": 1282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Trusted Reviews",
+        "domain": "trustedreviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-four-skills-every-successful-ai-product-owner-should-possess.md",
+      "title": "Four Skills Every Successful AI Product Owner Should Possess",
+      "excerpt": "The product owner is focused on providing direction and prioritization for the cross-functional AI team, ensuring everyone remains focused on the overall vision and road map.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/four-skills-every-successful-ai-product-owner-should-possess/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/four-skills-every-successful-ai-product-owner-should-possess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6123f73285d953dad6d58199%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/24/four-skills-every-successful-ai-product-owner-should-possess/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/24/four-skills-every-successful-ai-product-owner-should-possess/amp/",
+      "publishedDateTime": "2021-08-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-sensors-and-ai-to-monitor-dorset-social-care-patients.md",
+      "title": "Sensors and AI to monitor Dorset social care patients",
+      "excerpt": "One hundred people in Dorset who need social care are to be monitored by artificial intelligence (AI) as part of a three-month pilot. Sensors installed in homes will track behaviour and electricity usage which the AI will analyse to spot potential health problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-58317106",
+      "originalUrl": "https://www.bbc.com/news/technology-58317106",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6BD3/production/_120230672_gettyimages-912072020.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-58317106.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58317106.amp",
+      "publishedDateTime": "2021-08-24T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator.md",
+      "title": "IBM's new Telum Processor is the company's first with an on-chip AI accelerator",
+      "excerpt": "The microprocessor contains 8 processor cores and is designed to process sensitive data in hybrid cloud deployments, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
+      "originalUrl": "https://www.techrepublic.com/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/26/62bd29f4-6524-4130-a98a-ca1e8d04a017/resize/1200x/4a60cac1d090cbcebe96fbddee66c09c/gettyimages-32.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-telum-processor-is-the-companys-first-with-an-on-chip-ai-accelerator/",
+      "publishedDateTime": "2021-08-24T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-ibm-unveils-on-chip-accelerated-ai-processor.md",
+      "title": "IBM Unveils On-Chip Accelerated AI Processor",
+      "excerpt": "IBM unveiled details of its new Telum Processor which is designed to bring deep learning inference to enterprise workloads to help address fraud in real-time. Introduced at the annual Hot Chips conference,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-Unveils-On-Chip-Accelerated-AI-Processor-148560.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-artificial-intelligence-ai-in-modern-warfare-market-evolving-technology-and-growth-outlook-2021-2026.md",
+      "title": "Artificial Intelligence (AI) in Modern Warfare Market Evolving Technology and Growth Outlook 2021-2026",
+      "excerpt": "MarketInsightsReports recently published a research report called Artificial Intelligence AI in Modern Warfare Market Primary and secondary research methods were used to construct this report The Analysis was derived using history and predictions The report includes an in depth study",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving",
+      "originalUrl": "https://www.openpr.com/news/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U824571901_g.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2365480/artificial-intelligence-ai-in-modern-warfare-market-evolving",
+      "publishedDateTime": "2021-08-24T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-nvidia-launches-ai-enterprise-in-general-availability.md",
+      "title": "Nvidia launches AI Enterprise in general availability",
+      "excerpt": "Nvidia's newly launched AI Enterprise managed service includes a suite of software tools designed to accelerate machine learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/nvidia-launches-ai-enterprise-in-general-availability/amp/",
+      "publishedDateTime": "2021-08-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-gone-fully-google.md",
+      "title": "The New Nest Doorbell Cam Is a Reminder That Nest Has Gone Fully Google",
+      "excerpt": "Google's cheaper doorbell security camera offers a lot for less, but you make some sacrifices for those savings.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113",
+      "originalUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/60c0d9f8efd6d8eba4fc1bdea13ead40.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113/amp",
+      "publishedDateTime": "2021-08-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-defining-data-science-ai-and-machine-learning-in-financial-services.md",
+      "title": "Defining data science, AI and machine learning in financial services",
+      "excerpt": "Going back to my cat example – if a machine learning program cannot ... and hold on to it for as long as you possibly can. In financial services, we have the additional consideration that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ftadviser.com/regulation/2021/08/24/defining-data-science-ai-and-machine-learning-in-financial-services/?page=4",
+      "originalUrl": "https://www.ftadviser.com/regulation/2021/08/24/defining-data-science-ai-and-machine-learning-in-financial-services/?page=4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F7%2F9%2F5%2F2575976-4-eng-GB%2Fpexels-kindel-media-8566472.jpg%3Fv1?source=ftadviser",
+          "width": 5184,
+          "height": 3888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FTAdviser",
+        "domain": "ftadviser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

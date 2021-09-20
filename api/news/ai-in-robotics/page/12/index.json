@@ -2,6 +2,968 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-24-at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025.md",
+      "title": "At CAGR of 45.4% Artificial Intelligence Chip Market Size is Projected to Reach $91.19 Billion by 2025",
+      "excerpt": "Heavy inflow of investments in AI startups, rise in demand for smart cities & smart homes, and emergence of quantum computing would propel the growth of the global artificial intelligence chip market Allied Market Research published a report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-mind-controlled-robot-helps-disabled-people-visit-family-friends-video.md",
+      "title": "Mind Controlled Robot Helps Disabled People Visit Family, Friends (VIDEO)",
+      "excerpt": "The team used a motorized robot that was controlled via an ECG cap by the user’s thoughts alone. While the robot was in a laboratory at EPFL, disabled folks in Italy, Germany, and Switzerland ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2015/06/mind-controlled-robot-helps-disabled-people-visit-family-friends-video.html",
+      "originalUrl": "https://www.medgadget.com/2015/06/mind-controlled-robot-helps-disabled-people-visit-family-friends-video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-fg-urges-schools-to-embrace-artificial-intelligence-robotics.md",
+      "title": "FG urges schools to embrace artificial intelligence, robotics",
+      "excerpt": "FG has urged schools in Nigeria to embrace the growth and development of artificial intelligence and robotics as this will strengthen",
+      "sourceUrl": null,
+      "webUrl": "https://tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/",
+      "originalUrl": "https://tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tribuneonlineng.com/wp-content/uploads/2019/10/chukwuemeka-nwajiuba3.jpg",
+          "width": 450,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/amp/",
+      "cdnAmpWebUrl": "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/amp/",
+      "publishedDateTime": "2021-06-23T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigerian Tribune",
+        "domain": "tribuneonlineng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy.md",
+      "title": "Investing in AI Healthcare; Analysts Offer 2 Stocks to Buy",
+      "excerpt": "It’s estimated that AI as a whole will boost the global economy by more than $15 trillion by the year 2030, and a significant piece of that will emerge in the healthcare sector. By 2026, the midpoint of that forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
+      "originalUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
+      "publishedDateTime": "2021-06-23T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-hyundai-officially-takes-controlling-stake-in-robot-maker-boston-dynamics.md",
+      "title": "Hyundai officially takes controlling stake in robot maker Boston Dynamics",
+      "excerpt": "Korean car manufacturer Hyundai announced that it had closed a deal to purchase controlling stock in US robot maker Boston Dynamics. The company, well-known for its",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
+      "originalUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/06/2021-06-22-ts3_thumbs-d4c.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
+      "publishedDateTime": "2021-06-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-artificial-intelligence-ai-verticals-market-see-huge-growth-for-new-normal-airbnb-salesforce-slack-dataminr-ross-intelligence.md",
+      "title": "Artificial Intelligence (AI) Verticals Market See Huge Growth for New Normal| Airbnb, Salesforce, Slack, Dataminr, ROSS Intelligence",
+      "excerpt": "Artificial intelligence (AI) has been one of the most advanced technologies in computing since its introduction in the 1950s. Advances in bringing robots closer to humans and their increasing use in developing regions have further transformed the entire market.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/22/artificial-intelligence-ai-verticals-market-see-huge-growth-for-new-normal-airbnb-salesforce-slack-dataminr-ross-intelligence/",
+      "originalUrl": "https://ksusentinel.com/2021/06/22/artificial-intelligence-ai-verticals-market-see-huge-growth-for-new-normal-airbnb-salesforce-slack-dataminr-ross-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/A2Z-Market-Research-2-68-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup.md",
+      "title": "Five Questions To Ask Before Raising A Series A For Your Robotics Startup",
+      "excerpt": "As a founder of a robotics startup, how do you successfully access venture capital, and more specifically, how can you raise a series A at a fair valuation with favorable terms?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0fbf12f7551babaf08109%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D966%26cropY1%3D56%26cropY2%3D599",
+          "width": 966,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/amp/",
+      "publishedDateTime": "2021-06-22T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry.md",
+      "title": "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry",
+      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg",
+          "width": 400,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-robotics-market-size-share-value-and-competitive-landscape-2021-2026.md",
+      "title": "Robotics Market Size, Share, Value, And Competitive Landscape 2021-2026",
+      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-earlybirds-explores-why-gov-and-industry-are-investing-in-artificial-intelligence.md",
+      "title": "EarlyBirds Explores Why Gov and Industry Are Investing in Artificial Intelligence",
+      "excerpt": "EarlyBirds, the Australian company that operates the Early Birds Marketplace, a business to business (B2B) open ecosystem that enables innovators, early adopters, and subject matter experts (SMEs) to get together and push for technology advancement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressadvantage.com/story/43974-earlybirds-explores-why-gov-and-industry-are-investing-in-artificial-intelligence",
+      "originalUrl": "https://www.pressadvantage.com/story/43974-earlybirds-explores-why-gov-and-industry-are-investing-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.pressadvantage.com/uploads/organization/9695/EB_logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pressadvantage.com",
+        "domain": "pressadvantage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-679-billion-by-2025.md",
+      "title": "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025",
+      "excerpt": "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg",
+          "width": 400,
+          "height": 226,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-wits-robotics-team-to-compete-in-soccer-robocup.md",
+      "title": "Wits robotics team to compete in soccer RoboCup",
+      "excerpt": "The University of the Witwatersrand (Wits) will participate in the three-dimensional simulate league of the RoboCup – a yearly artificial intelligence (AI) and robotics event with the goal to advance the state of the art of intelligent robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/wits-robotics-team-to-compete-in-soccer-robocup-2021-06-21/rep_id:4136",
+      "originalUrl": "https://www.engineeringnews.co.za/article/wits-robotics-team-to-compete-in-soccer-robocup-2021-06-21/rep_id:4136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.engineeringnews.co.za/article.php?a_id=587289&rep_id=5581",
+      "cdnAmpWebUrl": "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=587289&rep_id=5581",
+      "publishedDateTime": "2021-06-21T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-robots-have-arrived-to-austin-and-theyre-delivering-pizza.md",
+      "title": "Robots Have Arrived To Austin, And They’re Delivering Pizza",
+      "excerpt": "Semi-autonomous food delivery robots have begun operating in Central Austin, part of an emerging technological wave that aims to transform how products reach consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kut.org/transportation/2021-06-21/the-robots-have-arrived-in-austin-and-theyre-delivering-pizzas",
+      "originalUrl": "https://www.kut.org/transportation/2021-06-21/the-robots-have-arrived-in-austin-and-theyre-delivering-pizzas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/e2ea383/2147483647/strip/true/crop/549x338+26+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F35%2F13bc0a3d4d7cb70a4e4b280345ad%2Frobot-gif-landscape.gif",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kut.org/transportation/2021-06-21/the-robots-have-arrived-in-austin-and-theyre-delivering-pizzas?_amp=true",
+      "cdnAmpWebUrl": "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-06-21/the-robots-have-arrived-in-austin-and-theyre-delivering-pizzas?_amp=true",
+      "publishedDateTime": "2021-06-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KUT",
+        "domain": "kut.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-these-are-the-startups-applying-ai-to-tackle-climate-change.md",
+      "title": "These Are The Startups Applying AI To Tackle Climate Change",
+      "excerpt": "A group of promising startups has emerged to do just that. Both climate change and artificial intelligence are sprawling, cross-disciplinary fields. Both will transform literally every sector of the economy in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caac3ad2b1ff3c9b86dc8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2235%26cropY1%3D232%26cropY2%3D1490",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/",
+      "publishedDateTime": "2021-06-20T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-india-gears-up-for-robot-campaigners-in-2022-assembly-polls.md",
+      "title": "India gears up for robot campaigners in 2022 Assembly polls",
+      "excerpt": "As mass public gatherings remain an obvious danger in India amid the lethal Covid-19 waves, you may see humanoid robots performing campaigning on behalf of political leaders in the 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/06/20/1083163-robot.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685",
+      "publishedDateTime": "2021-06-20T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-robotics-page-4.md",
+      "title": "Robotics - Page: 4",
+      "excerpt": "The online retailing giant has installed more than 15,000 robots across 10 U.S. warehouses, a move that promises to get packages out the door more quickly in the run-up to Christmas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/topic/robotics/4",
+      "originalUrl": "https://www.entrepreneur.com/topic/robotics/4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now.md",
+      "title": "3 great deals on robot vacuums from Shark, Eufy and more you can score right now",
+      "excerpt": "The vacuum category offers great deals on Prime Day, says smart shopping expert Trae Bodge of TrueTrae.com, and in some cases the deals have already begun. “As home deals are a large part of the offers on Prime Day,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "originalUrl": "https://www.marketwatch.com/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-356292/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "publishedDateTime": "2021-06-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-rise-of-the-money-machines-can-ai-fix-personal-finance.md",
+      "title": "Rise of the Money Machines: Can AI Fix Personal Finance?",
+      "excerpt": "However, the reality of AI is actually much less sexy and much more useful. AI and machine learning technologies are being applied to industries from manufacturing to money management to help improve efficiency and drive returns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai-fix-personal-finance-2021-06-18",
+      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai-fix-personal-finance-2021-06-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai-fix-personal-finance-2021-06-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai-fix-personal-finance-2021-06-18?amp",
+      "publishedDateTime": "2021-06-18T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-robotics-outlook-2030-how-intelligence-and-mobility-will-shape-the-future.md",
+      "title": "Robotics Outlook 2030: How Intelligence and Mobility Will Shape the Future",
+      "excerpt": "Established robotics companies must counter startups that are innovating in areas with the potential to generate high profits and alter the dimensions of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bcg.com/publications/2021/how-intelligence-and-mobility-will-shape-the-future-of-the-robotics-industry",
+      "originalUrl": "https://www.bcg.com/publications/2021/how-intelligence-and-mobility-will-shape-the-future-of-the-robotics-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://web-assets.bcg.com/dims4/default/acbc354/2147483647/strip/true/crop/2880x1512+0+15/resize/1200x630!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2Faa%2F24%2F2f1131ee44a0906f0cc4122a3b7d%2Frobotics-outlook-2030-how-intelligence-and-mobility-will-shape-the-future-rectangle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BCG",
+        "domain": "bcg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-last-mile-landscaping-and-leaping-robots.md",
+      "title": "Last-mile, landscaping and leaping robots",
+      "excerpt": "I spoke to Refraction AI co-founder/CTO Matthew Johnson-Roberson on the occasion of the Michigan startup’s $4.2 million seed raise. This week we posted a Q&A where he answers a wider range of topics about the delivery robotics company,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
+      "originalUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZtlRVO8fpE0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
+      "publishedDateTime": "2021-06-17T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-how-is-robotics-helping-the-elderly-with-humanoids-and-nurse-robots.md",
+      "title": "How Is Robotics Helping The Elderly With Humanoids And Nurse Robots?",
+      "excerpt": "Robotics has answered so many questions for society. Can it help the elderly lead a happy and stable life? Can it be a successful approach?",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "originalUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/06/tight-holding-hands-scaled-e1623846739563.jpeg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "publishedDateTime": "2021-06-17T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-artificial-intelligence-robots-market-is-in-huge-demand-google-inc-ibm-microsoft-corporation-general-vision-enlitic-inc.md",
       "title": "Artificial Intelligence Robots Market is in Huge Demand | Google Inc., IBM, Microsoft Corporation, General Vision, Enlitic, Inc.",
       "excerpt": "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth.",
@@ -398,518 +1360,7 @@
         "AI in Robotics",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-06-15-artisan-robots-with-ai-smarts-will-juggle-tasks-without-human-help.md",
-      "title": "Artisan Robots with AI Smarts Will Juggle Tasks Without Human Help",
-      "excerpt": "But there’s a declining number of technicians with the right skills, and the quality of things made by hand is subject to the skills and mood of the artisan on the day the part is made. Both problems could soon be solved by artificially intelligent robotic technicians.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/home/news/21509032/artisan-robots-with-ai-smarts-will-juggle-tasks-choose-tools-mix-and-match-recipes-and-even-order-materials-all-without-human-help",
-      "originalUrl": "https://www.manufacturing.net/home/news/21509032/artisan-robots-with-ai-smarts-will-juggle-tasks-choose-tools-mix-and-match-recipes-and-even-order-materials-all-without-human-help",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/16x9/iStock_1207515272.60c8bbed1624e.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour.md",
-      "title": "STEM, Artificial Intelligence, robotics, and mechatronics high on education agenda – Ntim Fordjour",
-      "excerpt": "The Deputy Education Minister-designate, Rev John Ntim Fordjour, has reiterated the commitment of the government to invest in the learning of STEM, robotics, Artificial Intelligence Mechatronics, the Internet of Things etc. which are critical skills ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
-      "originalUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.myjoyonline.com/wp-content/uploads/2021/06/GH.jpeg",
-          "width": 960,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
-      "cdnAmpWebUrl": "https://www-myjoyonline-com.cdn.ampproject.org/c/s/www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
-      "publishedDateTime": "2021-06-14T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyJoyOnline",
-        "domain": "myjoyonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.md",
-      "title": "Paraplegic Performs World Cup's Ceremonial First Kick in Mind-Controlled Robotic Suit",
-      "excerpt": "Juliano Pinto, a 29-year old paraplegic, kicked the official game ball a short distance with the help of a robotic exoskeleton that he controlled with just his mind. The mind-controlled robotic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
-      "originalUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-samsung-jetbot-80-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-launched-in-europe.md",
-      "title": "Samsung JetBot 80, JetBot 80+ & JetBot 95 AI+ Robot Vacuum Cleaners launched in Europe",
-      "excerpt": "Samsung has announced the release of its impressive and affordable robot vacuum cleaners, the Samsung Jet Bot series for the European market. The Jet Bot series starts at 499 Euros for the base model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
-      "originalUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Samsung-Jet-Bot-95-AI.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-watch-a-paraplegic-in-an-exoskeleton-open-the-world-cup-with-a-kick.md",
-      "title": "Watch a paraplegic in an exoskeleton open the World Cup -- with a kick",
-      "excerpt": "As promised, a paralyzed man did indeed kick off today's World Cup festivities by wearing a mind-controlled robotic exoskeleton. Juliana Pinto, a 29-year-old paraplegic, was one of eight patients ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2014-06-12-paraplegic-exoskeleton-world-cup.html",
-      "originalUrl": "https://www.engadget.com/2014-06-12-paraplegic-exoskeleton-world-cup.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/j8Cj3QDqNXyZ6NtgRgEPEQ--~B/aD0yNTU7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/e2fdc26c1792e1a41a81b47edb2ead4b/200269978/64colors.gif",
-          "width": 450,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-billionaire-larry-pages-kitty-hawk-is-making-an-all-in-bet-on-robot-air-taxis-its-program-head-is-out-in-disagreement-over-it.md",
-      "title": "Billionaire Larry Page’s Kitty Hawk Is Making An All-In Bet On Robot Air Taxis. Its Program Head Is Out In Disagreement Over It.",
-      "excerpt": "Kitty Hawk has an ambitious plan to leapfrog rivals by convincing regulators to let it fly passengers in electric air taxis without pilots -- within the next 3 years. The head of its aircraft program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "originalUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3a37d601a34eec048fbed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D630%26cropY1%3D47%26cropY2%3D402",
-          "width": 630,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "publishedDateTime": "2021-06-11T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-save-275-on-the-ecovacs-deebot-t8-aivi-robot-vacuum-today-only.md",
-      "title": "Save $275 On The ECOVACS Deebot T8 AIVI Robot Vacuum – Today Only!",
-      "excerpt": "Amazon has the ECOVACS Deebot T8 AIVI Robot Vacuum on sale today in its Gold Box Deal of the Day for just $524.99. That's going to save you $275 off of",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
-      "originalUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-11-at-7.46.28-AM.png",
-          "width": 879,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
-      "publishedDateTime": "2021-06-11T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis.md",
-      "title": "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis",
-      "excerpt": "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-which-robotics-companies-are-going-to-become-unicorns.md",
-      "title": "Which Robotics Companies Are Going To Become Unicorns?",
-      "excerpt": "There has been an explosion of robotics startup companies during the last two years. Every couple of months, I’m seeing new VC-backed startups coming out of stealth mode with millions of dollars in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1237064a123408842d1ce%2F0x0.jpg",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/amp/",
-      "publishedDateTime": "2021-06-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources.md",
-      "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
-      "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
-      "originalUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2NR1QC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NR1QC",
-      "publishedDateTime": "2021-06-10T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-humanoid-robot-sophia-sells-12-second-video-nft-for-almost-700000.md",
-      "title": "Humanoid Robot Sophia Sells 12 Second Video NFT for Almost $700,000",
-      "excerpt": "Take, for instance, celebrity humanoid robot Sophia, who — or, uh, “which”? — just sold a digital artwork as a non-fungible token (NFT) for $688,888, Reuters reports. Sophia teamed up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-hongkong-robot/nft-artwork-by-humanoid-robot-sells-at-auction-for-nearly-700000-idUSKBN2BG3GB",
-      "originalUrl": "https://futurism.com/the-byte/humanoid-robot-sophia-sells-12-second-video-nft-for-almost-700000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210325&t=2&i=1556115825&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N247",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BG3GB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG3GB",
-      "publishedDateTime": "2021-03-25T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 13
 }

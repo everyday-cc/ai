@@ -2,21 +2,159 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-09-06-vws-self-driving-partner-closing-in-on-german-public-road-tests.md",
-      "title": "VW’s Self-Driving Partner Closing In on German Public Road Tests",
-      "excerpt": "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany.",
+      "path": "_news/2021-09-14-whatsapp-for-ios-to-add-voice-message-transcription-feature.md",
+      "title": "WhatsApp for iOS to add voice message transcription feature",
+      "excerpt": "WhatsApp is developing a new feature for iOS users that will help those who don't like listening to long audio messages on the app.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests",
+      "webUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
+      "originalUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixMLqLHvG858/v0/1200x800.jpg",
+          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/whatsapp-voice-message-transcription-feature-9to5mac-wabetainfo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
           "width": 1200,
-          "height": 800,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
+      "publishedDateTime": "2021-09-13T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-updated.md",
+      "title": "WhatsApp transcription for voice message audio tipped to work with Apple [Updated]",
+      "excerpt": "An ability to transcribe messages was leaked as a potential upcoming feature in WhatsApp. Information about the feature has not yet been confirmed by WhatsApp or Facebook, but details leaked this",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/",
+      "originalUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/whatsapp-1.jpg",
+          "width": 1278,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/amp/",
+      "publishedDateTime": "2021-09-13T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-reportedly-working-on-voice-message-transcribe-feature.md",
+      "title": "WhatsApp Reportedly Working On Voice Message Transcribe Feature",
+      "excerpt": "In a recent development, soon WhatsApp users will be able to transcribe voice messages on the platform using speech recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/11/AH-WhatsApp-logo-11.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
+      "publishedDateTime": "2021-09-13T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-robot-rock-a-history-of-vocoders.md",
+      "title": "Robot Rock: A History Of Vocoders",
+      "excerpt": "Over the last 80 years we've seen vocoders developed and used on countless tracks and songs, and they still hold their charm today. At a time when robots, automation and A.I. are increasingly integrated into our world,",
+      "sourceUrl": null,
+      "webUrl": "https://sonicstate.com/news/2021/09/13/robot-rock-a-history-of-vocoders/",
+      "originalUrl": "https://sonicstate.com/news/2021/09/13/robot-rock-a-history-of-vocoders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/34860_721.jpg",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +164,437 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-05T13:10:00-07:00",
+      "publishedDateTime": "2021-09-13T11:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
+        "name": "Sonic State",
+        "domain": "sonicstate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-c3-ai-announces-general-availability-of-c3-ai-crm.md",
+      "title": "C3 AI Announces General Availability of C3 AI CRM",
+      "excerpt": "The inventors of CRM reinvent CRM Seamlessly brings advanced AI capabilities to Microsoft Dynamics, Salesforce, Siebel, Veeva, ServiceNow, Vlocity, and SAP C3 AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/b22914979/c3-ai-announces-general-availability-of-c3-ai-crm",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/b22914979/c3-ai-announces-general-availability-of-c3-ai-crm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22914979",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22914979",
+      "publishedDateTime": "2021-09-13T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-roadblocks-to-autonomous-security-robots.md",
+      "title": "Roadblocks to Autonomous Security Robots",
+      "excerpt": "There are concerns regarding the use of fully autonomous security robots which may get in the way of bringing them to market. Whether those concerns are legitimate or not may impact how quickly robotics will be adopted for security purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "originalUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text.md",
+      "title": "WhatsApp Likely To Launch ‘Voice Transcription’ Feature That Converts Voice Notes To Text",
+      "excerpt": "The WABetaInfo publication also stated that the transcribes messages notes will not be sent to any Whatsapp or Facebook servers for transcription, but will solely rely on the phone speech recognition tool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/",
+      "originalUrl": "https://www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2021/09/whatsapp-new-feature-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/amp/",
+      "publishedDateTime": "2021-09-13T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-linux-developers-talk-again-about-an-accelerator-subsystem-or-moving-them-into-the-gpudrm-area.md",
+      "title": "Linux Developers Talk Again About An Accelerator Subsystem - Or Moving Them Into The GPU/DRM Area",
+      "excerpt": "On and off for years has been talk of an accelerator subsystem for the Linux kernel considering that for now most AI training/inference accelerator drivers end up lodged within the \"char/misc\" area of the kernel.",
+      "sourceUrl": null,
+      "webUrl": "https://phoronix.com/scan.php?page=news_item&px=Accel-Drivers-2021-Discussion",
+      "originalUrl": "https://phoronix.com/scan.php?page=news_item&px=Accel-Drivers-2021-Discussion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://phoronix.com/assets/categories/linuxkernel.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "phoronix.com",
+        "domain": "phoronix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-israeli-firm-unveils-armed-robot-to-patrol-volatile-borders.md",
+      "title": "Israeli Firm Unveils Armed Robot to Patrol Volatile Borders",
+      "excerpt": "An Israeli defense contractor on Monday unveiled a remote-controlled armed robot it says can patrol battle zones, track infiltrators and open fire. The unmanned vehicle is the latest addition to the world of drone technology,",
+      "sourceUrl": null,
+      "webUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
+      "originalUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/13/deputy_head_of_israel_aerospace_industries_autonomous_systems_division_rani_avni_speaks_during_an_interview_with_the_associated_press_in_an_iai_facility_near_the_central_israeli_city_of_lod_thursday_sept._9_2021._ap.jpg?itok=wjTEX_gd",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
+      "cdnAmpWebUrl": "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
+      "publishedDateTime": "2021-09-13T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "الشرق الأوسط",
+        "domain": "aawsat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-impact-of-driverless-vehicles-on-society.md",
+      "title": "Impact of Driverless Vehicles on Society",
+      "excerpt": "Introduction The research question I chose was “Could Driverless Vehicles Pose A Negative Impact on Today’s Society?” I chose this research question",
+      "sourceUrl": null,
+      "webUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
+      "originalUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Truth",
+        "domain": "studymoose.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-artificial-intelligence-market-impact-of-covid-19-by-solution-companies-global-forecast-by-2026-renub-research.md",
+      "title": "Artificial Intelligence Market, Impact of COVID-19, By Solution, Companies, Global Forecast by 2026 - Renub Research",
+      "excerpt": "Today artificial intelligence platform has become a way for computer systems to perform tasks like human intelligence including decision making and speech recognition Globally problem solving social intelligence and general intelligence is being achieved with the help of the artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "originalUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U913421287_g.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "publishedDateTime": "2021-09-12T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call.md",
+      "title": "NFL and AWS unveil new 4th down metric to judge whether your favorite coach made the right call",
+      "excerpt": "The NFL noted that some coaches, like the Cowboys' Mike McCarthy, made a few bad 4th down calls while the Browns' Kevin Stefanksi and Bengals' Zac Taylor made the right decisions down the stretch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
+      "originalUrl": "https://www.zdnet.com/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/13/8bce6146-33fa-449d-aed3-c8bca9b6b0cb/resize/1200xauto/1570385f36251bb981a51328b1d4d19f/screen-shot-2021-09-06-at-10-35-49-pm-1.png",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call/",
+      "publishedDateTime": "2021-09-12T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs.md",
+      "title": "Nuix to pay $34m for US-based natural language processing vendor Topos Labs",
+      "excerpt": "Australian data management vendor Nuix is set to acquire US-based natural language processing (NLP) software vendor Topos Labs for up to US$25 million (approx. AU$34 million). The terms of the acquisition will see an initial cost of US$5 million with up to US$18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs-569736",
+      "originalUrl": "https://www.crn.com.au/news/nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs-569736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/iStock-1073831676.jpg",
+          "width": 1433,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai.md",
+      "title": "Chinese tech giant Baidu begins publicly testing Apollo Go robotaxis in Shanghai",
+      "excerpt": "The 10,000 square meter space will house the 200 AVs Baidu hopes to bring to the city, which would make it the site of the largest self-driving fleet in East China. Baidu’s long game is to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "originalUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024",
+          "width": 1024,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "publishedDateTime": "2021-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,21 +615,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-05-6-fintech-startups-in-india-that-are-making-use-of-ai-technology.md",
-      "title": "6 Fintech Startups In India That Are Making Use Of AI Technology",
-      "excerpt": "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2.",
+      "path": "_news/2021-09-12-nuix-asxnxl-acquires-natural-language-processing-company-topos.md",
+      "title": "Nuix (ASX:NXL) acquires natural language processing company, Topos",
+      "excerpt": "Global software company, Nuix (ASX:NXL) is set to take over natural language processing developer, Topos Labs.",
       "sourceUrl": null,
-      "webUrl": "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
-      "originalUrl": "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
+      "webUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
+      "originalUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.goodreturns.in/img/2016/12/07-1438929714-interest-rates-red-14-1481696060.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://themarketherald.com.au/wp-content/uploads/2021/09/Screen-Shot-2021-09-13-at-9.55.06-am.png",
+          "width": 516,
+          "height": 272,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +637,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
-      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
-      "publishedDateTime": "2021-09-05T06:05:00-07:00",
+      "ampWebUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "cdnAmpWebUrl": "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "publishedDateTime": "2021-09-12T08:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Goodreturns",
-        "domain": "goodreturns.in",
+        "name": "The Market Herald",
+        "domain": "themarketherald.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,173 +653,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-05-3-top-ai-stocks-to-buy-right-now.md",
-      "title": "3 Top AI Stocks to Buy Right Now",
-      "excerpt": "Anders Bylund (IBM): Good old International Business Machines ... Big Blue sowed the seeds to its Watson AI engine decades ago and has nurtured that asset into a problem-solving system with ...",
+      "path": "_news/2021-09-12-zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom.md",
+      "title": "Zillow – Zillow – Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise | Fintech Zoom",
+      "excerpt": "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
-      "originalUrl": "https://www.fool.com/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
+      "webUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.ycharts.com/charts/1cc036e0dce93765f10e22528a16dc3a.png",
-          "width": 720,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
-      "publishedDateTime": "2021-09-05T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway.md",
-      "title": "Elon Musk Says Tesla Is Making A Robot Because ‘Robots Are Coming Anyway’",
-      "excerpt": "Advertisement Artificial intelligence is coming for us all; this is a prediction or a warning as you like to term it is up to you. He has been on this narrative for years. “I’ve been banging this AI drum for a decade,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/",
-      "originalUrl": "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/09/elon-musk-robots-coming-anyway.jpg",
+          "url": "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg",
           "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/",
-      "publishedDateTime": "2021-09-05T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-judge-says-an-ai-cant-be-an-inventor-on-a-patent-because-its-not-a-person.md",
-      "title": "Judge Says an AI Can’t Be an Inventor on a Patent Because It’s Not a Person",
-      "excerpt": "They can’t even appear as inventors on U.S. patents. U.S. federal judge Leonie Brikema ruled this week that an AI can’t be listed as an inventor on a U.S. patent under current law. The case was brought forward by Stephen Thaler,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641",
-      "originalUrl": "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/37537a3ccad75b9d5a057a42727649ac.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp",
-      "publishedDateTime": "2021-09-04T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-05-the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml.md",
-      "title": "The Latest Trends in Artificial Intelligence (AI) and Machine Learning (ML)",
-      "excerpt": "Artificial intelligence (AI) contains many subfields, including machine learning (ML), which automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
-      "originalUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Trends_2021-min.jpg",
-          "width": 1600,
-          "height": 1035,
+          "height": 754,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -268,11 +682,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-04T15:53:00-07:00",
+      "publishedDateTime": "2021-09-12T04:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -282,19 +696,18 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI",
-        "Machine Learning",
-        "AI in Robotics",
-        "AI in Healthcare"
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2021-09-05-level-set-methods-and-fast-marching-methods.md",
-      "title": "Level Set Methods and Fast Marching Methods",
-      "excerpt": "computer vision, computer-aided design, and optimal control theory. This book will be a useful resource for mathematicians, applied scientists, practising engineers, computer graphic artists, and anyone interested in the evolution of boundaries and interfaces.",
+      "path": "_news/2021-09-12-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
+      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
+      "excerpt": "Add to Calendar 09/13/2021 3:00 pm 09/13/2021 4:00 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/hr/academic/subjects/mathematics/computational-science/level-set-methods-and-fast-marching-methods-evolving-interfaces-computational-geometry-fluid-mechanics-computer-vision-and-materials-science-2nd-edition?format=PB&isbn=9780521645577",
-      "originalUrl": "https://www.cambridge.org/hr/academic/subjects/mathematics/computational-science/level-set-methods-and-fast-marching-methods-evolving-interfaces-computational-geometry-fluid-mechanics-computer-vision-and-materials-science-2nd-edition?format=PB&isbn=9780521645577",
+      "webUrl": "https://www.cpsc.gov/ko/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=vi",
+      "originalUrl": "https://www.cpsc.gov/ko/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=vi",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -304,11 +717,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-04T13:58:00-07:00",
+      "publishedDateTime": "2021-09-12T03:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
+        "name": "Consumer Protection Safety Commission",
+        "domain": "cpsc.gov",
         "images": null,
         "publishers": null,
         "authors": null
@@ -323,21 +736,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-05-companies-need-more-workers-why-do-they-reject-millions-of-resumes.md",
-      "title": "Companies Need More Workers. Why Do They Reject Millions of Résumés?",
-      "excerpt": "Companies are desperate to hire, and yet some workers still can’t seem to find jobs. Here may be one reason why ... do the job they are supposed to do. They also exclude more than 10 million ...",
+      "path": "_news/2021-09-12-computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats.md",
+      "title": "Computer vision and deep learning provide new ways to detect cyber threats",
+      "excerpt": "The combination of binary visualization and machine learning is a powerful technique that can provide new solutions to old problems.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008?mod=djemalertNEWS",
-      "originalUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "webUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
+      "originalUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-395991/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/deep-learning-cyber-threat-detection1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -345,102 +758,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
-      "publishedDateTime": "2021-09-04T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform.md",
-      "title": "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform",
-      "excerpt": "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform/ar-AAO5KzT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/09/03/business/03economy-briefing-facebook/03economy-briefing-facebook-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
-      "publishedDateTime": "2021-09-04T02:22:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/09/03/technology/facebook-ai-race-primates.html",
-        "domain": "com/2021/09/03/technology/facebook-ai-race-primates.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-ai-weekly-an-outline-for-government-regulation-of-ai.md",
-      "title": "AI Weekly: An outline for government regulation of AI",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Governments face a range of policy challenges around AI technologies, many of which are exacerbated by the fact that they lack sufficiently detailed information.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
-      "originalUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/government_meeting.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
-      "publishedDateTime": "2021-09-04T01:44:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
+      "publishedDateTime": "2021-09-11T23:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -463,133 +783,41 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-court-ruling-uspto-cannot-issue-patents-to-an-artificial-intelligence.md",
-      "title": "Court ruling: USPTO cannot issue patents to an artificial intelligence",
-      "excerpt": "A court in Alexandria, Virginia, ruled that inventions can only be patented under the name of a \"natural person.\" The decision was made against someone who",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "originalUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-03-image-42.jpg",
-          "width": 2560,
-          "height": 1696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
-      "publishedDateTime": "2021-09-03T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-australia-debuts-orwellian-new-app-using-facial-recognition-geolocation-to-enforce-quarantine.md",
-      "title": "Australia debuts 'Orwellian' new app using facial recognition, geolocation to enforce quarantine",
-      "excerpt": "The government of South Australia has launched an \"Orwellian\" new COVID-19 quarantine app, complete with facial recognition and geolocation, to enforce 14-day quarantines for travel. The policy actually represents an improvement over the current pandemic restrictions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
-      "originalUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02834334-5d94-481f-9107-cf7509528d96/aa6b228a-b84e-4c99-931b-60e018cf0274/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
-      "publishedDateTime": "2021-09-03T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-09-04-us-far-field-speech-recognition-market-2021-is-booming-across-the-globe-by-segments-share-size-growth-and-forecast-to-2028.md",
-      "title": "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028",
-      "excerpt": "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv",
+      "path": "_news/2021-09-12-small-mighty-robots-mimic-the-powerful-punch-of-mantis-shrimp.md",
+      "title": "Small, Mighty Robots Mimic the Powerful Punch of Mantis Shrimp",
+      "excerpt": "Modeling the mechanics of the strongest punch in the animal kingdom, researchers with U.S. Army funding built a robot that mimics the movement of the mantis shrimp. These pugnacious crustaceans could pave the way for small,",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/",
+      "webUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
+      "originalUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2021/09/mantis-shrimp-robot-neurosinces.jpg",
+          "width": 769,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T12:18:00-07:00",
+      "ampWebUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
+      "publishedDateTime": "2021-09-11T14:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -599,26 +827,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-04-parents-lawsuit-over-lockport-facial-recognition-system-ends.md",
-      "title": "Parents' lawsuit over Lockport facial recognition system ends",
-      "excerpt": "A judge said the approval was invalidated when former Gov. Andrew M. Cuomo signed a law in December 2020 banning the use of facial recognition technology in schools.",
+      "path": "_news/2021-09-12-gpu-database-market-share-key-market-players-trends-forecast-20202028.md",
+      "title": "GPU Database Market Share, Key Market Players, Trends & Forecast, 2020–2028",
+      "excerpt": "The Global GPU Database market is forecast to reach USD 1,357.4 Million by 2028, according to a new report by Reports and Data.  The latest market research report published by Reports and Data, titled ‘Global GPU Database Market,",
       "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
-      "originalUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
+      "webUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/",
+      "originalUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/45/f4555f2d-8ce6-550b-82e9-417e781ab8b7/5ef133e01db3f.image.jpg?resize=1024%2C759",
-          "width": 1024,
-          "height": 759,
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/3-2.png",
+          "width": 750,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -626,13 +854,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
-      "cdnAmpWebUrl": "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
-      "publishedDateTime": "2021-09-03T12:15:00-07:00",
+      "ampWebUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
+      "publishedDateTime": "2021-09-11T12:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -642,114 +870,20 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-04-open-source-powers-ai-yet-policymakers-havent-seemed-to-notice.md",
-      "title": "Open source powers AI, yet policymakers haven't seemed to notice",
-      "excerpt": "Commentary: Open source is driving AI policy without policymakers getting involved, argues a Brookings Institution briefing.",
+      "path": "_news/2021-09-11-facial-recognition-forecast-at-85b-in-2025-biometric-payment-cards-breaking-out.md",
+      "title": "Facial recognition forecast at $8.5B in 2025, biometric payment cards breaking out",
+      "excerpt": "Signs of market strength for biometric payment cards and facial recognition are prominent among the week’s most-read articles on Biometric Update.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
-      "originalUrl": "https://www.techrepublic.com/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
+      "webUrl": "https://www.biometricupdate.com/202109/facial-recognition-forecast-at-8-5b-in-2025-biometric-payment-cards-breaking-out",
+      "originalUrl": "https://www.biometricupdate.com/202109/facial-recognition-forecast-at-8-5b-in-2025-biometric-payment-cards-breaking-out",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
-      "publishedDateTime": "2021-09-03T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-judge-ends-nyclu-suit-against-school-facial-recognition.md",
-      "title": "Judge Ends NYCLU Suit Against School Facial Recognition",
-      "excerpt": "(TNS) — A lawsuit brought by New York Civil Liberties Union last year to prevent Lockport City School District from operating its facial recognition-capable camera surveillance system was made moot by a state judge this week. In June 2020, NYCLU filed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition",
-      "originalUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/ba59e6e/2147483647/strip/true/crop/770x402+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F14%2F03%2F506a237091747e4114b6347d85d7%2Ffacial-21.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition?_amp=true",
-      "publishedDateTime": "2021-09-03T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers.md",
-      "title": "Rank One to campaign for ethical facial recognition commitment from providers",
-      "excerpt": "Rank One Computing declares its intention to take a strong stand on ethics in facial recognition use, in coordination with the Security Industry Association.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers",
-      "originalUrl": "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -765,7 +899,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T11:35:00-07:00",
+      "publishedDateTime": "2021-09-11T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Biometric Companies",
@@ -780,26 +914,25 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-04-ai-computers-cant-patent-their-own-inventions-yet-a-us-judge-rules.md",
-      "title": "AI computers can’t patent their own inventions — yet — a US judge rules",
-      "excerpt": "Should an artificially intelligent machine be able to patent its own inventions? For a US federal judge, the larger implications of that question were irrelevant. In April 2020, the US Patent and Trademark Office (USPTO) ruled that only “natural persons” could be credited as the inventor of a patent,",
+      "path": "_news/2021-09-11-deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu.md",
+      "title": "Deep Learning in CT Scanners Industry Market to Witness Huge Growth by 2028 | Philips, GE Health, Shimadzu",
+      "excerpt": "A new business intelligence report released by JCMR with Global Deep Learning in CT Scanners Industry Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy.",
       "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/ai-computers-can-e2-80-99t-patent-their-own-inventions-e2-80-94-yet-e2-80-94-a-us-judge-rules/ar-AAO4Cwd",
+      "webUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/Hw9l4d7GJUeQMfW7HdoXKd9SSvg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69814569/jbareham_170215_1460_0001_v2_5_2.0.jpg",
-          "width": 1400,
-          "height": 933,
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -807,13 +940,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
-      "publishedDateTime": "2021-09-03T11:10:00-07:00",
+      "ampWebUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/?amp=1",
+      "publishedDateTime": "2021-09-11T08:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
-        "domain": "theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -823,23 +956,67 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-04-bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google.md",
-      "title": "Bias persists in face detection systems from Amazon, Microsoft, and Google",
-      "excerpt": "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon.",
+      "path": "_news/2021-09-11-global-ai-in-eye-scan-market-prospects-upcoming-trends-and-competitive-outlook-till-2028-deepmind-google-ibm.md",
+      "title": "Global AI in Eye Scan Market Prospects, Upcoming Trends and Competitive Outlook till 2028 | DeepMind, Google, IBM.",
+      "excerpt": "The latest study on The Global AI in Eye Scan Market 2021 helps companies increase a competitive advantage in the industry by examining serious factors for market expansion It explains the main global developments dominant strategies and perspectives in order",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/",
-      "originalUrl": "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/",
+      "webUrl": "https://www.openpr.com/news/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
+      "originalUrl": "https://www.openpr.com/news/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all",
+          "url": "https://cdn.openpr.com/U/9/U911389724_g.jpg",
+          "width": 800,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
+      "publishedDateTime": "2021-09-11T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-ai-drives-data-analytics-surge-study-finds.md",
+      "title": "AI drives data analytics surge, study finds",
+      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code ... “Trends in Data, AI and Analytics, 2021” surveyed a wide range of enterprise IT shops and found that many were ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/",
+      "originalUrl": "https://venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/databases.jpg?w=1200&strip=all",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -849,9 +1026,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/",
-      "publishedDateTime": "2021-09-03T10:40:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/amp/",
+      "publishedDateTime": "2021-09-10T14:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -874,27 +1051,25 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-03-rpa-robotic-process-automation-can-it-help-with-mainframe-modernization.md",
-      "title": "RPA (Robotic Process Automation): Can It Help With Mainframe Modernization?",
-      "excerpt": "RPA (Robotic Process Automation) has proven to be effective in automating tedious and repetitive processes for traditional IT environments. The ROI (Return on Investment) has generally been quick and the technology can be a stepping stone to other modernization efforts,",
+      "path": "_news/2021-09-11-overcoming-ais-transparency-paradox.md",
+      "title": "Overcoming AI’s Transparency Paradox",
+      "excerpt": "AI has a well-documented but poorly understood transparency problem. 51% of business executives report that AI transparency and ethics are important for their business, and not surprisingly, 41% of senior executives state that they have suspended an AI tool because of a potential ethical issue.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/",
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61324debbf3bb134fb5b41cb%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613bb5a4c74dee7c980110ff%2F0x0.jpg",
           "width": 1200,
-          "height": 798,
+          "height": 1200,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -902,9 +1077,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/amp/",
-      "publishedDateTime": "2021-09-03T09:54:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/amp/",
+      "publishedDateTime": "2021-09-10T12:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -927,249 +1102,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language.md",
-      "title": "Define and run Machine Learning pipelines on Step Functions using Python, Workflow Studio, or States Language",
-      "excerpt": "You can use various tools to define and run machine learning (ML) pipelines or DAGs (Directed Acyclic Graphs). Some popular options include AWS Step Functions, Apache Airflow, KubeFlow Pipelines (KFP), TensorFlow Extended (TFX), Argo, Luigi, and Amazon SageMaker Pipelines. All these tools help you compose",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/31/ML4675-image019.jpg",
-          "width": 400,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T08:47:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-space-infrastructure-company-redwire-begins-trading-after-closing-spac-deal.md",
-      "title": "Space infrastructure company Redwire begins trading after closing SPAC deal",
-      "excerpt": "Space infrastructure conglomerate Redwire began trading on the New York Stock Exchange on Friday, joining a flurry of space companies closing SPAC mergers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/09/03/space-company-redwire-begins-trading-nyse-after-closing-spac-deal.html",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/space-infrastructure-company-redwire-begins-trading-after-closing-spac-deal/ar-AAO4eYf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106937276-1630676560293-iss065e125924_orig.jpg?v=1630676748&w=720&h=405",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/03/space-company-redwire-begins-trading-nyse-after-closing-spac-deal.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/03/space-company-redwire-begins-trading-nyse-after-closing-spac-deal.html",
-      "publishedDateTime": "2021-09-03T08:03:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/09/03/space-company-redwire-begins-trading-nyse-after-closing-spac-deal.html",
-        "domain": "com/2021/09/03/space-company-redwire-begins-trading-nyse-after-closing-spac-deal.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-use-low-code-to-reduce-friction-for-cloud-operations-teams.md",
-      "title": "Use Low Code to Reduce Friction for Cloud Operations Teams",
-      "excerpt": "When low-code supplements traditional forms of creating automation, cloud operations teams demonstrate greater velocity and predictability.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewstack.io/use-low-code-to-reduce-friction-for-cloud-operations-teams/",
-      "originalUrl": "https://thenewstack.io/use-low-code-to-reduce-friction-for-cloud-operations-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thenewstack.io/media/2021/09/3ae2bf12-pexels-maxi-gagliano-4617591.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thenewstack.io",
-        "domain": "thenewstack.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-can-ai-direct-movies-this-one-just-did.md",
-      "title": "Can AI Direct Movies? This One Just Did",
-      "excerpt": "Federico Fellini has been gone almost 30 years, but a new film premiering at the Venice Film Festival next week was directed with artificial intelligence that can replicate the famed director’s style.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did",
-      "originalUrl": "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01QLL3aCHDw6RVIA953SWTD-1.1630607174.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/can-ai-direct-movies-this-one-just-did?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/can-ai-direct-movies-this-one-just-did?amp=true",
-      "publishedDateTime": "2021-09-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-meet-the-women-making-waves-in-ai-ethics-research-and-entrepreneurship.md",
-      "title": "Meet the women making waves in AI ethics, research, and entrepreneurship",
-      "excerpt": "We've been chatting with the winners of VentureBeat's Women in AI awards. Here are the conversations, covering ethics, regulation, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/03/women-in-ai-ethics-research-and-entrepreneurship/",
-      "originalUrl": "https://venturebeat.com/2021/09/03/women-in-ai-ethics-research-and-entrepreneurship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/03/women-in-ai-ethics-research-and-entrepreneurship/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/women-in-ai-ethics-research-and-entrepreneurship/amp/",
-      "publishedDateTime": "2021-09-03T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
+        "AI Ethics"
       ]
     }
   ],

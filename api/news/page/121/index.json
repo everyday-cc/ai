@@ -2,21 +2,21 @@
   "page": 121,
   "value": [
     {
-      "path": "_news/2021-06-16-ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division.md",
-      "title": "Ron Ramaiya joins The Lab and reveals artificial intelligence division",
-      "excerpt": "Ron Ramaiya has joined The Lab as head of data science, and the agency has launched an artificial intelligence and machine learning division, Lab AI.The announcement:The leading insight and strategy company The Lab today announced the appointment of Ron Ramaiya as Head of Data Science,",
+      "path": "_news/2021-06-20-artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026.md",
+      "title": "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026",
+      "excerpt": "Global \"Artificial intelligence (AI) Chips Market\" report provides a brief analysis of the growth factors influencing",
       "sourceUrl": null,
-      "webUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044",
-      "originalUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 204,
       "tags": null,
       "images": [
         {
-          "url": "https://mumbrella.com.au/wp-content/uploads/2021/06/Ron-Ramaiya-The-Lab-e1623798113893.jpg",
-          "width": 487,
-          "height": 273,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,143 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044/amp",
-      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044/amp",
-      "publishedDateTime": "2021-06-15T16:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-20T01:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mumbrella",
-        "domain": "mumbrella.com.au",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images.md",
+      "title": "Facebook AI software is now able to dig up origins of deepfake images",
+      "excerpt": "Facebook scientists said they developed artificial intelligence software to not only identify ’deepfake’ images but to figure out where they came from.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
+      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/650x366/File-picture-AP-Photo-Richard-Drew?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7d296af3-2399-5dbf-9636-e3d8e0070d56&operation=CROP&offset=0x275&resize=5244x2950",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
+      "publishedDateTime": "2021-06-20T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service.md",
+      "title": "BUSINESS WIRE: Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service",
+      "excerpt": "MITTEILUNG UEBERMITTELT VON BUSINESS WIRE. FUER DEN INHALT IST ALLEIN DAS BERICHTENDE UNTERNEHMEN VERANTWORTLICH.Microsoft Azure at the Edge: Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
+      "originalUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanztreff",
+        "domain": "finanztreff.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-how-ai-is-disrupting-business-ecosystem.md",
+      "title": "How AI is disrupting Business Ecosystem?",
+      "excerpt": "Two dozen years and billions of savings later, AI is as inevitable as ever to businesses that are in pursuit of profits. BFSI (Banking, Financial Services and Insurance) and Retail have reaped the early harvest as they foresaw AI as the new engine of growth sooner than many other sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/374959",
+      "originalUrl": "https://www.entrepreneur.com/article/374959",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374959",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374959",
+      "publishedDateTime": "2021-06-19T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -44,21 +173,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector.md",
-      "title": "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector",
-      "excerpt": "Because currency is used every day, and impacts literally every market and industry, the impact of financial innovation through AI cannot be underestimated.",
+      "path": "_news/2021-06-20-issues-with-face-recognition-software-used-to-verify-unemployment-recipients-is-costing-people-benefits.md",
+      "title": "Issues With Face Recognition Software Used to Verify Unemployment Recipients Is Costing People Benefits",
+      "excerpt": "The facial recognition program used by 22 U.S. states to reduce unemployment fraud has been failing to correctly identify recipients, causing dozens of people to be denied benefits or have their applications put on hold,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/",
+      "webUrl": "https://gizmodo.com/issues-with-face-recognition-software-used-to-verify-un-1847135759",
+      "originalUrl": "https://gizmodo.com/issues-with-face-recognition-software-used-to-verify-un-1847135759",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c9264d6ad664d7f331b552%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2504%26cropY1%3D201%26cropY2%3D1610",
-          "width": 1200,
-          "height": 675,
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/98085c3e73330d99834b66a2b13b3494.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -66,9 +195,146 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/",
-      "publishedDateTime": "2021-06-15T15:15:00-07:00",
+      "ampWebUrl": "https://gizmodo.com/issues-with-face-recognition-software-used-to-verify-un-1847135759/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/issues-with-face-recognition-software-used-to-verify-un-1847135759/amp",
+      "publishedDateTime": "2021-06-19T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble.md",
+      "title": "Graphics Card (GPU) Prime Day Deals (2021): Early NVIDIA GTX Series & RTX Series Video Card & More Savings Compared by Save Bubble",
+      "excerpt": "Save on graphics card deals at the early Prime Day 2021 sale, featuring NVIDIA RTX Series & GTX Series savings Here’s our list of all the early graphics card (GPU) deals for Amazon Prime Day 2021, together with the latest offers on top-rated NVIDIA video cards like the GTX Series & RTX Series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210620005212/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210620005212/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-these-are-the-startups-applying-ai-to-tackle-climate-change.md",
+      "title": "These Are The Startups Applying AI To Tackle Climate Change",
+      "excerpt": "Artificial intelligence is the most powerful tool ... s electricity systems and move us toward a renewables-centric future. The power grid is one of the most complex systems that humans have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc7bff27f61977148c37a4b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/amp/",
+      "publishedDateTime": "2021-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-ai-centers-of-excellence-accelerate-ai-industry-adoption.md",
+      "title": "AI Centers Of Excellence Accelerate AI Industry Adoption",
+      "excerpt": "The AI and Digital age has accelerated the rate of innovation so quickly that some organizations simply can’t keep up. In fact, Senior Leaders and Chief Executives around the world are “extremely concerned”,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ce716d1b2aa835a2ef3cdc%2F0x0.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
+      "publishedDateTime": "2021-06-19T15:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -91,26 +357,25 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-16-snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers.md",
-      "title": "Snowflake taps C3 AI to bring AI dev tools and apps to customers",
-      "excerpt": "Snowflake discloses Snowpark Scala development tooling while partnering with C3 AI to bring new apps to its cloud data platform users.",
+      "path": "_news/2021-06-20-google-develops-an-ai-software-that-can-design-a-chipset-in-just-six-hours.md",
+      "title": "Google Develops an AI Software That Can Design a Chipset in Just Six Hours",
+      "excerpt": "As per a recent research paper, Google has developed an AI software that can design the \"floorplan\" of chipset in just six hours.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers/",
+      "webUrl": "https://beebom.com/google-ai-can-design-chipset-in-six-hours/",
+      "originalUrl": "https://beebom.com/google-ai-can-design-chipset-in-six-hours/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_514013068-e1623787978313.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://beebom.com/wp-content/uploads/2021/06/Google-Develops-an-AI-Software-That-Can-Design-a-Chipset-in-Just-Six-Hours.jpg",
+          "width": 750,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -118,16 +383,147 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/snowflake-taps-c3-ai-to-bring-ai-dev-tools-and-apps-to-customers/amp/",
-      "publishedDateTime": "2021-06-15T14:20:00-07:00",
+      "ampWebUrl": "https://beebom.com/google-ai-can-design-chipset-in-six-hours/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-ai-can-design-chipset-in-six-hours/amp/",
+      "publishedDateTime": "2021-06-19T14:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-machine-learning-artificial-intelligence-market-outlook-to-2028-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm.md",
+      "title": "Machine Learning Artificial intelligence Market Outlook to 2028- AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM",
+      "excerpt": "Get Sample Copy @  AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI, Apple, Luminoso, Qualcomm. Driver Evaluation: Favouring manufacturer company discretion to make sure high earnings creation,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/19/machine-learning-artificial-intelligence-market-outlook-to-2028-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm/",
+      "originalUrl": "https://ksusentinel.com/2021/06/19/machine-learning-artificial-intelligence-market-outlook-to-2028-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-robotics-page-4.md",
+      "title": "Robotics - Page: 4",
+      "excerpt": "The online retailing giant has installed more than 15,000 robots across 10 U.S. warehouses, a move that promises to get packages out the door more quickly in the run-up to Christmas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/topic/robotics/4",
+      "originalUrl": "https://www.entrepreneur.com/topic/robotics/4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
+      "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
+      "excerpt": "The experiment, which uses artificial intelligence to develop chip floorplans, is a brilliant example of human intelligence and AI in synergy.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
+      "originalUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGoogle-Cloud-TPU-AI-Servers-hed.jpg&signature=d0eb94d0569075001196ad197678f98b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -144,25 +540,25 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2021-06-16-fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle.md",
-      "title": "FedEx and Nuro launch pilot program to test self-driving delivery vehicle",
-      "excerpt": "FedEx has announced a new multi-year deal with self-driving technology company Nuro to test its autonomous delivery vehicle under a pilot program. According to FedEx, the arrangement includes a",
+      "path": "_news/2021-06-19-artificial-intelligence-run-mayflower-suffers-mechanical-problem-returns-to-england.md",
+      "title": "Artificial-intelligence-run Mayflower suffers mechanical problem, returns to England",
+      "excerpt": "The robotic, artificial ... and fix a minor mechanical issue,” with the hopes of sending the ship on its way across the Atlantic as soon as possible. The 50-foot long Mayflower Autonomous ...",
       "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/",
-      "originalUrl": "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/",
+      "webUrl": "https://www.nydailynews.com/news/world/ny-artificial-intelligence-mayflower-mechanical-problem-england-20210619-xhyxpoyeifaevggfkh2xvrmmzy-story.html",
+      "originalUrl": "https://www.nydailynews.com/news/world/ny-artificial-intelligence-mayflower-mechanical-problem-england-20210619-xhyxpoyeifaevggfkh2xvrmmzy-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/nuro_fedex_main.jpg",
-          "width": 1440,
-          "height": 849,
+          "url": "https://www.nydailynews.com/resizer/AvnDntBdtmbJnm_Am2zaT_HrMhQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/HHWQOQ5X2NCGBCBJAAE65EEHK4.jpg",
+          "width": 1200,
+          "height": 757,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -170,16 +566,58 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/",
-      "publishedDateTime": "2021-06-15T13:34:00-07:00",
+      "ampWebUrl": "https://www.nydailynews.com/news/world/ny-artificial-intelligence-mayflower-mechanical-problem-england-20210619-xhyxpoyeifaevggfkh2xvrmmzy-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/world/ny-artificial-intelligence-mayflower-mechanical-problem-england-20210619-xhyxpoyeifaevggfkh2xvrmmzy-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-18T23:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-bidens-ai-initiative-will-it-work.md",
+      "title": "Biden’s AI Initiative: Will It Work?",
+      "excerpt": "It has a good chance of working. The program has a decent budget and there is a focus on unleashing government data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1145585734%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/amp/",
+      "publishedDateTime": "2021-06-18T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -195,31 +633,91 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies.md",
+      "title": "State of AI Report Finds Growing Budgets and Correlations with AI Companies",
+      "excerpt": "Increasing AI budgets represent a maturing industry and are closely correlated with metrics of success. In our latest State of AI report, Appen investigated the landscape of the AI industry to try to understand its current challenges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/cloud-security.png",
+          "width": 1043,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-16-6-ai-stocks-to-watch-for-rapid-growth.md",
-      "title": "6 AI Stocks to Watch for Rapid Growth",
-      "excerpt": "AI is transformative not just for the investment landscape, but it will change how we live and work. As demand for this technology grows, it seems likely that so too will interest in AI stocks. There will be winners and losers to be sure,",
+      "path": "_news/2021-06-19-prime-day-pc-parts-deals-2021-early-cpu-gpu-motherboard-ssd-more-sales-reported-by-retail-fuse.md",
+      "title": "Prime Day PC Parts Deals (2021): Early CPU, GPU, Motherboard, SSD & More Sales Reported by Retail Fuse",
+      "excerpt": "Save on PC parts, hardware & components deals at the Prime Day 2021 sale, together with all the latest early RAM, hard drive, NZXT coolers & cases & more savingsBOSTON--(BUSINESS WIRE)--Find all the top early PC parts deals for Amazon Prime Day 2021,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
-      "originalUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
+      "webUrl": "https://us.acrofan.com/detail.php?number=487533",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=487533",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 75,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
-      "publishedDateTime": "2021-06-15T12:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T15:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "아크로팬",
+        "domain": "acrofan.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -231,25 +729,25 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Microsoft AI"
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2021-06-16-enterprise-ai-budgets-are-up-55-over-2020-appen-says.md",
-      "title": "Enterprise AI budgets are up 55% over 2020, Appen says",
-      "excerpt": "Appen State of AI report found enterprises are accelerating their AI strategies as a result of the pandemic and increasing budgets.",
+      "path": "_news/2021-06-19-artificial-intelligence-in-automotive-market-growth-opportunities-share-analysis-up-to-2026.md",
+      "title": "Artificial Intelligence in Automotive Market Growth, Opportunities, Share Analysis up to 2026",
+      "excerpt": "Selbyville, Delaware, Global Artificial Intelligence in Automotive Market Report explores the essential factors",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-growth-opportunities-share-analysis-up-to-2026-2021-06-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-growth-opportunities-share-analysis-up-to-2026-2021-06-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Tech_money-e1623779327666.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -257,16 +755,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/",
-      "publishedDateTime": "2021-06-15T11:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T12:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -286,71 +784,19 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-fedex-to-test-package-deliveries-with-self-driving-startup-nuro.md",
-      "title": "FedEx to test package deliveries with self-driving startup Nuro",
-      "excerpt": "FedEx Corp and robotics company Nuro on Tuesday announced a multi-year agreement to test self-driving vehicles in the package delivery company's network, starting with a pilot program in Houston.",
+      "path": "_news/2021-06-19-best-data-science-tools-software-2021.md",
+      "title": "Best Data Science Tools & Software 2021",
+      "excerpt": "It accommodates classical models as well as machine learning and deep learning. It integrates with numerous other Azure cloud components and services, as well as outside data sources. Delivers a broad and powerful portfolio of features, tools and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I",
-      "originalUrl": "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I",
+      "webUrl": "https://www.datamation.com/big-data/data-science-tools/",
+      "originalUrl": "https://www.datamation.com/big-data/data-science-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210615&t=2&i=1565798969&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5E136",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DR1F9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DR1F9",
-      "publishedDateTime": "2021-06-15T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform.md",
-      "title": "Elisity raises $26M Series A to scale its AI cybersecurity platform",
-      "excerpt": "Elisity, a self-styled innovator that provides behavior-based enterprise cybersecurity, has raised $26 million in Series A funding. The funding round was co-led by Two Bear Capital and AllegisCyber Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/",
-      "originalUrl": "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-847829192.jpg?w=1024",
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/data-1024x683.jpeg",
           "width": 1024,
           "height": 683,
           "title": null,
@@ -360,125 +806,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/",
-      "publishedDateTime": "2021-06-15T09:55:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T12:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-zillow-taps-ai-to-improve-its-home-value-estimates.md",
-      "title": "Zillow Taps AI to Improve Its Home Value Estimates",
-      "excerpt": "By employing a neural network, the company says its numbers will be more accurate—and allow it to offer to buy more homes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/",
-      "originalUrl": "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60c7f9fe84a20f8f38b93271/master/pass/business_zillow_1182960600.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/amp",
-      "publishedDateTime": "2021-06-15T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-heres-why-ibm-is-wading-deeper-into-hybrid-cloud-waters-as-it-should.md",
-      "title": "Here's Why IBM Is Wading Deeper Into Hybrid Cloud Waters (as It Should)",
-      "excerpt": "Big Blue may be late to the party, but it's not too late for the company to leverage even just a little market share into a lot of revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630282%2Fman-wading-into-water-holding-an-umbrella-in-the-rain.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/why-ibm-wading-deeper-in-hybrid-cloud-computing/",
-      "publishedDateTime": "2021-06-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -492,89 +827,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-15-visionquest-uses-artificial-intelligence-to-screen-40000-patients-for-diabetic-retinopathy.md",
-      "title": "VisionQuest Uses Artificial Intelligence to Screen 40,000 Patients for Diabetic Retinopathy",
-      "excerpt": "VisionQuest Biomedical Inc. announces that the company has used the EyeStar artificial intelligence (AI) software to screen over 40,000 patients for d",
+      "path": "_news/2021-06-19-ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws.md",
+      "title": "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS",
+      "excerpt": "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210615005073/en/VisionQuest-Uses-Artificial-Intelligence-to-Screen-40000-Patients-for-Diabetic-Retinopathy",
-      "originalUrl": "https://www.businesswire.com/news/home/20210615005073/en/VisionQuest-Uses-Artificial-Intelligence-to-Screen-40000-Patients-for-Diabetic-Retinopathy",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies.md",
-      "title": "Appen’s Annual State of AI Report Finds a Shift to Internal Efficiencies",
-      "excerpt": "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210615005050/en/Appen’s-Annual-State-of-AI-Report-Finds-a-Shift-to-Internal-Efficiencies",
-      "originalUrl": "https://www.businesswire.com/news/home/20210615005050/en/Appen’s-Annual-State-of-AI-Report-Finds-a-Shift-to-Internal-Efficiencies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-datarobot-adds-automated-ai-reports-snowflake-integration.md",
-      "title": "DataRobot adds automated AI reports, Snowflake integration",
-      "excerpt": "The newest version of the DataRobot platform introduces time series model enhancements, automated AI reports, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/bigdata.shutterstock_363791543.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 620,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -582,16 +849,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/amp/",
-      "publishedDateTime": "2021-06-15T08:55:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T12:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -607,78 +874,27 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-how-gpus-can-boost-ai-for-your-business.md",
-      "title": "How GPUs can boost AI for your business",
-      "excerpt": "Big data, HPC and cloud computing are starting to dominate IT, providing the bedrock for AI and ML processing. A solid hardware platform such as that provided by the Gigabyte G482-Z54 can deliver the CPU power and GPU density to meet the demands ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business",
-      "originalUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623768264/Gigabyte_G482-Z54_AMD_logo.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp",
-      "publishedDateTime": "2021-06-15T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
+        "Facebook AI",
         "AI",
-        "Google AI"
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2021-06-15-construction-robotics-firm-dusty-raises-165m.md",
-      "title": "Construction robotics firm Dusty raises $16.5M",
-      "excerpt": "It certainly follows then that some leading construction robotics companies are able to strike while the iron is hot with some healthy raises. Today, Bay Area-based Dusty Robotics announced a $16.5 million Series A.",
+      "path": "_news/2021-06-19-baidu-to-deploy-1000-budget-robotaxis-on-chinese-roads-as-it-seeks-ways-to-monetise-autonomous-driving-technology.md",
+      "title": "Baidu to deploy 1,000 budget robotaxis on Chinese roads as it seeks ways to monetise autonomous driving technology",
+      "excerpt": "Baidu’s autonomous driving unit has partnered with the luxury electric vehicle brand of BAIC Group to bring fifth generation Apollo Moon robotaxis to Chinese roads, cutting the cost of the vehicles by two thirds.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/",
-      "originalUrl": "https://techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3137776/baidu-deploy-1000-budget-robotaxis-chinese-roads-it-seeks-ways",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3137776/baidu-deploy-1000-budget-robotaxis-chinese-roads-it-seeks-ways",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8zE4X06fly8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/18/e0d7ad32-b330-4ef8-9f46-0d8030629df2_1b3cc3ef.jpg?itok=mgp8ZqYp&v=1624012155",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -686,16 +902,248 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/amp/",
-      "publishedDateTime": "2021-06-15T08:29:00-07:00",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3137776/baidu-deploy-1000-budget-robotaxis-chinese-roads-it-seeks-ways",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137776/baidu-deploy-1000-budget-robotaxis-chinese-roads-it-seeks-ways",
+      "publishedDateTime": "2021-06-18T11:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-self-driving-cars-are-a-no-go-so-lets-all-pretend-flying-cars-are-coming.md",
+      "title": "Self-driving cars are a no-go, so let’s all pretend flying cars are coming",
+      "excerpt": "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming",
+      "originalUrl": "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-tesla-rival-xpeng-gets-self-driving-parking-assist-but-it-needs-to-be-trained-for-specific-parking-spots.md",
+      "title": "Tesla rival Xpeng gets self-driving parking assist, but it needs to be trained for specific parking spots",
+      "excerpt": "Xpeng’s P7 is getting a software update with Valet Parking Assist as it tries to catch up with rivals like Tesla, whose autonomous summon feature has received regulatory scrutiny.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/18/7699694b-c909-4b2c-9733-fcfbe357198f_8cb3e1bc.jpg?itok=k6YXIHFB&v=1623999945",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
+      "publishedDateTime": "2021-06-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-then-white-house-doctor-said-trump-aced-a-cognitive-test-now-he-and-13-gop-lawmakers-demand-biden-take-one-citing-mental-impairment.md",
+      "title": "Then-White House doctor said Trump aced a cognitive test. Now he and 13 GOP lawmakers demand Biden take one, citing ‘mental impairment.’",
+      "excerpt": "WASHINGTON — In 2018, White House physician Ronny Jackson stood before a room of reporters and praised then-president Trump’s cognitive ... to stories from wire services such as the Associated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/?amp=1",
+      "publishedDateTime": "2021-06-18T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-ai-powered-mayflower-beset-with-glitch-returns-to-england.md",
+      "title": "AI-powered Mayflower, beset with glitch, returns to England",
+      "excerpt": "The Mayflower had a few false starts before its trailblazing sea voyage to America more than 400 years ago. Now, its artificial intelligence-powered namesake is having some glitches of its own. A sleek robotic trimaran retracing the 1620 journey of the famous English vessel had to turn back Friday to fix a mechanical problem.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_8905fee31e8143a5bc2db66fc7e0ddf6_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
+      "publishedDateTime": "2021-06-18T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now.md",
+      "title": "3 great deals on robot vacuums from Shark, Eufy and more you can score right now",
+      "excerpt": "The vacuum category offers great deals on Prime Day, says smart shopping expert Trae Bodge of TrueTrae.com, and in some cases the deals have already begun. “As home deals are a large part of the offers on Prime Day,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "originalUrl": "https://www.marketwatch.com/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-356292/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "publishedDateTime": "2021-06-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -712,443 +1160,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-exterro-inc-exterro-releases-new-document-review-platform-with-enhanced-analytics-and-ai-capabilities.md",
-      "title": "Exterro, Inc.: Exterro Releases New Document Review Platform with Enhanced Analytics and AI Capabilities",
-      "excerpt": "These include: Neural machine translation, a new feature that enables users to search for, identify and translate foreign language documents ... including AI, is the most effective way to reduce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53154909-exterro-inc-exterro-releases-new-document-review-platform-with-enhanced-analytics-and-ai-capabilities-399.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53154909-exterro-inc-exterro-releases-new-document-review-platform-with-enhanced-analytics-and-ai-capabilities-399.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-six-major-corporations-create-spains-first-industrial-consortium-for-artificial-intelligence.md",
-      "title": "Six major corporations create Spain's first industrial consortium for Artificial Intelligence",
-      "excerpt": "IndesIA is a catalyst project designed to promote the use of data and artificial intelligence (AI) among industrial businesses in Spain. The project is backed by the experience of organizations who were among the first to venture into this field,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/ai-analytics-automation/six-major-corporations-create-spains-first-industrial-consortium-for-artificial-intelligence-41688/",
-      "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/six-major-corporations-create-spains-first-industrial-consortium-for-artificial-intelligence-41688/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/ai-analytics-automation/six-major-corporations-create-spains-first-industrial-consortium-for-artificial-intelligence-41688/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/six-major-corporations-create-spains-first-industrial-consortium-for-artificial-intelligence-41688/amp/",
-      "publishedDateTime": "2021-06-15T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-cord-raises-45m-to-automate-computer-vision-annotation-processes.md",
-      "title": "Cord raises $4.5M to automate computer vision annotation processes",
-      "excerpt": "Cord, a computer vision annotation automation platform, has raised an estimated $4.5 million in a seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/amp/",
-      "publishedDateTime": "2021-06-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word.md",
-      "title": "Facebook's new AI project: Copy text style from image using a single word",
-      "excerpt": "The first self-supervised AI model can ... in images to different languages, creating personalized messaging and captions, and \"maybe one day facilitating real-world translation of street signs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "originalUrl": "https://www.techradar.com/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qn7ZeiZSaCtMLVWJuQWpEU-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "publishedDateTime": "2021-06-15T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-fedex-to-test-package-deliveries-with-self-driving-start-up-nuro.md",
-      "title": "FedEx to test package deliveries with self-driving start-up Nuro",
-      "excerpt": "FedEx and robotics company Nuro on ... Kroger Co and Domino's Pizza Inc in the Houston area. Nuro continues to test its technology in Arizona. Nuro, whose R2 unit has space for delivery cargo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/dominos-nuro-start-robot-pizza-delivery-houston-2021-04-12/",
-      "originalUrl": "https://www.channelnewsasia.com/news/business/fedex-to-test-package-deliveries-with-self-driving-start-up-nuro-15019992",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/P6R3TDh9hd2YHy_v_9e5jwM7a9A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B4HR3XMWWROH3K4V6SMATGKLSQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-nlp-parses-text-data-to-drive-value-in-the-enterprise.md",
-      "title": "NLP parses text data to drive value in the enterprise",
-      "excerpt": "Natural language processing (NLP), a subfield of AI involved with natural language understanding, can drive business value in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-06-15T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021.md",
-      "title": "State of AI report: AI industry showing strong signs of maturity in 2021",
-      "excerpt": "The findings not only show a maturing industry, they also serve as a useful resource for AI practitioners working on their own deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
-      "publishedDateTime": "2021-06-15T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte.md",
-      "title": "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte",
-      "excerpt": "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "A rtificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?time=1623757801",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?time=1623757801",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?amp",
-      "publishedDateTime": "2021-06-15T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-machine-learning-blockchain-emerge-as-top-online-courses-in-india-report.md",
-      "title": "Machine learning, blockchain emerge as top online courses in India: report",
-      "excerpt": "Digital skills have become important today especially to stay redundant at a time when technology is powering most industries. The pandemic also displaced millions of workers worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/internet/9ep4ul/article34821936.ece/ALTERNATES/LANDSCAPE_615/digital-skills-india-reutersjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece/amp/",
-      "publishedDateTime": "2021-06-15T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

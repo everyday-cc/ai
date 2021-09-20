@@ -2,6 +2,613 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-20-ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care.md",
+      "title": "AI Startup Navina Leverages The Amazon Cloud To Improve Patient Care",
+      "excerpt": "But in their case, it wasn’t a cybersecurity or fintech or proptech startup, but a healthcare startup, joining the most recent thriving sector in the booming Startup Nation of Israel. The rapid digital transformation of the healthcare industry worldwide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6145eddd5d6aa1cb5c537b2d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4340%26cropY1%3D225%26cropY2%3D2667",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/amp/",
+      "publishedDateTime": "2021-09-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-the-disruption-of-legal-services-is-here.md",
+      "title": "The Disruption Of Legal Services Is Here",
+      "excerpt": "In the world of disruption and the promised gold rush for the companies that do the disrupting, size matters. Legal has just been low on the industry list. Its number is now up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144a30dd7fa160726fcacb8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/",
+      "publishedDateTime": "2021-09-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-4-bank-of-america-moonshot-investments.md",
+      "title": "4 Bank of America Moonshot Investments",
+      "excerpt": "We found a reference to just one publicly traded company that was working on an emotional AI project: Amazon Web Services. In August 2019, AWS announced an improved version of its Rekognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
+      "originalUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/01/imageforentry12-cbv.jpg?w=400",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
+      "publishedDateTime": "2021-09-16T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-what-ai-and-machine-learning-mean-for-auto-lending-technology.md",
+      "title": "What AI and machine learning mean for auto lending technology",
+      "excerpt": "Many industries, including automotive finance, are turning to artificial intelligence (AI) and machine learning (ML) for these efficiencies. The technologies can deliver a competitive edge to lenders looking to not just survive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
+      "originalUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autofinancenews.net/wp-content/uploads/2021/09/canstockphoto52285847-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
+      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
+      "publishedDateTime": "2021-09-15T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto Finance News",
+        "domain": "autofinancenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-fintech-market-to-witness-huge-growth-by-2026-ant-financial-adyen-qudian.md",
+      "title": "Fintech Market to Witness Huge Growth by 2026 | Ant Financial, Adyen, Qudian",
+      "excerpt": "The latest research on Worldwide Fintech Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges impeding market growth",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
+      "originalUrl": "https://www.openpr.com/news/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U916568378_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
+      "publishedDateTime": "2021-09-15T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-easiloan-an-ai-enabled-fintech-platform-for-home-loans-raises-inr-80-million-from-tomorrow-capital.md",
+      "title": "Easiloan, an AI-enabled fintech platform for home loans, raises INR 80 million from Tomorrow Capital",
+      "excerpt": "Easiloan.com, India's first AI-enabled fintech solution for home loans has raised its maiden round of INR 80 million from Tomorrow",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/easiloan-an-ai-enabled-fintech-platform-for-home-loans-raises-inr-80-million-from-tomorrow-capital-845015973.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/easiloan-an-ai-enabled-fintech-platform-for-home-loans-raises-inr-80-million-from-tomorrow-capital-845015973.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-the-top-uk-fintech-trends-to-watch-in-2021.md",
+      "title": "The Top UK Fintech Trends to Watch in 2021",
+      "excerpt": "UK fintech is booming and has reportedly attracted $5.7bn worth of capital in the first 6 months of 2021 through 317 deals completed.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/technology-and-ai/top-uk-fintech-trends-watch-2021",
+      "originalUrl": "https://fintechmagazine.com/technology-and-ai/top-uk-fintech-trends-watch-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1125968713.jpg.png?itok=2J3F74uM",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company.md",
+      "title": "Inside DeepL: The World’s Fastest-Growing, Most Secretive Machine Translation Company",
+      "excerpt": "Deep dive into DeepL machine translation, approach to neural networks, quality performance, enterprise solutions, new features, users, and growth.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
+      "originalUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/09/Deepl-Machine-Translation-Company.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-fintech-startup-pagaya-could-go-public-in-9b-spac-deal.md",
+      "title": "FinTech Startup Pagaya Could Go Public in $9B SPAC Deal",
+      "excerpt": "FinTech Pagaya Technologies is mulling a public offering via a merger with the SPAC EJF Acquisition Corp that would value the startup at roughly $9 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
+      "originalUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1501769132-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
+      "publishedDateTime": "2021-09-15T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
+      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
+      "excerpt": "All of Huayan's assets, including the Heartbeat platform, its employees and its operations will be transferred to Peak's Xinxiang Technologies Ltd. subsidiary (\"Xinxiang\"), which was created in the second quarter of 2021 specifically to help bring insurance related products and services to members of Peak's Business Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-aci-worldwide-ranked-in-the-top-20-largest-global-providers-of-financial-technology-by-idc-fintech-rankings.md",
+      "title": "ACI Worldwide Ranked in the Top 20 Largest Global Providers of Financial Technology by IDC FinTech Rankings",
+      "excerpt": "ACI Worldwide, a leading global provider of real-time payments and digital payment software solutions, today announced its ranking in the IDC (News - Alert) Financial Insights 2021 FinTech Rankings. ACI is ranked 19 on this international list of financial technology companies that were judged according to their global revenues attributed to financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-temenos-and-ibm-collaborate-to-accelerate-hybrid-cloud-adoption-in-the-financial-services-industry.md",
+      "title": "Temenos and IBM Collaborate to Accelerate Hybrid Cloud Adoption in the Financial Services Industry",
+      "excerpt": "Temenos (SIX: TEMN), the banking software company, today announced the availability of Temenos Transact next-generation core banking with Red Hat Open",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210913005942/en/Temenos-and-IBM-Collaborate-to-Accelerate-Hybrid-Cloud-Adoption-in-the-Financial-Services-Industry",
+      "originalUrl": "https://www.businesswire.com/news/home/20210913005942/en/Temenos-and-IBM-Collaborate-to-Accelerate-Hybrid-Cloud-Adoption-in-the-Financial-Services-Industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-machine-learning-is-moving-beyond-the-hype.md",
+      "title": "Machine learning is moving beyond the hype",
+      "excerpt": "Today, companies across every industry are deploying millions of machine learning models across multiple lines of business. Soon every enterprise will take part.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
+      "originalUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
+      "publishedDateTime": "2021-09-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc.md",
+      "title": "Global Cloud AI in Fintech Market Comprehensive Insights – Autodesk, IBM, SAP, Fanuc",
+      "excerpt": "Cloud AI in Fintech Market is anticipated to develop at a solid speed in the coming years. The Market research report looks at the worldwide market’s size, share, cost structure, development, patterns,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
+      "originalUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2020/07/Fintech-Trends-Q2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
+      "publishedDateTime": "2021-09-14T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-facebook-developing-machine-learning-chip-the-information.md",
       "title": "Facebook developing machine learning chip - The Information",
       "excerpt": "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project.",
@@ -755,607 +1362,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-how-to-upskill-your-team-to-tackle-ai-and-machine-learning.md",
-      "title": "How to upskill your team to tackle AI and machine learning",
-      "excerpt": "Levi Strauss & Co's Katia Walsh discusses her new machine learning bootcamp and the role upskilling and mentorship can play in humanizing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-3.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/how-to-upskill-your-team-to-tackle-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-08-27T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services.md",
-      "title": "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services",
-      "excerpt": "Amazon Web Services, Inc. or AWS, an Amazon.com, Inc. company (AMZN), announced Friday a deal with Sun Life Financial Inc. (SLF, SLF.TO) to become its long-term strategic cloud technology provider. Sun Life will use AWS's cloud technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
-      "publishedDateTime": "2021-08-27T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-5-stocks-to-watch-amid-evolving-machine-learning-applications.md",
-      "title": "5 Stocks to Watch Amid Evolving Machine Learning Applications",
-      "excerpt": "In the fourth industrial revolution, AI will be the predominant technology, and its subsets ML and deep learning will be driving the change. ML has found its application in multiple disciplines, and businesses can use large data to better understand consumers’ behavior,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "publishedDateTime": "2021-08-26T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry.md",
-      "title": "Taktile makes it easier to leverage machine learning in the financial industry",
-      "excerpt": "Meet Taktile, a new startup that is working on a machine learning platform for financial services companies. This isn’t the first company that wants to leverage machine learning for financial products.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
-      "originalUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Taktile.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/25/taktile-makes-it-easier-to-leverage-machine-learning-in-the-financial-industry/amp/",
-      "publishedDateTime": "2021-08-25T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa.md",
-      "title": "Pngme, Raises $15M Series A to Power the Future of Financial Services in Africa",
-      "excerpt": "the financial data infrastructure and machine learning-as-a-service platform, has raised a further $15 million in Series A funding as it sets out to grow its financial data platform. The round was ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pngme-raises-15m-series-a-to-power-the-future-of-financial-services-in-africa-1030755109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-defining-data-science-ai-and-machine-learning-in-financial-services.md",
-      "title": "Defining data science, AI and machine learning in financial services",
-      "excerpt": "Going back to my cat example – if a machine learning program cannot ... and hold on to it for as long as you possibly can. In financial services, we have the additional consideration that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ftadviser.com/regulation/2021/08/24/defining-data-science-ai-and-machine-learning-in-financial-services/?page=4",
-      "originalUrl": "https://www.ftadviser.com/regulation/2021/08/24/defining-data-science-ai-and-machine-learning-in-financial-services/?page=4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F7%2F9%2F5%2F2575976-4-eng-GB%2Fpexels-kindel-media-8566472.jpg%3Fv1?source=ftadviser",
-          "width": 5184,
-          "height": 3888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FTAdviser",
-        "domain": "ftadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank.md",
-      "title": "Fintech-focused Corporate Accelerator Program Launched in Egypt by Arab Bank",
-      "excerpt": "Fintech-focused corporate accelerator program launched in Egypt by Arab Bank. Initiative will support adoption of modern financial services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash-300x219.jpg",
-          "width": 300,
-          "height": 219,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179462-fintech-focused-corporate-accelerator-program-launched-in-egypt-by-arab-bank/amp/",
-      "publishedDateTime": "2021-08-23T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-etf-industry-vet-sharon-french-joins-fintech-platform-tifin.md",
-      "title": "ETF Industry Vet Sharon French Joins Fintech Platform, TIFIN",
-      "excerpt": "In a move that underscores the increasing importance of distribution in the ETF industry, financial industry veteran Sharon French recently joined emerging ETF and mutual fund platform TIFIN. TIFIN is a fintech platform designed to assist asset managers with their digital distribution strategy via artificial intelligence and machine learning software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
-      "originalUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
-      "publishedDateTime": "2021-08-23T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions.md",
-      "title": "RBL Bank Partners With Amazon Web Services (AWS) To Enhance Its AI-Powered Banking Solutions",
-      "excerpt": "RBL Bank has collaborated with Amazon Web Services (AWS), an Amazon.com corporation, as its ideal cloud vendor to enhance its AI-powered banking services and digital transformation. According to the bank this move will add significant value to its innovative offerings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "originalUrl": "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.goodreturns.in/img/400x40/2019/08/rblbanklogo-1565584941.jpeg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "publishedDateTime": "2021-08-23T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodreturns",
-        "domain": "goodreturns.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector.md",
-      "title": "How Hybrid Cloud & AI Boost Innovation in Africa’s Banking Sector",
-      "excerpt": "The banking sector was no different, digital transformation and adoption are the foundation of banks’ priorities as the use of digital channels and customer self-service continue to grow at a rapid pace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/",
-      "originalUrl": "https://www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2020/05/Digital-Transformation.jpg",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/08/how-hybrid-cloud-ai-boost-innovation-in-africas-banking-sector/?amp",
-      "publishedDateTime": "2021-08-23T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-arab-bank-to-back-egyptian-fintech-ai-and-cybersecurity-startups.md",
-      "title": "Arab Bank To Back Egyptian FinTech, AI And Cybersecurity Startups",
-      "excerpt": "Arab Bank has launched an Egypt branch of its FinTech, artificial intelligence (AI) and cybersecurity accelerator that focuses on early-state startups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
-      "originalUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Egypt-Arab-Bank-startups-accelerator-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/startups/2021/arab-bank-back-egyptian-fintech-artificial-intelligence-cybersecurity-startups/amp/",
-      "publishedDateTime": "2021-08-22T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027.md",
-      "title": "AI in Fintech Market Analysis, Revenue Share, Company Profiles, Launches, & Forecast Till 2027",
-      "excerpt": "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
-      "originalUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/2-84.jpg",
-          "width": 1000,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
-      "publishedDateTime": "2021-08-19T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-eq-inc-reports-second-quarter-financial-results.md",
-      "title": "EQ Inc. Reports Second Quarter Financial Results",
-      "excerpt": "Revenue increases 71% for the quarter and 74% year over year. TORONTO, ON / ACCESSWIRE / August 19, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or the “Company”), a leader in geo",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe.md",
-      "title": "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\"",
-      "excerpt": "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe \" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1597273/Sentiance_Award.jpg",
-          "width": 400,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

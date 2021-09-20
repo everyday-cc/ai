@@ -2,21 +2,21 @@
   "page": 99,
   "value": [
     {
-      "path": "_news/2021-06-30-japans-softbank-says-pepper-robot-remains-alive-and-well.md",
-      "title": "Japan’s SoftBank says Pepper robot remains ‘alive’ and well",
-      "excerpt": "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”",
+      "path": "_news/2021-07-06-finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs.md",
+      "title": "Finance Starts Having a Heart: How Fintech Fosters Financial Inclusion and the SDGs",
+      "excerpt": "Finance acquires a heart. Fintech companies innovate financial services with empathy and sustainability in mind. Financial inclusion can become",
       "sourceUrl": null,
-      "webUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
-      "originalUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
+      "webUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807",
+      "originalUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wric.com/wp-content/uploads/sites/74/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/06/heart-900x607.png",
+          "width": 900,
+          "height": 607,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
-      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
-      "publishedDateTime": "2021-06-29T20:23:00-07:00",
+      "ampWebUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp",
+      "publishedDateTime": "2021-07-05T15:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WRIC",
-        "domain": "wric.com",
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,135 +40,41 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-30-techman-robot-to-provide-free-ai-courses-in-southeast-asia.md",
-      "title": "Techman Robot to Provide Free AI Courses in Southeast Asia",
-      "excerpt": "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,",
+      "path": "_news/2021-07-06-aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services.md",
+      "title": "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services",
+      "excerpt": "TORONTO, ON / ACCESSWIRE / July 5, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine ... for the services provided by TDM Financial ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg",
-          "width": 400,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-ai-vs-skin-cancer.md",
-      "title": "AI vs. skin cancer",
-      "excerpt": "Early detection is key to surviving melanoma, a type of malignant tumor responsible for more than 70% of skin-cancer-related deaths worldwide, but “suspicious pigmented skin lesions” (SPLs) are so common it’s impractical for doctors to check them all out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
-      "originalUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/06/automated-melanoma-detection-small2.gif?w=800",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
-      "publishedDateTime": "2021-06-29T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-vietnamese-e-wallet-momo-picks-up-local-ai-startup-in-first-acquisition-deal.md",
-      "title": "Vietnamese e-wallet MoMo picks up local AI startup in first acquisition deal",
-      "excerpt": "Vietnam’s top payment startup MoMo has made its first acquisition with the purchase of local AI startup Pique in a push to better capitalize the data of its 25 million registered users. The company, which is backed by global investors such as Warburg Pincus and Goodwater Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
-      "originalUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
+      "webUrl": "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71",
+      "originalUrl": "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T19:10:00-07:00",
+      "publishedDateTime": "2021-07-05T13:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -177,25 +83,27 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-06-30-the-uneasy-alliance-between-business-leaders-and-artificial-intelligence.md",
-      "title": "The Uneasy Alliance Between Business Leaders And Artificial Intelligence",
-      "excerpt": "AI is seen by many inside and outside the corporate world as a mysterious, dark art that only data scientists and algorithm developers can love.",
+      "path": "_news/2021-07-06-the-new-world-of-work-you-plus-ai.md",
+      "title": "The new world of work: You plus AI",
+      "excerpt": "Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Emerging technologies meet both advocates and resistance as users weigh the potential benefits with the potential risks.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
+      "webUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbcc890629828a88a61bcb%2F0x0.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
           "width": 1200,
-          "height": 799,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -203,16 +111,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-29T18:57:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
+      "publishedDateTime": "2021-07-05T11:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -228,26 +136,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-06-30-trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia.md",
-      "title": "Trellis Data using machine learning to analyse shipping containers entering Australia",
-      "excerpt": "Working with the Department of Agriculture, Trellis Data is analysing shipping containers using its machine learning technology to determine any biosecurity risks to Australia.",
+      "path": "_news/2021-07-06-pioneers-of-deep-learning-ai-think-its-future-is-gonna-be-lit.md",
+      "title": "Pioneers of deep learning AI think its future is gonna be lit",
+      "excerpt": "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun, explain the current challenges of deep learning and what the future might hold",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "originalUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
+      "webUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
+      "originalUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/59723d6d-16eb-4005-9f60-7cf438a4b645/gettyimages-586450294.jpg",
-          "width": 4928,
-          "height": 3280,
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F1Yoshua-Bengio-Geoffrey-Hinton-Yann-LeCun-deep-learning.jpg&signature=85a3577f4fff3f0407c4111620ca1ebd",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -255,16 +162,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "publishedDateTime": "2021-06-29T18:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T10:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -285,203 +192,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-machine-learning-startup-datarobot-reportedly-raises-250m-on-6b-valuation.md",
-      "title": "Machine learning startup DataRobot reportedly raises $250M on $6B valuation",
-      "excerpt": "Machine learning automation startup DataRobot Inc. has raised $250 million in new funding, according to Axios on a valuation of around $6 billion. Altimeter Capital Management and Tiger Global are said to have led the Series G round.",
+      "path": "_news/2021-07-05-microsofts-project-alexandria-parses-documents-using-unsupervised-learning.md",
+      "title": "Microsoft’s Project Alexandria parses documents using unsupervised learning",
+      "excerpt": "Microsoft's Project Alexandria, which uses unsupervised learning to parse documents, powers the company's Viva Topics product.",
       "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/",
-      "originalUrl": "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/10/37743329_2165804907035213_7133156086915268608_o-1.jpg",
-          "width": 1980,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-zoom-acquires-an-ai-company-building-real-time-translation.md",
-      "title": "Zoom acquires an AI company building real-time translation",
-      "excerpt": "Zoom has announced that it’s acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions), which has worked on creating real-time translation and transcription software. Zoom says the acquisition is a move to help it make communicating with people who speak different languages easier,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "originalUrl": "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/6fNTuqlQ4-TRmQ9LVzVOFOw8exs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69521667/acastro_200331_1777_zoom_0003.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "publishedDateTime": "2021-06-29T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-perfects-youcam-teams-with-smashbox-for-ai-face-analyzer.md",
-      "title": "Perfect’s YouCam Teams With Smashbox For AI Face Analyzer",
-      "excerpt": "AI and AR technology are applied to the beauty world as Perfect and Smashbox Cosmetics team to create Smashbox Eye Genie in the YouCam Makeup App.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1875785341-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/amp/",
-      "publishedDateTime": "2021-06-29T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
-      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-tyson-co-leads-10m-investment-round-for-ai-powered-robotics-startup.md",
-      "title": "Tyson Co-Leads $10M Investment Round for AI-Powered Robotics Startup",
-      "excerpt": "Tyson's venture capital arm helped raise the funds for food robotics firm Soft Robotics, which makes soft-grasping robots with the hand-eye coordination of humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/home/news/21533410/tyson-coleads-10m-investment-round-for-aipowered-robotics-startup",
-      "originalUrl": "https://www.manufacturing.net/home/news/21533410/tyson-coleads-10m-investment-round-for-aipowered-robotics-startup",
+      "webUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
       "featuredContent": null,
       "highlight": null,
       "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/16x9/dfgadsf.60dc88e43c875.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1146,
-          "height": 644,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -489,14 +214,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T17:00:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
+      "publishedDateTime": "2021-07-05T09:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -505,26 +239,27 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2021-06-30-lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes.md",
-      "title": "Lollipop AI launches online grocery marketplace where you can build your own recipes",
-      "excerpt": "As I’ve taken to online grocery shopping over the pandemic, I’ve always wondered by supermarkets didn’t offer simple ‘recipe’ features would have automatically collected up items for a homemade meal,",
+      "path": "_news/2021-07-05-obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-47m.md",
+      "title": "Obviously AI, a no code startup for data analysts, increases its seed round to $4.7M",
+      "excerpt": "After using Obviously AI and benchmarking it against other AutoML products, Mysore was so impressed that he reached out to the startup and led the investment round. No code/low code startups have ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
-      "originalUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
+      "webUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
+      "originalUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Founding_Team.jpeg?w=775",
-          "width": 775,
-          "height": 518,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/4.-Model-Report.png?w=680",
+          "width": 680,
+          "height": 366,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -532,9 +267,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
-      "publishedDateTime": "2021-06-29T16:12:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
+      "publishedDateTime": "2021-07-05T09:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -557,25 +292,26 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-30-machine-learning-aids-insights-into-cows-sleep.md",
-      "title": "Machine Learning Aids Insights Into Cows’ Sleep",
-      "excerpt": "Research into the sleep of cows is seen by researchers as one way of assessing their welfare, which is important to farmers and to respond to the growing expectations of global dairy consumers. Although little is known about the sleep needs of cows,",
+      "path": "_news/2021-07-05-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem.md",
+      "title": "Elon Musk just now realizing that self-driving cars are a ‘hard problem’",
+      "excerpt": "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say ...",
       "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
+      "webUrl": "https://www.theverge.com/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "originalUrl": "https://www.theverge.com/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
-          "width": 400,
-          "height": 400,
+          "url": "https://cdn.vox-cdn.com/thumbor/4C055ZgWGIB5m8h8BXwn3LYWgSs=/0x0:4000x2840/1400x933/filters:focal(1680x1100:2320x1740):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69542575/1229901940.0.jpg",
+          "width": 1400,
+          "height": 933,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -583,13 +319,56 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "publishedDateTime": "2021-06-29T15:52:00-07:00",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "publishedDateTime": "2021-07-05T09:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services.md",
+      "title": "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services",
+      "excerpt": "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/accesswire/654239msn/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/654239msn/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -599,26 +378,78 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-bytedance-is-selling-tiktoks-ai-platform-to-other-companies.md",
+      "title": "ByteDance is selling TikTok's AI platform to other companies",
+      "excerpt": "The artificial intelligence (AI) technology that powers the popular social media platform TikTok has been put on sale by parent company ByteDance. The Beijing-based company has spun off a new division called BytePlus with the aim of reportedly selling TikTok’s AI-powered tech to customers looking to replicate the video sharing platform's success in their ecommerce apps and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
+      "originalUrl": "https://www.techradar.com/in/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/MWdebHvxdtGGoWY2BeBH5B-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
+      "publishedDateTime": "2021-07-05T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-29-automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels.md",
-      "title": "Automate car insurance claims processing with Autonet and Amazon Rekognition Custom Labels",
-      "excerpt": "There is nothing more exhilarating than getting the keys to your first car or driving off the lot with the car of your dreams. Sadly, that exhilaration can quickly fade to frustration when your car is damaged. Working through the phone calls, emails, and damage reports with your insurance provider can",
+      "path": "_news/2021-07-05-bytedance-is-now-selling-tiktoks-ai-to-other-companies.md",
+      "title": "ByteDance Is Now Selling TikTok's AI To Other Companies",
+      "excerpt": "Through this division, the company is offering some of the Artificial Intelligence (AI) tech that powers TikTok ... device and account settings like your language preference, country setting ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
+      "webUrl": "https://www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/25/3942-Diagram.jpg",
-          "width": 801,
-          "height": 528,
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/08/TikTok-App-Logo-AM-AH-4.jpg",
+          "width": 2560,
+          "height": 1920,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -626,119 +457,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T15:37:49-07:00",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html/amp",
+      "publishedDateTime": "2021-07-05T07:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-tesla-vision-powered-active-safety-features-found-to-be-at-least-as-good-as-with-radar-in-new-test.md",
-      "title": "Tesla Vision-powered active safety features found to be at least as good as with radar in new test",
-      "excerpt": "Tesla’s active safety features powered by its new Tesla Vision computer vision system without radar are proving to be at least as good as with radar in a new independent test. When Tesla announced the transition to its “Tesla Vision” Autopilot without radar,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/06/29/tesla-vision-active-safety-features-with-radar-test/",
-      "originalUrl": "https://electrek.co/2021/06/29/tesla-vision-active-safety-features-with-radar-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2016/07/tesla-aeb-test.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/06/29/tesla-vision-active-safety-features-with-radar-test/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/29/tesla-vision-active-safety-features-with-radar-test/amp/",
-      "publishedDateTime": "2021-06-29T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces.md",
-      "title": "EU Privacy Watchdogs Seek AI Biometrics and Facial Recognition Ban in Public Spaces",
-      "excerpt": "More than just a facial recognition ban, the proposal calls for automated systems recognizing 'gait, fingerprints, DNA, voice, keystrokes and other biometric or behavioral signals' to be kept out of all of the EU's publicly accessible spaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/",
-      "originalUrl": "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/06/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/amp/",
-      "publishedDateTime": "2021-06-29T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
+        "name": "Android",
+        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -749,26 +474,25 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-06-30-github-launches-copilot-to-power-pair-programming-with-ai.md",
-      "title": "GitHub launches Copilot to power pair programming with AI",
-      "excerpt": "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code.",
+      "path": "_news/2021-07-05-the-role-of-enterprises-is-artificial-intelligence-ai-taking-away-jobs.md",
+      "title": "The Role of Enterprises: Is Artificial Intelligence (AI) Taking Away Jobs?",
+      "excerpt": "It has been the rule of nature and society that when the application of technologies like Artificial Intelligence in the workforce or daily lifestyle",
       "sourceUrl": null,
-      "webUrl": "https://copilot.github.com/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/github-launches-copilot-to-power-pair-programming-with-ai/",
+      "webUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
+      "originalUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "http://copilot.github.com/social.png",
-          "width": 2400,
-          "height": 1260,
+          "url": "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -776,23 +500,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T14:42:00-07:00",
+      "ampWebUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
+      "publishedDateTime": "2021-07-05T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -805,21 +520,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-tableau-gets-new-ai-powered-business-intelligence-features.md",
-      "title": "Tableau gets new AI-powered business intelligence features",
-      "excerpt": "Tableau today unveiled new AI– and analytics-powered additions to its platform designed to, in the company’s words, “empower more people with the right technology to make smarter and faster decisions.",
+      "path": "_news/2021-07-05-facial-recognition-used-to-verify-vaccine-beneficiaries-govt.md",
+      "title": "Facial recognition used to verify vaccine beneficiaries: govt.",
+      "excerpt": "Even though the Ministry of Health and Family Welfare (MoHFW) has admitted in a recent RTI query response to the use of facial recognition technology (FRT) for online verification of beneficiaries at vaccination centres,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/",
+      "webUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/01/tableau-logo-e1568409911668.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 825,
+          "url": "https://www.thehindu.com/news/national/gl2d2b/article35152785.ece/ALTERNATES/LANDSCAPE_615/Facialrecognition",
+          "width": 615,
+          "height": 384,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -827,9 +542,52 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/amp/",
-      "publishedDateTime": "2021-06-29T14:01:00-07:00",
+      "ampWebUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
+      "publishedDateTime": "2021-07-05T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-ai-legislation-must-address-bias-in-algorithmic-decision-making-systems.md",
+      "title": "AI legislation must address bias in algorithmic decision-making systems",
+      "excerpt": "One promising bill proposes a cross-government investigation into discriminatory algorithmic processes throughout the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/venturebeat_1200px_law_feature-e1625102436458.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/amp/",
+      "publishedDateTime": "2021-07-05T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -852,25 +610,26 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-30-roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world.md",
-      "title": "Robotics/AI Industry Leaders Announce Commitment to Make Pittsburgh the 'Robotics Capital of the World'",
-      "excerpt": "PITTSBURGH, June 29, 2021 /PRNewswire-PRWeb/ -- The Pittsburgh Robotics Network (PRN), a group dedicated to the growth of the region's robotics and artificial intelligence companies, today announced it has attracted over 100 members – making Pittsburgh home to one of the world's most dynamic robotics ecosystems.",
+      "path": "_news/2021-07-05-sometimes-interacting-with-robots-is-easier-than-with-humans.md",
+      "title": "Sometimes interacting with robots is easier than with humans",
+      "excerpt": "A new study shows higher performance in idea generation when humans believe they're interacting with a bot. Is working with robots in our future?",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world-2021-06-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world-2021-06-29",
+      "webUrl": "https://www.techrepublic.com/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "originalUrl": "https://www.techrepublic.com/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/5c83880b-a529-40f7-b697-c166577487ee/crop/1067x803+137+0/resize/1200x/53bae80334ece08cf475784ba6c39ebc/istock-849376288.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 903,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -878,16 +637,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T13:00:00-07:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "publishedDateTime": "2021-07-05T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -908,21 +667,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
-      "title": "AI safety tools can help mitigate bias in algorithms",
-      "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
+      "path": "_news/2021-07-05-teslas-ai-chief-self-driving-cars-dont-need-lidar.md",
+      "title": "Tesla’s AI chief: Self-driving cars don’t need LiDAR",
+      "excerpt": "Tesla has been a vocal champion for the pure vision-based approach to autonomous driving, its chief AI scientist Andrej Karpathy explained why.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
+      "webUrl": "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication",
+      "originalUrl": "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/bigdata.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTeslahed.jpg&signature=b7f31a3678104e26e5bfdcca0a02aee5",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -930,16 +689,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
-      "publishedDateTime": "2021-06-29T12:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T06:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -955,112 +714,27 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-beckers-health-it-and-cio-report-e-newsletter.md",
-      "title": "Becker's Health IT and CIO Report E-Newsletter",
-      "excerpt": "To sign up for Becker's Health IT & CIO Report E-Newsletter or any of our other E-Newsletters, click here. If you are experiencing difficulty receiving our newsletters, you may need to whitelist ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theinformation.com/articles/amazon-plans-ai-powered-cameras-to-monitor-delivery-van-drivers",
-      "originalUrl": "https://www.beckershospitalreview.com/e-weeklies/beckers-hospital-cio-report-e-weekly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tii.imgix.net/production/articles/5284/30c281f1-8df2-4c89-92d3-549e0297a5fe.jpeg?w=1200&fm=jpg&auto=compress",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-microsoft-announces-the-general-availability-of-azure-nd-a100-v4-cloud-gpu-instances.md",
-      "title": "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances",
-      "excerpt": "and Machine Learning (ML) workloads. The public cloud vendor released the Azure ND A100 v4 Cloud GPU in public preview as a High-Performance Computing (HPC) enabled virtual machine for AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/",
-      "originalUrl": "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2021-06-29-how-language-translation-can-help-companies-regain-consumer-trust.md",
-      "title": "How Language Translation Can Help Companies Regain Consumer Trust",
-      "excerpt": "It’s time to think of translation as less of a team, or group, and more as a technical operations layer that covers all things. Vasco Pedro is a cofounder and chief executive officer of Unbabel, an AI-powered language operations platform that helps ...",
+      "path": "_news/2021-07-05-whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing.md",
+      "title": "What's a robot manicure really like? Quick, cheap, and guilt-inducing.",
+      "excerpt": "A robot gave me a manicure last week. Let me stop you before you envision a bipedal humanoid carefully dipping a brush into a bottle and lacquering my nails. Instead, the experience felt more like inserting my hand into a 3D printer.",
       "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147737",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147737",
+      "webUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
+      "originalUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/135846-viewpoints-languages-ORG.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://sm.mashable.com/t/mashable_sea/article/w/whats-a-ro/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-ind_hewc.620.jpg",
+          "width": 620,
+          "height": 485,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1068,13 +742,107 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:17:00-07:00",
+      "ampWebUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
+      "publishedDateTime": "2021-07-05T04:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond.md",
+      "title": "AI In Motion: Three Guardrails For Effective Implementation In Transportation (And Beyond)",
+      "excerpt": "Transportation has seen massive transformation in recent years — from shifts in how we get from point A to B, to how we receive our groceries — with AI at the center of it all. The pandemic only accelerated demand for AI applications in transportation amidst widespread social distancing and shelter-in-place orders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df26da339f52ef6e9735e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/",
+      "publishedDateTime": "2021-07-05T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-tiktok-is-now-selling-its-ai-to-other-companies-including-in-india.md",
+      "title": "TikTok is now selling its AI to other companies including in India",
+      "excerpt": "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ... offers automated speech and text translation and real-time video effects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/articleshow/84133125.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/articleshow/84133125.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/84133139.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/amp_articleshow/84133125.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/amp_articleshow/84133125.cms",
+      "publishedDateTime": "2021-07-05T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1089,29 +857,72 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
-      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
-      "excerpt": "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems.",
+      "path": "_news/2021-07-05-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
+      "title": "ByteDance selling TikTok AI to companies including in India",
+      "excerpt": "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics New Delhi: China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-84134593,imgsize-488272,width-800,height-434,overlay-ettelecom/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "publishedDateTime": "2021-07-04T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
+      "title": "Analysis-'Racist' facial recognition sparks ethical concerns in Russia",
+      "excerpt": "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
+      "originalUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:14:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2EB0BC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EB0BC",
+      "publishedDateTime": "2021-07-04T21:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1127,26 +938,80 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
-      "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
-      "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
+      "path": "_news/2021-07-05-ai-driven-robots-are-here-for-good.md",
+      "title": "AI-Driven Robots Are Here For Good",
+      "excerpt": "AI, algorithms and technological applications are accelerating into new realms. With the proper implementation of ethics, diversity, and inclusive design - humans stand to benefit significantly.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg",
-          "width": 400,
-          "height": 267,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e279184db784a0c94473f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/",
+      "publishedDateTime": "2021-07-04T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
+      "title": "'Racist' facial recognition sparks ethical concerns in Russia",
+      "excerpt": "From scanning residents' faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.trust.org/item/20210705014850-6gwm1",
+      "originalUrl": "https://news.trust.org/item/20210705014850-6gwm1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/ebe712df-e91b-4162-847c-c65997db30c5/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100",
+          "width": 1100,
+          "height": 733,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1156,14 +1021,92 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:07:00-07:00",
+      "publishedDateTime": "2021-07-04T20:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Thomson Reuters Foundation",
+        "domain": "trust.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-cmu-spinoff-marinus-analytics-awarded-ai-xprize-third-place.md",
+      "title": "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place",
+      "excerpt": "A CMU spinoff company from a Dietrich College alumna won third place and $500,000 in the IBM Watson AI XPRIZE competition in June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmu.edu/dietrich/philosophy/news/2020-2021/marinus-analytics-kennedy.html.html",
+      "originalUrl": "https://www.cmu.edu/dietrich/philosophy/news/2020-2021/marinus-analytics-kennedy.html.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmu.edu",
+        "domain": "cmu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-will-the-ai-dynamic-pricing-lead-hong-kongs-shoppers-to-virtual-insanity.md",
+      "title": "Will the AI dynamic pricing lead Hong Kong’s shoppers to virtual insanity?",
+      "excerpt": "Computer driven dynamic pricing is a bit like a Hong Kong wet market, but on a whole new level, writes Neil Newman.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity",
+      "originalUrl": "https://www.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2021/07/01/351c19d9-24f8-4386-b341-ce7ce498ffde_2c6f0aae.jpg?itok=EDOlDhDk&v=1625137354",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/week-asia/opinion/article/3139480/will-ai-dynamic-pricing-lead-hong-kongs-shoppers-virtual-insanity",
+      "publishedDateTime": "2021-07-04T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1179,8 +1122,51 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-ipl-score-prediction-using-deep-learning.md",
+      "title": "IPL Score Prediction using Deep Learning",
+      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/",
+      "originalUrl": "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210612120650/predict-300x233.png",
+          "width": 300,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/amp/",
+      "publishedDateTime": "2021-07-04T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeeksforGeeks",
+        "domain": "geeksforgeeks.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
       ]
     }
   ],

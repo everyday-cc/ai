@@ -2,6 +2,368 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-21-could-artificial-intelligence-transform-healthcare-cybersecurity.md",
+      "title": "Could Artificial Intelligence Transform Healthcare Cybersecurity?",
+      "excerpt": "Utilizing artificial intelligence tools in healthcare cybersecurity could help to streamline threat detection efforts, ensure compliance, and mitigate human error.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/news/could-artificial-intelligence-transform-healthcare-cybersecurity",
+      "originalUrl": "https://healthitsecurity.com/news/could-artificial-intelligence-transform-healthcare-cybersecurity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitsecurity.com/images/sized/GettyImages-1199544765-39a26234983c4eca9381530cb872a66d.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity",
+      "publishedDateTime": "2021-09-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-zoomtopia-ai-and-video-to-power-healthcare.md",
+      "title": "Zoomtopia: AI and Video to Power Healthcare",
+      "excerpt": "At the recent Zoomtopia, the company spotlighted how healthcare providers are actively transitioning to telehealth, representing a significant disruption of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
+      "originalUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg",
+          "width": 1032,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality.md",
+      "title": "The Social Impact Case For Artificial Intelligence’s Role In Achieving Global Financial And Health Equality",
+      "excerpt": "Equality Mural.. Technology can be used for a great many things: improving people’s lives is one of them. This is achievable through AI in many sectors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144ea724d323ccd70477289%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1036%26cropY1%3D941%26cropY2%3D1524",
+          "width": 1036,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
+      "publishedDateTime": "2021-09-17T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
+      "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
+      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg?p=facebook",
+          "width": 5157,
+          "height": 2699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-top-10-massive-failures-of-artificial-intelligence-till-date.md",
+      "title": "Top 10 Massive Failures of Artificial Intelligence Till Date",
+      "excerpt": "The creation of Artificial Intelligence has been postponed for several millennia and current AI Technology is still far from being able to re-design itself. This article will give an idea of the top AI Failures in this AI era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-10-massive-failures-of-artificial-intelligence-till-date/",
+      "originalUrl": "https://www.analyticsinsight.net/top-10-massive-failures-of-artificial-intelligence-till-date/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-10-Massive-Failures-of-Artificial-Intelligence-till-Date.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality.md",
+      "title": "De Wandel and Mathews: Artificial intelligence held artificial promise to yield health care equality",
+      "excerpt": "Despite high expectations that computer technology could balance medical treatment between the races, the result has been the opposite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/opinion/columnists/de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality/article_257e24fa-9074-5739-b74d-62523f311528.html",
+      "originalUrl": "https://www.stltoday.com/opinion/columnists/de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality/article_257e24fa-9074-5739-b74d-62523f311528.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517",
+          "width": 600,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-41640-million-by-2027.md",
+      "title": "Artificial Intelligence Diagnostic Market is Projected to Reach USD 416,4.0 Million By 2027",
+      "excerpt": "A recent study conducted by the strategic consulting and market research firm, BlueWeave Consulting, revealed that the global artificial intelligence diagnostic market was worth USD 416.1 million in the year 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/?amp=1",
+      "publishedDateTime": "2021-09-14T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-artificial-intelligence-market-impact-of-covid-19-by-solution-companies-global-forecast-by-2026-renub-research.md",
+      "title": "Artificial Intelligence Market, Impact of COVID-19, By Solution, Companies, Global Forecast by 2026 - Renub Research",
+      "excerpt": "Today artificial intelligence platform has become a way for computer systems to perform tasks like human intelligence including decision making and speech recognition Globally problem solving social intelligence and general intelligence is being achieved with the help of the artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "originalUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U913421287_g.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "publishedDateTime": "2021-09-12T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-71-of-healthcare-execs-to-invest-in-ai-over-the-next-three-years.md",
       "title": "71% of Healthcare Execs to Invest in AI Over the Next Three Years",
       "excerpt": "A majority of healthcare executives PYMNTS surveyed see AI as a particularly useful tool in waging war against the fraudsters.",
@@ -170,6 +532,40 @@
       ]
     },
     {
+      "path": "_news/2021-09-09-unpacking-the-global-artificial-intelligence-ai-in-healthcare-market-key-trends-affecting-demand-through-2027.md",
+      "title": "Unpacking the Global Artificial Intelligence (AI) in Healthcare Market: Key Trends Affecting Demand Through 2027",
+      "excerpt": "According to the findings of this business intelligence study, the demand for artificial intelligence in healthcare sector across the globe will increase at an exuberant CAGR during the forecast period of 2017 to 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/unpacking-the-global-artificial-intelligence-ai-in-healthcare-market-key-trends-affecting-demand-through-2027/",
+      "originalUrl": "https://manometcurrent.com/unpacking-the-global-artificial-intelligence-ai-in-healthcare-market-key-trends-affecting-demand-through-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/unpacking-the-global-artificial-intelligence-ai-in-healthcare-market-key-trends-affecting-demand-through-2027/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/unpacking-the-global-artificial-intelligence-ai-in-healthcare-market-key-trends-affecting-demand-through-2027/",
+      "publishedDateTime": "2021-09-09T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-machine-learning-predicts-patient-response-to-rheumatoid-arthritis-therapy.md",
       "title": "Machine Learning Predicts Patient Response to Rheumatoid Arthritis Therapy",
       "excerpt": "Rheumatoid arthritis treatment may soon be personalized based on new molecular signature models that accurately predicted patient responses to adalimumab and etanercept.",
@@ -299,6 +695,58 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
+      "title": "Global Healthcare Artificial Intelligence Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
+      "excerpt": "MarketQuest.biz has published another latest research report on Global Healthcare Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-09-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -910,476 +1358,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-xiaoice-robot-users-have-ended-up-in-therapy-for-falling-in-love-with-their-artificial-intelligence.md",
-      "title": "XiaoIce robot users have ended up in therapy for falling in love with their Artificial Intelligence",
-      "excerpt": "XiaoIce \"will never betray me, he will always be there,\" says a female user who needed psychological therapy after falling in love with her virtual assistant with Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/381966",
-      "originalUrl": "https://www.entrepreneur.com/article/381966",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630009190-Ago26XiaoIceamorrobotinteligenciaartificialenamorarparejavirtualnovionovia.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381966",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381966",
-      "publishedDateTime": "2021-08-26T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at-birmingham.md",
-      "title": "Caris Precision Oncology Alliance Welcomes The ONeal Comprehensive Cancer Center at University of Alabama at Birmingham",
-      "excerpt": "The O’Neal Comprehensive Cancer Center at UAB is Alabama’s only cancer center designated by the National Cancer Institute and is at the forefront of improving cancer prevention, diagnosis and treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/caris-precision-oncology-alliance-welcomes-oneal-comprehensive-cancer-center-university-alabama",
-      "originalUrl": "https://www.pressreleasepoint.com/caris-precision-oncology-alliance-welcomes-oneal-comprehensive-cancer-center-university-alabama",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-artificial-intelligence-tools-can-help-clinicians-spend-more-time-with-patients.md",
-      "title": "Artificial Intelligence Tools Can Help Clinicians Spend More Time with Patients",
-      "excerpt": "There is no argument that artificial intelligence (AI) is rapidly transforming how healthcare is delivered in our modern world. One of the many benefits of implementing AI into the care continuum is the ability to save time so that the extra minutes can go into quality time with the patient;",
-      "sourceUrl": null,
-      "webUrl": "https://www.managedhealthcareexecutive.com/view/artificial-intelligence-tools-can-help-clinicians-spend-more-time-with-patients",
-      "originalUrl": "https://www.managedhealthcareexecutive.com/view/artificial-intelligence-tools-can-help-clinicians-spend-more-time-with-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/mhe/51bb925ee182929f2934e0f4b6b6e9b20ab2c2cf-1000x600.png?fit=crop&auto=format",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Managed Healthcare Executive",
-        "domain": "managedhealthcareexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027.md",
-      "title": "Asia Pacific Artificial Intelligence In Healthcare Market Size, Analysis, Competitive Strategies and Forecasts to 2027",
-      "excerpt": "The market research report an in-depth study of the present as well as the future market needs of the Asia Pacific Artificial Intelligence (Ai) In Healthcare Market size. The research report serves as a comprehensive guide for new entrants to the Asia Pacific Artificial Intelligence (Ai) In Healthcare market size.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027-2021-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027-2021-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media.md",
-      "title": "AI is the next cloud: what next for artificial intelligence in media?",
-      "excerpt": "Artificial intelligence is the next ‘cloud ... In the case of content, this could lead to active therapy, for instance to combat mental health issues by curating content appropriate to benefit the state of mind of the individual.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media",
-      "originalUrl": "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2020/09/Brain-pixels.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media?amp",
-      "publishedDateTime": "2021-08-26T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at-birmingham.md",
-      "title": "Caris' Precision Oncology Alliance Welcomes The O'Neal Comprehensive Cancer Center at University of Alabama at Birmingham",
-      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, announced today that",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at/article_30d6e9ba-573c-56ae-9be0-93644fa90a65.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at/article_30d6e9ba-573c-56ae-9be0-93644fa90a65.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/78/578224d2-d123-5cd6-acb5-b1856ce6f95e/606c38b2938f5.image.jpg?resize=703%2C630",
-          "width": 703,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-artificial-intelligence-in-diagnostics-market-will-touch-new-level-in-upcoming-year-by-aidoc-alivecor-ge-healthcare.md",
-      "title": "Artificial Intelligence in Diagnostics Market will touch New Level in Upcoming Year by Aidoc, AliveCor, GE Healthcare",
-      "excerpt": "Aidoc, AliveCor, GE Healthcare, Imagen Technologies, Vuno Inc., IDx Technologies Inc., Siemens Healthcare GmbH, Neural Analytics, Riverain Technologies,, Zebra Medical Vision. A2Z Market Research announces the release of the Artificial Intelligence in Diagnostics Market research report.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-in-diagnostics-market-will-touch-new-level-in-upcoming-year-by-aidoc-alivecor-ge-healthcare/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-diagnostics-market-will-touch-new-level-in-upcoming-year-by-aidoc-alivecor-ge-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/07/Low-Fat-Butter-Market-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-in-diagnostics-market-will-touch-new-level-in-upcoming-year-by-aidoc-alivecor-ge-healthcare/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-diagnostics-market-will-touch-new-level-in-upcoming-year-by-aidoc-alivecor-ge-healthcare/",
-      "publishedDateTime": "2021-08-25T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-rightway-introduces-artificial-intelligence-to-improve-care-navigation-for-persons-with-chronic-conditions.md",
-      "title": "Rightway Introduces Artificial Intelligence to Improve Care Navigation for Persons with Chronic Conditions",
-      "excerpt": "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify \"rising-risk\" and \"high-risk\" members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19967778.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19967778.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-can-new-robotic-massage-chairs-really-replace-a-spa-visit.md",
-      "title": "Can New, Robotic Massage Chairs Really Replace a Spa Visit?",
-      "excerpt": "We take sides on whether high-tech luxury chairs—with artificial intelligence, ‘brain massage’ tech and undulating air bags—can soothe you as effectively as a licenced massage therapist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/can-new-robotic-massage-chairs-really-replace-a-spa-visit-11629885601",
-      "originalUrl": "https://www.wsj.com/articles/can-new-robotic-massage-chairs-really-replace-a-spa-visit-11629885601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-389093/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/can-new-robotic-massage-chairs-really-replace-a-spa-visit-11629885601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-new-robotic-massage-chairs-really-replace-a-spa-visit-11629885601",
-      "publishedDateTime": "2021-08-25T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications.md",
-      "title": "Tesla Is Developing A Robot. If Combined With Neuralink, It May Have Revolutionary Healthcare Applications",
-      "excerpt": "Last week, during Tesla’s much anticipated “AI Day,” an event meant to showcase the company’s revolutionary strides in artificial intelligence technology, Musk announced the next frontier for the company: developing the Tesla Bot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61230c3d88806ceaeee3c8cd%2F0x0.jpg",
-          "width": 1200,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
-      "publishedDateTime": "2021-08-22T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

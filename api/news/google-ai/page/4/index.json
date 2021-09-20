@@ -2,6 +2,230 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-25-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
+      "title": "DeepMind uses AI to tackle neglected deadly diseases",
+      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessghana.com/site/news/Technology/241004/DeepMind-uses-AI-to-tackle-neglected-deadly-diseases",
+      "originalUrl": "https://www.businessghana.com/site/news/Technology/241004/DeepMind-uses-AI-to-tackle-neglected-deadly-diseases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessghana.com/site/img/../../cms/img/news/2021-06-24-154800000.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessGhana",
+        "domain": "businessghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-sparsity-preserving-clustering-keras-example.md",
+      "title": "Sparsity preserving clustering Keras example",
+      "excerpt": "This is an end to end example showing the usage of the sparsity preserving clustering API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. _, baseline_model_accuracy = model.evaluate( test_images, test_labels ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/sparse_clustering_example",
+      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/sparse_clustering_example",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
+      "title": "DeepMind wants to use its AI to cure neglected diseases",
+      "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?&utm_social-type=earned",
+      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?&utm_social-type=earned",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-alphabets-deepmind-uses-ai-to-find-drugs-strategies-to-rare-diseases.md",
+      "title": "Alphabet’s DeepMind uses AI to find drugs strategies to rare diseases",
+      "excerpt": "Alphabet's DeepMind is going to use AI to find a solution for rare deadly parasitic diseases. In partnership with DNDi) DeepMind is going to tackle Chagas disease.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/deepmind-uses-ai-to-find-drugs-strategies-to-rare-diseases/",
+      "originalUrl": "https://techstory.in/deepmind-uses-ai-to-find-drugs-strategies-to-rare-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/06/111825801_cv4.jpg",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
+      "title": "DeepMind wants to use its AI to cure neglected diseases",
+      "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
+      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/master/pass/GettyImages-1199508481.jpg",
+          "width": 5335,
+          "height": 3557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
+      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
+      "publishedDateTime": "2021-06-23T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation.md",
       "title": "AI in Healthcare Market 2021 May See Potentially High Growth Factors | DeepMind Technologies Limited, IBM Corporation, Intel Corporation",
       "excerpt": "The AI in Healthcare Market report provides a detailed analysis of the major factors influencing the market growth, including the drivers, restraints, lucrative opportunities, technology advancements,",

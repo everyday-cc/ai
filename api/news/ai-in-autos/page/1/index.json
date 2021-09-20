@@ -2,6 +2,827 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-20-ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars.md",
+      "title": "Ordinary Lowly Lampposts Aiming To Stand Tall For Bolstering AI Self-Driving Cars",
+      "excerpt": "Lampposts can do a lot more than merely provide light for our roadways, and efforts are underway to leverage lampposts for the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6094766e8d7cd811a0ed5a8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1893%26cropY1%3D95%26cropY2%3D1160",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-09-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-ntsb-says-teslas-full-self-driving-beta-is-misleading-irresponsible-ahead-of-wider-release.md",
+      "title": "NTSB says Tesla’s Full Self-Driving beta is ‘misleading & irresponsible’ ahead of wider release",
+      "excerpt": "As Tesla is moving to release its Full Self-Driving beta software to its US fleet, the automaker is facing some pushbacks from US regulators. Now the NTSB is calling Tesla’s approach “misleading and irresponsible.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/",
+      "originalUrl": "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/",
+      "publishedDateTime": "2021-09-20T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo.md",
+      "title": "Justice, Equity, And Fairness: Exploring The Tense Relationship Between Artificial Intelligence And The Law With Joilson Melo",
+      "excerpt": "As a law student, Melo filed a request for action in the National Council of Justice, resulting in a decision allowing citizens to file applications in court electronically, without a lawyer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6147e32b87af2b4a648476ba%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/amp/",
+      "publishedDateTime": "2021-09-19T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority.md",
+      "title": "Elon Musk’s Push to Expand Tesla’s Driver Assistance to Cities Rankles a Top Safety Authority",
+      "excerpt": "Tesla plans to expand access to its Full Self-Driving system and defends its technology. A safety official says more work is needed and calls the name irresponsible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "originalUrl": "https://www.wsj.com/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-403222/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "publishedDateTime": "2021-09-19T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu.md",
+      "title": "China’s Baidu unveils autonomous driving ‘robot truck’ Xingtu",
+      "excerpt": "Baidu’s open-source autonomous driving platform Apollo has spawned Xingtu, an electric ‘robot truck’, as mainland China’s artificial intelligence and search engine giant revs up the development of next-generation vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/18/44b8b9a0-17b7-11ec-ab69-f2bfe93835cf_image_hires_023635.JPG?itok=HjlXUvBM&v=1631903802",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "publishedDateTime": "2021-09-17T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-3-artificial-intelligence-stocks-to-buy-now.md",
+      "title": "3 Artificial Intelligence Stocks to Buy Now",
+      "excerpt": "We've put together a list of 3 artificial intelligence stocks to buy now to help investors make the right choices when adding exposure to this",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/385679",
+      "originalUrl": "https://www.entrepreneur.com/article/385679",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-385679.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/385679",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/385679",
+      "publishedDateTime": "2021-09-16T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-worldwide-data-collection-and-labeling-industry-to-2028-featuring-global-technology-solutions-alegion-and-labelbox-among-others.md",
+      "title": "Worldwide Data Collection and Labeling Industry to 2028 - Featuring Global Technology Solutions, Alegion and Labelbox Among Others",
+      "excerpt": "SpaceX is targeting Wednesday, September 15 at 8:02 p.m. for launch of the Inspiration4 mission – the world’s first all-civilian human spaceflight to orbit – aboard SpaceX’s Falcon 9 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-data-collection-and-labeling-industry-to-2028---featuring-global-technology-solutions-alegion/article_197d5e85-9bad-5451-b649-52d6e0f78ed5.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-data-collection-and-labeling-industry-to-2028---featuring-global-technology-solutions-alegion/article_197d5e85-9bad-5451-b649-52d6e0f78ed5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-walmart-self-driving-delivery-service-coming-to-three-cities.md",
+      "title": "Walmart Self-Driving Delivery Service Coming to Three Cities",
+      "excerpt": "Ford Motor Co. and Argo AI have joined forces with Walmart to roll out an autonomous vehicle delivery service in Washington, D.C.; Miami, Fla.; and Austin, Texas. The service is expected to grow to other cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
+      "originalUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/ff20296/2147483647/strip/true/crop/1000x521+0+122/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa2%2Fdb%2F736321c7494893e7b9af8e18eb7c%2Fshutterstock-2022062486.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
+      "publishedDateTime": "2021-09-15T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-walmart-partners-with-ford-to-test-self-driving-delivery-in-3-cities.md",
+      "title": "Walmart partners with Ford to test self-driving delivery in 3 cities",
+      "excerpt": "Retail giant Walmart announced on Wednesday that it's partnering with Ford and an artificial intelligence company to test a self-driving delivery service in three American cities in the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/8241631708927/2021/1/7539b99d39407142a709854e4177d7a9/v1.5/Walmart-partners-with-Ford-to-test-self-driving-delivery-in-3-cities.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
+      "publishedDateTime": "2021-09-15T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-bosch-driverless-the-journey-begins.md",
+      "title": "Bosch DRIVERLESS: the journey begins",
+      "excerpt": "Close your eyes. Let your imagination flow. What is your dream? Think about it. Done? If the answer you gave is 'working in the world of racing,' then everything written below will sound very interesting to you.",
+      "sourceUrl": null,
+      "webUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
+      "originalUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-1.motorsport.com/images/amp/YP3Jzlj2/s6/bosch-driverless-intro-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
+      "cdnAmpWebUrl": "https://it-motorsport-com.cdn.ampproject.org/c/s/it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
+      "publishedDateTime": "2021-09-15T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motorsport",
+        "domain": "motorsport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-taking-lessons-from-a-sea-slug-study-points-to-better-hardware-for-artificial-intelligence.md",
+      "title": "Taking lessons from a sea slug, study points to better hardware for artificial intelligence",
+      "excerpt": "For artificial intelligence to get any smarter, it needs first to be as intelligent as one of the simplest creatures in the animal kingdom: the sea slug.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.html",
+      "originalUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/taking-lessons-from-a.jpg",
+          "width": 2880,
+          "height": 1917,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.amp",
+      "publishedDateTime": "2021-09-14T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity.md",
+      "title": "This Indian company is tapping into the huge autonomous driving opportunity",
+      "excerpt": "Be it artificial intelligence (AI), 5G ... Global companies such as Tesla and Waymo are leading the race when it comes to automated driving. But what about Indian companies?",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
+      "originalUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/09/14/600x338/car-kHv--621x414@LiveMint_1631620785356.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
+      "publishedDateTime": "2021-09-14T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
+      "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
+      "excerpt": "I’m cautious on the name mainly because I believe that it could easily become a target for China’s zealous tech regulators. For BIDU stock, it’s a very good sign that Baidu has apparently ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/",
+      "originalUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/amp/",
+      "publishedDateTime": "2021-09-13T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-apple-taps-more-drivers-to-test-self-driving-cars-in-california.md",
+      "title": "Apple taps more drivers to test self-driving cars in California",
+      "excerpt": "Apple is continuing efforts to advance internal self-driving car technology, with the iPhone maker recently registering more drivers to pilot technology test beds on California roads.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
+      "originalUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/44393-86171-210914-AppleTestVehicle-xl.jpg",
+          "width": 870,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
+      "publishedDateTime": "2021-09-13T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-chinas-baidu-inc-opens-its-apollo-go-robotaxi-service-in-shanghai.md",
+      "title": "China's Baidu Inc. Opens its ‘Apollo Go' Robotaxi Service in Shanghai",
+      "excerpt": "Chinese tech giant Baidu Inc. has opened its Apollo Go robotaxi service in Shanghai, its third major city in China following the launch in Beijing and Guangzhou. With the launch of Apollo Go in Shanghai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/4866/Chinas-Baidu-Inc-Opens-its-‘Apollo-Go-Robotaxi-Service-in-Shanghai",
+      "originalUrl": "https://www.futurecar.com/4866/Chinas-Baidu-Inc-Opens-its-‘Apollo-Go-Robotaxi-Service-in-Shanghai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202109/13/l_613fbff9b6497.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-impact-of-driverless-vehicles-on-society.md",
+      "title": "Impact of Driverless Vehicles on Society",
+      "excerpt": "Introduction The research question I chose was “Could Driverless Vehicles Pose A Negative Impact on Today’s Society?” I chose this research question",
+      "sourceUrl": null,
+      "webUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
+      "originalUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Truth",
+        "domain": "studymoose.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai.md",
+      "title": "Chinese tech giant Baidu begins publicly testing Apollo Go robotaxis in Shanghai",
+      "excerpt": "The 10,000 square meter space will house the 200 AVs Baidu hopes to bring to the city, which would make it the site of the largest self-driving fleet in East China. Baidu’s long game is to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "originalUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024",
+          "width": 1024,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "publishedDateTime": "2021-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-driverless-cars-technology-brings-dream-a-step-closer.md",
+      "title": "Driverless cars: Technology brings dream a step closer",
+      "excerpt": "At this month’s CES technology show in Las Vegas, chipmaker Nvidia launched the Drive PX 2 in-­vehicle artificial intelligence platform for driverless operation. Nvidia says the PX2 has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
+      "originalUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-russias-yandex-to-start-tests-for-self-driving-taxis-in-moscow.md",
       "title": "Russia’s Yandex to start tests for Self Driving Taxis in Moscow",
       "excerpt": "Yandex is planning on starting field tests for its self driving taxis in Moscow, Russia. This would allow the people living in the Capital city to experience the future by taking a ride in the new autonomous vehicles later this year.",
@@ -41,6 +862,84 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-botz-a-robotics-ai-etf-with-a-strong-track-record.md",
+      "title": "BOTZ: A Robotics & AI ETF With A Strong Track Record",
+      "excerpt": "Technology stocks, ETFs, portfolio strategy, renewable energy, and O&G companies. Primary goal is growing net-worth. I typically allocate a portion of my own portfolio and devote some of my SA ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
+      "originalUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1280407804/medium_image_1280407804.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
+      "publishedDateTime": "2021-09-09T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-bill-virgin-driverless-trucks-could-give-drones-a-run-for-their-delivery-money.md",
+      "title": "Bill Virgin: Driverless trucks could give drones a run for their delivery money",
+      "excerpt": "Earlier this year, it announced it has been working with Nvidia, a developer of artificial-intelligence systems, on driverless trucks. The announcement was accompanied by a video of just such a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewstribune.com/news/business/biz-columns-blogs/article147436959.html",
+      "originalUrl": "https://www.thenewstribune.com/news/business/biz-columns-blogs/article147436959.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thenewstribune.com/news/business/biz-columns-blogs/article147436959.html",
+      "cdnAmpWebUrl": "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/biz-columns-blogs/article147436959.html",
+      "publishedDateTime": "2021-09-08T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Tribune",
+        "domain": "thenewstribune.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -476,943 +1375,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-elon-musk-tesla-making-a-robot-because-robots-are-coming-anyway.md",
-      "title": "Elon Musk: Tesla Making a Robot Because “Robots Are Coming Anyway”",
-      "excerpt": "For years, Tesla CEO Elon Musk has warned us that artificial intelligence is coming for us all. “I’ve been banging this AI drum for a decade,” Musk told Insider last year. He’s even gone as far as saying that AI is more dangerous than nuclear war.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
-      "originalUrl": "https://futurism.com/the-byte/elon-musk-robots-coming-anyway",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/09/elon-musk-robots-coming-anyway-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/elon-musk-robots-coming-anyway/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-robots-coming-anyway/amp",
-      "publishedDateTime": "2021-09-02T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis.md",
-      "title": "Self Driving Wheelchair Market Size Insight Report 2021 to 2027 by Manufactures Types, End Users and Regions with COVID-19 Impact Analysis",
-      "excerpt": "Sep 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Self Driving Wheelchair",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-insight-report-2021-to-2027-by-manufactures-types-end-users-and-regions-with-covid-19-impact-analysis-2021-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-tesla-now-aims-for-full-self-driving-beta-public-release-september-25th-u.md",
-      "title": "Tesla now aims for Full Self-Driving Beta public release ~September 25th (U)",
-      "excerpt": "In a series of new Tweets, Tesla CEO Elon Musk has pinpointed the target delivery date of the “FSD opt-in Button” to on or around September 25th Elon Musk is now saying that Tesla is aiming for the wider public release of its Full S Beta in about four weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "originalUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/01/tesla-full-self-driving-beta-public-release-4-weeks/",
-      "publishedDateTime": "2021-09-01T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-apple-self-driving-cars-were-involved-in-two-accidents-last-month-in-california.md",
-      "title": "Apple self-driving cars were involved in two accidents last month in California",
-      "excerpt": "Apple has been working on its self-driving car technology and the Cupertino-based tech giant was recently in the news related to efforts in forming partnerships with automakers for the Apple Car, but nothing has been materialized yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/",
-      "originalUrl": "https://www.gizmochina.com/2021/09/02/apple-car-self-driving-accidents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/09/Apple-Self-Driving-Car-Testing.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-what-you-need-to-know-about-this-self-driving-truck-start-ups-ipo.md",
-      "title": "What You Need to Know About This Self-Driving Truck Start-up's IPO",
-      "excerpt": "Self-driving start-ups are racing to go public, hoping to ride the success of next-generation automotive IPOs like XPeng (NYSE: XPEV) and NIO (NYSE: NIO). But investors don't seem too excited. TuSimple Holdings ( NASDAQ:TSP) -- which went public in April -- has already dropped 15% below its IPO price.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
-      "originalUrl": "https://www.fool.com/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F641215%2Fgettyimages-trucks.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/01/what-you-need-to-know-about-this-self-driving-truc/",
-      "publishedDateTime": "2021-09-01T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet.md",
-      "title": "7 Robotics Stocks to Buy for Elon Musk’s Big ‘Tesla Bot’ Bet",
-      "excerpt": "Robotics stocks have been gaining significant traction among buy-and-hold investors lately. This is not surprising, as we’re seeing rising demand for robotics from a variety of segments — from electric vehicles (EV) and e-commerce groups to electronics names and the oil industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01",
-      "originalUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01?amp",
-      "publishedDateTime": "2021-09-01T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car.md",
-      "title": "This Is What Happens When You Honk Your Horn At An AI Self-Driving Car",
-      "excerpt": "Honking a car horn is a dicey proposition, oftentimes illegal, and yet we all still do have and use our car horns. Consider what will happen if you honk your horn at an AI self-driving car. Be in the know,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da43856d09d54f23021650%2F0x0.jpg%3FcropX1%3D162%26cropX2%3D2832%26cropY1%3D0%26cropY2%3D2003",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/01/this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car/amp/",
-      "publishedDateTime": "2021-09-01T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-toyotas-self-driving-shuttles-return-to-the-paralympics-following-crash.md",
-      "title": "Toyota's self-driving shuttles return to the Paralympics following crash",
-      "excerpt": "Toyota is once again running its self-driving e-Palette vehicles at the Paralympics following a collision with a pedestrian..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "originalUrl": "https://www.engadget.com/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/f20135a0-0b1f-11ec-bab7-b37093ad4a37",
-          "width": 5908,
-          "height": 3939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/toyota-resumes-self-driving-e-palette-use-paralympics-132634264.html",
-      "publishedDateTime": "2021-09-01T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-looking-into-the-future-of-ai-big-data-and-informed-consent.md",
-      "title": "Looking into the future of AI: big data, and informed consent",
-      "excerpt": "We are living in the age of artificial intelligence (AI ... powerful AI algorithms which can aid medical diagnoses, navigate driverless cars, and make criminal sentencing decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.northweststar.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
-      "originalUrl": "https://www.northweststar.com.au/story/7411607/looking-into-the-future-of-ai-big-data-and-informed-consent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.northweststar.com.au/images/transform/v1/crop/frm/matthew.crossman/9d3d63c6-0806-4c8c-843b-b92df4c9509b.jpg/r0_445_5500_3553_w1200_h678_fmax.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The North West Star",
-        "domain": "northweststar.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b.md",
-      "title": "Yandex buys out Uber’s stake in Yandex Self-Driving Group, Eats, Lavka and Delivery for $1B",
-      "excerpt": "The total cost of the deal came to $1 billion, giving the Russian company 100% ownership over all four businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/",
-      "originalUrl": "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/yandex.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/31/yandex-buys-out-ubers-stake-in-yandex-self-driving-group-eats-lavka-and-delivery-for-1b/amp/",
-      "publishedDateTime": "2021-08-31T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-how-emerging-technology-is-changing-the-data-privacy-landscape.md",
-      "title": "How Emerging Technology is Changing the Data Privacy Landscape",
-      "excerpt": "Although there are many different emerging technologies, we’ll focus on Blockchain Technology, Artificial Intelligence (AI), and Zero Trust Architecture. Blockchain is undoubtedly one of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/emerging-technology-changing-data-privacy-landscape/",
-      "originalUrl": "https://www.ciol.com/emerging-technology-changing-data-privacy-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ciol.com/emerging-technology-changing-data-privacy-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/emerging-technology-changing-data-privacy-landscape/amp/",
-      "publishedDateTime": "2021-08-31T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-tesla-adds-more-jobs-to-build-its-humanoid-robot-hints-at-production-in-texas.md",
-      "title": "Tesla adds more jobs to build its humanoid robot, hints at production in Texas",
-      "excerpt": "Tesla is adding more job postings related to building its humanoid robot: Tesla Bot. One of the new postings even hints at production in Austin, Texas. When Elon Musk announced plans for Tesla Bot, a humanoid robot equipped with artificial intelligence aimed at completing general boring tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/",
-      "originalUrl": "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Screen-Shot-2021-08-19-at-10.17.39-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/31/tesla-bot-jobs-build-humanoid-robot-hints-production-texas/amp/",
-      "publishedDateTime": "2021-08-31T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-hyundai-ioniq-5-becomes-motionals-new-self-driving-robotaxi.md",
-      "title": "Hyundai Ioniq 5 becomes Motional's new self-driving robotaxi",
-      "excerpt": "Feast your eyes on Hyundai and partner Aptiv's latest self-driving car project: the Ioniq 5 robotaxi. Motional, the joint venture Hyundai and Aptiv operate, revealed the first images of the vehicle on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/hyundai-ioniq-5-self-driving-robotaxi-motional/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/hyundai-ioniq-5-self-driving-robotaxi-motional/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/GB1ibKYrwide_Dl3vd-p739qj0Y=/2021/08/30/30d02dde-bb26-48de-a738-bbe68bdd06c6/ogi-hyundai.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/hyundai-ioniq-5-self-driving-robotaxi-motional/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-ioniq-5-self-driving-robotaxi-motional/",
-      "publishedDateTime": "2021-08-31T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla.md",
-      "title": "Self-Driving Truck Technology Market Size 2021 And Forecast to 2028 | Keyplayers – Daimler, Volvo, Waymo, Tesla",
-      "excerpt": "The global Self-Driving Truck Technology market report provides detailed details on market size, share, industry overview, revenues, recent developments, acquisitions and mergers, and expansion strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
-      "originalUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg",
-          "width": 300,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/self-driving-truck-technology-market-size-2021-and-forecast-to-2028-keyplayers-daimler-volvo-waymo-tesla/",
-      "publishedDateTime": "2021-08-30T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts.md",
-      "title": "Qualms About Touting Those Neophyte Testimonials By First-Time Riders In AI Self-Driving Car Tryouts",
-      "excerpt": "To clarify, for true self-driving cars there isn’t a human driver at the wheel and instead, an AI-based driving system is undertaking the entirety of the driving chore. These alleged off-the-cuff testimonials are usually by first-time riders in self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032b1c370eb42256c4691a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D72%26cropY2%3D877",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/",
-      "publishedDateTime": "2021-08-29T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dynamic-tasks-and-more.md",
-      "title": "EXCLUSIVE: Sarcos CEO On Whether Tesla Is Late To The Robotics Party, AI Utility In Repetitive Vs. Dynamic Tasks And More",
-      "excerpt": "See Also: Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day “It often takes longer than [Musk] predicts. Still, he has proven it isn’t wise to bet against him,” said Wolff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/08/22689721/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dyna",
-      "originalUrl": "https://www.benzinga.com/news/21/08/22689721/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dyna",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/sarcos_civ-wht.3.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22689721",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22689721",
-      "publishedDateTime": "2021-08-29T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-baidu-launches-kunlun-ii-chip-and-an-ai-robocar.md",
-      "title": "Baidu launches Kunlun II chip and an AI 'robocar'",
-      "excerpt": "Semiconductors and artificial intelligence are two key technologies ... but only in certain circumstances. For example, Waymo's robotaxi at times stops driving whenever it is near traffic ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102696129/Baidu-launches-Kunlun-II-chip-and-an-AI-robocar&source=25",
-      "originalUrl": "https://menafn.com/1102696129/Baidu-launches-Kunlun-II-chip-and-an-AI-robocar&source=25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-08/28/AT_7b6c9image_story.png",
-          "width": 1020,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-28T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-toyota-suspends-self-driving-vehicles-after-accident-at-olympic-village.md",
-      "title": "Toyota suspends self-driving vehicles after accident at Olympic village",
-      "excerpt": "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849",
-      "originalUrl": "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502164/210828-toyota-epalette-mb-1553.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277849",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849",
-      "publishedDateTime": "2021-08-28T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023.md",
-      "title": "5% of Dubai Taxi's fleet to be self-driving cabs by 2023",
-      "excerpt": "By 2023, five per cent of Dubai Taxi’s fleet will be converted into self-driving cabs, the Roads and Transport Authority (RTA) said on Saturday. The RTA recently signed a partnership agreement with General Motors-backed Cruise to run driverless taxis and shared transport service in Dubai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "originalUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210828/ARTICLE/210829143/AR/0/AR-210829143.jpg&NCS_modified=20210829010133&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "publishedDateTime": "2021-08-28T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-gatik-joins-the-driverless-self-driving-car-club.md",
-      "title": "Gatik joins the driverless self-driving car club",
-      "excerpt": "Walmart’s cargo-hauling partner moves to scale sans humans..Gatik engineers and algorithms laboriously study a route for weeks before letting the robots steer and are able to program specifically for certain sticky points.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club-41630150506346.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club-41630150506346.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2021/08/28/600x338/ElW5x_SXEAY-Y6V_1606131116552_1606131128133_1630150578542.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html",
-      "publishedDateTime": "2021-08-28T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

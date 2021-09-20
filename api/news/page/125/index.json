@@ -2,178 +2,21 @@
   "page": 125,
   "value": [
     {
-      "path": "_news/2021-06-12-transform-2021-puts-the-spotlight-on-women-in-ai.md",
-      "title": "Transform 2021 puts the spotlight on women in AI",
-      "excerpt": "VB Event Elevate your enterprise data technology and strategy at Transform 2021. VentureBeat is proud to bring back the Women in AI Breakfast and Awards online for Transform 2021. In the male-dominated tech industry,",
+      "path": "_news/2021-06-17-alphabets-waymo-raises-25-billion-in-first-fresh-funding-in-a-year.md",
+      "title": "Alphabet's Waymo raises $2.5 billion in first fresh funding in a year",
+      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,” Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/VB-Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/transform-2021-puts-the-spotlight-on-women-in-ai/amp/",
-      "publishedDateTime": "2021-06-11T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-billionaire-larry-pages-kitty-hawk-is-making-an-all-in-bet-on-robot-air-taxis-its-program-head-is-out-in-disagreement-over-it.md",
-      "title": "Billionaire Larry Page’s Kitty Hawk Is Making An All-In Bet On Robot Air Taxis. Its Program Head Is Out In Disagreement Over It.",
-      "excerpt": "Kitty Hawk has an ambitious plan to leapfrog rivals by convincing regulators to let it fly passengers in electric air taxis without pilots -- within the next 3 years. The head of its aircraft program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "originalUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3a37d601a34eec048fbed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D630%26cropY1%3D47%26cropY2%3D402",
-          "width": 630,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "publishedDateTime": "2021-06-11T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word.md",
-      "title": "Facebook’s AI can copy the style of text in photos from a single word",
-      "excerpt": "Facebook's TextStyleBrush is an AI system that can replicate the style of fonts and handwriting to replace arbitrary text in images.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/",
-      "publishedDateTime": "2021-06-11T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-how-to-use-voila-app-that-has-gone-viral.md",
-      "title": "How to use Voila app that has gone viral",
-      "excerpt": "Voila is an app that uses artificial intelligence to turn your photo into ... MOUNTAIN VIEW, Calif. (AP) — Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/",
-      "originalUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/",
+      "webUrl": "https://www.reuters.com/article/us-waymo-funding-idCAKCN2DS1EQ",
+      "originalUrl": "https://www.reuters.com/article/us-waymo-funding-idCAKCN2DS1EQ",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://kdvr.com/wp-content/uploads/sites/11/2021/06/Untitled-design-2.png?w=1280",
-          "width": 1280,
-          "height": 720,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210616&t=2&i=1565932671&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5F0Q5",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/amp/",
-      "cdnAmpWebUrl": "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/news/trending/how-to-use-voila-app-that-has-gone-viral/amp/",
-      "publishedDateTime": "2021-06-11T10:23:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKCN2DS1EQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKCN2DS1EQ",
+      "publishedDateTime": "2021-06-17T03:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX31 Denver",
-        "domain": "kdvr.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -202,245 +54,19 @@
       ]
     },
     {
-      "path": "_news/2021-06-12-us-creates-ai-data-sharing-task-force.md",
-      "title": "US creates AI data-sharing task force",
-      "excerpt": "The Biden administration has created a task force to promote access to data and other resources to boost artificial intelligence (AI) research. The National Artificial Intelligence Research Resource Task Force involves the White House and the National Science Foundation.",
+      "path": "_news/2021-06-17-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
+      "title": "NVIDIA and the battle for the future of AI chips",
+      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
       "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570813981/itpro/digital_brain_artificial_intelligence.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359856/us-creates-ai-data-sharing-task-force?amp",
-      "publishedDateTime": "2021-06-11T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-accelerating-deep-learning-on-the-jvm-with-apache-spark-and-nvidia-gpus.md",
-      "title": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs",
-      "excerpt": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs In this article, authors discuss how to use the combination of Deep Java Learning (DJL), Apache Spark v3, and NVIDIA GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
-      "originalUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
+      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?mc_cid=33835e015c&mc_eid=a2c3c6d032",
+      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?mc_cid=33835e015c&mc_eid=a2c3c6d032",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://res.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/en/headerimage/header+%2816%29-1623166971929.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas.md",
-      "title": "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas",
-      "excerpt": "The first route they’ll drive is between Houston and Fort Worth, which Waymo claims is one of the most highly utilized freight corridors in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/",
-      "originalUrl": "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/06/waymo2.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/",
-      "publishedDateTime": "2021-06-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-ai-in-healthcare-market.md",
-      "title": "AI in healthcare Market",
-      "excerpt": "The AI in healthcare market was valued at 4 836 87million in 2019 and is projected to reach 99 491 58 million by 2027 registering a CAGR of 42 8 from 2021 to 2028 Artificial intelligence AI can be defined",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2303440/ai-in-healthcare-market-to-witness-growth-acceleration-during",
-      "originalUrl": "https://www.openpr.com/news/2303440/ai-in-healthcare-market-to-witness-growth-acceleration-during",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U611608466_g.jpg",
-          "width": 626,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2303440/ai-in-healthcare-market-to-witness-growth-acceleration-during",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303440/ai-in-healthcare-market-to-witness-growth-acceleration-during",
-      "publishedDateTime": "2021-06-11T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-ai-in-computer-vision-market-worth-513-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial),",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
-          "width": 669,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-german-bundestag-passes-new-law-on-supply-chain-ethics.md",
-      "title": "German Bundestag passes new law on supply chain ethics",
-      "excerpt": "The law will require German companies to report human rights or environmental abuses by suppliers. Supporters say it is a milestone, rights groups say it falls short.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "originalUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dw.com/static/stills/images/vdt/2021/beng210611_005_qwilieferweb_01g.jpg",
+          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/16:9/w_1280,c_limit/1621-WIRED-Chips.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -450,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "publishedDateTime": "2021-06-11T06:21:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T02:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Deutsche Welle",
-        "domain": "dw.com",
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -466,26 +92,26 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-11-three-challenges-ai-saas-startups-must-overcome.md",
-      "title": "Three Challenges AI SaaS Startups Must Overcome",
-      "excerpt": "The number of AI startups that offer unique business solutions is growing exponentially. A popular practice among these startups is to develop their algorithms or models by training them on the data from open sources.",
+      "path": "_news/2021-06-17-chinas-ponyai-plans-to-begin-commercial-driverless-robotaxi-service-in-california-in-2022.md",
+      "title": "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022",
+      "excerpt": "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/",
+      "webUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
+      "originalUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2271c30081d6b6b1d53b8%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png",
+          "width": 731,
+          "height": 393,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -493,16 +119,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/amp/",
-      "publishedDateTime": "2021-06-11T06:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T01:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -518,113 +144,26 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-vehicle-speech-recognition-system-market-to-see-thriving-worldwide-apple-mercedes-benz-microsoft.md",
-      "title": "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft",
-      "excerpt": "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
-      "originalUrl": "https://www.openpr.com/news/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U611505535_g.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303473/vehicle-speech-recognition-system-market-to-see-thriving",
-      "publishedDateTime": "2021-06-11T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
-        "Microsoft AI"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2021-06-11-save-275-on-the-ecovacs-deebot-t8-aivi-robot-vacuum-today-only.md",
-      "title": "Save $275 On The ECOVACS Deebot T8 AIVI Robot Vacuum – Today Only!",
-      "excerpt": "Amazon has the ECOVACS Deebot T8 AIVI Robot Vacuum on sale today in its Gold Box Deal of the Day for just $524.99. That's going to save you $275 off of",
+      "path": "_news/2021-06-17-tuya-smart-concludes-its-first-aiiot-business-conference-focused-on-hong-kong.md",
+      "title": "Tuya Smart Concludes its First AI+IoT Business Conference Focused on Hong Kong",
+      "excerpt": "Tuya Smart (NYSE: TUYA), a leading global IoT cloud platform, today concluded its first ever AI+IoT Business Conference Online focused on Hong Kong. Themed \"Joint Efforts & Prosperous Growth\" the conference aimed to promote the intelligent upgrading of traditional industries in Hong Kong to bring benefits to the everyday life of local consumers.",
       "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
-      "originalUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tuya-smart-concludes-its-first-ai-iot-business-conference-focused-on-hong-kong-1030531019",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tuya-smart-concludes-its-first-ai-iot-business-conference-focused-on-hong-kong-1030531019",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-11-at-7.46.28-AM.png",
-          "width": 879,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
-      "publishedDateTime": "2021-06-11T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis.md",
-      "title": "Commercial Robotics Market Focuses on SWOT analysis, Industry Synopsis",
-      "excerpt": "Global Info Research has released a new study titled Commercial Robotics Analysis and Forecast 2021-2025, which provides critical insights and gives clients a competitive advantage. The commercial robotics market was valued at USD 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/commercial-robotics-market-focuses-on-swot-analysis-industry-synopsis-2021-06-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1535496/1.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -634,50 +173,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-we-got-an-exclusive-look-at-the-pitch-deck-ai-transcription-startup-verbit-used-to-raise-157-million-as-it-eyes-a-near-term-ipo.md",
-      "title": "We got an exclusive look at the pitch deck AI transcription startup Verbit used to raise $157 million as it eyes a near-term IPO",
-      "excerpt": "This could be Israeli unicorn Verbit's final private funding round with an initial public offering mooted for 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/israeli-transcription-startup-verbit-raises-funds-at-unicorn-valuation-2021-6",
-      "originalUrl": "https://www.businessinsider.com/israeli-transcription-startup-verbit-raises-funds-at-unicorn-valuation-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T04:10:00-07:00",
+      "publishedDateTime": "2021-06-17T01:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -704,21 +200,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-11-which-robotics-companies-are-going-to-become-unicorns.md",
-      "title": "Which Robotics Companies Are Going To Become Unicorns?",
-      "excerpt": "There has been an explosion of robotics startup companies during the last two years. Every couple of months, I’m seeing new VC-backed startups coming out of stealth mode with millions of dollars in funding.",
+      "path": "_news/2021-06-17-facebook-ai-software-able-to-dig-up-origins-of-deepfake-images.md",
+      "title": "Facebook AI software able to dig up origins of deepfake images",
+      "excerpt": "Facebook scientists on Wednesday said they developed artificial intelligence software to not only identify \"deepfake\" images but to figure out where they came from.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/",
+      "webUrl": "https://techxplore.com/news/2021-06-facebook-ai-software-deepfake-images.html",
+      "originalUrl": "https://techxplore.com/news/2021-06-facebook-ai-software-deepfake-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1237064a123408842d1ce%2F0x0.jpg",
-          "width": 1200,
-          "height": 748,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/facebook-ai-software-a.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -726,23 +222,101 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/11/which-robotics-companies-are-going-to-become-unicorns/amp/",
-      "publishedDateTime": "2021-06-11T04:00:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2021-06-facebook-ai-software-deepfake-images.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-facebook-ai-software-deepfake-images.amp",
+      "publishedDateTime": "2021-06-17T01:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-nish-sehgal-roman-garin-innovating-gpu-accelerated-neural-network-to-transform-the-sports-industry.md",
+      "title": "Nish Sehgal & Roman Garin: Innovating GPU-Accelerated Neural Network to Transform the Sports Industry",
+      "excerpt": "In an exclusive interview with Analytics Insight’s The 10 Most Influential CEOs to Watch in 2021, Nish Sehgal, Global Managing Director, and Roman Garin, the CEO of OSAI, explains how they bring sport technology and sport business together at the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/nish-sehgal-roman-garin-innovating-gpu-accelerated-neural-network-to-transform-the-sports-industry/",
+      "originalUrl": "https://www.analyticsinsight.net/nish-sehgal-roman-garin-innovating-gpu-accelerated-neural-network-to-transform-the-sports-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/Interview-1.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-how-is-robotics-helping-the-elderly-with-humanoids-and-nurse-robots.md",
+      "title": "How Is Robotics Helping The Elderly With Humanoids And Nurse Robots?",
+      "excerpt": "Robotics has answered so many questions for society. Can it help the elderly lead a happy and stable life? Can it be a successful approach?",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "originalUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/06/tight-holding-hands-scaled-e1623846739563.jpeg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "publishedDateTime": "2021-06-17T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -756,21 +330,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-11-cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence.md",
-      "title": "Cadwell Partners with EnsoData to Transform the Patient-Clinician Relationship Using Artificial Intelligence",
-      "excerpt": "Cadwell Industries, Inc., a global leader in neurodiagnostic and neuromonitoring solutions, today announces a partnership with EnsoData, a healthcare artificial intelligence (AI) company",
+      "path": "_news/2021-06-17-insurtech-ai-startup-akur8-closes-30m-series-b.md",
+      "title": "Insurtech AI startup Akur8 closes $30M Series B",
+      "excerpt": "Automating insurance claims is a big business, and the world of AI is coming at it ‘full pelt’. The latest is Akur8, an insurtech automating insurance platform whose ‘Transparent AI’ product is trying to eat into the incumbent large business of Willis Towers watson,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence/article_75282421-3085-5468-81ee-f99b0093354a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence/article_75282421-3085-5468-81ee-f99b0093354a.html",
+      "webUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/",
+      "originalUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Akur8-team.jpg?w=738",
+          "width": 738,
+          "height": 490,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -778,13 +352,55 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T03:00:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/",
+      "publishedDateTime": "2021-06-17T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs.md",
+      "title": "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs",
+      "excerpt": "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan",
+      "originalUrl": "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -794,26 +410,61 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-11-june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026.md",
-      "title": "June 2021 Report on Global Artificial Intelligence (AI) in Education Market Overview, Size, Share and Trends 2021-2026",
-      "excerpt": "The Artificial Intelligence (AI) in Education market report provides a detailed analysis of global market size, regional",
+      "path": "_news/2021-06-17-artificial-intelligence-robots-market-is-in-huge-demand-google-inc-ibm-microsoft-corporation-general-vision-enlitic-inc.md",
+      "title": "Artificial Intelligence Robots Market is in Huge Demand | Google Inc., IBM, Microsoft Corporation, General Vision, Enlitic, Inc.",
+      "excerpt": "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11",
+      "webUrl": "https://ksusentinel.com/2021/06/17/artificial-intelligence-robots-market-is-in-huge-demand-google-inc-ibm-microsoft-corporation-general-vision-enlitic-inc/",
+      "originalUrl": "https://ksusentinel.com/2021/06/17/artificial-intelligence-robots-market-is-in-huge-demand-google-inc-ibm-microsoft-corporation-general-vision-enlitic-inc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-baidu-pushes-to-put-driverless-taxis-on-chinas-roads-pledging-to-build-1000-in-3-years.md",
+      "title": "Baidu pushes to put driverless taxis on China's roads, pledging to build 1,000 in 3 years",
+      "excerpt": "Baidu has been testing driverless taxis but has now partnered with state-owned automaker BAIC Group to try and commercialize a robotaxi service in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
+      "originalUrl": "https://www.msn.com/en-us/news/other/baidu-pushes-to-put-driverless-taxis-on-chinas-roads-pledging-to-build-1000-in-3-years/ar-AAL8cLn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://image.cnbcfm.com/api/v1/image/106898520-1623904929198-gettyimages-1316042221-vcg111328269953.jpeg?v=1623905082",
+          "width": 5184,
+          "height": 3456,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -821,16 +472,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T02:18:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
+      "publishedDateTime": "2021-06-16T23:26:21-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
+        "domain": "com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -847,25 +498,25 @@
       ],
       "topics": [
         "AI",
-        "AI in Education"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2021-06-11-google-is-training-ai-to-design-the-next-generation-of-chips.md",
-      "title": "Google is training AI to design the next generation of chips",
-      "excerpt": "The authors note that Google is putting it into action and using their research to design the upcoming version of Google’s own Tensor Processing Unit ( TPU) chips, which are optimized to handle AI workloads.",
+      "path": "_news/2021-06-17-foundations-of-trustworthy-ai-operationalizing-trustworthy-ai.md",
+      "title": "Foundations of trustworthy AI: Operationalizing trustworthy AI",
+      "excerpt": "Industry focus on trustworthy AI is being driven by several forces — corporate social responsibility posture, concerns around reputational risk and a growing set of regulations. Organizations recognize that they need a systematic approach to ensure AI and machine learning can be trusted and operationalized.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/google-is-training-ai-to-design-the-next-generation-of-chips",
-      "originalUrl": "https://www.techradar.com/uk/news/google-is-training-ai-to-design-the-next-generation-of-chips",
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 179,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg",
-          "width": 480,
-          "height": 270,
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_operationalize-ai_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -873,16 +524,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips",
-      "publishedDateTime": "2021-06-11T02:17:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T22:00:06-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "IBM",
+        "domain": "ibm.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -898,40 +549,31 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm.md",
-      "title": "Intel debates buyout of SiFive to bolster chip technology against ARM",
-      "excerpt": "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,",
+      "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
+      "title": "Tractable becomes world's first computer vision unicorn for financial services",
+      "excerpt": "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,",
       "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
-      "publishedDateTime": "2021-06-11T01:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -941,93 +583,32 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI in Finance",
         "AI",
-        "AI Hardware"
+        "Computer Vision"
       ]
     },
     {
-      "path": "_news/2021-06-11-huawei-seeks-to-develop-its-driverless-car-technology-by-2025.md",
-      "title": "Huawei seeks to develop its driverless car technology by 2025",
-      "excerpt": "Huawei Technologies is aiming on developing its driverless passenger car technology by the year 2025. The news arrives from a statement made by a company executive earlier this week, as the firm seeks to expand its business scope in the automobile industry.",
+      "path": "_news/2021-06-17-dutch-lady-malaysia-promotes-marketing-director-to-md.md",
+      "title": "Dutch Lady Malaysia promotes marketing director to MD",
+      "excerpt": "Dutch Lady landed a finalist position for A+M’s Marketing Excellence Awards Malaysia 2019 in the Excellence in Experiential Marketing category for its campaign, “Dutch Lady Emojify Yourself”.",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
-      "originalUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-hunt-sets-driverless-truck-test-in-texas.md",
-      "title": "Hunt sets driverless truck test in Texas",
-      "excerpt": "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas ... J.B. Hunt 360, by using artificial intelligence and machine learning tools. Meanwhile, developments in consumer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/",
-      "originalUrl": "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/",
+      "webUrl": "https://emojify.info/menu",
+      "originalUrl": "https://www.marketing-interactive.com/dutch-lady-malaysia-promotes-marketing-director-to-md",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T23:59:00-07:00",
+      "publishedDateTime": "2021-06-16T21:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Northwest Arkansas Democrat Gazette",
-        "domain": "nwaonline.com",
+        "name": "Marketing Interactive",
+        "domain": "marketing-interactive.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1037,26 +618,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
-      "path": "_news/2021-06-11-conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028.md",
-      "title": "Conversational Artificial Intelligence Market Trends, Demand and Global Industry Research Report 2020-2028",
-      "excerpt": "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected",
+      "path": "_news/2021-06-17-ukrainian-police-partner-with-us-south-korea-for-raid-on-clop-ransomware-members.md",
+      "title": "Ukrainian police partner with US, South Korea for raid on Clop ransomware members",
+      "excerpt": "The Ukrainian National Police announced ... the press around the raid, many online noted that the leak site used by Clop members is still up. A source from cybersecurity company Intel 471 threw ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028-2021-06-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028-2021-06-11",
+      "webUrl": "https://www.vice.com/en/article/z3vaew/hacker-who-broke-into-ai-surveillance-company-raided-by-police",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/ukranian-police-partner-with-us-south-korea-for-raid-on-clop-ransomware-members/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://video-images.vice.com/articles/604b89b2a343c40099f91aa0/lede/1615563219922-7-eleven-corp-office.png?crop=1xw:0.7288xh;0xw,0.0855xh&resize=640:*",
+          "width": 640,
+          "height": 359,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1064,16 +645,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T23:50:00-07:00",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/z3vaew/hacker-who-broke-into-ai-surveillance-company-raided-by-police",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/z3vaew/hacker-who-broke-into-ai-surveillance-company-raided-by-police",
+      "publishedDateTime": "2021-06-16T20:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1093,21 +674,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-11-jumpcut-ai-based-production-studio-launches-to-unearth-train-underserved-storytellers.md",
-      "title": "Jumpcut AI-Based Production Studio Launches To Unearth, Train Underserved Storytellers",
-      "excerpt": "Jumpcut uses artificial intelligence to find undiscovered talent from around the globe, develop it, and get it sold. Founded by a Wharton AI professor, the company came out of stealth mode today.",
+      "path": "_news/2021-06-17-facebook-wants-you-to-stop-fighting-in-its-groups-and-a-new-ai-tool-might-try-to-calm-things-down.md",
+      "title": "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down",
+      "excerpt": "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
+      "webUrl": "https://www.wmur.com/article/facebook-group-fighting-ai-social-media/36746255",
+      "originalUrl": "https://www.wmur.com/article/facebook-group-fighting-ai-social-media/36746255",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2dded616fbd5e8a08c4c0%2F0x0.jpg",
-          "width": 915,
-          "height": 623,
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facebook-fighting-cnn-1623895603.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1115,9 +696,103 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
-      "publishedDateTime": "2021-06-10T23:01:00-07:00",
+      "ampWebUrl": "https://www.wmur.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "publishedDateTime": "2021-06-16T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-gm-ups-spending-on-evs-and-autonomous-vehicles-by-30-to-35-billion-by-2025-on-higher-profits.md",
+      "title": "GM ups spending on EVs and autonomous vehicles by 30% to $35 billion by 2025 on higher profits",
+      "excerpt": "GM, America's largest automaker, is racing to catch up to Tesla on EVs and become a leader in the space against other well-established automakers such as VW.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
+      "originalUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106424520-1583341306047gmevbarra01.jpg?v=1583353549",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
+      "publishedDateTime": "2021-06-16T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-uk-computer-vision-startup-tractable-reaches-unicorn-status.md",
+      "title": "U.K. Computer Vision Startup Tractable Reaches Unicorn Status",
+      "excerpt": "The London-based startup that uses AI to assess auto claims for insurers like Geico has raised $60 million at a $1 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
+      "originalUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca8ceaf4d0e7bf31d71929%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
+      "publishedDateTime": "2021-06-16T17:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1140,25 +815,26 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-11-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
-      "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
-      "excerpt": "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry.",
+      "path": "_news/2021-06-17-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
+      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
+      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
       "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C",
-      "originalUrl": "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C",
+      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "originalUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565145295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5903O",
-          "width": 817,
-          "height": 545,
+          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1166,16 +842,103 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL2N2NS05C",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2NS05C",
-      "publishedDateTime": "2021-06-10T22:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
+      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "originalUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=FcoGOanYXavhwhQJ5dHhaSbAjk4=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-tractable-uses-computer-vision-to-accelerate-insurance-claims.md",
+      "title": "Tractable uses computer vision to accelerate insurance claims",
+      "excerpt": "Tractable's AI performs a real-time analysis that helps insurance companies quickly decide whether a car can be fixed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/",
+      "originalUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/1.2-EN-RGB-AI-Inspection-from-Tractable-01-e1623853027298.png?fit=800%2C383&strip=all",
+          "width": 770,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/amp/",
+      "publishedDateTime": "2021-06-16T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1191,7 +954,204 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-a-fintech-ipo-to-watch-and-a-very-complex-spac-deal.md",
+      "title": "A Fintech IPO to Watch and a Very Complex SPAC Deal",
+      "excerpt": "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
+      "publishedDateTime": "2021-06-16T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai.md",
+      "title": "Tractable raises $60M at a $1B valuation to make damage appraisals using AI",
+      "excerpt": "As the insurance industry adjusts to life in the 21st century (heh), an AI startup that has built computer vision tools to enable remote damage appraisals is announcing a significant round of growth funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/",
+      "originalUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/1.2-EN-RGB-AI-Inspection-from-Tractable-01.png?w=1024",
+          "width": 1024,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/",
+      "publishedDateTime": "2021-06-16T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-ibms-ai-mayflower-ship-is-crossing-the-atlantic-and-you-can-watch-it-live.md",
+      "title": "IBM’s A.I. Mayflower ship is crossing the Atlantic, and you can watch it live",
+      "excerpt": "IBM's autonomous, A.I.-powered ship is currently on its way across the Atlantic Ocean -- and thanks to some amazing tech, you can watch the journey live",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/",
+      "originalUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ibm-ai-mayflower-alone-3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp",
+      "publishedDateTime": "2021-06-16T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-andrew-ng-launches-a-campaign-for-data-centric-ai.md",
+      "title": "Andrew Ng Launches A Campaign For Data-Centric AI",
+      "excerpt": "Data is eating the world so Andrew Ng wants to make sure we radically improve its quality. “Data is food for AI,” says Ng, and he is launching a campaign to shift the focus of AI practitioners from model/algorithm development to the quality of the data they use to train the models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca126ba855f33fa414d23f%2F0x0.jpg",
+          "width": 1200,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/amp/",
+      "publishedDateTime": "2021-06-16T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

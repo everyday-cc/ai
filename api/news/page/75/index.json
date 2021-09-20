@@ -2,21 +2,21 @@
   "page": 75,
   "value": [
     {
-      "path": "_news/2021-07-16-anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate.md",
-      "title": "Anthony Bourdain Documentary ‘Roadrunner’ Sparks A Strange Ethics Debate",
-      "excerpt": "Neville stated: “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel about it later.”",
+      "path": "_news/2021-07-21-pitch-deck-reveals-how-an-ai-startup-that-helps-brands-like-google-and-microsoft-plan-their-marketing-raised-15-million.md",
+      "title": "Pitch deck reveals how an AI startup that helps brands like Google and Microsoft plan their marketing raised $15 million",
+      "excerpt": "BlueOcean was founded by ad agency vets to automate and simplify market research.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
-      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/",
+      "webUrl": "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7",
+      "originalUrl": "https://www.businessinsider.com/ai-startup-blueocean-raised-15-million-with-this-pitch-deck-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 303,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f1a2151251a7c507b4358e%2F0x0.jpg",
-          "width": 1200,
-          "height": 824,
+          "url": "https://i.insider.com/60f73547aa1f1f0012f687ce?width=700",
+          "width": 700,
+          "height": 525,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/07/16/anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate/amp/",
-      "publishedDateTime": "2021-07-16T08:27:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,26 +49,27 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Marketing",
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech.md",
-      "title": "Sense Photonics Sees Flash LiDAR As Best Path To Full Self-Driving Tech",
-      "excerpt": "Sense Photonics is on a mission to make LiDAR, the core of self-driving technology, more affordable and less obtrusive. And it is leveraging two elements of the iPhone 12 to get there. Today, most autonomous vehicles in test fleets have a cumbersome ...",
+      "path": "_news/2021-07-21-re2-robotics-sapien-6m-arm-designed-for-outdoor-applications.md",
+      "title": "RE2 Robotics Sapien 6M arm designed for outdoor applications",
+      "excerpt": "The RE2 Sapien 6M robotic arm is being used by commercial and defense customers who require a mobile outdoor-rated arm for complex tasks.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/",
-      "originalUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/",
+      "webUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
+      "originalUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f196f7d4f6705300ca741c%2F0x0.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/RE2Sapien6M-80lb-Lift.jpg",
+          "width": 600,
+          "height": 745,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +77,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/07/16/sense-photonics-sees-flash-lidar-as-best-path-to-full-self-driving-tech/amp/",
-      "publishedDateTime": "2021-07-16T07:34:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T08:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -101,26 +93,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-update-1-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
-      "title": "UPDATE 1-Toyota buys U.S. mapping, road data firm to bulk up driverless tech",
-      "excerpt": "Woven Planet was established in January to invest in and develop mobility with artificial intelligence. It is building a prototype ... Moving into new and non-traditional car making such as driverless and electric technology, Toyota has increasingly ...",
+      "path": "_news/2021-07-21-what-machine-learning-can-offer-nigerias-healthcare-system.md",
+      "title": "What machine learning can offer Nigeria's healthcare system",
+      "excerpt": "Imagine it's 2030—and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office.",
       "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/toyota-autonomous-acquisition-idCNL1N2OQ31A",
-      "originalUrl": "https://cn.reuters.com/article/toyota-autonomous-acquisition-idCNL1N2OQ31A",
+      "webUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210714&t=2&i=1568899541&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6D1AY",
-          "width": 800,
-          "height": 545,
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/what-machine-learning.jpg",
+          "width": 926,
+          "height": 579,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,23 +120,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2OQ31A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2OQ31A",
-      "publishedDateTime": "2021-07-16T07:11:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
+      "publishedDateTime": "2021-07-21T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -153,24 +136,25 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2021-07-16-facebooks-blenderbot-20-bot-surfs-the-web-for-knowledge.md",
-      "title": "Facebook’s BlenderBot 2.0 bot surfs the web for knowledge",
-      "excerpt": "Facebook's BlenderBot 2.0 chatbot draws on the internet to build on its knowledge of sports, movies, TV shows, and more.",
+      "path": "_news/2021-07-21-tesla-knocked-500-off-a-hardware-upgrade-for-its-full-self-driving-subscription-after-customer-backlash.md",
+      "title": "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash",
+      "excerpt": "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/",
-      "originalUrl": "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/",
+      "webUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
+      "originalUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "url": "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -180,9 +164,114 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge/amp/",
-      "publishedDateTime": "2021-07-16T06:31:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
+      "publishedDateTime": "2021-07-21T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-microsoft-powered-autonomous-beach-cleaning-robot-is-here-to-clean-our-shores.md",
+      "title": "Microsoft-powered autonomous beach-cleaning robot is here to clean our shores",
+      "excerpt": "A Dutch startup aims to rid beaches of cigarette butts, and Microsoft's artificial intelligence is helping the robot learn how to do it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/uFEX43607aFPkDv2GM04zBfSj68=/2021/07/21/015fc565-b217-46b4-9eb8-1ec97c805fd1/ogi-tech.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/",
+      "publishedDateTime": "2021-07-21T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-google-looker-gets-azure-support-api-explorer.md",
+      "title": "Google Looker gets Azure support, API explorer",
+      "excerpt": "As a part of Looker 21, the newest version of the Looker platform, Google launched new features including Microsoft Azure support.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
+      "originalUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Looker-Life-1-21.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
+      "publishedDateTime": "2021-07-21T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -205,26 +294,26 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-why-we-need-engineers-who-study-ethics-as-much-as-math.md",
-      "title": "Why we need engineers who study ethics as much as math",
-      "excerpt": "The recent apartment building collapse in Miami, Florida, is a tragic reminder of the huge impacts engineering can have on our lives. Disasters such as this force engineers to reflect on their practice and perhaps fundamentally change their approach.",
+      "path": "_news/2021-07-21-the-bourdain-ai-furore-shouldnt-overshadow-an-effective-complicated-film.md",
+      "title": "The Bourdain AI furore shouldn’t overshadow an effective, complicated film",
+      "excerpt": "Despite anger over a decision to deepfake the voice of the much-loved star in a new documentary it’s a haunting and difficult film that deserves to be seen",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-ethics-math.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-ethics-math.html",
+      "webUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
+      "originalUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/why-we-need-engineers-1.jpg",
-          "width": 2880,
-          "height": 1921,
+          "url": "https://i.guim.co.uk/img/media/1293f26cefda42cc765ebd04e1adf322b6336d7a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c7e7b4455c26d9e96a3febf26be5833f",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -232,14 +321,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-ethics-math.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-ethics-math.amp",
-      "publishedDateTime": "2021-07-16T06:13:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
+      "publishedDateTime": "2021-07-21T07:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -249,67 +347,23 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-why-fintech-struggles-to-combat-the-15-trillion-trade-finance-gap.md",
-      "title": "Why FinTech Struggles To Combat The $1.5 Trillion Trade Finance Gap",
-      "excerpt": "GUUD discusses why trade finance FinTech has been unable to put a dent in the trade finance gap or ease friction for banks and nonbank financiers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/",
-      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/05/investments-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/guud-trade-finance-friction-fraud-fintech/amp/",
-      "publishedDateTime": "2021-07-16T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms.md",
-      "title": "Private Cloud IaaS Offers Secure and Compliant Modernization for Financial Services Firms",
-      "excerpt": "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World",
+      "path": "_news/2021-07-21-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai.md",
+      "title": "Wealthech: Fabrick and Prometeia Partner on Wealth Management Solution Incorporating Open Banking, AI",
+      "excerpt": "Fabrick, an Open Banking Fintech and Prometia, a company offering wealth management solutions, have joined to launch the Global Investment Portfolio, a digital wealth management solution that utilizes artificial intelligence (AI) as well as Open Banking tech.",
       "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms",
-      "originalUrl": "https://www.networkworld.com/resources/221608/private-cloud-iaas-offers-secure-and-compliant-modernization-for-financial-services-firms",
+      "webUrl": "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/nww/nww_logo_300x300.png",
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Love-Digital-Euro-300x300.jpeg",
           "width": 300,
           "height": 300,
           "title": null,
@@ -319,13 +373,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-16T05:32:00-07:00",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/",
+      "publishedDateTime": "2021-07-21T07:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -340,21 +394,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-in-pursuit-of-a-career-in-healthcare-she-became-an-engineer.md",
-      "title": "In Pursuit of a Career in Healthcare, She Became an Engineer",
-      "excerpt": "From Connecticut, Gabriella Lanouette builds algorithms used by ophthalmologists in developing countries around the world",
+      "path": "_news/2021-07-21-fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing.md",
+      "title": "Fero Labs Raises $9 Million in Series A Financing to Bring Explainable Machine Learning to Industrial Manufacturing",
+      "excerpt": "Fero Labs, the only Explainable Machine Learning software solely dedicated to the industrial sector, today announced the closing of a $9 million Series A round led by Innovation Endeavors, with participation from Deutsche Invest VC.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1",
-      "originalUrl": "https://www.wsj.com/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200?mod=business_minor_pos1",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing-1030630818",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing-1030630818",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-368920/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -362,16 +416,180 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-pursuit-of-a-career-in-healthcare-she-became-an-engineer-11626442200",
-      "publishedDateTime": "2021-07-16T05:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-ai-investing-why-more-and-more-people-are-turning-to-robot-led-investments.md",
+      "title": "AI investing: Why more and more people are turning to robot-led investments",
+      "excerpt": "THE VERY first robo-advisor launched in 2008 initially to rebalance assets after the Great Recession, but in 2020 this AI held $987 billion of managed client assets worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments",
+      "originalUrl": "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/23/590x/Robot-placing-coins-in-a-stack-1465716.jpg?r=1626876086664",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments/amp",
+      "publishedDateTime": "2021-07-21T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-storai-partners-with-toshiba-global-commerce-solutions-to-equip-its-grocers-with-holistic-ecommerce-infrastructure.md",
+      "title": "Stor.ai Partners with Toshiba Global Commerce Solutions to Equip its Grocers with Holistic Ecommerce Infrastructure",
+      "excerpt": "Stor.ai, the end-to-end digital commerce solution for grocers, today announced a strengthened partnership with Toshiba Global Commerce Solutions, the global market share leader in retail store technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/21/9413980.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/21/9413980.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-lambda-raises-245m-to-build-gpu-cloud-and-deep-learning-hardware.md",
+      "title": "Lambda Raises $24.5M to Build GPU Cloud and Deep Learning Hardware",
+      "excerpt": "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg Beta,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210721005232/en/Lambda-Raises-24.5M-to-Build-GPU-Cloud-and-Deep-Learning-Hardware",
+      "originalUrl": "https://www.businesswire.com/news/home/20210721005232/en/Lambda-Raises-24.5M-to-Build-GPU-Cloud-and-Deep-Learning-Hardware",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Scope, Future Prospects And Competitive Analysis 2020 to 2027",
+      "excerpt": "Market Insights . The advent of artificial intelligence (AI) will be responsible for transforming the way world works in the coming years. Its inclusion in the healthcare is a fas",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -388,25 +606,26 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2021-07-16-deep-learning-courses-for-nlp-market.md",
-      "title": "Deep Learning Courses for NLP Market",
-      "excerpt": "Global Deep Learning Courses for NLP Market is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and ...",
+      "path": "_news/2021-07-21-microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical-research.md",
+      "title": "Microsoft Azure joins AWS, Google Cloud as cloud platforms supporting NIH biomedical research",
+      "excerpt": "Though tech giants Microsoft, Amazon and Google typically vie against one another to be chosen as a collaborator’s sole cloud provider, they’ll be working in harmony for once to support the National Institutes of Health’s biomedical research work.",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
-      "originalUrl": "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
+      "webUrl": "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical",
+      "originalUrl": "https://www.fiercebiotech.com/medtech/microsoft-azure-joins-aws-google-cloud-as-cloud-platforms-supporting-nih-biomedical",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.openpr.com/U/7/U716847626_g.jpg",
-          "width": 800,
-          "height": 334,
+          "url": "https://qtxasset.com/fiercebiotech/1626810252/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?3BYwK50kU2Wfn3vdn6f2lV_WiZXgn7hW",
+          "width": 884,
+          "height": 543,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -414,13 +633,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
-      "publishedDateTime": "2021-07-16T05:21:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T05:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -430,25 +649,102 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Microsoft AI",
         "AI",
-        "Natural Language Processing"
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market.md",
-      "title": "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market",
-      "excerpt": "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to",
+      "path": "_news/2021-07-21-gadget-of-the-week-translation-in-your-ear.md",
+      "title": "Gadget of the Week: Translation in your ear",
+      "excerpt": "Translation devices are heading for the science fiction dream, but are they there yet? ARTHUR GOLDSTUCK tests the TimeKettle",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market",
+      "webUrl": "https://gadget.co.za/gadget-of-the-week-translation-in-your-ear/",
+      "originalUrl": "https://gadget.co.za/gadget-of-the-week-translation-in-your-ear/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-aws-announces-the-general-availability-of-amazon-healthlake.md",
+      "title": "AWS Announces the General Availability of Amazon HealthLake",
+      "excerpt": "AWS announced the general availability of Amazon HealthLake, a fully-managed, HIPAA-eligible service. With the service, healthcare providers, health insurance-, and pharmaceutical companies can securely store,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/",
+      "originalUrl": "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png",
+          "url": "https://res.infoq.com/news/2021/07/aws-amazon-healthlake-ga/en/headerimage/header+%286%29-1626678272811.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-dnsfilter-nabs-30m-to-fight-dns-threats-with-ai.md",
+      "title": "DNSFilter nabs $30M to fight DNS threats with AI",
+      "excerpt": "DNSFilter, a company applying AI to DNS security and analysis, has raised $30 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/21/dnsfilter-nabs-30m-to-fight-dns-threats-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/21/dnsfilter-nabs-30m-to-fight-dns-threats-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -458,14 +754,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22015462",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22015462",
-      "publishedDateTime": "2021-07-16T04:30:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/21/dnsfilter-nabs-30m-to-fight-dns-threats-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/dnsfilter-nabs-30m-to-fight-dns-threats-with-ai/amp/",
+      "publishedDateTime": "2021-07-21T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -474,24 +779,23 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-is-deep-learning-making-nlp-too-expensive.md",
-      "title": "Is Deep Learning Making NLP Too Expensive?",
-      "excerpt": "Deep learning has yielded some fantastic results for basic natural language processing (NLP) functions such as named entity recognition (NER), document classification and sentiment analysis — not to mention the abilities to generate everything from ...",
+      "path": "_news/2021-07-21-lyft-invests-in-argo-ai-fords-first-robotaxis-arrive-in-late-2021.md",
+      "title": "Lyft Invests In Argo AI; Ford’s First Robotaxis Arrive In Late 2021",
+      "excerpt": "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/16/is-deep-learning-making-nlp-too-expensive/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/16/is-deep-learning-making-nlp-too-expensive/",
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 404,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f030c70cbf4d83cdf50570%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -501,9 +805,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/16/is-deep-learning-making-nlp-too-expensive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/16/is-deep-learning-making-nlp-too-expensive/amp/",
-      "publishedDateTime": "2021-07-16T04:03:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
+      "publishedDateTime": "2021-07-21T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -526,27 +830,26 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI",
-        "Natural Language Processing"
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2021-07-16-deeptech-startup-edgeneuralai-raises-seed-round-from-anicut-angel-fund.md",
-      "title": "Deeptech Startup EDGENeural.AI Raises Seed Round From Anicut Angel Fund",
-      "excerpt": "Pune-based deeptech startup EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital. The funding round saw participation from other investors including Venkat Raju, 9Unicorns, Samir Inamdar ...",
+      "path": "_news/2021-07-21-three-reasons-to-use-ai-when-choosing-cre-locations-for-a-retail-business.md",
+      "title": "Three Reasons To Use AI When Choosing CRE Locations For A Retail Business",
+      "excerpt": "The placement of your commercial real estate locations can be the difference between patrons visiting your business or the competitor across the street.",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/377515",
-      "originalUrl": "https://www.entrepreneur.com/article/377515",
+      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626430253-IMG-27751.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f6ded2ce2922235c08e4ba%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -554,16 +857,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377515",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377515",
-      "publishedDateTime": "2021-07-16T03:17:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2021/07/21/threereasons-to-use-ai-when-choosing-cre-locationsfor-a-retail-business/amp/",
+      "publishedDateTime": "2021-07-21T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -583,21 +886,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-maine-enacts-toughest-facial-recognition-ban-in-us.md",
-      "title": "Maine Enacts Toughest Facial Recognition Ban in U.S.",
-      "excerpt": "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ...",
+      "path": "_news/2021-07-21-microsoft-azure-sentinel-vs-darktrace-enterprise-immune-system-whos-on-top-in-ai-security.md",
+      "title": "Microsoft Azure Sentinel vs Darktrace Enterprise Immune System: Who's on top in AI security?",
+      "excerpt": "Microsoft uses AI to operate a traditional SIEM, but Darktrace takes a very different approach to threat hunting",
       "sourceUrl": null,
-      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
-      "originalUrl": "https://www.campussafetymagazine.com/news/maine-enacts-toughest-facial-recognition-ban-in-u-s/",
+      "webUrl": "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrace-ai-security",
+      "originalUrl": "https://www.computing.co.uk/analysis/4034785/microsoft-vs-darktrace-ai-security",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
-          "width": 780,
-          "height": 520,
+          "url": "https://www.computing.co.uk/api/v1/wps/535962a/99c600ff-a243-4757-83a2-08a8bf82b2f8/2/Darktrace-vs-Microsoft-370x229.png",
+          "width": 370,
+          "height": 229,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -605,13 +908,57 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "publishedDateTime": "2021-07-16T02:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T03:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence.md",
+      "title": "Top AI & ML Innovations From Allen Institute For Artificial Intelligence",
+      "excerpt": "Over the years, the private research institute and startup incubator has pushed the frontiers of AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
+      "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/Allen_AIM.jpg",
+          "width": 896,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -622,77 +969,27 @@
       ],
       "topics": [
         "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen.md",
-      "title": "Speech neuroprosthesis turns brain signals into words on a screen",
-      "excerpt": "Those findings are translated into speech recognition of words, and methods for real-time decoding of those patterns and statistical language models to improve accuracy were developed. The first patient in the trial was a man in his late 30s who suffered a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/",
-      "originalUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/neuroprosthesis.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/speech-neuroprosthesis-turns-brain-signals-into-words-on-a-screen-16682689/amp/",
-      "publishedDateTime": "2021-07-16T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Machine Learning",
         "Natural Language Processing",
-        "AI"
+        "Facebook AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says.md",
-      "title": "Machine Learning could solve biggest challenges in the world, AWS executive says",
-      "excerpt": "AWS executive Kanishka Agiwal, shared his thoughts on Machine Learning – its applications, growing adoption in different sectors, function in the future, as well as AWS’ role in building and supporting the ML ecosystem.",
+      "path": "_news/2021-07-21-chinese-driverless-car-start-up-weride-makes-first-acquisition-as-competition-ramps-up.md",
+      "title": "Chinese driverless car start-up WeRide makes first acquisition as competition ramps up",
+      "excerpt": "Chinese driverless car start-up WeRide has made its first acquisition, an autonomous trucking firm called MoonX, as it looks to commercialize self-driving tech.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece",
+      "webUrl": "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 191,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thehindu.com/sci-tech/technology/qku2pe/article35358812.ece/ALTERNATES/LANDSCAPE_615/Kanishka-AWS",
-          "width": 615,
-          "height": 384,
+          "url": "https://image.cnbcfm.com/api/v1/image/106913345-1626761042533-WeRide_robotaxi_.jpeg?v=1626761714",
+          "width": 7952,
+          "height": 5304,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -700,59 +997,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/machine-learning-could-solve-biggest-challenges-in-the-world-aws-executive-says/article35358781.ece/amp/",
-      "publishedDateTime": "2021-07-16T02:42:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "publishedDateTime": "2021-07-20T22:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-could-the-pittsburgh-left-help-argo-ai-win-the-self-driving-car-race.md",
-      "title": "Could the ‘Pittsburgh left’ help Argo AI win the self-driving car race?",
-      "excerpt": "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi",
-      "originalUrl": "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/75020f5/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2Fcd%2F534512b98dfada9db3836e453a91%2Fae1ef9f1bada4fafadcd0384a152cc0a",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-07-15/argo-ai-robotaxi?_amp=true",
-      "publishedDateTime": "2021-07-16T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -766,21 +1027,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-can-religion-guide-the-ethics-of-ai.md",
-      "title": "Can Religion Guide the Ethics of A.I.?",
-      "excerpt": "to remake the world. These believers are fighting to make sure thousands of years of text and tradition find a place among the algorithms. Artificial intelligence promises to remake the world.",
+      "path": "_news/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning.md",
+      "title": "Four ways to unlock marketing return on investment with machine learning",
+      "excerpt": "Despite the emphasis placed on data-driven marketing over the past decade, 54% of senior marketing practitioners reported in a 2020 Gartner survey that their organisations’ investment in marketing analytics hasn’t had the expected impact.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/",
-      "originalUrl": "https://www.nytimes.com/interactive/2021/07/16/opinion/ai-ethics-religion.html",
+      "webUrl": "https://www.businesslive.co.za/redzone/news-insights/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning/",
+      "originalUrl": "https://www.businesslive.co.za/redzone/news-insights/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/5a0a046174c62b689459d7c4/master/pass/LEAD%20Anthony%20Levandoski_Michelle%20Le03.JPG",
-          "width": 4500,
-          "height": 3000,
+          "url": "https://lh3.googleusercontent.com/lD8iSUytXbPrgorJ9DcxbWKVsgkDPX91C2V5md1kUWGsvbFGf2IYIiSkdWZyjDee9vb09kNbtMlobkeXnreM5vuem_GhExA=s1000",
+          "width": 1000,
+          "height": 547,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -788,23 +1049,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "publishedDateTime": "2021-07-16T02:13:00-07:00",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/redzone/news-insights/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/redzone/news-insights/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning/",
+      "publishedDateTime": "2021-07-20T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -813,26 +1065,27 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI",
-        "AI Ethics"
+        "AI in Marketing"
       ]
     },
     {
-      "path": "_news/2021-07-16-venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021.md",
-      "title": "VentureBeat presents AI Innovation Awards nominees at Transform 2021",
-      "excerpt": "The AI Innovation Awards honors companies and individuals who stand out from their peers in solving challenges in creative ways.",
+      "path": "_news/2021-07-21-aicte-translating-engineering-coursework-using-ai-tool-finding-word-equivalent-of-tech-terms-a-task.md",
+      "title": "AICTE Translating Engineering Coursework Using AI Tool, Finding Word Equivalent of Tech Terms a Task",
+      "excerpt": "A many as 3,000 translators along with young interns in their 20s set their eyes to the AI tool on their screen to translate course materials from English to regional languages at the AICTE headquarters in New Delhi,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
-      "originalUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
+      "webUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "originalUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all",
+          "url": "https://images.news18.com/ibnlive/uploads/2021/07/1626756615_aicte.jpg?im=FitAndFill,width=1200,height=675",
           "width": 1200,
-          "height": 600,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -840,23 +1093,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
-      "publishedDateTime": "2021-07-16T02:02:00-07:00",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "publishedDateTime": "2021-07-20T21:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -865,80 +1109,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
         "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-what-ever-happened-to-ibms-watson.md",
-      "title": "What Ever Happened to IBM’s Watson?",
-      "excerpt": "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
-      "publishedDateTime": "2021-07-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-satya-nadella-on-microsofts-structural-transformation.md",
-      "title": "Satya Nadella on Microsoft's 'structural transformation'",
-      "excerpt": "With Azure Machine Learning, you can build advanced AI models to identify trends and predict outcomes. With Synapse and Power BI, an entirely new generation of SaaS applications is being created.",
+      "path": "_news/2021-07-21-knowledgelake-now-supports-microsoft-azure-government.md",
+      "title": "KnowledgeLake Now Supports Microsoft Azure Government",
+      "excerpt": "Public-sector organizations can now leverage the KnowledgeLake platform to manage content and data on the Microsoft Azure Government cloud.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/satya-nadella-on-microsofts-structural-transformation-567447",
-      "originalUrl": "https://www.crn.com.au/news/satya-nadella-on-microsofts-structural-transformation-567447",
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=148070",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.nextmedia.com.au/News/satya_bookcover-print-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -948,226 +1138,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T23:35:00-07:00",
+      "publishedDateTime": "2021-07-20T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-unfairly-kicked-out-of-skating-rink.md",
-      "title": "Backlash to retail use of facial recognition grows after Michigan teen unfairly kicked out of skating rink",
-      "excerpt": "Apple, Macy's, Albertsons, Lowes and Ace Hardware all use facial recognition software in their stores. Multiple civil rights groups banded together this week to end the use of facial recognition tools by large retailers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
-      "publishedDateTime": "2021-07-15T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
-      "title": "eBay taps computer vision to transform online shopping",
-      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image-based search.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "publishedDateTime": "2021-07-15T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-robotics-and-ai-will-reshape-the-life-sciences-buildings-of-the-future.md",
-      "title": "Robotics And AI Will Reshape The Life Sciences Buildings Of The Future",
-      "excerpt": "Robotics and AI are changing life sciences workspaces, challenging life sciences developers to adapt to these emerging technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563",
-      "originalUrl": "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2021%2F07%2F60f0a5516ee89-thisisengineering-raeng-mf6gb6hv5ou-unsplash-2.jpeg&width=1200&sign=WKj1WTXyhuhiludNCGLnB5eA_19OTjhPg0lpXHPeci4",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bisnow",
-        "domain": "bisnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-latest-qld-covid-19-exposure-sites-full-list-of-queensland-coronavirus-hotspots-and-case-location-alerts.md",
-      "title": "Latest Qld Covid-19 exposure sites: full list of Queensland coronavirus hotspots and case location alerts",
-      "excerpt": "Here are the current coronavirus hotspots and Covid-19 public exposure sites in Queensland and what to do if you’ve visited them.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
-      "originalUrl": "https://www.msn.com/en-au/news/australia/latest-qld-covid-19-exposure-sites-full-list-of-queensland-coronavirus-hotspots-and-case-location-alerts/ar-AAMcLn6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T17:01:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
-        "domain": "ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-content-analytics-discovery-and-cognitive-software-market-may-set-new-growth-story-hewlett-packard-baidu-elastic-google.md",
-      "title": "Content Analytics Discovery and Cognitive Software Market May Set New Growth Story | Hewlett-Packard, Baidu, Elastic, Google",
-      "excerpt": "and give advisory services relating to a variety of unstructured data are together referred to as Content Analytics, Discovery, and Cognitive Systems. Rise in Adoption of Cloud Based Technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-may-set-new-growth-story-hewlett-packard-baidu-elastic-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-may-set-new-growth-story-hewlett-packard-baidu-elastic-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/Freedom-Day-England-AFP-1K-03-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
         "images": null,
         "publishers": null,
         "authors": null

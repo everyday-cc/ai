@@ -2,6 +2,725 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-12-il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81.md",
+      "title": "IL MAKIAGE acquires leading Israeli computer vision start-up Voyage81",
+      "excerpt": "The tech-driven beauty company is adding cutting edge computer vision technology to its existing deep learning capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548",
+      "originalUrl": "https://www.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/481304",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp",
+      "publishedDateTime": "2021-08-12T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-il-makiage-acquires-leading-israeli-computer-vision-startup-voyage81.md",
+      "title": "IL MAKIAGE Acquires Leading Israeli Computer Vision Startup Voyage81",
+      "excerpt": "IL MAKIAGE, the fastest growing beauty company in the U.S., today announces the acquisition of Voyage81, a deep-tech AI-based computational imaging startup. IL MAKIAGE’s acquisition of Voyage81 will enable the company to use Voyage81’s patented hyperspectral imaging systems to further enhance the company’s machine learning capabilities and aligns with IL MAKIAGE’s commitment to continue innovating and revolutionizing the beauty and wellness industries at-large.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-business-israel-6ff56fede6dd48878405d62b70391e57",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-business-israel-6ff56fede6dd48878405d62b70391e57",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-autonomous-vehicle-safety-increased-by-use-of-multiple-sensors-in-an-aggregate-technology.md",
+      "title": "Autonomous vehicle safety increased by use of multiple sensors in an aggregate technology",
+      "excerpt": "Sensor fusion technology is one example of such an approach that combines multiple dedicated sensors to form a single, more precise image of a vehicle’s exterior environment. Think of it in human terms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorward.com/2021/08/autonomous-vehicle-safety-increased-by-use-of-multiple-sensors-in-an-aggregate-technology/",
+      "originalUrl": "https://www.motorward.com/2021/08/autonomous-vehicle-safety-increased-by-use-of-multiple-sensors-in-an-aggregate-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motorward.com/wp-content/images/2021/08/Sensor-Fusion-730x416.jpg",
+          "width": 730,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motorward",
+        "domain": "motorward.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-amazon-rekognition-custom-brand-detection.md",
+      "title": "Amazon Rekognition Custom Brand Detection",
+      "excerpt": "When the labelers complete the labeling job, the solution uses the annotations from the labelers to prepare and train a custom label model using Amazon Rekognition Custom Labels service and deploys the model once the training completes. When the model is ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
+      "originalUrl": "https://github.com/aws-samples/amazon-rekognition-custom-brand-detection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/e28091c2f1b5d65ce18c3a75b7f39a2e547efdeac7635e00e02bf5afa8433e86/aws-samples/amazon-rekognition-custom-brand-detection",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-20202027.md",
+      "title": "Image Recognition Market Size, Opportunities, Key Growth Factors, Revenue Analysis, For 2020–2027",
+      "excerpt": "Image Recognition Market Report . The global image recognition market is expected to reach USD 80.07 Billion by 2026, according to a new report by Reports and Data. Image recognit",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-2020-2027/",
+      "originalUrl": "https://manometcurrent.com/image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-2020-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/8-27.jpg",
+          "width": 750,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-2020-2027/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/image-recognition-market-size-opportunities-key-growth-factors-revenue-analysis-for-2020-2027/",
+      "publishedDateTime": "2021-08-11T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-how-computer-vision-works-and-why-its-plagued-by-bias.md",
+      "title": "How computer vision works — and why it’s plagued by bias",
+      "excerpt": "Computer vision explained. We break down how AI computer vision works, its rise, applications, bias, and challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/",
+      "originalUrl": "https://venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/how-computer-vision-works-and-why-its-plagued-by-bias/amp/",
+      "publishedDateTime": "2021-08-11T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3ai.md",
+      "title": "Global Artificial Intelligence Applications for Smart Cities Market SWOT Analysis,Key Indicators,Forecast 2027 : Amazon (Rekognition), C3.ai",
+      "excerpt": "MR Accuracy Reports reports provide extensive Artificial Intelligence Applications for Smart Cities assessments with considering the importance and projections and provide detailed, strategic life choice data identification and effective to provide a ...",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "originalUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "publishedDateTime": "2021-08-10T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-how-vision-systems-work-in-robotics.md",
+      "title": "How Vision Systems Work in Robotics",
+      "excerpt": "Robot vision systems are commonly referred to as machine vision. This vision tool is used in several industrial processes, including material inspection, object recognition, and pattern recognition. Each industry applies its particular values to machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
+      "originalUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/AdobeStock_404523756.jpeg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-first-look-at-teslas-new-vision-based-autopark-feature.md",
+      "title": "First look at Tesla’s new vision-based Autopark feature",
+      "excerpt": "Tesla has started updating its Autopark feature with its new Tesla Vision computer vision system, which now powers Autopilot and its Full Self-Driving Beta. Like many other premium (and even non-premium) vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/",
+      "originalUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Autopark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/10/tesla-vision-based-autopark-feature/amp/",
+      "publishedDateTime": "2021-08-10T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-global-face-recognition-systems-market.md",
+      "title": "Global Face Recognition Systems Market",
+      "excerpt": "The overall Face Recognition Systems market is uncommonly ferocious To keep up their position and drive the market improvement industry players are persistently improving and searching for market expansion logically through progressions thing dispatches solidifications and acquisitions sagacious portfolio and",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth",
+      "originalUrl": "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U810466440_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth",
+      "publishedDateTime": "2021-08-10T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-causal-neural-mechanisms-of-context-based-object-recognition.md",
+      "title": "Causal neural mechanisms of context-based object recognition",
+      "excerpt": "Interestingly, object recognition can still be highly accurate under these conditions when objects are seen within their typical scene context. What are the neural mechanisms of context-based object recognition? According to parallel processing accounts ...",
+      "sourceUrl": null,
+      "webUrl": "https://elifesciences.org/articles/69736",
+      "originalUrl": "https://elifesciences.org/articles/69736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elifesciences.org/assets/images/social/icon-600x600@1.75dbe4c9.png",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eLife",
+        "domain": "elifesciences.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech.md",
+      "title": "TetaVi Raises $20 Million For Its Metaverse-Focused Computer Vision Tech",
+      "excerpt": "The startup hopes to democratize the ability for consumers to create for the metaverse through its cheaper and more flexible volumetric video software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/",
+      "originalUrl": "https://www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61119c98afc8b5da845a536c%2F0x0.jpg",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccaszkutak/2021/08/10/tetavi-raises-20-million-for-its-metaverse-focused-computer-vision-tech/amp/",
+      "publishedDateTime": "2021-08-10T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-computer-vision-startup-zebra-medical-vision-sells-for-200m.md",
+      "title": "Computer vision startup Zebra Medical Vision sells for $200M",
+      "excerpt": "Zebra Medical Vision, a computer vision startup focused on health care, has agreed to be acquired in a deal worth $200 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
+      "originalUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/",
+      "publishedDateTime": "2021-08-10T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028.md",
+      "title": "AI In Computer Vision Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028",
+      "excerpt": "The AI In Computer Vision market report provides a detailed analysis of global market size, regional and country-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-08-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-08-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-collaboration-focuses-on-multimodal-ai-design.md",
+      "title": "Collaboration focuses on multimodal AI design",
+      "excerpt": "Together, they bring always-on functionality with quick voice-triggered activation from standby mode to perform object recognition, facial recognition, and other vision-based tasks. The multimodal architecture allows the creation of contactless user ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.edn.com/collaboration-focuses-on-multimodal-ai-design/",
+      "originalUrl": "https://www.edn.com/collaboration-focuses-on-multimodal-ai-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EDN",
+        "domain": "edn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-chinas-top-court-specifies-rules-for-facial-recognition.md",
+      "title": "China's top court specifies rules for facial recognition",
+      "excerpt": "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve",
+      "sourceUrl": null,
+      "webUrl": "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "originalUrl": "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "cdnAmpWebUrl": "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "publishedDateTime": "2021-08-09T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Новости Украины",
+        "domain": "ukranews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-samsungs-new-robot-vacuum-uses-lidar-and-ai-to-avoid-obstacles-priced-at-rm4999.md",
       "title": "Samsung’s new robot vacuum uses LiDAR and AI to avoid obstacles, priced at RM4,999",
       "excerpt": "Samsung Malaysia just released its new robot vacuum, the Samsung Jet Bot AI+. It claims to be the first vacuum that uses AI and object recognition to navigate through your home. The Jet Bot AI+ uses a LiDAR sensor,",
@@ -614,701 +1333,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced-customer-experience-on-olli-20.md",
-      "title": "Local Motors selects alwaysAI® as its Computer Vision partner for automated accessibility features and enhanced customer experience on Olli 2.0",
-      "excerpt": "Local Motors and computer vision platform leader, alwaysAI ®, have announced a strategic partnership to bring advanced computer vision applications to Olli 2.0, Local Motors' autonomous electric vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced-customer-experience-on-olli-2-0-1030684505",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced-customer-experience-on-olli-2-0-1030684505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1585598/alwaysAI_electric_vehicle.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced-customer-experience-on-olli-20.md",
-      "title": "Local Motors selects alwaysAI® as its Computer Vision partner for automated accessibility features and enhanced customer experience on Olli 2.0",
-      "excerpt": "Local Motors and computer vision platform leader, alwaysAI®, have announced a strategic partnership to bring advanced computer vision applications to Olli 2.0, Local",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced/article_549d137d-1f91-5f9a-92ad-6429b0b9e61d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/local-motors-selects-alwaysai-as-its-computer-vision-partner-for-automated-accessibility-features-and-enhanced/article_549d137d-1f91-5f9a-92ad-6429b0b9e61d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46afc4f1-7540-5287-830b-94b83d6fd9d5/61095afc11485.image.jpg?resize=945%2C630",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-open-source-face-recognition-application-compreface-adds-new-features.md",
-      "title": "Open Source Face Recognition Application CompreFace Adds New Features",
-      "excerpt": "Exadel (  ), a software engineering company that delivers digital platforms, products and applications, today announced updates to CompreFace, an open source face recognition application. Since its launch in November 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-open-source-face-recognition-application-compreface-adds-new-/2021/08/03/9422696.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-open-source-face-recognition-application-compreface-adds-new-/2021/08/03/9422696.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety.md",
-      "title": "Seeing The Future Of AI: An Introduction To Computer Vision For Safety",
-      "excerpt": "Computer vision has exploded onto the technology scene over the past decade. Considered one of the most powerful types of artificial intelligence (AI), it has become the technology solution of choice for some of the most complex issues facing industries today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6107f1ea0713bed8d21910e1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/amp/",
-      "publishedDateTime": "2021-08-03T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-first-uae-bank-to-use-facial-recognition-for-account-opening-goes-live.md",
-      "title": "First UAE bank to use facial recognition for account opening goes live",
-      "excerpt": "Leading brand for international independent financial advisers, wealth management professionals serving expatriate and cross-border clients worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.internationalinvestment.net/news/4035339/uae-bank-facial-recognition-account-goes-live",
-      "originalUrl": "https://www.internationalinvestment.net/news/4035339/uae-bank-facial-recognition-account-goes-live",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.internationalinvestment.net/api/v1/wps/596d1df/c9a443f4-e315-4447-9535-83f9c25df3a2/2/facial-recognition-software-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "internationalinvestment",
-        "domain": "internationalinvestment.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening.md",
-      "title": "ADIB is the first UAE bank to use facial recognition for account opening",
-      "excerpt": "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally.",
-      "sourceUrl": null,
-      "webUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
-      "originalUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Lending-Systems-Suppliers-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBS",
-        "domain": "ibsintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-high-performance-stereo-computer-vision-for-the-raspberry-pi.md",
-      "title": "High Performance Stereo Computer Vision For The Raspberry Pi",
-      "excerpt": "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
-      "originalUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg",
-          "width": 3278,
-          "height": 2458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-idemias-facial-recognition-algorithm-maintains-1-ranking-in-nists-frvt-test.md",
-      "title": "IDEMIA’s facial recognition algorithm maintains #1 ranking in NIST’s FRVT test",
-      "excerpt": "IDEMIA National Security Solutions (NSS), an affiliate of IDEMIA, the world’s leading biometric and identity solutions provider, announced today that the company’s facial recognition algorithm 1:N has maintained the top spot on the National Institute of Standards and Technology’s (NIST) Face Recognition Vendor Test (FRVT) with a correct identification accuracy of 99.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-f9a4dee661c078eee3d827267be39e58",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-f9a4dee661c078eee3d827267be39e58",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-computer-vision-market-has-revealed-immense-growth-with-key-players-texas-instruments-keyence-basler.md",
-      "title": "Computer Vision Market Has Revealed Immense Growth with Key Players – Texas Instruments, Keyence, Basler",
-      "excerpt": "The Global Computer Vision Market report is expected to grow at a CAGR of 9.16% and is poised to reach $XX Billion by 2027 as compared to $XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/computer-vision-market-has-revealed-immense-growth-with-key-players-texas-instruments-keyence-basler/",
-      "originalUrl": "https://manometcurrent.com/computer-vision-market-has-revealed-immense-growth-with-key-players-texas-instruments-keyence-basler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://domestic-violence.org.uk/wp-content/uploads/2021/07/300-x-300-pixel-1-2-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-researchers-use-ai-to-look-for-alien-civilisations.md",
-      "title": "Researchers use AI to look for alien civilisations",
-      "excerpt": "The team will use a network of mid-sized, high-resolution telescopes and detector arrays with suitable cameras and computer systems as part of their research to find alien civilisations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/r5nkkz/article35680756.ece/ALTERNATES/LANDSCAPE_615/oumuamua-impression",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/",
-      "publishedDateTime": "2021-08-02T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie.md",
-      "title": "Facial recognition in UAE: Now, open a bank account with a selfie",
-      "excerpt": "UAE citizens and residents can now open a bank account from the comfort of their home by taking a selfie — and be done with the entire process in less than five minutes. Abu Dhabi Islamic Bank (ADIB) on Monday signed a partnership with the Ministry of Interior to launch the UAE’s first digital account opening service through an app by using a selfie.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
-      "originalUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210802/ARTICLE/210809856/AR/0/AR-210809856.jpg&NCS_modified=20210802112011&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
-      "publishedDateTime": "2021-08-02T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025.md",
-      "title": "Facial Recognition Market Research Report, Upcoming Trends, Demand, Regional Analysis and Forecast 2020 to 2025",
-      "excerpt": "According to IMARC Group latest report titled\" Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the market grew at a CAGR of around 18% during 2014-2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025-2021-08-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025-2021-08-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease.md",
-      "title": "Hoth Therapeutics Initiates Preclinical Study of HT-ALZ for Alzheimer's Disease",
-      "excerpt": "To evaluate other forms of memory, we will also determine if chronic HT-ALZ treatment influences non-spatial memory using a novel object recognition and novel object location task. These tests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22272652/hoth-therapeutics-initiates-preclinical-study-of-ht-alz-for-alzheimers-disease",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22272652",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22272652",
-      "publishedDateTime": "2021-08-02T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-us-lawmakers-call-for-investigation-into-use-and-abuse-of-face-recognition-tech.md",
-      "title": "U.S. lawmakers call for investigation into use and abuse of face recognition tech",
-      "excerpt": "It’s unclear, for example, which agencies have acquired Amazon’s facial recognition technology, known as Rekognition; the company’s client page only identifies one local law enforcement agency by name. The lawmakers further asked the GAO to evaluate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hcinnovationgroup.com/home/article/13010504/us-lawmakers-call-for-investigation-into-use-and-abuse-of-face-recognition-tech",
-      "originalUrl": "https://www.hcinnovationgroup.com/home/article/13010504/us-lawmakers-call-for-investigation-into-use-and-abuse-of-face-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hcinnovationgroup",
-        "domain": "hcinnovationgroup.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-orlando-renews-facial-rekognition-pilot-program.md",
-      "title": "Orlando Renews Facial “Rekognition” Pilot Program",
-      "excerpt": "But there’s one part of Amazon’s business that is very interested in seeing your face out and about in public. Amazon Rekognition is a facial recognition system. And Orlando’s police department is one of two in the country helping Amazon beta-test ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmfe.org/orlando-renews-facial-rekognition-pilot-program/89058",
-      "originalUrl": "https://www.wmfe.org/orlando-renews-facial-rekognition-pilot-program/89058",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wmfeimages.s3.amazonaws.com/wp-content/uploads/2018/06/26160245/orlando-traffic-cam_wide-1c5544417c9e03a74d839be8594a6b4893ea190a.jpg",
-          "width": 1060,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMFE",
-        "domain": "wmfe.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Computer Vision"
       ]

@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-09-08-could-boston-dynamics-robots-beat-me-in-a-fight.md",
-      "title": "Could Boston Dynamics Robots Beat Me in a Fight?",
-      "excerpt": "In a vast warehouse-style room, two humanoid robots are taking on an obstacle course. Their barrel-shaped torsos, stuffed with processors and batteries, make it look as if they’ve been going to the gym a lot but have neglected leg day.",
+      "path": "_news/2021-09-15-discovery-partners-with-aws-on-track-cycling-insights-cloud.md",
+      "title": "Discovery partners with AWS on track cycling insights, cloud",
+      "excerpt": "Two companies plan to work together to deliver new fan engagement experiences around the UCI cycling competition, including a new UCI Track Champions League app",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.html",
-      "originalUrl": "https://www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.html",
+      "webUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud",
+      "originalUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/09/12/magazine/12mag-screenland/12mag-screenland-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 548,
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/09/disco-aws-copy.jpg",
+          "width": 750,
+          "height": 565,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,212 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.amp.html",
-      "publishedDateTime": "2021-09-08T02:00:00-07:00",
+      "ampWebUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud?amp",
+      "publishedDateTime": "2021-09-15T00:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-what-you-need-to-know-about-facial-recognition-home-security-cameras.md",
-      "title": "What you need to know about facial recognition home security cameras",
-      "excerpt": "As facial recognition technology becomes more prevalent in home security cameras, it's important to understand what it is and how it's used. Here, we break it all down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "publishedDateTime": "2021-09-07T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-drone-delivery-startup-techeagle-raises-500000-in-seed-round.md",
-      "title": "Drone Delivery Startup TechEagle Raises $500,000 In Seed Round",
-      "excerpt": "The startup will use the funding to further launch new indigenous products, scale its operations in India, and hire across functions. With its on-demand drone delivery airline, the startup aims to imp",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/384202",
-      "originalUrl": "https://www.entrepreneur.com/article/384202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1631081209-TechEagleTeamwithAquilaX211.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/384202",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/384202",
-      "publishedDateTime": "2021-09-07T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-microsoft-grows-azure-space-australia-with-nokia-sa-govt-and-university-of-adelaide.md",
-      "title": "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide",
-      "excerpt": "Azure Space Australia will be focused on building space and satellite solutions that leverage cloud, 5G technology, AI, and analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/09/07/c3bacc60-39aa-4bae-b0b8-02b219f987e2/azure-satellite-diagram-1000x563.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "publishedDateTime": "2021-09-07T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.md",
-      "title": "Indian, German Scientific Experts Discuss Artificial Intelligence And Its Implementation",
-      "excerpt": "Indian and German scientific experts discussed five selected thematic areas of mutual interest related to artificial intelligence (AI) and its implementation at a joint virtual workshop, the Department of Science and Technology said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
-      "originalUrl": "https://www.republicworld.com/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg",
-          "width": 768,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
-      "publishedDateTime": "2021-09-07T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -239,71 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
+        "AWS AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-08-lumo-labs-backs-autoscriber-to-advance-healthcare-ai-voice-recognition.md",
-      "title": "LUMO Labs Backs Autoscriber to Advance Healthcare AI Voice Recognition",
-      "excerpt": "LUMO Labs is backing Dutch health-tech startup Autoscriber, which specializes in artificial intelligence (AI)-supported voice recognition software.",
+      "path": "_news/2021-09-15-this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone.md",
+      "title": "This invisible AI-powered keyboard used an NVIDIA GTX 1080 Ti to help you type faster on a smartphone",
+      "excerpt": "A group of South Korean researchers have developed the Invisible Mobile Keyboard, letting you type into your smartphone without needing an on-screen keyboard.",
       "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/",
+      "webUrl": "https://soyacincau.com/2021/09/15/this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone/",
+      "originalUrl": "https://soyacincau.com/2021/09/15/this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1746429518-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/",
-      "publishedDateTime": "2021-09-07T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-boost-transcription-accuracy-of-class-lectures-with-custom-language-models-for-amazon-transcribe.md",
-      "title": "Boost transcription accuracy of class lectures with custom language models for Amazon Transcribe",
-      "excerpt": "Many universities like transcribing their recorded class lectures and later creating captions out of these transcriptions. Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. Transcribe assists",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
+          "url": "https://soyacincau.com/wp-content/uploads/2021/09/210909-gtx-1080-ti.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -313,21 +69,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T14:14:48-07:00",
+      "publishedDateTime": "2021-09-14T22:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "SoyaCincau",
+        "domain": "soyacincau.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -336,27 +83,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-08-new-deep-learning-method-boosts-mri-results-without-requiring-new-data.md",
-      "title": "New deep learning method boosts MRI results without requiring new data",
-      "excerpt": "When patients undergo an MRI, they are told to lie still because even the slightest movement compromises the quality of the images and can create blurred spots and speckles known as artifacts. Moreover,",
+      "path": "_news/2021-09-15-behringer-deepmind-12-editorlibrarian.md",
+      "title": "Behringer Deepmind 12 Editor/Librarian",
+      "excerpt": "A spokesperson told us, \" The Deepmind is the first Behringer synth that Patch Base supports, as we continue to expand our coverage of the many manufacturers out there. Although Behringer created their own feature-filled editor for the Deepmind 12 on iPad and Mac,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
+      "webUrl": "https://sonicstate.com/news/2021/09/15/behringer-deepmind-12-editorlibrarian/",
+      "originalUrl": "https://sonicstate.com/news/2021/09/15/behringer-deepmind-12-editorlibrarian/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/mri.jpg",
-          "width": 1920,
-          "height": 1920,
+          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/34864_389.jpg",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -364,13 +110,56 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
-      "publishedDateTime": "2021-09-07T14:04:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T18:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "Sonic State",
+        "domain": "sonicstate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-how-to-invest-in-artificial-intelligence.md",
+      "title": "How to Invest in Artificial Intelligence",
+      "excerpt": "Learn how to invest in the growing artificial intelligence market, which is projected to reach nearly US$1 trillion in value by 2028. Artificial intelligence (AI) has been pegged by some as the fourth industrial revolution,",
+      "sourceUrl": null,
+      "webUrl": "https://investingnews.com/daily/tech-investing/emerging-tech-investing/artificial-intelligence-investing/how-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://investingnews.com/daily/tech-investing/emerging-tech-investing/artificial-intelligence-investing/how-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investingnews.com/app/uploads/2020/07/how-to-invest-in-artificial-intelligence.jpeg",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing News Network",
+        "domain": "investingnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -385,72 +174,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-08-ai-as-a-service-to-solve-your-business-problems-guess-again.md",
-      "title": "AI as a service to solve your business problems? Guess again",
-      "excerpt": "The process to train algorithms to detect wear and tear would be different for factories that produce different products; after all, a shoe is not a smartphone is not a bicycle.",
+      "path": "_news/2021-09-15-hornet-and-milrem-robotics-exhibit-a-new-combat-ugv-at-dsei.md",
+      "title": "Hornet and Milrem Robotics Exhibit a New Combat UGV at DSEI",
+      "excerpt": "The French remote weapon systems manufacturer Hornet and Europe’s leading developer of robotics and autonomous systems Milrem Robotics display a new THeMIS Comb",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/",
-      "originalUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/",
+      "webUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
+      "originalUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1031459310.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/amp/",
-      "publishedDateTime": "2021-09-07T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-fully-customizable-action-space-now-available-on-the-aws-deepracer-console.md",
-      "title": "Fully customizable action space now available on the AWS DeepRacer console",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML) through a global racing league, cloud-based 3D racing simulator, and fully autonomous 1/18th scale race car driven by reinforcement learning. Starting today, the model action space is fully customizable yet simplified with new",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/07/8-5294-Baja-truck.jpg",
-          "width": 800,
-          "height": 376,
+          "url": "https://www.asdnews.com/NewsImages/b/67827/68818_O.jpg",
+          "width": 1200,
+          "height": 468,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -460,64 +198,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T13:20:46-07:00",
+      "publishedDateTime": "2021-09-14T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-university-of-idaho-robotics-flourish-at-north-idaho-college.md",
-      "title": "University of Idaho Robotics Flourish at North Idaho College",
-      "excerpt": "Since relocating to North Idaho College's Hedlund Building, the university's robotics program is teaching students to write software and preparing them for careers in fields such as manufacturing and cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/26fb46c/2147483647/strip/true/crop/1168x609+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb3%2F2a%2Fb551756f42647015fcf63a4856b6%2Funiversity-of-idaho.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
-      "publishedDateTime": "2021-09-07T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
+        "name": "Aerospace & Defense News",
+        "domain": "asdnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -532,19 +217,235 @@
       ]
     },
     {
-      "path": "_news/2021-09-08-large-language-models-arent-always-more-complex.md",
-      "title": "Large language models aren’t always more complex",
-      "excerpt": "Research suggests that large language models don't necessarily perform better than their smaller, better-tuned counterparts.",
+      "path": "_news/2021-09-15-automated-boba-bar-startup-integrates-facial-recognition-payments-to-build-loyalty-through-frictionless-convenience.md",
+      "title": "Automated Boba Bar Startup Integrates Facial Recognition Payments to Build Loyalty Through Frictionless Convenience",
+      "excerpt": "Automated boba bar startup Bobacino has partnered with facial recognition payment company PopID to enable consumers to pay for their beverage with their faces.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/",
-      "originalUrl": "https://venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/",
+      "webUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
+      "originalUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Bobacino-facial-recognition-payment-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "publishedDateTime": "2021-09-14T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality.md",
+      "title": "De Wandel and Mathews: Artificial intelligence held artificial promise to yield health care equality",
+      "excerpt": "Despite high expectations that computer technology could balance medical treatment between the races, the result has been the opposite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/opinion/columnists/de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality/article_257e24fa-9074-5739-b74d-62523f311528.html",
+      "originalUrl": "https://www.stltoday.com/opinion/columnists/de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality/article_257e24fa-9074-5739-b74d-62523f311528.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517",
+          "width": 600,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-locus-robotics-collects-50-million-in-new-funding-for-amrs.md",
+      "title": "Locus Robotics collects $50 million in new funding for AMRs",
+      "excerpt": "Warehouse automation provider Locus Robotics today gained new fuel to develop its autonomous mobile robot (AMR) technology for fulfillment tasks, thanks to a $50 million funding round. Massachusetts-based Locus Robotics said the new backing would facilitate continued growth and expansion into new markets around the globe,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/52306-locus-robotics-collects-50-million-in-new-funding-for-amrs",
+      "originalUrl": "https://www.dcvelocity.com/articles/52306-locus-robotics-collects-50-million-in-new-funding-for-amrs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/2021/09/14/locus-Screen-Shot-2021-09-14-at-1.41.48-PM.png?height=635&t=1631652043&width=1200",
+          "width": 984,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-datarobots-new-ai-cloud-speeds-up-enterprise-machine-learning-projects.md",
+      "title": "DataRobot’s new AI Cloud speeds up enterprise machine learning projects",
+      "excerpt": "The startup says that the platform, AI Cloud, can function as the central hub for a company’s AI initiatives. It provides features for all the key coding and software deployment tasks involved in building machine learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/09/14/datarobots-new-ai-cloud-speeds-enterprise-machine-learning-projects/",
+      "originalUrl": "https://siliconangle.com/2021/09/14/datarobots-new-ai-cloud-speeds-enterprise-machine-learning-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/datarobot.png",
+          "width": 930,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-a-project-to-translate-engineering-books-into-hindi-vernacular-languages.md",
+      "title": "A project to translate engineering books into Hindi, vernacular languages",
+      "excerpt": "Using this AI-based translation engine developed by some ... a \"commendable initiative to translate technical books in Indian languages, which has the potential to unlock the intelligence and ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/articleshow/86199294.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/articleshow/86199294.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-86199506,width-1070,height-580,imgsize-1165802,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/amp_articleshow/86199294.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/amp_articleshow/86199294.cms",
+      "publishedDateTime": "2021-09-14T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-ambi-robotics-which-develops-robot-grasping-systems-raises-28m.md",
+      "title": "Ambi Robotics, which develops robot grasping systems, raises $28M",
+      "excerpt": "Ambi Robotics, a startup founded by UC Berkeley roboticist Ken Goldberg, has raised $26 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
+      "originalUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -554,9 +455,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/amp/",
-      "publishedDateTime": "2021-09-07T12:32:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
+      "publishedDateTime": "2021-09-14T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -579,135 +480,40 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-08-dell-technologies-brings-ai-to-the-edge.md",
-      "title": "Dell Technologies Brings AI To The Edge",
-      "excerpt": "Senior Analyst, Storage & Data, Steve McDowell, dives in as he recently had the opportunity to spend time with the edge and AI teams at Dell Technologies.",
+      "path": "_news/2021-09-14-aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-40.md",
+      "title": "AKA Announces Launch of New AI Social Robot “Musio S” and “Musio OS 4.0”",
+      "excerpt": "AKA announced that it has scheduled the official launch of Musio S and Musio OS 4.0 for September this year. Musio S is AKA’s second-generation reference social robot with an increased focus on usability.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/",
+      "webUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
+      "originalUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6137b7eaa277f5b45b08efda%2F0x0.jpg",
-          "width": 796,
-          "height": 438,
+          "url": "https://beta-kiosk.icrowdnewswire.com/assets/source/users/akaai/22263_33406_2437.jpg?1631499698671",
+          "width": 960,
+          "height": 698,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/09/07/dell-technologies-brings-ai-to-the-edge/amp/",
-      "publishedDateTime": "2021-09-07T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets.md",
-      "title": "Xilinx Showcases Powerful Adaptable Platform Solutions For Data Center, Medical, Robotics And Other Key Markets",
-      "excerpt": "It’s obvious, beyond the complementary product line synergies, why AMD was so interested in pursuing Xilinx for acquisition. This company has done more for demystifying the FPGA (Field Programmable Gate Array) and adaptive computing than many of its competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6137affbbaab67e32c274bcc%2F0x0.jpg",
-          "width": 1000,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
-      "publishedDateTime": "2021-09-07T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-cohere-raises-40-million-in-series-a-financing-to-make-natural-language-processing-safe-and.md",
-      "title": "Cohere Raises $40 Million in Series A Financing to Make Natural Language Processing Safe and ...",
-      "excerpt": "Cohere, a provider of cutting-edge natural language processing (NLP) models, announced today that it has raised $40 million in series A financing led by Index Ventures with participation from Section 32,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globenewswire.com/news-release/2021/09/07/2292856/0/en/Cohere-Raises-40-Million-in-Series-A-Financing-to-Make-Natural-Language-Processing-Safe-and-Accessible-to-Any-Business.html",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-canada-toronto-7db11d1e127439bf34d702a79d657681",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T11:37:00-07:00",
+      "publishedDateTime": "2021-09-14T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -717,26 +523,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Natural Language Processing"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-08-chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-account.md",
-      "title": "Chinese activist Ai Weiwei says Credit Suisse closing his foundation's bank account",
-      "excerpt": "Chinese dissident and artist Ai Weiwei has said Credit Suisse told him it was closing his foundation's bank account in Switzerland earlier this year citing his \"criminal record\" in China, despite the activist never being convicted of a crime.",
+      "path": "_news/2021-09-14-all-change-founders-out-and-new-ceo-in-at-gpu-based-storage-array-control-biz-nyriad.md",
+      "title": "All change: founders out and new CEO in at GPU-based storage array control biz Nyriad",
+      "excerpt": "New Zealand-based Nyriad has had a makeover, with the founders out, new chairman, new funding, new CEO, exec hires, and a relocation to the USA. Back in 2014 CEO Matthew Simmons and CTO Alex St John co-founded Nyriad and devised a different way to build a storage controller designed to cope with exabyte levels of",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/",
-      "originalUrl": "https://www.reuters.com/world/china/chinese-activist-ai-weiwei-says-credit-suisse-closing-his-foundations-bank-2021-09-07/",
+      "webUrl": "https://blocksandfiles.com/2021/09/14/all-change-new-ceo-and-founders-out-at-gpu-based-storage-array-control-biz-nyriad/",
+      "originalUrl": "https://blocksandfiles.com/2021/09/14/all-change-new-ceo-and-founders-out-at-gpu-based-storage-array-control-biz-nyriad/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/I_BS5SfdIYnPVyyfaDDT-E7u1xU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYGTH7NTYBKFJAO2EI2AAHXVSU.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://blocksandfiles.com/wp-content/uploads/2021/09/ronnie_barker_1.jpg",
+          "width": 648,
+          "height": 429,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -746,21 +552,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T10:57:00-07:00",
+      "publishedDateTime": "2021-09-14T08:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "blocksandfiles",
+        "domain": "blocksandfiles.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -769,26 +566,69 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Finance"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-07-announcing-the-amazon-s3-plugin-for-pytorch.md",
-      "title": "Announcing the Amazon S3 plugin for PyTorch",
-      "excerpt": "Amazon S3 plugin for PyTorch is an open-source library which is built to be used with the deep learning framework PyTorch for streaming data from Amazon Simple Storage Service (Amazon S3). With this feature available in PyTorch Deep Learning Containers, you can take advantage of using data from S3 buckets",
+      "path": "_news/2021-09-14-ai-hampered-by-public-perception-ethics-concerns.md",
+      "title": "AI hampered by public perception, ethics concerns",
+      "excerpt": "A panel of experts thrashed-out key barriers facing the development of AI products and features in Russia and beyond.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/",
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
+      "publishedDateTime": "2021-09-14T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
+      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
+      "excerpt": "All of Huayan's assets, including the Heartbeat platform, its employees and its operations will be transferred to Peak's Xinxiang Technologies Ltd. subsidiary (\"Xinxiang\"), which was created in the second quarter of 2021 specifically to help bring insurance related products and services to members of Peak's Business Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
+          "width": 323,
+          "height": 235,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -798,64 +638,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T10:24:47-07:00",
+      "publishedDateTime": "2021-09-14T07:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-9-reasons-why-fintech-will-take-over-the-banking-industry.md",
-      "title": "9 Reasons Why Fintech Will Take Over The Banking Industry",
-      "excerpt": "The introduction of Fintech or financial technology was back in the 1950s when credit cards came into existence. Next, internet",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/",
-      "originalUrl": "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/09/what-is-fintech.jpeg",
-          "width": 990,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/why-fintech-will-take-over-the-banking-industry/?amp=1",
-      "publishedDateTime": "2021-09-07T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -870,21 +657,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-07-intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year.md",
-      "title": "Intel’s Mobileye, rental giant Sixt to launch a robotaxi service in Germany next year",
-      "excerpt": "Intel subsidiary Mobileye and rental car giant Sixt SE plan to launch a robotaxi service in Munich next year, the CEOs of the two companies announced Tuesday during the IAA Mobility show in Germany. The robotaxi service is leveraging all of Intel’s,",
+      "path": "_news/2021-09-14-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
+      "title": "Robot vacuums are learning to avoid dog poop. But that’s not all they can see.",
+      "excerpt": "Robot's new robot vacuum uses a front-facing camera and artificial intelligence to deftly maneuver your home. However these tools require more data.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/",
-      "originalUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/",
+      "webUrl": "https://www.washingtonpost.com/technology/2021/09/14/roomba-ai-vacuum-dog-poop/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/09/14/roomba-ai-vacuum-dog-poop/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Mobileye-Robotaxi-Tel-Aviv-2.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HDXFKGT55RHXJJKXPPKBQLAIXY.jpg&w=1440",
+          "width": 1440,
+          "height": 1440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -892,16 +679,180 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/",
-      "publishedDateTime": "2021-09-07T08:38:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-ibm-watson-set-up-new-ai-and-automations.md",
+      "title": "IBM Watson Set Up New AI and Automations",
+      "excerpt": "IBM (NYSE: IBM) today declare the set up of new AI and automation ability in IBM Watson Assistant plan to make it easier for businesses to create intensify customer service experiences over any channe",
+      "sourceUrl": null,
+      "webUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
+      "originalUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2021/09/vishwanath.png?fit=610%2C380&ssl=1",
+          "width": 610,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NETGEAR",
+        "domain": "smechannels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-new-ai-writes-computer-code-still-not-skynet-but-its-learning.md",
+      "title": "New AI Writes Computer Code: Still Not Skynet, But It’s Learning",
+      "excerpt": "Sometimes, when you feed an AI content from the Internet, it learns natural language. Sometimes, it reads the entire contents of GitHub and learns to produce simple snippets of code. This is the story of what happens when the AI does both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
+      "originalUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2015/12/Brain-Machine-2.jpg",
+          "width": 1710,
+          "height": 952,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-taking-lessons-from-a-sea-slug-study-points-to-better-hardware-for-artificial-intelligence.md",
+      "title": "Taking lessons from a sea slug, study points to better hardware for artificial intelligence",
+      "excerpt": "For artificial intelligence to get any smarter, it needs first to be as intelligent as one of the simplest creatures in the animal kingdom: the sea slug.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.html",
+      "originalUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/taking-lessons-from-a.jpg",
+          "width": 2880,
+          "height": 1917,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.amp",
+      "publishedDateTime": "2021-09-14T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Vade for Microsoft 365 is now available in the Microsoft Azure Marketplace",
+      "excerpt": "Vade, a global leader in AI-based threat detection, user awareness and incident response with one billion protected mailboxes worldwide, today announced the availability of Vade for Microsoft 365 in the Microsoft Azure Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace-1030798229",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace-1030798229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -917,25 +868,26 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-07-vw-will-deploy-argo-ai-powered-autonomous-idbuzz-vans.md",
-      "title": "VW will deploy Argo AI-powered autonomous ID.Buzz vans",
-      "excerpt": "Volkswagen announced it will begin testing self-driving, ID.Buzz-based electric shuttles in 2025. Powered by Argo AI, a Pittsburgh-based company the firm holds a stake in, the vans will begin carrying users in Hamburg.",
+      "path": "_news/2021-09-14-dotdata-and-tableau-partner-to-accelerate-augmented-and-predictive-analytics-for-the-business-intelligence-community.md",
+      "title": "dotData and Tableau Partner to Accelerate Augmented and Predictive Analytics for the Business Intelligence Community",
+      "excerpt": "As a result of this partnership, Tableau users will be able to build customized predictive analytics solutions faster and more easily. By combining Tableau’s data preparation and visualization capabilities with dotData’s augmented insights discovery and predictive modeling capabilities,",
       "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/vw-will-deploy-argo-ai-powered-autonomous-id-buzz-vans/ar-AAObKqM",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/09/06001634/volkswagen-argo-ai-id-buzz-4.jpg",
-          "width": 1062,
-          "height": 597,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -943,13 +895,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "publishedDateTime": "2021-09-07T07:12:03-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-        "domain": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -959,25 +911,26 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-07-personalizing-price-with-ai-how-walmart-kroger-do-it.md",
-      "title": "Personalizing Price With AI: How Walmart, Kroger Do It",
-      "excerpt": "In 2020, nearly 60% of retailers said they planned to use artificial intelligence for their pricing strategies by the end of 2021. The results of these efforts, in terms of pricing at the individual level,",
+      "path": "_news/2021-09-14-this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity.md",
+      "title": "This Indian company is tapping into the huge autonomous driving opportunity",
+      "excerpt": "Be it artificial intelligence (AI), 5G ... Global companies such as Tesla and Waymo are leading the race when it comes to automated driving. But what about Indian companies?",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
-      "originalUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
+      "webUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
+      "originalUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612fb1dc40ef6a756615be55%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://images.livemint.com/img/2021/09/14/600x338/car-kHv--621x414@LiveMint_1631620785356.jpg",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -985,9 +938,52 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
-      "publishedDateTime": "2021-09-07T07:11:00-07:00",
+      "ampWebUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
+      "publishedDateTime": "2021-09-14T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-the-view-from-the-ai-hw-summit-what-was-the-best-ai-hw-in-2021.md",
+      "title": "The View From The AI HW Summit: What Was The Best AI HW In 2021?",
+      "excerpt": "You can view my full presentation here for those with an interest. Each of the following are covered briefly in the presentation link. Its hard to pick just 10 news items from the last year, but here’s my top-of-mind list of hardware and software in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613797c2915d9892cb74af55%2F0x0.jpg",
+          "width": 1124,
+          "height": 1060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1010,49 +1006,32 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-07-to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai.md",
-      "title": "To succeed in the metaverse, brands must embrace empathetic CX and humanized AI",
-      "excerpt": "Every brand needs to planning how its digital incarnation is going to look, sound, act, and most importantly for brands…feel.",
+      "path": "_news/2021-09-14-aci-worldwide-ranked-in-the-top-20-largest-global-providers-of-financial-technology-by-idc-fintech-rankings.md",
+      "title": "ACI Worldwide Ranked in the Top 20 Largest Global Providers of Financial Technology by IDC FinTech Rankings",
+      "excerpt": "ACI Worldwide, a leading global provider of real-time payments and digital payment software solutions, today announced its ranking in the IDC (News - Alert) Financial Insights 2021 FinTech Rankings. ACI is ranked 19 on this international list of financial technology companies that were judged according to their global revenues attributed to financial institutions.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/",
-      "originalUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-01-at-9.44.44-AM.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/amp/",
-      "publishedDateTime": "2021-09-07T07:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1061,25 +1040,26 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-07-everything-ai-and-robotics-at-techcrunch-disrupt-2021.md",
-      "title": "Everything AI and robotics at TechCrunch Disrupt 2021",
-      "excerpt": "AI is everywhere in tech, and you can bet it will be a vital topic at TechCrunch Disrupt 2021 on 21-23. It’s the driving force behind just about everything from rockets, robotics and customer service to deep science and autonomous vehicles.",
+      "path": "_news/2021-09-14-logistics-robotics-startup-ambi-raises-26m.md",
+      "title": "Logistics robotics startup Ambi raises $26M",
+      "excerpt": "Ambi Robotics emerged from stealth with a $6 million raise. Today the Bay Area-based firm is back with several times that, announcing a $26 million Series A, led by Tiger Global. The new round also features participation from existing investors,",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
-      "originalUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
+      "webUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
+      "originalUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Disrupt-Robotics.png?w=1024",
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Ambi-Robotics_Founders-1.jpg?w=1024",
           "width": 1024,
-          "height": 504,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1087,9 +1067,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
-      "publishedDateTime": "2021-09-07T07:09:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
+      "publishedDateTime": "2021-09-14T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1112,102 +1092,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better.md",
-      "title": "Deep Learning Artificial Intelligence Predicts Breast Cancer Risk Better",
-      "excerpt": "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/",
-      "originalUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Mammogram-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/",
-      "publishedDateTime": "2021-09-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-tesla-tsla-full-self-driving-beta-software-has-leaked.md",
-      "title": "Tesla (TSLA) Full Self-Driving Beta software has leaked",
-      "excerpt": "Beta software has leaked, and it’s being passed around in the Tesla hacking community. Fortunately, it’s not for any nefarious reason. As of now, Tesla’s FSD Beta software is only being tested internally and as part of the automaker’s “early access program,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "originalUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-leak-FSD-firmware.jpg?resize=1200%2C628&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "publishedDateTime": "2021-09-07T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     }

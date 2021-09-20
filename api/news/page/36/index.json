@@ -2,21 +2,21 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2021-08-12-deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028.md",
-      "title": "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028",
-      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period.",
+      "path": "_news/2021-08-18-qualcomm-launches-5g-ai-enabled-drone-platform.md",
+      "title": "Qualcomm launches 5G, AI-enabled drone platform",
+      "excerpt": "The Qualcomm Flight RB5 5G platform accelerates and scales development for drone manufacturers to deliver powerful enterprise and industrial 5G drones.",
       "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
+      "webUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/",
+      "originalUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg",
-          "width": 390,
-          "height": 220,
+          "url": "https://www.gpsworld.com/wp-content/uploads/2021/08/Qualcomm-Flight-RB5-PP.jpg",
+          "width": 620,
+          "height": 285,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
-      "publishedDateTime": "2021-08-12T08:25:00-07:00",
+      "ampWebUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/amp/",
+      "cdnAmpWebUrl": "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/amp/",
+      "publishedDateTime": "2021-08-17T12:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
+        "name": "GPS World",
+        "domain": "gpsworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,119 +40,187 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup.md",
-      "title": "Dalhousie University’s AI robotics team wins gold in RoboCup",
-      "excerpt": "The Dalhousie University's AI robotics team, CYRUS, has become the first Canadian team to win gold in the international RoboCup competition. Team CYRUS, led by research assistant Nader Zare and PhD student Mahtab Sarvmaili,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "originalUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/GettyImages-637794534.jpg",
-          "width": 836,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/dalhousie-universitys-ai-robotics-team-wins-gold-in-robocup/456872?amp=1",
-      "publishedDateTime": "2021-08-12T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-12-engineering-students-makes-driverless-car-using-ai-maharashtra.md",
-      "title": "Engineering Students Makes Driverless Car Using AI: Maharashtra",
-      "excerpt": "Maharashtra`s Pune-based engineering students of a private university have developed a Driverless autonomous electric four-wheeler with the help of Artificial Intelligence. They mentioned the use for reducing accidents and deaths caused by human errors.",
+      "path": "_news/2021-08-18-noodleai-is-now-an-aws-advanced-technology-partner.md",
+      "title": "Noodle.ai is now an AWS Advanced Technology Partner",
+      "excerpt": "Noodle.ai is tackling the industry's toughest demand, inventory, and production challenges, leveraging AWS's infrastructure",
       "sourceUrl": null,
-      "webUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
-      "originalUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nyoooz.com/uploads/nyoooz-images/maxresdefault49.jpg",
-          "width": 800,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
-      "cdnAmpWebUrl": "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
-      "publishedDateTime": "2021-08-12T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nyoooz.com",
-        "domain": "nyoooz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-graph-based-natural-language-processing-and-information-retrieval.md",
-      "title": "Graph-based Natural Language Processing and Information Retrieval",
-      "excerpt": "Graph theory and the fields of natural language processing and information retrieval are well-studied disciplines. Traditionally, these areas have been perceived as distinct, with different algorithms, different applications and different potential end-users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/gm/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval?format=HB&isbn=9780521896139",
-      "originalUrl": "https://www.cambridge.org/gm/academic/subjects/computer-science/artificial-intelligence-and-natural-language-processing/graph-based-natural-language-processing-and-information-retrieval?format=HB&isbn=9780521896139",
+      "webUrl": "https://www.kmworld.com/Articles/News/News/Noodle.ai-is-now-an-AWS-Advanced-Technology-Partner-148475.aspx",
+      "originalUrl": "https://www.kmworld.com/Articles/News/News/Noodle.ai-is-now-an-AWS-Advanced-Technology-Partner-148475.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T07:05:00-07:00",
+      "publishedDateTime": "2021-08-17T12:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-optimize-personalized-recommendations-for-a-business-metric-of-your-choice-with-amazon-personalize.md",
+      "title": "Optimize personalized recommendations for a business metric of your choice with Amazon Personalize",
+      "excerpt": "Amazon Personalize now enables you to optimize personalized recommendations for a business metric of your choice, in addition to improving relevance of recommendations for your users. You can define a business metric such as revenue, profit margin, video watch time, or any other numerical attribute of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-personalized-recommendations-for-a-business-metric-of-your-choice-with-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-personalized-recommendations-for-a-business-metric-of-your-choice-with-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/12/5131-1.jpg",
+          "width": 800,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T11:47:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-innovating-with-artificial-intelligence.md",
+      "title": "Innovating With Artificial Intelligence",
+      "excerpt": "It’s been a while since I talked about artificial intelligence — mainly because those articles started to die down or I started reading the same thing over and over. Then other topics emerged within the markets and current events sort of shifted the conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
+      "originalUrl": "https://www.wealthdaily.com/articles/innovating-with-artificial-intelligence/99838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.angelpub.com/2017/39/46975/monica-savaglia-signature-park-avenue-digest.png",
+          "width": 300,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
+      "cdnAmpWebUrl": "https://www-wealthdaily-com.cdn.ampproject.org/c/s/www.wealthdaily.com/amp/articles/innovating-with-artificial-intelligence/99838",
+      "publishedDateTime": "2021-08-17T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wealth Daily",
+        "domain": "wealthdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-accerns-no-code-ai-platform-can-speed-analytics-in-financial-services.md",
+      "title": "Accern’s No-Code AI Platform Can Speed Analytics In Financial Services",
+      "excerpt": "Accern, which has more than a library of use cases available for immediate deployment across financial services firms, says templates can reduce the need for customer data scientist-led analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/08/17/accerns-no-code-ai-platform-can-speed-analytics-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://secure.gravatar.com/avatar/a1949b2c32bb572c7030dac004c2af03?s=400&d=mm&r=g",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -166,55 +234,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-12-robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc.md",
-      "title": "Robotics Startup Miko Raises $28 Mn In Series B Round led by IIFL AMC",
-      "excerpt": "Miko has raised $28 Mn in Series B funding led by IIFL AMC, Mankind Pharma Family Office, Aroa Ventures, and a clutch of global investors",
+      "path": "_news/2021-08-18-intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week.md",
+      "title": "Intel teases reveal of Arc's AI-powered DLSS Super Sampling alternative this week",
+      "excerpt": "Intel appears ready to announce its new AI-powered super sampling GPU technology later this week in a direct challenge to Nvidia's DLSS dominance in the PC gaming market. Anton Kaplanyan, Intel's VP of Graphics Research,",
       "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/",
-      "originalUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/",
+      "webUrl": "https://www.techradar.com/nz/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
+      "originalUrl": "https://www.techradar.com/nz/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/robotics-startup-miko-raises-28-mn-in-series-b-round-led-by-iifl-amc/amp/",
-      "publishedDateTime": "2021-08-12T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-tensorflow-with-sagemaker-on-pycharm.md",
-      "title": "TensorFlow with SageMaker on Pycharm",
-      "excerpt": "Amazon SageMaker is a fully managed machine learning service. With SageMaker, data scientists and developers can quickly and easily build and train machine learning models, and then directly deploy them into a production-ready hosted environment.",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/cuiIRISA/tensorflow-sagemaker-on-pycharm",
-      "originalUrl": "https://github.com/cuiIRISA/tensorflow-sagemaker-on-pycharm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://opengraph.githubassets.com/e5ec5167890468b13dc4d9605fad637bbfc0da92cc1285e4cb07019d33ffe4c6/cuiIRISA/tensorflow-sagemaker-on-pycharm",
+          "url": "https://cdn.mos.cms.futurecdn.net/Zz5WnbkRM7bZ9mGtE7sGZG-1200-80.png",
           "width": 1200,
-          "height": 600,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -222,103 +256,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T06:39:00-07:00",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
+      "publishedDateTime": "2021-08-17T10:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion.md",
-      "title": "Il Makiage acquires technology company Voyage81 to bolster its brand expansion",
-      "excerpt": "Il Makiage announced it will acquire AI-based computational imaging company Voyage81 to build the brand's technological capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/",
-      "originalUrl": "https://www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.glossy.co/wp-content/uploads/2020/12/ilmakiage_62394383_2286538698342220_6311769983673958330_n-1.jpg?fit=1280%2C766&zoom=2&quality=100&strip=all&ssl=1",
-          "width": 1280,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/amp/",
-      "cdnAmpWebUrl": "https://www-glossy-co.cdn.ampproject.org/c/s/www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/amp/",
-      "publishedDateTime": "2021-08-12T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glossy.co",
-        "domain": "glossy.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers.md",
-      "title": "KeepTruckin uses Ambarella AI chips to monitor truck drivers",
-      "excerpt": "KeepTruckin will use Ambarella AI processors in its dashboard camera that can monitor both road conditions and driver awareness.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/",
-      "originalUrl": "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/truck-Combined-Product-Photo_Ambarella-KeepTruckin-—-Under-Embargo-Until-Aug.-12-2021.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/amp/",
-      "publishedDateTime": "2021-08-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechRadar",
+        "domain": "techradar.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -339,21 +286,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-12-motivo-raises-125m-series-a-to-speed-up-chip-design-with-ai.md",
-      "title": "Motivo raises $12.5M Series A to speed up chip design with AI",
-      "excerpt": "Chip design is a long slog of trial and error, taking years to bring a design to market. Motivo, a five year old startup from a chip industry veteran is creating software to speed up chip design from years to months using AI.",
+      "path": "_news/2021-08-17-closedloopai-nets-34m-in-series-b-funding-round.md",
+      "title": "ClosedLoop.ai Nets $34M In Series B Funding Round",
+      "excerpt": "ClosedLoop.ai., a healthcare platform powered by artificial intelligence, on Tuesday (Aug. 17) announced it has raised $34 million in Series B funding.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/",
-      "originalUrl": "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/",
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1095112402.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/healthcare-telehealth-5G-JPMorgan-457x274.jpg",
+          "width": 457,
+          "height": 274,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -361,127 +308,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/amp/",
-      "publishedDateTime": "2021-08-12T06:27:00-07:00",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/",
+      "publishedDateTime": "2021-08-17T09:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global.md",
-      "title": "Fintech Platform FUSE Autotech Raises $10M in Series A Funding Led by Target Global",
-      "excerpt": "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1593214/Logo_FUSEAutotech_Primary_ID_0fdecb7cdd63_Logo.jpg",
-          "width": 400,
-          "height": 295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps.md",
-      "title": "Artificial Intelligence For Social Inclusion: Technologies And Necessary Steps",
-      "excerpt": "For those who develop technology, it is essential not only to think about usability but increasingly about accessibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61140c2e210c118b1901925f%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
-      "publishedDateTime": "2021-08-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -494,21 +328,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-12-bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto.md",
-      "title": "Bell 5G powers Tiny Mile food delivery robots in downtown Toronto",
-      "excerpt": "Canadian AI tech start-up leveraging Bell 5G to deliver food to downtown residents MONTRÉAL,  /CNW Telbec/ - Bell today announced a",
+      "path": "_news/2021-08-17-use-block-kit-when-integrating-amazon-lex-bots-with-slack.md",
+      "title": "Use Block Kit when integrating Amazon Lex bots with Slack",
+      "excerpt": "If you’re integrating your Amazon Lex chatbots with Slack, chances are you’ll come across Block Kit. Block Kit is a UI framework for Slack apps. Like response cards, Block Kit can help simplify interactions with your users. It offers flexibility to format your bot messages with blocks, buttons, check",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto-1030724079",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto-1030724079",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-integrating-amazon-lex-bots-with-slack/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-integrating-amazon-lex-bots-with-slack/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1593141/Bell_Canada_Bell_5G_powers_Tiny_Mile_food_delivery_robots_in_dow.jpg",
-          "width": 400,
-          "height": 267,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/04/ML-2976-image001.jpg",
+          "width": 795,
+          "height": 389,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -518,14 +352,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T05:18:00-07:00",
+      "publishedDateTime": "2021-08-17T08:48:37-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -541,387 +375,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp.md",
-      "title": "UK Regtech Shield Introduces Alert Transparency Capabilities by Leveraging AI, NLP",
-      "excerpt": "UK Regtech firm Shield has introduced Alert Transparency Capabilities by leveraging AI and natural language processing or NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Regtech-in-the-UK-300x222.jpg",
-          "width": 300,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
-      "publishedDateTime": "2021-08-12T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
-        "Natural Language Processing"
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2021-08-12-14-tech-specialties-that-may-soon-be-obsolete.md",
-      "title": "14 Tech Specialties That May Soon Be Obsolete",
-      "excerpt": "The tech industry evolves rapidly, so knowing what skills the industry needs right now—and what skills may soon be obsolete—improves a budding tech professional’s options.",
+      "path": "_news/2021-08-17-conga-buys-ai-startup-that-helps-companies-understand-how-contracts-will-affect-revenue.md",
+      "title": "Conga buys AI startup that helps companies understand how contracts will affect revenue",
+      "excerpt": "Revenue operations company AppExtremes LLC, which does business as Conga, is boosting its contract management capabilities by acquiring a startup called Contract Wrangler Inc. for an undisclosed price.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/",
+      "webUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
+      "originalUrl": "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6114367789fc7b23d586cb13%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/amp/",
-      "publishedDateTime": "2021-08-12T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-il-makiage-acquires-leading-israeli-computer-vision-startup-voyage81.md",
-      "title": "IL MAKIAGE Acquires Leading Israeli Computer Vision Startup Voyage81",
-      "excerpt": "IL MAKIAGE, the fastest growing beauty company in the U.S., today announces the acquisition of Voyage81, a deep-tech AI-based computational imaging startup. IL MAKIAGE’s acquisition of Voyage81 will enable the company to use Voyage81’s patented hyperspectral imaging systems to further enhance the company’s machine learning capabilities and aligns with IL MAKIAGE’s commitment to continue innovating and revolutionizing the beauty and wellness industries at-large.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-business-israel-6ff56fede6dd48878405d62b70391e57",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-business-israel-6ff56fede6dd48878405d62b70391e57",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-jll-to-acquire-artificial-intelligence-leader-skyline-ai.md",
-      "title": "JLL to Acquire Artificial Intelligence Leader Skyline AI",
-      "excerpt": "The acquisition will allow JLL clients to “better predict future property values, improve cost savings, identify promising investment opportunities and make critical business decisions.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/",
-      "originalUrl": "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.globest.com/contrib/content/uploads/sites/304/2021/01/deal-making-resize.jpg",
-          "width": 621,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1",
-      "cdnAmpWebUrl": "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1",
-      "publishedDateTime": "2021-08-12T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeSt.com",
-        "domain": "globest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-you-told-us-you-arent-too-enthusiastic-about-your-phones-ai-camera-modes.md",
-      "title": "You told us: You aren't too enthusiastic about your phone's AI camera modes",
-      "excerpt": "Most Android Authority readers and followers are not very enthusiastic about AI modes on their phone's camera.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/",
-      "originalUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Honor-9X-AI-camera.jpg",
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/writing-1149962_1920.jpg",
           "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/",
-      "publishedDateTime": "2021-08-12T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-update-3-baidu-quarterly-results-top-estimates-on-ad-sales-ai-demand.md",
-      "title": "UPDATE 3-Baidu quarterly results top estimates on ad sales, AI demand",
-      "excerpt": "Baidu Inc's quarterly results topped Wall Street estimates on Thursday, as the Chinese search giant benefited from a rebound in advertising sales and higher demand for its artificial intelligence and cloud products.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.yahoo.com/news/1-baidu-revenue-tops-estimates-100443815.html",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/update-3-baidu-quarterly-results-top-estimates-on-ad-sales-ai-demand/ar-AANeGX4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://finance.yahoo.com/amphtml/news/1-baidu-revenue-tops-estimates-100443815.html",
-      "cdnAmpWebUrl": "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/1-baidu-revenue-tops-estimates-100443815.html",
-      "publishedDateTime": "2021-08-12T03:04:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/news/1-baidu-revenue-tops-estimates-100443815.html",
-        "domain": "com/news/1-baidu-revenue-tops-estimates-100443815.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-scaler-academy-launches-new-course-in-data-science-and-machine-learning.md",
-      "title": "Scaler Academy launches new course in data science and machine learning",
-      "excerpt": "The company said that the program had been designed based on a survey conducted by the company with around 100 data scientists working in leading tech and product firms worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1756969,msid-85267628/edtech.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms",
-      "publishedDateTime": "2021-08-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-robotics-automation-to-increase-global-economy-by-16trn.md",
-      "title": "Robotics, Automation To Increase Global Economy By $16trn",
-      "excerpt": "Experts have projected that artificial intelligence (AI) will contribute $16 trillion to global economy in 2030, adding that the current advancement in",
-      "sourceUrl": null,
-      "webUrl": "https://leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/",
-      "originalUrl": "https://leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://leadership.ng/wp-content/uploads/2019/04/artificial-intelligence.jpeg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/amp/",
-      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/amp/",
-      "publishedDateTime": "2021-08-12T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LEADERSHIP Newspaper",
-        "domain": "leadership.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-autonomous-vehicle-safety-increased-by-use-of-multiple-sensors-in-an-aggregate-technology.md",
-      "title": "Autonomous vehicle safety increased by use of multiple sensors in an aggregate technology",
-      "excerpt": "Sensor fusion technology is one example of such an approach that combines multiple dedicated sensors to form a single, more precise image of a vehicle’s exterior environment. Think of it in human terms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorward.com/2021/08/autonomous-vehicle-safety-increased-by-use-of-multiple-sensors-in-an-aggregate-technology/",
-      "originalUrl": "https://www.motorward.com/2021/08/autonomous-vehicle-safety-increased-by-use-of-multiple-sensors-in-an-aggregate-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motorward.com/wp-content/images/2021/08/Sensor-Fusion-730x416.jpg",
-          "width": 730,
-          "height": 416,
+          "height": 1281,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -931,11 +404,53 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T00:48:00-07:00",
+      "publishedDateTime": "2021-08-17T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Motorward",
-        "domain": "motorward.com",
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-western-states-face-first-federal-water-cuts-ap-explainer.md",
+      "title": "Western States Face First Federal Water Cuts: AP Explainer",
+      "excerpt": "Federal officials said Monday's declaration makes clear that conditions have intensified faster than scientists predicted.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/us/across-america/western-states-face-first-federal-water-cuts-ap-explainer",
+      "originalUrl": "https://patch.com/us/across-america/western-states-face-first-federal-water-cuts-ap-explainer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/ap/22940811/20210817/112329/styles/patch_image/public/ap21226282799514___17112200420.jpg?width=984",
+          "width": 911,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/us/across-america/amp/29790439/western-states-face-first-federal-water-cuts-ap-explainer",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/across-america/amp/29790439/western-states-face-first-federal-water-cuts-ap-explainer",
+      "publishedDateTime": "2021-08-17T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -950,21 +465,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-12-global-statistical-natural-language-processing-market-estimated-to-grow-with-cagr-of-181-eon-market-research.md",
-      "title": "Global Statistical Natural Language Processing Market Estimated to Grow with CAGR of 18.1% – Eon Market Research",
-      "excerpt": "Aug 12, 2021 (Market Insight Reports) -- The new research report providing an intensive analysis of the Global Statistical Natural Language Processing Market which peaks the market size ...",
+      "path": "_news/2021-08-17-ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare.md",
+      "title": "AI in Medical Imaging Diagnosis Market Is Booming Worldwide | GE Healthcare, IBM Watson Health, Philips Healthcare",
+      "excerpt": "Our report will be revised to address COVID-19 pre-Post pandemic effects on the Global AI in Medical Imaging Diagnosis Market. Click to get Global AI in Medical Imaging Diagnosis Market Research Free Sample PDF Copy Here Before Purchase @: jcmarketresearch.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-statistical-natural-language-processing-market-estimated-to-grow-with-cagr-of-181-eon-market-research-2021-08-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-statistical-natural-language-processing-market-estimated-to-grow-with-cagr-of-181-eon-market-research-2021-08-12",
+      "webUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
+      "originalUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/global-silicone-swimming-caps-market-390x220.png",
+          "width": 390,
+          "height": 220,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -972,23 +487,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T23:21:00-07:00",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-medical-imaging-diagnosis-market-is-booming-worldwide-ge-healthcare-ibm-watson-health-philips-healthcare/?amp=1",
+      "publishedDateTime": "2021-08-17T08:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -997,27 +503,124 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2021-08-12-spell-introduces-mlops-for-deep-learning.md",
-      "title": "Spell introduces MLOps for deep learning",
-      "excerpt": "Deep learning model development and management drives special requirements, especially around the provisioning of hardware. Spell introduced a machine learning operations (MLOps) platform last week that caters to these very needs.",
+      "path": "_news/2021-08-17-moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all.md",
+      "title": "MOLOCO Closes $150 Million Series C Financing Led by Tiger Global to Bring Transparent Machine Learning Algorithms to All",
+      "excerpt": "He founded MOLOCO with the vision of making sophisticated machine learning algorithms available as a cloud service to a wide variety of businesses, industries and use cases. MOLOCO Cloud is a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
-      "originalUrl": "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/",
+      "webUrl": "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/moloco-closes-150-million-series-c-financing-led-by-tiger-global-to-bring-transparent-machine-learning-algorithms-to-all-301356860.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/",
-      "publishedDateTime": "2021-08-11T23:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media.md",
+      "title": "This App Urges Gen Z to Talk It Out Privately, Not Overshare on Social Media",
+      "excerpt": "Mental health apps abound, but with evrmore, the idea is to receive support from the app's cocktail of AI, machine learning, and natural language processing rather than the dopamine drip of social media validation.",
+      "sourceUrl": null,
+      "webUrl": "https://in.pcmag.com/mobile-apps/144335/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
+      "originalUrl": "https://in.pcmag.com/mobile-apps/144335/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/t/this-app-u/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare_n7eb.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-when-your-teacher-is-an-ai-avatar.md",
+      "title": "When your teacher is an AI avatar",
+      "excerpt": "Natalie Monbiot, head of strategy at Hour One, explains to Tonya Hall how digital avatars could expand the reach of online education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
+      "originalUrl": "https://www.zdnet.com/video/when-your-teacher-is-an-ai-avatar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/17/7a1c3acf-bd9b-49cf-b428-a124026eb375/thumbnail/770x578/cf74f2a944f82fd6bc4128ea1210553f/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T07:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1040,17 +643,250 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-12-edcast-announces-new-myguide-features-using-ibm-cloud-and-watson-technologies-to-power-its-intelligent-digital-adoption-solution.md",
-      "title": "EdCast Announces New MyGuide Features Using IBM Cloud and Watson Technologies to Power its Intelligent Digital Adoption Solution",
-      "excerpt": "EdCast announced today that its digital adoption platform, MyGuide by EdCast, has now launched new self-serve support features utilizing the advanced AI capabilities of IBM Watson to bring future-ready conversational capabilities to enterprises.",
+      "path": "_news/2021-08-17-noodleai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers.md",
+      "title": "Noodle.ai Joins AWS Partner Network to Build Supply Chain Resiliency for CPG Customers",
+      "excerpt": "Noodle.ai, the leading provider of Flow Operations (FlowOps) software, today announced it has become an Amazon Web Services (AWS) Advanced Technology Partner to drive scale and efficiency for the supply chains of global consumer packaged goods (CPG) companies.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-47006ff626874312951cad137b0df094",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-47006ff626874312951cad137b0df094",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/noodle-ai-joins-aws-partner-network-to-build-supply-chain-resiliency-for-cpg-customers-1030737980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-the-great-misunderstanding-at-the-core-of-facial-recognition.md",
+      "title": "The great misunderstanding at the core of facial recognition",
+      "excerpt": "For researchers in this field, recognition is a matter of detection and classification. Or, as the textbook Machine Vision states, “The object recognition problem can be defined as a labeling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90666477/facial-recognition-misunderstanding",
+      "originalUrl": "https://www.fastcompany.com/90666477/facial-recognition-misunderstanding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-facial-recognition-misunderstanding.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas.md",
+      "title": "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS",
+      "excerpt": "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas",
+      "originalUrl": "https://seekingalpha.com/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3731423-avaya-integrates-microsoft-azure-capabilities-into-its-onecloud-cpaas",
+      "publishedDateTime": "2021-08-17T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-meet-the-self-driving-brains-inside-volkswagen-and-ford.md",
+      "title": "Meet the self-driving brains inside Volkswagen and Ford",
+      "excerpt": "Argo AI CEO Bryan Salesky on a new partnership with Lyft and setting realistic expectations for self-driving cars Today I’m talking to Bryan Salesky, the co-founder and CEO of Argo AI, a startup that’s trying to build the tech stack for self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "originalUrl": "https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/lFSsTemb8UgU8HixrqnmF7Z3krA=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69735919/VRG_ILLO_Decoder_ARGO_AI_s.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "publishedDateTime": "2021-08-17T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-ai-powered-travel-tech-platform-hopper-raises-175m.md",
+      "title": "AI-powered travel tech platform Hopper raises $175M",
+      "excerpt": "Hopper, the AI-powered predictive airfare and hotel rate platform, has raised $170 million in a series G round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/",
+      "originalUrl": "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Hopper-Cofounders-Joost-Ouwerkerk-Frederic-Lalonde..jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/",
+      "publishedDateTime": "2021-08-17T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-deep-6-ai-announces-release-of-trial-recommender.md",
+      "title": "Deep 6 AI Announces Release of Trial Recommender",
+      "excerpt": "Deep 6 AI today announced the addition of Trial Recommender to its industry-leading artificial intelligence (AI)-driven clinical trial acceleration platform. Addressing a major gap in traditional patient recruitment,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-bbc477d60e474a5aa011a0d5bbf54fd1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1069,7 +905,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T22:20:00-07:00",
+      "publishedDateTime": "2021-08-17T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",
@@ -1083,26 +919,26 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-12-ai-pharma-startup-xtalpi-nets-usd-400-million-in-series-d-round-to-accelerate-drug-discovery.md",
-      "title": "AI pharma startup XtalPi nets USD 400 million in Series D round to accelerate drug discovery",
-      "excerpt": "AI pharma startup XtalPi nets USD 400 million in Series D round to accelerate drug discovery. It provides AI to pharma companies to enhance new drug R&D.",
+      "path": "_news/2021-08-17-happify-health-and-higi-partner-to-create-an-ai-driven-patient-engagement-ecosystem-that-makes-value-based-healthcare-accessible-worldwide.md",
+      "title": "Happify Health and Higi Partner to Create an AI-Driven Patient-Engagement Ecosystem that Makes Value-Based Healthcare Accessible Worldwide",
+      "excerpt": "Higi and Happify Health announced plans to build a connected patient ecosystem that uses Happify Health’s AI and digital therapeutics to deliver personalized care through Higi’s omni-channel distribution network.",
       "sourceUrl": null,
-      "webUrl": "https://kr-asia.com/ai-pharma-startup-xtalpi-nets-usd-400-million-in-series-d-round-to-accelerate-drug-discovery",
-      "originalUrl": "https://kr-asia.com/ai-pharma-startup-xtalpi-nets-usd-400-million-in-series-d-round-to-accelerate-drug-discovery",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/happify-health-and-higi-partner-to-create-an-ai-driven-patient-engagement-ecosystem-that-makes/article_8a8bd147-d013-51c7-91b0-810767a7f648.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/happify-health-and-higi-partner-to-create-an-ai-driven-patient-engagement-ecosystem-that-makes/article_8a8bd147-d013-51c7-91b0-810767a7f648.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://console.kr-asia.com/wp-content/uploads/2020/08/freestocks-nss2eRzQwgw-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg",
+          "width": 640,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1112,12 +948,201 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T21:14:00-07:00",
+      "publishedDateTime": "2021-08-17T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "kr-asia",
-        "domain": "kr-asia.com",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-chinese-ai-start-up-sensetime-hires-hsbc-as-it-pursues-us2-billion-hong-kong-ipo.md",
+      "title": "Chinese AI start-up SenseTime hires HSBC as it pursues US$2 billion Hong Kong IPO",
+      "excerpt": "Hong Kong that could raise at least US$2 billion, according to a person familiar with the matter. software, has also tapped China International Capital Corp (CICC) for the offering and could file paperwork for a Hong Kong listing in the next few weeks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/17/ae232f2c-ff40-11eb-83d9-2f907cc4e7e5_image_hires_193233.jpg?itok=2PNWLYvV&v=1629199963",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-convoy-announces-power-only-freight-service-for-private-fleets.md",
+      "title": "Convoy Announces Power-Only Freight Service for Private Fleets",
+      "excerpt": "Convoy, the nation’s most efficient digital freight network, has launched a new power-only service as part of its Convoy Go program, providing private fleets with nationwide capacity to haul their preloaded and empty dry van trailers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/convoy-announces-power-only-freight-service-for-private-fleets/",
+      "originalUrl": "https://www.financialbuzz.com/convoy-announces-power-only-freight-service-for-private-fleets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups.md",
+      "title": "This Startup Just Raised $8 Million To Connect People To Virtual Support Groups",
+      "excerpt": "The company created an app that provides online support groups to help people struggling with mental and physical health challenges. By using AI technology, Circles asks users a series of questions to match individuals in groups with people that are going through similar issues in life such as divorce,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
+      "originalUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae4a907a8e5a82637481d%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors-move-in.md",
+      "title": "Your Smart City Is Boring: How to Preserve Its Soul When the AI Sensors Move In",
+      "excerpt": "AI-based smart cities can help keep residents safe, but they risk turning unpredictable, vibrant urban spaces into boring landscapes of sensors and push notifications. Smart city researcher Annelien Smets wants to prevent that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors",
+      "originalUrl": "https://www.pcmag.com/news/your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/074a3VluhmMUqCjNNq6K0yV-2.1628963363.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors?amp=true",
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

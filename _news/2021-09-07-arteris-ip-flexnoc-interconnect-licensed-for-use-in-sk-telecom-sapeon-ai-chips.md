@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Arteris® IP FlexNoC® Interconnect Licensed for Use in SK Telecom SAPEON AI Chips"
-excerpt: "Arteris IP, a leading provider of network-on-chip (NoC) interconnect and other intellectual property (IP) technology that manages the on-chip communications in system-on-chip (SoC) semiconductor devices,"
-publishedDateTime: 2021-09-07T12:40:00Z
-originalUrl: "https://www.lelezard.com/en/news-19984119.html"
-webUrl: "https://www.lelezard.com/en/news-19984119.html"
+title: "Arteris IP FlexNoC Interconnect Licensed for Use in SK Telecom SAPEON AI Chips"
+excerpt: "Arteris IP today announced that South Korean telecommunications operator SK Telecom will use the Arteris IP FlexNoC interconnect IP in its next-generation SAPEON artificial intelligence (AI) systems-on-chip (SoCs)."
+publishedDateTime: 2021-09-07T13:52:00Z
+originalUrl: "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html"
+webUrl: "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "BnU5VfY0EnGAw91TjOqvT4+8IN3IxKlG3yLIDp1hDi/RqQFrOMvXtk9sXMXnon3GfdwGcXB2qUq+WsqdPlQW9kC+evkoA+D+etOgekMM7JerhoqVyNW35J5V8MNwHOTFFnW7PdlG9FOJkLlZMwiF9lRtUpUx5ILmD6lY/UTOrrBd+NliW3Lt70r5YUvvM0AgtMF0pn3kWp7tW99QW8W0MDb7U/sZUAY+zE7Xd/8DiuVSIh+6X16MLJvXGFedHU2q6ccpHYMGWP4ZSKd7vxDelo6b6l59mC92ShP5aN9dTs1JR+MBQtF33I5oDp4tW113USda7qSi+rJxvwS5ZmlTSu8Y6tHTQanaCsPL4FSi7Ko=;3G0dmv9xnWQnMRu08urEhQ=="
+secured: "3cynCwE7DHW2BLHo+VRdxudTg8d5i6Vq5YgXhG73cQCwDKS0fGgLSI7M+iJanp+iJVdo4ah56uDYU/9twb895lTQ+QBoDq4XaX10b4ifZq4XZFaOUfv5w4tucepDVN/Z/oyV02GCvq6ssJLRhlWCEnPi9KfuPpsN3iMj2bjg5WxAujMLwmRVvhr/wurGBeZMWx4Hh9OMB/Yp6I4NhxpfnSfNf/bsp5ddfrqjUE+wzYA87CbJS2AQZ07mFpODlJ+RbkbeICieNGJtFBuI3JChu8/JZKETo5/Q6dBY6eG40rAgrum4IhV24tp3OvVER+pSIxHcPIeyWgn/sdqXz9cmeV3VKbdzG0UhUMal9DIh7ug=;EDpyg/ifoSiYL0lUt/L+TA=="
 ---
 

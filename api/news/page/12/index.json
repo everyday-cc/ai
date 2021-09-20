@@ -2,21 +2,21 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-08-30-artificial-intelligence-answers-covid-questions.md",
-      "title": "Artificial intelligence answers COVID questions",
-      "excerpt": "A chatbot that is based on an artificial neural network that can carry out natural language processing (NLP) is being developed by researchers in India. The team describes how the chatbot can be programmed to answer questions related to the COVID-19 pandemic.",
+      "path": "_news/2021-09-07-enemy-at-the-gates-the-untold-chronicles-of-ai-security.md",
+      "title": "Enemy at the Gates – The untold chronicles of AI Security",
+      "excerpt": "The effort in securing AI will result not only in benefitting the organization but the society and will impact the lives of people touched by the comp..",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg",
-          "width": 1920,
-          "height": 1497,
+          "url": "https://etimg.etb2bimg.com/thumb/msid-85997251,imgsize-10286,width-800,height-434,overlay-etcio/enemy-at-the-gates-the-untold-chronicles-of-ai-security.jpg",
+          "width": 800,
+          "height": 434,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp",
-      "publishedDateTime": "2021-08-30T04:49:00-07:00",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/enemy-at-the-gates-the-untold-chronicles-of-ai-security/85997251",
+      "publishedDateTime": "2021-09-06T20:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,27 +40,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI",
-        "Machine Learning"
+        "AI in Security"
       ]
     },
     {
-      "path": "_news/2021-08-30-chinas-new-data-laws-are-a-risk-factor-in-a-facial-recognition-giants-ipo-filing.md",
-      "title": "China’s new data laws are a risk factor in a facial-recognition giant’s IPO filing",
-      "excerpt": "The firm's lengthy list of risk factors is a reminder that Chinese tech champions face rising scrutiny in both Beijing and Washington.",
+      "path": "_news/2021-09-07-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
+      "title": "DeepMind Is Working on a Solution to Bias in AI",
+      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
       "sourceUrl": null,
-      "webUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
-      "originalUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
+      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 875,
-          "height": 492,
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
+          "width": 1178,
+          "height": 1070,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,16 +67,302 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
-      "publishedDateTime": "2021-08-30T03:57:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-06T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-why-coders-love-the-ai-that-could-put-them-out-of-a-job.md",
+      "title": "Why coders love the AI that could put them out of a job",
+      "excerpt": "As a programmer, far from seeing the tool as risking her job she likes the idea of having AI to support her with \"the more boring parts\" of coding, like checking over complicated",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-57914432",
+      "originalUrl": "https://www.bbc.co.uk/news/business-57914432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6736/production/_119522462_ai.janineluk-herpicture.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-57914432.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57914432.amp",
+      "publishedDateTime": "2021-09-06T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare.md",
+      "title": "When Fintech Meets Healthcare: How can cryptocurrencies and blockchain improve access to healthcare?",
+      "excerpt": "Cryptocurrencies and blockchain technology are used in a wide array of new applications – including in healthcare. Fintech start-ups are the catalyst for many of these recent market innovations – and they aren’t just focused on the banking and financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/",
+      "originalUrl": "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/09/When-Fintech-Meets-Healthcare.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/",
+      "publishedDateTime": "2021-09-06T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google.md",
+      "title": "Google's Newest Nest Cam Is a Solid Security Camera If You're All In With Google",
+      "excerpt": "You no longer need a subscription to get a Nest cam's best features, but you're also sacrificing some freedom to commit to Google.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
+      "originalUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655954f657b2763e4d3b212bd0751a0d.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
+      "publishedDateTime": "2021-09-06T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-argo-ai-and-volkswagen-show-off-self-driving-vehicle.md",
+      "title": "Argo AI and Volkswagen show off self-driving vehicle",
+      "excerpt": "Argo AI -- the autonomous car venture backed by Volkswagen and Ford -- is gearing up for the 2021 IAA Mobility event in Munich, where it",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "originalUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-06-image-11.jpg",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
+      "publishedDateTime": "2021-09-06T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-eager-for-ai-first-you-have-to-train-it.md",
+      "title": "Eager for AI? First you have to train it",
+      "excerpt": "Artificial intelligence can do little fresh out of the box. Few organizations understand how complex and lengthy the training process is.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
+      "originalUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/07/untitled-design16.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
+      "publishedDateTime": "2021-09-06T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision.md",
+      "title": "Mobius Labs nabs $6M to help more sectors tap into computer vision",
+      "excerpt": "Berlin-based Mobius Labs has closed a €5.2 million (~$6.1M) funding round off the back of increased demand for its computer vision training platform. The Series A investment is led by Ventech VC, along with Atlantic Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/",
+      "originalUrl": "https://techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1162249239.jpg?w=1024",
+          "width": 1024,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/amp/",
+      "publishedDateTime": "2021-09-06T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -98,21 +383,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-30-10-things-in-tech-you-need-to-know-today.md",
-      "title": "10 things in tech you need to know today",
-      "excerpt": "Amazon entered the BNPL space, T-Mobile customers frustrated by security breach, and Google shuttered another app: 10 things in tech you need to know.",
+      "path": "_news/2021-09-06-the-covid-19-effect-artificial-intelligence-automation-market-booms.md",
+      "title": "The COVID-19 Effect: Artificial Intelligence Automation Market Booms",
+      "excerpt": "In Johannes words: “The robots escaped the manufacturing sector and went ... who take care of the sick and elderly among others are those now replaced with Artificial Intelligence Technology. A 2020 survey by the World Economic Forum, a non-profit ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
+      "webUrl": "https://techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/",
+      "originalUrl": "https://techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/612c0ecb12b9cc00196345f4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://techbooky.com/wp-content/uploads/2021/09/AI-Inline-Inspection.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,23 +405,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
-      "publishedDateTime": "2021-08-30T03:20:00-07:00",
+      "ampWebUrl": "https://techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/the-covid-19-effect-artificial-intelligence-automation-market-booms/?amp=1",
+      "publishedDateTime": "2021-09-06T05:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -145,26 +421,26 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-30-fintech-and-digital-banking-searches-have-been-on-the-rise.md",
-      "title": "Fintech and digital banking searches have been on the rise",
-      "excerpt": "Four popular fintech brands have seen a surge in Google searches as they’ve gained a foothold in the banking industry.",
+      "path": "_news/2021-09-06-facebook-apologises-after-ai-labels-black-men-in-video-as-primates.md",
+      "title": "Facebook Apologises After AI Labels Black Men in Video as “Primates”",
+      "excerpt": "A video on ubiquitous social media platform Facebook titled “White man calls cops on black men at marina”, published by UK tabloid Daily Mail, included an automated prompt by the social network, asking users if they would like to “Keep seeing videos about Primates?",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519",
-      "originalUrl": "https://www.marketwatch.com/story/fintech-and-digital-banking-searches-have-been-on-the-rise-11630075519",
+      "webUrl": "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/",
+      "originalUrl": "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://images.mktw.net/im-392268/social",
-          "width": 1279,
-          "height": 640,
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Facebook-Privacy.jpg",
+          "width": 800,
+          "height": 520,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -172,179 +448,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-30T02:02:00-07:00",
+      "ampWebUrl": "https://www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/facebook-apologises-after-ai-labels-black-men-in-video-as-primates/?amp",
+      "publishedDateTime": "2021-09-06T04:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-why-ai-is-relevant-to-conversational-marketing.md",
-      "title": "Why AI Is Relevant To Conversational Marketing",
-      "excerpt": "Marketers want to have one-on-one conversations with their customers to learn what they are looking for, and develop a stronger, long-term relationship with them",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/382318",
-      "originalUrl": "https://www.entrepreneur.com/article/382318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630303653-4530890.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/382318",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/382318",
-      "publishedDateTime": "2021-08-29T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity.md",
-      "title": "Can Artificial Intelligence Give Thoughtful Gifts? An Exploration Of The Possibilities And Limits Of AI’s Humanity",
-      "excerpt": "It is clear that with the massive amounts of behavioral data available to Google and other social media platforms, the impact on our shopping behavior begins with how we are marketed to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612c521fc881ada8921adcb0%2F0x0.jpg",
-          "width": 825,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/29/can-artificial-intelligence-give-thoughtful-gifts-an-exploration-of-the-possibilities-and-limits-of-ais-humanity/amp/",
-      "publishedDateTime": "2021-08-29T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet.md",
-      "title": "The long-tail of AI problems requires hyper-customized solutions, not a silver-bullet",
-      "excerpt": "Spending the last decade on AI research and implementation, my observation is that these challenges are inherently specific, differing drastically across companies — even when the AI application ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/",
-      "originalUrl": "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/the-long-tail-of-ai-problems-requires-hyper-customized-solutions-not-a-silver-bullet/amp/",
-      "publishedDateTime": "2021-08-29T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -358,64 +469,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-30-hul-leverages-ai-ml-data-for-a-smarter-supply-chain.md",
-      "title": "HUL leverages AI, ML, data for a smarter supply chain",
-      "excerpt": "The country’s largest FMCG company, Hindustan Unilever Ltd (HUL), is reconfiguring its entire supply chain to enable just-in-time delivery of products by using new digital technologies, including machine learning, artificial intelligence and data ...",
+      "path": "_news/2021-09-06-how-low-code-platforms-enable-machine-learning.md",
+      "title": "How low-code platforms enable machine learning",
+      "excerpt": "He told me, “Most data consumers within an organization simply do not have the required skills to develop algorithms from scratch or even to apply autoML tools effectively—and we shouldn’t ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/hul-leverages-ai-ml-data-for-a-smarter-supply-chain/article36168223.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/hul-leverages-ai-ml-data-for-a-smarter-supply-chain/article36168223.ece",
+      "webUrl": "https://www.infoworld.com/article/3630454/how-low-code-platforms-enable-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3630454/how-low-code-platforms-enable-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thehindubusinessline.com/companies/7rw4km/article36168220.ece/ALTERNATES/LANDSCAPE_615/Sanjiv-Mehta",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/hul-leverages-ai-ml-data-for-a-smarter-supply-chain/article36168223.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hul-leverages-ai-ml-data-for-a-smarter-supply-chain/article36168223.ece/amp/",
-      "publishedDateTime": "2021-08-29T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts.md",
-      "title": "Qualms About Touting Those Neophyte Testimonials By First-Time Riders In AI Self-Driving Car Tryouts",
-      "excerpt": "To clarify, for true self-driving cars there isn’t a human driver at the wheel and instead, an AI-based driving system is undertaking the entirety of the driving chore. These alleged off-the-cuff testimonials are usually by first-time riders in self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032b1c370eb42256c4691a9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D72%26cropY2%3D877",
+          "url": "https://images.idgesg.net/images/article/2018/11/it-pros_executives_iot_smart-city_machine-learning_ai_city-skyline_metamorworks_getty-100780202-large.jpg?auto=webp",
           "width": 1200,
-          "height": 676,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -423,16 +491,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/29/qualms-about-touting-those-neophyte-testimonials-by-first-time-riders-in-ai-self-driving-car-tryouts/amp/",
-      "publishedDateTime": "2021-08-29T08:30:00-07:00",
+      "ampWebUrl": "https://www.infoworld.com/article/3630454/how-low-code-platforms-enable-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3630454/how-low-code-platforms-enable-machine-learning.amp.html",
+      "publishedDateTime": "2021-09-06T03:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -448,122 +516,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-08-29-how-to-make-ai-more-ethical.md",
-      "title": "How to make AI more ethical",
-      "excerpt": "We practice this at my company through a cross-functional Privacy and Ethics Board and a separate ethical AI subcommittee. These groups help us define corporate ethical principles and procedures ...",
+      "path": "_news/2021-09-06-sequoia-china-backed-ai-startup-aibee-is-said-to-seek-new-funds.md",
+      "title": "Sequoia China-Backed AI Startup Aibee Is Said to Seek New Funds",
+      "excerpt": "Aibee, a Chinese artificial intelligence startup, is planning a funding round to raise about $100 million, according to people familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/",
-      "originalUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/",
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-06/sequoia-china-backed-ai-startup-aibee-is-said-to-seek-new-funds",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-06/sequoia-china-backed-ai-startup-aibee-is-said-to-seek-new-funds",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ithqPe8fy19U/v0/1200x900.jpg",
           "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/29/how-to-make-ai-more-ethical/amp/",
-      "publishedDateTime": "2021-08-29T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dynamic-tasks-and-more.md",
-      "title": "EXCLUSIVE: Sarcos CEO On Whether Tesla Is Late To The Robotics Party, AI Utility In Repetitive Vs. Dynamic Tasks And More",
-      "excerpt": "See Also: Tesla Places Itself As A Robotics Company With Reach Beyond EVs, Unveils Dojo Chips, Humanoid: Key Takeaways From AI Day “It often takes longer than [Musk] predicts. Still, he has proven it isn’t wise to bet against him,” said Wolff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/08/22689721/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dyna",
-      "originalUrl": "https://www.benzinga.com/news/21/08/22689721/exclusive-sarcos-ceo-on-whether-tesla-is-late-to-the-robotics-party-ai-utility-in-repetitive-vs-dyna",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/sarcos_civ-wht.3.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22689721",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22689721",
-      "publishedDateTime": "2021-08-29T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-chinese-social-media-platforms-to-rectify-financial-self-media-accounts.md",
-      "title": "Chinese social media platforms to \"rectify\" financial self-media accounts",
-      "excerpt": "The term \"self-media\" is mostly used on Chinese social media to describe independently operated accounts that produce original content but are not officially registered with the authorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/8dff0ca6-11ad-4da9-8222-3248927688ef",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/chinese-social-media-platforms-to-rectify-financial-self-media-accounts/article36161644.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__assets%2Fcreatives%2Fproduct%2Fdynamic-barriers%2Fdefault.jpg?source=next-product",
-          "width": 619,
-          "height": 377,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -573,98 +545,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-28T23:49:00-07:00",
+      "publishedDateTime": "2021-09-06T02:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-2011-all-class-girls-basketball.md",
-      "title": "2011 All-Class Girls basketball",
-      "excerpt": "Emmy Allen, jr., SM South; Katlyn Aschenbrenner, sr., Washburn Rural; Megan Balcom, sr., Olathe South; Brenna Briggs, jr., Dodge City; Cassandra Brown, sr., Campus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/profile/katie-jacobs-stanton/?sh=4892b18e7f43",
-      "originalUrl": "https://www.kansas.com/sports/college/article1057637.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2Fd87156cf5693a70904f06d13fcbf5289%2F0x0.jpg",
-          "width": 291,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wichita Eagle",
-        "domain": "kansas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-29-i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror.md",
-      "title": "I went to a play written by AI; it was like looking in a circus mirror",
-      "excerpt": "At the Young Vic theatre in London last week, an experimental production called AI played a three-night run. The objective of this collaboration between person and machine was to emerge at the end with a 30-minute script, written by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
-      "originalUrl": "https://www.techradar.com/sg/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/s2TJB2EMeXZQHeKtBj6bGb-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/i-went-to-a-play-written-by-ai-it-was-like-looking-in-a-circus-mirror",
-      "publishedDateTime": "2021-08-28T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -684,63 +572,19 @@
       ]
     },
     {
-      "path": "_news/2021-08-29-baidu-launches-kunlun-ii-chip-and-an-ai-robocar.md",
-      "title": "Baidu launches Kunlun II chip and an AI 'robocar'",
-      "excerpt": "Semiconductors and artificial intelligence are two key technologies ... but only in certain circumstances. For example, Waymo's robotaxi at times stops driving whenever it is near traffic ...",
+      "path": "_news/2021-09-06-workers-fear-robots-and-automation-from-covid-are-here-to-stay-but-they-create-jobs.md",
+      "title": "Workers fear robots and automation from Covid are here to stay. But they create jobs.",
+      "excerpt": "Calls for steps like 'robot taxes' to level the playing field between humans and AI will only hurt the economy — and workers.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102696129/Baidu-launches-Kunlun-II-chip-and-an-AI-robocar&source=25",
-      "originalUrl": "https://menafn.com/1102696129/Baidu-launches-Kunlun-II-chip-and-an-AI-robocar&source=25",
+      "webUrl": "https://www.nbcnews.com/think/opinion/workers-fear-robots-automation-covid-are-here-stay-they-create-ncna1278433",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/workers-fear-robots-automation-covid-are-here-stay-they-create-ncna1278433",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2021-08/28/AT_7b6c9image_story.png",
-          "width": 1020,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-28T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-toyota-suspends-self-driving-vehicles-after-accident-at-olympic-village.md",
-      "title": "Toyota suspends self-driving vehicles after accident at Olympic village",
-      "excerpt": "Toyota Motor said on Friday it had suspended all self-driving e-Palette transportation pods at the Tokyo Paralympic Games village, a day after one of the vehicles collided with and injured a visually impaired pedestrian.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849",
-      "originalUrl": "https://www.nbcnews.com/news/world/toyota-suspends-self-driving-vehicles-after-accident-olympic-village-n1277849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_34/3502164/210828-toyota-epalette-mb-1553.jpg",
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_35/3503671/210903-think-self-checkout-se-616p.jpg",
           "width": 2500,
           "height": 1667,
           "title": null,
@@ -750,9 +594,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277849",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277849",
-      "publishedDateTime": "2021-08-28T07:58:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1278433",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1278433",
+      "publishedDateTime": "2021-09-06T01:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -766,305 +610,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023.md",
-      "title": "5% of Dubai Taxi's fleet to be self-driving cabs by 2023",
-      "excerpt": "By 2023, five per cent of Dubai Taxi’s fleet will be converted into self-driving cabs, the Roads and Transport Authority (RTA) said on Saturday. The RTA recently signed a partnership agreement with General Motors-backed Cruise to run driverless taxis and shared transport service in Dubai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "originalUrl": "https://www.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210828/ARTICLE/210829143/AR/0/AR-210829143.jpg&NCS_modified=20210829010133&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/5-of-dubai-taxis-fleet-to-be-self-driving-cabs-by-2023",
-      "publishedDateTime": "2021-08-28T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics.md",
-      "title": "We underestimated IoT security. Let’s not make that mistake with robotics.",
-      "excerpt": "Even if placed behind a firewall, inadequately secured robots may not be safe. We’ve already seen malware that breaches isolated networks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
-      "originalUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/agility-robotics-digit.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/28/we-underestimated-iot-security-lets-not-make-that-mistake-with-robotics/amp/",
-      "publishedDateTime": "2021-08-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown.md",
-      "title": "Google is pulling the plug on Streams, the clinical app developed by DeepMind, following health division shutdown",
-      "excerpt": "Google is shutting down Streams, a mobile app designed to help clinicians track patients' conditions, two years after acquiring it from portfolio firm DeepMind. The decision to take Streams ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown/articleshow/85685159.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown/articleshow/85685159.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/85685040.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown/amp_articleshow/85685159.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown/amp_articleshow/85685159.cms",
-      "publishedDateTime": "2021-08-28T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-28-gatik-joins-the-driverless-self-driving-car-club.md",
-      "title": "Gatik joins the driverless self-driving car club",
-      "excerpt": "Walmart’s cargo-hauling partner moves to scale sans humans..Gatik engineers and algorithms laboriously study a route for weeks before letting the robots steer and are able to program specifically for certain sticky points.",
+      "path": "_news/2021-09-06-the-rise-of-ai-in-the-transportation-and-logistics-industry.md",
+      "title": "The Rise Of AI In The Transportation And Logistics Industry",
+      "excerpt": "The Rise Of AI In The Transportation And Logistics Industry is discussed, and profiling Purolator for its AI and digital transformation leadership.",
       "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club-41630150506346.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club-41630150506346.html",
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/auto/img/2021/08/28/600x338/ElW5x_SXEAY-Y6V_1606131116552_1606131128133_1630150578542.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/gatik-joins-the-driverless-self-driving-car-club/amp-41630150506346.html",
-      "publishedDateTime": "2021-08-28T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-indian-railways-installs-a-facial-recognition-system-to-track-commuters.md",
-      "title": "Indian Railways installs a facial recognition system to track commuters",
-      "excerpt": "Indian Railways has installed a network of nearly 500 facial recognition cameras to track millions of daily commuters, a report in the Financial Times suggested.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/08/28/1104608-indian-railways.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/indian-railways-installs-a-facial-recognition-system-to-track-commuters-703762",
-      "publishedDateTime": "2021-08-28T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-celebrity-spotting-amazon-improves-facial-recognition-for-famous-people.md",
-      "title": "Celebrity spotting: Amazon improves facial recognition for famous people",
-      "excerpt": "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-28T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-self-driving-electric-cars-could-mean-the-end-of-short-haul-flights.md",
-      "title": "Self-Driving Electric Cars Could Mean The End Of Short Haul Flights",
-      "excerpt": "Self-driving battery-electric vehicles could drastically reduce the need for short haul flying, or even render it obsolete, and slash emissions in the process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61262ae06169576215801db8%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613533df794a3c6a17add20a%2F0x0.jpg",
           "width": 1200,
-          "height": 772,
+          "height": 560,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1072,9 +637,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/",
-      "publishedDateTime": "2021-08-28T02:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/",
+      "publishedDateTime": "2021-09-05T14:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1097,26 +662,25 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-28-inside-boston-dynamics-project-to-create-humanoid-robots.md",
-      "title": "Inside Boston Dynamics’ project to create humanoid robots",
-      "excerpt": "Atlas is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, backflips, and dancing.",
+      "path": "_news/2021-09-06-vws-self-driving-partner-closing-in-on-german-public-road-tests.md",
+      "title": "VW’s Self-Driving Partner Closing In on German Public Road Tests",
+      "excerpt": "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
-      "originalUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Boston-Dynamic-Atlas-Parkour1-e1629834411758.jpg?w=1200&strip=all",
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixMLqLHvG858/v0/1200x800.jpg",
           "width": 1200,
-          "height": 600,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1124,16 +688,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
-      "publishedDateTime": "2021-08-27T21:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-05T13:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1149,26 +713,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-28-how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans.md",
-      "title": "How IBM is using AI to deliver insights and stats to US Open fans",
-      "excerpt": "Tennis lovers are getting a lot of new data insights thanks to IBM's Power Rankings and Match Insights powered by its Watson AI, and business leaders looking for analytics tools should tune in ...",
+      "path": "_news/2021-09-05-6-fintech-startups-in-india-that-are-making-use-of-ai-technology.md",
+      "title": "6 Fintech Startups In India That Are Making Use Of AI Technology",
+      "excerpt": "Fintechs continuous growth and adoption have aided in the promotion of greater financial inclusion in India. Emerging technologies such as artificial intelligence (AI) and machine learning (ML) are predicted to boost the use of Fintech apps in the $2.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
+      "webUrl": "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
+      "originalUrl": "https://www.goodreturns.in/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 249,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/30/a89991a4-f68b-4afd-bfca-5741f861acf3/resize/1200x/1c8ef71d7c03da27b6f3bac423df3062/ibm-watson-tennis.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.goodreturns.in/img/2016/12/07-1438929714-interest-rates-red-14-1481696060.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1176,16 +740,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "publishedDateTime": "2021-08-27T16:06:00-07:00",
+      "ampWebUrl": "https://www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
+      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/investment/6-fintech-startups-in-india-that-are-making-use-of-artificial-intelligence-ai-technology-1222425.html",
+      "publishedDateTime": "2021-09-05T06:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "Goodreturns",
+        "domain": "goodreturns.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-3-top-ai-stocks-to-buy-right-now.md",
+      "title": "3 Top AI Stocks to Buy Right Now",
+      "excerpt": "Anders Bylund (IBM): Good old International Business Machines ... Big Blue sowed the seeds to its Watson AI engine decades ago and has nurtured that asset into a problem-solving system with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
+      "originalUrl": "https://www.fool.com/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/1cc036e0dce93765f10e22528a16dc3a.png",
+          "width": 720,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/09/05/3-top-ai-stocks-to-buy-right-now/",
+      "publishedDateTime": "2021-09-05T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1202,8 +809,376 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway.md",
+      "title": "Elon Musk Says Tesla Is Making A Robot Because ‘Robots Are Coming Anyway’",
+      "excerpt": "Advertisement Artificial intelligence is coming for us all; this is a prediction or a warning as you like to term it is up to you. He has been on this narrative for years. “I’ve been banging this AI drum for a decade,",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/",
+      "originalUrl": "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/09/elon-musk-robots-coming-anyway.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/elon-musk-says-tesla-is-making-a-robot-because-robots-are-coming-anyway/amp/",
+      "publishedDateTime": "2021-09-05T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI",
-        "Natural Language Processing"
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-judge-says-an-ai-cant-be-an-inventor-on-a-patent-because-its-not-a-person.md",
+      "title": "Judge Says an AI Can’t Be an Inventor on a Patent Because It’s Not a Person",
+      "excerpt": "They can’t even appear as inventors on U.S. patents. U.S. federal judge Leonie Brikema ruled this week that an AI can’t be listed as an inventor on a U.S. patent under current law. The case was brought forward by Stephen Thaler,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641",
+      "originalUrl": "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/37537a3ccad75b9d5a057a42727649ac.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/judge-says-an-ai-can-t-be-an-inventor-on-a-patent-becau-1847620641/amp",
+      "publishedDateTime": "2021-09-04T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml.md",
+      "title": "The Latest Trends in Artificial Intelligence (AI) and Machine Learning (ML)",
+      "excerpt": "Artificial intelligence (AI) contains many subfields, including machine learning (ML), which automates analytical model building. It uses methods from neural networks, statistics, operations research and physics to find hidden insights in data without being explicitly programmed where to look or what to conclude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
+      "originalUrl": "https://www.bbntimes.com/technology/the-latest-trends-in-artificial-intelligence-ai-and-machine-learning-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Trends_2021-min.jpg",
+          "width": 1600,
+          "height": 1035,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-04T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-level-set-methods-and-fast-marching-methods.md",
+      "title": "Level Set Methods and Fast Marching Methods",
+      "excerpt": "computer vision, computer-aided design, and optimal control theory. This book will be a useful resource for mathematicians, applied scientists, practising engineers, computer graphic artists, and anyone interested in the evolution of boundaries and interfaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/hr/academic/subjects/mathematics/computational-science/level-set-methods-and-fast-marching-methods-evolving-interfaces-computational-geometry-fluid-mechanics-computer-vision-and-materials-science-2nd-edition?format=PB&isbn=9780521645577",
+      "originalUrl": "https://www.cambridge.org/hr/academic/subjects/mathematics/computational-science/level-set-methods-and-fast-marching-methods-evolving-interfaces-computational-geometry-fluid-mechanics-computer-vision-and-materials-science-2nd-edition?format=PB&isbn=9780521645577",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-04T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-companies-need-more-workers-why-do-they-reject-millions-of-resumes.md",
+      "title": "Companies Need More Workers. Why Do They Reject Millions of Résumés?",
+      "excerpt": "Companies are desperate to hire, and yet some workers still can’t seem to find jobs. Here may be one reason why ... do the job they are supposed to do. They also exclude more than 10 million ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008?mod=djemalertNEWS",
+      "originalUrl": "https://www.wsj.com/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-395991/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-need-more-workers-why-do-they-reject-millions-of-resumes-11630728008",
+      "publishedDateTime": "2021-09-04T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform.md",
+      "title": "Facebook apologizes after its AI software labels Black men 'primates' in a video featured on the platform",
+      "excerpt": "Facebook called the offensive labeling of Black men an \"unacceptable error\" and said it disabled the topic-recommendation software in question.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-apologizes-after-its-ai-software-labels-black-men-primates-in-a-video-featured-on-the-platform/ar-AAO5KzT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/03/business/03economy-briefing-facebook/03economy-briefing-facebook-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/03/technology/facebook-ai-race-primates.amp.html",
+      "publishedDateTime": "2021-09-04T02:22:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/09/03/technology/facebook-ai-race-primates.html",
+        "domain": "com/2021/09/03/technology/facebook-ai-race-primates.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-ai-weekly-an-outline-for-government-regulation-of-ai.md",
+      "title": "AI Weekly: An outline for government regulation of AI",
+      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Governments face a range of policy challenges around AI technologies, many of which are exacerbated by the fact that they lack sufficiently detailed information.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/government_meeting.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/ai-weekly-an-outline-for-government-regulation-of-ai/amp/",
+      "publishedDateTime": "2021-09-04T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-court-ruling-uspto-cannot-issue-patents-to-an-artificial-intelligence.md",
+      "title": "Court ruling: USPTO cannot issue patents to an artificial intelligence",
+      "excerpt": "A court in Alexandria, Virginia, ruled that inventions can only be patented under the name of a \"natural person.\" The decision was made against someone who",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "originalUrl": "https://www.techspot.com/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-03-image-42.jpg",
+          "width": 2560,
+          "height": 1696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91110-court-ruling-uspto-cannot-issue-patents-artificial-intelligence.html",
+      "publishedDateTime": "2021-09-03T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

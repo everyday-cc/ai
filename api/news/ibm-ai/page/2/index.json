@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-09-foundations-of-trustworthy-ai-guiding-the-workforce.md",
+      "title": "Foundations of trustworthy AI: Guiding the workforce",
+      "excerpt": "As an organization expands its use of AI, its teams should build individual AI solutions that are trustworthy from the start. This requires guiding the workforce so that everyone involved in creating the solutions understands the tenets of trustworthy AI, knows how to apply them, and makes them an integrated",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/08/blog_guide-workforce_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-why-artificial-intelligence-isnt-intelligent.md",
+      "title": "Why Artificial Intelligence Isn't Intelligent",
+      "excerpt": "A funny thing happens among engineers and researchers who build artificial intelligence (AI) once they attain a deep level of expertise in their field. Some of them—especially those who understand what actual,",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/opinion/articles/254486-why-artificial-intelligence-isnt-intelligent/fulltext",
+      "originalUrl": "https://cacm.acm.org/opinion/articles/254486-why-artificial-intelligence-isnt-intelligent/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-ai-eye-podcast-ibms-ai-powered-the-weather-company-named-most-accurate-provider-globally-alteryx-achieves-elite-technology-partner-status.md",
+      "title": "AI Eye Podcast - IBM’s AI-Powered The Weather Company Named “Most Accurate Provider Globally,” Alteryx Achieves Elite Technology Partner Status In Snowflake Partnership ...",
+      "excerpt": "Stock News, podcasts - AI, Biotech, Cannabis ... Sheri Bachstein, CEO of The Weather Company and GM of IBM Watson Advertising, said: \"A forecast is most helpful when it comes from a recognized ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/uploads/2021/7/30/776842-1627667637181148.jpg",
+          "width": 387,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
+      "publishedDateTime": "2021-07-30T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-ai-use-cases-are-expanding-and-evolving-in-healthcare.md",
       "title": "AI use cases are expanding and evolving in healthcare",
       "excerpt": "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and",
@@ -1222,126 +1352,6 @@
         "Microsoft AI",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-cmu-spinoff-marinus-analytics-awarded-ai-xprize-third-place.md",
-      "title": "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place",
-      "excerpt": "A CMU spinoff company from a Dietrich College alumna won third place and $500,000 in the IBM Watson AI XPRIZE competition in June.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmu.edu/dietrich/philosophy/news/2020-2021/marinus-analytics-kennedy.html.html",
-      "originalUrl": "https://www.cmu.edu/dietrich/philosophy/news/2020-2021/marinus-analytics-kennedy.html.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmu.edu",
-        "domain": "cmu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-digital-adoption-has-become-a-significant-differentiator-cto-ibm-india.md",
-      "title": "Digital adoption has become a significant differentiator: CTO, IBM India",
-      "excerpt": "The Fourth Industrial Revolution or Industry 4.0 uses modern smart technology for automation of traditional manufacturing and industrial practices. In an interview with BusinessLine, Subram ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/digital-adoption-has-become-a-significant-differentiator-cto-ibm-india/article35136319.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/digital-adoption-has-become-a-significant-differentiator-cto-ibm-india/article35136319.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/companies/97egbi/article35136318.ece/ALTERNATES/LANDSCAPE_615/IBM-Subram-Natrajan-CTO",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/digital-adoption-has-become-a-significant-differentiator-cto-ibm-india/article35136319.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/digital-adoption-has-become-a-significant-differentiator-cto-ibm-india/article35136319.ece/amp/",
-      "publishedDateTime": "2021-07-04T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-israeli-firm-brings-ai-to-africas-fight-with-malaria.md",
-      "title": "Israeli firm brings AI to Africa’s fight with malaria",
-      "excerpt": "One of the world’s biggest prizes for innovation has gone to an app that aims to eliminate malaria — and the award will boost the fight against malaria in Sub-Saharan Africa. XPRIZE, an incentive competition geared towards solving some of humanity’s challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bt/business-and-economy/2021-07-04-israeli-firm-brings-ai-to-africas-fight-with-malaria/",
-      "originalUrl": "https://www.businesslive.co.za/bt/business-and-economy/2021-07-04-israeli-firm-brings-ai-to-africas-fight-with-malaria/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/GbD5fSzYp_VsF8oD3efw1P612O13V-RDfJSK0kkIiODFwrFs0oBmEtlS96Tuk-DNHo7LrUFmLKmfgAleKCXGnQ5F0_FOLV1QovGya4oxyF6HZQ=s1000",
-          "width": 682,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bt/business-and-economy/2021-07-04-israeli-firm-brings-ai-to-africas-fight-with-malaria/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bt/business-and-economy/2021-07-04-israeli-firm-brings-ai-to-africas-fight-with-malaria/",
-      "publishedDateTime": "2021-07-03T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

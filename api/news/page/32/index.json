@@ -2,21 +2,21 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2021-08-17-huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner.md",
-      "title": "Huawei smart city projects meet facial recognition block, lawsuit from partner",
-      "excerpt": "The Serbia smart city projectis raising concerns among some members of the European Parliament. Huawei also faces a lawsuit in a Pakistan surveillance project.",
+      "path": "_news/2021-08-20-sd-times-news-digest-microsoft-acquires-jclarity-julia-12-released-and-eggplants-automated-testing-capability.md",
+      "title": "SD Times news digest: Microsoft acquires jClarity, Julia 1.2 released, and Eggplant’s automated testing capability",
+      "excerpt": "The new AutoML capabilities include a AutoML Toolkit, an end-to-end machine learning pipeline, automated model search, automated hyperparameter tuning, and integration with Azure Machine Learning.",
       "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
-      "originalUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
+      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
+      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/11150416/Huawei-scaled.jpg",
-          "width": 2048,
-          "height": 1045,
+          "url": "https://sdtimes.com/wp-content/uploads/2019/08/coffee-1117933_640-1.jpg",
+          "width": 640,
+          "height": 426,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,57 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T10:21:00-07:00",
+      "publishedDateTime": "2021-08-19T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together.md",
-      "title": "Adapdix acquires Edge Intelligence to bring data and AI closer together",
-      "excerpt": "Adapdix, the industry leader in AI-powered automation software, announces that it has acquired Edge Intelligence, developer of the first geographically distributed data management platform for analytics built for both edge computing and hybrid cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735171",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735171",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1589890/Adapdix_acquires_Edge_Intelligence.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -84,126 +41,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day.md",
-      "title": "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?",
-      "excerpt": "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
-      "originalUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp",
-      "publishedDateTime": "2021-08-16T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu.md",
-      "title": "AI in ICT (Information and Communications Technology) Market 2021 and Analysis to 2027 – AIBrian, Amazon, AT&T, Aysadi, Baidu",
-      "excerpt": "Market research report. The market is predictable to grow at a healthy pace in the coming years. AI in ICT (Information and Communications Technology) Market 2021 research report presents analysis of market size,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/",
-      "originalUrl": "https://manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/AI-in-ICT-Information-and-Communications-Technology.jpg",
-          "width": 500,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-ict-information-and-communications-technology-market-2021-and-analysis-to-2027-aibrian-amazon-att-aysadi-baidu/?amp=1",
-      "publishedDateTime": "2021-08-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-cognitive-solution-market-is-booming-worldwide-with-microsoft-cisco-amazon-ibm.md",
-      "title": "Cognitive Solution Market is Booming Worldwide with Microsoft, Cisco, Amazon, IBM",
-      "excerpt": "and the changing investment structure of the Worldwide Cognitive Solution Market. Some of the key players profiled in the study are Microsoft, Cisco, Amazon.com, IBM & HPE. Get free access to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cognitive-solution-market-is-booming-worldwide-with-microsoft-cisco-amazon-ibm",
-      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-solution-market-is-booming-worldwide-with-microsoft-cisco-amazon-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/War-on-Terror-America-AFP1K-06-e1629952460917-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -217,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-16-mit-world-peace-university-students-make-indias-1st-autonomous-driverless-vehicle.md",
-      "title": "MIT World Peace University students make India's 1st Autonomous Driverless Vehicle",
-      "excerpt": "Final-year students of MIT World Peace University from the School of Mechanical Engineering and Electronics & Telecommunications (E&T) have developed India''s first driverless, autonomous, electric four-wheeler.",
+      "path": "_news/2021-08-20-ut-southwestern-pioneers-pulsar-integrated-radiotherapy-with-immunotherapy-for-improved-tumor-control.md",
+      "title": "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control",
+      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
       "sourceUrl": null,
-      "webUrl": "https://www.uniindia.com/mit-world-peace-university-students-make-india-s-1st-autonomous-driverless-vehicle/west/news/2478957.html",
-      "originalUrl": "https://www.uniindia.com/mit-world-peace-university-students-make-india-s-1st-autonomous-driverless-vehicle/west/news/2478957.html",
+      "webUrl": "https://www.eurekalert.org/news-releases/926055",
+      "originalUrl": "https://www.eurekalert.org/news-releases/926055",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://www.uniindia.com/cms/gall_content/2021/8/2021_8$largeimg16_Aug_2021_205718580.jpg",
-          "width": 595,
-          "height": 350,
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 355,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -241,11 +78,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T07:43:00-07:00",
+      "publishedDateTime": "2021-08-19T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "United News of India",
-        "domain": "uniindia.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -255,26 +92,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-16-infervision-ai-assists-the-european-commission-monitoring-covid-19-variants.md",
-      "title": "InferVision AI Assists the European Commission Monitoring COVID-19 Variants",
-      "excerpt": "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision.",
+      "path": "_news/2021-08-20-tesla-to-hold-ai-day-at-a-time-of-new-scrutiny-what-to-expect.md",
+      "title": "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect",
+      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639",
+      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1595169/InferRead_CT.jpg",
-          "width": 400,
-          "height": 243,
+          "url": "https://images.wsj.net/im-387828?width=700&height=466",
+          "width": 700,
+          "height": 466,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -282,16 +119,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T06:29:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "publishedDateTime": "2021-08-19T14:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-top-gun-star-lost-his-voice-to-cancer-he-used-ai-to-bring-it-back.md",
+      "title": "'Top Gun' star lost his voice to cancer. He used AI to bring it back.",
+      "excerpt": "Actor Val Kilmer lost his voice in 2015 due to complications to throat cancer. For his new documentary \"Val,\" Kilmer sought out a company to create a synthetic version of his voice using audio deepfake technology to be used as a voiceover.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
+      "originalUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721144935-val-kilmer-documentary-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
+      "publishedDateTime": "2021-08-19T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -311,27 +200,45 @@
       ]
     },
     {
-      "path": "_news/2021-08-16-data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings.md",
-      "title": "Data Center, Gaming Segments to Aid NVIDIA's (NVDA) Q2 Earnings",
-      "excerpt": "The company’s fate is tied to its gaming and data-center segments, which accounts for a bulk of NVIDIA’s revenues. The two divisions are likely to continue benefiting from stellar demand for chips used in gaming,",
+      "path": "_news/2021-08-20-companies-betting-on-data-must-value-people-as-much-as-ai.md",
+      "title": "Companies betting on data must value people as much as AI",
+      "excerpt": "The truth is, we are still early when it comes to data transformation. The success of tech giants that put data at the core of their business models set off a spark that is only starting to take off.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
-      "originalUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16",
+      "webUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
+      "originalUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 87,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-626953732.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/data-center-gaming-segments-to-aid-nvidias-nvda-q2-earnings-2021-08-16?amp",
-      "publishedDateTime": "2021-08-16T06:11:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
+      "publishedDateTime": "2021-08-19T14:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -340,17 +247,16 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-16-global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com",
-      "excerpt": "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market.",
+      "path": "_news/2021-08-20-eq-inc-reports-second-quarter-financial-results.md",
+      "title": "EQ Inc. Reports Second Quarter Financial Results",
+      "excerpt": "Revenue increases 71% for the quarter and 74% year over year. TORONTO, ON / ACCESSWIRE / August 19, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or the “Company”), a leader in geo",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c",
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -369,7 +275,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T06:03:00-07:00",
+      "publishedDateTime": "2021-08-19T13:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",
@@ -383,26 +289,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-16-how-conversational-ai-works-and-what-it-does.md",
-      "title": "How Conversational AI Works and What It Does",
-      "excerpt": "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,",
+      "path": "_news/2021-08-20-artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027.md",
+      "title": "Artificial Intelligence in Retail Market Size, Growth and Forecast Analysis By 2027",
+      "excerpt": "A recent research report on the Global \"Artificial Intelligence in Retail Market\" presents a complete overview",
       "sourceUrl": null,
-      "webUrl": "https://www.interactions.com/conversational-ai/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 236,
       "tags": null,
       "images": [
         {
-          "url": "https://www.interactions.com/wp-content/uploads/2019/10/voc_wp_content-card.jpg",
-          "width": 768,
-          "height": 430,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -412,57 +318,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T05:41:00-07:00",
+      "publishedDateTime": "2021-08-19T12:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion.md",
-      "title": "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion",
-      "excerpt": "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1594914/Peak_Fintech_Group_Inc__Peak_Fintech_Signs_Agreement_to_Acquire.jpg",
-          "width": 323,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -478,26 +341,25 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-16-optical-adversarial-attack-can-change-the-meaning-of-road-signs.md",
-      "title": "Optical Adversarial Attack Can Change the Meaning of Road Signs",
-      "excerpt": "Researchers in the US have developed an adversarial attack against the ability of machine learning systems to correctly interpret what they see – including mission-critical items such as road signs – by shining patterned light onto real world objects.",
+      "path": "_news/2021-08-20-remote-sensing-and-machine-learning-reveal-archaic-shell-rings.md",
+      "title": "Remote sensing and machine learning reveal Archaic shell rings",
+      "excerpt": "Deep in the dense coastal forests and marshes of the American Southeast lie shell rings and shell mounds left by Indigenous people 3,000 to 5,000 years ago. Now an international team of researchers, using deep machine learning to assess remote sensing data,",
       "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/",
-      "originalUrl": "https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/",
+      "webUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
+      "originalUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-0_YWBTiB/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/08/OPAD-main.jpg",
-          "width": 1000,
-          "height": 600,
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/remote-sensing-and-mac.jpg",
+          "width": 992,
+          "height": 554,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -505,278 +367,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T05:02:00-07:00",
+      "ampWebUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp",
+      "publishedDateTime": "2021-08-19T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits-of-companion-robots.md",
-      "title": "Jon Peddie Research Announces its Latest Whitepaper for Sony Electronics Inc.: The Rise and Benefits of Companion Robots",
-      "excerpt": "Jon Peddie Research (JPR), the industry’s research and consulting firm for graphics and multimedia, announced a new whitepaper regarding the benefits of companion robots, including the Sony Aibo dog.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-bd09f555f10d41e4aa3915bd70d153b5",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-bd09f555f10d41e4aa3915bd70d153b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence.md",
-      "title": "IIM A launches dedicated centre for Data Science and Artificial Intelligence",
-      "excerpt": "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players. One of the major highlights of the centre is an exhaustive ann",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence-11629113784537.html",
-      "originalUrl": "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence-11629113784537.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/08/16/600x338/iim_1629114559768.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence/amp-11629113784537.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence/amp-11629113784537.html",
-      "publishedDateTime": "2021-08-16T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence.md",
-      "title": "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence",
-      "excerpt": "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "originalUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/iim-ahmedabad-162911098716x9.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "publishedDateTime": "2021-08-16T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-leveraging-on-fintech-to-solve-the-creditworthiness-issues-among-msmes-in-india.md",
-      "title": "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India",
-      "excerpt": "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380301",
-      "originalUrl": "https://www.entrepreneur.com/article/380301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380301",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301",
-      "publishedDateTime": "2021-08-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics.md",
-      "title": "Mobilicom launches world-first AI-based 360° Cybersecurity Suite for drones, robotics",
-      "excerpt": "First-ever AI-based 360° drone cybersecurity system that can detect, prevent, and respond to multiple cyber threats in real-time without requiring an operator• Designed specifically for industrial and commercial drones,",
-      "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2021/08/mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics/",
-      "originalUrl": "https://www.suasnews.com/2021/08/mobilicom-launches-world-first-ai-based-360-cybersecurity-suite-for-drones-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.suasnews.com/wp-content/uploads/2018/11/skyhopper-gcs.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-single-mri-scan-can-classify-brain-tumours-using-deep-learning-model.md",
-      "title": "Single MRI scan can classify brain tumours using deep learning model",
-      "excerpt": "According to a recent study, a new deep learning model can help classify a brain tumour as one of six common types, using a single 3D MRI scan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "originalUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgk.timesnownews.com/story/MRI-56baa4073df78c0b136bb6bc.jpg?tr=w-400,h-300,fo-auto",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "publishedDateTime": "2021-08-15T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews.com",
-        "domain": "timesnownews.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -791,143 +388,12 @@
       ]
     },
     {
-      "path": "_news/2021-08-16-artificial-intelligence-in-retail-market-sizesharerecent-study-by-2027microsoft-nvidia-amazon-web-services.md",
-      "title": "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services",
-      "excerpt": "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ...",
+      "path": "_news/2021-08-20-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
+      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
+      "excerpt": "America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of Hazard Identification and Reduction (EXHR) will participate in an ASTM task group teleconference to discuss drowning sensor detection systems in residential swimming pools.",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "originalUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U816958276_g.jpg",
-          "width": 800,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "publishedDateTime": "2021-08-15T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare.md",
-      "title": "Google's DeepMind and the NHS: A glimpse of what AI means for the future of healthcare",
-      "excerpt": "Take the agreements between Google subsidiary DeepMind and the likes of Moorfields Eye Hospital and University College London Hospitals (UCLH) Trust: both pave the way for a future where the routine work of reading scans is done by an algorithm rather than ...",
-      "sourceUrl": null,
-      "webUrl": "https://thearabianpost.com/googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare/",
-      "originalUrl": "https://thearabianpost.com/googles-deepmind-and-the-nhs-a-glimpse-of-what-ai-means-for-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thearabianpost.com/wp-content/uploads/2020/07/Advertise-on-arabian-post-1.gif",
-          "width": 375,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thearabianpost.com",
-        "domain": "thearabianpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-ready-to-build-your-own-house-terrascope-uses-ai-to-sort-through-rural-property-for-sale.md",
-      "title": "Ready to build your own house? Terrascope uses AI to sort through rural property for sale",
-      "excerpt": "Terrascope co-founder Kehan Zhou talks about shopping for rural land with the help of machine learning technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2021/08/15/ready-to-build-your-own-house-terrascope-an-ai-real-estate-agent-lists-land/",
-      "originalUrl": "https://www.dailynews.com/2021/08/15/ready-to-build-your-own-house-terrascope-an-ai-real-estate-agent-lists-land/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2021/08/OCR-L-TERRASCOPE-0808-01.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2021/08/15/ready-to-build-your-own-house-terrascope-an-ai-real-estate-agent-lists-land/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/08/15/ready-to-build-your-own-house-terrascope-an-ai-real-estate-agent-lists-land/amp/",
-      "publishedDateTime": "2021-08-15T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-object-recognition-and-localization.md",
-      "title": "Object recognition and localization",
-      "excerpt": "On the EDAN robotic system, we use a combined color and depth camera to sense the environment. A deep-learning based object recognizer first detects all relevant objects in the robot's environment. Then, the position of the object is determined by a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-17921/28386_read-73749",
-      "originalUrl": "https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-17921/28386_read-73749",
+      "webUrl": "https://www.cpsc.gov/es/Newsroom/Public-Calendar/2021-09-13-150000/susan-bathalon-participating-in-an-astm-task-group",
+      "originalUrl": "https://www.cpsc.gov/es/Newsroom/Public-Calendar/2021-09-13-150000/susan-bathalon-participating-in-an-astm-task-group",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -937,11 +403,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T13:19:00-07:00",
+      "publishedDateTime": "2021-08-19T11:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "DLR",
-        "domain": "www.dlr.de",
+        "name": "Consumer Protection Safety Commission",
+        "domain": "cpsc.gov",
         "images": null,
         "publishers": null,
         "authors": null
@@ -956,19 +422,19 @@
       ]
     },
     {
-      "path": "_news/2021-08-16-how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era.md",
-      "title": "How Runway Waiters Is Helping Models Thrive In The Social Media And AI Era",
-      "excerpt": "While social media has been a steep learning curve for models and the industry as a whole, face recognition, AI models, and other technological shifts will make success an even bigger challenge in the coming years.",
+      "path": "_news/2021-08-20-intel-arc-gaming-gpu-price-specs-and-availability.md",
+      "title": "Intel Arc gaming GPU: Price, specs and availability",
+      "excerpt": "Intel’s highly-anticipated Arc GPU is anticipated to present players a much-needed third choice to AMD and Nvidia when launched. As a result of we all know you do extra studying about gaming GPUs than really utilizing them nowadays,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/",
+      "webUrl": "https://bestgamingpro.com/intel-arc-gaming-gpu-price-specs-and-availability/",
+      "originalUrl": "https://bestgamingpro.com/intel-arc-gaming-gpu-price-specs-and-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611959cc5ba5b96e48cf31d1%2F0x0.jpg",
+          "url": "https://bestgamingpro.com/wp-content/uploads/2021/08/Intel-Arc-gaming-GPU-Price-specs-and-availability.jpg",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -978,16 +444,102 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/amp/",
-      "publishedDateTime": "2021-08-15T11:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-aws-announces-general-availability-of-amazon-memorydb-for-redis.md",
+      "title": "AWS Announces General Availability of Amazon MemoryDB for Redis",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon MemoryDB for Redis, a fully managed, Redis-compatible, in-memory database. Amazon MemoryDB for Redis enables customers to achieve ultra-fast performance with high availability and durability for their most business-critical applications that require sub-millisecond response times.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-amazon-taps-its-socialbot-challenge-to-boost-conversational-ai.md",
+      "title": "Amazon taps its SocialBot challenge to boost conversational AI",
+      "excerpt": "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
+      "publishedDateTime": "2021-08-19T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1007,21 +559,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-15-using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us.md",
-      "title": "Using AI Self-Driving Cars To Detect And Help Curtail Eyesore Graffiti Around Us",
-      "excerpt": "Graffiti can be controversial, which brings up the potential use of AI self-driving cars for ... [+] detecting and possibly curtailing graffiti, or not. Graffiti can invoke quite heated debates. Some assert that graffiti is a blight, a blemish, altogether ...",
+      "path": "_news/2021-08-19-baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip.md",
+      "title": "Baidu Just Launched a \"Robocar\" Prototype With Its New AI Chip",
+      "excerpt": "Chinese tech giant Baidu just unveiled its new artificial ... one of the world's biggest tech firms by focusing on AI and self-driving solutions. Baidu said the new chip, which uses 7 nm process ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
+      "webUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "originalUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8fd47f30f273c86ecb7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2081%26cropY1%3D198%26cropY2%3D1369",
-          "width": 1200,
-          "height": 675,
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyWrKL6Q/sizes/baidu_resize_md.jpeg",
+          "width": 744,
+          "height": 419,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1029,9 +581,53 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/",
-      "publishedDateTime": "2021-08-15T08:30:00-07:00",
+      "ampWebUrl": "https://amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "publishedDateTime": "2021-08-19T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction.md",
+      "title": "Cast AI Eyes A Hybrid Goldmine: Cloud Cost Reduction",
+      "excerpt": "A major focus is on suppliers of cloud Kubernetes services, including Amazon EKS, Google GKS, Kubernetes Operation (Kops), and Microsoft’s Azure Kubernetes Services (AKS). The CAST AI engine does this by using Cloud Service Provider (CSP) accounts to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f872e59a2c190b8db859662%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D400%26cropY1%3D0%26cropY2%3D400",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
+      "publishedDateTime": "2021-08-19T09:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1054,26 +650,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-08-15-openai-offers-api-for-github-copilot-ai-model.md",
-      "title": "OpenAI offers API for GitHub Copilot AI model",
-      "excerpt": "Available through the OpenAI API in a private beta, Codex can translate natural language into code in upwards of a dozen programming language.",
+      "path": "_news/2021-08-19-google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more.md",
+      "title": "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More",
+      "excerpt": "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars.",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/690512/openai-offers-api-github-copilot-ai-model/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/690512/openai-offers-api-github-copilot-ai-model/?fpid=1",
+      "webUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
+      "originalUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/software_development_lifecycle_developers_programmers_coding_code_by_roman_samborskyi_shutterstock_1536573386_royalty-free_digital-only_2400x1600-100890352-orig.jpg",
-          "width": 800,
-          "height": 533,
+          "url": "https://s1.cdn.autoevolution.com/images/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674-7.jpg",
+          "width": 728,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1083,11 +679,341 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T06:37:00-07:00",
+      "publishedDateTime": "2021-08-19T09:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "autoevolution.com",
+        "domain": "autoevolution.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
+      "title": "Intel architect Koduri says every chip will be a neural net processor",
+      "excerpt": "Intel's Xeon chips have tended to dominate the market for AI inference, but Nvidia has been making inroads. Intel has litle share in neural network training while Nvidia dominates the field with its GPUs. Koduri said the company intends to compete against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg",
+          "width": 365,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "publishedDateTime": "2021-08-19T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction.md",
+      "title": "Diamond Age Raises $8 Million Seed Round to Advance Robotics and 3D Printing for Affordable Home Construction",
+      "excerpt": "Diamond Age, a full stack robotics startup that is automating new home construction to make home ownership more affordable, raised an $8 million seed round led by Prime Movers Lab and Alpaca VC. Additional investors include Dolby Family Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-new-windows-10-previews-arrive-for-versions-21h2-and-21h1.md",
+      "title": "New Windows 10 previews arrive for versions 21H2 and 21H1",
+      "excerpt": "and Azure IoT Edge for Linux on Windows (EFLOW) deployments for machine learning. It moves 21H2 to build number 19044.1200. The best laptops: Our recommended models for every use case and platform New year, new laptop? These are the devices that should be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/15/70041633-d204-4909-8e5f-a88cf817ee47/thumbnail/1200x675/f38a610575a8bcb617825d19d1c98802/gettyimages-1216889099.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
+      "publishedDateTime": "2021-08-19T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars.md",
+      "title": "City Leaders: Here’s Why Urban Tourism Could Skyrocket Due To AI Self-Driving Cars",
+      "excerpt": "Tourism is significant to the economic wellbeing of cities, and we might see a boon in urban tourism due to the advent of AI-based true self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c144d2530a533d7e1f280%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1534%26cropY1%3D29%26cropY2%3D892",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-08-19T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity.md",
+      "title": "This Downturn in Baidu Stock Isn’t a Problem, It’s an Opportunity",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips. China’s popular Internet search engine, Baidu (NASDAQ:BIDU), is known as a tech titan. Nevertheless, the resurgen",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19",
+      "originalUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19?amp",
+      "publishedDateTime": "2021-08-19T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-are-you-ready-for-sentient-disney-robots.md",
+      "title": "Are You Ready for Sentient Disney Robots?",
+      "excerpt": "Some of the animatronics at Disney’s parks have been doing their herky-jerky thing since the Nixon administration. The company knows that nostalgia won’t cut it with today’s children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.html",
+      "originalUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/08/19/business/media/disney-topper-promo/disney-topper-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/business/media/disney-parks-robots.amp.html",
+      "publishedDateTime": "2021-08-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-readspeaker-named-a-2021-speech-industry-award-winner-by-speech-technology-magazine.md",
+      "title": "ReadSpeaker Named a 2021 Speech Industry Award Winner by Speech Technology Magazine",
+      "excerpt": "ReadSpeaker, the most trusted, independent digital voice partner for global businesses, today announced that it was named a Speech Technology Magazine’s 2021 Speech Industry Award winner. ReadSpeaker was selected as a result of the company’s ongoing commitment to delivering industry-leading text-to-speech (TTS) solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-0695b677a7544b35bd94132602da90e9",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-0695b677a7544b35bd94132602da90e9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1098,6 +1024,144 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-intel-xess-is-alchemists-answer-to-dlss-and-fsr-and-can-work-on-anyones-gpu.md",
+      "title": "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU",
+      "excerpt": "Intel has announced that its upcoming lineup of gaming graphics cards, now known as Intel Alchemist, will support a frame rate boosting technology called (XeSS). That bit you might have known already,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/intel-xess-xe-super-sampling/",
+      "originalUrl": "https://www.pcgamer.com/intel-xess-xe-super-sampling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8fgPWdA2DDMJtR4gfRM8ef-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/intel-xess-xe-super-sampling/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/intel-xess-xe-super-sampling/",
+      "publishedDateTime": "2021-08-19T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-tmmi-expands-into-artificial-intelligence-in-co-development-agreement-with-codebaby-inc.md",
+      "title": "TMMI Expands Into Artificial Intelligence In Co-Development Agreement With CodeBaby, Inc.",
+      "excerpt": "Total Multimedia - TMM, Inc. (“TMMI” or the “Company”) (OTC PNK: TMMI). Web site:  TMMI’s Co-Development agreement with virtual character pioneer, CodeBaby, Inc. will propel the Company’s growth into diverse markets through the integration of several new technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-f15820abd6a9a1e0e2798ca46528acf3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years.md",
+      "title": "Intel takes the lid off its biggest chip designs for the coming years",
+      "excerpt": "Intel's top chip architects touted the designs at Intel Architecture Day 2021 in the hopes of instilling confidence in its leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/",
+      "originalUrl": "https://venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/intel-takes-the-lid-off-its-biggest-chip-designs-for-the-coming-years/amp/",
+      "publishedDateTime": "2021-08-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

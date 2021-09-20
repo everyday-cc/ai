@@ -1,141 +1,26 @@
 ---
 category: news
-title: "iRobot Introduces Roomba® j7+ Robot Vacuum with Genius(TM) 3.0 Home Intelligence - Clean the Way You Want, So You Can Human"
-excerpt: "Robots should clean your home exactly how you want them to, understanding your specific instructions and unique preferences. iRobot Corp. (NASDAQ: IRBT), a leader in consumer robots, today is giving customers even more control over their clean with the Roomba ® j7+ robot vacuum and new features powered by iRobot Genius™ 3."
-publishedDateTime: 2021-09-09T04:06:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/09/09/irobot-introduces-roomba-xae-j7-robot-vacuum-with-genius-tm-3-0-home"
-webUrl: "https://stockhouse.com/news/press-releases/2021/09/09/irobot-introduces-roomba-xae-j7-robot-vacuum-with-genius-tm-3-0-home"
+title: "iRobot Introduces Roomba® j7+ Robot Vacuum with Geniustm 3.0 Home Intelligence - Clean the Way You Want, So You Can Human"
+excerpt: "Robots should clean your home exactly how you want them to, understanding your specific instructions and unique preferences. iRobot Corp. , a leader in consumer robots, today is giving customers even more control over their clean with the"
+publishedDateTime: 2021-09-09T04:18:00Z
+originalUrl: "https://www.lelezard.com/en/news-19988400.html"
+webUrl: "https://www.lelezard.com/en/news-19988400.html"
 type: article
-quality: 13
-heat: -1
-published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.multivu.com/players/English/8917451-irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence/image/PetWaste_1630535359137-HR.jpg"
-    width: 2048
-    height: 1536
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-related:
-  - title: "iRobot's Roomba j7+ Robot Vacuum Uses Machine Learning to Avoid Pet Poop"
-    excerpt: "The company is offering a P.O.O.P. (Pet Owner Official Promise) guarantee that its latest robot vac will avoid solid waste."
-    publishedDateTime: 2021-09-09T04:01:00Z
-    webUrl: "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet"
-    ampWebUrl: "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 105
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02r1tXjDU88QfgITP4P7TKQ-1.1631035488.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "The new Roomba J7+ fixes one of the biggest issues with robot vacuums"
-    excerpt: "This is where the best robot vacuums come in useful. You can outsource the chore to an appliance that makes its own way around your home, collecting dust and dirt from your floors and leaving you free to enjoy a well-earned rest."
-    publishedDateTime: 2021-09-09T09:45:00Z
-    webUrl: "https://www.techradar.com/news/the-new-roomba-j7-fixes-one-of-the-biggest-issues-with-robot-vacuums"
-    ampWebUrl: "https://www.techradar.com/amp/news/the-new-roomba-j7-fixes-one-of-the-biggest-issues-with-robot-vacuums"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-new-roomba-j7-fixes-one-of-the-biggest-issues-with-robot-vacuums"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ghTnzhvy3b2bD59gaQrvAT-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "If someone can make a robot that can avoid wires, it’s iRobot. Here’s why."
-    excerpt: "The newest iRobot Roomba can avoid obstacles, but that comes as no surprise given the company's history and work in the robot vacuum field."
-    publishedDateTime: 2021-09-09T15:06:00Z
-    webUrl: "https://www.digitaltrends.com/home/if-anyone-can-make-robot-that-avoids-wires-irobot/"
-    ampWebUrl: "https://www.digitaltrends.com/home/if-anyone-can-make-robot-that-avoids-wires-irobot/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/if-anyone-can-make-robot-that-avoids-wires-irobot/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/irobot-roomba-692-lifestyle-3-of-3.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Roomba j7+ debuts iRobot’s big fix for avoiding cords and pet mess"
-    excerpt: "Robot is launching a new Roomba, and a new brain for its domestic robots, aiming to make domestic help in the modern smart home both smarter and more reliable. The Roomba j7+ will be the first"
-    publishedDateTime: 2021-09-09T04:01:00Z
-    webUrl: "https://www.slashgear.com/roomba-j7plus-debuts-irobots-big-fix-for-avoiding-cords-and-pet-mess-08690142/"
-    ampWebUrl: "https://www.slashgear.com/roomba-j7plus-debuts-irobots-big-fix-for-avoiding-cords-and-pet-mess-08690142/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/roomba-j7plus-debuts-irobots-big-fix-for-avoiding-cords-and-pet-mess-08690142/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/09/Roomba-j7_Lifestyle-Hero.jpg"
-        width: 1440
-        height: 809
-        isCached: true
-  - title: "Making Affordable Robots From iRobot Founder"
-    excerpt: "Rodney Brooks is a co-founder of iRobots and has started other robot companies. Lex Friedman interviewed Rodney about how to make popular robots. iRobot"
-    publishedDateTime: 2021-09-09T16:15:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/making-affordable-robots-from-irobot-founder.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 59
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/Screen-Shot-2021-09-09-at-9.05.36-AM.jpg"
-        width: 1580
-        height: 1006
-        isCached: true
-  - title: "What's In Your Roborock Robot Vacuum"
-    excerpt: "Like your smartphone, your robot vacuum is also jam-packed with all sorts of technology that make it as good as it is. Roborock is one of those companies"
-    publishedDateTime: 2021-09-09T15:00:00Z
-    webUrl: "https://www.androidheadlines.com/technology-inside-your-roborock-robot-vacuum"
-    ampWebUrl: "https://www.androidheadlines.com/technology-inside-your-roborock-robot-vacuum?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/technology-inside-your-roborock-robot-vacuum?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/03/Roborock-S7-AM-AH-1-1.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "iRobot's Most Thoughtful Robot Vacuum, the Roomba j7+ Identifies Obstacles and Avoids Hazards"
-    excerpt: "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3."
-    publishedDateTime: 2021-09-08T23:01:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210909aq92298/irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 28
-    images:
-      - url: "https://www.multivu.com/players/English/8917451-irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence/image/PetWaste_1630535359137-HR.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
-
-secured: "MzsCyhgR3Z4TTf5k+SEJkzFVIjmKYK+ggYtfT1jHeo8C74QXXaQlCiEC89TPA/g2DIcOeHGUkvG4DYj7pjBO1l5N+oplocij1priifRZv6REgvhjo5fPcDh15Llhvm9VD/w+pK7A/O4dx/1HvMYAEHgGqS/80Z0H18q79iQFhSO7b6Ar1SAx9XwoRNEDE9hSuQF4MqD/06Akb1DS67DjwievoEk9QUtDgc0WPKCXonJ4mgd6wFs/b/sPtNupiXRC45VUPICEfJZwTfaaIxmYPBjo0nESGaVlpBhDM8GFpAcmPQoY/eNiv9E+M3UzI/UVBsGVtDw9mliUm3R+hQSm8Si6tROax7wU9w9+4y4XccE=;f7elEh6Zo7C3zKPPW/5Vig=="
+secured: "+rlrCZbojE1xSe6cGaZcJ97LBrZMjpHzjLFHjQMukanmVis+kYVVDsXjQEFBWHEC3xh/tA6PLzYMGHxgc0Uw3Ld9pWtrUAgsXu0nlM7lPt+9kWa5YKEzWR76bBf0DOkZ6I4+Phpj6II0Car2VEmHyqz1aodCXWXkKeGNY2mbdb9ys3oMt0RLy+wz5sCgHb4tmAIQNxiKhLO0rqiMQDnfYtxPzZNrmmD/0S8oK+R93iVPLEbnWgKsx0fvCP7QxwtKEwnqelY1H3B6v5bj1UY7Z0DaiV5wW999p7J/uLNBTipo/MI6Ysuuq33cpGp6XNH47MCQevx112GtlF/iUydB9s361gW0f+9o+aDArJev2mM=;EDruBwTXv4o1jsV1eCirrw=="
 ---
 

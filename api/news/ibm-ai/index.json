@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-14-ibm-watson-set-up-new-ai-and-automations.md",
+      "title": "IBM Watson Set Up New AI and Automations",
+      "excerpt": "IBM (NYSE: IBM) today declare the set up of new AI and automation ability in IBM Watson Assistant plan to make it easier for businesses to create intensify customer service experiences over any channe",
+      "sourceUrl": null,
+      "webUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
+      "originalUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2021/09/vishwanath.png?fit=610%2C380&ssl=1",
+          "width": 610,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NETGEAR",
+        "domain": "smechannels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise.md",
       "title": "Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise",
       "excerpt": "Machine Learning Operations (MLOps) is on the rise as a critical technology to help to scale machine learning in the enterprise. Leading companies have emerged as top machine learning operations tool enablers for the industry to handle these challenges.",
@@ -54,6 +97,49 @@
         "IBM AI",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-ibm-adds-ai-and-automation-to-watson-assistant.md",
+      "title": "IBM Adds AI and Automation to Watson Assistant",
+      "excerpt": "New capabilities in IBM Watson Assistant include enhanced search, transcription, and agent hand-off tools and an integration with IntelePeer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/IBM-Adds-AI-and-Automation-to-Watson-Assistant-148928.aspx",
+      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/IBM-Adds-AI-and-Automation-to-Watson-Assistant-148928.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/139856-0921_WFO_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -140,6 +226,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates.md",
+      "title": "IBM Watson Assistant aims to expand contact center footprint with AI, automation updates",
+      "excerpt": "What is AI? Here's everything you need to know about artificial intelligence IBM also said that Watson Assistant can connect with most contact center platforms without code in as little as an hour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "publishedDateTime": "2021-09-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1226,136 +1355,6 @@
         "IBM AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-foundations-of-trustworthy-ai-guiding-the-workforce.md",
-      "title": "Foundations of trustworthy AI: Guiding the workforce",
-      "excerpt": "As an organization expands its use of AI, its teams should build individual AI solutions that are trustworthy from the start. This requires guiding the workforce so that everyone involved in creating the solutions understands the tenets of trustworthy AI, knows how to apply them, and makes them an integrated",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/08/blog_guide-workforce_2000x1000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T06:00:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-why-artificial-intelligence-isnt-intelligent.md",
-      "title": "Why Artificial Intelligence Isn't Intelligent",
-      "excerpt": "A funny thing happens among engineers and researchers who build artificial intelligence (AI) once they attain a deep level of expertise in their field. Some of them—especially those who understand what actual,",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/opinion/articles/254486-why-artificial-intelligence-isnt-intelligent/fulltext",
-      "originalUrl": "https://cacm.acm.org/opinion/articles/254486-why-artificial-intelligence-isnt-intelligent/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-ai-eye-podcast-ibms-ai-powered-the-weather-company-named-most-accurate-provider-globally-alteryx-achieves-elite-technology-partner-status.md",
-      "title": "AI Eye Podcast - IBM’s AI-Powered The Weather Company Named “Most Accurate Provider Globally,” Alteryx Achieves Elite Technology Partner Status In Snowflake Partnership ...",
-      "excerpt": "Stock News, podcasts - AI, Biotech, Cannabis ... Sheri Bachstein, CEO of The Weather Company and GM of IBM Watson Advertising, said: \"A forecast is most helpful when it comes from a recognized ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
-      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/uploads/2021/7/30/776842-1627667637181148.jpg",
-          "width": 387,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/instablog/776842-investorideas-com/5621430-ai-eye-podcast-ibm-s-ai-powered-weather-company-named-accurate-provider-globally-alteryx",
-      "publishedDateTime": "2021-07-30T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

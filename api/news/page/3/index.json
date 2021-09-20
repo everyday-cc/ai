@@ -2,21 +2,88 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-09-09-motorola-launches-in-car-ai-video-system-for-police-forces.md",
-      "title": "Motorola launches in-car AI video system for police forces",
-      "excerpt": "Motorola has made the M500 camera available for pre-order. It automatically captures footage from the backseat of police cars to ensure any incidents are caught on tape for a later review.",
+      "path": "_news/2021-09-16-dutch-ai-semiconductor-startup-axelera-ai-launches-with-12-million-seed-round.md",
+      "title": "Dutch AI Semiconductor Startup Axelera AI Launches With $12 Million Seed Round",
+      "excerpt": "AI semiconductor startup Axelera AI announced today that it has successfully closed a seed investment round of $12 million. The round was led by emerg",
       "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/",
-      "originalUrl": "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/",
+      "webUrl": "https://www.businesswire.com/news/home/20210915005028/en/Dutch-AI-Semiconductor-Startup-Axelera-AI-Launches-With-12-Million-Seed-Round",
+      "originalUrl": "https://www.businesswire.com/news/home/20210915005028/en/Dutch-AI-Semiconductor-Startup-Axelera-AI-Launches-With-12-Million-Seed-Round",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-aws-to-build-new-uci-track-champions-league-data-platform-for-discovery.md",
+      "title": "AWS to build new UCI Track Champions League data platform for Discovery",
+      "excerpt": "The new AWS fan engagement platform for the UCI Track Champions League is part of new tie-up with media giant's events arm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/",
+      "originalUrl": "https://www.sportspromedia.com/news/aws-uci-track-champions-league-discovery-sports-events-app-cycling-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportsPro",
+        "domain": "sportspromedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
+      "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
+      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631150137_m500_image_story.jpg",
-          "width": 760,
-          "height": 428,
+          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg?p=facebook",
+          "width": 5157,
+          "height": 2699,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,21 +93,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T14:20:00-07:00",
+      "publishedDateTime": "2021-09-15T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,25 +107,26 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-09-what-databrickss-16b-funding-round-means-for-the-enterprise-ai-market.md",
-      "title": "What Databricks’s $1.6B funding round means for the enterprise AI market",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! The latest winner of the growing interest in enterprise AI is Databricks, a startup that has just secured $1.",
+      "path": "_news/2021-09-15-discovery-sportss-uci-goes-on-aws.md",
+      "title": "Discovery Sports’s UCI goes on AWS",
+      "excerpt": "Amazon Web Services (AWS), an Amazon company, has announced a new partnership with Discovery Sports Events, a portfolio of sports brands that reach more than 13",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
-      "originalUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
+      "webUrl": "https://advanced-television.com/2021/09/15/discovery-sportss-uci-goes-on-aws/",
+      "originalUrl": "https://advanced-television.com/2021/09/15/discovery-sportss-uci-goes-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Databricks1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
+          "url": "https://advanced-television.com/wp-content/uploads/2020/03/cyclingUCI-scaled-e1583155839900.jpg",
+          "width": 560,
+          "height": 372,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,23 +134,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
-      "publishedDateTime": "2021-09-08T14:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T08:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -100,24 +150,110 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-09-wells-fargo-applies-machine-learning-robotics-to-accounts-receivable.md",
-      "title": "Wells Fargo applies machine learning, robotics to accounts receivable",
-      "excerpt": "A new service offered by the company helps clients automatically capture payment and invoice information as well as make sure the information matches.",
+      "path": "_news/2021-09-15-russia-broad-facial-recognition-use-undermines-rights.md",
+      "title": "Russia: Broad Facial Recognition Use Undermines Rights",
+      "excerpt": "Russian authorities continue expanding their use of facial recognition technology across the country, with no regulation, oversight, or data protection and against the backdrop of misidentification reports,",
       "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/news/wells-fargo-applies-machine-learning-robotics-to-accounts-receivable",
-      "originalUrl": "https://www.americanbanker.com/news/wells-fargo-applies-machine-learning-robotics-to-accounts-receivable",
+      "webUrl": "https://www.hrw.org/news/2021/09/15/russia-broad-facial-recognition-use-undermines-rights",
+      "originalUrl": "https://www.hrw.org/news/2021/09/15/russia-broad-facial-recognition-use-undermines-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/8063fce/2147483647/strip/true/crop/4000x2100+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F31%2F88%2F4dfb34fd4f2f9a705fe40f371d99%2F377873475.jpg",
+          "url": "https://www.hrw.org/sites/default/files/media_2021/09/202109eca_russia_camkremlin.jpg",
+          "width": 4000,
+          "height": 2690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Human Rights Watch",
+        "domain": "hrw.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-ex-google-exec-describes-4-top-dangers-of-artificial-intelligence.md",
+      "title": "Ex-Google exec describes 4 top dangers of artificial intelligence",
+      "excerpt": "In a new interview, AI expert Kai-Fu Lee explained the top four dangers of burgeoning AI technology: externalities, personal data risks, inability to explain consequential choices, and warfare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/ex-google-exec-describes-4-151942496.html",
+      "originalUrl": "https://www.aol.com/finance/ex-google-exec-describes-4-151942496.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/OMCFK28Dt4bhHOLgwlqBeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDk-/https://s.yimg.com/uu/api/res/1.2/wA97bRVi0JuYSHK2o64MYQ--~B/aD0zNjcxO3c9NTE4NzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_yahoo_finance_433/0afeb9c49cce1078761e83686c42e25e",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-the-top-uk-fintech-trends-to-watch-in-2021.md",
+      "title": "The Top UK Fintech Trends to Watch in 2021",
+      "excerpt": "UK fintech is booming and has reportedly attracted $5.7bn worth of capital in the first 6 months of 2021 through 317 deals completed.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/technology-and-ai/top-uk-fintech-trends-watch-2021",
+      "originalUrl": "https://fintechmagazine.com/technology-and-ai/top-uk-fintech-trends-watch-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1125968713.jpg.png?itok=2J3F74uM",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -129,11 +265,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T13:52:00-07:00",
+      "publishedDateTime": "2021-09-15T08:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -143,27 +279,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
+        "AI in Finance",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-09-money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
-      "title": "Money, mimicry and mind control: Big Tech slams ethics brakes on AI",
-      "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to.",
+      "path": "_news/2021-09-15-heres-how-cyber-threats-are-being-detected-using-deep-learning.md",
+      "title": "Here’s how cyber threats are being detected using deep learning",
+      "excerpt": "Deep learning could be a game-changer in applying machine learning techniques to solve computer security challenges Since deep learning shows great",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
+      "webUrl": "https://techhq.com/2021/09/heres-how-cyber-threats-are-being-detected-using-deep-learning/",
+      "originalUrl": "https://techhq.com/2021/09/heres-how-cyber-threats-are-being-detected-using-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://cdn1.techhq.com/wp-content/uploads/2019/02/000_1CH8SQ.png",
+          "width": 1722,
+          "height": 968,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -173,166 +308,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T13:46:00-07:00",
+      "publishedDateTime": "2021-09-15T08:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-walmart-meredith-look-to-make-food-media-content-shoppable.md",
-      "title": "Walmart, Meredith look to make food media content ‘shoppable’",
-      "excerpt": "Under the partnership, announced Wednesday, consumers will be able to shop for Walmart food and grocery products across Meredith’s portfolio of media brands, including Allrecipes, Better Homes & Gardens,",
-      "sourceUrl": null,
-      "webUrl": "https://www.supermarketnews.com/technology/walmart-meredith-look-make-food-media-content-shoppable",
-      "originalUrl": "https://www.supermarketnews.com/technology/walmart-meredith-look-make-food-media-content-shoppable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/Walmart_Meredith-online_meal_planning.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supermarket News",
-        "domain": "supermarketnews.com",
+        "name": "TechHQ",
+        "domain": "techhq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-database-startup-singlestore-raises-80m.md",
-      "title": "Database startup SingleStore raises $80M",
-      "excerpt": "Database startup SingleStore today announced that it raised $80 million in a series F funding tranche led by Insight Partners, bringing its total raised to over $319 million at a post-money valuation “just shy” of $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/",
-      "originalUrl": "https://venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2013/12/hard-disk-drives-miloussk-shutterstock.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/database-startup-singlestore-raises-75m/amp/",
-      "publishedDateTime": "2021-09-08T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says.md",
-      "title": "Machine learning is a great tool for cybersecurity, but be cautious, expert says",
-      "excerpt": "Supervised and unsupervised machine learning are good ways to detect threats. But what's the difference? TechRepublic's Karen Roby spoke with Chris Ford, VP of product for Threat Stack, about supervised and unsupervised machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
-      "originalUrl": "https://www.techrepublic.com/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/08/71859f8e-a1a5-4870-9362-9cb9a8581f7a/thumbnail/1200x675/68c3d582211ee59ed85ef0b8f319e370/20210903-supervisedml-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
-      "publishedDateTime": "2021-09-08T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -346,21 +327,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-09-us-government-forms-committee-to-advise-on-ai-competitiveness-ethics.md",
-      "title": "US government forms committee to advise on AI competitiveness, ethics",
-      "excerpt": "The newly-formed committee will advise the President of AI matters. It's no surprise that artificial intelligence is the future. So much so that the Department of Commerce is forming the National Artificial Intelligence Advisory Committee to focus on a range of issues related to AI.",
+      "path": "_news/2021-09-15-inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company.md",
+      "title": "Inside DeepL: The World’s Fastest-Growing, Most Secretive Machine Translation Company",
+      "excerpt": "Deep dive into DeepL machine translation, approach to neural networks, quality performance, enterprise solutions, new features, users, and growth.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
-      "originalUrl": "https://www.cnet.com/tech/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
+      "webUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
+      "originalUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/orFpM_Oy4mABsx_WzkpE1aobQQE=/1200x630/2019/11/12/d639dcdb-6b23-4be9-8a2a-dfd997c6bc9d/ai-artificial-intelligence-8959.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://slator.com/assets/2021/09/Deepl-Machine-Translation-Company.png",
+          "width": 600,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -368,23 +349,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-forms-committee-to-advise-on-ai-competitiveness-ethics/",
-      "publishedDateTime": "2021-09-08T11:22:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -393,26 +365,27 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI",
-        "AI Ethics"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2021-09-09-telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa.md",
-      "title": "Telkom launches AI technology platform to overcome language barriers in SA",
-      "excerpt": "Telkom said Izwe.ai offers transcription and translation across a range of languages, as well as a number of text classification and entity extraction services.",
+      "path": "_news/2021-09-15-top-10-massive-failures-of-artificial-intelligence-till-date.md",
+      "title": "Top 10 Massive Failures of Artificial Intelligence Till Date",
+      "excerpt": "The creation of Artificial Intelligence has been postponed for several millennia and current AI Technology is still far from being able to re-design itself. This article will give an idea of the top AI Failures in this AI era.",
       "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
-      "originalUrl": "https://www.iol.co.za/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
+      "webUrl": "https://www.analyticsinsight.net/top-10-massive-failures-of-artificial-intelligence-till-date/",
+      "originalUrl": "https://www.analyticsinsight.net/top-10-massive-failures-of-artificial-intelligence-till-date/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image-prod.iol.co.za/resize/650x366/Telkom-said-Izwe-ai-offers-transcription-and-translation-across-a-range-of-languages-as-well-as-a-number-of-text-classification-and-entity-extraction-services-Picture-Thobile-Mathonsi?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fe4d1dd1-b3b6-508b-89d9-cb723f4100eb&operation=CROP&offset=108x0&resize=1794x1009",
-          "width": 650,
-          "height": 366,
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-10-Massive-Failures-of-Artificial-Intelligence-till-Date.jpg",
+          "width": 900,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -420,13 +393,185 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
-      "publishedDateTime": "2021-09-08T11:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T06:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-walmart-partners-with-ford-to-test-self-driving-delivery-in-3-cities.md",
+      "title": "Walmart partners with Ford to test self-driving delivery in 3 cities",
+      "excerpt": "Retail giant Walmart announced on Wednesday that it's partnering with Ford and an artificial intelligence company to test a self-driving delivery service in three American cities in the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/8241631708927/2021/1/7539b99d39407142a709854e4177d7a9/v1.5/Walmart-partners-with-Ford-to-test-self-driving-delivery-in-3-cities.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
+      "publishedDateTime": "2021-09-15T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-brytlyt-unleashes-serverless-gpu-acceleration-for-analytics.md",
+      "title": "Brytlyt Unleashes Serverless GPU-Acceleration for Analytics",
+      "excerpt": "Brytlyt is the world's first serverless software-as-a-service analytics platform with GPU acceleration, bringing revolutionary",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-301377668.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-301377668.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1315458/Brytlyt_Logo.jpg?p=facebook",
+          "width": 2697,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-why-even-marketers-should-understand-the-value-of-machine-learning.md",
+      "title": "Why Even Marketers Should Understand the Value of Machine Learning",
+      "excerpt": "In this contributed article, Dr. Peter Day, Chief Technology Officer at Quantcast, discusses how leading marketers are making use of widely available machine learning and AI-powered solutions that can do the hard work of spotting signals in the noise.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/2021/09/15/why-even-marketers-should-understand-the-value-of-machine-learning/",
+      "originalUrl": "https://insidebigdata.com/2021/09/15/why-even-marketers-should-understand-the-value-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2019/12/Machine_Learning_shutterstock_344688470.jpg",
+          "width": 300,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-toronto-based-private-ais-language-redaction-tool-attracts-315-million-in-seed-funding.md",
+      "title": "Toronto-based Private AI’s language redaction tool attracts $3.15 million in seed funding",
+      "excerpt": "Along with Forum Ventures, M12 co-led a $3.15 million round in seed funding for the Toronto-based AI firm Private AI.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/toronto-based-private-ais-language-redaction-tool-attracts-3-15-million-in-seed-funding/",
+      "originalUrl": "https://betakit.com/toronto-based-private-ais-language-redaction-tool-attracts-3-15-million-in-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2018/04/data.jpeg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -441,21 +586,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-09-synthetic-data-will-feed-ai-hunger.md",
-      "title": "Synthetic Data Will ‘Feed’ AI Hunger",
-      "excerpt": "Synthetic data in the context of AI vision systems refers to annotated images that have been created from computer generated, photo-realistic, 3D environments containing objects, things, people (or anything).",
+      "path": "_news/2021-09-15-bosch-driverless-the-journey-begins.md",
+      "title": "Bosch DRIVERLESS: the journey begins",
+      "excerpt": "Close your eyes. Let your imagination flow. What is your dream? Think about it. Done? If the answer you gave is 'working in the world of racing,' then everything written below will sound very interesting to you.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/",
+      "webUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
+      "originalUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61387564dc9b4ee805f2fe73%2F0x0.jpg",
+          "url": "https://cdn-1.motorsport.com/images/amp/YP3Jzlj2/s6/bosch-driverless-intro-1.jpg",
           "width": 1200,
-          "height": 746,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -463,56 +608,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/09/08/synthetic-data-will-feed-ai-hunger/amp/",
-      "publishedDateTime": "2021-09-08T10:42:00-07:00",
+      "ampWebUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
+      "cdnAmpWebUrl": "https://it-motorsport-com.cdn.ampproject.org/c/s/it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
+      "publishedDateTime": "2021-09-15T05:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector.md",
-      "title": "2 Leveraged Plays to Take Advantage of AI in the Transportation Sector",
-      "excerpt": "A rtificial intelligence (AI) is already revolutionizing the transportation sector, putting a pair of Direxion Investments' leveraged exchange-traded funds (ETFs) on notice for traders to consider. From driverless applications to inter-connectivity between drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08",
-      "originalUrl": "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-leveraged-plays-to-take-advantage-of-ai-in-the-transportation-sector-2021-09-08?amp",
-      "publishedDateTime": "2021-09-08T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Motorsport",
+        "domain": "motorsport.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -522,27 +624,61 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-08-intel-ceo-believes-over-20-percent-of-premium-vehicles-bill-of-materials-will-be-dedicated-to-chips-by-2030.md",
-      "title": "Intel CEO believes over 20 percent of premium vehicles' bill of materials will be dedicated to chips by 2030",
-      "excerpt": "The predictions presented at IAA Mobility by Pat Gelsinger, Intel's CEO, represent 5x growth over 11 years. Besides the increase of semiconductors to manufacture premium vehicles,",
+      "path": "_news/2021-09-15-in-car-speech-recognition-system-market-2021-analysis-by-top-manufacturers-lumenvox-microsoft-alphabet.md",
+      "title": "In-car Speech Recognition System Market 2021 Analysis by Top Manufacturers - LumenVox, Microsoft, Alphabet",
+      "excerpt": "The In car Speech Recognition System Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market",
       "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
-      "originalUrl": "https://www.techspot.com/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
+      "webUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "originalUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "publishedDateTime": "2021-09-15T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-fintech-startup-pagaya-could-go-public-in-9b-spac-deal.md",
+      "title": "FinTech Startup Pagaya Could Go Public in $9B SPAC Deal",
+      "excerpt": "FinTech Pagaya Technologies is mulling a public offering via a merger with the SPAC EJF Acquisition Corp that would value the startup at roughly $9 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
+      "originalUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-08-image-24.jpg",
-          "width": 2093,
-          "height": 1308,
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1501769132-457x274.jpg",
+          "width": 457,
+          "height": 274,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -550,16 +686,93 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91152-intel-ceo-believes-over-20-percent-premium-vehicles.html",
-      "publishedDateTime": "2021-09-08T09:10:00-07:00",
+      "ampWebUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
+      "publishedDateTime": "2021-09-15T05:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
+      "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
+      "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "originalUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "legalitprofessionals.com",
+        "domain": "legalitprofessionals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-ai-edge-hardware-startup-deep-vision-nabs-35m.md",
+      "title": "AI edge hardware startup Deep Vision nabs $35M",
+      "excerpt": "Deep Vision, a company developing an AI accelerator chip and software suite for edge computing workloads, today announced that it closed a $35 million series B financing round led by Tiger Global, with participation from Exfinity Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/",
+      "originalUrl": "https://venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Deep-Vision-U.2-PCIe.png?w=600&resize=600%2C600&strip=all",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/amp/",
+      "publishedDateTime": "2021-09-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -580,223 +793,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-08-disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience.md",
-      "title": "Disrupting The Contact Center With Machine Learning: Differentiating On Customer Experience",
-      "excerpt": "They seek always-on, personalized service on every channel where they engage with the brands — even as these brands struggle to balance between delighting customers and reduce operational costs. The contact center sits at the epicenter of brands’ battle for CX.",
+      "path": "_news/2021-09-15-iit-bombay-launches-project-udaan-a-language-translator.md",
+      "title": "IIT Bombay launches Project Udaan, a language translator",
+      "excerpt": "Language is more than just a medium of communication, it is the unseen thread that connects our past, present, and future” – VP M. Venkaiah Naidu What separates human beings from the rest of the living creatures is their ability to speak and be understood.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/08/disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/08/disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience/",
+      "webUrl": "https://newsonair.com/2021/09/15/iit-bombay-launches-project-udaan-a-language-translator/",
+      "originalUrl": "https://newsonair.com/2021/09/15/iit-bombay-launches-project-udaan-a-language-translator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6138d85aba81003171f2fe73%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/09/08/disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/09/08/disrupting-the-contact-center-with-machine-learning-differentiating-on-customer-experience/amp/",
-      "publishedDateTime": "2021-09-08T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma.md",
-      "title": "AI Self-Driving Cars And The Looming Aggregated Statistical Trolley Dilemma",
-      "excerpt": "A worthwhile revisit of the infamous Trolley Problem associated with AI-based true self-driving cars and giving due consideration to scaling up toward the Statistical Trolley Dilemma.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611596531f4c966b2706b5a1%2F0x0.jpg%3FcropX1%3D44%26cropX2%3D754%26cropY1%3D0%26cropY2%3D533",
-          "width": 710,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/08/ai-self-driving-cars-and-the-looming-aggregated-statistical-trolley-dilemma/amp/",
-      "publishedDateTime": "2021-09-08T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids.md",
-      "title": "A Chinese EV startup wants to build a ridable robot unicorn for kids",
-      "excerpt": "Never mind buying a robot dog for your kids — you might just get them a mythical creature instead. Chinese EV maker Xpeng has teased a robot unicorn meant for children to ride.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/08/a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids/",
-      "originalUrl": "https://techcrunch.com/2021/09/08/a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/xpeng-unicorn.jpg?w=1024",
-          "width": 1024,
+          "url": "https://newsonair.com/wp-content/uploads/2021/06/cropped-12-1.png",
+          "width": 512,
           "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/08/a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/08/a-chinese-ev-startup-wants-to-build-a-ridable-robot-unicorn-for-kids/amp/",
-      "publishedDateTime": "2021-09-08T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-machine-learning-predicts-patient-response-to-rheumatoid-arthritis-therapy.md",
-      "title": "Machine Learning Predicts Patient Response to Rheumatoid Arthritis Therapy",
-      "excerpt": "Rheumatoid arthritis treatment may soon be personalized based on new molecular signature models that accurately predicted patient responses to adalimumab and etanercept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
-      "originalUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.practicalpainmanagement.com/sites/default/files/images/2021/09/02/iStock-536845412.jpg",
-          "width": 1287,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.practicalpainmanagement.com/amp/38232",
-      "cdnAmpWebUrl": "https://www-practicalpainmanagement-com.cdn.ampproject.org/c/s/www.practicalpainmanagement.com/amp/38232",
-      "publishedDateTime": "2021-09-08T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Opioid Calculator",
-        "domain": "practicalpainmanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-what-the-ai-economy-means-for-cities.md",
-      "title": "What the AI Economy Means for Cities",
-      "excerpt": "In the future, AI may help doctors make better diagnoses and power entirely self-driving vehicles. In this regard, AI is a truly epoch-making advance, considered by experts to be a “general-purpose technology” like the wheel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-bay-area-dominates-race-for-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-08/san-francisco-bay-area-dominates-race-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBoHcLSm2_Ac/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -806,261 +817,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T07:02:00-07:00",
+      "publishedDateTime": "2021-09-15T03:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-the-massive-though-less-flashy-opportunity-in-fintech.md",
-      "title": "The Massive (Though Less Flashy) Opportunity In FinTech",
-      "excerpt": "The best value for investors will be unlocked by companies that figure out how to enable the big players to take advantage of the innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa04090dbe6060713a7319b%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/amp/",
-      "publishedDateTime": "2021-09-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling.md",
-      "title": "Sonoco (SON) Inks Deal With AMP Robotics, Boosts Paper Can Recycling",
-      "excerpt": "Sonoco Products Company SON has joined forces with AMP Robotics to recycle the spiral wound paper canister with steel bottom produced by it and other manufacturers. Recycled steel usage has a 45% lesser environmental impact when compared to producing an equal amount from a virgin material,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08",
-      "originalUrl": "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08?amp",
-      "publishedDateTime": "2021-09-08T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "NEWS ON AIR",
+        "domain": "newsonair.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-the-pentagons-robot-warship-just-fired-its-first-missile.md",
-      "title": "The Pentagon’s Robot Warship Just Fired Its First Missile",
-      "excerpt": "One of the U.S. Defense Department’s two prototype robot warships just fired its first missile. The military on Friday hailed the test-launch of an SM-6 missile from the Unmanned Surface Vessel Ranger,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot-warships-just-fired-their-first-missiles/",
-      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot-warships-just-fired-their-first-missiles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6137d6cc26410bfa71ebcb59%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1104%26cropY1%3D74%26cropY2%3D591",
-          "width": 1104,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot-warships-just-fired-their-first-missiles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot-warships-just-fired-their-first-missiles/amp/",
-      "publishedDateTime": "2021-09-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-how-ai-driven-commerce-can-help-renew-american-innovation.md",
-      "title": "How AI-Driven Commerce Can Help Renew American Innovation",
-      "excerpt": "AI can strengthen market research by providing a more objective analysis, which can help product teams avoid the biases that affect human researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613787adb10c04cef61e6760%2F0x0.jpg",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/09/08/how-ai-driven-commerce-can-help-renew-american-innovation/amp/",
-      "publishedDateTime": "2021-09-08T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-ai-is-redefining-how-we-use-documents-in-a-digital-world.md",
-      "title": "AI Is Redefining How We Use Documents In A Digital World",
-      "excerpt": "AI-powered intelligent document processing is helping to convert unstructured data in digital documents into structured data that can be fed into downstream applications to automate business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376154fe77d3ed291e6760%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/",
-      "publishedDateTime": "2021-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1074,63 +836,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-08-in-the-us-the-ai-industry-risks-becoming-winner-take-most.md",
-      "title": "In the US, the AI Industry Risks Becoming Winner-Take-Most",
-      "excerpt": "A new study warns that the American AI industry is highly concentrated in the San Francisco Bay Area and that this could prove to be a weakness in the long run. The Bay leads all other regions of the country in AI research and investment activity,",
+      "path": "_news/2021-09-15-ai-medicine-software-market-size-2021-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to.md",
+      "title": "AI Medicine Software Market Size 2021 Global Industry Current Trends, Top Companies, Application, Growth Factors, Development and Forecast to 2027",
+      "excerpt": "Sep 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global AI Medicine Software Market",
       "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/the-geography-of-ai/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/in-the-us-the-ai-industry-risks-becoming-winner-take-most/ar-AAOdK3S",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-size-2021-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to-2027-2021-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-size-2021-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to-2027-2021-09-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.brookings.edu/wp-content/uploads/2021/08/shutterstock_1201834804.jpeg",
-          "width": 5555,
-          "height": 3125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/the-geography-of-ai/?amp",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-geography-of-ai/?amp",
-      "publishedDateTime": "2021-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brookings.edu/research/the-geography-of-ai/",
-        "domain": "brookings.edu/research/the-geography-of-ai/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold.md",
-      "title": "BHP inks exploration deal with Gates and Bezos-backed KoBold",
-      "excerpt": "The world’s largest miner will use artificial intelligence tools developed by KoBold Metals, a start-up backed by a coalition of billionaires.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/",
-      "originalUrl": "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mining.com/wp-content/uploads/2021/09/ai-in-mining.jpeg",
-          "width": 900,
-          "height": 500,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1140,12 +860,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T03:55:00-07:00",
+      "publishedDateTime": "2021-09-15T02:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mining",
-        "domain": "mining.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1154,25 +883,26 @@
         "news"
       ],
       "topics": [
+        "Google AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-08-secureauth-identity-security-solutions-now-available-in-aws-marketplace.md",
-      "title": "SecureAuth Identity Security Solutions Now Available in AWS Marketplace",
-      "excerpt": "SecureAuth, an identity security leader, today announced the availability of the SecureAuth Identity Platform and the SecureAuth Identity Store in AWS Marketplace. AWS Marketplace is a digital catalog with thousands of software listings",
+      "path": "_news/2021-09-15-discovery-and-aws-partner-for-uci-track-champions-league.md",
+      "title": "Discovery and AWS partner for UCI Track Champions League",
+      "excerpt": "Discovery Sports has turned to Amazon Web Services to provide fan engagement experiences for the upcoming UCI Track Champions League. AWS will deliver cloud infrastructure for the competition, as well as becoming the official cloud,",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19986009.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19986009.html",
+      "webUrl": "https://www.broadcastnow.co.uk/tech-innovation/discovery-and-aws-partner-for-uci-track-champions-league/5163323.article",
+      "originalUrl": "https://www.broadcastnow.co.uk/tech-innovation/discovery-and-aws-partner-for-uci-track-champions-league/5163323.article",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/6/8/1/1353681_mathildegroscyclingawsucitrackchampionsleaguestats_297404.jpg",
+          "width": 1024,
+          "height": 536,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1182,11 +912,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T03:13:00-07:00",
+      "publishedDateTime": "2021-09-15T02:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "Broadcast",
+        "domain": "broadcastnow.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1197,8 +927,145 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "AI in Security"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot.md",
+      "title": "Wells Fargo taps Microsoft Azure, Google Cloud for its multi-cloud pivot",
+      "excerpt": "Banking giant Wells Fargo said it is adopting a multi-cloud strategy that combines its data centers with cloud compute from Microsoft Azure and Google Cloud. Under the new digital",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
+      "originalUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
+      "publishedDateTime": "2021-09-15T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-artificial-neural-networks-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast.md",
+      "title": "Artificial Neural Networks Market Segmentation, Production Cost, Size, Share, Supply Chain Analysis with Future Forecast",
+      "excerpt": "Sep 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Neural Networks",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast-2021-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast-2021-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-aws-announces-winners-of-the-apn-awards-2021-in-india.md",
+      "title": "AWS Announces Winners of the APN Awards 2021 in India",
+      "excerpt": "Award winners for 2021 were announced at the AWS Partner Summit Online in India, recognizing the technology leaders playing a key role in helping organisations build solutions on AWS and accelerate innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/tech/aws-announces-winners-of-the-apn-awards-2021-in-india.html",
+      "originalUrl": "https://technuter.com/tech/aws-announces-winners-of-the-apn-awards-2021-in-india.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg",
+          "width": 277,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

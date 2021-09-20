@@ -2,201 +2,19 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2021-08-20-aws-deepracer-robomaker-image.md",
-      "title": "AWS DeepRacer Robomaker Image",
-      "excerpt": "AVX is available on most Intel Core processors from the second generation on - running DeepRacer on an older processor really does not make sense; hence we do not have pre-built images without this instruction set. AVX2 is available on more modern Intel ...",
+      "path": "_news/2021-08-25-energy-efficient-ai-chips-for-diagnostics.md",
+      "title": "Energy-Efficient AI Chips For Diagnostics",
+      "excerpt": "Researchers developed energy-efficient AI chips for diagnosing a common cardiac condition called atrial fibrillation.",
       "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer-community/deepracer-simapp/blob/master/README.md",
-      "originalUrl": "https://github.com/aws-deepracer-community/deepracer-simapp/blob/master/README.md",
+      "webUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics",
+      "originalUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://opengraph.githubassets.com/8974c5509d5b27c060e4a5c74d508fdf14e2b3b8566b937df0d97c131812003a/aws-deepracer-community/deepracer-simapp",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-waymos-autonomous-vehicles-have-clocked-20-million-miles-on-public-roads.md",
-      "title": "Waymo's autonomous vehicles have clocked 20 million miles on public roads",
-      "excerpt": "Waymo has been testing its vehicles in San Francisco since 2009 and it ramped up its efforts in the city earlier this year. Its vehicles now clock north of 100,000 miles on SF's roads every week. Between narrow streets,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
-      "originalUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/2229add0-0124-11ec-bfdd-21d53ef207c7",
-          "width": 2048,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-baidu-reveals-its-maximally-autonomous-robocar.md",
-      "title": "Baidu reveals its maximally autonomous ‘robocar’",
-      "excerpt": "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet ... Kunlun chip specialised in calculations and artificial intelligence seems to be part of the solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/08/20/1262768.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-ros-open-source-solutions.md",
-      "title": "ROS / Open Source Solutions",
-      "excerpt": "Amazon launched SageMaker Reinforcement Learning (RL) Kubeflow Components, an open-source toolkit designed to help manage robotics workflows. SageMaker RL is designed to make it faster to develop machine learning capabilities for everything from perception ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/category/technologies/ros-open-source/",
-      "originalUrl": "https://www.therobotreport.com/category/technologies/ros-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/ros-world-2021-logo-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-sd-times-news-digest-microsoft-acquires-jclarity-julia-12-released-and-eggplants-automated-testing-capability.md",
-      "title": "SD Times news digest: Microsoft acquires jClarity, Julia 1.2 released, and Eggplant’s automated testing capability",
-      "excerpt": "The new AutoML capabilities include a AutoML Toolkit, an end-to-end machine learning pipeline, automated model search, automated hyperparameter tuning, and integration with Azure Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
-      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/08/coffee-1117933_640-1.jpg",
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/08/iis-itwm-energy-efficient-ai-chips-for-atrial-fibrillation-detection-pic-2.jpg",
           "width": 640,
           "height": 426,
           "title": null,
@@ -206,433 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T17:00:00-07:00",
+      "ampWebUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/energy-efficient-ai-chips-for-diagnostics/amp",
+      "publishedDateTime": "2021-08-24T23:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-ut-southwestern-pioneers-pulsar-integrated-radiotherapy-with-immunotherapy-for-improved-tumor-control.md",
-      "title": "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control",
-      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/926055",
-      "originalUrl": "https://www.eurekalert.org/news-releases/926055",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-tesla-to-hold-ai-day-at-a-time-of-new-scrutiny-what-to-expect.md",
-      "title": "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect",
-      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-387828?width=700&height=466",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "publishedDateTime": "2021-08-19T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-top-gun-star-lost-his-voice-to-cancer-he-used-ai-to-bring-it-back.md",
-      "title": "'Top Gun' star lost his voice to cancer. He used AI to bring it back.",
-      "excerpt": "Actor Val Kilmer lost his voice in 2015 due to complications to throat cancer. For his new documentary \"Val,\" Kilmer sought out a company to create a synthetic version of his voice using audio deepfake technology to be used as a voiceover.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
-      "originalUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721144935-val-kilmer-documentary-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
-      "publishedDateTime": "2021-08-19T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-companies-betting-on-data-must-value-people-as-much-as-ai.md",
-      "title": "Companies betting on data must value people as much as AI",
-      "excerpt": "The truth is, we are still early when it comes to data transformation. The success of tech giants that put data at the core of their business models set off a spark that is only starting to take off.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
-      "originalUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-626953732.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
-      "publishedDateTime": "2021-08-19T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-eq-inc-reports-second-quarter-financial-results.md",
-      "title": "EQ Inc. Reports Second Quarter Financial Results",
-      "excerpt": "Revenue increases 71% for the quarter and 74% year over year. TORONTO, ON / ACCESSWIRE / August 19, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or the “Company”), a leader in geo",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027.md",
-      "title": "Artificial Intelligence in Retail Market Size, Growth and Forecast Analysis By 2027",
-      "excerpt": "A recent research report on the Global \"Artificial Intelligence in Retail Market\" presents a complete overview",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-remote-sensing-and-machine-learning-reveal-archaic-shell-rings.md",
-      "title": "Remote sensing and machine learning reveal Archaic shell rings",
-      "excerpt": "Deep in the dense coastal forests and marshes of the American Southeast lie shell rings and shell mounds left by Indigenous people 3,000 to 5,000 years ago. Now an international team of researchers, using deep machine learning to assess remote sensing data,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
-      "originalUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/remote-sensing-and-mac.jpg",
-          "width": 992,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp",
-      "publishedDateTime": "2021-08-19T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
-      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
-      "excerpt": "America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of Hazard Identification and Reduction (EXHR) will participate in an ASTM task group teleconference to discuss drowning sensor detection systems in residential swimming pools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpsc.gov/es/Newsroom/Public-Calendar/2021-09-13-150000/susan-bathalon-participating-in-an-astm-task-group",
-      "originalUrl": "https://www.cpsc.gov/es/Newsroom/Public-Calendar/2021-09-13-150000/susan-bathalon-participating-in-an-astm-task-group",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consumer Protection Safety Commission",
-        "domain": "cpsc.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-intel-arc-gaming-gpu-price-specs-and-availability.md",
-      "title": "Intel Arc gaming GPU: Price, specs and availability",
-      "excerpt": "Intel’s highly-anticipated Arc GPU is anticipated to present players a much-needed third choice to AMD and Nvidia when launched. As a result of we all know you do extra studying about gaming GPUs than really utilizing them nowadays,",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/intel-arc-gaming-gpu-price-specs-and-availability/",
-      "originalUrl": "https://bestgamingpro.com/intel-arc-gaming-gpu-price-specs-and-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2021/08/Intel-Arc-gaming-GPU-Price-specs-and-availability.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -647,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-20-aws-announces-general-availability-of-amazon-memorydb-for-redis.md",
-      "title": "AWS Announces General Availability of Amazon MemoryDB for Redis",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon MemoryDB for Redis, a fully managed, Redis-compatible, in-memory database. Amazon MemoryDB for Redis enables customers to achieve ultra-fast performance with high availability and durability for their most business-critical applications that require sub-millisecond response times.",
+      "path": "_news/2021-08-25-microsoft-teams-now-teachers-can-monitor-students-reading-fluency-with-ai.md",
+      "title": "Microsoft Teams: Now teachers can monitor students' reading fluency with AI",
+      "excerpt": "Reading Progress will help teachers build students' confidence and reading fluency at a time when face-to-face contact is less frequent.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
+      "webUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/25/ff85b97e-6397-4e80-9b0e-d4c6a7f94694/teams-reading-progress.jpg",
+          "width": 770,
+          "height": 433,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -669,14 +67,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T10:22:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-teachers-get-a-free-ai-tool-to-monitor-students-reading-fluency/",
+      "publishedDateTime": "2021-08-24T22:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -685,26 +92,26 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2021-08-20-amazon-taps-its-socialbot-challenge-to-boost-conversational-ai.md",
-      "title": "Amazon taps its SocialBot challenge to boost conversational AI",
-      "excerpt": "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re",
+      "path": "_news/2021-08-25-alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse.md",
+      "title": "Alethea AI raises $16M in private token sale for intelligent NFTs for the metaverse",
+      "excerpt": "Alethea AI, creator of the \"intelligent NFTs,\" or iNFTs, has raised $16 million in a private token sale to a group of investors.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
+      "webUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 201,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/alice.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 645,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -712,9 +119,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
-      "publishedDateTime": "2021-08-19T10:15:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/alethea-ai-raises-16m-in-private-token-sale-for-intelligent-nfts-for-the-metaverse/amp/",
+      "publishedDateTime": "2021-08-24T20:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -741,21 +148,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-19-baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip.md",
-      "title": "Baidu Just Launched a \"Robocar\" Prototype With Its New AI Chip",
-      "excerpt": "Chinese tech giant Baidu just unveiled its new artificial ... one of the world's biggest tech firms by focusing on AI and self-driving solutions. Baidu said the new chip, which uses 7 nm process ...",
+      "path": "_news/2021-08-25-how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data.md",
+      "title": "How small and mid-size ecommerce retailers can take advantage of AI — without tech giant-level data",
+      "excerpt": "\"90% of consumers say they expect online shopping to be equal to or better than in-store, but half are experiencing crushing disappointment.\"",
       "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "originalUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "webUrl": "https://venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyWrKL6Q/sizes/baidu_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/colleagues-collaborating.GettyImages-1028772240.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 690,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -763,60 +170,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "publishedDateTime": "2021-08-19T09:56:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/how-small-and-mid-size-ecommerce-retailers-can-take-advantage-of-ai-without-tech-giant-level-data/amp/",
+      "publishedDateTime": "2021-08-24T20:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction.md",
-      "title": "Cast AI Eyes A Hybrid Goldmine: Cloud Cost Reduction",
-      "excerpt": "A major focus is on suppliers of cloud Kubernetes services, including Amazon EKS, Google GKS, Kubernetes Operation (Kops), and Microsoft’s Azure Kubernetes Services (AKS). The CAST AI engine does this by using Cloud Service Provider (CSP) accounts to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
-      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f872e59a2c190b8db859662%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D400%26cropY1%3D0%26cropY2%3D400",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
-      "publishedDateTime": "2021-08-19T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -832,26 +195,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-19-google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more.md",
-      "title": "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More",
-      "excerpt": "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars.",
+      "path": "_news/2021-08-25-watch-san-franciscans-take-a-ride-in-waymos-self-driving-car.md",
+      "title": "Watch San Franciscans take a ride in Waymo’s self-driving car",
+      "excerpt": "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program.",
       "sourceUrl": null,
-      "webUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
-      "originalUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
+      "webUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
+      "originalUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 199,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.cdn.autoevolution.com/images/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674-7.jpg",
-          "width": 728,
-          "height": 300,
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dsc_0570.jpg",
+          "width": 1500,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -859,14 +221,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T09:38:00-07:00",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
+      "publishedDateTime": "2021-08-24T20:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "autoevolution.com",
-        "domain": "autoevolution.com",
-        "images": null,
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -876,26 +247,25 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-08-19-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
-      "title": "Intel architect Koduri says every chip will be a neural net processor",
-      "excerpt": "Intel's Xeon chips have tended to dominate the market for AI inference, but Nvidia has been making inroads. Intel has litle share in neural network training while Nvidia dominates the field with its GPUs. Koduri said the company intends to compete against ...",
+      "path": "_news/2021-08-25-artificial-intelligence-ai-chips-market-may-set-new-growth-story-qualcomm-mythic-amd.md",
+      "title": "Artificial Intelligence (Ai) Chips Market May Set New Growth Story | Qualcomm, Mythic, AMD",
+      "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence Ai Chips Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development landscape",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "webUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
+      "originalUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg",
-          "width": 365,
-          "height": 310,
+          "url": "https://cdn.openpr.com/U/8/U825941161_g.jpg",
+          "width": 450,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -903,9 +273,52 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "publishedDateTime": "2021-08-19T09:15:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
+      "publishedDateTime": "2021-08-24T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks.md",
+      "title": "Cerebras prepares for the era of 120 trillion-parameter neural networks",
+      "excerpt": "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/24/a9840569-346e-4256-83d9-a981a1f2c01d/hc2021-cerebras-embargoed-8-24-slide-10.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
+      "publishedDateTime": "2021-08-24T17:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -928,28 +341,37 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Natural Language Processing",
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-08-19-diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction.md",
-      "title": "Diamond Age Raises $8 Million Seed Round to Advance Robotics and 3D Printing for Affordable Home Construction",
-      "excerpt": "Diamond Age, a full stack robotics startup that is automating new home construction to make home ownership more affordable, raised an $8 million seed round led by Prime Movers Lab and Alpaca VC. Additional investors include Dolby Family Ventures,",
+      "path": "_news/2021-08-25-data-science-is-one-of-the-fastest-growing-fields-here-are-16-affordable-online-courses-and-certificate-programs-perfect-for-beginners.md",
+      "title": "Data science is one of the fastest growing fields. Here are 16 affordable online courses and certificate programs perfect for beginners.",
+      "excerpt": "Developing AI Applications on Azure LearnQuest is an Apple Authorized Global Training Provider, and this course introduces the concepts of artificial intelligence and machine learning to students ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
+      "webUrl": "https://www.businessinsider.com/data-science-courses-online",
+      "originalUrl": "https://www.businessinsider.com/data-science-courses-online",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe0c444d366e600180994d7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T09:00:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/data-science-courses-online?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-science-courses-online?amp",
+      "publishedDateTime": "2021-08-24T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -972,26 +394,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-19-new-windows-10-previews-arrive-for-versions-21h2-and-21h1.md",
-      "title": "New Windows 10 previews arrive for versions 21H2 and 21H1",
-      "excerpt": "and Azure IoT Edge for Linux on Windows (EFLOW) deployments for machine learning. It moves 21H2 to build number 19044.1200. The best laptops: Our recommended models for every use case and platform New year, new laptop? These are the devices that should be ...",
+      "path": "_news/2021-08-25-samsung-unveils-advanced-ai-memory-chips.md",
+      "title": "Samsung unveils advanced AI memory chips",
+      "excerpt": "as the chip titan has unveiled new memory chips featuring artificial intelligence (AI) technology, the company said Tuesday. The company unveiled and introduced how the new products are used at Hot Chips, an annual semiconductor industry conference for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?tw",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?tw",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/15/70041633-d204-4909-8e5f-a88cf817ee47/thumbnail/1200x675/f38a610575a8bcb617825d19d1c98802/gettyimages-1216889099.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202108/1c42dfb5b5aa4a22942002c3dad99aa1.jpg",
+          "width": 980,
+          "height": 692,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -999,16 +421,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "publishedDateTime": "2021-08-19T08:35:00-07:00",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
+      "publishedDateTime": "2021-08-24T16:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation.md",
+      "title": "Baidu's AI voice assistant Xiaodu closes funding at $5.1 billion valuation",
+      "excerpt": "FILE PHOTO: Men interact with a Baidu AI robot near the company logo at its headquarters in Beijing, China April 23, 2021. REUTERS/Florence Lo/File Photo (Reuters) - Tesla Inc's Chief Executive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/baidus-ai-voice-assistant-xiaodu-closes-idUSKBN2FP0VB",
+      "originalUrl": "https://www.reuters.com/news/picture/baidus-ai-voice-assistant-xiaodu-closes-idUSKBN2FP0VB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572781393&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N0FF",
+          "width": 810,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1024,26 +489,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-19-city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars.md",
-      "title": "City Leaders: Here’s Why Urban Tourism Could Skyrocket Due To AI Self-Driving Cars",
-      "excerpt": "Tourism is significant to the economic wellbeing of cities, and we might see a boon in urban tourism due to the advent of AI-based true self-driving cars.",
+      "path": "_news/2021-08-25-hot-chips-concludes-an-amazing-lineup-of-ai-chip-companies.md",
+      "title": "Hot Chips Concludes An Amazing Lineup of AI Chip Companies.",
+      "excerpt": "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c144d2530a533d7e1f280%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1534%26cropY1%3D29%26cropY2%3D892",
-          "width": 1200,
-          "height": 675,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg",
+          "width": 800,
+          "height": 503,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1051,9 +516,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-19T08:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
+      "publishedDateTime": "2021-08-24T16:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1076,32 +541,50 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-19-this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity.md",
-      "title": "This Downturn in Baidu Stock Isn’t a Problem, It’s an Opportunity",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips. China’s popular Internet search engine, Baidu (NASDAQ:BIDU), is known as a tech titan. Nevertheless, the resurgen",
+      "path": "_news/2021-08-25-ai-palette-raises-44m-to-help-companies-react-faster-to-consumer-trends.md",
+      "title": "Ai Palette raises $4.4M to help companies react faster to consumer trends",
+      "excerpt": "Developing new packaged foods and consumer goods can take a couple years as companies research, prototype and test products. In a society that runs on social media, however, people expect to see trends land on store shelves much more quickly.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19",
-      "originalUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19",
+      "webUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/",
+      "originalUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 86,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/aipalette_foresightengine.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19?amp",
-      "publishedDateTime": "2021-08-19T08:14:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/ai-palette-raises-4-4m-to-help-companies-react-faster-to-consumer-trends/amp/",
+      "publishedDateTime": "2021-08-24T15:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1110,26 +593,68 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-19-are-you-ready-for-sentient-disney-robots.md",
-      "title": "Are You Ready for Sentient Disney Robots?",
-      "excerpt": "Some of the animatronics at Disney’s parks have been doing their herky-jerky thing since the Nixon administration. The company knows that nostalgia won’t cut it with today’s children.",
+      "path": "_news/2021-08-25-cerebras-systems-connects-its-huge-chips-to-make-ai-more-power-efficient.md",
+      "title": "Cerebras Systems Connects Its Huge Chips to Make AI More Power-Efficient",
+      "excerpt": "Cerebras Systems, the Silicon Valley startup making the world's largest computer chip, said on Tuesday it can now weave together almost 200 of the chips to drastically reduce the power consumed by artificial-intelligence work.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.html",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/cerebras-systems-connects-its-huge-chips-to-make-ai-more-power-efficient",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-08-24/cerebras-systems-connects-its-huge-chips-to-make-ai-more-power-efficient",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-digital-locker-app-movies-anywhere-adds-ai-powered-lists-to-organize-your-library.md",
+      "title": "Digital locker app Movies Anywhere adds AI-powered lists to organize your library",
+      "excerpt": "Movies Anywhere, an app that allows you to centralize your digital movie collection from across services, is rolling out a new feature that will help you make better sense of your growing library. The company today introduced an AI-powered feature called “My Lists,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/24/digital-locker-app-movies-anywhere-adds-a-i-powered-lists-to-organize-your-library/",
+      "originalUrl": "https://techcrunch.com/2021/08/24/digital-locker-app-movies-anywhere-adds-a-i-powered-lists-to-organize-your-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/08/19/business/media/disney-topper-promo/disney-topper-promo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/movies-anywhere-my-lists.jpg?w=680",
+          "width": 680,
+          "height": 490,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1137,16 +662,67 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/19/business/media/disney-parks-robots.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/19/business/media/disney-parks-robots.amp.html",
-      "publishedDateTime": "2021-08-19T08:00:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/08/24/digital-locker-app-movies-anywhere-adds-a-i-powered-lists-to-organize-your-library/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/24/digital-locker-app-movies-anywhere-adds-a-i-powered-lists-to-organize-your-library/amp/",
+      "publishedDateTime": "2021-08-24T14:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-can-robots-evolve-into-machines-of-loving-grace.md",
+      "title": "Can Robots Evolve Into Machines of Loving Grace?",
+      "excerpt": "Brautigan’s poem had been on my mind for some time before the robots arrived ... and enabled it to saccade from one place to another. Like the insect robots, Cog lacked central control and was instead programmed with a series of basic drives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
+      "originalUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6124188e1dbee11ab8eb98cb/master/pass/(Final)%20WIRED_Cybernetic%20Meadow.jpg",
+          "width": 4950,
+          "height": 3350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
+      "publishedDateTime": "2021-08-24T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1163,6 +739,498 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-intel-arc-gpu-drivers-will-include-built-in-overclocking-tools.md",
+      "title": "Intel Arc GPU drivers will include built-in overclocking tools",
+      "excerpt": "Intel plans to release gaming-oriented Xe HPG \"Alchemist\" GPUs in Q1 2022. The Intel Arc brand was announced this month with upcoming GPUs that will span",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "originalUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-24-image-26.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
+      "publishedDateTime": "2021-08-24T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-google-nest-doorbell-review-catching-up-to-the-competition.md",
+      "title": "Google Nest Doorbell review: Catching up to the competition",
+      "excerpt": "Our Google Nest Doorbell review will tell you why this fine smart doorbell is more about catching up to competitors than anything else.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-nest-doorbell-review-2738855/",
+      "originalUrl": "https://www.androidauthority.com/google-nest-doorbell-review-2738855/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/08/Google-Nest-Doorbell-Review-Hero-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/google-nest-doorbell-review-2738855/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-nest-doorbell-review-2738855/",
+      "publishedDateTime": "2021-08-24T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-these-robots-can-move-your-couch.md",
+      "title": "These robots can move your couch",
+      "excerpt": "To train robots how to work independently but cooperatively, researchers at the University of Cincinnati gave them a relatable task: Move a couch.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-robots-couch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/these-robots-can-move.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-robots-couch.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-couch.amp",
+      "publishedDateTime": "2021-08-24T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-a-new-chip-cluster-will-make-massive-ai-models-possible.md",
+      "title": "A New Chip Cluster Will Make Massive AI Models Possible",
+      "excerpt": "Cerebras says its technology can run a neural network with 120 trillion connections—a hundred times what's achievable today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/",
+      "originalUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/612531eb591c7f6f7012fbbb/master/pass/Business-Big-AI-Chips.jpg",
+          "width": 2250,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/amp",
+      "publishedDateTime": "2021-08-24T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network.md",
+      "title": "Access an Amazon SageMaker Studio notebook from a corporate network",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning. It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, and deploy models. You can quickly upload data, create new notebooks, train",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-3667-image001-1260x481.png",
+          "width": 1260,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T12:12:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-elon-musk-is-panning-tesla-again-why-thats-no-big-deal.md",
+      "title": "Elon Musk Is Panning Tesla Again. Why That’s No Big Deal.",
+      "excerpt": "Companies are racing to build autonomous vehicles, but judging who has the best systems has become nearly impossible for ordinary people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-stock-elon-musk-51629756011",
+      "originalUrl": "https://www.barrons.com/articles/tesla-stock-elon-musk-51629756011",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-389712/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-elon-musk-51629756011",
+      "publishedDateTime": "2021-08-24T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters.md",
+      "title": "Cerebras’ CS-2 brain-scale chip can power AI models with 120 trillion parameters",
+      "excerpt": "Cerebras said its CS-2 processor is a \"brain-scale\" chip that can power AI models with more than 120 trillion parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/cerebras-cs-2-brain-scale-chip-can-power-ai-models-with-120-trillion-parameters/amp/",
+      "publishedDateTime": "2021-08-24T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-killer-robots-get-real-itll-be-easier-for-ai-to-just-erase-our-minds-and-steal-our-bodies.md",
+      "title": "Killer robots? Get real. It’ll be easier for AI to just erase our minds and steal our bodies",
+      "excerpt": "But robots are just computers that move. The human brain contains a region called the basal ganglia. It’s typically associated with motor control ... deem the “mind-body connection.”",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/killer-robots-easier-for-ai-erase-minds-steal-bodies",
+      "originalUrl": "https://thenextweb.com/news/killer-robots-easier-for-ai-erase-minds-steal-bodies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fborg-tesla.jpg&signature=b9fcecb70eda8fac2f8bafc06310d27d",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m.md",
+      "title": "Urbint, which uses AI to predict threats to infrastructure, nabs $60M",
+      "excerpt": "Urbint, a startup developing AI-powered tech that can predict infrastructure failures, has raised $60 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/",
+      "originalUrl": "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/24/urbint-which-uses-ai-to-predict-threats-to-infrastructure-nabs-60m/amp/",
+      "publishedDateTime": "2021-08-24T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-nvidias-enterprise-ai-software-now-ga.md",
+      "title": "Nvidia’s Enterprise AI Software Now GA",
+      "excerpt": "After months in early release, Nvidia today announced the general availability of Nvidia AI Enterprise, a new software offering that’s designed to bring",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2021/08/24/nvidias-enterprise-ai-software-now-ga/",
+      "originalUrl": "https://www.datanami.com/2021/08/24/nvidias-enterprise-ai-software-now-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/enterprise_AI_shutterstock_everything-possible.jpg",
+          "width": 606,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-24T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

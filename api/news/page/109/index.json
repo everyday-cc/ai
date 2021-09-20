@@ -2,21 +2,21 @@
   "page": 109,
   "value": [
     {
-      "path": "_news/2021-06-23-3d-facial-recognitionmarket-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-2020-2025.md",
-      "title": "3D Facial RecognitionMarket Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News forecast 2020-2025",
-      "excerpt": "Three-dimensional face recognition (3D face recognition) is a modality of facial recognition methods in which the three-dimensional geometry of the human face is used. This report elaborates the market size,",
+      "path": "_news/2021-06-28-what-are-the-benefits-of-artificial-intelligence-in-government.md",
+      "title": "What are the benefits of Artificial Intelligence in Government?",
+      "excerpt": "From listening better to citizens, to making operations more efficient, AI brings multiple benefits to governments to make better decisions.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognitionmarket-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-2020-2025-2021-06-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognitionmarket-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-2020-2025-2021-06-23",
+      "webUrl": "https://www.entrepreneur.com/article/375919",
+      "originalUrl": "https://www.entrepreneur.com/article/375919",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://assets.entrepreneur.com/images/misc/1624897374_inteligencia_artificial1.jpg?width=1000?width=1000",
+          "width": 2000,
+          "height": 1335,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,61 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-coffeemugai-raises-625000-from-paradigm-shift-capital-and-angellist-india-in-pre-seed-round.md",
-      "title": "CoffeeMug.ai Raises $625,000 From Paradigm Shift Capital And AngelList India In Pre-Seed Round",
-      "excerpt": "The company plans to use this fund to accelerate its efforts to refine its AI-based matchmaking algorithm, double its existing user base of 50,000 globally, and connect them with genuine business oppo",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/375424",
-      "originalUrl": "https://www.entrepreneur.com/article/375424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1624434392-hivan-arvizu-soyhivan-MAnhvw0nDDY-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375424",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375424",
-      "publishedDateTime": "2021-06-23T00:46:00-07:00",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375919",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375919",
+      "publishedDateTime": "2021-06-28T09:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Entrepreneur",
@@ -105,186 +53,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
-      "title": "DeepMind wants to use its AI to cure neglected diseases",
-      "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
+      "path": "_news/2021-06-28-dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads.md",
+      "title": "Dell releases open source suite Omnia to manage AI, analytics workloads",
+      "excerpt": "Dell open-sourced Omnia, a software package that aims to simplify the management of compute workloads across different hardware.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases",
+      "webUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/",
+      "originalUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 177,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/master/pass/GettyImages-1199508481.jpg",
-          "width": 5335,
-          "height": 3557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp",
-      "publishedDateTime": "2021-06-23T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation.md",
-      "title": "AI in Healthcare Market 2021 May See Potentially High Growth Factors | DeepMind Technologies Limited, IBM Corporation, Intel Corporation",
-      "excerpt": "The AI in Healthcare Market report provides a detailed analysis of the major factors influencing the market growth, including the drivers, restraints, lucrative opportunities, technology advancements,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
-      "originalUrl": "https://ksusentinel.com/2021/06/23/ai-in-healthcare-market-2021-may-see-potentially-high-growth-factors-deepmind-technologies-limited-ibm-corporation-intel-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heraldkeeper.com/wp-content/uploads/2021/06/oie_APm0lt2Fko4P.jpg",
-          "width": 838,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
-      "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
-      "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
-      "originalUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2016/10/cloud-computing-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
-      "publishedDateTime": "2021-06-23T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-tyan-to-bring-ai-and-hpc-optimized-server-platforms-at-isc-2021.md",
-      "title": "TYAN to Bring AI and HPC Optimized Server Platforms at ISC 2021",
-      "excerpt": "TYAN exhibits its latest AI and HPC server platforms for data centers and enterprises at ISC21 Digital from June 24th to July 2nd",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
-      "originalUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash.md",
-      "title": "DeepMind scientist calls for ethical AI as Google faces ongoing backlash",
-      "excerpt": "At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers to develop AI responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/dell.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 600,
+          "height": 850,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -292,9 +75,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
-      "publishedDateTime": "2021-06-22T23:40:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/",
+      "publishedDateTime": "2021-06-28T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -317,173 +100,33 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-over-20-civil-rights-groups-demand-amazon-divest-surveillance-technology-end-relationships-with-police.md",
-      "title": "Over 20 civil rights groups demand Amazon divest surveillance technology, end relationships with police",
-      "excerpt": "Amazon's Rekognition tool has received scrutiny from activists for several years for misidentifying minority individuals as police suspects. Amazon Web Services – the company's cloud-computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police",
-      "originalUrl": "https://www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/20-civil-rights-groups-amazon-surveillance-police.amp",
-      "publishedDateTime": "2021-06-22T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-rare-diseases.md",
-      "title": "DeepMind wants to use its AI to cure rare diseases",
-      "excerpt": "DeepMind solved one of biology's biggest challenges. Now it's working on using its AI to find drugs to target rare diseases",
+      "path": "_news/2021-06-28-ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld.md",
+      "title": "IBM lands Verizon, Telefonica pacts as hybrid cloud, edge computing, 5G meld",
+      "excerpt": "IBM launches AutoSQL, Watson Orchestrate, CodeNet enterprise AI tools at Think IBM buys Turbonomic to build out AIOps tools IBM and Verizon already collaborating on 5G enterprise use cases.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter",
+      "webUrl": "https://www.zdnet.com/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T22:00:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-lands-verizon-telefonica-pacts-as-hybrid-cloud-edge-computing-5g-meld/",
+      "publishedDateTime": "2021-06-28T09:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-salesforce-expands-partnership-with-aws.md",
-      "title": "Salesforce Expands Partnership with AWS",
-      "excerpt": "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln.md",
-      "title": "Self-driving startup WeRide deepens ties with Nissan, raises $310 mln",
-      "excerpt": "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with Nissan Motor (7201.T) on autonomous driving technology for the China market as it raised $310 million at a $3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
-      "originalUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/PQEZhlnyJcMI6mHQvEbGTKewuZo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QAA7N6S7OFLDNPSGWINOQW3PWY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -499,239 +142,32 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-23-how-artificial-intelligence-can-change-higher-education.md",
-      "title": "How Artificial Intelligence Can Change Higher Education",
-      "excerpt": "On the day I met Sebastian Thrun in Palo Alto, the State of California legalized self-driving cars ... “Introduction to Artificial Intelligence,” to the world via the Internet.",
+      "path": "_news/2021-06-28-enterprise-ai-startup-beyondminds-certified-by-top-international-security-standard.md",
+      "title": "Enterprise AI Startup BeyondMinds Certified by Top International Security Standard",
+      "excerpt": "BeyondMinds, an enterprise AI software provider delivering fully managed, production-grade AI solutions on top of its turnkey AI platform, today announced it has earned ISO 27001:2013. The certification,",
       "sourceUrl": null,
-      "webUrl": "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-can-change-higher-education-136983766/",
-      "originalUrl": "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-can-change-higher-education-136983766/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-enterprise-ai-startup-beyondminds-certified-top-international-security-/2021/06/28/9398829.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://thumbs-prod.si-cdn.com/PUUG-k0Swjd79eB5SmXUdUMDf3E=/fit-in/1600x0/https://public-media.si-cdn.com/filer/Ingenuity-Awards-Sebastian-Thrun-631.jpg",
-          "width": 631,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T17:15:00-07:00",
+      "publishedDateTime": "2021-06-28T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Smithsonian Magazine",
-        "domain": "smithsonianmag.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-cloud-gpu-market-and-ai-trends-and-analysis-2020.md",
-      "title": "Cloud GPU Market And AI: Trends And Analysis 2020",
-      "excerpt": "And, AI will be one of the top workloads that drives ... according to a report by MarketsandMarkets. The demand for Cloud GPU instances in the compute infrastructure market is majorly driven ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/",
-      "originalUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2019/06/cloud-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/amp/",
-      "publishedDateTime": "2021-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-how-ai-powers-mobile-innovation.md",
-      "title": "How AI Powers Mobile Innovation",
-      "excerpt": "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/",
-      "originalUrl": "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world.md",
-      "title": "OECD.AI: Paving The Way Towards Sustainable, Trustworthy And Responsible AI World",
-      "excerpt": "How do we ensure that AI is trustworthy and its benefits are shared by all? From the measurement of AI trends and developments to the direction and impact of national and regional AI policies and initiatives,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0b8605e94f1d70330f026%2F0x0.jpg",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/",
-      "publishedDateTime": "2021-06-22T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-real-estate-agents-look-to-ai-for-sales-boost.md",
-      "title": "Real-Estate Agents Look to AI for Sales Boost",
-      "excerpt": "Technology leaders at Realogy, Compass and Zillow hope to augment human savvy with algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "originalUrl": "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-358164/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "publishedDateTime": "2021-06-22T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -741,25 +177,25 @@
       ],
       "topics": [
         "AI",
-        "AI in Sales"
+        "AI in Security"
       ]
     },
     {
-      "path": "_news/2021-06-23-3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026.md",
-      "title": "3D Facial Recognition Market Demand, Technology Advancement and Future Scope Till 2026",
-      "excerpt": "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D facial recognition utilizes facial contours to recognize and scrutinize various features in a human face,",
+      "path": "_news/2021-06-28-pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital.md",
+      "title": "Pittsburgh’s mayor on the city’s startup community and the difficulty of attracting venture capital",
+      "excerpt": "TechCrunch is turning its spotlight on Pittsburgh, Pennsylvania with interviews, profiles, and an event featuring the outgoing mayor, CMU’s President, and local startups. The Rust Belt city has spent much of the past decade working to shed the image that arrived in the wake of the",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22",
+      "webUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
+      "originalUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1071999330-yellow.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -767,258 +203,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T12:31:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/pittsburghs-mayor-on-the-citys-startup-community-and-the-difficulty-of-attracting-venture-capital/amp/",
+      "publishedDateTime": "2021-06-28T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-healthcare-providers-remain-surprisingly-lax-on-data-protection.md",
-      "title": "Healthcare Providers Remain Surprisingly Lax On Data Protection",
-      "excerpt": "Experts say that the medical industry is resistant to spending money, despite the increased prevalence and sophistication of hackers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
-      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/healthcare-data-privacy-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
-      "publishedDateTime": "2021-06-22T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-in-the-workplace-of-the-future-how-important-will-ethics-be.md",
-      "title": "In The Workplace Of The Future, How Important Will Ethics Be?",
-      "excerpt": "In the workplace of the future, ethics will be even more important than it is now. That’s the overwhelming majority vote in a poll I ran on LinkedIn. I’ll present a sample of the four kinds of responses I received and then provide my own analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bruceweinstein/2021/06/22/in-the-workplace-of-the-future-how-important-will-ethics-be/",
-      "originalUrl": "https://www.forbes.com/sites/bruceweinstein/2021/06/22/in-the-workplace-of-the-future-how-important-will-ethics-be/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b2a12b6409c810fc667dd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bruceweinstein/2021/06/22/in-the-workplace-of-the-future-how-important-will-ethics-be/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bruceweinstein/2021/06/22/in-the-workplace-of-the-future-how-important-will-ethics-be/amp/",
-      "publishedDateTime": "2021-06-22T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-hpe-builds-lighthouse-platform-on-greenlake-services.md",
-      "title": "HPE Builds Lighthouse Platform On GreenLake Services",
-      "excerpt": "The hybrid cloud is convincing established players that they need to play on both sides of the net, in the cloud (as well as the edge) and on premises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/06/22/hpe-builds-lighthouse-platform-on-greenlake-services/",
-      "originalUrl": "https://www.nextplatform.com/2021/06/22/hpe-builds-lighthouse-platform-on-greenlake-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/hpe-lighthouse-greenlake-logo-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/06/22/hpe-builds-lighthouse-platform-on-greenlake-services/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/hpe-builds-lighthouse-platform-on-greenlake-services/amp/",
-      "publishedDateTime": "2021-06-22T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deep-learning-market-share-trends-industry-overview-2021-to-2026.md",
-      "title": "Deep Learning Market Share, Trends | Industry Overview 2021 to 2026",
-      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-hyundai-officially-takes-controlling-stake-in-robot-maker-boston-dynamics.md",
-      "title": "Hyundai officially takes controlling stake in robot maker Boston Dynamics",
-      "excerpt": "Korean car manufacturer Hyundai announced that it had closed a deal to purchase controlling stock in US robot maker Boston Dynamics. The company, well-known for its",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
-      "originalUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/06/2021-06-22-ts3_thumbs-d4c.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
-      "publishedDateTime": "2021-06-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1039,21 +233,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-23-neural-network-software-market-size-volume-share-demand-growth-business-opportunity-by-2028.md",
-      "title": "Neural Network Software Market Size Volume, Share, Demand growth, Business Opportunity by 2028",
-      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include the key innovators concentrating mainly on neural network software include Alyuda Research LLC (California,",
+      "path": "_news/2021-06-28-greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum.md",
+      "title": "Greensprings School to Integrate Robotics, Artificial Intelligence into Curriculum",
+      "excerpt": "The management of Greensprings School has announced that the school will start offering robotics and artificial intelligence (AI) to its secondary school students. This announcement",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-volume-share-demand-growth-business-opportunity-by-2028-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-volume-share-demand-growth-business-opportunity-by-2028-2021-06-22",
+      "webUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/",
+      "originalUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2018/11/Greensprings-pix.gif",
+          "width": 412,
+          "height": 296,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1061,16 +255,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T10:38:00-07:00",
+      "ampWebUrl": "https://www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/?amp=1",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2021/06/greensprings-school-to-integrate-robotics-artificial-intelligence-into-curriculum/?amp=1",
+      "publishedDateTime": "2021-06-28T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want.md",
+      "title": "How PepsiCo uses AI to create products consumers don’t know they want",
+      "excerpt": "Leaders at PepsiCo detail how they use data, AI, and machine learning for every part of the product journey, from innovation to marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/28/how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want/",
+      "originalUrl": "https://venturebeat.com/2021/06/28/how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1204561139.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/28/how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/how-pepsico-uses-ai-to-create-products-consumers-dont-know-they-want/amp/",
+      "publishedDateTime": "2021-06-28T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1086,26 +323,25 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-23-scaleai-launches-mapping-project-more-on-ponyai-waymo.md",
-      "title": "Scale.AI launches Mapping Project; More On Pony.AI & Waymo",
-      "excerpt": "Scale has launched a new mapping tool/service offering for not just self-driving cars, but also for delivery companies. Also, Pony AI demonstrates taxi with no human safety driver in China, and Waymo shows Pride.",
+      "path": "_news/2021-06-28-artificial-intelligence-in-education-market-opportunity-and-forecast-2021-2028.md",
+      "title": "Artificial Intelligence in Education Market Opportunity and Forecast, 2021-2028",
+      "excerpt": "The applications in solving the issues such as language processing, reasoning, planning, and cognitive modeling increases ... rise in trend of AI services through mobile devices, implementation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
+      "webUrl": "https://www.openpr.com/news/2315606/artificial-intelligence-in-education-market-opportunity",
+      "originalUrl": "https://www.openpr.com/news/2315606/artificial-intelligence-in-education-market-opportunity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d21d1fcfa1d201e3480176%2F0x0.jpg",
-          "width": 1139,
-          "height": 703,
+          "url": "https://cdn.openpr.com/U/6/U628677515_g.jpg",
+          "width": 800,
+          "height": 444,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1113,9 +349,353 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
-      "publishedDateTime": "2021-06-22T10:33:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2315606/artificial-intelligence-in-education-market-opportunity",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315606/artificial-intelligence-in-education-market-opportunity",
+      "publishedDateTime": "2021-06-28T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-importance-of-artificial-intelligence-and-its-impact-on-humanity.md",
+      "title": "Importance of Artificial Intelligence and its impact on humanity",
+      "excerpt": "AI has led to the rise of Self-driving vehicles and drones and we’ve seen how they have fueled the chatbots to give customers a wholesome experience. Artificial intelligence is a central ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/importance-of-artificial-intelligence-and-its-impact-on-humanity/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/importance-of-artificial-intelligence-and-its-impact-on-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/importance-of-artificial-intelligence-and-its-impact-on-humanity/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/importance-of-artificial-intelligence-and-its-impact-on-humanity/",
+      "publishedDateTime": "2021-06-28T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-virtana-migrate-delivers-3x-faster-cloud-migration-to-aws.md",
+      "title": "Virtana Migrate Delivers 3x Faster Cloud Migration to AWS",
+      "excerpt": "Virtana, the AIOps observability company for hybrid cloud, announces the momentum of Virtana Platform, with successful customer and partner use cases for",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/03/f03f332d-513b-51a1-a054-036cd721ca33/6050c91088e37.image.jpg?resize=864%2C288",
+          "width": 864,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus.md",
+      "title": "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs",
+      "excerpt": "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-boosts-performance-hpc-ai-applications-with-optimized-/2021/06/28/9398763.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-grene-robotics-develops-indigenous-drone-defence-dome.md",
+      "title": "Grene Robotics develops indigenous drone defence dome",
+      "excerpt": "The autonomous defence weapon system uses Artificial Intelligence, cybersecurity and robotics to identify and counter threats",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/13fsry/article33746129.ece/ALTERNATES/LANDSCAPE_615/DRONES",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece/amp/",
+      "publishedDateTime": "2021-06-28T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-big-techs-car-obsession-is-all-about-taking-eyes-off-the-road.md",
+      "title": "Big Tech’s car obsession is all about taking eyes off the road",
+      "excerpt": "Giants from Huawei Technologies to Baidu have pledged to plow almost $19 billion into electric and self-driving vehicle ventures this year alone. Smartphone giant Xiaomi and even Apple’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/",
+      "originalUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/?amp=1",
+      "publishedDateTime": "2021-06-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
+      "title": "Meet the new standard in risk management",
+      "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/OpenPages-and-Supply-Wisdom.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T06:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare.md",
+      "title": "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare",
+      "excerpt": "EyeTech Digital Systems ′ EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual SIIA CODiE Awards. The CODiE Awards recognize companies producing the most innovative business technology products across the country and around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-how-to-get-your-employees-to-quickly-embrace-a-digital-platform.md",
+      "title": "How To Get Your Employees To Quickly Embrace A Digital Platform",
+      "excerpt": "Clearly, now more than ever, digital transformation must take hold in many industries. It is especially important when companies must find ways to do more work with far fewer resources. Starting Your Digital Transformation Journey Digital transformation truly \"takes a village.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d5f1ae42bc6c32ef95e8b3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/28/how-to-get-your-employees-to-quickly-embrace-a-digital-platform/amp/",
+      "publishedDateTime": "2021-06-28T04:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1138,31 +718,92 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-06-22-state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence.md",
-      "title": "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence",
-      "excerpt": "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu",
+      "path": "_news/2021-06-28-jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai.md",
+      "title": "Jet Bot AI+ robotic vacuum cleaner has a 3D active stereo-type sensor and AI",
+      "excerpt": "During CES 2021, back in January, Samsung Electronics announced a new robotic vacuum cleaner with some interesting features called the Jet Bot AI+. Samsung has now confirmed the global launch of",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
+      "webUrl": "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/",
+      "originalUrl": "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/samsung-vacuum.jpg",
+          "width": 1280,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/amp/",
+      "publishedDateTime": "2021-06-28T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-cognitive-assessment-market-growing-trends-and-technology-forecast-2021-2026-verasci-neurocog-trials-lumos-labs-cogstate.md",
+      "title": "Cognitive Assessment Market Growing Trends and Technology Forecast 2021-2026 | VeraSci NeuroCog Trials, Lumos Labs, Cogstate",
+      "excerpt": "Services, Hardware & Software is the main type for Cognitive Assessment, with a 49.40% revenue market share. and 18+ countries across the globe along with insights on emerging & major players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "originalUrl": "https://www.openpr.com/news/2315295/cognitive-assessment-market-growing-trends-and-technology",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U628365823_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T09:30:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315295/cognitive-assessment-market-growing-trends-and-technology",
+      "publishedDateTime": "2021-06-28T04:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1172,9 +813,281 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-new-intel-xpu-innovations-target-hpc-and-ai.md",
+      "title": "New Intel XPU Innovations Target HPC and AI",
+      "excerpt": "The next generation of Intel Xeon Scalable processors (code-named “Sapphire Rapids”) will integrate High Bandwidth Memory (HBM). Intel’s X e -HPC-based Ponte Vecchio GPU has powered-on, is in system validation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210628005138/new-intel-xpu-innovations-target-hpc-and-ai",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210628005138/new-intel-xpu-innovations-target-hpc-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-kidneyintelx-enables-monitoring-of-sglt2-inhibitor-therapy-response-and-corresponding-risk-reduction-over-time.md",
+      "title": "KidneyIntelX Enables Monitoring of SGLT2 Inhibitor Therapy Response and Corresponding Risk Reduction Over Time",
+      "excerpt": "Renalytix plc (LSE: RENX) (NASDAQ: RNLX) announces new data demonstrating KidneyIntelX can be effective at monitoring therapeutic response and improvements in kidney health over time in adults with type 2 diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wallstreet-online.de/nachricht/14089480-kidneyintelx-enables-monitoring-of-sglt2-inhibitor-therapy-response-and-corresponding-risk-reduction-over-time/all",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/14089480-kidneyintelx-enables-monitoring-of-sglt2-inhibitor-therapy-response-and-corresponding-risk-reduction-over-time/all",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g.md",
+      "title": "IBM launches AI-powered new Cloud Pak for Network Automationn software to help adoption of 5G",
+      "excerpt": "IBM recently launched Watson Orchestrate to provide AI-powered automation to business professionals, and acquired Turbonomic, myInvenio, Instana and WDG Automation to build out a complete end-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "originalUrl": "https://seekingalpha.com/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "publishedDateTime": "2021-06-28T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-ai-and-computer-vision-remove-the-need-for-cell-biopsy-in-testing-embryos.md",
+      "title": "AI and computer vision remove the need for cell biopsy in testing embryos",
+      "excerpt": "Despite continuing controversies over its value in improving birth rates in IVF, testing embryos for their chromosomal content has become routine in many fertility clinics. Embryos with a normal complement of chromosomes (known as \"euploid\") are known to have a good chance of implanting in the uterus to become a pregnancy,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-embryo.jpg",
+          "width": 1920,
+          "height": 1542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.amp",
+      "publishedDateTime": "2021-06-28T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-iit-madras-offers-free-online-course-on-introduction-to-machine-learning-for-students.md",
+      "title": "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students",
+      "excerpt": "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "originalUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "publishedDateTime": "2021-06-28T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.md",
+      "title": "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI",
+      "excerpt": "Besides, they employed the Face API of the Microsoft Cognitive Services to identify users' age and gender, so as to calculate suitable food portions. This could reduce food wastage. 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai",
+      "originalUrl": "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp",
+      "publishedDateTime": "2021-06-28T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use.md",
+      "title": "WHO issues first global report on AI in health and six guiding principles for its design and use",
+      "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights",
+      "sourceUrl": null,
+      "webUrl": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
+      "originalUrl": "https://www.miragenews.com/who-issues-first-global-report-on-ai-in-health-586075/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

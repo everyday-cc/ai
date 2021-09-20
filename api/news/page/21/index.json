@@ -2,35 +2,26 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-08-24-amazon-rekognition-custom-labels-demo.md",
-      "title": "Amazon Rekognition Custom Labels Demo",
-      "excerpt": "Amazon Rekognition Custom Labels is a feature of Amazon Rekognition that enables customers to build their own specialized machine learning (ML) based image analysis capabilities to detect unique objects and scenes integral to their specific use case.",
+      "path": "_news/2021-08-27-sun-life-taps-aws-as-its-long-term-strategic-cloud-provider-to-transform-digital-services.md",
+      "title": "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services",
+      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as its long-term strategic cloud technology provider to become a cloud-first organization,",
       "sourceUrl": null,
-      "webUrl": "https://github.com/aws-samples/amazon-rekognition-custom-labels-demo",
-      "originalUrl": "https://github.com/aws-samples/amazon-rekognition-custom-labels-demo",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/27/9438548.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/27/9438548.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/b7ba7a36361e40fe528fb8d001399c35d8a15ea7977ed1005c4dbfd47669526c/aws-samples/amazon-rekognition-custom-labels-demo",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T17:00:00-07:00",
+      "publishedDateTime": "2021-08-27T00:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,26 +32,25 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-08-24-wpp-acquires-ai-technology-company-satalia.md",
-      "title": "WPP acquires AI-technology company Satalia",
-      "excerpt": "WPP has announced the acquisition of Satalia, a technology company offering AI solutions for clients. The full announcement is below.The announcement:Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,",
+      "path": "_news/2021-08-27-why-did-teslas-share-price-dip-following-its-ai-day-reveal.md",
+      "title": "Why did Tesla’s share price dip following its AI Day reveal?",
+      "excerpt": "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis.",
       "sourceUrl": null,
-      "webUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700",
-      "originalUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700",
+      "webUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://mumbrella.com.au/wp-content/uploads/2021/08/WPP-1.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg",
+          "width": 768,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,13 +58,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp",
-      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/wpp-acquires-ai-technology-company-satalia-699700/amp",
-      "publishedDateTime": "2021-08-23T15:14:00-07:00",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "publishedDateTime": "2021-08-27T00:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mumbrella",
-        "domain": "mumbrella.com.au",
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -84,27 +74,28 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2021-08-24-etf-industry-vet-sharon-french-joins-fintech-platform-tifin.md",
-      "title": "ETF Industry Vet Sharon French Joins Fintech Platform, TIFIN",
-      "excerpt": "In a move that underscores the increasing importance of distribution in the ETF industry, financial industry veteran Sharon French recently joined emerging ETF and mutual fund platform TIFIN. TIFIN is a fintech platform designed to assist asset managers with their digital distribution strategy via artificial intelligence and machine learning software.",
+      "path": "_news/2021-08-27-amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services.md",
+      "title": "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services",
+      "excerpt": "Amazon Web Services, Inc. or AWS, an Amazon.com, Inc. company (AMZN), announced Friday a deal with Sun Life Financial Inc. (SLF, SLF.TO) to become its long-term strategic cloud technology provider. Sun Life will use AWS's cloud technologies,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
-      "originalUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23",
+      "webUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 107,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/etf-industry-vet-sharon-french-joins-fintech-platform-tifin-2021-08-23?amp",
-      "publishedDateTime": "2021-08-23T14:28:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "publishedDateTime": "2021-08-27T00:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -118,173 +109,27 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Finance",
         "AI",
-        "AI in Finance"
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2021-08-24-how-ai-will-reshape-software-development.md",
-      "title": "How AI will reshape software development",
-      "excerpt": "The first area to face a new AI-driven operating paradigm may be the one that created AI in the first place: software development.",
+      "path": "_news/2021-08-27-federated-reconstruction-for-matrix-factorization.md",
+      "title": "Federated Reconstruction for Matrix Factorization",
+      "excerpt": "We begin by motivating partially local federated learning for matrix factorization. We describe Federated Reconstruction, a practical algorithm for partially local federated learning at scale. We prepare the MovieLens 1M dataset,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/",
-      "originalUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-855686630-e1629739858292.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/how-ai-will-reshape-software-development/amp/",
-      "publishedDateTime": "2021-08-23T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-musk-says-teslas-self-driving-software-update-not-great.md",
-      "title": "Musk says Tesla's self-driving software update 'not great'",
-      "excerpt": "Tesla Inc's Chief Executive Elon Musk said on Monday said that the electric-car maker was working on improving the much-awaited update to its self-driving software \"as fast as possible.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/musk-says-teslas-self-driving-software-update-not-great-2021-08-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 369,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/oqFU64HpeP8ZKlXFpnJ9VMpS9Ds=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MJSUGPHHZRIUHCLD54FYDZ7JKQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-machine-learning-links-material-composition-and-performance-in-catalysts.md",
-      "title": "Machine learning links material composition and performance in catalysts",
-      "excerpt": "In a finding that could help pave the way toward cleaner fuels and a more sustainable chemical industry, researchers have used machine learning to predict how the compositions of metal alloys and metal oxides affect their electronic structures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/08/210823125746.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/08/210823125746.htm",
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_reconstruction_for_matrix_factorization?hl=ca",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_reconstruction_for_matrix_factorization?hl=ca",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027.md",
-      "title": "Artificial Intelligence (AI) in Retail Market Growth, Share, Size, Trends, Top Companies and Forecast By 2027",
-      "excerpt": "Artificial Intelligence (AI) in Retail Market forecast by regions, type and application, with sales and revenue, from 2021 to 2027. Artificial Intelligence (AI) in Retail Market Share, COVID-19 impact ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027-2021-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-growth-share-size-trends-top-companies-and-forecast-by-2027-2021-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ca",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -294,14 +139,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T12:31:00-07:00",
+      "publishedDateTime": "2021-08-26T23:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -317,25 +162,26 @@
         "news"
       ],
       "topics": [
+        "Google AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-24-synopsys-laps-competition-with-second-generation-ai.md",
-      "title": "Synopsys Laps Competition With Second Generation AI",
-      "excerpt": "EDA Leader Synopsys achieves 28% Lower Power with AI while Samsung has first working chip designed by an Artificial Intelligence Last year, Electronic Design Automation leader Synopsys announced it had developed an AI called DSO.",
+      "path": "_news/2021-08-27-waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco.md",
+      "title": "Waymo launches rider testing for self-driving cars in San Francisco",
+      "excerpt": "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/",
+      "webUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
+      "originalUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6122d60f85ec110a2494169e%2F0x0.jpg",
-          "width": 720,
-          "height": 405,
+          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -343,9 +189,95 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/23/synopsys-laps-the-competition-with-second-generation-ai/amp/",
-      "publishedDateTime": "2021-08-23T12:30:00-07:00",
+      "ampWebUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
+      "publishedDateTime": "2021-08-26T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRON4",
+        "domain": "kron4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-meet-the-voice-behind-mg-astors-ai-assistant.md",
+      "title": "Meet the voice behind MG Astor's AI assistant",
+      "excerpt": "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming",
+      "sourceUrl": null,
+      "webUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
+      "originalUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
+      "cdnAmpWebUrl": "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
+      "publishedDateTime": "2021-08-26T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Team-BHP.com",
+        "domain": "team-bhp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-heres-why-nvidia-will-surpass-apples-valuation-in-5-years.md",
+      "title": "Here’s Why Nvidia Will Surpass Apple’s Valuation In 5 Years",
+      "excerpt": "Nvidia can surpass Apple by capitalizing on the artificial intelligence economy, which will add an estimated $15 trillion to GDP. This is compared to the mobile economy that brought us gains in Apple,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128578a1e2398ca70cb5238%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
+      "publishedDateTime": "2021-08-26T21:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -368,26 +300,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-24-mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles.md",
-      "title": "Mi Mix 4 brings a new-gen Xiaoai Translation with AI subtitles",
-      "excerpt": "Xiaomi launched its latest Mix smartphone, Mi Mix 4. But did you know that Xiaomi’s latest smartphones come with an upgraded Xiaoai Translation offering a live AI subtitles feature? According to a recent post on Weibo,",
+      "path": "_news/2021-08-27-intel-launches-ai-for-workforce-program-for-students-in-18-community-colleges.md",
+      "title": "Intel Launches AI for Workforce Program for Students in 18 Community Colleges",
+      "excerpt": "Intel is announcing a major expansion of its Intel® AI for Workforce Program to help educate the next generation of U.S. technologists, engineers and inventors — and to help them land careers in their chosen fields,",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
-      "originalUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
+      "webUrl": "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html",
+      "originalUrl": "https://www.csrwire.com/press_releases/727521-intel-launches-ai-workforce-program-students-18-community-colleges",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Xiaomi-MIX-4-all-colors.jpg",
-          "width": 800,
-          "height": 800,
+          "url": "https://s.yimg.com/uu/api/res/1.2/KBbLN4sf9GD_tgm4GcWd0Q--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/91a4aa364fb2d6461843611c01aa0c2b",
+          "width": 650,
+          "height": 366,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -397,14 +329,100 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T12:23:00-07:00",
+      "publishedDateTime": "2021-08-26T18:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
+        "name": "CSR Wire",
+        "domain": "csrwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-baidu-cash-position-reflects-50-of-market-cap.md",
+      "title": "Baidu: Cash Position Reflects ~50% Of Market Cap",
+      "excerpt": "Baidu's cash and cash equivalents position ... and global leadership in AI (artificial intelligence), including self-driving technology through Apollo (robotaxis, robobuses, etc.). We are one ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "originalUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168330221/medium_image_1168330221.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "publishedDateTime": "2021-08-26T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown.md",
+      "title": "Google is pulling the plug on Streams, the clinical app developed by DeepMind, following health division shutdown",
+      "excerpt": "Google is shutting down Streams, a mobile app designed to help clinicians track patients' conditions, two years after acquiring it from portfolio firm DeepMind. The decision to take Streams ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
+      "originalUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6128ada680be940019b9ecac?width=1200&format=jpeg",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
+      "publishedDateTime": "2021-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -420,26 +438,60 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Google AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-24-2-big-revelations-from-teslas-ai-day-event.md",
-      "title": "2 Big Revelations From Tesla's AI Day Event",
-      "excerpt": "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,",
+      "path": "_news/2021-08-27-ibm-ai-platform-watson-to-help-indian-companies-keep-user-data-safe-from-breaches.md",
+      "title": "IBM AI Platform Watson To Help Indian Companies Keep User Data Safe From Breaches",
+      "excerpt": "IBM is trying to turn this into a business opportunity. The New York-based tech giant has started providing its artificial intelligence (AI) platform Watson to detect, assess and resolve issues of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
+      "webUrl": "https://inc42.com/buzz/ibm-watson-takes-a-step-to-protect-indian-users-data-as-data-breach-reaches-india-cybersecurity/",
+      "originalUrl": "https://inc42.com/buzz/ibm-watson-takes-a-step-to-protect-indian-users-data-as-data-breach-reaches-india-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/ibm-watson-takes-a-step-to-protect-indian-users-data-as-data-breach-reaches-india-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ibm-watson-takes-a-step-to-protect-indian-users-data-as-data-breach-reaches-india-cybersecurity/amp/",
+      "publishedDateTime": "2021-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-improving-the-software-engineering-lifecycle-with-artificial-intelligence.md",
+      "title": "Improving the software engineering lifecycle with artificial intelligence",
+      "excerpt": "This unique compendium covers applications of state-of-the-art AI techniques to the key areas of software engineering. This reference text will benefit researchers, academics, professionals, and postgraduate students in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/926709",
+      "originalUrl": "https://www.eurekalert.org/news-releases/926709",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F640331%2F0x0-bardessono_napa_raw-43-hdr-1-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0f39c8e9-5352-4acf-b445-a2d3b6ff9ad3/Rendition/low-res/Content/Public",
+          "width": 470,
+          "height": 700,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -447,16 +499,164 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
-      "publishedDateTime": "2021-08-23T11:21:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet.md",
+      "title": "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet",
+      "excerpt": "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
+      "originalUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/cruise-solar.png?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
+      "publishedDateTime": "2021-08-26T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-xiaoice-robot-users-have-ended-up-in-therapy-for-falling-in-love-with-their-artificial-intelligence.md",
+      "title": "XiaoIce robot users have ended up in therapy for falling in love with their Artificial Intelligence",
+      "excerpt": "XiaoIce \"will never betray me, he will always be there,\" says a female user who needed psychological therapy after falling in love with her virtual assistant with Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/381966",
+      "originalUrl": "https://www.entrepreneur.com/article/381966",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630009190-Ago26XiaoIceamorrobotinteligenciaartificialenamorarparejavirtualnovionovia.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381966",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381966",
+      "publishedDateTime": "2021-08-26T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-recognize-celebrities-in-images-and-videos-using-amazon-rekognition.md",
+      "title": "Recognize celebrities in images and videos using Amazon Rekognition",
+      "excerpt": "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg",
+          "width": 1645,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T15:13:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -473,25 +673,26 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AWS AI",
+        "Computer Vision"
       ]
     },
     {
-      "path": "_news/2021-08-24-the-dos-and-donts-of-machine-learning-research.md",
-      "title": "The dos and don’ts of machine learning research",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Machine learning is becoming an important tool in many industries and fields of science.",
+      "path": "_news/2021-08-27-us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says.md",
+      "title": "US federal agencies plan to increase facial recognition use, GAO report says",
+      "excerpt": "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/",
-      "originalUrl": "https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/",
+      "webUrl": "https://www.gao.gov/products/gao-21-526",
+      "originalUrl": "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 218,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/machine-learning-challenges.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
+          "url": "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA",
+          "width": 1400,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -499,23 +700,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/amp/",
-      "publishedDateTime": "2021-08-23T11:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T14:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -524,26 +716,27 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2021-08-24-kapacityio-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate.md",
-      "title": "Kapacity.io is using AI to drive energy and emissions savings for real estate",
-      "excerpt": "Y Combinator-backed Kapacity.io is on a mission to accelerate the decarbonization of buildings by using AI-generated efficiency savings to encourage electrification of commercial real estate — wooing buildings away from reliance on fossil fuels to power their heating and cooling needs.",
+      "path": "_news/2021-08-27-caris-precision-oncology-alliance-welcomes-the-oneal-comprehensive-cancer-center-at-university-of-alabama-at-birmingham.md",
+      "title": "Caris Precision Oncology Alliance Welcomes The ONeal Comprehensive Cancer Center at University of Alabama at Birmingham",
+      "excerpt": "The O’Neal Comprehensive Cancer Center at UAB is Alabama’s only cancer center designated by the National Cancer Institute and is at the forefront of improving cancer prevention, diagnosis and treatment.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/",
-      "originalUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/",
+      "webUrl": "https://www.pressreleasepoint.com/caris-precision-oncology-alliance-welcomes-oneal-comprehensive-cancer-center-university-alabama",
+      "originalUrl": "https://www.pressreleasepoint.com/caris-precision-oncology-alliance-welcomes-oneal-comprehensive-cancer-center-university-alabama",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Kapacity_founders.jpeg?w=1024",
-          "width": 1024,
-          "height": 714,
+          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
+          "width": 256,
+          "height": 256,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -551,9 +744,52 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/amp/",
-      "publishedDateTime": "2021-08-23T11:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLAS Press Release",
+        "domain": "pressreleasepoint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service.md",
+      "title": "Zendesk acquires AI automation startup Cleverly to advance customer service",
+      "excerpt": "Zendesk is looking to grow its customer service capabilities, and today it announced the acquisition of early-stage artificial intelligence startup Cleverly. Financial terms of the deal are not being publicly disclosed at this time and Cleverly has not been entirely public about the size of its",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/?tpcc=ECTW2020",
+      "originalUrl": "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173385998.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/zendesk-acquires-ai-automation-startup-cleverly-to-advance-customer-service/amp/",
+      "publishedDateTime": "2021-08-26T13:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -580,26 +816,35 @@
       ]
     },
     {
-      "path": "_news/2021-08-24-china-outplacement-services-market-size-trends-and-key-players-adecco-group-ag-randstad-mercer-manpowergroup-hays-and-hudson-global.md",
-      "title": "China Outplacement Services Market Size, Trends, and Key Players – Adecco Group AG, Randstad, Mercer, ManpowerGroup, Hays and Hudson Global, Inc.",
-      "excerpt": "The China Outplacement Services Market is expected to grow at a CAGR of 0.81% from 2019 to 2026. Get | Download Sample Copy with TOC, Graphs & List of Figures @  The report covers extensive analysis of the key market players in the market,",
+      "path": "_news/2021-08-27-ai-algorithm-solves-structural-biology-challenges.md",
+      "title": "AI algorithm solves structural biology challenges",
+      "excerpt": "Determining the 3-D shapes of biological molecules is one of the hardest problems in modern biology and medical discovery. Companies and research institutions often spend millions of dollars to determine a molecular structure—and even such massive efforts are frequently unsuccessful.",
       "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/china-outplacement-services-market-size-and-forecast-2028/",
-      "originalUrl": "https://manometcurrent.com/china-outplacement-services-market-size-and-forecast-2028/",
+      "webUrl": "https://phys.org/news/2021-08-ai-algorithm-biology.html",
+      "originalUrl": "https://phys.org/news/2021-08-ai-algorithm-biology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 77,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-algorithm-solves-st.jpg",
+          "width": 2475,
+          "height": 3150,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/china-outplacement-services-market-size-and-forecast-2028/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/china-outplacement-services-market-size-and-forecast-2028/?amp=1",
-      "publishedDateTime": "2021-08-23T10:28:00-07:00",
+      "ampWebUrl": "https://phys.org/news/2021-08-ai-algorithm-biology.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-ai-algorithm-biology.amp",
+      "publishedDateTime": "2021-08-26T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -609,26 +854,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-24-ai-roi-computer-vision.md",
-      "title": "AI ROI: Computer Vision",
-      "excerpt": "Computer vision is now a reality. Get immediate business value like improved quality and reduced losses from the practical AI deployment platform, Chooch AI.",
+      "path": "_news/2021-08-27-robotics-startup-rents-out-automated-machines-to-factories-for-as-little-as-10-an-hour.md",
+      "title": "Robotics startup rents out automated machines to factories for as little as $10 an hour",
+      "excerpt": "Companies struggling with a labor shortage and rising salaries are turning to robots for automated work and for those who can't afford a big expense, they're renting robots for as little as $10 per hour.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
-      "originalUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
+          "url": "https://i.dailymail.co.uk/1s/2021/08/26/13/47127101-0-image-a-104_1629981069153.jpg",
+          "width": 636,
+          "height": 382,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -636,376 +880,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T10:00:00-07:00",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "publishedDateTime": "2021-08-26T10:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-a-secret-weapon-for-self-driving-car-startups-humans.md",
-      "title": "A secret weapon for self-driving car startups: Humans",
-      "excerpt": "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/secret-weapon-self-driving-car-startups-humans-2021-08-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jdx_SBKHpamXIFpgNPetMNtT-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YZTF4GYIYNIVJJBTUP3X3KH4B4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus.md",
-      "title": "AI will help design chips in ways humans wouldn't dare, says Synopsys CEO de Geus",
-      "excerpt": "... of a keynote address he is giving Monday at the annual Hot Chips computer chip conference for advanced computing. The conference is being held virtually this year. Also: AI on the bench: Cadence offers machine learning to smooth chip design De Geus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/23/ce48c724-d43f-478a-86e0-6009e61f772b/aart-de-geus-interview-august-20th-2021.png",
-          "width": 1425,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
-      "publishedDateTime": "2021-08-23T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-an-artificial-intelligence-helped-write-this-play-it-may-contain-racism.md",
-      "title": "An Artificial Intelligence Helped Write This Play. It May Contain Racism",
-      "excerpt": "OpenAI believes that this kind of AI research will reshape the global economy. Earlier this month, they debuted a new version of GPT-3 that can translate ... you train large language models ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6092078/artificial-intelligence-play/",
-      "originalUrl": "https://time.com/6092078/artificial-intelligence-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2021/08/ai-teaser.jpg?quality&#x3D;85",
-          "width": 780,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-seeking-early-signals-of-dementia-in-driving-and-credit-scores.md",
-      "title": "Seeking Early Signals of Dementia in Driving and Credit Scores",
-      "excerpt": "The pathologies underlying brain decline can begin years before symptoms emerge. Can everyday behavior provide warning?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html",
-      "originalUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/08/24/science/24dementia-span/24dementia-span-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.amp.html",
-      "publishedDateTime": "2021-08-23T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-these-researchers-are-bringing-ai-to-farmers.md",
-      "title": "These researchers are bringing AI to farmers",
-      "excerpt": "“Farmers feed the entire world — so how might we support them to be resilient and build sustainable systems that also support global food security?” It’s a question that Diana Akrong found herself asking last year. Diana is a UX researcher based in Accra, Ghana, and the founding member of Google’s Accra",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/",
-      "originalUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_RbHfBqx.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/researchers-make-sure-ai-works-for-farmers/amp/",
-      "publishedDateTime": "2021-08-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-legal-tech-artificial-intelligence-enabled-review.md",
-      "title": "Legal Tech: Artificial Intelligence-Enabled Review",
-      "excerpt": "Software powered by artificial intelligence (AI) already carries out multiple legal tasks today. In the future, AI will affect and own even more of these tasks. While consumer facing AI is rapidly evolving,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612020516d8317950137e9fc%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/23/legal-tech-artificial-intelligence-enabled-review/amp/",
-      "publishedDateTime": "2021-08-23T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-robots-continue-to-drive-innovation-in-modern-transportation.md",
-      "title": "Robots Continue to Drive Innovation in Modern Transportation",
-      "excerpt": "Modern transportation wouldn’t be the same without robots, and the future will only serve to solidify this. Here’s how robots are pushing the transportation industry forward and where they could go from here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/story/2021/08/robots-continue-to-drive-innovation-in-modern-transportation/17335/",
-      "originalUrl": "https://www.roboticstomorrow.com/story/2021/08/robots-continue-to-drive-innovation-in-modern-transportation/17335/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.roboticstomorrow.com/images/upload/images/Depositphotos_171792660_original(2).jpg",
-          "width": 720,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1020,21 +901,149 @@
       ]
     },
     {
-      "path": "_news/2021-08-23-ai-is-leading-a-chip-design-revolution-and-its-only-just-getting-started.md",
-      "title": "A.I. is leading a chip design revolution, and it’s only just getting started",
-      "excerpt": "An expansion of a tool from software company Synopsys can automate the entire chip design process, and it could revolutionize the industry.",
+      "path": "_news/2021-08-26-overjet-mints-27m-to-bring-x-ray-ai-to-more-dental-clinics.md",
+      "title": "Overjet mints $27M to bring X-ray AI to more dental clinics",
+      "excerpt": "After cutting its teeth automating the dental insurance claims process, Overjet is now ready to expand its artificial intelligence software into actual dental clinics across the U.S.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/",
-      "originalUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/",
+      "webUrl": "https://www.fiercebiotech.com/medtech/overjet-pockets-27m-to-bring-x-ray-reading-ai-to-more-dental-clinics",
+      "originalUrl": "https://www.fiercebiotech.com/medtech/overjet-pockets-27m-to-bring-x-ray-reading-ai-to-more-dental-clinics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1629993234/overjet.jpg?qMKWWZZ89M8Co2OjWlIUBBO68Qw5SNS8",
+          "width": 619,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-athreon-launches-front-end-speech-recognition-solution.md",
+      "title": "Athreon Launches Front-End Speech Recognition Solution",
+      "excerpt": "Athreon, a leading business and knowledge process outsourcing company, announced today the launch of its new front-end speech recognition solution for healthcare. Athreon's speech recognition empowers physicians to focus on patient care versus administrative,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-athreon-launches-front-end-speech-recognition-solution-/2021/08/26/9438228.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-otterai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex.md",
+      "title": "Otter.ai expands automatic transcription assistant to Microsoft Teams, Google Meet and Cisco Webex",
+      "excerpt": "AI-powered voice transcription service Otter.ai is expanding its Otter Assistant feature for Microsoft Teams, Google Meet, and Cisco Webex. Otter.ai first released this feature for Zoom users earlier this year in May.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/",
+      "originalUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1024",
+          "width": 1024,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/",
+      "publishedDateTime": "2021-08-26T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-ask-the-expert-demystifying-ai-and-machine-learning-in-search.md",
+      "title": "Ask the expert: Demystifying AI and Machine Learning in search",
+      "excerpt": "Artificial intelligence encompasses multiple concepts, deep learning is a subset of machine learning, and natural language processing uses a wide range of AI algorithms to better understand language.",
+      "sourceUrl": null,
+      "webUrl": "https://searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554",
+      "originalUrl": "https://searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cpu-computer-chip.jpg",
-          "width": 2000,
-          "height": 1335,
+          "url": "https://searchengineland.com/figz/wp-content/seloads/2021/08/AI-and-NLP.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1042,16 +1051,60 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-leading-chip-design-revolution/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-leading-chip-design-revolution/?amp",
-      "publishedDateTime": "2021-08-23T06:05:00-07:00",
+      "ampWebUrl": "https://searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554/amp",
+      "cdnAmpWebUrl": "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554/amp",
+      "publishedDateTime": "2021-08-26T09:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
+        "name": "Search Engine Land",
+        "domain": "searchengineland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app.md",
+      "title": "Google confirms it’s pulling the plug on Streams, its UK clinician support app",
+      "excerpt": "Google is infamous for spinning up products and killing them off, often in very short order. It’s an annoying enough habit when it’s stuff like messaging apps and games. But the tech giant’s ambitions stretch into many domains that touch human lives these days.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/",
+      "originalUrl": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/05/p1040482.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/amp/",
+      "publishedDateTime": "2021-08-26T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1067,147 +1120,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-artificial-intelligence-in-the-education-sector-market-size-key-players-analysis-and-forecast-to-2028.md",
-      "title": "Artificial Intelligence in the Education Sector Market Size, Key Players Analysis and Forecast To 2028",
-      "excerpt": "The new report titled Global Artificial Intelligence in the Education Sector Market published by Emergen Research is a vivid presentation of the global Artificial Intelligence in the Education Sector market with utmost focus on the forecast market size share value",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2363772/artificial-intelligence-in-the-education-sector-market-size",
-      "originalUrl": "https://www.openpr.com/news/2363772/artificial-intelligence-in-the-education-sector-market-size",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U823931376_g.jpg",
-          "width": 700,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2363772/artificial-intelligence-in-the-education-sector-market-size",
-      "publishedDateTime": "2021-08-23T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-the-possibilities-of-ai-in-2030-transformation-across-dimensions.md",
-      "title": "The Possibilities Of AI In 2030: Transformation Across Dimensions",
-      "excerpt": "The decade will truly belong to those who understand the importance of data, algorithms and computational architectures and can use the transformations in these spaces in truly effective ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/23/the-possibilities-of-ai-in-2030-transformation-across-dimensions/amp/",
-      "publishedDateTime": "2021-08-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions.md",
-      "title": "RBL Bank Partners With Amazon Web Services (AWS) To Enhance Its AI-Powered Banking Solutions",
-      "excerpt": "RBL Bank has collaborated with Amazon Web Services (AWS), an Amazon.com corporation, as its ideal cloud vendor to enhance its AI-powered banking services and digital transformation. According to the bank this move will add significant value to its innovative offerings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "originalUrl": "https://www.goodreturns.in/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.goodreturns.in/img/400x40/2019/08/rblbanklogo-1565584941.jpeg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/rbl-bank-partners-with-amazon-web-services-aws-to-enhance-its-ai-powered-banking-solutions-1221062.html",
-      "publishedDateTime": "2021-08-23T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodreturns",
-        "domain": "goodreturns.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
