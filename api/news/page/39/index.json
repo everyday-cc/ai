@@ -2,6 +2,255 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-08-17-stopping-ai-bias-starts-with-diverse-product-teams.md",
+      "title": "Stopping AI Bias Starts With Diverse Product Teams",
+      "excerpt": "Beyond the ethics of debating gender or racial bias ... in product design has consequences in the digital world, which leans heavily on artificial intelligence (AI). AI-enabled robots are augmenting human labor on the factory floor, improving customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a8cd7696f99911afdc233%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/",
+      "publishedDateTime": "2021-08-17T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-jumpstart-your-industrial-ai-strategy-with-these-three-use-cases.md",
+      "title": "Jumpstart Your Industrial AI Strategy With These Three Use Cases",
+      "excerpt": "The will to adopt AI is there; nobody still needs to hear the sales pitch. What is needed is guidance on just how and where to get started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a8c063cc53c79155cb34c%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/amp/",
+      "publishedDateTime": "2021-08-17T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform.md",
+      "title": "African fintech Pngme raises $15M for its financial data infrastructure platform",
+      "excerpt": "Unbundling financial data through APIs and driving data-driven insights with value-add products in Africa keeps getting more exciting as major players continue to raise more money for scale. Less than a year after its $3 million seed round,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/",
+      "originalUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/85237365-BCDC-4C78-B42B-91B00D15C6C0.jpeg?w=887",
+          "width": 887,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/",
+      "publishedDateTime": "2021-08-17T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-moloco-raises-150m-series-c-led-by-tiger-global-at-a-15b-valuation.md",
+      "title": "MOLOCO raises $150M Series C led by Tiger Global at a $1.5B valuation",
+      "excerpt": "MOLOCO, an adtech startup that uses machine learning to build mobile campaigns, announced today it has raised $150 million in new Series C funding led by Tiger Global Management, taking its valuation to $1.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/",
+      "originalUrl": "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1271131179.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/moloco-raises-150m-series-c-led-by-tiger-global-at-a-1-5b-valuation/amp/",
+      "publishedDateTime": "2021-08-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-a-big-hole-and-cutting-edge-ideas-as-osf-healthcare-begins-work-on-new-cancer-institute.md",
+      "title": "A big hole and cutting-edge ideas as OSF HealthCare begins work on new Cancer Institute",
+      "excerpt": "Once the proton beam is installed in Peoria, it will be only the second in Illinois — there is currently one in Warrenville.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pjstar.com/story/business/2021/08/17/new-cancer-institute-peoria-bringing-proton-beam-therapy-osf/8151382002/",
+      "originalUrl": "https://www.pjstar.com/story/business/2021/08/17/new-cancer-institute-peoria-bringing-proton-beam-therapy-osf/8151382002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/08/16/NJOS/b223fc39-10ec-443a-8d7e-561daa22f8ea-CancerInstitute1.jpg?auto=webp&crop=6191,3483,x0,y629&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.pjstar.com/amp/8151382002",
+      "cdnAmpWebUrl": "https://amp-pjstar-com.cdn.ampproject.org/c/s/amp.pjstar.com/amp/8151382002",
+      "publishedDateTime": "2021-08-17T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journal Star",
+        "domain": "pjstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-ai-startup-mate-labs-to-digitally-transform-luminous-power-technologies-supply-chain.md",
       "title": "AI startup Mate Labs to digitally transform Luminous Power Technologies' supply chain",
       "excerpt": "Mate Labs' flagship product Mateverse is a full-scale AI and ML-based forecasting platform that can dynamically predict end-customer demands while avoiding inefficiencies caused by supply and demand misalignment across business operations.",
@@ -904,230 +1153,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-diebold-voting-machine-failures-found-across-state-during-new-hampshire-primary.md",
-      "title": "Diebold Voting Machine Failures Found Across State During New Hampshire Primary",
-      "excerpt": "Such data, combined with ... would protect against the hack described above. Given the sensitive vulnerability of these systems, it's troubling that in New Hampshire last week, reports indicate that LHS employees may have had regular access to memory ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2021/08/26/1013501080/chinas-microsoft-hack-may-have-had-a-bigger-purpose-than-just-spying",
-      "originalUrl": "https://bradblog.com/?p=5553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2021/07/07/emailhack2_web_wide-843f26c715d5030ddebf7f4dab541d10d93393a2.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Brad Blog",
-        "domain": "bradblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656.md",
-      "title": "Patent Issued for Using machine learning to classify insurance card information (USPTO 11074656)",
-      "excerpt": "As a result, many consumers enroll in insurance plans that are not the most appropriate for their medical needs and financial budget ... method for applying machine-learning algorithms to ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-using-machine-learning-to-classify-insurance-card-information-uspto-11074656",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-milk-allergy-that-can-make-a-bubble-bath-lethal-teenagers-experience-has-led-experts-to-call-for-cosmetic-products-to-carry-ingredient-warnings.md",
-      "title": "Milk allergy that can make a bubble bath lethal: Teenager's experience has led experts to call for cosmetic products to carry ingredient warnings",
-      "excerpt": "She had been given the bath bomb for Christmas and although she checked the label before using it, she failed to spot ... people have heard of nut allergies but tend to think milk allergy is mild ...",
-      "sourceUrl": null,
-      "webUrl": "https://alzheimersnewstoday.com/2021/08/17/altoida-device-indicate-alzheimers-adults-mild-dementia-fda-breakthrough-status/",
-      "originalUrl": "https://www.dailymail.co.uk/health/article-9898971/Milk-allergy-make-bubble-bath-lethal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://alzheimersnewstoday.com/wp-content/uploads/2021/08/Tablet.png",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-what-to-expect-from-openais-codex-api.md",
-      "title": "What to expect from OpenAI’s Codex API",
-      "excerpt": "The Codex demo puts the advantages of large language models on display, showing an impressive capacity to resolve references and write code.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/",
-      "originalUrl": "https://venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1157449117.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/amp/",
-      "publishedDateTime": "2021-08-16T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-besieging-gpu-who-will-be-the-next-overlord-of-ai-computing-after-nvidia.md",
-      "title": "Besieging GPU: Who Will Be the Next Overlord of AI Computing After NVIDIA?",
-      "excerpt": "Briefing: This article will introduce several AI chip companies with unique technologies. They either have advanced computing concepts, or have the top architects. These AI chips with new architectures are destroying half of the GPU's world like the magical Thanos Gloves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.brantfordexpositor.ca/newsfile/92799-besieging-gpu-who-will-be-the-next-overlord-of-ai-computing-after-nvidia",
-      "originalUrl": "https://www.brantfordexpositor.ca/newsfile/92799-besieging-gpu-who-will-be-the-next-overlord-of-ai-computing-after-nvidia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://orders.newsfilecorp.com/files/8203/92799_9d7ca129d49838cd_001.jpg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brantford Expositor",
-        "domain": "brantfordexpositor.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

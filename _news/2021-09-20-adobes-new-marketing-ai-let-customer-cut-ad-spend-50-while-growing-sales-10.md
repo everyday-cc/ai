@@ -34,8 +34,8 @@ images:
 related:
   - title: "Life Sciences and Healthcare Industry Leaders Invest in Tact.ai to Deliver Next Generation Customer Engagement"
     excerpt: "Tact.ai, the customer engagement company for life sciences, today announced a new round of equity financing totaling $33 million that"
-    publishedDateTime: 2021-09-21T01:48:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/life-sciences-and-healthcare-industry-leaders-invest-in-tact-ai-to-deliver-next-generation-customer-engagement-821840733.html"
+    publishedDateTime: 2021-09-21T03:48:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/life-sciences-and-healthcare-industry-leaders-invest-in-tact-ai-to-deliver-next-generation-customer-engagement-821840733.html"
     type: article
     provider:
       name: PR Newswire

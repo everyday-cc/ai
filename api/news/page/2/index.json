@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-18-how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does.md",
+      "title": "How to Detect Your Child’s Emotional Distress Before the School’s AI Does",
+      "excerpt": "School districts use bots to monitor student email and web searches for signs of self-harm or violence; tips for parents on being proactive about their teens’ and tweens’ mental health.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does-11631970002",
+      "originalUrl": "https://www.wsj.com/articles/how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does-11631970002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-401831/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does-11631970002",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does-11631970002",
+      "publishedDateTime": "2021-09-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu.md",
+      "title": "China’s Baidu unveils autonomous driving ‘robot truck’ Xingtu",
+      "excerpt": "Baidu’s open-source autonomous driving platform Apollo has spawned Xingtu, an electric ‘robot truck’, as mainland China’s artificial intelligence and search engine giant revs up the development of next-generation vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/18/44b8b9a0-17b7-11ec-ab69-f2bfe93835cf_image_hires_023635.JPG?itok=HjlXUvBM&v=1631903802",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "publishedDateTime": "2021-09-17T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-18-the-proposed-new-eu-regulatory-regime-for-artificial-intelligence-ai.md",
       "title": "The Proposed New EU Regulatory Regime for Artificial Intelligence (AI)",
       "excerpt": "Introduction In April 2021, the EU Commission (EC) proposed a suite of new legislative and non-legislative proposals related to artificial intelligence (AI): in a proposed Regulation laying down ru",
@@ -188,49 +292,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing.md",
-      "title": "9 Powerful Ways Artificial Intelligence is Transforming Digital Marketing",
-      "excerpt": "As artificial intelligence has evolved, it has found its way into more aspects of our lives – from social media to digital marketing. How AI is transforming the future of digital marketing? In this blog post,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/",
-      "originalUrl": "https://techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/09/9-Powerful-Ways-Artificial-Intelligence-is-Transforming-Digital-Marketing.jpeg",
-          "width": 1024,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/amp/",
-      "publishedDateTime": "2021-09-17T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     },
     {
@@ -1068,64 +1129,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-16-walmart-self-driving-delivery-service-coming-to-three-cities.md",
-      "title": "Walmart Self-Driving Delivery Service Coming to Three Cities",
-      "excerpt": "Ford Motor Co. and Argo AI have joined forces with Walmart to roll out an autonomous vehicle delivery service in Washington, D.C.; Miami, Fla.; and Austin, Texas. The service is expected to grow to other cities.",
+      "path": "_news/2021-09-16-bioxcel-therapeutics-presents-results-from-ongoing-phase-2-trial-of-bxcl701-in-combination-with.md",
+      "title": "BioXcel Therapeutics Presents Results from Ongoing Phase 2 Trial of BXCL701 in Combination with ...",
+      "excerpt": "BXCL701 plus KEYTRUDA® (pembrolizumab) demonstrates encouraging anti-tumor activity in heavily pre-treated mCRPC patients with adenocarcinoma. BXCL701 combination continues to ex",
       "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
-      "originalUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-health-coronavirus-pandemic-tumors-b2036ef8ae606cd13d47ba18d80905db",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-health-coronavirus-pandemic-tumors-b2036ef8ae606cd13d47ba18d80905db",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/ff20296/2147483647/strip/true/crop/1000x521+0+122/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa2%2Fdb%2F736321c7494893e7b9af8e18eb7c%2Fshutterstock-2022062486.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
-      "publishedDateTime": "2021-09-15T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-the-machine-learning-imperative-empowering-businesses-to-innovate-faster.md",
-      "title": "The Machine Learning Imperative: Empowering Businesses to Innovate Faster",
-      "excerpt": "Machine Learning (ML) took centre stage at AWS reInvent from being a key focus in the opening keynote by CEO Andy Jassy, to the entire focus of the inaugural ML keynote by Swami Sivasubramanian, VP of",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "originalUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Machine_Learning_Imperative-_Empowering_Businesses_to_Innovate_Faster.jpeg",
-          "width": 1282,
-          "height": 600,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1135,11 +1153,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:32:00-07:00",
+      "publishedDateTime": "2021-09-15T15:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1149,9 +1167,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

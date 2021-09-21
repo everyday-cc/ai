@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 725
         isCached: true
-  - title: "How FinTech is Taking the Insurance Industry to New Levels"
-    excerpt: "Compelled by the success of FinTech and InsurTech startups, the insurance industry is experiencing a systematic change in business operations. This echoes the transformation that banking industries skilfully made in order to enter the FinTech space."
-    publishedDateTime: 2021-09-16T10:09:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-fintech-taking-insurance-industry-new-levels"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1269677040_0.jpg.png?itok=oDB-0roz"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Here's what Mitt Romney says makes Utah a great place for fintech companies"
     excerpt: "Utah Sen. Mitt Romney said that businesses, especially innovative businesses like those in fintech, come to Utah for four reasons."
     publishedDateTime: 2021-09-18T00:01:00Z

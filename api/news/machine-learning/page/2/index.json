@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-09-jetbrains-previews-data-science-ide.md",
+      "title": "JetBrains previews data science IDE",
+      "excerpt": "JetBrains, maker of the IntelliJ Idea IDE and the Kotlin language, has launched a dedicated data science IDE, DataSpell, under an early access program. Accessible from jetbrains.com, the IDE was announced September 7 and provides a development environment for data science professionals involved in exploratory data analysis and prototyping of machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html",
+      "originalUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.amp.html",
+      "publishedDateTime": "2021-09-08T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-wells-fargo-applies-machine-learning-robotics-to-accounts-receivable.md",
       "title": "Wells Fargo applies machine learning, robotics to accounts receivable",
       "excerpt": "A new service offered by the company helps clients automatically capture payment and invoice information as well as make sure the information matches.",
@@ -558,6 +610,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-how-computationally-complex-is-a-single-neuron.md",
+      "title": "How Computationally Complex Is a Single Neuron?",
+      "excerpt": "Computational neuroscientists taught an artificial neural network to imitate a biological neuron. The result offers a new way to think about the complexity of single brain cells. Our mushy brains seem a far cry from the solid silicon chips in computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902",
+      "originalUrl": "https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/09/Neuron-AI_1200_social.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quanta Magazine",
+        "domain": "quantamagazine.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1323,77 +1418,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-5-stocks-to-watch-amid-evolving-machine-learning-applications.md",
-      "title": "5 Stocks to Watch Amid Evolving Machine Learning Applications",
-      "excerpt": "In the fourth industrial revolution, AI will be the predominant technology, and its subsets ML and deep learning will be driving the change. ML has found its application in multiple disciplines, and businesses can use large data to better understand consumers’ behavior,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "publishedDateTime": "2021-08-26T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-machine-learning-operations-mlops-market-2021-competitive-insights-microsoft-corporation-washington-us.md",
-      "title": "Machine Learning Operations (MLOps) Market 2021 – Competitive Insights : Microsoft Corporation (Washington, US)",
-      "excerpt": "The report offers a thorough and expert examination of the global trading conditions for the Machine Learning Operations (MLOps) Market . The complicated examination of development factors, prospects,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/machine-learning-operations-mlops-market-2021-competitive-insights-microsoft-corporation-washington-us/",
-      "originalUrl": "https://manometcurrent.com/machine-learning-operations-mlops-market-2021-competitive-insights-microsoft-corporation-washington-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/machine-learning-operations-mlops-market-2021-competitive-insights-microsoft-corporation-washington-us/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-operations-mlops-market-2021-competitive-insights-microsoft-corporation-washington-us/",
-      "publishedDateTime": "2021-08-26T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

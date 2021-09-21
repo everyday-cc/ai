@@ -64,6 +64,20 @@ related:
         width: 643
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Market Report 2021, Share, Size, Trends and Forecast 2026"
+    excerpt: "According to IMARC Group's latest report, titled“  Artificial Intelligence Market  : Industry Trends, Share, Size, Growth, Opportuni"
+    publishedDateTime: 2021-09-21T03:38:00Z
+    webUrl: "https://menafn.com/1102805049/Artificial-Intelligence-Market-Report-2021-Share-Size-Trends-and-Forecast-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/15/i_6fcd4718-a_Image_In_Body.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "79h4Z/AoMyYhcXAlop/tGjboOwE3eQAIbWE9Z3dxTNl6HnL6GR29Wpi64U8J7ha7c08+X0Ju3ajJo+azBZx74e4uUTpqTjqmYZ9hhgTzfLGZpfGp4GPXh5GN18Tur0fkBts7ayGQdtQYgCIKOciZMYs6VAvQVyD2/VE5IuW5jVtaMC+rPYUhwpXPCX9/YYFX2fY1nP3YGiu4qRWFdxVb2lxYFcALfLrKq0gtgGYP0TgN5GTbhhKwGioB+e/bq2xFf7XFY/RnwMhdxxCxFBe8tuQUhAnuSqREI+SP9wom1Cfp2i0Gc7KITtE5qEEpCmanBCbkAXwRue3D21ZO5kGp5mP/b5wXOOG7pAaeLHgR0GQ=;EBYzyPsxJRxJ66916f6lhg=="
 ---

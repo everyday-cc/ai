@@ -53,6 +53,20 @@ related:
         width: 643
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Market Report 2021, Share, Size, Trends and Forecast 2026"
+    excerpt: "According to IMARC Group's latest report, titled“  Artificial Intelligence Market  : Industry Trends, Share, Size, Growth, Opportuni"
+    publishedDateTime: 2021-09-21T03:38:00Z
+    webUrl: "https://menafn.com/1102805049/Artificial-Intelligence-Market-Report-2021-Share-Size-Trends-and-Forecast-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/updates/pr/2021-09/15/i_6fcd4718-a_Image_In_Body.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Speech and Voice Recognition Market 2021 Future Set to Massive Growth with High CAGR value Forecast By 2027"
     excerpt: "Data Bridge Market Research presents an updated and Latest Study on the Speech and Voice Recognition Market This report provides an in depth study of the market competitive situation product scope market overview opportunities driving force and market risks By"
     publishedDateTime: 2021-09-17T17:20:00Z

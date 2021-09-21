@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How FinTech is Taking the Insurance Industry to New Levels"
-    excerpt: "Compelled by the success of FinTech and InsurTech startups, the insurance industry is experiencing a systematic change in business operations. This echoes the transformation that banking industries skilfully made in order to enter the FinTech space."
-    publishedDateTime: 2021-09-16T10:09:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-fintech-taking-insurance-industry-new-levels"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1269677040_0.jpg.png?itok=oDB-0roz"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "‘Meme’ Stocks Lead the Charge | Fintech Zoom | Fintech Zoom"
     excerpt: "Find the latest GameStop & AMC stocks quote, history, news and other vital information to help you with your stock trading"
     publishedDateTime: 2021-09-19T16:27:00Z

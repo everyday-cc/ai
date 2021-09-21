@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-15-computer-vision-for-visual-effects.md",
+      "title": "Computer Vision for Visual Effects",
+      "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers and researchers about the fundamental computer vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/sz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
+      "originalUrl": "https://www.cambridge.org/sz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-automated-boba-bar-startup-integrates-facial-recognition-payments-to-build-loyalty-through-frictionless-convenience.md",
+      "title": "Automated Boba Bar Startup Integrates Facial Recognition Payments to Build Loyalty Through Frictionless Convenience",
+      "excerpt": "Automated boba bar startup Bobacino has partnered with facial recognition payment company PopID to enable consumers to pay for their beverage with their faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
+      "originalUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Bobacino-facial-recognition-payment-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
+      "publishedDateTime": "2021-09-14T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality.md",
       "title": "De Wandel and Mathews: Artificial intelligence held artificial promise to yield health care equality",
       "excerpt": "Despite high expectations that computer technology could balance medical treatment between the races, the result has been the opposite.",
@@ -991,92 +1068,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-ai-system-on-chip-that-runs-on-solar-power.md",
-      "title": "AI System-on-Chip That Runs On Solar Power",
-      "excerpt": "Researchers have found a way to get around the issues of AI-led technologies with their newly developed system-on-chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
-      "originalUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/09/ai-system-on-chip-runs.jpg",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
-      "publishedDateTime": "2021-09-14T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials.md",
-      "title": "Futuristic AI-Based Computing Devices: Physicists Simulate Artificial Brain Networks With New Quantum Materials",
-      "excerpt": "Pandemic lockdown forces a new perspective on designs for futuristic AI-based computing devices. Isaac Newton’s groundbreaking scientific productivity while isolated from the spread of bubonic plague is legendary.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
-      "originalUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Complex-Emergent-Behaviors-777x466.jpg",
-          "width": 777,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
-      "publishedDateTime": "2021-09-14T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,9 +2,9 @@
 category: news
 title: "Life Sciences and Healthcare Industry Leaders Invest in Tact.ai to Deliver Next Generation Customer Engagement"
 excerpt: "Tact.ai, the customer engagement company for life sciences, today announced a new round of equity financing totaling $33 million that"
-publishedDateTime: 2021-09-21T01:48:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/life-sciences-and-healthcare-industry-leaders-invest-in-tact-ai-to-deliver-next-generation-customer-engagement-821840733.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/life-sciences-and-healthcare-industry-leaders-invest-in-tact-ai-to-deliver-next-generation-customer-engagement-821840733.html"
+publishedDateTime: 2021-09-21T03:48:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/life-sciences-and-healthcare-industry-leaders-invest-in-tact-ai-to-deliver-next-generation-customer-engagement-821840733.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/life-sciences-and-healthcare-industry-leaders-invest-in-tact-ai-to-deliver-next-generation-customer-engagement-821840733.html"
 type: article
 quality: 34
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 790
         isCached: true
 
-secured: "nhYJCxMR6ALioVQFMdQhYEvWS+1VIlll2vgkjXq1ctZB2pdaqVD1MYdtMWF1VKTYnRgvuJG0CpnnGwHAJJS5ls2/+eqPmaM0ZkpSaBr7EgB0lbErv92QaEfUr5LdUTF7JgZMdFFTFu5QLZTitrZ6y/cMp5+t9ui6h2dSDwhux7WqGYz9ATMoIBUbf7whc0jC0V+Ek6vlrekV1z5ccK2klaHF4bAO401x7wZ0Yy89uksopGWfsc/PeWzffHNpHFyxu6fyyW4J2mooBmCQMpSN0y8J6ntA6fwI/pP3MZ5A4/Xat1rslPY2HvFWYwG75dkhpPLKbKhrqFzOA/4O/Rxt7qVNKgxa9ngXDvChY42vYNU=;fj0WzeViWuobSR28Tx4lrQ=="
+secured: "4GRfId4iWgXNJ8iQuYMnN0wn17vxk/1/QBW9Pdt9H+iAfszwE9LrS2L0QC5PqLJEvNRZUbjYG1PlvETVRH6I5TOoY6L7SxLC79wNvaHjGvWfY7C63yNYiWdCiOPBW9AagBdcUzn/qDN1JLYEWgw1YFkXpvaUtZVRKVdx6EPs3NCfsik5ueiM+k9w1eZTRJlxnA6OJS3tM7DnZUUuHUDhApdwiTTNGd+5HOYYfoxeyADr0VKks4fiF+JpsTu4qJ58auH2IMQ+8a+5yK395nxowLI1MJnd07H+XhGNnmel+RhgGeBXET+eHRHKUryuvM/AeGQt1AXA1vadKJMlq+18G7NRsSElsTzH+E5LleskkMo=;7bNa+vH/aCmxuGMl/9Nxhw=="
 ---
 

@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Step into a successful career with Artificial Intelligence & Machine Learning"
-    excerpt: "Advanced technologies are in demand in every industry, thus upgrading oneself with new techno-friendly environment would be appreciable. It is opening a new path for technology career seekers in the Artificial Intelligence and Machine Learning."
-    publishedDateTime: 2021-09-20T15:29:00Z
-    webUrl: "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818"
-    ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818"
+  - title: "Beef up your knowledge on AI and machine learning with this expert-led bundle"
+    excerpt: "This AI machine learning bundle includes 79 hours of content on deep learning, machine learning, python in addition to other development tools."
+    publishedDateTime: 2021-09-20T14:00:00Z
+    webUrl: "https://thenextweb.com/news/beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 71
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/9/2021_9$largeimg_1807833861.jpg"
-        width: 788
-        height: 443
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-AI-Super-Bundle.jpeg&signature=812ae6959c43ac5f7abad714f7095389"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "qQfH1875FKLN4Ap65DfwWaREt1csN7vxV1EEW+4HmVPGqcVpMyy/k2z8TxPn8n3QrLKeyhWBPG4djrvu2SlRSWHF8rtPZcLLifmirO0w1unXUmSiTOqfyVgd/aDfQ1Gwn3RDx5rh3fMC+INU9tR5Wb1pdGrFp48p/geowjux2iuJFEsaDDE5xZ8bNbeXURQKxcccSfX0M/7gr6p+7HE+16erVyE2W6rQ/1082Jo/6a2JrgfVf+8RFpFq0l0Oi8yYf/BVgKIjp2St6hD5MC3rBqYx54cmAJsbvUYKoLzgaV64F5SMA8HOFoctIUZ85FbwJSTE88DnkDAOmTvRH9OHnS2RexKJ8QDDwT0oQUFWZnol1V4CHS+g5YBI3GHWDbtPOFjF0+kxBgCBZ7rZvedwML0jhFBhkrqzGBagPEfaJX0oOV/9DYfjRP8kzYJJV4N4VIB5PQqLYmgpnbs2kv+vC7Z0qkBI3U52n9ckBQXJvJ+vVH1OYi9Ee0yj3S+E4FD5NfkWFdrnN3NnyxHdbM+q7g==;F0zQynzlNCKf6TQjq0RtQA=="

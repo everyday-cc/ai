@@ -42,6 +42,22 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Artificial Intelligence-based Cybersecurity Market Forecast 2031 – TMR"
+    excerpt: "With the Covid-19 impact, organizations are focusing on decreasing dependence on human resources and maximizing the use of cutting-edge technology to implement cybersecurity activities. The positive impact of Covid-19 will be distinctive which in turn is expected to boost the growth of the artificial intelligence-based cybersecurity market during the forecast period."
+    publishedDateTime: 2021-09-20T11:17:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-based-cybersecurity-market-forecast-2031-tmr/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-based-cybersecurity-market-forecast-2031-tmr/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-based-cybersecurity-market-forecast-2031-tmr/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 57
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Calibre-Market-competitive-Research-2-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Israel’s Blumberg Capital Secures $225M to Invest in Early-Stage AI, Big Data, Cybersecurity, Fintech Ventures"
     excerpt: "Blumberg Capital secures $225 million as part of its fifth fund, which focuses on making strategic investments into early-stage ventures."
     publishedDateTime: 2021-09-18T16:12:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.dig-in.com/news/artificial-intelligence-key-to-insuran
 webUrl: "https://www.dig-in.com/news/artificial-intelligence-key-to-insurance-digital-transformation"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "9 Powerful Ways Artificial Intelligence is Transforming Digital Marketing"
-    excerpt: "As artificial intelligence has evolved, it has found its way into more aspects of our lives – from social media to digital marketing. How AI is transforming the future of digital marketing? In this blog post,"
-    publishedDateTime: 2021-09-17T12:08:00Z
-    webUrl: "https://techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/"
-    ampWebUrl: "https://techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 73
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/9-Powerful-Ways-Artificial-Intelligence-is-Transforming-Digital-Marketing.jpeg"
-        width: 1024
-        height: 500
-        isCached: true
 
 secured: "46fFT58gM56z5hbi+Rb/3WTkHpYkHMbG3ycYozFXZGYyOIY6CUcJ2TcxRa0ySiEnDPUgAHwiMFKylGTObQoZr9JAoK7U3cUbF7mGBSqbRFdtYiZctPL7fXhjbajKJhBDALQyKzHjCId/QHt9Gexp6sJ7mADDpjHn6DohXD65jnphv456KKlDGaAWAkCbeCcgCBLWcot/Fepu6Dt7tcFUJCtxafGfLS9A2Kz2/MUN+5ANx/YYNe7cK5Kf2WaXHJ2WfuzqmOVhrQWIZdb0QGy/pciIYt6OHE92MOvw0aIbD2M3dPEjPGadjZKlR1UOAfVSAHqEa5H65BHHhRHKzG8wXweskVxa25biF61gACN4ynRc+Apf9a8O/MrqPsYNuvmmGf9vxtMZPnC3FZBPtZQMPvxcxzkMaP9lYroRFBwJOTo/F7Ba6mRxZCRsP1IddyEpdFnYCR9dpsMGlTk4B6knZcXBRtW3T5bmmsNvcT1C4DNPMoVUrmLDXh0RbvsqYPw5kIDcma+VvFEs1Wrqdsjllw==;NwOz4lwjub/1ra3wQ2FLuw=="
 ---
