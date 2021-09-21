@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-15-hornet-and-milrem-robotics-exhibit-a-new-combat-ugv-at-dsei.md",
+      "title": "Hornet and Milrem Robotics Exhibit a New Combat UGV at DSEI",
+      "excerpt": "The French remote weapon systems manufacturer Hornet and Europe’s leading developer of robotics and autonomous systems Milrem Robotics display a new THeMIS Comb",
+      "sourceUrl": null,
+      "webUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
+      "originalUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asdnews.com/NewsImages/b/67827/68818_O.jpg",
+          "width": 1200,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aerospace & Defense News",
+        "domain": "asdnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-computer-vision-for-visual-effects.md",
       "title": "Computer Vision for Visual Effects",
       "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers and researchers about the fundamental computer vision ...",
@@ -32,6 +75,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-is-the-new-federal-ai-advisory-committee-too-late-to-the-game.md",
+      "title": "Is the new federal AI Advisory Committee too late to the game?",
+      "excerpt": "The Department of Commerce issued a press release about the creation of the National Artificial Intelligence Advisory Committee (NAIAC) which “will consist of expert leaders from a broad and int",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game",
+      "originalUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game?amp",
+      "publishedDateTime": "2021-09-14T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -972,102 +1058,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-logistics-robotics-startup-ambi-raises-26m.md",
-      "title": "Logistics robotics startup Ambi raises $26M",
-      "excerpt": "Ambi Robotics emerged from stealth with a $6 million raise. Today the Bay Area-based firm is back with several times that, announcing a $26 million Series A, led by Tiger Global. The new round also features participation from existing investors,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
-      "originalUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Ambi-Robotics_Founders-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
-      "publishedDateTime": "2021-09-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-worldwide-artificial-intelligence-chip-market-size-to-reach-9118-billion-by-2025.md",
-      "title": "Worldwide Artificial Intelligence Chip Market Size to Reach $91.18 Billion by 2025",
-      "excerpt": "Allied Market Research published a research report on the artificial intelligence chip market The findings of the report states that the global market for artificial intelligence chip is expected to reach 91 18 billion by 2025 manifesting a CAGR of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "originalUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U914943029_g.jpg",
-          "width": 790,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "publishedDateTime": "2021-09-14T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

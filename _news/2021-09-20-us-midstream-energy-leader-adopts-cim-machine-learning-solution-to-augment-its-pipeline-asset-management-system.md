@@ -1,30 +1,24 @@
 ---
 category: news
 title: "U.S. Midstream Energy Leader Adopts CIM Machine Learning Solution to Augment Its Pipeline Asset Management System"
-excerpt: "The Client is a midstream energy leader that transports approximately 30% of natural gas and crude oil in the U.S.A. and has operations in Canada and other countries. Company operations span numerous U."
-publishedDateTime: 2021-09-20T11:09:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271227748/us-midstream-energy-leader-adopts-cim-machine-learning-solution-to-augment-its-pipeline-asset-management-system"
-webUrl: "https://www.bignewsnetwork.com/news/271227748/us-midstream-energy-leader-adopts-cim-machine-learning-solution-to-augment-its-pipeline-asset-management-system"
+excerpt: "OneSoft Solutions Inc. is pleased to announce that a large U.S. pipeline operator has entered into a multi-year agreement with OneSoft's wholly owned subsidiary, OneBridge Solutions Inc. to integrate Cognitive Integrity Management TM software-as-a-service solution into its asset and integrity management practices for its pipeline operations."
+publishedDateTime: 2021-09-20T11:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/u.s.-midstream-energy-leader-adopts-cim-machine-learning-solution-to-augment-its"
+webUrl: "https://www.nasdaq.com/press-release/u.s.-midstream-energy-leader-adopts-cim-machine-learning-solution-to-augment-its"
 type: article
-quality: 20
-heat: 20
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://cdn.bignewsnetwork.com/cus1631999664775.jpg"
-    width: 630
-    height: 420
-    isCached: true
-
-secured: "g/Z9GwG2M9azn1TCvui2EXhpwAVHHaMzJyjCLWZqgga52d941abxXyGs7Y0M5k2poqCh+rbk+5mCA5GwR2mk1ebzdCwR0knyleNcl8/5/W0mByYZ5FanFCc4YrXt1BfAdljeHcLGSan/8dNkzLEu/skxzj2Zo25kxkrwN7od7SycPffq6QcCuztXQnUE3dPHrPSIs8UynyhbXhADCU/Y5YetCO0GYrtEucORo7MW8vzIDmJLlYFVopvuJqiSTjcRLmvkC87wiYdcIa8uHvnHl1txiDt36o5YU+6lJOGEHyisIoFfaXWSGYLY9VOf3SmTnInk69Z+/+8C4av3ymVrCZTRmSL9RK/jQNxd1YLibWI=;fQMpf5YJuRDIMrwTlZBSWg=="
+secured: "wnumHEldMgG8Sd4sCGKIG+Dt5liTnbnesVsOET0HNLIZaueXGsTqM0pzLhC9yKE5/Lza99HL2JRDmDjXxcgYRSJjIdtMi/P31lizrzUe1QBosB0vL3p4LVv0vagk7yrI2PpC5ydVgMJbWMRT0uGITc799TssnG1ZBjEqmEtUWJFwoLupOyuhxEP1X6HpiIUMVscGKyPN5PTYB1QZoOs/5so8GwsSRiRM0Tuw+6va2pJmOwN7ODjSCmX6oGb5J/l6aHgNXoc7u5g+DU7aMNoVlyNuk2c1wbiepUgkt15BkaKVQ1couG/U9wA306oO+PGf71pMvJM8xZr1DL9NsMAQLT2RSKen8npSPIutKkYXmFE=;QeOPXSOf5YprE5M2QMdafw=="
 ---
 

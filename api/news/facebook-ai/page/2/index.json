@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-29-facebook-announces-plans-to-make-instagram-more-private-for-teens.md",
+      "title": "Facebook announces plans to make Instagram more private for teens",
+      "excerpt": "The social network said new teen accounts will automatically be private and it will be harder for suspicious adults to find underage users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
+      "originalUrl": "https://www.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/methode/2021/07/29/a133b21e-f04a-11eb-b683-cf7af9070523_image_hires_170856.jpg?itok=WL96rcJo&v=1627549746",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
+      "publishedDateTime": "2021-07-29T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-fact-check-facebook-didnt-pull-the-plug-on-two-chatbots-because-they-created-a-language.md",
       "title": "Fact check: Facebook didn't pull the plug on two chatbots because they created a language",
       "excerpt": "Because chatbots aren't yet capable of more sophisticated functions beyond, say, answering customer questions or ordering food, Facebook's Artificial Intelligence Research Group (FAIR ...",
@@ -1349,59 +1401,6 @@
         "Facebook AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting.md",
-      "title": "IBM working on AI tools to spot, cut bias in online ad targeting",
-      "excerpt": "IBM is developing tools to ensure online advertising algorithms do not unfairly show ads in ways that may be discriminatory.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/",
-      "originalUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1178840216-e1624585857682.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/",
-      "publishedDateTime": "2021-06-24T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

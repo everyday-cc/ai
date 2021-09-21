@@ -372,6 +372,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-15-what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month.md",
+      "title": "What Are Raymond James Financial Stock’s Prospects Over The Next One Month?",
+      "excerpt": "Raymond James Financial stock (NYSE: RJF) lost 1.9% in the last five trading days and currently trades close to $136 per share. Raymond James Financial is a financial holding company that provides services such as investment management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6141a79d0275b8f7ca5f28da%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/amp/",
+      "publishedDateTime": "2021-09-15T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-ai-edge-hardware-startup-deep-vision-nabs-35m.md",
       "title": "AI edge hardware startup Deep Vision nabs $35M",
       "excerpt": "Deep Vision, a company developing an AI accelerator chip and software suite for edge computing workloads, today announced that it closed a $35 million series B financing round led by Tiger Global, with participation from Exfinity Venture Partners,",
@@ -1022,49 +1074,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-hornet-and-milrem-robotics-exhibit-a-new-combat-ugv-at-dsei.md",
-      "title": "Hornet and Milrem Robotics Exhibit a New Combat UGV at DSEI",
-      "excerpt": "The French remote weapon systems manufacturer Hornet and Europe’s leading developer of robotics and autonomous systems Milrem Robotics display a new THeMIS Comb",
-      "sourceUrl": null,
-      "webUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
-      "originalUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asdnews.com/NewsImages/b/67827/68818_O.jpg",
-          "width": 1200,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aerospace & Defense News",
-        "domain": "asdnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

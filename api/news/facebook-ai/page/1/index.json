@@ -184,6 +184,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-07-tech-giants-are-rushing-to-develop-their-own-chips-heres-why.md",
+      "title": "Tech giants are rushing to develop their own chips — here’s why",
+      "excerpt": "The ongoing global chip shortage is another reason why big tech firms are thinking twice about where they get their chips from, Glenn O'Donnell, research ... Facebook's chief AI scientist told ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/09/06/why-tesla-apple-google-and-facebook-are-designing-their-own-chips.html",
+      "originalUrl": "https://www.cnbc.com/2021/09/06/why-tesla-apple-google-and-facebook-are-designing-their-own-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105193346-Screenshot_Google_Pichai_TPU_3_02.jpg?v=1525801777",
+          "width": 1600,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/06/why-tesla-apple-google-and-facebook-are-designing-their-own-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/06/why-tesla-apple-google-and-facebook-are-designing-their-own-chips.html",
+      "publishedDateTime": "2021-09-06T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-facebook-apologises-after-ai-labels-black-men-in-video-as-primates.md",
       "title": "Facebook Apologises After AI Labels Black Men in Video as “Primates”",
       "excerpt": "A video on ubiquitous social media platform Facebook titled “White man calls cops on black men at marina”, published by UK tabloid Daily Mail, included an automated prompt by the social network, asking users if they would like to “Keep seeing videos about Primates?",
@@ -1307,58 +1359,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-facebook-announces-plans-to-make-instagram-more-private-for-teens.md",
-      "title": "Facebook announces plans to make Instagram more private for teens",
-      "excerpt": "The social network said new teen accounts will automatically be private and it will be harder for suspicious adults to find underage users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
-      "originalUrl": "https://www.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/methode/2021/07/29/a133b21e-f04a-11eb-b683-cf7af9070523_image_hires_170856.jpg?itok=WL96rcJo&v=1627549746",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
-      "publishedDateTime": "2021-07-29T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

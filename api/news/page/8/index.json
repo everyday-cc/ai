@@ -2,6 +2,145 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-13-chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai.md",
+      "title": "Chinese tech giant Baidu begins publicly testing Apollo Go robotaxis in Shanghai",
+      "excerpt": "The 10,000 square meter space will house the 200 AVs Baidu hopes to bring to the city, which would make it the site of the largest self-driving fleet in East China. Baidu’s long game is to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "originalUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024",
+          "width": 1024,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "publishedDateTime": "2021-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-nuix-asxnxl-acquires-natural-language-processing-company-topos.md",
+      "title": "Nuix (ASX:NXL) acquires natural language processing company, Topos",
+      "excerpt": "Global software company, Nuix (ASX:NXL) is set to take over natural language processing developer, Topos Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
+      "originalUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themarketherald.com.au/wp-content/uploads/2021/09/Screen-Shot-2021-09-13-at-9.55.06-am.png",
+          "width": 516,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "cdnAmpWebUrl": "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "publishedDateTime": "2021-09-12T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Market Herald",
+        "domain": "themarketherald.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom.md",
+      "title": "Zillow – Zillow – Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise | Fintech Zoom",
+      "excerpt": "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-12-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
       "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
       "excerpt": "Add to Calendar 09/13/2021 3:00 pm 09/13/2021 4:00 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of ...",
@@ -631,6 +770,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-11-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
+      "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
+      "excerpt": "IBM is adding new features in Watson Assistant, the company's intelligent virtual agent, to help businesses leverage AI and NLP to address customer issues on first contact. Watson Assistant is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1611508/Watson_Assistant_Search_Skill.jpg?p=facebook",
+          "width": 3108,
+          "height": 1625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning.md",
       "title": "DataRobot CEO Dan Wright coming to TC Sessions: SaaS to discuss role of data in machine learning",
       "excerpt": "Just about every company is sitting on vast amounts of data, which they can use to their advantage if they can just learn how to harness it. Data is actually the fuel for machine learning models, and with the proper tools,",
@@ -977,203 +1159,6 @@
         "IBM AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-lantheus-announces-presentation-at-the-2021-american-urological-association-aua-annual-meeting.md",
-      "title": "Lantheus Announces Presentation at the 2021 American Urological Association (AUA) Annual Meeting",
-      "excerpt": "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to find,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-how-ai-will-drive-the-precision-health-research-revolution-through-2030.md",
-      "title": "How AI Will Drive The Precision Health Research Revolution Through 2030",
-      "excerpt": "Ethical AI will be critical to widespread AI adoption. Algorithms used in care delivery must perform well across diverse patient populations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
-      "publishedDateTime": "2021-09-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-how-to-help-tame-cognitive-bias-in-your-ai-system.md",
-      "title": "How To Help Tame Cognitive Bias In Your AI System",
-      "excerpt": "The more measures and techniques we develop to minimize the transmission of our biases, the more reliable AI will be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
-      "publishedDateTime": "2021-09-10T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows.md",
-      "title": "How Small Businesses Can Rely On Robots As The Labor Shortage Grows",
-      "excerpt": "One robot that can help business owners serving customers is Pepper, a humanoid robot originally developed by SoftBank Robotics and now equipped with new AI skills through my company ... business ready for automation? Start with the following: 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a098bc291d5e725168983%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/amp/",
-      "publishedDateTime": "2021-09-10T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

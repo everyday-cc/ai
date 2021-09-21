@@ -3,8 +3,8 @@ category: news
 title: "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’"
 excerpt: "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature."
 publishedDateTime: 2021-09-19T21:07:00Z
-originalUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=hp_minor_pos26"
-webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=hp_minor_pos26"
+originalUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=home-page"
+webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=home-page"
 type: article
 quality: 62
 heat: -1
@@ -74,6 +74,6 @@ related:
         height: 360
         isCached: true
 
-secured: "xyft8nTFvTa9XDydFWzc9Sj9sI5QBLPkgF3VStBZ2Y2g/uq9hFo08JTNXZLtoUgUI5I5N6Hr4LYpTPlQ1GfD8+QQJ/ulXtoB1EJHeQQ9d1yRTFb+t5W3gj0qOe5iVwVVgLF2PhtKn0xShFhZaA+gePgG09G/cUWAnqXvFueap94fhBrlzcFhX4tzvSryJT/e2FI2mm5ehbrJ6pgkUadtSCYtNZ9IoaS1WeRNJblJMfNENIlXlMQIycX2BRsk2htTUalwu6zs8vMzklDK/+XheVZ/uSK39STgX/vKt2Vcya6FoXjQkn0B1SJ2aBRBLl445tREwiflfPsukFQ4OgUiYvJwS3QWtAc+xGt0bBhPk9y6deqs1LahkFdUBgZb6ymaOSJtNYDjL5Lbir6fZL+1TEyUUw3pmlOORk4oAi5Ftqs8hLQnOp8PMijCZlDAwvoFbSgZw/Gwn4ppwT1cieKJ6sZIDwBq9BQxtNVBuusswv/jz2oKQc0ApossuYYxqohghuee+fhyKd6+zC6FWg5rng==;4zp3cy7vMCqLjnSPqolrQw=="
+secured: "xHykzTvSP4Td+FUmSY5FBtA41klFQKSLallcC6tR+ib2fsVrkn6WhVN3CPzEhQXXtdxdnXZt7EJykHv2sg5tM+A5wC0vJEgK7FqQCx5ifhIzVJs7Ee82iXtBcFzhMSmt5ULPOac2p4S9UfIGtHL0LW0cCigSlum6ZVlKaz90+jJNeZ6rqQIE+2sTCzweK54YQeuHjOkZOHUBWt3Tud9kwf1NmxvmQ+hS71u7JvUKEwoDEO7mjbDREiV+1sldvc+u3+QjflMJsk/5RazvlS1xNrerGAHruVTQsBqUYU90Nsm9bcdiFXVJwd8ovdDktiUE/DI5Ub2/1+h9HwtGYUxbCj4BI08TVgmwPqBLkE3Mvgs=;/5J7ngs909alJu5+aP4Idw=="
 ---
 

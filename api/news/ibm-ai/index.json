@@ -122,6 +122,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-11-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
+      "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
+      "excerpt": "IBM is adding new features in Watson Assistant, the company's intelligent virtual agent, to help businesses leverage AI and NLP to address customer issues on first contact. Watson Assistant is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1611508/Watson_Assistant_Search_Skill.jpg?p=facebook",
+          "width": 3108,
+          "height": 1625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise.md",
       "title": "Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise",
       "excerpt": "Machine Learning Operations (MLOps) is on the rise as a critical technology to help to scale machine learning in the enterprise. Leading companies have emerged as top machine learning operations tool enablers for the industry to handle these challenges.",
@@ -252,6 +295,58 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
+      "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
+      "excerpt": "today announced the launch of new AI and automation capabilities in IBM Watson Assistant designed to make it easier for businesses to create enhanced customer service experiences across any ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-1030789862",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-1030789862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1256,83 +1351,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-1800flowers-unwraps-ibm-watson-powered-mobile-gift-concierge-signaling-ais-rise.md",
-      "title": "1800Flowers unwraps IBM Watson-powered mobile gift concierge, signaling AI’s rise",
-      "excerpt": "Gifts retailer 1800Flowers, which has recently made waves in artificial intelligence integration, is cementing its stronghold on mobile commerce with an IBM Watson-powered gift concierge that uses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.retaildive.com/ex/mobilecommercedaily/1800flowers-unwraps-ibm-watson-powered-mobile-gift-concierge-signaling-ais-rise",
-      "originalUrl": "https://www.retaildive.com/ex/mobilecommercedaily/1800flowers-unwraps-ibm-watson-powered-mobile-gift-concierge-signaling-ais-rise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail Dive",
-        "domain": "retaildive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-ai-career-notes-august-2021-edition.md",
-      "title": "AI Career Notes: August 2021 Edition",
-      "excerpt": "In this monthly feature we bring you up to date on the latest career developments in the enterprise AI community – promotions, new hires and accolades:",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterpriseai.news/2021/08/09/ai-career-notes-august-2021-edition/",
-      "originalUrl": "https://www.enterpriseai.news/2021/08/09/ai-career-notes-august-2021-edition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterpriseai.news/wp-content/uploads/2020/06/career-tech_shutterstock-1186179382_700x.jpg",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterpriseai",
-        "domain": "enterpriseai.news",
-        "images": null,
         "publishers": null,
         "authors": null
       },

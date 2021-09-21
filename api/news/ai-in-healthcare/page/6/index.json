@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-06-protenus-and-uc-davis-health-present-at-himss21-on-leveraging-artificial-intelligence-to-reduce-risk-and-save-money.md",
+      "title": "Protenus and UC Davis Health Present at HIMSS21 on Leveraging Artificial Intelligence to Reduce Risk and Save Money",
+      "excerpt": "Healthcare organizations across the U.S. are struggling to protect their patients and workforce from unnecessary harm, as health data breaches and clinical drug diversion remain a constant threat, especially during the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-protenus-uc-davis-health-present-himss21-leveraging-artificial-/2021/07/06/9403372.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence.md",
       "title": "VinBrain wins ACM SIGAI Industry Award 2021 for Excellence in Artificial Intelligence",
       "excerpt": "The 2021 ACM SIGAI Industry Award for Excellence in Artificial Intelligence is granted to DrAid TM - the AI-powered Assistant product for Radiologists developed by VinBrain (a subsidiary of Vingroup in Vietnam).",
@@ -1255,58 +1289,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-artificial-intelligence-in-military-market-size-valuation-to-cross-usd-14-billion-by-2027.md",
-      "title": "Artificial Intelligence in Military Market Size valuation to cross USD 14 billion by 2027",
-      "excerpt": "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence in Military Market Size study, by Application, by Technology, by Platform and Regional Forecasts 2021-2027',",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-valuation-to-cross-usd-14-billion-by-2027-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-valuation-to-cross-usd-14-billion-by-2027-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

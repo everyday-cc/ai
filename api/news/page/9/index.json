@@ -2,6 +2,203 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-10-lantheus-announces-presentation-at-the-2021-american-urological-association-aua-annual-meeting.md",
+      "title": "Lantheus Announces Presentation at the 2021 American Urological Association (AUA) Annual Meeting",
+      "excerpt": "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to find,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-how-ai-will-drive-the-precision-health-research-revolution-through-2030.md",
+      "title": "How AI Will Drive The Precision Health Research Revolution Through 2030",
+      "excerpt": "Ethical AI will be critical to widespread AI adoption. Algorithms used in care delivery must perform well across diverse patient populations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
+      "publishedDateTime": "2021-09-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-how-to-help-tame-cognitive-bias-in-your-ai-system.md",
+      "title": "How To Help Tame Cognitive Bias In Your AI System",
+      "excerpt": "The more measures and techniques we develop to minimize the transmission of our biases, the more reliable AI will be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
+      "publishedDateTime": "2021-09-10T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows.md",
+      "title": "How Small Businesses Can Rely On Robots As The Labor Shortage Grows",
+      "excerpt": "One robot that can help business owners serving customers is Pepper, a humanoid robot originally developed by SoftBank Robotics and now equipped with new AI skills through my company ... business ready for automation? Start with the following: 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a098bc291d5e725168983%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/amp/",
+      "publishedDateTime": "2021-09-10T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-green-robotics-start-up-raises-16m.md",
       "title": "Green robotics start-up raises £1.6m",
       "excerpt": "A green robotics company slashing the cost of maintaining wind turbines is flying high after securing £1.6million in its latest funding round. Perceptual Robotics uses autonomous drones to map turbines,",
@@ -958,202 +1155,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-bill-and-melinda-gates-back-uk-ai-start-up-developing-antiviral-drugs-to-prevent-pandemics.md",
-      "title": "Bill and Melinda Gates back UK A.I. start-up developing antiviral drugs to prevent pandemics",
-      "excerpt": "Bill and Melinda Gates have backed a U.K. start-up called Exscientia that's trying to design new drugs with artificial intelligence software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html",
-      "originalUrl": "https://www.cnbc.com/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106877613-16200805422021-05-03t214818z_566564348_rc2l8n95yypw_rtrmadp_0_people-bill-gates-divorce.jpeg?v=1620080626",
-          "width": 3384,
-          "height": 2218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html",
-      "publishedDateTime": "2021-09-09T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-singapore-tech-startup-advanceai-snags-200m-in-funding-round.md",
-      "title": "Singapore Tech Startup ADVANCE.AI Snags $200M in Funding Round",
-      "excerpt": "ADVANCE.AI is expected to raise roughly $200 million in a funding round that will put the tech startup in exclusive company as a southeastern Asia unicorn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/ADVANCE.AI-funding-identity-verification-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/amp/",
-      "publishedDateTime": "2021-09-09T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies.md",
-      "title": "Allianz backs AV8 Ventures’ second fund focused on AI technologies",
-      "excerpt": "AV8 supports entrepreneurs developing artificial intelligence-driven technologies in the areas of health, mobility, enterprise and deep-tech.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/",
-      "originalUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/AV8-TEAM.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/",
-      "publishedDateTime": "2021-09-09T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-this-ai-makes-sure-your-data-center-is-always-up-and-running.md",
-      "title": "This AI Makes Sure Your Data Center Is Always Up And Running",
-      "excerpt": "CDS announced Nebula, a machine learning program for predictive maintenance, improving the management of data centers and IT infrastructure",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/09/09/this-ai-makes-sure-your-data-center-is-always-up-and-running/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/09/09/this-ai-makes-sure-your-data-center-is-always-up-and-running/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6138cba70e3907ff6ab7a474%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/09/09/this-ai-makes-sure-your-data-center-is-always-up-and-running/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/09/this-ai-makes-sure-your-data-center-is-always-up-and-running/amp/",
-      "publishedDateTime": "2021-09-09T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

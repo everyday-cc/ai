@@ -2,6 +2,202 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-09-bill-and-melinda-gates-back-uk-ai-start-up-developing-antiviral-drugs-to-prevent-pandemics.md",
+      "title": "Bill and Melinda Gates back UK A.I. start-up developing antiviral drugs to prevent pandemics",
+      "excerpt": "Bill and Melinda Gates have backed a U.K. start-up called Exscientia that's trying to design new drugs with artificial intelligence software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html",
+      "originalUrl": "https://www.cnbc.com/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106877613-16200805422021-05-03t214818z_566564348_rc2l8n95yypw_rtrmadp_0_people-bill-gates-divorce.jpeg?v=1620080626",
+          "width": 3384,
+          "height": 2218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/09/bill-and-melinda-gates-back-uk-ai-startup-developing-antiviral-drugs.html",
+      "publishedDateTime": "2021-09-09T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-singapore-tech-startup-advanceai-snags-200m-in-funding-round.md",
+      "title": "Singapore Tech Startup ADVANCE.AI Snags $200M in Funding Round",
+      "excerpt": "ADVANCE.AI is expected to raise roughly $200 million in a funding round that will put the tech startup in exclusive company as a southeastern Asia unicorn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/ADVANCE.AI-funding-identity-verification-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/singapore-tech-startup-advance-ai-snags-200m-in-funding-round/amp/",
+      "publishedDateTime": "2021-09-09T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies.md",
+      "title": "Allianz backs AV8 Ventures’ second fund focused on AI technologies",
+      "excerpt": "AV8 supports entrepreneurs developing artificial intelligence-driven technologies in the areas of health, mobility, enterprise and deep-tech.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/",
+      "originalUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/AV8-TEAM.jpg?w=1024",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/",
+      "publishedDateTime": "2021-09-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-this-ai-makes-sure-your-data-center-is-always-up-and-running.md",
+      "title": "This AI Makes Sure Your Data Center Is Always Up And Running",
+      "excerpt": "CDS announced Nebula, a machine learning program for predictive maintenance, improving the management of data centers and IT infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/09/09/this-ai-makes-sure-your-data-center-is-always-up-and-running/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/09/09/this-ai-makes-sure-your-data-center-is-always-up-and-running/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6138cba70e3907ff6ab7a474%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/09/09/this-ai-makes-sure-your-data-center-is-always-up-and-running/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/09/this-ai-makes-sure-your-data-center-is-always-up-and-running/amp/",
+      "publishedDateTime": "2021-09-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-artificial-intelligence-in-marketing-market-demand-during-2021-2027-persado-albert-technologies-appier-samsung-electronics.md",
       "title": "Artificial Intelligence in Marketing Market Demand during 2021-2027 | Persado, Albert Technologies, Appier, Samsung Electronics",
       "excerpt": "Artificial Intelligence in Marketing Market is growing at a 26 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market AI is often",
@@ -120,6 +316,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
+      "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
+      "excerpt": "today announced the launch of new AI and automation capabilities in IBM Watson Assistant designed to make it easier for businesses to create enhanced customer service experiences across any ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-1030789862",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-1030789862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -908,256 +1156,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures.md",
-      "title": "AI-driven voice assistant PolyAI raises $14M round led by Khosla Ventures",
-      "excerpt": "Conversational AI” startup PolyAI, based out of London, has raised $14 million in a funding round led by Silicon Valley’s Khosla Ventures, with participation from existing investors (Point72 Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/",
-      "originalUrl": "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tZTO_-nWRHM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/amp/",
-      "publishedDateTime": "2021-09-08T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-motorola-launches-in-car-ai-video-system-for-police-forces.md",
-      "title": "Motorola launches in-car AI video system for police forces",
-      "excerpt": "Motorola has made the M500 camera available for pre-order. It automatically captures footage from the backseat of police cars to ensure any incidents are caught on tape for a later review.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/",
-      "originalUrl": "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631150137_m500_image_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-what-databrickss-16b-funding-round-means-for-the-enterprise-ai-market.md",
-      "title": "What Databricks’s $1.6B funding round means for the enterprise AI market",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! The latest winner of the growing interest in enterprise AI is Databricks, a startup that has just secured $1.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
-      "originalUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Databricks1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
-      "publishedDateTime": "2021-09-08T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-wells-fargo-applies-machine-learning-robotics-to-accounts-receivable.md",
-      "title": "Wells Fargo applies machine learning, robotics to accounts receivable",
-      "excerpt": "A new service offered by the company helps clients automatically capture payment and invoice information as well as make sure the information matches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/news/wells-fargo-applies-machine-learning-robotics-to-accounts-receivable",
-      "originalUrl": "https://www.americanbanker.com/news/wells-fargo-applies-machine-learning-robotics-to-accounts-receivable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/8063fce/2147483647/strip/true/crop/4000x2100+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F31%2F88%2F4dfb34fd4f2f9a705fe40f371d99%2F377873475.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
-      "title": "Money, mimicry and mind control: Big Tech slams ethics brakes on AI",
-      "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,297 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-08-20-ut-southwestern-pioneers-pulsar-integrated-radiotherapy-with-immunotherapy-for-improved-tumor-control.md",
+      "title": "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control",
+      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/926055",
+      "originalUrl": "https://www.eurekalert.org/news-releases/926055",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-tesla-to-hold-ai-day-at-a-time-of-new-scrutiny-what-to-expect.md",
+      "title": "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect",
+      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-387828?width=700&height=466",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "publishedDateTime": "2021-08-19T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-top-gun-star-lost-his-voice-to-cancer-he-used-ai-to-bring-it-back.md",
+      "title": "'Top Gun' star lost his voice to cancer. He used AI to bring it back.",
+      "excerpt": "Actor Val Kilmer lost his voice in 2015 due to complications to throat cancer. For his new documentary \"Val,\" Kilmer sought out a company to create a synthetic version of his voice using audio deepfake technology to be used as a voiceover.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
+      "originalUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721144935-val-kilmer-documentary-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
+      "publishedDateTime": "2021-08-19T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-companies-betting-on-data-must-value-people-as-much-as-ai.md",
+      "title": "Companies betting on data must value people as much as AI",
+      "excerpt": "The truth is, we are still early when it comes to data transformation. The success of tech giants that put data at the core of their business models set off a spark that is only starting to take off.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
+      "originalUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-626953732.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
+      "publishedDateTime": "2021-08-19T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-eq-inc-reports-second-quarter-financial-results.md",
+      "title": "EQ Inc. Reports Second Quarter Financial Results",
+      "excerpt": "Revenue increases 71% for the quarter and 74% year over year. TORONTO, ON / ACCESSWIRE / August 19, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or the “Company”), a leader in geo",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027.md",
+      "title": "Artificial Intelligence in Retail Market Size, Growth and Forecast Analysis By 2027",
+      "excerpt": "A recent research report on the Global \"Artificial Intelligence in Retail Market\" presents a complete overview",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-19T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-remote-sensing-and-machine-learning-reveal-archaic-shell-rings.md",
       "title": "Remote sensing and machine learning reveal Archaic shell rings",
       "excerpt": "Deep in the dense coastal forests and marshes of the American Southeast lie shell rings and shell mounds left by Indigenous people 3,000 to 5,000 years ago. Now an international team of researchers, using deep machine learning to assess remote sensing data,",
@@ -871,282 +1162,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect.md",
-      "title": "Tesla to Hold AI Day Amid New Scrutiny: What to Expect",
-      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
-      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-387824?width=700&height=557",
-          "width": 700,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "publishedDateTime": "2021-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-how-this-technologist-is-using-beauty-as-a-tool-to-disrupt-facial-recognition.md",
-      "title": "How this technologist is using beauty as a tool to disrupt facial recognition",
-      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "originalUrl": "https://mashable.com/video/how-to-disrupt-surveillance-facial-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/00qvEiMeRxzCYbNV2ojrTjw/hero-image.fill.size_1200x675.v1628003112.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-sentiance-wins-2021-fintech-award-for-best-fintech-mobile-telematics-provider-europe.md",
-      "title": "Sentiance wins 2021 FinTech Award for \"Best FinTech Mobile Telematics Provider - Europe\"",
-      "excerpt": "Sentiance, an intelligence-driven data science and behavior change company, is awarded the \"Best FinTech Mobile Telematics Provider – Europe \" award by Wealth & Finance International. The FinTech Awards by Wealth & Finance International recognize and spotlight creative innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sentiance-wins-2021-fintech-award-best-fintech-mobile-/2021/08/19/9434038.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1597273/Sentiance_Award.jpg",
-          "width": 400,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-baidus-kunlun-ii-ai-chips-enter-mass-production.md",
-      "title": "Baidu's Kunlun II AI chips enter mass production",
-      "excerpt": "Chinese tech giant Baidu has begun mass-producing its second generation of Kunlun artificial intelligence chips, used in its cloud data centers and smart electric vehicles. Baidu spun the Kunlun chip business out into an independent company earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/baidus-kunlun-ii-ai-chips-enter-mass-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg",
-          "width": 400,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-meet-the-designer-who-makes-high-tech-nail-art-and-fights-facial-recognition-with-flowers.md",
-      "title": "Meet the designer who makes high-tech nail art and fights facial recognition with flowers",
-      "excerpt": "She also strategically applies makeup to combat facial recognition software. Based in North Carolina, McDonald is the co-founder of Blink Blink Creative Circuit Kits, which makes gender inclusive ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
-      "originalUrl": "https://mashable.com/article/joselyn-mcdonald-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/05DJAH5r01nPj2qk8Bpg729/hero-image.fill.size_1200x675.v1628106617.png",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-call-center-automation-startup-balto-secures-37m.md",
-      "title": "Call center automation startup Balto secures $37M",
-      "excerpt": "Balto, a call center automation startup based in St. Louis, has raised $37 million in series B funding for its agent coaching AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/",
-      "originalUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_344231354-e1628723101457.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/call-center-automation-startup-balto-secures-37m/amp/",
-      "publishedDateTime": "2021-08-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

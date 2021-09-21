@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-14-logistics-robotics-startup-ambi-raises-26m.md",
+      "title": "Logistics robotics startup Ambi raises $26M",
+      "excerpt": "Ambi Robotics emerged from stealth with a $6 million raise. Today the Bay Area-based firm is back with several times that, announcing a $26 million Series A, led by Tiger Global. The new round also features participation from existing investors,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
+      "originalUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Ambi-Robotics_Founders-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
+      "publishedDateTime": "2021-09-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-worldwide-artificial-intelligence-chip-market-size-to-reach-9118-billion-by-2025.md",
+      "title": "Worldwide Artificial Intelligence Chip Market Size to Reach $91.18 Billion by 2025",
+      "excerpt": "Allied Market Research published a research report on the artificial intelligence chip market The findings of the report states that the global market for artificial intelligence chip is expected to reach 91 18 billion by 2025 manifesting a CAGR of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "originalUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U914943029_g.jpg",
+          "width": 790,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "publishedDateTime": "2021-09-14T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-ai-system-on-chip-that-runs-on-solar-power.md",
       "title": "AI System-on-Chip That Runs On Solar Power",
       "excerpt": "Researchers have found a way to get around the issues of AI-led technologies with their newly developed system-on-chip.",
@@ -978,83 +1074,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization.md",
-      "title": "Facebook – Researchers: Platforms like Facebook have played ‘major role’ in fueling polarization",
-      "excerpt": "Social media platforms like Facebook “have played a major role in exacerbating political polarization that can lead to such extremist violence,” according to a from researchers at New York University’s Stern Center for Business and Human Rights.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-the-mental-health-services-available-to-new-students-in-nottingham.md",
-      "title": "The Mental Health Services Available to New Students in Nottingham",
-      "excerpt": "Your time at university is exciting and rewarding, but it doesn’t come without its challenges. Life as a student can be tough at the best of times, not least without the complications of a global pandemic thrown into the mix.",
-      "sourceUrl": null,
-      "webUrl": "https://www.leftlion.co.uk/read/2021/september/mental-health-support-universities/",
-      "originalUrl": "https://www.leftlion.co.uk/read/2021/september/mental-health-support-universities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.leftlion.co.uk/media/4926260/mental-health-2019924_1920.jpg?anchor=center&mode=crop&width=1200&height=628&rnd=132755022350000000",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Left Lion",
-        "domain": "leftlion.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
