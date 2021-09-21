@@ -55,6 +55,20 @@ related:
         width: 1632
         height: 918
         isCached: true
+  - title: "NVIDIA Windows 11 Game Ready Driver with DLSS & DLAA (Deep Learning Anti-Aliasing)"
+    excerpt: "NVIDIA has today released new Windows 11 Game Ready Driver with NVIDIA DLAA (Deep Learning Anti-Aliasing) making it available today in ESO"
+    publishedDateTime: 2021-09-21T09:09:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-windows-11-game-ready-driver-with-dlaa-21-09-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 33
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/NVIDIA-Windows-11-game-ready-driver-DLSS.jpg"
+        width: 700
+        height: 453
+        isCached: true
 
 secured: "FTlFSbX2KRgQ6znuPaqO/uvN2WE8Oz8H9/ygbrlMuMbBRA3VLe8qIYv7I3/Z2s6gRgxBSMMhD6dS4h8+4ToTs+aIWjVwdnYp7Blpy9X1Y+DMKwWCKcImBoyGueWUt8DJJnSAcS0HYARworQwujKkyNYtibrrE9r7ObgNrCmrWkI+a8zk0e9XOouiQxkuG5FxVOwTBjliN9rLvVQ+U5jugK7PTNP2Hw73fKBFSn6dCUfGLBq8izZDxMf2CBsdB1Z+tPh46fe5pECUaz7hI6MeH8inqFQWy6j45lO+T20WGWsXA1xJbyQXb3Bp8mE40jEW/nUhswnLi+LME6lBCntCKPJE2QN/thIryf+moiPTCrj1PIFVvxK0XBXYOV4i/HiCTr3di4AObMPfP+mSEp0rkHinpyhb+YPD7tHzVBIr3E+DYRR1qwwlI0y1xBrUqpY6ZcD6Oehx55MG2lfqhIqUx2dfrqupJ1woovfq4s3nt/qmSNX3+EIuHr0Ta2pbxLAOINRybYu79C4mM9pEoiLVLg==;SYyCHAcNPenQpSuiypJaHw=="
 ---

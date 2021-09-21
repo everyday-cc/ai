@@ -24,21 +24,30 @@ images:
     isCached: true
 
 related:
-  - title: "Axelera AI Raises $12M in Seed Funding"
-    excerpt: "Axelera AI, an Eindhoven, The Netherlands-based AI semiconductor startup, raised $12m in seed funding. The round was led by Bitfury and joined by global nanoelectronics R&D center imec and deep-tech venture capital funds Innovation Industries and imec."
-    publishedDateTime: 2021-09-16T15:46:00Z
-    webUrl: "https://www.finsmes.com/2021/09/axelera-ai-raises-12m-in-seed-funding.html"
+  - title: "Edtech Startup Expertrons Raises Funding"
+    excerpt: "Mumbai-based professional growth-focused AI videobot startup Expertrons on Tuesday announced to have raised an undisclosed sum from industry veterans Kunal Shah (founder, CRED) and Anant Maheshwari (president,"
+    publishedDateTime: 2021-09-21T08:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/386674"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/09/axelera-ai.png"
-        width: 393
-        height: 393
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1632211382-LtoRJatinSolankiVivekGuptaFoundersExpertronsv1.jpg"
+        width: 2000
+        height: 1333
         isCached: true
+  - title: "Kunal Shah and Anant Maheshwari backs Mumbai based Ed-tech startup Expertrons"
+    excerpt: "Professional growth focussed AI videobot startup Expertrons has raised an undisclosed sum from industry veterans Kunal Shah (Founder of Cred) and Anant Maheshwari (President, Microsoft India). The recent round of funding comes close on the heels of Expertrons raising $2."
+    publishedDateTime: 2021-09-21T06:52:00Z
+    webUrl: "https://mybigplunge.com/startups/funding-news/kunal-shah-and-anant-maheshwari-backs-mumbai-based-ed-tech-startup-expertrons/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 14
 
-secured: "KnxlsE1MIz5mu5H6RKeGdhDQ/6Y3oBMOvskgj7EPlBi/6PtyCAzSnzRV2SGA0A0qZBm/oN/F0lbF6ly1jN4CI7n5WkGtaAINxpETIUWSzNGASHUheaKgG3gLtxOhWpJGMV4fhR9m+FUmy5FJuNPYDJFO0j+LlnVC7c/nT0UvuXPhdvrUPlcmn4E8Y7l4KLCAuczt7+RNuauBazAvWOCzGd+qx76MYbJfPXklfAfPDxjHUhJbCKz9Mh4AYBfxoegbN1snRKu5tpeOuyMiVD37SRtjp8s2EhcyS61XcsKLvsCd/7P7tTt1sBAa18Ltgp2jOdlA454sNx6LGlp6wsO1vstfhajc5HBNY4Jhiu+ieKo=;TZvFRLP/iPhpLgV1bsW4ag=="
+secured: "JnJZYf5XRVKBVAWzsniRC7N7K+jat1R9V271ftmJJl2k2XTCh9U7JljnFqTGviDdRvoR6KO17lQt9nW8iLcV/OlOjwm0aome7ORCVrWS+qS2Oh1reOpNmXspIGTrjtyq/7QAl/GfXm5S81zNJXjhhKfOpnSADurXM63x9HKoBMon4GErC/UkA6JnS6YUkDXInqFYUsSBV9vu6NMCZr+tsPivar64dBgTSOe3ZxGRD2lSkbfmNBuMoAbvgRxvAF/9DIAiIl6+u8lhhLrJ4bZpE+DwfadLSKMM0LO85k1M6e35zDUM4VXIwhfOy+Xfd8ba5ugnMjfHzzD6S8y55Eo4iTzXm7ictdzfkQ25XxaLYaSYunhQpk8b3psZRP0xzbHAHsObAWWmR5YVi3eD4XjU1glIPO4DIrYcmzv5aoWyKn8FhwYwNNTbhabSCE3FJRAcpMloQlII6rO+6twFTNEBVYPz1IgAXy/OfGtLiK41A1Xt+HyjS0z9XvOrXE7tqRHFhzJOq3Vqr0gyiN31SpDraA==;ws4Xp5NJKxjFCyBmTzxzlg=="
 ---
 

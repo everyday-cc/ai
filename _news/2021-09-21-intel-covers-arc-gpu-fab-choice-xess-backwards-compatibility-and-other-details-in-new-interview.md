@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91331-intel-covers-arc-gpu-fab-cho
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html"
 type: article
 quality: 91
-heat: 101
+heat: 103
 published: true
 
 provider:

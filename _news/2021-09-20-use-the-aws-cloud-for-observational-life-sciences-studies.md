@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cloud-fo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cloud-for-observational-life-sciences-studies/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

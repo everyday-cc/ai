@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-w
 webUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

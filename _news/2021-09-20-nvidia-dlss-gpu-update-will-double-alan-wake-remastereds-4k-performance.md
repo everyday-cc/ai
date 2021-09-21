@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "NVIDIA Windows 11 Game Ready Driver with DLSS & DLAA (Deep Learning Anti-Aliasing)"
+    excerpt: "NVIDIA has today released new Windows 11 Game Ready Driver with NVIDIA DLAA (Deep Learning Anti-Aliasing) making it available today in ESO"
+    publishedDateTime: 2021-09-21T09:09:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-windows-11-game-ready-driver-with-dlaa-21-09-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 33
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/09/NVIDIA-Windows-11-game-ready-driver-DLSS.jpg"
+        width: 700
+        height: 453
+        isCached: true
   - title: "Elder Scrolls Online will be the first to use new Nvidia Deep Learning Anti-Aliasing"
     excerpt: "We’ve been wondering for a while now when exactly Nvidia would release a version of their deep learning technology that aimed at Anti-Aliasing rather than Super Sampling, and as it turns out Nvidia’s new DLAA (Deep Learning Anti-Aliasing) technology is coming to The Elder Scrolls Online - along with DLSS - in an upcoming update."
     publishedDateTime: 2021-09-20T09:37:00Z

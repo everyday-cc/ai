@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Zest AI Wins 2021 Finovate Award for Best Use of AI/ML"
-excerpt: "Zest AI, the leader in software for AI-driven underwriting, today won the 2021 Finovate Award for Best Use of AI/ML. The award goes to the bank, financial institution, or fintech that uses artificial intelligence/machine-learning technology to the greatest effect,"
-publishedDateTime: 2021-09-15T15:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-2acb818ebe1f25e908e4be89872e4639"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-2acb818ebe1f25e908e4be89872e4639"
+excerpt: "The Finovate Awards were created to recognize excellence in innovation within the broader fintech community. \"It's great to be recognized by the panel of Finovate judges as Best Use of AI/ML in ..."
+publishedDateTime: 2021-09-15T14:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/zest-ai-wins-2021-finovate-award-for-best-use-of-ai-ml-1030802033"
+webUrl: "https://markets.businessinsider.com/news/stocks/zest-ai-wins-2021-finovate-award-for-best-use-of-ai-ml-1030802033"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "LlaI8FmsUi+eq3O7RgF+cF/E/ssAUdLcLiI9BKYW1Elx6Fa5OyeX9HB9HkLJ2XaV8lq+ZrtWFimPSFwuSJ2BPH8Sz6XEt2XXEWT+K1STv8+RdGI43ypBLyahRmaozfbARRgDeoPlumziRCK5lYgjS4NG+7YDi6QHy195BSnF42/cpm5BFeu090ryrZ/+CJz5WHt3au81SdYoIRMHRcPfjbX1cIFryPr9LkkIBmwngeWeGrx8Dt8JEGI+F9M+5a7WgRbYSY2YohcwuayEVpGsXNS02pG91u8FEf4kRgPbVHAQATMK8NPI/CDc5tDOWFhRVLuHEgwqDhpCrgrCBAOa9QWIfQw8sTcM1GVOe/+acFQ=;AMkk9xlInJoc1e3IpF/GEg=="
+secured: "lBTdbmKOVfylFtQNhvF+g5Z23y6wCJohnEF0Z937fSuhH00AbmZCI+wmKKsMq1I2LNLV8RPW4ThI7QRRs5dZuCoFwQXUP7NTFryz6EMvfVlz0qXJXnLO8h8C5bMSZeJSUyXH58soqZ9yjMi23L7OQ1S+68gClILazakYqG41OzDFBuMtHOUOoT0bpTQntSOGAvRBXjMWg/5BPY1XsDJfatmWrGdC/oDTUNb6rRxHt+0obsJDSO6/c4Votp4h5izdIfTFGJPD8u0/fTZzY1ViZT7FHT9RdZaNVp+vQyly0A8JfRalt3vvPdFXncMZUwH4KTsJ+pjlGK7kx1L0DhyAS0U0W3CZdB92MGnrz3Mn5+OZAIbU+xfl6QR16mZ6lnVwNFtApIUXyHJoBCsV1vadeAEM3odxLh3yff51KNFOJDjzmxMzN0cI5HtXQQWvKfocsuDNO6RbbG4ZPVpCFbwRPINs2rrPuv1jqYTzcuLGVx4PsTCAN2J/zIEwFvAAo4J3AbL8hnlnIVhagI7bLCD1lA==;NXHRii5zPHKJaxmob/s7jw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1440
     height: 810
     isCached: true
-
-related:
-  - title: "Genesis GV60 Uses A Face Recognition System For Unlocking The Doors"
-    excerpt: "Genesis' new face recognition system eliminates the need for a smart key and can adjust various settings when it detects a saved face and profile."
-    publishedDateTime: 2021-09-16T15:30:00Z
-    webUrl: "https://www.carscoops.com/2021/09/genesis-introduces-face-connect-face-detection-system-will-debut-on-the-gv60/"
-    ampWebUrl: "https://www.carscoops.com/2021/09/genesis-introduces-face-connect-face-detection-system-will-debut-on-the-gv60/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/09/genesis-introduces-face-connect-face-detection-system-will-debut-on-the-gv60/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/09/Genesis-Face-Connect-2-1024x429.jpg"
-        width: 1024
-        height: 429
-        isCached: true
 
 secured: "B9OizmpxFvTyaT2u/QCv95n1+fjARxXUcS3yKwO822GFhPr5yWxenaQUffabo4VbrxSYJqVgxdUNW9WA5LW9CWvSz/jeujr6K2QEjQT9LDI2YPJVmtOk9CI8hJOhqBkntJv2R0zJ3Ma81rAu5uUmqJHt+Q3jdDheflvAfYqYebv8oTjK89K5JomMvw63vffnr1ybGRwvR0+yqzGev5+EQFRgIhw/eI9dpxcnkLXlwuUWpZAMAP3qCG4nQ0kljn2wa2jE4B4sXgPsGOlCC6aoEEnQFAQVzTQVvg9o4u0ZuwRcaPb/xlkSpx/6Q3YvRE6IxEKiIU5oQdjC2/iyIn7v9TvmmLqhHup0mXqHYmH7qo+W4XSjqP1D+uptMhL8ZID/h4RUisvIX8TBPk+JJvZ+xsaC3lwbmovFOyG2PZ2lhFMH0TVXAzl2BEZedqzJjhPo3T4bFnil7WBXF0qOJ0EsXOlQCPp6tztGtolpBDzIOnUaJtCuBmoEyWeFZapT/tREe1zr7GWDrwzakmu0fXiugw==;9vIVyAxIaha0hxG4bNfqmg=="
 ---

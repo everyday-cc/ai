@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 725
         isCached: true
+  - title: "M2P acquires credit card management fintech Wizi"
+    excerpt: "Chennai-based M2P Fintech, also known as Yap, on Tuesday announced the acquisition of credit card-focussed fintech Wizi for an undisclosed sum. M2P, an application programming interface (API) infrastructure company,"
+    publishedDateTime: 2021-09-21T08:31:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/b6fvlu/article36583975.ece/ALTERNATES/LANDSCAPE_615/BL22W2P"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Here's what Mitt Romney says makes Utah a great place for fintech companies"
     excerpt: "Utah Sen. Mitt Romney said that businesses, especially innovative businesses like those in fintech, come to Utah for four reasons."
     publishedDateTime: 2021-09-18T00:01:00Z

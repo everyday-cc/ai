@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/09/20/improved-algorithms-may-be-more-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/improved-algorithms-may-be-more-important-for-ai-performance-than-faster-hardware/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

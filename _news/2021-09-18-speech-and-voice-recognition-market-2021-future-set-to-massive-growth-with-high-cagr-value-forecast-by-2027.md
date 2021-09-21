@@ -32,22 +32,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
-  - title: "Artificial Intelligence (AI) in Construction Market to Witness Huge Growth by 2028 | Alexander Group, Centric Consulting, Winning by Design"
-    excerpt: "Global Artificial Intelligence (AI) in Construction Market was valued at USD XXX million in 2021 and is expected to grow at a compound annual growth rate (CAGR) of XX percent to reach USD XXX million by 2029 including key companies- Alexander Group,"
-    publishedDateTime: 2021-09-16T15:29:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-to-witness-huge-growth-by-2028-alexander-group-centric-consulting-winning-by-design/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-construction-market-to-witness-huge-growth-by-2028-alexander-group-centric-consulting-winning-by-design/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-construction-market-to-witness-huge-growth-by-2028-alexander-group-centric-consulting-winning-by-design/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 38
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/09/Global-Artificial-Intelligence-AI-in-Construction-Market-Including-Key-Players-Market-Share-1.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Deep Learning In Drug Discovery Diagnostics Market Forecasted to Reach Value of Around US$ 18199.5 million by 2026"
     excerpt: "Latest update report on Deep Learning In Drug Discovery Diagnostics Market Size Share Growth Industry Trends and Forecast by 2028 This report is highly predictive as it holds the overall market analysis of the topmost companies into the Deep Learning"
     publishedDateTime: 2021-09-17T19:33:00Z

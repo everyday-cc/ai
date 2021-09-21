@@ -38,34 +38,6 @@ related:
         width: 1200
         height: 857
         isCached: true
-  - title: "Deploying Artificial Intelligence At The Edge"
-    excerpt: "From ecosystem development to talent, much effort is still required for practical implementation of edge AI. Rapid advances in artificial intelligence (AI) have made this technology important for many industries,"
-    publishedDateTime: 2021-09-16T15:21:00Z
-    webUrl: "https://semiengineering.com/deploying-artificial-intelligence-at-the-edge/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/2016/09/brain.jpg"
-        width: 587
-        height: 480
-        isCached: true
-  - title: "Harnessing artificial intelligence for the masses"
-    excerpt: "It takes real intelligence and plenty of collaborative muscle to harness the potential of artificial intelligence. Most of us can barely grasp the concept of human-made machines learning how to process and analyze enormous amounts of data,"
-    publishedDateTime: 2021-09-16T15:56:00Z
-    webUrl: "https://www.udel.edu/udaily/2021/september/artificial-intelligence-cyberinfrastructure-rudolph-eigenmann/"
-    type: article
-    provider:
-      name: University of Delaware
-      domain: udel.edu
-    quality: 37
-    images:
-      - url: "https://www.udel.edu/content/dam/udelImages/udaily/2021/September/fb-AI-Eigenmann-800x420.jpg"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "jwLxtuEuAtha5p4c966mYuPt41BqjH3h74ec+1uRWMA/FPf+WBptnsluYVb6VZQKOy/G2VzLysscPYCLrBGk5/NrXOa4AnjHrS/Jubb1RijT08Hr/aQxqJKC/hOwl3xrYd2TiTXf7QrzHh63SjBQ/Il9awZKeq5bVmFBJ3l89DW2Vm+kY8M9l7ZaRdNdICQ+dQL6UqbOb5eveFVTCE0lOqjuiy/0RKQUgJHmfLcx36vPBfsdMMF4RO2F1LSYTuSJh9ykB1NflyU8p0KXtmOuiMRHUcEpeGuR8tYRZ0LzVKIotc7EFSaRwVfiqkHtZxWSZPbJY2zCDzLQjXMsE8CNF0azY5Lghhw8+7x+jktTGfE=;+SZ3XvoqChH2cxfDT3J5lg=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 649
     isCached: true
 
-related:
-  - title: "Plant scientists will use artificial intelligence to make crops more resilient"
-    excerpt: "With a budget of 50 million euros, the team aims connect specialists in plant sciences, data sciences, artificial intelligence (AI) and breeding companies over the next ten years on a method to ..."
-    publishedDateTime: 2021-09-20T19:58:00Z
-    webUrl: "https://finchannel.com/plant-scientists-will-use-artificial-intelligence-to-make-crops-more-resilient/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 13
-
 secured: "fb7NwMpUxDSGv9UHc1KZqY2XmZH/7F1o0N5istJUh0J0NVKIFdcUT5CS2qh4GLpZ/60STT7fF5lnEjHHiCILhW0dD6KZ6QRgLb8H83NQdY/SCuE/6noH/9lxml+/XNh8CM4fW7hZrDSKZT1Kbl6VpJsuuZumcuq1H3dHeQEc1RcnoOJoezDGk/U3+PmotmGfTvStbv8ECZNe/MNq3GEtcjHDXmVMIE30AJ3xnFL4lUWYchzrwAjcSpg8vRDQA1e7hXCPp5ykBVwqQzshDHTTKkUQh4i2uBZyl5B3+wgo1Ib7HXEYEcxeKhQPgei/kzM4I7Ovhfl1lU3lMS5u1aKcsLa1O0ZZeYswdRCMwnNNDj5vSPJVuOqolc1tK4d0V+5rWoaZdgqvhGHZ4K6X1QdLZqZrA5k3GkL/aNN+hGeTwU88GmkyzHe2TiVRD+PZfAfTJZXEN1D/IPiFZo7Ua0NDEt10P1PRuATFKDOaiwYrpneSMYjNjcw1t/XWUo+3UXDOGJB50GsuvYPmiHRe89kGbQ==;9K65lFwEaZIRIPfFsgdtcQ=="
 ---
 

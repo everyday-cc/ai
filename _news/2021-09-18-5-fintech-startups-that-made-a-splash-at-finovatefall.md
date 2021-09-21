@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "M2P acquires credit card management fintech Wizi"
+    excerpt: "Chennai-based M2P Fintech, also known as Yap, on Tuesday announced the acquisition of credit card-focussed fintech Wizi for an undisclosed sum. M2P, an application programming interface (API) infrastructure company,"
+    publishedDateTime: 2021-09-21T08:31:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/m2p-acquires-credit-card-management-fintech-wizi/article36583976.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/b6fvlu/article36583975.ece/ALTERNATES/LANDSCAPE_615/BL22W2P"
+        width: 615
+        height: 384
+        isCached: true
   - title: "‘Meme’ Stocks Lead the Charge | Fintech Zoom | Fintech Zoom"
     excerpt: "Find the latest GameStop & AMC stocks quote, history, news and other vital information to help you with your stock trading"
     publishedDateTime: 2021-09-19T16:27:00Z
