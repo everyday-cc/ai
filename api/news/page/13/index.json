@@ -2,6 +2,301 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-07-boost-transcription-accuracy-of-class-lectures-with-custom-language-models-for-amazon-transcribe.md",
+      "title": "Boost transcription accuracy of class lectures with custom language models for Amazon Transcribe",
+      "excerpt": "Many universities like transcribing their recorded class lectures and later creating captions out of these transcriptions. Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. Transcribe assists",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transcribe-class-lectures-accurately-using-amazon-transcribe-with-custom-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T14:14:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-new-deep-learning-method-boosts-mri-results-without-requiring-new-data.md",
+      "title": "New deep learning method boosts MRI results without requiring new data",
+      "excerpt": "When patients undergo an MRI, they are told to lie still because even the slightest movement compromises the quality of the images and can create blurred spots and speckles known as artifacts. Moreover,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/mri.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-deep-method-boosts-mri-results.amp",
+      "publishedDateTime": "2021-09-07T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-ai-as-a-service-to-solve-your-business-problems-guess-again.md",
+      "title": "AI as a service to solve your business problems? Guess again",
+      "excerpt": "The process to train algorithms to detect wear and tear would be different for factories that produce different products; after all, a shoe is not a smartphone is not a bicycle.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/",
+      "originalUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1031459310.jpg?w=1024",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/ai-as-a-service-to-solve-your-business-problems-guess-again/amp/",
+      "publishedDateTime": "2021-09-07T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-fully-customizable-action-space-now-available-on-the-aws-deepracer-console.md",
+      "title": "Fully customizable action space now available on the AWS DeepRacer console",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML) through a global racing league, cloud-based 3D racing simulator, and fully autonomous 1/18th scale race car driven by reinforcement learning. Starting today, the model action space is fully customizable yet simplified with new",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/07/8-5294-Baja-truck.jpg",
+          "width": 800,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T13:20:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-university-of-idaho-robotics-flourish-at-north-idaho-college.md",
+      "title": "University of Idaho Robotics Flourish at North Idaho College",
+      "excerpt": "Since relocating to North Idaho College's Hedlund Building, the university's robotics program is teaching students to write software and preparing them for careers in fields such as manufacturing and cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/26fb46c/2147483647/strip/true/crop/1168x609+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb3%2F2a%2Fb551756f42647015fcf63a4856b6%2Funiversity-of-idaho.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
+      "publishedDateTime": "2021-09-07T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-large-language-models-arent-always-more-complex.md",
+      "title": "Large language models aren’t always more complex",
+      "excerpt": "Research suggests that large language models don't necessarily perform better than their smaller, better-tuned counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/",
+      "originalUrl": "https://venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/large-language-models-arent-always-more-complex/amp/",
+      "publishedDateTime": "2021-09-07T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-dell-technologies-brings-ai-to-the-edge.md",
       "title": "Dell Technologies Brings AI To The Edge",
       "excerpt": "Senior Analyst, Storage & Data, Steve McDowell, dives in as he recently had the opportunity to spend time with the edge and AI teams at Dell Technologies.",
@@ -587,6 +882,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-07-collaboration-overload-is-sinking-productivity.md",
+      "title": "Collaboration Overload Is Sinking Productivity",
+      "excerpt": "And, on a more dubious front, one global services organization implemented ... the inefficiencies and subsequent cognitive switching costs of always-on cultures and 2) the personal motivations ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
+      "originalUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/08/Sep21_07_175502607.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
+      "publishedDateTime": "2021-09-07T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better.md",
       "title": "Deep Learning Artificial Intelligence Predicts Breast Cancer Risk Better",
       "excerpt": "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,",
@@ -848,334 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-astronauts-in-space-will-soon-resurrect-an-ai-robot-friend-called-cimon.md",
-      "title": "Astronauts in space will soon resurrect an AI robot friend called CIMON",
-      "excerpt": "The AI-powered robot CIMON has received a software update before an upcoming round of more complex experiments at the International Space Station.",
-      "sourceUrl": null,
-      "webUrl": "https://www.space.com/space-station-ai-robot-cimon-upgrade-for-astronauts",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/astronauts-in-space-will-soon-resurrect-an-ai-robot-friend-called-cimon/ar-AAObHf4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/r7nDQ7LThxRuHp6oMh44Ri-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts",
-      "cdnAmpWebUrl": "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/space-station-ai-robot-cimon-upgrade-for-astronauts",
-      "publishedDateTime": "2021-09-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "space.com/space-station-ai-robot-cimon-upgrade-for-astronauts",
-        "domain": "space.com/space-station-ai-robot-cimon-upgrade-for-astronauts",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies.md",
-      "title": "Crediwatch named to list of 100 most innovative AI fintech companies",
-      "excerpt": "Crediwatch, a Bangalore-based ‘data-insights-as-a-service’ platform, has been selected to be part of the AIFinTech100, an annual list of 100 of the world’s most innovative AI solution providers for financial services selected by a panel of industry experts and analysts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
-      "originalUrl": "https://www.freepressjournal.in/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-09/7c7bd66a-1853-4e5f-9878-bf9af8cf76c8/Meghna_Suryakumar__Founder_and_CEO_Crediwatch.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
-      "publishedDateTime": "2021-09-07T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-how-ai-can-help-transform-finance-professionals-into-strategic-influencers.md",
-      "title": "How AI can help transform finance professionals into strategic influencers",
-      "excerpt": "Finance teams using artificial intelligence (AI) are outperforming their peers — and many professionals look destined to become strategic 'influencers'. Gordon Stuart of Unit4 shares the new research revealing some intriguing shifts within businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers",
-      "originalUrl": "https://diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-09/shutterstock_1941454657.png",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers?amp",
-      "publishedDateTime": "2021-09-07T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions.md",
-      "title": "4 ways AI, computer vision, and related technologies expand IoT solutions",
-      "excerpt": "Intel and Microsoft Azure are working together to help enterprises deploy intelligent IoT technologies and services, including AI’s deep learning abilities, computer vision, and audio or speech capabilities. Adding these capabilities enables solutions to solve more business challenges, uniting two or",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/",
-      "originalUrl": "https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/78188434-45f7-41be-84e7-601065122b43.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T02:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-ai-focus-shifts-to-small-and-wide-data.md",
-      "title": "AI focus shifts to ‘small and wide’ data",
-      "excerpt": "A Gartner report finds that companies will increasingly embrace responsible AI while seeking ways to more efficiently deploy AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/",
-      "originalUrl": "https://venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/amp/",
-      "publishedDateTime": "2021-09-07T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-this-edutainment-startup-is-scoring-top-marks-with-home-schoolers.md",
-      "title": "This Edutainment Startup Is Scoring Top Marks With Home-schoolers",
-      "excerpt": "Championing the cause of providing the right exposure to children to various technologies, SP Robotic Works co-founder Sneha Priya, pitches for empowering kids so that they can make the right career c",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/383974",
-      "originalUrl": "https://www.entrepreneur.com/article/383974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1630999259-SnehaandPranavanv1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/383974",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/383974",
-      "publishedDateTime": "2021-09-07T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-nitda-trains-178-young-nigerians-on-robotics-emerging-technologies.md",
-      "title": "NITDA trains 178 young Nigerians on robotics, emerging technologies",
-      "excerpt": "Nigeria’s digital literacy has received a boost with the training of 178 young Nigerians in the just-concluded 10-Days Stem Bootcamp for Kids (SB4Kids)",
-      "sourceUrl": null,
-      "webUrl": "https://tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/",
-      "originalUrl": "https://tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tribuneonlineng.com/wp-content/uploads/2020/09/NITDA.jpg",
-          "width": 650,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/amp/",
-      "cdnAmpWebUrl": "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/nitda-trains-178-young-nigerians-on-robotics-emerging-technologies/amp/",
-      "publishedDateTime": "2021-09-06T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nigerian Tribune",
-        "domain": "tribuneonlineng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

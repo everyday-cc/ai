@@ -934,6 +934,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-07-collaboration-overload-is-sinking-productivity.md",
+      "title": "Collaboration Overload Is Sinking Productivity",
+      "excerpt": "And, on a more dubious front, one global services organization implemented ... the inefficiencies and subsequent cognitive switching costs of always-on cultures and 2) the personal motivations ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
+      "originalUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/08/Sep21_07_175502607.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
+      "publishedDateTime": "2021-09-07T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions.md",
       "title": "4 ways AI, computer vision, and related technologies expand IoT solutions",
       "excerpt": "Intel and Microsoft Azure are working together to help enterprises deploy intelligent IoT technologies and services, including AI’s deep learning abilities, computer vision, and audio or speech capabilities. Adding these capabilities enables solutions to solve more business challenges, uniting two or",
@@ -1314,49 +1357,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-cognitive-media-market-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2031.md",
-      "title": "Cognitive Media Market Business Growth Rate, Manufacturing Analysis, Size, Share, Cost Structure and Forecast to 2031",
-      "excerpt": "The report helps stakeholders and businessmen to know the demand of customers or consumers for efficient marketing of products or services. Global Cognitive Media Market research report 2022-2031 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cognitive-media-market-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2031",
-      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-media-market-business-growth-rate-manufacturing-analysis-size-share-cost-structure-and-forecast-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/09/e5cb0140a054e933656388d4a3e46fa942ff6c1d-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

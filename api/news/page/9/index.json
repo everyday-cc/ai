@@ -2,6 +2,291 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-11-overcoming-ais-transparency-paradox.md",
+      "title": "Overcoming AI’s Transparency Paradox",
+      "excerpt": "AI has a well-documented but poorly understood transparency problem. 51% of business executives report that AI transparency and ethics are important for their business, and not surprisingly, 41% of senior executives state that they have suspended an AI tool because of a potential ethical issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613bb5a4c74dee7c980110ff%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/amp/",
+      "publishedDateTime": "2021-09-10T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-71-of-healthcare-execs-to-invest-in-ai-over-the-next-three-years.md",
+      "title": "71% of Healthcare Execs to Invest in AI Over the Next Three Years",
+      "excerpt": "A majority of healthcare executives PYMNTS surveyed see AI as a particularly useful tool in waging war against the fraudsters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/healthcare-ai-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/amp/",
+      "publishedDateTime": "2021-09-10T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-ai-artificial-intelligence-should-you-teach-it-to-your-employees.md",
+      "title": "AI (Artificial Intelligence): Should You Teach It To Your Employees?",
+      "excerpt": "But AI is not easy to implement. Even top-notch companies have challenges and failures. So what can be done? Well, one strategy is to provide AI education to the workforce. “If more people are AI literate and can start to participate and contribute to the process,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613bae48bbb19cb92da70171%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/amp/",
+      "publishedDateTime": "2021-09-10T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation.md",
+      "title": "Manage your Amazon Fraud Detector resources in an automated and secure manner using AWS CloudFormation",
+      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T12:16:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
+      "title": "Agile Robots closes $220M Series C funding",
+      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
+      "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
+      "excerpt": "IBM is adding new features in Watson Assistant, the company's intelligent virtual agent, to help businesses leverage AI and NLP to address customer issues on first contact. Watson Assistant is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1611508/Watson_Assistant_Search_Skill.jpg?p=facebook",
+          "width": 3108,
+          "height": 1625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-datarobot-ceo-dan-wright-coming-to-tc-sessions-saas-to-discuss-role-of-data-in-machine-learning.md",
       "title": "DataRobot CEO Dan Wright coming to TC Sessions: SaaS to discuss role of data in machine learning",
       "excerpt": "Just about every company is sitting on vast amounts of data, which they can use to their advantage if they can just learn how to harness it. Data is actually the fuel for machine learning models, and with the proper tools,",
@@ -899,275 +1184,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft.md",
-      "title": "Ethics panels reject and delay biometrics, AI projects for Google, IBM, Microsoft",
-      "excerpt": "Companies are waiting for regulation from govts and blocs, and also to improve their own tech to avoid issues such as perpetuating biases around race and gender",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft",
-      "originalUrl": "https://www.biometricupdate.com/202109/ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg",
-          "width": 1080,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-ethical-artificial-intelligence-is-focus-of-new-robotics-program.md",
-      "title": "Ethical Artificial Intelligence is Focus of New Robotics Program",
-      "excerpt": "Ethics will be at the forefront of robotics education thanks to a new University of Texas at Austin program that will train tomorrow's technologists to understand the positive — and potentially negative — implications of their creations.",
-      "sourceUrl": null,
-      "webUrl": "https://cns.utexas.edu/news/ethical-artificial-intelligence-is-focus-of-new-robotics-program",
-      "originalUrl": "https://cns.utexas.edu/news/ethical-artificial-intelligence-is-focus-of-new-robotics-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cns.utexas.edu/images/easyblog_shared/2021/b2ap3_large_ethicalAI-robotics700.jpg",
-          "width": 700,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The University of Texas at Austin",
-        "domain": "utexas.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing.md",
-      "title": "UK dials up the spin on data reform, claiming ‘simplified’ rules will drive ‘responsible’ data-sharing",
-      "excerpt": "The UK government has announced a consultation on plans to shake up the national data protection regime, as it looks at how to diverge from European Union rules following Brexit. It’s also a year since the UK published a national data strategy in which said it wanted pandemic levels of",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/",
-      "originalUrl": "https://techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-930848198.jpg?w=1000",
-          "width": 1000,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/09/uk-dials-up-the-spin-on-data-reform-claiming-simplified-rules-will-drive-responsible-data-sharing/amp/",
-      "publishedDateTime": "2021-09-09T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-4-top-artificial-intelligence-stocks-to-watch-in-september-2021.md",
-      "title": "4 Top Artificial Intelligence Stocks To Watch In September 2021",
-      "excerpt": "Are these Top Artificial Intelligence Stocks On Your Watchlist This Month? For investors looking to invest in booming fields in the tech trade, artificial intelligence (AI) stocks are a viable play. Namely,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-in-september-2021-2021-09-09?amp",
-      "publishedDateTime": "2021-09-09T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-microscopy-plus-ai-equals-rapid-covid-19-detection-study.md",
-      "title": "Microscopy plus AI equals rapid COVID-19 detection: study",
-      "excerpt": "Beckman researchers paired microscopy with artificial intelligence to develop a COVID-19 test that's fast, accurate, and cost-effective. All we need to do is say \"ahh.\"",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.html",
-      "originalUrl": "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/microscopy-plus-ai-equ.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-microscopy-ai-equals-rapid-covid-.amp",
-      "publishedDateTime": "2021-09-09T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think.md",
-      "title": "Gartner: AI is moving fast and will be ready for prime time sooner than you think",
-      "excerpt": "Companies have two to three years to lay the groundwork for successful use of generative AI, synthetic data and orchestration platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/09/29d4406a-7712-4b65-8dd4-817123216bcd/resize/1200x/5081b29b2f5108111e249f873b3feda0/gartner-hype-cycle-for-artificial-intelligence-2021.jpg",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "publishedDateTime": "2021-09-09T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -24,6 +24,17 @@ images:
     height: 256
     isCached: true
 
+related:
+  - title: "IBM, Airspan Networks start 5G Open RAN testbed in Europe"
+    excerpt: "IBM and Airspan Networks announced plans to collaborate on the launch of a 5G-enabled Open RAN testbed across the IBM Watson IoT Center in Munich, Germany and IBM's Global Industry Solution Center in Nice,"
+    publishedDateTime: 2021-09-21T12:47:00Z
+    webUrl: "https://www.telecompaper.com/news/ibm-airspan-networks-start-5g-open-ran-testbed-in-europe--1397874"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+
 secured: "JbrVsVDVvDwBhrwOQGFTSY+ingRdoVtMJ5vgzhYSudGFOsfXgNIk+t4epLl4/FKzixghpHuCoBUCWgA56GdkSrEHVA4x0g76WGzo4mqpGraYDNZcPCky73JkisZo0iYpieuKDiO1PxfPuA1HEG3O5+MbTtQvMCXPqOnNoxBQ45zFQsUD/3yNLpS6KoXEe8/W5XlW6Xbkq+ZV0pjXUCOpyCnYaBFBT0w8jhJ+AHrUPS9V/gLCi0EiEDF8+g3JKy14aAD+b/233HClO8lkwTYSZxgsJvLQYELG+/DchozDKUA+G/IQ8cy/jh/VMwkxRdKU6+DuZ7vioOySJjf8NWlipA7+W7qvZ5xOBbWB/hRQGKM=;SMncICwIjA1d3iBft7bGmw=="
 ---
 

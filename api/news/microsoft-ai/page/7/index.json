@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-07-qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service.md",
+      "title": "Qumulo Expands Cloud Q Offering with Qumulo on Azure as a Service",
+      "excerpt": "Qumulo, provider of solutions focused on enterprise unstructured data management across hybrid-cloud environments, today announced Qumulo on Azure as a Service (QaaS), a petabyte-scale file data management platform in the cloud designed to be delivered with the simplicity of a managed service.",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/",
+      "originalUrl": "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel.md",
       "title": "AI in Fintech Market Next Big Thing : Major Giants IBM, Microsoft, Samsung, Intel",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2021 (Heraldkeepers) -- The latest research on \"Global AI in Fintech Report 2021\" offered by HTF MI provides a comprehensive investigation into the geographical ...",
@@ -1324,58 +1358,6 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-microsoft-brings-ai-to-github-to-create-a-smart-programming-copilot-tool.md",
-      "title": "Microsoft brings AI to GitHub to create a smart programming Copilot tool",
-      "excerpt": "Microsoft is making a technical preview of a new Visual Studio Code extension available that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg",
-          "width": 1199,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
       "publishedDateTime": "2021-06-29T04:19:00-07:00",
       "updatedDateTime": null,
       "provider": {

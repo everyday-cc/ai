@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-fo
 webUrl: "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

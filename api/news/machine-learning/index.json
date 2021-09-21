@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-21-machine-learning-at-the-edge-a-hardware-and-software-ecosystem.md",
+      "title": "Machine learning at the edge: A hardware and software ecosystem",
+      "excerpt": "Being able to deploy machine learning applications at the edge bears the promise of unlocking a multi-billion dollar market. For that to happen, hardware and software must work in tandem. Arm's partner ecosystem exemplifies this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "originalUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2020/12/11/573aa6b0-7e1d-432c-a6c9-6cc5a633144b/resize/1200xauto/faa21497a2f921c1733110d93cd9fac7/istock-1202641105.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "publishedDateTime": "2021-09-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store.md",
       "title": "Scale ML feature ingestion using Amazon SageMaker Feature Store",
       "excerpt": "Amazon SageMaker Feature Store is a purpose-built solution for machine learning (ML) feature management. It helps data science teams reuse ML features across teams and models, serves features for model predictions at scale with low latency, and train and deploy new models more quickly and effectively.",
@@ -1336,59 +1388,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-irobots-roomba-j7-robot-vacuum-uses-machine-learning-to-avoid-pet-poop.md",
-      "title": "iRobot's Roomba j7+ Robot Vacuum Uses Machine Learning to Avoid Pet Poop",
-      "excerpt": "The company is offering a P.O.O.P. (Pet Owner Official Promise) guarantee that its latest robot vac will avoid solid waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
-      "originalUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02r1tXjDU88QfgITP4P7TKQ-1.1631035488.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true",
-      "publishedDateTime": "2021-09-08T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -62,6 +62,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 21
+  - title: "US Hyperscale Data Center Market Outlook & Forecast Report 2021-2026 - AI Boosts Liquid Immersion & Direct-To-Chip Cooling Adoption - ResearchAndMarke"
+    excerpt: "The \"US Hyperscale Data Center Market - Industry Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The US hyperscale data center market by investment is expected to grow at a CAGR of 3."
+    publishedDateTime: 2021-09-21T11:42:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=534060"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Speech and Voice Recognition Market 2021 Future Set to Massive Growth with High CAGR value Forecast By 2027"
     excerpt: "Data Bridge Market Research presents an updated and Latest Study on the Speech and Voice Recognition Market This report provides an in depth study of the market competitive situation product scope market overview opportunities driving force and market risks By"
     publishedDateTime: 2021-09-17T17:20:00Z

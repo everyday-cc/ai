@@ -2,6 +2,248 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-13-c3-ai-announces-general-availability-of-c3-ai-crm.md",
+      "title": "C3 AI Announces General Availability of C3 AI CRM",
+      "excerpt": "The inventors of CRM reinvent CRM Seamlessly brings advanced AI capabilities to Microsoft Dynamics, Salesforce, Siebel, Veeva, ServiceNow, Vlocity, and SAP C3 AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/b22914979/c3-ai-announces-general-availability-of-c3-ai-crm",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/b22914979/c3-ai-announces-general-availability-of-c3-ai-crm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22914979",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22914979",
+      "publishedDateTime": "2021-09-13T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-insights-on-the-artificial-intelligence-in-diagnostics-global-market-to-2028-by-component-diagnosis-type-and-region-researchandmarketscom.md",
+      "title": "Insights on the Artificial Intelligence in Diagnostics Global Market to 2028 - by Component, Diagnosis Type and Region - ResearchAndMarkets.com",
+      "excerpt": "The “Global Artificial Intelligence in Diagnostics Market Size, Share & Trends Analysis Report by Component (Software, Hardware, Services), by Diagnosis Type (Cardiology, Radiology, Neurology), by Region,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-software-coronavirus-pandemic-artificial-intelligence-804e6730dded4767945e7c5bcff89b9f",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-software-coronavirus-pandemic-artificial-intelligence-804e6730dded4767945e7c5bcff89b9f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-roadblocks-to-autonomous-security-robots.md",
+      "title": "Roadblocks to Autonomous Security Robots",
+      "excerpt": "There are concerns regarding the use of fully autonomous security robots which may get in the way of bringing them to market. Whether those concerns are legitimate or not may impact how quickly robotics will be adopted for security purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "originalUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-artificial-intelligence-in-healthcare-market-2021-to-2027-top-impacting-factors-and-investment-study.md",
+      "title": "Artificial Intelligence In Healthcare Market 2021 to 2027 Top Impacting Factors and Investment Study",
+      "excerpt": "The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed over",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102787591/Artificial-Intelligence-In-Healthcare-Market-2021-to-2027-Top-Impacting-Factors-and-Investment-Study",
+      "originalUrl": "https://menafn.com/1102787591/Artificial-Intelligence-In-Healthcare-Market-2021-to-2027-Top-Impacting-Factors-and-Investment-Study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?157915",
+          "width": 397,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text.md",
+      "title": "WhatsApp Likely To Launch ‘Voice Transcription’ Feature That Converts Voice Notes To Text",
+      "excerpt": "The WABetaInfo publication also stated that the transcribes messages notes will not be sent to any Whatsapp or Facebook servers for transcription, but will solely rely on the phone speech recognition tool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/",
+      "originalUrl": "https://www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2021/09/whatsapp-new-feature-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/amp/",
+      "publishedDateTime": "2021-09-13T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
+      "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although I continue to believe that Baidu (NASDAQ:BIDU) stock has multiple",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown-1030795277",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown-1030795277",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-linux-developers-talk-again-about-an-accelerator-subsystem-or-moving-them-into-the-gpudrm-area.md",
       "title": "Linux Developers Talk Again About An Accelerator Subsystem - Or Moving Them Into The GPU/DRM Area",
       "excerpt": "On and off for years has been talk of an accelerator subsystem for the Linux kernel considering that for now most AI training/inference accelerator drivers end up lodged within the \"char/misc\" area of the kernel.",
@@ -825,291 +1067,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-overcoming-ais-transparency-paradox.md",
-      "title": "Overcoming AI’s Transparency Paradox",
-      "excerpt": "AI has a well-documented but poorly understood transparency problem. 51% of business executives report that AI transparency and ethics are important for their business, and not surprisingly, 41% of senior executives state that they have suspended an AI tool because of a potential ethical issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613bb5a4c74dee7c980110ff%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/09/10/overcoming-ais-transparency-paradox/amp/",
-      "publishedDateTime": "2021-09-10T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-71-of-healthcare-execs-to-invest-in-ai-over-the-next-three-years.md",
-      "title": "71% of Healthcare Execs to Invest in AI Over the Next Three Years",
-      "excerpt": "A majority of healthcare executives PYMNTS surveyed see AI as a particularly useful tool in waging war against the fraudsters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/healthcare-ai-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/healthcare-execs-to-invest-in-ai-over-the-next-three-years/amp/",
-      "publishedDateTime": "2021-09-10T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-ai-artificial-intelligence-should-you-teach-it-to-your-employees.md",
-      "title": "AI (Artificial Intelligence): Should You Teach It To Your Employees?",
-      "excerpt": "But AI is not easy to implement. Even top-notch companies have challenges and failures. So what can be done? Well, one strategy is to provide AI education to the workforce. “If more people are AI literate and can start to participate and contribute to the process,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613bae48bbb19cb92da70171%2F0x0.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/10/ai-artificial-intelligence-should-you-teach-it-to-your-employees/amp/",
-      "publishedDateTime": "2021-09-10T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation.md",
-      "title": "Manage your Amazon Fraud Detector resources in an automated and secure manner using AWS CloudFormation",
-      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/manage-your-amazon-fraud-detector-resources-in-an-automated-and-secure-manner-using-aws-cloudformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T12:16:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
-      "title": "Agile Robots closes $220M Series C funding",
-      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
-      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
-      "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
-      "excerpt": "IBM is adding new features in Watson Assistant, the company's intelligent virtual agent, to help businesses leverage AI and NLP to address customer issues on first contact. Watson Assistant is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-301372091.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1611508/Watson_Assistant_Search_Skill.jpg?p=facebook",
-          "width": 3108,
-          "height": 1625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.business-humanrights.org/en/latest-news/un-human-right
 webUrl: "https://www.business-humanrights.org/en/latest-news/un-human-rights-office-publishes-report-on-artificial-intelligences-human-rights-impact-and-highlights-state-business-responsibilities/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Responsible AI Is Every Business’s Responsibility"
+    excerpt: "Is AI the transformative technology destined to work wonders for humanity, from driverless cars to a cure for cancer? Or is it a genie in a bottle that, once released, could be used to manipulate or even rule humankind?"
+    publishedDateTime: 2021-09-21T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32cd286b894b218218c8dd%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "TYw+tPBiyqQY+LqkjvIVa5Hty9Bi71XFiDA43Pdz3oX5wW+NS+nkfFjKSrmx6cc6PEHMAW9nUuxAleMLoAHqUCwkmH5jyrxoRCGYipm3Zzz0jZM/GuzSa7r0q+dERUhzEbnElcGAVeD6snv9epimD2Q5XCu9dDI/fou2/UUsaHoHkpifBm7yriSIShyOOGi8+ZIwu16yWUJLwQYYOl3VxtpAmP5JumsqYzl8Hzho877fZIjpXn7maVxV1DOEKwrTa80A50GiPbHzbxtUIpxUAIs1vz0VMbF5oRifF8SpGw8fjxozWiEEAvKSfQvwvLYTsaQ3ZeEGp/+YG41t82fCUkmLGfU1mShfZaEeoMSElEg=;K+2xv8MJq6ShGbA0Apkzgg=="
 ---

@@ -2,6 +2,383 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2021-06-17-theum-now-available-in-the-microsoft-azure-cloud.md",
+      "title": "Theum Now Available in the Microsoft Azure Cloud",
+      "excerpt": "Intelligent answer oriented access to documented knowledge in just a few clicks Stuttgart Germany June 17 2021 Theum AG www theum com announced the availability of its AI based software Theum for the automated deployment of and direct access to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud",
+      "originalUrl": "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U617781440_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud",
+      "publishedDateTime": "2021-06-17T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-google-shrinks-health-team-reassigns-130-workers-5-things-to-know.md",
+      "title": "Google shrinks health team; reassigns 130 workers: 5 things to know",
+      "excerpt": "Google is moving more than 130 employees within its health division into other areas of the company including Search and the newly-acquired Fitbit group, according to a June 17 Insider report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/google-shrinks-health-team-reassigns-130-workers-5-things-to-know.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-343511/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "publishedDateTime": "2021-06-17T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-engineers-unveil-solar-powered-ai-system-on-chip.md",
+      "title": "Engineers unveil solar-powered AI system-on-chip",
+      "excerpt": "AI systems typically use lots of energy and rely on the cloud, which presents IT security issues. Scientists in Switzerland have addressed these problems by squeezing an AI system onto a single computer chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
+      "originalUrl": "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/4271623934810/2021/1/16239377247962/v1.5/Engineers-unveil-solar-powered-AI-system-on-chip.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
+      "publishedDateTime": "2021-06-17T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it.md",
+      "title": "Deep reinforcement learning will transform manufacturing as we know it",
+      "excerpt": "Reinforcement learning and simulation are essential to solving the constraints and novel challenges that take place in factories and supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
+      "originalUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/",
+      "publishedDateTime": "2021-06-17T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-dear-enterprise-it-cybercriminals-use-ai-too.md",
+      "title": "Dear enterprise IT: Cybercriminals use AI too",
+      "excerpt": "AI-powered cyber threats pose a major risk to enterprises, particularly those engaged in frequent communications susceptible to phishing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/17/dear-enterprise-it-cybercriminals-use-ai-too/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/dear-enterprise-it-cybercriminals-use-ai-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/17/dear-enterprise-it-cybercriminals-use-ai-too/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/dear-enterprise-it-cybercriminals-use-ai-too/amp/",
+      "publishedDateTime": "2021-06-17T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-audi-mixing-ai-and-big-data-to-play-big-brother-but-in-a-good-way.md",
+      "title": "Audi mixing AI and big data to play big brother, but in a good way",
+      "excerpt": "At the Greentech Festival in Berlin, the automaker announced a variety of methods it is developing to ensure its cars are sustainable beyond the tailpipe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/audi-ai-risk-radar-greentech-festival/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/audi-ai-risk-radar-greentech-festival/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/ktJIftFGkYizd9c0YHkOPsnXhWc=/2019/11/14/d1b05746-76d8-4fb3-8360-7ac69543842c/ogi-audi-badge.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/audi-ai-risk-radar-greentech-festival/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/audi-ai-risk-radar-greentech-festival/",
+      "publishedDateTime": "2021-06-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-ai-system-on-chip-runs-on-solar-power.md",
+      "title": "AI system-on-chip runs on solar power",
+      "excerpt": "Engineers have developed an integrated circuit that can carry out complicated artificial-intelligence operations like face, voice and gesture recognition and cardiac monitoring. Powered by either a tiny battery or a solar panel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210617082735.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210617082735.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-voice-control-is-now-table-stakes-for-consumer-electronics.md",
+      "title": "Voice Control Is Now Table Stakes For Consumer Electronics",
+      "excerpt": "Voice control as an embedded feature is no longer a surprise — it has become table stakes to play at the top of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
+      "publishedDateTime": "2021-06-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry.md",
       "title": "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry",
       "excerpt": "The AML Compliance Hub leverages C3 AI’s advanced machine learning technology ... fast-moving challenges for the financial services sector, and the data necessary to identify financial crimes ...",
@@ -757,376 +1134,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-baidu-pushes-to-put-driverless-taxis-on-chinas-roads-pledging-to-build-1000-in-3-years.md",
-      "title": "Baidu pushes to put driverless taxis on China's roads, pledging to build 1,000 in 3 years",
-      "excerpt": "Baidu has been testing driverless taxis but has now partnered with state-owned automaker BAIC Group to try and commercialize a robotaxi service in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
-      "originalUrl": "https://www.msn.com/en-us/news/other/baidu-pushes-to-put-driverless-taxis-on-chinas-roads-pledging-to-build-1000-in-3-years/ar-AAL8cLn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106898520-1623904929198-gettyimages-1316042221-vcg111328269953.jpeg?v=1623905082",
-          "width": 5184,
-          "height": 3456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
-      "publishedDateTime": "2021-06-16T23:26:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
-        "domain": "com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-foundations-of-trustworthy-ai-operationalizing-trustworthy-ai.md",
-      "title": "Foundations of trustworthy AI: Operationalizing trustworthy AI",
-      "excerpt": "Industry focus on trustworthy AI is being driven by several forces — corporate social responsibility posture, concerns around reputational risk and a growing set of regulations. Organizations recognize that they need a systematic approach to ensure AI and machine learning can be trusted and operationalized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_operationalize-ai_2000x1000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T22:00:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
-      "title": "Tractable becomes world's first computer vision unicorn for financial services",
-      "excerpt": "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-dutch-lady-malaysia-promotes-marketing-director-to-md.md",
-      "title": "Dutch Lady Malaysia promotes marketing director to MD",
-      "excerpt": "Dutch Lady landed a finalist position for A+M’s Marketing Excellence Awards Malaysia 2019 in the Excellence in Experiential Marketing category for its campaign, “Dutch Lady Emojify Yourself”.",
-      "sourceUrl": null,
-      "webUrl": "https://emojify.info/menu",
-      "originalUrl": "https://www.marketing-interactive.com/dutch-lady-malaysia-promotes-marketing-director-to-md",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketing Interactive",
-        "domain": "marketing-interactive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-ukrainian-police-partner-with-us-south-korea-for-raid-on-clop-ransomware-members.md",
-      "title": "Ukrainian police partner with US, South Korea for raid on Clop ransomware members",
-      "excerpt": "The Ukrainian National Police announced ... the press around the raid, many online noted that the leak site used by Clop members is still up. A source from cybersecurity company Intel 471 threw ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/z3vaew/hacker-who-broke-into-ai-surveillance-company-raided-by-police",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/ukranian-police-partner-with-us-south-korea-for-raid-on-clop-ransomware-members/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/604b89b2a343c40099f91aa0/lede/1615563219922-7-eleven-corp-office.png?crop=1xw:0.7288xh;0xw,0.0855xh&resize=640:*",
-          "width": 640,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/z3vaew/hacker-who-broke-into-ai-surveillance-company-raided-by-police",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/z3vaew/hacker-who-broke-into-ai-surveillance-company-raided-by-police",
-      "publishedDateTime": "2021-06-16T20:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-facebook-wants-you-to-stop-fighting-in-its-groups-and-a-new-ai-tool-might-try-to-calm-things-down.md",
-      "title": "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down",
-      "excerpt": "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/facebook-group-fighting-ai-social-media/36746255",
-      "originalUrl": "https://www.wmur.com/article/facebook-group-fighting-ai-social-media/36746255",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facebook-fighting-cnn-1623895603.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wmur.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
-      "publishedDateTime": "2021-06-16T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-gm-ups-spending-on-evs-and-autonomous-vehicles-by-30-to-35-billion-by-2025-on-higher-profits.md",
-      "title": "GM ups spending on EVs and autonomous vehicles by 30% to $35 billion by 2025 on higher profits",
-      "excerpt": "GM, America's largest automaker, is racing to catch up to Tesla on EVs and become a leader in the space against other well-established automakers such as VW.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106424520-1583341306047gmevbarra01.jpg?v=1583353549",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "publishedDateTime": "2021-06-16T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-uk-computer-vision-startup-tractable-reaches-unicorn-status.md",
-      "title": "U.K. Computer Vision Startup Tractable Reaches Unicorn Status",
-      "excerpt": "The London-based startup that uses AI to assess auto claims for insurers like Geico has raised $60 million at a $1 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
-      "originalUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca8ceaf4d0e7bf31d71929%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
-      "publishedDateTime": "2021-06-16T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

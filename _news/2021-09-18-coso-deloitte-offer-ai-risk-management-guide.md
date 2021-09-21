@@ -7,7 +7,7 @@ originalUrl: "https://www.accountingtoday.com/news/coso-deloitte-offer-ai-risk-m
 webUrl: "https://www.accountingtoday.com/news/coso-deloitte-offer-ai-risk-management-guide"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Deloitte Launches the Deloitte AI Academy to Advance Artificial Intelligence Proficiency for Business and Society"
+    excerpt: "Deloitte today announced the launch of the Deloitte AI Academy™ which is designed to help bridge the technology talent gap by developing"
+    publishedDateTime: 2021-09-21T12:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-launches-the-deloitte-ai-academy-to-advance-artificial-intelligence-proficiency-for-business-and-society-1030812722"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
 
 secured: "wdmR2ddFXLvdTCO0kvAOJwWWQ2Y1q/Dwo7xHmTS/gQnvjo4pre5s9KybZqKG/nj2SysNPpkMDgDwPye9pDZcr0IeCsUQy6O3GWBmdqt9w/2tCF7AbNc+Umo6KXJuXg8X2s1qg69tBsggEZZLGniKIuIx6pqMb0+QPOnBcrSXsZvR8tiQSFOhFjpozyd4N9Vqe8O042eI1C1erKHzUP0Ox/iUpgD7AG2shVUrWu6SplchbQVBRB25pBBpz0uApwxAPg8QH1zM49nBXo3lIcR6OXT3PRBeNF35ZZLIoCyjsXE42LX2iVe2DqumqvO2AHFKOhq485DTkTDMhccIRAcN/ZBGT9B6DnNb/dWbEttCRHu643N4/znRl66892E7v+82QEQwaMPmVMwpj6yLjEexNv/GO9vJ6+qSbh5NyXEXEvH0ISW+FRvLdk0+jO4A02M3XyXOSZ0Ljple8izGgGP8ihot28JGmYTg4p2LNQJ9NSStNgPwM8v6nujKZJhIOjUw81Ga08UmZs9Z0skxWeSSLg==;2ztLUX8ZFWiK87FuknTRvg=="
 ---

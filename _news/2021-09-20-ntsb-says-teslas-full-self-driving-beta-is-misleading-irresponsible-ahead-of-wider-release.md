@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-bet
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/"
 type: article
 quality: 77
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -34,7 +34,7 @@ related:
   - title: "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’"
     excerpt: "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature."
     publishedDateTime: 2021-09-19T21:07:00Z
-    webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang"
+    webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=hp_minor_pos26"
     type: article
     provider:
       name: MarketWatch
@@ -72,6 +72,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/09/29906170001_6004558551001_6004555585001-vs.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "NTSB chief calls Tesla Full Self-Driving \"misleading and irresponsible,\" amid city-driving beta test"
+    excerpt: "The safety leader suggested that more regulation is needed to reel in Tesla's experiments with untrained beta testers."
+    publishedDateTime: 2021-09-21T12:00:00Z
+    webUrl: "https://www.greencarreports.com/news/1133637_ntsb-chief-tesla-full-self-driving-misleading-irresponsible-city-driving-beta-test"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "aAFvTLOVAeji9ReL6HzEOTn5HsvxoYrPgrlIDC4A0QNHLDzgl7Y4iLWBXOcH1ozJSjT01JvurVcPS/PfuCDZ2a6E5jtOPnccgzYoQ+m9L0HocLsk+mqAbiwBjPs2TTD1/9RZ4l/GlZwMuOWA8iPQeSgZO9SMoEeaAtGCNMdaK286cmaIEaDixtbxMnHhEYg2x80MMqT980H7f9sNBU3AFw8cE4Ki6OYmJZWyItaxqm8YsrWQ431pCT/D4ImBvn6IZueakUsYLQaHR82w6eAdXwC4YJ0QD0D1DnyoqYZ/R+yeFnVA6X5vyYckkTBgYqLDBAXagivye/MPGtowdbi4A2bD7nZjewefxhFLsZA6GvtdIsyRKQQjo+1aluB5DpEaupbGGTfDeI3IAyLdNzcAYnx/uDvMqJ8qbUrYZx4yZCwlY3DWi29Pgx8tIkZexqYaYcldbxRuFp1qNqOXEt0BLSclvETPsy2Z7OitHpe6ZDRJpcReQdwblzOxX0/LUEWeZkUs5TTplaVMzKN/+PZNig==;/Z7e7JQqgXAIAyWe6nH65g=="

@@ -2,6 +2,378 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-07-28-ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273.md",
+      "title": "AI Infrastructure Market worth $79.3 billion by 2026, at a CAGR of 27.3%",
+      "excerpt": "Browse 169 market data Tables and 60 Figres spread through 238 Pages and in-depth TOC on \"AI Infrastructure Market with COVID-19 Impact Analysis and Region - Global Forecast to 2026\" View detailed Table of Content here -  Hardware to account for the largest share of AI infrastructure market in 2021 The hardware segment is sub-segmented into a processor,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
+      "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
+      "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
+      "originalUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodsoapbox.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-27-at-12.56.20-PM-e1627405060734.png",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hollywoodsoapbox.com",
+        "domain": "hollywoodsoapbox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-ai-in-healthcare-market-is-booming-worldwide-with-google-ibm-microsoft-sentrian.md",
+      "title": "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian",
+      "excerpt": "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "originalUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U727806452_g.jpg",
+          "width": 800,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "publishedDateTime": "2021-07-27T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-artificial-intelligence-in-structural-biology-is-here-to-stay.md",
+      "title": "Artificial intelligence in structural biology is here to stay",
+      "excerpt": "Machine learning will transform our understanding of protein folding. And it’s essential that all data be open.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-021-02037-0",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-02037-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02037-0/d41586-021-02037-0_19391872.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
+      "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
+      "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T09:10:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-deep-learning-qa-whats-coming-next-with-francois-chollet.md",
+      "title": "Deep Learning Q&A: What’s Coming Next With Francois Chollet",
+      "excerpt": "Francois Chollet needs no introduction for most of the artificial intelligence (AI) and m (ML) community. Besides being the creator of the deep-learning library Ker",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb448024198515808ea197%2F0x0.jpg",
+          "width": 797,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
+      "publishedDateTime": "2021-07-27T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-the-10-biggest-iot-news-stories-of-2021-so-far.md",
+      "title": "The 10 Biggest IoT News Stories Of 2021 (So Far)",
+      "excerpt": "Azure Percept works automatically with Azure AI, Azure Cognitive Services, Azure Machine Learning and Azure Live Video Analytics, and it’s integrated with Azure IoT services. Microsoft says that Percept can help customers use pre-built Azure AI models for object detection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/internet-of-things/the-10-biggest-iot-news-stories-of-2021-so-far-/8",
+      "originalUrl": "https://www.crn.com/slide-shows/internet-of-things/the-10-biggest-iot-news-stories-of-2021-so-far-/8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0267-11d584f4b2e8-61c054ae501a-1000/networking-city-edge-iot.jpg",
+          "width": 1500,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-covariant-raises-80m-to-universal-ai-for-robotic-manipulation.md",
+      "title": "Covariant raises $80M to ‘universal AI’ for robotic manipulation",
+      "excerpt": "Covariant raised $80 million for its \"universal AI\" for robotic manipulation. The company has now raised $147 million in just two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/covariant-raises-80m-universal-ai-robotic-manipulation/",
+      "originalUrl": "https://www.therobotreport.com/covariant-raises-80m-universal-ai-robotic-manipulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/covariant-pick-and-place-ai.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-employment-for-adults-with-severe-disabilities.md",
       "title": "Employment For Adults With Severe Disabilities",
       "excerpt": "Last week's \"60 Minutes\" report, like most media reports on employment for adults with disabilities, gives little attention to the severely impacted--those with little language or severe cognitive deficits.",
@@ -782,386 +1154,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-robotic-ai-firm-covariant-raises-another-80-million.md",
-      "title": "Robotic AI firm Covariant raises another $80 million",
-      "excerpt": "Covariant announced that it had raised a $40 million Series B. It was a health sum of money for the young company, bringing its total funding up to $67 million. Just a little over a year later, the Berkeley-based AI startup is adding another $80 million to its coffers,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/",
-      "originalUrl": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/2021_07_13_covarient_retouched-004.jpg?w=1024",
-          "width": 1024,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/",
-      "publishedDateTime": "2021-07-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-older-drivers-like-self-driving-cars-ride-hailing.md",
-      "title": "Older drivers like self driving cars, ride hailing",
-      "excerpt": "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/",
-      "originalUrl": "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/The_new_study_by_NCOA_and_VW_of_America_1.jpg",
-          "width": 1500,
-          "height": 990,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks.md",
-      "title": "MediaTek Launched Kompanio 1300T Chip For Tablets And ChromeBooks",
-      "excerpt": "The new MediaTek Kompanio 1300T chip is already out. The first products powered by this chip will hit the market in the coming months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/",
-      "originalUrl": "https://www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/Kompanio-1300T-1024x566.jpg",
-          "width": 1024,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/amp/",
-      "publishedDateTime": "2021-07-27T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-deep-learning-market-grab-the-opportunities-for-manufacturers-and-effective-business-strategy.md",
-      "title": "Deep Learning Market Grab The Opportunities for Manufacturers and Effective Business Strategy",
-      "excerpt": "Deep learning is a critical innovation behind driverless vehicles ... which then again is a subset of Artificial Intelligence. Computerized reasoning is an overall term that alludes to procedures ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2338143/deep-learning-market-grab-the-opportunities-for-manufacturers",
-      "originalUrl": "https://www.openpr.com/news/2338143/deep-learning-market-grab-the-opportunities-for-manufacturers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U727990621_g.jpg",
-          "width": 800,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2338143/deep-learning-market-grab-the-opportunities-for-manufacturers",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338143/deep-learning-market-grab-the-opportunities-for-manufacturers",
-      "publishedDateTime": "2021-07-27T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-how-olympic-surfing-is-trying-to-ride-the-machine-learning-wave.md",
-      "title": "How Olympic Surfing Is Trying to Ride the Machine Learning Wave",
-      "excerpt": "As surfing completes its first-ever Olympic ride, the sport is poised for another sea change thanks to artificial intelligence and big data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
-      "originalUrl": "https://www.wsj.com/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.wsj.net/video/20151201/120115surf/120115surf_512x288.jpg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
-      "publishedDateTime": "2021-07-27T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-the-journey-to-ai.md",
-      "title": "The Journey to AI",
-      "excerpt": "It's making waves across the business world, too. Companies are under pressure to transform how they operate, interact with partners, and engage with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/advertorial/the-journey-to-ai-australia/",
-      "originalUrl": "https://www.cnbc.com/advertorial/the-journey-to-ai-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2021/07/26/106916571-1627293538844-Screenshot_2021-07-26_at_105838.1910x1000.png",
-          "width": 1910,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai.md",
-      "title": "German startup Aleph Alpha raises $27M Series A round to build ‘Europe’s OpenAI’",
-      "excerpt": "With Microsoft now being an investor in OpenAI the field now more open for new insurgents into the open-source AI arena. Now a German company hopes to take on the next AI mantle and produce something akin to the success of the GPT-3 AI model.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/",
-      "originalUrl": "https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/JonasAndrulis_AlephAlpha-1.jpg?w=900",
-          "width": 900,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/amp/",
-      "publishedDateTime": "2021-07-27T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-predicts-the-shapes-of-molecules-to-come.md",
-      "title": "Artificial intelligence predicts the shapes of molecules to come",
-      "excerpt": "So last fall, after reading that an artificial intelligence lab in London called DeepMind had built a system that automatically predicts the shapes of enzymes and other proteins, McGeehan asked ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html",
-      "originalUrl": "https://www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/aLvYYk85TKO1YHRxSofZgVTSHno=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JA75OJOKHPEDRHNIFD3SAN6FTA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/ct-aud-nyt-artificial-intelligence-molecules-20210726-yiby6yp6pvhs3bdchgshe4yvs4-story.html?outputType=amp",
-      "publishedDateTime": "2021-07-26T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

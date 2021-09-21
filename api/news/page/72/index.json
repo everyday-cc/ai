@@ -2,6 +2,352 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-07-27-pittsburghs-expertise-in-self-driving-tech-attracts-waymo.md",
+      "title": "Pittsburgh’s expertise in self-driving tech attracts Waymo",
+      "excerpt": "Waymo, one of the industry’s leaders in self-driving tech, is opening an office in Pittsburgh at Bakery Square.",
+      "sourceUrl": null,
+      "webUrl": "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/",
+      "originalUrl": "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextpittsburgh-images.s3.amazonaws.com/2021/07/23162123/Screen-Shot-2021-07-23-at-4.20.21-PM-e1627071756650.png",
+          "width": 750,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/",
+      "cdnAmpWebUrl": "https://nextpittsburgh-com.cdn.ampproject.org/c/s/nextpittsburgh.com/latest-news/pittsburghs-expertise-in-self-driving-tech-attracts-waymo/amp/",
+      "publishedDateTime": "2021-07-26T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NEXTpittsburgh",
+        "domain": "nextpittsburgh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-6-startups-that-are-reinventing-markets-with-artificial-intelligence-in-2021.md",
+      "title": "6 Startups That Are Reinventing Markets with Artificial Intelligence in 2021",
+      "excerpt": "Here, we’ve mentioned 6 best startups that are reinventing markets with artificial intelligence. If you presume that all companies",
+      "sourceUrl": null,
+      "webUrl": "https://www.valuewalk.com/6-startups-reinventing-markets-ai-2021/",
+      "originalUrl": "https://www.valuewalk.com/6-startups-reinventing-markets-ai-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valuewalk.com/wp-content/uploads/2020/03/artificial_intelligence_1585667373.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ValueWalk",
+        "domain": "valuewalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-eus-ai-law-will-have-chilling-36b-impact-study-says.md",
+      "title": "EU’s AI Law Will Have ‘Chilling’ $36B Impact, Study Says",
+      "excerpt": "Legislation in Europe aimed at regulating artificial intelligence (AI) could cost the region’s economy $36 billion over the next five years, per a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/eus-ai-law-will-have-chilling-36b-impact-study-says/",
+      "originalUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/eus-ai-law-will-have-chilling-36b-impact-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/AI-regulation-European-Union-study-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/eus-ai-law-will-have-chilling-36b-impact-study-says/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/eus-ai-law-will-have-chilling-36b-impact-study-says/amp/",
+      "publishedDateTime": "2021-07-26T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-study-almost-half-of-dating-app-users-trust-ai-to-find-them-a-match.md",
+      "title": "Study: Almost half of dating app users trust AI to find them a match",
+      "excerpt": "Kaspersky researchers observed positive user perceptions of AI mathmaking, but also warned of privacy risks in dating apps.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/almost-half-dating-app-users-trust-ai-matchmaking-choices-kaspersky-research",
+      "originalUrl": "https://thenextweb.com/news/almost-half-dating-app-users-trust-ai-matchmaking-choices-kaspersky-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-5-3.jpg&signature=f0e8720bf54c33f33bce7f6190ecc647",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-role-of-artificial-intelligence-and-machine-learning-in-speech-recognition.md",
+      "title": "Role of Artificial Intelligence and Machine Learning in Speech Recognition",
+      "excerpt": "Initially, AI was only about memorizing data and producing results accordingly; however, now it is much more than that as machines perform various activities like Speech Recognition, Object ...",
+      "sourceUrl": null,
+      "webUrl": "https://signalscv.com/2021/07/role-of-artificial-intelligence-and-machine-learning-in-speech-recognition/",
+      "originalUrl": "https://signalscv.com/2021/07/role-of-artificial-intelligence-and-machine-learning-in-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://signalscv.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Clarita Signal",
+        "domain": "signalscv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-microsoft-takes-sharper-aim-at-on-prem-hpc.md",
+      "title": "Microsoft Takes Sharper Aim at On-Prem HPC",
+      "excerpt": "Microsoft is intent on bending the supercomputing set its direction. Instead of just focusing on competing with other public clouds, they’re aiming",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/",
+      "originalUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_arm-cloud-logo.jpg",
+          "width": 595,
+          "height": 307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/",
+      "publishedDateTime": "2021-07-26T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-deepminds-epistemic-neural-networks-open-new-avenues-for-uncertainty-modelling-in-large-and-complex-dl-systems.md",
+      "title": "DeepMind’s Epistemic Neural Networks Open New Avenues for Uncertainty Modelling in Large and Complex DL Systems",
+      "excerpt": "Although effective uncertainty estimation can be a key consideration in the development of safe and fair artificial intelligence systems, most of today’s large-scale deep learning applications are lacking in this regard.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
+      "originalUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
+      "publishedDateTime": "2021-07-26T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021.md",
+      "title": "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021",
+      "excerpt": "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-great-attains-aws-advanced-consulting-partner-accreditation.md",
       "title": "GREAT Attains AWS Advanced Consulting Partner Accreditation",
       "excerpt": "GREAT, a leading independent AWS-focused cloud services company, has been recognized by Amazon Web Services (AWS) for its depth of capability and client satisfaction by being promoted to Advanced Consulting Partner in the AWS Partner Network (APN).",
@@ -769,361 +1115,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-galaxy-s10-5g-update-reportedly-breaks-face-recognition.md",
-      "title": "Galaxy S10 5G update reportedly breaks face recognition",
-      "excerpt": "Samsung has been making good in its promise to roll out Android updates more regularly, even if a bit belatedly. Part of that involves improving its process for integrating and testing those",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
-      "originalUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/samsung-galaxy-s10-sg-30.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/",
-      "publishedDateTime": "2021-07-25T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-malaysian-smes.md",
-      "title": "Commercial AI-powered NLP chatbot by CIMB now available to Malaysian SMEs",
-      "excerpt": "NLP, a sub-set of AI, has applications in many customer service-heavy sectors. Should SMEs consider using this technology?",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/07/commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-smes-in-malaysia/",
-      "originalUrl": "https://techwireasia.com/2021/07/commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-smes-in-malaysia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_1QA53U-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/07/commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-smes-in-malaysia/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/commercial-ai-powered-nlp-chatbot-by-cimb-now-available-to-smes-in-malaysia/",
-      "publishedDateTime": "2021-07-25T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth.md",
-      "title": "Cloud Focus: Mphasis doubles down on cloud, cognitive services to accelerate growth",
-      "excerpt": "Digital-first strategy The company applies advancements in cognitive and cloud to traditional application and infrastructure services to bring much needed agility, efficiency and cost effectiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/07/1-553.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/lite/",
-      "publishedDateTime": "2021-07-25T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-amazons-mugshot-ai-says-28-members-of-congress-are-known-criminals.md",
-      "title": "Amazon’s mugshot AI says 28 members of Congress are known criminals",
-      "excerpt": "In a new series of tests by the American Civil Liberties Union a whopping 28 members of Congress have been matched by Amazon’s Rekognition facial identification software with mugshots of known ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
-      "originalUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2018/07/featured_image.jpg?quality=70&strip=all",
-          "width": 1160,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/amazon-rekognition-congress-false-matches-aclu/amp/",
-      "publishedDateTime": "2021-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-us-pushes-light-regulations-for-ai-in-contrast-to-europe.md",
-      "title": "US pushes light regulations for AI, in contrast to Europe",
-      "excerpt": "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "originalUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1035331888-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "publishedDateTime": "2021-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
-      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
-      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-whats-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare.md",
-      "title": "What's Wrong with IBM Watson & Is Narrow AI Helpful in Healthcare?",
-      "excerpt": "IBM poured millions of dollars to revolutionise healthcare, but the experiment turned out to be far more difficult and time-consuming than expected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare",
-      "originalUrl": "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/IBM_Watson.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-25T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-the-woebot-will-see-you-now-how-ai-is-helping-in-the-fight-against-depression.md",
-      "title": "The Woebot will see you now: how AI is helping in the fight against depression",
-      "excerpt": "Bot therapy' engages a demographic that's traditionally reluctant to open up. Could the future of mental health care be algorithmic?",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/",
-      "originalUrl": "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/health-fitness/2021/07/22/TELEMMGLPICT000265024181_trans_NvBQzQNjv4Bqvf93cyop1gpr4w56dB_PHOHO6xmcg-ORQ3PwU054mI8.jpeg",
-          "width": 671,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/amp/",
-      "publishedDateTime": "2021-07-25T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

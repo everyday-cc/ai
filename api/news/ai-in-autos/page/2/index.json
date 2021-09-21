@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-07-why-tesla-is-designing-chips-to-train-its-self-driving-tech.md",
+      "title": "Why Tesla Is Designing Chips to Train Its Self-Driving Tech",
+      "excerpt": "Now, it’s also the latest company to seek an edge in artificial intelligence by making ... learning algorithm behind its Autopilot self-driving system. The event focused on Tesla’s AI work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/why-tesla-designing-chips-train-self-driving-tech/",
+      "originalUrl": "https://www.wired.com/story/why-tesla-designing-chips-train-self-driving-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61326f2314e5c8f49420c6b6/master/pass/Business-AI-Computer-Chips-Tesla-BD6198-001.jpg",
+          "width": 2400,
+          "height": 1791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/why-tesla-designing-chips-train-self-driving-tech/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-tesla-designing-chips-train-self-driving-tech/amp",
+      "publishedDateTime": "2021-09-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-japan-steps-up-self-driving-to-revive-rural-areas-help-elderly.md",
+      "title": "Japan Steps Up Self-Driving to Revive Rural Areas, Help Elderly",
+      "excerpt": "Japan is bolstering its autonomous driving ambitions with a new project to be formally introduced Wednesday to expand the use of self-driving vehicles in more than 40 locations around the country by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-07/japan-steps-up-self-driving-to-revive-rural-areas-help-elderly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iamawYFonON0/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-06T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-06-argo-ai-and-volkswagen-show-off-self-driving-vehicle.md",
       "title": "Argo AI and Volkswagen show off self-driving vehicle",
       "excerpt": "Argo AI -- the autonomous car venture backed by Volkswagen and Ford -- is gearing up for the 2021 IAA Mobility event in Munich, where it",
@@ -1316,112 +1420,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors.md",
-      "title": "15 Innovative AI Companies Driving Exponential Shifts In Their Respective Sectors",
-      "excerpt": "AI-built, AI-fueled, AI-powered, AI-informed: it is pervasive. In the hands of innovators, the disruption of AI of companies worldwide trends in a positive direction, and has the potential to change the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61294684ba5d5a47b5b0da5e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/27/15-innovative-ai-companies-driving-exponential-shifts-in-their-respective-sectors/amp/",
-      "publishedDateTime": "2021-08-27T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars.md",
-      "title": "Chances Of Collisions Involving Urgently Underway Police Cars And AI Self-Driving Cars",
-      "excerpt": "Regrettably there are going to be instances of urgently underway police cars that collide with self-driving cars, though there are means to try and reduce those chances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60722c4f3955ebfd3665bef7%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D4511%26cropY1%3D440%26cropY2%3D2845",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Autos"
       ]

@@ -2,6 +2,359 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-08-08-systems-of-systems-the-next-big-step-for-edge-ai.md",
+      "title": "Systems of systems: The next big step for edge AI",
+      "excerpt": "A system of systems connects an enterprise’s multiple, purpose-dedicated systems using a single common language.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-135456171.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/amp/",
+      "publishedDateTime": "2021-08-07T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence.md",
+      "title": "Vatican speaks out in 'killer robots' debate at UN raising weaponization of artificial intelligence",
+      "excerpt": "The Vatican has told a UN meeting in Geneva that the use of \"killer robots\" and other lethal autonomous weapons systems that use artificial intelligence violates international treaties because innocent civilians could be erroneously targeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ecumenicalnews.com/article/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "originalUrl": "https://www.ecumenicalnews.com/article/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ecumenicalnews.com/full/23732/630-0/robot-weapons.jpg",
+          "width": 630,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.ecumenicalnews.com/amp/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "cdnAmpWebUrl": "https://www-ecumenicalnews-com.cdn.ampproject.org/c/www.ecumenicalnews.com/amp/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "publishedDateTime": "2021-08-07T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ecumenical News",
+        "domain": "ecumenicalnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-facebooks-droidlet-ai-could-take-speech-recognition-to-a-whole-new-level.md",
+      "title": "Facebook’s ‘droidlet’ A.I. could take speech recognition to a whole new level",
+      "excerpt": "Today's natural language recognition systems -- like Siri and Alexa -- are still somewhat limited in what they can understand. Facebook thinks it can do better",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/",
+      "originalUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp",
+      "publishedDateTime": "2021-08-07T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-baidu-launches-its-apolong-ii-self-driving-minibus-in-china-for-its-apollo-go-ride-hailing-service.md",
+      "title": "Baidu Launches its Apolong II Self-Driving Minibus in China for its 'Apollo Go' Ride-Hailing Service",
+      "excerpt": "Baidu, which is often referred to as the \"Google of China\", has been working on self-driving technology since launching its open autonomous driving platform called \"Apollo\" in 2017. The tech giant aims to be the first company to scale and commercialize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-for-its-Apollo-Go-Ride-Hailing-Service",
+      "originalUrl": "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-for-its-Apollo-Go-Ride-Hailing-Service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202108/06/l_610d81ace139c.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-07T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-ai-wrote-better-phishing-emails-than-humans-in-a-recent-test.md",
+      "title": "AI Wrote Better Phishing Emails Than Humans in a Recent Test",
+      "excerpt": "This time, it's phishing emails. In a small study, researchers found that they could use the deep learning language model GPT-3, along with other AI-as-a-service platforms, to significantly lower the barrier to entry for crafting spearphishing campaigns at a massive scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "originalUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/610d82e6d901275be20b8455/master/pass/sec_email_GettyImages-1157081287.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-phishing-emails/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-phishing-emails/amp",
+      "publishedDateTime": "2021-08-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-global-ai-in-eye-scan-market-shows-enormous-growth-with-leading-players-deepmind-google-ibm.md",
+      "title": "Global AI in Eye Scan Market Shows Enormous Growth with Leading Players DeepMind, Google, IBM",
+      "excerpt": "A report was released recently that sheds lots of light on the AI in Eye Scan Industry. The report covers an overview of the Market along with a detailed explanation that provides a lot of insight. The report also analyzes the production as well as management technology in various end-user industries.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-ai-in-eye-scan-market-shows-enormous-growth-with-leading-players-deepmind-google-ibm/",
+      "originalUrl": "https://manometcurrent.com/global-ai-in-eye-scan-market-shows-enormous-growth-with-leading-players-deepmind-google-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-07T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-spatial-vision-in-humans-and-robots.md",
+      "title": "Spatial Vision in Humans and Robots",
+      "excerpt": "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/cz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "originalUrl": "https://www.cambridge.org/cz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-artificial-intelligence-in-retail-market.md",
+      "title": "Artificial Intelligence in Retail Market",
+      "excerpt": "Latest survey on Global Artificial Intelligence in Retail Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2349199/artificial-intelligence-in-retail-market-outlook-2021-big",
+      "originalUrl": "https://www.openpr.com/news/2349199/artificial-intelligence-in-retail-market-outlook-2021-big",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U807109915_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2349199/artificial-intelligence-in-retail-market-outlook-2021-big",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2349199/artificial-intelligence-in-retail-market-outlook-2021-big",
+      "publishedDateTime": "2021-08-06T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-azure-targets-innovation-over-domination.md",
       "title": "Azure targets innovation over domination",
       "excerpt": "Last December, the company launched Azure Machine Learning Services as well as an integration with Power BI, which brings ML to data analysts. According to Tzvi Keisar, senior program manager at ...",
@@ -796,386 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-federal-liberals-probed-for-facial-recognition-use.md",
-      "title": "Federal Liberals probed for facial recognition use",
-      "excerpt": "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "originalUrl": "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/biv/facial-recognition-yuichiro-chino-moment-getty-images.jpg;w=724;h=483;mode=crop",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "cdnAmpWebUrl": "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "publishedDateTime": "2021-08-06T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News",
-        "domain": "nsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-accenture-promotes-machine-learning-growth-with-worlds-largest-private-aws-deepcomposer-battle-of-the-bands-league.md",
-      "title": "Accenture promotes machine learning growth with world’s largest private AWS DeepComposer Battle of the Bands League",
-      "excerpt": "Accenture is known for pioneering innovative solutions to achieve customer success by using artificial intelligence (AI) and machine learning (ML) powered solutions with AWS services. To keep teams updated with latest ML services, Accenture seeks to gamify hands-on learning. One such event, AWS DeepComposer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accenture-promotes-machine-learning-growth-with-worlds-largest-private-aws-deepcomposer-battle-of-the-bands-league/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accenture-promotes-machine-learning-growth-with-worlds-largest-private-aws-deepcomposer-battle-of-the-bands-league/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-3095-image001-1087x630.png",
-          "width": 1087,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T09:50:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-bc-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software.md",
-      "title": "B.C. privacy watchdog investigating federal Liberals over facial recognition software",
-      "excerpt": "British Columbia’s privacy watchdog is launching an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation today following a complaint from the Canadian Civil Liberties Association.",
-      "sourceUrl": null,
-      "webUrl": "https://cfjctoday.com/2021/08/06/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/",
-      "originalUrl": "https://cfjctoday.com/2021/08/06/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/socast-superdesk/media/20210806160832/610d6427023d160899bbeca6jpeg.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CFJC Today Kamloops",
-        "domain": "cfjctoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-meet-the-ai-research-pioneer-who-wants-to-redefine-progress.md",
-      "title": "Meet the AI research pioneer who wants to redefine ‘progress’",
-      "excerpt": "Name any AI technology, and Dr. Nuria Oliver, of Telefonica and Vodafone, was likely working on it when it still felt like science fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/",
-      "originalUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/amp/",
-      "publishedDateTime": "2021-08-06T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars.md",
-      "title": "Famous Game Of Go Shines Spotlight On Novelty By Humans And By AI, Fortuitously For Self-Driving Cars",
-      "excerpt": "Using the famous game of Go, and a groundbreaking match entailing the novelty of AI, allows for great insights into self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821ed8ce958ffa98e965c4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D93%26cropY2%3D3543",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-06T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-artificial-intelligence-aids-in-discovery-of-new-prognostic-biomarkers-for-breast-cancer.md",
-      "title": "Artificial Intelligence aids in discovery of new prognostic biomarkers for breast cancer",
-      "excerpt": "Scientists at Case Western Reserve University have used Artificial Intelligence (AI) to identify new biomarkers for breast cancer that can predict whether the cancer will return after treatment—and which can be identified from routinely acquired tissue biopsy samples of early-stage breast cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-25.jpg",
-          "width": 371,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
-      "publishedDateTime": "2021-08-06T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area.md",
-      "title": "Nvidia has absolutely trounced AMD in this vital chip area",
-      "excerpt": "Despite the competition coming in droves, Nvidia has managed to maintain its leading position in the global market for Artificial Intelligence (AI) chips used in cloud and data centers. Nvidia has also managed to maintain a large gap between itself and the rest,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "originalUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/p8a2RidshtSAWMtQWPVTbe-1200-80.jpg",
-          "width": 970,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "publishedDateTime": "2021-08-06T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-wooask-3-in-1-offline-translation-bluetooth-earbuds.md",
-      "title": "Wooask: 3-in-1 Offline Translation & Bluetooth Earbuds",
-      "excerpt": "Language barriers exist because of who we are, what we do, and where we came from. With Wooask Translator Earbuds, you're always beyond the language barrier. Unlike E-dictionaries only translate ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

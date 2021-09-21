@@ -2,6 +2,369 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-08-03-high-performance-stereo-computer-vision-for-the-raspberry-pi.md",
+      "title": "High Performance Stereo Computer Vision For The Raspberry Pi",
+      "excerpt": "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
+      "originalUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg",
+          "width": 3278,
+          "height": 2458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max.md",
+      "title": "Google equips Pixel 6 with its own chip to exploit AI to the max",
+      "excerpt": "For the first time, Google will outfit its new Pixel 6 smartphone with a chip manufactured by the company and designed specifically to exploit artificial intelligence to the maximum degree possible, above all in the areas of photography and voice recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/",
+      "originalUrl": "https://www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/08/17775571w.jpg",
+          "width": 700,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/amp/",
+      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/amp/",
+      "publishedDateTime": "2021-08-02T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Prensa Latina",
+        "domain": "laprensalatina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-openai-debuts-python-based-triton-for-gpu-powered-machine-learning.md",
+      "title": "OpenAI debuts Python-based Triton for GPU-powered machine learning",
+      "excerpt": "OpenAI, the nonprofit venture whose professed mission is the ethical advancement of artificial intelligence (AI), has released the first version of the Triton language, an open source project that allows researchers to write GPU-powered deep learning projects without needing to know the intricacies of GPU programming for machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/690168/openai-debuts-python-based-triton-gpu-powered-machine-learning/",
+      "originalUrl": "https://www.arnnet.com.au/article/690168/openai-debuts-python-based-triton-gpu-powered-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_190606740_16.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-why-the-pixel-6s-tensor-chip-is-actually-a-big-deal-and-why-it-isnt.md",
+      "title": "Why the Pixel 6's Tensor chip is actually a big deal (and why it isn’t)",
+      "excerpt": "The Google Tensor SoC sets the Pixel 6 up as an artificial intelligence powerhouse, but that's not the only thing to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-tensor-processor-2728246/",
+      "originalUrl": "https://www.androidauthority.com/google-tensor-processor-2728246/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/08/google-tensor-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/google-tensor-processor-2728246/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-tensor-processor-2728246/",
+      "publishedDateTime": "2021-08-02T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-snowflake-amazon-sagemaker-workshops-beta.md",
+      "title": "Snowflake + Amazon SageMaker Workshops [BETA]",
+      "excerpt": "We're currently working on simplifying the setup process. Reach out to dylatong@amazon.com if you have feeedback. With Amazon SageMaker Studio Use this template if you do not have a pre-existing Amazon SageMaker Studio environment in your target region.",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/dylan-tong-aws/snowflake-sagemaker-workshops",
+      "originalUrl": "https://github.com/dylan-tong-aws/snowflake-sagemaker-workshops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/cfc7a67ccfb98e2b66dd403946accf583045d9a235d7b3138b09f031638a60f6/dylan-tong-aws/snowflake-sagemaker-workshops",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-ai-quantum-computing-and-other-technologies-poised-to-transform-healthcare.md",
+      "title": "AI, quantum computing and other technologies poised to transform healthcare",
+      "excerpt": "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare",
+      "originalUrl": "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/doc_nurse_computer_screen_tech_AI_David%20Sacks_Getty%20Images_7.jpg",
+          "width": 635,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Finance News",
+        "domain": "healthcarefinancenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-deepmind-stel-n-wetenskap-presedent.md",
+      "title": "DeepMind stel ’n wetenskap-presedent",
+      "excerpt": "Subscribe for full access to all our share and unit trust data tools, our award-winning articles, and support quality journalism in the process. A monthly subscription is charged pro rata, based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/deepmind-stel-n-wetenskap-presedent/",
+      "originalUrl": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/deepmind-stel-n-wetenskap-presedent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.moneyweb.co.za/wp-content/uploads/2017/07/shutterstock_525972979.jpg",
+          "width": 1000,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Moneyweb",
+        "domain": "moneyweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-navigating-religion-faith-and-creativity-in-the-age-of-ai.md",
+      "title": "Navigating Religion, Faith, And Creativity In The Age Of AI",
+      "excerpt": "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610845450dc506a914f2391c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D750%26cropY1%3D166%26cropY2%3D666",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2021-08-02T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-wavicle-data-solutions-establishes-dedicated-aws-solutions-practice.md",
       "title": "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice",
       "excerpt": "video and image solutions using Amazon Rekognition, and audio solutions using Amazon Transcribe. PII Compliance: In order to maintain the privacy of customer data, the Wavicle team provides Personally Identifiable Information (PII) analysis and redaction ...",
@@ -774,380 +1137,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge.md",
-      "title": "A New Kind Of Help For Healthcare: Where Proven Science And New Technology Merge",
-      "excerpt": "Digital therapeutic products derived from best practices and new insights from machine learning offer a key opportunity that has yet to be realized: optimal effective treatment of patients with common conditions that are difficult to control.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610405d5ef72b264d3dff7be%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
-      "publishedDateTime": "2021-08-02T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-researchers-use-ai-to-look-for-alien-civilisations.md",
-      "title": "Researchers use AI to look for alien civilisations",
-      "excerpt": "The team will use a network of mid-sized, high-resolution telescopes and detector arrays with suitable cameras and computer systems as part of their research to find alien civilisations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/r5nkkz/article35680756.ece/ALTERNATES/LANDSCAPE_615/oumuamua-impression",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/",
-      "publishedDateTime": "2021-08-02T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-singapore-based-nektarai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively.md",
-      "title": "Singapore-based Nektar.ai gets $6M to help B2B sales team collaborate more effectively",
-      "excerpt": "Organizing information about prospective deals is a challenging task for B2B sales teams, since salespeople usually rely on multiple tools (email, Zoom, WhatsApp, etc) to talk with buyer committees. It becomes even more unwieldy when sales teams work remotely.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/",
-      "originalUrl": "https://techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Founders_picture.jpg",
-          "width": 2629,
-          "height": 1938,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/amp/",
-      "publishedDateTime": "2021-08-02T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-wavicle-data-solutions-establishes-dedicated-aws-solutions-practice.md",
-      "title": "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice",
-      "excerpt": "video and image solutions using Amazon Rekognition, and audio solutions using Amazon Transcribe. PII Compliance: In order to maintain the privacy of customer data, the Wavicle team provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22276802",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22276802",
-      "publishedDateTime": "2021-08-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-microsofts-new-azure-data-services-explained.md",
-      "title": "Microsoft's new Azure data services explained",
-      "excerpt": "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "publishedDateTime": "2021-08-02T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design.md",
-      "title": "AI on the bench: Cadence offers machine learning to smooth chip design",
-      "excerpt": "A form of reinforcement learning helps in the trade-offs between power, performance, and area in chips. A designer of computer chips has to think about a lot of things, such as clock trees. \"Whenever you put in the clock tree,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/02/7b902741-4f4e-4956-a908-b36b1b7dacf0/slide-8-cerebrus-press-deck-071921-embargoed-until-jul-22.jpg",
-          "width": 792,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
-      "publishedDateTime": "2021-08-02T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie.md",
-      "title": "Facial recognition in UAE: Now, open a bank account with a selfie",
-      "excerpt": "UAE citizens and residents can now open a bank account from the comfort of their home by taking a selfie — and be done with the entire process in less than five minutes. Abu Dhabi Islamic Bank (ADIB) on Monday signed a partnership with the Ministry of Interior to launch the UAE’s first digital account opening service through an app by using a selfie.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
-      "originalUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210802/ARTICLE/210809856/AR/0/AR-210809856.jpg&NCS_modified=20210802112011&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
-      "publishedDateTime": "2021-08-02T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university.md",
-      "title": "Samsung sets up AI, ML lab at Karnataka's KLE Technological University",
-      "excerpt": "The ‘SEED Lab’ will allows students and faculty members at KLE Tech to jointly work on research and development projects under the mentorship of s..",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-84969085,imgsize-1257112,width-800,height-434,overlay-ettelecom/samsung-sets-up-ai-ml-lab-at-karnataka-s-kle-technological-university.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "publishedDateTime": "2021-08-02T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,264 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-15-discovery-and-aws-partner-for-uci-track-champions-league.md",
+      "title": "Discovery and AWS partner for UCI Track Champions League",
+      "excerpt": "Discovery Sports has turned to Amazon Web Services to provide fan engagement experiences for the upcoming UCI Track Champions League. AWS will deliver cloud infrastructure for the competition, as well as becoming the official cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.broadcastnow.co.uk/tech-innovation/discovery-and-aws-partner-for-uci-track-champions-league/5163323.article",
+      "originalUrl": "https://www.broadcastnow.co.uk/tech-innovation/discovery-and-aws-partner-for-uci-track-champions-league/5163323.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/6/8/1/1353681_mathildegroscyclingawsucitrackchampionsleaguestats_297404.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcast",
+        "domain": "broadcastnow.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot.md",
+      "title": "Wells Fargo taps Microsoft Azure, Google Cloud for its multi-cloud pivot",
+      "excerpt": "Banking giant Wells Fargo said it is adopting a multi-cloud strategy that combines its data centers with cloud compute from Microsoft Azure and Google Cloud. Under the new digital",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
+      "originalUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
+      "publishedDateTime": "2021-09-15T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-artificial-neural-networks-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast.md",
+      "title": "Artificial Neural Networks Market Segmentation, Production Cost, Size, Share, Supply Chain Analysis with Future Forecast",
+      "excerpt": "Sep 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Neural Networks",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast-2021-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast-2021-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-aws-announces-winners-of-the-apn-awards-2021-in-india.md",
+      "title": "AWS Announces Winners of the APN Awards 2021 in India",
+      "excerpt": "Award winners for 2021 were announced at the AWS Partner Summit Online in India, recognizing the technology leaders playing a key role in helping organisations build solutions on AWS and accelerate innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/tech/aws-announces-winners-of-the-apn-awards-2021-in-india.html",
+      "originalUrl": "https://technuter.com/tech/aws-announces-winners-of-the-apn-awards-2021-in-india.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg",
+          "width": 277,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-deep-learning-market-outlook-competitive-landscape-and-forecasts-to-2026.md",
+      "title": "Deep Learning Market Outlook, Competitive Landscape and Forecasts to 2026",
+      "excerpt": "Global Deep Learning Market Overview Deep learning technologies enable a number of industries in developing deep domain insights besides helping transfer critical data to end users in the most usable ways The global deep learning market has gained remarkable impetus",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2393555/deep-learning-market-outlook-competitive-landscape",
+      "originalUrl": "https://www.openpr.com/news/2393555/deep-learning-market-outlook-competitive-landscape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2393555/deep-learning-market-outlook-competitive-landscape",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2393555/deep-learning-market-outlook-competitive-landscape",
+      "publishedDateTime": "2021-09-15T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-discovery-partners-with-aws-on-track-cycling-insights-cloud.md",
+      "title": "Discovery partners with AWS on track cycling insights, cloud",
+      "excerpt": "Two companies plan to work together to deliver new fan engagement experiences around the UCI cycling competition, including a new UCI Track Champions League app",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud",
+      "originalUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/09/disco-aws-copy.jpg",
+          "width": 750,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud?amp",
+      "publishedDateTime": "2021-09-15T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-truic-releases-more-ai-powered-startup-tools.md",
       "title": "TRUiC Releases More AI-powered Startup Tools",
       "excerpt": "Over 30 million small businesses operated in the U.S in 2020. The U.S. has more unicorn startups than any other country TRUiC released a suite of free",
@@ -808,256 +1066,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market.md",
-      "title": "NeuReality collaborates with Xilinx to deliver NeuReality's novel AI-centric server to the market",
-      "excerpt": "NeuReality, an Israeli AI startup developing high performance AI compute platforms for cloud data centers and edge nodes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
-      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
-      "excerpt": "All of Huayan's assets, including the Heartbeat platform, its employees and its operations will be transferred to Peak's Xinxiang Technologies Ltd. subsidiary (\"Xinxiang\"), which was created in the second quarter of 2021 specifically to help bring insurance related products and services to members of Peak's Business Hub.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
-          "width": 323,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
-      "title": "Robot vacuums are learning to avoid dog poop. But that’s not all they can see.",
-      "excerpt": "Robot's new robot vacuum uses a front-facing camera and artificial intelligence to deftly maneuver your home. However these tools require more data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/09/14/roomba-ai-vacuum-dog-poop/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/09/14/roomba-ai-vacuum-dog-poop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HDXFKGT55RHXJJKXPPKBQLAIXY.jpg&w=1440",
-          "width": 1440,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-ibm-watson-set-up-new-ai-and-automations.md",
-      "title": "IBM Watson Set Up New AI and Automations",
-      "excerpt": "IBM (NYSE: IBM) today declare the set up of new AI and automation ability in IBM Watson Assistant plan to make it easier for businesses to create intensify customer service experiences over any channe",
-      "sourceUrl": null,
-      "webUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
-      "originalUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2021/09/vishwanath.png?fit=610%2C380&ssl=1",
-          "width": 610,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NETGEAR",
-        "domain": "smechannels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-new-ai-writes-computer-code-still-not-skynet-but-its-learning.md",
-      "title": "New AI Writes Computer Code: Still Not Skynet, But It’s Learning",
-      "excerpt": "Sometimes, when you feed an AI content from the Internet, it learns natural language. Sometimes, it reads the entire contents of GitHub and learns to produce simple snippets of code. This is the story of what happens when the AI does both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
-      "originalUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2015/12/Brain-Machine-2.jpg",
-          "width": 1710,
-          "height": 952,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-taking-lessons-from-a-sea-slug-study-points-to-better-hardware-for-artificial-intelligence.md",
-      "title": "Taking lessons from a sea slug, study points to better hardware for artificial intelligence",
-      "excerpt": "For artificial intelligence to get any smarter, it needs first to be as intelligent as one of the simplest creatures in the animal kingdom: the sea slug.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.html",
-      "originalUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/taking-lessons-from-a.jpg",
-          "width": 2880,
-          "height": 1917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-lessons-sea-slug-hardware-artificial.amp",
-      "publishedDateTime": "2021-09-14T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

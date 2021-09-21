@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Collaboration Overload Is Sinking Productivity"
-excerpt: "Collaborative overload is not just a problem of volume. It has an invisible but equally sinister counterpart in cognitive switching costs created by the diversity of demands. As columnist Jennifer Senior put it in The New York Times,"
-publishedDateTime: 2021-09-07T12:05:00Z
-originalUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity?ab=hero-main-text"
-webUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity?ab=hero-main-text"
+excerpt: "And, on a more dubious front, one global services organization implemented ... the inefficiencies and subsequent cognitive switching costs of always-on cultures and 2) the personal motivations ..."
+publishedDateTime: 2021-09-07T14:04:00Z
+originalUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity"
+webUrl: "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity"
 ampWebUrl: "https://hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: Harvard Business Review
@@ -26,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "td/WFEF/KuFCxECyjzoCW3Hue2V8P18Y1usVFw6Q6OknA00Sj2/zjkI/8xp/AZ+imRKqQAZf6h0yvydK8rzJ7B/FvTeTsj305rQQutnYi0Uj0fg/Q2tFDe1dNow8/gBhOTAuugQl0Tmuy6urN0pPQzSL2TubODuFt5U3w96PQNUeeEPbGU3WG8YaagkSr6AMhO/vH2d4pUuNypkhLReWxw8C2csWtktA1pMgDLo5XcIm556fhyKbF6ApneUsEM2XJCRKuUljCluPWh61YjEF5gohS4J/BPF/vxTVUPn8Gl7vRL3oZVZi9Wluqhoslt0hrsPBonhZaR1zzX30xLtdpNcdD2HB8i9XSFObfmMOAXtsI/xZoZjwDIV917ed2lwvU6l5zp5VmkI2qqIrr5P7wBck3r1SoZMyEf/63Kg5INisn6h4fjrEn9KMTVxGBWCWpKfJqFjSD7QxKy+26J2DoPL1EX9ZnjEr26BkyaaZln462+06UGIgWG9//pUO6AQ3/8I/0x0FaiVNEGSQ/3NpWw==;kc0Py8kKXtYXX3pcqfr2sg=="
+secured: "vMH8OZ/hHnrcjiqm0dLz44rzZy9ePXj0Qs3OLgQs+k0vpYRsmkgMMrd9v7amZ3qg/LI2oCT5F/132g3EnrXws6yXj3Kw5WmwblJ2SSOTdJh8dyTFI2bTdpwtd/vUtFOZd4X0AIvn9+ehK6gGWXjm2dkQe2KMNgnL6j7bR/mhgNcSKz0+s6gBn6T80pHLdk5qL6o31JlLYIoyJ5Eq/uaAEcbViLbkT12MbVK6fNz4WQlMKuywIyCzxzJoSoeqwsjbZsxWNVyuvDQLhg6Bu6jzQ2e0vtQEBxN8ogooTG7NVL8AYGnSglEhP476MLZcLcxcn+/0iNQ3cDyCcNPJxDlIHC9cYBkmZNUJDnuSJJm1bzw=;rCMvOhC7LEF5cfiHCNCt6g=="
 ---
 

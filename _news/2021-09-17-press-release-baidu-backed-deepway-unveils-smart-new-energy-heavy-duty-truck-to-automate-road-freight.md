@@ -26,6 +26,22 @@ images:
     height: 350
     isCached: true
 
+related:
+  - title: "DeepWay Debuts Smart Energy Truck to Automate Road Freight"
+    excerpt: "DeepWay, a Baidu-backed company, has unveiled Xingtu, a smart new energy heavy-duty truck with a computing power of more than 500 TOPS and"
+    publishedDateTime: 2021-09-17T16:49:00Z
+    webUrl: "https://ngtnews.com/deepway-debuts-smart-energy-truck-to-automate-road-freight"
+    type: article
+    provider:
+      name: Next-Gen Transportation News
+      domain: ngtnews.com
+    quality: 24
+    images:
+      - url: "https://ngtnews.com/wp-content/uploads/2021/09/Xingtu-DeepWay-scaled-e1631897287832.jpg"
+        width: 1900
+        height: 1004
+        isCached: true
+
 secured: "83L5rGyYO3lVRQCKQEd2uR9Y0cz/XvRJVmoW3L7S12uvMABxRjhnfidB2VxhgMXk12pBGiRK8HcpohMus8L/EtplWsTDef+K4M3NVF5JKKlktEAsjUrZJwNw78UWAgZy38LDT+tgKvBNwKPrTu5O3SNYNis0YRIo6KY9WgtsrlfO6Ylv+x+1yhEkdZBg655NSBAcAv7JMcvpTf/leaWsXG+g+kMJ+SHv2ZuKNYUmDbhezFS1GBCl8J9K3Y9oGJKbFM2UVIc89wkvO+jl1eDPY+iBJ6VORvkSv2mIOSo6VUeS5bKlQColmbQkqTR/wr/RbXBqRtbzkTXnW/BXQROPEJjdC0XrkXXAJOHYU6rWL2o=;DBDaiX1mS06U/aSxLgszGg=="
 ---
 

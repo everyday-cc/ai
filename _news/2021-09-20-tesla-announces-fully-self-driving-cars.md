@@ -44,7 +44,7 @@ related:
   - title: "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’"
     excerpt: "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature."
     publishedDateTime: 2021-09-19T21:07:00Z
-    webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang"
+    webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=hp_minor_pos26"
     type: article
     provider:
       name: MarketWatch
@@ -68,6 +68,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/How_Tesla_is_Using_Big_Data-_Benefits__Challenges_of_Big_Data_in_Self_Driving_Cars.jpeg"
         width: 1920
         height: 938
+        isCached: true
+  - title: "NTSB chief calls Tesla Full Self-Driving \"misleading and irresponsible,\" amid city-driving beta test"
+    excerpt: "The safety leader suggested that more regulation is needed to reel in Tesla's experiments with untrained beta testers."
+    publishedDateTime: 2021-09-21T12:00:00Z
+    webUrl: "https://www.greencarreports.com/news/1133637_ntsb-chief-tesla-full-self-driving-misleading-irresponsible-city-driving-beta-test"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "laH1F1/KUlLVTVjR8u1Le26l40azNZVdi2RY/uVbt+FkQ/BVE0OpijvWU8yRksohfhSY9/JckX5ZKbWRKtKrkpB63rWxV/tfgPodNc5NZSzBgjNmOGgl1sevyVE0cHQCgjjBTpe3IG7rEK94DvHjuCMMZQwiFj3pUC9/sHFfJniEpCV4inRCWds7wDAxcHqtTBLPLTLOLaaqDDJqTLLC4sUSuaUAELwx+grkzTFJIsogmWq07tUkgd3XcnRUrz2B5wJYDlXcdgo9CKd8ZG9I/EHYwHcISBiiZk+AlkgLoKi2EdJJRPVZJNbLV3r+zHk90GcBpKnaOCAdk3Oq/oavOGM20zm6/94LOTbR+EO+Vfwh0x5DDJqwNrc/ak6BdbHtSZkoOhPdoSuqK9a3eqtk868m5UGMJRyI2lV9SzaX0v2O/QJ33g5aCGFlyW0RWW/n+7p4yb97E748NXmRbp/PbVAcXjJ9ftw/7W/e6EpbjsjA+ig8x/KWdSQKEFTVd4p8m7M5dD68nbw6J7sKOaaLdw==;yka0X1RNYTHeNfGM9Awnvw=="

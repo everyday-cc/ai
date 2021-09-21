@@ -2,6 +2,254 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-21-how-an-ai-assisted-robot-gun-assassinated-irans-top-nuclear-scientist.md",
+      "title": "How An AI-Assisted Robot Gun Assassinated Iran's Top Nuclear Scientist",
+      "excerpt": "An AI-assisted remote-controlled gun played a key role in Israel's assassination of Iran's nuclear kingpin, according to a new report by the New York Times",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "originalUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/2d15193b-4612-5fd9-801e-59ede04ab106/default-1632224046-iran-military.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "publishedDateTime": "2021-09-21T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-ai-might-help-edit-the-next-generation-of-blockbusters.md",
+      "title": "AI might help edit the next generation of blockbusters",
+      "excerpt": "While AI video editing techniques like deepfakes have not really ... “I think the boundaries between images, and videos, and audio, and 3D, and augmented reality are going to start to blur,” says Prevost. “It used to be that there are people who ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless",
+      "originalUrl": "https://www.theverge.com/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/CNu1WibYaAk7F7OJt966ard2pFM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69887850/VRG_ILLO_2727_002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless",
+      "publishedDateTime": "2021-09-21T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities.md",
+      "title": "Managing change in AI: Don't forget about your staff's needs and abilities",
+      "excerpt": "When change affects people in your organization, remember that you have a wealth of talent that needn't go to waste. Consider re-skilling to meet the company's needs as well as the employees'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
+      "originalUrl": "https://www.techrepublic.com/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2018/09/11/13c43ea2-1fda-4648-827a-8ce385fbf584/resize/1200x/528440af7f1cb500f14724568b3e1fa2/istock-burnout.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/managing-change-in-ai-dont-forget-about-your-staffs-needs-and-abilities/",
+      "publishedDateTime": "2021-09-21T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-responsible-ai-is-every-businesss-responsibility.md",
+      "title": "Responsible AI Is Every Business’s Responsibility",
+      "excerpt": "Is AI the transformative technology destined to work wonders for humanity, from driverless cars to a cure for cancer? Or is it a genie in a bottle that, once released, could be used to manipulate or even rule humankind?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32cd286b894b218218c8dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/21/responsible-ai-is-every-businesss-responsibility/amp/",
+      "publishedDateTime": "2021-09-21T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-three-ways-ai-is-improving-assistive-technology.md",
+      "title": "Three Ways AI Is Improving Assistive Technology",
+      "excerpt": "When implemented effectively, assistive technology can improve accessibility and quality of life for all, regardless of ability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6148b1fa82bb1bd5c2811729%2F0x0.jpg",
+          "width": 813,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/",
+      "publishedDateTime": "2021-09-21T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-technology-is-a-double-edged-sword-in-the-face-of-repressive-regimes-opinion.md",
       "title": "Technology is a Double-edged Sword in the Face of Repressive Regimes | Opinion",
       "excerpt": "Tech companies must be willing to do all they can to prevent authoritarian regimes from accessing and using their services, even though what we see today is quite the opposite as the Taliban has full and easy access to Facebook,",
@@ -256,6 +504,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-machine-learning-at-the-edge-a-hardware-and-software-ecosystem.md",
+      "title": "Machine learning at the edge: A hardware and software ecosystem",
+      "excerpt": "Being able to deploy machine learning applications at the edge bears the promise of unlocking a multi-billion dollar market. For that to happen, hardware and software must work in tandem. Arm's partner ecosystem exemplifies this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "originalUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2020/12/11/573aa6b0-7e1d-432c-a6c9-6cc5a633144b/resize/1200xauto/faa21497a2f921c1733110d93cd9fac7/istock-1202641105.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "publishedDateTime": "2021-09-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -725,7 +1025,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/20/improved-algorithms-may-be-more-important-for-ai-performance-than-faster-hardware/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -974,310 +1274,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-step-into-a-successful-career-with-artificial-intelligence-machine-learning.md",
-      "title": "Step into a successful career with Artificial Intelligence & Machine Learning",
-      "excerpt": "Advanced technologies are in demand in every industry, thus upgrading oneself with new techno-friendly environment would be appreciable. It is opening a new path for technology career seekers in the Artificial Intelligence and Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
-      "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/9/2021_9$largeimg_1807833861.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
-      "publishedDateTime": "2021-09-20T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle.md",
-      "title": "Beef up your knowledge on AI and machine learning with this expert-led bundle",
-      "excerpt": "This AI machine learning bundle includes 79 hours of content on deep learning, machine learning, python in addition to other development tools.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle",
-      "originalUrl": "https://thenextweb.com/news/beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-AI-Super-Bundle.jpeg&signature=812ae6959c43ac5f7abad714f7095389",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-how-to-prepare-for-the-coming-ai-explosion-in-business.md",
-      "title": "How To Prepare For The Coming AI Explosion In Business",
-      "excerpt": "AI has incredible potential to transform our world and to increase productivity, improve efficiency and solve problems that have henceforth been considered unsolvable. But is your business ready for the impending AI explosion?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144ff239db00c099f537b2f%2F0x0.jpg",
-          "width": 1200,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/20/how-to-prepare-for-the-coming-ai-explosion-in-business/amp/",
-      "publishedDateTime": "2021-09-20T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-ntsb-says-teslas-full-self-driving-beta-is-misleading-irresponsible-ahead-of-wider-release.md",
-      "title": "NTSB says Tesla’s Full Self-Driving beta is ‘misleading & irresponsible’ ahead of wider release",
-      "excerpt": "As Tesla is moving to release its Full Self-Driving beta software to its US fleet, the automaker is facing some pushbacks from US regulators. Now the NTSB is calling Tesla’s approach “misleading and irresponsible.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/",
-      "originalUrl": "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/amp/",
-      "publishedDateTime": "2021-09-20T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care.md",
-      "title": "AI Startup Navina Leverages The Amazon Cloud To Improve Patient Care",
-      "excerpt": "But in their case, it wasn’t a cybersecurity or fintech or proptech startup, but a healthcare startup, joining the most recent thriving sector in the booming Startup Nation of Israel. The rapid digital transformation of the healthcare industry worldwide,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6145eddd5d6aa1cb5c537b2d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4340%26cropY1%3D225%26cropY2%3D2667",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/amp/",
-      "publishedDateTime": "2021-09-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Natural Language Processing",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-the-disruption-of-legal-services-is-here.md",
-      "title": "The Disruption Of Legal Services Is Here",
-      "excerpt": "In the world of disruption and the promised gold rush for the companies that do the disrupting, size matters. Legal has just been low on the industry list. Its number is now up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144a30dd7fa160726fcacb8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/",
-      "publishedDateTime": "2021-09-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

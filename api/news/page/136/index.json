@@ -2,6 +2,368 @@
   "page": 136,
   "value": [
     {
+      "path": "_news/2021-06-11-artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources.md",
+      "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
+      "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
+      "originalUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2NR1QC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NR1QC",
+      "publishedDateTime": "2021-06-10T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-fix-the-use-of-dna-data-and-facial-recognition-software-not-ban-it-commentary.md",
+      "title": "Fix the use of DNA data and facial recognition software, not ban it | COMMENTARY",
+      "excerpt": "The use of facial recognition technology needs fixing. There’s no doubt about. Let’s fix it rather than throw it out the door.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html",
+      "originalUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-10T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-how-ai-could-radically-change-education-and-standardized-testing.md",
+      "title": "How AI could radically change education and standardized testing",
+      "excerpt": "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "publishedDateTime": "2021-06-10T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027.md",
+      "title": "Artificial Intelligence in Supply Chain Market Evolving Technology and Growth Outlook 2021 to 2027",
+      "excerpt": "New Analysis Of Artificial Intelligence in Supply Chain Market overview, spend analysis, imports, segmentation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot.md",
+      "title": "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot",
+      "excerpt": "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
+      "originalUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
+      "publishedDateTime": "2021-06-10T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-using-artificial-intelligence-to-personalize-therapy-and-individual-level-of-outcome-prediction.md",
+      "title": "Using Artificial Intelligence to Personalize Therapy and Individual Level of Outcome Prediction",
+      "excerpt": "The MSKCC model was reported on risk stratification of 670 patients treated there with interferon therapy. The IMDC model is based on data from a real-world patient population from multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
+      "originalUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-self-driving-technology-company-argo-ai-plans-ipo-within-a-year.md",
+      "title": "Self-driving technology company Argo AI plans IPO within a year",
+      "excerpt": "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
+      "originalUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg",
+          "width": 1920,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Authority",
+        "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-the-reality-of-artificial-intelligence.md",
+      "title": "The Reality Of Artificial Intelligence",
+      "excerpt": "Fundamentally, it is the science that enables machines to translate, execute and investigate ... and understand data by mimicking human natural language. Of course, there are technologies that enable AI. We live in the era of the internet of things ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
+      "originalUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.commercialintegrator.com/wp-content/uploads/2021/06/AI.jpeg",
+          "width": 1000,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Commercial Integrator",
+        "domain": "commercialintegrator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-the-journey-from-smart-buildings-to-cognitive-cities.md",
       "title": "The Journey From Smart Buildings To Cognitive Cities",
       "excerpt": "The digital evolution of cities has resulted in cities becoming increasingly competitive, sustainable and prosperous.",

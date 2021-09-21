@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-21-how-an-ai-assisted-robot-gun-assassinated-irans-top-nuclear-scientist.md",
+      "title": "How An AI-Assisted Robot Gun Assassinated Iran's Top Nuclear Scientist",
+      "excerpt": "An AI-assisted remote-controlled gun played a key role in Israel's assassination of Iran's nuclear kingpin, according to a new report by the New York Times",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "originalUrl": "https://www.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/2d15193b-4612-5fd9-801e-59ede04ab106/default-1632224046-iran-military.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/",
+      "publishedDateTime": "2021-09-21T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-5-unexpectedly-hot-industries-to-find-robotics-jobs.md",
       "title": "5 unexpectedly hot industries to find robotics jobs",
       "excerpt": "In fact, it's projected that the number of jobs in the field will grow 9% between 2016 and 2026, leading to a shortage of qualified engineers.  That's a real opportunity for new talent entering the workforce or for professionals looking to make a mid-career shift.",
@@ -1309,49 +1352,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-biobest-makes-investment-in-robotics-and-artificial-intelligence.md",
-      "title": "Biobest Makes Investment in Robotics and Artificial Intelligence",
-      "excerpt": "Along with Biobest’s $10 million investment in ecoation, the companies are also joining forces to develop new IPM-related technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
-      "originalUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2021/07/Ecoation-OKO-Platform.jpg",
-          "width": 896,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
-      "publishedDateTime": "2021-09-09T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greenhouse Grower",
-        "domain": "greenhousegrower.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

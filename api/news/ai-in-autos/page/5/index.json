@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-19-tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect.md",
+      "title": "Tesla to Hold AI Day Amid New Scrutiny: What to Expect",
+      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot d",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
+      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430?mod=hp_lista_pos3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-387824?width=700&height=557",
+          "width": 700,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "publishedDateTime": "2021-08-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-19-tesla-ai-day-might-rely-on-one-more-thing-moment-to-be-impactful.md",
+      "title": "Tesla AI Day might rely on ‘one more thing’ moment to be impactful",
+      "excerpt": "Tesla is holding its ‘AI Day’ today and the automaker might have to rely on a ‘one more thing’ moment for the presentation to be impactful and move the needle. Over the last few years, Tesla started holding events,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/",
+      "originalUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-snake-charger.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/19/tesla-ai-day-one-more-thing-moment-impactful/amp/",
+      "publishedDateTime": "2021-08-19T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-19-dow-selloff-nvidia-tesla-ai-day-robinhood-5-things-you-must-know-thursday.md",
       "title": "Dow Selloff, Nvidia, Tesla AI Day, Robinhood: 5 Things You Must Know Thursday",
       "excerpt": "\"That said, the start of tapering necessarily chips away at the tools at the Fed ... The stock dropped 11.73% to $43.96 early Thursday. Tesla's AI Day is invite-only and is expected to begin ...",
@@ -1280,92 +1385,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-sigkdd-honors-groundbreaking-achievements-in-knowledge-discovery-and-data-mining.md",
-      "title": "SIGKDD Honors Groundbreaking Achievements in Knowledge Discovery and Data Mining",
-      "excerpt": "big data and artificial intelligence (AI). Ahead of the organization's annual conference on Aug. 14-18, the awards program recognizes those who have made a lasting impact in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19951145.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19951145.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-huawei-vows-to-enable-railway-digitalization-in-apac.md",
-      "title": "Huawei Vows to Enable Railway Digitalization in APAC",
-      "excerpt": "The event attracted more than 1300 railway industry customers, partners, experts, and media drawn from across the APAC region. Core Huawei railway industry customers and partners - including the Hong Kong Mass Transit Railway Corporation (MTR),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-huawei-vows-enable-railway-digitalization-apac-/2021/08/13/9430379.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-huawei-vows-enable-railway-digitalization-apac-/2021/08/13/9430379.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1594222/railway_image.jpg",
-          "width": 400,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

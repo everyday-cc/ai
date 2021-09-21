@@ -3,8 +3,8 @@ category: news
 title: "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’"
 excerpt: "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature."
 publishedDateTime: 2021-09-19T21:07:00Z
-originalUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang"
-webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang"
+originalUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=hp_minor_pos26"
+webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=hp_minor_pos26"
 type: article
 quality: 62
 heat: -1
@@ -73,7 +73,21 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "NTSB chief calls Tesla Full Self-Driving \"misleading and irresponsible,\" amid city-driving beta test"
+    excerpt: "The safety leader suggested that more regulation is needed to reel in Tesla's experiments with untrained beta testers."
+    publishedDateTime: 2021-09-21T12:00:00Z
+    webUrl: "https://www.greencarreports.com/news/1133637_ntsb-chief-tesla-full-self-driving-misleading-irresponsible-city-driving-beta-test"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "H9XQVFKU/YuzDa5nu9/0Nyjb4XyTFyCitju6PODpf9uh0bhvmsA0u0LkrixzACDig1kgVcyAjy25o5iILH5XocVwtEyTK9+Sh2X5Lg+oEBuaOSkT+I/vjcjZXG92SQetDhOWusgfSeTUaN8BfBBJCqTWfR/qz2jdfo2k/siTZ1xG/fABQgnQh/6lCFNcQ2zUveQofXFnPGE9E/3m47wbpMwfTBVXpSlljdSRFXt6RqtV45Lakqqn8S56P0o4oQGhWHc9V5mLdpS7bbhG4qv6fQcpe4PE0SPm23vFVJT4Uen58+6bgByqSw7WC8fX2cK+fEqScjo+jBp4pKhpDVk+KbrdkdtsWvSSdX8jRKOJNuo=;EbYHkzSy6xG6HGt3QBC8/w=="
+secured: "ar6oi33zrUIM8aEdsQwzeaQalTycs3D/iN6Ig7LBJCRcNLOw3vh8HnPXIE9gp94LLqiaERu/vafeXla5SlJdWNHMBT0XcaKlQt+N8JAvXT995a9Z1b8LerFLwJcyIkdXLFBdtEM/5iBI++1Q2pBrng0AHvxwj5kFvebrbk9O228L7Wxg9/aXtoo1RsWFUDvE232ujccjL7UJ0/a3j8UFVMNtXeWbK/A9uzR70FshdPeJYZpTqAHiVG7qbYn0+INefvxPMZEbaxzx7A8ilLdLJGONsxbGK/OkF+hZwTm4681lUkYRZaRDHkmdi7XlOzB9k4p2PfWxlI/eJhy9anxjQrkmmaxok4Q7rHbdoiSBXl4=;99iHWIZXuytXIA49tdKh7g=="
 ---
 
