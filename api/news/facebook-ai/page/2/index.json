@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-04-facebook-reportedly-wants-to-securely-mine-your-encrypted-data-to-target-ads.md",
+      "title": "Facebook reportedly wants to securely mine your encrypted data to target ads",
+      "excerpt": "There’s no secret that Facebook loves ads. It has stuffed the blue app and different features of Instagram with them. And the company has contemplated many times inserting ads i",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor",
+      "originalUrl": "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FZuck-money.jpg&signature=781fd7a9456599290afb06f5fff80ff9",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-facebook-to-use-ai-to-analyze-encrypted-content-report.md",
       "title": "Facebook to use AI to analyze encrypted content - report",
       "excerpt": "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The",
@@ -1339,59 +1391,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-zoom-acquires-an-ai-company-building-real-time-translation.md",
-      "title": "Zoom acquires an AI company building real-time translation",
-      "excerpt": "Zoom has announced that it’s acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions), which has worked on creating real-time translation and transcription software. Zoom says the acquisition is a move to help it make communicating with people who speak different languages easier,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "originalUrl": "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/6fNTuqlQ4-TRmQ9LVzVOFOw8exs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69521667/acastro_200331_1777_zoom_0003.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "publishedDateTime": "2021-06-29T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

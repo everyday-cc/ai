@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-21-ai-powered-supply-chain-visibility-platform-altana-nabs-15m.md",
+      "title": "AI-powered supply chain visibility platform Altana nabs $15M",
+      "excerpt": "Altana AI, a startup creating a platform to unify global supply chain data, has raised $15 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/20/ai-powered-supply-chain-visibility-platform-altana-nabs-15m/",
+      "originalUrl": "https://venturebeat.com/2021/09/20/ai-powered-supply-chain-visibility-platform-altana-nabs-15m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/global-supply-chain-e1624550229234.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/20/ai-powered-supply-chain-visibility-platform-altana-nabs-15m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/ai-powered-supply-chain-visibility-platform-altana-nabs-15m/amp/",
+      "publishedDateTime": "2021-09-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-could-artificial-intelligence-transform-healthcare-cybersecurity.md",
+      "title": "Could Artificial Intelligence Transform Healthcare Cybersecurity?",
+      "excerpt": "Utilizing artificial intelligence tools in healthcare cybersecurity could help to streamline threat detection efforts, ensure compliance, and mitigate human error.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/news/could-artificial-intelligence-transform-healthcare-cybersecurity",
+      "originalUrl": "https://healthitsecurity.com/news/could-artificial-intelligence-transform-healthcare-cybersecurity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitsecurity.com/images/sized/GettyImages-1199544765-39a26234983c4eca9381530cb872a66d.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity",
+      "publishedDateTime": "2021-09-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-improved-algorithms-may-be-more-important-for-ai-performance-than-faster-hardware.md",
+      "title": "Improved algorithms may be more important for AI performance than faster hardware",
+      "excerpt": "A new MIT study finds that algorithmic improvements are more beneficial than powerful hardware in AI, at least at a certain point.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/20/improved-algorithms-may-be-more-important-for-ai-performance-than-faster-hardware/",
+      "originalUrl": "https://venturebeat.com/2021/09/20/improved-algorithms-may-be-more-important-for-ai-performance-than-faster-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data-e1628088752737.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/20/improved-algorithms-may-be-more-important-for-ai-performance-than-faster-hardware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/improved-algorithms-may-be-more-important-for-ai-performance-than-faster-hardware/amp/",
+      "publishedDateTime": "2021-09-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-zoomtopia-ai-and-video-to-power-healthcare.md",
       "title": "Zoomtopia: AI and Video to Power Healthcare",
       "excerpt": "At the recent Zoomtopia, the company spotlighted how healthcare providers are actively transitioning to telehealth, representing a significant disruption of the industry.",
@@ -568,7 +713,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -756,6 +901,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-facepalm-as-researchers-crack-advanced-facial-recognition-tech-with-simple-makeup.md",
+      "title": "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup",
+      "excerpt": "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "originalUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56270/content/facial-recognition-tricked-with-makeup.jpg",
+          "width": 708,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "publishedDateTime": "2021-09-18T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1051,206 +1239,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-will-ai-ever-be-able-to-offer-an-roi-for-enterprises.md",
-      "title": "Will AI Ever Be Able To Offer An ROI For Enterprises?",
-      "excerpt": "A CEO friend asked me, “Will AI ever be able to offer an ROI for enterprises?” I thought the answer through and wrote it down. Then, I realized that this information could be beneficial and valuable to many people,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61434b8ab75fa0a8f8e4b176%2F0x0.jpg",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/amp/",
-      "publishedDateTime": "2021-09-17T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development.md",
-      "title": "ITRI, AITA, and UCLA CHIPS Forge Cooperation on AI Chip Development",
-      "excerpt": "DoIT Science and Technology Advisor Xian-Yi Lin stated that the DoIT supports ITRI, ATIA, and UCLA CHIPS in inking a collaborative agreement, which will help the parties quickly grasp international system specification trends in the areas of design,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development-1030806889",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development-1030806889",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1628526/Photo_20210917.jpg",
-          "width": 400,
-          "height": 289,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone.md",
-      "title": "2022 Genesis GV60 EV to arrive with facial recognition like a smartphone",
-      "excerpt": "It seems the incoming 2022 Genesis GV60 EV will arrive with more than just love-it or hate-it styling, funky paint colors, and a mysterious floating oddity on the center console. In a recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
-      "originalUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/genesis_gv_60_ev_017.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
-      "publishedDateTime": "2021-09-17T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-face-recognition-device-market-future-scope-including-key-players-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc.md",
-      "title": "Face Recognition Device Market Future Scope including key players Airware, Inc., 3D Robotics, Dreamhammer Inc., Drone Volt, Dronedeploy Inc.",
-      "excerpt": "Get the inside scoop of the Sample Face Recognition Device report @: jcmarketresearch.com/report-details/1443230/sample Research Methodology while conducting the study of “Global Face Recognition Device Market Data Survey Report 2029” Secondary research Our Face Recognition Device industry analyst refer a broad array of industry sources for our secondary,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
-      "originalUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
-      "publishedDateTime": "2021-09-17T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

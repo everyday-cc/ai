@@ -2,6 +2,350 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-09-09-jetbrains-previews-data-science-ide.md",
+      "title": "JetBrains previews data science IDE",
+      "excerpt": "JetBrains, maker of the IntelliJ Idea IDE and the Kotlin language, has launched a dedicated data science IDE, DataSpell, under an early access program. Accessible from jetbrains.com, the IDE was announced September 7 and provides a development environment for data science professionals involved in exploratory data analysis and prototyping of machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html",
+      "originalUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.amp.html",
+      "publishedDateTime": "2021-09-08T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures.md",
+      "title": "AI-driven voice assistant PolyAI raises $14M round led by Khosla Ventures",
+      "excerpt": "Conversational AI” startup PolyAI, based out of London, has raised $14 million in a funding round led by Silicon Valley’s Khosla Ventures, with participation from existing investors (Point72 Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/",
+      "originalUrl": "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tZTO_-nWRHM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/amp/",
+      "publishedDateTime": "2021-09-08T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-motorola-launches-in-car-ai-video-system-for-police-forces.md",
+      "title": "Motorola launches in-car AI video system for police forces",
+      "excerpt": "Motorola has made the M500 camera available for pre-order. It automatically captures footage from the backseat of police cars to ensure any incidents are caught on tape for a later review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/",
+      "originalUrl": "https://www.neowin.net/news/motorola-launches-in-car-ai-video-system-for-police-forces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631150137_m500_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-what-databrickss-16b-funding-round-means-for-the-enterprise-ai-market.md",
+      "title": "What Databricks’s $1.6B funding round means for the enterprise AI market",
+      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! The latest winner of the growing interest in enterprise AI is Databricks, a startup that has just secured $1.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
+      "originalUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Databricks1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
+      "publishedDateTime": "2021-09-08T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-wells-fargo-applies-machine-learning-robotics-to-accounts-receivable.md",
+      "title": "Wells Fargo applies machine learning, robotics to accounts receivable",
+      "excerpt": "A new service offered by the company helps clients automatically capture payment and invoice information as well as make sure the information matches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/news/wells-fargo-applies-machine-learning-robotics-to-accounts-receivable",
+      "originalUrl": "https://www.americanbanker.com/news/wells-fargo-applies-machine-learning-robotics-to-accounts-receivable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/8063fce/2147483647/strip/true/crop/4000x2100+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F31%2F88%2F4dfb34fd4f2f9a705fe40f371d99%2F377873475.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-money-mimicry-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
+      "title": "Money, mimicry and mind control: Big Tech slams ethics brakes on AI",
+      "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence to help a financial firm decide whom to lend money to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/money-mimicry-mind-control-big-tech-slams-ethics-brakes-ai-2021-09-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/k_caAWCBdqPt7EkWNdMxipb7h28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KVGRQ46YK5OVFCSIO4AEZGDJMU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-walmart-meredith-look-to-make-food-media-content-shoppable.md",
+      "title": "Walmart, Meredith look to make food media content ‘shoppable’",
+      "excerpt": "Under the partnership, announced Wednesday, consumers will be able to shop for Walmart food and grocery products across Meredith’s portfolio of media brands, including Allrecipes, Better Homes & Gardens,",
+      "sourceUrl": null,
+      "webUrl": "https://www.supermarketnews.com/technology/walmart-meredith-look-make-food-media-content-shoppable",
+      "originalUrl": "https://www.supermarketnews.com/technology/walmart-meredith-look-make-food-media-content-shoppable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/Walmart_Meredith-online_meal_planning.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supermarket News",
+        "domain": "supermarketnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-database-startup-singlestore-raises-80m.md",
       "title": "Database startup SingleStore raises $80M",
       "excerpt": "Database startup SingleStore today announced that it raised $80 million in a series F funding tranche led by Insight Partners, bringing its total raised to over $319 million at a post-money valuation “just shy” of $1 billion.",
@@ -855,316 +1199,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-ai-is-redefining-how-we-use-documents-in-a-digital-world.md",
-      "title": "AI Is Redefining How We Use Documents In A Digital World",
-      "excerpt": "AI-powered intelligent document processing is helping to convert unstructured data in digital documents into structured data that can be fed into downstream applications to automate business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376154fe77d3ed291e6760%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/",
-      "publishedDateTime": "2021-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-in-the-us-the-ai-industry-risks-becoming-winner-take-most.md",
-      "title": "In the US, the AI Industry Risks Becoming Winner-Take-Most",
-      "excerpt": "A new study warns that the American AI industry is highly concentrated in the San Francisco Bay Area and that this could prove to be a weakness in the long run. The Bay leads all other regions of the country in AI research and investment activity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/the-geography-of-ai/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/in-the-us-the-ai-industry-risks-becoming-winner-take-most/ar-AAOdK3S",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2021/08/shutterstock_1201834804.jpeg",
-          "width": 5555,
-          "height": 3125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/the-geography-of-ai/?amp",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-geography-of-ai/?amp",
-      "publishedDateTime": "2021-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brookings.edu/research/the-geography-of-ai/",
-        "domain": "brookings.edu/research/the-geography-of-ai/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold.md",
-      "title": "BHP inks exploration deal with Gates and Bezos-backed KoBold",
-      "excerpt": "The world’s largest miner will use artificial intelligence tools developed by KoBold Metals, a start-up backed by a coalition of billionaires.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/",
-      "originalUrl": "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mining.com/wp-content/uploads/2021/09/ai-in-mining.jpeg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mining",
-        "domain": "mining.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-secureauth-identity-security-solutions-now-available-in-aws-marketplace.md",
-      "title": "SecureAuth Identity Security Solutions Now Available in AWS Marketplace",
-      "excerpt": "SecureAuth, an identity security leader, today announced the availability of the SecureAuth Identity Platform and the SecureAuth Identity Store in AWS Marketplace. AWS Marketplace is a digital catalog with thousands of software listings",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19986009.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19986009.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-city-of-pittsburgh-pa-goes-live-on-css-impacts-financial-ecosystems-cloud-as-its-business-tax-management-platform.md",
-      "title": "City of Pittsburgh, PA Goes Live on CSS IMPACT’s Financial Ecosystems Cloud as its Business Tax Management Platform",
-      "excerpt": "On September 1st, 2021, the City of Pittsburgh Pennsylvania, Department of Finance, officially launched CSS IMPACT Financial Cloud as their new Enterprise Business Tax Management Financial Ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-pittsburgh-pennsylvania-artificial-intelligence-bed0f3783d589b64d26d0ddde62345b9",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-pittsburgh-pennsylvania-artificial-intelligence-bed0f3783d589b64d26d0ddde62345b9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-could-boston-dynamics-robots-beat-me-in-a-fight.md",
-      "title": "Could Boston Dynamics Robots Beat Me in a Fight?",
-      "excerpt": "In a vast warehouse-style room, two humanoid robots are taking on an obstacle course. Their barrel-shaped torsos, stuffed with processors and batteries, make it look as if they’ve been going to the gym a lot but have neglected leg day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.html",
-      "originalUrl": "https://www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/09/12/magazine/12mag-screenland/12mag-screenland-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.amp.html",
-      "publishedDateTime": "2021-09-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-what-you-need-to-know-about-facial-recognition-home-security-cameras.md",
-      "title": "What you need to know about facial recognition home security cameras",
-      "excerpt": "As facial recognition technology becomes more prevalent in home security cameras, it's important to understand what it is and how it's used. Here, we break it all down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "publishedDateTime": "2021-09-07T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "UN chief Guterres grades world on Covid-19 vaccine rollout: 'F in ethics'"
+    excerpt: "He reprimanded the world for the inequitable distribution of Covid-19 vaccines.. Read more at straitstimes.com."
+    publishedDateTime: 2021-09-21T15:07:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/un-chief-guterres-grades-world-on-covid-19-vaccine-rollout-f-in-ethics"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 38
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/21/yq-africavaccine-21092021.jpg?itok=Jx30MQn-"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "UiXp1ALD22tpA7svFLbwGxsfpXUH7KS7FcpC+Mvq5T2HjvIEa1R6thzQ0hnWsxp5wtIgSqHgE+SkiNibFYRVP+eE51DMC4JqnrqVIYqUe+Blzyw6x5DprLxzg5Te9756MQZEPufuwYX6BvP1PGiXevCvHTnx18U1/H735p9FX7mbu5qiEkShsO7DYW/NbDyAVs6kj7mBnk2/w5WMrOFVqgGC9KSc/EkPWVElYUyeGLVHJmMMO6i7S1JCGYGcNrN4QRE7lC8d+Zku+1aYk+iLGhPORf8y6iN9A8vy6lpOSql+4s5eeSsVQSgyCHq101EwPRTWMooRAN/Q4NstEcewp70+M+Fr4w0r8KLrWnKPFEo=;6KvxuaxolgNp+8oOEtI8dQ=="
 ---

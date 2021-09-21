@@ -2,6 +2,298 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-14-discovery-sports-events-goes-all-in-on-aws-to-engage-and-grow-global-fan-base-for-track-cycling.md",
+      "title": "DISCOVERY SPORTS EVENTS GOES ALL-IN ON AWS TO ENGAGE AND GROW GLOBAL FAN BASE FOR TRACK CYCLING",
+      "excerpt": "Discovery Sports Events and AWS to build an immersive fan-engagement offering for the new Union Cycliste Internationale (UCI) Track Champions League series that kicks off in November 2021 AWS becomes UCI Track Champions League exclusive Cloud Infrastructure Partner as part of new Discovery Sports Events collaboration SEATTLE – September 15,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressreleasepoint.com/discovery-sports-events-goes-all-aws-engage-and-grow-global-fan-base-track-cycling",
+      "originalUrl": "https://www.pressreleasepoint.com/discovery-sports-events-goes-all-aws-engage-and-grow-global-fan-base-track-cycling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLAS Press Release",
+        "domain": "pressreleasepoint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization.md",
+      "title": "Facebook – Researchers: Platforms like Facebook have played ‘major role’ in fueling polarization",
+      "excerpt": "Social media platforms like Facebook “have played a major role in exacerbating political polarization that can lead to such extremist violence,” according to a from researchers at New York University’s Stern Center for Business and Human Rights.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-the-mental-health-services-available-to-new-students-in-nottingham.md",
+      "title": "The Mental Health Services Available to New Students in Nottingham",
+      "excerpt": "Your time at university is exciting and rewarding, but it doesn’t come without its challenges. Life as a student can be tough at the best of times, not least without the complications of a global pandemic thrown into the mix.",
+      "sourceUrl": null,
+      "webUrl": "https://www.leftlion.co.uk/read/2021/september/mental-health-support-universities/",
+      "originalUrl": "https://www.leftlion.co.uk/read/2021/september/mental-health-support-universities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.leftlion.co.uk/media/4926260/mental-health-2019924_1920.jpg?anchor=center&mode=crop&width=1200&height=628&rnd=132755022350000000",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Left Lion",
+        "domain": "leftlion.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-qualcomm-technologies-ai-software-broad-and-deep-ai.md",
+      "title": "Qualcomm Technologies AI Software: Broad And Deep AI.",
+      "excerpt": "QTI software supports multiple hardware accelerators in both Snapdragon and the Cloud while making it easy for developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613942cb0d1ab212923a4ecc%2F0x0.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/amp/",
+      "publishedDateTime": "2021-09-13T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-chinas-baidu-inc-opens-its-apollo-go-robotaxi-service-in-shanghai.md",
+      "title": "China's Baidu Inc. Opens its ‘Apollo Go' Robotaxi Service in Shanghai",
+      "excerpt": "Chinese tech giant Baidu Inc. has opened its Apollo Go robotaxi service in Shanghai, its third major city in China following the launch in Beijing and Guangzhou. With the launch of Apollo Go in Shanghai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/4866/China’s-Baidu-Inc-Opens-its-‘Apollo-Go’-Robotaxi-Service-in-Shanghai",
+      "originalUrl": "https://www.futurecar.com/4866/China’s-Baidu-Inc-Opens-its-‘Apollo-Go’-Robotaxi-Service-in-Shanghai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202109/13/l_613fbff9b6497.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-is-working-on-a-new-transcription-feature-for-voice-notes-but-the-messages-will-be-sent-to-apple-to-be-processed-and-to-help-improve.md",
+      "title": "WhatsApp is working on a new transcription feature for voice notes - but the messages will be sent to Apple to be processed and to help 'improve its speech recognition technology'",
+      "excerpt": "WhatsApp's voice message transcription feature is reportedly still be developed for iOS. The messages will go to Apple but they'll stay encrypted since they won't be directly linked to the user's identity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/09/13/14/47856553-0-image-a-6_1631541465069.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
+      "publishedDateTime": "2021-09-13T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-c3ai-inc-ai-ceo-tom-siebel-presents-at-piper-sandler-2021-virtual-global-technology-conference-transcript.md",
+      "title": "C3.ai, Inc. (AI) CEO Tom Siebel Presents at Piper Sandler 2021 Virtual Global Technology Conference (Transcript)",
+      "excerpt": "Piper Sandler 2021 Virtual Global Technology Conference Call September 13, 2021 12:00 ET Company Participants Tom Siebel - Chairman and Chief Executive",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
+      "originalUrl": "https://seekingalpha.com/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
+      "publishedDateTime": "2021-09-13T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition.md",
       "title": "Biden’s FTC pick is a privacy champion who wants limits on facial recognition",
       "excerpt": "President Joe Biden will reportedly nominate Georgetown law professor and privacy researcher Alvaro Bedoya to the Federal Trade Commission. Bedoya is the founding director of Georgetown Law's Center on Privacy & Technology,",
@@ -783,318 +1075,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs.md",
-      "title": "Nuix to pay $34m for US-based natural language processing vendor Topos Labs",
-      "excerpt": "Australian data management vendor Nuix is set to acquire US-based natural language processing (NLP) software vendor Topos Labs for up to US$25 million (approx. AU$34 million). The terms of the acquisition will see an initial cost of US$5 million with up to US$18.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs-569736",
-      "originalUrl": "https://www.crn.com.au/news/nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs-569736",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/iStock-1073831676.jpg",
-          "width": 1433,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-12T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai.md",
-      "title": "Chinese tech giant Baidu begins publicly testing Apollo Go robotaxis in Shanghai",
-      "excerpt": "The 10,000 square meter space will house the 200 AVs Baidu hopes to bring to the city, which would make it the site of the largest self-driving fleet in East China. Baidu’s long game is to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
-      "originalUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024",
-          "width": 1024,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
-      "publishedDateTime": "2021-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-nuix-asxnxl-acquires-natural-language-processing-company-topos.md",
-      "title": "Nuix (ASX:NXL) acquires natural language processing company, Topos",
-      "excerpt": "Global software company, Nuix (ASX:NXL) is set to take over natural language processing developer, Topos Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
-      "originalUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://themarketherald.com.au/wp-content/uploads/2021/09/Screen-Shot-2021-09-13-at-9.55.06-am.png",
-          "width": 516,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
-      "cdnAmpWebUrl": "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
-      "publishedDateTime": "2021-09-12T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Market Herald",
-        "domain": "themarketherald.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom.md",
-      "title": "Zillow – Zillow – Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise | Fintech Zoom",
-      "excerpt": "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-12T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
-      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
-      "excerpt": "Add to Calendar 09/13/2021 3:00 pm 09/13/2021 4:00 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpsc.gov/ko/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=vi",
-      "originalUrl": "https://www.cpsc.gov/ko/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=vi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-12T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consumer Protection Safety Commission",
-        "domain": "cpsc.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats.md",
-      "title": "Computer vision and deep learning provide new ways to detect cyber threats",
-      "excerpt": "The combination of binary visualization and machine learning is a powerful technique that can provide new solutions to old problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
-      "originalUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/deep-learning-cyber-threat-detection1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
-      "publishedDateTime": "2021-09-11T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-small-mighty-robots-mimic-the-powerful-punch-of-mantis-shrimp.md",
-      "title": "Small, Mighty Robots Mimic the Powerful Punch of Mantis Shrimp",
-      "excerpt": "Modeling the mechanics of the strongest punch in the animal kingdom, researchers with U.S. Army funding built a robot that mimics the movement of the mantis shrimp. These pugnacious crustaceans could pave the way for small,",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "originalUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/09/mantis-shrimp-robot-neurosinces.jpg",
-          "width": 769,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
-      "publishedDateTime": "2021-09-11T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

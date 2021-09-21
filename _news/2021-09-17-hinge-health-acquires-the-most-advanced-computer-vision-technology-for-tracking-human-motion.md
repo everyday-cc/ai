@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion"
-excerpt: "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry."
-publishedDateTime: 2021-09-17T11:02:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html"
+excerpt: "Hinge Health, the world's #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch's three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry."
+publishedDateTime: 2021-09-17T11:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/8/a7/8a781877-c4e2-5795-bc6a-f62b66a436ce/6144795823a4b.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
 
 related:
   - title: "Hinge Health Acquires wrnch Computer Vision Technology"
@@ -40,6 +34,6 @@ related:
         height: 533
         isCached: true
 
-secured: "dKx8dCMNZA4da/+nA6jjbjjQpKAcZj9hfbk6yV0funLs54mIQ7+5vr6ZyUQtVA8PsynvhsjhhDuosn9/L+uun9XldMkMG2dL3l+xZT4LA0M3FdO9u85h/hXeWbZOI6c6e8jYgGJRh6B9xabn9bB/lUuuQLAhPKfrlYv86tBgDoX5e2h8+YKfxwcjmALu+zrhGSa/ySa2t+oH8yqi90yYBolaR6u57MO7aCnbJRKsCSMnHyUdvrmH9ClwFm798eP8IhIuOd4lZKxrR8eHBMIwYbdXtadYFEyImfTRtfNns9NCSRqnAKwlut7jlTzG7yXpUtXAPE2bI+A9T9YZDvhptyyS2dH2uO1H2tNXF8Zo9G0=;hzkPojMYFtCwsvHFQIJrkg=="
+secured: "RAsVGvStvRPBl9j7A/aJO8Z6OfT+ldFAFR75J1XmjH0cccaH6PSLxuXkbXHNj0uctDM3CzCUsQdG/N5oIki0JYT8/3Cs83KwuzJ55aOZY6m8QRLJa7N8v6VjQ3AneBfWL1jlTtxHsiNAgFeiJjiJwHL8OxkE/FBQkv1Tp0w8rKksPFdj5YET5l4vteT9ydrl28mp/LfIIQfa8lTHzZ6XUniXehqBAXBH2yBVmoQO4rmA2NVNjNo/njH/xXwuWGiZquR/dOdcUBAPzQ09zmQMij+rLItaZgiSWmoFGjb/hEKIh9g9nP+yCPqLmfq7/CMe0S9+GCsUFxuz8WIAYPhWLuYQAvJdRtQD0KPixlTC0bahDBGzDzEkI2PVfCO/QRhHSZ+PMTmspME1n8ZhE7WQAeATUDeSbX04Du8vK1UZC81NTwHwaW2z4+HlnW2sB28GLnZPfYDdE1P6LlNfRpG2bydICCn3msaq/nvrJuHtyTqML3SNdEbBdQ4pJoyttMgbRnrQICeCIMjkSpFd7vvPgA==;q7yf1I0aYZVwc2VGSbqiNw=="
 ---
 

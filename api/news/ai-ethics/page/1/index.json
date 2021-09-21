@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-21-f-in-ethics-un-chief-grades-world-on-vaccine-rollout.md",
+      "title": "\"F In Ethics\": UN Chief Grades World On Vaccine Rollout",
+      "excerpt": "United Nations Secretary-General Antonio Guterres termed the inequitable distribution of COVID-19 vaccines as an \"obscenity\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
+      "originalUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-08/b5204l5o_antonio-guterresunchiefafp_625x300_16_August_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-09-21T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-googles-former-ai-ethics-chief-has-a-plan-to-rethink-big-tech.md",
       "title": "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech",
       "excerpt": "Timnit Gebru says regulators need to provide whistleblowers working on artificial intelligence with fresh protections backed up by tough enforcement.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -95,6 +138,49 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-ai-in-cardiology-a-marriage-made-in-heaven-or-hell.md",
+      "title": "AI in cardiology: a marriage made in heaven – or hell?",
+      "excerpt": "The role of Artificial Intelligence (AI) – one of the most divisive issues in cardiology – was debated during a session of the European Society of Cardiology annual congress. Two leading experts argued the pros and cons of its use,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/25869/rect-01-heven-hell-heart-wide.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1299,111 +1385,6 @@
         "name": "Exchange 4 Media",
         "domain": "exchange4media.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars.md",
-      "title": "Angst And Worries That Forbidden Knowledge Could Be Revealed By Developing AI Self-Driving Cars",
-      "excerpt": "Asking whether forbidden knowledge might be hidden within efforts to create AI systems, and particularly in the case of developing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea6e9c265b9c305b6d333%2F0x0.jpg%3FcropX1%3D471%26cropX2%3D3180%26cropY1%3D8%26cropY2%3D1531",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-21T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma.md",
-      "title": "How AI can tackle complex social problems, from loneliness to stigma",
-      "excerpt": "Arezou Soltani Panah is teaming up with social scientists and policy makers to solve complex problems like loneliness and family violence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/",
-      "originalUrl": "https://venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/amp/",
-      "publishedDateTime": "2021-08-20T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -41,6 +41,22 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "Press Release: GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
+    excerpt: "GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
+    publishedDateTime: 2021-09-21T17:32:00Z
+    webUrl: "https://www.sharecast.com/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 33
+    images:
+      - url: "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg"
+        width: 620
+        height: 350
+        isCached: true
 
 secured: "AZwLHOOAu6NjTa97nGUHHtW6xSo0QTtPrNuoIbPU8eH1J4jowgNOd1BrLQ2Gl7NOAZdmj15BWf18IAKx5lJ1P7XghFl9ThtmRreDa6N5TaxXoyAwLOQgLreNcn0is/Tv2zKtLUKbBVwENv6YqudiT0vC9y9UrCCoHi34uP/uepSh41S7nQ4Ri3aUUegVZMjTHUNJoXv8SC3juO1bbLgUmECc/pKhi4+5Juz20jK7ryL9U/Mofe7LQLK6chkChJXIH5AQ4KKG2poOmJFE/XY5V2eBxB69RlDJ5ByqMYcWIoudGky7NKuNhzw2IbJ6N3wvttxsIDGtTsUdbuDY0ePt60Bkzrx2kCB5BFtgKVhYxdI=;CulYWduDpahfxNKZ5cZ2gA=="
 ---

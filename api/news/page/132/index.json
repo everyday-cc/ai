@@ -2,6 +2,324 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2021-06-15-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad track asset owners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity.md",
+      "title": "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity",
+      "excerpt": "PricewaterhouseCoopers plans to spend $12 billion and hire 100,000 new people in areas such as artificial intelligence and cybersecurity by 2026, the latest move by a Big Four accounting firm to bet big on technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
+      "originalUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-353929/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
+      "publishedDateTime": "2021-06-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic-fusions-and-driver-mutations.md",
+      "title": "Caris Life Sciences and Elevation Oncology Announce Joint Discovery and Development Collaboration Focused on Oncogenic Fusions and Driver Mutations",
+      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
+      "originalUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/fa/7faabe80-266e-5cb4-9b9c-f24b7b146ba5/60c8855377d65.image.jpg?resize=703%2C630",
+          "width": 703,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Troy Record",
+        "domain": "troyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-artificial-intelligence-in-supply-chain-market-forecast-2026.md",
+      "title": "Artificial Intelligence in Supply Chain Market Forecast 2026",
+      "excerpt": "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "originalUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U615488872_g.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "publishedDateTime": "2021-06-15T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-united-fintech-names-advisory-board.md",
+      "title": "United Fintech names advisory board",
+      "excerpt": "United Fintech has announced its Advisory Board, with the appointment of six world-class experts who will play a key role in the global expansion of the fast-growth firm launched by Christian Frahm to help banks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/88078/united-fintech-names-advisory-board",
+      "originalUrl": "https://www.finextra.com/pressarticle/88078/united-fintech-names-advisory-board",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation.md",
+      "title": "Global Artificial Intelligence Service Market 2021 Forecast to 2027: Finest Companies in Market, Trends and Growth Factors and Market Segmentation",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation-2021-06-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation-2021-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent.md",
+      "title": "Speakeasy AI Receives USPTO Technology Patent for \"Speech To Intent\"",
+      "excerpt": "Speakeasy AI, award-winning provider of conversational AI solutions across omnichannel self-service and live agent care , announced today the grant of patent",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-apples-ai-focus-privacy-by-design-iphone-by-default.md",
       "title": "Apple's AI focus: Privacy by design, iPhone by default",
       "excerpt": "At WWDC, Apple's smartphone received the lion's share of AI-driven features while the iPad and Mac improvements focused more on user interface refinement and tighter ecosystem integration.",
@@ -836,335 +1154,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-datarobot-exec-talks-humble-ai-regulation.md",
-      "title": "DataRobot exec talks ‘humble’ AI, regulation",
-      "excerpt": "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
-      "originalUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
-      "publishedDateTime": "2021-06-14T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102.md",
-      "title": "TransPerfect Life Sciences Unveils AI-Powered TMF Automation with Trial Interactive 10.2",
-      "excerpt": "TransPerfect Life Sciences, a leading provider of services and technologies to support global clinical trials and product development for the biopharmaceutical industry, today announced its release of version 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210614ny10332/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210614ny10332/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/635525/TransPerfect_Life_Sciences_Logo.jpg",
-          "width": 400,
-          "height": 307,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-using-artificial-intelligence-to-personalize-therapy-and-individual-level-of-outcome-prediction.md",
-      "title": "Using Artificial Intelligence to Personalize Therapy and Individual Level of Outcome Prediction",
-      "excerpt": "The MSKCC model was reported on risk stratification of 670 patients treated there with interferon therapy. The IMDC model is based on data from a real-world patient population from multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/asco/immunotherapy/93023",
-      "originalUrl": "https://www.medpagetoday.com/asco/immunotherapy/93023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://clf1.medpagetoday.net/assets/images/defaultLede.png",
-          "width": 305,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
-      "title": "Google team uses AI to create next-gen chips faster than humans",
-      "excerpt": "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
-      "originalUrl": "https://www.indiatvnews.com/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/google-app-1623677856.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
-      "publishedDateTime": "2021-06-14T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies.md",
-      "title": "Enterprise AI platform Dataiku launches managed service for smaller companies",
-      "excerpt": "Dataiku is going downstream with a new product today called Dataiku Online. As the name suggests, Dataiku Online is a fully managed version of Dataiku. It lets you take advantage of the data science platform without going through a complicated setup process that involves a system administrator and",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/",
-      "originalUrl": "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/jason-coudriet-eQux_nmDew0-unsplash.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/amp/",
-      "publishedDateTime": "2021-06-14T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare.md",
-      "title": "Explainer: Ethical Issues Proliferate Amid the Use of Artificial Intelligence in COVID-19 Healthcare",
-      "excerpt": "During the pandemic, the scientific community took a remarkable step forward by sharing large sets of public data on COVID-19 with researchers and healthcare professionals engaged in treatments and",
-      "sourceUrl": null,
-      "webUrl": "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/",
-      "originalUrl": "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://justatic.com/v/20210216aa/external/jurist/images/assets/myanmar-coup-coverage.png",
-          "width": 940,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jurist",
-        "domain": "jurist.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-rules-around-facial-recognition-and-policing-remain-blurry.md",
-      "title": "Rules around facial recognition and policing remain blurry",
-      "excerpt": "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462",
-          "width": 3065,
-          "height": 2043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
-      "publishedDateTime": "2021-06-14T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -24,19 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Machine Learning, AI & Big Data Analytics in the Travel & Hospitality Industry: Applications, Scopes, and Impact on the Job Market"
-    excerpt: "There is a huge amount of data that has to be handled to provide customer satisfaction, good customer experience and a lot more where the future of t.."
-    publishedDateTime: 2021-09-21T06:07:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/machine-learning-ai-big-data-analytics-in-the-travel-hospitality-industry-applications-scopes-and-impact-on-the-job-market/86389867"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/machine-learning-ai-big-data-analytics-in-the-travel-hospitality-industry-applications-scopes-and-impact-on-the-job-market/86389867"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/machine-learning-ai-big-data-analytics-in-the-travel-hospitality-industry-applications-scopes-and-impact-on-the-job-market/86389867"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 24
-
 secured: "HBcR5oSBcisJKJvLCskU9dHHk7FlK7pNJ4y6Z3IPXMzJl050IlXu7kRjlghWRR8T5OMOHfE3qvy8jrg1ualP/EiPEREGCTSlZxqPT/4zRLp08R87X6mAF0/py3EwzFWzFL3AMyDEY/7YrpsHbMOlT4d2jQk0zjc+tG57MHsqgspSjXlW8u13EIIoT0XSHLsWwTWqIpPmQpLb1PvH7xrMy/arX9WCehfVYVL8K2qp2HLsMhfiikbLii8swWKKfjjvXRcJQBlqozyKDYWrHQcWmYkxbeSBb7/+gy+jtji5kBgGjMcUppqvjm91uezFCFvw9P64YJbW6zdO/iFEMeQPi+g3BU1lTZUZCWEkTMmC6aCKXo7rc8EWtbKZ1shkHkfNJQrQkkgr6+OCDPVwP61og5JtqFn4XAqGlRekRbWVqLJS+x3NKMQV/yapnknLhmo8ADXqYZb6/8yV1mKUTMwb0MQOuT3fGmZBjIeTYpygSALba9Q6t3z5wQM/suliLVPa9lW/22mSURihYlZcQGR4Ng==;uiddBZnYWUQ1PUOmuQjjSg=="
 ---
 

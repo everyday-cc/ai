@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterre
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827?amp=1&akamai-rum=off"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: NDTV
@@ -40,6 +40,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--XWB-CPHE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-21t142621z_1_lynxmpeh8k0mk_rtroptp_3_un-assembly.jpg?itok=UR_f7JYi"
         width: 1200
         height: 676
+        isCached: true
+  - title: "UN chief Guterres grades world on Covid-19 vaccine rollout: 'F in ethics'"
+    excerpt: "He reprimanded the world for the inequitable distribution of Covid-19 vaccines.. Read more at straitstimes.com."
+    publishedDateTime: 2021-09-21T15:07:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/un-chief-guterres-grades-world-on-covid-19-vaccine-rollout-f-in-ethics"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 38
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/21/yq-africavaccine-21092021.jpg?itok=Jx30MQn-"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "kFozbKgpikzVlkyduKjPx1/GjoMnjIw9DwPLqGDMUa2sAB4T/Mf3jRbgVBJwDKWaIA/l2EVsFW2e3DDSOESclF0JrLVrVD2hK474gVMI2iJsdsjBahIVrrTN6mUjmL0InmISi5RzKCQ4OrrnFximwU5e/D88rkiqMfymxaxA2+cRZ19+mPvyrs3WWZgbbAqEerYcCcjPPWm2iaYjvG+ZAGNaLyS6Rqb9lNGrlwmTSJxqZZPq6puFDVzr1YCJAuCiEPu5tl874MeOG2pPYPDkliGL2SD8cFMjCcnzqoD8PXdf6cBabDQ5Wd8rRFS83uw86kBidap4Lams1YNTRiuUjOLzTQr3YrPoeTQbJ58gH1w=;tMxq/MCZLHC95rTJEgRWkw=="

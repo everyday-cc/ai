@@ -2,6 +2,310 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-08-27-the-free-speech-case-for-facial-recognition-opinion.md",
+      "title": "The Free-Speech Case for Facial Recognition | Opinion",
+      "excerpt": "The right to communicate anonymously is important, but most would agree it shouldn't extend to people who commit violent crimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
+      "originalUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1880796/charlottesville-rally-anniversary.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/free-speech-case-facial-recognition-opinion-1623006?amp=1",
+      "publishedDateTime": "2021-08-27T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-people-are-hiring-out-their-faces-to-become-deepfake-style-marketing-clones.md",
+      "title": "People are hiring out their faces to become deepfake-style marketing clones",
+      "excerpt": "Liri can juggle so many jobs, in multiple countries, because she has hired out her face to Hour One, a startup that uses people’s likenesses to create AI-voiced characters that then appear in marketing and educational videos for organizations around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/",
+      "originalUrl": "https://www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/07/Characters-2-web.png?w=2870",
+          "width": 2870,
+          "height": 1430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/27/1033879/people-hiring-faces-work-deepfake-ai-marketing-clones/amp/",
+      "publishedDateTime": "2021-08-27T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-china-releases-key-transport-technology-layout-through-2035.md",
+      "title": "China releases key transport technology layout through 2035",
+      "excerpt": "China's Ministry of Transport (MOT) and Ministry of Science and Technology have issued an advisory focusing on problem-solving and self-reliance in key transport technology based on innovation through 2035.",
+      "sourceUrl": null,
+      "webUrl": "https://news.cgtn.com/news/2021-08-27/China-releases-key-transport-technology-layout-through-2035-133MDAZ19QY/index.html",
+      "originalUrl": "https://news.cgtn.com/news/2021-08-27/China-releases-key-transport-technology-layout-through-2035-133MDAZ19QY/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.cgtn.com/news/2021-08-27/China-releases-key-transport-technology-layout-through-2035-133MDAZ19QY/img/8ebd893b91c94f61a54f1d3078a0b5c8/8ebd893b91c94f61a54f1d3078a0b5c8-1920.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CGTN",
+        "domain": "cgtn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-sun-life-taps-aws-as-its-long-term-strategic-cloud-provider-to-transform-digital-services.md",
+      "title": "Sun Life Taps AWS as Its Long-Term Strategic Cloud Provider to Transform Digital Services",
+      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Sun Life (TSX: SLF) (NYSE: SLF) has selected AWS as its long-term strategic cloud technology provider to become a cloud-first organization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/27/9438548.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/27/9438548.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-why-did-teslas-share-price-dip-following-its-ai-day-reveal.md",
+      "title": "Why did Tesla’s share price dip following its AI Day reveal?",
+      "excerpt": "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Tesla_bots_2508_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-gb/news-and-analysis/why-did-teslas-share-price-dip-following-its-ai-day-reveal_amp",
+      "publishedDateTime": "2021-08-27T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services.md",
+      "title": "Amazon Web Services In Deal To Transform Sun Life Financial's Digital Services",
+      "excerpt": "Amazon Web Services, Inc. or AWS, an Amazon.com, Inc. company (AMZN), announced Friday a deal with Sun Life Financial Inc. (SLF, SLF.TO) to become its long-term strategic cloud technology provider. Sun Life will use AWS's cloud technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-to-transform-sun-life-financials-digital-services-2021-08-27?amp",
+      "publishedDateTime": "2021-08-27T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-federated-reconstruction-for-matrix-factorization.md",
+      "title": "Federated Reconstruction for Matrix Factorization",
+      "excerpt": "We begin by motivating partially local federated learning for matrix factorization. We describe Federated Reconstruction, a practical algorithm for partially local federated learning at scale. We prepare the MovieLens 1M dataset,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_reconstruction_for_matrix_factorization?hl=ca",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_reconstruction_for_matrix_factorization?hl=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ca",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco.md",
       "title": "Waymo launches rider testing for self-driving cars in San Francisco",
       "excerpt": "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app.",
@@ -799,360 +1103,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-otterai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex.md",
-      "title": "Otter.ai expands automatic transcription assistant to Microsoft Teams, Google Meet and Cisco Webex",
-      "excerpt": "AI-powered voice transcription service Otter.ai is expanding its Otter Assistant feature for Microsoft Teams, Google Meet, and Cisco Webex. Otter.ai first released this feature for Zoom users earlier this year in May.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/",
-      "originalUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Otter-Assistant.png?w=1024",
-          "width": 1024,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/otter-ai-expands-automatic-transcription-assistant-to-microsoft-teams-google-meet-and-cisco-webex/amp/",
-      "publishedDateTime": "2021-08-26T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ask-the-expert-demystifying-ai-and-machine-learning-in-search.md",
-      "title": "Ask the expert: Demystifying AI and Machine Learning in search",
-      "excerpt": "Artificial intelligence encompasses multiple concepts, deep learning is a subset of machine learning, and natural language processing uses a wide range of AI algorithms to better understand language.",
-      "sourceUrl": null,
-      "webUrl": "https://searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554",
-      "originalUrl": "https://searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://searchengineland.com/figz/wp-content/seloads/2021/08/AI-and-NLP.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554/amp",
-      "cdnAmpWebUrl": "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/ask-the-expert-demystifying-ai-and-machine-learning-in-search-351554/amp",
-      "publishedDateTime": "2021-08-26T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Land",
-        "domain": "searchengineland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app.md",
-      "title": "Google confirms it’s pulling the plug on Streams, its UK clinician support app",
-      "excerpt": "Google is infamous for spinning up products and killing them off, often in very short order. It’s an annoying enough habit when it’s stuff like messaging apps and games. But the tech giant’s ambitions stretch into many domains that touch human lives these days.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/",
-      "originalUrl": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/05/p1040482.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/google-confirms-its-pulling-the-plug-on-streams-its-uk-clinician-support-app/amp/",
-      "publishedDateTime": "2021-08-26T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ai-voice-synthetic-speech-company-lovo-gets-45m-pre-series-a-funding.md",
-      "title": "AI voice, synthetic speech company LOVO gets $4.5M pre-series A funding",
-      "excerpt": "Voice skins” have become a very popular feature for AI-based voice assistants, to help personalize some of the more anodyne aspects of helpful, yet also kind of bland and robotic, speaking voices you get on services like Alexa.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/",
-      "originalUrl": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Co-Founders-of-LOVO.jpg?w=1024",
-          "width": 1024,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/ai-voice-synthetic-speech-company-lovo-gets-4-5m-pre-series-a-funding/amp/",
-      "publishedDateTime": "2021-08-26T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-heres-why-your-ai-isnt-providing-real-value.md",
-      "title": "Here’s Why Your AI Isn’t Providing Real Value",
-      "excerpt": "What’s more, a recent Deloitte benchmarking study found that leaders in AI implementation show an average of 4.3% ROI for their projects. What all those facts aren’t showing is that you can’t expect such a level of success just by “plugging AI into your process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6090278bf5c9ff4ba9b3340b%2F0x0.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/26/heres-why-your-ai-isnt-providing-real-value/amp/",
-      "publishedDateTime": "2021-08-26T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley.md",
-      "title": "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley",
-      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
-      "originalUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-the-business-value-of-synthetic-media-tools.md",
-      "title": "The business value of synthetic media tools",
-      "excerpt": "Platforms that can create synthetic media, or likenesses and voices generated by AI, are growing as the business applications become clear.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/26/the-business-value-of-synthetic-media-tools/",
-      "originalUrl": "https://venturebeat.com/2021/08/26/the-business-value-of-synthetic-media-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes-e1619655593693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/26/the-business-value-of-synthetic-media-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/26/the-business-value-of-synthetic-media-tools/amp/",
-      "publishedDateTime": "2021-08-26T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Amazon’s AI Cameras Can Punish Drivers For Not Following Instructions On The Road, New Report Says"
+    excerpt: "Advertisement In early 2021, Amazon installed AI-powered cameras in its delivery vehicles in Los Angeles. Derek, a delivery driver at the facility, said his van’s camera began to falsely penalise him whenever cars cut him off,"
+    publishedDateTime: 2021-09-21T17:03:00Z
+    webUrl: "https://wonderfulengineering.com/amazons-ai-cameras-can-punish-drivers-for-not-following-instructions-on-the-road-new-report-says/"
+    ampWebUrl: "https://wonderfulengineering.com/amazons-ai-cameras-can-punish-drivers-for-not-following-instructions-on-the-road-new-report-says/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/amazons-ai-cameras-can-punish-drivers-for-not-following-instructions-on-the-road-new-report-says/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 43
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/61083ead372268001a5941b5.jpg"
+        width: 1300
+        height: 975
+        isCached: true
 
 secured: "NNUJtNzpewPPcgdJG+fbutL+e1ThoAEmyRX4YPXH8pnR2LZI51u8Sf2tzUHvjEuTPlyo4RzhV55NyjKxky853FC8i25q/SVTiYvasB1muk05uaWoi8GATgQ4jgBOH0q+G/jbHv3uSy8HttFO+UAX3Z3FacXYZ7ZEf60oEMlN/yTYFpxNaevHJ8Z3z2x09xNwjU7ZhqR6zwsDZs0vl6pKDnSTB13o4/QqSVt3r2lYNMSTxJ8fCFRZ8czh7ZE3oJ+eyBhSZS0DZ1cxKNuFcbDv9g8VmA8O4UlKxekh1B21nrBLPws+ZG6rMvd2eP3iV53ztefvEY1IuQ2haoSR4p3iRbmHL0OlbMyCbeIeQ5r39lOK36BPyzGwM/Bjj9gMstWdohRO/3GKKwQgyET5nElwCbJdo0XUnn7j/P3yVczj89PXJkMI6P1NtTVYDZo/aongEF/kK7AMeQq7OTQa757Hy5nfBunKOUfRBOWU4OcqMGTnG1MIQSPz1g+ieZzyCDrmQUFfPYzAnhVNmAGcv37Gdw==;Pd0QqXMJ9bYopebHqow+rA=="
 ---

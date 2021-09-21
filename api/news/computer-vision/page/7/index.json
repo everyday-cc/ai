@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-23-automate-annotation-of-image-training-data-with-amazon-rekognition.md",
+      "title": "Automate annotation of image training data with Amazon Rekognition",
+      "excerpt": "Every machine learning (ML) model demands data to train it. If your model isn’t predicting Titanic survival or iris species, then acquiring a dataset might be one of the most time-consuming parts of your model-building process—second only to data cleaning. What data cleaning looks like varies from dataset",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/ml3998-image001.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T17:05:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-basis.md",
       "title": "Google acquires PittPatt, wants to know you on a face-to-face basis",
       "excerpt": "Founded by a trio of PhD's from Carnegie Mellon University, this three-man strong outfit specializes in the sort of object recognition software you've come to know as \"tagging.\" Is this a reversal ...",
@@ -1317,58 +1370,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-port-of-seattle-bans-facial-recognition-tech-by-law-enforcement-some-private-use-remains-permitted.md",
-      "title": "Port of Seattle bans facial recognition tech by law enforcement; some private use remains permitted",
-      "excerpt": "The Port of Seattle Commission voted Tuesday to ban the use of biometric technology for surveillance and security purposes by government and law enforcement on all its",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
-      "originalUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/true-630x420.jpeg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
-      "publishedDateTime": "2021-07-13T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

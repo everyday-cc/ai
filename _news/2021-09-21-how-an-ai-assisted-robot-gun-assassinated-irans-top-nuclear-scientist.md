@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/how-an-aiassisted-robot-gun-as
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/how-an-aiassisted-robot-gun-assassinated-irans-top-nuclear-scientist/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

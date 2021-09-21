@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-06-laser-driven-ion-acceleration-with-deep-learning-neural-networks.md",
+      "title": "Laser-Driven Ion Acceleration With Deep Learning Neural Networks",
+      "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing, and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/",
+      "originalUrl": "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Maximum-Ion-Energy-Function-Laser-Pulse-Duration-777x466.jpg",
+          "width": 777,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/",
+      "publishedDateTime": "2021-08-05T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-how-the-bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml.md",
       "title": "How The Bengaluru Based Healthcare Startup HealthPlix Is Leveraging AI and ML",
       "excerpt": "Sandeep Gudibanda, Co-founder at HealthPlix, explains the technology behind its assistive artificial intelligence-powered EMR software.",
@@ -1323,59 +1366,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
-      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
-      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/14/62f347fe-6f0b-4839-ab2b-06e018ce2952/thumbnail/770x578/39a01d6b5ca478d2dfbafb1737c4d324/amazonneptuneml.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

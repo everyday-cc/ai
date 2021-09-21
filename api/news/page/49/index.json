@@ -2,6 +2,328 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-08-11-mubadala-backs-software-startup-peopleai-in-new-funding-round.md",
+      "title": "Mubadala Backs Software Startup People.ai in New Funding Round",
+      "excerpt": "Sales software startup People.ai has reached a $1.1 billion valuation with a $100 million funding round backed by new investors Mubadala Investment Co. and Akkadian Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCe10WAM32Rk/v0/1200x900.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-openai-can-translate-english-into-code-with-its-new-machine-learning-software-codex.md",
+      "title": "OpenAI can translate English into code with its new machine learning software Codex",
+      "excerpt": "AI research company OpenAI is releasing ... to build simple websites and rudimentary games using natural language, as well as translate between different programming languages and tackle data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access",
+      "originalUrl": "https://www.theverge.com/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/O4KwUbyNYY8vEUK3ThvDskcE3RI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69705204/acastro_181017_1777_brain_ai_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access",
+      "publishedDateTime": "2021-08-11T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-artificial-neural-networks-modeled-on-brains.md",
+      "title": "Artificial Neural Networks Modeled On Brains",
+      "excerpt": "Researchers modeled artificial neural networks based on human brains for performing cognitive tasks efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains",
+      "originalUrl": "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/08/neuro.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp",
+      "publishedDateTime": "2021-08-11T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-forget-fico-3-fintech-companies-that-are-disrupting-consumer-credit.md",
+      "title": "Forget FICO, 3 Fintech Companies That Are Disrupting Consumer Credit",
+      "excerpt": "Fintech companies -- those that combine finance and technology -- have generated a lot of buzz in the public markets during the pandemic. Although they have been around for a while, they are fast becoming a part of everyday life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/forget-fico-3-fintech-companies-that-are-disrupting-consumer-credit-2021-08-11",
+      "originalUrl": "https://www.nasdaq.com/articles/forget-fico-3-fintech-companies-that-are-disrupting-consumer-credit-2021-08-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/forget-fico-3-fintech-companies-that-are-disrupting-consumer-credit-2021-08-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/forget-fico-3-fintech-companies-that-are-disrupting-consumer-credit-2021-08-11?amp",
+      "publishedDateTime": "2021-08-11T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-singapores-logistics-tech-startup-parcel-perform-raises-20-million.md",
+      "title": "Singapore’s logistics tech startup Parcel Perform raises $20 million",
+      "excerpt": "Singapore-headquartered Parcel Perform, which connects merchants with e-commerce carriers and provides shipment tracking features, said on Wednesday it has raised $20 million in a new financing round as it scales its business in several parts of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/",
+      "originalUrl": "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-505451902.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/amp/",
+      "publishedDateTime": "2021-08-11T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3ai.md",
+      "title": "Global Artificial Intelligence Applications for Smart Cities Market SWOT Analysis,Key Indicators,Forecast 2027 : Amazon (Rekognition), C3.ai",
+      "excerpt": "MR Accuracy Reports reports provide extensive Artificial Intelligence Applications for Smart Cities assessments with considering the importance and projections and provide detailed, strategic life choice data identification and effective to provide a ...",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "originalUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-applications-for-smart-cities-market-swot-analysiskey-indicatorsforecast-2027-amazon-rekognition-c3-ai/",
+      "publishedDateTime": "2021-08-10T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-connecting-azure-sql-server-with-azure-machine-learning.md",
       "title": "Connecting Azure SQL Server with Azure Machine Learning",
       "excerpt": "Join over 14,000 subscribers and 50,000 readers per month who get the latest updates and expert content from across the community.",
@@ -826,314 +1148,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-microsoft-introduces-ransomware-detection-to-ai-powered-azure-sentinel-management-tool.md",
-      "title": "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool",
-      "excerpt": "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "originalUrl": "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg",
-          "width": 708,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "publishedDateTime": "2021-08-10T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-zebra-concludes-fetch-robotics-acquisition.md",
-      "title": "Zebra Concludes Fetch Robotics Acquisition",
-      "excerpt": "Zebra Technologies announced Tuesday (Aug. 10) it has completed its acquisition of the cloud-driven autonomous mobile robot (AMR) startup Fetch Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Zebra-Technologies-Fetch-Robotics-acquisition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/amp/",
-      "publishedDateTime": "2021-08-10T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-feature-us-prisons-mull-ai-to-analyze-inmate-phone-calls.md",
-      "title": "FEATURE-U.S. prisons mull AI to analyze inmate phone calls",
-      "excerpt": "DOJ asked to study feasibility of AI prisoner monitoring tech * Inmates' rights advocates fear bias, privacy issues * Software meant to head off suicides and violent crime. By D",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-tech-prison/us-prisons-mull-ai-to-analyze-inmate-phone-calls-idUSKBN2FA0OO",
-      "originalUrl": "https://news.trust.org/item/20210809090018-c8r11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FA0OO",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FA0OO",
-      "publishedDateTime": "2021-08-10T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Thomson Reuters Foundation",
-        "domain": "trust.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-cox-automotive-mobility-and-arizonas-institute-of-automated-mobility-work-to-advance-automated-vehicle-development-and-safety.md",
-      "title": "Cox Automotive Mobility and Arizona's Institute of Automated Mobility Work to Advance Automated Vehicle Development and Safety",
-      "excerpt": "Cox Automotive Mobility, a division of Cox Automotive committed to advancing the world's fleets to serve the next generation, will be",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cox-automotive-mobility-and-arizonas-institute-of-automated-mobility-work-to-advance-automated-vehicle-development-and-safety-301352482.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cox-automotive-mobility-and-arizonas-institute-of-automated-mobility-work-to-advance-automated-vehicle-development-and-safety-301352482.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/807919/Cox_Automotive_Mobility_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-starship-technologies-delivery-robots-are-coming-to-more-college-campuses-this-fall.md",
-      "title": "Starship Technologies’ delivery robots are coming to more college campuses this fall",
-      "excerpt": "Starship Technologies is expanding its footprint, deploying dozens of its pint-sized six-wheeled delivery robots on college campuses this fall ... would add 85 more robots to that fleet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/8/10/22617175/starship-technologies-delivery-robots-college-campuses",
-      "originalUrl": "https://www.theverge.com/2021/8/10/22617175/starship-technologies-delivery-robots-college-campuses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Kzzdj5uwBUBSlYfXmhVmDZGyjOs=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69703099/starship-delivery-robot-043.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/8/10/22617175/starship-technologies-delivery-robots-college-campuses",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/10/22617175/starship-technologies-delivery-robots-college-campuses",
-      "publishedDateTime": "2021-08-10T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images.md",
-      "title": "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images",
-      "excerpt": "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-diagnose-lung-disease-better.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm",
-      "publishedDateTime": "2021-08-10T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-machine-learning-discovers-new-sequences-to-boost-drug-delivery.md",
-      "title": "Machine learning discovers new sequences to boost drug delivery",
-      "excerpt": "MIT researchers employ machine learning to find powerful peptides that can improve a gene therapy drug for Duchenne muscular dystrophy.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810",
-      "originalUrl": "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202108/machine-learning-peptide_0.png",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

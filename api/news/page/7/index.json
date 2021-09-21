@@ -2,6 +2,318 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-14-aci-worldwide-ranked-in-the-top-20-largest-global-providers-of-financial-technology-by-idc-fintech-rankings.md",
+      "title": "ACI Worldwide Ranked in the Top 20 Largest Global Providers of Financial Technology by IDC FinTech Rankings",
+      "excerpt": "ACI Worldwide, a leading global provider of real-time payments and digital payment software solutions, today announced its ranking in the IDC (News - Alert) Financial Insights 2021 FinTech Rankings. ACI is ranked 19 on this international list of financial technology companies that were judged according to their global revenues attributed to financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-logistics-robotics-startup-ambi-raises-26m.md",
+      "title": "Logistics robotics startup Ambi raises $26M",
+      "excerpt": "Ambi Robotics emerged from stealth with a $6 million raise. Today the Bay Area-based firm is back with several times that, announcing a $26 million Series A, led by Tiger Global. The new round also features participation from existing investors,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
+      "originalUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Ambi-Robotics_Founders-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
+      "publishedDateTime": "2021-09-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-worldwide-artificial-intelligence-chip-market-size-to-reach-9118-billion-by-2025.md",
+      "title": "Worldwide Artificial Intelligence Chip Market Size to Reach $91.18 Billion by 2025",
+      "excerpt": "Allied Market Research published a research report on the artificial intelligence chip market The findings of the report states that the global market for artificial intelligence chip is expected to reach 91 18 billion by 2025 manifesting a CAGR of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "originalUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U914943029_g.jpg",
+          "width": 790,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
+      "publishedDateTime": "2021-09-14T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-ai-system-on-chip-that-runs-on-solar-power.md",
+      "title": "AI System-on-Chip That Runs On Solar Power",
+      "excerpt": "Researchers have found a way to get around the issues of AI-led technologies with their newly developed system-on-chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "originalUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/09/ai-system-on-chip-runs.jpg",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/tech-zone/processor-tech/ai-system-on-chip-that-runs-on-solar-power/amp",
+      "publishedDateTime": "2021-09-14T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials.md",
+      "title": "Futuristic AI-Based Computing Devices: Physicists Simulate Artificial Brain Networks With New Quantum Materials",
+      "excerpt": "Pandemic lockdown forces a new perspective on designs for futuristic AI-based computing devices. Isaac Newton’s groundbreaking scientific productivity while isolated from the spread of bubonic plague is legendary.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
+      "originalUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Complex-Emergent-Behaviors-777x466.jpg",
+          "width": 777,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
+      "publishedDateTime": "2021-09-14T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-machine-learning-is-moving-beyond-the-hype.md",
+      "title": "Machine learning is moving beyond the hype",
+      "excerpt": "Today, companies across every industry are deploying millions of machine learning models across multiple lines of business. Soon every enterprise will take part.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
+      "originalUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
+      "publishedDateTime": "2021-09-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc.md",
+      "title": "Global Cloud AI in Fintech Market Comprehensive Insights – Autodesk, IBM, SAP, Fanuc",
+      "excerpt": "Cloud AI in Fintech Market is anticipated to develop at a solid speed in the coming years. The Market research report looks at the worldwide market’s size, share, cost structure, development, patterns,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
+      "originalUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2020/07/Fintech-Trends-Q2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
+      "publishedDateTime": "2021-09-14T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-41640-million-by-2027.md",
       "title": "Artificial Intelligence Diagnostic Market is Projected to Reach USD 416,4.0 Million By 2027",
       "excerpt": "A recent study conducted by the strategic consulting and market research firm, BlueWeave Consulting, revealed that the global artificial intelligence diagnostic market was worth USD 416.1 million in the year 2020.",
@@ -771,298 +1083,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-discovery-sports-events-goes-all-in-on-aws-to-engage-and-grow-global-fan-base-for-track-cycling.md",
-      "title": "DISCOVERY SPORTS EVENTS GOES ALL-IN ON AWS TO ENGAGE AND GROW GLOBAL FAN BASE FOR TRACK CYCLING",
-      "excerpt": "Discovery Sports Events and AWS to build an immersive fan-engagement offering for the new Union Cycliste Internationale (UCI) Track Champions League series that kicks off in November 2021 AWS becomes UCI Track Champions League exclusive Cloud Infrastructure Partner as part of new Discovery Sports Events collaboration SEATTLE – September 15,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/discovery-sports-events-goes-all-aws-engage-and-grow-global-fan-base-track-cycling",
-      "originalUrl": "https://www.pressreleasepoint.com/discovery-sports-events-goes-all-aws-engage-and-grow-global-fan-base-track-cycling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization.md",
-      "title": "Facebook – Researchers: Platforms like Facebook have played ‘major role’ in fueling polarization",
-      "excerpt": "Social media platforms like Facebook “have played a major role in exacerbating political polarization that can lead to such extremist violence,” according to a from researchers at New York University’s Stern Center for Business and Human Rights.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-the-mental-health-services-available-to-new-students-in-nottingham.md",
-      "title": "The Mental Health Services Available to New Students in Nottingham",
-      "excerpt": "Your time at university is exciting and rewarding, but it doesn’t come without its challenges. Life as a student can be tough at the best of times, not least without the complications of a global pandemic thrown into the mix.",
-      "sourceUrl": null,
-      "webUrl": "https://www.leftlion.co.uk/read/2021/september/mental-health-support-universities/",
-      "originalUrl": "https://www.leftlion.co.uk/read/2021/september/mental-health-support-universities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.leftlion.co.uk/media/4926260/mental-health-2019924_1920.jpg?anchor=center&mode=crop&width=1200&height=628&rnd=132755022350000000",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Left Lion",
-        "domain": "leftlion.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-qualcomm-technologies-ai-software-broad-and-deep-ai.md",
-      "title": "Qualcomm Technologies AI Software: Broad And Deep AI.",
-      "excerpt": "QTI software supports multiple hardware accelerators in both Snapdragon and the Cloud while making it easy for developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613942cb0d1ab212923a4ecc%2F0x0.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/13/qualcomm-technologies-ai-software-broad-and-deep-ai/amp/",
-      "publishedDateTime": "2021-09-13T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-chinas-baidu-inc-opens-its-apollo-go-robotaxi-service-in-shanghai.md",
-      "title": "China's Baidu Inc. Opens its ‘Apollo Go' Robotaxi Service in Shanghai",
-      "excerpt": "Chinese tech giant Baidu Inc. has opened its Apollo Go robotaxi service in Shanghai, its third major city in China following the launch in Beijing and Guangzhou. With the launch of Apollo Go in Shanghai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/4866/China’s-Baidu-Inc-Opens-its-‘Apollo-Go’-Robotaxi-Service-in-Shanghai",
-      "originalUrl": "https://www.futurecar.com/4866/China’s-Baidu-Inc-Opens-its-‘Apollo-Go’-Robotaxi-Service-in-Shanghai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202109/13/l_613fbff9b6497.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-whatsapp-is-working-on-a-new-transcription-feature-for-voice-notes-but-the-messages-will-be-sent-to-apple-to-be-processed-and-to-help-improve.md",
-      "title": "WhatsApp is working on a new transcription feature for voice notes - but the messages will be sent to Apple to be processed and to help 'improve its speech recognition technology'",
-      "excerpt": "WhatsApp's voice message transcription feature is reportedly still be developed for iOS. The messages will go to Apple but they'll stay encrypted since they won't be directly linked to the user's identity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/09/13/14/47856553-0-image-a-6_1631541465069.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9985711/amp/WhatsApp-working-transcription-feature-voice-messages-calls-sent-Apple.html",
-      "publishedDateTime": "2021-09-13T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-c3ai-inc-ai-ceo-tom-siebel-presents-at-piper-sandler-2021-virtual-global-technology-conference-transcript.md",
-      "title": "C3.ai, Inc. (AI) CEO Tom Siebel Presents at Piper Sandler 2021 Virtual Global Technology Conference (Transcript)",
-      "excerpt": "Piper Sandler 2021 Virtual Global Technology Conference Call September 13, 2021 12:00 ET Company Participants Tom Siebel - Chairman and Chief Executive",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
-      "originalUrl": "https://seekingalpha.com/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4454989-c3-ai-inc-ai-ceo-tom-siebel-presents-piper-sandler-2021-virtual-global-technology-conference",
-      "publishedDateTime": "2021-09-13T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

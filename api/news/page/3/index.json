@@ -2,6 +2,206 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-17-will-ai-ever-be-able-to-offer-an-roi-for-enterprises.md",
+      "title": "Will AI Ever Be Able To Offer An ROI For Enterprises?",
+      "excerpt": "A CEO friend asked me, “Will AI ever be able to offer an ROI for enterprises?” I thought the answer through and wrote it down. Then, I realized that this information could be beneficial and valuable to many people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61434b8ab75fa0a8f8e4b176%2F0x0.jpg",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/amp/",
+      "publishedDateTime": "2021-09-17T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development.md",
+      "title": "ITRI, AITA, and UCLA CHIPS Forge Cooperation on AI Chip Development",
+      "excerpt": "DoIT Science and Technology Advisor Xian-Yi Lin stated that the DoIT supports ITRI, ATIA, and UCLA CHIPS in inking a collaborative agreement, which will help the parties quickly grasp international system specification trends in the areas of design,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development-1030806889",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development-1030806889",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1628526/Photo_20210917.jpg",
+          "width": 400,
+          "height": 289,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone.md",
+      "title": "2022 Genesis GV60 EV to arrive with facial recognition like a smartphone",
+      "excerpt": "It seems the incoming 2022 Genesis GV60 EV will arrive with more than just love-it or hate-it styling, funky paint colors, and a mysterious floating oddity on the center console. In a recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
+      "originalUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/genesis_gv_60_ev_017.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/2022-genesis-gv60-ev-to-arrive-with-facial-recognition-like-a-smartphone-17691257/amp/",
+      "publishedDateTime": "2021-09-17T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-face-recognition-device-market-future-scope-including-key-players-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc.md",
+      "title": "Face Recognition Device Market Future Scope including key players Airware, Inc., 3D Robotics, Dreamhammer Inc., Drone Volt, Dronedeploy Inc.",
+      "excerpt": "Get the inside scoop of the Sample Face Recognition Device report @: jcmarketresearch.com/report-details/1443230/sample Research Methodology while conducting the study of “Global Face Recognition Device Market Data Survey Report 2029” Secondary research Our Face Recognition Device industry analyst refer a broad array of industry sources for our secondary,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
+      "originalUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
+      "publishedDateTime": "2021-09-17T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-googles-new-deep-learning-system-can-give-a-boost-to-radiologists.md",
       "title": "Google’s new deep learning system can give a boost to radiologists",
       "excerpt": "The deep learning system can help radiologists prioritize chest x-rays, and it can serve as a first response tool in emergency settings.",
@@ -241,6 +441,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-ai-in-cardiology-a-marriage-made-in-heaven-or-hell.md",
+      "title": "AI in cardiology: a marriage made in heaven – or hell?",
+      "excerpt": "The role of Artificial Intelligence (AI) – one of the most divisive issues in cardiology – was debated during a session of the European Society of Cardiology annual congress. Two leading experts argued the pros and cons of its use,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/25869/rect-01-heven-hell-heart-wide.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -614,8 +857,8 @@
       "title": "Live Webinar: Driving Healthcare Decisions with Natural Language Processing",
       "excerpt": "Dr. Sabita Sankar, VP of Business Development at HUMA.AI, will sit down with Natalie Yeadon, to discuss “human-centric AI” and how to automate healthcare through human language, with special focus on the applications for Medical Affairs,",
       "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
-      "originalUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "webUrl": "https://www.pmlive.com/pmhub/pharma_training/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "originalUrl": "https://www.pmlive.com/pmhub/pharma_training/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -917,248 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-new-paper-explores-facial-recognition-biases-beyond-demographics.md",
-      "title": "New paper explores facial recognition biases beyond demographics",
-      "excerpt": "The well-reported biases surrounding skin tone and sex are not the only biases held by facial recognition systems, finds a new paper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/new-paper-explores-facial-recognition-biases-beyond-demographics",
-      "originalUrl": "https://www.biometricupdate.com/202109/new-paper-explores-facial-recognition-biases-beyond-demographics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg",
-          "width": 1050,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-dive-deep-into-machine-learning-with-over-75-hours-of-expert-led-training.md",
-      "title": "Dive Deep Into Machine Learning With Over 75 Hours Of Expert Led Training",
-      "excerpt": "One way to dive deep into these pivotal technologies is to take advantage of this deal on The Premium Machine Learning Artificial Intelligence Super Bundle, which is on sale for $36.99 (reg. $2,388).",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/dive-deep-into-machine-learning-over-75-hours-expert-led-training",
-      "originalUrl": "https://www.ign.com/articles/dive-deep-into-machine-learning-over-75-hours-expert-led-training",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2021/09/15/sale-302250-article-image-1631738245370.jpeg?width=1280",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-axelera-which-is-developing-an-ai-accelerator-chip-raises-12m.md",
-      "title": "Axelera, which is developing an AI accelerator chip, raises $12M",
-      "excerpt": "Axelera, a startup developing an AI accelerator chip for edge computing devices, has raised $12 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/15/axelera-which-is-developing-an-ai-accelerator-chip-raises-12m/",
-      "originalUrl": "https://venturebeat.com/2021/09/15/axelera-which-is-developing-an-ai-accelerator-chip-raises-12m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/15/axelera-which-is-developing-an-ai-accelerator-chip-raises-12m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/15/axelera-which-is-developing-an-ai-accelerator-chip-raises-12m/amp/",
-      "publishedDateTime": "2021-09-15T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-cloud-data-integration-provider-matillion-secures-150m.md",
-      "title": "Cloud data integration provider Matillion secures $150M",
-      "excerpt": "Matillion, a cloud platform designed to transform data, has raised $150 million in a venture capital funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/",
-      "originalUrl": "https://venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/amp/",
-      "publishedDateTime": "2021-09-15T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-google-pixel-6-inspires-official-bags-of-chips.md",
-      "title": "Google Pixel 6 inspires official bags of chips",
-      "excerpt": "Google is pumping up the message in Japan with official bags of chips in a variety of colors. The chips in each bag are (quite likely) the same flavor, regardless of the color you get, just like",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/google-pixel-6-inspires-official-bags-of-chips-15691002/",
-      "originalUrl": "https://www.slashgear.com/google-pixel-6-inspires-official-bags-of-chips-15691002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/google-original-chips-pixel-6.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/google-pixel-6-inspires-official-bags-of-chips-15691002/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-pixel-6-inspires-official-bags-of-chips-15691002/amp/",
-      "publishedDateTime": "2021-09-15T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/pixel-6-live-translate-will-combine-google
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/amp/"
 type: article
 quality: 89
-heat: 102
+heat: 103
 published: true
 
 provider:

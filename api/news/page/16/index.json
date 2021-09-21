@@ -2,6 +2,309 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-09-04-ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google.md",
+      "title": "AI in Social Media Market (New Release) Predicted to Hold a Huge Impact on Sales in 2021 – AWS , Facebook , Google",
+      "excerpt": "Pune, Maharashtra, India, September 4 2021 (Wiredrelease) MarketResearch.Biz –:Global AI in Social Media Market Analysis to 2021-2030 By MarketResearch.Biz is a specialized and in-intensity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Cybercrime-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Sales",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-us-far-field-speech-recognition-market-2021-is-booming-across-the-globe-by-segments-share-size-growth-and-forecast-to-2028.md",
+      "title": "U.S Far-field Speech Recognition Market 2021 Is Booming Across the Globe by Segments, Share, Size, Growth and Forecast to 2028",
+      "excerpt": "\"Global Far-field Speech Recognition Industry: with growing significant CAGR during 2021-2028. New Research Report on Far-field Speech Recognition Market which covers Market Overv",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/148958/us-far-field-speech-recognition-market-2021-is/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-parents-lawsuit-over-lockport-facial-recognition-system-ends.md",
+      "title": "Parents' lawsuit over Lockport facial recognition system ends",
+      "excerpt": "A judge said the approval was invalidated when former Gov. Andrew M. Cuomo signed a law in December 2020 banning the use of facial recognition technology in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
+      "originalUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/45/f4555f2d-8ce6-550b-82e9-417e781ab8b7/5ef133e01db3f.image.jpg?resize=1024%2C759",
+          "width": 1024,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
+      "cdnAmpWebUrl": "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
+      "publishedDateTime": "2021-09-03T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-open-source-powers-ai-yet-policymakers-havent-seemed-to-notice.md",
+      "title": "Open source powers AI, yet policymakers haven't seemed to notice",
+      "excerpt": "Commentary: Open source is driving AI policy without policymakers getting involved, argues a Brookings Institution briefing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
+      "originalUrl": "https://www.techrepublic.com/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/open-source-powers-ai-yet-policymakers-havent-seemed-to-notice/",
+      "publishedDateTime": "2021-09-03T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-judge-ends-nyclu-suit-against-school-facial-recognition.md",
+      "title": "Judge Ends NYCLU Suit Against School Facial Recognition",
+      "excerpt": "(TNS) — A lawsuit brought by New York Civil Liberties Union last year to prevent Lockport City School District from operating its facial recognition-capable camera surveillance system was made moot by a state judge this week. In June 2020, NYCLU filed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition",
+      "originalUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/ba59e6e/2147483647/strip/true/crop/770x402+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F14%2F03%2F506a237091747e4114b6347d85d7%2Ffacial-21.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition?_amp=true",
+      "publishedDateTime": "2021-09-03T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers.md",
+      "title": "Rank One to campaign for ethical facial recognition commitment from providers",
+      "excerpt": "Rank One Computing declares its intention to take a strong stand on ethics in facial recognition use, in coordination with the Security Industry Association.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers",
+      "originalUrl": "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg",
+          "width": 1800,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-ai-computers-cant-patent-their-own-inventions-yet-a-us-judge-rules.md",
+      "title": "AI computers can’t patent their own inventions — yet — a US judge rules",
+      "excerpt": "Should an artificially intelligent machine be able to patent its own inventions? For a US federal judge, the larger implications of that question were irrelevant. In April 2020, the US Patent and Trademark Office (USPTO) ruled that only “natural persons” could be credited as the inventor of a patent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/ai-computers-can-e2-80-99t-patent-their-own-inventions-e2-80-94-yet-e2-80-94-a-us-judge-rules/ar-AAO4Cwd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/Hw9l4d7GJUeQMfW7HdoXKd9SSvg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69814569/jbareham_170215_1460_0001_v2_5_2.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
+      "publishedDateTime": "2021-09-03T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
+        "domain": "theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google.md",
       "title": "Bias persists in face detection systems from Amazon, Microsoft, and Google",
       "excerpt": "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon.",
@@ -847,333 +1150,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr.md",
-      "title": "Mumbai: 470 CCTV cameras with face recognition to help fight crime on WR",
-      "excerpt": "The CCTV cameras on the Western Railway will now be used to fight crime too. 2,600 cameras have been installed on the line. Of these, 470 are equipped with facial recognition technology. The Mumbai police,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "originalUrl": "https://www.freepressjournal.in/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-09/3a83ca25-dfe1-4fa8-992e-b2ae2191686d/DADAR_15AUG21_BLSONI_01.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
-      "publishedDateTime": "2021-09-02T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-microsoft-helps-protect-amazon-rainforest-with-ai-project.md",
-      "title": "Microsoft helps protect Amazon rainforest with AI project",
-      "excerpt": "Microsoft has partnered with environmental groups to create an artificial intelligence (AI) -based tool that could help to stop deforestation in the Amazon rainforest. The tool, called PrevisIA, uses machine learning to spot possible trends in forest conversion from deforestation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project",
-      "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630606098/itpro/shutterstock_amazon_rainforest.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/360766/microsoft-helps-protect-amazon-rainforest-with-ai-project?amp",
-      "publishedDateTime": "2021-09-02T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft.md",
-      "title": "Artificial Intelligence Platforms Market Size 2021 And Forecast to 2028 | Keyplayers – Google, Baidu, Ibm, Microsoft",
-      "excerpt": "In the recently published financial credit Artificial Intelligence Platforms Market by Stratagem Markets Insights, market buildup will continue throughout the predict time of 2021-2028. The report contains data in this area the latest trends in the proclaim.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/MRI-17-1-300x212.jpg",
-          "width": 300,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-platforms-market-size-2021-and-forecast-to-2028-keyplayers-google-baidu-ibm-microsoft/?amp=1",
-      "publishedDateTime": "2021-09-02T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world.md",
-      "title": "AI Future: Why The University Of Florida Added 100 AI Faculty And The 22nd Fastest Supercomputer In The World",
-      "excerpt": "The University of Florida recently turned on the eight most powerful supercomputer in higher education and 22nd most powerful supercomputer in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613102a4a1f6214f6dcf0962%2F0x0.jpg",
-          "width": 730,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/09/02/ai-future-why-the-university-of-florida-added-100-ai-faculty-and-the-22nd-fastest-supercomputer-in-the-world/amp/",
-      "publishedDateTime": "2021-09-02T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-githubs-ai-programming-assistant-can-introduce-security-flaws.md",
-      "title": "GitHub's AI programming assistant can introduce security flaws",
-      "excerpt": "AI that automatically generates source code to help human programmers complete projects has been found to include bugs or security flaws in up to 40 per cent of the code it outputs",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/",
-      "originalUrl": "https://www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/09/02165118/PRI_197232976.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2288699-githubs-ai-programming-assistant-can-introduce-security-flaws/amp/",
-      "publishedDateTime": "2021-09-02T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-thinking-through-unintended-consequences-of-ai-implementations.md",
-      "title": "Thinking Through Unintended Consequences (of AI Implementations)",
-      "excerpt": "In the past few years, digital proliferation across organizations has become widespread, as we have seen with sales. Especially after the onset of COVID-19, many sales organizations accelerated their movement on this front.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6130f12bfadcce310ccf0962%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/09/02/thinking-through-unintended-consequences-of-ai-implementations/amp/",
-      "publishedDateTime": "2021-09-02T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-aws-announces-general-availability-of-amazon-fsx-for-netapp-ontap.md",
-      "title": "AWS Announces General Availability of Amazon FSx for NetApp ONTAP",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon FSx for NetApp ONTAP, a new storage service that allows customers to launch and run complete,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-europe-middle-east-business-amazoncom-inc-9d0ea1a6718b44e582a5bcff12f273a1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-02T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,248 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-16-new-paper-explores-facial-recognition-biases-beyond-demographics.md",
+      "title": "New paper explores facial recognition biases beyond demographics",
+      "excerpt": "The well-reported biases surrounding skin tone and sex are not the only biases held by facial recognition systems, finds a new paper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202109/new-paper-explores-facial-recognition-biases-beyond-demographics",
+      "originalUrl": "https://www.biometricupdate.com/202109/new-paper-explores-facial-recognition-biases-beyond-demographics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg",
+          "width": 1050,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-dive-deep-into-machine-learning-with-over-75-hours-of-expert-led-training.md",
+      "title": "Dive Deep Into Machine Learning With Over 75 Hours Of Expert Led Training",
+      "excerpt": "One way to dive deep into these pivotal technologies is to take advantage of this deal on The Premium Machine Learning Artificial Intelligence Super Bundle, which is on sale for $36.99 (reg. $2,388).",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/dive-deep-into-machine-learning-over-75-hours-expert-led-training",
+      "originalUrl": "https://www.ign.com/articles/dive-deep-into-machine-learning-over-75-hours-expert-led-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2021/09/15/sale-302250-article-image-1631738245370.jpeg?width=1280",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-axelera-which-is-developing-an-ai-accelerator-chip-raises-12m.md",
+      "title": "Axelera, which is developing an AI accelerator chip, raises $12M",
+      "excerpt": "Axelera, a startup developing an AI accelerator chip for edge computing devices, has raised $12 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/15/axelera-which-is-developing-an-ai-accelerator-chip-raises-12m/",
+      "originalUrl": "https://venturebeat.com/2021/09/15/axelera-which-is-developing-an-ai-accelerator-chip-raises-12m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/15/axelera-which-is-developing-an-ai-accelerator-chip-raises-12m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/15/axelera-which-is-developing-an-ai-accelerator-chip-raises-12m/amp/",
+      "publishedDateTime": "2021-09-15T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-cloud-data-integration-provider-matillion-secures-150m.md",
+      "title": "Cloud data integration provider Matillion secures $150M",
+      "excerpt": "Matillion, a cloud platform designed to transform data, has raised $150 million in a venture capital funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/",
+      "originalUrl": "https://venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/amp/",
+      "publishedDateTime": "2021-09-15T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-google-pixel-6-inspires-official-bags-of-chips.md",
+      "title": "Google Pixel 6 inspires official bags of chips",
+      "excerpt": "Google is pumping up the message in Japan with official bags of chips in a variety of colors. The chips in each bag are (quite likely) the same flavor, regardless of the color you get, just like",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/google-pixel-6-inspires-official-bags-of-chips-15691002/",
+      "originalUrl": "https://www.slashgear.com/google-pixel-6-inspires-official-bags-of-chips-15691002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/google-original-chips-pixel-6.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/google-pixel-6-inspires-official-bags-of-chips-15691002/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-pixel-6-inspires-official-bags-of-chips-15691002/amp/",
+      "publishedDateTime": "2021-09-15T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-world-first-for-ai-and-machine-learning-to-treat-covid-19-patients-worldwide.md",
       "title": "World first for AI and machine learning to treat COVID-19 patients worldwide",
       "excerpt": "Addenbrooke's Hospital in Cambridge and 20 other hospitals from across the world and healthcare technology leader NVIDIA have used artificial intelligence (AI) to predict COVID patients' oxygen needs on a global scale.",
@@ -165,6 +407,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-16-facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group.md",
+      "title": "Facebook – Election 2021: Green party cries foul over Facebook ad by labour group",
+      "excerpt": "Green party cries foul over Facebook ad by labour group The campaign team for the incumbent Green party candidate-Ladysmith, Paul Manly, has filed a complaint with Elections Canada over an ad that was paid for by the Canadian Labour Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2021/09/nanaimo-byelection-20190506.jpg?quality=90&strip=all&w=288",
+          "width": 288,
+          "height": 216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget.md",
       "title": "OpenCV and Luxonis Launch Smaller, Lighter, Cheaper OAK-D-LITE All-in-One Computer Vision Gadget",
       "excerpt": "New $79 crowdfunding price makes the OAK-D-LITE the cheapest model yet, despite its sleek design and impressive capabilities.",
@@ -277,19 +562,19 @@
     {
       "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
       "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
-      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its",
+      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg?p=facebook",
-          "width": 5157,
-          "height": 2699,
+          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg",
+          "width": 267,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -299,11 +584,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:59:00-07:00",
+      "publishedDateTime": "2021-09-15T09:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -780,256 +1065,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-brytlyt-unleashes-serverless-gpu-acceleration-for-analytics.md",
-      "title": "Brytlyt Unleashes Serverless GPU-Acceleration for Analytics",
-      "excerpt": "Brytlyt is the world's first serverless software-as-a-service analytics platform with GPU acceleration, bringing revolutionary",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-301377668.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/brytlyt-unleashes-serverless-gpu-acceleration-for-analytics-301377668.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1315458/Brytlyt_Logo.jpg?p=facebook",
-          "width": 2697,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-why-even-marketers-should-understand-the-value-of-machine-learning.md",
-      "title": "Why Even Marketers Should Understand the Value of Machine Learning",
-      "excerpt": "In this contributed article, Dr. Peter Day, Chief Technology Officer at Quantcast, discusses how leading marketers are making use of widely available machine learning and AI-powered solutions that can do the hard work of spotting signals in the noise.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2021/09/15/why-even-marketers-should-understand-the-value-of-machine-learning/",
-      "originalUrl": "https://insidebigdata.com/2021/09/15/why-even-marketers-should-understand-the-value-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2019/12/Machine_Learning_shutterstock_344688470.jpg",
-          "width": 300,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-toronto-based-private-ais-language-redaction-tool-attracts-315-million-in-seed-funding.md",
-      "title": "Toronto-based Private AI’s language redaction tool attracts $3.15 million in seed funding",
-      "excerpt": "Along with Forum Ventures, M12 co-led a $3.15 million round in seed funding for the Toronto-based AI firm Private AI.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/toronto-based-private-ais-language-redaction-tool-attracts-3-15-million-in-seed-funding/",
-      "originalUrl": "https://betakit.com/toronto-based-private-ais-language-redaction-tool-attracts-3-15-million-in-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2018/04/data.jpeg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-bosch-driverless-the-journey-begins.md",
-      "title": "Bosch DRIVERLESS: the journey begins",
-      "excerpt": "Close your eyes. Let your imagination flow. What is your dream? Think about it. Done? If the answer you gave is 'working in the world of racing,' then everything written below will sound very interesting to you.",
-      "sourceUrl": null,
-      "webUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
-      "originalUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-1.motorsport.com/images/amp/YP3Jzlj2/s6/bosch-driverless-intro-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
-      "cdnAmpWebUrl": "https://it-motorsport-com.cdn.ampproject.org/c/s/it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
-      "publishedDateTime": "2021-09-15T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motorsport",
-        "domain": "motorsport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-in-car-speech-recognition-system-market-2021-analysis-by-top-manufacturers-lumenvox-microsoft-alphabet.md",
-      "title": "In-car Speech Recognition System Market 2021 Analysis by Top Manufacturers - LumenVox, Microsoft, Alphabet",
-      "excerpt": "The In car Speech Recognition System Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
-      "originalUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
-      "publishedDateTime": "2021-09-15T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-fintech-startup-pagaya-could-go-public-in-9b-spac-deal.md",
-      "title": "FinTech Startup Pagaya Could Go Public in $9B SPAC Deal",
-      "excerpt": "FinTech Pagaya Technologies is mulling a public offering via a merger with the SPAC EJF Acquisition Corp that would value the startup at roughly $9 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
-      "originalUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1501769132-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-startup-pagaya-could-go-public-in-9b-spac-deal/amp/",
-      "publishedDateTime": "2021-09-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

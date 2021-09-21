@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-25-hybrid-ai-is-the-future-of-industrial-analytics.md",
+      "title": "Hybrid AI Is The Future Of Industrial Analytics",
+      "excerpt": "Industrial DataOps is the starting point to solving one of the key challenges of industrial digitalization: enabling hybrid AI solutions at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612561eaa3ca9a4aee49f148%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/",
+      "publishedDateTime": "2021-08-25T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-south-america-ai-in-computer-vision-market-advancements-with-373-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation.md",
       "title": "South America AI in Computer Vision Market Advancements with 37.3% of CAGR by 2027 – Intel Corporation,Microsoft Corporation,Nvidia Corporation",
       "excerpt": "The AI in computer vision market in SAM is expected to grow from US$ 201.59 million in 2019 to US$ 2,443.57 million by 2027; it is estimated to grow at a CAGR of 37.3% from 2020 to 2027. A report added on the Business Market Insights, titled “South ...",
@@ -1314,49 +1367,6 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner.md",
-      "title": "Huawei smart city projects meet facial recognition block, lawsuit from partner",
-      "excerpt": "The Serbia smart city projectis raising concerns among some members of the European Parliament. Huawei also faces a lawsuit in a Pakistan surveillance project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
-      "originalUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/11150416/Huawei-scaled.jpg",
-          "width": 2048,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
         "images": null,
         "publishers": null,
         "authors": null

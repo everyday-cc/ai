@@ -2,6 +2,318 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-13-nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs.md",
+      "title": "Nuix to pay $34m for US-based natural language processing vendor Topos Labs",
+      "excerpt": "Australian data management vendor Nuix is set to acquire US-based natural language processing (NLP) software vendor Topos Labs for up to US$25 million (approx. AU$34 million). The terms of the acquisition will see an initial cost of US$5 million with up to US$18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs-569736",
+      "originalUrl": "https://www.crn.com.au/news/nuix-to-pay-34m-for-us-based-natural-language-processing-vendor-topos-labs-569736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/iStock-1073831676.jpg",
+          "width": 1433,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai.md",
+      "title": "Chinese tech giant Baidu begins publicly testing Apollo Go robotaxis in Shanghai",
+      "excerpt": "The 10,000 square meter space will house the 200 AVs Baidu hopes to bring to the city, which would make it the site of the largest self-driving fleet in East China. Baidu’s long game is to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "originalUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024",
+          "width": 1024,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/13/chinese-tech-giant-baidu-begins-publicly-testing-apollo-go-robotaxis-in-shanghai/amp/",
+      "publishedDateTime": "2021-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-nuix-asxnxl-acquires-natural-language-processing-company-topos.md",
+      "title": "Nuix (ASX:NXL) acquires natural language processing company, Topos",
+      "excerpt": "Global software company, Nuix (ASX:NXL) is set to take over natural language processing developer, Topos Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
+      "originalUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themarketherald.com.au/wp-content/uploads/2021/09/Screen-Shot-2021-09-13-at-9.55.06-am.png",
+          "width": 516,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "cdnAmpWebUrl": "https://themarketherald-com-au.cdn.ampproject.org/c/s/themarketherald.com.au/nuix-asxnxl-acquires-natural-language-processing-company-topos-2021-09-13/amp/",
+      "publishedDateTime": "2021-09-12T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Market Herald",
+        "domain": "themarketherald.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom.md",
+      "title": "Zillow – Zillow – Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise | Fintech Zoom",
+      "excerpt": "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-zillow-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise-fintech-zoom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechzoom.com/wp-content/uploads/2021/09/1631318839_0x0.jpg",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
+      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
+      "excerpt": "Add to Calendar 09/13/2021 3:00 pm 09/13/2021 4:00 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpsc.gov/ko/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=vi",
+      "originalUrl": "https://www.cpsc.gov/ko/Newsroom/Public-Calendar/2021-09-13T150000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=vi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consumer Protection Safety Commission",
+        "domain": "cpsc.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats.md",
+      "title": "Computer vision and deep learning provide new ways to detect cyber threats",
+      "excerpt": "The combination of binary visualization and machine learning is a powerful technique that can provide new solutions to old problems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
+      "originalUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/deep-learning-cyber-threat-detection1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/11/computer-vision-and-deep-learning-provide-new-ways-to-detect-cyber-threats/amp/",
+      "publishedDateTime": "2021-09-11T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-12-small-mighty-robots-mimic-the-powerful-punch-of-mantis-shrimp.md",
+      "title": "Small, Mighty Robots Mimic the Powerful Punch of Mantis Shrimp",
+      "excerpt": "Modeling the mechanics of the strongest punch in the animal kingdom, researchers with U.S. Army funding built a robot that mimics the movement of the mantis shrimp. These pugnacious crustaceans could pave the way for small,",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
+      "originalUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2021/09/mantis-shrimp-robot-neurosinces.jpg",
+          "width": 769,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
+      "publishedDateTime": "2021-09-11T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-12-gpu-database-market-share-key-market-players-trends-forecast-20202028.md",
       "title": "GPU Database Market Share, Key Market Players, Trends & Forecast, 2020–2028",
       "excerpt": "The Global GPU Database market is forecast to reach USD 1,357.4 Million by 2028, according to a new report by Reports and Data.  The latest market research report published by Reports and Data, titled ‘Global GPU Database Market,",
@@ -835,353 +1147,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise.md",
-      "title": "Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise",
-      "excerpt": "Machine Learning Operations (MLOps) is on the rise as a critical technology to help to scale machine learning in the enterprise. Leading companies have emerged as top machine learning operations tool enablers for the industry to handle these challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613b4f87a07dff77c5cd4264%2F0x0.jpg",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-09-10T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-lantheus-announces-presentation-at-the-2021-american-urological-association-aua-annual-meeting.md",
-      "title": "Lantheus Announces Presentation at the 2021 American Urological Association (AUA) Annual Meeting",
-      "excerpt": "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to find,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-how-ai-will-drive-the-precision-health-research-revolution-through-2030.md",
-      "title": "How AI Will Drive The Precision Health Research Revolution Through 2030",
-      "excerpt": "Ethical AI will be critical to widespread AI adoption. Algorithms used in care delivery must perform well across diverse patient populations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
-      "publishedDateTime": "2021-09-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-how-to-help-tame-cognitive-bias-in-your-ai-system.md",
-      "title": "How To Help Tame Cognitive Bias In Your AI System",
-      "excerpt": "The more measures and techniques we develop to minimize the transmission of our biases, the more reliable AI will be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
-      "publishedDateTime": "2021-09-10T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows.md",
-      "title": "How Small Businesses Can Rely On Robots As The Labor Shortage Grows",
-      "excerpt": "One robot that can help business owners serving customers is Pepper, a humanoid robot originally developed by SoftBank Robotics and now equipped with new AI skills through my company ... business ready for automation? Start with the following: 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a098bc291d5e725168983%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/amp/",
-      "publishedDateTime": "2021-09-10T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-green-robotics-start-up-raises-16m.md",
-      "title": "Green robotics start-up raises £1.6m",
-      "excerpt": "A green robotics company slashing the cost of maintaining wind turbines is flying high after securing £1.6million in its latest funding round. Perceptual Robotics uses autonomous drones to map turbines,",
-      "sourceUrl": null,
-      "webUrl": "https://www.angelnews.co.uk/blog/venture-capital/green-robotics-start-up-raises-16m/",
-      "originalUrl": "https://www.angelnews.co.uk/blog/venture-capital/green-robotics-start-up-raises-16m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.angelnews.co.uk/an2017/images/Perceptual_Robotics_.png",
-          "width": 920,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "angelnews.co.uk",
-        "domain": "angelnews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season.md",
-      "title": "AWS bringing two new advanced statistics to German Bundesliga broadcasts for upcoming season",
-      "excerpt": "Amazon Web Services is rolling out two new Match Facts for the German Bundesliga during the 2021–22 season, bringing new advanced statistics to the game broadcasts and the official Bundesliga app. The two new statistics -- Shot Efficiency and Passing Profile -- will provide fans with deeper insights into the number of goals a player or team should have scored based on the quality of their chances as well as information on the pass quality of a player or an entire team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/09/10/2f3deb22-3626-4413-b5b9-0f5b2bf4a2ac/bmf-passprofiles-2clubs-5.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/aws-bringing-two-new-advanced-statistics-to-german-bundesliga-broadcasts-for-upcoming-season/",
-      "publishedDateTime": "2021-09-09T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-05-artificial-intelligence-ai-innovation-summit.md",
+      "title": "Artificial Intelligence (AI) Innovation Summit",
+      "excerpt": "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417",
+      "originalUrl": "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eventbrite.com.au",
+        "domain": "eventbrite.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-tesla-teases-future-products-using-artificial-intelligence-not-related-to-its-electric-vehicle-fleet.md",
       "title": "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet",
       "excerpt": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19.",
@@ -1312,49 +1355,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-powered-beach-cleanup-robots.md",
-      "title": "AI-Powered Beach Cleanup Robots",
-      "excerpt": "It’s estimated that more than 4.5-trillion cigarette butts are littered across the environment around the world, which is something the",
-      "sourceUrl": null,
-      "webUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "originalUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.trendhunterstatic.com/thumbs/robotic-beach-cleaner.jpeg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "publishedDateTime": "2021-07-27T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrendHunter",
-        "domain": "trendhunter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

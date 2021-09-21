@@ -2,6 +2,324 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-08-10-computer-vision-startup-zebra-medical-vision-sells-for-200m.md",
+      "title": "Computer vision startup Zebra Medical Vision sells for $200M",
+      "excerpt": "Zebra Medical Vision, a computer vision startup focused on health care, has agreed to be acquired in a deal worth $200 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
+      "originalUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/",
+      "publishedDateTime": "2021-08-10T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-ai-driven-biology-can-get-critical-medicines-to-patients-faster.md",
+      "title": "AI-Driven Biology Can Get Critical Medicines To Patients Faster",
+      "excerpt": "Absci, a synthetic biology company that recently went public, is using an AI-powered platform for protein discovery and production to help pharmaceutical companies create drugs that were previously impossible to make.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/08/10/ai-driven-biology-can-get-critical-medicines-to-patients-faster/",
+      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/08/10/ai-driven-biology-can-get-critical-medicines-to-patients-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611258097e9e1a7c43a6ced9%2F0x0.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/08/10/ai-driven-biology-can-get-critical-medicines-to-patients-faster/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/08/10/ai-driven-biology-can-get-critical-medicines-to-patients-faster/amp/",
+      "publishedDateTime": "2021-08-10T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-meet-the-killer-robots-of-modern-warfare-from-ai-powered-suicide-drones-to-machine-guns-that-choose-their-own-targets.md",
+      "title": "Meet the ‘killer robots’ of modern warfare from AI-powered suicide drones to machine guns that choose their own targets",
+      "excerpt": "AS a soldier runs from the battlefield, he’s spotted by a suicide drone loitering in the sky overhead. The killing machine dives down on its target and explodes in a kamikaze attack –",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/news/15787851/killer-robots-drones-ai-suicide/",
+      "originalUrl": "https://www.thesun.co.uk/news/15787851/killer-robots-drones-ai-suicide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2021/08/COMP-SKC-ROBOTS.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/news/15787851/killer-robots-drones-ai-suicide/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/15787851/killer-robots-drones-ai-suicide/amp/",
+      "publishedDateTime": "2021-08-10T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-modeling-neural-networks-on-real-brains-makes-ann-improvement.md",
+      "title": "Modeling Neural Networks on Real Brains Makes ANN Improvement",
+      "excerpt": "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?cb=20210810",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-10-things-in-tech-aws-hiring-spree-musks-2020-pay-ai-for-pizza.md",
+      "title": "10 things in tech: AWS hiring spree — Musk's 2020 pay — AI for… pizza?",
+      "excerpt": "AWS is on a hiring spree, Musk got $6.7 billion in compensation in 2020, and Pizza Hut wants to build a pizza AI: 10 things in tech you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6111a8fbdaba4e0019e5ab47?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8?amp",
+      "publishedDateTime": "2021-08-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
+      "excerpt": "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-ai-image-recognition-market-outlook-pricing-strategy-industry-latest-news-top-company-analysis-and-regional-outlook-2026.md",
+      "title": "AI Image Recognition Market Outlook, Pricing Strategy, Industry Latest News, Top Company Analysis and Regional Outlook 2026",
+      "excerpt": "The Global AI Image Recognition Market Report Gives an in-depth analysis on industry development patterns, drivers, restraints, structure, scope, various trends, opportunities, challenges, market risk,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-image-recognition-market-outlook-pricing-strategy-industry-latest-news-top-company-analysis-and-regional-outlook-2026/",
+      "originalUrl": "https://manometcurrent.com/ai-image-recognition-market-outlook-pricing-strategy-industry-latest-news-top-company-analysis-and-regional-outlook-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-image-recognition-market-outlook-pricing-strategy-industry-latest-news-top-company-analysis-and-regional-outlook-2026/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-image-recognition-market-outlook-pricing-strategy-industry-latest-news-top-company-analysis-and-regional-outlook-2026/",
+      "publishedDateTime": "2021-08-10T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-nimbleboxai-raises-1-mn-seed-funding-led-by-venture-catalysts.md",
       "title": "NimbleBox.ai Raises $1 Mn Seed Funding Led By Venture Catalysts",
       "excerpt": "The funding will be utilized to deliver the company’s fast-moving product development roadmap, customer base expansion and hiring drive",
@@ -799,345 +1117,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-accurately-predicting-future-sales-at-clearly-using-amazon-forecast.md",
-      "title": "Accurately predicting future sales at Clearly using Amazon Forecast",
-      "excerpt": "This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Alex Thoreux, Web Analyst at Clearly. A pioneer in online shopping, Clearly launched their first site in 2000. Since then, they’ve grown to become one of the biggest online eyewear retailers in the world, providing customers across",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/image001-850x630.png",
-          "width": 850,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T14:10:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
-      "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
-      "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid platform enabled us to launch Screen iL last week, our global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/seachange-enables-fully-migrated-cloud-video-delivery-platform-unique-analytics-and-engagement",
-      "originalUrl": "https://www.pressreleasepoint.com/seachange-enables-fully-migrated-cloud-video-delivery-platform-unique-analytics-and-engagement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-supply-chain-aia-food-additive-that-wont-harm-our-health.md",
-      "title": "Supply Chain AI—A Food Additive That Won’t Harm Our Health",
-      "excerpt": "From intelligent fridges to footfall figures, food and beverage companies are using AI to develop, produce, and deliver the products customers want—and it’s helping them do it more sustainably, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/",
-      "originalUrl": "https://www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61119153e2a91c164f29e63c%2F0x0.jpg",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/amp/",
-      "publishedDateTime": "2021-08-09T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-student-researcher-urges-natural-language-processing-research-focus-on-signed-languages.md",
-      "title": "Student researcher urges natural language processing research focus on signed languages",
-      "excerpt": "Advancements in natural language processing (NLP) enable computers to understand what humans say and help people communicate through tools like machine translation, voice-controlled assistants and chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/sign-language.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-student-urges-natural-language-focus.amp",
-      "publishedDateTime": "2021-08-09T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-new-technology-paves-way-towards-personalized-antibiotic-therapy.md",
-      "title": "New technology paves way towards personalized antibiotic therapy",
-      "excerpt": "Researchers have developed a method for monitoring bacterial responses to antibiotics in health-care settings that opens the door to personalized antibiotic therapy for patients. Using microwave sensing technology researchers have developed a low-cost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/08/210809144123.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/08/210809144123.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition.md",
-      "title": "Announcing model improvements and lower annotation limits for Amazon Comprehend custom entity recognition",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that provides APIs to extract key phrases, contextual entities, events, sentiment from unstructured text, and more. Entities refer to things in your document such as people, places, organizations, credit card numbers, and so on. But what",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/09/1-4900-counts_rev1.png",
-          "width": 800,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T13:07:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks.md",
-      "title": "The Fallacy Of Fintech Ethics: Could Fintechs Be Less Ethical Than Banks?",
-      "excerpt": "There’s a misguided notion permeating the banking industry that fintech startups are somehow more ethical than banks. They're not—and their reliance on this trope is going to backfire on fintechs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/",
-      "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610e82e7a48e440181a5a586%2F0x0.jpg",
-          "width": 1200,
-          "height": 1003,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

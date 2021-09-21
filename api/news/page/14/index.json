@@ -2,6 +2,348 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-09-07-intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year.md",
+      "title": "Intel’s Mobileye, rental giant Sixt to launch a robotaxi service in Germany next year",
+      "excerpt": "Intel subsidiary Mobileye and rental car giant Sixt SE plan to launch a robotaxi service in Munich next year, the CEOs of the two companies announced Tuesday during the IAA Mobility show in Germany. The robotaxi service is leveraging all of Intel’s,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/",
+      "originalUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Mobileye-Robotaxi-Tel-Aviv-2.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/",
+      "publishedDateTime": "2021-09-07T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-edge-artificial-intelligence-ai-chip-market-size-comprehensive-analysis-growth-forecast-from-2021-to-2026.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market Size Comprehensive Analysis, Growth Forecast from 2021 to 2026",
+      "excerpt": "According to our latest research, the global Edge Artificial Intelligence (AI) Chip size is estimated to be million in 2021 from million in 2020, with a change of % between 2020 and 2021. The global Edge Artificial Intelligence (AI) Chip market size is expected to grow at a CAGR of % for the next five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-comprehensive-analysis-growth-forecast-from-2021-to-2026-2021-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-comprehensive-analysis-growth-forecast-from-2021-to-2026-2021-09-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-vw-will-deploy-argo-ai-powered-autonomous-idbuzz-vans.md",
+      "title": "VW will deploy Argo AI-powered autonomous ID.Buzz vans",
+      "excerpt": "Volkswagen announced it will begin testing self-driving, ID.Buzz-based electric shuttles in 2025. Powered by Argo AI, a Pittsburgh-based company the firm holds a stake in, the vans will begin carrying users in Hamburg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/vw-will-deploy-argo-ai-powered-autonomous-id-buzz-vans/ar-AAObKqM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/09/06001634/volkswagen-argo-ai-id-buzz-4.jpg",
+          "width": 1062,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+      "publishedDateTime": "2021-09-07T07:12:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+        "domain": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-personalizing-price-with-ai-how-walmart-kroger-do-it.md",
+      "title": "Personalizing Price With AI: How Walmart, Kroger Do It",
+      "excerpt": "In 2020, nearly 60% of retailers said they planned to use artificial intelligence for their pricing strategies by the end of 2021. The results of these efforts, in terms of pricing at the individual level,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
+      "originalUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612fb1dc40ef6a756615be55%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
+      "publishedDateTime": "2021-09-07T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai.md",
+      "title": "To succeed in the metaverse, brands must embrace empathetic CX and humanized AI",
+      "excerpt": "Every brand needs to planning how its digital incarnation is going to look, sound, act, and most importantly for brands…feel.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/",
+      "originalUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-01-at-9.44.44-AM.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/amp/",
+      "publishedDateTime": "2021-09-07T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-everything-ai-and-robotics-at-techcrunch-disrupt-2021.md",
+      "title": "Everything AI and robotics at TechCrunch Disrupt 2021",
+      "excerpt": "AI is everywhere in tech, and you can bet it will be a vital topic at TechCrunch Disrupt 2021 on 21-23. It’s the driving force behind just about everything from rockets, robotics and customer service to deep science and autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
+      "originalUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Disrupt-Robotics.png?w=1024",
+          "width": 1024,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
+      "publishedDateTime": "2021-09-07T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-collaboration-overload-is-sinking-productivity.md",
+      "title": "Collaboration Overload Is Sinking Productivity",
+      "excerpt": "And, on a more dubious front, one global services organization implemented ... the inefficiencies and subsequent cognitive switching costs of always-on cultures and 2) the personal motivations ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
+      "originalUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/08/Sep21_07_175502607.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
+      "publishedDateTime": "2021-09-07T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better.md",
       "title": "Deep Learning Artificial Intelligence Predicts Breast Cancer Risk Better",
       "excerpt": "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,",
@@ -843,344 +1185,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
-      "title": "DeepMind Is Working on a Solution to Bias in AI",
-      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
-          "width": 1178,
-          "height": 1070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-why-coders-love-the-ai-that-could-put-them-out-of-a-job.md",
-      "title": "Why coders love the AI that could put them out of a job",
-      "excerpt": "As a programmer, far from seeing the tool as risking her job she likes the idea of having AI to support her with \"the more boring parts\" of coding, like checking over complicated",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-57914432",
-      "originalUrl": "https://www.bbc.co.uk/news/business-57914432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6736/production/_119522462_ai.janineluk-herpicture.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-57914432.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-57914432.amp",
-      "publishedDateTime": "2021-09-06T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare.md",
-      "title": "When Fintech Meets Healthcare: How can cryptocurrencies and blockchain improve access to healthcare?",
-      "excerpt": "Cryptocurrencies and blockchain technology are used in a wide array of new applications – including in healthcare. Fintech start-ups are the catalyst for many of these recent market innovations – and they aren’t just focused on the banking and financial services sector.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/",
-      "originalUrl": "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/09/When-Fintech-Meets-Healthcare.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/when-fintech-meets-healthcare-how-can-cryptocurrencies-and-blockchain-improve-access-to-healthcare/amp/",
-      "publishedDateTime": "2021-09-06T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-googles-newest-nest-cam-is-a-solid-security-camera-if-youre-all-in-with-google.md",
-      "title": "Google's Newest Nest Cam Is a Solid Security Camera If You're All In With Google",
-      "excerpt": "You no longer need a subscription to get a Nest cam's best features, but you're also sacrificing some freedom to commit to Google.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
-      "originalUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655954f657b2763e4d3b212bd0751a0d.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-newest-nest-cam-is-a-solid-security-camera-if-y-1847615882/amp",
-      "publishedDateTime": "2021-09-06T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-argo-ai-and-volkswagen-show-off-self-driving-vehicle.md",
-      "title": "Argo AI and Volkswagen show off self-driving vehicle",
-      "excerpt": "Argo AI -- the autonomous car venture backed by Volkswagen and Ford -- is gearing up for the 2021 IAA Mobility event in Munich, where it",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "originalUrl": "https://www.techspot.com/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-06-image-11.jpg",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91120-argo-ai-volkswagen-show-off-self-driving-vehicle.html",
-      "publishedDateTime": "2021-09-06T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-eager-for-ai-first-you-have-to-train-it.md",
-      "title": "Eager for AI? First you have to train it",
-      "excerpt": "Artificial intelligence can do little fresh out of the box. Few organizations understand how complex and lengthy the training process is.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
-      "originalUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/07/untitled-design16.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/06/eager-for-ai-first-you-have-to-train-it/amp/",
-      "publishedDateTime": "2021-09-06T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision.md",
-      "title": "Mobius Labs nabs $6M to help more sectors tap into computer vision",
-      "excerpt": "Berlin-based Mobius Labs has closed a €5.2 million (~$6.1M) funding round off the back of increased demand for its computer vision training platform. The Series A investment is led by Ventech VC, along with Atlantic Labs,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/",
-      "originalUrl": "https://techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1162249239.jpg?w=1024",
-          "width": 1024,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/06/mobius-labs-nabs-6m-to-help-more-sectors-tap-into-computer-vision/amp/",
-      "publishedDateTime": "2021-09-06T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

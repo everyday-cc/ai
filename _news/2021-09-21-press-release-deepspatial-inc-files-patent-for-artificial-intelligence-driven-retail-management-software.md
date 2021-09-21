@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sharecast.com/amp/news/market_reports/press-release-deep
 cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Sharecast
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Press Release: GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
+    excerpt: "GE Healthcare Introduces Revolution Ascend, a New CT System to Increase Operational Efficiency & Patient Comfort"
+    publishedDateTime: 2021-09-21T17:32:00Z
+    webUrl: "https://www.sharecast.com/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-ge-healthcare-introduces-revolution-ascend-a-new-ct-system-to-increase-operational-efficiency-patient-comfort--8109665.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 33
+    images:
+      - url: "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Renesas Accelerates Deep Learning Development for ADAS and Automated Driving Applications"
     excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today unveiled the R-Car Software Development Kit (SDK), a complete software platform in a single package that enables quicker and easier"
     publishedDateTime: 2021-09-21T12:27:00Z

@@ -2,6 +2,316 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-08-ai-is-redefining-how-we-use-documents-in-a-digital-world.md",
+      "title": "AI Is Redefining How We Use Documents In A Digital World",
+      "excerpt": "AI-powered intelligent document processing is helping to convert unstructured data in digital documents into structured data that can be fed into downstream applications to automate business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376154fe77d3ed291e6760%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/",
+      "publishedDateTime": "2021-09-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-in-the-us-the-ai-industry-risks-becoming-winner-take-most.md",
+      "title": "In the US, the AI Industry Risks Becoming Winner-Take-Most",
+      "excerpt": "A new study warns that the American AI industry is highly concentrated in the San Francisco Bay Area and that this could prove to be a weakness in the long run. The Bay leads all other regions of the country in AI research and investment activity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.brookings.edu/research/the-geography-of-ai/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/in-the-us-the-ai-industry-risks-becoming-winner-take-most/ar-AAOdK3S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.brookings.edu/wp-content/uploads/2021/08/shutterstock_1201834804.jpeg",
+          "width": 5555,
+          "height": 3125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brookings.edu/research/the-geography-of-ai/?amp",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-geography-of-ai/?amp",
+      "publishedDateTime": "2021-09-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brookings.edu/research/the-geography-of-ai/",
+        "domain": "brookings.edu/research/the-geography-of-ai/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold.md",
+      "title": "BHP inks exploration deal with Gates and Bezos-backed KoBold",
+      "excerpt": "The world’s largest miner will use artificial intelligence tools developed by KoBold Metals, a start-up backed by a coalition of billionaires.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/",
+      "originalUrl": "https://www.mining.com/bhp-inks-exploration-deal-with-gates-and-bezos-backed-kobold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mining.com/wp-content/uploads/2021/09/ai-in-mining.jpeg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mining",
+        "domain": "mining.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-secureauth-identity-security-solutions-now-available-in-aws-marketplace.md",
+      "title": "SecureAuth Identity Security Solutions Now Available in AWS Marketplace",
+      "excerpt": "SecureAuth, an identity security leader, today announced the availability of the SecureAuth Identity Platform and the SecureAuth Identity Store in AWS Marketplace. AWS Marketplace is a digital catalog with thousands of software listings",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19986009.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19986009.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-city-of-pittsburgh-pa-goes-live-on-css-impacts-financial-ecosystems-cloud-as-its-business-tax-management-platform.md",
+      "title": "City of Pittsburgh, PA Goes Live on CSS IMPACT’s Financial Ecosystems Cloud as its Business Tax Management Platform",
+      "excerpt": "On September 1st, 2021, the City of Pittsburgh Pennsylvania, Department of Finance, officially launched CSS IMPACT Financial Cloud as their new Enterprise Business Tax Management Financial Ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-pittsburgh-pennsylvania-artificial-intelligence-bed0f3783d589b64d26d0ddde62345b9",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-pittsburgh-pennsylvania-artificial-intelligence-bed0f3783d589b64d26d0ddde62345b9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-could-boston-dynamics-robots-beat-me-in-a-fight.md",
+      "title": "Could Boston Dynamics Robots Beat Me in a Fight?",
+      "excerpt": "In a vast warehouse-style room, two humanoid robots are taking on an obstacle course. Their barrel-shaped torsos, stuffed with processors and batteries, make it look as if they’ve been going to the gym a lot but have neglected leg day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.html",
+      "originalUrl": "https://www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/12/magazine/12mag-screenland/12mag-screenland-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/08/magazine/boston-dynamics-robots.amp.html",
+      "publishedDateTime": "2021-09-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-what-you-need-to-know-about-facial-recognition-home-security-cameras.md",
+      "title": "What you need to know about facial recognition home security cameras",
+      "excerpt": "As facial recognition technology becomes more prevalent in home security cameras, it's important to understand what it is and how it's used. Here, we break it all down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
+      "publishedDateTime": "2021-09-07T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-drone-delivery-startup-techeagle-raises-500000-in-seed-round.md",
       "title": "Drone Delivery Startup TechEagle Raises $500,000 In Seed Round",
       "excerpt": "The startup will use the funding to further launch new indigenous products, scale its operations in India, and hire across functions. With its on-demand drone delivery airline, the startup aims to imp",
@@ -856,348 +1166,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year.md",
-      "title": "Intel’s Mobileye, rental giant Sixt to launch a robotaxi service in Germany next year",
-      "excerpt": "Intel subsidiary Mobileye and rental car giant Sixt SE plan to launch a robotaxi service in Munich next year, the CEOs of the two companies announced Tuesday during the IAA Mobility show in Germany. The robotaxi service is leveraging all of Intel’s,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/",
-      "originalUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Mobileye-Robotaxi-Tel-Aviv-2.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/intels-mobileye-rental-giant-sixt-to-launch-a-robotaxi-service-in-germany-next-year/amp/",
-      "publishedDateTime": "2021-09-07T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-edge-artificial-intelligence-ai-chip-market-size-comprehensive-analysis-growth-forecast-from-2021-to-2026.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market Size Comprehensive Analysis, Growth Forecast from 2021 to 2026",
-      "excerpt": "According to our latest research, the global Edge Artificial Intelligence (AI) Chip size is estimated to be million in 2021 from million in 2020, with a change of % between 2020 and 2021. The global Edge Artificial Intelligence (AI) Chip market size is expected to grow at a CAGR of % for the next five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-comprehensive-analysis-growth-forecast-from-2021-to-2026-2021-09-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-comprehensive-analysis-growth-forecast-from-2021-to-2026-2021-09-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-vw-will-deploy-argo-ai-powered-autonomous-idbuzz-vans.md",
-      "title": "VW will deploy Argo AI-powered autonomous ID.Buzz vans",
-      "excerpt": "Volkswagen announced it will begin testing self-driving, ID.Buzz-based electric shuttles in 2025. Powered by Argo AI, a Pittsburgh-based company the firm holds a stake in, the vans will begin carrying users in Hamburg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/vw-will-deploy-argo-ai-powered-autonomous-id-buzz-vans/ar-AAObKqM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/09/06001634/volkswagen-argo-ai-id-buzz-4.jpg",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "publishedDateTime": "2021-09-07T07:12:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-        "domain": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-personalizing-price-with-ai-how-walmart-kroger-do-it.md",
-      "title": "Personalizing Price With AI: How Walmart, Kroger Do It",
-      "excerpt": "In 2020, nearly 60% of retailers said they planned to use artificial intelligence for their pricing strategies by the end of 2021. The results of these efforts, in terms of pricing at the individual level,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
-      "originalUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612fb1dc40ef6a756615be55%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
-      "publishedDateTime": "2021-09-07T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai.md",
-      "title": "To succeed in the metaverse, brands must embrace empathetic CX and humanized AI",
-      "excerpt": "Every brand needs to planning how its digital incarnation is going to look, sound, act, and most importantly for brands…feel.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/",
-      "originalUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-01-at-9.44.44-AM.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/to-succeed-in-the-metaverse-brands-must-embrace-empathetic-cx-and-humanized-ai/amp/",
-      "publishedDateTime": "2021-09-07T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-everything-ai-and-robotics-at-techcrunch-disrupt-2021.md",
-      "title": "Everything AI and robotics at TechCrunch Disrupt 2021",
-      "excerpt": "AI is everywhere in tech, and you can bet it will be a vital topic at TechCrunch Disrupt 2021 on 21-23. It’s the driving force behind just about everything from rockets, robotics and customer service to deep science and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
-      "originalUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Disrupt-Robotics.png?w=1024",
-          "width": 1024,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/07/everything-ai-and-robotics-at-techcrunch-disrupt-2021/amp/",
-      "publishedDateTime": "2021-09-07T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-collaboration-overload-is-sinking-productivity.md",
-      "title": "Collaboration Overload Is Sinking Productivity",
-      "excerpt": "And, on a more dubious front, one global services organization implemented ... the inefficiencies and subsequent cognitive switching costs of always-on cultures and 2) the personal motivations ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
-      "originalUrl": "https://hbr.org/2021/09/collaboration-overload-is-sinking-productivity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/08/Sep21_07_175502607.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/collaboration-overload-is-sinking-productivity",
-      "publishedDateTime": "2021-09-07T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
