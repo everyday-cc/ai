@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-01-2017-ai-deep-learning-and-gpus.md",
+      "title": "2017 – AI, Deep Learning, and GPUs",
+      "excerpt": "Armed with huge data sets and increasingly powerful GPUs, neural network architectures got bigger and better, helping to close the human-machine performance gap in two prominent AI workloads: natural language processing (NLP) and computer vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/",
+      "originalUrl": "https://www.datanami.com/anniversary_channel/2017-ai-deep-learning-and-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_for_DoD.png",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-31T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-android-12-adds-ai-and-machine-learning-with-private-compute-core-but-keeps-your-data-secure.md",
       "title": "Android 12 adds AI and machine learning with Private Compute Core but keeps your data secure",
       "excerpt": "Android 12 is bringing a new feature to strengthen the security of data used by machine learning. Jack Wallen explains Private Compute Core.",
@@ -1363,59 +1407,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark.md",
-      "title": "Tesla To Be The Most 'Deeply Integrated Automative Company' In The World With AI Day Plans Fully-Implemented, Says Ark",
-      "excerpt": "If Tesla Inc (NASDAQ: TSLA) manages to fully implement its AI Day agenda, it would become the most deeply integrated “automotive company” in the world, as per Ark Invest.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark-1030754545",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-to-be-the-most-deeply-integrated-automative-company-in-the-world-with-ai-day-plans-fully-implemented-says-ark-1030754545",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/milan-csizmadia-d0v_dqo_xum-unsplash_5_1.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
       ]
     }
   ],

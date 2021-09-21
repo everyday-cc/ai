@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-21T13:42:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/degica-celebrates-becoming-first-japanese-payments-company-to-sponsor-money2020-with-free-ai-website-translation-for-new-sign-ups-301381595.html"
 webUrl: "https://www.prnewswire.com/news-releases/degica-celebrates-becoming-first-japanese-payments-company-to-sponsor-money2020-with-free-ai-website-translation-for-new-sign-ups-301381595.html"
 type: article
-quality: 9
-heat: 9
+quality: 11
+heat: 11
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1630867/KOMOJU_by_Degica_Logo.jpg?p=facebook"
@@ -24,6 +25,6 @@ images:
     height: 1366
     isCached: true
 
-secured: "ELR/wRF5kExo6H1VXkkwaP4VZTtcjbHSFpbpSefi70tYswSpQpyNa607Q1+QMQKmL+YLnYL188PFPPvzi1X71OZJHTiE9f09B1iVR9FmOOVYGUdB68Ym5m2k8k7GO35QXjfe8QLyqhMtLCdJSHFRNXSqf/U1QkSgIDYFuIUvgIyx6FLLp6hWKCMJNEkrPONXlaXvfeJXj7IICOlrH2YyiDivMP14Jf1AnbloKSzwxSgJXteLZjBrcl3rEHnT1OHC92CJ1bWdqBXwtvwJhFDkY9svhn2RKkzxEGWjhW2HRxS3VPHxoutI81wowa6hWDYQFQ5hQX++Jww7ofUB4aLEZyRY7FY3f8Cp/DdL2Slr10g=;7bgwDyXnLGa0D4DONSKHPg=="
+secured: "owtZ2EtOFV+xkqxMHmC0KliL6fYh3ffrgB4SOOMtVYAplRw4AKjzjeZ0kl5s0Yv9IfvtLes4TauMXX+iOw1aYhlXq5DYYKmspMSlogATOJrvsrfq3EgygG/ofpZXfCacxtPmeQdkol/mZl0MJ3IW38v8+QGHQ7PQDPWHIv/vV3Nd+cGVGYbzIcnCYd3Rd3Fy6CNTL5v/oqP+mDDm3VNlUi4VK9OOhps+rqpBe9UwBE5yqkwBdlyFngnPP0l+MiNw1SMoiPP7Q9VYfsEdCq9pRAKx5dsSW8Qh7UnTjknHGuZUuOJgPRLE02AF+YQ6WvZMWnwbPllWIB4NqkfgP13fVs3eeHwShBBqiZSGHWpyfv5vwkqOD4U63vG01ZW2o2xOeGG99n8pRMskesX188VJxoxxGI6wsKLVe6ALqZB1gN3qyJUCf3jFHBaa6OK89VhAZQD5YNPHrcFWqUX9FaNVX5AJLH6jOUnKZ/um8SmnEap02fXrfKe1joeabSVXC6XjEc2WOgmpfQsqQ2eVQwMICA==;QbK2+zuL8PWfbnAouG/B7w=="
 ---
 

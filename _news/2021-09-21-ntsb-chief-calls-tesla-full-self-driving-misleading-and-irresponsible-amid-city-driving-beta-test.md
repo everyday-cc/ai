@@ -55,6 +55,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
+    excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
+    publishedDateTime: 2021-09-21T15:10:00Z
+    webUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/"
+    ampWebUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 49
+    images:
+      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/0x0-Model3_RHD_02-1024x638.jpg"
+        width: 1024
+        height: 638
+        isCached: true
   - title: "How Tesla is Using Big Data: Benefits & Challenges of Big Data in Self Driving Cars"
     excerpt: "Tesla is leading the electric vehicle race by relying on big data, artificial intelligence and the internet of things to outsmart its competitors."
     publishedDateTime: 2021-09-20T14:38:00Z
@@ -83,7 +99,21 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "NTSB boss: Tesla's Full Self-Driving name “misleading and irresponsible”"
+    excerpt: "Tesla continues to develop its Full Self-Driving feature and is slowly rolling out more and more functionality as the technology advances, though the NTSB isn't happy with the feature's name which is causing confusion about the capabilities."
+    publishedDateTime: 2021-09-21T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133635_ntsb-boss-tesla-s-full-self-driving-name-misleading-and-irresponsible"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 38
+    images:
+      - url: "https://images.hgmsites.net/hug/2021-tesla-model-s_100777913_h.jpg"
+        width: 1158
+        height: 576
+        isCached: true
 
-secured: "koI0bJONKdHpvSOuxxXJBsYKF+H7b3Pn+VFseE9rQ2QD9uR6zxofiZjtf1h+GGa27nfrnWgSQFLWrIBXZW6Drl1vgDag8uXtshGoSNdYxDNZmbBNAMq6/dqXvnnVccfvs550erp4QGfwRm+cwGOVkjNQ80CXAy0Qd2J6eWViRAJ+DTUwsT9gMxDztaYlTes5gOOXxlme3fn8HisAL2gLsYbnTrwbdumqyxb4tu3x5HIux41H2YYcompYuzxerC844SLURIyU8gAkLOvWq8nDeykYK3a/wggw8JOD9BKoYQPKq7Vkp2gilq24q+gtnTTezCPZyperW8MpMLntzyYCMksvHEeG1mItUG5943s4Zes=;5vaZmazrt8BZFmghUtPY2g=="
+secured: "LuV9vIMOBZfNeDnOo+yQByy1hTl3NL0a6X4qV9y40RLwQwx5nRrZMtUFc7caQlfk//yLGmaBIkFsJ2kCQMMuqCPWQRQyT4IhF+muK+JUBM329Z39oRBv6wPJaBUfJl0vrnVJ/VUWzBIkBAD0gBLtLXx7ciflV6QJEBtMXHvPUR50GCq2RHYyt1Kju2ODyeTH9PDl4lVmE77yBl5hvbBmFaMBw6hsZEsRB+nCZkVGDmCcfjpLV0dHynIRGwMO8idkyprKMsg6w+cFoYDdxEGksdc8uSUDu82yaO3YzfX9UzcxWmeD4meipCilbBP5WJIQOujOPEjXspJEhVcfYr15HHeuvIkWYpD+gyPOmJb5sCJoZDczjaqxmNjaxxj7wEL9cvO8/pugeBWmyW+I84jkD/nPsyRxFLKq9gjAdwfs5mcSmPyrqrXdBxNrHXqCx+73UUWT2AyYJo7J8LVzanoUAYo7ZSVBpJEHfkMa6yln71vUmcf2GtKolXvnW77SRngER8hBCFqDVJ3J34p4tGltTA==;n9KIX0YYbDbUGFh9595TIA=="
 ---
 

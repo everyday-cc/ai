@@ -2,6 +2,265 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-10-ibm-adds-ai-and-automation-to-watson-assistant.md",
+      "title": "IBM Adds AI and Automation to Watson Assistant",
+      "excerpt": "New capabilities in IBM Watson Assistant include enhanced search, transcription, and agent hand-off tools and an integration with IntelePeer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/IBM-Adds-AI-and-Automation-to-Watson-Assistant-148928.aspx",
+      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/IBM-Adds-AI-and-Automation-to-Watson-Assistant-148928.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/139856-0921_WFO_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2.md",
+      "title": "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2",
+      "excerpt": "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-china-beijing-cb84803ca1add151f0b84e73a4ad8914",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-china-beijing-cb84803ca1add151f0b84e73a4ad8914",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords.md",
+      "title": "Sony CSL develops AI tool to help musicians generate new melodies and chords",
+      "excerpt": "When users press the compose button, the AI will generate eight-bar melodies according to the ... connection technology to provide electrical continuity between the pixel chip and the logic chip, and feature pixel size of 4.86 μm. These features enable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords/",
+      "originalUrl": "https://www.zdnet.com/article/sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/09/10/3b282445-2a15-46d4-aad7-d4faef3e5c6d/flow-machineseye-2.png",
+          "width": 1201,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords/",
+      "publishedDateTime": "2021-09-09T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-finally-a-robot-vacuum-with-ai-that-can-sniff-out-and-avoid-dog-poop.md",
+      "title": "Finally! A robot vacuum with AI that can sniff out (and avoid) dog poop",
+      "excerpt": "They’re finally going there…so to speak. In what may be the biggest boon to animal lovers since pet food in a can, rolling robot vacuum maker iRobot has come up with an AI-assisted way for its newest model to tell the difference between pet poop and regular floor clutter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop",
+      "originalUrl": "https://www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/gettyimages-587079173.jpg",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/robot-vacuum-ai-avoids-dog-poop?amp",
+      "publishedDateTime": "2021-09-09T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-driverless-cars-technology-brings-dream-a-step-closer.md",
+      "title": "Driverless cars: Technology brings dream a step closer",
+      "excerpt": "At this month’s CES technology show in Las Vegas, chipmaker Nvidia launched the Drive PX 2 in-­vehicle artificial intelligence platform for driverless operation. Nvidia says the PX2 has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
+      "originalUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-microsoft-explores-machine-learning-in-space-with-aiml.md",
+      "title": "Microsoft explores machine learning in space with AIML",
+      "excerpt": "Microsoft joins the University of Adelaide’s Australian Institute for Machine Learning (AIML) to explore how machine learning can be used in space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manmonthly.com.au/news/microsoft-explores-machine-learning-space-aiml/",
+      "originalUrl": "https://www.manmonthly.com.au/news/microsoft-explores-machine-learning-space-aiml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.manmonthly.com.au/wp-content/uploads/2021/09/07DCC2B9-4F08-47CF-98F8-1AFBAEE55EDB_1_201_a.jpeg",
+          "width": 1200,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturers' Monthly",
+        "domain": "manmonthly.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft.md",
       "title": "Ethics panels reject and delay biometrics, AI projects for Google, IBM, Microsoft",
       "excerpt": "Companies are waiting for regulation from govts and blocs, and also to improve their own tech to avoid issues such as perpetuating biases around race and gender",
@@ -880,284 +1139,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-intelligent-speech-and-voice-recognition-market-worth-observing-growth-google-baidu-facebook.md",
-      "title": "Intelligent Speech and Voice Recognition Market Worth Observing Growth: Google, Baidu, Facebook",
-      "excerpt": "Get free access to sample report @  The study provides comprehensive outlook vital to keep market knowledge up to date segmented by Banking, Telecommunication, Healthcare, Government & Consumer Applications,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/intelligent-speech-and-voice-recognition-market-worth-observing-growth-google-baidu-facebook/",
-      "originalUrl": "https://manometcurrent.com/intelligent-speech-and-voice-recognition-market-worth-observing-growth-google-baidu-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/intelligent-speech-and-voice-recognition-market-worth-observing-growth-google-baidu-facebook/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/intelligent-speech-and-voice-recognition-market-worth-observing-growth-google-baidu-facebook/?amp=1",
-      "publishedDateTime": "2021-09-09T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service.md",
-      "title": "IBM Watson Launches New AI and Automation Features to Help Businesses Transform Customer Service",
-      "excerpt": "today announced the launch of new AI and automation capabilities in IBM Watson Assistant designed to make it easier for businesses to create enhanced customer service experiences across any ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-1030789862",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-launches-new-ai-and-automation-features-to-help-businesses-transform-customer-service-1030789862",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-watson-assistant-releases-new-features-to-help-businesses-transform-customer-service.md",
-      "title": "Watson Assistant releases new features to help businesses transform customer service",
-      "excerpt": "IBM’s virtual agent, Watson Assistant, is now available with an add-on option that is designed to connect to nearly every major contact center platform that uses the SIP protocol, including Genesys and NICE inContact, in as little as half an hour with no coding. Now, voice assistants built with Watson",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepeer/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/09/watson-assistant-intelepeer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/09/Watson-Assistant_Voice-Integration-with-IntelePeer-1024x471.png",
-          "width": 1024,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T05:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates.md",
-      "title": "IBM Watson Assistant aims to expand contact center footprint with AI, automation updates",
-      "excerpt": "What is AI? Here's everything you need to know about artificial intelligence IBM also said that Watson Assistant can connect with most contact center platforms without code in as little as an hour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "publishedDateTime": "2021-09-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-aws-startup-webinar-recap-applying-ai-and-ml-to-healthcare-data.md",
-      "title": "AWS StartUP Webinar Recap - Applying AI and ML to Healthcare data",
-      "excerpt": "The mid-layer is Amazon SageMaker, which provides developers and data scientists with the ability to build, train and deploy ML models at scale. The bottom layer – of ML frameworks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp",
-      "originalUrl": "https://yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagezbqr-1631180683490.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp",
-      "publishedDateTime": "2021-09-09T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-startup-webinar-series-recap-how-fintech-can-harness-the-power-of-aiml-for-document-processing.md",
-      "title": "StartUP Webinar Series Recap: how Fintech can harness the power of AI/ML for document processing",
-      "excerpt": "The session also covered use cases from Perfios (who used Amazon SageMaker to build a product for Debit Card Scores). Finally, the session looked at intuit – the global financial platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/09/aws-startup-webinar-series-fintech-harness-power-ai-ml-document-processing/amp",
-      "originalUrl": "https://yourstory.com/2021/09/aws-startup-webinar-series-fintech-harness-power-ai-ml-document-processing/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imageeoaz-1631179376307.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/09/aws-startup-webinar-series-fintech-harness-power-ai-ml-document-processing/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/09/aws-startup-webinar-series-fintech-harness-power-ai-ml-document-processing/amp",
-      "publishedDateTime": "2021-09-09T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

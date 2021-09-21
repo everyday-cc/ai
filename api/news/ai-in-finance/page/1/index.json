@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-21-how-ai-is-redefining-the-human-touch-in-fintech-industry.md",
+      "title": "How AI is redefining the ‘human touch’ in fintech industry",
+      "excerpt": "The key to successfully navigating commercial lending lies in leveraging AI to minimise time, effort and risk at the back-end, so that relationship managers can build stronger relationships with prosp",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/o50gd8/article36594522.ece/ALTERNATES/LANDSCAPE_615/bl22thinkAI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
+      "publishedDateTime": "2021-09-21T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care.md",
       "title": "AI Startup Navina Leverages The Amazon Cloud To Improve Patient Care",
       "excerpt": "But in their case, it wasn’t a cybersecurity or fintech or proptech startup, but a healthcare startup, joining the most recent thriving sector in the booming Startup Nation of Israel. The rapid digital transformation of the healthcare industry worldwide,",
@@ -576,40 +619,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-14-temenos-and-ibm-collaborate-to-accelerate-hybrid-cloud-adoption-in-the-financial-services-industry.md",
-      "title": "Temenos and IBM Collaborate to Accelerate Hybrid Cloud Adoption in the Financial Services Industry",
-      "excerpt": "Temenos (SIX: TEMN), the banking software company, today announced the availability of Temenos Transact next-generation core banking with Red Hat Open",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210913005942/en/Temenos-and-IBM-Collaborate-to-Accelerate-Hybrid-Cloud-Adoption-in-the-Financial-Services-Industry",
-      "originalUrl": "https://www.businesswire.com/news/home/20210913005942/en/Temenos-and-IBM-Collaborate-to-Accelerate-Hybrid-Cloud-Adoption-in-the-Financial-Services-Industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-14-machine-learning-is-moving-beyond-the-hype.md",
       "title": "Machine learning is moving beyond the hype",
       "excerpt": "Today, companies across every industry are deploying millions of machine learning models across multiple lines of business. Soon every enterprise will take part.",
@@ -692,6 +701,49 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-temenos-and-ibm-collaborate-to-accelerate-hybrid-cloud-adoption-in-the-financial-services-industry.md",
+      "title": "Temenos and IBM Collaborate to Accelerate Hybrid Cloud Adoption in the Financial Services Industry",
+      "excerpt": "Temenos (SIX: TEMN), the banking software company, today announced the availability of Temenos Transact next-generation core banking with Red Hat OpenShift on IBM Cloud, to accelerate hybrid cloud adoption within the financial services industry.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-3695e2ebdce54251b44a14855d39400c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-3695e2ebdce54251b44a14855d39400c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1285,58 +1337,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-knowledge-as-a-service-platform-lynk-lands-funding-from-ubs-investment-bank.md",
-      "title": "“Knowledge-as-a-service” platform Lynk lands funding from UBS’ Investment Bank",
-      "excerpt": "Lynk, the “knowledge-as-a-service” platform with more than 840,000 experts, announced today it has added $5 million raised from UBS’ Investment Bank division to its previously announced Series B. This brings the round’s new total to $29 million.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/01/knowledge-as-a-service-platform-lynk-lands-funding-from-ubs-investment-bank/",
-      "originalUrl": "https://techcrunch.com/2021/09/01/knowledge-as-a-service-platform-lynk-lands-funding-from-ubs-investment-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1248900705.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/01/knowledge-as-a-service-platform-lynk-lands-funding-from-ubs-investment-bank/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/01/knowledge-as-a-service-platform-lynk-lands-funding-from-ubs-investment-bank/amp/",
-      "publishedDateTime": "2021-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

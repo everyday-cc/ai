@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-21-how-ai-is-redefining-the-human-touch-in-fintech-industry.md",
+      "title": "How AI is redefining the ‘human touch’ in fintech industry",
+      "excerpt": "The key to successfully navigating commercial lending lies in leveraging AI to minimise time, effort and risk at the back-end, so that relationship managers can build stronger relationships with prosp",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/o50gd8/article36594522.ece/ALTERNATES/LANDSCAPE_615/bl22thinkAI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
+      "publishedDateTime": "2021-09-21T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-project44-acquires-last-mile-delivery-startup-convey-for-255m.md",
+      "title": "Project44 acquires last-mile delivery startup Convey for $255M",
+      "excerpt": "Project44 has acquired last-mile delivery startup Convey for $255 million, marking the company's largest purchase to date.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
+      "originalUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Austrian_Post_-_Roller_cages_2-e1608654110915.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
+      "publishedDateTime": "2021-09-21T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-googler-marian-croak-is-now-in-the-inventors-hall-of-fame.md",
+      "title": "Googler Marian Croak is now in the Inventors Hall of Fame",
+      "excerpt": "Look around you right now and consider everything that was created by an inventor. The computer you’re reading this article on, the internet necessary to load this article, the electricity that powers the screen, even the coffee maker you used this morning. To recognize the incredible contributions of",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
+      "originalUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/marian2.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
+      "publishedDateTime": "2021-09-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms.md",
+      "title": "Computer vision-powered workplace safety systems could lead to bias and other harms",
+      "excerpt": "AI-powered workplace safety systems that monitor for factory floor and fulfillment center hazards are potentially problematic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/21/computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms/",
+      "originalUrl": "https://venturebeat.com/2021/09/21/computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/shutterstock_1746068921.jpg?fit=800%2C544&strip=all",
+          "width": 800,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/21/computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/21/computer-vision-powered-workplace-safety-systems-could-lead-to-bias-and-other-harms/amp/",
+      "publishedDateTime": "2021-09-21T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-how-an-ai-assisted-robot-gun-assassinated-irans-top-nuclear-scientist.md",
       "title": "How An AI-Assisted Robot Gun Assassinated Iran's Top Nuclear Scientist",
       "excerpt": "An AI-assisted remote-controlled gun played a key role in Israel's assassination of Iran's nuclear kingpin, according to a new report by the New York Times",
@@ -258,7 +456,7 @@
       "originalUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -362,7 +560,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1064,216 +1262,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-zoomtopia-ai-and-video-to-power-healthcare.md",
-      "title": "Zoomtopia: AI and Video to Power Healthcare",
-      "excerpt": "At the recent Zoomtopia, the company spotlighted how healthcare providers are actively transitioning to telehealth, representing a significant disruption of the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
-      "originalUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg",
-          "width": 1032,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10.md",
-      "title": "Adobe’s New Marketing AI Let Customer Cut Ad Spend 50% While Growing Sales 10%",
-      "excerpt": "Do you spend at least $50 million a year in advertising? Adobe announced today that 80% of their marketing cloud customers are using AI to boost marketing ROI by personalizing customer experiences, creating better ads and emails,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6148b7eac3b40db800811729%2F0x0.jpg",
-          "width": 1200,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/amp/",
-      "publishedDateTime": "2021-09-20T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store.md",
-      "title": "Scale ML feature ingestion using Amazon SageMaker Feature Store",
-      "excerpt": "Amazon SageMaker Feature Store is a purpose-built solution for machine learning (ML) feature management. It helps data science teams reuse ML features across teams and models, serves features for model predictions at scale with low latency, and train and deploy new models more quickly and effectively.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/16/ML5751-image003.png",
-          "width": 928,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T09:34:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars.md",
-      "title": "Ordinary Lowly Lampposts Aiming To Stand Tall For Bolstering AI Self-Driving Cars",
-      "excerpt": "Lampposts can do a lot more than merely provide light for our roadways, and efforts are underway to leverage lampposts for the advent of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6094766e8d7cd811a0ed5a8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1893%26cropY1%3D95%26cropY2%3D1160",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-09-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.globalbankingandfinance.com/rpa-and-ai-in-banking-mark
 webUrl: "https://www.globalbankingandfinance.com/rpa-and-ai-in-banking-market-likely-to-boost-future-growth-by-2027-cognizant-capgemini-accenture-fintech-singapore-the-lab-consulting/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "How Square Is Using Artificial Intelligence and Machine Learning to Improve Cash App | Fintech Zoom"
-    excerpt: "In today’s video, I provide examples of deepfake AI technology and discuss how Square can leverage the acquisition to improve Cash App. The goal is to leverage the latest AI research to develop next-generation Cash App products."
-    publishedDateTime: 2021-09-18T21:12:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_square-stock/how-square-is-using-artificial-intelligence-and-machine-learning-to-improve-cash-app-fintech-zoom/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 42
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/09/sq-ai-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "oTYsvQ9c6ZiVcDJbA22UZQi3+4zZm3IaK7jYMbHYdES1U4FK0zi4q+Xw6QeCtkunErPs54ReHkrIFmzQj9JFTnxLpUwBj7mQIYcetFqeVUEPbL1cOk8nzAxWKQP0fs7lcILSqTMx/PDE6y3mMKHdOgaCHvrR2liJMsHzd/ZuXfSSgXj6PkbSn85t4uH94yTWFUDytFj/qHH1NWWghiwAt4H/0UU8SV8kDmByp430G6yvTlM9s+wJZ4JoBQSy7M0NOvnenyGdV40aJEUmU2p1GdwVYUkvSdgMR6+3Rxsg7PiqVN0AaM+dIG/wqsh1uPhZ7et5DR/+YoOu1bF9YUklG8kd+2IPONdOzeBMUWrrAiM=;NCJUTH69IL62LICsqfjPGg=="
 ---

@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-24-deep-learning-system-market-valuation-by-size-share-growth-trend-drivers-and-restraint-2020-2028.md",
+      "title": "Deep Learning System Market Valuation by Size, Share, Growth, Trend, Drivers and Restraint 2020-2028",
+      "excerpt": "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by Emergen Research. The deep learning system market is witnessing increased growth due to improvement in computing power and reducing hardware cost.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/24/deep-learning-system-market-valuation-by-size-share-growth-trend-drivers-and-restraint-2020-2028/",
+      "originalUrl": "https://ksusentinel.com/2021/06/24/deep-learning-system-market-valuation-by-size-share-growth-trend-drivers-and-restraint-2020-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/4-57-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing.md",
       "title": "Google Visual Inspection AI Augments AutoML To Detect Defects In Manufacturing",
       "excerpt": "Visual Inspection AI takes AutoML Vision to the next level through its domain knowledge of the manufacturing industry.",
@@ -1326,58 +1369,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it.md",
-      "title": "Deep reinforcement learning will transform manufacturing as we know it",
-      "excerpt": "Reinforcement learning and simulation are essential to solving the constraints and novel challenges that take place in factories and supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
-      "originalUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/",
-      "publishedDateTime": "2021-06-17T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

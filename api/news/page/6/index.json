@@ -2,6 +2,273 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-15-a-project-to-translate-engineering-books-into-hindi-vernacular-languages.md",
+      "title": "A project to translate engineering books into Hindi, vernacular languages",
+      "excerpt": "Using this AI-based translation engine developed by some ... a \"commendable initiative to translate technical books in Indian languages, which has the potential to unlock the intelligence and ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/articleshow/86199294.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/articleshow/86199294.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-86199506,width-1070,height-580,imgsize-1165802,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/amp_articleshow/86199294.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/amp_articleshow/86199294.cms",
+      "publishedDateTime": "2021-09-14T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-ambi-robotics-which-develops-robot-grasping-systems-raises-28m.md",
+      "title": "Ambi Robotics, which develops robot grasping systems, raises $28M",
+      "excerpt": "Ambi Robotics, a startup founded by UC Berkeley roboticist Ken Goldberg, has raised $26 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
+      "originalUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
+      "publishedDateTime": "2021-09-14T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-self-driving-cars-will-save-and-improve-lives.md",
+      "title": "Self Driving Cars Will Save and Improve Lives",
+      "excerpt": "If self-driving cars can become ten times safer than human-driven cars and became standard for the world then 1.1 million of the over 1.2 million global",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/olddrivers.jpg",
+          "width": 735,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "publishedDateTime": "2021-09-14T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-40.md",
+      "title": "AKA Announces Launch of New AI Social Robot “Musio S” and “Musio OS 4.0”",
+      "excerpt": "AKA announced that it has scheduled the official launch of Musio S and Musio OS 4.0 for September this year. Musio S is AKA’s second-generation reference social robot with an increased focus on usability.",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
+      "originalUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta-kiosk.icrowdnewswire.com/assets/source/users/akaai/22263_33406_2437.jpg?1631499698671",
+          "width": 960,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-all-change-founders-out-and-new-ceo-in-at-gpu-based-storage-array-control-biz-nyriad.md",
+      "title": "All change: founders out and new CEO in at GPU-based storage array control biz Nyriad",
+      "excerpt": "New Zealand-based Nyriad has had a makeover, with the founders out, new chairman, new funding, new CEO, exec hires, and a relocation to the USA. Back in 2014 CEO Matthew Simmons and CTO Alex St John co-founded Nyriad and devised a different way to build a storage controller designed to cope with exabyte levels of",
+      "sourceUrl": null,
+      "webUrl": "https://blocksandfiles.com/2021/09/14/all-change-new-ceo-and-founders-out-at-gpu-based-storage-array-control-biz-nyriad/",
+      "originalUrl": "https://blocksandfiles.com/2021/09/14/all-change-new-ceo-and-founders-out-at-gpu-based-storage-array-control-biz-nyriad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blocksandfiles.com/wp-content/uploads/2021/09/ronnie_barker_1.jpg",
+          "width": 648,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "blocksandfiles",
+        "domain": "blocksandfiles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-ai-hampered-by-public-perception-ethics-concerns.md",
+      "title": "AI hampered by public perception, ethics concerns",
+      "excerpt": "A panel of experts thrashed-out key barriers facing the development of AI products and features in Russia and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
+      "publishedDateTime": "2021-09-14T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market.md",
       "title": "NeuReality collaborates with Xilinx to deliver NeuReality's novel AI-centric server to the market",
       "excerpt": "NeuReality, an Israeli AI startup developing high performance AI compute platforms for cloud data centers and edge nodes,",
@@ -726,40 +993,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-14-temenos-and-ibm-collaborate-to-accelerate-hybrid-cloud-adoption-in-the-financial-services-industry.md",
-      "title": "Temenos and IBM Collaborate to Accelerate Hybrid Cloud Adoption in the Financial Services Industry",
-      "excerpt": "Temenos (SIX: TEMN), the banking software company, today announced the availability of Temenos Transact next-generation core banking with Red Hat Open",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210913005942/en/Temenos-and-IBM-Collaborate-to-Accelerate-Hybrid-Cloud-Adoption-in-the-Financial-Services-Industry",
-      "originalUrl": "https://www.businesswire.com/news/home/20210913005942/en/Temenos-and-IBM-Collaborate-to-Accelerate-Hybrid-Cloud-Adoption-in-the-Financial-Services-Industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-14-machine-learning-is-moving-beyond-the-hype.md",
       "title": "Machine learning is moving beyond the hype",
       "excerpt": "Today, companies across every industry are deploying millions of machine learning models across multiple lines of business. Soon every enterprise will take part.",
@@ -852,220 +1085,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-41640-million-by-2027.md",
-      "title": "Artificial Intelligence Diagnostic Market is Projected to Reach USD 416,4.0 Million By 2027",
-      "excerpt": "A recent study conducted by the strategic consulting and market research firm, BlueWeave Consulting, revealed that the global artificial intelligence diagnostic market was worth USD 416.1 million in the year 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/?amp=1",
-      "publishedDateTime": "2021-09-14T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-money-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
-      "title": "Money and mind control: Big Tech slams ethics brakes on AI",
-      "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence (AI) to help a financial firm decide whom to lend money to.. Read more at straitstimes.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/tech/tech-news/money-and-mind-control-big-tech-slams-ethics-brakes-on-ai-0",
-      "originalUrl": "https://www.straitstimes.com/tech/tech-news/money-and-mind-control-big-tech-slams-ethics-brakes-on-ai-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/14/eb-microsoft-091421.jpg?itok=QsveiyyI",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-startup-algoriffix-pitches-ai-as-your-co-writer-technology.md",
-      "title": "Startup Algoriffix pitches ‘AI as your co-writer’ technology",
-      "excerpt": "The latest startup touting this idea is Algoriffix, which is developing a system that can be used by musicians, composers and producers. ‘AI as your co-writer’ is the slogan, with the suggestion that people “upload your unaccompanied solo or stem and let our algorithms recognise notes and recommend the meter and harmony that fit best your performance”.",
-      "sourceUrl": null,
-      "webUrl": "https://musically.com/2021/09/14/startup-algoriffix-pitches-ai-as-your-co-writer-technology/",
-      "originalUrl": "https://musically.com/2021/09/14/startup-algoriffix-pitches-ai-as-your-co-writer-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://musically.com/wp-content/uploads/2021/09/algoriffix.jpg",
-          "width": 1500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Music Ally",
-        "domain": "musically.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp.md",
-      "title": "Facebook Takes a Stab at True Speech-to-Speech Translation via Textless NLP",
-      "excerpt": "Facebook sees textless NLP as making automatic speech translation obsolete by working in true end-to-end fashion: from speech input to speech output.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
-      "originalUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/09/Facebook-Speech-to-Speech-Translation.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031.md",
-      "title": "Artificial Intelligence Market is anticipated to expand at a CAGR of ~29% from 2021 to 2031",
-      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~29% during the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031/?amp=1",
-      "publishedDateTime": "2021-09-13T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

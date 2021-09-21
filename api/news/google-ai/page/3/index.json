@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-ai-predicts-the-shapes-of-molecules-to-come.md",
+      "title": "A.I. Predicts the Shapes of Molecules to Come",
+      "excerpt": "DeepMind has given 3-D structure to 350,000 proteins, including every one made by humans, promising a boon for medicine and drug design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/22/science/22SCI-PROTEINS1/22SCI-PROTEINS1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.amp.html",
+      "publishedDateTime": "2021-07-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-deepmind-and-embl-release-the-most-complete-database-of-predicted-3d-structures-of-human-proteins.md",
       "title": "DeepMind and EMBL release the most complete database of predicted 3D structures of human proteins",
       "excerpt": "LONDON, 22 July 2021 - DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences, to make the most complete ...",
@@ -1423,49 +1475,6 @@
         "AI Ethics",
         "Google AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology.md",
-      "title": "Why the EU Lags behind in Artificial Intelligence, Science and Technology",
-      "excerpt": "It is not surprising that Europe, despite having a strong industrial base and leading AI research and talent, is dragging behind the US and China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
-      "originalUrl": "https://www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Europe.jpg",
-          "width": 800,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
-      "cdnAmpWebUrl": "https://www-bbntimes-com.cdn.ampproject.org/c/s/www.bbntimes.com/science/why-the-eu-lags-behind-in-artificial-intelligence-science-and-technology",
-      "publishedDateTime": "2021-06-26T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

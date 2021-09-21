@@ -7,7 +7,7 @@ originalUrl: "https://fintechzoom.com/fintech_news_square-stock/how-square-is-us
 webUrl: "https://fintechzoom.com/fintech_news_square-stock/how-square-is-using-artificial-intelligence-and-machine-learning-to-improve-cash-app-fintech-zoom/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "RPA and AI in Banking Market Likely To Boost Future Growth By 2027 | Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting"
-    excerpt: "The report covers briefly the products or services in the market and their application. The report also provides information on the technological […]"
-    publishedDateTime: 2021-09-20T06:23:00Z
-    webUrl: "https://www.globalbankingandfinance.com/rpa-and-ai-in-banking-market-likely-to-boost-future-growth-by-2027-cognizant-capgemini-accenture-fintech-singapore-the-lab-consulting/"
+  - title: "How AI is redefining the ‘human touch’ in fintech industry"
+    excerpt: "The key to successfully navigating commercial lending lies in leveraging AI to minimise time, effort and risk at the back-end, so that relationship managers can build stronger relationships with prosp"
+    publishedDateTime: 2021-09-21T15:18:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 0
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://www.thehindubusinessline.com/opinion/o50gd8/article36594522.ece/ALTERNATES/LANDSCAPE_615/bl22thinkAI"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Worldwide FinTech Industry to 2026 - Featuring Affirm, Betterment and C2FO Among Others"
+    excerpt: "Technologies, Applications, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This report provides a comparative analysis between legacy financial systems and emerging"
+    publishedDateTime: 2021-09-21T15:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-20007898.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 16
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "ZQMg+BQqsNjys5Lk/bimFQKuy3QBjkBOkPLclxB/faVkuStUnEN46J7MxWE7MGCNAx0IcTgxZlEMnYB1v5qFBgioWEsZ5OXnOr7KTPQA7MyNOO3QkikTgajs3bVcAsFAeyHljhFgAgfOfp7icU/c07SPWeASXqIjj+zWdETWwDI+57SvM7n8+yDA9KsI7EJXB4lwaCy3z9uQKZnl5s1ONUmXhjkP7A75dPj6N+uNsZdlZ0w4AYSsMZr/EFFyxkVSLnSrHENQOQ+LK7CHgP0t2agaaFX04u57Pf7WhovH5oREHOlgpFdfztSJMZ8cyA3j1oWiarz31emRvP8Xc6BSGTqlZx2ZCbT4PwsjGyVfQfkYtb9pmhKbXO7KvGadwDA0UftT0WLGfBKqufIbRpj7R4cpdSbI7ZKIs0s5Qua5rmSmwGrwwcb6sRiKcGIEx46zq6vuocfAjency1FjQNHYq1hGtjSeRkvYVbhmfNueqmiTtwVasf1v7oAC4UsJkVdzuop4WZwDoxfUOn5ABEu0Hg==;a389ewP+RB2e2568uUUBVw=="
 ---

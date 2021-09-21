@@ -6,7 +6,7 @@ publishedDateTime: 2021-09-21T13:38:00Z
 originalUrl: "https://www.freshplaza.com/article/9357186/kubota-and-yamaha-motor-invest-in-us-startup-developing-robots-to-automate-strawberry-harvesting/"
 webUrl: "https://www.freshplaza.com/article/9357186/kubota-and-yamaha-motor-invest-in-us-startup-developing-robots-to-automate-strawberry-harvesting/"
 type: article
-quality: 9
+quality: 26
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2021/09/21/Stawberry_harvester.jpg"
@@ -39,6 +40,6 @@ related:
         height: 300
         isCached: true
 
-secured: "h6lpIiMQBnWhpgz9HzOyUUDAICsHyg2FW1LYXfW+YLiTFcnSKdGLLIbodwWzDv19fBhh6B6FxdlFg4cieP3TyEjqQF4s0IHIGninN3tgA5VVMFjq5zvJ2sLCnzfamCDINcVS83JZSCWt1d67wEtuETtEub+vgZRoK8jZM/nwxUEwkVPSXczTNeTcKV+9fV1z5FgFRd5gCkReE4ns4ox3c8FrV9seZiJqeXOFxlHB0prBLx9rDzAsbycz0C1WZuI/XpTTN1caW65bQ6DsanPeV8EDZdan/QDe18MbejU+ChTtjiJBtKShJfVKSUW7vjxuwLk7g3Ghq0/88/3fRHF9KF6WcRy7CeGFfizs+H3dhaE=;qAy6X/0r8Pqg5n9+ByhTvw=="
+secured: "c01dhq6/xXovX/RDGDfnHolBu8bKlunuqyO+RWcFh4f0DgSX9oRfIXBgxjKIUO5wpYGL0jrWA3Oe2xzItSpBN/Jq0Rr9XFKNLmGDQPgHobfdOm3CaYCWOsCE5H3sdfps3BSpqXbUQ4jfmboH1B5Nt6cyjWv0meLb00x07LkBljbgliTcY82ZrPRxjIXdtz+DH5IeMWnw9qOUWV4E8rYgs7U5j/7wY+86O0Xm6nyedmZiHb9raQh2RZzC5PvrZNSJ4y6+88UG6Sz0VtIHhSHgvTc1C2FkvV2Df/6c9KkllDHMfmluk4DF4uEP2cDmnUpE/V7OYJAzr7NhZOZPz/Tfae391a25WGYxoRGykapYIjxWQVFnlyfG2pSQZp21J7v4OrKJhESiODD5ZQ7+Zx2C+s2D5apoFlZAFLKjT+jkNrepmg9GiZHcZ8DrnaZMk7/KnrzVw/PzGirphDS3crUP7t9b5RW65WbMEMK4V+JhmNKi7xvmc6Te+dIhW6IBcbBihgH54FV51rK56tpj/CALlg==;pT8IURZrrc32dEZhYitDFA=="
 ---
 

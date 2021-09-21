@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/technology-double-edged-sword-face-repressi
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

@@ -55,6 +55,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
+    excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
+    publishedDateTime: 2021-09-21T15:10:00Z
+    webUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/"
+    ampWebUrl: "https://www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/tesla-drivers-fsd-autopilot-distraction/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 49
+    images:
+      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2021/09/0x0-Model3_RHD_02-1024x638.jpg"
+        width: 1024
+        height: 638
+        isCached: true
   - title: "How Tesla is Using Big Data: Benefits & Challenges of Big Data in Self Driving Cars"
     excerpt: "Tesla is leading the electric vehicle race by relying on big data, artificial intelligence and the internet of things to outsmart its competitors."
     publishedDateTime: 2021-09-20T14:38:00Z
@@ -68,6 +84,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/How_Tesla_is_Using_Big_Data-_Benefits__Challenges_of_Big_Data_in_Self_Driving_Cars.jpeg"
         width: 1920
         height: 938
+        isCached: true
+  - title: "NTSB boss: Tesla's Full Self-Driving name “misleading and irresponsible”"
+    excerpt: "Tesla continues to develop its Full Self-Driving feature and is slowly rolling out more and more functionality as the technology advances, though the NTSB isn't happy with the feature's name which is causing confusion about the capabilities."
+    publishedDateTime: 2021-09-21T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1133635_ntsb-boss-tesla-s-full-self-driving-name-misleading-and-irresponsible"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 38
+    images:
+      - url: "https://images.hgmsites.net/hug/2021-tesla-model-s_100777913_h.jpg"
+        width: 1158
+        height: 576
         isCached: true
   - title: "NTSB chief calls Tesla Full Self-Driving \"misleading and irresponsible,\" amid city-driving beta test"
     excerpt: "The safety leader suggested that more regulation is needed to reel in Tesla's experiments with untrained beta testers."

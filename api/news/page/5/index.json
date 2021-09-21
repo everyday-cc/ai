@@ -2,6 +2,282 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-15-china-roundup-softbank-leads-200m-round-of-robotics-company.md",
+      "title": "China roundup: SoftBank leads $200m round of robotics company",
+      "excerpt": "Foxconn has also put its electric vehicle collaboration with Byton on hold, while JD.com is set to open its first offline shopping center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/china-roundup-keenon-series-d-funding",
+      "originalUrl": "https://www.techinasia.com/china-roundup-keenon-series-d-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
+      "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
+      "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "originalUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "legalitprofessionals.com",
+        "domain": "legalitprofessionals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month.md",
+      "title": "What Are Raymond James Financial Stock’s Prospects Over The Next One Month?",
+      "excerpt": "Raymond James Financial stock (NYSE: RJF) lost 1.9% in the last five trading days and currently trades close to $136 per share. Raymond James Financial is a financial holding company that provides services such as investment management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6141a79d0275b8f7ca5f28da%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/09/15/what-are-raymond-james-financial-stocks-prospects-over-the-next-one-month/amp/",
+      "publishedDateTime": "2021-09-15T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-ai-edge-hardware-startup-deep-vision-nabs-35m.md",
+      "title": "AI edge hardware startup Deep Vision nabs $35M",
+      "excerpt": "Deep Vision, a company developing an AI accelerator chip and software suite for edge computing workloads, today announced that it closed a $35 million series B financing round led by Tiger Global, with participation from Exfinity Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/",
+      "originalUrl": "https://venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Deep-Vision-U.2-PCIe.png?w=600&resize=600%2C600&strip=all",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/14/ai-edge-hardware-startup-deep-vision-nabs-35m/amp/",
+      "publishedDateTime": "2021-09-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-iit-bombay-launches-project-udaan-a-language-translator.md",
+      "title": "IIT Bombay launches Project Udaan, a language translator",
+      "excerpt": "Language is more than just a medium of communication, it is the unseen thread that connects our past, present, and future” – VP M. Venkaiah Naidu What separates human beings from the rest of the living creatures is their ability to speak and be understood.",
+      "sourceUrl": null,
+      "webUrl": "https://newsonair.com/2021/09/15/iit-bombay-launches-project-udaan-a-language-translator/",
+      "originalUrl": "https://newsonair.com/2021/09/15/iit-bombay-launches-project-udaan-a-language-translator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsonair.com/wp-content/uploads/2021/06/cropped-12-1.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NEWS ON AIR",
+        "domain": "newsonair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-ai-medicine-software-market-size-2021-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to.md",
+      "title": "AI Medicine Software Market Size 2021 Global Industry Current Trends, Top Companies, Application, Growth Factors, Development and Forecast to 2027",
+      "excerpt": "Sep 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global AI Medicine Software Market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-size-2021-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to-2027-2021-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-size-2021-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to-2027-2021-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-discovery-and-aws-partner-for-uci-track-champions-league.md",
       "title": "Discovery and AWS partner for UCI Track Champions League",
       "excerpt": "Discovery Sports has turned to Amazon Web Services to provide fan engagement experiences for the upcoming UCI Track Champions League. AWS will deliver cloud infrastructure for the competition, as well as becoming the official cloud,",
@@ -799,273 +1075,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-a-project-to-translate-engineering-books-into-hindi-vernacular-languages.md",
-      "title": "A project to translate engineering books into Hindi, vernacular languages",
-      "excerpt": "Using this AI-based translation engine developed by some ... a \"commendable initiative to translate technical books in Indian languages, which has the potential to unlock the intelligence and ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/articleshow/86199294.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/articleshow/86199294.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-86199506,width-1070,height-580,imgsize-1165802,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/amp_articleshow/86199294.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/amp_articleshow/86199294.cms",
-      "publishedDateTime": "2021-09-14T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ambi-robotics-which-develops-robot-grasping-systems-raises-28m.md",
-      "title": "Ambi Robotics, which develops robot grasping systems, raises $28M",
-      "excerpt": "Ambi Robotics, a startup founded by UC Berkeley roboticist Ken Goldberg, has raised $26 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
-      "originalUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
-      "publishedDateTime": "2021-09-14T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-self-driving-cars-will-save-and-improve-lives.md",
-      "title": "Self Driving Cars Will Save and Improve Lives",
-      "excerpt": "If self-driving cars can become ten times safer than human-driven cars and became standard for the world then 1.1 million of the over 1.2 million global",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/olddrivers.jpg",
-          "width": 735,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
-      "publishedDateTime": "2021-09-14T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-40.md",
-      "title": "AKA Announces Launch of New AI Social Robot “Musio S” and “Musio OS 4.0”",
-      "excerpt": "AKA announced that it has scheduled the official launch of Musio S and Musio OS 4.0 for September this year. Musio S is AKA’s second-generation reference social robot with an increased focus on usability.",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
-      "originalUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta-kiosk.icrowdnewswire.com/assets/source/users/akaai/22263_33406_2437.jpg?1631499698671",
-          "width": 960,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-all-change-founders-out-and-new-ceo-in-at-gpu-based-storage-array-control-biz-nyriad.md",
-      "title": "All change: founders out and new CEO in at GPU-based storage array control biz Nyriad",
-      "excerpt": "New Zealand-based Nyriad has had a makeover, with the founders out, new chairman, new funding, new CEO, exec hires, and a relocation to the USA. Back in 2014 CEO Matthew Simmons and CTO Alex St John co-founded Nyriad and devised a different way to build a storage controller designed to cope with exabyte levels of",
-      "sourceUrl": null,
-      "webUrl": "https://blocksandfiles.com/2021/09/14/all-change-new-ceo-and-founders-out-at-gpu-based-storage-array-control-biz-nyriad/",
-      "originalUrl": "https://blocksandfiles.com/2021/09/14/all-change-new-ceo-and-founders-out-at-gpu-based-storage-array-control-biz-nyriad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blocksandfiles.com/wp-content/uploads/2021/09/ronnie_barker_1.jpg",
-          "width": 648,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "blocksandfiles",
-        "domain": "blocksandfiles.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-ai-hampered-by-public-perception-ethics-concerns.md",
-      "title": "AI hampered by public perception, ethics concerns",
-      "excerpt": "A panel of experts thrashed-out key barriers facing the development of AI products and features in Russia and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
-      "publishedDateTime": "2021-09-14T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

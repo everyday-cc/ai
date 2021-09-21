@@ -33,7 +33,7 @@ related:
     provider:
       name: FreshPlaza
       domain: freshplaza.com
-    quality: 9
+    quality: 26
     images:
       - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2021/09/21/Stawberry_harvester.jpg"
         width: 600

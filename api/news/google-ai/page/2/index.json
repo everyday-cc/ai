@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-08-employers-are-waging-a-war-over-work-from-home-wfh-is-winning.md",
+      "title": "Employers are waging a war over work from home. WFH is winning.",
+      "excerpt": "Welcome to Insider Weekly, where we run through the top stories of the past week. First up, employees are winning the war to WFH.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8",
+      "originalUrl": "https://www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61098bfb372268001a59751c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-business-stories-employees-winning-in-war-over-wfh-2021-8?amp",
+      "publishedDateTime": "2021-08-08T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office.md",
       "title": "Trouble at Google's DeepMind and tech workers not going back to the office",
       "excerpt": "Insider learned that an investigation of DeepMind founder and Google VP Mustafa Suleyman came after years of internal complaints. Here's a copy of the leaked email that DeepMind sent to the staff ...",
@@ -1378,58 +1430,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-ai-predicts-the-shapes-of-molecules-to-come.md",
-      "title": "A.I. Predicts the Shapes of Molecules to Come",
-      "excerpt": "DeepMind has given 3-D structure to 350,000 proteins, including every one made by humans, promising a boon for medicine and drug design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/22/science/22SCI-PROTEINS1/22SCI-PROTEINS1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/22/technology/deepmind-ai-proteins-folding.amp.html",
-      "publishedDateTime": "2021-07-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

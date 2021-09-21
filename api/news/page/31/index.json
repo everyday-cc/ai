@@ -2,6 +2,299 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-08-24-mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles.md",
+      "title": "Mi Mix 4 brings a new-gen Xiaoai Translation with AI subtitles",
+      "excerpt": "Xiaomi launched its latest Mix smartphone, Mi Mix 4. But did you know that Xiaomi’s latest smartphones come with an upgraded Xiaoai Translation offering a live AI subtitles feature? According to a recent post on Weibo,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
+      "originalUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Xiaomi-MIX-4-all-colors.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-2-big-revelations-from-teslas-ai-day-event.md",
+      "title": "2 Big Revelations From Tesla's AI Day Event",
+      "excerpt": "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F640331%2F0x0-bardessono_napa_raw-43-hdr-1-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/23/2-big-revelations-from-tesla-ai-day-event/",
+      "publishedDateTime": "2021-08-23T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-the-dos-and-donts-of-machine-learning-research.md",
+      "title": "The dos and don’ts of machine learning research",
+      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! Machine learning is becoming an important tool in many industries and fields of science.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/",
+      "originalUrl": "https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/machine-learning-challenges.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/23/the-dos-and-donts-of-machine-learning-research/amp/",
+      "publishedDateTime": "2021-08-23T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-kapacityio-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate.md",
+      "title": "Kapacity.io is using AI to drive energy and emissions savings for real estate",
+      "excerpt": "Y Combinator-backed Kapacity.io is on a mission to accelerate the decarbonization of buildings by using AI-generated efficiency savings to encourage electrification of commercial real estate — wooing buildings away from reliance on fossil fuels to power their heating and cooling needs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/",
+      "originalUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Kapacity_founders.jpeg?w=1024",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/23/kapacity-io-is-using-ai-to-drive-energy-and-emissions-savings-for-real-estate/amp/",
+      "publishedDateTime": "2021-08-23T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-china-outplacement-services-market-size-trends-and-key-players-adecco-group-ag-randstad-mercer-manpowergroup-hays-and-hudson-global.md",
+      "title": "China Outplacement Services Market Size, Trends, and Key Players – Adecco Group AG, Randstad, Mercer, ManpowerGroup, Hays and Hudson Global, Inc.",
+      "excerpt": "The China Outplacement Services Market is expected to grow at a CAGR of 0.81% from 2019 to 2026. Get | Download Sample Copy with TOC, Graphs & List of Figures @  The report covers extensive analysis of the key market players in the market,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/china-outplacement-services-market-size-and-forecast-2028/",
+      "originalUrl": "https://manometcurrent.com/china-outplacement-services-market-size-and-forecast-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/china-outplacement-services-market-size-and-forecast-2028/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/china-outplacement-services-market-size-and-forecast-2028/?amp=1",
+      "publishedDateTime": "2021-08-23T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-ai-roi-computer-vision.md",
+      "title": "AI ROI: Computer Vision",
+      "excerpt": "Computer vision is now a reality. Get immediate business value like improved quality and reduced losses from the practical AI deployment platform, Chooch AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
+      "originalUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-23-a-secret-weapon-for-self-driving-car-startups-humans.md",
       "title": "A secret weapon for self-driving car startups: Humans",
       "excerpt": "Self-driving startups like Cruise and Pony.ai have begun testing their driverless cars in some parts of California in the past year, with an additional feature: Human operators.",
@@ -931,293 +1224,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-civil-liberties-groups-demand-government-bans-facial-recognition-cameras.md",
-      "title": "Civil liberties groups demand government bans facial recognition cameras",
-      "excerpt": "Police and Home Office are accused of bypassing parliament over guidance allowing officers, local councils and enforcement agencies to use facial recognition across England and Wales in defiance of court rulings against invasive filming.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
-      "originalUrl": "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/21/08/1600x900/skynews-facial-recognition-camera_5487585.jpg?20210823094951",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
-      "publishedDateTime": "2021-08-23T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-wpp-acquires-ai-tech-firm-satalia.md",
-      "title": "WPP acquires AI-tech firm Satalia",
-      "excerpt": "WPP today announces that it has acquired Satalia, a technology company offering market-leading AI solutions for clients. Satalia is a global leader in enterprise AI and one of the UK’s fastest-growing tech companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
-      "originalUrl": "https://www.exchange4media.com/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchange4media.com/news-photo/115180-114480-112500-WPP-logo.jpg",
-          "width": 730,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
-      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/announcements-news/wpp-acquires-ai-tech-firm-satalia-115180.html",
-      "publishedDateTime": "2021-08-22T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Exchange 4 Media",
-        "domain": "exchange4media.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-airrobo-debuted-its-first-robot-vacuum-cleaner-on-amazon-and-aliexpress-simplify-your-life.md",
-      "title": "AIRROBO Debuted its First Robot Vacuum Cleaner on Amazon and AliExpress - Simplify Your Life",
-      "excerpt": "Supported by expertise in AI field for over 10 years, AIRROBO launches the strongest robot vacuum cleanerHONG KONG, Aug. 23, 2021 /PRNewswire/ --",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/airrobo-debuted-its-first-robot-vacuum-cleaner-on-amazon-and-aliexpress-simplify-your-life-1030751335",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/airrobo-debuted-its-first-robot-vacuum-cleaner-on-amazon-and-aliexpress-simplify-your-life-1030751335",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1595831/image_1.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-22T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar.md",
-      "title": "New Chip Helps Chinese Tech Brand Baidu to Make Level 5 Fully Autonomous 'Robocar'",
-      "excerpt": "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet’s autonomous car ... The production of a new second-generation Kunlun chip specialized in calculations and artificial intelligence seems to be part of the solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
-      "originalUrl": "https://www.news18.com/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/baidu_co_founder_ceo_robin_li_cctv_host_beining_sa_sit-162969138516x9.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/new-chip-helps-chinese-tech-brand-baidu-to-make-level-5-fully-autonomous-robocar-4115870.html",
-      "publishedDateTime": "2021-08-22T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications.md",
-      "title": "Tesla Is Developing A Robot. If Combined With Neuralink, It May Have Revolutionary Healthcare Applications",
-      "excerpt": "Last week, during Tesla’s much anticipated “AI Day,” an event meant to showcase the company’s revolutionary strides in artificial intelligence technology, Musk announced the next frontier for the company: developing the Tesla Bot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61230c3d88806ceaeee3c8cd%2F0x0.jpg",
-          "width": 1200,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/08/22/tesla-is-developing-a-robot-if-combined-with-neuralink-it-may-have-revolutionary-healthcare-applications/amp/",
-      "publishedDateTime": "2021-08-22T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-23-for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-ads-heres-why.md",
-      "title": "For Small Businesses, Mastering Google’s AI Is A Better Investment Than Paid Ads - Here’s Why",
-      "excerpt": "When users find exactly what they’re looking for on Google, they have a good experience - websites that help users have a good experience get rewarded with higher rankings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6122f08e296d0f917cc29d26%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1311%26cropY1%3D573%26cropY2%3D1311",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/22/for-small-businesses-mastering-googles-ai-is-a-better-investment-than-paid-adsheres-why/amp/",
-      "publishedDateTime": "2021-08-22T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

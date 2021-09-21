@@ -77,6 +77,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Global AI in Automotive & Transportation Industry to 2026 - Burgeoning Demand for Autonomous Vehicles Accelerates Market Growth"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been"
+    publishedDateTime: 2021-09-21T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-automotive--transportation-industry-to-2026---burgeoning-demand-for-autonomous-vehicles-accelerates-market-growth-301381520.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Speech and Voice Recognition Market 2021 Future Set to Massive Growth with High CAGR value Forecast By 2027"
     excerpt: "Data Bridge Market Research presents an updated and Latest Study on the Speech and Voice Recognition Market This report provides an in depth study of the market competitive situation product scope market overview opportunities driving force and market risks By"
     publishedDateTime: 2021-09-17T17:20:00Z

@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence can help highway departments find bats roosting under bridges"
-excerpt: "Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study."
-publishedDateTime: 2021-09-21T13:48:00Z
-originalUrl: "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.html"
-webUrl: "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.html"
-ampWebUrl: "https://techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-artificial-intelligence-highway-departments-roosting.amp"
+excerpt: "The big idea Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study."
+publishedDateTime: 2021-09-21T15:57:00Z
+originalUrl: "https://www.middletownpress.com/news/article/Artificial-intelligence-can-help-highway-16475343.php"
+webUrl: "https://www.middletownpress.com/news/article/Artificial-intelligence-can-help-highway-16475343.php"
+ampWebUrl: "https://www.middletownpress.com/news/amp/Artificial-intelligence-can-help-highway-16475343.php"
+cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Artificial-intelligence-can-help-highway-16475343.php"
 type: article
 quality: 50
 heat: 50
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: The Middletown Press
+  domain: middletownpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-33.jpg"
-    width: 1000
-    height: 537
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "naJyZun9a5bgzMA9hIXVsjXCLpR60NLRPEyjM/CdNMhh2kTUnhtw8zT0BNbJYEgSz1vGL0odVe/MACawp/bbK0jbuqaIvW8nUgHsetyozqchXK0qj9Dax1Vl2ECe7bu1fpOHalWLkiBE5hWf9w4BJPxzT7TzDSrtR0NW9lVo/SPEQYmzxRC5vzWmDNYdYmKK0xmk/yQ4/iuV9AmhSiZgjskXGnjIDPfnLM8c1pl0OP2bs0HNmW5qeXhVSvMYmOkgkHzrJmSI0mpCvq7Hg2d2HMJh4U20QBngSh1iYYTA6nTo9jPzNrPERTSRaQu6bepqqWjCKJlVGLfcApsXcqKIAVlJPNK7aa7tPK39q2Zypvc=;OxKyr7nPYLE8TPXQDh98BQ=="
+secured: "4YBN/8RuEIFV+H5gzf4KYdfk6aGmhFPVtl5+kwy5N2AgIDN9UQN1gzzItisJEgMf45UWvSZEWvTx0yu7/zE/gQd2r7lKUEwEFIX8crEnqZZLb/MRJnpE/Hap+CcMjvU9B6Y03CF/VvXfdFgx52KrkqVuMuLGpuK6BILRM1wZDxmzd9M8N1MLWljr1ZUk4HfW+pKH2bWKm+04Tf8veAg6dsJCTsWsJykp7jVRAzp6v+ycCLfalgt5H1DMvk84HYGj+HL00IV1W2+Dkt1jjQJ+27wBtjtu1ILxoPbEjzk8oEWJ7j1iMDyqL5RdPMf4uPiEdILeXypdjfu4X+9ppVi9BgAa9C4s0cCesK6d5qIEGHk=;WjC0Y+1WWfKY1tFeNDP2PQ=="
 ---
 

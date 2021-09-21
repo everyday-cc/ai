@@ -2,6 +2,282 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-08-27-waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco.md",
+      "title": "Waymo launches rider testing for self-driving cars in San Francisco",
+      "excerpt": "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
+      "originalUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
+      "publishedDateTime": "2021-08-26T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRON4",
+        "domain": "kron4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-meet-the-voice-behind-mg-astors-ai-assistant.md",
+      "title": "Meet the voice behind MG Astor's AI assistant",
+      "excerpt": "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming",
+      "sourceUrl": null,
+      "webUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
+      "originalUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
+      "cdnAmpWebUrl": "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
+      "publishedDateTime": "2021-08-26T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Team-BHP.com",
+        "domain": "team-bhp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-heres-why-nvidia-will-surpass-apples-valuation-in-5-years.md",
+      "title": "Here’s Why Nvidia Will Surpass Apple’s Valuation In 5 Years",
+      "excerpt": "Nvidia can surpass Apple by capitalizing on the artificial intelligence economy, which will add an estimated $15 trillion to GDP. This is compared to the mobile economy that brought us gains in Apple,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128578a1e2398ca70cb5238%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
+      "publishedDateTime": "2021-08-26T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-intel-launches-ai-for-workforce-program-for-students-in-18-community-colleges.md",
+      "title": "Intel Launches AI for Workforce Program for Students in 18 Community Colleges",
+      "excerpt": "Intel is announcing a major expansion of its Intel® AI for Workforce Program to help educate the next generation of U.S. technologists, engineers and inventors — and to help them land careers in their chosen fields,",
+      "sourceUrl": null,
+      "webUrl": "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html",
+      "originalUrl": "https://www.csrwire.com/press_releases/727521-intel-launches-ai-workforce-program-students-18-community-colleges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/KBbLN4sf9GD_tgm4GcWd0Q--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/91a4aa364fb2d6461843611c01aa0c2b",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSR Wire",
+        "domain": "csrwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-baidu-cash-position-reflects-50-of-market-cap.md",
+      "title": "Baidu: Cash Position Reflects ~50% Of Market Cap",
+      "excerpt": "Baidu's cash and cash equivalents position ... and global leadership in AI (artificial intelligence), including self-driving technology through Apollo (robotaxis, robobuses, etc.). We are one ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "originalUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168330221/medium_image_1168330221.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
+      "publishedDateTime": "2021-08-26T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown.md",
+      "title": "Google is pulling the plug on Streams, the clinical app developed by DeepMind, following health division shutdown",
+      "excerpt": "Google is shutting down Streams, a mobile app designed to help clinicians track patients' conditions, two years after acquiring it from portfolio firm DeepMind. The decision to take Streams ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
+      "originalUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6128ada680be940019b9ecac?width=1200&format=jpeg",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
+      "publishedDateTime": "2021-08-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-ibm-ai-platform-watson-to-help-indian-companies-keep-user-data-safe-from-breaches.md",
       "title": "IBM AI Platform Watson To Help Indian Companies Keep User Data Safe From Breaches",
       "excerpt": "IBM is trying to turn this into a business opportunity. The New York-based tech giant has started providing its artificial intelligence (AI) platform Watson to detect, assess and resolve issues of ...",
@@ -886,257 +1162,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-artificial-intelligence-tools-can-help-clinicians-spend-more-time-with-patients.md",
-      "title": "Artificial Intelligence Tools Can Help Clinicians Spend More Time with Patients",
-      "excerpt": "There is no argument that artificial intelligence (AI) is rapidly transforming how healthcare is delivered in our modern world. One of the many benefits of implementing AI into the care continuum is the ability to save time so that the extra minutes can go into quality time with the patient;",
-      "sourceUrl": null,
-      "webUrl": "https://www.managedhealthcareexecutive.com/view/artificial-intelligence-tools-can-help-clinicians-spend-more-time-with-patients",
-      "originalUrl": "https://www.managedhealthcareexecutive.com/view/artificial-intelligence-tools-can-help-clinicians-spend-more-time-with-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/mhe/51bb925ee182929f2934e0f4b6b6e9b20ab2c2cf-1000x600.png?fit=crop&auto=format",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Managed Healthcare Executive",
-        "domain": "managedhealthcareexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-guardian-alliance-technologies-completes-aws-partner-transformation-program.md",
-      "title": "Guardian Alliance Technologies Completes AWS Partner Transformation Program",
-      "excerpt": "Guardian Alliance Technologies is proud to announce it has completed the Amazon Web Services (AWS) Partner Transformation Program (PTP), furthering the reliability and security of the Guardian Background Investigation Software Platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-guardian-alliance-technologies-completes-aws-partner-transformation-program-/2021/08/26/9437947.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-guardian-alliance-technologies-completes-aws-partner-transformation-program-/2021/08/26/9437947.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-the-ai-training-chip-tencent-has-an-eye-on.md",
-      "title": "The AI Training Chip Tencent Has an Eye On",
-      "excerpt": "It is not news that China wants a rich, native, diverse semiconductor ecosystem to feed its largest consumers of compute. From supercomputing systems to",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/",
-      "originalUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Enflame_sd89.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/amp/",
-      "publishedDateTime": "2021-08-26T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-5-stocks-to-watch-amid-evolving-machine-learning-applications.md",
-      "title": "5 Stocks to Watch Amid Evolving Machine Learning Applications",
-      "excerpt": "In the fourth industrial revolution, AI will be the predominant technology, and its subsets ML and deep learning will be driving the change. ML has found its application in multiple disciplines, and businesses can use large data to better understand consumers’ behavior,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "publishedDateTime": "2021-08-26T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-speech-and-voice-recognition-market-worth-220-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Speech and Voice Recognition Market worth $22.0 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"Speech and Voice Recognition Market with COVID-19 Impact Analysis by Delivery Method, Deploymen",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-22-0-billion-by-2026---exclusive-report/article_67539741-fbee-5521-b738-da897b0680d0.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speech-and-voice-recognition-market-worth-22-0-billion-by-2026---exclusive-report/article_67539741-fbee-5521-b738-da897b0680d0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
-          "width": 669,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027.md",
-      "title": "Asia Pacific Artificial Intelligence In Healthcare Market Size, Analysis, Competitive Strategies and Forecasts to 2027",
-      "excerpt": "The market research report an in-depth study of the present as well as the future market needs of the Asia Pacific Artificial Intelligence (Ai) In Healthcare Market size. The research report serves as a comprehensive guide for new entrants to the Asia Pacific Artificial Intelligence (Ai) In Healthcare market size.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027-2021-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/asia-pacific-artificial-intelligence-in-healthcare-market-size-analysis-competitive-strategies-and-forecasts-to-2027-2021-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

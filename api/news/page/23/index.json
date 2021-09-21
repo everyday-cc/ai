@@ -2,6 +2,298 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-08-28-army-wants-to-install-facial-recognition-video-analytics-at-child-development-centers.md",
+      "title": "Army Wants to Install Facial Recognition, Video Analytics at Child Development Centers",
+      "excerpt": "The Army wants to use facial recognition and advanced machine learning algorithms to monitor kids at base Children Development Centers and plans to launch a pilot program at Fort Jackson in the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/08/army-wants-install-facial-recognition-video-analytics-child-development-centers/184915/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/08/27/close_up_of_cctv_camera_over_defocused_urban_background_picture_id1214093147/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-28-key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process.md",
+      "title": "Key Ways Artificial Intelligence Can Improve Recruiting In The Hiring Process",
+      "excerpt": "A number of companies have turned to AI to improve their recruiting—a task that once required hours of sorting through resumes, calling applicants and scheduling interviews to find the perfect candidate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128f2a81a40fb7e8b49f13e%2F0x0.jpg",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/08/27/key-ways-artificial-intelligence-can-improve-recruiting-in-the-hiring-process/amp/",
+      "publishedDateTime": "2021-08-27T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-a-new-ai-technology-might-help-detect-gastric-cancer.md",
+      "title": "A New AI Technology Might Help Detect Gastric Cancer",
+      "excerpt": "Each year, one million patients around the globe are diagnosed with stomach cancer. Can a new cancer-detecting AI help save lives?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/",
+      "originalUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612914d1b76e70fd4b9d34e3%2F0x0.jpg",
+          "width": 1128,
+          "height": 752,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lakenbrooks/2021/08/27/a-new-ai-technology-might-help-detect-gastric-cancer/amp/",
+      "publishedDateTime": "2021-08-27T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open.md",
+      "title": "IBM announces new tennis power rankings, fantasy tennis teams and more ahead of US Open",
+      "excerpt": "IBM unveiled a slate of new AI-powered tools on Friday centered around the US Open, which kicks off in New York City on Monday. Tennis fans will have a bevy of new match and player information ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/27/b9ce487a-48ab-430b-9889-61dc0b4c6291/match-insights-example-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2248/7/index.php/google-amp/article/ibm-announces-new-tennis-power-rankings-fantasy-tennis-teams-and-more-ahead-of-us-open/",
+      "publishedDateTime": "2021-08-27T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-expanding-human-robot-collaboration-in-manufacturing-by-training-ai-to-detect-human-intention.md",
+      "title": "Expanding human-robot collaboration in manufacturing by training AI to detect human intention",
+      "excerpt": "Machines and robots undoubtedly make life easier. They carry out jobs with precision and speed, and, unlike humans, they do not require breaks as they are never tired.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/expanding-human-robot.jpg",
+          "width": 1249,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-human-robot-collaboration-ai-human-intention.amp",
+      "publishedDateTime": "2021-08-27T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars.md",
+      "title": "Chances Of Collisions Involving Urgently Underway Police Cars And AI Self-Driving Cars",
+      "excerpt": "Regrettably there are going to be instances of urgently underway police cars that collide with self-driving cars, though there are means to try and reduce those chances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60722c4f3955ebfd3665bef7%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D4511%26cropY1%3D440%26cropY2%3D2845",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/27/chances-of-collisions-involving-urgently-underway-police-cars-and-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-08-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-4-top-autonomous-vehicle-stocks-to-watch-before-september-2021.md",
       "title": "4 Top Autonomous Vehicle Stocks To Watch Before September 2021",
       "excerpt": "Recently, Baidu has been pushing forward with its ... But what some may not be aware of is, Alphabet also has a self-driving car project that was started more than a decade ago with the goal ...",
@@ -848,282 +1140,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco.md",
-      "title": "Waymo launches rider testing for self-driving cars in San Francisco",
-      "excerpt": "Some San Francisco residents will have a new way to get around the city. Waymo has launched rider testing of its self-driving cars. Right now, residents can sign up to become a “trusted tester” in the Waymo One app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
-      "originalUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2021/08/9B99F949367C44F185032B18736797B9.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/waymo-launches-rider-testing-for-self-driving-cars-in-san-francisco/amp/",
-      "publishedDateTime": "2021-08-26T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRON4",
-        "domain": "kron4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-meet-the-voice-behind-mg-astors-ai-assistant.md",
-      "title": "Meet the voice behind MG Astor's AI assistant",
-      "excerpt": "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming",
-      "sourceUrl": null,
-      "webUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
-      "originalUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
-      "cdnAmpWebUrl": "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
-      "publishedDateTime": "2021-08-26T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Team-BHP.com",
-        "domain": "team-bhp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-heres-why-nvidia-will-surpass-apples-valuation-in-5-years.md",
-      "title": "Here’s Why Nvidia Will Surpass Apple’s Valuation In 5 Years",
-      "excerpt": "Nvidia can surpass Apple by capitalizing on the artificial intelligence economy, which will add an estimated $15 trillion to GDP. This is compared to the mobile economy that brought us gains in Apple,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6128578a1e2398ca70cb5238%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/08/27/heres-why-nvidia-will-surpass-apples-valuation-in-5-years/amp/",
-      "publishedDateTime": "2021-08-26T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-intel-launches-ai-for-workforce-program-for-students-in-18-community-colleges.md",
-      "title": "Intel Launches AI for Workforce Program for Students in 18 Community Colleges",
-      "excerpt": "Intel is announcing a major expansion of its Intel® AI for Workforce Program to help educate the next generation of U.S. technologists, engineers and inventors — and to help them land careers in their chosen fields,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yahoo.com/now/intel-launches-ai-workforce-program-140107340.html",
-      "originalUrl": "https://www.csrwire.com/press_releases/727521-intel-launches-ai-workforce-program-students-18-community-colleges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/KBbLN4sf9GD_tgm4GcWd0Q--~B/aD0zNjY7dz02NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/news_direct/91a4aa364fb2d6461843611c01aa0c2b",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSR Wire",
-        "domain": "csrwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-baidu-cash-position-reflects-50-of-market-cap.md",
-      "title": "Baidu: Cash Position Reflects ~50% Of Market Cap",
-      "excerpt": "Baidu's cash and cash equivalents position ... and global leadership in AI (artificial intelligence), including self-driving technology through Apollo (robotaxis, robobuses, etc.). We are one ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "originalUrl": "https://seekingalpha.com/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168330221/medium_image_1168330221.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4451982-baidu-cash-position-reflects-50-percent-of-market-cap",
-      "publishedDateTime": "2021-08-26T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-google-is-pulling-the-plug-on-streams-the-clinical-app-developed-by-deepmind-following-health-division-shutdown.md",
-      "title": "Google is pulling the plug on Streams, the clinical app developed by DeepMind, following health division shutdown",
-      "excerpt": "Google is shutting down Streams, a mobile app designed to help clinicians track patients' conditions, two years after acquiring it from portfolio firm DeepMind. The decision to take Streams ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
-      "originalUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6128ada680be940019b9ecac?width=1200&format=jpeg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-health-app-streams-technology-2021-8?amp",
-      "publishedDateTime": "2021-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

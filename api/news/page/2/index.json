@@ -2,6 +2,216 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-20-zoomtopia-ai-and-video-to-power-healthcare.md",
+      "title": "Zoomtopia: AI and Video to Power Healthcare",
+      "excerpt": "At the recent Zoomtopia, the company spotlighted how healthcare providers are actively transitioning to telehealth, representing a significant disruption of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
+      "originalUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg",
+          "width": 1032,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10.md",
+      "title": "Adobe’s New Marketing AI Let Customer Cut Ad Spend 50% While Growing Sales 10%",
+      "excerpt": "Do you spend at least $50 million a year in advertising? Adobe announced today that 80% of their marketing cloud customers are using AI to boost marketing ROI by personalizing customer experiences, creating better ads and emails,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6148b7eac3b40db800811729%2F0x0.jpg",
+          "width": 1200,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/amp/",
+      "publishedDateTime": "2021-09-20T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store.md",
+      "title": "Scale ML feature ingestion using Amazon SageMaker Feature Store",
+      "excerpt": "Amazon SageMaker Feature Store is a purpose-built solution for machine learning (ML) feature management. It helps data science teams reuse ML features across teams and models, serves features for model predictions at scale with low latency, and train and deploy new models more quickly and effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/16/ML5751-image003.png",
+          "width": 928,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T09:34:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars.md",
+      "title": "Ordinary Lowly Lampposts Aiming To Stand Tall For Bolstering AI Self-Driving Cars",
+      "excerpt": "Lampposts can do a lot more than merely provide light for our roadways, and efforts are underway to leverage lampposts for the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6094766e8d7cd811a0ed5a8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1893%26cropY1%3D95%26cropY2%3D1160",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-09-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-step-into-a-successful-career-with-artificial-intelligence-machine-learning.md",
       "title": "Step into a successful career with Artificial Intelligence & Machine Learning",
       "excerpt": "Advanced technologies are in demand in every industry, thus upgrading oneself with new techno-friendly environment would be appreciable. It is opening a new path for technology career seekers in the Artificial Intelligence and Machine Learning.",
@@ -156,7 +366,7 @@
       "originalUrl": "https://electrek.co/2021/09/20/ntsb-says-tesla-full-self-driving-beta-misleading-irresponsible-ahead-wider-release/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -547,6 +757,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-computer-vision-can-help-spot-cyber-threats-with-startling-accuracy.md",
+      "title": "Computer vision can help spot cyber threats with startling accuracy",
+      "excerpt": "In 2019, cybersecurity researchers created a machine learning model that could detect malware based on images created from the content of application files.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/computer-vision-help-spot-cyber-threats-startling-accuracy-syndication",
+      "originalUrl": "https://thenextweb.com/news/computer-vision-help-spot-cyber-threats-startling-accuracy-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fmalicious-code-4036349_1920-hed.jpg&signature=a4274c2ddc0d9d90c7894df0e316eebf",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -988,249 +1251,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-googles-new-deep-learning-system-can-give-a-boost-to-radiologists.md",
-      "title": "Google’s new deep learning system can give a boost to radiologists",
-      "excerpt": "The deep learning system can help radiologists prioritize chest x-rays, and it can serve as a first response tool in emergency settings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
-      "originalUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Deep-learning-chest-radiography1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
-      "publishedDateTime": "2021-09-16T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-3-artificial-intelligence-stocks-to-buy-now.md",
-      "title": "3 Artificial Intelligence Stocks to Buy Now",
-      "excerpt": "We've put together a list of 3 artificial intelligence stocks to buy now to help investors make the right choices when adding exposure to this",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/385679",
-      "originalUrl": "https://www.entrepreneur.com/article/385679",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-385679.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/385679",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/385679",
-      "publishedDateTime": "2021-09-16T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-computer-vision-dev-platform-roboflow-raises-20m.md",
-      "title": "Computer vision dev platform Roboflow raises $20M",
-      "excerpt": "Roboflow, a Des Moines, Iowa-based startup developing tools for building computer vision models, today announced it has raised $20 million in a series A round led by Craft Ventures. This brings the company’s total raised to date to $22.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/",
-      "originalUrl": "https://venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-4-bank-of-america-moonshot-investments.md",
-      "title": "4 Bank of America Moonshot Investments",
-      "excerpt": "We found a reference to just one publicly traded company that was working on an emotional AI project: Amazon Web Services. In August 2019, AWS announced an improved version of its Rekognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
-      "originalUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/01/imageforentry12-cbv.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
-      "publishedDateTime": "2021-09-16T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-wells-fargo-to-use-google-microsoft-azure-cloud-services-to-support-new-digital-strategy.md",
-      "title": "Wells Fargo to Use Google, Microsoft Azure Cloud Services to Support New Digital Strategy",
-      "excerpt": "Wells Fargo has debuted a digital infrastructure strategy, which will use a multicloud method with third-party data centers to drive speed, agility and scalability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
-      "originalUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Wells-Fargo-Google-Cloud-Microsoft-Azure-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
-      "publishedDateTime": "2021-09-15T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

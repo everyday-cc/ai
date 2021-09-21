@@ -2,6 +2,283 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-09-08-drone-delivery-startup-techeagle-raises-500000-in-seed-round.md",
+      "title": "Drone Delivery Startup TechEagle Raises $500,000 In Seed Round",
+      "excerpt": "The startup will use the funding to further launch new indigenous products, scale its operations in India, and hire across functions. With its on-demand drone delivery airline, the startup aims to imp",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/384202",
+      "originalUrl": "https://www.entrepreneur.com/article/384202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1631081209-TechEagleTeamwithAquilaX211.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/384202",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/384202",
+      "publishedDateTime": "2021-09-07T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-microsoft-grows-azure-space-australia-with-nokia-sa-govt-and-university-of-adelaide.md",
+      "title": "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide",
+      "excerpt": "Azure Space Australia will be focused on building space and satellite solutions that leverage cloud, 5G technology, AI, and analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/09/07/c3bacc60-39aa-4bae-b0b8-02b219f987e2/azure-satellite-diagram-1000x563.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
+      "publishedDateTime": "2021-09-07T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.md",
+      "title": "Indian, German Scientific Experts Discuss Artificial Intelligence And Its Implementation",
+      "excerpt": "Indian and German scientific experts discussed five selected thematic areas of mutual interest related to artificial intelligence (AI) and its implementation at a joint virtual workshop, the Department of Science and Technology said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
+      "originalUrl": "https://www.republicworld.com/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg",
+          "width": 768,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/indian-german-scientific-experts-discuss-artificial-intelligence-and-its-implementation.html",
+      "publishedDateTime": "2021-09-07T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-lumo-labs-backs-autoscriber-to-advance-healthcare-ai-voice-recognition.md",
+      "title": "LUMO Labs Backs Autoscriber to Advance Healthcare AI Voice Recognition",
+      "excerpt": "LUMO Labs is backing Dutch health-tech startup Autoscriber, which specializes in artificial intelligence (AI)-supported voice recognition software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1746429518-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/",
+      "publishedDateTime": "2021-09-07T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
+      "title": "Global Healthcare Artificial Intelligence Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
+      "excerpt": "MarketQuest.biz has published another latest research report on Global Healthcare Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-09-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-computer-and-human-vision-perspectives.md",
+      "title": "Computer and Human Vision Perspectives",
+      "excerpt": "The result of a series of four highly successful workshops on the topic, the book gathers many of the most distinguished researchers from both computer and human vision to reflect on their experience, identify open problems, and foster a cross-disciplinary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/ax/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
+      "originalUrl": "https://www.cambridge.org/ax/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-boost-transcription-accuracy-of-class-lectures-with-custom-language-models-for-amazon-transcribe.md",
       "title": "Boost transcription accuracy of class lectures with custom language models for Amazon Transcribe",
       "excerpt": "Many universities like transcribing their recorded class lectures and later creating captions out of these transcriptions. Amazon Transcribe is a fully-managed automatic speech recognition service (ASR) that makes it easy to add speech-to-text capabilities to voice-enabled applications. Transcribe assists",
@@ -921,271 +1198,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better.md",
-      "title": "Deep Learning Artificial Intelligence Predicts Breast Cancer Risk Better",
-      "excerpt": "Compared with commonly used clinical risk factors, a sophisticated type of artificial intelligence (AI) called deep learning does a better job distinguishing between the mammograms of women who will later develop breast cancer and those who will not,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/",
-      "originalUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Mammogram-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-artificial-intelligence-predicts-breast-cancer-risk-better/amp/",
-      "publishedDateTime": "2021-09-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-arteris-ip-flexnoc-interconnect-licensed-for-use-in-sk-telecom-sapeon-ai-chips.md",
-      "title": "Arteris IP FlexNoC Interconnect Licensed for Use in SK Telecom SAPEON AI Chips",
-      "excerpt": "Arteris IP today announced that South Korean telecommunications operator SK Telecom will use the Arteris IP FlexNoC interconnect IP in its next-generation SAPEON artificial intelligence (AI) systems-on-chip (SoCs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html",
-      "originalUrl": "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-tesla-tsla-full-self-driving-beta-software-has-leaked.md",
-      "title": "Tesla (TSLA) Full Self-Driving Beta software has leaked",
-      "excerpt": "Beta software has leaked, and it’s being passed around in the Tesla hacking community. Fortunately, it’s not for any nefarious reason. As of now, Tesla’s FSD Beta software is only being tested internally and as part of the automaker’s “early access program,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "originalUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-leak-FSD-firmware.jpg?resize=1200%2C628&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/07/tesla-tsla-full-self-driving-beta-software-leaked/",
-      "publishedDateTime": "2021-09-07T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-ai-powered-system-to-diagnose-glaucoma-using-eye-images.md",
-      "title": "AI-powered system to diagnose glaucoma using eye images",
-      "excerpt": "Scientists from Nanyang Technological University, Singapore (NTU Singapore), in collaboration with clinicians at Tan Tock Seng Hospital (TTSH) in Singapore have developed a novel method that uses artificial intelligence (AI) to screen for glaucoma,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-develop-ai.jpg",
-          "width": 2880,
-          "height": 2304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-ai-powered-glaucoma-eye-images.amp",
-      "publishedDateTime": "2021-09-07T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-singapore-has-safety-patrol-robots-now-this-should-be-fine.md",
-      "title": "Singapore has safety patrol robots now! This should be fine.",
-      "excerpt": "Singapore has started testing patrol robots that provide surveillance in pedestrian areas, working with the city-state's police force.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/singapore-police-patrol-surveillance-robots",
-      "originalUrl": "https://mashable.com/article/singapore-police-patrol-surveillance-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/0700hA1x6jKi99YlGCe3tFO/hero-image.fill.size_1200x675.v1631015706.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/singapore-police-patrol-surveillance-robots?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/singapore-police-patrol-surveillance-robots?amp",
-      "publishedDateTime": "2021-09-07T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-ai-or-rpa-which-is-the-true-automation-game-changer.md",
-      "title": "AI Or RPA: Which Is The True Automation Game-Changer?",
-      "excerpt": "With AI advancing at such a rapid pace, organizations can now skip RPA and combine AI with application programming interfaces (APIs) to achieve more holistic automation that requires less maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda45bb02ecda00061c10ea%2F0x0.jpg",
-          "width": 1200,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/07/ai-or-rpa-which-is-the-true-automation-game-changer/amp/",
-      "publishedDateTime": "2021-09-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

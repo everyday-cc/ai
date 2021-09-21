@@ -2,6 +2,291 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-14-bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition.md",
+      "title": "Biden’s FTC pick is a privacy champion who wants limits on facial recognition",
+      "excerpt": "President Joe Biden will reportedly nominate Georgetown law professor and privacy researcher Alvaro Bedoya to the Federal Trade Commission. Bedoya is the founding director of Georgetown Law's Center on Privacy & Technology,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2021/09/bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2021/09/bidens-ftc-pick-is-a-privacy-champion-who-wants-limits-on-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-eye-scan-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-zoom-to-add-real-time-translation-for-12-languages-next-year.md",
+      "title": "Zoom to Add Real-Time Translation for 12 Languages Next Year",
+      "excerpt": "Zoom says its real-time translation function will be up and running next year for 12 languages. The company demoed the feature today during its annual Zoomtopia event, and argued that it’ll help break down language barriers during video calls.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
+      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/z/zoom-to-ad/zoom-to-add-real-time-translation-for-12-languages-next-year_fzqx.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-for-ios-to-add-voice-message-transcription-feature.md",
+      "title": "WhatsApp for iOS to add voice message transcription feature",
+      "excerpt": "WhatsApp is developing a new feature for iOS users that will help those who don't like listening to long audio messages on the app.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
+      "originalUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/whatsapp-voice-message-transcription-feature-9to5mac-wabetainfo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
+      "publishedDateTime": "2021-09-13T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-updated.md",
+      "title": "WhatsApp transcription for voice message audio tipped to work with Apple [Updated]",
+      "excerpt": "An ability to transcribe messages was leaked as a potential upcoming feature in WhatsApp. Information about the feature has not yet been confirmed by WhatsApp or Facebook, but details leaked this",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/",
+      "originalUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/whatsapp-1.jpg",
+          "width": 1278,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-13690666/amp/",
+      "publishedDateTime": "2021-09-13T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-reportedly-working-on-voice-message-transcribe-feature.md",
+      "title": "WhatsApp Reportedly Working On Voice Message Transcribe Feature",
+      "excerpt": "In a recent development, soon WhatsApp users will be able to transcribe voice messages on the platform using speech recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/11/AH-WhatsApp-logo-11.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
+      "publishedDateTime": "2021-09-13T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-robot-rock-a-history-of-vocoders.md",
+      "title": "Robot Rock: A History Of Vocoders",
+      "excerpt": "Over the last 80 years we've seen vocoders developed and used on countless tracks and songs, and they still hold their charm today. At a time when robots, automation and A.I. are increasingly integrated into our world,",
+      "sourceUrl": null,
+      "webUrl": "https://sonicstate.com/news/2021/09/13/robot-rock-a-history-of-vocoders/",
+      "originalUrl": "https://sonicstate.com/news/2021/09/13/robot-rock-a-history-of-vocoders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/34860_721.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sonic State",
+        "domain": "sonicstate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-c3-ai-announces-general-availability-of-c3-ai-crm.md",
       "title": "C3 AI Announces General Availability of C3 AI CRM",
       "excerpt": "The inventors of CRM reinvent CRM Seamlessly brings advanced AI capabilities to Microsoft Dynamics, Salesforce, Siebel, Veeva, ServiceNow, Vlocity, and SAP C3 AI",
@@ -810,263 +1095,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-gpu-database-market-share-key-market-players-trends-forecast-20202028.md",
-      "title": "GPU Database Market Share, Key Market Players, Trends & Forecast, 2020–2028",
-      "excerpt": "The Global GPU Database market is forecast to reach USD 1,357.4 Million by 2028, according to a new report by Reports and Data.  The latest market research report published by Reports and Data, titled ‘Global GPU Database Market,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/",
-      "originalUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/3-2.png",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/gpu-database-market-share-key-market-players-trends-forecast-2020-2028/?amp=1",
-      "publishedDateTime": "2021-09-11T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-facial-recognition-forecast-at-85b-in-2025-biometric-payment-cards-breaking-out.md",
-      "title": "Facial recognition forecast at $8.5B in 2025, biometric payment cards breaking out",
-      "excerpt": "Signs of market strength for biometric payment cards and facial recognition are prominent among the week’s most-read articles on Biometric Update.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/facial-recognition-forecast-at-8-5b-in-2025-biometric-payment-cards-breaking-out",
-      "originalUrl": "https://www.biometricupdate.com/202109/facial-recognition-forecast-at-8-5b-in-2025-biometric-payment-cards-breaking-out",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg",
-          "width": 1800,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-11T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu.md",
-      "title": "Deep Learning in CT Scanners Industry Market to Witness Huge Growth by 2028 | Philips, GE Health, Shimadzu",
-      "excerpt": "A new business intelligence report released by JCMR with Global Deep Learning in CT Scanners Industry Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/?amp=1",
-      "publishedDateTime": "2021-09-11T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-global-ai-in-eye-scan-market-prospects-upcoming-trends-and-competitive-outlook-till-2028-deepmind-google-ibm.md",
-      "title": "Global AI in Eye Scan Market Prospects, Upcoming Trends and Competitive Outlook till 2028 | DeepMind, Google, IBM.",
-      "excerpt": "The latest study on The Global AI in Eye Scan Market 2021 helps companies increase a competitive advantage in the industry by examining serious factors for market expansion It explains the main global developments dominant strategies and perspectives in order",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
-      "originalUrl": "https://www.openpr.com/news/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U911389724_g.jpg",
-          "width": 800,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
-      "publishedDateTime": "2021-09-11T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more.md",
-      "title": "Weekly Bytes | NASA to launch most powerful space telescope, IBM Watson gets new AI capabilities, and more",
-      "excerpt": "NASA on Wednesday said it plans to launch the James Webb Space Telescope (JWST) into orbit on December 18, 2021, to serve as the premier deep space observatory for the next decade. “The Webb telescope’s revolutionary technology will explore every phase of cosmic history – from within our solar system to the most distant observable galaxies in the early universe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more/article36399158.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more/article36399158.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-11T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-ai-drives-data-analytics-surge-study-finds.md",
-      "title": "AI drives data analytics surge, study finds",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code ... “Trends in Data, AI and Analytics, 2021” surveyed a wide range of enterprise IT shops and found that many were ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/databases.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/ai-drives-data-analytics-surge-study-finds/amp/",
-      "publishedDateTime": "2021-09-10T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

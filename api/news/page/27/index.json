@@ -2,6 +2,293 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-08-25-waymo-expands-self-driving-operations-what-it-means-for-tesla.md",
+      "title": "Waymo Expands Self-Driving Operations. What It Means for Tesla.",
+      "excerpt": "Truly self-driving cars are on American roads. And they don’t come from Tesla. Consumers—and investors—just need to know where to look. Waymo, Alphabet’s (ticker: GOOG) venture into self-driving cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722",
+      "originalUrl": "https://www.barrons.com/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-391008/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-alphabet-self-driving-cars-san-francisco-51629904722",
+      "publishedDateTime": "2021-08-25T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-deep-learning-chipset-market.md",
+      "title": "Deep Learning Chipset market",
+      "excerpt": "The global research report titled Deep Learning Chipset market was published by Absolute Markets Insights. The study elucidates current market statistics, in addition to underlying future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "originalUrl": "https://www.openpr.com/news/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U825568852_g.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2367819/global-deep-learning-chipset-market-2021-to-2030",
+      "publishedDateTime": "2021-08-25T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market.md",
+      "title": "Xiaomi to acquire self-driving startup Deepmotion to enter EV market",
+      "excerpt": "Co-founder and Chief Executive Officer Lei Jun is now spearheading a drive to take Xiaomi beyond smartphones, personally leading a project to make electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/08/Xiaomi-logo.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/xiaomi-to-acquire-self-driving-startup-deepmotion-to-enter-ev-market-7470613/lite/",
+      "publishedDateTime": "2021-08-25T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-hybrid-ai-is-the-future-of-industrial-analytics.md",
+      "title": "Hybrid AI Is The Future Of Industrial Analytics",
+      "excerpt": "Industrial DataOps is the starting point to solving one of the key challenges of industrial digitalization: enabling hybrid AI solutions at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612561eaa3ca9a4aee49f148%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/25/hybrid-ai-is-the-future-of-industrial-analytics/amp/",
+      "publishedDateTime": "2021-08-25T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-ark-invests-cathie-wood-has-high-hopes-for-chinese-stocks-in-the-long-run-and-says-her-funds-analysts-were-blown-away-by-teslas-ai-day.md",
+      "title": "Ark Invest's Cathie Wood has high hopes for Chinese stocks in the long run - and says her fund's analysts were blown away by Tesla's AI day",
+      "excerpt": "I'm not pessimistic about China longer run because I think they're a very entrepreneurial society,' the star stock-picker said.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-ark-invest-china-stocks-tesla-ai-day-robot-2021-8",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cathie-wood-ark-invest-china-stocks-tesla-ai-day-robot-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610d6a2738aff70018904688?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cathie-wood-ark-invest-china-stocks-tesla-ai-day-robot-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cathie-wood-ark-invest-china-stocks-tesla-ai-day-robot-2021-8?amp",
+      "publishedDateTime": "2021-08-25T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain.md",
+      "title": "The world’s largest chip is creating AI networks larger than the human brain",
+      "excerpt": "Cerebras Systems, maker of the world’s largest chip, has lifted the lid on new architecture capable of supporting AI models that outscale the human brain. The current largest AI models (such as Switch Transformer from Google) are built on circa 1 trillion parameters,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
+      "originalUrl": "https://www.techradar.com/in/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7GP79ZaR9WEwx5QnSBo5Eh-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/the-worlds-largest-chip-is-creating-ai-networks-larger-than-the-human-brain",
+      "publishedDateTime": "2021-08-25T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-rightway-introduces-artificial-intelligence-to-improve-care-navigation-for-persons-with-chronic-conditions.md",
       "title": "Rightway Introduces Artificial Intelligence to Improve Care Navigation for Persons with Chronic Conditions",
       "excerpt": "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify \"rising-risk\" and \"high-risk\" members.",
@@ -904,301 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-watch-san-franciscans-take-a-ride-in-waymos-self-driving-car.md",
-      "title": "Watch San Franciscans take a ride in Waymo’s self-driving car",
-      "excerpt": "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
-      "originalUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dsc_0570.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
-      "publishedDateTime": "2021-08-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-artificial-intelligence-ai-chips-market-may-set-new-growth-story-qualcomm-mythic-amd.md",
-      "title": "Artificial Intelligence (Ai) Chips Market May Set New Growth Story | Qualcomm, Mythic, AMD",
-      "excerpt": "The Latest research study released by HTF MI Worldwide Artificial Intelligence Ai Chips Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development landscape",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "originalUrl": "https://www.openpr.com/news/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U825941161_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2366189/artificial-intelligence-ai-chips-market-may-set-new-growth",
-      "publishedDateTime": "2021-08-24T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks.md",
-      "title": "Cerebras prepares for the era of 120 trillion-parameter neural networks",
-      "excerpt": "In the past year, what had been the world's largest neural net as measured by neural weights, OpenAI's GPT-3 natural language processing program, with 175 billion weights, was eclipsed by Google's 1.6-trillion-parameter model, the Switch Transformer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/24/a9840569-346e-4256-83d9-a981a1f2c01d/hc2021-cerebras-embargoed-8-24-slide-10.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/cerebras-prepares-for-the-era-of-120-trillion-parameter-neural-networks/",
-      "publishedDateTime": "2021-08-24T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-data-science-is-one-of-the-fastest-growing-fields-here-are-16-affordable-online-courses-and-certificate-programs-perfect-for-beginners.md",
-      "title": "Data science is one of the fastest growing fields. Here are 16 affordable online courses and certificate programs perfect for beginners.",
-      "excerpt": "Developing AI Applications on Azure LearnQuest is an Apple Authorized Global Training Provider, and this course introduces the concepts of artificial intelligence and machine learning to students ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "originalUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe0c444d366e600180994d7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-science-courses-online?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-science-courses-online?amp",
-      "publishedDateTime": "2021-08-24T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-samsung-unveils-advanced-ai-memory-chips.md",
-      "title": "Samsung unveils advanced AI memory chips",
-      "excerpt": "as the chip titan has unveiled new memory chips featuring artificial intelligence (AI) technology, the company said Tuesday. The company unveiled and introduced how the new products are used at Hot Chips, an annual semiconductor industry conference for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?tw",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/08/133_314420.html?tw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202108/1c42dfb5b5aa4a22942002c3dad99aa1.jpg",
-          "width": 980,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=314420",
-      "publishedDateTime": "2021-08-24T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation.md",
-      "title": "Baidu's AI voice assistant Xiaodu closes funding at $5.1 billion valuation",
-      "excerpt": "FILE PHOTO: Men interact with a Baidu AI robot near the company logo at its headquarters in Beijing, China April 23, 2021. REUTERS/Florence Lo/File Photo (Reuters) - Tesla Inc's Chief Executive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/baidus-ai-voice-assistant-xiaodu-closes-idUSKBN2FP0VB",
-      "originalUrl": "https://www.reuters.com/news/picture/baidus-ai-voice-assistant-xiaodu-closes-idUSKBN2FP0VB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210824&t=2&i=1572781393&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH7N0FF",
-          "width": 810,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
