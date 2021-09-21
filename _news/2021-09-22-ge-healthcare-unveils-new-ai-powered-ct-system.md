@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.massdevice.com/wp-content/uploads/2021/09/revolution_ascend_ge_healthcare.jpg"
@@ -40,6 +41,6 @@ related:
         height: 480
         isCached: true
 
-secured: "I2EGQBG66k6yQWpXcjMODoH3/ZEkjGUFSSw2lyj3LgLxHQoZA32SHPhdcfBPdGWqbr0rTeAVbkp29zjnIPIpJieqbusGTorp5O+ChhcNVvPuYTNF72dCyFzgdPR4beqKo+a6ZMPCT+vAxjYzuImEB6zQ/MqZtzwissIw6A3gfdJLymF/xECriZsxoHeYeOXJORxAGbjIDD+pqZEMfAaUXeoKV+My0Xb8T6aarqd+ZsIhmQjCW87aFoVRCyw6bhg1bd4cm/5EQAvQjyj74DcSkVHJhNrDeMf2it2PbbQGFnG3QYpVueN7j6fSiWzmRz7aH97gvbV34UKXpqyLC5OrzxjE3NmEC4jBIMCwKpSb+xM=;bygv7rE2cscvVMLWA4kUSg=="
+secured: "Zqh7K+9KTX5ebTRnBKMyEx5NZxfGtSl0iBVIw4hMCdZtZKw2mZUvuJrHwv3HlWpfDksz4VWALKr7eIf+tlQdJpoyoI/z9yvftAA4LzhlraAzwxCs43qdzufei9lMOTHGOac4jTH8lTGXB2A+GATyfhF3NRGkzxQ2KJfudn26sYRdJblSiel3diV082XBsZhQFdpouTW2Sr9dGdvnNG6zEoEJ5XTumUT6YjNleu02jVhF5oa5pva0qWzk7rMgk0GH0n4YXvkz3ViOg5MpnhK7Shwj/uuGtvofCtP2ndafYExlFrc7hzayXyMroNR9PEcpNwwNrSxwWX6VgukcO3js55scM8sKoTuU6RG+vTXWu4ULuWgXeZ67FSjIMJNSUmIjKXPWwYCuU+g57IJ5N7e/CZeqIM2SnO8cpF1K3v3mttlWfHgHpRXnjxe8jT9ZAn3YLa6XqktoGA8ZOfuiL5EVrTRRIECtfaUM5UElTyuDQip0MbumXmKllhkKWaIdTD+4Zw0rUkE65mCgw1pPPh3HKg==;oU56EFXh9f74jKTx6QhRhQ=="
 ---
 
