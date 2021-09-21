@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech"
-    excerpt: "Timnit Gebru says regulators need to provide whistleblowers working on artificial intelligence with fresh protections backed up by tough enforcement."
-    publishedDateTime: 2021-09-20T08:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech"
+  - title: "New robotics program focuses on ethics of artificial intelligence"
+    excerpt: "Through a new program starting next fall, UT students will create the next generation of accessible robots designed for the average person.   The new robotics program, called the Convergent, Responsible,"
+    publishedDateTime: 2021-09-20T00:00:00Z
+    webUrl: "https://thedailytexan.com/2021/09/20/new-robotics-program-focuses-on-ethics-of-artificial-intelligence/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
+      name: The Daily Texan
+      domain: thedailytexan.com
+    quality: 86
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL1NzztKqF84/v0/1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thedailytexan.com/wp-content/uploads/2021/09/92021_EthicalRobots_Teagan.Jensen-900x506.png"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "AbChHbuRcHFrKEz5BrFJmHSJNGlFf2lKownsTolpJfIDx1sy6WzWH0i0yhKAKjLyrNWB0bw2/Jb2RL6W3myA4sRaAqRd4oxw7Uofjb/IIFmOOTGYb8cXUhSY2ur5CYokqTLmrcVrnNMxDuH14rNXGFIiTuj2X+8DOSsykwjkiWtXoaFe//IacEtiOQmfNvPre57R4/0p1TmfuUBb15GdgupbAnA8zjx7sf11WmnWIigXsDCVkRTrvxL+ABAPKoXPVM03u61f9NmUhKgMuDPa57HuUDozkl9KJAiWJuCoQuF1h7nGM9mZNvuMk1xovD/nHewtImfF6X7QmFb04j7Xtr3EqRNlr5AFkwEvftMsFstdJ1ePRF6UNict/rbRUS4nQRkINb3humke0O0aQRDsgRCAWzTqxDt8wpkhlnOcx6cE9S4ntGM4j2xhCwxqG0LtMN9/c81nDDazF3HCWZ3IrC21fT4VAAYSZ06wXlD34vXTv0RVNzLcsu8sqRw3jLqGM1AzOBZndfAAOadsgdIOeg==;PhONtNGTp+pC/kjGFbynCA=="

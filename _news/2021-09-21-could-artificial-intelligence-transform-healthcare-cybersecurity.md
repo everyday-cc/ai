@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitsecurity.com/news/amp/could-artificial-intelligence-
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/could-artificial-intelligence-transform-healthcare-cybersecurity"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Cybersecurity Market worth $38.2 billion by 2026, at the highest CAGR of 23.3%"
+    excerpt: "Thousands of traders just like you are profiting with 90% win-rate trading options! Click Here See How! [229 Pages] Artificial Intelligence in Cybersecurity Market Research Report, identifies new revenue opportunity in Pages] Artificial Intelligence in Cybersecurity industry."
+    publishedDateTime: 2021-09-20T23:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/09/ab23023216/artificial-intelligence-in-cybersecurity-market-worth-38-2-billion-by-2026-at-the-highest-cagr-of"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23023216"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23023216"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-security-market3.jpg"
+        width: 650
+        height: 405
+        isCached: true
   - title: "Israel’s Blumberg Capital Secures $225M to Invest in Early-Stage AI, Big Data, Cybersecurity, Fintech Ventures"
     excerpt: "Blumberg Capital secures $225 million as part of its fifth fund, which focuses on making strategic investments into early-stage ventures."
     publishedDateTime: 2021-09-18T16:12:00Z

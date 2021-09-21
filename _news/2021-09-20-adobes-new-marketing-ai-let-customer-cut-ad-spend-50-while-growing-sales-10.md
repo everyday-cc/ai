@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-mark
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/amp/"
 type: article
 quality: 117
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 790
     isCached: true
+
+related:
+  - title: "Life Sciences and Healthcare Industry Leaders Invest in Tact.ai to Deliver Next Generation Customer Engagement"
+    excerpt: "Tact.ai, the customer engagement company for life sciences, today announced a new round of equity financing totaling $33 million that"
+    publishedDateTime: 2021-09-21T01:48:00Z
+    webUrl: "https://www.prnewswire.com/ae/news-releases/life-sciences-and-healthcare-industry-leaders-invest-in-tact-ai-to-deliver-next-generation-customer-engagement-821840733.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/493203/Tact_Logo.jpg?p=facebook"
+        width: 1937
+        height: 1016
+        isCached: true
 
 secured: "gGbdxGyZqLVFJnUQ47TLGDdZEJYEI+M+VPCHWXs4MkBUd1CeQMeYfaplDaUuGBczMVN/IkbkX38g/mFRb/Uoy8hCXeGTGgh8alLdmLWnBkhqhoHDhoX+2w9x0tJo3HmhbnkwGLZQdn1FtSBq3+gzZZ+Jmimcl61SnbetVZqZw8e7Bq2/8z64YafkAJzmcI15fFzrlZoYU1ZlX+XI0xjMfIvKhs0otPTrh6JQ0lwDy/tddjA1edgirYv0NQFkU2vBqqr3ivPcqkiPuZd7xuVD6rMnkt9XO8yL/xtKERZiOSVcup253g9ZdHXVf2t2vDCn/TkE7Md6mki8qmoHcvQTmYjn1l/wEpwIMo9ONf0lf3+k+P1JfavFcprdQPD0yNh/6vSqJTu4VRwqevma/RBOzPiTu1PIt+zulO4HDjSiZaoeU1hFgpEOQ6rEfDH+4YapexjRNlRM7mrYmSvJc0qdI9SuSOWXaTy7gSHIm5/2EMGK/U6qhD/hyDmCxg9X/hNkweR25dZ0+kpHZB4shmc80w==;w3ZrkDOjXex4oFufJ2qyMA=="
 ---
