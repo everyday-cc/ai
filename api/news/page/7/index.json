@@ -2,6 +2,178 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-14-this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity.md",
+      "title": "This Indian company is tapping into the huge autonomous driving opportunity",
+      "excerpt": "Be it artificial intelligence (AI), 5G ... Global companies such as Tesla and Waymo are leading the race when it comes to automated driving. But what about Indian companies?",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
+      "originalUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/09/14/600x338/car-kHv--621x414@LiveMint_1631620785356.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
+      "publishedDateTime": "2021-09-14T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-ai-driven-api-security-startup-neosec-launches-with-207m-in-new-funding.md",
+      "title": "AI-driven API security startup Neosec launches with $20.7M in new funding",
+      "excerpt": "Artificial intelligence-driven application programming interface security startup Neosec launched out of stealth mode today with an announcement that it has raised $20.7 million in new funding. The Series A round included True Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/09/14/ai-driven-api-security-startup-neosec-launches-20-7m-new-funding",
+      "originalUrl": "https://siliconangle.com/2021/09/14/ai-driven-api-security-startup-neosec-launches-20-7m-new-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-the-view-from-the-ai-hw-summit-what-was-the-best-ai-hw-in-2021.md",
+      "title": "The View From The AI HW Summit: What Was The Best AI HW In 2021?",
+      "excerpt": "You can view my full presentation here for those with an interest. Each of the following are covered briefly in the presentation link. Its hard to pick just 10 news items from the last year, but here’s my top-of-mind list of hardware and software in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/14/the-view-from-the-ai-hw-summit--the-best-2021-ai-hw-is/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613797c2915d9892cb74af55%2F0x0.jpg",
+          "width": 1124,
+          "height": 1060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-ibm-focuses-on-ai-business-adds-new-features-to-watson.md",
+      "title": "IBM Focuses on AI Business, Adds New Features to Watson",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Read more on \"Zacks\" SHARE THIS POST Ai Holdings NewsMORE Related Stocks Find News News",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-focuses-on-ai-business--adds-new-features-to-watson-10522185",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-focuses-on-ai-business--adds-new-features-to-watson-10522185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-aci-worldwide-ranked-in-the-top-20-largest-global-providers-of-financial-technology-by-idc-fintech-rankings.md",
       "title": "ACI Worldwide Ranked in the Top 20 Largest Global Providers of Financial Technology by IDC FinTech Rankings",
       "excerpt": "ACI Worldwide, a leading global provider of real-time payments and digital payment software solutions, today announced its ranking in the IDC (News - Alert) Financial Insights 2021 FinTech Rankings. ACI is ranked 19 on this international list of financial technology companies that were judged according to their global revenues attributed to financial institutions.",
@@ -911,169 +1083,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-computer-and-human-vision-perspectives.md",
-      "title": "Computer and Human Vision Perspectives",
-      "excerpt": "The result of a series of four highly successful workshops on the topic, the book gathers many of the most distinguished researchers from both computer and human vision to reflect on their experience, identify open problems, and foster a cross-disciplinary ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/sm/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
-      "originalUrl": "https://www.cambridge.org/sm/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-should-facial-recognition-software-be-installed-in-schools.md",
-      "title": "Should facial recognition software be installed in schools?",
-      "excerpt": "Lawmakers are looking at another issue in school, facial recognition software. The ACLU is launching a week of action, asking legislators in the state to pass a bill regulating the use of facial recognition in schools,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/",
-      "originalUrl": "https://www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2019/10/springfield-facial-recognition.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/amp/",
-      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/political-news/should-facial-recognition-software-be-installed-in-schools/amp/",
-      "publishedDateTime": "2021-09-13T19:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWLP",
-        "domain": "wwlp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books.md",
-      "title": "On Hindi Divas, Garuda Prakashan announces publishing partnership with IIT-Bombay project for Indian language translation of engineering books",
-      "excerpt": "Mumbai: Joining forces with the premier Indian Institute of Technology (IIT) Bombay for an Indian-language end-to-end translation ecosystem, Garuda Prakashan is playing an important role of a publishing partner for Project Udaan.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "originalUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books/",
-      "publishedDateTime": "2021-09-13T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-boba-tea-startup-bobacino-looks-to-incorporate-facial-recognition-payment-system.md",
-      "title": "Boba Tea Startup Bobacino Looks To Incorporate Facial Recognition Payment System",
-      "excerpt": "The demand for low-touch concepts and solutions that align restaurant trends caused by the pandemic has led to much interest in Bobacino's business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foodbeast.com/news/bobacino-popid-facial-recognition-payment/",
-      "originalUrl": "https://www.foodbeast.com/news/bobacino-popid-facial-recognition-payment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.foodbeast.com/wp-content/uploads/2021/09/bobacino-popID.jpeg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foodbeast",
-        "domain": "foodbeast.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

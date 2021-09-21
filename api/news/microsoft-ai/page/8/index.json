@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-29-microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool.md",
+      "title": "Microsoft brings AI to GitHub to create a smart programing Copilot tool",
+      "excerpt": "Microsoft is making available a technical preview of a new Visual Studio Code extension that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/06/30/0286f74b-453c-4472-b5c1-321b18475c78/thumbnail/770x578/d2adcf607032c90dd9ef0b94eb9d0a34/technical-visual-studio-code-extension.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-microsoft-brings-ai-to-github-to-create-a-smart-programming-copilot-tool.md",
       "title": "Microsoft brings AI to GitHub to create a smart programming Copilot tool",
       "excerpt": "Microsoft is making a technical preview of a new Visual Studio Code extension available that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
@@ -1286,40 +1338,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service.md",
-      "title": "BUSINESS WIRE: Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service",
-      "excerpt": "MITTEILUNG UEBERMITTELT VON BUSINESS WIRE. FUER DEN INHALT IST ALLEIN DAS BERICHTENDE UNTERNEHMEN VERANTWORTLICH.Microsoft Azure at the Edge: Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
-      "originalUrl": "https://www.finanztreff.de/news/business-wire-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-go/25195160",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-19T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanztreff",
-        "domain": "finanztreff.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

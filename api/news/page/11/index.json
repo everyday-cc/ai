@@ -2,6 +2,203 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-09-10-update-on-artificial-intelligence-court-rules-that-ai-cannot-qualify-as-inventor.md",
+      "title": "Update on Artificial Intelligence: Court Rules that AI Cannot Qualify As “Inventor”",
+      "excerpt": "Striking a blow to patent applicants seeking to assert inventorship by artificial intelligence (“AI”) systems, the U.S. District Court for the Eastern District of Virginia ruled on Septemb",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor",
+      "originalUrl": "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp",
+      "publishedDateTime": "2021-09-09T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now.md",
+      "title": "The Mind-Bending Physics Of Walking With Coffee May Save Humanity, For Now",
+      "excerpt": "If you’ve found your fear of the robot apocalypse building lately, new research suggests humans will remain in charge as long as we’re the best around at one simple activity: walking with a cup of coffee in hand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/",
+      "originalUrl": "https://www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a4966d8a6273d89d10425%2F0x0.jpg",
+          "width": 1200,
+          "height": 1138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/amp/",
+      "publishedDateTime": "2021-09-09T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-3-traps-companies-should-avoid-in-their-ai-journeys.md",
+      "title": "3 traps companies should avoid in their AI journeys",
+      "excerpt": "The industry is still in the early days of AI adoption, and organizations need to develop an adoption strategy specific to their organization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/",
+      "originalUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-2-e1623874115544.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/amp/",
+      "publishedDateTime": "2021-09-09T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships.md",
+      "title": "Orca AI begins research trial of safety system for autonomous ships",
+      "excerpt": "Orca AI, has recently announced a partnership with ​​Nippon Yusen Kabushiki Kaisha (NYK Line) to test its safety system for autonomous ships.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/09/orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships/",
+      "originalUrl": "https://electrek.co/2021/09/09/orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Orca-AI-Collision-Risk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/09/orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/09/orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships/amp/",
+      "publishedDateTime": "2021-09-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-looks-like-intel-alchemists-top-gpu-is-definitely-headed-to-laptops.md",
       "title": "Looks like Intel Alchemist's top GPU is definitely headed to laptops",
       "excerpt": "Twitter user Benchleaks spotted benchmark scores for an \"Intel Xe\" GPU this week, and a closer look at the specs makes it evident that we are looking at an Intel Alchemist GPU for laptops. This confirms that you are going to be able to get Intel's high-end GPU on a gaming laptop,",
@@ -955,197 +1152,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-irobots-roomba-j7-robot-vacuum-uses-machine-learning-to-avoid-pet-poop.md",
-      "title": "iRobot's Roomba j7+ Robot Vacuum Uses Machine Learning to Avoid Pet Poop",
-      "excerpt": "The company is offering a P.O.O.P. (Pet Owner Official Promise) guarantee that its latest robot vac will avoid solid waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
-      "originalUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02r1tXjDU88QfgITP4P7TKQ-1.1631035488.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true",
-      "publishedDateTime": "2021-09-08T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well.md",
-      "title": "Police are investing in facial recognition and AI. Not everyone thinks that it's going well",
-      "excerpt": "A panel of experts warns that the growing use of technology in law enforcement agencies is starting a new wave of backlash from citizens and civil society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/09/09/590a4814-9869-4b1d-af78-a0769b53b1da/gettyimages-1199003889.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well/",
-      "publishedDateTime": "2021-09-08T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-aws-extends-cloud-computing-curriculum-to-21-higher-education-institutions-in-india.md",
-      "title": "AWS extends cloud computing curriculum to 21 higher education institutions in India",
-      "excerpt": "Students in these institutions will learn about cloud architecture, data analytics, cybersecurity, artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/",
-      "originalUrl": "https://www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Alternative-cloud-makes-better-sense-for-SMBs-1.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/amp/",
-      "publishedDateTime": "2021-09-08T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-gates-foundation-pours-cash-into-british-firm-exscientia-to-fight-pandemics.md",
-      "title": "Gates Foundation pours cash into British firm Exscientia to fight pandemics",
-      "excerpt": "A British company using artificial intelligence for drug discovery has struck a $70 million collaboration with the Bill & Melinda Gates Foundation to develop therapeutics to tackle the current and future pandemics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/ai-drugs-company-exscientia-finds-a-friend-in-gates-foundation-26vqk0q20",
-      "originalUrl": "https://www.thetimes.co.uk/article/ai-drugs-company-exscientia-finds-a-friend-in-gates-foundation-26vqk0q20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F646ba09a-1083-11ec-86b8-9dcf48a101ba.jpg?crop=3016%2C1696%2C0%2C157&resize=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

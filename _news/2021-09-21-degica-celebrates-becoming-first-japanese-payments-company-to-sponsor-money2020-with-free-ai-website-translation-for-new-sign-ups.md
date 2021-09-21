@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Degica celebrates becoming first Japanese payments company to sponsor Money20/20 with free AI website translation for new sign-ups"
-excerpt: "Japanese payment company kickstarts European expansion at Money20/20 Europe, offering free, high-quality, AI-powered translation for client websites into Japanese, English and Chinese TOKYO and AMSTERDAM,"
-publishedDateTime: 2021-09-21T13:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-degica-celebrates-becoming-first-japanese-payments-company-sponsor-/2021/09/21/9453351.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-degica-celebrates-becoming-first-japanese-payments-company-sponsor-/2021/09/21/9453351.htm"
+excerpt: "Degica, an AI-powered global payments company headquartered in Tokyo, is celebrating its debut as the first Japanese fintech to"
+publishedDateTime: 2021-09-21T13:42:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/degica-celebrates-becoming-first-japanese-payments-company-to-sponsor-money2020-with-free-ai-website-translation-for-new-sign-ups-301381595.html"
+webUrl: "https://www.prnewswire.com/news-releases/degica-celebrates-becoming-first-japanese-payments-company-to-sponsor-money2020-with-free-ai-website-translation-for-new-sign-ups-301381595.html"
 type: article
-quality: 0
-heat: 0
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
-secured: "3/ys+ILI6U2X7fthL+NnR22g0T5ZooDoP2PqjGLvBiYVag0Oep5w2T1TcalxDHdlfY7BK/iLijx4aYrq8pROOCD53CnetOpfwsSiMhZAk50GQoaswO372Oca2c8aFGg56AeKgWUPnvMqKR7lbWcFLvO1ftEMhtztplScGnh9to0xd5WFbtBpvdTb0rzH8pfF3PteLgdm8ZTjPZN/azcUd6pyW6ECrqJLWnEavAJBQLZy0wqcbEQuQLPP4uRhuS70ONf33xV/5K9+gTk0Qx7LxGrkbnzPsmuOUvAmp2w1iXZIyjRbXNAH4Hxd8BSLEepkd0vB8QMPy75CUqahkgmbjN69W2PGUW1kBXK0PizWvaM=;ldvR2HtNXIHfZQcRp1GNbA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1630867/KOMOJU_by_Degica_Logo.jpg?p=facebook"
+    width: 2609
+    height: 1366
+    isCached: true
+
+secured: "WovC7CS+aNakFN1m3Qi6IHmIveQYQ2NMV9YChGYVC+Z8KbxZMQOJyhMGNPkNiBzf5WO85wZpVcsFZk58R1EDOD9SwtzFYCL+taEXDyFnT25wn6qvSdjeWr35gilJeSgS7W0YI1tZ5fJscCFtygDMcwRdc9bxsCIqnVvqLbsc98S7+Y9RmRWT0vWnee3BidYQZDSNqTPAXZ/mNiqL3YHp03RZmQRx6R6T6Y8YMFcTS2bh7d6xvt4HCkJv5VMeukILbtdAHlZDjluspHoyZVh58UQJanfEH+wGNakPhcxVoBPEMYWNJLxTZFcZbAHPJJJO0k0GkS7lCUSYy/prhM1LdzK4nico/5Yciy1Ax0Ko49M=;fXK1GXn6HTBJd4eAJlC0yQ=="
 ---
 

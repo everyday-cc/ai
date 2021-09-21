@@ -2,6 +2,196 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-16-walmart-self-driving-delivery-service-coming-to-three-cities.md",
+      "title": "Walmart Self-Driving Delivery Service Coming to Three Cities",
+      "excerpt": "Ford Motor Co. and Argo AI have joined forces with Walmart to roll out an autonomous vehicle delivery service in Washington, D.C.; Miami, Fla.; and Austin, Texas. The service is expected to grow to other cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
+      "originalUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/ff20296/2147483647/strip/true/crop/1000x521+0+122/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa2%2Fdb%2F736321c7494893e7b9af8e18eb7c%2Fshutterstock-2022062486.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
+      "publishedDateTime": "2021-09-15T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-the-machine-learning-imperative-empowering-businesses-to-innovate-faster.md",
+      "title": "The Machine Learning Imperative: Empowering Businesses to Innovate Faster",
+      "excerpt": "Machine Learning (ML) took centre stage at AWS reInvent from being a key focus in the opening keynote by CEO Andy Jassy, to the entire focus of the inaugural ML keynote by Swami Sivasubramanian, VP of",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
+      "originalUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Machine_Learning_Imperative-_Empowering_Businesses_to_Innovate_Faster.jpeg",
+          "width": 1282,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-5-real-ai-threats-that-make-the-terminator-look-like-kindergarten-cop.md",
+      "title": "5 real AI threats that make The Terminator look like Kindergarten Cop",
+      "excerpt": "SKYNET, SKYNET, SKYNET. Everyone's always going on about Terminators and killer robots, but the real horror posed by future AI is from Facebook and Google.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/5-ai-threats-make-terminator-look-like-kindergartern-cop",
+      "originalUrl": "https://thenextweb.com/news/5-ai-threats-make-terminator-look-like-kindergartern-cop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fterminatorsarah.jpg&signature=afaaff66c6ebcf9b06a2a376f8b5dcf7",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-the-responsibilities-of-ai-first-investors.md",
+      "title": "The responsibilities of AI-first investors",
+      "excerpt": "Investors in AI-first technology companies serving the defense industry, such as Palantir, Primer and Anduril, are doing well. Anduril, for one, reached a valuation of over $4 billion in less than four years.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/15/the-responsibilities-of-ai-first-investors/",
+      "originalUrl": "https://techcrunch.com/2021/09/15/the-responsibilities-of-ai-first-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-962042766.jpg?w=551",
+          "width": 551,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-new-paper-explores-facial-recognition-biases-beyond-demographics.md",
       "title": "New paper explores facial recognition biases beyond demographics",
       "excerpt": "The well-reported biases surrounding skin tone and sex are not the only biases held by facial recognition systems, finds a new paper.",
@@ -562,19 +752,19 @@
     {
       "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
       "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
-      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies.",
+      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data-807973216.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg",
-          "width": 267,
-          "height": 400,
+          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg?p=facebook",
+          "width": 5157,
+          "height": 2699,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -584,11 +774,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T09:04:00-07:00",
+      "publishedDateTime": "2021-09-15T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -893,179 +1083,6 @@
         "AI in Finance",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-zest-ai-wins-2021-finovate-award-for-best-use-of-aiml.md",
-      "title": "Zest AI Wins 2021 Finovate Award for Best Use of AI/ML",
-      "excerpt": "The Finovate Awards were created to recognize excellence in innovation within the broader fintech community. \"It's great to be recognized by the panel of Finovate judges as Best Use of AI/ML in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/zest-ai-wins-2021-finovate-award-for-best-use-of-ai-ml-1030802033",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/zest-ai-wins-2021-finovate-award-for-best-use-of-ai-ml-1030802033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028.md",
-      "title": "Cognitive Services Market Size, Key Factors, Major Players, Growth Strategies, Trends, Forecast Till 2028",
-      "excerpt": "Going ahead, the Cognitive Services market report precisely evaluates the gross profits, revenue shares, sales volume, manufacturing costs, and individual growth rate, and financial positions of the leading market contenders.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/",
-      "originalUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/2-20.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/?amp=1",
-      "publishedDateTime": "2021-09-15T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-top-10-massive-failures-of-artificial-intelligence-till-date.md",
-      "title": "Top 10 Massive Failures of Artificial Intelligence Till Date",
-      "excerpt": "The creation of Artificial Intelligence has been postponed for several millennia and current AI Technology is still far from being able to re-design itself. This article will give an idea of the top AI Failures in this AI era.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-10-massive-failures-of-artificial-intelligence-till-date/",
-      "originalUrl": "https://www.analyticsinsight.net/top-10-massive-failures-of-artificial-intelligence-till-date/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Top-10-Massive-Failures-of-Artificial-Intelligence-till-Date.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-walmart-partners-with-ford-to-test-self-driving-delivery-in-3-cities.md",
-      "title": "Walmart partners with Ford to test self-driving delivery in 3 cities",
-      "excerpt": "Retail giant Walmart announced on Wednesday that it's partnering with Ford and an artificial intelligence company to test a self-driving delivery service in three American cities in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/8241631708927/2021/1/7539b99d39407142a709854e4177d7a9/v1.5/Walmart-partners-with-Ford-to-test-self-driving-delivery-in-3-cities.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
-      "publishedDateTime": "2021-09-15T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

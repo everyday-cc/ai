@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-18-chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu.md",
+      "title": "China’s Baidu unveils autonomous driving ‘robot truck’ Xingtu",
+      "excerpt": "Baidu’s open-source autonomous driving platform Apollo has spawned Xingtu, an electric ‘robot truck’, as mainland China’s artificial intelligence and search engine giant revs up the development of next-generation vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/18/44b8b9a0-17b7-11ec-ab69-f2bfe93835cf_image_hires_023635.JPG?itok=HjlXUvBM&v=1631903802",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "publishedDateTime": "2021-09-17T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-the-proposed-new-eu-regulatory-regime-for-artificial-intelligence-ai.md",
+      "title": "The Proposed New EU Regulatory Regime for Artificial Intelligence (AI)",
+      "excerpt": "Introduction In April 2021, the EU Commission (EC) proposed a suite of new legislative and non-legislative proposals related to artificial intelligence (AI): in a proposed Regulation laying down ru",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai",
+      "originalUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai?amp",
+      "publishedDateTime": "2021-09-17T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality.md",
+      "title": "The Social Impact Case For Artificial Intelligence’s Role In Achieving Global Financial And Health Equality",
+      "excerpt": "Equality Mural.. Technology can be used for a great many things: improving people’s lives is one of them. This is achievable through AI in many sectors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144ea724d323ccd70477289%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1036%26cropY1%3D941%26cropY2%3D1524",
+          "width": 1036,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
+      "publishedDateTime": "2021-09-17T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-hyundai-to-feature-facial-recognition-in-electric-vehicles.md",
+      "title": "Hyundai to feature facial recognition in electric vehicles",
+      "excerpt": "South Korean carmaker Hyundai Motor announced it will include a new facial recognition system in its forthcoming GV 60, the first electric sport utility vehicle from its Genesis brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5491631899253/2021/1/16318995983256/v1.5/Hyundai-to-feature-facial-recognition-in-electric-vehicles.jpg",
+          "width": 571,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
+      "publishedDateTime": "2021-09-17T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-will-ai-ever-be-able-to-offer-an-roi-for-enterprises.md",
       "title": "Will AI Ever Be Able To Offer An ROI For Enterprises?",
       "excerpt": "A CEO friend asked me, “Will AI ever be able to offer an ROI for enterprises?” I thought the answer through and wrote it down. Then, I realized that this information could be beneficial and valuable to many people,",
@@ -857,8 +1047,8 @@
       "title": "Live Webinar: Driving Healthcare Decisions with Natural Language Processing",
       "excerpt": "Dr. Sabita Sankar, VP of Business Development at HUMA.AI, will sit down with Natalie Yeadon, to discuss “human-centric AI” and how to automate healthcare through human language, with special focus on the applications for Medical Affairs,",
       "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pmhub/pharma_training/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
-      "originalUrl": "https://www.pmlive.com/pmhub/pharma_training/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "webUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "originalUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -970,196 +1160,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-walmart-self-driving-delivery-service-coming-to-three-cities.md",
-      "title": "Walmart Self-Driving Delivery Service Coming to Three Cities",
-      "excerpt": "Ford Motor Co. and Argo AI have joined forces with Walmart to roll out an autonomous vehicle delivery service in Washington, D.C.; Miami, Fla.; and Austin, Texas. The service is expected to grow to other cities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
-      "originalUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/ff20296/2147483647/strip/true/crop/1000x521+0+122/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa2%2Fdb%2F736321c7494893e7b9af8e18eb7c%2Fshutterstock-2022062486.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/walmart-self-driving-delivery-service-coming-to-three-cities?_amp=true",
-      "publishedDateTime": "2021-09-15T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-the-machine-learning-imperative-empowering-businesses-to-innovate-faster.md",
-      "title": "The Machine Learning Imperative: Empowering Businesses to Innovate Faster",
-      "excerpt": "Machine Learning (ML) took centre stage at AWS reInvent from being a key focus in the opening keynote by CEO Andy Jassy, to the entire focus of the inaugural ML keynote by Swami Sivasubramanian, VP of",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "originalUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Machine_Learning_Imperative-_Empowering_Businesses_to_Innovate_Faster.jpeg",
-          "width": 1282,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-5-real-ai-threats-that-make-the-terminator-look-like-kindergarten-cop.md",
-      "title": "5 real AI threats that make The Terminator look like Kindergarten Cop",
-      "excerpt": "SKYNET, SKYNET, SKYNET. Everyone's always going on about Terminators and killer robots, but the real horror posed by future AI is from Facebook and Google.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/5-ai-threats-make-terminator-look-like-kindergartern-cop",
-      "originalUrl": "https://thenextweb.com/news/5-ai-threats-make-terminator-look-like-kindergartern-cop",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fterminatorsarah.jpg&signature=afaaff66c6ebcf9b06a2a376f8b5dcf7",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-the-responsibilities-of-ai-first-investors.md",
-      "title": "The responsibilities of AI-first investors",
-      "excerpt": "Investors in AI-first technology companies serving the defense industry, such as Palantir, Primer and Anduril, are doing well. Anduril, for one, reached a valuation of over $4 billion in less than four years.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/15/the-responsibilities-of-ai-first-investors/",
-      "originalUrl": "https://techcrunch.com/2021/09/15/the-responsibilities-of-ai-first-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-962042766.jpg?w=551",
-          "width": 551,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

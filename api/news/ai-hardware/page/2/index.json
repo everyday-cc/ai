@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-01-doing-the-math-on-cpu-native-ai-inference.md",
+      "title": "Doing The Math On CPU Native AI Inference",
+      "excerpt": "A number of chip companies – importantly Intel and IBM, but also the Arm collective and AMD – have come out recently with new CPU designs that feature",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/",
+      "originalUrl": "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/ab_matrix-cube-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/amp/",
+      "publishedDateTime": "2021-09-01T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-2017-ai-deep-learning-and-gpus.md",
       "title": "2017 – AI, Deep Learning, and GPUs",
       "excerpt": "Armed with huge data sets and increasingly powerful GPUs, neural network architectures got bigger and better, helping to close the human-machine performance gap in two prominent AI workloads: natural language processing (NLP) and computer vision.",
@@ -1363,50 +1407,6 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy.md",
-      "title": "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?",
-      "excerpt": "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
-      "originalUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

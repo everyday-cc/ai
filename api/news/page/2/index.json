@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-21-the-next-healthcare-revolution-will-have-ai-at-its-center.md",
+      "title": "The next healthcare revolution will have AI at its center",
+      "excerpt": "Human life expectancy increased from 31 years in 1900 to 72 years in 2017. Today, we are on the cusp of another healthcare revolution driven by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/",
+      "originalUrl": "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1256204443.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-intel-covers-arc-gpu-fab-choice-xess-backwards-compatibility-and-other-details-in-new-interview.md",
+      "title": "Intel covers Arc GPU fab choice, XeSS backwards compatibility and other details in new interview",
+      "excerpt": "According to Wccftech's translation, Intel said it chose TSMC's six-nanometer processor node for the Arc Alchemist GPUs over its own node -- probably Intel 7, due",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html",
+      "originalUrl": "https://www.techspot.com/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-03-image-7.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91331-intel-covers-arc-gpu-fab-choice-xess-backwards.html",
+      "publishedDateTime": "2021-09-20T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-use-the-aws-cloud-for-observational-life-sciences-studies.md",
+      "title": "Use the AWS Cloud for observational life sciences studies",
+      "excerpt": "In this post, we discuss how to use the AWS Cloud and its services to accelerate observational studies for life sciences customers. We provide a reference architecture for architects, business owners, and technology decision-makers in the life sciences industry to automate the processes in clinical studies.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cloud-for-observational-life-sciences-studies/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cloud-for-observational-life-sciences-studies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/13/Screen-Shot-2021-09-08-at-8.14.12-PM-1-1071x630.png",
+          "width": 1071,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T10:27:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-ai-powered-supply-chain-visibility-platform-altana-nabs-15m.md",
       "title": "AI-powered supply chain visibility platform Altana nabs $15M",
       "excerpt": "Altana AI, a startup creating a platform to unify global supply chain data, has raised $15 million in venture capital.",
@@ -155,7 +311,7 @@
       "originalUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -555,6 +711,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-20-4-stocks-to-benefit-from-continued-demand-for-ai.md",
+      "title": "4 Stocks to Benefit From Continued Demand for AI",
+      "excerpt": "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/386471",
+      "originalUrl": "https://www.entrepreneur.com/article/386471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386471.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care.md",
       "title": "AI Startup Navina Leverages The Amazon Cloud To Improve Patient Care",
       "excerpt": "But in their case, it wasn’t a cybersecurity or fintech or proptech startup, but a healthcare startup, joining the most recent thriving sector in the booming Startup Nation of Israel. The rapid digital transformation of the healthcare industry worldwide,",
@@ -913,7 +1121,7 @@
       "originalUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1048,196 +1256,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu.md",
-      "title": "China’s Baidu unveils autonomous driving ‘robot truck’ Xingtu",
-      "excerpt": "Baidu’s open-source autonomous driving platform Apollo has spawned Xingtu, an electric ‘robot truck’, as mainland China’s artificial intelligence and search engine giant revs up the development of next-generation vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/18/44b8b9a0-17b7-11ec-ab69-f2bfe93835cf_image_hires_023635.JPG?itok=HjlXUvBM&v=1631903802",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
-      "publishedDateTime": "2021-09-17T19:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-the-proposed-new-eu-regulatory-regime-for-artificial-intelligence-ai.md",
-      "title": "The Proposed New EU Regulatory Regime for Artificial Intelligence (AI)",
-      "excerpt": "Introduction In April 2021, the EU Commission (EC) proposed a suite of new legislative and non-legislative proposals related to artificial intelligence (AI): in a proposed Regulation laying down ru",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai",
-      "originalUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai?amp",
-      "publishedDateTime": "2021-09-17T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality.md",
-      "title": "The Social Impact Case For Artificial Intelligence’s Role In Achieving Global Financial And Health Equality",
-      "excerpt": "Equality Mural.. Technology can be used for a great many things: improving people’s lives is one of them. This is achievable through AI in many sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144ea724d323ccd70477289%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1036%26cropY1%3D941%26cropY2%3D1524",
-          "width": 1036,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
-      "publishedDateTime": "2021-09-17T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-hyundai-to-feature-facial-recognition-in-electric-vehicles.md",
-      "title": "Hyundai to feature facial recognition in electric vehicles",
-      "excerpt": "South Korean carmaker Hyundai Motor announced it will include a new facial recognition system in its forthcoming GV 60, the first electric sport utility vehicle from its Genesis brand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/5491631899253/2021/1/16318995983256/v1.5/Hyundai-to-feature-facial-recognition-in-electric-vehicles.jpg",
-          "width": 571,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
-      "publishedDateTime": "2021-09-17T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

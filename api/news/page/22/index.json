@@ -2,6 +2,230 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-08-30-zebra-technologies-plans-to-acquire-antuitai-quick-facts.md",
+      "title": "Zebra Technologies Plans To Acquire Antuit.ai - Quick Facts",
+      "excerpt": "Zebra Technologies (ZBRA) announced Monday that it intends to acquire antuit.ai, a provider of artificial intelligence (AI)-powered Software-as-a-Service (SaaS) solutions specific to forecasting and merchandising for the retail and CPG industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30",
+      "originalUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-technologies-plans-to-acquire-antuit.ai-quick-facts-2021-08-30?amp",
+      "publishedDateTime": "2021-08-30T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-nec-expanding-partnership-with-microsoft-for-digital-transformation-among-customer-base.md",
+      "title": "NEC Expanding Partnership with Microsoft for Digital Transformation Among Customer Base",
+      "excerpt": "NEC is expanding its partnership with Microsoft to help enterprises accelerate their cloud adoptions and digital transformations:",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/cloud/nec-expanding-partnership-microsoft-digital-transformation-among-customer-base/",
+      "originalUrl": "https://www.datamation.com/cloud/nec-expanding-partnership-microsoft-digital-transformation-among-customer-base/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2020/10/Azure.png",
+          "width": 519,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-artificial-intelligence-answers-covid-questions.md",
+      "title": "Artificial intelligence answers COVID questions",
+      "excerpt": "A chatbot that is based on an artificial neural network that can carry out natural language processing (NLP) is being developed by researchers in India. The team describes how the chatbot can be programmed to answer questions related to the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg",
+          "width": 1920,
+          "height": 1497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-artificial-intelligence-covid.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-intelligence-covid.amp",
+      "publishedDateTime": "2021-08-30T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-chinas-new-data-laws-are-a-risk-factor-in-a-facial-recognition-giants-ipo-filing.md",
+      "title": "China’s new data laws are a risk factor in a facial-recognition giant’s IPO filing",
+      "excerpt": "The firm's lengthy list of risk factors is a reminder that Chinese tech champions face rising scrutiny in both Beijing and Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
+      "originalUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 875,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2053040/chinas-new-data-laws-are-a-risk-factor-in-sensetimes-ipo-filing/amp/",
+      "publishedDateTime": "2021-08-30T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-10-things-in-tech-you-need-to-know-today.md",
+      "title": "10 things in tech you need to know today",
+      "excerpt": "Amazon entered the BNPL space, T-Mobile customers frustrated by security breach, and Google shuttered another app: 10 things in tech you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/612c0ecb12b9cc00196345f4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-you-need-to-know-today-30-2021-8?amp",
+      "publishedDateTime": "2021-08-30T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-fintech-and-digital-banking-searches-have-been-on-the-rise.md",
       "title": "Fintech and digital banking searches have been on the rise",
       "excerpt": "Four popular fintech brands have seen a surge in Google searches as they’ve gained a foothold in the banking industry.",
@@ -949,261 +1173,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-celebrity-spotting-amazon-improves-facial-recognition-for-famous-people.md",
-      "title": "Celebrity spotting: Amazon improves facial recognition for famous people",
-      "excerpt": "The service caters to media companies, and AWS says that Rekognition now \"automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML ... include Microsoft's Azure Face and Google's Cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/celebrity-spotting-amazon-improves-facial-recognition-for-famous-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/27/0b1ee20f-42d7-45d1-96b2-dbb621c20c86/thumbnail/770x578/556ef2129ec59a24cf677f1dfdd98714/amazon-rekognition-bezos.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-28T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-self-driving-electric-cars-could-mean-the-end-of-short-haul-flights.md",
-      "title": "Self-Driving Electric Cars Could Mean The End Of Short Haul Flights",
-      "excerpt": "Self-driving battery-electric vehicles could drastically reduce the need for short haul flying, or even render it obsolete, and slash emissions in the process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61262ae06169576215801db8%2F0x0.jpg",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/08/28/self-driving-electric-cars-could-mean-the-end-of-short-haul-flights/amp/",
-      "publishedDateTime": "2021-08-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-inside-boston-dynamics-project-to-create-humanoid-robots.md",
-      "title": "Inside Boston Dynamics’ project to create humanoid robots",
-      "excerpt": "Atlas is a humanoid robot that has become popular for showing unrivaled ability in jumping over obstacles, backflips, and dancing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
-      "originalUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Boston-Dynamic-Atlas-Parkour1-e1629834411758.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/27/inside-boston-dynamics-project-to-create-humanoid-robots/amp/",
-      "publishedDateTime": "2021-08-27T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans.md",
-      "title": "How IBM is using AI to deliver insights and stats to US Open fans",
-      "excerpt": "Tennis lovers are getting a lot of new data insights thanks to IBM's Power Rankings and Match Insights powered by its Watson AI, and business leaders looking for analytics tools should tune in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/30/a89991a4-f68b-4afd-bfca-5741f861acf3/resize/1200x/1c8ef71d7c03da27b6f3bac423df3062/ibm-watson-tennis.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-is-using-ai-to-deliver-insights-and-stats-to-us-open-fans/",
-      "publishedDateTime": "2021-08-27T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-28-did-tesla-just-confirm-that-the-robot-takeover-is-here.md",
-      "title": "Did Tesla Just Confirm That the Robot Takeover Is Here?",
-      "excerpt": "Rather, we’re investing in the small tech startup that’s developing the advanced underlying robotics and AI technology which will power this Automation Economy. We think this tiny stock could ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/",
-      "originalUrl": "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/moneywire/2021/08/did-tesla-just-confirm-that-the-robot-takeover-is-here-2/amp/",
-      "publishedDateTime": "2021-08-27T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

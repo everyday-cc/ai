@@ -2,6 +2,249 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-08-22-natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic.md",
+      "title": "Natural Language Processing Uncovers Silver Linings In The Covid-19 Pandemic",
+      "excerpt": "We identified positive aspects, or silver linings, that people experienced during the Covid-19 crisis using computational natural language processing methods,” say the authors of the research led by Stanford University’s Juan Antonio Lossio-Ventura.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/",
+      "originalUrl": "https://www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61211a1fc57e3ecb07d81833%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3585%26cropY1%3D136%26cropY2%3D1816",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2021/08/22/natural-language-processing-uncovers-silver-linings-in-the-covid-19-pandemic/amp/",
+      "publishedDateTime": "2021-08-22T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-22-healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health.md",
+      "title": "Healthcare Artificial Intelligence Market valuation to boom through 2026 | NVIDIA, Next IT, IBM Watson Health",
+      "excerpt": "“A SWOT Analysis of Healthcare Artificial Intelligence (AI), Professional Survey Report Including Top Most Global Players Analysis with CAGR and Stock Market Up and Down.” By thinking from the customer point of view, a team of researchers, analysts and ...",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health/",
+      "originalUrl": "https://manometcurrent.com/healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Healthcare-Artificial-Intelligence-Market.jpg",
+          "width": 635,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/healthcare-artificial-intelligence-market-valuation-to-boom-through-2026-nvidia-next-it-ibm-watson-health/",
+      "publishedDateTime": "2021-08-22T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-22-australia-eyes-ai-drones-facial-recognition-tech-to-protect-wild-koalas.md",
+      "title": "Australia eyes AI, drones, facial recognition tech to protect wild koalas",
+      "excerpt": "Researchers are seeking hi-tech solutions to protect koalas against the threats of vehicle collisions and bush fires.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
+      "originalUrl": "https://www.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/22/689d270a-0305-11ec-83d9-2f907cc4e7e5_image_hires_131045.jpg?itok=_PUW2we3&v=1629609056",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/australasia/article/3145931/australia-eyes-ai-drones-facial-recognition-tech-protect-wild",
+      "publishedDateTime": "2021-08-22T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-22-3-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Through AWS, developers implement complex AI and machine learning services without having to build the technologies themselves. Image source: Getty Images. While artificial intelligence may seem ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F639600%2Fgettyimages-1307905824.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "publishedDateTime": "2021-08-22T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-22-break-the-cycle-of-yesterdays-logic-in-organizational-change-and-agile-adoption.md",
+      "title": "Break the Cycle of Yesterday's Logic in Organizational Change and Agile Adoption",
+      "excerpt": "Topics discussed include deep learning, edge deployment of machine learning algorithms, commercial robot platforms ... could lead into a newborn mind set. Sadly, that is a false bias which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/yesterdays-logic-change/",
+      "originalUrl": "https://www.infoq.com/articles/yesterdays-logic-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/yesterdays-logic-change/en/headerimage/header+%2839%29-1629446490745.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-22T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-22-artificial-intelligence-and-the-law.md",
       "title": "Artificial Intelligence and the Law",
       "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
@@ -889,249 +1132,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-beingai-unveils-human-like-ai-character-named-zbee.md",
-      "title": "BeingAI unveils human-like AI character named Zbee",
-      "excerpt": "BeingAI is creating virtual beings with artificial intelligence. And its first AI being is a virtual character named Zbee.",
-      "sourceUrl": null,
-      "webUrl": "https://beingai.com/zbee/",
-      "originalUrl": "https://venturebeat.com/2021/08/20/beingai-unveils-human-like-ai-character-named-zbee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck.md",
-      "title": "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck",
-      "excerpt": "Tesla plans to launch a new Full Self-Driving computer with Cybertruck electric pickup truck next year. The updated self-driving hardware should also include new cameras. Tesla’s self-driving hardware has been a point of controversy.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
-      "originalUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/e-gs-thumb-22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
-      "publishedDateTime": "2021-08-20T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-ai-day-showcases-the-breadth-of-teslas-ambition.md",
-      "title": "AI Day Showcases The Breadth Of Tesla’s Ambition",
-      "excerpt": "Tesla AI Day 2021 featured executives presenting the full range of the company’s AI efforts, from computer vision to planning and controls to data infrastructure to automotive super computers to data center supercomputers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fdf470f5f95efd0682f84%2F0x0.jpg",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/",
-      "publishedDateTime": "2021-08-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-elon-musk-announces-teslas-new-humanoid-robots.md",
-      "title": "Elon Musk Announces Tesla's New Humanoid Robots",
-      "excerpt": "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates ... \"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" he said during Tesla’s AI Day. He added, \"What ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380843",
-      "originalUrl": "https://www.entrepreneur.com/article/380843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 646,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629473007-GettyImages-1234764434.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380843",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380843",
-      "publishedDateTime": "2021-08-20T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy.md",
-      "title": "Deep Learning Courses for NLP Market R & D including top key players Coursera, Stanford University, Udemy",
-      "excerpt": "The Deep Learning Courses for NLP Market research report includes an in-sight study of the key Global Deep Learning Courses for NLP Market prominent players along with the company profiles and planning adopted by them.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/chart-2021-08-20T220608.762-780x470.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
-      "publishedDateTime": "2021-08-20T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-22-the-companys-fall-lineup-has-something-for-every-taste-and-budget.md",
+      "title": "The company's fall lineup has something for every taste and budget",
+      "excerpt": "After Dell, Asus, and Lenovo, HP is the latest manufacturer launching new devices designed for Microsoft's upcoming Windows 11 operating system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
+      "originalUrl": "https://www.techspot.com/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-21-image-22.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
+      "publishedDateTime": "2021-09-21T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-intel-covers-arc-gpu-fab-choice-xess-backwards-compatibility-and-other-details-in-new-interview.md",
       "title": "Intel covers Arc GPU fab choice, XeSS backwards compatibility and other details in new interview",
       "excerpt": "According to Wccftech's translation, Intel said it chose TSMC's six-nanometer processor node for the Arc Alchemist GPUs over its own node -- probably Intel 7, due",
@@ -1358,50 +1410,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-doing-the-math-on-cpu-native-ai-inference.md",
-      "title": "Doing The Math On CPU Native AI Inference",
-      "excerpt": "A number of chip companies – importantly Intel and IBM, but also the Arm collective and AMD – have come out recently with new CPU designs that feature",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/",
-      "originalUrl": "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/ab_matrix-cube-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/09/01/doing-the-math-on-cpu-native-ai-inference/amp/",
-      "publishedDateTime": "2021-09-01T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

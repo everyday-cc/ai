@@ -2,6 +2,249 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-08-21-beingai-unveils-human-like-ai-character-named-zbee.md",
+      "title": "BeingAI unveils human-like AI character named Zbee",
+      "excerpt": "BeingAI is creating virtual beings with artificial intelligence. And its first AI being is a virtual character named Zbee.",
+      "sourceUrl": null,
+      "webUrl": "https://beingai.com/zbee/",
+      "originalUrl": "https://venturebeat.com/2021/08/20/beingai-unveils-human-like-ai-character-named-zbee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-20T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck.md",
+      "title": "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck",
+      "excerpt": "Tesla plans to launch a new Full Self-Driving computer with Cybertruck electric pickup truck next year. The updated self-driving hardware should also include new cameras. Tesla’s self-driving hardware has been a point of controversy.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "originalUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/e-gs-thumb-22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "publishedDateTime": "2021-08-20T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-ai-day-showcases-the-breadth-of-teslas-ambition.md",
+      "title": "AI Day Showcases The Breadth Of Tesla’s Ambition",
+      "excerpt": "Tesla AI Day 2021 featured executives presenting the full range of the company’s AI efforts, from computer vision to planning and controls to data infrastructure to automotive super computers to data center supercomputers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/",
+      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fdf470f5f95efd0682f84%2F0x0.jpg",
+          "width": 1200,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/",
+      "publishedDateTime": "2021-08-20T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-elon-musk-announces-teslas-new-humanoid-robots.md",
+      "title": "Elon Musk Announces Tesla's New Humanoid Robots",
+      "excerpt": "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates ... \"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" he said during Tesla’s AI Day. He added, \"What ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/380843",
+      "originalUrl": "https://www.entrepreneur.com/article/380843",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 646,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629473007-GettyImages-1234764434.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380843",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380843",
+      "publishedDateTime": "2021-08-20T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy.md",
+      "title": "Deep Learning Courses for NLP Market R & D including top key players Coursera, Stanford University, Udemy",
+      "excerpt": "The Deep Learning Courses for NLP Market research report includes an in-sight study of the key Global Deep Learning Courses for NLP Market prominent players along with the company profiles and planning adopted by them.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/chart-2021-08-20T220608.762-780x470.jpg",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-courses-for-nlp-market-r-d-including-top-key-players-coursera-stanford-university-udemy/",
+      "publishedDateTime": "2021-08-20T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-08-20-the-future-of-neural-network-models.md",
       "title": "The future of neural network models",
       "excerpt": "We believe that neural network models need to bridge the gaps ... the derived principles can also be implemented on computers as a form of artificial intelligence and even be used to design ...",
@@ -939,241 +1182,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-north-america-is-expected-to-dominate-the-ai-in-physical-security-market-to-through-2026-techsci-research.md",
-      "title": "North America is expected to dominate the AI in Physical Security Market to through 2026 – TechSci Research",
-      "excerpt": "Ongoing technological advancements and the surge in use of the internet protocol based camera is expected to drive the demand for global AI in physical security market in forecast period According to TechSci Research report Global AI in Physical Security",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "originalUrl": "https://www.openpr.com/news/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U820806123_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2361395/north-america-is-expected-to-dominate-the-ai-in-physical-security",
-      "publishedDateTime": "2021-08-19T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round.md",
-      "title": "Chinese AI Unicorn Eyes IPO, Southeast Asia Expansion After $200 Million Funding Round",
-      "excerpt": "After a recent funding round from top Chinese venture capital firms, Shenzhen-based AI startup SmartMore has big plans to go public and expand across Southeast Asia, starting with Singapore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/",
-      "originalUrl": "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611f358e094e8aec6f42b14b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D849%26cropY1%3D0%26cropY2%3D478",
-          "width": 849,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rubyleung/2021/08/20/chinese-ai-unicorn-eyes-ipo-southeast-asia-expansion-after-200-million-funding-round/amp/",
-      "publishedDateTime": "2021-08-19T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027.md",
-      "title": "AI in Fintech Market Analysis, Revenue Share, Company Profiles, Launches, & Forecast Till 2027",
-      "excerpt": "The global AI in Fintech Market is forecast to reach USD 26.77 Billion by 2026, according to a new report by Reports and Data. The AI in fintech incorporates computational power and deep learning algorithms to the financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
-      "originalUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/2-84.jpg",
-          "width": 1000,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027/?amp=1",
-      "publishedDateTime": "2021-08-19T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
-      "title": "Intel architect Koduri says every chip will be a neural net processor",
-      "excerpt": "The processing of neural networks for artificial intelligence is becoming a main part of the workload of every kind of chip, according to chip giant Intel, which on Thursday unveiled details of forthcoming processors during its annual \"Architecture Day ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg",
-          "width": 365,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "publishedDateTime": "2021-08-19T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-aws-deepracer-robomaker-image.md",
-      "title": "AWS DeepRacer Robomaker Image",
-      "excerpt": "AVX is available on most Intel Core processors from the second generation on - running DeepRacer on an older processor really does not make sense; hence we do not have pre-built images without this instruction set. AVX2 is available on more modern Intel ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer-community/deepracer-simapp/blob/master/README.md",
-      "originalUrl": "https://github.com/aws-deepracer-community/deepracer-simapp/blob/master/README.md",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/8974c5509d5b27c060e4a5c74d508fdf14e2b3b8566b937df0d97c131812003a/aws-deepracer-community/deepracer-simapp",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

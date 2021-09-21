@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/facial-recognition-tricked-with-mak
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facial-recognition-tricked-with-makeup"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: The Register Citizen
       domain: registercitizen.com
     quality: 41
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/18/rawImage.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
+  - title: "CT town at forefront of national debate over facial recognition tech"
+    excerpt: "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology."
+    publishedDateTime: 2021-09-21T17:01:00Z
+    webUrl: "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
     images:
       - url: "https://s.hdnux.com/photos/01/20/22/56/21048234/18/rawImage.jpg"
         width: 2048
