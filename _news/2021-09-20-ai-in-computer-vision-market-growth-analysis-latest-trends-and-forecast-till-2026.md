@@ -69,20 +69,6 @@ related:
         width: 643
         height: 400
         isCached: true
-  - title: "Machine Learning in Communication Market Size 2021 to 2027 Analysis and Deep Research on Market Trends, Emerging Growth Factors and Forecasts"
-    excerpt: "Sep (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Machine Learning in Communication"
-    publishedDateTime: 2021-09-16T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-size-2021-to-2027-analysis-and-deep-research-on-market-trends-emerging-growth-factors-and-forecasts-2021-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market 2021 Future Set to Massive Growth with High CAGR value Forecast By 2027"
     excerpt: "Data Bridge Market Research presents an updated and Latest Study on the Speech and Voice Recognition Market This report provides an in depth study of the market competitive situation product scope market overview opportunities driving force and market risks By"
     publishedDateTime: 2021-09-17T17:20:00Z

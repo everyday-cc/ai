@@ -80,20 +80,6 @@ related:
         width: 643
         height: 400
         isCached: true
-  - title: "Machine Learning in Communication Market Size 2021 to 2027 Analysis and Deep Research on Market Trends, Emerging Growth Factors and Forecasts"
-    excerpt: "Sep (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Machine Learning in Communication"
-    publishedDateTime: 2021-09-16T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-size-2021-to-2027-analysis-and-deep-research-on-market-trends-emerging-growth-factors-and-forecasts-2021-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "79h4Z/AoMyYhcXAlop/tGjboOwE3eQAIbWE9Z3dxTNl6HnL6GR29Wpi64U8J7ha7c08+X0Ju3ajJo+azBZx74e4uUTpqTjqmYZ9hhgTzfLGZpfGp4GPXh5GN18Tur0fkBts7ayGQdtQYgCIKOciZMYs6VAvQVyD2/VE5IuW5jVtaMC+rPYUhwpXPCX9/YYFX2fY1nP3YGiu4qRWFdxVb2lxYFcALfLrKq0gtgGYP0TgN5GTbhhKwGioB+e/bq2xFf7XFY/RnwMhdxxCxFBe8tuQUhAnuSqREI+SP9wom1Cfp2i0Gc7KITtE5qEEpCmanBCbkAXwRue3D21ZO5kGp5mP/b5wXOOG7pAaeLHgR0GQ=;EBYzyPsxJRxJ66916f6lhg=="
 ---

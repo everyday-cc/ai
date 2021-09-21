@@ -9,7 +9,7 @@ ampWebUrl: "https://www.the-sun.com/news/3696782/cops-ai-mystery-woman-croatia/a
 cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3696782/cops-ai-mystery-woman-croatia/amp/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "IIT Bombay Launches Project Udaan, AI-Based Translation For Non-English Speakers"
-    excerpt: "The top twenty countries in GDP per capita all use the language of the common people for higher and technical education."
-    publishedDateTime: 2021-09-16T05:47:00Z
-    webUrl: "https://analyticsindiamag.com/iit-bombay-launches-project-udaan-ai-based-translation-for-non-english-speakers/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/IIT-Bombay-Launches-Project-Udaan-AI-Based-Translation-For-Non-English-Speakers.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "wPM+9Q+YVEaU4ug0p+3bZaED1T1WwXV5BOMDcrQNMDOhcO7oFgJrgXHPEs2/7+Bb4n+hh4R8j2u6L2Ew9q76a66YpRg+belmnQ/cXBHE9MiR4ga+C3H/edzyis/wtJVKjzbRX8CPt/ZrUO5AYhRhp2beBBFr25rNVEAr4CfAv83azQZ5F5325ZFkTzppW2pAmrbTnO7IGvrYXxFDSMY7ZCegl4p1MYEGQBdDLTLBXv9lEQXLFs+6rsvvc3X3zstQxmEkM70AvJ1D7tgwAVSFhfPbaN7gEdf+Zr68krJCsDVDytRo31t/IeiHmaMJ238hPHyBbCNZGnGQ0GPciUu3e+khssYDYbdF2SrBD5JzBK0=;CHRWAoSDA7WRphulhGeozg=="
 ---

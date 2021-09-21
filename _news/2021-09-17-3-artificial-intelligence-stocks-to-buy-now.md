@@ -32,14 +32,19 @@ images:
 
 related:
   - title: "4 Stocks to Benefit From Continued Demand for AI"
-    excerpt: "Thanks to these conveniences, companies around the world look set to increase their spending on AI solutions. Per a report by the International Data Corporation published on Aug 4, worldwide revenues for the AI market are expected to grow 15."
-    publishedDateTime: 2021-09-20T10:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20"
+    excerpt: "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft"
+    publishedDateTime: 2021-09-20T13:01:00Z
+    webUrl: "https://www.entrepreneur.com/article/386471"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386471.jpeg"
+        width: 635
+        height: 400
+        isCached: true
 
 secured: "4zqBURGfg5slVZe4wY9p2gwZn1zSeGqYn7tHkYiDNlV3hmRC5X3/1vdhQoXZmeOv2lhGtZ7mxECyMGhgZ+9/plGaaMXE/kpun22AMVrBJnGVvBV+WzHHS5ahjDfNdvwoE92MbkP3iiJXiUzqPkCRX5p1/+VUXpgtaewOavTqpZkVPoKiJfZWGf7u3K1aF+4r2KN4diVYxmBHPIZ4LxNoogDHil2OOOMuC0zA57W3xE9tHhF/xLDRzW6KlAAgOJTW2meXOuem6E9dfIL/PvBsqsno25F5Mi6V6JhCl30FCHwK8njUk+CBl0ZKyV7PpAsjaIOxyAgnf3R50OUeSL6KxOw/om5CtlpPcL3skNvGLBEFpR8+/NLRAc7balnRk0T9Tltf+Sv9KntfXlbrULiMwJzk3RSmHqIV/kiF3OlMLJQIh8ImconZGWxmX0cfnaGOdD2iPFi3aCj5pFIZZ3GM5D5kGm7RZxBwGeFWqHdt6hYRA3isJCWxyMncRpnebYEowyrzL/pCv0recQ/EHswxYg==;GI9Yl9CYIDEMT0GDtu1zQg=="
 ---

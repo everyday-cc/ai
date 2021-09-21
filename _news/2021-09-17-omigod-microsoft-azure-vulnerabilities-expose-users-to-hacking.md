@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/09/16/omigod-microsoft-azure-vulnera
 webUrl: "https://siliconangle.com/2021/09/16/omigod-microsoft-azure-vulnerabilities-expose-users-hacking/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wells Fargo to Use Google, Microsoft Azure Cloud Services to Support New Digital Strategy"
-    excerpt: "Wells Fargo has debuted a digital infrastructure strategy, which will use a multicloud method with third-party data centers to drive speed, agility and scalability."
-    publishedDateTime: 2021-09-16T05:48:00Z
-    webUrl: "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/"
-    ampWebUrl: "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 65
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Wells-Fargo-Google-Cloud-Microsoft-Azure-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Cloud Natural Language Processing Market is Going to Boom with 3M Company, Apple, Microsoft"
     excerpt: "The Cloud Natural Language Processing Market report upholds the future market predictions with market size, revenue, production, Consumption, gross margin and other substantial factors. It also examines the role of the prominent Cloud Natural Language Processing market players including their corporate overview."
     publishedDateTime: 2021-09-20T21:15:00Z

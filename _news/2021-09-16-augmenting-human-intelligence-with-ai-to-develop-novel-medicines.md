@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2021-09-augmenting-human-intelligence-ai-medicine
 ampWebUrl: "https://phys.org/news/2021-09-augmenting-human-intelligence-ai-medicines.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-09-augmenting-human-intelligence-ai-medicines.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/augmenting-human-intel.jpg"
