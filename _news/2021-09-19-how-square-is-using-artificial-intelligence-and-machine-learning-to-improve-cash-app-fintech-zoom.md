@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market is ready for its next Big Move | Intel, TIBCO Software, IBM, Nuance Communications"
-    excerpt: "The ‘ AI in Fintech market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
-    publishedDateTime: 2021-09-16T18:04:00Z
-    webUrl: "https://ipsnews.net/business/2021/09/16/ai-in-fintech-market-is-ready-for-its-next-big-move-intel-tibco-software-ibm-nuance-communications/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 3
   - title: "RPA and AI in Banking Market Likely To Boost Future Growth By 2027 | Cognizant, Capgemini, Accenture, Fintech Singapore, The Lab Consulting"
     excerpt: "The report covers briefly the products or services in the market and their application. The report also provides information on the technological […]"
     publishedDateTime: 2021-09-20T06:23:00Z

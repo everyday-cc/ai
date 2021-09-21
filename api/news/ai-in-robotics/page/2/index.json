@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-10-the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now.md",
+      "title": "The Mind-Bending Physics Of Walking With Coffee May Save Humanity, For Now",
+      "excerpt": "If you’ve found your fear of the robot apocalypse building lately, new research suggests humans will remain in charge as long as we’re the best around at one simple activity: walking with a cup of coffee in hand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/",
+      "originalUrl": "https://www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a4966d8a6273d89d10425%2F0x0.jpg",
+          "width": 1200,
+          "height": 1138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/amp/",
+      "publishedDateTime": "2021-09-09T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-artificial-intelligence-in-marketing-market-demand-during-2021-2027-persado-albert-technologies-appier-samsung-electronics.md",
       "title": "Artificial Intelligence in Marketing Market Demand during 2021-2027 | Persado, Albert Technologies, Appier, Samsung Electronics",
       "excerpt": "Artificial Intelligence in Marketing Market is growing at a 26 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market AI is often",
@@ -1330,49 +1382,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-02-carbon-robotics-closes-27-million-in-series-b-financing-round.md",
-      "title": "Carbon Robotics closes $27 Million in Series B financing round",
-      "excerpt": "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/",
-      "originalUrl": "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/Carbon-Robotics-robot2-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-01T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

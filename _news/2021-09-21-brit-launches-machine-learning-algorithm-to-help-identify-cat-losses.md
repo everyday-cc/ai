@@ -7,7 +7,7 @@ originalUrl: "https://www.insuranceinsider.com/article/2934914ta8ex078ygjj7l/bri
 webUrl: "https://www.insuranceinsider.com/article/2934914ta8ex078ygjj7l/brit-launches-machine-learning-algorithm-to-help-identify-cat-losses"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
-secured: "3hwBT0sVGjDBKj0Jyj8zcZ9pAwr9LoajJkNtjeM5R40KSq/L1ly5zVWMKDdfhiQv/A3TUh/yzOQDTMoj+oLAm/mIljkCuVVs2ZnEQNJsrE3YMl4eGgLiUf+2+fOi48c5bDXYkbenoIhlwFFCta9SHRJWFa2jmZhI4gYBn5FrXYdnL+YOCGEFjXxYB3EdBzRtRHGG2S1sLIWVW5VLV4x2/JOD+GY3TVjAIflUrG/5Xa/9nJeqO97zBq++HUUC/VBoZrxRmc6ESuBqAmuEN3uDyJ4fNz9jfTCQ5FJGafycWduCIMV1H3932D09Wd/3uHOLRLMV55JqDJ9Ox0M4a+CHAqCcgkfekgXosc7U2YzGc80=;CZ4Byv4v0OYrbmynG1AhMg=="
+related:
+  - title: "Brit targets faster catastrophe response with machine learning algorithm"
+    excerpt: "Brit Ltd has announced the launch of a proprietary machine learning algorithm designed to accelerate the identification of post catastrophe property"
+    publishedDateTime: 2021-09-21T11:54:00Z
+    webUrl: "https://www.reinsurancene.ws/brit-targets-faster-catastrophe-response-with-machine-learning-algorithm/"
+    type: article
+    provider:
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 38
+    images:
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2018/07/Brit-logo.jpg"
+        width: 2362
+        height: 935
+        isCached: true
+
+secured: "fvp3eHifukdQlh/lIayguguh5g6v1FusEP5xFgw3iMk/wkOIMN88TkhejZCN6w222dXYZJi/BH57hGiMVmxQKPeLE23bYQTH376Ox9k8DGlU4QNbTB98EaMyTSzzM/+t6ez8dsOGgCFZLOW2qAtL0bd8LQSd/oohRCRbQgOgLx4hrvK6VLVlOj664icgaz3n0AqReUqnny34GQbJHLrStWNU7A0IbheCjkz976KWvgv0kegEo4RhTl+vmXIOg/3bgsZc3FcsKAhU/QL6pCEbnzTbiClgOLatYojQmv8PLGiQb1yxMZUjgTGujv4QcGRRY95eBew4jB/SRxHEwoMUKrNmgGrS7N9lwbEtYDrwGgO1ezRF0VgKke1kPohR3unTwiyn9RLsb/0YETBWt0GoGFjBr0wFYmaHvQErU54n9YedA9xJPLXkqFcu+v0OdMSe0nU8viv+9NW+H/SQet3IsSPMEu+Baku0LBamBqQi48Lbbu1PiSmREbWhvpvFR2ijI58NYCsPeNLcbqyz55zRiQ==;EjRXKXLyCtjI1sQ7hV8fXg=="
 ---
 

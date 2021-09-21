@@ -2,6 +2,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-14-vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Vade for Microsoft 365 is now available in the Microsoft Azure Marketplace",
+      "excerpt": "Vade, a global leader in AI-based threat detection, user awareness and incident response with one billion protected mailboxes worldwide, today announced the availability of Vade for Microsoft 365 in the Microsoft Azure Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace-1030798229",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vade-for-microsoft-365-is-now-available-in-the-microsoft-azure-marketplace-1030798229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-dotdata-and-tableau-partner-to-accelerate-augmented-and-predictive-analytics-for-the-business-intelligence-community.md",
+      "title": "dotData and Tableau Partner to Accelerate Augmented and Predictive Analytics for the Business Intelligence Community",
+      "excerpt": "As a result of this partnership, Tableau users will be able to build customized predictive analytics solutions faster and more easily. By combining Tableau’s data preparation and visualization capabilities with dotData’s augmented insights discovery and predictive modeling capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-5a81442f0e74026f77626dfe027d4189",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity.md",
+      "title": "This Indian company is tapping into the huge autonomous driving opportunity",
+      "excerpt": "Be it artificial intelligence (AI), 5G ... Global companies such as Tesla and Waymo are leading the race when it comes to automated driving. But what about Indian companies?",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
+      "originalUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity-11631619999017.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/09/14/600x338/car-kHv--621x414@LiveMint_1631620785356.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/this-indian-company-is-tapping-into-the-huge-autonomous-driving-opportunity/amp-11631619999017.html",
+      "publishedDateTime": "2021-09-14T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-ai-driven-api-security-startup-neosec-launches-with-207m-in-new-funding.md",
       "title": "AI-driven API security startup Neosec launches with $20.7M in new funding",
       "excerpt": "Artificial intelligence-driven application programming interface security startup Neosec launched out of stealth mode today with an announcement that it has raised $20.7 million in new funding. The Series A round included True Ventures,",
@@ -945,135 +1074,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-apple-taps-more-drivers-to-test-self-driving-cars-in-california.md",
-      "title": "Apple taps more drivers to test self-driving cars in California",
-      "excerpt": "Apple is continuing efforts to advance internal self-driving car technology, with the iPhone maker recently registering more drivers to pilot technology test beds on California roads.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
-      "originalUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/44393-86171-210914-AppleTestVehicle-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
-      "publishedDateTime": "2021-09-13T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-how-3d-profiling-gives-computer-vision-an-added-dimension.md",
-      "title": "How 3D Profiling Gives Computer Vision An Added Dimension",
-      "excerpt": "Computer vision’s list of application areas grows almost on a daily basis. The presence of computer vision in smart cities and smart hospitals, combined with 3D profiling, opens exciting possibilities for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61400fe8844e4b30d03ef8bf%2F0x0.jpg",
-          "width": 1000,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/amp/",
-      "publishedDateTime": "2021-09-13T19:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-computer-and-human-vision-perspectives.md",
-      "title": "Computer and Human Vision Perspectives",
-      "excerpt": "The result of a series of four highly successful workshops on the topic, the book gathers many of the most distinguished researchers from both computer and human vision to reflect on their experience, identify open problems, and foster a cross-disciplinary ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/sm/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
-      "originalUrl": "https://www.cambridge.org/sm/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

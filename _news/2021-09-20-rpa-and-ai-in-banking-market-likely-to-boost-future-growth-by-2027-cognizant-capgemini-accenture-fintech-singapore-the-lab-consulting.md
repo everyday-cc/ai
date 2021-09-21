@@ -33,15 +33,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "AI in Fintech Market is ready for its next Big Move | Intel, TIBCO Software, IBM, Nuance Communications"
-    excerpt: "The ‘ AI in Fintech market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
-    publishedDateTime: 2021-09-16T18:04:00Z
-    webUrl: "https://ipsnews.net/business/2021/09/16/ai-in-fintech-market-is-ready-for-its-next-big-move-intel-tibco-software-ibm-nuance-communications/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 3
 
 secured: "oTYsvQ9c6ZiVcDJbA22UZQi3+4zZm3IaK7jYMbHYdES1U4FK0zi4q+Xw6QeCtkunErPs54ReHkrIFmzQj9JFTnxLpUwBj7mQIYcetFqeVUEPbL1cOk8nzAxWKQP0fs7lcILSqTMx/PDE6y3mMKHdOgaCHvrR2liJMsHzd/ZuXfSSgXj6PkbSn85t4uH94yTWFUDytFj/qHH1NWWghiwAt4H/0UU8SV8kDmByp430G6yvTlM9s+wJZ4JoBQSy7M0NOvnenyGdV40aJEUmU2p1GdwVYUkvSdgMR6+3Rxsg7PiqVN0AaM+dIG/wqsh1uPhZ7et5DR/+YoOu1bF9YUklG8kd+2IPONdOzeBMUWrrAiM=;NCJUTH69IL62LICsqfjPGg=="
 ---

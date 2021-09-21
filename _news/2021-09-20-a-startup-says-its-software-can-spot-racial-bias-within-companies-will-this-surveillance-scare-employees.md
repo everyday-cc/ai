@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "A startup says its software can spot racial bias within companies. Will this surveillance scare employees?"
-    excerpt: "By Rachel Metz, CNN Business Employees at Telhio Credit Union are already used to having their internal communications monitored to ensure compliance with US financial rules. But Telhio, which is based in Columbus,"
-    publishedDateTime: 2021-09-20T20:49:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/09/20/a-startup-says-its-software-can-spot-racial-bias-within-companies-will-this-surveillance-scare-employees/"
+    excerpt: "Employees at Telhio Credit Union are already used to having their internal communications monitored to ensure compliance with US financial rules. But Telhio, which is based in Columbus, Ohio, and has over 250 employees,"
+    publishedDateTime: 2021-09-21T10:00:00Z
+    webUrl: "https://madison365.com/a-startup-says-its-software-can-spot-racial-bias-within-companies-will-this-surveillance-scare-employees/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
+      name: Madison365
+      domain: madison365.com
     quality: 4
     images:
-      - url: "https://localnews8.b-cdn.net/2021/09/hypatia-h_abf9424960789e78a85e233fa007c069-h_70f5c5cb67e1b952b3eeb668ce395d67-300.jpg"
-        width: 2000
-        height: 1444
+      - url: "https://madison365.com/wp-content/uploads/2021/09/hypatia-h_abf9424960789e78a85e233fa007c069-h_70f5c5cb67e1b952b3eeb668ce395d67.jpg"
+        width: 1500
+        height: 1083
         isCached: true
 
 secured: "WGAspLeqvmR2t7n3uYCtlxgszsSm89xFcWIJ5Mjfkcp/bRDZDylVSquvTqTZnuDoJeh5gz99On0L8rtXjk015sulgNR7EP2kkhMic1fiEglFAM9JYNWnhTBeN/hiFj3Q6XPfucRRnub/G4Aux1fxGBFT3csYGu8YR7K3Y9oltQ16ElahdatEcoHiB4W2j3kxpn8a7rIK5bp744uUZfzBhLSN3vOI+cNrQOR8rn64qebOj0dt4K3P/0k8+jDNPRdGf2KUKKTijT0NYOUS0M4bblOgMCr9uXwtWSKpNsz3okNPz9P1/XDI7bm6hAVoumJEszDMHhS/0hbzKB8rdlQSMIvRduULot3krMrGpUVqIJA=;Rqy+xRnyhQKw/JvJSwH7mw=="

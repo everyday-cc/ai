@@ -2,6 +2,135 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-14-apple-taps-more-drivers-to-test-self-driving-cars-in-california.md",
+      "title": "Apple taps more drivers to test self-driving cars in California",
+      "excerpt": "Apple is continuing efforts to advance internal self-driving car technology, with the iPhone maker recently registering more drivers to pilot technology test beds on California roads.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
+      "originalUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/44393-86171-210914-AppleTestVehicle-xl.jpg",
+          "width": 870,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california/amp/",
+      "publishedDateTime": "2021-09-13T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-how-3d-profiling-gives-computer-vision-an-added-dimension.md",
+      "title": "How 3D Profiling Gives Computer Vision An Added Dimension",
+      "excerpt": "Computer vision’s list of application areas grows almost on a daily basis. The presence of computer vision in smart cities and smart hospitals, combined with 3D profiling, opens exciting possibilities for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61400fe8844e4b30d03ef8bf%2F0x0.jpg",
+          "width": 1000,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/09/13/how-3d-profiling-gives-computer-vision-an-added-dimension/amp/",
+      "publishedDateTime": "2021-09-13T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-computer-and-human-vision-perspectives.md",
+      "title": "Computer and Human Vision Perspectives",
+      "excerpt": "The result of a series of four highly successful workshops on the topic, the book gathers many of the most distinguished researchers from both computer and human vision to reflect on their experience, identify open problems, and foster a cross-disciplinary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/sm/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
+      "originalUrl": "https://www.cambridge.org/sm/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives?format=HB&isbn=9780521887380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T19:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-should-facial-recognition-software-be-installed-in-schools.md",
       "title": "Should facial recognition software be installed in schools?",
       "excerpt": "Lawmakers are looking at another issue in school, facial recognition software. The ACLU is launching a week of action, asking legislators in the state to pass a bill regulating the use of facial recognition in schools,",
@@ -937,135 +1066,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-linux-developers-talk-again-about-an-accelerator-subsystem-or-moving-them-into-the-gpudrm-area.md",
-      "title": "Linux Developers Talk Again About An Accelerator Subsystem - Or Moving Them Into The GPU/DRM Area",
-      "excerpt": "On and off for years has been talk of an accelerator subsystem for the Linux kernel considering that for now most AI training/inference accelerator drivers end up lodged within the \"char/misc\" area of the kernel.",
-      "sourceUrl": null,
-      "webUrl": "https://phoronix.com/scan.php?page=news_item&px=Accel-Drivers-2021-Discussion",
-      "originalUrl": "https://phoronix.com/scan.php?page=news_item&px=Accel-Drivers-2021-Discussion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://phoronix.com/assets/categories/linuxkernel.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phoronix.com",
-        "domain": "phoronix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-israeli-firm-unveils-armed-robot-to-patrol-volatile-borders.md",
-      "title": "Israeli Firm Unveils Armed Robot to Patrol Volatile Borders",
-      "excerpt": "An Israeli defense contractor on Monday unveiled a remote-controlled armed robot it says can patrol battle zones, track infiltrators and open fire. The unmanned vehicle is the latest addition to the world of drone technology,",
-      "sourceUrl": null,
-      "webUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
-      "originalUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/13/deputy_head_of_israel_aerospace_industries_autonomous_systems_division_rani_avni_speaks_during_an_interview_with_the_associated_press_in_an_iai_facility_near_the_central_israeli_city_of_lod_thursday_sept._9_2021._ap.jpg?itok=wjTEX_gd",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
-      "cdnAmpWebUrl": "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
-      "publishedDateTime": "2021-09-13T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "الشرق الأوسط",
-        "domain": "aawsat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-self-driving-cars-heres-what-the-autonomous-driving-levels-mean.md",
-      "title": "Self-driving cars: Here’s what the autonomous driving levels mean",
-      "excerpt": "Driving will be a thing of the past, and if the tech industry is to be believed so will traffic and road accidents. All because the autonomous car’s computer brain is more connected and aware than any human driver could be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "originalUrl": "https://www.tomsguide.com/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qCqAueTrozgVBXDQ6AYvA-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tomsguide.com/amp/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/reference/self-driving-cars-heres-what-the-autonomous-driving-levels-mean",
-      "publishedDateTime": "2021-09-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

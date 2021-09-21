@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-21-technology-is-a-double-edged-sword-in-the-face-of-repressive-regimes-opinion.md",
+      "title": "Technology is a Double-edged Sword in the Face of Repressive Regimes | Opinion",
+      "excerpt": "Tech companies must be willing to do all they can to prevent authoritarian regimes from accessing and using their services, even though what we see today is quite the opposite as the Taliban has full and easy access to Facebook,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
+      "originalUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1896900/people-hold-smartphones-their-hands.jpg",
+          "width": 3300,
+          "height": 2328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
+      "publishedDateTime": "2021-09-21T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-oracles-new-digital-marketing-software-runs-on-ai.md",
+      "title": "Oracle’s new digital marketing software runs on AI",
+      "excerpt": "Oracle has unveiled a new system that will use artificial intelligence (AI) to help businesses automate digital marketing campaigns more effectively. Experts at the database software specialist have developed the system in an attempt to grab a larger slice of the cloud-based software market from the likes of Adobe and Salesforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/oracles-new-digital-marketing-software-runs-on-ai",
+      "originalUrl": "https://www.techradar.com/news/oracles-new-digital-marketing-software-runs-on-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai",
+      "publishedDateTime": "2021-09-21T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-blackbirdai-grabs-10m-to-help-brands-counter-disinformation.md",
       "title": "Blackbird.AI grabs $10M to help brands counter disinformation",
       "excerpt": "New York-based Blackbird.AI has closed a $10 million Series A as it prepares to launched the next version of its disinformation intelligence platform this fall. The Series A is led by Dorilton Ventures,",
@@ -51,6 +155,57 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-digital-freight-startup-transfix-going-public-in-spac-deal.md",
+      "title": "Digital Freight Startup Transfix Going Public in SPAC Deal",
+      "excerpt": "The blank-check merger would help Transfix, which competes with bigger rivals including Uber Freight, expand its business of connecting shippers with truckers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
+      "originalUrl": "https://www.wsj.com/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-403599/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/digital-freight-startup-transfix-going-public-in-spac-deal-11632218400",
+      "publishedDateTime": "2021-09-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -105,6 +260,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-21-5-unexpectedly-hot-industries-to-find-robotics-jobs.md",
+      "title": "5 unexpectedly hot industries to find robotics jobs",
+      "excerpt": "In fact, it's projected that the number of jobs in the field will grow 9% between 2016 and 2026, leading to a shortage of qualified engineers.  That's a real opportunity for new talent entering the workforce or for professionals looking to make a mid-career shift.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/5-unexpectedly-hot-industries-for-robotics-jobs/",
+      "originalUrl": "https://www.zdnet.com/article/5-unexpectedly-hot-industries-for-robotics-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/20/d5651de5-a493-47f3-b87c-094c49c24d88/resize/1200xauto/2b55260b78f9bdba8f4879cdeb9f3370/bedrock-3-4-sub-stacked-r3-carbon.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-unexpectedly-hot-industries-for-robotics-jobs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-unexpectedly-hot-industries-for-robotics-jobs/",
+      "publishedDateTime": "2021-09-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-pixel-6-live-translate-will-combine-googles-best-translation-features.md",
       "title": "Pixel 6 Live Translate will combine Google’s best translation features",
       "excerpt": "Although Google serves many users on many platforms, it often shows preferential treatment to Pixel phone owners. Some of those exclusive features eventually find their way to other Android",
@@ -113,7 +320,7 @@
       "originalUrl": "https://www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -165,7 +372,7 @@
       "originalUrl": "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -866,58 +1073,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-20-oracle-uses-ai-to-automate-parts-of-digital-marketing.md",
-      "title": "Oracle uses AI to automate parts of digital marketing",
-      "excerpt": "Oracle Corp announced on Monday a new system that it says will use artificial intelligence to automate key parts of digital marketing campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/oracle-uses-ai-automate-parts-digital-marketing-2021-09-20/",
-      "originalUrl": "https://www.reuters.com/technology/oracle-uses-ai-automate-parts-digital-marketing-2021-09-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2021-09-20-how-to-prepare-for-the-coming-ai-explosion-in-business.md",
       "title": "How To Prepare For The Coming AI Explosion In Business",
       "excerpt": "AI has incredible potential to transform our world and to increase productivity, improve efficiency and solve problems that have henceforth been considered unsolvable. But is your business ready for the impending AI explosion?",
@@ -1123,154 +1278,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-german-gpu-sales-point-to-more-price-hikes-and-a-drop-in-availability-this-year.md",
-      "title": "German GPU sales point to more price hikes and a drop in availability this year",
-      "excerpt": "As we move into the later part of 2021, trends and evil rumours point to a worsening of both price and availability for GPU stock. That means it could be a while longer before the GPU shortage finally subsides and the ridiculous pricing we've been subject to fully balances out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
-      "originalUrl": "https://www.pcgamer.com/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TDUwJZywerjBr9g65GBRJR-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/gpu-price-availability-trends-mean-GPU-shortage-unlikely-to-subside/",
-      "publishedDateTime": "2021-09-20T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-googles-former-ai-ethics-chief-has-a-plan-to-rethink-big-tech.md",
-      "title": "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech",
-      "excerpt": "Timnit Gebru says regulators need to provide whistleblowers working on artificial intelligence with fresh protections backed up by tough enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL1NzztKqF84/v0/1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo.md",
-      "title": "Justice, Equity, And Fairness: Exploring The Tense Relationship Between Artificial Intelligence And The Law With Joilson Melo",
-      "excerpt": "As a law student, Melo filed a request for action in the National Council of Justice, resulting in a decision allowing citizens to file applications in court electronically, without a lawyer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6147e32b87af2b4a648476ba%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/amp/",
-      "publishedDateTime": "2021-09-19T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
