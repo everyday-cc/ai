@@ -14,7 +14,7 @@ website: http://t.co/M6c0l3S5lb
 twitter:
   username: rosalindpicard
   url: https://twitter.com/rosalindpicard
-  followers: 11661
+  followers: 11662
 
 linkedin:
   url: https://www.linkedin.com/in/rosalind-picard-0111bb/
