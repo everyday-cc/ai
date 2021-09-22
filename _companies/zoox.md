@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zoox"
   url: "https://twitter.com/zoox"
-  followers: 18554
+  followers: 18557
 
 size: 1,001-5,000 employees
 yearFounded: 2014
