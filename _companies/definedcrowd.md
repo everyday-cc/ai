@@ -2,7 +2,7 @@
 name: "DefinedCrowd"
 overview: "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one."
 type: "profile"
-heat: 57
+heat: 65
 
 website: https://www.definedcrowd.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1836
+  followers: 1837
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "cABf7P18FphUan8OU43qePEUoC4EcwRJEA5mYvN/EdX1IMIuEwX05iXppWNE4Mby8fAItqUQNH3sL0XcNJ42orBkyZ0KZ6EmgbJRL2q7xyMI0JlaRs7qfAdygHaCPe3wqPV4LZ2omhLBdA1bjJiAZaeyS4Vj6vuyPPsvJfWBw/bx84Yk/zDKF9l7nNmbST3O63LyzMkMI9+2kNM5alMxdt9+lrT3LFxkiq4nCVFSIMLyeT1XXU3K+n+nL7fO7klTnIy13Km6ekIx0wvzIjHoGnGuVNyFiVd3OoY26qBxR2ZvghQDDPNplIEM4EPXKO20Rm4tR7Va0+hIKZfpbY9qasGEZd1Z41h2VI18Dgw8U0o0GFrm4klt68y+IHaNAbDttfk/1XMPLQuPEy+ayVptZXn53IFRzrrO5F1L5i47WSk=;0/Vu3g+q6jGnWXicgw6Jog=="
+secured: "gHfRM0Ttvtt/qRuazISkT4Hm1wtc4Xsc6yXdH9+zZlJSYLdhWNkA6x8PVNq8XisrDBtsKJO3RybVaAotfaCiIMPKEADWvsI7ZfRz3x/2g3zCxx+2d+vCskVCMsNa3+TqqF/7Tg6XfmAbKDqTOqVRba1beGV9VM6VTJiXufYg11XK6bQWLWeERzULe4Mm0f8rD27MCw+6N3UIYa2gMbzWx+QnACr18HVrpRZLxz9l/NCVzyeitoMXYe86PDxsKT/LgzE1rEB7eGI77HPvUgT7Rt+S/aguPNP8gonk7kMRB0m/UIsTCruCIZ9QEmF+jhzETysNIK5qE+28Rl12gA+wgopWqVgmOhVN/tPxD5yA0beT87aNcHo/xW4IRLHgIXC99XiF+KbbZNl4+61BrufgsyVDnPOgIBinqIUVA4bGke4=;r+bEHaB80Akk+redKneTOg=="
 ---
 
