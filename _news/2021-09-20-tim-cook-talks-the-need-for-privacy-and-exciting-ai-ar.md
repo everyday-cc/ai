@@ -7,7 +7,7 @@ originalUrl: "https://appleinsider.com/articles/21/09/19/tim-cook-talks-the-need
 webUrl: "https://appleinsider.com/articles/21/09/19/tim-cook-talks-the-need-for-privacy-and-exciting-ai-ar"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,33 +22,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "4 Stocks to Benefit From Continued Demand for AI"
-    excerpt: "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft"
-    publishedDateTime: 2021-09-20T13:01:00Z
-    webUrl: "https://www.entrepreneur.com/article/386471"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386471.jpeg"
-        width: 635
-        height: 400
-        isCached: true
-  - title: "5 Hot AI Stocks To Watch In The Stock Market This Week"
-    excerpt: "Are These The Best AI Stocks To Buy Right Now? Even with the stock market today struggling to find direction, investors could be considering tech stocks. In particular, artificial intelligence (AI) stocks would be a notable subsection of the industry now."
-    publishedDateTime: 2021-09-22T00:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
 
 secured: "0tMco69lIHyQcNnsGIVcDrRx7aTXdiExAOP7SJ8CwydxrhWEaV2irQx8aUSvklw3GqCLWI60baaqpKpdExCqSMhaFteENYqkrIHT0noj1qcrX3l6ePX53ESsKQ70pK3lTffpo9se1ZWts2Z0job6HHEdqwKCW4gpnyOSoK2H2qVS6eKnDbnHwuY5naYMXT4N4C72DNvEJ9oyH9BlMfbEuPg+CoHmsZOgwgnBxjmOxB/NK//CPOUk3ZyF4JtGcCqLyCOCDPYoTaoD5wTtDv6uCJJfRaAJEt3l0yGaSIZePL4FM58hbwDo9fNzueFd3K3+iyyLfGPx7ZLNy4NFjgAida6Os9DHXT5emFavgQl5sCYuBtodNiBuc8LOaNhmDTzqVEanDiwbab33cnisxz8J2Rk7lSUlNZX7LGTDs70h1HNgxdnwi44CYEuRIBiQz9BZik8w74cc2uHn1UZv5oEgDE7oxN8U7414D7SpoDkQl9ED6nEHKUmhmr1crJNP4HlcLoJBqYyC5+UzWRLQ3LXABQ==;hHTCJCM04ZpDzcM0d8AXuw=="
 ---

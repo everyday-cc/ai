@@ -85,6 +85,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "U.S. Safety Official Calls on Tesla To Fix 'Basic Safety Issues' Before Expanding its Full Self-Driving Mode"
+    excerpt: "A top U.S. safety official is urging Tesla to address its “basic safety issues” before it expands its plans to introduce the much-discussed Full-Self Driving mode. Tesla says the Full Self-Driving package is designed to allow for short and long-distance trips “with no action required by the person in the driver’s seat."
+    publishedDateTime: 2021-09-22T02:30:00Z
+    webUrl: "https://hypebeast.com/2021/9/tesla-full-self-driving-mode-safety-issues-wsj"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 20
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-full-self-driving-mode-safety-issues-wsj-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
 secured: "QD/lgMHRt8OCSIVVj3OW37X1NP6oz0ZM+MCA5hZv1eFsJ+DSVDLBGeXLoSbH1xzIcBcSzgCyKkEIQg/v+1reF5Q9BhJK3vEGEW+f6kNfLlN9R5rD1yt8dRJOs6jKU2atHhUIwE3MWBHSIbCT+SZAGUi9FtjDnblgt/ZIpO119JxktCmSeHM5jBDfx3Dn6An4r0lr4exyPbWmN+ZLx7ZjoikxbDEJMXXDmrqWOdKz1qft1NamOQLDRjIcPZghrLEM09Tz4ORr+PWQMRPQoKG8Vw1mS7m/x7bKAUPIj0DyKSaIHV4Z3mOt1VRF7mEBA2GBeBIT0lIUm+MzB8FqvL3c2Lssxpqpb+yQ8mE4NjDkFsrYkqmj8UYgjsp7CA+VLl/IQWyNOvgdR4hFUeEs3lI4yRaiMYHV9nBdRsH/9SlaUN32iB7ea6K3N0q9R/Zt6suTBELaD+ZVH7IIbDZ3wSVcX8Nc0fVVZFRoluKlY0a+/diKLwCohsV8BjBF2igczMziZc1IPJkI2J5WrzmDSffMYQ==;AboW7VQEH3tJIb5s9xP9Eg=="
 ---

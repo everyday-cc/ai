@@ -57,6 +57,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Will Smith Backs $4 Million Funded Fintech Startup to Take on Wall Street, Arm Investors with Better Insights"
+    excerpt: "Front, a strategic investment platform and companion app to Robinhood, Coinbase, Stash, and more that helps guide better"
+    publishedDateTime: 2021-09-21T18:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/09/n23038372/will-smith-backs-4-million-funded-fintech-startup-to-take-on-wall-street-arm-investors-with-better"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23038372"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23038372"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Here's what Mitt Romney says makes Utah a great place for fintech companies"
     excerpt: "Utah Sen. Mitt Romney said that businesses, especially innovative businesses like those in fintech, come to Utah for four reasons."
     publishedDateTime: 2021-09-18T00:01:00Z

@@ -88,6 +88,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 19
+  - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
+    excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
+    publishedDateTime: 2021-09-22T01:53:00Z
+    webUrl: "https://itwire.com/internet-of-things/iot-analytics-state-of-iot-report-details-trends-and-overview-of-the-iot-vendor-landscape.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 10
 
 secured: "HBcR5oSBcisJKJvLCskU9dHHk7FlK7pNJ4y6Z3IPXMzJl050IlXu7kRjlghWRR8T5OMOHfE3qvy8jrg1ualP/EiPEREGCTSlZxqPT/4zRLp08R87X6mAF0/py3EwzFWzFL3AMyDEY/7YrpsHbMOlT4d2jQk0zjc+tG57MHsqgspSjXlW8u13EIIoT0XSHLsWwTWqIpPmQpLb1PvH7xrMy/arX9WCehfVYVL8K2qp2HLsMhfiikbLii8swWKKfjjvXRcJQBlqozyKDYWrHQcWmYkxbeSBb7/+gy+jtji5kBgGjMcUppqvjm91uezFCFvw9P64YJbW6zdO/iFEMeQPi+g3BU1lTZUZCWEkTMmC6aCKXo7rc8EWtbKZ1shkHkfNJQrQkkgr6+OCDPVwP61og5JtqFn4XAqGlRekRbWVqLJS+x3NKMQV/yapnknLhmo8ADXqYZb6/8yV1mKUTMwb0MQOuT3fGmZBjIeTYpygSALba9Q6t3z5wQM/suliLVPa9lW/22mSURihYlZcQGR4Ng==;uiddBZnYWUQ1PUOmuQjjSg=="
 ---

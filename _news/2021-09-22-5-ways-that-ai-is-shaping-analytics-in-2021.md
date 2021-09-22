@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/business-innovation/5-ways-that-a
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043/amp"
 type: article
 quality: 59
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 19
+  - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
+    excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
+    publishedDateTime: 2021-09-22T01:53:00Z
+    webUrl: "https://itwire.com/internet-of-things/iot-analytics-state-of-iot-report-details-trends-and-overview-of-the-iot-vendor-landscape.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 10
 
 secured: "dwEPw66yMclX79jVyUOuTklKhQgma0HGJfCn82gFJAQGC1Pn9GWJWa+Fg+msz1H4AkNnBmYXtq1r8yefTzektja9kdWrMbnUL+EdNEN8iYHPkK2R2XW7Y617Q7xRYDY1Iis9w9svY6q+LDjI5cFhz1d+wtqWOShs8yFGD9oCw1H0x3CpRb9kznPcyfQNMyFkdvY3ltI41z1gUmGkOOlTX2NCoa6Naa4V3PaYhPOyj+1XUlhRCgmsXCe7Hh3W5VaOz/MXfuu+V4VW8mlbsugMki8UOSpFrdfxT1I7QCazYJxNryL7Nn4y94uF9QhHxEIWRyLKcc6orogxYVC4Erfmc5Ldy04k9x6sGYaNirjTcWrPryJERSMTjmtonRhM09ql30IcqLeOFrt777v69ri78bX5oUXrMfIcxhzcsintYGOhAqBiIqraCIVDRd6I1k7lZy/weKeWKQVQxq+QZwD0khvTo/7hQqKzBe8o2cfUMOBeEeiUfpMXdSqsxa/h+M0+18HyUymddcGAYX9m1BQQiQ==;RzEyWszR0n8mQzMZX4zFhQ=="
 ---

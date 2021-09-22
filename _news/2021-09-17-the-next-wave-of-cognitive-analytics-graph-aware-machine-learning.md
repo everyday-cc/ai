@@ -87,6 +87,15 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 24
+  - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
+    excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
+    publishedDateTime: 2021-09-22T01:53:00Z
+    webUrl: "https://itwire.com/internet-of-things/iot-analytics-state-of-iot-report-details-trends-and-overview-of-the-iot-vendor-landscape.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 10
 
 secured: "kh8YlwIrGnKtlIZCpUSGG+Xz1UtVXbzIqFcvsOXZzklgFIpTG0TSE44F+kMsDntfi+QNbNbAHqaTzwVAQG3+iOmYcQjQjAMHJebD3ZzoeMM3V3zwUIW+SA9xqdm+lBchy2X08MMIEn7WbHHHaDD0iUCe9SmHddLS2XzUgzynuNtS5YZIN4JZzAx78Lr1M51SV75A1zTs8FesEI0geM5bF71u30qThko9tZUdY3CMsuhRK2aVWnTT6cepDyfvg8mpOhMpMPPcXp9sUOOg5Gl8DyNf/v3JTLxlfZHLfOWWooEh1XMOhuUVz03VUeP0YL+cn+eXD+9KKzT/GxzDDaklloRGi/+vkuqREPYOjT9N1+4UYSf+/RREJB4M19fE3QvzAlNj/+7Ao2wTUYJIxGXluElv9OLxOnk0A8zzlbx19YrBzW8Ydci8vS80g9jiTR7gIkHNyKWT6pfq86l9nqt3SjXM9LzWhtu9139JK5W51wQQRM/UKCAvBkhRj0Dk0gUyyaIwOanciQ3ynHKKRmVoEQ==;VogstMJLzZGHih87zUehjA=="
 ---

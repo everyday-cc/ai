@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-dr
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803"
 type: article
 quality: 78
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "U.S. Safety Official Calls on Tesla To Fix 'Basic Safety Issues' Before Expanding its Full Self-Driving Mode"
+    excerpt: "A top U.S. safety official is urging Tesla to address its “basic safety issues” before it expands its plans to introduce the much-discussed Full-Self Driving mode. Tesla says the Full Self-Driving package is designed to allow for short and long-distance trips “with no action required by the person in the driver’s seat."
+    publishedDateTime: 2021-09-22T02:30:00Z
+    webUrl: "https://hypebeast.com/2021/9/tesla-full-self-driving-mode-safety-issues-wsj"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 20
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-full-self-driving-mode-safety-issues-wsj-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
 
 secured: "rCkQ3TopPZz2fyfmYmxnMz/1YXXmyzlUZWeUKJJzvcZTQMgSSY4+WVJSCC5ioydjTNbp2q69LY4IahMcbDxtGn8yvBlNt/v54x9uV9vo5rbY3RUIafNe5lPxqNGIZgCo1xOMpR7BtO8zT945+KadPB3FpM+iEP2eIi+J/moCS+FnEnQcgF6i3LUxWyxQEqf/rkSPDQuRPknrdyLLfnHjxQD3e/t63UD0ij0yKB4c8OjcEjuHVijzmvyoP+ytNpc/EIB5yGRhkSgQ4mnq+k/B9uYUvpVz91FKXNFNWeKEPM046rdIzb1Vucz8Bk5PWdoqnwCbysff3CLgpDQ4hnwnjufgZV9GBW2osBe34e3fY+7sSbCtnfNgPlNDCVyxb7j530FXIWPJAPZVundizSi6ZB2+C014dRIIn+qybhNv/zL0qB6tuyrrgehyXd+ZFh8InTFevkeUNbeD5k79LzIyKDPaX+0yK4lyzwZxKfkNZWDmYNq6qexzrMwsaKnuq4VNGkq4AV5V35/W3f/TGoUXiA==;MglL4zQlAogGkWIx3zL4gQ=="

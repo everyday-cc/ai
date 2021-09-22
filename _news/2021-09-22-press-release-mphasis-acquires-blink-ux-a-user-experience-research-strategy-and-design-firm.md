@@ -26,6 +26,22 @@ images:
     height: 350
     isCached: true
 
+related:
+  - title: "Mphasis Acquires Blink UX - a User Experience Research, Strategy, and Design firm"
+    excerpt: "Blink boosts Mphasis’ Experience competencies with end-to-end capabilities in User Experience Research, Strategy, Design, and Implementation Blink brings a marquee client list in technology and consumer industries;"
+    publishedDateTime: 2021-09-21T23:18:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-0b143743ca8d293d5d0a21d3bf63b2c5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "Hr8adLXjJ4oDRWAmm+OTRR8t0l2x0MNl6YBfoaK2xiaukcneGrqs7JLm++q+5mVBJkZsw44ph7nO5SyiC4roiB8X+8hwKrr1HNzJiC+IB9WEVEqs7JaIWa8cvtQRKqQ26JZV12Rib0lLBpKSm8AJuRQILxvFQx26DXMCkjfo3dv853NQVFBSWkYCAXLWbwYO5PMD4GF5fhR7wbhnPgzBXZZRqqzmfLdH79SdSZLC9esxbx807BJFL/GQi1RgRYNiI4p3Mb9xUqnd9k0M/JKfVkTW+/S5ACIOjD1VcJXaFL0KR236YwuG0Cb4zbAbtFtbIFELCUKijSqWqIe05eL791hQRf/uJdbREDMTn/phac8=;MmwVF5R09qnAhVIRLPhLDQ=="
 ---
 

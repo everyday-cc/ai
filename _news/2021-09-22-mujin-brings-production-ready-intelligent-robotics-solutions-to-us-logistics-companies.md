@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Mujin Brings Production-Ready Intelligent Robotics Solutions to US Logistics Companies"
-excerpt: "Award-winning Japanese industrial robotics company celebrates 10th anniversary with first U.S. office near Atlanta; showcases robotic palletizing with AMR pallet transport at Pack Expo, booth SU-7233."
-publishedDateTime: 2021-09-21T19:59:00Z
-originalUrl: "https://www.automation.com/en-us/articles/september-2021/mujin-intelligent-robotics-solutions-logistics"
-webUrl: "https://www.automation.com/en-us/articles/september-2021/mujin-intelligent-robotics-solutions-logistics"
+excerpt: "Award-winning Japanese industrial robotics company celebrates 10th anniversary with first U.S. office near Atlanta; showcases robotic palletizing with AMR pallet transport at Pack Expo, booth SU-7233"
+publishedDateTime: 2021-09-22T03:15:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=17490"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=17490"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
@@ -34,6 +34,6 @@ related:
         height: 1350
         isCached: true
 
-secured: "Igl8z3RObZSl4tzUuj6Yj35Yxmh2qIG/IUp9VC17MvtgHffbwMvapsOrN4mbFRliG6sX91sFnSevkZpuQD9c0B9hXMcsI7afxagoYr0zPnL+P2i3AiJGzO6bXoGfOGMcgnSKKciEud/dVLRz0qBE6vNTocQpaTvr7RjAjJJP23uwIymwg9hpgbNNEHPyPJdy/8lOlmYUoVs4gt7eexoV73N/o8ySTnfVvpU2J4jRME+J/NzzD3ZhSABgOmshOrbm7RqUxjMWKpwhSFwsKQcUtEcHQHecLPjdpNhB1Ba8AKhrFzSAIpawBaRJR/QPfdsVUtlL25bamUjn67CzxDTNBcPoZOmQT+4A4SldHILrsoQSK2R04B5cGWrXkJy7ChesH2lUNlvcR5ze2cBvXG6dEIIe86j4cZLC/qC/ULQzx4kNUAP+XkcCsTaJnSoS80jS5MumHt1ieW8W/4j9huoufmpTRacQmGg8nzAQf5Gm0WGXxY08mfKRJg4qx6PghGM4CmdU5ewN5o88ntbiRPlfcw==;6LJc+7D8Pjc08zgk7Adtig=="
+secured: "qKCnVf6fYkqcTifIJ0ow4POMUsX+AUnVB+jgoM7jSQ0G5rzoUEkERHBNYKuWkQRJdP/RVVhzHQVdjC6Pr5UGjydlzfIWaTQ1tGi9BVE8YTxaZEDQR10OjhUVnN3KGN8WA/Fi/tlIfakOkuQuIHMfzDYrx1gQyBZ5VLvG9RWbatVGoAmppjDfxppv//2VX9e3ZHxFSpjWMjAzfQjxUHBMxO3UBnmZCP8pIMhnnX2Otl2Iyu5bbt8NZw/Hgpt3UsRoanwI+y7u4ukylCoimvKJVysGURxgWLe/+f2gXr9kopgZFPB8LKoXSWRGgHh0cNeA2KfOUdhcCVIU0glee20q5UzNTB8fasSy1N4b16YbnYM=;54aFytvCs5npOOqPT4az6A=="
 ---
 

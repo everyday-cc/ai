@@ -39,6 +39,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Kubota and Yamaha Motor invest in U.S. Startup developing robots to automate strawberry harvesting"
+    excerpt: "Kubota Corporation and the Yamaha Motor Co., Ltd. have additionally invested in U.S. startup Advanced Farm Technologies. AFT is a U.S.-based startup seeking to raise efficiency in"
+    publishedDateTime: 2021-09-22T02:18:00Z
+    webUrl: "https://www.freshplaza.com/article/9357186/kubota-and-yamaha-motor-invest-in-u-s-startup-developing-robots-to-automate-strawberry-harvesting/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 25
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/09/21/Stawberry_harvester.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "c01dhq6/xXovX/RDGDfnHolBu8bKlunuqyO+RWcFh4f0DgSX9oRfIXBgxjKIUO5wpYGL0jrWA3Oe2xzItSpBN/Jq0Rr9XFKNLmGDQPgHobfdOm3CaYCWOsCE5H3sdfps3BSpqXbUQ4jfmboH1B5Nt6cyjWv0meLb00x07LkBljbgliTcY82ZrPRxjIXdtz+DH5IeMWnw9qOUWV4E8rYgs7U5j/7wY+86O0Xm6nyedmZiHb9raQh2RZzC5PvrZNSJ4y6+88UG6Sz0VtIHhSHgvTc1C2FkvV2Df/6c9KkllDHMfmluk4DF4uEP2cDmnUpE/V7OYJAzr7NhZOZPz/Tfae391a25WGYxoRGykapYIjxWQVFnlyfG2pSQZp21J7v4OrKJhESiODD5ZQ7+Zx2C+s2D5apoFlZAFLKjT+jkNrepmg9GiZHcZ8DrnaZMk7/KnrzVw/PzGirphDS3crUP7t9b5RW65WbMEMK4V+JhmNKi7xvmc6Te+dIhW6IBcbBihgH54FV51rK56tpj/CALlg==;pT8IURZrrc32dEZhYitDFA=="
 ---
