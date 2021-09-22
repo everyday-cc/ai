@@ -1,28 +1,28 @@
 ---
 category: news
-title: "BRIDGEi2i Named in Gartner's Market Guide for Artificial Intelligence Service Providers, 2021"
-excerpt: "BRIDGEi2i Analytics Solutions announced its inclusion in Gartner's Market Guide for Artificial Intelligence Service Providers, 2021. The Gartner report compiles a list of service providers that represent the breadth of offerings in the AI market."
-publishedDateTime: 2021-09-21T15:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bridgei2i-named-gartners-market-guide-artificial-intelligence-service-/2021/09/21/9453516.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bridgei2i-named-gartners-market-guide-artificial-intelligence-service-/2021/09/21/9453516.htm"
+title: "BRIDGEi2i Named in Gartner’s Market Guide for Artificial Intelligence Service Providers, 2021"
+excerpt: "BRIDGEi2i Analytics Solutions announced its inclusion in Gartner’s Market Guide for Artificial Intelligence Service Providers, 2021. The Gartner report compiles a list of service providers that represent the breadth of offerings in the AI market."
+publishedDateTime: 2021-09-21T16:39:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-6ec3e79ee16a9a631582e503e126211f"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-6ec3e79ee16a9a631582e503e126211f"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1630959/BRIDGEi2i_Logo.jpg"
-    width: 400
-    height: 203
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "QAxTIygnc74L15hazfQN6iZzuSKYEpy5I5Dz1d+M1dxAtL39c7Eq9lZX6opHOmcbU4CKYU+hO4kXZ1NOHJDwkLuOe1uqZ4t0McJmfgVWhkNyWviEUeLVYFoL0xcYXcJthgRHpKUaPZE+Zh6R9U8t7p3T35Fl5CfSQg3Gea7R3yBGcXjNWWcONVuhW8raQTr49qzMIlPkRK8wBpJcjJBGrrfIS0IDsE7QxeIVJa18pgQ+3lRkEqM09+iy0DptC/iJeghzMIaamJgf8GngVvzaGR/Qr4v0MZU7ACNCXWKBBI5fAHaKGkN9xnSeTcn7bCPdwd0CS9Op8HSvBqqCqKJ8CowojUXeewd2XKvnDaBavRw=;B/z/Hb1UbhzkfJgcbL5DbQ=="
+secured: "L2ZlLJCtHE2DWTA6efsJ9qb/i4Zz+C56kF4m1R5Y6W4ySINc1h8qBv+zF2dW9flf8iXQ1m1yVGuVAV1Y497iBgB64Hk5NKavOgwc2kQPgT0xMmT148h8T+MLpx1qy8e1IfnS8VajHbLNpMwe0OkegrVtUfdlnIHIIVC76Pd1zjElZGX8xo/nstQ3GUU5dA4qsQScH6SObfg8z2jwCfAyBnyUp5zWCr7PTgpnVE4tWvYPQhw6nUjwzUJZu91KGGSp2rb1Oy2ib/wiSBz2bdl5xJGvQHMM+mHESaWdBL3BVRt74ptA4yxgE48iviv5cCSenPR86WUQbuHhky00gPevaasDXm62bXZkPDeh3+Lr2XY=;1LIOUjm6OIEniCzhHy9VPw=="
 ---
 

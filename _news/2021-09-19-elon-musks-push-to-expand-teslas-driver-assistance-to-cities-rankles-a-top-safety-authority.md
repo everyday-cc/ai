@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-dr
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803"
 type: article
 quality: 78
-heat: 128
+heat: 78
 published: true
 
 provider:
@@ -29,80 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "NTSB Tells Tesla To Tackle Basic Autopilot Safety And Stop Misleading With Full Self Driving Claims"
-    excerpt: "Despite labeling its $10k option as Full Self Driving, NTSB head Jennifer Homendy thinks that Tesla is putting the cart before the horse."
-    publishedDateTime: 2021-09-20T14:08:00Z
-    webUrl: "https://hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
-    ampWebUrl: "https://amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 75
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56277/content/tesla_model_3_interior.jpeg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Elon Musk’s failed Tesla robotaxi promise is the height of self-driving hype"
-    excerpt: "The electric carmaker has several of the pieces in place to take on Uber and Lyft someday. But it’s started whipping up excitement far too early."
-    publishedDateTime: 2021-09-18T11:00:00Z
-    webUrl: "https://www.fastcompany.com/90677822/elon-musks-tesla-robotaxi-promise-typifies-self-driving-overexuberance"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 51
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-elon-musks-tesla-robotaxi-promise-typifies-self-driving-overexuberance.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "U.S. investigator urges Tesla to fix self-driving concerns, report says"
-    excerpt: "Tesla's use of the term \"full self-driving\" is “misleading and irresponsible,” NTSB Chairwoman Jennifer Homendy told the Wall Street Journal."
-    publishedDateTime: 2021-09-20T15:25:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/us-investigator-urges-tesla-fix-self-driving-concerns-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TeslaFSD-MAIN_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The National Transportation Safety Board thinks Tesla should pump the brakes on full self-driving"
-    excerpt: "Jessica Homendy, the chair of t (NTSB) had some strong words for Tesla in an interview in The Wall Street Journal. Essentially she warned Tesla to deal with “basic safety issues” before rolling out their “full self-driving” (FSD) mode to more drivers."
-    publishedDateTime: 2021-09-20T15:22:00Z
-    webUrl: "https://knowtechie.com/the-national-transportation-safety-board-thinks-tesla-should-pump-the-brakes-on-full-self-driving/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 26
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "U.S. Safety Official Calls on Tesla To Fix 'Basic Safety Issues' Before Expanding its Full Self-Driving Mode"
-    excerpt: "A top U.S. safety official is urging Tesla to address its “basic safety issues” before it expands its plans to introduce the much-discussed Full-Self Driving mode. Tesla says the Full Self-Driving package is designed to allow for short and long-distance trips “with no action required by the person in the driver’s seat."
-    publishedDateTime: 2021-09-22T02:30:00Z
-    webUrl: "https://hypebeast.com/2021/9/tesla-full-self-driving-mode-safety-issues-wsj"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 20
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-full-self-driving-mode-safety-issues-wsj-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
 
 secured: "rCkQ3TopPZz2fyfmYmxnMz/1YXXmyzlUZWeUKJJzvcZTQMgSSY4+WVJSCC5ioydjTNbp2q69LY4IahMcbDxtGn8yvBlNt/v54x9uV9vo5rbY3RUIafNe5lPxqNGIZgCo1xOMpR7BtO8zT945+KadPB3FpM+iEP2eIi+J/moCS+FnEnQcgF6i3LUxWyxQEqf/rkSPDQuRPknrdyLLfnHjxQD3e/t63UD0ij0yKB4c8OjcEjuHVijzmvyoP+ytNpc/EIB5yGRhkSgQ4mnq+k/B9uYUvpVz91FKXNFNWeKEPM046rdIzb1Vucz8Bk5PWdoqnwCbysff3CLgpDQ4hnwnjufgZV9GBW2osBe34e3fY+7sSbCtnfNgPlNDCVyxb7j530FXIWPJAPZVundizSi6ZB2+C014dRIIn+qybhNv/zL0qB6tuyrrgehyXd+ZFh8InTFevkeUNbeD5k79LzIyKDPaX+0yK4lyzwZxKfkNZWDmYNq6qexzrMwsaKnuq4VNGkq4AV5V35/W3f/TGoUXiA==;MglL4zQlAogGkWIx3zL4gQ=="
 ---

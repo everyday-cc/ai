@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangero
 webUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions"
 type: article
 quality: 67
-heat: 89
+heat: 90
 published: true
 
 provider:

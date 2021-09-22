@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-13-artificial-intelligence-market-impact-of-covid-19-by-solution-companies-global-forecast-by-2026-renub-research.md",
+      "title": "Artificial Intelligence Market, Impact of COVID-19, By Solution, Companies, Global Forecast by 2026 - Renub Research",
+      "excerpt": "Today artificial intelligence platform has become a way for computer systems to perform tasks like human intelligence including decision making and speech recognition Globally problem solving social intelligence and general intelligence is being achieved with the help of the artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "originalUrl": "https://www.openpr.com/news/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U913421287_g.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2389817/artificial-intelligence-market-impact-of-covid-19",
+      "publishedDateTime": "2021-09-12T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage.md",
+      "title": "iRobot’s new Roomba j7+ robot vacuum with AI, object avoidance, and storage",
+      "excerpt": "Companies like ECOVACS and Trifo are among the few to set out and develop robot vacuums with artificial intelligence capable of avoiding things it might run into that shouldn’t be there. From trying to avoid clog-hazards like socks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocnetwork.net/technology-news/irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage/",
+      "originalUrl": "https://www.pocnetwork.net/technology-news/irobots-new-roomba-j7-robot-vacuum-with-ai-object-avoidance-and-storage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pocnetwork.net/wp-content/zuploads/2021/09/Roomba-j7-robot-vacuum.jpg",
+          "width": 773,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Poc Network",
+        "domain": "pocnetwork.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-nfl-and-aws-unveil-new-4th-down-metric-to-judge-whether-your-favorite-coach-made-the-right-call.md",
       "title": "NFL and AWS unveil new 4th down metric to judge whether your favorite coach made the right call",
       "excerpt": "The NFL noted that some coaches, like the Cowboys' Mike McCarthy, made a few bad 4th down calls while the Browns' Kevin Stefanksi and Bengals' Zac Taylor made the right decisions down the stretch.",
@@ -1033,101 +1119,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-deepmind-aims-to-marry-deep-learning-and-classic-algorithms.md",
-      "title": "DeepMind aims to marry deep learning and classic algorithms",
-      "excerpt": "If successful, DeepMind's goal to bridge deep learning and classical computer science could revolutionize AI and software as we know them.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1262867852-e1631215030724.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/amp/",
-      "publishedDateTime": "2021-09-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-artificial-intelligence-ai-in-retail-market-to-grow-at-a-cagr-of-297-from-2021-to-2027-google-nvidia-conversica-baidu-intel.md",
-      "title": "Artificial Intelligence (AI) in Retail Market to Grow at a CAGR of 29.7% from 2021 to 2027 | Google, NVIDIA, Conversica, Baidu, Intel",
-      "excerpt": "The study includes information on competitive scenarios probable threats breakthroughs and a variety of other topics There is detailed information about developing trends market drivers development prospects and dynamic market restraints Market participants may comprehend major trends in the worldwide",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/the-geography-of-ai/",
-      "originalUrl": "https://www.openpr.com/news/2389167/artificial-intelligence-ai-in-retail-market-to-grow-at-a-cagr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.brookings.edu/wp-content/uploads/2021/08/Figure6.png?fit=500%2C375px&quality=1#038;ssl=1",
-          "width": 500,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/the-geography-of-ai/?amp",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/the-geography-of-ai/?amp",
-      "publishedDateTime": "2021-09-10T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

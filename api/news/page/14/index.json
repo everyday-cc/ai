@@ -2,6 +2,84 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-09-08-machine-learning-predicts-patient-response-to-rheumatoid-arthritis-therapy.md",
+      "title": "Machine Learning Predicts Patient Response to Rheumatoid Arthritis Therapy",
+      "excerpt": "Rheumatoid arthritis treatment may soon be personalized based on new molecular signature models that accurately predicted patient responses to adalimumab and etanercept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
+      "originalUrl": "https://www.practicalpainmanagement.com/pain/myofascial/machine-learning-predicts-patient-response-rheumatoid-arthritis-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.practicalpainmanagement.com/sites/default/files/images/2021/09/02/iStock-536845412.jpg",
+          "width": 1287,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.practicalpainmanagement.com/amp/38232",
+      "cdnAmpWebUrl": "https://www-practicalpainmanagement-com.cdn.ampproject.org/c/s/www.practicalpainmanagement.com/amp/38232",
+      "publishedDateTime": "2021-09-08T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Opioid Calculator",
+        "domain": "practicalpainmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-earnix-recognized-as-top-aifintech100-company-by-fintech-global.md",
+      "title": "Earnix Recognized As Top AIFinTech100 Company by Fintech Global",
+      "excerpt": "Given the huge rise in appetite for AI technologies in the sector, the AIFinTech100 identified Earnix among the leading innovative companies developing AI solutions that every financial institution needs to know about.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/earnix-recognized-as-top-aifintech100-company-by-fintech-global/",
+      "originalUrl": "https://www.financialbuzz.com/earnix-recognized-as-top-aifintech100-company-by-fintech-global/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-what-the-ai-economy-means-for-cities.md",
       "title": "What the AI Economy Means for Cities",
       "excerpt": "In the future, AI may help doctors make better diagnoses and power entirely self-driving vehicles. In this regard, AI is a truly epoch-making advance, considered by experts to be a “general-purpose technology” like the wheel,",
@@ -1049,102 +1127,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-fully-customizable-action-space-now-available-on-the-aws-deepracer-console.md",
-      "title": "Fully customizable action space now available on the AWS DeepRacer console",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML) through a global racing league, cloud-based 3D racing simulator, and fully autonomous 1/18th scale race car driven by reinforcement learning. Starting today, the model action space is fully customizable yet simplified with new",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fully-customizable-action-space-now-available-on-the-aws-deepracer-console/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/07/8-5294-Baja-truck.jpg",
-          "width": 800,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T13:20:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-university-of-idaho-robotics-flourish-at-north-idaho-college.md",
-      "title": "University of Idaho Robotics Flourish at North Idaho College",
-      "excerpt": "Since relocating to North Idaho College's Hedlund Building, the university's robotics program is teaching students to write software and preparing them for careers in fields such as manufacturing and cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/26fb46c/2147483647/strip/true/crop/1168x609+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb3%2F2a%2Fb551756f42647015fcf63a4856b6%2Funiversity-of-idaho.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-idaho-robotics-flourish-at-north-idaho-college?_amp=true",
-      "publishedDateTime": "2021-09-07T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

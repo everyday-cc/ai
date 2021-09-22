@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
+      "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
+      "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
+      "originalUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2021/09/University-of-Texas-taking-closer-look-at-ethical-AI.png?w=1280",
+          "width": 566,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
+      "publishedDateTime": "2021-09-22T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process.md",
+      "title": "Robots and machine learning researchers combine forces to speed up the drug development process",
+      "excerpt": "IBM Research and Arctoris are bringing the power of artificial intelligence and robotic automation to the process of developing new drugs. The two companies aim to make smarter ch",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "originalUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/21/da423e03-baee-48a1-a496-5d7b1687a678/resize/1200x/cb835c5e04a13149c7d356d4637df0e7/arctoris-ulysses-platform.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "publishedDateTime": "2021-09-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-arkq-uniquely-positioned-to-capitalize-on-robotics-trends.md",
       "title": "ARKQ Uniquely Positioned to Capitalize on Robotics Trends",
       "excerpt": "Amid an array of technological advancements, robotics investing is gaining a broader audience, and exchange traded funds issuers are meeting that demand. However, the various robotics ETFs on the market today aren't carbon copies of each other,",
@@ -128,50 +226,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-new-robotics-program-focuses-on-ethics-of-artificial-intelligence.md",
-      "title": "New robotics program focuses on ethics of artificial intelligence",
-      "excerpt": "Through a new program starting next fall, UT students will create the next generation of accessible robots designed for the average person.   The new robotics program, called the Convergent, Responsible,",
-      "sourceUrl": null,
-      "webUrl": "https://thedailytexan.com/2021/09/20/new-robotics-program-focuses-on-ethics-of-artificial-intelligence/",
-      "originalUrl": "https://thedailytexan.com/2021/09/20/new-robotics-program-focuses-on-ethics-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thedailytexan.com/wp-content/uploads/2021/09/92021_EthicalRobots_Teagan.Jensen-900x506.png",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Texan",
-        "domain": "thedailytexan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -1279,49 +1333,6 @@
       "provider": {
         "name": "Neuroscience News",
         "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
-      "title": "Agile Robots closes $220M Series C funding",
-      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
-      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-10T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

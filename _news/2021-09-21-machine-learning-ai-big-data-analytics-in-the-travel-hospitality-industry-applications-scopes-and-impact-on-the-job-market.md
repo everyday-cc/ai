@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Clearsense Acquires Plug-and-Play AI Analytics Firm"
+    excerpt: "Clearsense, an AI-powered data analytics platform company that translates healthcare data into highly consumable insights, today announced the acquisition of Compellon, a privately-held, plug-and-play AI analytics company based in Lake Forest,"
+    publishedDateTime: 2021-09-22T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clearsense-acquires-plug-and-play-ai-analytics-firm-1030815362"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1602054/Clearsense_Logo.jpg"
+        width: 400
+        height: 339
+        isCached: true
   - title: "5 Ways that AI is Shaping Analytics in 2021"
     excerpt: "It’s no shock to anyone who works with analytics and data that AI is changing everything. From automating some"
     publishedDateTime: 2021-09-21T19:15:00Z
@@ -37,47 +51,20 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "Neuravest Appoints Financial Analytics & AI Industry Leader Dr. Roger Stein To Further Advance Its Adaptive Ai Investment Solutions"
-    excerpt: "Neuravest Research Inc., the cutting-edge provider of adaptive AI-driven institutional investment solutions, announced today that Dr. Roger M. Stein has joined as a"
-    publishedDateTime: 2021-09-21T15:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/09/p23035698/neuravest-appoints-financial-analytics-ai-industry-leader-dr-roger-stein-to-further-advance-its-ad"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23035698"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23035698"
+  - title: "Vintra Secures $9.125 M Round of Funding, Fueling Continued Growth for AI-Powered Video Analytics Platform"
+    excerpt: "Vintra, Inc., a leading provider of AI-powered video analytics solutions, today announced a $9.125 M round of new funding, led by Morpheus Ventures with participation from Lavrock Ventures and existing investors Vertex Ventures US and"
+    publishedDateTime: 2021-09-20T17:56:00Z
+    webUrl: "https://www.lelezard.com/en/news-20005707.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 19
     images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Analytics Insight features top Indian robots in the global tech market with ‘made in India’ tag"
-    excerpt: "This article features top Indian robots in the global tech market with ‘made in India’ tag with a blend of robotics and AI. Robots in India are thriving in the tech-driven market."
-    publishedDateTime: 2021-09-21T12:42:00Z
-    webUrl: "https://www.analyticsinsight.net/made-in-india-top-indian-robots-recognized-in-the-global-tech-market/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 27
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Made-in-India-Top-Indian-Robots-Recognized-in-Global-Tech-Market-.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "viisights to present innovative behavioural video analytics at GSX 2021"
-    excerpt: "Inc., developer of revolutionary behavioural recognition systems for real-time video intelligence, will be attending Global Security Exchange 2021 in Orlando, September 27 - 29,"
-    publishedDateTime: 2021-09-21T06:11:00Z
-    webUrl: "https://www.sourcesecurity.com/news/viisights-present-innovative-behavioural-video-analytics-co-1565673901-ga.1632157276.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/viisights-present-innovative-behavioural-video-analytics-co-1565673901-ga.1632157276.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/viisights-present-innovative-behavioural-video-analytics-co-1565673901-ga.1632157276.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 24
   - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
     excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
     publishedDateTime: 2021-09-22T01:53:00Z
@@ -87,6 +74,20 @@ related:
       name: ITWire
       domain: itwire.com
     quality: 10
+  - title: "Analytics engine leverages data and artificial intelligence to turn radio communication between drivers and engineers into insights"
+    excerpt: "Using advanced digital analytics and artificial intelligence, Genpact’s Radio Analytics Engine (RAE) analyzes and organizes hours of radio communication generated simultaneously by drivers during a race and turns."
+    publishedDateTime: 2021-09-22T09:53:00Z
+    webUrl: "https://www.analyticsinsight.net/genpact-launches-radio-analytics-engine-to-accelerate-envision-virgin-racings-competitive-performance/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 7
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/Genpact-Launches-Radio-Analytics-Engine-to-Accelerate-Envision-Virgin-Racings-Competitive-Performance.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "yVZ4bvXf5+TlIbG1BC5GQN7EdGzJrSmjWqqGvX87bTQk6ys0xlcd7ffcGRmbU/CJ15z/P+H09AUWHNQevC/tFMlGWDsf0DPER4EeynUxK158yrR8yr6ZdhHpl9IdDDh8KS9h6bj58CJGVeeHQBGQMMd7bq54KbMZVbS3oRBRcqupff2zNaSNlcwPYOPtVT737olcX4q7IW7DZvj4eBTVP2VFup7DLn3G3a5nySpu9MxvzuNrl+U5SeQ/TAYVioSxyff/Q+yjVcESzB41ck1wVw7L/mlnv2GERMln8pJl6wMikmb6BV3UpFeItGfxGquhTXJyPThiAjqle7Z/5Ud740cV5TneooKQxF2r+TTXYUrGEA3jIOjfrouY5NpEooPUqK4ly0aIJi+kdoWrgheEKcB98RVm31gYbrqkqjlrHLDSR6EePif+cBoujghJjwL5HUCuofkZ1/18alnuUGlQ0hMv8rBv8RHWFl2y2w90VyL96C1o8Pc+3lHa5+JaLgBHQeLQoa3eoiGnHGZVg2tJBw==;NEIy/WfXx6k/A5oz4gDlRw=="
 ---

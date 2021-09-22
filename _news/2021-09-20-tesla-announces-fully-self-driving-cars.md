@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Full Self-Driving: An overview of how it works"
+    excerpt: "If there is one piece of technology that's pretty optimistic, it's Tesla's Full Self-Driving system. There are no self-driving cars on sale today, despite what \"FSD\" -- as Tesla owners and CEO Elon Musk refer to it as -- promises."
+    publishedDateTime: 2021-09-22T11:00:00Z
+    webUrl: "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
+        width: 644
+        height: 362
+        isCached: true
   - title: "NTSB says Tesla’s Full Self-Driving beta is ‘misleading & irresponsible’ ahead of wider release"
     excerpt: "As Tesla is moving to release its Full Self-Driving beta software to its US fleet, the automaker is facing some pushbacks from US regulators. Now the NTSB is calling Tesla’s approach “misleading and irresponsible."
     publishedDateTime: 2021-09-20T13:08:00Z
@@ -41,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "NTSB Tells Tesla To Tackle Basic Autopilot Safety And Stop Misleading With Full Self Driving Claims"
+    excerpt: "Despite labeling its $10k option as Full Self Driving, NTSB head Jennifer Homendy thinks that Tesla is putting the cart before the horse."
+    publishedDateTime: 2021-09-20T14:08:00Z
+    webUrl: "https://hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
+    ampWebUrl: "https://amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-ntsb-safety-autopilot-full-self-driving-autonomous"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 75
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56277/content/tesla_model_3_interior.jpeg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’"
     excerpt: "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature."
     publishedDateTime: 2021-09-19T21:07:00Z
@@ -54,6 +86,20 @@ related:
       - url: "https://images.mktw.net/im-367838/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Elon Musk’s failed Tesla robotaxi promise is the height of self-driving hype"
+    excerpt: "The electric carmaker has several of the pieces in place to take on Uber and Lyft someday. But it’s started whipping up excitement far too early."
+    publishedDateTime: 2021-09-18T11:00:00Z
+    webUrl: "https://www.fastcompany.com/90677822/elon-musks-tesla-robotaxi-promise-typifies-self-driving-overexuberance"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 51
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/09/p-1-elon-musks-tesla-robotaxi-promise-typifies-self-driving-overexuberance.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla drivers using 'full self-driving' Autopilot pay less attention to their surroundings"
     excerpt: "Tech giant Tesla is due to launch the latest version of its Autopilot “full self-driving” technology to owners this autumn, but new research has revealed that the system could be making drivers inattentive to their surroundings."
@@ -85,6 +131,34 @@ related:
         width: 1920
         height: 938
         isCached: true
+  - title: "Tesla sees great potential for self-driving vehicles in China"
+    excerpt: "Tesla CEO Elon Musk said on Friday that he sees huge potential in China for fully autonomous vehicles, as Chinese customers want cars with better connected and more intelligent features."
+    publishedDateTime: 2021-09-18T02:17:00Z
+    webUrl: "https://www.nationthailand.com/international/40006307"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 39
+    images:
+      - url: "https://media.nationthailand.com/uploads/images/md/2021/09/mqJ7Vd7YV9WBfBZGOuMA.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "U.S. investigator urges Tesla to fix self-driving concerns, report says"
+    excerpt: "Tesla's use of the term \"full self-driving\" is “misleading and irresponsible,” NTSB Chairwoman Jennifer Homendy told the Wall Street Journal."
+    publishedDateTime: 2021-09-20T15:25:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/us-investigator-urges-tesla-fix-self-driving-concerns-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TeslaFSD-MAIN_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "NTSB boss: Tesla's Full Self-Driving name “misleading and irresponsible”"
     excerpt: "Tesla continues to develop its Full Self-Driving feature and is slowly rolling out more and more functionality as the technology advances, though the NTSB isn't happy with the feature's name which is causing confusion about the capabilities."
     publishedDateTime: 2021-09-21T14:00:00Z
@@ -97,6 +171,34 @@ related:
     images:
       - url: "https://images.hgmsites.net/hug/2021-tesla-model-s_100777913_h.jpg"
         width: 1158
+        height: 576
+        isCached: true
+  - title: "The National Transportation Safety Board thinks Tesla should pump the brakes on full self-driving"
+    excerpt: "Jessica Homendy, the chair of t (NTSB) had some strong words for Tesla in an interview in The Wall Street Journal. Essentially she warned Tesla to deal with “basic safety issues” before rolling out their “full self-driving” (FSD) mode to more drivers."
+    publishedDateTime: 2021-09-20T15:22:00Z
+    webUrl: "https://knowtechie.com/the-national-transportation-safety-board-thinks-tesla-should-pump-the-brakes-on-full-self-driving/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 26
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/11/tesla-model-3-steering-wheel-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla's 'Full Self-Driving' Isn't What Elon Musk Says It Is. Now the Government Is Calling Him Out"
+    excerpt: "The head of the National Highway Safety Board says Tesla should stop talking about 'full self-driving' cars until they can actually do that."
+    publishedDateTime: 2021-09-22T08:01:00Z
+    webUrl: "https://www.inc.com/jason-aten/everyone-knows-teslas-full-self-driving-isnt-what-elon-musk-says-it-is-now-government-is-calling-him-out.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 25
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322928_2000137620009280105_it6ch8.jpg"
+        width: 1024
         height: 576
         isCached: true
   - title: "NTSB chief calls Tesla Full Self-Driving \"misleading and irresponsible,\" amid city-driving beta test"
@@ -112,6 +214,20 @@ related:
       - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736264_h.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "U.S. Safety Official Calls on Tesla To Fix 'Basic Safety Issues' Before Expanding its Full Self-Driving Mode"
+    excerpt: "A top U.S. safety official is urging Tesla to address its “basic safety issues” before it expands its plans to introduce the much-discussed Full-Self Driving mode. Tesla says the Full Self-Driving package is designed to allow for short and long-distance trips “with no action required by the person in the driver’s seat."
+    publishedDateTime: 2021-09-22T02:30:00Z
+    webUrl: "https://hypebeast.com/2021/9/tesla-full-self-driving-mode-safety-issues-wsj"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 20
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F09%2Ftesla-full-self-driving-mode-safety-issues-wsj-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
 
 secured: "laH1F1/KUlLVTVjR8u1Le26l40azNZVdi2RY/uVbt+FkQ/BVE0OpijvWU8yRksohfhSY9/JckX5ZKbWRKtKrkpB63rWxV/tfgPodNc5NZSzBgjNmOGgl1sevyVE0cHQCgjjBTpe3IG7rEK94DvHjuCMMZQwiFj3pUC9/sHFfJniEpCV4inRCWds7wDAxcHqtTBLPLTLOLaaqDDJqTLLC4sUSuaUAELwx+grkzTFJIsogmWq07tUkgd3XcnRUrz2B5wJYDlXcdgo9CKd8ZG9I/EHYwHcISBiiZk+AlkgLoKi2EdJJRPVZJNbLV3r+zHk90GcBpKnaOCAdk3Oq/oavOGM20zm6/94LOTbR+EO+Vfwh0x5DDJqwNrc/ak6BdbHtSZkoOhPdoSuqK9a3eqtk868m5UGMJRyI2lV9SzaX0v2O/QJ33g5aCGFlyW0RWW/n+7p4yb97E748NXmRbp/PbVAcXjJ9ftw/7W/e6EpbjsjA+ig8x/KWdSQKEFTVd4p8m7M5dD68nbw6J7sKOaaLdw==;yka0X1RNYTHeNfGM9Awnvw=="

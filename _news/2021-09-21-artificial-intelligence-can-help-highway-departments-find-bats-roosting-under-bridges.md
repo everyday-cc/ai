@@ -27,20 +27,18 @@ images:
 
 related:
   - title: "Artificial intelligence can help highway departments find bats roosting under bridges"
-    excerpt: "Photographs and computer vision techniques using artificial intelligence are able to detect the presence of bats on bridges automatically with over 90% accuracy, according to our new study. More than 40 species of bats are found in the U."
-    publishedDateTime: 2021-09-22T08:59:00Z
-    webUrl: "https://www.outlookindia.com/newsscroll/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
-    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/artificial-intelligence-can-help-highway-departments-find-bats-roosting-under-bridges/2164664"
+    excerpt: "Bridge inspectors will test whether an AI-based screening tool can help identify and document the presence of bats with greater confidence."
+    publishedDateTime: 2021-09-21T18:49:00Z
+    webUrl: "https://gcn.com/articles/2021/09/21/ai-bat-roost-bridge-inspection.aspx"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 50
+      name: GCN
+      domain: gcn.com
+    quality: 30
     images:
-      - url: "https://images.outlookindia.com/public/home_stories/46b8bf407da0a467ee5786239b1bb0d2_233_350.jpg"
-        width: 350
-        height: 233
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cities/bats_Austin.jpg"
+        width: 760
+        height: 368
         isCached: true
 
 secured: "4YBN/8RuEIFV+H5gzf4KYdfk6aGmhFPVtl5+kwy5N2AgIDN9UQN1gzzItisJEgMf45UWvSZEWvTx0yu7/zE/gQd2r7lKUEwEFIX8crEnqZZLb/MRJnpE/Hap+CcMjvU9B6Y03CF/VvXfdFgx52KrkqVuMuLGpuK6BILRM1wZDxmzd9M8N1MLWljr1ZUk4HfW+pKH2bWKm+04Tf8veAg6dsJCTsWsJykp7jVRAzp6v+ycCLfalgt5H1DMvk84HYGj+HL00IV1W2+Dkt1jjQJ+27wBtjtu1ILxoPbEjzk8oEWJ7j1iMDyqL5RdPMf4uPiEdILeXypdjfu4X+9ppVi9BgAa9C4s0cCesK6d5qIEGHk=;WjC0Y+1WWfKY1tFeNDP2PQ=="

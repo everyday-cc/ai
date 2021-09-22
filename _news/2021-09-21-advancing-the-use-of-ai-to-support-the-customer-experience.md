@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Genesys leverages AI for automation systems to enhance customer experience"
+    excerpt: "This article features how Genesys leverages artificial intelligence for automation system to enhance customer experience with top strategies. Click here to know more on Genesys AI that has driven growth in this tech-driven market."
+    publishedDateTime: 2021-09-22T11:45:00Z
+    webUrl: "https://www.analyticsinsight.net/genesys-top-strategies-in-leveraging-ai-for-automation-in-customer-service/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-5.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "How Language Inequity Impacts the Customer Experience"
     excerpt: "For businesses, language inequality can add up to missed opportunities, frustrated customers (or potential customers), and even lower profits. Prior to intelligent, AI-driven translation, it used to be difficult and costly to staff native-speaking customer ..."
     publishedDateTime: 2021-09-22T04:51:00Z

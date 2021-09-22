@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/model-and-data-linea
 webUrl: "https://aws.amazon.com/blogs/machine-learning/model-and-data-lineage-in-machine-learning-experimentation/"
 type: article
 quality: 91
-heat: 103
+heat: 104
 published: true
 
 provider:

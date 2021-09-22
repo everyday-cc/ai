@@ -2,6 +2,250 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-22-clearsense-acquires-plug-and-play-ai-analytics-firm.md",
+      "title": "Clearsense Acquires Plug-and-Play AI Analytics Firm",
+      "excerpt": "Clearsense, an AI-powered data analytics platform company that translates healthcare data into highly consumable insights, today announced the acquisition of Compellon, a privately-held, plug-and-play AI analytics company based in Lake Forest,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clearsense-acquires-plug-and-play-ai-analytics-firm-1030815362",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clearsense-acquires-plug-and-play-ai-analytics-firm-1030815362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1602054/Clearsense_Logo.jpg",
+          "width": 400,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-tesla-full-self-driving-an-overview-of-how-it-works.md",
+      "title": "Tesla Full Self-Driving: An overview of how it works",
+      "excerpt": "If there is one piece of technology that's pretty optimistic, it's Tesla's Full Self-Driving system. There are no self-driving cars on sale today, despite what \"FSD\" -- as Tesla owners and CEO Elon Musk refer to it as -- promises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/",
+      "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-overview-cost-investigation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg",
+          "width": 644,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-overview-cost-investigation/",
+      "publishedDateTime": "2021-09-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
+      "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
+      "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
+      "originalUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2021/09/University-of-Texas-taking-closer-look-at-ethical-AI.png?w=1280",
+          "width": 566,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
+      "publishedDateTime": "2021-09-22T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process.md",
+      "title": "Robots and machine learning researchers combine forces to speed up the drug development process",
+      "excerpt": "IBM Research and Arctoris are bringing the power of artificial intelligence and robotic automation to the process of developing new drugs. The two companies aim to make smarter ch",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "originalUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/21/da423e03-baee-48a1-a496-5d7b1687a678/resize/1200x/cb835c5e04a13149c7d356d4637df0e7/arctoris-ulysses-platform.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "publishedDateTime": "2021-09-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-uk-sets-out-artificial-intelligence-strategy.md",
+      "title": "UK sets out artificial intelligence strategy",
+      "excerpt": "The government has outlined artificial intelligence (AI) plans as part of a push to position the UK as a global leader in the governance of AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/uk-sets-out-artificial-intelligence-strategy-/id/5089492",
+      "originalUrl": "https://www.research-live.com/article/news/uk-sets-out-artificial-intelligence-strategy-/id/5089492",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5089492&name=uk-sets-out-artificial-intelligence-strategy-",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5089492&name=uk-sets-out-artificial-intelligence-strategy-",
+      "publishedDateTime": "2021-09-22T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-healthcare-ai-startup-endimension-raises-inr-23-cr-seed-round-from-inflection-point-ventures.md",
       "title": "Healthcare AI Startup Endimension Raises INR 2.3 Cr Seed Round From Inflection Point Ventures",
       "excerpt": "The funds raised will be utilised to acquire talent for new product development, R&D and for boosting the sales team to fuel further growth",
@@ -200,7 +444,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-and-data-lineage-in-machine-learning-experimentation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -331,7 +575,7 @@
       "originalUrl": "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -421,49 +665,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-5-ways-that-ai-is-shaping-analytics-in-2021.md",
-      "title": "5 Ways that AI is Shaping Analytics in 2021",
-      "excerpt": "It’s no shock to anyone who works with analytics and data that AI is changing everything. From automating some",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043",
-      "originalUrl": "https://www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/09/luca-bravo-XJXWbfSo2f0-unsplash.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/5-ways-that-ai-is-shaping-analytics-in-2021-02432043/amp",
-      "publishedDateTime": "2021-09-21T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -1008,203 +1209,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software.md",
-      "title": "Press Release: Deepspatial Inc. Files Patent for Artificial Intelligence Driven Retail Management Software",
-      "excerpt": "Deepspatial Inc. (CSE:DSAI) (\"Deepspatial\" or the \"Company\") is pleased to announce that it has filed patent application number 63244524 - Computer Implemented Method and System for Retail Management and Optimization with the United States Patent and Trademark Office (USPTO) for its proprietary methods of retail management with enhanced user experience for dynamic planning and decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharecast.com/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "originalUrl": "https://www.sharecast.com/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/market_reports/press-release-deepspatial-inc-files-patent-for-artificial-intelligence-driven-retail-management-software--8108547.html",
-      "publishedDateTime": "2021-09-21T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sharecast",
-        "domain": "sharecast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-three-ways-ai-is-improving-assistive-technology.md",
-      "title": "Three Ways AI Is Improving Assistive Technology",
-      "excerpt": "When implemented effectively, assistive technology can improve accessibility and quality of life for all, regardless of ability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6148b1fa82bb1bd5c2811729%2F0x0.jpg",
-          "width": 813,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/",
-      "publishedDateTime": "2021-09-21T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-technology-is-a-double-edged-sword-in-the-face-of-repressive-regimes-opinion.md",
-      "title": "Technology is a Double-edged Sword in the Face of Repressive Regimes | Opinion",
-      "excerpt": "Tech companies must be willing to do all they can to prevent authoritarian regimes from accessing and using their services, even though what we see today is quite the opposite as the Taliban has full and easy access to Facebook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
-      "originalUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1896900/people-hold-smartphones-their-hands.jpg",
-          "width": 3300,
-          "height": 2328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/technology-double-edged-sword-face-repressive-regimes-opinion-1630225?amp=1",
-      "publishedDateTime": "2021-09-21T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-oracles-new-digital-marketing-software-runs-on-ai.md",
-      "title": "Oracle’s new digital marketing software runs on AI",
-      "excerpt": "Oracle has unveiled a new system that will use artificial intelligence (AI) to help businesses automate digital marketing campaigns more effectively. Experts at the database software specialist have developed the system in an attempt to grab a larger slice of the cloud-based software market from the likes of Adobe and Salesforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "originalUrl": "https://www.techradar.com/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "publishedDateTime": "2021-09-21T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

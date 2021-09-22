@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
+      "title": "Agile Robots closes $220M Series C funding",
+      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows.md",
       "title": "How Small Businesses Can Rely On Robots As The Labor Shortage Grows",
       "excerpt": "One robot that can help business owners serving customers is Pepper, a humanoid robot originally developed by SoftBank Robotics and now equipped with new AI skills through my company ... business ready for automation? Start with the following: 1.",
@@ -1321,58 +1364,6 @@
         "Machine Learning",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-03-rpa-robotic-process-automation-can-it-help-with-mainframe-modernization.md",
-      "title": "RPA (Robotic Process Automation): Can It Help With Mainframe Modernization?",
-      "excerpt": "RPA (Robotic Process Automation) has proven to be effective in automating tedious and repetitive processes for traditional IT environments. The ROI (Return on Investment) has generally been quick and the technology can be a stepping stone to other modernization efforts,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61324debbf3bb134fb5b41cb%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/03/rpa-robotic-process-automation-can-it-help-with-mainframe-modernization/amp/",
-      "publishedDateTime": "2021-09-03T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-
 webUrl: "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic"
 type: article
 quality: 84
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Praneet Dutta’s ML Journey From Vellore To Google DeepMind"
-    excerpt: "As a wide-eyed freshman, I was unsure if I wanted to pursue an engineering job post-graduation, let alone following a path in AI research."
-    publishedDateTime: 2021-09-17T17:35:00Z
-    webUrl: "https://analyticsindiamag.com/inside-praneet-duttas-ml-journey-from-vellore-to-google-deepmind/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Inside-Praneet-Duttas-ML-Journey-From-Vellore-To-Google-DeepMind.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "DeepMind’s Bootstrapped Meta-Learning Enables Meta Learners to Teach Themselves"
     excerpt: "Learning how to learn is something most humans do well, by leveraging previous experiences to inform the learning processes for new tasks. Endowing AI systems with such abilities however remains challenging,"
     publishedDateTime: 2021-09-20T14:20:00Z

@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Inside Praneet Dutta’s ML Journey From Vellore To Google DeepMind"
-    excerpt: "As a wide-eyed freshman, I was unsure if I wanted to pursue an engineering job post-graduation, let alone following a path in AI research."
-    publishedDateTime: 2021-09-17T17:35:00Z
-    webUrl: "https://analyticsindiamag.com/inside-praneet-duttas-ml-journey-from-vellore-to-google-deepmind/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/09/Inside-Praneet-Duttas-ML-Journey-From-Vellore-To-Google-DeepMind.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "kNmn78r7EI86+0MOVyqJnDmZG0HAMWCW+LCKoUejrubPig6Lk9HgdlXs4ZuvRYKFiXLGGr4Vnanj943CzNIs14xl/EpJue0SwNmniVCiDws50ee+DOblofBV88MUnX2MG2NPndozphezDe2M4WhJNHGfJZQhB3mJXIwBo/8jDFuKiPdb9uqtsfVB/SPu0T8JyQkMpg0bJTGig2IMVOAWj1CplmIc7VL9yFqvGwqSwVpb/o11JdFNG8rUF49cBMUDuyhnr9httt4LdNVG4vFvMbKGO02aE0pGAe8nlL4jly+xIQWkMMS1W8oVUfH0M1xHWr4V+XZg4vEBHCchP/Uapt9qEbMy6k44cKi1W0wZIjKLKDRpAb2x4OusSL/bxvGd4NF6i+wKiUx7K2/OzkDFWeRHq5s1wS7CfVgrB/ebWu/melbcPqlsBwqpUXRfFTqxfRCLUOJOUmAOaDNDYOiqu2OHUx+RMNIwH8YAbiz3e8/4wX7DXaTibdXosLAdUpdoEj+e+viwRJg+juFP3FQT6A==;unI2f6TRgQkc4sj4fUnYSg=="
 ---

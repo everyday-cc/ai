@@ -39,6 +39,20 @@ related:
         width: 1350
         height: 1746
         isCached: true
+  - title: "Genesys leverages AI for automation systems to enhance customer experience"
+    excerpt: "This article features how Genesys leverages artificial intelligence for automation system to enhance customer experience with top strategies. Click here to know more on Genesys AI that has driven growth in this tech-driven market."
+    publishedDateTime: 2021-09-22T11:45:00Z
+    webUrl: "https://www.analyticsinsight.net/genesys-top-strategies-in-leveraging-ai-for-automation-in-customer-service/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/09/AI-5.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "Rue6s8kTzTq9mRjAynmQnqKfqbriWMaA7bcIxlj4B0k98gmbySFgmpb9II7rmYKbjkynflkh7EOTi7rPqQG1A+YWdzdJhefzJUhflhKQ2BZJZV7ZVst5ShYLPBxG72DF/AWZKghHpzmSoLPF6KHziHpJLtNBmdSm2t4cWdtkpi1JQGx/QTP6FgMXAhUBTtBd+CN2F1UB73sFxgCjnfUyRCOxtakVU1/Ib9pj+0LIfRcXeZx2envkf/0csOolnw8XVw1A6cXgyb/mdEutqZOymveZsecJWfDhFmtLq4MYuqNro2KcVhQSNTVJ9n6j/Di/fuMYtbclIpmoN5rH/eNwztSyl2nlpLM/Pi+9g0HMv74=;+sFvAcIDopKnq2NlWBwNGA=="
 ---

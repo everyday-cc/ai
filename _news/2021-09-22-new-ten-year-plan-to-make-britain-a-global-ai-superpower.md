@@ -6,8 +6,8 @@ publishedDateTime: 2021-09-22T08:15:00Z
 originalUrl: "https://www.gov.uk/government/news/new-ten-year-plan-to-make-britain-a-global-ai-superpower"
 webUrl: "https://www.gov.uk/government/news/new-ten-year-plan-to-make-britain-a-global-ai-superpower"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Google AI
 
 images:
   - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/131697/s960_London_Tech_Week_gov.uk.jpg"
@@ -24,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "ikbnTOZnnpTNAPatfPRUbMMlENCzKpysUFOUm2meKA5hk/cIGZbBPV/MXS/y6N4JWJOKbRp5OT6yf2DGYJYV8lWyVPZ697mQfeWouQTz3Zir6XEGiYRutDdww6HWo7rnCZq6TdM++24EOTk8mYqnjLh1xqPzzyq/s/1/iJB/MhiYlIepHd+hQFwzbs8QVJAwBwsvekgt+c53g8Dp4e7m5s1NES98i6g7QYJSxarP5mHwpOV4Zcpe7uF7nL+gKGe9ljz7YTe2JBJrpdRQjAhoPnETKnsBK1FYUq9ZB05dRGhOnQNee4VYh7KrvCX0jtbZdvzB65ne+xtzAs5tddU++ViB95vy53y6D5bZK8dgxHE=;UGzaO+yTmlQeifyfueW7IA=="
+secured: "FSAYIHUjTOn7kft8B81dObzNGc1thmc15B6znO/nARxxDBPmNIaNF4awl8Tvh1ifJdKARau18zq9LBy8GsLBO6i4VtHAJXhMExk6m7Up2w84yy52WgPCYCW0aWAr6BoSNqUqgQwSEnhLwdRT4VDNAa/zo2I3WESsKizDq/bfaJIlHF5S7j/Kvyd6p1bFqLjPc0qKZS/2eVViWoXUL5nwEHti6pN+beb/UcLbrcMjVHybYwP3+pmkMs0i3ORm2qFVP3JJCyGna8qW4fT716UJ96jXw31SY89VycOyl5wurjfPe8Q9TPg6VK5agTnf4oM2Afn+Ilu9yxQjVagQaGk5aKNcMdadJ3P6lyTevk87VZmis03U2yGgPl0qJV2D9VUhlV8Fi0bKD+OnXFzdpxAOnTaP3lpYxwylO8jIo21+UC3gKtAGi0JUHYDhyStd9hKHufqyrN7tSths7i3yxzLxGYnitSXcCiWlUjAhk2a2i8Pe+7TZe0RYM8PDflaE41DfeAADXINdHiKXrly1BwaqnQ==;rfqTssd8ESpOeNwgW0BjyA=="
 ---
 

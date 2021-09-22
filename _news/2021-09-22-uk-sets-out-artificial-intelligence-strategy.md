@@ -9,8 +9,8 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5089492&name=uk-sets-
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5089492&name=uk-sets-out-artificial-intelligence-strategy-"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: research
@@ -43,7 +43,21 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "The UK has launched its first National Artificial Intelligence Strategy"
+    excerpt: "The Government has outlined a 10-year artificial intelligence strategy in a bid to make the UK a global science superpower. Info here."
+    publishedDateTime: 2021-09-22T11:48:00Z
+    webUrl: "https://theguideliverpool.com/the-uk-has-launched-its-first-national-artificial-intelligence-strategy/"
+    type: article
+    provider:
+      name: theguideliverpool.com
+      domain: theguideliverpool.com
+    quality: 39
+    images:
+      - url: "https://theguideliverpooldo.ams3.digitaloceanspaces.com/2021/09/shutterstock_1022667853.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
-secured: "IMFPL/xn67YwtCkA5nlkC1SHPfDb4ec4tYKV4iZNRvO1jp0jERfyWplGJ2jcYwXFhv5IAH6jIUwmaYthNOfaxaCC7v2He+Ka/5vlxsd6apbN6yV+kXHkxjcGsmcCTAte1jUfMK9PCjzTYX5f3CHSI1fSL32MHbbdzBI9EDF1JkEf9Zh+5enGzPPi6F0bT25OQLk8hl9DDy70NyWr/0XhozD7VQ+sM2+mTji7JKmucW36nqjdGa9A++B/DALqurJgTf9ppCWqm4WGuGDuZwVeSYn8FMhVkDnjPaDNgnkkr60VEU3sh0doR9MsYLaf4ftRIrUfwwIKzIOyyVNSQUHtF/oBw3+azrg+aazAUuljDIs=;Y+H/UCqSpRX1ycNGD+PqWA=="
+secured: "EAsQ6IUQR9XNt7p5d7acSG0ScV6+Orw38hGR0xmzJ1wBCsIqjqC1b/+LTLxuEfTeNK/tjJ70KTWn1QzURflVQW5ftginoGJqmmIPXyv6OXYOdpAy+5akAK+GBGWyvuPABSeEnrnek/cg7yC1mmrI/35mfy1oG2KKaTZw0KpEc3U5skWpSkXY2nTHftpOWkoRGjJTEhJHp2zt4xMRDxR0XwdOJVLbSRazw/gDzpbRiG9DeQTtOxMQjL7IqQUTL03yNt2LYD5CBCGD8mht8YmMh61KiVJvxCiT1dYWhSCK7FNrY+CWi7yHXVyxZOF6wjEycgVVF8LuXDq+NBEzq7iLwIFhd/xrZzYhG5dg5zpVeqOeW+nXECxF3p5xoaRe32Z6UYZMmo9AlaCy0NNAWaAPPH5CwHgh00PwYaaOmW1adZhbxtG+Xak8bBxfAZ/5IkuxtTANjl02yQcUPVqdCwXrvJiVM6KNUdmODPJyHZLkQyC0vvQiyzPunWG7ZvVyaElKp6+H3s1pDDjVjJCGHN/5Kg==;AEnULsbTe2bjZCO2Eg7nHg=="
 ---
 

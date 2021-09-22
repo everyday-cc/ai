@@ -125,17 +125,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Speech and Voice Recognition Market 2021 Future Set to Massive Growth with High CAGR value Forecast By 2027"
-    excerpt: "Data Bridge Market Research presents an updated and Latest Study on the Speech and Voice Recognition Market This report provides an in depth study of the market competitive situation product scope market overview opportunities driving force and market risks By"
-    publishedDateTime: 2021-09-17T17:20:00Z
-    webUrl: "https://www.openpr.com/news/2397761/speech-and-voice-recognition-market-2021-future-set-to-massive"
-    ampWebUrl: "https://www.openpr.com/amp/2397761/speech-and-voice-recognition-market-2021-future-set-to-massive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2397761/speech-and-voice-recognition-market-2021-future-set-to-massive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
 
 secured: "9jmTYuKbbjjM5AnrddB7yM9855MoQ49zD1beeKkJNzFj1bkkOQkd8EPaSl5i694ts8+JvCCtCd+VrSg9uch5C+/m7DiM+UN2vGvjp3WE1TyeQ6ZYkhbnPScS2ae5SpsUH/Hj+tEkwL91CcPhSXoPhJTk2mKZ8qSW98lCq2IMvcqXpvY+BjnQWvKVXw/cjNBAjYVBdEkcsDVyTKN9Mn6Eot+OyEKYA3UtnEyzOE8PbhHxDVE7Ur3Rugt3NDuQhEqyasMGl+eTixR4fPmstczKMg8VsR5dQ+jAQmphk+izILeEzqrRiqsGrKq8JqM0qK3mE0Xe5q4yBxHURJwm/PLk2VYwqL0oe/GTX31s9P5ILwk=;Sjf5fVFIe5ol/HFp7jdiKw=="
 ---

@@ -2,6 +2,164 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-20-4-stocks-to-benefit-from-continued-demand-for-ai.md",
+      "title": "4 Stocks to Benefit From Continued Demand for AI",
+      "excerpt": "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/386471",
+      "originalUrl": "https://www.entrepreneur.com/article/386471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386471.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care.md",
+      "title": "AI Startup Navina Leverages The Amazon Cloud To Improve Patient Care",
+      "excerpt": "But in their case, it wasn’t a cybersecurity or fintech or proptech startup, but a healthcare startup, joining the most recent thriving sector in the booming Startup Nation of Israel. The rapid digital transformation of the healthcare industry worldwide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6145eddd5d6aa1cb5c537b2d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4340%26cropY1%3D225%26cropY2%3D2667",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/amp/",
+      "publishedDateTime": "2021-09-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Natural Language Processing",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-the-disruption-of-legal-services-is-here.md",
+      "title": "The Disruption Of Legal Services Is Here",
+      "excerpt": "In the world of disruption and the promised gold rush for the companies that do the disrupting, size matters. Legal has just been low on the industry list. Its number is now up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144a30dd7fa160726fcacb8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/20/the-disruption-of-legal-services-is-here/amp/",
+      "publishedDateTime": "2021-09-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-german-gpu-sales-point-to-more-price-hikes-and-a-drop-in-availability-this-year.md",
       "title": "German GPU sales point to more price hikes and a drop in availability this year",
       "excerpt": "As we move into the later part of 2021, trends and evil rumours point to a worsening of both price and availability for GPU stock. That means it could be a while longer before the GPU shortage finally subsides and the ridiculous pricing we've been subject to fully balances out.",
@@ -54,7 +212,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -150,50 +308,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-20-new-robotics-program-focuses-on-ethics-of-artificial-intelligence.md",
-      "title": "New robotics program focuses on ethics of artificial intelligence",
-      "excerpt": "Through a new program starting next fall, UT students will create the next generation of accessible robots designed for the average person.   The new robotics program, called the Convergent, Responsible,",
-      "sourceUrl": null,
-      "webUrl": "https://thedailytexan.com/2021/09/20/new-robotics-program-focuses-on-ethics-of-artificial-intelligence/",
-      "originalUrl": "https://thedailytexan.com/2021/09/20/new-robotics-program-focuses-on-ethics-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thedailytexan.com/wp-content/uploads/2021/09/92021_EthicalRobots_Teagan.Jensen-900x506.png",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Texan",
-        "domain": "thedailytexan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-09-19-elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority.md",
       "title": "Elon Musk’s Push to Expand Tesla’s Driver Assistance to Cities Rankles a Top Safety Authority",
       "excerpt": "Tesla plans to expand access to its Full Self-Driving system and defends its technology. A safety official says more work is needed and calls the name irresponsible.",
@@ -202,7 +316,7 @@
       "originalUrl": "https://www.wsj.com/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -741,24 +855,33 @@
     {
       "path": "_news/2021-09-17-hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion.md",
       "title": "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion",
-      "excerpt": "Hinge Health, the world's #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch's three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
+      "excerpt": "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-hinge-health-acquires-most-advanced-computer-vision-technology-/2021/09/17/9451376.htm",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion/article_0ae2d9e3-a0ff-5c30-beda-db3fd09d11ef.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/8/a7/8a781877-c4e2-5795-bc6a-f62b66a436ce/6144795823a4b.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T04:08:00-07:00",
+      "publishedDateTime": "2021-09-17T04:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1116,93 +1239,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-4-bank-of-america-moonshot-investments.md",
-      "title": "4 Bank of America Moonshot Investments",
-      "excerpt": "We found a reference to just one publicly traded company that was working on an emotional AI project: Amazon Web Services. In August 2019, AWS announced an improved version of its Rekognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
-      "originalUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/01/imageforentry12-cbv.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
-      "publishedDateTime": "2021-09-16T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-global-5848-billion-radiotherapy-devices-market-2021-covid-19-growth-and-change-to-2030-researchandmarketscom.md",
-      "title": "Global $5.848 Billion Radiotherapy Devices Market 2021: COVID-19 Growth and Change to 2030 - ResearchAndMarkets.com",
-      "excerpt": "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global radiotherapy devices market is expected to grow from $5.44 billion in 2020 to $5.848 billion in 2021 at a compound annual growth rate (CAGR) of 7.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-5bb5977a5c5942a1a6314d1adaffe917",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-5bb5977a5c5942a1a6314d1adaffe917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

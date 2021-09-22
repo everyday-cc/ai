@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-27-meet-the-voice-behind-mg-astors-ai-assistant.md",
+      "title": "Meet the voice behind MG Astor's AI assistant",
+      "excerpt": "One of the highlights of the upcoming MG Astor is the personal AI assistant. MG has now revealed the voice behind this interactive robot.The carmaker has announced that the AI assistant in the upcoming",
+      "sourceUrl": null,
+      "webUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
+      "originalUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/20210826_174114.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
+      "cdnAmpWebUrl": "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/meet-voice-behind-mg-astors-ai-assistant?amp",
+      "publishedDateTime": "2021-08-26T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Team-BHP.com",
+        "domain": "team-bhp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-xiaoice-robot-users-have-ended-up-in-therapy-for-falling-in-love-with-their-artificial-intelligence.md",
       "title": "XiaoIce robot users have ended up in therapy for falling in love with their Artificial Intelligence",
       "excerpt": "XiaoIce \"will never betray me, he will always be there,\" says a female user who needed psychological therapy after falling in love with her virtual assistant with Artificial Intelligence.",
@@ -1361,49 +1404,6 @@
       "provider": {
         "name": "The Pantagraph",
         "domain": "pantagraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-us-woman-becomes-a-superwoman-for-afghan-all-girl-robotics-team-rescues-10.md",
-      "title": "US woman becomes a superwoman for Afghan all-girl robotics team, rescues 10",
-      "excerpt": "The team, consisting of young women ageing from 16 to 18 years, was scared as the Taliban took control and they were on the mind of the US woman, who previously met them in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
-      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/08/allyson.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
-      "publishedDateTime": "2021-08-20T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

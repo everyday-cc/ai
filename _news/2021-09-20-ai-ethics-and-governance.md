@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New robotics program focuses on ethics of artificial intelligence"
-    excerpt: "Through a new program starting next fall, UT students will create the next generation of accessible robots designed for the average person.   The new robotics program, called the Convergent, Responsible,"
-    publishedDateTime: 2021-09-20T00:00:00Z
-    webUrl: "https://thedailytexan.com/2021/09/20/new-robotics-program-focuses-on-ethics-of-artificial-intelligence/"
+  - title: "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech"
+    excerpt: "Timnit Gebru says regulators need to provide whistleblowers working on artificial intelligence with fresh protections backed up by tough enforcement."
+    publishedDateTime: 2021-09-20T08:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-09-20/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech"
     type: article
     provider:
-      name: The Daily Texan
-      domain: thedailytexan.com
-    quality: 86
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
     images:
-      - url: "https://thedailytexan.com/wp-content/uploads/2021/09/92021_EthicalRobots_Teagan.Jensen-900x506.png"
-        width: 900
-        height: 506
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL1NzztKqF84/v0/1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Philosophers focus on AI ethics"
     excerpt: "A new interdisciplinary initiative at Western is putting a human-interest twist on artificial intelligence (AI). Three postdoctoral associates are bringing their unique backgrounds and research interests to the classroom this year to help students better understand assumptions that underlie the use of AI and ethical conflicts posed by its use."

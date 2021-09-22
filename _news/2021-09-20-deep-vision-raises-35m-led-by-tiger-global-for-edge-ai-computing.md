@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/deep-vision-raises-35m-led-tiger-global-edge
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deep-vision-raises-35m-led-tiger-global-edge-ai-computing/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 950
     height: 534
     isCached: true
-
-related:
-  - title: "Vintra Secures $9.125 M Round of Funding, Fueling Continued Growth for AI-Powered Video Analytics Platform"
-    excerpt: "Vintra, Inc., a leading provider of AI-powered video analytics solutions, today announced a $9.125 M round of new funding, led by Morpheus Ventures with participation from Lavrock Ventures and existing investors Vertex Ventures US and"
-    publishedDateTime: 2021-09-20T17:56:00Z
-    webUrl: "https://www.lelezard.com/en/news-20005707.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 19
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "dKQWRIOk5elZqQjPLU6DXnaA+YhGLbAIv9H7uYFuViCH9YL6+7UnM6ti3uDZoHdEYNgFY4urjqxeSsROMZacVLI1RxkcaMBiygHHXhgEUlNHyiDXdFtRq2nOJ4y56/y65TCXBoyWogIV3dm9JxQKbLZRRyCHP+lvx33xkn71uEUPDv2aOCO0SZRGRYPcycuAUof+X2gTxghIPPOAo6tYZk+AGm7LX2iQbIrHzaOFcJILql0+hbCyC9qgjwYE64n4mwbbHscfYdZ+7eXVIdX5lVmxwRPrvTCiNL2xm3fNfHYvz/6kBsHCHxezRxyhoOWENAcRsdrcXsCdAzMnWWR451lDZQyPXmqekHn+nu7Z04E=;VkhsaILarjnoab8oc0V5cQ=="
 ---

@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-16-4-bank-of-america-moonshot-investments.md",
+      "title": "4 Bank of America Moonshot Investments",
+      "excerpt": "We found a reference to just one publicly traded company that was working on an emotional AI project: Amazon Web Services. In August 2019, AWS announced an improved version of its Rekognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
+      "originalUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/01/imageforentry12-cbv.jpg?w=400",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
+      "publishedDateTime": "2021-09-16T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-global-5848-billion-radiotherapy-devices-market-2021-covid-19-growth-and-change-to-2030-researchandmarketscom.md",
+      "title": "Global $5.848 Billion Radiotherapy Devices Market 2021: COVID-19 Growth and Change to 2030 - ResearchAndMarkets.com",
+      "excerpt": "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global radiotherapy devices market is expected to grow from $5.44 billion in 2020 to $5.848 billion in 2021 at a compound annual growth rate (CAGR) of 7.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-5bb5977a5c5942a1a6314d1adaffe917",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-5bb5977a5c5942a1a6314d1adaffe917",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-comparison-of-iot-services-from-aws-azure-and-gcp.md",
       "title": "Comparison Of IoT Services From AWS, Azure, And GCP",
       "excerpt": "AWS IoT Core natively integrates with other AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Sagemaker, Amazon DynamoDB, CloudWatch, Aws CloudTrail, Amazon QuickSight. AWS IoT Device Defender: AWS IoT Device Defender is another fully managed ...",
@@ -1046,92 +1133,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-world-first-for-ai-and-machine-learning-to-treat-covid-19-patients-worldwide.md",
-      "title": "World first for AI and machine learning to treat COVID-19 patients worldwide",
-      "excerpt": "Addenbrooke's Hospital in Cambridge and 20 other hospitals from across the world and healthcare technology leader NVIDIA have used artificial intelligence (AI) to predict COVID patients' oxygen needs on a global scale.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-world-ai-machine-covid-patients.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-world-ai-machine-covid-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-covidpatient.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-world-ai-machine-covid-patients.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-world-ai-machine-covid-patients.amp",
-      "publishedDateTime": "2021-09-15T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-researchers-use-master-face-to-bypass-facial-recognition.md",
-      "title": "Researchers use ‘master face’ to bypass facial recognition",
-      "excerpt": "ST. LOUIS– More and more devices are using facial recognition technology these days and some scientists in Israel say they have discovered a way to bypass a large percentage of them by",
-      "sourceUrl": null,
-      "webUrl": "https://fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/",
-      "originalUrl": "https://fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox2now.com/wp-content/uploads/sites/14/2019/09/gettyimages-1138147955.jpg?w=1280",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/amp/",
-      "publishedDateTime": "2021-09-15T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
