@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/09/22/software-ai-accelerators-ai-performa
 ampWebUrl: "https://venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1312574816.jpg?w=1200&strip=all"

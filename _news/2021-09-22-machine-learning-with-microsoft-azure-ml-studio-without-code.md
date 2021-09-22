@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-
 cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Everything Announced at Microsoft's 2021 Surface Event"
+    excerpt: "Surface hardware event saw new Surface Pro models, a new laptop with a flexible hinge, and the successor to the Surface Duo."
+    publishedDateTime: 2021-09-22T16:13:00Z
+    webUrl: "https://www.ign.com/articles/microsoft-surface-event-2021-announcements-news-products-roundup"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 41
+    images:
+      - url: "https://assets-prd.ignimgs.com/2021/09/21/content-1632248757378.jfif?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cloudflare Joins Microsoft Intelligent Security Association"
     excerpt: "Now, we can build even deeper product integrations between Cloudflare and Microsoft that will help equip organizations to tackle today's rapidly evolving cyber threats.\" Cloudflare provides security,"
     publishedDateTime: 2021-09-22T13:06:00Z
@@ -80,6 +94,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 36
+  - title: "Cloudflare Joins Microsoft Intelligent Security Association"
+    excerpt: "Cloudflare, Inc. (NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced that it has joine"
+    publishedDateTime: 2021-09-22T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210922005276/en/Cloudflare-Joins-Microsoft-Intelligent-Security-Association"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 36
   - title: "Voice And Speech Recognition Software Market Next Big Thing | Major Giants: Microsoft, Alphabet, Nuance Communications"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Voice And Speech Recognition Software Market Insights forecast to 2027 This report provides a detailed overview of key factors in the Global Voice And Speech Recognition Software"

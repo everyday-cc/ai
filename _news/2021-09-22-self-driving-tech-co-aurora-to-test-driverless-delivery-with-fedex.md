@@ -55,6 +55,36 @@ related:
         width: 1200
         height: 809
         isCached: true
+  - title: "Trucks Want Self-Driving Tech, Too. Paccar and FedEx’s New Partnership Shows Why."
+    excerpt: "Self-driving trucks are hitting U.S. roads as Paccar and FedEx launch a pilot program with autonomous driving technology company Aurora."
+    publishedDateTime: 2021-09-22T16:53:00Z
+    webUrl: "https://www.barrons.com/articles/paccar-fedex-partner-mini-waymo-aurora-51632329566"
+    ampWebUrl: "https://www.barrons.com/amp/articles/paccar-fedex-partner-mini-waymo-aurora-51632329566"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/paccar-fedex-partner-mini-waymo-aurora-51632329566"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-405175/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "FedEx partners with Aurora, Paccar for self-driving hauls between Dallas and Houston"
+    excerpt: "Autonomously enabled trucks will haul FedEx loads between Dallas and Houston on a 500-mile round trip along the I-45 corridor. Read CCJ for details."
+    publishedDateTime: 2021-09-22T16:45:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15114941/fedex-partners-with-aurora-paccar-in-texas-autonomous-hauls"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 17
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/09/FedEx_Aurora_Paccar_Announcement_Hero.614b48df3bed2.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Aurora Will Test Its Fleet of Self-Driving, Ride-Hailing Toyota Siennas in Dallas"
     excerpt: "AM\" hybrid electric minivans—short for \"Sienna Autonomo-MaaS\"—will be tested in a six-month pilot program in Dallas, Pittsburgh, the San Francisco Bay areal, and other locations. Aurora intends to deploy the vehicles on ride-hailing networks in late 2024."
     publishedDateTime: 2021-09-21T22:20:00Z
@@ -65,6 +95,6 @@ related:
       domain: dallasinnovates.com
     quality: 14
 
-secured: "6zeRPCeuickgTul44qZuFGRHClZRMshojown/4ioymre2UagzfiINQ7jcdFhjYrUFuivDM3MbEMdo/Uvjqc3+AqrwBNFPHpUwxTArOQEka8RJuxMOjlnXWqhNGNaZN1NaXlJHREkHMpnhBFMBj2OTCxFxLsFTTfZv+G8aU5cnHbmARmjsptG3nxlVwLC7W5OKrxGCZpXoMTBUjSf1lSazvD20KiE0b6oi6tfH75GaPZ7NXD1IMBXa5qXcKjliE8vR0ivIwkPzh0Pan9Jh6ETe2eAh3LaozkUzGoJu6yKDcK4Q7o5Uu7DFbsBOlA0K/ACsgODRFbYD4x9CVA8pj4i0OhHKPBQHTB6E8zzFlyfYK8=;0NTO+JHJQa6+PHQ0gg+Dfw=="
+secured: "Nb7+aOIbIMrAuE9fau5O8NM9Mt/QX1CfXZoE3QyOLdJRldOXcjxpG0ZShH+ll56FYE4z+asILFjzYlFQv7bVC89GYyhpvyu+paVjMVb8WQExqNdI8SaRP4PP57Yq8tMERSVovIZB/hRVKrgFLjS0ULGNKs3ljkv/IbTnEuWN15naUL7acIjCcpFaWtqQSyw18PWAlv5dW3xZY+lSvnMAWRbzOaFNk/1FLyPb+chgwKneaNHKfOSGk5kAvBpXZgDWO5HMdyMSea/HfjTI8Xr1+C+3At4lWuTMy1F0cRt1YqolOP4QBjwLzfjyL7LBXzyhpRfoNQdopZ5OgiI3/h/rs0tvoR3rHhwa8rzbtixS0nucv8rqpO7Gg3YsRczYBcTlIpj1R8AXAZo2nfjBD0HN+B1NYCvbmahsgg0L91OHQq0KoYR3B74knwEJoExBzL2amNtU8m2Inot7x/lECM6hVWCBsyKq+z8J2s/jYlyJXsUj1XSuFwsfRGi8wgG8A3lFkeDVD8N4jlkjGV+UJUccQg==;iJ5rsaK73fTTxQBcBksi7w=="
 ---
 

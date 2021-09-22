@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-23-cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies.md",
+      "title": "Cellino is using AI and machine learning to scale production of stem cell therapies",
+      "excerpt": "Cellino, a company developing a platform to automate stem cell production, presented today at TechCrunch Disrupt 2021 to detail how its system, which combines A.I. technology, machine learning, hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/",
+      "originalUrl": "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1133641491.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/",
+      "publishedDateTime": "2021-09-22T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-how-nvidia-open-robotics-are-improving-ros-2.md",
+      "title": "How NVIDIA, Open Robotics are improving ROS 2",
+      "excerpt": "NVIDIA and Open Robotics are enabling ROS 2 to run on Jetson processors for perception, modeling, and training to ease robotics development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/how-nvidia-open-robotics-improving-ros-2/",
+      "originalUrl": "https://www.therobotreport.com/how-nvidia-open-robotics-improving-ros-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/nvidia-ros-2.jpg",
+          "width": 1000,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast.md",
+      "title": "In The Latest AI Benchmarks, Nvidia Remains The Champ, But Qualcomm Is Rising Fast",
+      "excerpt": "NVIDIA rules the performance roost, Qualcomm demonstrates exceptional power efficiency, and Intel demonstrates the power of software. Every three months, the not-for-profit group MLCommons publishes a slew of peer-reviewed MLPerf benchmark results for deep learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61490dd8cf58c0d1dd55ed22%2F0x0.jpg",
+          "width": 1200,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/amp/",
+      "publishedDateTime": "2021-09-22T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-uk-announces-a-national-strategy-to-level-up-ai.md",
       "title": "UK announces a national strategy to ‘level up’ AI",
       "excerpt": "The UK government has announced a national AI strategy — its first dedicated package aimed at boosting the country’s capabilities in and around machine learning technologies over the longer term. It says it hopes the strategy will lead to an increase in the number and types of AIs",
@@ -62,7 +210,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/22/software-ai-accelerators-ai-performance-boost-for-free/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -102,7 +250,9 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
       ]
     },
     {
@@ -114,7 +264,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -397,7 +547,7 @@
       "originalUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -847,7 +997,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/21/09/g23046975/ai-in-automotive-transportation-global-market-outlook-2021-2026",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1078,146 +1228,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-machine-learning-with-microsoft-azure-ml-studio-without-code.md",
-      "title": "Machine Learning with Microsoft Azure ML Studio Without Code",
-      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/",
-      "originalUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210905154707/exp.jpg",
-          "width": 658,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/",
-      "publishedDateTime": "2021-09-21T18:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-axyon-ai-a-deep-learning-solutions-provider-for-asset-management-partners-dmalink.md",
-      "title": "Axyon AI, a Deep Learning Solutions Provider for Asset Management, Partners DMALINK",
-      "excerpt": "Axyon AI teams up with DMALINK as part of its goal to become one of the first \"true\" AI specialists for financial institutions..",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/09/180117-axyon-ai-a-deep-learning-solutions-provider-for-asset-management-partners-dmalink/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/09/180117-axyon-ai-a-deep-learning-solutions-provider-for-asset-management-partners-dmalink/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence-300x225.jpeg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/09/180117-axyon-ai-a-deep-learning-solutions-provider-for-asset-management-partners-dmalink/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/180117-axyon-ai-a-deep-learning-solutions-provider-for-asset-management-partners-dmalink/amp/",
-      "publishedDateTime": "2021-09-21T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-model-and-data-lineage-in-machine-learning-experimentation.md",
-      "title": "Model and data lineage in machine learning experimentation",
-      "excerpt": "Modern quantitative finance is based around the approach of pattern recognition in historical data. This approach requires teams of scientists to work in a collaborative and regulated setting in order to develop models that can be used to make trading predictions. With the growing influence of this field,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/model-and-data-lineage-in-machine-learning-experimentation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/model-and-data-lineage-in-machine-learning-experimentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T16:42:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

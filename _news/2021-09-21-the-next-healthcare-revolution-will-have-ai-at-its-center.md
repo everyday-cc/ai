@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-w
 webUrl: "https://techcrunch.com/2021/09/20/the-next-healthcare-revolution-will-have-ai-at-its-center/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Mayo Clinic CEO: Telehealth & AI are the keys to healthcare's future"
+    excerpt: "Telemedicine, hospital-at-home programs and artificial intelligence will be key to improving healthcare access and affordability in the future, according to Gianrico Farrugia, MD, president and CEO of Rochester,"
+    publishedDateTime: 2021-09-22T14:54:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/mayo-clinic-ceo-telehealth-ai-are-the-keys-to-healthcare-s-future.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/9.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "pYFWjfvN10iqQel6QfEx/kL42LvV/SSeqCg2jcLYfPksMA065O0QWEb5U5UW9xUrLb6sf+mHxukv4NcXOH0iqWW0NdCpabeecyyofY6Jm93/RJn5boCV1p0SKQ6p8sxlhT62/SMCE6hwkGqOLf2rpmDPYSzGdI8WKhEeiYOz5UUWVrALnz2niol8bltfGBACY0Jhywh0g0vamO74xp0SkpCv9CwhWF+swDNCMEWXCb2UM1uyvDRM6l7ovHonC/GoBNGNF4qIKYYcntOnz3bdK7amocL8T1K6lkf3fUDnieGHKEfscWsppYPqBD8ymem4CkrnWOt67TqBzX957ALxr5IlB2l7dY/bFay6ZQDRBGdoRUmIq779jjnhZXrqVYtOCb7HvGKSCwojSOJBIL6o6oJ6Qqu0w/8gKPC+V8DnYnI3sQ+MqgNM1fV5z/nVOLgFVlMFPcgLp+sHHeGTEgThxA32uOHOzQroktHNrLZpsLNps/h+oQucJGJt/13bx2q0Fzsz5hfJqJICVvCLB1MXyA==;OZ1+f1d/1WvMcXQ8Q4Zu8A=="
 ---

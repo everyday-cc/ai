@@ -82,6 +82,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Everything Announced at Microsoft's 2021 Surface Event"
+    excerpt: "Surface hardware event saw new Surface Pro models, a new laptop with a flexible hinge, and the successor to the Surface Duo."
+    publishedDateTime: 2021-09-22T16:13:00Z
+    webUrl: "https://www.ign.com/articles/microsoft-surface-event-2021-announcements-news-products-roundup"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 41
+    images:
+      - url: "https://assets-prd.ignimgs.com/2021/09/21/content-1632248757378.jfif?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cloudflare Joins Microsoft Intelligent Security Association"
     excerpt: "Now, we can build even deeper product integrations between Cloudflare and Microsoft that will help equip organizations to tackle today's rapidly evolving cyber threats.\" Cloudflare provides security,"
     publishedDateTime: 2021-09-22T13:06:00Z
@@ -90,6 +104,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 36
+  - title: "Cloudflare Joins Microsoft Intelligent Security Association"
+    excerpt: "Cloudflare, Inc. (NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced that it has joine"
+    publishedDateTime: 2021-09-22T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210922005276/en/Cloudflare-Joins-Microsoft-Intelligent-Security-Association"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 36
 
 secured: "DOQ9J+E0NtktdUsmE8c53lZs7RZ5TWK3ngPip5eeSkcdwYNjQCeouWIkz35WJ3G5ePZ9O1CcLDn2B8gdyIiEii4g1CuclWoYaYXwE1gfCl1FUL9a2Fiwfi4RA/Pe0CNkXfWHdMvCWkzLtF/9Trp8UZiAw/DAy81vaCwt9/3nSLQuQ8+84scD3f1At6shPc8OavZhds0lF/gyx6k3yCxhyAMMYEccJUWz1IZ0mCUIFdc5QefQFmLRIZN3FMJ6XC7uy2xJ4gHHKCr8sNj8TpC1XkOaTpnlLqQ5zQ1KXa/tOfe4SJygMnrVhiV3L7tMgVGF5jjhDaCAIhQYWZVBwcr+9JHI+WN6q712+oDQm9myiBU=;x+EelGZscm4kc/ocwKkxZQ=="

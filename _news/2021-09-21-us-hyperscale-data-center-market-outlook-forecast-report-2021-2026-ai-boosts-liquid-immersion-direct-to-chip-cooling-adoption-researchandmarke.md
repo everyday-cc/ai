@@ -55,6 +55,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Artificial Intelligence for Accounting Market Study Offering Insights on Latest Advancements, Trends and Analysis from 2021 to 2026"
+    excerpt: "Global Artificial Intelligence for Accounting Market Research Report 2021 2026 thinks about key breakdowns in the Industry with insights about the market drivers and market restrictions The report illuminates accumulating an all encompassing rundown of factual investigation for the market"
+    publishedDateTime: 2021-09-22T16:06:00Z
+    webUrl: "https://www.openpr.com/news/2403155/global-artificial-intelligence-for-accounting-market-study"
+    ampWebUrl: "https://www.openpr.com/amp/2403155/global-artificial-intelligence-for-accounting-market-study"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403155/global-artificial-intelligence-for-accounting-market-study"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
+    images:
+      - url: "https://cdn.openpr.com/U/9/U922298563_g.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Global Drone Markets Report 2021-2026: Emerging Trends Include 5G Technology, Drone-In-A-Box, Blockchain, Computer Vision, Fog Computing & IoT"
     excerpt: "The \"Global Drone Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The annual Drone Market Report"
     publishedDateTime: 2021-09-21T10:48:00Z

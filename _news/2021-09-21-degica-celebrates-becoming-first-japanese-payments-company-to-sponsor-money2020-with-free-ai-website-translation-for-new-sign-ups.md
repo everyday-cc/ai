@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Degica celebrates becoming first Japanese payments company to sponsor Money20/20 with free AI website translation for new sign-ups"
-excerpt: "Degica, an AI-powered global payments company headquartered in Tokyo, is celebrating its debut as the first Japanese fintech to"
-publishedDateTime: 2021-09-21T13:42:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/degica-celebrates-becoming-first-japanese-payments-company-to-sponsor-money2020-with-free-ai-website-translation-for-new-sign-ups-301381595.html"
-webUrl: "https://www.prnewswire.com/news-releases/degica-celebrates-becoming-first-japanese-payments-company-to-sponsor-money2020-with-free-ai-website-translation-for-new-sign-ups-301381595.html"
+excerpt: "Japanese payment company kickstarts European expansion at Money20/20 Europe, offering free, high-quality, AI-powered translation for client websites into Japanese, English and Chinese TOKYO and AMSTERDAM,"
+publishedDateTime: 2021-09-21T13:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-degica-celebrates-becoming-first-japanese-payments-company-sponsor-/2021/09/21/9453351.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-degica-celebrates-becoming-first-japanese-payments-company-sponsor-/2021/09/21/9453351.htm"
 type: article
-quality: 9
-heat: 9
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - AI in Finance
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1630867/KOMOJU_by_Degica_Logo.jpg?p=facebook"
-    width: 2609
-    height: 1366
-    isCached: true
-
-secured: "W9JiHtcMWAYpPOFU9SOrjH68QWQkgttk7AL1Yjo/CGMWav+XNxchH/E2ZP5Rl3VrAxHYVLlq7a0yFNy9bRfYY1mBIaZ7wyzUcvjO2g1oqBKzUr4oejat1Z+gbsjJkJeU5MwnOC4bvWmYnTTCfk1lD0qVjAD7smN06vp+LT2DOGltmKk/r10EC761wTfp645xSf4DeXyfAjvnw9oSbtaZ/q5o/MyZbEMgTzebgkPNR3BoFdQAjRRygoRFH59sHkSV9/Qgdfc9f/JmYI1Ei96QBKlt8e9paSc3a9dSL9/v6aO1Tbq761clCVj6IZEIYtTLWLwKmGhjVSsBGMRL4ooOaZKSVto4d2CgagjBJy8wTFE=;m5SL0H3MaJcpnMnySQsUJQ=="
+secured: "bD7a/EZbMf5Imr34NPQCe2B9d1RAr+qjuU1mcBqY5peN24vV8UhnQfhPGfIN4lLblD2uDy5T1dgBZenuJxxTfKMI9zH23j0IoXUqcnchbQy7vS39IQcU4DCaa0mufXKFJa733ootKnYHNIvUGirtRlrzmTnh9VS6wNEOd0Wtt81jU9OEumEFNchiSiiE2v1Ms8NVhDhwsFMT7SQfBmMP/SRDoF6guUd5ye4H3k5/O/XqzJwDhmgGakJquPRlgDuuseS06pckX7ziuVTS6NauA4PuYiUHlCt3v4Ym9EyiUjqQ/wzrKYPm5NoA1LazGzf1oYbt4HQPXdf0k9m1RNzGpWX4WV6ALU65t9k6P7peSGw=;dLZ2wHUqdVPAdRLD/hYu/g=="
 ---
 

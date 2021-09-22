@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/fedex-to-test-auroras-self-driving-trucks-on-dallas-to-houston-route/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -59,6 +59,36 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trucks Want Self-Driving Tech, Too. Paccar and FedEx’s New Partnership Shows Why."
+    excerpt: "Self-driving trucks are hitting U.S. roads as Paccar and FedEx launch a pilot program with autonomous driving technology company Aurora."
+    publishedDateTime: 2021-09-22T16:53:00Z
+    webUrl: "https://www.barrons.com/articles/paccar-fedex-partner-mini-waymo-aurora-51632329566"
+    ampWebUrl: "https://www.barrons.com/amp/articles/paccar-fedex-partner-mini-waymo-aurora-51632329566"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/paccar-fedex-partner-mini-waymo-aurora-51632329566"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-405175/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "FedEx partners with Aurora, Paccar for self-driving hauls between Dallas and Houston"
+    excerpt: "Autonomously enabled trucks will haul FedEx loads between Dallas and Houston on a 500-mile round trip along the I-45 corridor. Read CCJ for details."
+    publishedDateTime: 2021-09-22T16:45:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/article/15114941/fedex-partners-with-aurora-paccar-in-texas-autonomous-hauls"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 17
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/09/FedEx_Aurora_Paccar_Announcement_Hero.614b48df3bed2.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Aurora Will Test Its Fleet of Self-Driving, Ride-Hailing Toyota Siennas in Dallas"
     excerpt: "AM\" hybrid electric minivans—short for \"Sienna Autonomo-MaaS\"—will be tested in a six-month pilot program in Dallas, Pittsburgh, the San Francisco Bay areal, and other locations. Aurora intends to deploy the vehicles on ride-hailing networks in late 2024."
     publishedDateTime: 2021-09-21T22:20:00Z
@@ -69,6 +99,6 @@ related:
       domain: dallasinnovates.com
     quality: 14
 
-secured: "FE0DGolFUonNVkU2aeSAy+M/MYdm/OjUA+yFKhpdBXjj7ck0epcTPA1Vn/uvvKby9eOn0lfqnQaj9CjgTfciNI/IECT1CA8Y/sqJv6PeG5hYjfkRw5IKcQIJGVcOtAWZEjq1w7Wcgc//fCZMLQQC9HnPp7ZVtiYAsL/St7BtTr3qQMRD/cpyuGtairQkO4dYEyIcmGUujoG5HFuygqIK3yZU9VFK1DYnDhj61LBq5ziPm12DbfiMzvjInX6xi12RX3tWJEDbg5Ljhf5n60Uw0im3eM0PgXQ/IxbsmDk2QhJ1VIg1QtGB3tA+ywCdhOKaMpaBnl4QiksZe223Z9FAJ15z0QsUwnPNBdzjORCGDCM=;FA0qP8sAPUhP8rZp8lRtKg=="
+secured: "DegNw7T8jUFa5fD7DwAwBX34tkvSC+1WJ+iA1N8qqlwTuyL9/rhZtRM1ypLa1AuMdeCULgDN3EULEGTWaqhDVBkLBNTjnvrFlLiGlJXhgi/etEMjLmlwvLHy7NxWobDts12HWznPPRAh5jHsendUswwSB0f0vofsdlTacP3x6KEhLK40F6W5BHO+AJaIVOoPONJBYZW+cUPSIzBj9UL5nEBy0e+VLnwgjewgm5zrkHTlTjuuHdbpGIuFGgaxWCWamXXBZn17bKYv8RC/CD6R/fRVvK1q2Cy7oMB1rlEnD6VV1pX1dhZnXu+VNgBUA8mXOg2eW4/TSEk8pE04ZdVSSGu14xhzASSVb6p6vTE0Q8uWiW67jq47OkYw2NeJLraWknGo8GpNAQOVvsGDGLYSxE/uSr7BolpOIumPPfO/zZ5DmZxmpbQpR82WdgEw7YNFMIqJV3RJYQBEkAEhAULMplPk/DFb56vXk9i1LIRlHkjGFbkzGHhLop13RKxme3RDY9nXv1t0Q7uswVUWgYtbrA==;ZvZIaNLDLMvLZljpnLmxGQ=="
 ---
 

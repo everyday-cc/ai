@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 fintech startups that made a splash at FinovateFall"
-    excerpt: "Fintech startups are increasingly leaning on automation and artificial intelligence (AI) to develop new technologies for financial services institutions as lenders look to increase efficiencies across their organizations."
-    publishedDateTime: 2021-09-18T00:00:00Z
-    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/5-fintech-startups-that-made-a-splash-at-finovatefall/"
-    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/5-fintech-startups-that-made-a-splash-at-finovatefall/amp/"
-    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/5-fintech-startups-that-made-a-splash-at-finovatefall/amp/"
-    type: article
-    provider:
-      name: Auto Finance News
-      domain: autofinancenews.net
-    quality: 44
-    images:
-      - url: "https://www.autofinancenews.net/wp-content/uploads/2021/03/canstockphoto37868437-1024x725.jpg"
-        width: 1024
-        height: 725
-        isCached: true
   - title: "M2P acquires credit card management fintech Wizi"
     excerpt: "Chennai-based M2P Fintech, also known as Yap, on Tuesday announced the acquisition of credit card-focussed fintech Wizi for an undisclosed sum. M2P, an application programming interface (API) infrastructure company,"
     publishedDateTime: 2021-09-21T08:31:00Z
@@ -57,45 +41,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Will Smith Backs $4 Million Funded Fintech Startup to Take on Wall Street, Arm Investors with Better Insights"
-    excerpt: "Front, a strategic investment platform and companion app to Robinhood, Coinbase, Stash, and more that helps guide better"
-    publishedDateTime: 2021-09-21T18:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/09/n23038372/will-smith-backs-4-million-funded-fintech-startup-to-take-on-wall-street-arm-investors-with-better"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23038372"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23038372"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Here's what Mitt Romney says makes Utah a great place for fintech companies"
-    excerpt: "Utah Sen. Mitt Romney said that businesses, especially innovative businesses like those in fintech, come to Utah for four reasons."
-    publishedDateTime: 2021-09-18T00:01:00Z
-    webUrl: "https://www.ksl.com/article/50244015/heres-what-mitt-romney-says-makes-utah-a-great-place-for-fintech-companies"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 22
-    images:
-      - url: "https://img.ksl.com/slc/2841/284186/28418601.jpeg?filter=ksl/responsive_story_lg"
-        width: 614
-        height: 345
-        isCached: true
-  - title: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
-    excerpt: "Intuit Ventures Launches to Accelerate Innovation for Early and Growth Stage Small Business and Consumer Fintech Companies"
-    publishedDateTime: 2021-09-22T15:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210922005246/en/Intuit-Ventures-Launches-to-Accelerate-Innovation-for-Early-and-Growth-Stage-Small-Business-and-Consumer-Fintech-Companies"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "qH1TTz5DxJoOIdSjyB7JmpFxcyRkRhKKZqqvARM+cwaU+llO2kfVGrB1Q9UeYNT8UX95joOBRnJTK2DyXW8/gWJjKD2tCYJBTLB0OB4Oo9Qpj4hBAcJ1erbwAgVLcAkvOPPNyzkp/Oz3mNc6xs+ibP8tDLoG9GwyCPL+i7hSLoSuLOJLRpIvjS/kFZx7+LV3y3LqUL2XDvobzvAASUIlpq+gsG3iR2xNDwb6XGmWz3abHALhwv6MHtzjILnLEvqOtDYO6OopKLDJ10WPeoJeNF03jqnOMq9hVjlXzeFjomlkWikT8gcXa9dIMGHPE5K2ItV1QDTrv1520i4N8dcj04hl4sLm7TM0E8VPLyJN9dxf6ZkIMU3t98WfLwIk4iZN8ApLvQPITLPwccYqSLy1pIJzUVljDmZbopamXo7kFqTJSmtTjCSs+12Hh2ViM5XauxTdltQnOi6ukXVvoh1fedaU4ZefjUR5fR/FsVL20BM0Vuyr1ddA3FdACfqIGtFH1Bc5Ia24qwYJ7DyrRRiQpw==;/sIlk5Zdr4ANvqXxCwSHgQ=="
 ---
