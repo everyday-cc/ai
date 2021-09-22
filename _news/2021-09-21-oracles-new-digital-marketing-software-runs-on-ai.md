@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/oracles-new-digital-marketing-sof
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "9 Powerful Ways Artificial Intelligence is Transforming Digital Marketing"
-    excerpt: "As artificial intelligence has evolved, it has found its way into more aspects of our lives – from social media to digital marketing. How AI is transforming the future of digital marketing? In this blog post,"
-    publishedDateTime: 2021-09-17T12:08:00Z
-    webUrl: "https://techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/"
-    ampWebUrl: "https://techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/9-powerful-ways-artificial-intelligence-is-transforming-digital-marketing/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 73
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/09/9-Powerful-Ways-Artificial-Intelligence-is-Transforming-Digital-Marketing.jpeg"
-        width: 1024
-        height: 500
         isCached: true
   - title: "New EMA Research Finds AI is Crucial to Modern Software Testing"
     excerpt: "Applitools announced its inclusion in new research published by Enterprise Management Associates (EMA) entitled, “Disrupting the Economics of Software Testing Through AI.”"

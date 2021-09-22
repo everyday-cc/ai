@@ -66,6 +66,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Self-Driving Taxi Market Share, Top Manufacturers, Growth Factor, Industry Size, Future Trends and Forecast till 2026"
+    excerpt: "The Self-Driving Taxi market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis,"
+    publishedDateTime: 2021-09-21T09:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-share-top-manufacturers-growth-factor-industry-size-future-trends-and-forecast-till-2026-2021-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Speakers Market Analysis by Emerging Growth Factors and Revenue Forecast to 2027 | Apple, Xiaomi, Huawei"
     excerpt: "The report titled Global Artificial Intelligence AI Speakers Market is one of the most comprehensive and important additions to QY Research s archive of market research studies It offers detailed research and analysis of key aspects of the global Artificial"
     publishedDateTime: 2021-09-21T11:35:00Z

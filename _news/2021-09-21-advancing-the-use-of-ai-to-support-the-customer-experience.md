@@ -23,6 +23,22 @@ images:
     height: 1746
     isCached: true
 
+related:
+  - title: "How Language Inequity Impacts the Customer Experience"
+    excerpt: "For businesses, language inequality can add up to missed opportunities, frustrated customers (or potential customers), and even lower profits. Prior to intelligent, AI-driven translation, it used to be difficult and costly to staff native-speaking customer ..."
+    publishedDateTime: 2021-09-22T04:51:00Z
+    webUrl: "https://customerthink.com/how-language-inequity-impacts-the-customer-experience/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 24
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/19912644_s.jpg"
+        width: 450
+        height: 330
+        isCached: true
+
 secured: "1QBis3/C0UqrDA/sRi+bP0S7P7J+lriG+1d6TlY97reQFkQ9xVzpmA0xaBRK7G9uxXkeP47FplC7j2VK4LOPfe+MZUO+Ul4FAyPrDo9TlEsNfLdQhjxnubj1VZkz3pztTLnnihFoJg94bo3bQ6oEmFk22Ag4BVNvTvWeZnvD6gkqQ9ybyig9fvmsVq/glUIrVVknrCyk3RIJZ3PDJFJu585EgMyxqmRGEdkzQEUjLYTmv7D4n+nFPY8kUkgh6m18io5SDT+Eg2eXTKZYjT70CHrCKFfdbd07+WgtvkRra9k3Iz0rTcnFmYDn/sU27GRamwMjMaLN39j5ymrql0/KBHnAtqSKSH0BXp7QPFtRr9RjZl2Hs4M0+2qnEW8+AxKkig0viuBh5aca0f9+ZCf15CyrYHi0kgvOFQOoRwwODvJxyjoSYMWTQl82q3tlLBhg5uPuq5RO8HNuQ32G6Wag8nsQ6vk6umzXSY1Y0hC3XCuhaxbVIzk40CFx8AqpZSbpY1eQE8PY/m8OUEBzsqN0bg==;Fk+v6vZNxXy/vwMJZIe20Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/model-and-data-linea
 webUrl: "https://aws.amazon.com/blogs/machine-learning/model-and-data-lineage-in-machine-learning-experimentation/"
 type: article
 quality: 91
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 768
     height: 385
     isCached: true
+
+related:
+  - title: "The Statistical Physics of Data Assimilation and Machine Learning"
+    excerpt: "This modern book provides an authoritative treatment of the field as it relates to several scientific disciplines, with a particular emphasis on recent developments from machine learning and its role in the optimisation of data assimilation. Underlying ..."
+    publishedDateTime: 2021-09-22T02:07:00Z
+    webUrl: "https://www.cambridge.org/ve/academic/subjects/physics/statistical-physics/statistical-physics-data-assimilation-and-machine-learning?format=HB&isbn=9781316519639"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 19
 
 secured: "0stWYbTNTFqgrs2jIHs8RisFg5GT9LZdwMFN/ohorUaOlN5IAYAu4AJqYQPnVRFb6JkbH13PEcgkzH4LkesMWJuGxMLIeEGyDn9zGlAfwGEnGBDQ0E5oqlSA6UyRQtOn0n9KThG1lv8QRdJQolgqFm14mSNnJOZiCBWecK/4mGPArwiRcuhyuJdSCqbOkBqHoRKSWWGwBxLeZOcOc4i8aIgylw4OULctxPvNaD2hencDeYiVFVVfe+d4QuE1mHgvPPW6RFIspVmtTVBuuxHLnYHUpQZlUKB1UJzQP6iflYB+cBf4qPvx6l/Rhl5tN4wjIj7HX0AvtzZMGdyDWaJfI2A1YB8u38zu71g5OP2gycg=;vTvVGJ9h3WpEIKGOF5tvBg=="
 ---

@@ -1,22 +1,32 @@
 ---
 category: news
 title: "4 Stocks to Benefit From Continued Demand for AI"
-excerpt: "Thanks to these conveniences, companies around the world look set to increase their spending on AI solutions. Per a report by the International Data Corporation published on Aug 4, worldwide revenues for the AI market are expected to grow 15."
-publishedDateTime: 2021-09-20T10:59:00Z
-originalUrl: "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20"
-webUrl: "https://www.nasdaq.com/articles/4-stocks-to-benefit-from-continued-demand-for-ai-2021-09-20"
+excerpt: "Companies look set to increase their spending on AI to reap its myriad benefits, making it wise to look at names like NVIDIA (NVDA), Microsoft"
+publishedDateTime: 2021-09-20T13:01:00Z
+originalUrl: "https://www.entrepreneur.com/article/386471"
+webUrl: "https://www.entrepreneur.com/article/386471"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386471.jpeg"
+    width: 635
+    height: 400
+    isCached: true
 
 related:
   - title: "5 Hot AI Stocks To Watch In The Stock Market This Week"
@@ -30,7 +40,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Tim Cook talks the need for privacy and exciting AI, AR"
+    excerpt: "After being named one of the \"titans\" in Time's list of the 100 most influential people of 2021, Apple CEO Tim Cook talked to the publication about the environment, privacy, and his excitement of AR and AI."
+    publishedDateTime: 2021-09-19T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/21/09/19/tim-cook-talks-the-need-for-privacy-and-exciting-ai-ar"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 37
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/44520-86461-42624-82694-000-lead-Tim-Cook-xl-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "hgz3/KT3fD5qAcqOBaIZfmiPDGyO5wpLVu0dZolfkOnqDIZyHXye50qyt+y0qqNLv5BAdXB2/eAbclSqWgJ2cOg10Z3Ypzvd/4XIjNj+YQPp9gAuA7qWoUB2LYlgpe/BCdskaaJ7h2B7nNjIV3y+lMNSF6JjqgqBlvq+gJ5Fm9WK3qmXiNNigLYZiCGscMwQjCszTyGV7r7np1a/BA1hoWDH5gYqxqVq1tLuSWMhDTUgyMiRCQXeVs0+z1tuX+Aa4ebIdLz6mOK6V14xoQW61Ru1+2foJ8ZIgOXYqQVoNXLBe2NpD8bP7HHbJbuL45WAcLtkh4BZpIOP3n/83aDhCoFF+fgbvGD73iR/QMFTdyU=;C4zJtGX/Md8BRpbY7gKGtg=="
+secured: "1popSeAmX7/hcDLCcgJ2cROajUjjiCILFszgfWAqmwN9LVzJ57Z1gS3ryL0LFSqB+RYNXL1Cg2YolyfHzCu5q80b21Hv0ar0Hw48POyIc0shKf+Ze51q4cq7LeOTNsAIOTTw+Gkle0gMVt6w73NXfR45xvswHVR2pjvnZKCy1AUMqx9oE81sCCwGoZDA6AXC+wan+qCmNEevkBLSLS2H/yWDcxfrdKMeaWWIvhozsYA1HHsL2nA0fQ2y600jc72udCEjg7bw+a1FCFhYVKaRzIi9GQe1giaUOimMzfKuP0UduWAJQS0L74RsTfcJZwB2uDDK7iwddj/4m5YRnauXZtB7+wsac5fXWOZpt4oJgU8=;G8V8q+DwpkTpQx+Yil6u8A=="
 ---
 

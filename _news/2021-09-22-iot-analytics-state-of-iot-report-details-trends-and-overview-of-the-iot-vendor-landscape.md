@@ -87,15 +87,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 24
-  - title: "The Next Wave of Cognitive Analytics: Graph Aware Machine Learning"
-    excerpt: "In this contributed article, editorial consultant Jelani Harper discusses a number of compelling and timely topics including manifold learning, graph embeddings, and cognitive computing."
-    publishedDateTime: 2021-09-17T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/09/17/the-next-wave-of-cognitive-analytics-graph-aware-machine-learning/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
 
 secured: "bIRs9vmSQNfN6crT7tzuAvWQl9BqwRdtCUloylOmgoWWfx6fStnrfRl7DdzBHf+RhHGCnfUX1ZWGjVG0NbtADevkJ2XqW3BcPpTfiBbxaXrUo1Ov7eyvNFXtoFtgcQuOfxUuOzjem10YPo2lTUpc7NLlPEjXq2DeZ49qGeESh2Nv+YVijFno9tsHcNXoCUeuquzXIqiRawkaq0IpScZQK+ldo4zr7ogFCrkjhFVo0V1p9HSKfvEdL15QQtBGNgqAfgVIxrlyA3Bm0YeBh6KIQjFUuYqJsc3GPkiTPFPtWdKyjn0Xi9POteCtGmCmRunuMEA4xmvG/RfwTbmnKrisJzUcP4tOop87edJ7+sDdBR7S0pV1ObWvOZM3G7s8fRwVdKeeriuGnljy/HAVbu7BMY2juc2PMcSDKDcbIKIWjFk3N8Lg/8gwsAPq7fkCZfoZtVob3Izp4B7KxPayV1zO/L9ZJIvBgg/EveW/uPQftfK7sYxQVcUKHGYljfw1tbFax449kdPLpPoFqmjQaXa+bQ==;drpdVSB8NQ2qsgMg7qMX9w=="
 ---

@@ -78,15 +78,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 24
-  - title: "The Next Wave of Cognitive Analytics: Graph Aware Machine Learning"
-    excerpt: "In this contributed article, editorial consultant Jelani Harper discusses a number of compelling and timely topics including manifold learning, graph embeddings, and cognitive computing."
-    publishedDateTime: 2021-09-17T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/09/17/the-next-wave-of-cognitive-analytics-graph-aware-machine-learning/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
   - title: "IoT Analytics State of IoT report details trends and overview of the IoT vendor landscape"
     excerpt: "The 148-page State of IoT report researched by IoT Analytics highlighted recent IoT-related news stories, 100 largest IoT-related funding rounds of the last nine months, major acquisitions, the company’s input on 36 current trends,"
     publishedDateTime: 2021-09-22T01:53:00Z
