@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM, Airspan Collaborate to Launch 5G-enabled Open RAN Testbed"
+    excerpt: "IBM and Airspan Networks announced plans to collaborate on the launch of a 5G-enabled Open RAN testbed across the IBM Watson"
+    publishedDateTime: 2021-09-22T00:41:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20859-ibm-airspan-collaborate-to-launch-5g-enabled-open-ran-testbed"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/45fb7d688f7fe08116a77c2f42cca5f0.jpg?t=20210922_003855"
+        width: 752
+        height: 408
+        isCached: true
   - title: "IBM and Airspan Networks Plan to Work to Accelerate 5G-enabled Open RAN Adoption in Europe"
     excerpt: "Via IBM and Airspan’s planned testbed in Germany and France, European telco customers would have ability to trial edge applications and network slicing over long distances using 5G-enabled Open RAN The goal of developing this testbed is to help clients across Europe innovate and develop multi-vendor solutions designed to address different customer use case requirements,"
     publishedDateTime: 2021-09-21T11:09:00Z

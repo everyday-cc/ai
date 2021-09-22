@@ -27,19 +27,14 @@ images:
 
 related:
   - title: "ACI Fraud Management Incremental Learning Technology Receives Full Patent Approval"
-    excerpt: "ACI Worldwide , a leading global provider of real-time payments and digital payment software solutions, today announced that the patent for its incremental learning technology ? an innovative industry-first approach to machine learning ?"
-    publishedDateTime: 2021-09-21T06:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-20006186.html"
+    excerpt: "Innovative industry-first approach to machine learning considerably enhances fraud protection for merchants and financial institutions Incremental learning technology is an integral part of ACI Fraud Management and considerably enhances fraud protection for merchants and financial institutions."
+    publishedDateTime: 2021-09-21T01:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210920005086/aci-fraud-management-incremental-learning-technology-receives-full-patent-approval"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "kOXJSw3UEPVM7SLb+CmRD5kO9vny6MtxoEkeaBbvHR1y3EX3Gw/QVYmpE0bUc0OQGqhHyQukh2LLwsIyXIC0NVppu4Q12NDSX+m8zqMcKxPj5rl/ImgDUkxYwcWck9F8HE78B6gly0yijPNsQ33PKqCGcR0V+/+n8k6uEyt5CfnDdwYTBn4b5jbuwS8bYNwZS8ifRm4adeU9n4KfuxCjpqkwm1npIXY+JQo6RRP6CAJCRFhe777pm+N8fUTuN9UkVIdG4WMomzIaC00VXQlXQKaoBjo8za3pBz6CcUcYwwU//JBPnzGCAkkvtKN8DUE4ki/ul0A5/pJFsA4OjD/PKnNcRubM47gLUfs31G+8Tq0=;9orUy+1bQ+6ctJ3EZRmosg=="
 ---

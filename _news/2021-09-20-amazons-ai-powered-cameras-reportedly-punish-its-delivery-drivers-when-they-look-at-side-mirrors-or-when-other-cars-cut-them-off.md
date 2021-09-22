@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon’s AI is forcing delivery drivers to make dangerous decisions"
+    excerpt: "A recent expose showed off a plethora of faults in Amazon's AI surveillance system for delivery drivers. How safe are we on the roads when AI's in charge?"
+    publishedDateTime: 2021-09-21T20:24:00Z
+    webUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fbezosgold.jpg&signature=404f5f3f8f26b0d5a8a9280fa1b74f9a"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Amazon’s AI Cameras Can Punish Drivers For Not Following Instructions On The Road, New Report Says"
     excerpt: "Advertisement In early 2021, Amazon installed AI-powered cameras in its delivery vehicles in Los Angeles. Derek, a delivery driver at the facility, said his van’s camera began to falsely penalise him whenever cars cut him off,"
     publishedDateTime: 2021-09-21T17:03:00Z

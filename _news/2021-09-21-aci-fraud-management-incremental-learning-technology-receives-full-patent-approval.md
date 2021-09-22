@@ -1,28 +1,22 @@
 ---
 category: news
 title: "ACI Fraud Management Incremental Learning Technology Receives Full Patent Approval"
-excerpt: "ACI Worldwide , a leading global provider of real-time payments and digital payment software solutions, today announced that the patent for its incremental learning technology ? an innovative industry-first approach to machine learning ?"
-publishedDateTime: 2021-09-21T06:06:00Z
-originalUrl: "https://www.lelezard.com/en/news-20006186.html"
-webUrl: "https://www.lelezard.com/en/news-20006186.html"
+excerpt: "Innovative industry-first approach to machine learning considerably enhances fraud protection for merchants and financial institutions Incremental learning technology is an integral part of ACI Fraud Management and considerably enhances fraud protection for merchants and financial institutions."
+publishedDateTime: 2021-09-21T01:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210920005086/aci-fraud-management-incremental-learning-technology-receives-full-patent-approval"
+webUrl: "https://www.morningstar.com/news/business-wire/20210920005086/aci-fraud-management-incremental-learning-technology-receives-full-patent-approval"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Python and machine learning virtual course for investment management to launch next week"
@@ -40,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hx/dWH1s0nLe1Dpa7ez2GQwB3Y+pc93puFlRFhAkvvnMCnKyw/iYmgjYmPwfRjl0wZKBJIIfXSVOXivsQKOKtoZZVFa288EgH7wBzfDtn/oMin1xLdPrlPfftosNWH4kv3D2jOEs1LraWRcK+nUnn+CVe1W1hqMBATGekS/tP6ZYuIjEbvuvesMvwK55gt0yVT46Ex36te1mFtcvfyftCmTjQVWX8Xwidu2qpTtN249812f9vx0aVM6FfOFddpaziggOR9ZsoU3tSsk9/SlUHR4pU3IaWL4pvr7jR0LjijfCprva3MjwsBpMAwobwPE0qZbHOpi/OJ+UXbsVVirb2fhl3r2+zVJImlLCMHqcLqM=;yt7y1u1kOYqH7K8djEJ4ug=="
+secured: "/F2aTMXqCciTwAXLjuTqjgJBLC9GDwH0jgnxSu9npIk/MuuAdC1dYw8aVDRyaVUqypVNCsnEAmmaoHTxd4ZGFkDofu9xo28KwKuTtRcQQH38m/1HkpE93jDhpCluUb3Zd5YvxNbqiqT9nAmNms4uiJG3LUaEREGoILzAYxvqF7KI42d3byLJN8OXRHvYDXjlEkIxLbOb/D63w21tOZh6DEWKhVxyVtusWwLL1dPYAy6rZ1p0cfHG4n7ipeXO7pIlxsy4ONpLzG521RVLT4FVl3nWS8a/tWL/FUlHZVbA7rGh8nfE16dpyFr0kBlkuaWLI7TTDp1DIaSk4THXJZcT5A3fqZDG/9eZ0zjKvHB/aug=;YXQA2JAnxK5HV9Fi9pWhOA=="
 ---
 

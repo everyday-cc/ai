@@ -2,6 +2,213 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-21-edtech-startup-expertrons-raises-funding.md",
+      "title": "Edtech Startup Expertrons Raises Funding",
+      "excerpt": "Mumbai-based professional growth-focused AI videobot startup Expertrons on Tuesday announced to have raised an undisclosed sum from industry veterans Kunal Shah (founder, CRED) and Anant Maheshwari (president,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/386674",
+      "originalUrl": "https://www.entrepreneur.com/article/386674",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1632211382-LtoRJatinSolankiVivekGuptaFoundersExpertronsv1.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-machine-learning-at-the-edge-a-hardware-and-software-ecosystem.md",
+      "title": "Machine learning at the edge: A hardware and software ecosystem",
+      "excerpt": "Being able to deploy machine learning applications at the edge bears the promise of unlocking a multi-billion dollar market. For that to happen, hardware and software must work in tandem. Arm's partner ecosystem exemplifies this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "originalUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2020/12/11/573aa6b0-7e1d-432c-a6c9-6cc5a633144b/resize/1200xauto/faa21497a2f921c1733110d93cd9fac7/istock-1202641105.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-a-hardware-and-software-ecosystem/",
+      "publishedDateTime": "2021-09-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-5-unexpectedly-hot-industries-to-find-robotics-jobs.md",
+      "title": "5 unexpectedly hot industries to find robotics jobs",
+      "excerpt": "In fact, it's projected that the number of jobs in the field will grow 9% between 2016 and 2026, leading to a shortage of qualified engineers.  That's a real opportunity for new talent entering the workforce or for professionals looking to make a mid-career shift.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/5-unexpectedly-hot-industries-for-robotics-jobs/",
+      "originalUrl": "https://www.zdnet.com/article/5-unexpectedly-hot-industries-for-robotics-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/20/d5651de5-a493-47f3-b87c-094c49c24d88/resize/1200xauto/2b55260b78f9bdba8f4879cdeb9f3370/bedrock-3-4-sub-stacked-r3-carbon.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-unexpectedly-hot-industries-for-robotics-jobs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-unexpectedly-hot-industries-for-robotics-jobs/",
+      "publishedDateTime": "2021-09-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-pixel-6-live-translate-will-combine-googles-best-translation-features.md",
+      "title": "Pixel 6 Live Translate will combine Google’s best translation features",
+      "excerpt": "Although Google serves many users on many platforms, it often shows preferential treatment to Pixel phone owners. Some of those exclusive features eventually find their way to other Android",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/",
+      "originalUrl": "https://www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/09/pixel-6-live-translate-0.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-6-live-translate-will-combine-googles-best-translation-features-20691695/amp/",
+      "publishedDateTime": "2021-09-20T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-deepmind-tells-google-it-has-no-idea-how-to-make-ai-less-toxic.md",
       "title": "DeepMind tells Google it has no idea how to make AI less toxic",
       "excerpt": "Everybody's talking about toxic AI, but nobody's doing anything about. But not for lack of trying. Just why can't AI researchers fix AI's potty mouth?",
@@ -10,7 +217,7 @@
       "originalUrl": "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -62,7 +269,7 @@
       "originalUrl": "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -822,7 +1029,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/386471",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1064,197 +1271,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo.md",
-      "title": "Justice, Equity, And Fairness: Exploring The Tense Relationship Between Artificial Intelligence And The Law With Joilson Melo",
-      "excerpt": "As a law student, Melo filed a request for action in the National Council of Justice, resulting in a decision allowing citizens to file applications in court electronically, without a lawyer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6147e32b87af2b4a648476ba%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/19/justice-equity-and-fairness-exploring-the-tense-relationship-between-artificial-intelligence-and-the-law-with-joilson-melo/amp/",
-      "publishedDateTime": "2021-09-19T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-new-robotics-program-focuses-on-ethics-of-artificial-intelligence.md",
-      "title": "New robotics program focuses on ethics of artificial intelligence",
-      "excerpt": "Through a new program starting next fall, UT students will create the next generation of accessible robots designed for the average person.   The new robotics program, called the Convergent, Responsible,",
-      "sourceUrl": null,
-      "webUrl": "https://thedailytexan.com/2021/09/20/new-robotics-program-focuses-on-ethics-of-artificial-intelligence/",
-      "originalUrl": "https://thedailytexan.com/2021/09/20/new-robotics-program-focuses-on-ethics-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thedailytexan.com/wp-content/uploads/2021/09/92021_EthicalRobots_Teagan.Jensen-900x506.png",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Texan",
-        "domain": "thedailytexan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority.md",
-      "title": "Elon Musk’s Push to Expand Tesla’s Driver Assistance to Cities Rankles a Top Safety Authority",
-      "excerpt": "Tesla plans to expand access to its Full Self-Driving system and defends its technology. A safety official says more work is needed and calls the name irresponsible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
-      "originalUrl": "https://www.wsj.com/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-403222/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
-      "publishedDateTime": "2021-09-19T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-facepalm-as-researchers-crack-advanced-facial-recognition-tech-with-simple-makeup.md",
-      "title": "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup",
-      "excerpt": "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "originalUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56270/content/facial-recognition-tricked-with-makeup.jpg",
-          "width": 708,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "publishedDateTime": "2021-09-18T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

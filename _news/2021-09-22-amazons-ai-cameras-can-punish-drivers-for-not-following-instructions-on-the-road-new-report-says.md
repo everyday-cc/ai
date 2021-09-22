@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon’s AI is forcing delivery drivers to make dangerous decisions"
+    excerpt: "A recent expose showed off a plethora of faults in Amazon's AI surveillance system for delivery drivers. How safe are we on the roads when AI's in charge?"
+    publishedDateTime: 2021-09-21T20:24:00Z
+    webUrl: "https://thenextweb.com/news/amazon-ai-forcing-drivers-make-dangerous-decisions"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fbezosgold.jpg&signature=404f5f3f8f26b0d5a8a9280fa1b74f9a"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Amazon's AI-powered cameras reportedly punish its delivery drivers when they look at side mirrors or when other cars cut them off"
     excerpt: "Amazon drivers have been punished for looking at side mirrors, adjusting the radio, and being cut off in traffic by other people, Motherboard reports."
     publishedDateTime: 2021-09-20T16:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/u.s.-midstream-energy-leader-
 webUrl: "https://www.nasdaq.com/press-release/u.s.-midstream-energy-leader-adopts-cim-machine-learning-solution-to-augment-its"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+
+related:
+  - title: "Axyon AI, a Deep Learning Solutions Provider for Asset Management, Partners DMALINK"
+    excerpt: "Axyon AI teams up with DMALINK as part of its goal to become one of the first \"true\" AI specialists for financial institutions.."
+    publishedDateTime: 2021-09-22T00:25:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/09/180117-axyon-ai-a-deep-learning-solutions-provider-for-asset-management-partners-dmalink/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/09/180117-axyon-ai-a-deep-learning-solutions-provider-for-asset-management-partners-dmalink/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/180117-axyon-ai-a-deep-learning-solutions-provider-for-asset-management-partners-dmalink/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 68
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence-300x225.jpeg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "wnumHEldMgG8Sd4sCGKIG+Dt5liTnbnesVsOET0HNLIZaueXGsTqM0pzLhC9yKE5/Lza99HL2JRDmDjXxcgYRSJjIdtMi/P31lizrzUe1QBosB0vL3p4LVv0vagk7yrI2PpC5ydVgMJbWMRT0uGITc799TssnG1ZBjEqmEtUWJFwoLupOyuhxEP1X6HpiIUMVscGKyPN5PTYB1QZoOs/5so8GwsSRiRM0Tuw+6va2pJmOwN7ODjSCmX6oGb5J/l6aHgNXoc7u5g+DU7aMNoVlyNuk2c1wbiepUgkt15BkaKVQ1couG/U9wA306oO+PGf71pMvJM8xZr1DL9NsMAQLT2RSKen8npSPIutKkYXmFE=;QeOPXSOf5YprE5M2QMdafw=="
 ---

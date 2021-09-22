@@ -56,20 +56,6 @@ related:
         width: 790
         height: 320
         isCached: true
-  - title: "Enzyme researchers partner with pioneering AI company, DeepMind, in developing green solutions to combat plastic waste"
-    excerpt: "University of Portsmouth joins leading AI researchers at DeepMind to help engineer faster acting enzymes for recycling some of the worlds most polluting single use plastics University of ..."
-    publishedDateTime: 2021-09-17T07:35:00Z
-    webUrl: "https://www.politicshome.com/members/article/university-of-portsmouth-joins-leading-ai-researchers-at-deepmind-to-help-engineer-faster-acting-enzymes-for-recycling-some-of-the-worlds-most-polluting-single-use-plastics"
-    type: article
-    provider:
-      name: PoliticsHome
-      domain: politicshome.com
-    quality: 30
-    images:
-      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/img/share.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "URGmWYxGTjcgHwR3PpbhBRBsy7p2JreNyFnESAWTRWRDDipAATHi/k9qZwJMT3OvKmZTaB20m0MBdzSvb39rANg34Cxm0mOYMqjT8ST4pb+eSmzduwHz2a9LrCCVVaop46k4M5n84ZdtQmozusoXdE7Jq669scNOQTE/2/uAA6EMa8wf/XX8ZGuaELSY/09g0I9djivz+WIiR4FQbxp33Gct4Muyfbn0oMU9JN8Fvao0/0miV5qvw0VOvO0wetuXMegMPCuR5LCdTS5FIjJAzUk5G2yQStRtkNKenjWDs3Zm8lUe6NQgoasUPBR165Mt2ST/A9ANLi1Ckc+E6s0Ji5Za7OWMf0B3mpDqVE6Mv0oma91wqRRL5+PXvYXN5PWDsFp4Y3/9Qg4lDQqH152xzPVTBZdJURpCykD0Mr6g8UYkPTCJVDycZWw8M/sHS4ytLI6HH86zo4qDFHZTlFXkw/LUQznJKCQ/a5nj20LG+aLywxPxpsjKc53Gjicrbx2/IbPYq7CyDtgWGuJSa9pq8Q==;j9cfjLD06oCIiWOiLrmehg=="
 ---

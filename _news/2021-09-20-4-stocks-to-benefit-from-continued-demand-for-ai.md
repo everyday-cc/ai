@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/386471"
 webUrl: "https://www.entrepreneur.com/article/386471"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "5 Hot AI Stocks To Watch In The Stock Market This Week"
+    excerpt: "Are These The Best AI Stocks To Buy Right Now? Even with the stock market today struggling to find direction, investors could be considering tech stocks. In particular, artificial intelligence (AI) stocks would be a notable subsection of the industry now."
+    publishedDateTime: 2021-09-22T00:39:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Tim Cook talks the need for privacy and exciting AI, AR"
     excerpt: "After being named one of the \"titans\" in Time's list of the 100 most influential people of 2021, Apple CEO Tim Cook talked to the publication about the environment, privacy, and his excitement of AR and AI."
     publishedDateTime: 2021-09-19T17:17:00Z

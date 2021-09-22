@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-bra
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

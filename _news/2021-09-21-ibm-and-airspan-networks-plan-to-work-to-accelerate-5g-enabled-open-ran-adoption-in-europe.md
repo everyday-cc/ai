@@ -7,7 +7,7 @@ originalUrl: "https://www.pressreleasepoint.com/ibm-and-airspan-networks-plan-wo
 webUrl: "https://www.pressreleasepoint.com/ibm-and-airspan-networks-plan-work-accelerate-5g-enabled-open-ran-adoption-europe"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM, Airspan Collaborate to Launch 5G-enabled Open RAN Testbed"
+    excerpt: "IBM and Airspan Networks announced plans to collaborate on the launch of a 5G-enabled Open RAN testbed across the IBM Watson"
+    publishedDateTime: 2021-09-22T00:41:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20859-ibm-airspan-collaborate-to-launch-5g-enabled-open-ran-testbed"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/45fb7d688f7fe08116a77c2f42cca5f0.jpg?t=20210922_003855"
+        width: 752
+        height: 408
+        isCached: true
   - title: "IBM, Airspan Networks start 5G Open RAN testbed in Europe"
     excerpt: "IBM and Airspan Networks announced plans to collaborate on the launch of a 5G-enabled Open RAN testbed across the IBM Watson IoT Center in Munich, Germany and IBM's Global Industry Solution Center in Nice,"
     publishedDateTime: 2021-09-21T12:47:00Z

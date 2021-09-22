@@ -29,36 +29,61 @@ images:
     isCached: true
 
 related:
-  - title: "Putting the human back into the equation: Personalization and AI-driven digital banking experiences"
-    excerpt: "As more consumers turn to digital tools to manage their finances, banks must be proactive ini creating contextually-relevant experiences ."
-    publishedDateTime: 2021-09-20T20:20:00Z
-    webUrl: "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/"
-    ampWebUrl: "https://venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/20/putting-the-human-back-into-the-equation-personalization-and-ai-driven-digital-banking-experiences/amp/"
+  - title: "Machine Learning with Microsoft Azure ML Studio Without Code"
+    excerpt: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
+    publishedDateTime: 2021-09-22T01:47:00Z
+    webUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/"
+    ampWebUrl: "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
+    cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
+      name: GeeksforGeeks
+      domain: geeksforgeeks.org
+    quality: 106
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-597064809.jpg?w=1200&strip=all"
-        width: 1200
-        height: 618
+      - url: "https://media.geeksforgeeks.org/wp-content/uploads/20210905154707/exp.jpg"
+        width: 658
+        height: 430
         isCached: true
-  - title: "Machines on a Mission: 10 Fiction-Busting Facts About AI Implementation"
-    excerpt: "Thanks to the evolution of data, cloud and compute power, AI can be implemented with greater ease, for less cost and with fewer resources than ever before. Still, myths and misconceptions about this emerging technology remain."
-    publishedDateTime: 2021-09-20T21:00:00Z
-    webUrl: "https://www.govexec.com/assets/machines-mission-10-fiction-busting-facts.pdf"
+  - title: "Datawiza Adds Support for Microsoft Azure Active Directory Conditional Access to Deliver Zero Trust Security"
+    excerpt: "Datawiza, a pioneer in cloud-delivered Access Management as a Service (AMaaS), today announced support for Azure Active Directory (Azure AD) Conditional Access in its Access Management platform, making it easier and faster for joint customers"
+    publishedDateTime: 2021-09-21T13:05:00Z
+    webUrl: "https://www.lelezard.com/en/news-20007164.html"
     type: article
     provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 37
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 52
     images:
-      - url: "https://cdn.govexec.com/media/screen_shot_2021-09-20_at_4.25.16_pm.png"
-        width: 1352
-        height: 1750
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
+  - title: "Cloud Natural Language Processing Market is Going to Boom with 3M Company, Apple, Microsoft"
+    excerpt: "The Cloud Natural Language Processing Market report upholds the future market predictions with market size, revenue, production, Consumption, gross margin and other substantial factors. It also examines the role of the prominent Cloud Natural Language Processing market players including their corporate overview."
+    publishedDateTime: 2021-09-20T21:15:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271233552/cloud-natural-language-processing-market-is-going-to-boom-with-3m-company-apple-microsoft"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 46
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1631999664775.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market Next Big Thing | Major Giants: Microsoft, Alphabet, Nuance Communications"
+    excerpt: "A new business intelligence report released by Advance Market Analytics with title Global Voice And Speech Recognition Software Market Insights forecast to 2027 This report provides a detailed overview of key factors in the Global Voice And Speech Recognition Software"
+    publishedDateTime: 2021-09-21T14:45:00Z
+    webUrl: "https://www.openpr.com/news/2401275/voice-and-speech-recognition-software-market-next-big-thing"
+    ampWebUrl: "https://www.openpr.com/amp/2401275/voice-and-speech-recognition-software-market-next-big-thing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2401275/voice-and-speech-recognition-software-market-next-big-thing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
 
 secured: "RXslE/qm9zl8N/RArixxdgR0c9juc2BSRR+S1uR5pWXvJ54honkCX27VqWQdceAP0kzharci9Qr6c8h7uGc0jMrQqjdzneWQzK6JDqL9SoDPZ/IfK8yeFaSGaCZfBOtQudcydpXnIHdCoQXBStHzonm6KWmQYfH1MVjnTK2xR0YaajCcTEDZmQYTTp+KGRovRxEFPO0yCL4+NbJviAVbop8tRbAWcs68ikfdhnMjFFyi8uYMIeW2L235hPzppVp1fG7w/l6BICVOOKXNeyHU14uvnc4N+htwYepe3p4cHA/Nz3snuAPRBGiVPt/BS3lCbC9kDbAlCLi9AOVrOQwugDiw7GPuWpZlYK+CNbdv8Gd9XRf67Tldj1AwXkAXAESDPiXfxJ4YAM/k822WN6PBEorXyUfa6IGtnY8LHmWcvQlqPelJZZoS6xdcczc0a46Btp4I0aCyO3GtaVVASUt5IZ5n6XIXeagfgYrejFExd+h2xK8a44LR4guODvniIvKxeaAshCUK0Te7MKimRlfBJA==;iZwH3nT5o9jBAEFLo+ADyQ=="
 ---

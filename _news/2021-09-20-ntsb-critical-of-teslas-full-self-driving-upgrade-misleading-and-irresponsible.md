@@ -3,10 +3,10 @@ category: news
 title: "NTSB critical of Tesla’s ‘Full Self-Driving’ upgrade: ‘misleading and irresponsible’"
 excerpt: "Tesla Inc. is readying a major upgrade of its driver-assistance software. The country’s top crash investigator says the move may be premature."
 publishedDateTime: 2021-09-19T21:07:00Z
-originalUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang"
-webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619?mod=sue-chang"
+originalUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619"
+webUrl: "https://www.marketwatch.com/story/ntsb-critical-of-teslas-full-self-driving-upgrade-misleading-and-irresponsible-11632085619"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://images.mktw.net/im-367838/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "NTSB says Tesla’s Full Self-Driving beta is ‘misleading & irresponsible’ ahead of wider release"
@@ -112,6 +118,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "opG5ET0/CEcxIlx1hG19N0KbHc9wHy/o73Ec86PtIzXYq0jGTxKVpGslRCq6cjdrcCadniKIIscO19dHEe6leX/yexz8B+cnVMyl6VhRAvO/0jRJJcTDhW4aq1AsHDjN1a4j2KT6nbLurDeNdxLQbdsIKbGDMW9XMiC3SL1jezJoC2ZuYRZQdV1TWikaiWr6BTUtYzgoP/CBsQ8c4ICa7UZ5hRWZNMcs3rhHVuO97TjikgzHG/sJmEPk5YuS2WiGeiJ7ZESMmtEPrqz41uXrQwSwipwtN9rAub22BGIQ7kNxOM4OFtzYl6INRvHn7kCVEX9OoyxyEHjm7eCGlOxwAw1pD9QcWpq/wngaC5auz5iroxogZh2bjg4eesV2NClwBg+MT2S3Ke92qyf5HTJHMAAF/b7G0trp7ywCSSq1XxORrUyW6btYqUu1DiKnrvvzQTBnUmSfBlVMzctCHBhoyXJEOZ+gX6KMWdWT3a+F+81raHRaAk1Rr9zL0XOj5WP5Y6D0DexUAv0BYa6i4aWFlA==;OFlnqC9AZelQDQT8Kh1UCQ=="
+secured: "jX2VprKQGI8//rw/wg3q2i63FPgqSqaMZaeSiaf2jl8yecTylphBeirvhs/zZocT6LHqkt/2EvdPL9jluaLizojYB+REidIqy6A3NzHqBC/WP5YrWzj+W5qMuaWPFF6uYRYQBUMQBaRyJDaEapHwKBJ48KK1XR737euVWBffHIKFxHwCBucA8rmrZQOUQ634HUsv4Zvh/XvQ471eCUnDy0Zb6QncebecdRjFQfqv81sDFoHJXp3fqmcKYHlOxur1wGGBRKS+mOk/+gNUDUHGc2eItl5I1XqMa+wT4FlwIUggNJoNEFfyuFcA4BH/bBWe6ch/0t3sKUYH+vWme+Ay3PDO80v1BUHQW6njt3HApuw=;RqItPK2eEKZSo5heiryGAw=="
 ---
 
